@@ -1,4 +1,95 @@
 {
-  "lastUpdate": "2025-07-16T22:44:16.211Z",
-  "items": []
+  "lastUpdate": "2025-07-16T22:49:47.945Z",
+  "items": [
+    {
+      "id": 1,
+      "title": "Jim Cramer reviews some of the 'terrifying' ups and downs of earnings season",
+      "summary": "Jim Cramer reviews the challenges of predicting stock action during earnings season on Wall Street.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-15T22:49:18Z",
+      "url": "https://www.cnbc.com/2025/07/15/jim-cramer-reviews-the-terrifying-ups-and-downs-of-earnings-season.html"
+    },
+    {
+      "id": 2,
+      "title": "Microsoft begins testing sharing your desktop with Copilot on Windows 11 — allows AI to view and chat about what's on your screen",
+      "summary": "Microsoft is testing sharing your desktop with Copilot on Windows 11, allowing AI to view and chat about what's on your screen.",
+      "source": "Windows Central",
+      "category": "applications",
+      "timestamp": "2025-07-15T22:49:10Z",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-begins-testing-sharing-your-desktop-with-copilot-on-windows-11-allows-ai-to-view-and-chat-about-whats-on-your-screen"
+    },
+    {
+      "id": 3,
+      "title": "Zuckerberg: Top AI Talent Has 3 Asks",
+      "summary": "Mark Zuckerberg highlights the three main requests top AI researchers have when considering job opportunities, emphasizing that salary is just one aspect. The Meta CEO shared insights on attracting AI talent during an interview on The Information's TITV program.",
+      "source": "Newser",
+      "category": "research",
+      "timestamp": "2025-07-15T22:48:12Z",
+      "url": "https://www.newser.com/story/371923/zuckerberg-top-ai-talent-has-3-asks.html"
+    },
+    {
+      "id": 4,
+      "title": "Drone startup Xtend raises another $30M in funding",
+      "summary": "Drone startup Xtend raises $30M in funding led by Aliya Capital Partners and Protego Ventures for developing drone technology in the defense sector.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-15T22:47:40Z",
+      "url": "https://siliconangle.com/2025/07/15/drone-startup-xtend-raises-another-30m-funding/"
+    },
+    {
+      "id": 5,
+      "title": "OpenEvidence raises $210M on $3.5B valuation to expand AI-powered medical search and decision tools",
+      "summary": "OpenEvidence raises $210M on $3.5B valuation to expand AI-powered medical search and decision tools.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-15T22:46:49Z",
+      "url": "https://siliconangle.com/2025/07/15/openevidence-raises-210m-3-5b-valuation-expand-ai-powered-medical-search-decision-tools/"
+    },
+    {
+      "id": 6,
+      "title": "Apple researchers taught an AI model to reason about app interfaces",
+      "summary": "Apple researchers collaborated with Aalto University in Finland to create ILuvUI, an AI model trained to understand mobile app interfaces through screenshots and natural language conversations.",
+      "source": "9to5Mac",
+      "category": "research",
+      "timestamp": "2025-07-15T22:45:55Z",
+      "url": "https://9to5mac.com/2025/07/15/apple-researchers-taught-an-ai-model-to-reason-about-app-interfaces/"
+    },
+    {
+      "id": 7,
+      "title": "Show HN: Vezeto – Android app for travelers powered by AI",
+      "summary": "During travels, the Vezeto Android app for travelers powered by AI helps users find information about lesser-known attractions, especially in smaller towns, where internet information may need translation or may be lacking.",
+      "source": "Hacker News",
+      "category": "applications",
+      "timestamp": "2025-07-15T22:43:04Z",
+      "url": "https://news.ycombinator.com/item?id=44576665"
+    },
+    {
+      "id": 8,
+      "title": "Repost: Tidy RAG in R with ragnar",
+      "summary": "The ragnar package in R allows for retrieval augmented generation (RAG) for scraping text from websites and using it for various applications.",
+      "source": "R-bloggers.com",
+      "category": "applications",
+      "timestamp": "2025-07-15T22:43:00Z",
+      "url": "https://www.r-bloggers.com/2025/07/repost-tidy-rag-in-r-with-ragnar/"
+    },
+    {
+      "id": 9,
+      "title": "Strikes World’s Largest Hydropower Deal to Fuel Its AI Expansion",
+      "summary": "Strikes World’s Largest Hydropower Deal to Fuel Its AI Expansion - An error has occurred Your request was blocked by Link11 Web Application Security. If you believe this is the result of an error, contact the administrator of www.tipranks.com If you believe this is the result of an error, contact the administrator of www.ti…",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-15T22:37:47Z",
+      "url": "https://biztoc.com/x/fbfb31c53c1c7c22"
+    },
+    {
+      "id": 10,
+      "title": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunch",
+      "summary": "The Chainsmokers' Mantis Ventures has closed a $100M third fund for investing in startups.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-15T22:37:33Z",
+      "url": "https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/"
+    }
+  ]
 }
