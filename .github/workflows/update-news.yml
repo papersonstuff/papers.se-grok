@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour at :00
+    - cron: '*/15 * * * *'  # Every 15 minutes
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -17,8 +17,6 @@ jobs:
           node-version: '20'
       - name: Install dependencies
         run: npm install
-      - name: List files in workspace
-        run: ls -la
       - name: Run update script
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
@@ -29,7 +27,5 @@ jobs:
           git config user.name "Auto Update Bot"
           git config user.email "bot@papers.se"
           git add news.json
-          git commit -m "Hourly news update" || echo "No new changes to commit"
-          git push
-          git commit -m "Hourly news update" || echo "No new changes to commit"
+          git commit -m "News update every 15 minutes" || echo "No new changes to commit"
           git push
