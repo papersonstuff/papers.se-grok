@@ -1,0 +1,574 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!DOCTYPE html&gt;</p>
+<p class="p1">&lt;html lang="en"&gt;</p>
+<p class="p1">&lt;head&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta charset="UTF-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;title&gt;Papers.se - AI News Aggregator&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;style&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>* {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>box-sizing: border-box;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>:root {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--primary: #1a1a2e;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--secondary: #16213e;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--accent: #0f3460;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--highlight: #e94560;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--text-primary: #ffffff;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--text-secondary: #b8b8b8;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>--gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>body {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background-color: var(--primary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-primary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>min-height: 100vh;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>overflow-x: hidden;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Header */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>header {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: var(--secondary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>backdrop-filter: blur(10px);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-bottom: 1px solid rgba(255, 255, 255, 0.1);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>position: sticky;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>top: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>z-index: 100;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: slideDown 0.5s ease-out;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes slideDown {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>from {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(-100%);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">            </span>to {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(0);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 1;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.header-content {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>max-width: 1400px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin: 0 auto;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 1.5rem 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>justify-content: space-between;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.logo {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 800;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: var(--gradient);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>-webkit-background-clip: text;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>-webkit-text-fill-color: transparent;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: pulse 3s infinite;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes pulse {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>0%, 100% { opacity: 1; }</p>
+<p class="p1"><span class="Apple-converted-space">            </span>50% { opacity: 0.8; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.last-update {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 0.9rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-secondary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 0.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.update-indicator {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>width: 8px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>height: 8px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: #4ade80;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 50%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: blink 2s infinite;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes blink {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>0%, 100% { opacity: 1; }</p>
+<p class="p1"><span class="Apple-converted-space">            </span>50% { opacity: 0.3; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Category Tabs */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.categories {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: var(--accent);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>position: sticky;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>top: 85px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>z-index: 90;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tabs {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>max-width: 1400px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin: 0 auto;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>overflow-x: auto;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>scrollbar-width: none;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tabs::-webkit-scrollbar {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: none;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tab {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 1rem 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>cursor: pointer;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: transparent;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border: none;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-secondary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 500;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transition: all 0.3s ease;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>position: relative;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>white-space: nowrap;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tab::after {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>content: '';</p>
+<p class="p1"><span class="Apple-converted-space">            </span>position: absolute;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>bottom: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>left: 50%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>width: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>height: 3px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: var(--highlight);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transform: translateX(-50%);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transition: width 0.3s ease;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tab:hover {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-primary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: rgba(255, 255, 255, 0.05);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tab.active {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-primary);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.category-tab.active::after {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>width: 80%;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Main Content */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.container {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>max-width: 1400px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin: 0 auto;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-grid {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: grid;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: fadeIn 0.5s ease-out;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes fadeIn {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>from {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 0;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(20px);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">            </span>to {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 1;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(0);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: var(--secondary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 16px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>overflow: hidden;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transition: all 0.3s ease;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border: 1px solid rgba(255, 255, 255, 0.1);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>cursor: pointer;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: slideUp 0.5s ease-out backwards;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card:nth-child(1) { animation-delay: 0.1s; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card:nth-child(2) { animation-delay: 0.2s; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card:nth-child(3) { animation-delay: 0.3s; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card:nth-child(4) { animation-delay: 0.4s; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes slideUp {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>from {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 0;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(30px);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">            </span>to {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>opacity: 1;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>transform: translateY(0);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-card:hover {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transform: translateY(-5px);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>box-shadow: 0 10px 30px rgba(233, 69, 96, 0.3);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-color: rgba(233, 69, 96, 0.5);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-header {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: rgba(255, 255, 255, 0.03);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-source {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 0.85rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--highlight);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 500;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin-bottom: 0.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-title {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 1.25rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 600;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>line-height: 1.4;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin-bottom: 0.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-primary);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-meta {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 0.85rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-secondary);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-time {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 0.3rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-category {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 0.3rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 0.2rem 0.6rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: rgba(233, 69, 96, 0.2);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 12px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 0.8rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-content {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.news-summary {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-secondary);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>line-height: 1.6;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin-bottom: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.read-more {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--highlight);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>text-decoration: none;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 500;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>display: inline-flex;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 0.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transition: gap 0.3s ease;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.read-more:hover {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>gap: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Loading State */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.loading {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 4rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.loading-spinner {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>width: 50px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>height: 50px;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border: 3px solid rgba(255, 255, 255, 0.1);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-top-color: var(--highlight);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 50%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: spin 1s linear infinite;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin: 0 auto 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes spin {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>to { transform: rotate(360deg); }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Empty State */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.empty-state {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>padding: 4rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-secondary);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>.empty-state h3 {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-size: 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>margin-bottom: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>color: var(--text-primary);</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>/* Responsive */</p>
+<p class="p1"><span class="Apple-converted-space">        </span>@media (max-width: 768px) {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>.header-content {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>flex-direction: column;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>gap: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>.news-grid {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>grid-template-columns: 1fr;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>gap: 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>.category-tabs {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>padding: 0 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>.category-tab {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>padding: 1rem 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/style&gt;</p>
+<p class="p1">&lt;/head&gt;</p>
+<p class="p1">&lt;body&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;header&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="header-content"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;h1 class="logo"&gt;Papers.se&lt;/h1&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div class="last-update"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div class="update-indicator"&gt;&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;span id="lastUpdate"&gt;Updating...&lt;/span&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/header&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;nav class="categories"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="category-tabs" id="categoryTabs"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab active" data-category="all"&gt;All News&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="innovation"&gt;Innovation&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="research"&gt;Research&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="economy"&gt;Economy&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="ethics"&gt;Ethics&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="applications"&gt;Applications&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;button class="category-tab" data-category="startups"&gt;Startups&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/nav&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;main class="container"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;div id="newsContainer" class="news-grid"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div class="loading"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div class="loading-spinner"&gt;&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;p&gt;Fetching latest AI news...&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/main&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;script&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>// Mock data for demonstration</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const mockNewsData = [</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 1,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "OpenAI Announces New Breakthrough in Multimodal AI Understanding",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "OpenAI has unveiled a new model capable of understanding and generating content across multiple modalities simultaneously, marking a significant advancement in artificial general intelligence research.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "TechCrunch",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "innovation",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 15 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 2,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "EU Proposes Stricter Regulations for AI in Healthcare",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "The European Union is drafting new legislation that would require AI systems used in healthcare to undergo rigorous testing and certification processes before deployment.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "Reuters",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "ethics",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 30 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 3,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "AI Chip Startup Raises $500M in Series C Funding",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "A Silicon Valley startup specializing in energy-efficient AI processors has secured half a billion dollars in funding, with plans to challenge NVIDIA's dominance in the AI chip market.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "Bloomberg",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "economy",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 45 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 4,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "New Research Shows AI Can Predict Protein Structures with 99% Accuracy",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "Scientists at MIT have developed an AI system that can predict complex protein structures with unprecedented accuracy, potentially accelerating drug discovery by years.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "Nature",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "research",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 50 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 5,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "Google Launches AI-Powered Code Review Tool for Enterprises",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "Google Cloud introduces an advanced AI tool that can automatically review code, identify bugs, and suggest optimizations, promising to reduce development time by up to 30%.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "The Verge",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "applications",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 55 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>{</p>
+<p class="p1"><span class="Apple-converted-space">                </span>id: 6,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>title: "AI Startup Revolutionizes Supply Chain Management",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>summary: "A new startup is using advanced machine learning to optimize global supply chains, reducing costs and improving efficiency for major retailers.",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>source: "Forbes",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>category: "startups",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>timestamp: new Date(Date.now() - 58 * 60000),</p>
+<p class="p1"><span class="Apple-converted-space">                </span>url: "#"</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>];</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>let currentCategory = 'all';</p>
+<p class="p1"><span class="Apple-converted-space">        </span>let allNews = [];</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>// Initialize</p>
+<p class="p1"><span class="Apple-converted-space">        </span>document.addEventListener('DOMContentLoaded', () =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>setupCategoryTabs();</p>
+<p class="p1"><span class="Apple-converted-space">            </span>fetchNews();</p>
+<p class="p1"><span class="Apple-converted-space">            </span>setInterval(fetchNews, 60000); // Refresh every minute</p>
+<p class="p1"><span class="Apple-converted-space">            </span>setInterval(updateTimestamps, 60000); // Update timestamps every minute</p>
+<p class="p1"><span class="Apple-converted-space">        </span>});</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function setupCategoryTabs() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const tabs = document.querySelectorAll('.category-tab');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>tabs.forEach(tab =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>tab.addEventListener('click', () =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>tabs.forEach(t =&gt; t.classList.remove('active'));</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>tab.classList.add('active');</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>currentCategory = tab.dataset.category;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>displayNews();</p>
+<p class="p1"><span class="Apple-converted-space">                </span>});</p>
+<p class="p1"><span class="Apple-converted-space">            </span>});</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>async function fetchNews() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>// In production, this would fetch from your backend API</p>
+<p class="p1"><span class="Apple-converted-space">            </span>// For now, we'll simulate with mock data</p>
+<p class="p1"><span class="Apple-converted-space">            </span>try {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>// Simulate API call</p>
+<p class="p1"><span class="Apple-converted-space">                </span>await new Promise(resolve =&gt; setTimeout(resolve, 1000));</p>
+<p class="p2"><span class="Apple-converted-space">                </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>// In production: const response = await fetch('https://api.papers.se/news/latest');</p>
+<p class="p1"><span class="Apple-converted-space">                </span>// const data = await response.json();</p>
+<p class="p2"><span class="Apple-converted-space">                </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>allNews = mockNewsData;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>displayNews();</p>
+<p class="p1"><span class="Apple-converted-space">                </span>updateLastUpdateTime();</p>
+<p class="p1"><span class="Apple-converted-space">            </span>} catch (error) {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>console.error('Error fetching news:', error);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>showError();</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function displayNews() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const container = document.getElementById('newsContainer');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const filteredNews = currentCategory === 'all'<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>? allNews<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>: allNews.filter(news =&gt; news.category === currentCategory);</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (filteredNews.length === 0) {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>container.innerHTML = `</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;div class="empty-state"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;h3&gt;No news found&lt;/h3&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;p&gt;There are no articles in this category from the last hour.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>`;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>return;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>container.innerHTML = filteredNews.map(news =&gt; createNewsCard(news)).join('');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function createNewsCard(news) {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const timeAgo = getTimeAgo(news.timestamp);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const categoryIcon = getCategoryIcon(news.category);</p>
+<p class="p2"><span class="Apple-converted-space">            </span></p>
+<p class="p1"><span class="Apple-converted-space">            </span>return `</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;article class="news-card" onclick="window.open('${news.url}', '_blank')"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;div class="news-header"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;div class="news-source"&gt;${news.source}&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;h2 class="news-title"&gt;${news.title}&lt;/h2&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;div class="news-meta"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;span class="news-time"&gt;⏱ ${timeAgo}&lt;/span&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;span class="news-category"&gt;${categoryIcon} ${news.category}&lt;/span&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;div class="news-content"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;p class="news-summary"&gt;${news.summary}&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;a href="${news.url}" class="read-more" onclick="event.stopPropagation()"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>Read more →</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;/a&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/article&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>`;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function getTimeAgo(timestamp) {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const minutes = Math.floor((Date.now() - timestamp) / 60000);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (minutes &lt; 1) return 'Just now';</p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (minutes === 1) return '1 minute ago';</p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (minutes &lt; 60) return `${minutes} minutes ago`;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>return 'Over an hour ago';</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function getCategoryIcon(category) {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const icons = {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>innovation: '💡',</p>
+<p class="p1"><span class="Apple-converted-space">                </span>research: '🔬',</p>
+<p class="p1"><span class="Apple-converted-space">                </span>economy: '💰',</p>
+<p class="p1"><span class="Apple-converted-space">                </span>ethics: '⚖️',</p>
+<p class="p1"><span class="Apple-converted-space">                </span>applications: '⚙️',</p>
+<p class="p1"><span class="Apple-converted-space">                </span>startups: '🚀'</p>
+<p class="p1"><span class="Apple-converted-space">            </span>};</p>
+<p class="p1"><span class="Apple-converted-space">            </span>return icons[category] || '📰';</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function updateLastUpdateTime() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const now = new Date();</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const timeString = now.toLocaleTimeString('en-US', {<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>hour: '2-digit',<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>minute: '2-digit'<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space">            </span>});</p>
+<p class="p1"><span class="Apple-converted-space">            </span>document.getElementById('lastUpdate').textContent = `Last updated: ${timeString}`;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function updateTimestamps() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>displayNews(); // Re-render to update time ago displays</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>function showError() {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const container = document.getElementById('newsContainer');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>container.innerHTML = `</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div class="empty-state"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;h3&gt;Unable to fetch news&lt;/h3&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;p&gt;Please check your connection and try again.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>`;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/script&gt;</p>
+<p class="p1">&lt;/body&gt;</p>
+<p class="p1">&lt;/html&gt;</p>
+</body>
+</html>
