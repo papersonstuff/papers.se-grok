@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2025-07-16T22:17:00.402Z",
+  "lastUpdate": "2025-07-16T22:20:29.708Z",
   "items": [
     {
       "id": 1,
       "title": "Nvidia to resume sales of highly desired AI computer chips to China",
-      "summary": "Nvidia to resume sales of highly desired AI computer chips to China, CEO Jensen Huang says the technology giant has won approval from the Trump administration",
+      "summary": "Nvidia has received approval to sell AI computer chips to China, which are highly sought after, potentially boosting its sales and revenue in this market.",
       "source": "Biztoc.com",
       "category": "economy",
       "timestamp": "2025-07-15T22:15:17Z",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Interview with Mary Diaz, Entrepreneur, Writer, femme feral LLC",
-      "summary": "Interview with Mary Diaz, Entrepreneur, Writer, femme feral LLC sharing her experience in AI and copywriting, discussing her unique perspective at the intersection of technology and creativity.",
+      "summary": "Interview with Mary Diaz, Entrepreneur, Writer, femme feral LLC discussing her experience in AI and copywriting, and the unique perspective she brings to the intersection of technology and creativity.",
       "source": "Techbullion.com",
       "category": "startups",
       "timestamp": "2025-07-15T22:15:00Z",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "title": "Samsung says you should think of Galaxy Z Fold 7 as a 'trade-off' as it reconsiders S Pen support - 9to5Google",
-      "summary": "Samsung is reconsidering S Pen support on the Galaxy Z Fold 7 as a trade-off, while focusing on the future of smartphones with AI updates coming to Android on Samsung Galaxy devices.",
+      "summary": "Samsung is reconsidering S Pen support for Galaxy Z Fold 7 as a trade-off. Samsung's focus on the future of smartphones is seen as an innovation that Apple has yet to match.",
       "source": "Slashdot.org",
       "category": "applications",
       "timestamp": "2025-07-15T22:14:59Z",
@@ -31,7 +31,7 @@
     {
       "id": 4,
       "title": "KDE's Android TV Alternative, Plasma Bigscreen, Rises From the Dead",
-      "summary": "KDE's Android TV Alternative, Plasma Bigscreen, is being revived with improvements to the UI, Settings app, app launching, and key modules by contributor Devin.",
+      "summary": "KDE's TV-focused interface, Plasma Bigscreen, is being revived with new updates and improvements by contributor Devin.",
       "source": "Slashdot.org",
       "category": "innovation",
       "timestamp": "2025-07-15T22:10:00Z",
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "title": "Nvidia to resume sales of highly desired AI computer chips to China",
-      "summary": "Nvidia is set to resume sales of AI computer chips to China, resulting in a boost in the company's shares by over 4%.",
+      "summary": "Nvidia to resume sales of AI computer chips to China, resulting in shares increasing by over 4%.",
       "source": "Boston Herald",
       "category": "economy",
       "timestamp": "2025-07-15T22:08:43Z",
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "title": "Meta Bets Big on AI With First Supercluster Coming Online in 2026",
-      "summary": "Meta is investing in AI with its first supercluster, Prometheus, coming online in 2026.",
+      "summary": "Meta is investing in AI with the activation of its first supercluster, Prometheus, in 2026.",
       "source": "Yahoo Entertainment",
       "category": "innovation",
       "timestamp": "2025-07-15T22:08:00Z",
@@ -58,7 +58,7 @@
     {
       "id": 7,
       "title": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store",
-      "summary": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store, enhancing its capabilities as a fully managed Retrieval Augmented Generation (RAG) solution.",
+      "summary": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store, enhancing its capabilities as a fully managed RAG solution.",
       "source": "Amazon.com",
       "category": "innovation",
       "timestamp": "2025-07-15T22:05:53Z",
@@ -67,7 +67,7 @@
     {
       "id": 8,
       "title": "The Summer I Turned Pretty Season 3 Episode 1 – Release Date, Schedule, How To Watch",
-      "summary": "The Summer I Turned Pretty Season 3 Episode 1, which is AI-generated, is set to release on July 16 on Prime Video, allowing fans to reunite with Belly, Conrad, and Jeremiah. Despite potential inconsistencies due to the AI technology used for the voice in the show, viewers have been eagerly awaiting this new season after a two-year wait.",
+      "summary": "The Summer I Turned Pretty Season 3 Episode 1, which is AI-generated, is set to release on July 16 on Prime Video, allowing fans to reunite with Belly, Conrad, and Jeremiah. Inconsistencies may occur due to the use of AI voice technology.",
       "source": "Biztoc.com",
       "category": "applications",
       "timestamp": "2025-07-15T22:04:36Z",
@@ -85,16 +85,16 @@
     {
       "id": 10,
       "title": "AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"",
-      "summary": "AI technology is merging with finance to provide a comprehensive solution for financial analysis with Claude, changing how professionals make investment decisions.",
+      "summary": "AI-driven financial analysis tool introduced to improve market analysis and investment decision-making in finance sector",
       "source": "Anthropic.com",
-      "category": "innovation",
+      "category": "applications",
       "timestamp": "2025-07-15T22:03:50Z",
       "url": "https://www.anthropic.com/news/claude-for-financial-services"
     },
     {
       "id": 11,
       "title": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability",
-      "summary": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability for better visibility and monitoring of agentic applications.",
+      "summary": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability, providing visibility and monitoring for agentic applications built on Amazon Bedrock.",
       "source": "Amazon.com",
       "category": "applications",
       "timestamp": "2025-07-15T22:02:38Z",
@@ -103,7 +103,7 @@
     {
       "id": 12,
       "title": "Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders",
-      "summary": "Thinking Machines Lab, founded by Mira Murati and former OpenAI researchers, raises a record $2 billion, now valued at $12 billion and officially out of stealth.",
+      "summary": "Thinking Machines Lab, founded by former OpenAI researchers including Mira Murati, raised a record $2 billion, now valued at $12 billion and officially out of stealth.",
       "source": "Wired",
       "category": "startups",
       "timestamp": "2025-07-15T22:02:19Z",
@@ -112,7 +112,7 @@
     {
       "id": 13,
       "title": "Microsoft employee uses terrible AI-generated image to advertise for Xbox artists just weeks after massive layoffs",
-      "summary": "Microsoft employee uses terrible AI-generated image to advertise for Xbox artists just weeks after massive layoffs",
+      "summary": "Microsoft employee receives backlash for using poor AI-generated image in ad for Xbox artists following recent layoffs.",
       "source": "TechRadar",
       "category": "ethics",
       "timestamp": "2025-07-15T22:00:00Z",
@@ -121,7 +121,7 @@
     {
       "id": 14,
       "title": "AI cloud computing firm announces plans for $6B data center in Lancaster County",
-      "summary": "AI cloud computing firm CoreWeave announces plans for $6B data center in Lancaster County, potentially the largest single investment in the county.",
+      "summary": "AI cloud computing firm CoreWeave plans to invest $6 billion in a data center in Lancaster County, marking one of the largest single investments in the region.",
       "source": "LancasterOnline",
       "category": "economy",
       "timestamp": "2025-07-15T22:00:00Z",
