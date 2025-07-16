@@ -1,0 +1,31 @@
+name: Update News
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour at :00
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install
+      - name: Run update script
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node update-news.js
+      - name: Commit and push
+        run: |
+          git config user.name "Auto Update Bot"
+          git config user.email "bot@papers.se"
+          git add news.json
+          git commit -m "Hourly news update" || echo "No new changes to commit"
+          git push
