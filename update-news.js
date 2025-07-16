@@ -3,14 +3,15 @@ const OpenAI = require('openai');
 
 async function main() {
     try {
-        // Calculate date for last 24 hours
-        const fromDate = new Date(Date.now() - 3600000 * 24).toISOString();
+        // Calculate date for last 48 hours to get more results
+        const fromDate = new Date(Date.now() - 3600000 * 48).toISOString();
         const newsUrl = `https://newsapi.org/v2/everything?q="artificial intelligence" OR AI&from=${fromDate}&sortBy=publishedAt&language=en&pageSize=20&apiKey=${process.env.NEWSAPI_KEY}`;
         const newsResponse = await fetch(newsUrl);
         if (!newsResponse.ok) throw new Error('News API error');
         const newsData = await newsResponse.json();
         const articles = newsData.articles || [];
         console.log('Fetched articles count:', articles.length);
+        console.log('NewsAPI totalResults:', newsData.totalResults); // Debug total available
 
         const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
