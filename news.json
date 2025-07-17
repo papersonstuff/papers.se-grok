@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T14:14:36.515Z",
+  "lastUpdate": "2025-07-17T14:41:00.796Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Meta Snags Two Key OpenAI Researchers In Latest Talent Grab, Continuing Its Streak Of Poaching Top Minds For Superintelligence Ambitions",
+      "summary": "Meta Snags Two Key OpenAI Researchers In Latest Talent Grab, Continuing Its Streak Of Poaching Top Minds For Superintelligence Ambitions - There is no doubt that the AI sector seems to be seeing intense competition with companies aggressively working to establish themselves as leading the trend or advancing further in the technology. OpenAI has an ambitious approach to artificial intelligence an…",
+      "source": "Wccftech",
+      "category": "research",
+      "timestamp": "2025-07-16T14:40:05Z",
+      "url": "https://wccftech.com/meta-snags-two-key-openai-researchers-in-latest-talent-grab-continuing-its-streak-of-poaching-top-minds-for-superintelligence-ambitions/"
+    },
+    {
+      "id": 52,
+      "title": "One Man’s Fight Against His Diabetes Destiny",
+      "summary": "One man investigates whether science can help change his fate after his father developed diabetes.",
+      "source": "menshealth.com",
+      "category": "research",
+      "timestamp": "2025-07-16T14:40:00Z",
+      "url": "https://www.menshealth.com/health/a65425578/diabetes-prevention-family-history/"
+    },
+    {
+      "id": 53,
+      "title": "Our Minds Have Been Colonized: Ari Aster on “Eddington”",
+      "summary": "Director discusses the impact of doomscrolling in our lives post-2020 and explores the connection between music and violence in his work.",
+      "source": "Rogerebert.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T14:39:12Z",
+      "url": "https://www.rogerebert.com/interviews/ari-aster-eddington-interview"
+    },
+    {
+      "id": 54,
+      "title": "Tracks",
+      "summary": "Bob Ladd commented on the concept of 'track' in a conference announcement, questioning if it is a tech or AI-related term. The comment reflects curiosity about new developments and trends in the field.",
+      "source": "Upenn.edu",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:38:58Z",
+      "url": "https://languagelog.ldc.upenn.edu/nll/?p=70048"
+    },
+    {
+      "id": 55,
+      "title": "Google’s AI can now make phone calls for you",
+      "summary": "Google’s AI can now make phone calls for you - Google will now let everyone in the US call local businesses using AI. The feature, which is now available in Search, allows you to use AI for pricing or availability information without having to talk on the phone.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:37:49Z",
+      "url": "https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade"
+    },
+    {
+      "id": 56,
+      "title": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside",
+      "summary": "Research firm urges Tim Cook to step aside as Apple's stock is down 16% year to date.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:37:47Z",
+      "url": "https://fortune.com/2025/07/16/apple-tim-cook-leadership-shakeup-ai-analyst-note/"
+    },
+    {
+      "id": 57,
+      "title": "Final Epic Games Store free game for July 2025 revealed ahead of official announcement",
+      "summary": "Final Epic Games Store free game for July 2025 will be Legion TD 2, worth $24.99, as confirmed by a credible leaker ahead of official announcement.",
+      "source": "Notebookcheck.net",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:37:00Z",
+      "url": "https://www.notebookcheck.net/Final-Epic-Games-Store-free-game-for-July-2025-revealed-ahead-of-official-announcement.1059655.0.html"
+    },
+    {
+      "id": 58,
+      "title": "Synthetic Darwin and Star26 Capital Partner to Advance Defense AI",
+      "summary": "Synthetic Darwin and Star26 Capital have partnered to deploy self-evolving AI across defense tech startups, enabling rapid, secure innovation via the $DARWIN-powered Darwinslab Ecosystem.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T14:37:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116612/0/en/Synthetic-Darwin-and-Star26-Capital-Partner-to-Advance-Defense-AI.html"
+    },
+    {
+      "id": 59,
+      "title": "Elon Musk: World's richest man a year after endorsing Trump",
+      "summary": "Elon Musk, the world's richest man, initially endorsed Donald Trump's campaign and maintained a significant impact on politics despite their falling out.",
+      "source": "DW (English)",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:35:00Z",
+      "url": "https://www.dw.com/en/elon-musk-supports-trump-2025-election/a-70724719"
+    },
+    {
+      "id": 60,
+      "title": "AMD Unveils Ryzen AI 5 330 To Fuel Cheaper Copilot+ Laptops",
+      "summary": "AMD is expanding its Ryzen AI 300 series lineup of mobile processors with the addition of the entry-level model Ryzen AI 5 330, aimed at fueling cheaper Copilot+ laptops.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:35:00Z",
+      "url": "https://hothardware.com/news/amd-unveils-ryzen-ai-5-330-cheaper-copilot-laptops"
+    },
+    {
+      "id": 61,
+      "title": "Why JanSport revived its cringeworthy back-to-school ads to reach Gen Z",
+      "summary": "JanSport revived its cringeworthy back-to-school ads to reach Gen Z, with a TikTok-focused effort returning for a second year after leading to the brand’s highest grossing sales day in history.",
+      "source": "Marketing Dive",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:34:00Z",
+      "url": "https://www.marketingdive.com/news/why-jansport-revived-its-cringeworthy-back-to-school-ads-to-reach-gen-z/752901/"
+    },
+    {
+      "id": 62,
+      "title": "Two new ASUS ExpertBook P3 laptops: gentle AI features, paired with military-grade toughness",
+      "summary": "Two new ASUS ExpertBook P3 laptops, P3405 and P3605, showcase gentle AI features and military-grade toughness.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:33:35Z",
+      "url": "https://www.phonearena.com/news/two-new-asus-expertbook-p3-laptops_id172315"
+    },
+    {
+      "id": 63,
+      "title": "Technical Debt Must be Tackled, but Cloud & AI Bring their Own BCP Challenges, Says Parkview Health CISO",
+      "summary": "Technical Debt Must be Tackled, but Cloud & AI Bring their Own BCP Challenges, Says Parkview Health CISO - As health systems intensify efforts to modernize infrastructure, the risks associated with technical debt, fragmented applications, and over reliance on cloud and AI tools are becoming more pronounced.",
+      "source": "Healthsystemcio.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:33:26Z",
+      "url": "https://healthsystemcio.com/2025/07/16/technical-debt-must-be-tackled-but-cloud-ai-bring-their-own-bcp-challenges-says-parkview-health-ciso/"
+    },
+    {
+      "id": 64,
+      "title": "Fahadh Faasil still uses a minimalistic keypad phone, but what’s behind its whopping ₹10 lakh price tag?",
+      "summary": "Malayalam actor Fahadh Faasil surprised fans by using a minimalistic keypad phone worth over ₹10 lakh, which turned out to be a luxury Vertu model. Despite its basic appearance, the phone is handcrafted and holds a high price tag.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:32:49Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/fahadh-faasil-still-uses-a-minimalistic-keypad-phone-but-whats-behind-its-whopping-10-lakh-price-tag/articleshow/122578500.cms"
+    },
+    {
+      "id": 65,
+      "title": "Trump Media Seeks AI Trademarks For Its 'Non-Woke' Platform",
+      "summary": "Trump Media seeks AI trademarks to enhance Truth Social app with new features, aiming to create a self-contained media ecosystem.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:32:41Z",
+      "url": "https://biztoc.com/x/30f8fed07196208c"
+    },
+    {
+      "id": 66,
+      "title": "'Stranger Things 5' Trailer Teases an Explosive Climax",
+      "summary": "'Stranger Things 5' Trailer Teases an Explosive Climax - Voice is AI-generated. Inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:32:39Z",
+      "url": "https://biztoc.com/x/9c818e27783de27e"
+    },
+    {
+      "id": 67,
+      "title": "Tears at Where Stray Cat Has Been Going Every Day for the Past 11 Years",
+      "summary": "For over a decade, a stray cat has been coming to a house in Illinois where he is considered family, despite never stepping inside.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:32:38Z",
+      "url": "https://biztoc.com/x/680244743aaa7647"
+    },
+    {
+      "id": 68,
+      "title": "Amal Clooney Applauds 2025 King's Trust Changemakers",
+      "summary": "Amal Clooney applauds 2025 King's Trust Changemakers who are using AI-generated voices, but acknowledges that inconsistencies may occur in the technology. She highlights the story of Alice from Kenya, who refused to become a child bride, emphasizing the importance of promoting ethical AI applications.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T14:32:36Z",
+      "url": "https://biztoc.com/x/18a1740e398be003"
+    },
+    {
+      "id": 69,
+      "title": "Larry Ellison surpasses Mark Zuckerberg to become world's second-richest after Oracle doubles down on AI investment",
+      "summary": "Larry Ellison has surpassed Mark Zuckerberg to become the world's second-richest person after Oracle doubled down on AI investment, leading to a massive increase in Ellison's net worth.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:32:33Z",
+      "url": "https://biztoc.com/x/256776510d9ea737"
+    },
+    {
+      "id": 70,
+      "title": "Analysis of How the Global Power Mix Has Evolved in Recent Years and Identifies Key Trends As We Move Towards 2035",
+      "summary": "analysis of the evolution of the global power mix towards 2035, with a focus on the rise of renewable energy and its projected dominance by 2033",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-16T14:32:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116610/28124/en/Analysis-of-How-the-Global-Power-Mix-Has-Evolved-in-Recent-Years-and-Identifies-Key-Trends-As-We-Move-Towards-2035.html"
+    },
     {
       "id": 51,
       "title": "SEO’s Next Era: Manick Bhan on AI, Content Strategy, and Building a Brand That Lasts",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-16T13:44:00Z",
       "url": "https://vmblog.com:443/archive/2025/07/16/immersive-announces-ai-powered-lab-customization-feature-to-improve-cyber-skills-across-the-technical-workforce.aspx"
-    },
-    {
-      "id": 63,
-      "title": "Scientists pioneer 3D temperature mapping inside living tissue using light and AI",
-      "summary": "Scientists have pioneered a 3D temperature mapping technique inside living tissue using light and AI, allowing for precise monitoring within biological systems.",
-      "source": "Phys.Org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:42:58Z",
-      "url": "https://phys.org/news/2025-07-scientists-3d-temperature-tissue-ai.html"
-    },
-    {
-      "id": 64,
-      "title": "Nvidia CEO Jensen Huang sells another $37 million worth of stock",
-      "summary": "Nvidia CEO Jensen Huang sells an additional $37 million worth of stock, bringing his total stock sales this year to about $190 million.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:41:18Z",
-      "url": "https://www.cnbc.com/2025/07/16/nvidia-stock-ceo-jensen-huang-sale.html"
-    },
-    {
-      "id": 65,
-      "title": "Now even lower: HP’s OmniBook X Flip touchscreen 2-in-1 Copilot+ PC is back to school ready at $530 all-time low ($370 off)",
-      "summary": "HP’s OmniBook X Flip touchscreen 2-in-1 Copilot+ PC is now available for $529.99 as part of Best Buy's Back to School offers, a discount of $370 off the original price.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:41:00Z",
-      "url": "http://9to5toys.com/2025/07/16/hp-omnibook-x-flip-touchscreen-2-in-1-copilot-pc-550-all-time-low/"
-    },
-    {
-      "id": 66,
-      "title": "Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson",
-      "summary": "A biographical book about Mike Tyson, 'Baddest Man: The Making of Mike Tyson,' covers his life from birth in 1966 to 1988.",
-      "source": "Boston Herald",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:40:57Z",
-      "url": "https://www.bostonherald.com/2025/07/16/baddest-man-mike-tyson/"
-    },
-    {
-      "id": 67,
-      "title": "Stanford professor calls out the narrative of AI 'replacing' humans. Says, 'if AI takes away our dignity, something is wrong'",
-      "summary": "Stanford professor Fei-Fei Li criticizes the narrative of AI replacing humans, emphasizing that AI should augment human abilities and not undermine dignity.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-16T13:39:23Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/stanford-professor-calls-out-the-narrative-of-ai-replacing-humans-says-if-ai-takes-away-our-dignity-something-is-wrong/articleshow/122577663.cms"
-    },
-    {
-      "id": 68,
-      "title": "ZimVie (ZIMV) Announces the Launch of its RealGUIDE Software Suite and Implant Concierge Service in Japan",
-      "summary": "ZimVie Inc. (NASDAQ:ZIMV) announced the launch of its RealGUIDE Software Suite and Implant Concierge Service in Japan, positioning itself as one of the best undervalued medical device stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-16T13:39:19Z",
-      "url": "https://finance.yahoo.com/news/zimvie-zimv-announces-launch-realguide-133919928.html"
-    },
-    {
-      "id": 69,
-      "title": "timbal 0.56.0",
-      "summary": "timbal 0.56.0 is a strongly opinionated framework designed for building and orchestrating agentic AI applications.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T13:39:17Z",
-      "url": "https://pypi.org/project/timbal/0.56.0/"
-    },
-    {
-      "id": 70,
-      "title": "Needham Downgrades CONMED Corporation (CNMD) to Hold from Buy",
-      "summary": "Needham downgraded CONMED Corporation, a medical device company, to Hold from Buy on June 12.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:39:17Z",
-      "url": "https://finance.yahoo.com/news/needham-downgrades-conmed-corporation-cnmd-133917951.html"
-    },
-    {
-      "id": 51,
-      "title": "Low Poly Dwarf Factory by SKULLVERTEX",
-      "summary": "The Low Poly Dwarf Factory is a modular character package for creating customizable Dwarf models with various armor sets, weapons, and animations.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:24:14Z",
-      "url": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/low-poly-dwarf-factory-324558"
-    },
-    {
-      "id": 52,
-      "title": "Say goodbye to cryptocurrency speculation anxiety! Decryption: Get a stable daily income of $9 to $19,494 through ETHRANSACTION cloud mining",
-      "summary": "Say goodbye to cryptocurrency speculation anxiety with ETHRANSACTION cloud mining offering a stable daily income of $9 to $19,494.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:24:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116517/0/en/Say-goodbye-to-cryptocurrency-speculation-anxiety-Decryption-Get-a-stable-daily-income-of-9-to-19-494-through-ETHRANSACTION-cloud-mining.html"
-    },
-    {
-      "id": 53,
-      "title": "Fertility Tourism Global Market Analysis Report 2025-2035 | Key Players Focus on Service Quality and Patient-centered Care, Emphasizing Regional Regulations and Advanced Technology",
-      "summary": "The Fertility Tourism market is projected to grow at a CAGR of 30.8% from USD 0.92 billion in 2024 to USD 17.5 billion by 2035, driven by rising global infertility rates and diverse fertility offerings.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:24:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116519/28124/en/Fertility-Tourism-Global-Market-Analysis-Report-2025-2035-Key-Players-Focus-on-Service-Quality-and-Patient-centered-Care-Emphasizing-Regional-Regulations-and-Advanced-Technology.html"
-    },
-    {
-      "id": 54,
-      "title": "donut-ai-evaluate 0.1.3",
-      "summary": "The release of donut-ai-evaluate 0.1.3 offers Donut packages that can be used to evaluate the output of data entry and redact, providing applications for improving data quality and privacy protection.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:23:33Z",
-      "url": "https://pypi.org/project/donut-ai-evaluate/0.1.3/"
-    },
-    {
-      "id": 55,
-      "title": "RACING SPIRIT 1 by XtreemARTS",
-      "summary": "Kickstart your racing game with Racing Spirit 1, a ready to go racing framework packed with high-quality assets, smart systems and cinematic polish for an AAA race game.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:23:12Z",
-      "url": "https://assetstore.unity.com/packages/3d/vehicles/land/racing-spirit-1-325630"
-    },
-    {
-      "id": 56,
-      "title": "Meta reportedly scores two more high-profile OpenAI researchers | TechCrunch",
-      "summary": "Meta reportedly recruits two more high-profile OpenAI researchers, Jason Wei and Hyung Won Chung, to join their Superintelligence Lab as they strive to compete in the AGI race.",
-      "source": "TechCrunch",
-      "category": "research",
-      "timestamp": "2025-07-16T13:22:58Z",
-      "url": "https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/"
-    },
-    {
-      "id": 57,
-      "title": "Microsoft, US national lab tap AI to speed up nuclear power permitting process",
-      "summary": "Microsoft and the Idaho National Laboratory are using AI technology to speed up the nuclear power permitting process by generating engineering and safety analysis reports.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:21:30Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-us-national-lab-tap-ai-to-speed-up-nuclear-power-permitting-process/articleshow/122577658.cms"
-    },
-    {
-      "id": 58,
-      "title": "Intellistack Named as Headline Partner for Wales’ Largest International Tech Summit",
-      "summary": "Intellistack has been named as the Headline Partner for Wales Tech Week and its CEO, Aled Miles, has been appointed as Chairman. Intellistack, formerly Formstack, is a leader in data capture and workflow automation.",
-      "source": "Financial Post",
-      "category": "startups",
-      "timestamp": "2025-07-16T13:20:57Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/intellistack-named-as-headline-partner-for-wales-largest-international-tech-summit"
-    },
-    {
-      "id": 59,
-      "title": "INGERSOLL: ‘We Need Them To Feel Failure’: The Case For Kids Getting In Trouble",
-      "summary": "The article discusses the importance of kids experiencing failure and making mistakes, including experimenting with alcohol, drugs, and sex, in order to learn and grow.",
-      "source": "The Daily Caller",
-      "category": "ethics",
-      "timestamp": "2025-07-16T13:20:56Z",
-      "url": "https://dailycaller.com/2025/07/16/ingersoll-we-need-them-to-feel-failure-the-case-for-kids-getting-in-trouble/"
-    },
-    {
-      "id": 60,
-      "title": "knowledge-mcp 0.4.0",
-      "summary": "knowledge-mcp 0.4.0 is a MCP server that aims to bridge the gap between specialized knowledge domains and AI assistants.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:20:51Z",
-      "url": "https://pypi.org/project/knowledge-mcp/0.4.0/"
-    },
-    {
-      "id": 61,
-      "title": "Indian job seekers embrace AI: A friend, not a foe, says Naukri survey",
-      "summary": "Survey reveals 86% of Indian job seekers see AI as an ally, not a threat, with surging demand and higher salaries.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:20:12Z",
-      "url": "https://www.thehindubusinessline.com/economy/indian-job-seekers-embrace-ai-a-friend-not-a-foe-says-naukri-survey/article69818771.ece"
-    },
-    {
-      "id": 62,
-      "title": "Indian Job Seekers Embrace AI: A Friend, Not a Foe, Says Naukri Survey",
-      "summary": "Survey shows 86% of Indian job seekers embrace AI as a friend rather than a foe, leading to increased demand and higher salaries.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:20:12Z",
-      "url": "https://www.thehindubusinessline.com/news/indian-job-seekers-embrace-ai-a-friend-not-a-foe-says-naukri-survey/article69818771.ece"
     }
   ]
 }
