@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T11:50:30.316Z",
+  "lastUpdate": "2025-07-17T12:32:43.899Z",
   "items": [
+    {
+      "id": 51,
+      "title": "5 Lightroom Classic Tools That Will Cut Your Editing Time in Half",
+      "summary": "Your Lightroom Classic workflow could be moving twice as fast with AI-powered shortcuts and advanced masking techniques that eliminate hours of tedious editing work.",
+      "source": "Fstoppers",
+      "category": "applications",
+      "timestamp": "2025-07-16T12:32:01Z",
+      "url": "https://fstoppers.com/lightroom/5-lightroom-classic-tools-will-cut-your-editing-time-half-706860"
+    },
+    {
+      "id": 52,
+      "title": "EXCLUSIVE: Faraday Future Raises $105 Million To Scale FX Super One And Speed Up US EV Growth",
+      "summary": "Faraday Future Intelligent Electric has raised $105 million to scale their electric vehicle, the FX Super One, and accelerate growth in the US market.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-16T12:31:33Z",
+      "url": "https://finance.yahoo.com/news/exclusive-faraday-future-raises-105-123133290.html"
+    },
+    {
+      "id": 53,
+      "title": "Avaya's CTO David Funck on the Transformation of Contact Centers with Avaya Infinity - VMblog QA",
+      "summary": "Avaya's CTO David Funck discusses the transformation of contact centers with Avaya Infinity, focusing on the future vision for customer engagement technology.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:31:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/avaya-s-cto-david-funck-on-the-transformation-of-contact-centers-with-avaya-infinity-vmblog-qa.aspx"
+    },
+    {
+      "id": 54,
+      "title": "Why the HR Intern Shouldn’t Get Their Questions Answered by AI",
+      "summary": "Why the HR Intern Shouldn’t Get Their Questions Answered by AI - Using AI like ChatGPT for important tasks such as maternity leave classification can result in errors, showing the importance of humans double-checking AI outputs to avoid issues.",
+      "source": "Evilhrlady.org",
+      "category": "ethics",
+      "timestamp": "2025-07-16T12:30:57Z",
+      "url": "https://www.evilhrlady.org/2025/07/why-the-hr-intern-shouldnt-get-their-questions-answered-by-ai.html"
+    },
+    {
+      "id": 55,
+      "title": "Wallpaper Wednesday: More great phone wallpapers for all to share (July 16)",
+      "summary": "Android Authority shares new phone wallpapers in their Wallpaper Wednesday roundup for July 16, 2025.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-16T12:30:36Z",
+      "url": "https://www.androidauthority.com/wallpaper-wednesday-jul-16-2025-3577250/"
+    },
+    {
+      "id": 56,
+      "title": "Trump Pledges to “Bomb the S*** Out of Moscow And Beijing”",
+      "summary": "Recording surfaces of Trump threatening to bomb Moscow and Beijing, raising ethical concerns about using military action against major world powers.",
+      "source": "Shtfplan.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T12:30:10Z",
+      "url": "https://www.shtfplan.com/headline-news/trump-pledges-to-bomb-the-s-out-of-moscow-and-beijing"
+    },
+    {
+      "id": 57,
+      "title": "Lightricks’ latest release lets creators direct long-form AI-generated videos in real time",
+      "summary": "Lightricks' latest release allows creators to direct long-form AI-generated videos in real time, raising the industry standard with livestreaming capabilities.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:30:10Z",
+      "url": "https://siliconangle.com/2025/07/16/lightricks-latest-release-allows-creators-direct-longform-ai-generated-videos-real-time/"
+    },
+    {
+      "id": 58,
+      "title": "Clinch Announces “Unlimited Ad Serving” –  A New SaaS Model That Prioritises Outcomes Over Impressions",
+      "summary": "Clinch announces Unlimited Ad Serving, a new SaaS model prioritizing outcomes over impressions in omnichannel advertising.",
+      "source": "ExchangeWire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://www.exchangewire.com/blog/2025/07/16/clinch-announces-unlimited-ad-serving-a-new-saas-model-that-prioritises-outcomes-over-impressions/"
+    },
+    {
+      "id": 59,
+      "title": "What Is the Best Smart Ring for Health Tracking? I Tested 3 Popular Options to Find Out",
+      "summary": "I Tested 3 Popular Smart Rings for Health Tracking - Oura, Ultrahuman, and Evie - to determine which one provides the best health and fitness tracking during daily life and workouts.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://www.cnet.com/health/what-is-the-best-smart-ring-for-health-tracking/"
+    },
+    {
+      "id": 60,
+      "title": "LTX Video Breaks The 60-Second Barrier, Redefining AI Video As A Longform Medium",
+      "summary": "Lightricks' LTX Studio breaks the 30-second barrier in AI video, enabling real-time, longform generative storytelling with open-source access for creators.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://www.forbes.com/sites/charliefink/2025/07/16/ltx-video-breaks-the-60-second-barrier-redefining-ai-video-as-a-longform-medium/"
+    },
+    {
+      "id": 61,
+      "title": "AI Appreciation Day 2025: Enterprise Leaders Are Scaling AI Beyond the Hype to Drive Real Business Value",
+      "summary": "As we celebrate AI Appreciation Day 2025, the conversation has shifted dramatically from 'What can AI do?' to 'How do we implement AI and drive business value?'",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/ai-appreciation-day-2025-enterprise-leaders-are-scaling-ai-beyond-the-hype-to-drive-real-business-value.aspx"
+    },
+    {
+      "id": 62,
+      "title": "The Chainsmokers’ VC firm has closed a third fund worth $100m",
+      "summary": "The Chainsmokers' VC firm, Mantis VC, closes a third fund worth $100m, showing their commitment to investing in startups.",
+      "source": "Music Ally",
+      "category": "startups",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "http://musically.com/2025/07/16/the-chainsmokers-vc-firm-has-closed-a-third-fund-worth-100m/"
+    },
+    {
+      "id": 63,
+      "title": "Aware Sets Second Quarter 2025 Webcast for Wednesday, July 30, 2025, at 5:00 p.m. Eastern Time",
+      "summary": "Aware, Inc. will hold a webcast on July 30, 2025, to discuss its financial results for the second quarter of 2025.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116378/0/en/Aware-Sets-Second-Quarter-2025-Webcast-for-Wednesday-July-30-2025-at-5-00-p-m-Eastern-Time.html"
+    },
+    {
+      "id": 64,
+      "title": "iO3 Partners with Seadronix to Deliver AI-Assisted Navigation for Safer Maritime Operations",
+      "summary": "iO3 partners with Seadronix to integrate AI technology into V.Sight platform for safer maritime operations.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T12:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116384/0/en/iO3-Partners-with-Seadronix-to-Deliver-AI-Assisted-Navigation-for-Safer-Maritime-Operations.html"
+    },
+    {
+      "id": 65,
+      "title": "Employers are scrambling to cut costs and health care benefits are on the chopping block",
+      "summary": "Employers are shifting health care costs onto workers in attempts to cut costs and optimize in an employer-driven labor market.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-16T12:29:54Z",
+      "url": "https://fortune.com/2025/07/16/employers-are-scrambling-to-cut-costs-and-health-care-benefits-are-on-the-chopping-block/"
+    },
+    {
+      "id": 66,
+      "title": "Nvidia chips hacked, fall victim to Rowhammer bit-flip attacks; here’s how to secure the AI GPUs",
+      "summary": "Nvidia chips hacked, fall victim to Rowhammer bit-flip attacks; Canadian researchers discover GPU Hammer vulnerability in Nvidia A6000 GPUs, enabling sabotage of AI models.",
+      "source": "The Times of India",
+      "category": "research",
+      "timestamp": "2025-07-16T12:29:27Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-chips-hacked-fall-victim-to-rowhammer-bit-flip-attacks-heres-how-to-secure-the-ai-gpus/articleshow/122576174.cms"
+    },
+    {
+      "id": 67,
+      "title": "How AI QA Teams Are Debugging the Future of Software Quality",
+      "summary": "Software teams are using AI QA teams to improve software quality by overcoming the limitations of manual testing, such as missing edge cases and scalability issues.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T12:29:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/how-ai-qa-teams-are-debugging-the-future-of-software-quality.aspx"
+    },
+    {
+      "id": 68,
+      "title": "National Hot Dog Day 2025: The juiciest free and bargain deals happening on July 16",
+      "summary": "National Hot Dog Day 2025 will offer free and discounted hot dog deals at various restaurants like 7-Eleven and Sonic on July 16th.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T12:28:04Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/national-hot-dog-day-2025-the-juiciest-free-and-bargain-deals-happening-on-july-16/articleshow/122567168.cms"
+    },
+    {
+      "id": 69,
+      "title": "Could You Identify an AI-Generated Song?",
+      "summary": "The Velvet Sundown, a computer-generated band, is so convincing that it can be difficult to tell if their songs were created by AI or a human. However, there are five key traits that can help identify AI-generated music from human-generated music.",
+      "source": "Vulture",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:27:57Z",
+      "url": "http://www.vulture.com/article/ai-music-velvet-sundown-quiz.html"
+    },
+    {
+      "id": 70,
+      "title": "Favorite Books of Ecommerce Pros Q3 2025",
+      "summary": "Ecommerce owners share the books that have shaped their careers and outlook, promoting reading, thinking, and planning as key components of professional development.",
+      "source": "Practical Ecommerce",
+      "category": "innovation",
+      "timestamp": "2025-07-16T12:25:20Z",
+      "url": "https://www.practicalecommerce.com/favorite-books-of-ecommerce-pros-q3-2025"
+    },
     {
       "id": 51,
       "title": "NIST Releases Trove of Genetic Data to Spur Cancer Research",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-16T11:22:05Z",
       "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/mondiali-nuoto-moesha-johnson-vince-loro-ai-10-km-donne_28138770-e901-4709-8d36-12cae0991506.html"
-    },
-    {
-      "id": 62,
-      "title": "Parigi: l'arrivo di Christine Lagarde all'Eliseo",
-      "summary": "European Central Bank President Christine Lagarde arrives at the Elysee Palace in Paris for a cabinet meeting.",
-      "source": "ANSA.it",
-      "category": "economy",
-      "timestamp": "2025-07-16T11:22:01Z",
-      "url": "https://www.ansa.it/sito/photogallery/people/2025/07/16/parigi-larrivo-di-christine-lagarde-alleliseo_aefbb514-4cd4-4f7e-9e47-1bc107206b80.html"
-    },
-    {
-      "id": 63,
-      "title": "A Liverpool un murale in memoria del calciatore Diogo Jota",
-      "summary": "A mural honouring the late soccer player Diogo Jota has been painted on the side of the Halfway House pub in Liverpool, Britain.",
-      "source": "ANSA.it",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:21:56Z",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/a-liverpool-un-murale-in-memoria-del-calciatore-diogo-jota_2907ff71-3c97-4174-ad75-b68903d97f2d.html"
-    },
-    {
-      "id": 64,
-      "title": "Despite NVIDIA H20 Sales Relief, Chinese Firms Will Develop AI Chips In “Parallel,” Says Research Firm",
-      "summary": "Despite NVIDIA H20 Sales Relief, Chinese firms are encouraged to continue developing AI chips in parallel according to research firm TrendForce.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:21:55Z",
-      "url": "https://wccftech.com/despite-nvidia-h20-sales-relief-chinese-firms-will-develop-ai-chips-in-parallel-says-research-firm/"
-    },
-    {
-      "id": 65,
-      "title": "Tour de France: Mathieu Van Der Poel all'11/ma tappa",
-      "summary": "Dutch rider Mathieu Van Der Poel of Alpecin - Deceuninck team participated in the 11th stage of the Tour de France cycling race, showcasing the application of AI technology in sports performance.",
-      "source": "ANSA.it",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:21:35Z",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/tour-de-france-mathieu-van-der-poel-all11ma-tappa_d74f43fd-280f-475d-b351-7ba0af6d1eee.html"
-    },
-    {
-      "id": 66,
-      "title": "ai-graph 0.0.5",
-      "summary": "ai-graph 0.0.5 is a new AI Graph framework designed for building processing pipelines.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:21:03Z",
-      "url": "https://pypi.org/project/ai-graph/0.0.5/"
-    },
-    {
-      "id": 67,
-      "title": "Google Gemini comes to Samsung's older Galaxy Watches",
-      "summary": "Google Gemini AI has been added to Samsung's older Galaxy Watches, starting with the Watch8 series, expanding to some older models.",
-      "source": "GSMArena.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:21:02Z",
-      "url": "https://www.gsmarena.com/google_gemini_comes_to_samsungs_older_galaxy_watches_-news-68646.php"
-    },
-    {
-      "id": 68,
-      "title": "Maison Guerlain launches hand creams featuring packaging with Amcor polymer",
-      "summary": "Maison Guerlain launches hand creams with packaging made from Amcor polymer, produced at Amcor facilities in France.",
-      "source": "Packaging-gateway.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:19:32Z",
-      "url": "https://www.packaging-gateway.com/news/maison-guerlain-launches-hand-creams/"
-    },
-    {
-      "id": 69,
-      "title": "Meta patches worrying security bug which could have exposed user AI prompts and responses - and pays the bug hunter $10,000",
-      "summary": "Meta patches security bug allowing access to user AI prompts and responses, pays bug hunter $10,000. Expert warns of potential for unauthorized access to personal data.",
-      "source": "TechRadar",
-      "category": "research",
-      "timestamp": "2025-07-16T11:18:00Z",
-      "url": "https://www.techradar.com/pro/security/bug-that-would-expose-user-ai-prompts-and-responses-patched-bug-hunter-paid-usd10-000-by-meta"
-    },
-    {
-      "id": 70,
-      "title": "Stack discounts and score Lenovo’s RTX 5070 Legion 5 gaming laptop with 165Hz OLED panel for $1,299 (Save $350)",
-      "summary": "Lenovo is offering a $350 discount on its RTX 5070 Legion 5 gaming laptop as part of its Black Friday in July sale, allowing customers to purchase it for $1,299.49.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-16T11:17:57Z",
-      "url": "http://9to5toys.com/2025/07/16/lenovo-rtx-5070-legion-5-gaming-laptop-save-350/"
-    },
-    {
-      "id": 51,
-      "title": "Morning Bid: Tariff inflation irks bonds",
-      "summary": "U.S. long-bond rates have climbed above 5% due to tariff-related inflation, agitating global bond markets.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T11:12:41Z",
-      "url": "https://finance.yahoo.com/news/morning-bid-tariff-inflation-irks-111241427.html"
-    },
-    {
-      "id": 52,
-      "title": "10x Your Meetings with These 5 Simple AI Tricks",
-      "summary": "10x Your Meetings with These 5 Simple AI Tricks - What if your meetings could go from time-draining obligations to productivity powerhouses? For many teams, meetings are a necessary evil—often criticized for being too long, poorly structured, or downright unproductive.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:12:31Z",
-      "url": "https://www.geeky-gadgets.com/productive-meeting-strategies/"
-    },
-    {
-      "id": 53,
-      "title": "10 No-Brainer Warren Buffett Stocks to Buy Right Now",
-      "summary": "Warren Buffett's Berkshire Hathaway holds significant stakes in Apple, Bank of America, and Coca-Cola, providing passive income opportunities for investors in various industries.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T11:12:29Z",
-      "url": "https://biztoc.com/x/6af0cb09e072570e"
-    },
-    {
-      "id": 54,
-      "title": "Chinese AI startup's low-cost model challenges US competitors",
-      "summary": "Chinese AI startup releases low-cost model challenging US competitors, showcasing performance at a fraction of the cost.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T11:12:26Z",
-      "url": "https://biztoc.com/x/4f6879ceebe8877c"
-    },
-    {
-      "id": 55,
-      "title": "Deaf Woman Films Video in Apartment—Everyone Warns Her About the Same Thing",
-      "summary": "Deaf woman's viral video filmed inside apartment sparks warnings about AI-generated voice inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:12:14Z",
-      "url": "https://biztoc.com/x/e43146bfa36a0017"
-    },
-    {
-      "id": 56,
-      "title": "Bonded Pair of 15-Year-Old Shelter Dogs Desperate To Be Adopted Together",
-      "summary": "Two 15-year-old dog siblings are looking to be adopted together from a shelter, with the hope of finding a forever home. Oliver and Savannah are in the care of Frosted Faces Foundation.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:12:13Z",
-      "url": "https://biztoc.com/x/70367e27b5cd78e3"
-    },
-    {
-      "id": 57,
-      "title": "(PR) Lexar Launches the NM990 PCIe 5.0 SSD Series with Up to 14 GB/s Sequential Reads",
-      "summary": "Lexar launches NM990 PCIe 5.0 SSD Series with up to 14 GB/s sequential reads, targeting high-end gamers, professional creators, and AI developers.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:09:58Z",
-      "url": "https://www.techpowerup.com/338979/lexar-launches-the-nm990-pcie-5-0-ssd-series-with-up-to-14-gb-s-sequential-reads"
-    },
-    {
-      "id": 58,
-      "title": "Mike Johnson calls for Epstein files and ICE memos gives deportation guidance: Morning Rundown",
-      "summary": "House Speaker Mike Johnson is calling for the release of the Epstein files and ICE memos providing guidance on deportation. Donald Trump dismisses interest in the Epstein case despite calls from his supporters.",
-      "source": "NBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-16T11:09:58Z",
-      "url": "https://www.nbcnews.com/news/us-news/mike-johnson-epstein-files-ice-memos-deportation-morning-rundown-rcna219034"
-    },
-    {
-      "id": 59,
-      "title": "Dubai restaurant to launch world’s first AI chef experience. Curious how it cooks without tasting?",
-      "summary": "Dubai restaurant to launch world’s first AI chef experience, using an AI chef named Aiman to revolutionize fine dining. Aiman utilizes decades of food science and global recipes to craft unique dishes, partnering with chef Reif Othman.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:08:48Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/dubai-restaurant-to-launch-worlds-first-ai-chef-experience-curious-how-it-cooks-without-tasting/articleshow/122573560.cms"
-    },
-    {
-      "id": 60,
-      "title": "India isn’t the West: Shark Anupam Mittal warns against blind reliance on AI in a billion-plus nation",
-      "summary": "Anupam Mittal warns against blind reliance on AI in India, advocating for a balanced focus on job creation and skilling",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-16T11:08:32Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/india-isnt-the-west-shark-anupam-mittal-warns-against-blind-reliance-on-ai-in-a-billion-plus-nation/articleshow/122573734.cms"
-    },
-    {
-      "id": 61,
-      "title": "Veranex Unveils MedTech’s First Innovation CRO (iCRO)–Redefining R&D in a Capital‑Tight Market",
-      "summary": "Veranex unveils MedTech's first Innovation CRO (iCRO) redefining R&D in a capital-tight market.",
-      "source": "Financial Post",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:06:56Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/veranex-unveils-medtechs-first-innovation-cro-icro-redefining-rd-in-a-capital‑tight-market"
     }
   ]
 }
