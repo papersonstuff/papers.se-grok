@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-17T22:15:49.083Z",
+  "lastUpdate": "2025-07-17T22:44:27.703Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Axon’s Draft One Is Designed To Defy Transparency",
+      "summary": "Axon's Draft One AI product for writing police reports based on body-worn camera audio appears to be designed to avoid accountability and transparency, according to EFF.",
+      "source": "Techdirt",
+      "category": "ethics",
+      "timestamp": "2025-07-16T22:42:50Z",
+      "url": "https://www.techdirt.com/2025/07/16/axons-draft-one-is-designed-to-defy-transparency/"
+    },
+    {
+      "id": 52,
+      "title": "gabiteodoru-parseq added to PyPI",
+      "summary": "gabiteodoru-parseq added to PyPI - ParseQ: Q Language to Python Translator with AI-Powered Disambiguation",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:39:47Z",
+      "url": "https://pypi.org/project/gabiteodoru-parseq/"
+    },
+    {
+      "id": 53,
+      "title": "gabiteodoru-parseq 0.1.1",
+      "summary": "gabiteodoru-parseq 0.1.1 is a Q language to Python translator that utilizes AI-powered disambiguation. This tool demonstrates innovation in the field of programming language translation.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:39:47Z",
+      "url": "https://pypi.org/project/gabiteodoru-parseq/0.1.1/"
+    },
+    {
+      "id": 54,
+      "title": "Heatmap and Accuracy Results from Medical Image Classification Models | HackerNoon",
+      "summary": "AI models were tested for tumor and mutation detection, with results showing AUCs, ROC curves, and heatmaps across magnification levels.",
+      "source": "hackernoon.com",
+      "category": "research",
+      "timestamp": "2025-07-16T22:36:33Z",
+      "url": "https://hackernoon.com/preview/tGDlLPQmgScyhiNh6Ufx?ref=hackernoon.com"
+    },
+    {
+      "id": 55,
+      "title": "Hands-On with the Huawei Pura 80 Ultra Golden Black: Pure WOW-ness",
+      "summary": "The Huawei Pura 80 Ultra Golden Black promises to revolutionize smartphone photography with its advanced features. Reviewers are testing its capabilities to see if it lives up to the hype.",
+      "source": "Yanko Design",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:33:59Z",
+      "url": "https://www.yankodesign.com/2025/07/16/hands-on-with-the-huawei-pura-80-ultra-golden-black-pure-wow-ness/"
+    },
+    {
+      "id": 56,
+      "title": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents",
+      "summary": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents, offering a powerful way to boost audience engagement and extend content value for content publishers through video highlights.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:32:42Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accenture-scales-video-analysis-with-amazon-nova-and-amazon-bedrock-agents/"
+    },
+    {
+      "id": 57,
+      "title": "Is our mental health determined by where we live – or is it the other way round? New research sheds more light",
+      "summary": "New research suggests that mental health can be influenced by the environment around us, not just internal factors. The study explores how our surroundings can impact wellbeing and potentially contribute to mental health decline.",
+      "source": "The Conversation Africa",
+      "category": "research",
+      "timestamp": "2025-07-16T22:30:49Z",
+      "url": "https://theconversation.com/is-our-mental-health-determined-by-where-we-live-or-is-it-the-other-way-round-new-research-sheds-more-light-260491"
+    },
+    {
+      "id": 58,
+      "title": "How to Get Your Brand Featured in Google AI Overviews (and Other LLM Answers)",
+      "summary": "Google introduced AI Overviews in 2024, making it a C-Suite metric, and brands are seeking ways to get featured in them.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:30:17Z",
+      "url": "https://contently.com/2025/07/16/how-to-get-your-brand-featured-in-google-ai-overviews/"
+    },
+    {
+      "id": 59,
+      "title": "Millions Of Americans Are Being Advised Not To Go Outside",
+      "summary": "Millions of Americans are being advised not to go outside due to massive wildfires in Canada's Manitoba province, thousands of miles away. They are being warned to stay indoors for health and safety reasons.",
+      "source": "Futurism",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:30:15Z",
+      "url": "https://futurism.com/millions-americans-air-quality-advisory"
+    },
+    {
+      "id": 60,
+      "title": "Zohran Mamdani Meets With Democrats As He Attempts To Gather Key Support",
+      "summary": "Zohran Mamdani, Democratic mayoral primary winner, met with Democratic lawmakers in D.C. to gather key support as he aims to share insights from his primary victory.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T22:29:56Z",
+      "url": "https://biztoc.com/x/2c918d92cf85dc0b"
+    },
+    {
+      "id": 61,
+      "title": "Forget DOGE. Musk Is Suddenly All In on AI",
+      "summary": "Elon Musk is focusing on AI with xAI's latest product launch including a new Grok 4 model and AI companions, such as a pigtailed and corseted anime character.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:29:51Z",
+      "url": "https://biztoc.com/x/a5c653ad71009e8a"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: MCP Adapter – Universal gateway for AI tool coordination",
+      "summary": "MCP Adapter is a gateway for AI coding assistants to connect to external tools and services, particularly useful for development setups.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:29:44Z",
+      "url": "https://github.com/startakovsky/mcp-adapter"
+    },
+    {
+      "id": 63,
+      "title": "Total War: Warhammer 3’s Huge Siege Rework Will Be Playable Soon",
+      "summary": "Total War: Warhammer 3's community team announces a massive rework to Sieges, which will soon be playable for players in beta version.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:28:50Z",
+      "url": "http://comicbook.com/gaming/news/total-war-warhammer-3-siege-rework-beta/"
+    },
+    {
+      "id": 64,
+      "title": "This amazing new battery has life so long you may never have to recharge",
+      "summary": "This amazing new battery combines radiocarbon and perovskite to create a compact nuclear battery with long-lasting power potential for extreme environments and miniature tech applications.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:28:01Z",
+      "url": "https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/"
+    },
+    {
+      "id": 65,
+      "title": "Anthropic Launches Claude for Financial Services",
+      "summary": "Anthropic launches Claude, a solution for financial analysis aimed at helping finance professionals analyze markets, conduct research, and make investment decisions.",
+      "source": "Finovate.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T22:26:45Z",
+      "url": "https://finovate.com/anthropic-launches-claude-for-financial-services/"
+    },
+    {
+      "id": 66,
+      "title": "New Learning Pathway: Deploy AI Models with NVIDIA NIM on GKE",
+      "summary": "Get hands-on experience with Google Kubernetes Engine (GKE) and NVIDIA NIM for AI inference tasks to streamline AI model deployment and optimize performance on NVIDIA GPUs.",
+      "source": "Google News",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:25:46Z",
+      "url": "https://developers.google.com/learn/pathways/deploy-faster-gen-ai-models-nvidia-gke"
+    },
     {
       "id": 51,
       "title": "Bilt Reaches $10.8B Valuation & Announces Home Away From Home Platform",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T21:40:30Z",
       "url": "https://japantoday.com/category/tech/softbank-ceo-son-pitches-autonomous-ai-agent-system-for-corporate-use"
-    },
-    {
-      "id": 65,
-      "title": "heaven-bml 2.4.3",
-      "summary": "heaven-bml 2.4.3 is a new project management tool on GitHub designed for AI agents to follow the Build-Measure-Learn cycle. This tool aims to streamline the development and testing process for AI applications.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T21:39:24Z",
-      "url": "https://pypi.org/project/heaven-bml/2.4.3/"
-    },
-    {
-      "id": 66,
-      "title": "Gavin Newsom Abandons Californians for 2028 White House Delusions",
-      "summary": "Gavin Newsom abandoning Californians for White House delusions raises ethical concerns about prioritizing personal ambitions over serving the people.",
-      "source": "Daily Signal",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:39:06Z",
-      "url": "https://www.dailysignal.com/2025/07/16/gavin-newsom-abandons-californians-for-2028-white-house-delusions/"
-    },
-    {
-      "id": 67,
-      "title": "Rishad Premji flags unchanged IT outlook, focuses on AI push",
-      "summary": "Wipro chairman Rishad Premji flags unchanged IT outlook due to volatile external environment, focusing on AI push amid macroeconomic pressures and tariff uncertainties.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T21:37:58Z",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/rishad-premji-flags-unchanged-it-outlook-focuses-on-ai-push/articleshow/122589825.cms"
-    },
-    {
-      "id": 68,
-      "title": "Seagate Ships 30 TB Hard Drives for $600",
-      "summary": "Seagate ships 30 TB hard drives for $600, showcasing the significant advancements in storage technology with a million-fold increase in capacity since 1989.",
-      "source": "TidBITS",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:35:29Z",
-      "url": "https://tidbits.com/2025/07/16/seagate-ships-30-tb-hard-drives-for-600/"
-    },
-    {
-      "id": 69,
-      "title": "Inside OpenAI’s Slack-driven evolution — engineer reveals secrets behind its meteoric rise and chaotic brilliance",
-      "summary": "A former OpenAI engineer shares insights into the company's inner workings and rapid growth, shedding light on what it's like to work at the $300 billion AI firm.",
-      "source": "Windows Central",
-      "category": "startups",
-      "timestamp": "2025-07-16T21:35:20Z",
-      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/inside-openais-slack-driven-evolution-engineer-reveals-secrets-behind-its-meteoric-rise-and-chaotic-brilliance"
-    },
-    {
-      "id": 51,
-      "title": "Waterbury resident charged in crash that injured CT troopers is in US illegally, ICE says",
-      "summary": "An 18-year old Waterbury resident, who was charged in a crash that injured two Connecticut State Police troopers, is in the US illegally and will be detained and arrested by federal officials.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:31:49Z",
-      "url": "https://freerepublic.com/focus/f-news/4329065/posts"
-    },
-    {
-      "id": 52,
-      "title": "UK-Germany landmark agreement to help smash smuggling gangs and boost defence exports",
-      "summary": "UK-Germany landmark agreement aims to combat smuggling gangs and enhance defence exports, benefiting both countries. Prime Minister Keir Starmer to host Chancellor Friedrich Merz for comprehensive visit to London.",
-      "source": "Www.gov.uk",
-      "category": "economy",
-      "timestamp": "2025-07-16T21:30:01Z",
-      "url": "https://www.gov.uk/government/news/uk-germany-landmark-agreement-to-help-smash-smuggling-gangs-and-boost-defence-exports"
-    },
-    {
-      "id": 53,
-      "title": "BAY Miner Launches Zero-Fee Bitcoin Cloud Mining for All Users—Empowering Global Access to Passive Crypto Income",
-      "summary": "BAY Miner launches new zero-fee Bitcoin cloud mining feature, allowing users to earn crypto income without any fees or equipment.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T21:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116882/0/en/BAY-Miner-Launches-Zero-Fee-Bitcoin-Cloud-Mining-for-All-Users-Empowering-Global-Access-to-Passive-Crypto-Income.html"
-    },
-    {
-      "id": 54,
-      "title": "A rare opportunity is here to get an HP gaming laptop for only $500 — NVIDIA RTX graphics and a 144Hz display at a bargain price",
-      "summary": "Opportunity to purchase an HP gaming laptop with NVIDIA RTX graphics and 144Hz display for only $500, a rare bargain in the gaming laptop market.",
-      "source": "Windows Central",
-      "category": "economy",
-      "timestamp": "2025-07-16T21:29:35Z",
-      "url": "https://www.windowscentral.com/hardware/laptops/a-rare-opportunity-is-here-to-get-an-hp-gaming-laptop-for-only-usd500-nvidia-rtx-graphics-and-a-144hz-display-at-a-bargain-price"
-    },
-    {
-      "id": 55,
-      "title": "Selective Generalization: Improving Capabilities While Maintaining Alignment",
-      "summary": "Selective Generalization: Improving Capabilities While Maintaining Alignment discusses benchmarking methods to prevent emergent issues in AI.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-16T21:28:11Z",
-      "url": "https://www.lesswrong.com/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while"
-    },
-    {
-      "id": 56,
-      "title": "Three quarters of US teens use AI companions despite risks: study",
-      "summary": "Nearly three in four American teenagers have used AI companions, with more than half qualifying as regular users despite growing safety concerns.",
-      "source": "Digital Journal",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:27:49Z",
-      "url": "https://www.digitaljournal.com/life/three-quarters-of-us-teens-use-ai-companions-despite-risks-study/article"
-    },
-    {
-      "id": 57,
-      "title": "Three Quarters Of US Teens Use AI Companions Despite Risks: Study",
-      "summary": "Nearly three in four US teenagers use AI companions, with over half using them regularly, despite growing safety concerns.",
-      "source": "International Business Times",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:27:11Z",
-      "url": "https://www.ibtimes.com/three-quarters-us-teens-use-ai-companions-despite-risks-study-3778684"
-    },
-    {
-      "id": 58,
-      "title": "Google Backs 10 New Nuclear Reactors For AI, Built by AI. What Could Go Wrong?",
-      "summary": "Google is backing the construction of 10 new nuclear reactors for AI, built by AI, in partnership with Westinghouse. This marks a significant innovation in the use of nuclear power for advancing artificial intelligence technology.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:26:04Z",
-      "url": "https://uk.pcmag.com/ai/159163/google-backs-10-new-nuclear-reactors-for-ai-built-by-ai-what-could-go-wrong"
-    },
-    {
-      "id": 59,
-      "title": "Google Backs 10 New Nuclear Reactors For AI, Built by AI. What Could Go Wrong?",
-      "summary": "Google is backing the construction of 10 new nuclear reactors for AI purposes, with the reactors being built using AI technology. However, concerns arise as Westinghouse's previous project was seven years late and led to the company going bankrupt.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:26:04Z",
-      "url": "https://me.pcmag.com/en/ai/31005/google-backs-10-new-nuclear-reactors-for-ai-built-by-ai-what-could-go-wrong"
-    },
-    {
-      "id": 60,
-      "title": "Cairn Oil & Gas pushes youth empowerment in assam with digital and tea industry skill training",
-      "summary": "Cairn Oil & Gas is focusing on youth empowerment in Assam by providing digital literacy and vocational skill development training.",
-      "source": "Thehillstimes.in",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:25:00Z",
-      "url": "https://thehillstimes.in/assam/cairn-oil-gas-pushes-youth-empowerment-in-assam-with-digital-and-tea-industry-skill-training"
-    },
-    {
-      "id": 61,
-      "title": "Zero sum expectations as an explanation of omnicide-indifference",
-      "summary": "Zero sum expectations as an explanation of omnicide-indifference - Published on July 16, 2025 7:25 PM GMT. The article discusses the confusion around why many people find the risk of genocide unacceptable but are indifferent towards omnicide. ",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:23:58Z",
-      "url": "https://www.lesswrong.com/posts/EQqjhifEmofBPC3ev/zero-sum-expectations-as-an-explanation-of-omnicide"
     }
   ]
 }
