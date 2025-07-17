@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-17T22:44:27.703Z",
+  "lastUpdate": "2025-07-17T22:54:39.344Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Axon’s Draft One Is Designed To Defy Transparency",
+      "summary": "Axon's Draft One AI product designed to avoid transparency in generating police reports from body-worn camera audio",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-16T22:53:12Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178396658"
+    },
+    {
+      "id": 52,
+      "title": "Intel cuts more than 5,000 jobs across four states as restructuring accelerates",
+      "summary": "Intel Corp. is laying off more than 5,000 employees across four states in the latest round of job cuts from the chip maker, as part of their restructuring efforts.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-16T22:53:09Z",
+      "url": "https://siliconangle.com/2025/07/16/intel-cuts-5000-jobs-across-four-states-restructuring-accelerates/"
+    },
+    {
+      "id": 53,
+      "title": "Grok may be breaking App Store rules with sexualized AI chatbots, and that’s not the only problem",
+      "summary": "Grok may be breaking App Store rules with sexualized AI chatbots, raising concerns about ethical use of AI technology.",
+      "source": "9to5Mac",
+      "category": "ethics",
+      "timestamp": "2025-07-16T22:52:43Z",
+      "url": "https://9to5mac.com/2025/07/16/grok-may-be-breaking-app-store-rules-with-sexualized-ai-chatbots-and-thats-not-the-only-problem/"
+    },
+    {
+      "id": 54,
+      "title": "Big Tech Researchers Issue Strict Warning About How AI Thinks",
+      "summary": "Big tech researchers issue strict warning about the importance of being able to monitor AI thinking.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-16T22:52:09Z",
+      "url": "https://biztoc.com/x/7d05b95b27a6e945"
+    },
+    {
+      "id": 55,
+      "title": "Google Starts Rolling Out New AI Capabilities in Search",
+      "summary": "Google is rolling out new AI capabilities in Search, including an AI-powered phone calling feature that's free for everyone to use.",
+      "source": "Thurrott.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:50:26Z",
+      "url": "https://www.thurrott.com/a-i/google-gemini-a-i/323435/google-starts-rolling-out-new-ai-capabilities-in-search"
+    },
+    {
+      "id": 56,
+      "title": "jstsconverter 0.1.1",
+      "summary": "jstsconverter 0.1.1 is a tool that converts JavaScript to TypeScript using Claude AI via Anthropic Bedrock.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:49:50Z",
+      "url": "https://pypi.org/project/jstsconverter/0.1.1/"
+    },
+    {
+      "id": 57,
+      "title": "How to Get Your Brand Mentioned by ChatGPT",
+      "summary": "OpenAI's ChatGPT has reached 100 million users in three months, making brand mentions by the AI platform a key performance indicator for businesses looking to gain exposure.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:49:13Z",
+      "url": "https://contently.com/2025/07/16/how-to-get-your-brand-mentioned-by-chatgpt/"
+    },
+    {
+      "id": 58,
+      "title": "Sony Finally Revives the RX1R After 10 Years and It Was Worth the Wait",
+      "summary": "Sony has revived the RX1R camera after 10 years with AI features, increased megapixels, and a cleaner design.",
+      "source": "Hiconsumption.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T22:47:02Z",
+      "url": "https://hiconsumption.com/tech/sony-rx1r-iii-camera/"
+    },
+    {
+      "id": 59,
+      "title": " Inter Miami line-up confirmed to face FC Cincinnati",
+      "summary": "Inter Miami's line-up confirmed to face FC Cincinnati in Major League Soccer, after participating in the FIFA Club World Cup.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:46:00Z",
+      "url": "https://onefootball.com/en/news/inter-miami-line-up-confirmed-to-face-fc-cincinnati-41385261"
+    },
+    {
+      "id": 60,
+      "title": "Your LLM-powered guide to the posit::conf(2025) agenda",
+      "summary": "LLM-powered guide using a Shiny app helps attendees discover ideal sessions at posit::conf(2025) by analyzing conference agenda",
+      "source": "Posit.co",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:45:45Z",
+      "url": "https://posit.co/blog/posit-conf-2025-agenda/"
+    },
+    {
+      "id": 61,
+      "title": "Trying the Obvious Thing",
+      "summary": "An article discussing the author's behavior in impersonal settings such as on the Internet or at work, being stingy with attention as they believe the world is out to get them.",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T22:45:38Z",
+      "url": "https://www.lesswrong.com/posts/Zpqhds4dmLaBwTcnp/trying-the-obvious-thing"
+    },
+    {
+      "id": 62,
+      "title": "HPE inks cooperation agreement with activist investor Elliott",
+      "summary": "Hewlett Packard Enterprise Co. has reached a cooperation agreement with activist investor Elliott Investment Management to avoid a proxy fight. The deal was announced today.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-16T22:45:23Z",
+      "url": "https://siliconangle.com/2025/07/16/hpe-inks-cooperation-agreement-activist-investor-elliott/"
+    },
+    {
+      "id": 63,
+      "title": " Sport ultras storm training ground, striker attacked",
+      "summary": "Sport ultras stormed Sport's training ground, attacking a striker and making demands, which raised ethical concerns regarding the safety and treatment of athletes.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T22:44:00Z",
+      "url": "https://onefootball.com/en/news/sport-ultras-storm-training-ground-striker-attacked-41385259"
+    },
     {
       "id": 51,
       "title": "Axon’s Draft One Is Designed To Defy Transparency",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T21:49:15Z",
       "url": "https://pypi.org/project/tagent/0.6.4/"
-    },
-    {
-      "id": 52,
-      "title": "Google to Unveil New Pixel 10 Smartphones on August 20",
-      "summary": "Google to unveil new Pixel 10 smartphones on August 20, just weeks before Apple's iPhone release event.",
-      "source": "MacRumors",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:48:14Z",
-      "url": "https://www.macrumors.com/2025/07/16/google-pixel-10-august-20/"
-    },
-    {
-      "id": 53,
-      "title": "Arm’s stock is rising as analysts say an intriguing move could be on the horizon",
-      "summary": "Arm's stock is rising as analysts predict it may start making its own custom AI chips, presenting an opportunity that isn't fully reflected in its stock price yet.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:45:50Z",
-      "url": "https://biztoc.com/x/dae5cde69e5b2d7a"
-    },
-    {
-      "id": 54,
-      "title": "‘I’m Not Crazy’",
-      "summary": "'I'm Not Crazy' - Love Island USA's Huda Mustafa opens up about the difficulties off camera, stating 'It really took a lot to get me to that point.'",
-      "source": "Vulture",
-      "category": "ethics",
-      "timestamp": "2025-07-16T21:45:06Z",
-      "url": "http://www.vulture.com/article/love-island-usa-huda-first-interview-villa-jeremiah-behind-the-scenes.html"
-    },
-    {
-      "id": 55,
-      "title": "New ‘Harry Potter’ series won’t announce Voldemort casting, so we have some suggestions",
-      "summary": "New 'Harry Potter' series will not announce Voldemort casting, sparking suggestions from fans.",
-      "source": "Thechive.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T21:45:00Z",
-      "url": "https://thechive.com/entertainment/tv/new-harry-potter-series-wont-announce-voldemort-casting-so-we-have-some-suggestions/?utm_postid=5043206&utm_editor=5043206_zach"
-    },
-    {
-      "id": 56,
-      "title": "Google AI calling now available in U.S. but not Canada",
-      "summary": "Google AI calling now available in U.S. but not Canada, allowing users to call local businesses using AI within Search",
-      "source": "MobileSyrup",
-      "category": "applications",
-      "timestamp": "2025-07-16T21:44:41Z",
-      "url": "https://mobilesyrup.com/2025/07/16/google-ai-calling-feature-not-canada/"
-    },
-    {
-      "id": 57,
-      "title": "Top 10 AI SEO Platforms for 2025",
-      "summary": "Top 10 AI SEO Platforms for 2025 are transforming the SEO landscape with advanced technologies, marking a significant shift in the industry.",
-      "source": "Contently.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:44:21Z",
-      "url": "https://contently.com/2025/07/16/top-10-ai-seo-platforms-for-2025/"
-    },
-    {
-      "id": 58,
-      "title": "That's Not a Human: Google Search Can Now Make Phone Calls To Businesses",
-      "summary": "Google Search now allows users to make phone calls to local businesses through AI to inquire about pricing and availability, eliminating the need to pick up the phone.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T21:42:05Z",
-      "url": "https://me.pcmag.com/en/ai/31006/thats-not-a-human-google-search-can-now-make-phone-calls-to-businesses"
-    },
-    {
-      "id": 59,
-      "title": "That's Not a Human: Google Search Can Now Make Phone Calls To Businesses",
-      "summary": "Google Search now offers AI-powered calling feature to inquire about pricing and availability at local businesses, eliminating the need to make phone calls.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T21:42:05Z",
-      "url": "https://uk.pcmag.com/ai/159164/thats-not-a-human-google-search-can-now-make-phone-calls-to-businesses"
-    },
-    {
-      "id": 60,
-      "title": "Why We Mistake the Wholesomeness of Gen Z for Conservatism",
-      "summary": "N.Y.C. art schools see record-high application numbers as Gen Z-ers show interest in enrolling, challenging the perception of their conservatism. This trend indicates a shift in values among GenZ, embracing creativity and the arts.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:41:02Z",
-      "url": "https://freerepublic.com/focus/f-news/4329066/posts"
-    },
-    {
-      "id": 61,
-      "title": "Interac Casinos Canada: LuckyStart Casino Adds New Payment Method",
-      "summary": "LuckyStart Casino in Canada has added a new payment method for deposits and withdrawals, making it easier for players to use their platform.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T21:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116886/0/en/Interac-Casinos-Canada-LuckyStart-Casino-Adds-New-Payment-Method.html"
-    },
-    {
-      "id": 62,
-      "title": "Investing News: Tech, Crypto, Banking, And Inflation Headlines Could Spur Volatility",
-      "summary": "Investing news highlights potential volatility in tech, crypto, banking, and inflation headlines, with tips for investors to prepare for stock price fluctuations.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-16T21:40:52Z",
-      "url": "https://www.forbes.com/sites/catherinebrock/2025/07/16/investing-news-tech-crypto-banking-and-inflation-headlines-could-spur-volatility/"
-    },
-    {
-      "id": 63,
-      "title": "Dutch tech giant ASML sees profits rise but warns on 2026",
-      "summary": "Dutch tech giant ASML sees rise in profits for the second quarter of 2025 but warns of challenges in 2026 due to geopolitical factors.",
-      "source": "Japan Today",
-      "category": "economy",
-      "timestamp": "2025-07-16T21:40:37Z",
-      "url": "https://japantoday.com/category/tech/dutch-tech-giant-asml-sees-profits-rise-but-warns-on-2026"
-    },
-    {
-      "id": 64,
-      "title": "SoftBank CEO Son pitches autonomous AI agent system for corporate use",
-      "summary": "SoftBank CEO Son pitches autonomous AI agent system for corporate use, claiming it to be the world's first AI system that can autonomously perform complex tasks.",
-      "source": "Japan Today",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:40:30Z",
-      "url": "https://japantoday.com/category/tech/softbank-ceo-son-pitches-autonomous-ai-agent-system-for-corporate-use"
     }
   ]
 }
