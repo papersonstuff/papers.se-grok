@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T11:14:31.544Z",
+  "lastUpdate": "2025-07-17T11:32:20.759Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Humanoid Global Announces Increase in Private Placement",
+      "summary": "Humanoid Global Holdings Corp. announces an increase in private placement in Vancouver.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-16T11:31:13Z",
+      "url": "https://financialpost.com/globe-newswire/humanoid-global-announces-increase-in-private-placement"
+    },
+    {
+      "id": 52,
+      "title": "NVDA Stock To $200?",
+      "summary": "Nvidia's stock reaching $200 represents a major win after overcoming U.S. export controls on AI technology.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:30:20Z",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/16/nvda-stock-to-200/"
+    },
+    {
+      "id": 53,
+      "title": "Corporate report: Insolvency Service launches 5-year Investigation and Enforcement Strategy",
+      "summary": "The Insolvency Service has introduced a 5-year Investigation and Enforcement Strategy to combat economic crime, aiming to take on a more active role in the fight against fraud and malpractice.",
+      "source": "Www.gov.uk",
+      "category": "ethics",
+      "timestamp": "2025-07-16T11:30:07Z",
+      "url": "https://www.gov.uk/government/publications/insolvency-service-launches-5-year-investigation-and-enforcement-strategy"
+    },
+    {
+      "id": 54,
+      "title": "Samsung says Galaxy AI, Gemini usage is growing quickly, commits to major expansion",
+      "summary": "Samsung is planning a major expansion of AI features on Galaxy phones, as the usage of Galaxy AI, Gemini is growing rapidly. Samsung claims that a significant portion of its users are already utilizing AI features.",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:30:00Z",
+      "url": "http://9to5google.com/2025/07/16/samsung-galaxy-ai-expansion-stats/"
+    },
+    {
+      "id": 55,
+      "title": "Job Searching Feels Like A Full-Time Job. That’s Because It Is",
+      "summary": "Job searching can be emotionally draining and time-consuming. Learn how to avoid burnout, stay focused, and land your next role with a smarter, human-centered strategy.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:30:00Z",
+      "url": "https://www.forbes.com/sites/juliakorn/2025/07/16/job-searching-feels-like-a-full-time-job-thats-because-it-is/"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI’s $10M+ AI Consulting Business: Deployment Takes Center Stage",
+      "summary": "OpenAI is launching a consulting business focused on AI deployment, taking inspiration from Palantir's approach.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-16T11:30:00Z",
+      "url": "https://www.forbes.com/sites/solrashidi/2025/07/16/openais-10m-ai-consulting-business-deployment-takes-center-stage/"
+    },
+    {
+      "id": 57,
+      "title": "Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands",
+      "summary": "With the app Substage, users can type out file management tasks in natural language commands on macOS Finder, allowing them to convert file types, manage folders, create zip files, and more.",
+      "source": "Wired",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:30:00Z",
+      "url": "https://www.wired.com/story/substage-macos-finder-natural-language-commands/"
+    },
+    {
+      "id": 58,
+      "title": "Bride Asks Autistic Brother To Officiate Wedding After He Learned to Speak",
+      "summary": "A bride asked her autistic brother, who learned to speak with the help of AI, to officiate her wedding. The speech was a surprise to everyone, including the proud father.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:27:52Z",
+      "url": "https://www.newsweek.com/bride-asks-autistic-brother-wedding-2098705"
+    },
+    {
+      "id": 59,
+      "title": "AI Agents Act Like Employees With Root Access—Here's How to Regain Control",
+      "summary": "AI Agents Act Like Employees With Root Access—Here's How to Regain Control - The AI gold rush is on. But without identity-first security, every deployment becomes an open door. Most organizations secure native AI like a web app, but it behaves more like a junior employee with root access and no manager.",
+      "source": "Internet",
+      "category": "ethics",
+      "timestamp": "2025-07-16T11:25:00Z",
+      "url": "https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html"
+    },
+    {
+      "id": 60,
+      "title": "Citi CFO leans into AI as Q2 earnings surge past expectations",
+      "summary": "Citi CFO Mark Mason discusses AI's role in Q2 earnings exceeding expectations.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:23:52Z",
+      "url": "https://fortune.com/2025/07/16/citi-cfo-leans-in-ai-q2-earnings-surge-past-expectations/"
+    },
+    {
+      "id": 61,
+      "title": "Mondiali nuoto: Moesha Johnson vince l'oro ai 10 km donne",
+      "summary": "Moesha Johnson of Australia won the gold medal in the Open Water Women 10km race at the World Aquatics Championships Singapore 2025, showcasing the application of technology in sports and competition.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:22:05Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/mondiali-nuoto-moesha-johnson-vince-loro-ai-10-km-donne_28138770-e901-4709-8d36-12cae0991506.html"
+    },
+    {
+      "id": 62,
+      "title": "Parigi: l'arrivo di Christine Lagarde all'Eliseo",
+      "summary": "European Central Bank President Christine Lagarde arrives at the Elysee Palace in Paris for a cabinet meeting.",
+      "source": "ANSA.it",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:22:01Z",
+      "url": "https://www.ansa.it/sito/photogallery/people/2025/07/16/parigi-larrivo-di-christine-lagarde-alleliseo_aefbb514-4cd4-4f7e-9e47-1bc107206b80.html"
+    },
+    {
+      "id": 63,
+      "title": "A Liverpool un murale in memoria del calciatore Diogo Jota",
+      "summary": "A mural honouring the late soccer player Diogo Jota has been painted on the side of the Halfway House pub in Liverpool, Britain.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:21:56Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/a-liverpool-un-murale-in-memoria-del-calciatore-diogo-jota_2907ff71-3c97-4174-ad75-b68903d97f2d.html"
+    },
+    {
+      "id": 64,
+      "title": "Despite NVIDIA H20 Sales Relief, Chinese Firms Will Develop AI Chips In “Parallel,” Says Research Firm",
+      "summary": "Despite NVIDIA H20 Sales Relief, Chinese firms are encouraged to continue developing AI chips in parallel according to research firm TrendForce.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:21:55Z",
+      "url": "https://wccftech.com/despite-nvidia-h20-sales-relief-chinese-firms-will-develop-ai-chips-in-parallel-says-research-firm/"
+    },
+    {
+      "id": 65,
+      "title": "Tour de France: Mathieu Van Der Poel all'11/ma tappa",
+      "summary": "Dutch rider Mathieu Van Der Poel of Alpecin - Deceuninck team participated in the 11th stage of the Tour de France cycling race, showcasing the application of AI technology in sports performance.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:21:35Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/16/tour-de-france-mathieu-van-der-poel-all11ma-tappa_d74f43fd-280f-475d-b351-7ba0af6d1eee.html"
+    },
+    {
+      "id": 66,
+      "title": "ai-graph 0.0.5",
+      "summary": "ai-graph 0.0.5 is a new AI Graph framework designed for building processing pipelines.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:21:03Z",
+      "url": "https://pypi.org/project/ai-graph/0.0.5/"
+    },
+    {
+      "id": 67,
+      "title": "Google Gemini comes to Samsung's older Galaxy Watches",
+      "summary": "Google Gemini AI has been added to Samsung's older Galaxy Watches, starting with the Watch8 series, expanding to some older models.",
+      "source": "GSMArena.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:21:02Z",
+      "url": "https://www.gsmarena.com/google_gemini_comes_to_samsungs_older_galaxy_watches_-news-68646.php"
+    },
+    {
+      "id": 68,
+      "title": "Maison Guerlain launches hand creams featuring packaging with Amcor polymer",
+      "summary": "Maison Guerlain launches hand creams with packaging made from Amcor polymer, produced at Amcor facilities in France.",
+      "source": "Packaging-gateway.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:19:32Z",
+      "url": "https://www.packaging-gateway.com/news/maison-guerlain-launches-hand-creams/"
+    },
+    {
+      "id": 69,
+      "title": "Meta patches worrying security bug which could have exposed user AI prompts and responses - and pays the bug hunter $10,000",
+      "summary": "Meta patches security bug allowing access to user AI prompts and responses, pays bug hunter $10,000. Expert warns of potential for unauthorized access to personal data.",
+      "source": "TechRadar",
+      "category": "research",
+      "timestamp": "2025-07-16T11:18:00Z",
+      "url": "https://www.techradar.com/pro/security/bug-that-would-expose-user-ai-prompts-and-responses-patched-bug-hunter-paid-usd10-000-by-meta"
+    },
+    {
+      "id": 70,
+      "title": "Stack discounts and score Lenovo’s RTX 5070 Legion 5 gaming laptop with 165Hz OLED panel for $1,299 (Save $350)",
+      "summary": "Lenovo is offering a $350 discount on its RTX 5070 Legion 5 gaming laptop as part of its Black Friday in July sale, allowing customers to purchase it for $1,299.49.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:17:57Z",
+      "url": "http://9to5toys.com/2025/07/16/lenovo-rtx-5070-legion-5-gaming-laptop-save-350/"
+    },
     {
       "id": 51,
       "title": "Morning Bid: Tariff inflation irks bonds",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-16T10:39:08Z",
       "url": "https://biztoc.com/x/c19320624c76d43d"
-    },
-    {
-      "id": 61,
-      "title": "Veteran fund manager makes bold move on Nvidia price target",
-      "summary": "Veteran fund manager makes bold move on Nvidia price target, but CEO reassures U.S. government about AI technology not being used by Chinese military.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T10:39:08Z",
-      "url": "https://biztoc.com/x/453b23abbb5444a8"
-    },
-    {
-      "id": 62,
-      "title": "Map Shows Which States Are Most 'Financially Distressed'",
-      "summary": "Newly published data from personal finance website WalletHub shows how Americans are dealing with financial pressures, with rankings created based on various metrics for each state.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:38:44Z",
-      "url": "https://biztoc.com/x/6e2d327a8a9a7bc0"
-    },
-    {
-      "id": 63,
-      "title": "Nvidia Cashes in on Looser Export Controls",
-      "summary": "Nvidia takes advantage of looser export controls to sell AI-powering chips to China, stating it is crucial for the US to stay ahead in the Great AI Race.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:38:44Z",
-      "url": "https://biztoc.com/x/ce9e9f22862f3fb6"
-    },
-    {
-      "id": 64,
-      "title": "How to Install Claude Code in 5 minutes : Mac & Windows",
-      "summary": "How to Install Claude Code in 5 minutes : Mac & Windows - With all the turmoil at Windsurf, Claude Code might now be the tool you need to transform your AI coding workflow, cutting hours of manual effort into mere minutes.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-16T10:37:40Z",
-      "url": "https://www.geeky-gadgets.com/claude-code-installation-guide-2/"
-    },
-    {
-      "id": 65,
-      "title": "WP Engine Launches AI Toolkit for WordPress Websites",
-      "summary": "WordPress hosting provider WP Engine has launched a three-part AI toolkit to enhance search, recommendations, and app development capabilities for site owners.",
-      "source": "CMSWire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T10:36:52Z",
-      "url": "https://www.cmswire.com/digital-experience/wp-engine-launches-ai-toolkit-for-wordpress-websites/"
-    },
-    {
-      "id": 66,
-      "title": "Samsung Galaxy Z Fold7 with $300 Amazon Gift Card: Big screen, and big savings",
-      "summary": "Amazon is offering a $300 gift card with the pre-order of the Samsung Galaxy Z Fold7, providing big savings for customers. This deal can help consumers save hundreds of dollars on the innovative foldable smartphone.",
-      "source": "Neowin",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:36:01Z",
-      "url": "https://www.neowin.net/deals/samsung-galaxy-z-fold7-with-300-amazon-gift-card-big-screen-and-big-savings/"
-    },
-    {
-      "id": 67,
-      "title": "Grok 4 benchmark results: Tops math, ranks second in coding",
-      "summary": "Grok 4 benchmark results show it excels in math and ranks second in coding compared to other models like Gemini 2.5 Pro, according to new independent benchmarks.",
-      "source": "BleepingComputer",
-      "category": "research",
-      "timestamp": "2025-07-16T10:35:10Z",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/"
-    },
-    {
-      "id": 68,
-      "title": "Pre order Samsung Galaxy Z Flip 7 | Price & Deals | Samsung Singapore",
-      "summary": "Pre order the new Samsung Galaxy Z Flip7 5G with larger cover screen, upgraded Galaxy AI experience, and free shipping. Enjoy storage upgrade offers and save with trade-in deals at Samsung SG.",
-      "source": "Samsung.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T10:35:03Z",
-      "url": "https://www.samsung.com/sg/smartphones/galaxy-z-flip7/buy/"
-    },
-    {
-      "id": 69,
-      "title": "Show HN: KisanAI – WhatsApp Agricultural Assistant",
-      "summary": "Flask-based WhatsApp chatbot KisanAI designed for farmers integrates with Google's Gemini AI to provide agricultural advice, crop disease identification, market information, and government assistance.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T10:32:44Z",
-      "url": "https://github.com/mandarwagh9/KisanAI"
-    },
-    {
-      "id": 51,
-      "title": "Open Channels FM: Fresh Series, New Names, and the Power of Repurposed Content",
-      "summary": "BobWP discusses the rebranding of Open Channels FM podcast to focus on evolving content, community voices, and repurposed episodes, with series changes aimed at storytelling.",
-      "source": "Openchannels.fm",
-      "category": "innovation",
-      "timestamp": "2025-07-16T10:19:02Z",
-      "url": "https://openchannels.fm/fresh-series-new-names-and-the-power-of-repurposed-content/"
-    },
-    {
-      "id": 52,
-      "title": "Stock on Catalyst Watch Ahead of Earnings",
-      "summary": "Arista Networks Inc (NYSE:ANET) is one of the AI Stocks in the Spotlight Today. Citi analyst Atif Malik reiterated a Buy rating on the stock with a $123.00 price target.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-16T10:17:51Z",
-      "url": "https://biztoc.com/x/0c107568046b988c"
-    },
-    {
-      "id": 53,
-      "title": "Analysts Expect Strong Q2 and More Upside Ahead",
-      "summary": "Analysts expect strong Q2 and more upside ahead for AppLovin Corporation, with a 'Buy' rating and $600.00 price target from Citi analyst Jason Bazinet.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T10:17:45Z",
-      "url": "https://biztoc.com/x/2d1eb7dc7998f013"
-    },
-    {
-      "id": 54,
-      "title": "Germany eyes 10% economic output from AI by 2030",
-      "summary": "Germany aims to achieve 10% of its economic output from AI by 2030, with a focus on strengthening its economy and global competitiveness in technology.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:17:44Z",
-      "url": "https://biztoc.com/x/e50cd3e6a8af6bc5"
-    },
-    {
-      "id": 55,
-      "title": "Meta Stock: $750 Target Stays as Analysts Expect AI Gaps to Close",
-      "summary": "Meta Platforms, Inc. (NASDAQ:META) stock target stays at $750 as analysts predict AI gaps to close. Citizens JMP analyst reiterated a 'Market Outperform' rating on the stock on July 14.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:17:30Z",
-      "url": "https://biztoc.com/x/0102f2d8cea7f35b"
-    },
-    {
-      "id": 56,
-      "title": "TSM: Morgan Stanley Says Buy Ahead of Earnings on Strong AI Demand",
-      "summary": "Morgan Stanley recommends buying Taiwan Semiconductor Manufacturing Company Limited stock ahead of earnings due to strong demand for AI technology.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:17:08Z",
-      "url": "https://biztoc.com/x/7a7a3e523eac5ee4"
-    },
-    {
-      "id": 57,
-      "title": "Why Wall Street Remains Bullish on AI Chip Leader",
-      "summary": "Wall Street remains bullish on NVIDIA Corporation, particularly its Blackwell chip, as reiterated by KeyBanc on July 14.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T10:17:03Z",
-      "url": "https://biztoc.com/x/17fe90d5fd6790c1"
-    },
-    {
-      "id": 58,
-      "title": "Analysts Say It’s Officially the Fourth Hyperscaler",
-      "summary": "Oracle Corporation is being recognized as the fourth hyperscaler, with analysts raising the price target on the stock to $270.00. This news highlights the growing significance of AI technology in the economy.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:17:00Z",
-      "url": "https://biztoc.com/x/20860b3edf962918"
-    },
-    {
-      "id": 59,
-      "title": "Caterpillar's Q2 2025 Earnings: What to Expect",
-      "summary": "Caterpillar's Q2 2025 earnings are being discussed in relation to various market trends and strategies, including AI stocks and battery stocks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:16:55Z",
-      "url": "https://biztoc.com/x/5855eec7e33ae2fb"
-    },
-    {
-      "id": 60,
-      "title": "Trump Admin's Supreme Court Lawyers Quit",
-      "summary": "Nearly two-thirds of the U.S. Justice Department's unit responsible for defending key Trump administration policies in court have quit since President Donald Trump's election.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T10:16:54Z",
-      "url": "https://biztoc.com/x/d96d119c91fe448f"
-    },
-    {
-      "id": 61,
-      "title": "Nvidia is the first $4-trillion company. Here are three things to know",
-      "summary": "Nvidia reaches $4 trillion market cap, becoming the first company to do so, as investors show continued optimism in artificial intelligence technology.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:16:50Z",
-      "url": "https://biztoc.com/x/88d42fd69fd7c5a0"
     }
   ]
 }
