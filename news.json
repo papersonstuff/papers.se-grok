@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-17T19:43:12.390Z",
+  "lastUpdate": "2025-07-17T19:51:42.271Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Robots in China are riding the subway to make 7-Eleven deliveries",
+      "summary": "Robots in China are using AI to make deliveries for 7-Eleven by riding the subway, relying on logistics algorithms to plan routes efficiently.",
+      "source": "Popular Science",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:51:20Z",
+      "url": "https://www.popsci.com/technology/robots-in-china-subway-7-eleven-deliveries/"
+    },
+    {
+      "id": 52,
+      "title": "Honeycomb Announces Availability of MCP in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "Honeycomb announced the availability of the Honeycomb Hosted Model Context Protocol (MCP) Server in the new AI Agents and Tools category of AWS Marketplace.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:51:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/honeycomb-announces-availability-of-mcp-in-the-new-aws-marketplace-ai-agents-and-tools-category.aspx"
+    },
+    {
+      "id": 53,
+      "title": "Faced with geopolitics and trade war, US companies in China report record-low new investment plans",
+      "summary": "American companies in China are reporting record-low investment plans and declining confidence in profits this year.",
+      "source": "ABC News",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:50:21Z",
+      "url": "https://abcnews.go.com/US/wireStory/faced-geopolitics-trade-war-us-companies-china-report-123808800"
+    },
+    {
+      "id": 54,
+      "title": "Infrastructure as code translation for serverless using AI code assistants",
+      "summary": "Infrastructure as code translation for serverless using AI code assistants is being developed to help manage cloud resources for serverless applications.",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:50:10Z",
+      "url": "https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/"
+    },
+    {
+      "id": 55,
+      "title": "CyberArk Announces Availability of Tools to Secure AI Agents in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "CyberArk announces availability of tools to secure AI agents in the new AWS Marketplace AI Agents and Tools Category",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:49:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/cyberark-announces-availability-of-tools-to-secure-ai-agents-in-the-new-aws-marketplace-ai-agents-and-tools-category.aspx"
+    },
+    {
+      "id": 56,
+      "title": "Tony Hawk’s Pro Skater 3+4 Review – Re-Living The Good Old Days",
+      "summary": "Tony Hawk’s Pro Skater 3+4 Review – Re-Living The Good Old Days - Nostalgia is only going to get you so far, when revisiting something from your youth. Sometimes it'll get you too far, and as a critic, it's important to be aware of those instances, so you're not ignoring the faults in a game or product to the detriment of y…",
+      "source": "Wccftech",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:47:57Z",
+      "url": "https://wccftech.com/review/tony-hawks-pro-skater-3-4-review/"
+    },
+    {
+      "id": 57,
+      "title": "Google finally locks in the date for the Pixel 10 debut",
+      "summary": "Google sets a date for the debut of the Pixel 10 series, marking an advancement in AI technology.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:47:08Z",
+      "url": "https://www.androidpolice.com/pixel-10-launch-event-schedule-confirmed/"
+    },
+    {
+      "id": 58,
+      "title": "Upexi Stock Surges as Solana Climbs—Why the Firm Is Bullish on SOL",
+      "summary": "Consumer products firm Upexi sees their stock surge nearly 39% as they focus on accumulating Solana, reaping rewards from the climb in SOL.",
+      "source": "Decrypt",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:46:46Z",
+      "url": "https://decrypt.co/330463/upexi-stock-surges-solana-climbs-why-bullish-sol"
+    },
+    {
+      "id": 59,
+      "title": "Allowing The Nvidia H20 Into China Is A Good Start — But Not Enough",
+      "summary": "Allowing Nvidia H20 into China is a good step, but more measures are needed such as shipping lower-powered AI chips directly to China and using more powerful chips to serve Chinese companies under strict know-your-customer rules.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:45:01Z",
+      "url": "https://www.forbes.com/sites/patrickmoorhead/2025/07/16/allowing-the-nvidia-h20-into-china-is-a-good-start---but-not-enough/"
+    },
+    {
+      "id": 60,
+      "title": "Re: Correctly dealing with bots and scrapers.",
+      "summary": "Broad IP based blocking may not be effective in dealing with bots and scrapers, and blocking may become problematic. Honorable crawlers will respect robots.txt guidelines.",
+      "source": "Seclists.org",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:44:53Z",
+      "url": "https://seclists.org/nanog/2025/Jul/107"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI",
+      "summary": "AI safety researchers criticize the safety culture at Elon Musk's xAI, calling it reckless and completely irresponsible.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:44:16Z",
+      "url": "https://biztoc.com/x/f4bd887d5fafa869"
+    },
+    {
+      "id": 62,
+      "title": "Elon Musk's SpaceX Commits $2 Billion To xAI In $5 Billion Round As AI Startup Hits $113 Billion Valuation Amid Controversy",
+      "summary": "SpaceX commits $2 billion to xAI in $5 billion round, boosting the AI startup to a $113 billion valuation amid controversy.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:43:52Z",
+      "url": "https://biztoc.com/x/00197e1298d5620a"
+    },
     {
       "id": 51,
       "title": "Why traditional monetization tactics are costing publishers revenue",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T19:06:18Z",
       "url": "http://cacm.acm.org/blogcacm/rethinking-distributed-computing-for-the-ai-era/"
-    },
-    {
-      "id": 60,
-      "title": "Copilot is coming to cars — and so are Teams calls",
-      "summary": "Copilot is coming to cars, allowing Teams calls while on the go.",
-      "source": "PCWorld",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:06:10Z",
-      "url": "https://www.pcworld.com/article/2850680/copilot-is-coming-to-cars-and-so-are-teams-calls-on-the-road.html"
-    },
-    {
-      "id": 61,
-      "title": "OpenAI, Google, and Meta Researchers Warn We May Lose the Ability to Track AI Misbehavior",
-      "summary": "OpenAI, Google, and Meta researchers are warning that as AI models become more complex, it may become increasingly difficult to track and understand their behavior.",
-      "source": "Gizmodo.com",
-      "category": "research",
-      "timestamp": "2025-07-16T19:05:11Z",
-      "url": "https://gizmodo.com/openai-google-and-meta-researchers-warn-we-may-lose-the-ability-to-track-ai-misbehavior-2000630259"
-    },
-    {
-      "id": 62,
-      "title": "cli-whisperer added to PyPI",
-      "summary": "A new tool called cli-whisperer has been added to PyPI, offering voice-to-text capabilities with smart file management and OpenAI formatting. This innovation is set to enhance user experience and streamline workflows for those working with text-based content.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:05:06Z",
-      "url": "https://pypi.org/project/cli-whisperer/"
-    },
-    {
-      "id": 51,
-      "title": "SZA Calls Out Destructive AI Usage: ‘Environmental Racism’ Is the ‘Price for Convenience’",
-      "summary": "SZA criticizes the harmful effects of AI usage, describing it as environmental racism and a price paid for convenience.",
-      "source": "Rolling Stone",
-      "category": "ethics",
-      "timestamp": "2025-07-16T18:50:32Z",
-      "url": "http://www.rollingstone.com/music/music-news/sza-ai-use-environmental-racism-pollution-1235387310/"
-    },
-    {
-      "id": 52,
-      "title": "New Research Shows Data Breaches Keep Coming. Here's How To Protect Yourself",
-      "summary": "New research shows that there were over 1,000 reported data breaches in the first half of 2021, impacting millions of Americans.",
-      "source": "CNET",
-      "category": "research",
-      "timestamp": "2025-07-16T18:50:29Z",
-      "url": "https://www.cnet.com/tech/services-and-software/new-research-shows-data-breaches-keep-coming-heres-how-to-protect-yourself/"
-    },
-    {
-      "id": 53,
-      "title": "CrowdStrike sees cybersecurity innovation hitting warp speed with agentic AI",
-      "summary": "CrowdStrike sees cybersecurity innovation accelerating with agentic AI, transforming threat detection and response. The traditional reactive approach to breaches is being replaced by a smarter, faster model.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:49:44Z",
-      "url": "https://siliconangle.com/2025/07/16/crowdstrike-cybersecurity-innovation-enters-new-era-agentic-ai-awssummitnyc/"
-    },
-    {
-      "id": 54,
-      "title": "Meta-backed Scale AI to cut 200 jobs",
-      "summary": "Meta-backed Scale AI is set to cut 200 jobs, or 14% if its workforce, in order to become more nimble and efficient.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T18:49:02Z",
-      "url": "https://biztoc.com/x/7e7cc5d76a3e8487"
-    },
-    {
-      "id": 55,
-      "title": "Redwood is repurposing GM’s EV batteries into energy storage",
-      "summary": "Redwood is repurposing GM’s EV batteries into energy storage - General Motors and Redwood Materials are joining forces to take EV battery tech beyond the road and onto the grid.",
-      "source": "Electrek",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:48:53Z",
-      "url": "http://electrek.co/2025/07/16/redwood-gm-ev-batteries-energy-storage/"
-    },
-    {
-      "id": 56,
-      "title": "Tech layoffs 2025: How Microsoft, Google, and Meta are plotting for the AI era",
-      "summary": "Tech layoffs in 2025 by big companies like Microsoft, Google, and Meta are shedding thousands of workers, sparking discussions on the motivations behind the workforce reductions.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T18:48:45Z",
-      "url": "https://biztoc.com/x/1459f9dfd13ff181"
-    },
-    {
-      "id": 57,
-      "title": "Zuckerberg says Meta will build data center the size of Manhattan in latest AI push",
-      "summary": "Mark Zuckerberg announced Meta's plan to build a data center the size of Manhattan and spend hundreds of billions on developing artificial intelligence products.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-16T18:48:30Z",
-      "url": "https://biztoc.com/x/8a8f697ba8c40cd1"
-    },
-    {
-      "id": 58,
-      "title": "Supernova Cinematography: How NASA’s Roman Space Telescope Will Create a Movie of Exploding Stars",
-      "summary": "The Nancy Grace Roman Space Telescope is preparing for its science operations by running simulations, including creating a movie of exploding stars like supernovae. The telescope is set to launch in May 2027.",
-      "source": "Universe Today",
-      "category": "research",
-      "timestamp": "2025-07-16T18:47:51Z",
-      "url": "https://www.universetoday.com/articles/supernova-cinematography-how-nasas-roman-space-telescope-will-create-a-movie-of-exploding-stars"
-    },
-    {
-      "id": 59,
-      "title": "As AI surges, Schneider Electric is teaming up with Nvidia to help data centers manage their energy use. Here's how.",
-      "summary": "As AI surges, Schneider Electric is teaming up with Nvidia to help data centers manage their energy use by developing a new reference design to make them more sustainable.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:46:12Z",
-      "url": "https://www.businessinsider.com/schneider-electric-nvidia-ai-data-centers-designs-energy-demands-2025-7"
     }
   ]
 }
