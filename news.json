@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-17T15:44:27.988Z",
+  "lastUpdate": "2025-07-17T15:55:24.951Z",
   "items": [
+    {
+      "id": 51,
+      "title": "As the Nintendo eShop fails to protect from 'eslop', indie devs reflect on how it affects their work and why Steam is just better: 'Their algorithm will more or less naturally bury AI slop'",
+      "summary": "The Nintendo eShop's failure to protect from 'eslop' has indie devs concerned about the impact on their work, as they believe Steam's algorithm handles AI slop better by burying it in a list of releases.",
+      "source": "PC Gamer",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:52:50Z",
+      "url": "https://www.pcgamer.com/software/platforms/as-the-nintendo-eshop-fails-to-protect-from-eslop-indie-devs-reflect-on-how-it-affects-their-work-and-why-steam-is-just-better-their-algorithm-will-more-or-less-naturally-bury-ai-slop/"
+    },
+    {
+      "id": 52,
+      "title": "This Ryzen AI 2-in-1 laptop with 16GB RAM has never been cheaper",
+      "summary": "This Ryzen AI 2-in-1 laptop with 16GB RAM has never been cheaper, making it difficult to find good deals on Windows laptops suitable for running Windows 11 and multiple browser tabs.",
+      "source": "PCWorld",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:52:20Z",
+      "url": "https://www.pcworld.com/article/2850375/this-ryzen-ai-2-in-1-laptop-with-16gb-ram-has-never-been-cheaper.html"
+    },
+    {
+      "id": 53,
+      "title": "SmartPrefabPlacer by Smart Creator",
+      "summary": "SmartPrefabPlacer by Smart Creator allows for effortless placement and preview of prefabs on terrain with snap-to-grid logic, rotation, and path placement, making it perfect for RTS, city builders, and base construction games.",
+      "source": "Unity.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:52:15Z",
+      "url": "https://assetstore.unity.com/packages/tools/painting/smartprefabplacer-324854"
+    },
+    {
+      "id": 54,
+      "title": "mcpstore-cli 0.1.9",
+      "summary": "mcpstore-cli 0.1.9 is a Python MCP server registry and proxy designed for AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:52:14Z",
+      "url": "https://pypi.org/project/mcpstore-cli/0.1.9/"
+    },
+    {
+      "id": 55,
+      "title": "An ode to breaking things",
+      "summary": "An article advocating for the integration of AI in work remains relevant, as we continue to evolve in our approach towards it.",
+      "source": "Uxdesign.cc",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:51:43Z",
+      "url": "https://uxdesign.cc/an-ode-to-breaking-things-9b8ed1cec5ce"
+    },
+    {
+      "id": 56,
+      "title": "RTX 5070-powered Lenovo Legion 5 gaming laptop with octa-core Ryzen AI 7 350 scores sizeable $350 price cut",
+      "summary": "RTX 5070-powered Lenovo Legion 5 gaming laptop with octa-core Ryzen AI 7 350 scores sizeable $350 price cut, making it more affordable for consumers.",
+      "source": "Notebookcheck.net",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:51:00Z",
+      "url": "https://www.notebookcheck.net/RTX-5070-powered-Lenovo-Legion-5-gaming-laptop-with-octa-core-Ryzen-AI-7-350-scores-sizeable-350-price-cut.1059731.0.html"
+    },
+    {
+      "id": 57,
+      "title": "Google inks $3bn US hydropower deal in largest clean energy agreement of its kind",
+      "summary": "Google has signed a $3 billion deal to purchase 3GW of US hydropower, aiming to power its AI and data centers in the eastern states.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:50:58Z",
+      "url": "https://biztoc.com/x/f5d982815873e252"
+    },
+    {
+      "id": 58,
+      "title": "WeTransfer says user content will not be used to train AI after backlash",
+      "summary": "WeTransfer has revised its terms of service to assure users that their content will not be used to train AI, following backlash over the possibility of user files being used to 'improve machine learning models'.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:50:47Z",
+      "url": "https://biztoc.com/x/a5a6985910cc25c9"
+    },
+    {
+      "id": 59,
+      "title": "Google plugs AI into nuclear reactor biz – what could possibly go wrong?",
+      "summary": "Google and Westinghouse Electric are using AI to speed up atomic plant builds and improve the efficiency of the grid.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:50:47Z",
+      "url": "https://biztoc.com/x/f77e09277b926766"
+    },
+    {
+      "id": 60,
+      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
+      "summary": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:50:46Z",
+      "url": "https://biztoc.com/x/7061bedfb86b3e34"
+    },
+    {
+      "id": 61,
+      "title": "As we race headlong into our glorious AI-powered future, are we on the road to Idiocracy? | Peter Lewis",
+      "summary": "As we race headlong into our glorious AI-powered future, concerns are raised about the potential negative impacts and ethics of allowing a massive corporation like OpenAI to set our future agenda.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:50:42Z",
+      "url": "https://biztoc.com/x/70726887b2619bb2"
+    },
+    {
+      "id": 62,
+      "title": "Free AI training to 5.5 lakh village entrepreneurs soon, says Ashwini Vaishnaw",
+      "summary": "Free AI training will be provided to 5.5 lakh village entrepreneurs by the government under the IndiaAI Mission, with the goal of skilling 10 lakh individuals. The initiative focuses on village-level entrepreneurs who offer essential digital services.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:50:12Z",
+      "url": "https://economictimes.indiatimes.com/news/india/free-ai-training-to-5-5-lakh-village-entrepreneurs-soon-says-ashwini-vaishnaw/articleshow/122582935.cms"
+    },
+    {
+      "id": 63,
+      "title": "Zuckerberg Isn’t Done Stealing OpenAI’s Crown Jewels",
+      "summary": "Zuckerberg is continuing to develop AI technology that competes with OpenAI, led by Sam Altman who is unfazed by the competition.",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:50:09Z",
+      "url": "https://gizmodo.com/zuckerberg-isnt-done-stealing-openais-crown-jewels-2000630124"
+    },
+    {
+      "id": 64,
+      "title": "Deals: Galaxy Watch Ultra 2025 + $100 Amazon GC, 240Hz Odyssey monitor $550 off, Google Smart TV $1,000+ off, more",
+      "summary": "Deals on tech products such as the Galaxy Watch Ultra 2025, 240Hz Odyssey monitor, and Google Smart TV are being offered, with discounts and promotions available.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:49:05Z",
+      "url": "http://9to5google.com/2025/07/16/deals-galaxy-watch-ultra-odyssey-monitor-google-smart-tv/"
+    },
+    {
+      "id": 65,
+      "title": "Public Sector: Will Agentic AI Solve Your Integration Problems?",
+      "summary": "Forrester’s government clients are facing integration challenges in the public sector due to underfunded budgets and limited shared services. The pressure is on to implement agentic AI solutions for digital systems.",
+      "source": "Forrester.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:48:49Z",
+      "url": "https://www.forrester.com/blogs/public-sector-will-agentic-ai-solve-your-integration-problems/"
+    },
+    {
+      "id": 66,
+      "title": "LLM Seeding: A New Strategy to Get Mentioned and Cited by LLMs",
+      "summary": "The article discusses a new strategy called LLM Seeding to get mentioned and cited by LLMs in the field of AI. It also mentions that despite asking ChatGPT for the best resources to learn SEO in 2025, Backlinko was recommended twice, even though they don't rank #1 in Google search results.",
+      "source": "Backlinko.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:48:37Z",
+      "url": "https://backlinko.com/llm-seeding"
+    },
+    {
+      "id": 67,
+      "title": "kashima 1.0.7.6",
+      "summary": "Kashima 1.0.7.6 is a new machine learning tool developed for geotechnical earthquake engineering.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T15:47:44Z",
+      "url": "https://pypi.org/project/kashima/1.0.7.6/"
+    },
+    {
+      "id": 68,
+      "title": "Online IQ Test 2025 | Quick, Real, & Accurate IQ Test Now Offered by QuickIQTest.org",
+      "summary": "QuickIQTest.org now offers a real, accurate, and science-based IQ test with instant results, trusted by thousands worldwide.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116686/0/en/Online-IQ-Test-2025-Quick-Real-Accurate-IQ-Test-Now-Offered-by-QuickIQTest-org.html"
+    },
     {
       "id": 51,
       "title": "Sidetrade: 2025 H1 revenue, up 19% at constant exchange rates",
@@ -288,168 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-16T15:12:05Z",
       "url": "https://financialpost.com/pmn/business-pmn/musks-xai-in-talks-with-saudi-firm-humain-on-data-center-deal"
-    },
-    {
-      "id": 63,
-      "title": "Announcing Amazon Nova customization in Amazon SageMaker AI",
-      "summary": "Amazon Nova can now be extensively customized through Amazon SageMaker AI using various techniques like pre-training, fine-tuning, reinforcement learning, and model distillation.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:11:39Z",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/"
-    },
-    {
-      "id": 64,
-      "title": "Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview)",
-      "summary": "Amazon Bedrock AgentCore allows for secure deployment and operation of AI agents at any scale, providing enterprise-grade security and streamlined development with any open-source framework.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:11:33Z",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/"
-    },
-    {
-      "id": 65,
-      "title": "SkillOrbit.io Announces the Launch of Its AI-Powered Learning Academy to Empower Modern Entrepreneurs",
-      "summary": "SkillOrbit.io announced the launch of its AI-powered online academy focused on entrepreneurial education, aimed at empowering modern entrepreneurs. The academy is scheduled to roll out mid-July 2025.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:11:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116648/0/en/SkillOrbit-io-Announces-the-Launch-of-Its-AI-Powered-Learning-Academy-to-Empower-Modern-Entrepreneurs.html"
-    },
-    {
-      "id": 66,
-      "title": "Wildfires show why CBC needs public safety mandate, McGill research centre says",
-      "summary": "A research centre at McGill University argues that public safety should be added to CBC/Radio-Canada's mandate in light of the wildfires across Canada, highlighting the need for a stronger focus on public safety in media.",
-      "source": "CBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:10:57Z",
-      "url": "https://www.cbc.ca/news/canada/montreal/cbc-public-safety-mandate-report-1.7586267"
-    },
-    {
-      "id": 67,
-      "title": "The Latest: Trump administration orders 2,000 National Guard troops to leave LA, some will remain",
-      "summary": "Trump administration ending deployment of 2,000 National Guard troops in LA to support immigration enforcement activities.",
-      "source": "ABC News",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:10:29Z",
-      "url": "https://abcnews.go.com/US/wireStory/latest-trump-administration-orders-2000-national-guard-troops-123767161"
-    },
-    {
-      "id": 68,
-      "title": "Keeping the lights on with nuclear waste: Radiochemistry transforms nuclear waste into strategic materials",
-      "summary": "Radiochemistry transforms nuclear waste into strategic materials, potentially offering a solution for repurposing depleted uranium stockpiles.",
-      "source": "Tech Xplore",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:10:06Z",
-      "url": "https://techxplore.com/news/2025-07-nuclear-radiochemistry-strategic-materials.html"
-    },
-    {
-      "id": 69,
-      "title": "D-Wave Quantum: Can QBTS Stock Deliver Another 1,000% Gain?",
-      "summary": "QBTS stock has surged over 1,000% in the past year thanks to the rising interest in quantum computing, particularly with D-Wave Quantum.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:10:06Z",
-      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/16/d-wave-quantum-can-qbts-stock-deliver-another-1000-gain/"
-    },
-    {
-      "id": 51,
-      "title": "Tech Mahindra’s Q1 profit surges 34% on strong verticals and margin discipline",
-      "summary": "Tech Mahindra's Q1 profit surged 34% on strong verticals like communications, retail, and BFSI, driven by solid performance and margin discipline.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:53:09Z",
-      "url": "https://www.thehindubusinessline.com/news/tech-mahindras-q1-profit-surges-34-on-strong-verticals-and-margin-discipline/article69819499.ece"
-    },
-    {
-      "id": 52,
-      "title": "Tech Mahindra’s Q1 profit surges 34% on strong verticals and margin discipline",
-      "summary": "Tech Mahindra's Q1 profit surged 34% due to strong performance in communications, retail, and BFSI verticals.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:53:09Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/tech-mahindras-q1-profit-surges-34-on-strong-verticals-and-margin-discipline/article69819499.ece"
-    },
-    {
-      "id": 53,
-      "title": "User experience analytics: the ultimate guide",
-      "summary": "UX analytics is the practice of collecting and analyzing user data to understand how people interact with your product.",
-      "source": "Optimizely.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:49:56Z",
-      "url": "https://www.optimizely.com/insights/blog/user-experience-analytics/"
-    },
-    {
-      "id": 54,
-      "title": "Seagate brings HAMR to market with new 30TB Exos and IronWolf Pro drives",
-      "summary": "Seagate has brought HAMR technology to market with new 30TB Exos and IronWolf Pro drives, targeting the mass-market storage segment.",
-      "source": "TechSpot",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:49:00Z",
-      "url": "https://www.techspot.com/news/108686-seagate-brings-hamr-market-new-30tb-exos-ironwolf.html"
-    },
-    {
-      "id": 55,
-      "title": "mcp-clipboardify 1.0.0",
-      "summary": "mcp-clipboardify 1.0.0 is a MCP server that offers clipboard access tools for AI assistants and automation workflows.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:48:22Z",
-      "url": "https://pypi.org/project/mcp-clipboardify/1.0.0/"
-    },
-    {
-      "id": 56,
-      "title": "mcp-clipboardify added to PyPI",
-      "summary": "mcp-clipboardify added to PyPI - MCP server providing clipboard access tools for AI assistants and automation workflows",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:48:22Z",
-      "url": "https://pypi.org/project/mcp-clipboardify/"
-    },
-    {
-      "id": 57,
-      "title": "One chart shows why the stock market could be in a bigger bubble than the dot-com boom",
-      "summary": "Bubble talk has been rising on Wall Street in the years since ChatGPT set off an AI frenzy in the stock market, with one chart showing that the stock market could be in a bigger bubble than the dot-com boom.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:48:13Z",
-      "url": "https://www.businessinsider.com/stock-market-bubble-ai-dot-com-crash-sp500-tech-valuations-2025-7"
-    },
-    {
-      "id": 58,
-      "title": "New J-Pop Wednesday: July 16, 2025",
-      "summary": "This week's New J-Pop Wednesday features multiple artists including HANA, Ai Tomioka, and SEKAI NO OWARI, showcasing the application of AI technology in the music industry for creating and promoting music.",
-      "source": "Livejournal.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:44:43Z",
-      "url": "https://ohnotheydidnt.livejournal.com/130879803.html"
-    },
-    {
-      "id": 59,
-      "title": "Show HN: I built a GitHub AI app to automate the fixing of outdated docs",
-      "summary": "In my 15+ years as a developer, one of the most annoying things I've consistently faced is outdated documentation. A GitHub AI app has been built to automate the fixing of these outdated docs, making maintaining docs easier for developers.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:44:38Z",
-      "url": "https://github.com/marketplace/deepdocsai"
-    },
-    {
-      "id": 60,
-      "title": "Vidnoz AI Unveils Product Avatar and Interactive Avatar, Redefining Marketing Video | Digital More",
-      "summary": "Vidnoz AI introduces Product Avatar and Interactive Avatar, revolutionizing marketing video creation.",
-      "source": "Digitalmore.co",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:44:01Z",
-      "url": "https://digitalmore.co/vidnoz-ai-unveils-product-avatar-and-interactive-avatar-redefining-marketing-video/"
-    },
-    {
-      "id": 61,
-      "title": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside",
-      "summary": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside as the company's stock is on a downward slide this year. Investors are looking for signs of a turnaround during its upcoming July earnings call.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:43:40Z",
-      "url": "https://biztoc.com/x/71fde655e98dc727"
     }
   ]
 }
