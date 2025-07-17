@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-17T23:16:29.015Z",
+  "lastUpdate": "2025-07-17T23:40:27.999Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Vestis, Reckitt, and Tempus and Encourages Investors to Contact the Firm",
+      "summary": "Bragar Eagel & Squire, P.C. is urging investors who suffered losses in Vestis, Reckitt, or Tempus to contact the firm to discuss their options regarding class action lawsuits that have been filed against these companies.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T23:39:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116916/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-Vestis-Reckitt-and-Tempus-and-Encourages-Investors-to-Contact-the-Firm.html"
+    },
+    {
+      "id": 52,
+      "title": "Missouri Faces Surge in Tick Borne Alpha-Gal Syndrome: Health Officials Urge Vigilance - NewsBreak",
+      "summary": "Missouri health officials warn of surge in tick-borne alpha-gal syndrome as Lone Star ticks spread",
+      "source": "Newsbreak.com",
+      "category": "research",
+      "timestamp": "2025-07-16T23:38:19Z",
+      "url": "https://www.newsbreak.com/share/4109478289133-missouri-faces-surge-in-tick-borne-alpha-gal-syndrome-health-officials-urge-vigilance?s=a2&amp;share_destination_id=NDIyNDEzNDctMTc1MjcwOTA0NTgyNg%3D%3D&amp;pd=02rEu3Bx&amp;hl=en_US&amp;send_time=1752709045&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.27.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v8%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v7"
+    },
+    {
+      "id": 53,
+      "title": "'Latam-GPT' adapts to local dialects",
+      "summary": "'Latam-GPT' adapts to local dialects with collaboration from over 30 Latin American institutions to create a version of ChatGPT trained on local languages and nuances.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:36:48Z",
+      "url": "https://biztoc.com/x/c320026aed751cc2"
+    },
+    {
+      "id": 54,
+      "title": "China builds underwater data center",
+      "summary": "China is building an underwater data center to reduce cooling costs and meet the increasing demand for computing power driven by artificial intelligence. Cooling facilities currently require large amounts of water, posing a challenge as water supplies are limited in many regions.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:36:41Z",
+      "url": "https://biztoc.com/x/d5e7e2cab5b54222"
+    },
+    {
+      "id": 55,
+      "title": "SWL Miner: A Unique Opportunity for Smart Investors",
+      "summary": "SWL Miner offers a unique opportunity for smart investors to tap into the potential of cryptocurrency mining with a user-friendly platform and world-class support team, providing a seamless way to earn passive income through cloud mining.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T23:33:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116913/0/en/SWL-Miner-A-Unique-Opportunity-for-Smart-Investors.html"
+    },
+    {
+      "id": 56,
+      "title": "heaven-bml 2.4.4",
+      "summary": "heaven-bml 2.4.4 is a GitHub project management tool designed for AI agents to improve the Build-Measure-Learn cycle. It aims to enhance collaboration and efficiency in developing AI projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:32:19Z",
+      "url": "https://pypi.org/project/heaven-bml/2.4.4/"
+    },
+    {
+      "id": 57,
+      "title": "Indonesia targets 60,000 GPs by 2029 with new task force",
+      "summary": "Indonesia targets 60,000 GPs by 2029 with new task force, involving collaboration between Higher Education, Science, and Technology Ministry, medical faculties, and Ministry of Health to improve healthcare through AI technology.",
+      "source": "Antaranews.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:27:44Z",
+      "url": "https://en.antaranews.com/news/366933/indonesia-targets-60000-gps-by-2029-with-new-task-force"
+    },
+    {
+      "id": 58,
+      "title": "Google Adds Agentic AI Capabilities to Timesketch Cybersecurity Platform",
+      "summary": "Google enhances Timesketch cybersecurity platform with agentic AI capabilities for faster incident response.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:25:28Z",
+      "url": "https://biztoc.com/x/ce8b2de82a9f537f"
+    },
+    {
+      "id": 59,
+      "title": "Nvidia Reloads China — Jensen's Pitch: Let Me Sell The Good Stuff",
+      "summary": "Nvidia is pushing to deliver advanced AI chips in China amidst tensions between the U.S. and China, aiming to regain its foothold in the market.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T23:25:22Z",
+      "url": "https://biztoc.com/x/e3fbda2bb5e4cd5e"
+    },
+    {
+      "id": 60,
+      "title": "Key Jeffrey Epstein Prosecutor Maurene Comey Fired: What We Know",
+      "summary": "Maurene Comey, a key prosecutor in the Jeffrey Epstein and Ghislaine Maxwell cases, was fired. This raises questions about potential ethical concerns regarding the handling of these high-profile cases.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T23:25:16Z",
+      "url": "https://biztoc.com/x/6a9374bdad991332"
+    },
+    {
+      "id": 61,
+      "title": "Hackbots biggest cloud security risk, slashing attack times to minutes",
+      "summary": "Hackbots are posing a significant cloud security risk by drastically reducing attack times to minutes, highlighting the need for organisations to implement runtime protection and automated responses to counter this AI-driven threat.",
+      "source": "ComputerWeekly.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:24:00Z",
+      "url": "https://www.computerweekly.com/news/366627892/Hackbots-biggest-cloud-security-risk-slashing-attack-times-to-minutes"
+    },
+    {
+      "id": 62,
+      "title": "Rebound in marketing budgets driven by short-term media",
+      "summary": "Rebound in marketing budgets driven by short-term media - Reduced pessimism regarding financial prospects at both the company and industry levels",
+      "source": "Marketing Week",
+      "category": "economy",
+      "timestamp": "2025-07-16T23:22:14Z",
+      "url": "https://www.marketingweek.com/ipa-bellwether-marketing-short-term/"
+    },
+    {
+      "id": 63,
+      "title": "Forum held for strengthening subsea cable connectivity, resilience across Indo-Pacific region",
+      "summary": "Forum held in New Delhi to strengthen subsea cable connectivity and resilience across the Indo-Pacific region, showcasing Quad partnership.",
+      "source": "Thehillstimes.in",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:20:00Z",
+      "url": "https://thehillstimes.in/national/forum-held-for-strengthening-subsea-cable-connectivity-resilience-across-indo-pacific-region"
+    },
+    {
+      "id": 64,
+      "title": "After leaving Ubisoft to launch an anime avatar AI/NFT startup, Yves Guillemot's son returns to take charge of its new Tencent-backed Assassin's Creed, Far Cry, and Rainbow 6 subsidiary",
+      "summary": "Yves Guillemot's son returns to take charge of Tencent-backed Assassin's Creed, Far Cry, and Rainbow 6 subsidiary after launching an anime avatar AI/NFT startup.",
+      "source": "PC Gamer",
+      "category": "startups",
+      "timestamp": "2025-07-16T23:19:21Z",
+      "url": "https://www.pcgamer.com/gaming-industry/after-leaving-ubisoft-to-launch-an-anime-avatar-ai-nft-startup-yves-guillemots-son-returns-to-take-charge-of-its-new-tencent-backed-assassins-creed-far-cry-and-rainbow-6-subsidiary/"
+    },
+    {
+      "id": 65,
+      "title": "Ranked: The Best Features Rumored for the iPhone 17 Lineup",
+      "summary": "Ranked: The Best Features Rumored for the iPhone 17 Lineup - We have just under two months to go until the debut of Apple's iPhone 17 models, and rumors have been ramping up in recent weeks.",
+      "source": "MacRumors",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:17:00Z",
+      "url": "https://www.macrumors.com/2025/07/16/iphone-17-lineup-rumors-ranked/"
+    },
+    {
+      "id": 66,
+      "title": "avalan 1.2.5",
+      "summary": "Avalan 1.2.5 is a multi-backend, multi-modal framework designed for the seamless development, orchestration, and deployment of AI agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:16:55Z",
+      "url": "https://pypi.org/project/avalan/1.2.5/"
+    },
     {
       "id": 51,
       "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T22:39:47Z",
       "url": "https://pypi.org/project/gabiteodoru-parseq/"
-    },
-    {
-      "id": 53,
-      "title": "gabiteodoru-parseq 0.1.1",
-      "summary": "gabiteodoru-parseq 0.1.1 is a Q language to Python translator that utilizes AI-powered disambiguation. This tool demonstrates innovation in the field of programming language translation.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:39:47Z",
-      "url": "https://pypi.org/project/gabiteodoru-parseq/0.1.1/"
-    },
-    {
-      "id": 54,
-      "title": "Heatmap and Accuracy Results from Medical Image Classification Models | HackerNoon",
-      "summary": "AI models were tested for tumor and mutation detection, with results showing AUCs, ROC curves, and heatmaps across magnification levels.",
-      "source": "hackernoon.com",
-      "category": "research",
-      "timestamp": "2025-07-16T22:36:33Z",
-      "url": "https://hackernoon.com/preview/tGDlLPQmgScyhiNh6Ufx?ref=hackernoon.com"
-    },
-    {
-      "id": 55,
-      "title": "Hands-On with the Huawei Pura 80 Ultra Golden Black: Pure WOW-ness",
-      "summary": "The Huawei Pura 80 Ultra Golden Black promises to revolutionize smartphone photography with its advanced features. Reviewers are testing its capabilities to see if it lives up to the hype.",
-      "source": "Yanko Design",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:33:59Z",
-      "url": "https://www.yankodesign.com/2025/07/16/hands-on-with-the-huawei-pura-80-ultra-golden-black-pure-wow-ness/"
-    },
-    {
-      "id": 56,
-      "title": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents",
-      "summary": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents, offering a powerful way to boost audience engagement and extend content value for content publishers through video highlights.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:32:42Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accenture-scales-video-analysis-with-amazon-nova-and-amazon-bedrock-agents/"
-    },
-    {
-      "id": 57,
-      "title": "Is our mental health determined by where we live – or is it the other way round? New research sheds more light",
-      "summary": "New research suggests that mental health can be influenced by the environment around us, not just internal factors. The study explores how our surroundings can impact wellbeing and potentially contribute to mental health decline.",
-      "source": "The Conversation Africa",
-      "category": "research",
-      "timestamp": "2025-07-16T22:30:49Z",
-      "url": "https://theconversation.com/is-our-mental-health-determined-by-where-we-live-or-is-it-the-other-way-round-new-research-sheds-more-light-260491"
-    },
-    {
-      "id": 58,
-      "title": "How to Get Your Brand Featured in Google AI Overviews (and Other LLM Answers)",
-      "summary": "Google introduced AI Overviews in 2024, making it a C-Suite metric, and brands are seeking ways to get featured in them.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:30:17Z",
-      "url": "https://contently.com/2025/07/16/how-to-get-your-brand-featured-in-google-ai-overviews/"
-    },
-    {
-      "id": 59,
-      "title": "Millions Of Americans Are Being Advised Not To Go Outside",
-      "summary": "Millions of Americans are being advised not to go outside due to massive wildfires in Canada's Manitoba province, thousands of miles away. They are being warned to stay indoors for health and safety reasons.",
-      "source": "Futurism",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:30:15Z",
-      "url": "https://futurism.com/millions-americans-air-quality-advisory"
-    },
-    {
-      "id": 60,
-      "title": "Zohran Mamdani Meets With Democrats As He Attempts To Gather Key Support",
-      "summary": "Zohran Mamdani, Democratic mayoral primary winner, met with Democratic lawmakers in D.C. to gather key support as he aims to share insights from his primary victory.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T22:29:56Z",
-      "url": "https://biztoc.com/x/2c918d92cf85dc0b"
-    },
-    {
-      "id": 61,
-      "title": "Forget DOGE. Musk Is Suddenly All In on AI",
-      "summary": "Elon Musk is focusing on AI with xAI's latest product launch including a new Grok 4 model and AI companions, such as a pigtailed and corseted anime character.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:29:51Z",
-      "url": "https://biztoc.com/x/a5c653ad71009e8a"
-    },
-    {
-      "id": 62,
-      "title": "Show HN: MCP Adapter – Universal gateway for AI tool coordination",
-      "summary": "MCP Adapter is a gateway for AI coding assistants to connect to external tools and services, particularly useful for development setups.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:29:44Z",
-      "url": "https://github.com/startakovsky/mcp-adapter"
-    },
-    {
-      "id": 63,
-      "title": "Total War: Warhammer 3’s Huge Siege Rework Will Be Playable Soon",
-      "summary": "Total War: Warhammer 3's community team announces a massive rework to Sieges, which will soon be playable for players in beta version.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:28:50Z",
-      "url": "http://comicbook.com/gaming/news/total-war-warhammer-3-siege-rework-beta/"
-    },
-    {
-      "id": 64,
-      "title": "This amazing new battery has life so long you may never have to recharge",
-      "summary": "This amazing new battery combines radiocarbon and perovskite to create a compact nuclear battery with long-lasting power potential for extreme environments and miniature tech applications.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:28:01Z",
-      "url": "https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/"
-    },
-    {
-      "id": 65,
-      "title": "Anthropic Launches Claude for Financial Services",
-      "summary": "Anthropic launches Claude, a solution for financial analysis aimed at helping finance professionals analyze markets, conduct research, and make investment decisions.",
-      "source": "Finovate.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T22:26:45Z",
-      "url": "https://finovate.com/anthropic-launches-claude-for-financial-services/"
-    },
-    {
-      "id": 66,
-      "title": "New Learning Pathway: Deploy AI Models with NVIDIA NIM on GKE",
-      "summary": "Get hands-on experience with Google Kubernetes Engine (GKE) and NVIDIA NIM for AI inference tasks to streamline AI model deployment and optimize performance on NVIDIA GPUs.",
-      "source": "Google News",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:25:46Z",
-      "url": "https://developers.google.com/learn/pathways/deploy-faster-gen-ai-models-nvidia-gke"
-    },
-    {
-      "id": 51,
-      "title": "Bilt Reaches $10.8B Valuation & Announces Home Away From Home Platform",
-      "summary": "Bilt reaches $10.8B valuation and announces Home Away From Home platform, focusing on localizing loyalty through rent and neighborhood offerings.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-16T22:14:41Z",
-      "url": "https://www.forbes.com/sites/jefffromm/2025/07/16/bilt-reaches-108b-valuation--announces-home-away-from-home-platform/"
-    },
-    {
-      "id": 52,
-      "title": "Humans Are Sounding More Like ChatGPT, New Study Suggests",
-      "summary": "New research suggests humans are incorporating more GPT words in their conversations, resembling AI chatbots like ChatGPT.",
-      "source": "Android Headlines",
-      "category": "research",
-      "timestamp": "2025-07-16T22:14:10Z",
-      "url": "https://www.androidheadlines.com/2025/07/humans-talking-like-ai-chatgpt-study.html"
     }
   ]
 }
