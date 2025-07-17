@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-17T22:54:39.344Z",
+  "lastUpdate": "2025-07-17T23:16:29.015Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity",
+      "summary": "OpenAI partners with Google Cloud and Microsoft to meet increased demand for computing capacity",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:10:02Z",
+      "url": "https://www.channelnewsasia.com/business/openai-lists-google-cloud-partner-amid-growing-demand-computing-capacity-5242436"
+    },
+    {
+      "id": 52,
+      "title": "7 Ways Next-Gen Attendees are Reshaping Event Tech",
+      "summary": "Planners must adapt event technology to cater to Millennials and Gen Zers or risk losing their attention.",
+      "source": "Skift",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:10:02Z",
+      "url": "http://meetings.skift.com/2025/07/16/how-next-gen-attendees-are-reshaping-event-tech/"
+    },
+    {
+      "id": 53,
+      "title": "I am dreading the Pixel 10 event",
+      "summary": "The author is feeling anxious about the upcoming Pixel 10 event and questions if the issue lies with themselves rather than the product.",
+      "source": "PhoneArena",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:09:02Z",
+      "url": "https://www.phonearena.com/news/I-am-dreading-the-Pixel-10-event_id172326"
+    },
+    {
+      "id": 54,
+      "title": "SoftBank Aims to Build 1 Billion AI Agents by Year-End",
+      "summary": "SoftBank aims to build 1 billion AI agents by year-end, capable of operating independently without human instruction.",
+      "source": "Newsonjapan.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:07:30Z",
+      "url": "https://newsonjapan.com/article/146383.php"
+    },
+    {
+      "id": 55,
+      "title": "flwr-nightly 1.20.0.dev20250716",
+      "summary": "Flwr-nightly 1.20.0.dev20250716 introduces Flower, a federated AI framework that aims to make AI collaboration more friendly and efficient.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T23:07:12Z",
+      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250716/"
+    },
+    {
+      "id": 56,
+      "title": "Hate Making Phone Calls? Google’s AI Will Make Them for You",
+      "summary": "Google's AI in Search now makes calls and answers queries on users' behalf, with experts warning about potential hidden costs.",
+      "source": "Decrypt",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:04:58Z",
+      "url": "https://decrypt.co/330478/phone-calls-google-ai-make-them-for-you"
+    },
+    {
+      "id": 57,
+      "title": "Posts claim photo shows Trump, Epstein and Bondi. They're almost right",
+      "summary": "Posts claim photo shows Trump, Epstein and Bondi, which is almost correct - the photo authentically depicts U.S. President Donald Trump, Attorney General Pam Bondi, and the now-deceased sex offender Jeffrey Epstein.",
+      "source": "Snopes.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:04:00Z",
+      "url": "https://www.snopes.com//fact-check/trump-epstein-photo-bondi/"
+    },
+    {
+      "id": 58,
+      "title": "HCLTech doubles down on specialised talent hiring",
+      "summary": "HCLTech is ramping up specialised talent hiring by offering higher compensation for freshers in areas like AI and cybersecurity",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T23:03:48Z",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/hcltech-doubles-down-on-specialised-talent-hiring/articleshow/122590110.cms"
+    },
+    {
+      "id": 59,
+      "title": "Let’s hope Kathy Hochul took notes as investors poured $100 billion into Pennsylvania for AI projects",
+      "summary": "Investors poured $100 billion into Pennsylvania for AI projects, highlighting the importance of energy in AI dominance due to the high electricity demands of servers and data farms.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-16T23:03:16Z",
+      "url": "https://nypost.com/2025/07/16/opinion/pray-kathy-hochul-took-notes-as-investors-sunk-100-billion-into-pennsylvania-for-ai/"
+    },
+    {
+      "id": 60,
+      "title": "Big banks warn businesses of Kimberley scam cluster",
+      "summary": "Big banks warn businesses of Kimberley scam cluster, involving bank impersonation scams",
+      "source": "ABC News (AU)",
+      "category": "ethics",
+      "timestamp": "2025-07-16T23:01:04Z",
+      "url": "https://www.abc.net.au/news/2025-07-17/bank-scammers-target-kimberley-businesses/105529024"
+    },
+    {
+      "id": 61,
+      "title": "New eye scan could detect risk of heart attack and stroke",
+      "summary": "New eye scan technology can detect risk of heart attack and stroke by looking for warning signs like blood vessel narrowing or blockages.",
+      "source": "The-independent.com",
+      "category": "research",
+      "timestamp": "2025-07-16T23:01:00Z",
+      "url": "https://www.the-independent.com/life-style/health-and-families/eye-test-heart-attack-stroke-b2790128.html"
+    },
+    {
+      "id": 62,
+      "title": "A Decade Later, Manchester Fashion Week Returns With Green Ambitions",
+      "summary": "Manchester Fashion Week returns with green ambitions, providing a platform for dialogues between fashion pioneers and sustainability advocates while engaging with the city's fast fashion industry.",
+      "source": "WWD",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:01:00Z",
+      "url": "http://wwd.com/business-news/government-trade/manchester-fashion-week-return-1237982806/"
+    },
+    {
+      "id": 63,
+      "title": "This car is just 19 inches wide, and it actually drives",
+      "summary": "This car, known as the 'Flat Fiat,' is only 19 inches wide and is built entirely by hand from scrap materials. Despite its small size, it is able to drive, showcasing innovative design and engineering.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:00:41Z",
+      "url": "https://biztoc.com/x/9f2a5bb59ed84235"
+    },
+    {
+      "id": 64,
+      "title": "Eric Topol explores the science of super-agers and healthy aging [PODCAST]",
+      "summary": "Cardiologist and author Eric Topol discusses the science of super-agers and healthy aging in his new book, Super Agers, exploring what super agers can teach us about longevity and health span.",
+      "source": "Kevinmd.com",
+      "category": "research",
+      "timestamp": "2025-07-16T23:00:38Z",
+      "url": "https://kevinmd.com/2025/07/eric-topol-explores-the-science-of-super-agers-and-healthy-aging-podcast.html"
+    },
+    {
+      "id": 65,
+      "title": "How to Use AI to Battle Bugs in Your Garden",
+      "summary": "These tools help you learn to recognize and work to reduce unwanted pests in your flower beds using AI.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:00:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-battle-bugs-in-your-garden/"
+    },
+    {
+      "id": 66,
+      "title": "Unraveling Disorder-to-Order Transitions and Chemical Ordering in PtCoM Ternary Alloys Using Machine Learning Potential",
+      "summary": "Researchers used machine learning potential to investigate disorder-to-order transitions and chemical ordering in PtCoM ternary alloys, providing insight into their properties. The study, published in Chem. Sci., demonstrates a novel approach to understanding alloy structures and behavior.",
+      "source": "Royal Society of Chemistry",
+      "category": "research",
+      "timestamp": "2025-07-16T23:00:00Z",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04043d"
+    },
+    {
+      "id": 67,
+      "title": "Adata surges on memory boom, eyes AI and Biotech for next growth wave",
+      "summary": "Taiwanese memory module maker Adata Technology reported a surge in after-tax profit in June 2025, signaling a comeback from a loss the previous year. The company is now looking towards AI and Biotech for its next growth wave.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-16T22:58:27Z",
+      "url": "https://www.digitimes.com/news/a20250716PD244/adata-memory-module-profit-growth-loss.html"
+    },
+    {
+      "id": 68,
+      "title": "“Dear ChatGPT, please say my name.”",
+      "summary": "Companies are focusing on getting ChatGPT to mention their name in their marketing plans as it sits on approximately 5 billion monthly visits, indicating the growing importance of AI in marketing strategies.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:58:12Z",
+      "url": "https://contently.com/2025/07/16/dear-chatgpt-please-say-my-name/"
+    },
+    {
+      "id": 69,
+      "title": "Show HN: Phoaiart – Chat-Based AI Photo Editor Built with Flux Kontext",
+      "summary": "PHOAIART is an AI-powered photo editor that allows users to edit images through natural language commands, eliminating the need for buttons or sliders.",
+      "source": "Apple Newsroom",
+      "category": "applications",
+      "timestamp": "2025-07-16T22:54:54Z",
+      "url": "https://apps.apple.com/us/app/phoaiart-ai-photo-editor/id6747897909"
+    },
     {
       "id": 51,
       "title": "Axon’s Draft One Is Designed To Defy Transparency",
@@ -279,177 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-16T22:14:10Z",
       "url": "https://www.androidheadlines.com/2025/07/humans-talking-like-ai-chatgpt-study.html"
-    },
-    {
-      "id": 53,
-      "title": "Texas floods: Myriad of misleading claims besiege Tom Brady in aftermath",
-      "summary": "Former NFL star Tom Brady faces misleading claims regarding his involvement in helping Texas flood victims, including donations, rescues, and attending funerals.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:14:00Z",
-      "url": "https://www.snopes.com//fact-check/texas-floods-tom-brady/"
-    },
-    {
-      "id": 54,
-      "title": "Bible Scholars Now Believe The Seventh Seal In The Book Of Revelation Is The Full Release Of The Epstein List",
-      "summary": "Bible scholars now believe the seventh seal in the book of Revelation is the full release of the Epstein list, according to recent geopolitical developments.",
-      "source": "Babylonbee.com",
-      "category": "research",
-      "timestamp": "2025-07-16T22:12:39Z",
-      "url": "https://babylonbee.com/news/bible-scholars-now-believe-the-seventh-seal-in-the-book-of-revelation-is-the-full-release-of-the-epstein-list"
-    },
-    {
-      "id": 55,
-      "title": "trustgraph-vertexai 1.1.10",
-      "summary": "TrustGraph-VertexAI 1.1.10 offers a flexible AI processing pipeline for efficient processing of components.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:11:00Z",
-      "url": "https://pypi.org/project/trustgraph-vertexai/1.1.10/"
-    },
-    {
-      "id": 56,
-      "title": "trustgraph-mcp 1.1.10",
-      "summary": "TrustGraph-mcp 1.1.10 offers a flexible means to run AI processing components in a pipeline for efficient processing.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:10:58Z",
-      "url": "https://pypi.org/project/trustgraph-mcp/1.1.10/"
-    },
-    {
-      "id": 57,
-      "title": "trustgraph-cli 1.1.10",
-      "summary": "trustgraph-cli 1.1.10 allows for the running of a flexible AI processing pipeline",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:10:53Z",
-      "url": "https://pypi.org/project/trustgraph-cli/1.1.10/"
-    },
-    {
-      "id": 58,
-      "title": "trustgraph-bedrock 1.1.10",
-      "summary": "TrustGraph Bedrock 1.1.10 offers a flexible AI processing pipeline for achieving reliable processing outcomes.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:10:52Z",
-      "url": "https://pypi.org/project/trustgraph-bedrock/1.1.10/"
-    },
-    {
-      "id": 59,
-      "title": "trustgraph-base 1.1.10",
-      "summary": "TrustGraph-base 1.1.10 provides a flexible AI processing pipeline for achieving various processing tasks.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:10:50Z",
-      "url": "https://pypi.org/project/trustgraph-base/1.1.10/"
-    },
-    {
-      "id": 60,
-      "title": "trustgraph 1.1.10",
-      "summary": "TrustGraph 1.1.10 enables running a flexible AI processing pipeline to achieve desired outcomes.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:10:49Z",
-      "url": "https://pypi.org/project/trustgraph/1.1.10/"
-    },
-    {
-      "id": 61,
-      "title": "The New Standard: Earning Trust At Scale In The Age Of AI",
-      "summary": "Trust is crucial in industries relying on human trust like financial services and healthcare, especially as AI becomes more prevalent.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:08:34Z",
-      "url": "https://www.forbes.com/sites/brentgleeson/2025/07/16/the-new-standard-earning-trust-at-scale-in-the-age-of-ai/"
-    },
-    {
-      "id": 62,
-      "title": "Driving an AI-Embedded Car Is More Natural Than You Think",
-      "summary": "Driving an AI-Embedded Car Is More Natural Than You Think - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:08:08Z",
-      "url": "https://biztoc.com/x/8f031132e2a211c5"
-    },
-    {
-      "id": 63,
-      "title": " Neymar v Arrascaeta? Santos and Flamengo reveal official line-ups",
-      "summary": "Santos and Flamengo face off in a Brasileirão 2025 match, with Flamengo leading the championship",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:06:00Z",
-      "url": "https://onefootball.com/en/news/neymar-v-arrascaeta-santos-and-flamengo-reveal-official-line-ups-41385207"
-    },
-    {
-      "id": 64,
-      "title": "Merz visits UK as Europe closes ranks in face of threats",
-      "summary": "Friedrich Merz visits UK to meet with British Prime Minister as part of broader push to reset EU's relationship",
-      "source": "The Star Online",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:05:00Z",
-      "url": "https://www.thestar.com.my/news/world/2025/07/17/merz-visits-uk-as-europe-closes-ranks-in-face-of-threats"
-    },
-    {
-      "id": 65,
-      "title": "The Limitless AI Pendant feels like spiritual predecessor to the inevitable OpenAI wearable device",
-      "summary": "The Limitless AI Pendant feels like spiritual predecessor to the inevitable OpenAI wearable device - The Limitless AI Pendant represents a fascinating convergence of advanced technology and thoughtful design.",
-      "source": "Yanko Design",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:03:29Z",
-      "url": "https://www.yankodesign.com/2025/07/16/the-limitless-ai-pendant-feels-like-spiritual-predecessor-to-the-inevitable-openai-wearable-device/"
-    },
-    {
-      "id": 66,
-      "title": "TSMC quarterly profit seen hitting record but Trump tariffs, forex a concern",
-      "summary": "TSMC is expected to report record quarterly profits, but concerns about Trump tariffs and foreign exchange rates remain.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-16T22:02:27Z",
-      "url": "https://www.livemint.com/companies/company-results/tsmc-quarterly-profit-seen-hitting-record-but-trump-tariffs-forex-a-concern-11752703347833.html"
-    },
-    {
-      "id": 67,
-      "title": "TSMC quarterly profit seen hitting record but Trump tariffs, forex a concern",
-      "summary": "TSMC is expected to achieve record profits in the second quarter as the main producer of advanced AI chips, but concerns about U.S. tariffs and a strong Taiwan dollar may impact its future outlook.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-16T22:01:57Z",
-      "url": "https://www.channelnewsasia.com/business/tsmc-quarterly-profit-seen-hitting-record-trump-tariffs-forex-concern-5242346"
-    },
-    {
-      "id": 68,
-      "title": "40% of digital ads will be made with gen AI in 2026",
-      "summary": "40% of digital ads will be made with gen AI in 2026",
-      "source": "Tubefilter",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:01:42Z",
-      "url": "https://www.tubefilter.com/2025/07/16/40-of-ads-will-be-made-with-gen-ai-in-2026/"
-    },
-    {
-      "id": 69,
-      "title": "Top 2025 AI SEO Agency Rankings – The Elite 10",
-      "summary": "Top 2025 AI SEO Agency Rankings highlight the significant impact of artificial intelligence on search engine optimization, showcasing the transformative power of AI in this field.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:01:35Z",
-      "url": "https://contently.com/2025/07/16/top-2025-ai-seo-agency-rankings-the-elite-10/"
-    },
-    {
-      "id": 70,
-      "title": "Driving an AI-Embedded Car Is More Natural Than You Think",
-      "summary": "Driving an AI-Embedded Car Is More Natural Than You Think - Cars driven by AI are the future, even if Americans mistrust the medium.",
-      "source": "Newsweek",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:01:01Z",
-      "url": "https://www.newsweek.com/driving-ai-embedded-car-more-natural-you-think-2097812"
-    },
-    {
-      "id": 51,
-      "title": "tagent 0.6.4",
-      "summary": "tagent 0.6.4 is a Modular AI Agent Framework with Dynamic Tool Discovery.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T21:49:15Z",
-      "url": "https://pypi.org/project/tagent/0.6.4/"
     }
   ]
 }
