@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-17T08:07:06.899Z",
+  "lastUpdate": "2025-07-17T08:12:22.591Z",
   "items": [
+    {
+      "id": 11,
+      "title": "Two weeks of showtime in Parliament, the new Plevris law, Euronext advances on the Hellenic Exchange, a (faint) light in Santorini, no deal for AVAX",
+      "summary": "Two weeks of showtime in Parliament, the new Plevris law, Euronext advances on the Hellenic Exchange, a (faint) light in Santorini, no deal for AVAX",
+      "source": "Protothema.gr",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:11:41Z",
+      "url": "https://en.protothema.gr/2025/07/16/two-weeks-of-showtime-in-parliament-the-new-plevris-law-euronext-advances-on-the-hellenic-exchange-a-faint-light-in-santorini-no-deal-for-avax/"
+    },
+    {
+      "id": 12,
+      "title": "Australian AI startup granted AUKUS exemption for autonomous vessel software",
+      "summary": "Australian AI startup granted AUKUS exemption for autonomous vessel software, allowing it to share information with defence contractors in the U.S. and Britain.",
+      "source": "CNA",
+      "category": "startups",
+      "timestamp": "2025-07-16T08:10:03Z",
+      "url": "https://www.channelnewsasia.com/business/australian-ai-startup-granted-aukus-exemption-autonomous-vessel-software-5241101"
+    },
+    {
+      "id": 13,
+      "title": "Fluence Energy (NASDAQ:FLNC) Earns “Neutral” Rating from Mizuho",
+      "summary": "Fluence Energy (NASDAQ:FLNC) Earns 'Neutral' Rating from Mizuho",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-16T08:08:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/16/fluence-energy-nasdaqflnc-earns-neutral-rating-from-mizuho/"
+    },
+    {
+      "id": 14,
+      "title": "Jeff Kopman Sells 470,000 Shares of ThreeD Capital Inc (CNSX:IDK) Stock",
+      "summary": "Jeff Kopman sold 470,000 shares of ThreeD Capital Inc stock in a transaction totaling $40,420.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:08:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/16/jeff-kopman-sells-470000-shares-of-threed-capital-inc-cnsxidk-stock/"
+    },
+    {
+      "id": 15,
+      "title": "The Goldman Sachs Group Begins Coverage on Nebius Group (NASDAQ:NBIS)",
+      "summary": "Goldman Sachs initiates coverage on Nebius Group with a buy rating and $68.00 price target.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-16T08:08:47Z",
+      "url": "https://www.etfdailynews.com/2025/07/16/the-goldman-sachs-group-begins-coverage-on-nebius-group-nasdaqnbis/"
+    },
+    {
+      "id": 16,
+      "title": "ThreeD Capital Inc (CNSX:IDK) Insider 1313366 Ontario Inc. Sells 470,000 Shares",
+      "summary": "Insider of ThreeD Capital Inc sells 470,000 shares of stock at an average price of $0.09",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:08:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/16/threed-capital-inc-cnsxidk-insider-1313366-ontario-inc-sells-470000-shares/"
+    },
+    {
+      "id": 17,
+      "title": "As Huawei Ascend courts the Middle East and Southeast Asia, Washington raises red flags",
+      "summary": "Huawei Ascend AI chips face potential export control violations, raising concerns from the US Department of Commerce as the company expands in the Middle East and Southeast Asia.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:08:28Z",
+      "url": "https://www.digitimes.com/news/a20250715PD204/huawei-ascend-chips-saudi-arabia-malaysia-us-china-trade-war.html"
+    },
+    {
+      "id": 18,
+      "title": "Regenerative Agriculture Market Size, Share, Trends Analysis and Strategy Forecast 2025-2034 - The Industry is Expected to Mature Into a Collaborative Ecosystem",
+      "summary": "Regenerative Agriculture Market is expected to mature into a collaborative ecosystem driven by sustainable farming practices, ESG commitments, and climate resilience, with emerging technologies and certifications catalyzing global market expansion.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:08:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116168/28124/en/Regenerative-Agriculture-Market-Size-Share-Trends-Analysis-and-Strategy-Forecast-2025-2034-The-Industry-is-Expected-to-Mature-Into-a-Collaborative-Ecosystem.html"
+    },
+    {
+      "id": 19,
+      "title": "Military Thermal Camera Global and Regional Analysis Report 2025-2034 | Demand for All-weather and Night-vision Capabilities, & AI Integration to Propel the Future of the $13.42 Billion Market",
+      "summary": "The military thermal camera market is rapidly growing due to advancements in sensor technology, AI integration, and global defense modernization efforts.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:06:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116165/28124/en/Military-Thermal-Camera-Global-and-Regional-Analysis-Report-2025-2034-Demand-for-All-weather-and-Night-vision-Capabilities-AI-Integration-to-Propel-the-Future-of-the-13-42-Billion-.html"
+    },
+    {
+      "id": 20,
+      "title": "Redwood Bank names new CITO",
+      "summary": "Redwood Bank appoints Simon Goodyear as new CITO to focus on technology, data excellence, and operational efficiency.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-16T08:05:12Z",
+      "url": "https://www.finextra.com/pressarticle/106360/redwood-bank-names-new-cito"
+    },
+    {
+      "id": 21,
+      "title": "Anti-Money Laundering (AML) Software Global and Regional Market Analysis Report 2025-2034 | Cloud-Based Solutions Drive Accelerated Growth with ACI, NICE Actimize, Verafin Solutions, and IMTF Leading",
+      "summary": "The global anti-money laundering (AML) software market is thriving as financial institutions and various sectors intensify efforts to adhere to stringent regulations combating financial crimes.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116164/28124/en/Anti-Money-Laundering-AML-Software-Global-and-Regional-Market-Analysis-Report-2025-2034-Cloud-Based-Solutions-Drive-Accelerated-Growth-with-ACI-NICE-Actimize-Verafin-Solutions-and-.html"
+    },
+    {
+      "id": 22,
+      "title": "Mobile Mining Meets Bitcoin, PFMCrypto Brings BTC Cloud Mining to Mobile Devices",
+      "summary": "With PFMCrypto's app-based platform, anyone can start mining BTC remotely and receive daily crypto income without hardware.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T08:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116163/0/en/Mobile-Mining-Meets-Bitcoin-PFMCrypto-Brings-BTC-Cloud-Mining-to-Mobile-Devices.html"
+    },
+    {
+      "id": 23,
+      "title": "How will age verification for porn work and what about privacy?",
+      "summary": "UK will implement stricter age verification for online porn, raising concerns over privacy and data protection.",
+      "source": "BBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-16T08:04:09Z",
+      "url": "https://www.bbc.com/news/articles/ceq7ye3q2zwo"
+    },
+    {
+      "id": 24,
+      "title": "What You Need to Know Ahead of Airbnb’s Earnings Release",
+      "summary": "AI stocks and investing ideas related to AI are discussed in anticipation of Airbnb's earnings release.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:04:08Z",
+      "url": "https://biztoc.com/x/0839d9136edf6382"
+    },
+    {
+      "id": 25,
+      "title": "Autonomous Underwater Vehicles Global Markets Report 2025-2030 | Increasing Expansion in Deep-Sea Exploration, Rapid Growth of Renewable Energy, Rising Demand in Climate and Environmental Research",
+      "summary": "The report offers an in-depth analysis of the global autonomous underwater vehicle (AUV) market, covering key segments such as payload and product types, applications, and regional dynamics. It highlights trends, growth drivers, and market projections.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:04:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116162/28124/en/Autonomous-Underwater-Vehicles-Global-Markets-Report-2025-2030-Increasing-Expansion-in-Deep-Sea-Exploration-Rapid-Growth-of-Renewable-Energy-Rising-Demand-in-Climate-and-Environmen.html"
+    },
+    {
+      "id": 26,
+      "title": "'I Know What You Did Last Summer' Reboot: A Summer Must-See",
+      "summary": "'I Know What You Did Last Summer' Reboot: A Summer Must-See' voice is AI-generated, with potential inconsistencies. The writer and fan behind the reboot aims to deliver an enjoyable experience to viewers.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T08:03:50Z",
+      "url": "https://biztoc.com/x/a794cb80161a5988"
+    },
     {
       "id": 1,
       "title": "Jim Cramer reviews some of the 'terrifying' ups and downs of earnings season",
