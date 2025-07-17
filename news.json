@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-17T19:51:42.271Z",
+  "lastUpdate": "2025-07-17T20:18:01.846Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Google Search can now make AI-powered phone calls for you",
+      "summary": "Google Search now has an AI-powered feature to make phone calls on behalf of users to local businesses.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:16:01Z",
+      "url": "https://www.neowin.net/news/google-search-can-now-make-ai-powered-phone-calls-for-you/"
+    },
+    {
+      "id": 52,
+      "title": "Wix Launches AI Visibility Overview With Full Generative Engine Optimization Support For AI-Powered Search",
+      "summary": "Wix launches AI Visibility Overview with full generative engine optimization support, positioning brands for discoverability in the emerging era of large language models.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:16:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/wix-launches-ai-visibility-overview-with-full-generative-engine-optimization-support-for-ai-powered-search.aspx"
+    },
+    {
+      "id": 53,
+      "title": "A Third of Galaxy S25 Users Aren’t Using AI Features, and Samsung’s Not Exactly Sure Why",
+      "summary": "A Third of Galaxy S25 Users Aren’t Using AI Features, and Samsung’s Not Exactly Sure Why - Samsung has spent the last 18 months pitching its phones as AI phones.",
+      "source": "Gizchina.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:15:04Z",
+      "url": "https://www.gizchina.com/2025/07/16/a-third-of-galaxy-s25-users-arent-using-ai-features-and-samsungs-not-exactly-sure-why/"
+    },
+    {
+      "id": 54,
+      "title": "South Plains Financial, Inc. Reports Second Quarter 2025 Financial Results",
+      "summary": "South Plains Financial, Inc. reported its financial results for the second quarter of 2025, showing the company's performance during that period.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116845/0/en/South-Plains-Financial-Inc-Reports-Second-Quarter-2025-Financial-Results.html"
+    },
+    {
+      "id": 55,
+      "title": "These ASX 200 shares could rise 20% to 35%",
+      "summary": "These ASX 200 shares are predicted to rise by 20% to 35%, prompting speculation on the reasons behind the potential strong growth.",
+      "source": "Motley Fool Australia",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:15:00Z",
+      "url": "https://www.fool.com.au/2025/07/17/these-asx-200-shares-could-rise-20-to-35-2/"
+    },
+    {
+      "id": 56,
+      "title": "abgrouponline 1.0.1",
+      "summary": "abgrouponline 1.0.1 offers state-of-the-art machine learning models and frameworks for real-world applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:14:25Z",
+      "url": "https://pypi.org/project/abgrouponline/1.0.1/"
+    },
+    {
+      "id": 57,
+      "title": "AWS empowers devs with Kiro, AgentCore and an agentic AI roadmap",
+      "summary": "AWS is empowering developers with agentic AI tools and a roadmap for the future, signaling a fundamental shift in software development towards more AI-driven processes.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:12:24Z",
+      "url": "https://siliconangle.com/2025/07/16/agentic-aws-spec-driven-development-kiro-agentcore-aicloudleaders/"
+    },
+    {
+      "id": 58,
+      "title": "Amazon’s humble history: Jeff Bezos used a rented garage as an office and held team meetings at a local Barnes & Noble",
+      "summary": "Amazon's humble beginnings in a rented garage led to its current status as a $2.4 trillion enterprise.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-16T20:12:02Z",
+      "url": "https://fortune.com/2025/07/16/jeff-bezos-amazon-history-rented-garage-barnes-noble-team-meetings/"
+    },
+    {
+      "id": 59,
+      "title": "Caylent Renews Strategic Collaboration Agreement with AWS to Deliver Industry-Specific GenAI Solutions",
+      "summary": "Caylent renews strategic collaboration agreement with AWS to deliver industry-specific GenAI solutions, aiming to accelerate enterprise cloud adoption and GenAI enablement.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:12:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/caylent-renews-strategic-collaboration-agreement-with-aws-to-deliver-industry-specific-genai-solutions.aspx"
+    },
+    {
+      "id": 60,
+      "title": "Nvidia's new consumer desktop PC chip reportedly delayed well into 2026",
+      "summary": "Nvidia's consumer desktop PC chip N1 and N1X delayed to at least 2026 due to reported 'critical hardware defects', possibly needing silicon respin.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:11:47Z",
+      "url": "https://www.tomshardware.com/pc-components/cpus/nvidias-new-consumer-desktop-pc-chip-reportedly-delayed-well-into-2026"
+    },
+    {
+      "id": 61,
+      "title": "Healthcare AI News 7/16/25",
+      "summary": "AdventHealth Shawnee Mission is suing Blue Cross Blue Shield of...",
+      "source": "Histalk2.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T20:11:34Z",
+      "url": "https://histalk2.com/2025/07/16/healthcare-ai-news-7-16-25/"
+    },
     {
       "id": 51,
       "title": "Robots in China are riding the subway to make 7-Eleven deliveries",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T19:21:54Z",
       "url": "https://biztoc.com/x/67e22c9e4428db11"
-    },
-    {
-      "id": 63,
-      "title": "Should You Be Adding Kinsale Capital Group (NYSE:KNSL) To Your Watchlist Today?",
-      "summary": "Should You Be Adding Kinsale Capital Group (NYSE:KNSL) To Your Watchlist Today?",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:21:44Z",
-      "url": "https://finance.yahoo.com/news/adding-kinsale-capital-group-nyse-192144113.html"
-    },
-    {
-      "id": 64,
-      "title": "OpenAI Is Eating Microsoft’s Lunch",
-      "summary": "OpenAI is emerging as a competitive player against Microsoft, potentially impacting the company's market share. Copilot, a tool developed by OpenAI and used by Microsoft, is being removed from their software offerings.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:20:44Z",
-      "url": "https://gizmodo.com/openai-is-eating-microsofts-lunch-2000630194"
-    },
-    {
-      "id": 51,
-      "title": "Microsoft Is Testing Letting Copilot AI Interact With Your Whole Desktop",
-      "summary": "Microsoft is testing a new feature for Copilot AI which allows it to interact with the contents of your entire desktop, giving it greater access to the screen.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:12:07Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394966"
-    },
-    {
-      "id": 52,
-      "title": "EXCLUSIVE: Epstein-Funded MIT Lab Hosted Panel On Giving Pedos Child Sex Robots",
-      "summary": "Epstein-Funded MIT Lab hosted a panel on child sex robots, raising ethical concerns about the use of AI for such purposes.",
-      "source": "The Daily Caller",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:12:05Z",
-      "url": "https://dailycaller.com/2025/07/16/exclusive-epstein-funded-mit-lab-hosted-panel-on-giving-pedos-child-sex-robots/"
-    },
-    {
-      "id": 53,
-      "title": "What is the probability that future AI development will be seriously delayed or ended due to energy decline ?",
-      "summary": "What is the probability that future AI development will be seriously delayed or ended due to energy decline?",
-      "source": "Lesswrong.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:11:40Z",
-      "url": "https://www.lesswrong.com/posts/ExN6hw4Jh7fLEqAha/what-is-the-probability-that-future-ai-development-will-be"
-    },
-    {
-      "id": 54,
-      "title": "Will Gamers Care About ‘Cyberpunk 2077’ on Mac Like They Did With the Switch 2?",
-      "summary": "Gamers may be disappointed in how well 'Cyberpunk 2077' runs on Mac, similar to the issues experienced with the Nintendo Switch 2.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:10:04Z",
-      "url": "https://gizmodo.com/will-gamers-care-about-cyberpunk-2077-on-mac-like-they-did-with-the-switch-2-2000630095"
-    },
-    {
-      "id": 55,
-      "title": "The Situation With Jeffrey Epstein, Donald Trump and Elon Musk Is Absolutely Bizarre",
-      "summary": "The news discusses the bizarre situation involving Jeffrey Epstein, Donald Trump, and Elon Musk, with Trump's supporters becoming disillusioned after his erratic behavior on social media. The focus is on the ethical implications surrounding the handling of the Jeffrey Epstein crisis.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:09:57Z",
-      "url": "https://futurism.com/situation-jeffrey-epstein-donald-trump-elon-musk-bizarre"
-    },
-    {
-      "id": 56,
-      "title": "Shoot, Survive & Lawyer Up – Epi-3705",
-      "summary": "Can you afford to defend yourself physically and financially after a self-defense situation involving a gun? This AI-related news article raises important ethical questions about the implications of carrying a weapon and being involved in a life-threatening situation.",
-      "source": "Thesurvivalpodcast.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:09:46Z",
-      "url": "https://www.thesurvivalpodcast.com/cost-of-defense"
-    },
-    {
-      "id": 57,
-      "title": "Opinion: AI must back the blue, not stymie",
-      "summary": "A controversial facial recognition system in New Orleans has reignited the debate over the unchecked use of artificial intelligence by the government, highlighting AI surveillance networks with the power to scan, identify, and flag individuals in public.",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:09:35Z",
-      "url": "https://www.bostonherald.com/2025/07/16/opinion-ai-must-back-the-blue-not-stymie/"
-    },
-    {
-      "id": 58,
-      "title": "Democrats Are Trying Something So Dumb It’s Honestly Hard To Believe It’s Real",
-      "summary": "Democrats have found their 'left's Joe Rogan' in an AI-powered program, which could potentially revolutionize political discourse.",
-      "source": "The Daily Caller",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:09:32Z",
-      "url": "https://dailycaller.com/2025/07/16/dnc-jaime-harrison-at-our-table-podcast-joe-rogan/"
-    },
-    {
-      "id": 59,
-      "title": "Rethinking Distributed Computing for the AI Era",
-      "summary": "DeepSeek's mixture-of-experts approach is rethinking distributed computing for the AI era by making computation sparse again.",
-      "source": "Acm.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:06:18Z",
-      "url": "http://cacm.acm.org/blogcacm/rethinking-distributed-computing-for-the-ai-era/"
     }
   ]
 }
