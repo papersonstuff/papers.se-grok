@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-17T20:43:31.295Z",
+  "lastUpdate": "2025-07-17T20:55:24.961Z",
   "items": [
+    {
+      "id": 51,
+      "title": "As federal job losses mount, Fairfax leaders sound alarm",
+      "summary": "Fairfax County is facing an unemployment crisis as federal job losses mount, according to Fairfax Board Chairman Jeff McKay and Senate Majority Leader Scott Surovell.",
+      "source": "Richmond.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:55:00Z",
+      "url": "https://richmond.com/news/state-regional/government-politics/article_1a6e2731-d341-4b29-8d42-db49dd43753c.html"
+    },
+    {
+      "id": 52,
+      "title": " When and where are River Plate playing in the Copa Argentina",
+      "summary": "River Plate has announced the date and venue of their match in the Copa Argentina, as they prepare to compete in the round of 32 against San Martín de Tucumán.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:55:00Z",
+      "url": "https://onefootball.com/en/news/when-and-where-are-river-plate-playing-in-the-copa-argentina-41384952"
+    },
+    {
+      "id": 53,
+      "title": "Can AI really code? Study maps the roadblocks to autonomous software engineering",
+      "summary": "Researchers led by computer scientists at MIT have mapped the challenges of AI in software development, and outlined a research agenda to move the field forward.",
+      "source": "Mit.edu",
+      "category": "research",
+      "timestamp": "2025-07-16T20:55:00Z",
+      "url": "https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716"
+    },
+    {
+      "id": 54,
+      "title": "Trump says he ‘talked about the concept of firing’ Jerome Powell. Stocks went for a ride",
+      "summary": "Trump's comments on potentially firing Jerome Powell caused fluctuations in the stock market, with the S&P 500 ultimately rising 0.3%. The Dow and Nasdaq also saw gains after initially dropping.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:54:34Z",
+      "url": "https://fortune.com/2025/07/16/will-donald-trump-fire-jerome-powell-stock-market-impact/"
+    },
+    {
+      "id": 55,
+      "title": "India eyes global quantum computer push — and QpiAI is its chosen vehicle",
+      "summary": "QpiAI, an Indian startup focusing on integrating AI and quantum computing for enterprise use cases, has secured $32 million in funding to help India push for global quantum computer dominance.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-16T20:54:01Z",
+      "url": "https://finance.yahoo.com/news/india-eyes-global-quantum-computer-205401794.html"
+    },
+    {
+      "id": 56,
+      "title": "DAVID BLACKMON: How Pittsburgh Plans To Leverage Local Gas, Nuclear To Become A Major AI Hub",
+      "summary": "Pittsburgh plans to leverage local gas and nuclear resources to become a major AI hub, as discussed at the Pennsylvania Energy and Innovation Summit at Carnegie Mellon University.",
+      "source": "The Daily Caller",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:53:53Z",
+      "url": "https://dailycaller.com/2025/07/16/opinion-how-pittsburgh-plans-to-leverage-local-gas-nuclear-to-become-a-major-ai-hub-david-blackmon/"
+    },
+    {
+      "id": 57,
+      "title": "XRP price surges, NR7 Miner launches XRP cloud mining: stable income in 82% market volatility",
+      "summary": "XRP price surges, NR7 Miner launches XRP cloud mining: stable income in 82% market volatility - Innovative Dual-Income Strategy Merges XRP Appreciation Potential with Low-Risk Cloud Mining",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:53:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116865/0/en/XRP-price-surges-NR7-Miner-launches-XRP-cloud-mining-stable-income-in-82-market-volatility.html"
+    },
+    {
+      "id": 58,
+      "title": "Building AI Agents with LLMs, RAG, and Knowledge Graphs",
+      "summary": "This news discusses a practical guide to building AI agents with LLMs, RAG, and knowledge graphs. The eBook provides insights into creating autonomous and modern AI agents.",
+      "source": "Wowebook.org",
+      "category": "research",
+      "timestamp": "2025-07-16T20:51:40Z",
+      "url": "https://www.wowebook.org/building-ai-agents-with-llms-rag-and-knowledge-graphs/"
+    },
+    {
+      "id": 59,
+      "title": "1Password Announces Availability of MCP Server for Trelica by 1Password in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "1Password has launched MCP Server for Trelica in the new AWS Marketplace AI Agents and Tools category, offering a new AI-powered solution for users.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:51:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/1password-announces-availability-of-mcp-server-for-trelica-by-1password-in-the-new-aws-marketplace-ai-agents-and-tools-category.aspx"
+    },
+    {
+      "id": 60,
+      "title": "Iran's Supreme Leader Warns His Country Could Deliver 'Greater Blow' to US",
+      "summary": "Iran's Supreme Leader warns that Iran could deliver a greater blow to the US, raising concerns about potential escalations in tensions between the two countries.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T20:50:33Z",
+      "url": "https://biztoc.com/x/bcd6b98fcdc7710b"
+    },
+    {
+      "id": 61,
+      "title": "Supreme Court Called to Settle High-Stakes Water Battle Between Two States",
+      "summary": "Nebraska is taking its long-standing water feud with Colorado to the nation's highest court, filing a lawsuit with the U.S. Supreme Court over Colorado's water usage from the South Platte River.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T20:50:26Z",
+      "url": "https://biztoc.com/x/0ed48ac00d67eabc"
+    },
+    {
+      "id": 62,
+      "title": "Google’s new AI tools in Search can now call businesses and do deep research for you",
+      "summary": "Google's new AI tools in Search can now call businesses, do deep research, and feature agent-like capabilities. Gemini 2.5 Pro and Deep Search are integrated into AI Mode for enhanced functions.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:50:07Z",
+      "url": "https://www.phonearena.com/news/googles-new-ai-tools-in-search-can-now-call-businesses-and-do-deep-research-for-you_id172327"
+    },
+    {
+      "id": 63,
+      "title": "Stephen King’s Strange Tweet About ‘Epstein List’ Sparks Conspiracy Theories",
+      "summary": "Stephen King's tweet about 'Epstein List' sparking conspiracy theories raises ethical concerns about spreading misinformation.",
+      "source": "Boredpanda.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T20:49:06Z",
+      "url": "https://www.boredpanda.com/stephen-king-bizarre-epstein-list-statement/"
+    },
+    {
+      "id": 64,
+      "title": "CrowdStrike Brings Agentic AI Security Workflow Integrations and GenAI Protection to AWS Marketplace",
+      "summary": "CrowdStrike has partnered with AWS to bring Agentic AI Security Workflow Integrations and GenAI Protection to AWS Marketplace, aiming to accelerate AI adoption in cybersecurity and secure AI use.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:49:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/crowdstrike-brings-agentic-ai-security-workflow-integrations-and-genai-protection-to-aws-marketplace.aspx"
+    },
+    {
+      "id": 65,
+      "title": "Longplay for Mac",
+      "summary": "Longplay 1.0, an AI-related app, was released in August 2020 and received positive feedback. Adrian Schönig, the creator, was pleased with the response from a wider audience.",
+      "source": "Mjtsai.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:48:52Z",
+      "url": "https://mjtsai.com/blog/2025/07/16/longplay-for-mac/"
+    },
     {
       "id": 51,
       "title": "SiMa.ai to Accelerate Edge AI Adoption with Cisco for Industry 4.0",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T19:45:01Z",
       "url": "https://www.forbes.com/sites/patrickmoorhead/2025/07/16/allowing-the-nvidia-h20-into-china-is-a-good-start---but-not-enough/"
-    },
-    {
-      "id": 60,
-      "title": "Re: Correctly dealing with bots and scrapers.",
-      "summary": "Broad IP based blocking may not be effective in dealing with bots and scrapers, and blocking may become problematic. Honorable crawlers will respect robots.txt guidelines.",
-      "source": "Seclists.org",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:44:53Z",
-      "url": "https://seclists.org/nanog/2025/Jul/107"
-    },
-    {
-      "id": 61,
-      "title": "OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI",
-      "summary": "AI safety researchers criticize the safety culture at Elon Musk's xAI, calling it reckless and completely irresponsible.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:44:16Z",
-      "url": "https://biztoc.com/x/f4bd887d5fafa869"
-    },
-    {
-      "id": 62,
-      "title": "Elon Musk's SpaceX Commits $2 Billion To xAI In $5 Billion Round As AI Startup Hits $113 Billion Valuation Amid Controversy",
-      "summary": "SpaceX commits $2 billion to xAI in $5 billion round, boosting the AI startup to a $113 billion valuation amid controversy.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:43:52Z",
-      "url": "https://biztoc.com/x/00197e1298d5620a"
-    },
-    {
-      "id": 51,
-      "title": "Why traditional monetization tactics are costing publishers revenue",
-      "summary": "Traditional ad models are costing publishers revenue and better audience strategies are needed. Privacy regulations, evolving third-party cookies, and digital platforms capturing more advertiser spend are impacting revenue for publishers.",
-      "source": "Digiday",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:42:41Z",
-      "url": "http://digiday.com/sponsored/why-traditional-monetization-tactics-are-costing-publishers-revenue/"
-    },
-    {
-      "id": 52,
-      "title": "OpenAI says it will use Google's cloud for ChatGPT",
-      "summary": "OpenAI will use Google's cloud for ChatGPT and tap into computing resources from CoreWeave, Google, Microsoft, and Oracle to address supply shortages.",
-      "source": "CNBC",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:42:29Z",
-      "url": "https://www.cnbc.com/2025/07/16/openai-googles-cloud-chatgpt.html"
-    },
-    {
-      "id": 53,
-      "title": "AI and Data as a Service for Insurance",
-      "summary": "Deloitte's AI & DaaS for Insurance built on AWS helps insurers enhance their data capabilities with data management, GenAI applications, and pre-built tools.",
-      "source": "Techtarget.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:42:00Z",
-      "url": "https://www.techtarget.com/hub/asset/1752701156_881"
-    },
-    {
-      "id": 54,
-      "title": "Lincoln Financial and Deloitte Transforming Financial Services with Gen AI",
-      "summary": "Lincoln Financial and Deloitte are transforming financial services with Gen AI solutions through a center-led approach and strategic priorities.",
-      "source": "Techtarget.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:41:00Z",
-      "url": "https://www.techtarget.com/hub/asset/1752709982_890"
-    },
-    {
-      "id": 55,
-      "title": "Only Critical Thinking Ensures AI Makes Us Smarter, Not Dumber",
-      "summary": "Only critical thinking can ensure that AI makes organizations smarter and less vulnerable to errors, not dumber. Practical frameworks are needed to mitigate risks and optimize AI usage.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:40:21Z",
-      "url": "https://www.forbes.com/sites/brentdykes/2025/07/16/only-critical-thinking-ensures-ai-makes-us-smarter-not-dumber/"
-    },
-    {
-      "id": 56,
-      "title": "Officials warn David Seymour’s Regulatory Standards Bill could cost $60m",
-      "summary": "Officials warn David Seymour’s Regulatory Standards Bill could cost $60m and lead to business uncertainty, slowing economic growth.",
-      "source": "RNZ",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:39:44Z",
-      "url": "https://www.rnz.co.nz/news/political/567120/ministry-feared-costs-of-60m-a-year-to-review-laws-under-regulatory-standards-bill"
-    },
-    {
-      "id": 57,
-      "title": "Zuckerberg is pouring billions into plans for 'personal superintelligence'",
-      "summary": "Zuckerberg is investing billions into creating 'personal superintelligence' at Meta, aiming for a more personalized form of superintelligence.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-16T19:39:23Z",
-      "url": "https://finance.yahoo.com/news/zuckerberg-is-pouring-billions-into-plans-for-personal-superintelligence-193923036.html"
-    },
-    {
-      "id": 58,
-      "title": "Albertsons Says New AI and Interactive Features Boost Digital Sales",
-      "summary": "Albertsons Companies experienced a 25% increase in digital sales due to new AI and interactive features, outpacing its identical sales growth during the last quarter.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:39:23Z",
-      "url": "http://www.pymnts.com/earnings/2025/albertsons-says-new-ai-and-interactive-features-boost-digital-sales/"
-    },
-    {
-      "id": 59,
-      "title": "Re: Correctly dealing with bots and scrapers.",
-      "summary": "Dealing with bots and scrapers through geo-ip services offers the value of defined 'eyeball networks'.",
-      "source": "Seclists.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:38:53Z",
-      "url": "https://seclists.org/nanog/2025/Jul/106"
-    },
-    {
-      "id": 60,
-      "title": "Alien: Earth Character Profile Posters Spotlight Wendy, Curly & Nibs",
-      "summary": "Alien: Earth character profile posters have been released, showcasing Wendy, Curly, and Nibs. This signals the start of a series introducing major players in the FX Networks and Showrunner Noah Hawl.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:37:03Z",
-      "url": "https://bleedingcool.com/tv/alien-earth-character-profile-posters-spotlight-wendy-curly-nibs/"
-    },
-    {
-      "id": 61,
-      "title": "Wix Announces AI Visibility Overview Citation & Sentiment Tracking Tool via @sejournal, @martinibuster",
-      "summary": "Wix announced a new AI visibility overview citation & sentiment tracking tool that helps report AI visibility, benchmark competitors, and track AI-driven queries and traffic.",
-      "source": "Search Engine Journal",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:34:46Z",
-      "url": "https://www.searchenginejournal.com/wix-announces-ai-visibility-overview-citation-sentiment-tracking-tool/551335/"
-    },
-    {
-      "id": 62,
-      "title": "Trump hosts Gulf leaders at White House as new violence raises questions about progress toward peace",
-      "summary": "President Trump meets with Gulf leaders at White House amid new violence, raising doubts about peace progress.",
-      "source": "ABC News",
-      "category": "ethics",
-      "timestamp": "2025-07-16T19:34:18Z",
-      "url": "https://abcnews.go.com/US/wireStory/trump-hosts-gulf-leaders-white-house-new-violence-123808833"
     }
   ]
 }
