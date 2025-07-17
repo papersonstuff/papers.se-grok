@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-17T09:45:21.288Z",
+  "lastUpdate": "2025-07-17T09:56:05.772Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Yanis Varoufakis: Who Needs Marx in 2025?",
+      "summary": "Yanis Varoufakis argues that to break free from technofeudal overlords, we need to adopt the thinking of Karl Marx in 2025.",
+      "source": "Nakedcapitalism.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:55:24Z",
+      "url": "https://www.nakedcapitalism.com/2025/07/yanis-varoufakis-who-needs-marx-in-2025.html"
+    },
+    {
+      "id": 52,
+      "title": "Drone Attacks Strike US-Owned Oil Field in Iraq",
+      "summary": "A drone attack targeted a US-owned oil field in Iraq's Kurdistan region, raising security concerns. The use of drones in such attacks poses ethical questions about their impact on global stability and security.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:54:55Z",
+      "url": "https://biztoc.com/x/483c1990cbb94a79"
+    },
+    {
+      "id": 53,
+      "title": "Russia Claims New Victories After Trump Sets Deadline",
+      "summary": "Russia claims new military victories in Ukraine, using AI-generated voice to communicate. This raises ethical concerns about the use of AI in warfare.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:54:23Z",
+      "url": "https://biztoc.com/x/97ade1615c3a2723"
+    },
+    {
+      "id": 54,
+      "title": "ASML Falls Most Since April After CEO Walks Back Growth Forecast",
+      "summary": "ASML Holding NV shares plunged after CEO walked back growth forecast.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:53:20Z",
+      "url": "https://finance.yahoo.com/news/asml-walks-back-2026-growth-061702879.html"
+    },
+    {
+      "id": 55,
+      "title": "Germany eyes 10% economic output from AI by 2030",
+      "summary": "Germany aims to achieve 10% economic output from AI by 2030, but the strategy doesn't mention the current contribution of AI to the country's economy.",
+      "source": "Verdict",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:52:43Z",
+      "url": "https://www.verdict.co.uk/germany-strategy-economic-output-ai/"
+    },
+    {
+      "id": 56,
+      "title": "Nvidia (NVDA): Why Wall Street Remains Bullish on AI Chip Leader",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is receiving bullish ratings from Wall Street for its leadership in AI chips, with KeyBanc reiterating the stock as 'Overweight' on July 14.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:52:19Z",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-why-wall-street-095219093.html"
+    },
+    {
+      "id": 57,
+      "title": "Don't Make the Job Hunt Harder. 9 Strategies to Stay Sane and Get Hired",
+      "summary": "Tips for landing a job in the age of AI include using AI resumes and networking effectively to stay sane and get hired.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:52:05Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178391022"
+    },
+    {
+      "id": 58,
+      "title": "Google brings yet another change to Gboard’s emoji picker",
+      "summary": "Google refreshes Gboard's design with subtle changes to emoji and GIF picker buttons.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:51:21Z",
+      "url": "https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/"
+    },
+    {
+      "id": 59,
+      "title": "Kettleborough VC launches second fund with Rs 80 crore target",
+      "summary": "Kettleborough VC launches its second fund with a target of Rs 80 crore, having marked its first close at Rs 35 crore. The firm plans to invest in about 10 startups with initial cheques of $300,000–$500,000.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:50:47Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/kettleborough-vc-launches-second-fund-with-rs-80-crore-target-marks-first-close-at-rs-35-crore/articleshow/122570172.cms"
+    },
+    {
+      "id": 60,
+      "title": "TSM: Morgan Stanley Says Buy Ahead of Earnings on Strong AI Demand",
+      "summary": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is recommended as a buy ahead of earnings due to strong AI demand, with Morgan Stanley adding a catalyst on July 14.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:49:42Z",
+      "url": "https://finance.yahoo.com/news/tsm-morgan-stanley-says-buy-094942256.html"
+    },
+    {
+      "id": 61,
+      "title": "Google Might Kill Circle to Search — Here’s What Could Replace It",
+      "summary": "Google might replace Circle to Search with Gemini's Tell Me About This feature on Android.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:49:24Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-might-kill-circle-to-search-heres-what-could-replace-it.html"
+    },
+    {
+      "id": 62,
+      "title": "mcpmarket 0.1.3",
+      "summary": "mcpmarket 0.1.3 is a Python MCP server registry and proxy designed for AI agents",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:49:16Z",
+      "url": "https://pypi.org/project/mcpmarket/0.1.3/"
+    },
+    {
+      "id": 63,
+      "title": "How Germany can better support young entrepreneurs",
+      "summary": "Germany can better support young entrepreneurs like Benedict Kurz, who aims to provide an AI-supported tutor to a billion schoolchildren worldwide. The country needs to foster a more supportive environment for young entrepreneurs to thrive.",
+      "source": "DW (English)",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:49:00Z",
+      "url": "https://www.dw.com/en/how-germany-can-better-support-young-entrepreneurs/a-73290251"
+    },
+    {
+      "id": 64,
+      "title": "Atos awarded Golden Certificate by SAP as Global Operations Partner",
+      "summary": "Atos awarded Golden Certificate by SAP as Global Operations Partner after 20 years of trusted partnership.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:49:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116215/0/en/Atos-awarded-Golden-Certificate-by-SAP-as-Global-Operations-Partner.html"
+    },
+    {
+      "id": 65,
+      "title": "Google France hosted a hackathon to tackle healthcare's biggest challenges",
+      "summary": "Google France hosted a hackathon to tackle healthcare's biggest challenges with over 100 participants gathering in Paris. The event aimed to drive innovation in healthcare through technology.",
+      "source": "Blog.google",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:47:00Z",
+      "url": "https://blog.google/technology/health/google-france-ai-healthcare-hackathon/"
+    },
+    {
+      "id": 66,
+      "title": "93 percent of salaried individuals with low income use credit cards: Report",
+      "summary": "93 percent of salaried individuals with low income in India use credit cards, with 85 percent of self-employed individuals also relying on credit cards, according to a study analyzing financial behavior.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:46:31Z",
+      "url": "https://www.livemint.com/money/personal-finance/93-percent-of-salaried-individuals-with-low-income-use-credit-cards-report-11752656941074.html"
+    },
+    {
+      "id": 67,
+      "title": "Tesla (TSLA): UBS Says It’s Still Overvalued—Watch Musk’s Next Comments",
+      "summary": "Tesla stock price still considered overvalued according to UBS, despite being an AI-related stock.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:46:23Z",
+      "url": "https://finance.yahoo.com/news/tesla-tsla-ubs-says-still-094623760.html"
+    },
     {
       "id": 51,
       "title": "xAI announces $200m US military deal after Grok chatbot had Nazi meltdown",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T09:10:54Z",
       "url": "https://biztoc.com/x/8486e9232d8b8842"
-    },
-    {
-      "id": 64,
-      "title": "How Will Putin React to Trump's Ukraine Pivot? Newsweek Contributors Debate",
-      "summary": "President Trump's decision to send military aid to Ukraine and threaten new tariffs on Russia raises ethical questions about potential escalation of conflict and the impact on civilians in the region.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:10:53Z",
-      "url": "https://biztoc.com/x/f25f6c8cf143c130"
-    },
-    {
-      "id": 65,
-      "title": "Formula 1 Legends Put on a Show at Goodwood's Festival of Speed",
-      "summary": "More than 200,000 racing fans attended the Goodwood Festival of Speed to see Formula 1 Legends put on a show with AI-generated voice.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:10:51Z",
-      "url": "https://biztoc.com/x/0739018932893055"
-    },
-    {
-      "id": 66,
-      "title": "How the One Big Beautiful Bill Act Will Affect Clean Energy Jobs",
-      "summary": "The One Big Beautiful Bill Act signed by President Trump will impact clean energy jobs by ending federal support for clean energy initiatives.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:10:51Z",
-      "url": "https://biztoc.com/x/a6de20db1ac60fdd"
-    },
-    {
-      "id": 67,
-      "title": "Iran Makes Nuclear Threat",
-      "summary": "Iran is using AI-generated voice to make nuclear threats, leading to potential misinformation and security concerns.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:10:44Z",
-      "url": "https://biztoc.com/x/c3918638c14282b6"
-    },
-    {
-      "id": 68,
-      "title": "A former Big Tech hiring manager shares how to avoid the AI 'sameness epidemic' and stand out in your job application",
-      "summary": "A former Big Tech hiring manager shares how to avoid the AI 'sameness epidemic' in job applications, noticing that AI tools like ChatGPT led to predictable and forgettable resumes. Keith Anderson provides tips on how to stand out in the application process.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:10:43Z",
-      "url": "https://biztoc.com/x/be1e073d4afcf187"
-    },
-    {
-      "id": 38,
-      "title": "Plaisiobots: The dream of three schoolgirls became a learning journey in California",
-      "summary": "Plaisio invests in the new generation by taking three schoolgirls on a unique learning journey in California through the robotics competition 'Plaisiobots: the Race'.",
-      "source": "Protothema.gr",
-      "category": "startups",
-      "timestamp": "2025-07-16T08:49:58Z",
-      "url": "https://en.protothema.gr/2025/07/16/plaisiobots-the-dream-of-three-schoolgirls-became-a-learning-journey-in-california/"
-    },
-    {
-      "id": 39,
-      "title": "Pentagon inks contracts for Musk's xAI, competitors",
-      "summary": "Pentagon signs contracts with AI firms including Elon Musk's xAI, which has faced criticism over anti-Semitic posts by its Grok chatbot.",
-      "source": "Spacewar.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T08:48:22Z",
-      "url": "https://www.spacewar.com/reports/Pentagon_inks_contracts_for_Musks_xAI_competitors_999.html"
-    },
-    {
-      "id": 40,
-      "title": "Grok 4 Review : Does Grok 4 Deserve a Spot In Your AI Stack?",
-      "summary": "Grok 4 is being evaluated as a potential addition to AI stacks, with features such as real-time data analysis, coding automation, and pitch refinement. The question remains whether it is truly innovative or just another overhyped tool in a crowded market.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:46:50Z",
-      "url": "https://www.geeky-gadgets.com/grok-4-ai-tool-review/"
-    },
-    {
-      "id": 41,
-      "title": "Nvidia's Huang Says 'Doing Our Best' To Serve Chinese Market",
-      "summary": "Nvidia's CEO states the company is working to serve the Chinese market for semiconductors after meeting with Beijing officials.",
-      "source": "International Business Times",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:45:19Z",
-      "url": "https://www.ibtimes.com/nvidias-huang-says-doing-our-best-serve-chinese-market-3778628"
-    },
-    {
-      "id": 42,
-      "title": "Coralogix MCP Server Offers Observability View Into AI Agents",
-      "summary": "Coralogix MCP Server offers observability view into AI agents, allowing third-party AI agents to connect directly to Coralogix's observability data services.",
-      "source": "DevOps.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T08:44:32Z",
-      "url": "https://devops.com/coralogix-mcp-server-offers-observability-view-into-ai-agents/"
-    },
-    {
-      "id": 43,
-      "title": " Classic elegance in Sevilla’s new away kit",
-      "summary": "Sevilla FC and adidas have unveiled the club’s new away kit for the 2025-26 season, featuring classic elegance with red and white accents.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:44:00Z",
-      "url": "https://onefootball.com/en/news/classic-elegance-in-sevillas-new-away-kit-41381680"
-    },
-    {
-      "id": 44,
-      "title": "Deepin: (中文) UOS AI 2.8 发布！三大智能体上线，UOS AI 随航深度进化",
-      "summary": "Deepin has released UOS AI 2.8, featuring three intelligent entities online. The UOS AI continues to evolve with advancements in artificial intelligence.",
-      "source": "Deepin.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:43:36Z",
-      "url": "https://www.deepin.org/en/uos-ai-2-8/"
-    },
-    {
-      "id": 45,
-      "title": "Cybersecurity executives love AI, cybersecurity analysts distrust it",
-      "summary": "Cybersecurity executives value AI while analysts are skeptical, indicating a discrepancy in expectations and reality.",
-      "source": "TechRadar",
-      "category": "ethics",
-      "timestamp": "2025-07-16T08:43:23Z",
-      "url": "https://www.techradar.com/pro/cybersecurity-executives-love-ai-cybersecurity-analysts-distrust-it"
-    },
-    {
-      "id": 46,
-      "title": "Google partners with Youngkin and offers AI training courses to Virginia job seekers",
-      "summary": "Google partners with Youngkin to offer AI training courses to Virginia job seekers as part of efforts to connect citizens to new job opportunities.",
-      "source": "Tech Xplore",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:43:10Z",
-      "url": "https://techxplore.com/news/2025-07-google-partners-youngkin-ai-courses.html"
-    },
-    {
-      "id": 47,
-      "title": "LG enters hybrid bonding tool race, challenging Samsung and Hanwha",
-      "summary": "LG Electronics is challenging Samsung and Hanwha in the high-end semiconductor equipment market by entering the hybrid bonding tool race, with a focus on producing next-generation high-bandwidth memory chips. This move is seen as a bold push by LG into the industry.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:42:14Z",
-      "url": "https://www.digitimes.com/news/a20250715PD205/lg-lg-electronics-samsung-hanwha-equipment.html"
-    },
-    {
-      "id": 48,
-      "title": "Honor launched Magic V5 in Singapore, pre-order at S$2199",
-      "summary": "Honor launched Magic V5 in Singapore, the world's slimmest foldable smartphone, available for pre-order at S$2199.",
-      "source": "Ocworkbench.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:41:10Z",
-      "url": "https://en.ocworkbench.com/honor-launched-magic-v5-in-singapore-pre-order-at-s2199/"
-    },
-    {
-      "id": 49,
-      "title": "Cerity Partners LLC Sells 74,507 Shares of RadNet, Inc. (NASDAQ:RDNT)",
-      "summary": "Cerity Partners LLC sold 74,507 shares of RadNet, Inc. in the first quarter, reducing its stake by 33.3% according to SEC disclosure.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:38:04Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/cerity-partners-llc-sells-74507-shares-of-radnet-inc-nasdaqrdnt/"
     }
   ]
 }
