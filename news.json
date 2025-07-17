@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T13:24:45.943Z",
+  "lastUpdate": "2025-07-17T13:53:38.725Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trading Revenues Drive Bank Earnings; Wholesale Prices Muted",
+      "summary": "Trading revenues boosted bank earnings despite muted wholesale prices, with markets falling except for the Nasdaq which was lifted by Nvidia's surge.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-16T13:52:56Z",
+      "url": "https://www.forbes.com/sites/jjkinahan/2025/07/16/trading-revenues-drive-bank-earnings-wholesale-prices-muted/"
+    },
+    {
+      "id": 52,
+      "title": "Greetings from New Delhi, India, where performing monkeys spark delight -- and ambivalence",
+      "summary": "Performing monkeys in New Delhi spark both delight and ambivalence, as highlighted in NPR's Far-Flung Postcards series.",
+      "source": "NPR",
+      "category": "ethics",
+      "timestamp": "2025-07-16T13:52:16Z",
+      "url": "https://www.npr.org/2025/07/16/g-s1-77174/india-monkeys-new-delhi"
+    },
+    {
+      "id": 53,
+      "title": "View Systems Launches Cloud and Desktop Experiences to Deliver AI in Minutes",
+      "summary": "View Systems launches View Desktop and View Cloud to deliver AI in minutes, accelerating AI adoption by eliminating costly infrastructure and development cycles.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:52:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/view-systems-launches-cloud-and-desktop-experiences-to-deliver-ai-in-minutes.aspx"
+    },
+    {
+      "id": 54,
+      "title": "$450 Mn Flexible Graphite Markets, 2030 - Focus on Sheets, Foils, Tapes, Gaskets & Seals, Thermal Management, Emi Shielding, Automotive, Aerospace, Electronics, Oil & Gas, Power & Energy",
+      "summary": "The flexible graphite market is expected to grow from USD 0.35 billion in 2025 to USD 0.45 billion by 2030, with a CAGR of 5.5% due to rising demand in thermal management and sealing solutions across industries like automotive and petrochemicals.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T13:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116548/28124/en/450-Mn-Flexible-Graphite-Markets-2030-Focus-on-Sheets-Foils-Tapes-Gaskets-Seals-Thermal-Management-Emi-Shielding-Automotive-Aerospace-Electronics-Oil-Gas-Power-Energy.html"
+    },
+    {
+      "id": 55,
+      "title": "F5 Application Delivery and Security Platform Introduces Data Leakage Detection and Prevention for Securing AI Workloads",
+      "summary": "F5 introduces data leakage detection and prevention for securing AI workloads with new AI-driven capabilities for the Application Delivery and Security Platform.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T13:48:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/f5-application-delivery-and-security-platform-introduces-data-leakage-detection-and-prevention-for-securing-ai-workloads.aspx"
+    },
+    {
+      "id": 56,
+      "title": "‘Catalyst for progress’: Nvidia CEO hails China’s AI at Beijing expo",
+      "summary": "Nvidia CEO hails China's AI as a catalyst for progress at Beijing expo.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:47:57Z",
+      "url": "https://biztoc.com/x/7f73c61d812c9934"
+    },
+    {
+      "id": 57,
+      "title": "Man Eats Sandwich, Internet Not Prepared for What Crawls Out of It at End",
+      "summary": "A Reddit user's meal took an unexpected turn when a live snail crawled out of his sandwich, sparking discussion of AI-generated voice inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:47:42Z",
+      "url": "https://biztoc.com/x/8c557bb6ea800561"
+    },
+    {
+      "id": 58,
+      "title": "Apple's iOS 26 and iPadOS 26 public betas will release any minute now: What to expect",
+      "summary": "Apple is set to release iOS 26 and iPadOS 26 public betas soon, providing users with a glimpse of what to expect. The details on timeline, eligibility, and enrollment for the beta releases are outlined for those interested in trying out the new features.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:47:00Z",
+      "url": "https://www.zdnet.com/article/apples-ios-26-and-ipados-26-public-betas-will-release-any-minute-now-what-to-expect/"
+    },
+    {
+      "id": 59,
+      "title": "Liqid Unveils Next-Generation Composable Infrastructure Solutions to Scale Enterprise AI for On-Premises Datacenter and Edge Environments",
+      "summary": "Liqid unveils new composable infrastructure solutions designed to scale enterprise AI workloads while minimizing costs and maximizing performance.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:46:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/liqid-unveils-next-generation-composable-infrastructure-solutions-to-scale-enterprise-ai-for-on-premises-datacenter-and-edge-environments.aspx"
+    },
+    {
+      "id": 60,
+      "title": "How Indian students can unlock Google’s Gemini AI Pro plan worth Rs 19,500 for free",
+      "summary": "Google has announced a free one-year AI Pro plan for college students in India, unlocking tools like Gemini 2.5 Pro, Veo 3, Deep Research, and NotebookLM, plus 2TB of storage.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-16T13:45:04Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/how-indian-students-can-unlock-googles-gemini-ai-pro-plan-worth-rs-19500-for-free/articleshow/122578127.cms"
+    },
+    {
+      "id": 61,
+      "title": "MoonBull Launches Whitelist Registration Amid Surging Meme Coin Momentum",
+      "summary": "MoonBull launches whitelist registration for early access to $MOBU token with staking and allocation benefits",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T13:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116543/0/en/MoonBull-Launches-Whitelist-Registration-Amid-Surging-Meme-Coin-Momentum.html"
+    },
+    {
+      "id": 62,
+      "title": "Immersive Announces AI-Powered Lab Customization Feature to Improve Cyber Skills Across the Technical Workforce",
+      "summary": "Immersive announced its Immersive One AI-powered Lab Builder feature to give customers and partners powerful new ways to rapidly improve cyber skills across teams through customized labs and learning experiences.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T13:44:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/immersive-announces-ai-powered-lab-customization-feature-to-improve-cyber-skills-across-the-technical-workforce.aspx"
+    },
+    {
+      "id": 63,
+      "title": "Scientists pioneer 3D temperature mapping inside living tissue using light and AI",
+      "summary": "Scientists have pioneered a 3D temperature mapping technique inside living tissue using light and AI, allowing for precise monitoring within biological systems.",
+      "source": "Phys.Org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:42:58Z",
+      "url": "https://phys.org/news/2025-07-scientists-3d-temperature-tissue-ai.html"
+    },
+    {
+      "id": 64,
+      "title": "Nvidia CEO Jensen Huang sells another $37 million worth of stock",
+      "summary": "Nvidia CEO Jensen Huang sells an additional $37 million worth of stock, bringing his total stock sales this year to about $190 million.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-16T13:41:18Z",
+      "url": "https://www.cnbc.com/2025/07/16/nvidia-stock-ceo-jensen-huang-sale.html"
+    },
+    {
+      "id": 65,
+      "title": "Now even lower: HP’s OmniBook X Flip touchscreen 2-in-1 Copilot+ PC is back to school ready at $530 all-time low ($370 off)",
+      "summary": "HP’s OmniBook X Flip touchscreen 2-in-1 Copilot+ PC is now available for $529.99 as part of Best Buy's Back to School offers, a discount of $370 off the original price.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-16T13:41:00Z",
+      "url": "http://9to5toys.com/2025/07/16/hp-omnibook-x-flip-touchscreen-2-in-1-copilot-pc-550-all-time-low/"
+    },
+    {
+      "id": 66,
+      "title": "Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson",
+      "summary": "A biographical book about Mike Tyson, 'Baddest Man: The Making of Mike Tyson,' covers his life from birth in 1966 to 1988.",
+      "source": "Boston Herald",
+      "category": "innovation",
+      "timestamp": "2025-07-16T13:40:57Z",
+      "url": "https://www.bostonherald.com/2025/07/16/baddest-man-mike-tyson/"
+    },
+    {
+      "id": 67,
+      "title": "Stanford professor calls out the narrative of AI 'replacing' humans. Says, 'if AI takes away our dignity, something is wrong'",
+      "summary": "Stanford professor Fei-Fei Li criticizes the narrative of AI replacing humans, emphasizing that AI should augment human abilities and not undermine dignity.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-16T13:39:23Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/stanford-professor-calls-out-the-narrative-of-ai-replacing-humans-says-if-ai-takes-away-our-dignity-something-is-wrong/articleshow/122577663.cms"
+    },
+    {
+      "id": 68,
+      "title": "ZimVie (ZIMV) Announces the Launch of its RealGUIDE Software Suite and Implant Concierge Service in Japan",
+      "summary": "ZimVie Inc. (NASDAQ:ZIMV) announced the launch of its RealGUIDE Software Suite and Implant Concierge Service in Japan, positioning itself as one of the best undervalued medical device stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-16T13:39:19Z",
+      "url": "https://finance.yahoo.com/news/zimvie-zimv-announces-launch-realguide-133919928.html"
+    },
+    {
+      "id": 69,
+      "title": "timbal 0.56.0",
+      "summary": "timbal 0.56.0 is a strongly opinionated framework designed for building and orchestrating agentic AI applications.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T13:39:17Z",
+      "url": "https://pypi.org/project/timbal/0.56.0/"
+    },
+    {
+      "id": 70,
+      "title": "Needham Downgrades CONMED Corporation (CNMD) to Hold from Buy",
+      "summary": "Needham downgraded CONMED Corporation, a medical device company, to Hold from Buy on June 12.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T13:39:17Z",
+      "url": "https://finance.yahoo.com/news/needham-downgrades-conmed-corporation-cnmd-133917951.html"
+    },
     {
       "id": 51,
       "title": "Low Poly Dwarf Factory by SKULLVERTEX",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T12:30:00Z",
       "url": "https://www.forbes.com/sites/charliefink/2025/07/16/ltx-video-breaks-the-60-second-barrier-redefining-ai-video-as-a-longform-medium/"
-    },
-    {
-      "id": 61,
-      "title": "AI Appreciation Day 2025: Enterprise Leaders Are Scaling AI Beyond the Hype to Drive Real Business Value",
-      "summary": "As we celebrate AI Appreciation Day 2025, the conversation has shifted dramatically from 'What can AI do?' to 'How do we implement AI and drive business value?'",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T12:30:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/ai-appreciation-day-2025-enterprise-leaders-are-scaling-ai-beyond-the-hype-to-drive-real-business-value.aspx"
-    },
-    {
-      "id": 62,
-      "title": "The Chainsmokers’ VC firm has closed a third fund worth $100m",
-      "summary": "The Chainsmokers' VC firm, Mantis VC, closes a third fund worth $100m, showing their commitment to investing in startups.",
-      "source": "Music Ally",
-      "category": "startups",
-      "timestamp": "2025-07-16T12:30:00Z",
-      "url": "http://musically.com/2025/07/16/the-chainsmokers-vc-firm-has-closed-a-third-fund-worth-100m/"
-    },
-    {
-      "id": 63,
-      "title": "Aware Sets Second Quarter 2025 Webcast for Wednesday, July 30, 2025, at 5:00 p.m. Eastern Time",
-      "summary": "Aware, Inc. will hold a webcast on July 30, 2025, to discuss its financial results for the second quarter of 2025.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T12:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116378/0/en/Aware-Sets-Second-Quarter-2025-Webcast-for-Wednesday-July-30-2025-at-5-00-p-m-Eastern-Time.html"
-    },
-    {
-      "id": 64,
-      "title": "iO3 Partners with Seadronix to Deliver AI-Assisted Navigation for Safer Maritime Operations",
-      "summary": "iO3 partners with Seadronix to integrate AI technology into V.Sight platform for safer maritime operations.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T12:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116384/0/en/iO3-Partners-with-Seadronix-to-Deliver-AI-Assisted-Navigation-for-Safer-Maritime-Operations.html"
-    },
-    {
-      "id": 65,
-      "title": "Employers are scrambling to cut costs and health care benefits are on the chopping block",
-      "summary": "Employers are shifting health care costs onto workers in attempts to cut costs and optimize in an employer-driven labor market.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-16T12:29:54Z",
-      "url": "https://fortune.com/2025/07/16/employers-are-scrambling-to-cut-costs-and-health-care-benefits-are-on-the-chopping-block/"
-    },
-    {
-      "id": 66,
-      "title": "Nvidia chips hacked, fall victim to Rowhammer bit-flip attacks; here’s how to secure the AI GPUs",
-      "summary": "Nvidia chips hacked, fall victim to Rowhammer bit-flip attacks; Canadian researchers discover GPU Hammer vulnerability in Nvidia A6000 GPUs, enabling sabotage of AI models.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-16T12:29:27Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-chips-hacked-fall-victim-to-rowhammer-bit-flip-attacks-heres-how-to-secure-the-ai-gpus/articleshow/122576174.cms"
-    },
-    {
-      "id": 67,
-      "title": "How AI QA Teams Are Debugging the Future of Software Quality",
-      "summary": "Software teams are using AI QA teams to improve software quality by overcoming the limitations of manual testing, such as missing edge cases and scalability issues.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T12:29:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/how-ai-qa-teams-are-debugging-the-future-of-software-quality.aspx"
-    },
-    {
-      "id": 68,
-      "title": "National Hot Dog Day 2025: The juiciest free and bargain deals happening on July 16",
-      "summary": "National Hot Dog Day 2025 will offer free and discounted hot dog deals at various restaurants like 7-Eleven and Sonic on July 16th.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T12:28:04Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/national-hot-dog-day-2025-the-juiciest-free-and-bargain-deals-happening-on-july-16/articleshow/122567168.cms"
-    },
-    {
-      "id": 69,
-      "title": "Could You Identify an AI-Generated Song?",
-      "summary": "The Velvet Sundown, a computer-generated band, is so convincing that it can be difficult to tell if their songs were created by AI or a human. However, there are five key traits that can help identify AI-generated music from human-generated music.",
-      "source": "Vulture",
-      "category": "innovation",
-      "timestamp": "2025-07-16T12:27:57Z",
-      "url": "http://www.vulture.com/article/ai-music-velvet-sundown-quiz.html"
-    },
-    {
-      "id": 70,
-      "title": "Favorite Books of Ecommerce Pros Q3 2025",
-      "summary": "Ecommerce owners share the books that have shaped their careers and outlook, promoting reading, thinking, and planning as key components of professional development.",
-      "source": "Practical Ecommerce",
-      "category": "innovation",
-      "timestamp": "2025-07-16T12:25:20Z",
-      "url": "https://www.practicalecommerce.com/favorite-books-of-ecommerce-pros-q3-2025"
-    },
-    {
-      "id": 51,
-      "title": "NIST Releases Trove of Genetic Data to Spur Cancer Research",
-      "summary": "NIST releases genetic data on pancreatic cancer cells to accelerate cancer research.",
-      "source": "Nist.gov",
-      "category": "research",
-      "timestamp": "2025-07-16T11:50:03Z",
-      "url": "https://www.nist.gov/news-events/news/2025/07/nist-releases-trove-genetic-data-spur-cancer-research"
-    },
-    {
-      "id": 52,
-      "title": "SUPERMAN Star Edi Gathegi Talks MISTER TERRIFIC Spin-Off Rumors And His Second Chance At Playing A Superhero",
-      "summary": "SUPERMAN star Edi Gathegi addresses rumors of a MISTER TERRIFIC spin-off and discusses his second chance playing a superhero in the DCU.",
-      "source": "CBM (Comic Book Movie)",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:50:02Z",
-      "url": "https://comicbookmovie.com/superman/superman-star-edi-gathegi-talks-mister-terrific-spin-off-rumors-and-his-second-chance-at-playing-a-superhero-a222810"
-    },
-    {
-      "id": 53,
-      "title": "Ushur Recognized Across Four Categories in the Gartner® 2025 Hype Cycle™ for U.S. Healthcare Payers",
-      "summary": "Ushur recognized in 4 Gartner Hype Cycle categories for leading AI automation in healthcare payers.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T11:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116297/0/en/Ushur-Recognized-Across-Four-Categories-in-the-Gartner-2025-Hype-Cycle-for-U-S-Healthcare-Payers.html"
-    },
-    {
-      "id": 54,
-      "title": "Meta joins YouTube in crackdown on unoriginal content and AI ‘slop’",
-      "summary": "Meta joins YouTube in crackdown on unoriginal content and AI ‘slop', aligning with a new policy targeting repetitive or mass-produced videos.",
-      "source": "Yugatech.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T11:49:30Z",
-      "url": "https://www.yugatech.com/news/meta-joins-youtube-in-crackdown-on-unoriginal-content-and-ai-slop/"
-    },
-    {
-      "id": 55,
-      "title": "VCI Global to Acquire Licensed Fund Manager in Malaysia’s Labuan Jurisdiction to Launch Regulated Bitcoin Fund",
-      "summary": "VCI Global is acquiring a licensed fund manager in Malaysia's Labuan jurisdiction to launch a regulated bitcoin fund, marking their strategic entry into digital asset management for institutional bitcoin exposure.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T11:48:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116296/0/en/VCI-Global-to-Acquire-Licensed-Fund-Manager-in-Malaysia-s-Labuan-Jurisdiction-to-Launch-Regulated-Bitcoin-Fund.html"
-    },
-    {
-      "id": 56,
-      "title": "Insolvency Service launches ambitious strategy to tackle economic crime and improve corporate standards",
-      "summary": "Insolvency Service launches ambitious strategy to tackle economic crime and improve corporate standards with a new five-year strategy committing the agency to a prominent role in fighting economic crime.",
-      "source": "Www.gov.uk",
-      "category": "economy",
-      "timestamp": "2025-07-16T11:45:45Z",
-      "url": "https://www.gov.uk/government/news/insolvency-service-launches-ambitious-strategy-to-tackle-economic-crime-and-improve-corporate-standards"
-    },
-    {
-      "id": 57,
-      "title": "3 Free AI Certifications For Beginners To Get Hired In 2025",
-      "summary": "3 Free AI Certifications For Beginners To Get Hired In 2025 - Beginner-friendly certifications to build AI skills and increase chances of getting hired in the AI field.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:45:00Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/16/3-free-ai-certifications-for-beginners-to-get-hired-in-2025/"
-    },
-    {
-      "id": 58,
-      "title": "Kids are asking AI companions to solve their problems, according to a new study. Here’s why that’s a problem",
-      "summary": "Kids are increasingly relying on AI companions to solve their problems, with nearly three-quarters of teens using them regularly. However, the concern arises as one-third of them are turning to chatbots for social interactions.",
-      "source": "CNN",
-      "category": "ethics",
-      "timestamp": "2025-07-16T11:44:19Z",
-      "url": "https://www.cnn.com/2025/07/16/health/teens-ai-companion-wellness"
-    },
-    {
-      "id": 59,
-      "title": "100 Off Udemy Coupon: Effective Cold Email Outreach: From Strategy To Execution",
-      "summary": "Master the art of cold email outreach with AI tools using a 100 off Udemy coupon.",
-      "source": "Webhelperapp.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:43:54Z",
-      "url": "https://www.webhelperapp.com/marketing/100-off-udemy-coupon-effective-cold-email/"
-    },
-    {
-      "id": 60,
-      "title": "FireGeo Review : Boost Your Brand’s AI Visibility with Actionable Insights",
-      "summary": "FireGeo Review offers actionable insights to boost a brand's visibility in the world of generative AI by determining mentions across platforms like ChatGPT and Anthropic.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-16T11:43:30Z",
-      "url": "https://www.geeky-gadgets.com/firegeo-brand-visibility-platform/"
     }
   ]
 }
