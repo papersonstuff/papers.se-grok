@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-17T21:33:32.171Z",
+  "lastUpdate": "2025-07-17T21:50:29.240Z",
   "items": [
+    {
+      "id": 51,
+      "title": "tagent 0.6.4",
+      "summary": "tagent 0.6.4 is a Modular AI Agent Framework with Dynamic Tool Discovery.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:49:15Z",
+      "url": "https://pypi.org/project/tagent/0.6.4/"
+    },
+    {
+      "id": 52,
+      "title": "Google to Unveil New Pixel 10 Smartphones on August 20",
+      "summary": "Google to unveil new Pixel 10 smartphones on August 20, just weeks before Apple's iPhone release event.",
+      "source": "MacRumors",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:48:14Z",
+      "url": "https://www.macrumors.com/2025/07/16/google-pixel-10-august-20/"
+    },
+    {
+      "id": 53,
+      "title": "Arm’s stock is rising as analysts say an intriguing move could be on the horizon",
+      "summary": "Arm's stock is rising as analysts predict it may start making its own custom AI chips, presenting an opportunity that isn't fully reflected in its stock price yet.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:45:50Z",
+      "url": "https://biztoc.com/x/dae5cde69e5b2d7a"
+    },
+    {
+      "id": 54,
+      "title": "‘I’m Not Crazy’",
+      "summary": "'I'm Not Crazy' - Love Island USA's Huda Mustafa opens up about the difficulties off camera, stating 'It really took a lot to get me to that point.'",
+      "source": "Vulture",
+      "category": "ethics",
+      "timestamp": "2025-07-16T21:45:06Z",
+      "url": "http://www.vulture.com/article/love-island-usa-huda-first-interview-villa-jeremiah-behind-the-scenes.html"
+    },
+    {
+      "id": 55,
+      "title": "New ‘Harry Potter’ series won’t announce Voldemort casting, so we have some suggestions",
+      "summary": "New 'Harry Potter' series will not announce Voldemort casting, sparking suggestions from fans.",
+      "source": "Thechive.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T21:45:00Z",
+      "url": "https://thechive.com/entertainment/tv/new-harry-potter-series-wont-announce-voldemort-casting-so-we-have-some-suggestions/?utm_postid=5043206&utm_editor=5043206_zach"
+    },
+    {
+      "id": 56,
+      "title": "Google AI calling now available in U.S. but not Canada",
+      "summary": "Google AI calling now available in U.S. but not Canada, allowing users to call local businesses using AI within Search",
+      "source": "MobileSyrup",
+      "category": "applications",
+      "timestamp": "2025-07-16T21:44:41Z",
+      "url": "https://mobilesyrup.com/2025/07/16/google-ai-calling-feature-not-canada/"
+    },
+    {
+      "id": 57,
+      "title": "Top 10 AI SEO Platforms for 2025",
+      "summary": "Top 10 AI SEO Platforms for 2025 are transforming the SEO landscape with advanced technologies, marking a significant shift in the industry.",
+      "source": "Contently.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:44:21Z",
+      "url": "https://contently.com/2025/07/16/top-10-ai-seo-platforms-for-2025/"
+    },
+    {
+      "id": 58,
+      "title": "That's Not a Human: Google Search Can Now Make Phone Calls To Businesses",
+      "summary": "Google Search now allows users to make phone calls to local businesses through AI to inquire about pricing and availability, eliminating the need to pick up the phone.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T21:42:05Z",
+      "url": "https://me.pcmag.com/en/ai/31006/thats-not-a-human-google-search-can-now-make-phone-calls-to-businesses"
+    },
+    {
+      "id": 59,
+      "title": "That's Not a Human: Google Search Can Now Make Phone Calls To Businesses",
+      "summary": "Google Search now offers AI-powered calling feature to inquire about pricing and availability at local businesses, eliminating the need to make phone calls.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T21:42:05Z",
+      "url": "https://uk.pcmag.com/ai/159164/thats-not-a-human-google-search-can-now-make-phone-calls-to-businesses"
+    },
+    {
+      "id": 60,
+      "title": "Why We Mistake the Wholesomeness of Gen Z for Conservatism",
+      "summary": "N.Y.C. art schools see record-high application numbers as Gen Z-ers show interest in enrolling, challenging the perception of their conservatism. This trend indicates a shift in values among GenZ, embracing creativity and the arts.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:41:02Z",
+      "url": "https://freerepublic.com/focus/f-news/4329066/posts"
+    },
+    {
+      "id": 61,
+      "title": "Interac Casinos Canada: LuckyStart Casino Adds New Payment Method",
+      "summary": "LuckyStart Casino in Canada has added a new payment method for deposits and withdrawals, making it easier for players to use their platform.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T21:41:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116886/0/en/Interac-Casinos-Canada-LuckyStart-Casino-Adds-New-Payment-Method.html"
+    },
+    {
+      "id": 62,
+      "title": "Investing News: Tech, Crypto, Banking, And Inflation Headlines Could Spur Volatility",
+      "summary": "Investing news highlights potential volatility in tech, crypto, banking, and inflation headlines, with tips for investors to prepare for stock price fluctuations.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-16T21:40:52Z",
+      "url": "https://www.forbes.com/sites/catherinebrock/2025/07/16/investing-news-tech-crypto-banking-and-inflation-headlines-could-spur-volatility/"
+    },
+    {
+      "id": 63,
+      "title": "Dutch tech giant ASML sees profits rise but warns on 2026",
+      "summary": "Dutch tech giant ASML sees rise in profits for the second quarter of 2025 but warns of challenges in 2026 due to geopolitical factors.",
+      "source": "Japan Today",
+      "category": "economy",
+      "timestamp": "2025-07-16T21:40:37Z",
+      "url": "https://japantoday.com/category/tech/dutch-tech-giant-asml-sees-profits-rise-but-warns-on-2026"
+    },
+    {
+      "id": 64,
+      "title": "SoftBank CEO Son pitches autonomous AI agent system for corporate use",
+      "summary": "SoftBank CEO Son pitches autonomous AI agent system for corporate use, claiming it to be the world's first AI system that can autonomously perform complex tasks.",
+      "source": "Japan Today",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:40:30Z",
+      "url": "https://japantoday.com/category/tech/softbank-ceo-son-pitches-autonomous-ai-agent-system-for-corporate-use"
+    },
+    {
+      "id": 65,
+      "title": "heaven-bml 2.4.3",
+      "summary": "heaven-bml 2.4.3 is a new project management tool on GitHub designed for AI agents to follow the Build-Measure-Learn cycle. This tool aims to streamline the development and testing process for AI applications.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T21:39:24Z",
+      "url": "https://pypi.org/project/heaven-bml/2.4.3/"
+    },
+    {
+      "id": 66,
+      "title": "Gavin Newsom Abandons Californians for 2028 White House Delusions",
+      "summary": "Gavin Newsom abandoning Californians for White House delusions raises ethical concerns about prioritizing personal ambitions over serving the people.",
+      "source": "Daily Signal",
+      "category": "ethics",
+      "timestamp": "2025-07-16T21:39:06Z",
+      "url": "https://www.dailysignal.com/2025/07/16/gavin-newsom-abandons-californians-for-2028-white-house-delusions/"
+    },
+    {
+      "id": 67,
+      "title": "Rishad Premji flags unchanged IT outlook, focuses on AI push",
+      "summary": "Wipro chairman Rishad Premji flags unchanged IT outlook due to volatile external environment, focusing on AI push amid macroeconomic pressures and tariff uncertainties.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T21:37:58Z",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/rishad-premji-flags-unchanged-it-outlook-focuses-on-ai-push/articleshow/122589825.cms"
+    },
+    {
+      "id": 68,
+      "title": "Seagate Ships 30 TB Hard Drives for $600",
+      "summary": "Seagate ships 30 TB hard drives for $600, showcasing the significant advancements in storage technology with a million-fold increase in capacity since 1989.",
+      "source": "TidBITS",
+      "category": "innovation",
+      "timestamp": "2025-07-16T21:35:29Z",
+      "url": "https://tidbits.com/2025/07/16/seagate-ships-30-tb-hard-drives-for-600/"
+    },
+    {
+      "id": 69,
+      "title": "Inside OpenAI’s Slack-driven evolution — engineer reveals secrets behind its meteoric rise and chaotic brilliance",
+      "summary": "A former OpenAI engineer shares insights into the company's inner workings and rapid growth, shedding light on what it's like to work at the $300 billion AI firm.",
+      "source": "Windows Central",
+      "category": "startups",
+      "timestamp": "2025-07-16T21:35:20Z",
+      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/inside-openais-slack-driven-evolution-engineer-reveals-secrets-behind-its-meteoric-rise-and-chaotic-brilliance"
+    },
     {
       "id": 51,
       "title": "Waterbury resident charged in crash that injured CT troopers is in US illegally, ICE says",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-16T20:55:00Z",
       "url": "https://onefootball.com/en/news/when-and-where-are-river-plate-playing-in-the-copa-argentina-41384952"
-    },
-    {
-      "id": 53,
-      "title": "Can AI really code? Study maps the roadblocks to autonomous software engineering",
-      "summary": "Researchers led by computer scientists at MIT have mapped the challenges of AI in software development, and outlined a research agenda to move the field forward.",
-      "source": "Mit.edu",
-      "category": "research",
-      "timestamp": "2025-07-16T20:55:00Z",
-      "url": "https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716"
-    },
-    {
-      "id": 54,
-      "title": "Trump says he ‘talked about the concept of firing’ Jerome Powell. Stocks went for a ride",
-      "summary": "Trump's comments on potentially firing Jerome Powell caused fluctuations in the stock market, with the S&P 500 ultimately rising 0.3%. The Dow and Nasdaq also saw gains after initially dropping.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-16T20:54:34Z",
-      "url": "https://fortune.com/2025/07/16/will-donald-trump-fire-jerome-powell-stock-market-impact/"
-    },
-    {
-      "id": 55,
-      "title": "India eyes global quantum computer push — and QpiAI is its chosen vehicle",
-      "summary": "QpiAI, an Indian startup focusing on integrating AI and quantum computing for enterprise use cases, has secured $32 million in funding to help India push for global quantum computer dominance.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-16T20:54:01Z",
-      "url": "https://finance.yahoo.com/news/india-eyes-global-quantum-computer-205401794.html"
-    },
-    {
-      "id": 56,
-      "title": "DAVID BLACKMON: How Pittsburgh Plans To Leverage Local Gas, Nuclear To Become A Major AI Hub",
-      "summary": "Pittsburgh plans to leverage local gas and nuclear resources to become a major AI hub, as discussed at the Pennsylvania Energy and Innovation Summit at Carnegie Mellon University.",
-      "source": "The Daily Caller",
-      "category": "economy",
-      "timestamp": "2025-07-16T20:53:53Z",
-      "url": "https://dailycaller.com/2025/07/16/opinion-how-pittsburgh-plans-to-leverage-local-gas-nuclear-to-become-a-major-ai-hub-david-blackmon/"
-    },
-    {
-      "id": 57,
-      "title": "XRP price surges, NR7 Miner launches XRP cloud mining: stable income in 82% market volatility",
-      "summary": "XRP price surges, NR7 Miner launches XRP cloud mining: stable income in 82% market volatility - Innovative Dual-Income Strategy Merges XRP Appreciation Potential with Low-Risk Cloud Mining",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T20:53:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116865/0/en/XRP-price-surges-NR7-Miner-launches-XRP-cloud-mining-stable-income-in-82-market-volatility.html"
-    },
-    {
-      "id": 58,
-      "title": "Building AI Agents with LLMs, RAG, and Knowledge Graphs",
-      "summary": "This news discusses a practical guide to building AI agents with LLMs, RAG, and knowledge graphs. The eBook provides insights into creating autonomous and modern AI agents.",
-      "source": "Wowebook.org",
-      "category": "research",
-      "timestamp": "2025-07-16T20:51:40Z",
-      "url": "https://www.wowebook.org/building-ai-agents-with-llms-rag-and-knowledge-graphs/"
-    },
-    {
-      "id": 59,
-      "title": "1Password Announces Availability of MCP Server for Trelica by 1Password in the New AWS Marketplace AI Agents and Tools Category",
-      "summary": "1Password has launched MCP Server for Trelica in the new AWS Marketplace AI Agents and Tools category, offering a new AI-powered solution for users.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T20:51:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/1password-announces-availability-of-mcp-server-for-trelica-by-1password-in-the-new-aws-marketplace-ai-agents-and-tools-category.aspx"
-    },
-    {
-      "id": 60,
-      "title": "Iran's Supreme Leader Warns His Country Could Deliver 'Greater Blow' to US",
-      "summary": "Iran's Supreme Leader warns that Iran could deliver a greater blow to the US, raising concerns about potential escalations in tensions between the two countries.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T20:50:33Z",
-      "url": "https://biztoc.com/x/bcd6b98fcdc7710b"
-    },
-    {
-      "id": 61,
-      "title": "Supreme Court Called to Settle High-Stakes Water Battle Between Two States",
-      "summary": "Nebraska is taking its long-standing water feud with Colorado to the nation's highest court, filing a lawsuit with the U.S. Supreme Court over Colorado's water usage from the South Platte River.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T20:50:26Z",
-      "url": "https://biztoc.com/x/0ed48ac00d67eabc"
-    },
-    {
-      "id": 62,
-      "title": "Google’s new AI tools in Search can now call businesses and do deep research for you",
-      "summary": "Google's new AI tools in Search can now call businesses, do deep research, and feature agent-like capabilities. Gemini 2.5 Pro and Deep Search are integrated into AI Mode for enhanced functions.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-16T20:50:07Z",
-      "url": "https://www.phonearena.com/news/googles-new-ai-tools-in-search-can-now-call-businesses-and-do-deep-research-for-you_id172327"
-    },
-    {
-      "id": 63,
-      "title": "Stephen King’s Strange Tweet About ‘Epstein List’ Sparks Conspiracy Theories",
-      "summary": "Stephen King's tweet about 'Epstein List' sparking conspiracy theories raises ethical concerns about spreading misinformation.",
-      "source": "Boredpanda.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T20:49:06Z",
-      "url": "https://www.boredpanda.com/stephen-king-bizarre-epstein-list-statement/"
-    },
-    {
-      "id": 64,
-      "title": "CrowdStrike Brings Agentic AI Security Workflow Integrations and GenAI Protection to AWS Marketplace",
-      "summary": "CrowdStrike has partnered with AWS to bring Agentic AI Security Workflow Integrations and GenAI Protection to AWS Marketplace, aiming to accelerate AI adoption in cybersecurity and secure AI use.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T20:49:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/crowdstrike-brings-agentic-ai-security-workflow-integrations-and-genai-protection-to-aws-marketplace.aspx"
-    },
-    {
-      "id": 65,
-      "title": "Longplay for Mac",
-      "summary": "Longplay 1.0, an AI-related app, was released in August 2020 and received positive feedback. Adrian Schönig, the creator, was pleased with the response from a wider audience.",
-      "source": "Mjtsai.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T20:48:52Z",
-      "url": "https://mjtsai.com/blog/2025/07/16/longplay-for-mac/"
-    },
-    {
-      "id": 51,
-      "title": "SiMa.ai to Accelerate Edge AI Adoption with Cisco for Industry 4.0",
-      "summary": "SiMa.ai partners with Cisco to accelerate Edge AI adoption in Industry 4.0 environments.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T20:43:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/sima-ai-to-accelerate-edge-ai-adoption-with-cisco-for-industry-4-0.aspx"
-    },
-    {
-      "id": 52,
-      "title": "Vance vows ‘Big, Beautiful Bill’ will get US manufacturing ‘roaring back to life’ ahead of pivotal 2026 midterms",
-      "summary": "Vance promises a large bill will revive US manufacturing before the 2026 midterms, despite polls showing skepticism among Americans",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-16T20:42:47Z",
-      "url": "https://nypost.com/2025/07/16/us-news/vance-vows-big-beautiful-bill-will-get-us-manufacturing-roaring-back-to-life-ahead-of-pivotal-2026-midterms/"
-    },
-    {
-      "id": 53,
-      "title": "Stock Recover After Trump's Remarks on Powell",
-      "summary": "Stocks recovered after President Trump's remarks on Powell, causing the S&P 500 to rise 0.3%.",
-      "source": "Newser",
-      "category": "economy",
-      "timestamp": "2025-07-16T20:42:22Z",
-      "url": "https://www.newser.com/story/372003/stock-recover-after-trumps-remarks-on-powell.html"
-    },
-    {
-      "id": 54,
-      "title": "AI is helping students be more independent, but the isolation could be career poison",
-      "summary": "AI is helping students be more independent through chatbots, but it could hinder their ability to form meaningful relationships which are crucial for success in college and life.",
-      "source": "KPBS",
-      "category": "applications",
-      "timestamp": "2025-07-16T20:40:23Z",
-      "url": "https://www.kpbs.org/news/education/2025/07/16/ai-is-helping-students-be-more-independent-but-the-isolation-could-be-career-poison"
-    },
-    {
-      "id": 55,
-      "title": "Elon Unveils New Grok AI ‘Companion’ That Looks Uncomfortably Familiar",
-      "summary": "Elon Musk unveils new Grok AI 'Companion' with a personality inspired by characters from Twilight and 50 Shades. ",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T20:40:11Z",
-      "url": "https://gizmodo.com/elon-unveils-new-grok-ai-companion-that-looks-uncomfortably-familiar-2000630308"
-    },
-    {
-      "id": 56,
-      "title": "OMNIQ Corp Sells Legacy Business Unit to Strengthen Balance Sheet and Continue Focus on High-Growth AI & Automation Sectors",
-      "summary": "OMNIQ Corp sells legacy business unit to strengthen balance sheet and focus on high-growth AI and automation sectors.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T20:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116860/0/en/OMNIQ-Corp-Sells-Legacy-Business-Unit-to-Strengthen-Balance-Sheet-and-Continue-Focus-on-High-Growth-AI-Automation-Sectors.html"
     }
   ]
 }
