@@ -10,11 +10,16 @@ async function main() {
             existingNews = existingData.items || [];
         }
 
-        // Calculate date for last 2 hours (wider for more reliable updates)
-        const fromDate = new Date(Date.now() - 3600000 * 2).toISOString();  // Last 2 hours
-        const newsUrl = `https://newsapi.org/v2/everything?q="artificial intelligence" OR AI OR "machine learning"&from=${fromDate}&sortBy=publishedAt&language=en&pageSize=20&apiKey=${process.env.NEWSAPI_KEY}`;
+        // Calculate date for last 4 hours (wider for reliable new articles)
+        const fromDate = new Date(Date.now() - 3600000 * 4).toISOString();  // Last 4 hours
+        const newsUrl = `https://newsapi.org/v2/everything?q=artificial+intelligence+OR+AI+OR+machine+learning&from=${fromDate}&sortBy=publishedAt&language=en&pageSize=20&apiKey=${process.env.NEWSAPI_KEY}`;
+        console.log('News search URL:', newsUrl);  // Debug: Show the exact URL used
+
         const newsResponse = await fetch(newsUrl);
-        if (!newsResponse.ok) throw new Error('News API error');
+        if (!newsResponse.ok) {
+            console.log('NewsAPI response status:', newsResponse.status, newsResponse.statusText);  // Debug if error
+            throw new Error('News API error');
+        }
         const newsData = await newsResponse.json();
         const articles = newsData.articles || [];
         console.log('Fetched articles count:', articles.length);  // Debug
