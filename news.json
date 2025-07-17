@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-17T20:18:01.846Z",
+  "lastUpdate": "2025-07-17T20:43:31.295Z",
   "items": [
+    {
+      "id": 51,
+      "title": "SiMa.ai to Accelerate Edge AI Adoption with Cisco for Industry 4.0",
+      "summary": "SiMa.ai partners with Cisco to accelerate Edge AI adoption in Industry 4.0 environments.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:43:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/sima-ai-to-accelerate-edge-ai-adoption-with-cisco-for-industry-4-0.aspx"
+    },
+    {
+      "id": 52,
+      "title": "Vance vows ‘Big, Beautiful Bill’ will get US manufacturing ‘roaring back to life’ ahead of pivotal 2026 midterms",
+      "summary": "Vance promises a large bill will revive US manufacturing before the 2026 midterms, despite polls showing skepticism among Americans",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:42:47Z",
+      "url": "https://nypost.com/2025/07/16/us-news/vance-vows-big-beautiful-bill-will-get-us-manufacturing-roaring-back-to-life-ahead-of-pivotal-2026-midterms/"
+    },
+    {
+      "id": 53,
+      "title": "Stock Recover After Trump's Remarks on Powell",
+      "summary": "Stocks recovered after President Trump's remarks on Powell, causing the S&P 500 to rise 0.3%.",
+      "source": "Newser",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:42:22Z",
+      "url": "https://www.newser.com/story/372003/stock-recover-after-trumps-remarks-on-powell.html"
+    },
+    {
+      "id": 54,
+      "title": "AI is helping students be more independent, but the isolation could be career poison",
+      "summary": "AI is helping students be more independent through chatbots, but it could hinder their ability to form meaningful relationships which are crucial for success in college and life.",
+      "source": "KPBS",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:40:23Z",
+      "url": "https://www.kpbs.org/news/education/2025/07/16/ai-is-helping-students-be-more-independent-but-the-isolation-could-be-career-poison"
+    },
+    {
+      "id": 55,
+      "title": "Elon Unveils New Grok AI ‘Companion’ That Looks Uncomfortably Familiar",
+      "summary": "Elon Musk unveils new Grok AI 'Companion' with a personality inspired by characters from Twilight and 50 Shades. ",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:40:11Z",
+      "url": "https://gizmodo.com/elon-unveils-new-grok-ai-companion-that-looks-uncomfortably-familiar-2000630308"
+    },
+    {
+      "id": 56,
+      "title": "OMNIQ Corp Sells Legacy Business Unit to Strengthen Balance Sheet and Continue Focus on High-Growth AI & Automation Sectors",
+      "summary": "OMNIQ Corp sells legacy business unit to strengthen balance sheet and focus on high-growth AI and automation sectors.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:40:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116860/0/en/OMNIQ-Corp-Sells-Legacy-Business-Unit-to-Strengthen-Balance-Sheet-and-Continue-Focus-on-High-Growth-AI-Automation-Sectors.html"
+    },
+    {
+      "id": 57,
+      "title": "Abigail Spanberger's Chances Against Winsome Earle-Sears in Virginia—Polls",
+      "summary": "Former Democratic Representative Abigail Spanberger has a double-digit lead over Republican Lieutenant Governor Winsome Earle-Sears in the latest poll for the Virginia gubernatorial race, which was AI-generated.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-16T20:39:34Z",
+      "url": "https://biztoc.com/x/40a60e6e5d40b976"
+    },
+    {
+      "id": 58,
+      "title": "Map Shows Third Countries Where Migrants Are Being Deported",
+      "summary": "The United States is increasing deportations of immigrants to countries other than their home nation, following a Supreme Court decision. There are concerns about the ethical implications of this practice, as it may lead to inconsistencies and challenges for the individuals being deported.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T20:39:27Z",
+      "url": "https://biztoc.com/x/297d3f36db070cd7"
+    },
+    {
+      "id": 59,
+      "title": "NVIDIA’s H20 AI Chip Ban Was Reportedly Lifted to Counter Huawei’s Rising Influence in China and Beyond, Threatening U.S. Dominance",
+      "summary": "NVIDIA lifted restrictions on H20 AI chip to rival Huawei's influence in China, posing a threat to U.S. dominance in the AI market.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-16T20:39:11Z",
+      "url": "https://wccftech.com/nvidia-h20-ai-chip-ban-was-lifted-to-counter-huawei-rising-influence-in-china/"
+    },
+    {
+      "id": 60,
+      "title": "Automation Anywhere Announces Availability of Agents in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "Automation Anywhere announces availability of AI agents in new AWS Marketplace AI Agents and Tools category, expanding application of AI in cloud computing.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:39:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/automation-anywhere-announces-availability-of-agents-in-the-new-aws-marketplace-ai-agents-and-tools-category.aspx"
+    },
+    {
+      "id": 61,
+      "title": "llm-chutes added to PyPI",
+      "summary": "LLM-chutes plugin added to PyPI allows for LLM models hosted by Chutes AI to be implemented into various applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:36:40Z",
+      "url": "https://pypi.org/project/llm-chutes/"
+    },
+    {
+      "id": 62,
+      "title": "Ripple and PFMCrypto Redefine Crypto Mining with XRP-Rewarding Cloud Mining Contracts",
+      "summary": "Ripple and PFMCrypto have introduced XRP-rewarding cloud mining contracts that utilize AI-driven technology to allow for mining XRP without the need for equipment. Miners can earn stable daily earnings in various cryptocurrencies such as BTC, ETH, and USDC.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T20:36:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116856/0/en/Ripple-and-PFMCrypto-Redefine-Crypto-Mining-with-XRP-Rewarding-Cloud-Mining-Contracts.html"
+    },
+    {
+      "id": 63,
+      "title": "terminal-bench 0.2.15",
+      "summary": "Terminal-bench 0.2.15 is a collection of tasks and evaluation harness for assessing AI agents' performance in terminal environments.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T20:34:57Z",
+      "url": "https://pypi.org/project/terminal-bench/0.2.15/"
+    },
+    {
+      "id": 64,
+      "title": "abgrouponline 1.0.2",
+      "summary": "abgrouponline 1.0.2 offers state-of-the-art machine learning models and frameworks for real-world applications, compatible with all Python versions.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:34:50Z",
+      "url": "https://pypi.org/project/abgrouponline/1.0.2/"
+    },
+    {
+      "id": 65,
+      "title": "Metaflow: Build, Manage and Deploy AI/ML Systems",
+      "summary": "Metaflow is a platform for building, managing, and deploying AI/ML systems. It aims to streamline the process of developing and implementing machine learning models.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T20:34:18Z",
+      "url": "https://github.com/Netflix/metaflow"
+    },
     {
       "id": 51,
       "title": "Google Search can now make AI-powered phone calls for you",
@@ -315,141 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-16T19:34:18Z",
       "url": "https://abcnews.go.com/US/wireStory/trump-hosts-gulf-leaders-white-house-new-violence-123808833"
-    },
-    {
-      "id": 63,
-      "title": "Scale AI lays off 14% of staff, largely in data labeling business | TechCrunch",
-      "summary": "Scale AI lays off 14% of staff, mostly in data labeling business, shortly after Meta's investment of $14.3 billion and the CEO departing for Meta.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:33:52Z",
-      "url": "https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/"
-    },
-    {
-      "id": 64,
-      "title": "Scale AI lays off 14% of staff, largely in data labeling business",
-      "summary": "Scale AI is laying off 14% of its staff, mostly in the data labeling business, following Meta's recent investment and hiring of the company's CEO.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:32:59Z",
-      "url": "https://biztoc.com/x/7a4a892a7942ef71"
-    },
-    {
-      "id": 65,
-      "title": "F5 Tightens Screws On Data Leakage In AI Application Delivery",
-      "summary": "F5 is focusing on addressing data leakage in AI application delivery by tightening security measures to prevent total systems management issues.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:31:36Z",
-      "url": "https://www.forbes.com/sites/adrianbridgwater/2025/07/16/f5-tightens-screws-on-data-leakage-in-ai-application-delivery/"
-    },
-    {
-      "id": 51,
-      "title": "Meta AI: Founder Mode or “Win Now” Mode?",
-      "summary": "Meta's AI moves in sports franchise mimic a 'win now' mode, with the owner pushing for a championship this year despite a disappointing previous season.",
-      "source": "Platformonomics.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:29:46Z",
-      "url": "https://platformonomics.com/2025/07/meta-ai-founder-mode-or-win-now-mode/"
-    },
-    {
-      "id": 52,
-      "title": "Google Adds AI-Powered Local Business Calling to Search",
-      "summary": "Google is adding AI-powered local business calling to search, allowing users to make reservations and check pricing through a free feature.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:29:20Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/google-adds-ai-powered-local-business-calling-search/"
-    },
-    {
-      "id": 53,
-      "title": "Pass The GENIUS Act Or Risk The Wrath Of A CBDC",
-      "summary": "Pass The GENIUS Act to support innovation in artificial intelligence and other industries, or risk facing backlash from a Central Bank Digital Currency (CBDC)",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:28:30Z",
-      "url": "https://www.forbes.com/sites/davidbirnbaum/2025/07/16/pass-the-genius-act-or-risk-the-wrath-of-a-cbdc/"
-    },
-    {
-      "id": 54,
-      "title": "Why Congress May Pass The GENIUS Act Rather Than Make A CBDC",
-      "summary": "The GENIUS Act aims to enhance U.S. innovation in AI, energy networks, global trade, and other areas, potentially avoiding the need for a central bank digital currency.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:28:30Z",
-      "url": "https://www.forbes.com/sites/davidbirnbaum/2025/07/16/why-congress-may-pass-the-genius-act-rather-than-make-a-cbdc/"
-    },
-    {
-      "id": 55,
-      "title": "openrxn-perovskite-optimizer added to PyPI",
-      "summary": "openrxn-perovskite-optimizer added to PyPI - AI-driven perovskite solar cell optimization platform with OpenAI Agents SDK",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T19:26:46Z",
-      "url": "https://pypi.org/project/openrxn-perovskite-optimizer/"
-    },
-    {
-      "id": 56,
-      "title": "You can ask Gemini AI anything directly in Google Chrome - here's how and why you should",
-      "summary": "You can now ask Gemini AI directly in Google Chrome for help from any web page, making it more convenient and easy to access AI assistance while browsing.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-16T19:25:07Z",
-      "url": "https://www.zdnet.com/article/you-can-ask-gemini-ai-anything-directly-in-google-chrome-heres-how-and-why-you-should/"
-    },
-    {
-      "id": 57,
-      "title": "stormy-ai 1.0.1a3",
-      "summary": "stormy-ai 1.0.1a3 is the latest version of the AI software, bringing new features and improvements to users.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T19:24:21Z",
-      "url": "https://pypi.org/project/stormy-ai/1.0.1a3/"
-    },
-    {
-      "id": 58,
-      "title": "Chandra & Chandra's Andhra Pradesh road map: Push ease & speed of doing business",
-      "summary": "A taskforce in Andhra Pradesh led by N Chandrababu Naidu has proposed district-level growth strategies to boost the economy to $2.4 trillion by 2047, focusing on ease of doing business, infrastructure development, and targeted investments in key sectors.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:24:13Z",
-      "url": "https://economictimes.indiatimes.com/news/india/chandra-chandras-andhra-pradesh-road-map-push-ease-speed-of-doing-business/articleshow/122591869.cms"
-    },
-    {
-      "id": 59,
-      "title": "PBK Miner launches 2-day XRP mining contract, XRP short-term investment users surge 380%",
-      "summary": "PBK Miner launches 2-day XRP mining contract, XRP short-term investment users surge 380% in London, United Kingdom. The new contract offers investors a flexible and efficient opportunity to gain XRP.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:24:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116787/0/en/PBK-Miner-launches-2-day-XRP-mining-contract-XRP-short-term-investment-users-surge-380.html"
-    },
-    {
-      "id": 60,
-      "title": "She Was CEO of OpenAI for 2 Days. Now Her Secretive AI Startup Has Raised $12 Billion",
-      "summary": "Mira Murati, former CEO of OpenAI for 2 days, has raised $12 billion for her secretive AI startup, Thinking Machine Labs, after working at OpenAI for 6 years.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:22:10Z",
-      "url": "https://biztoc.com/x/3b377633486a4557"
-    },
-    {
-      "id": 61,
-      "title": "Scale AI blames overhiring and market shifts for layoffs and says it's not profitable",
-      "summary": "Scale AI blames overhiring and market shifts for layoffs of 200 employees, says it's unprofitable and created 'too many layers'. Former CEO, Alexandr Wang, hired by Meta.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T19:21:59Z",
-      "url": "https://biztoc.com/x/0d1848fa3f5e1663"
-    },
-    {
-      "id": 62,
-      "title": "The companies firing staff for AI today will regret it in five years",
-      "summary": "Some companies are firing staff for AI advancements, but experts believe they will regret it in the future as AI could potentially lead to the creation of billion-dollar companies with only one person. AI is changing the landscape of businesses and the economy.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T19:21:54Z",
-      "url": "https://biztoc.com/x/67e22c9e4428db11"
     }
   ]
 }
