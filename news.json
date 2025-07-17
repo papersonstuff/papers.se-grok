@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-17T19:30:09.844Z",
+  "lastUpdate": "2025-07-17T19:43:12.390Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why traditional monetization tactics are costing publishers revenue",
+      "summary": "Traditional ad models are costing publishers revenue and better audience strategies are needed. Privacy regulations, evolving third-party cookies, and digital platforms capturing more advertiser spend are impacting revenue for publishers.",
+      "source": "Digiday",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:42:41Z",
+      "url": "http://digiday.com/sponsored/why-traditional-monetization-tactics-are-costing-publishers-revenue/"
+    },
+    {
+      "id": 52,
+      "title": "OpenAI says it will use Google's cloud for ChatGPT",
+      "summary": "OpenAI will use Google's cloud for ChatGPT and tap into computing resources from CoreWeave, Google, Microsoft, and Oracle to address supply shortages.",
+      "source": "CNBC",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:42:29Z",
+      "url": "https://www.cnbc.com/2025/07/16/openai-googles-cloud-chatgpt.html"
+    },
+    {
+      "id": 53,
+      "title": "AI and Data as a Service for Insurance",
+      "summary": "Deloitte's AI & DaaS for Insurance built on AWS helps insurers enhance their data capabilities with data management, GenAI applications, and pre-built tools.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:42:00Z",
+      "url": "https://www.techtarget.com/hub/asset/1752701156_881"
+    },
+    {
+      "id": 54,
+      "title": "Lincoln Financial and Deloitte Transforming Financial Services with Gen AI",
+      "summary": "Lincoln Financial and Deloitte are transforming financial services with Gen AI solutions through a center-led approach and strategic priorities.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:41:00Z",
+      "url": "https://www.techtarget.com/hub/asset/1752709982_890"
+    },
+    {
+      "id": 55,
+      "title": "Only Critical Thinking Ensures AI Makes Us Smarter, Not Dumber",
+      "summary": "Only critical thinking can ensure that AI makes organizations smarter and less vulnerable to errors, not dumber. Practical frameworks are needed to mitigate risks and optimize AI usage.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:40:21Z",
+      "url": "https://www.forbes.com/sites/brentdykes/2025/07/16/only-critical-thinking-ensures-ai-makes-us-smarter-not-dumber/"
+    },
+    {
+      "id": 56,
+      "title": "Officials warn David Seymour’s Regulatory Standards Bill could cost $60m",
+      "summary": "Officials warn David Seymour’s Regulatory Standards Bill could cost $60m and lead to business uncertainty, slowing economic growth.",
+      "source": "RNZ",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:39:44Z",
+      "url": "https://www.rnz.co.nz/news/political/567120/ministry-feared-costs-of-60m-a-year-to-review-laws-under-regulatory-standards-bill"
+    },
+    {
+      "id": 57,
+      "title": "Zuckerberg is pouring billions into plans for 'personal superintelligence'",
+      "summary": "Zuckerberg is investing billions into creating 'personal superintelligence' at Meta, aiming for a more personalized form of superintelligence.",
+      "source": "Yahoo Entertainment",
+      "category": "research",
+      "timestamp": "2025-07-16T19:39:23Z",
+      "url": "https://finance.yahoo.com/news/zuckerberg-is-pouring-billions-into-plans-for-personal-superintelligence-193923036.html"
+    },
+    {
+      "id": 58,
+      "title": "Albertsons Says New AI and Interactive Features Boost Digital Sales",
+      "summary": "Albertsons Companies experienced a 25% increase in digital sales due to new AI and interactive features, outpacing its identical sales growth during the last quarter.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:39:23Z",
+      "url": "http://www.pymnts.com/earnings/2025/albertsons-says-new-ai-and-interactive-features-boost-digital-sales/"
+    },
+    {
+      "id": 59,
+      "title": "Re: Correctly dealing with bots and scrapers.",
+      "summary": "Dealing with bots and scrapers through geo-ip services offers the value of defined 'eyeball networks'.",
+      "source": "Seclists.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:38:53Z",
+      "url": "https://seclists.org/nanog/2025/Jul/106"
+    },
+    {
+      "id": 60,
+      "title": "Alien: Earth Character Profile Posters Spotlight Wendy, Curly & Nibs",
+      "summary": "Alien: Earth character profile posters have been released, showcasing Wendy, Curly, and Nibs. This signals the start of a series introducing major players in the FX Networks and Showrunner Noah Hawl.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:37:03Z",
+      "url": "https://bleedingcool.com/tv/alien-earth-character-profile-posters-spotlight-wendy-curly-nibs/"
+    },
+    {
+      "id": 61,
+      "title": "Wix Announces AI Visibility Overview Citation & Sentiment Tracking Tool via @sejournal, @martinibuster",
+      "summary": "Wix announced a new AI visibility overview citation & sentiment tracking tool that helps report AI visibility, benchmark competitors, and track AI-driven queries and traffic.",
+      "source": "Search Engine Journal",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:34:46Z",
+      "url": "https://www.searchenginejournal.com/wix-announces-ai-visibility-overview-citation-sentiment-tracking-tool/551335/"
+    },
+    {
+      "id": 62,
+      "title": "Trump hosts Gulf leaders at White House as new violence raises questions about progress toward peace",
+      "summary": "President Trump meets with Gulf leaders at White House amid new violence, raising doubts about peace progress.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:34:18Z",
+      "url": "https://abcnews.go.com/US/wireStory/trump-hosts-gulf-leaders-white-house-new-violence-123808833"
+    },
+    {
+      "id": 63,
+      "title": "Scale AI lays off 14% of staff, largely in data labeling business | TechCrunch",
+      "summary": "Scale AI lays off 14% of staff, mostly in data labeling business, shortly after Meta's investment of $14.3 billion and the CEO departing for Meta.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:33:52Z",
+      "url": "https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/"
+    },
+    {
+      "id": 64,
+      "title": "Scale AI lays off 14% of staff, largely in data labeling business",
+      "summary": "Scale AI is laying off 14% of its staff, mostly in the data labeling business, following Meta's recent investment and hiring of the company's CEO.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:32:59Z",
+      "url": "https://biztoc.com/x/7a4a892a7942ef71"
+    },
+    {
+      "id": 65,
+      "title": "F5 Tightens Screws On Data Leakage In AI Application Delivery",
+      "summary": "F5 is focusing on addressing data leakage in AI application delivery by tightening security measures to prevent total systems management issues.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:31:36Z",
+      "url": "https://www.forbes.com/sites/adrianbridgwater/2025/07/16/f5-tightens-screws-on-data-leakage-in-ai-application-delivery/"
+    },
     {
       "id": 51,
       "title": "Meta AI: Founder Mode or “Win Now” Mode?",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T18:46:12Z",
       "url": "https://www.businessinsider.com/schneider-electric-nvidia-ai-data-centers-designs-energy-demands-2025-7"
-    },
-    {
-      "id": 60,
-      "title": "GPU Secrets for Scalable AI Performance",
-      "summary": "GPU Secrets for Scalable AI Performance - Register now free-of-charge to explore this white paper AI is transforming industries - but only if your infrastructure can deliver the speed, efficiency, and scalability your use cases demand.",
-      "source": "Wiley.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:45:55Z",
-      "url": "https://content.knowledgehub.wiley.com/unlock-the-full-potential-of-ai-with-optimized-inference-infrastructure/"
-    },
-    {
-      "id": 61,
-      "title": "AI Express Boeing 737 Plane Faces Tech Issue; Airline Cancels Lucknow-Dubai Flight",
-      "summary": "AI Express Boeing 737 plane faced a tech issue at Lucknow airport, leading to cancellation of flight to Dubai.",
-      "source": "Ndtvprofit.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T18:45:26Z",
-      "url": "https://www.ndtvprofit.com/nation/ai-express-boeing-737-plane-faces-tech-issue-airline-cancels-lucknow-dubai-flight"
-    },
-    {
-      "id": 62,
-      "title": "Intel Allegedly Readies Nova Lake-AX To Challenge AMD's Strix Halo",
-      "summary": "Intel is reportedly preparing the Nova Lake-AX processor to compete with AMD's Strix Halo. Leaks suggest the Nova Lake-AX will have a powerful integrated GPU, desktop-class CPU, and a 256-bit memory interface.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:45:00Z",
-      "url": "https://hothardware.com/news/intel-nova-lake-ax-rumor"
-    },
-    {
-      "id": 51,
-      "title": "shitlint added to PyPI",
-      "summary": "shitlint has been added to PyPI, providing developers with a tool to analyze their code quality and receive feedback on potential issues. This AI-related innovation aims to help improve code quality and efficiency in software development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:20:28Z",
-      "url": "https://pypi.org/project/shitlint/"
-    },
-    {
-      "id": 52,
-      "title": "Old and busted:\"Airline ticket pricing with algorithms\". New hotness:\"Airline ticket pricing AI-tailored\" [Asinine]",
-      "summary": "AI is now being used to tailor airline ticket pricing, replacing traditional algorithm-based pricing methods.",
-      "source": "Fark.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:20:07Z",
-      "url": "https://www.fark.com/comments/13743508/Old-bustedAirline-ticket-pricing-with-algorithms-New-hotnessAirline-ticket-pricing-AI-tailored"
-    },
-    {
-      "id": 53,
-      "title": "ALPA India Raises Red Flag Over Misuse Of Pilot Rest Norms; DGCA May Step In",
-      "summary": "ALPA India raises concerns over the misuse of pilot rest norms, prompting DGCA to consider intervention",
-      "source": "Ndtvprofit.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T18:16:59Z",
-      "url": "https://www.ndtvprofit.com/business/alpa-india-raises-red-flag-over-misuse-of-pilot-rest-norms-dgca-may-step-in"
-    },
-    {
-      "id": 54,
-      "title": "CM addresses valedictory function of IIT Jammu’s Summer School",
-      "summary": "Chief Minister Omar Abdullah addressed the valedictory function of IIT Jammu’s Summer School, marking the successful conclusion of a month-long programme focused on AI-related topics.",
-      "source": "Statetimes.in",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:16:26Z",
-      "url": "https://statetimes.in/cm-addresses-valedictory-function-of-iit-jammus-summer-school/"
-    },
-    {
-      "id": 55,
-      "title": "The party trick called LLM",
-      "summary": "The party trick called LLM - Large Language Models can be deceiving as they place words in a row rather than producing language, leading to the false impression of interacting with a clever computer. This raises ethical concerns about the potential for misinformation and unreliable information being spread by these models.",
-      "source": "Destaatvanhetweb.nl",
-      "category": "ethics",
-      "timestamp": "2025-07-16T18:16:22Z",
-      "url": "https://destaatvanhetweb.nl/2025/07/12/the-party-trick-called-llm-blowing-away-smoke-and-break-some-mirrors/"
-    },
-    {
-      "id": 56,
-      "title": "The next Made By Google event (better known as the Pixel launch) is set for August 20 - Engadget",
-      "summary": "Google is set to unveil new Pixel hardware at the next Made By Google event on August 20, with a focus on AI technology.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:15:45Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394634"
-    },
-    {
-      "id": 57,
-      "title": "OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI",
-      "summary": "OpenAI and Anthropic researchers criticize safety culture at Elon Musk's xAI, calling it reckless and irresponsible.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T18:15:07Z",
-      "url": "https://biztoc.com/x/6b8b7b21eacee0a2"
-    },
-    {
-      "id": 58,
-      "title": "The Former CEO of Uber Kind of Sounds Like He's Losing It When He's Talking About AI",
-      "summary": "The Former CEO of Uber appears to be heavily invested in AI, as shown by his recent remarks on the All-In podcast. Travis Kalanick's fervor for AI may be questionable, given his controversial past with Uber.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-16T18:15:05Z",
-      "url": "https://futurism.com/former-ceo-uber-ai"
-    },
-    {
-      "id": 59,
-      "title": "New Google Pixel Watch 4 leak reveals battery life upgrades and other changes ahead of time",
-      "summary": "New Google Pixel Watch 4 leak reveals battery life upgrades and other changes ahead of time - Google is just over a month away from officially refreshing the Pixel Watch series with fourth-generation models. In the meantime, various specifications have emerged for the Pixel Watch 4 in two sizes. Not only is better battery life in order this year, but …",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:15:00Z",
-      "url": "https://www.notebookcheck.net/New-Google-Pixel-Watch-4-leak-reveals-battery-life-upgrades-and-other-changes-ahead-of-time.1059895.0.html"
-    },
-    {
-      "id": 60,
-      "title": "Meta Uses Open Source AI To Design Greener Concrete For Its Next Data Center",
-      "summary": "Meta has partnered with Amrize and the University of Illinois to develop an AI-optimized concrete mix that cuts carbon by 35% for its new data center.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T18:13:00Z",
-      "url": "https://tech.slashdot.org/story/25/07/16/1813221/meta-uses-open-source-ai-to-design-greener-concrete-for-its-next-data-center"
-    },
-    {
-      "id": 61,
-      "title": "The government wants local authorities to embrace AI – here’s one way it could work in practice",
-      "summary": "The government wants local authorities to embrace AI to help planners make sense of thousands of comments in response to proposals.",
-      "source": "The Conversation Africa",
-      "category": "applications",
-      "timestamp": "2025-07-16T18:12:47Z",
-      "url": "https://theconversation.com/the-government-wants-local-authorities-to-embrace-ai-heres-one-way-it-could-work-in-practice-258449"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
-      "summary": "OpenAI and Anthropic researchers criticize reckless safety culture at Elon Musk's xAI.",
-      "source": "TechCrunch",
-      "category": "ethics",
-      "timestamp": "2025-07-16T18:12:22Z",
-      "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/"
     }
   ]
 }
