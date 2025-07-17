@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-17T18:52:50.587Z",
+  "lastUpdate": "2025-07-17T19:14:43.760Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Microsoft Is Testing Letting Copilot AI Interact With Your Whole Desktop",
+      "summary": "Microsoft is testing a new feature for Copilot AI which allows it to interact with the contents of your entire desktop, giving it greater access to the screen.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:12:07Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394966"
+    },
+    {
+      "id": 52,
+      "title": "EXCLUSIVE: Epstein-Funded MIT Lab Hosted Panel On Giving Pedos Child Sex Robots",
+      "summary": "Epstein-Funded MIT Lab hosted a panel on child sex robots, raising ethical concerns about the use of AI for such purposes.",
+      "source": "The Daily Caller",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:12:05Z",
+      "url": "https://dailycaller.com/2025/07/16/exclusive-epstein-funded-mit-lab-hosted-panel-on-giving-pedos-child-sex-robots/"
+    },
+    {
+      "id": 53,
+      "title": "What is the probability that future AI development will be seriously delayed or ended due to energy decline ?",
+      "summary": "What is the probability that future AI development will be seriously delayed or ended due to energy decline?",
+      "source": "Lesswrong.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:11:40Z",
+      "url": "https://www.lesswrong.com/posts/ExN6hw4Jh7fLEqAha/what-is-the-probability-that-future-ai-development-will-be"
+    },
+    {
+      "id": 54,
+      "title": "Will Gamers Care About ‘Cyberpunk 2077’ on Mac Like They Did With the Switch 2?",
+      "summary": "Gamers may be disappointed in how well 'Cyberpunk 2077' runs on Mac, similar to the issues experienced with the Nintendo Switch 2.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:10:04Z",
+      "url": "https://gizmodo.com/will-gamers-care-about-cyberpunk-2077-on-mac-like-they-did-with-the-switch-2-2000630095"
+    },
+    {
+      "id": 55,
+      "title": "The Situation With Jeffrey Epstein, Donald Trump and Elon Musk Is Absolutely Bizarre",
+      "summary": "The news discusses the bizarre situation involving Jeffrey Epstein, Donald Trump, and Elon Musk, with Trump's supporters becoming disillusioned after his erratic behavior on social media. The focus is on the ethical implications surrounding the handling of the Jeffrey Epstein crisis.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:09:57Z",
+      "url": "https://futurism.com/situation-jeffrey-epstein-donald-trump-elon-musk-bizarre"
+    },
+    {
+      "id": 56,
+      "title": "Shoot, Survive & Lawyer Up – Epi-3705",
+      "summary": "Can you afford to defend yourself physically and financially after a self-defense situation involving a gun? This AI-related news article raises important ethical questions about the implications of carrying a weapon and being involved in a life-threatening situation.",
+      "source": "Thesurvivalpodcast.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:09:46Z",
+      "url": "https://www.thesurvivalpodcast.com/cost-of-defense"
+    },
+    {
+      "id": 57,
+      "title": "Opinion: AI must back the blue, not stymie",
+      "summary": "A controversial facial recognition system in New Orleans has reignited the debate over the unchecked use of artificial intelligence by the government, highlighting AI surveillance networks with the power to scan, identify, and flag individuals in public.",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-16T19:09:35Z",
+      "url": "https://www.bostonherald.com/2025/07/16/opinion-ai-must-back-the-blue-not-stymie/"
+    },
+    {
+      "id": 58,
+      "title": "Democrats Are Trying Something So Dumb It’s Honestly Hard To Believe It’s Real",
+      "summary": "Democrats have found their 'left's Joe Rogan' in an AI-powered program, which could potentially revolutionize political discourse.",
+      "source": "The Daily Caller",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:09:32Z",
+      "url": "https://dailycaller.com/2025/07/16/dnc-jaime-harrison-at-our-table-podcast-joe-rogan/"
+    },
+    {
+      "id": 59,
+      "title": "Rethinking Distributed Computing for the AI Era",
+      "summary": "DeepSeek's mixture-of-experts approach is rethinking distributed computing for the AI era by making computation sparse again.",
+      "source": "Acm.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:06:18Z",
+      "url": "http://cacm.acm.org/blogcacm/rethinking-distributed-computing-for-the-ai-era/"
+    },
+    {
+      "id": 60,
+      "title": "Copilot is coming to cars — and so are Teams calls",
+      "summary": "Copilot is coming to cars, allowing Teams calls while on the go.",
+      "source": "PCWorld",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:06:10Z",
+      "url": "https://www.pcworld.com/article/2850680/copilot-is-coming-to-cars-and-so-are-teams-calls-on-the-road.html"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI, Google, and Meta Researchers Warn We May Lose the Ability to Track AI Misbehavior",
+      "summary": "OpenAI, Google, and Meta researchers are warning that as AI models become more complex, it may become increasingly difficult to track and understand their behavior.",
+      "source": "Gizmodo.com",
+      "category": "research",
+      "timestamp": "2025-07-16T19:05:11Z",
+      "url": "https://gizmodo.com/openai-google-and-meta-researchers-warn-we-may-lose-the-ability-to-track-ai-misbehavior-2000630259"
+    },
+    {
+      "id": 62,
+      "title": "cli-whisperer added to PyPI",
+      "summary": "A new tool called cli-whisperer has been added to PyPI, offering voice-to-text capabilities with smart file management and OpenAI formatting. This innovation is set to enhance user experience and streamline workflows for those working with text-based content.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:05:06Z",
+      "url": "https://pypi.org/project/cli-whisperer/"
+    },
     {
       "id": 51,
       "title": "SZA Calls Out Destructive AI Usage: ‘Environmental Racism’ Is the ‘Price for Convenience’",
@@ -342,114 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-16T17:42:27Z",
       "url": "https://biztoc.com/x/01af88f44356c2bd"
-    },
-    {
-      "id": 52,
-      "title": "Green Card Holder Mom of Toddler Detained by ICE Returning From Wedding",
-      "summary": "A 24-year-old Green Card holder, Esther Ngoy Tekele, was detained by ICE when returning to the U.S. after attending a wedding. This raises ethical concerns surrounding immigration policies and treatment of individuals.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:42:20Z",
-      "url": "https://biztoc.com/x/8def2ba7c444b430"
-    },
-    {
-      "id": 53,
-      "title": "Photos Show Tomorrowland Stage Catching Fire Before Festival Kicks Off",
-      "summary": "Dramatic photos and videos captured flames erupting from the Tomorrowland main stage just days before the festival was set to begin, showcasing the potential applications of AI-generated voice technology in disseminating breaking news.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:42:09Z",
-      "url": "https://biztoc.com/x/281c918d3c2af06c"
-    },
-    {
-      "id": 54,
-      "title": "Millions Face Garbage Strike Nationwide—Union",
-      "summary": "Members of the Teamsters union have extended their strike to impact millions nationwide, affecting garbage collection in Los Angeles and a landfill site in Ohio.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T17:41:58Z",
-      "url": "https://biztoc.com/x/af59cfafb5d356ef"
-    },
-    {
-      "id": 55,
-      "title": "Trump: Nvidia Can Sell AI Chips to China Again",
-      "summary": "In yet another massive backtrack, the CEO of Nvidia has revealed that the Trump administration will allow the tech giant to sell its AI chips to China.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T17:41:38Z",
-      "url": "https://biztoc.com/x/53447f1fd2d10872"
-    },
-    {
-      "id": 56,
-      "title": "notebook-intelligence 2.2.5",
-      "summary": "notebook-intelligence 2.2.5 is an AI coding assistant designed for JupyterLab, aimed at improving the coding experience for users by providing intelligent suggestions and auto-completion features.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:39:30Z",
-      "url": "https://pypi.org/project/notebook-intelligence/2.2.5/"
-    },
-    {
-      "id": 57,
-      "title": "Sangoma and Quicklert Announce Strategic Partnership to Help Schools Comply with Alyssa’s Law and Enhance Campus Safety",
-      "summary": "Sangoma and Quicklert have announced a strategic partnership to help schools comply with Alyssa’s Law and enhance campus safety through AI technology.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:38:54Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/sangoma-and-quicklert-announce-strategic-partnership-to-help-schools-comply-with-alyssas-law-and-enhance-campus-safety"
-    },
-    {
-      "id": 58,
-      "title": "Adastra Announces Availability of Three Agentic AI Offers in the New AWS Marketplace AI Agents and Tools Category",
-      "summary": "Adastra Corporation announced the availability of three new Agentic AI offers in the AWS Marketplace AI Agents and Tools Category.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:38:39Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/adastra-announces-availability-of-three-agentic-ai-offers-in-the-new-aws-marketplace-ai-agents-and-tools-category"
-    },
-    {
-      "id": 59,
-      "title": "Anthropic unveils Claude for Financial Services",
-      "summary": "Anthropic unveils Claude, a tool for finance professionals to analyze markets and make investment decisions, backed by Amazon and Google.",
-      "source": "Finextra",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:38:08Z",
-      "url": "https://www.finextra.com/newsarticle/46307/anthropic-unveils-claude-for-financial-services"
-    },
-    {
-      "id": 60,
-      "title": "AI training, copyright issues headline U.S. Senate hearing",
-      "summary": "U.S. Senate hearing focused on copyright issues related to AI training, with senators criticizing companies like Meta and Anthropic for using copyrighted content such as pirated books. This raises ethical concerns about the use of copyrighted material in AI development.",
-      "source": "Techtarget.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:38:00Z",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366627854/AI-training-copyright-issues-headline-US-Senate-hearing"
-    },
-    {
-      "id": 61,
-      "title": "The Protocol: Layer-2 Eclipse’s Airdrop Goes Live",
-      "summary": "Several AI-related projects and developments were announced, including Layer-2 Eclipse's airdrop, Risc Zero's 'Boundless' incentivized testnet, a new Bitcoin proposal, and the introduction of the first DePIN powered credit card.",
-      "source": "CoinDesk",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:37:14Z",
-      "url": "https://www.coindesk.com/tech/2025/07/16/the-protocol-layer-2-eclipse-s-airdrop-goes-live"
-    },
-    {
-      "id": 62,
-      "title": "Verdant Heart Art and Animation Pack by Guilded Hut Studio",
-      "summary": "Verdant Heart Art and Animation Pack by Guilded Hut Studio includes a 32x32 pixel art pack with player state machine scripts for platformer games, featuring Lily and Shadow Moth characters with animations.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:37:11Z",
-      "url": "https://assetstore.unity.com/packages/2d/verdant-heart-art-and-animation-pack-325772"
-    },
-    {
-      "id": 63,
-      "title": "AI-Powered Open-Top Litter Boxes - The PETKIT Purobot Crystal Duo Makes Preventative Care Accessible (TrendHunter.com)",
-      "summary": "The PETKIT Purobot Crystal Duo is an AI-powered open-top litter box that offers smart monitoring features for pet parents to track their cat's health and behavior, making preventative care more accessible.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:37:05Z",
-      "url": "https://www.trendhunter.com/trends/petkit-purobot-crystal-duo"
     }
   ]
 }
