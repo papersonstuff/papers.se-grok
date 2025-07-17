@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-17T17:53:44.654Z",
+  "lastUpdate": "2025-07-17T18:22:49.857Z",
   "items": [
+    {
+      "id": 51,
+      "title": "shitlint added to PyPI",
+      "summary": "shitlint has been added to PyPI, providing developers with a tool to analyze their code quality and receive feedback on potential issues. This AI-related innovation aims to help improve code quality and efficiency in software development.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:20:28Z",
+      "url": "https://pypi.org/project/shitlint/"
+    },
+    {
+      "id": 52,
+      "title": "Old and busted:\"Airline ticket pricing with algorithms\". New hotness:\"Airline ticket pricing AI-tailored\" [Asinine]",
+      "summary": "AI is now being used to tailor airline ticket pricing, replacing traditional algorithm-based pricing methods.",
+      "source": "Fark.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:20:07Z",
+      "url": "https://www.fark.com/comments/13743508/Old-bustedAirline-ticket-pricing-with-algorithms-New-hotnessAirline-ticket-pricing-AI-tailored"
+    },
+    {
+      "id": 53,
+      "title": "ALPA India Raises Red Flag Over Misuse Of Pilot Rest Norms; DGCA May Step In",
+      "summary": "ALPA India raises concerns over the misuse of pilot rest norms, prompting DGCA to consider intervention",
+      "source": "Ndtvprofit.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T18:16:59Z",
+      "url": "https://www.ndtvprofit.com/business/alpa-india-raises-red-flag-over-misuse-of-pilot-rest-norms-dgca-may-step-in"
+    },
+    {
+      "id": 54,
+      "title": "CM addresses valedictory function of IIT Jammu’s Summer School",
+      "summary": "Chief Minister Omar Abdullah addressed the valedictory function of IIT Jammu’s Summer School, marking the successful conclusion of a month-long programme focused on AI-related topics.",
+      "source": "Statetimes.in",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:16:26Z",
+      "url": "https://statetimes.in/cm-addresses-valedictory-function-of-iit-jammus-summer-school/"
+    },
+    {
+      "id": 55,
+      "title": "The party trick called LLM",
+      "summary": "The party trick called LLM - Large Language Models can be deceiving as they place words in a row rather than producing language, leading to the false impression of interacting with a clever computer. This raises ethical concerns about the potential for misinformation and unreliable information being spread by these models.",
+      "source": "Destaatvanhetweb.nl",
+      "category": "ethics",
+      "timestamp": "2025-07-16T18:16:22Z",
+      "url": "https://destaatvanhetweb.nl/2025/07/12/the-party-trick-called-llm-blowing-away-smoke-and-break-some-mirrors/"
+    },
+    {
+      "id": 56,
+      "title": "The next Made By Google event (better known as the Pixel launch) is set for August 20 - Engadget",
+      "summary": "Google is set to unveil new Pixel hardware at the next Made By Google event on August 20, with a focus on AI technology.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:15:45Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394634"
+    },
+    {
+      "id": 57,
+      "title": "OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI",
+      "summary": "OpenAI and Anthropic researchers criticize safety culture at Elon Musk's xAI, calling it reckless and irresponsible.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T18:15:07Z",
+      "url": "https://biztoc.com/x/6b8b7b21eacee0a2"
+    },
+    {
+      "id": 58,
+      "title": "The Former CEO of Uber Kind of Sounds Like He's Losing It When He's Talking About AI",
+      "summary": "The Former CEO of Uber appears to be heavily invested in AI, as shown by his recent remarks on the All-In podcast. Travis Kalanick's fervor for AI may be questionable, given his controversial past with Uber.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-16T18:15:05Z",
+      "url": "https://futurism.com/former-ceo-uber-ai"
+    },
+    {
+      "id": 59,
+      "title": "New Google Pixel Watch 4 leak reveals battery life upgrades and other changes ahead of time",
+      "summary": "New Google Pixel Watch 4 leak reveals battery life upgrades and other changes ahead of time - Google is just over a month away from officially refreshing the Pixel Watch series with fourth-generation models. In the meantime, various specifications have emerged for the Pixel Watch 4 in two sizes. Not only is better battery life in order this year, but …",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:15:00Z",
+      "url": "https://www.notebookcheck.net/New-Google-Pixel-Watch-4-leak-reveals-battery-life-upgrades-and-other-changes-ahead-of-time.1059895.0.html"
+    },
+    {
+      "id": 60,
+      "title": "Meta Uses Open Source AI To Design Greener Concrete For Its Next Data Center",
+      "summary": "Meta has partnered with Amrize and the University of Illinois to develop an AI-optimized concrete mix that cuts carbon by 35% for its new data center.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:13:00Z",
+      "url": "https://tech.slashdot.org/story/25/07/16/1813221/meta-uses-open-source-ai-to-design-greener-concrete-for-its-next-data-center"
+    },
+    {
+      "id": 61,
+      "title": "The government wants local authorities to embrace AI – here’s one way it could work in practice",
+      "summary": "The government wants local authorities to embrace AI to help planners make sense of thousands of comments in response to proposals.",
+      "source": "The Conversation Africa",
+      "category": "applications",
+      "timestamp": "2025-07-16T18:12:47Z",
+      "url": "https://theconversation.com/the-government-wants-local-authorities-to-embrace-ai-heres-one-way-it-could-work-in-practice-258449"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
+      "summary": "OpenAI and Anthropic researchers criticize reckless safety culture at Elon Musk's xAI.",
+      "source": "TechCrunch",
+      "category": "ethics",
+      "timestamp": "2025-07-16T18:12:22Z",
+      "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/"
+    },
+    {
+      "id": 63,
+      "title": "Image-to-video generation support for Luma AI's Ray2 now in Amazon Bedrock",
+      "summary": "Luma AI's Ray2 model on Amazon Bedrock now supports image-to-video generation, expanding upon the text-to-video generation capabilities introduced earlier this year.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T18:12:00Z",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/"
+    },
     {
       "id": 51,
       "title": "Where Will C3.ai Stock Be in 1 Year?",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-16T17:13:00Z",
       "url": "https://hothardware.com/news/meta-patches-ai-security-flaw-private-prompts"
-    },
-    {
-      "id": 56,
-      "title": " A Surveillance Startup in Damage Control | EFFector 37.8",
-      "summary": "A surveillance startup is in damage control as EFFector provides digital rights news updates, including AI-related news.",
-      "source": "EFF",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:12:11Z",
-      "url": "https://www.eff.org/deeplinks/2025/07/surveillance-startup-damage-control-effector-378"
-    },
-    {
-      "id": 57,
-      "title": "I’m Afraid To Move to the City of My Dreams",
-      "summary": "A personal reflection on the fear of moving to a desired city with a partner.",
-      "source": "Autostraddle.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:11:17Z",
-      "url": "http://www.autostraddle.com/im-afraid-to-move-to-the-city-of-my-dreams/"
-    },
-    {
-      "id": 58,
-      "title": "Google Sets August 20 For New Pixel Devices Reveal",
-      "summary": "Google sets August 20 for new Pixel devices reveal. Expect new Pixel phones and a fourth generation smartwatch at the upcoming event in New York City.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:11:12Z",
-      "url": "https://me.pcmag.com/en/wearables/31000/google-sets-august-20-for-new-pixel-devices-reveal"
-    },
-    {
-      "id": 59,
-      "title": "Google Sets August 20 For New Pixel Devices Reveal",
-      "summary": "Google sets August 20 for new Pixel devices reveal, with new Pixel phones and a fourth generation smartwatch expected to be announced.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:11:12Z",
-      "url": "https://uk.pcmag.com/wearables/159158/google-sets-august-20-for-new-pixel-devices-reveal"
-    },
-    {
-      "id": 60,
-      "title": "Examining mushrooms under microscopes can help engineers design stronger materials",
-      "summary": "Examining mushrooms under microscopes can help engineers design stronger materials by studying their microscopic building blocks, hyphae.",
-      "source": "Tech Xplore",
-      "category": "research",
-      "timestamp": "2025-07-16T17:11:05Z",
-      "url": "https://techxplore.com/news/2025-07-mushrooms-microscopes-stronger-materials.html"
-    },
-    {
-      "id": 61,
-      "title": "Norwegian investment firm joins AI gold rush to the frozen north",
-      "summary": "Norwegian investment firm Aker plans to build an AI 'factory' in the Arctic to take advantage of abundant green energy and natural cooling for data centers.",
-      "source": "The Next Web",
-      "category": "economy",
-      "timestamp": "2025-07-16T17:10:48Z",
-      "url": "https://thenextweb.com/news/norwegian-investment-firm-joins-ai-gold-rush-to-the-frozen-north"
-    },
-    {
-      "id": 62,
-      "title": "SK Telecom Releases A Korean Sovereign LLM Built From Scratch",
-      "summary": "SK Telecom released a 7B parameter language model trained entirely from scratch for Korean use cases, contributing to the global AI race.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:10:22Z",
-      "url": "https://www.forbes.com/sites/ronschmelzer/2025/07/16/sk-telecom-releases-a-korean-sovereign-llm-built-from-scratch/"
-    },
-    {
-      "id": 63,
-      "title": "How Mobile-First Marketing Platforms Empower Android App Growth",
-      "summary": "Discover how mobile-first marketing platforms like Ahrefs empower Android app growth through enhancing discoverability and tracking keyword shifts.",
-      "source": "TalkAndroid",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:10:05Z",
-      "url": "https://www.talkandroid.com/511954-how-mobile-first-marketing-platforms-empower-android-app-growth/"
-    },
-    {
-      "id": 64,
-      "title": "Air India finds no issues in fuel control switches across its Boeing 787 fleet, says airline official",
-      "summary": "Air India finds no issues in fuel control switches across its Boeing 787 fleet after completing inspections",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:09:19Z",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-finds-no-issues-in-fuel-control-switches-across-its-boeing-787-fleet-says-airline-official/articleshow/122586159.cms"
-    },
-    {
-      "id": 65,
-      "title": "Joe Biden Investigation: Second Person Pleads the Fifth to House Oversight",
-      "summary": "Former aide to Jill Biden pleads the Fifth in House investigation into Joe Biden's mental fitness, which is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:08:38Z",
-      "url": "https://biztoc.com/x/0a601e5eda6bc832"
-    },
-    {
-      "id": 66,
-      "title": "dynamiq 0.21.0",
-      "summary": "Dynamiq 0.21.0 is an orchestration framework for agentic AI and LLM applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:08:37Z",
-      "url": "https://pypi.org/project/dynamiq/0.21.0/"
-    },
-    {
-      "id": 67,
-      "title": "Nvidia’s resumption of H20 chip sales related to rare earth element trade talks",
-      "summary": "Nvidia has resumed H20 chip sales in relation to rare earth element trade talks, suggesting that these elements are a factor in their stance on China.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T17:08:23Z",
-      "url": "https://biztoc.com/x/7d02976745e53277"
-    },
-    {
-      "id": 68,
-      "title": "1Password Announces Availability of MCP Server® for Trelica by 1Password in the New AWS Marketplace AI Agents and Tools Category",
-      "summary": "1Password announces availability of MCP Server for Trelica in new AWS Marketplace AI Agents and Tools category, allowing Amazon Web Services customers to use the service for extended access management.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:08:08Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/1password-announces-availability-of-mcp-server-for-trelica-by-1password-in-the-new-aws-marketplace-ai-agents-and-tools-category"
     }
   ]
 }
