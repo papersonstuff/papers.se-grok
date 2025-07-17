@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-17T14:54:41.019Z",
+  "lastUpdate": "2025-07-17T15:17:37.995Z",
   "items": [
+    {
+      "id": 51,
+      "title": "FDA Issues Risk Warning for Potato Chips Recall",
+      "summary": "FDA issued a risk warning for a potato chips recall due to possible allergen presence, with the information being AI-generated. Saratoga Potato Chips LLC is the company behind the recall.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:17:09Z",
+      "url": "https://biztoc.com/x/2a9dee9078f8038c"
+    },
+    {
+      "id": 52,
+      "title": "atla-insights 0.0.7",
+      "summary": "Atla 0.0.7 is a platform designed for monitoring and enhancing AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:17:09Z",
+      "url": "https://pypi.org/project/atla-insights/0.0.7/"
+    },
+    {
+      "id": 53,
+      "title": "Why Netflix and Meta are the next tech catalysts: Opening Bid top takeaways",
+      "summary": "Netflix and Meta are highlighted as the next tech catalysts, with big banks delivering positive results overall.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:16:32Z",
+      "url": "https://finance.yahoo.com/news/why-netflix-and-meta-are-the-next-tech-catalysts-opening-bid-top-takeaways-151632607.html"
+    },
+    {
+      "id": 54,
+      "title": "R²D²: Training Generalist Robots with NVIDIA Research Workflows and World Foundation Models",
+      "summary": "R²D²: Training Generalist Robots with NVIDIA Research Workflows and World Foundation Models addresses the challenge of training robots to perform new tasks without the need for extensive dataset collection and labeling.",
+      "source": "Nvidia.com",
+      "category": "research",
+      "timestamp": "2025-07-16T15:16:02Z",
+      "url": "https://developer.nvidia.com/blog/r2d2-training-generalist-robots-with-nvidia-research-workflows-and-world-foundation-models/"
+    },
+    {
+      "id": 55,
+      "title": "Samsung Galaxy Z Fold 7 Review: Foldable Perfection That’s Tempting Me to Leave My iPhone",
+      "summary": "Samsung Galaxy Z Fold 7 is receiving positive reviews, with users tempted to switch from iPhones. The phone is being praised for its foldable design and features.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:15:52Z",
+      "url": "https://gizmodo.com/samsung-galaxy-z-fold-7-review-foldable-perfection-thats-tempting-me-to-leave-my-iphone-2000629703"
+    },
+    {
+      "id": 56,
+      "title": "INE Networking Expertise Essential as Enterprises Struggle with AI Infrastructure",
+      "summary": "INE highlights the importance of networking expertise for enterprises struggling with AI infrastructure.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:14:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116652/0/en/INE-Networking-Expertise-Essential-as-Enterprises-Struggle-with-AI-Infrastructure.html"
+    },
+    {
+      "id": 57,
+      "title": "I’ve Been Testing Starlink Satellite Internet Since 2022. My 2025 Numbers Prove It’s Faster Than Ever",
+      "summary": "My speed tests of Starlink satellite internet in 2025 show continuous improvement, making it a game-changer for areas lacking good wired internet options.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:13:53Z",
+      "url": "https://me.pcmag.com/en/networking/30995/ive-been-testing-starlink-satellite-internet-since-2022-my-2025-numbers-prove-its-faster-than-ever"
+    },
+    {
+      "id": 58,
+      "title": "I’ve Been Testing Starlink Satellite Internet Since 2022. My 2025 Numbers Prove It’s Faster Than Ever",
+      "summary": "My formal speed tests show that SpaceX’s satellite service keeps improving year after year, proving to be faster than ever. It remains a game-changer for folks who have no good wired Internet options where they live.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:13:53Z",
+      "url": "https://uk.pcmag.com/networking/159153/ive-been-testing-starlink-satellite-internet-since-2022-my-2025-numbers-prove-its-faster-than-ever"
+    },
+    {
+      "id": 59,
+      "title": "POLLING PLUNGE...",
+      "summary": "President expresses frustration over Epstein scandal and his supporters' belief in conspiracy theories, raising ethical concerns over truthfulness and transparency in politics.",
+      "source": "Natesilver.net",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:13:36Z",
+      "url": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin"
+    },
+    {
+      "id": 60,
+      "title": "aiyt 0.4.0",
+      "summary": "The new version 0.4.0 of aiyt allows users to transcribe, chat, and summarize YouTube videos using AI technology. This application could have a wide range of practical uses for individuals and businesses alike.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:12:47Z",
+      "url": "https://pypi.org/project/aiyt/0.4.0/"
+    },
+    {
+      "id": 61,
+      "title": "NVIDIA CPUs Launch Delayed to Late 2026 Due to Hardware Hurdles",
+      "summary": "NVIDIA's ARM-based N1 and N1x CPUs launch delayed to late 2026 due to hardware hurdles.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:12:44Z",
+      "url": "https://www.androidheadlines.com/2025/07/nvidia-cpus-launch-delayed-late-2026-hardware-issues.html"
+    },
+    {
+      "id": 62,
+      "title": "Musk’s xAI in Talks With Saudi Firm Humain on Data Center Deal",
+      "summary": "Elon Musk’s xAI is in talks with a Saudi firm on a data center deal to expand its infrastructure in regions with cheap energy and political support.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:12:05Z",
+      "url": "https://financialpost.com/pmn/business-pmn/musks-xai-in-talks-with-saudi-firm-humain-on-data-center-deal"
+    },
+    {
+      "id": 63,
+      "title": "Announcing Amazon Nova customization in Amazon SageMaker AI",
+      "summary": "Amazon Nova can now be extensively customized through Amazon SageMaker AI using various techniques like pre-training, fine-tuning, reinforcement learning, and model distillation.",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:11:39Z",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/"
+    },
+    {
+      "id": 64,
+      "title": "Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview)",
+      "summary": "Amazon Bedrock AgentCore allows for secure deployment and operation of AI agents at any scale, providing enterprise-grade security and streamlined development with any open-source framework.",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:11:33Z",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/"
+    },
+    {
+      "id": 65,
+      "title": "SkillOrbit.io Announces the Launch of Its AI-Powered Learning Academy to Empower Modern Entrepreneurs",
+      "summary": "SkillOrbit.io announced the launch of its AI-powered online academy focused on entrepreneurial education, aimed at empowering modern entrepreneurs. The academy is scheduled to roll out mid-July 2025.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116648/0/en/SkillOrbit-io-Announces-the-Launch-of-Its-AI-Powered-Learning-Academy-to-Empower-Modern-Entrepreneurs.html"
+    },
+    {
+      "id": 66,
+      "title": "Wildfires show why CBC needs public safety mandate, McGill research centre says",
+      "summary": "A research centre at McGill University argues that public safety should be added to CBC/Radio-Canada's mandate in light of the wildfires across Canada, highlighting the need for a stronger focus on public safety in media.",
+      "source": "CBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:10:57Z",
+      "url": "https://www.cbc.ca/news/canada/montreal/cbc-public-safety-mandate-report-1.7586267"
+    },
+    {
+      "id": 67,
+      "title": "The Latest: Trump administration orders 2,000 National Guard troops to leave LA, some will remain",
+      "summary": "Trump administration ending deployment of 2,000 National Guard troops in LA to support immigration enforcement activities.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:10:29Z",
+      "url": "https://abcnews.go.com/US/wireStory/latest-trump-administration-orders-2000-national-guard-troops-123767161"
+    },
+    {
+      "id": 68,
+      "title": "Keeping the lights on with nuclear waste: Radiochemistry transforms nuclear waste into strategic materials",
+      "summary": "Radiochemistry transforms nuclear waste into strategic materials, potentially offering a solution for repurposing depleted uranium stockpiles.",
+      "source": "Tech Xplore",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:10:06Z",
+      "url": "https://techxplore.com/news/2025-07-nuclear-radiochemistry-strategic-materials.html"
+    },
+    {
+      "id": 69,
+      "title": "D-Wave Quantum: Can QBTS Stock Deliver Another 1,000% Gain?",
+      "summary": "QBTS stock has surged over 1,000% in the past year thanks to the rising interest in quantum computing, particularly with D-Wave Quantum.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:10:06Z",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/16/d-wave-quantum-can-qbts-stock-deliver-another-1000-gain/"
+    },
     {
       "id": 51,
       "title": "Tech Mahindra’s Q1 profit surges 34% on strong verticals and margin discipline",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T14:33:26Z",
       "url": "https://healthsystemcio.com/2025/07/16/technical-debt-must-be-tackled-but-cloud-ai-bring-their-own-bcp-challenges-says-parkview-health-ciso/"
-    },
-    {
-      "id": 64,
-      "title": "Fahadh Faasil still uses a minimalistic keypad phone, but what’s behind its whopping ₹10 lakh price tag?",
-      "summary": "Malayalam actor Fahadh Faasil surprised fans by using a minimalistic keypad phone worth over ₹10 lakh, which turned out to be a luxury Vertu model. Despite its basic appearance, the phone is handcrafted and holds a high price tag.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:32:49Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/fahadh-faasil-still-uses-a-minimalistic-keypad-phone-but-whats-behind-its-whopping-10-lakh-price-tag/articleshow/122578500.cms"
-    },
-    {
-      "id": 65,
-      "title": "Trump Media Seeks AI Trademarks For Its 'Non-Woke' Platform",
-      "summary": "Trump Media seeks AI trademarks to enhance Truth Social app with new features, aiming to create a self-contained media ecosystem.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:32:41Z",
-      "url": "https://biztoc.com/x/30f8fed07196208c"
-    },
-    {
-      "id": 66,
-      "title": "'Stranger Things 5' Trailer Teases an Explosive Climax",
-      "summary": "'Stranger Things 5' Trailer Teases an Explosive Climax - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:32:39Z",
-      "url": "https://biztoc.com/x/9c818e27783de27e"
-    },
-    {
-      "id": 67,
-      "title": "Tears at Where Stray Cat Has Been Going Every Day for the Past 11 Years",
-      "summary": "For over a decade, a stray cat has been coming to a house in Illinois where he is considered family, despite never stepping inside.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:32:38Z",
-      "url": "https://biztoc.com/x/680244743aaa7647"
-    },
-    {
-      "id": 68,
-      "title": "Amal Clooney Applauds 2025 King's Trust Changemakers",
-      "summary": "Amal Clooney applauds 2025 King's Trust Changemakers who are using AI-generated voices, but acknowledges that inconsistencies may occur in the technology. She highlights the story of Alice from Kenya, who refused to become a child bride, emphasizing the importance of promoting ethical AI applications.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T14:32:36Z",
-      "url": "https://biztoc.com/x/18a1740e398be003"
-    },
-    {
-      "id": 69,
-      "title": "Larry Ellison surpasses Mark Zuckerberg to become world's second-richest after Oracle doubles down on AI investment",
-      "summary": "Larry Ellison has surpassed Mark Zuckerberg to become the world's second-richest person after Oracle doubled down on AI investment, leading to a massive increase in Ellison's net worth.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:32:33Z",
-      "url": "https://biztoc.com/x/256776510d9ea737"
-    },
-    {
-      "id": 70,
-      "title": "Analysis of How the Global Power Mix Has Evolved in Recent Years and Identifies Key Trends As We Move Towards 2035",
-      "summary": "analysis of the evolution of the global power mix towards 2035, with a focus on the rise of renewable energy and its projected dominance by 2033",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-16T14:32:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116610/28124/en/Analysis-of-How-the-Global-Power-Mix-Has-Evolved-in-Recent-Years-and-Identifies-Key-Trends-As-We-Move-Towards-2035.html"
-    },
-    {
-      "id": 51,
-      "title": "SEO’s Next Era: Manick Bhan on AI, Content Strategy, and Building a Brand That Lasts",
-      "summary": "Manick Bhan discusses the use of AI in SEO, content strategy, and brand building in the next era.",
-      "source": "Ducttapemarketing.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:12:13Z",
-      "url": "https://ducttapemarketing.com/ai-seo-strategy-manick-bhan/"
-    },
-    {
-      "id": 52,
-      "title": "localGPT 2.0 – Building the Best Private RAG System",
-      "summary": "localGPT 2.0 is a private RAG system that allows users to interact securely with sensitive documents without compromising privacy, offering the power of innovative AI at their fingertips.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:12:09Z",
-      "url": "https://www.geeky-gadgets.com/localgpt-2-0-secure-document-management/"
-    },
-    {
-      "id": 53,
-      "title": "The labor crisis isn’t about laziness -- it’s about mismatch",
-      "summary": "The labor crisis isn’t about laziness -- it’s about mismatch. Headlines pushing the idea that Americans don't want to work are not entirely true, as there is a more complicated situation at play. The real problem isn't a lack of willingness to work.",
-      "source": "Freerepublic.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:12:08Z",
-      "url": "https://freerepublic.com/focus/f-news/4328973/posts"
-    },
-    {
-      "id": 54,
-      "title": "Write the World Launches Clara, a Free AI Writing Assistant for Teens, on Its Global Platform",
-      "summary": "Write the World has launched Clara, a free AI writing assistant for teens, on its global platform. Clara aims to boost creativity, critical thinking, and writing competence and confidence in teenagers by asking helpful questions.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:11:50Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/write-the-world-launches-clara-a-free-ai-writing-assistant-for-teens-on-its-global-platform"
-    },
-    {
-      "id": 55,
-      "title": "Interactive Brokers Unveils Investment Themes Tool to Turn Market Trends into Smarter Trades",
-      "summary": "Interactive Brokers unveils Investment Themes tool to help investors explore market trends, compare companies, and find opportunities.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:11:44Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/interactive-brokers-unveils-investment-themes-tool-to-turn-market-trends-into-smarter-trades"
-    },
-    {
-      "id": 56,
-      "title": "The Africa Debate: Foreign Secretary speech",
-      "summary": "The Foreign Secretary spoke at The Africa Debate on July 2, 2025.",
-      "source": "Www.gov.uk",
-      "category": "research",
-      "timestamp": "2025-07-16T14:10:45Z",
-      "url": "https://www.gov.uk/government/speeches/the-africa-debate-foreign-secretary-speech"
-    },
-    {
-      "id": 57,
-      "title": "Palantir Just Got a Major Wall Street Upgrade — Here’s the Bull Case",
-      "summary": "It's been another spectacular past year for shares of Palantir (NASDAQ:PLTR), which are now up a mouth-watering 418%. Undoubtedly, the fast-moving AI software firm may have captured the attention of the meme stock crowd.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T14:10:36Z",
-      "url": "https://biztoc.com/x/473d8692c791766d"
-    },
-    {
-      "id": 58,
-      "title": "Trump Slams Supporters for Believing Jeffrey Epstein 'Bulls***'",
-      "summary": "Donald Trump criticizes Republicans for believing Jeffrey Epstein conspiracy theories and blaming Radical Left Democrats",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T14:10:26Z",
-      "url": "https://biztoc.com/x/7f53de3eb5aed959"
-    },
-    {
-      "id": 59,
-      "title": "Hamas Is To Blame For the Suffering in Gaza | Opinion",
-      "summary": "The article published using AI-generated voice blames Hamas for the suffering in Gaza, raising ethical concerns about the use of AI to spread potentially biased or inaccurate information.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T14:10:19Z",
-      "url": "https://biztoc.com/x/10ace789a7656af9"
-    },
-    {
-      "id": 60,
-      "title": "Should You Buy Nvidia’s Secret Investment Portfolio’s Biggest AI Stock Investment?",
-      "summary": "Nvidia's $3.7 billion investment portfolio focuses on advancing AI innovation beyond its core GPU business.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:10:16Z",
-      "url": "https://biztoc.com/x/81df303b8ec48dc1"
-    },
-    {
-      "id": 61,
-      "title": "Veteran fund manager makes bold move on Nvidia price target",
-      "summary": "Veteran fund manager makes bold move on Nvidia price target, while Nvidia CEO assures there is nothing to worry about.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:10:14Z",
-      "url": "https://biztoc.com/x/b801c06e1167ae04"
-    },
-    {
-      "id": 62,
-      "title": "Dog Goes for 'Power Nap,' Hysterics Over What Owner Captures 6 Hours Later",
-      "summary": "A dog taking a power nap leads to humorous AI-generated voiceover captured by the owner six hours later.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:10:13Z",
-      "url": "https://biztoc.com/x/15b45fb134105670"
     }
   ]
 }
