@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-17T23:40:27.999Z",
+  "lastUpdate": "2025-07-17T23:51:06.105Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Scale AI Lays Off 200 Employees: 'We Ramped Up Our GenAI Capacity Too Quickly'",
+      "summary": "Scale AI is laying off 200 employees and 500 contractors as part of a major restructuring, following Meta's purchase of a 49% stake. This comes just weeks after the CEO was absorbed into a new superintelligence lab.",
+      "source": "Slashdot.org",
+      "category": "startups",
+      "timestamp": "2025-07-16T23:50:00Z",
+      "url": "https://slashdot.org/story/25/07/16/2058240/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly"
+    },
+    {
+      "id": 52,
+      "title": "gabiteodoru-parseq 0.1.3",
+      "summary": "gabiteodoru-parseq 0.1.3 is a Q language to Python translator with AI-powered disambiguation, aimed at advancing research in programming language translation.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T23:49:32Z",
+      "url": "https://pypi.org/project/gabiteodoru-parseq/0.1.3/"
+    },
+    {
+      "id": 53,
+      "title": "Unusual protest: Dorival Jr offers GLASSES to the fourth official ",
+      "summary": "Coach Dorival Júnior offers glasses to fourth official in protest of refereeing during soccer match.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T23:48:00Z",
+      "url": "https://onefootball.com/en/news/unusual-protest-dorival-jr-offers-glasses-to-the-fourth-official-41385358"
+    },
+    {
+      "id": 54,
+      "title": "PraisonAI 2.2.69",
+      "summary": "PraisonAI 2.2.69 is an AI Agents Framework with Self Reflection, combining various tools into a low-code solution for building and managing multi-agent LLM systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:46:57Z",
+      "url": "https://pypi.org/project/praisonai/2.2.69/"
+    },
+    {
+      "id": 55,
+      "title": " Red Bull Bragantino and São Paulo set for BR-2025 showdown",
+      "summary": "Red Bull Bragantino and São Paulo will face off in a Brasileirão-2025 match this Wednesday at 9:30 PM. The game will take place at Cícero de Souza Marque.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:46:00Z",
+      "url": "https://onefootball.com/en/news/red-bull-bragantino-and-sao-paulo-set-for-br-2025-showdown-41385337"
+    },
+    {
+      "id": 56,
+      "title": "False rumor claims Harris demanded Trump's arrest and impeachment",
+      "summary": "False rumor claims Harris demanded Trump's arrest and impeachment based on unverified 'explosive evidence' circulating on social media.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T23:45:00Z",
+      "url": "https://www.snopes.com//fact-check/harris-demanded-trump-arrest/"
+    },
+    {
+      "id": 57,
+      "title": "copick-torch added to PyPI",
+      "summary": "copick-torch, a new tool for Torch utilities, has been added to PyPI specifically for copick.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:44:45Z",
+      "url": "https://pypi.org/project/copick-torch/"
+    },
+    {
+      "id": 58,
+      "title": "Bragar Eagel & Squire, P.C. Urges Investors in UnitedHealth, Bitfarms, or Reddit to Inquire About Their Rights in Class Action Lawsuits",
+      "summary": "Bragar Eagel & Squire, P.C. encourages investors in UnitedHealth, Bitfarms, or Reddit to inquire about their rights in class action lawsuits for losses suffered",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T23:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116918/0/en/Bragar-Eagel-Squire-P-C-Urges-Investors-in-UnitedHealth-Bitfarms-or-Reddit-to-Inquire-About-Their-Rights-in-Class-Action-Lawsuits.html"
+    },
+    {
+      "id": 59,
+      "title": "Can a gaming laptop replace your PC? I put the MSI Titan 18 HX AI to the test for three weeks",
+      "summary": "Can a gaming laptop replace your PC? The MSI Titan 18 HX AI is a powerful, heavy option for top-tier performance and some portability compared to a tower PC.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-16T23:43:37Z",
+      "url": "https://www.techradar.com/computing/gaming-laptops/msi-titan-18-hx-ai"
+    },
+    {
+      "id": 60,
+      "title": "This new catalyst destroys \"forever chemicals\" within just \"seconds\"",
+      "summary": "This new catalyst destroys 'Forever Chemicals' within seconds, offering a sustainable solution for pollution control.",
+      "source": "Neowin",
+      "category": "research",
+      "timestamp": "2025-07-16T23:42:01Z",
+      "url": "https://www.neowin.net/news/this-new-catalyst-destroys-forever-chemicals-within-just-seconds/"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI taps Google Cloud to access much-needed GPUs for ChatGPT",
+      "summary": "OpenAI is accessing GPUs for ChatGPT through Google Cloud, improving cloud infrastructure for AI and adding Google Cloud as a hardware supplier.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-16T23:41:01Z",
+      "url": "https://siliconangle.com/2025/07/16/openai-taps-google-cloud-access-much-needed-gpus-chatgpt/"
+    },
     {
       "id": 51,
       "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Vestis, Reckitt, and Tempus and Encourages Investors to Contact the Firm",
@@ -351,105 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-16T22:52:09Z",
       "url": "https://biztoc.com/x/7d05b95b27a6e945"
-    },
-    {
-      "id": 55,
-      "title": "Google Starts Rolling Out New AI Capabilities in Search",
-      "summary": "Google is rolling out new AI capabilities in Search, including an AI-powered phone calling feature that's free for everyone to use.",
-      "source": "Thurrott.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:50:26Z",
-      "url": "https://www.thurrott.com/a-i/google-gemini-a-i/323435/google-starts-rolling-out-new-ai-capabilities-in-search"
-    },
-    {
-      "id": 56,
-      "title": "jstsconverter 0.1.1",
-      "summary": "jstsconverter 0.1.1 is a tool that converts JavaScript to TypeScript using Claude AI via Anthropic Bedrock.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:49:50Z",
-      "url": "https://pypi.org/project/jstsconverter/0.1.1/"
-    },
-    {
-      "id": 57,
-      "title": "How to Get Your Brand Mentioned by ChatGPT",
-      "summary": "OpenAI's ChatGPT has reached 100 million users in three months, making brand mentions by the AI platform a key performance indicator for businesses looking to gain exposure.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:49:13Z",
-      "url": "https://contently.com/2025/07/16/how-to-get-your-brand-mentioned-by-chatgpt/"
-    },
-    {
-      "id": 58,
-      "title": "Sony Finally Revives the RX1R After 10 Years and It Was Worth the Wait",
-      "summary": "Sony has revived the RX1R camera after 10 years with AI features, increased megapixels, and a cleaner design.",
-      "source": "Hiconsumption.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:47:02Z",
-      "url": "https://hiconsumption.com/tech/sony-rx1r-iii-camera/"
-    },
-    {
-      "id": 59,
-      "title": " Inter Miami line-up confirmed to face FC Cincinnati",
-      "summary": "Inter Miami's line-up confirmed to face FC Cincinnati in Major League Soccer, after participating in the FIFA Club World Cup.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:46:00Z",
-      "url": "https://onefootball.com/en/news/inter-miami-line-up-confirmed-to-face-fc-cincinnati-41385261"
-    },
-    {
-      "id": 60,
-      "title": "Your LLM-powered guide to the posit::conf(2025) agenda",
-      "summary": "LLM-powered guide using a Shiny app helps attendees discover ideal sessions at posit::conf(2025) by analyzing conference agenda",
-      "source": "Posit.co",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:45:45Z",
-      "url": "https://posit.co/blog/posit-conf-2025-agenda/"
-    },
-    {
-      "id": 61,
-      "title": "Trying the Obvious Thing",
-      "summary": "An article discussing the author's behavior in impersonal settings such as on the Internet or at work, being stingy with attention as they believe the world is out to get them.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:45:38Z",
-      "url": "https://www.lesswrong.com/posts/Zpqhds4dmLaBwTcnp/trying-the-obvious-thing"
-    },
-    {
-      "id": 62,
-      "title": "HPE inks cooperation agreement with activist investor Elliott",
-      "summary": "Hewlett Packard Enterprise Co. has reached a cooperation agreement with activist investor Elliott Investment Management to avoid a proxy fight. The deal was announced today.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-16T22:45:23Z",
-      "url": "https://siliconangle.com/2025/07/16/hpe-inks-cooperation-agreement-activist-investor-elliott/"
-    },
-    {
-      "id": 63,
-      "title": " Sport ultras storm training ground, striker attacked",
-      "summary": "Sport ultras stormed Sport's training ground, attacking a striker and making demands, which raised ethical concerns regarding the safety and treatment of athletes.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:44:00Z",
-      "url": "https://onefootball.com/en/news/sport-ultras-storm-training-ground-striker-attacked-41385259"
-    },
-    {
-      "id": 51,
-      "title": "Axon’s Draft One Is Designed To Defy Transparency",
-      "summary": "Axon's Draft One AI product for writing police reports based on body-worn camera audio appears to be designed to avoid accountability and transparency, according to EFF.",
-      "source": "Techdirt",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:42:50Z",
-      "url": "https://www.techdirt.com/2025/07/16/axons-draft-one-is-designed-to-defy-transparency/"
-    },
-    {
-      "id": 52,
-      "title": "gabiteodoru-parseq added to PyPI",
-      "summary": "gabiteodoru-parseq added to PyPI - ParseQ: Q Language to Python Translator with AI-Powered Disambiguation",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T22:39:47Z",
-      "url": "https://pypi.org/project/gabiteodoru-parseq/"
     }
   ]
 }
