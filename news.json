@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-17T10:19:48.295Z",
+  "lastUpdate": "2025-07-17T10:47:31.688Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Larry Ellison: The college dropout who built Oracle and made it to the billionaire chart",
+      "summary": "Larry Ellison, the college dropout who co-founded Oracle and built a $276 billion fortune, has become the world's second-richest person, surpassing Bezos and Zuckerberg.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-16T10:46:36Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/larry-ellison-the-college-dropout-who-built-oracle-and-made-it-to-the-billionaire-chart/articleshow/122573289.cms"
+    },
+    {
+      "id": 52,
+      "title": "My Summer Travel Is So Much Easier Thanks to Google Lens: How to Use It Like a Pro",
+      "summary": "Using Google Lens has greatly improved the user's travel experience, making it more convenient and efficient.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-16T10:45:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/my-summer-travel-is-so-much-easier-thanks-to-google-lens-how-to-use-it-like-a-pro/"
+    },
+    {
+      "id": 53,
+      "title": "Pure Storage profits from all-flash, as-a-service and cloud focus",
+      "summary": "Pure Storage is profiting from their focus on all-flash, as-a-service, and cloud solutions, evolving their offerings across various workloads and embracing cloud models in data management.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T10:45:00Z",
+      "url": "https://www.computerweekly.com/feature/Pure-Storage-profits-from-all-flash-as-a-service-and-cloud-focus"
+    },
+    {
+      "id": 54,
+      "title": "Conflict Con Carney",
+      "summary": "Carney's ethics screen covering over 100 companies and details of his blind trust raises questions about potential conflicts of interest, prompting speculation about his truthfulness to Canadians.",
+      "source": "Acast.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T10:45:00Z",
+      "url": "https://shows.acast.com/canadaland/episodes/6876ffe45d5bb0887499b09e"
+    },
+    {
+      "id": 55,
+      "title": " Farewell Cafucas: Lucas Vázquez says goodbye to Real Madrid",
+      "summary": "Lucas Vázquez is saying goodbye to Real Madrid after 10 seasons in the first team, with a tribute event organized by the club and Florentino Pérez. The event will take place at Ciudad Real Madrid at 1:00 p.m.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:45:00Z",
+      "url": "https://onefootball.com/en/news/farewell-cafucas-lucas-vazquez-says-goodbye-to-real-madrid-41382112"
+    },
+    {
+      "id": 56,
+      "title": "wyrmx-cli 1.0.76",
+      "summary": "wyrmx-cli 1.0.76 is the official command-line interface for Wyrmx, an AI-enhanced web framework built on FastAPI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T10:44:13Z",
+      "url": "https://pypi.org/project/wyrmx-cli/1.0.76/"
+    },
+    {
+      "id": 57,
+      "title": "Larry Ellison surpasses Mark Zuckerberg to become world’s second-richest person after Oracle doubles down on AI investment",
+      "summary": "Larry Ellison becomes world's second-richest person as Oracle increases AI investment and focuses philanthropy on healthcare, hunger, and climate change.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:40:09Z",
+      "url": "https://fortune.com/2025/07/16/larry-ellison-mark-zuckerberg-world-rich-list-oracle-ai/"
+    },
+    {
+      "id": 58,
+      "title": "Tropical Storm Dexter Update: Spaghetti Models Show Louisiana Landfall",
+      "summary": "Forecast models indicate that a disturbance crossing over Florida, with the potential to develop into Tropical Storm Dexter, could move towards Louisiana this week, showing the use of AI-generated voice in meteorology research.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-16T10:39:17Z",
+      "url": "https://biztoc.com/x/606d8c559c2811d4"
+    },
+    {
+      "id": 59,
+      "title": "Map Shows Where Xi Jinping Is More Popular Than Donald Trump",
+      "summary": "Confidence in President Donald Trump and views of the United States have fallen among the world's major economies over the past year, while China and its leader, Xi Jinping, have risen slightly in popularity.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:39:13Z",
+      "url": "https://biztoc.com/x/e1eb3f0cc559de47"
+    },
+    {
+      "id": 60,
+      "title": "Heartbreak As Shelter Throws Adoption Event for Dog, but No One Turns Up",
+      "summary": "Heartbreaking story of a dog named Flash celebrating his birthday in a shelter after no one showed up to his adoption event, despite waiting over 1,070 days.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T10:39:08Z",
+      "url": "https://biztoc.com/x/c19320624c76d43d"
+    },
+    {
+      "id": 61,
+      "title": "Veteran fund manager makes bold move on Nvidia price target",
+      "summary": "Veteran fund manager makes bold move on Nvidia price target, but CEO reassures U.S. government about AI technology not being used by Chinese military.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T10:39:08Z",
+      "url": "https://biztoc.com/x/453b23abbb5444a8"
+    },
+    {
+      "id": 62,
+      "title": "Map Shows Which States Are Most 'Financially Distressed'",
+      "summary": "Newly published data from personal finance website WalletHub shows how Americans are dealing with financial pressures, with rankings created based on various metrics for each state.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:38:44Z",
+      "url": "https://biztoc.com/x/6e2d327a8a9a7bc0"
+    },
+    {
+      "id": 63,
+      "title": "Nvidia Cashes in on Looser Export Controls",
+      "summary": "Nvidia takes advantage of looser export controls to sell AI-powering chips to China, stating it is crucial for the US to stay ahead in the Great AI Race.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:38:44Z",
+      "url": "https://biztoc.com/x/ce9e9f22862f3fb6"
+    },
+    {
+      "id": 64,
+      "title": "How to Install Claude Code in 5 minutes : Mac & Windows",
+      "summary": "How to Install Claude Code in 5 minutes : Mac & Windows - With all the turmoil at Windsurf, Claude Code might now be the tool you need to transform your AI coding workflow, cutting hours of manual effort into mere minutes.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-16T10:37:40Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-installation-guide-2/"
+    },
+    {
+      "id": 65,
+      "title": "WP Engine Launches AI Toolkit for WordPress Websites",
+      "summary": "WordPress hosting provider WP Engine has launched a three-part AI toolkit to enhance search, recommendations, and app development capabilities for site owners.",
+      "source": "CMSWire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T10:36:52Z",
+      "url": "https://www.cmswire.com/digital-experience/wp-engine-launches-ai-toolkit-for-wordpress-websites/"
+    },
+    {
+      "id": 66,
+      "title": "Samsung Galaxy Z Fold7 with $300 Amazon Gift Card: Big screen, and big savings",
+      "summary": "Amazon is offering a $300 gift card with the pre-order of the Samsung Galaxy Z Fold7, providing big savings for customers. This deal can help consumers save hundreds of dollars on the innovative foldable smartphone.",
+      "source": "Neowin",
+      "category": "economy",
+      "timestamp": "2025-07-16T10:36:01Z",
+      "url": "https://www.neowin.net/deals/samsung-galaxy-z-fold7-with-300-amazon-gift-card-big-screen-and-big-savings/"
+    },
+    {
+      "id": 67,
+      "title": "Grok 4 benchmark results: Tops math, ranks second in coding",
+      "summary": "Grok 4 benchmark results show it excels in math and ranks second in coding compared to other models like Gemini 2.5 Pro, according to new independent benchmarks.",
+      "source": "BleepingComputer",
+      "category": "research",
+      "timestamp": "2025-07-16T10:35:10Z",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/"
+    },
+    {
+      "id": 68,
+      "title": "Pre order Samsung Galaxy Z Flip 7 | Price & Deals | Samsung Singapore",
+      "summary": "Pre order the new Samsung Galaxy Z Flip7 5G with larger cover screen, upgraded Galaxy AI experience, and free shipping. Enjoy storage upgrade offers and save with trade-in deals at Samsung SG.",
+      "source": "Samsung.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T10:35:03Z",
+      "url": "https://www.samsung.com/sg/smartphones/galaxy-z-flip7/buy/"
+    },
+    {
+      "id": 69,
+      "title": "Show HN: KisanAI – WhatsApp Agricultural Assistant",
+      "summary": "Flask-based WhatsApp chatbot KisanAI designed for farmers integrates with Google's Gemini AI to provide agricultural advice, crop disease identification, market information, and government assistance.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T10:32:44Z",
+      "url": "https://github.com/mandarwagh9/KisanAI"
+    },
     {
       "id": 51,
       "title": "Open Channels FM: Fresh Series, New Names, and the Power of Repurposed Content",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T09:49:24Z",
       "url": "https://www.androidheadlines.com/2025/07/google-might-kill-circle-to-search-heres-what-could-replace-it.html"
-    },
-    {
-      "id": 62,
-      "title": "mcpmarket 0.1.3",
-      "summary": "mcpmarket 0.1.3 is a Python MCP server registry and proxy designed for AI agents",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:49:16Z",
-      "url": "https://pypi.org/project/mcpmarket/0.1.3/"
-    },
-    {
-      "id": 63,
-      "title": "How Germany can better support young entrepreneurs",
-      "summary": "Germany can better support young entrepreneurs like Benedict Kurz, who aims to provide an AI-supported tutor to a billion schoolchildren worldwide. The country needs to foster a more supportive environment for young entrepreneurs to thrive.",
-      "source": "DW (English)",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:49:00Z",
-      "url": "https://www.dw.com/en/how-germany-can-better-support-young-entrepreneurs/a-73290251"
-    },
-    {
-      "id": 64,
-      "title": "Atos awarded Golden Certificate by SAP as Global Operations Partner",
-      "summary": "Atos awarded Golden Certificate by SAP as Global Operations Partner after 20 years of trusted partnership.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:49:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116215/0/en/Atos-awarded-Golden-Certificate-by-SAP-as-Global-Operations-Partner.html"
-    },
-    {
-      "id": 65,
-      "title": "Google France hosted a hackathon to tackle healthcare's biggest challenges",
-      "summary": "Google France hosted a hackathon to tackle healthcare's biggest challenges with over 100 participants gathering in Paris. The event aimed to drive innovation in healthcare through technology.",
-      "source": "Blog.google",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:47:00Z",
-      "url": "https://blog.google/technology/health/google-france-ai-healthcare-hackathon/"
-    },
-    {
-      "id": 66,
-      "title": "93 percent of salaried individuals with low income use credit cards: Report",
-      "summary": "93 percent of salaried individuals with low income in India use credit cards, with 85 percent of self-employed individuals also relying on credit cards, according to a study analyzing financial behavior.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:46:31Z",
-      "url": "https://www.livemint.com/money/personal-finance/93-percent-of-salaried-individuals-with-low-income-use-credit-cards-report-11752656941074.html"
-    },
-    {
-      "id": 67,
-      "title": "Tesla (TSLA): UBS Says It’s Still Overvalued—Watch Musk’s Next Comments",
-      "summary": "Tesla stock price still considered overvalued according to UBS, despite being an AI-related stock.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:46:23Z",
-      "url": "https://finance.yahoo.com/news/tesla-tsla-ubs-says-still-094623760.html"
-    },
-    {
-      "id": 51,
-      "title": "xAI announces $200m US military deal after Grok chatbot had Nazi meltdown",
-      "summary": "xAI announces $200m US military deal after Grok chatbot had Nazi meltdown, raising questions about ethical implications of AI development",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:43:27Z",
-      "url": "https://biztoc.com/x/cd7a0d4949e8f2df"
-    },
-    {
-      "id": 52,
-      "title": "Oracle Is No Longer AI’s Dark Horse",
-      "summary": "Oracle's stock has surged thanks to artificial-intelligence deals, but its high valuation poses risks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:43:23Z",
-      "url": "https://biztoc.com/x/7a4528a21b70730a"
-    },
-    {
-      "id": 53,
-      "title": "Interview With Cognition CEO After Cognition AI Acquires Windsurf",
-      "summary": "The acquisition of Windsurf by Cognition AI is a bold step toward reshaping the future of artificial intelligence coding and AI software engineering.",
-      "source": "Geeky Gadgets",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:43:04Z",
-      "url": "https://www.geeky-gadgets.com/cognition-ai-windsurf-acquisition/"
-    },
-    {
-      "id": 54,
-      "title": "Lenovo ThinkPad X9 Aura Edition Moonlight White colorway revealed",
-      "summary": "Lenovo reveals new Moonlight White colorway for ThinkPad X9 Aura Edition, the first white color option for the series, following its debut at CES 2025.",
-      "source": "Yugatech.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:42:42Z",
-      "url": "https://www.yugatech.com/news/lenovo-thinkpad-x9-aura-edition-moonlight-white-colorway-revealed/"
-    },
-    {
-      "id": 55,
-      "title": "mcpmarket 0.1.1",
-      "summary": "mcpmarket 0.1.1 is a Python MCP server registry and proxy designed for AI agents, facilitating easier communication and interaction. This tool can be useful for various AI applications and projects.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:42:30Z",
-      "url": "https://pypi.org/project/mcpmarket/0.1.1/"
-    },
-    {
-      "id": 56,
-      "title": "Trump Threatens Drug Tariffs; Hassett Frontrunner For Fed Chair",
-      "summary": "President Trump threatens to impose tariffs on pharmaceuticals and potentially semiconductors, causing concerns for the economy.",
-      "source": "Omny.fm",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:40:38Z",
-      "url": "https://omny.fm/shows/bloomberg-daybreak/trump-threatens-drug-tariffs-bank-earnings-continue"
-    },
-    {
-      "id": 57,
-      "title": "「薬急便 遠隔接客AIアシスタント」 接客対話AIをアップデート",
-      "summary": "A company has updated its customer service dialogue AI for its medicine delivery service, aiming to provide better remote assistance.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:40:03Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000044.000093498.html"
-    },
-    {
-      "id": 58,
-      "title": "Forrester urges IT leaders to dump technical debt",
-      "summary": "Forrester advises IT leaders to prioritize investing in new technologies and outsourcing legacy IT management in order to address the challenges of volatile global markets.",
-      "source": "ComputerWeekly.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:40:00Z",
-      "url": "https://www.computerweekly.com/news/366627792/Forrester-urges-IT-leaders-to-dump-technical-debt"
-    },
-    {
-      "id": 59,
-      "title": "Agritech investments and incubators: Nurturing the next generation of food innovators in Dubai",
-      "summary": "Agritech investments and incubators in Dubai are nurturing the next generation of food innovators, providing opportunities for India's next-gen food innovators as the UAE focuses on sustainable food innovation.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:39:56Z",
-      "url": "https://economictimes.indiatimes.com/news/international/uae/agritech-investments-and-incubators-nurturing-the-next-generation-of-food-innovators-in-dubai/articleshow/122569172.cms"
-    },
-    {
-      "id": 60,
-      "title": "Nothing CEO Carl Pei reacts to Phone 3 reviews, admits it’s not for everyone",
-      "summary": "Nothing CEO Carl Pei reacts to Phone 3 reviews, admitting that the phone is not for everyone. The company posted a YouTube video showing Pei reacting to various reviews of the Nothing Phone 3.",
-      "source": "Android Authority",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:39:41Z",
-      "url": "https://www.androidauthority.com/nothing-ceo-carl-pei-react-to-phone-3-reviews-3577911/"
-    },
-    {
-      "id": 61,
-      "title": "AppLovin Stock (APP): Analysts Expect Strong Q2 and More Upside Ahead",
-      "summary": "AppLovin Corporation, an AI stock, is expected to have a strong Q2 and more upside ahead according to analysts.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:39:02Z",
-      "url": "https://finance.yahoo.com/news/applovin-stock-app-analysts-expect-093902722.html"
-    },
-    {
-      "id": 62,
-      "title": " Cristiano Ronaldo: his top 10 goals for Al-Nassr in 2024/25",
-      "summary": "Cristiano Ronaldo's top 10 goals for Al-Nassr in 2024/25 season showcased his skill and versatility as a striker, with goals scored using both his left and right foot.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:38:00Z",
-      "url": "https://onefootball.com/en/news/cristiano-ronaldo-his-top-10-goals-for-al-nassr-in-202425-41381935"
-    },
-    {
-      "id": 63,
-      "title": "How AI Is Redefining Content Strategy",
-      "summary": "Manick Bhan, founder and CTO of Search Atlas, is utilizing AI to redefine content strategy in the SEO and content marketing industry.",
-      "source": "Libsyn.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:38:00Z",
-      "url": "https://sites.libsyn.com/18353/how-ai-is-redefining-content-strategy"
     }
   ]
 }
