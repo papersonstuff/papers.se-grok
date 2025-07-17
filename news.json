@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-17T14:41:00.796Z",
+  "lastUpdate": "2025-07-17T14:54:41.019Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Tech Mahindra’s Q1 profit surges 34% on strong verticals and margin discipline",
+      "summary": "Tech Mahindra's Q1 profit surged 34% on strong verticals like communications, retail, and BFSI, driven by solid performance and margin discipline.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:53:09Z",
+      "url": "https://www.thehindubusinessline.com/news/tech-mahindras-q1-profit-surges-34-on-strong-verticals-and-margin-discipline/article69819499.ece"
+    },
+    {
+      "id": 52,
+      "title": "Tech Mahindra’s Q1 profit surges 34% on strong verticals and margin discipline",
+      "summary": "Tech Mahindra's Q1 profit surged 34% due to strong performance in communications, retail, and BFSI verticals.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:53:09Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/tech-mahindras-q1-profit-surges-34-on-strong-verticals-and-margin-discipline/article69819499.ece"
+    },
+    {
+      "id": 53,
+      "title": "User experience analytics: the ultimate guide",
+      "summary": "UX analytics is the practice of collecting and analyzing user data to understand how people interact with your product.",
+      "source": "Optimizely.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:49:56Z",
+      "url": "https://www.optimizely.com/insights/blog/user-experience-analytics/"
+    },
+    {
+      "id": 54,
+      "title": "Seagate brings HAMR to market with new 30TB Exos and IronWolf Pro drives",
+      "summary": "Seagate has brought HAMR technology to market with new 30TB Exos and IronWolf Pro drives, targeting the mass-market storage segment.",
+      "source": "TechSpot",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:49:00Z",
+      "url": "https://www.techspot.com/news/108686-seagate-brings-hamr-market-new-30tb-exos-ironwolf.html"
+    },
+    {
+      "id": 55,
+      "title": "mcp-clipboardify 1.0.0",
+      "summary": "mcp-clipboardify 1.0.0 is a MCP server that offers clipboard access tools for AI assistants and automation workflows.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:48:22Z",
+      "url": "https://pypi.org/project/mcp-clipboardify/1.0.0/"
+    },
+    {
+      "id": 56,
+      "title": "mcp-clipboardify added to PyPI",
+      "summary": "mcp-clipboardify added to PyPI - MCP server providing clipboard access tools for AI assistants and automation workflows",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:48:22Z",
+      "url": "https://pypi.org/project/mcp-clipboardify/"
+    },
+    {
+      "id": 57,
+      "title": "One chart shows why the stock market could be in a bigger bubble than the dot-com boom",
+      "summary": "Bubble talk has been rising on Wall Street in the years since ChatGPT set off an AI frenzy in the stock market, with one chart showing that the stock market could be in a bigger bubble than the dot-com boom.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:48:13Z",
+      "url": "https://www.businessinsider.com/stock-market-bubble-ai-dot-com-crash-sp500-tech-valuations-2025-7"
+    },
+    {
+      "id": 58,
+      "title": "New J-Pop Wednesday: July 16, 2025",
+      "summary": "This week's New J-Pop Wednesday features multiple artists including HANA, Ai Tomioka, and SEKAI NO OWARI, showcasing the application of AI technology in the music industry for creating and promoting music.",
+      "source": "Livejournal.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:44:43Z",
+      "url": "https://ohnotheydidnt.livejournal.com/130879803.html"
+    },
+    {
+      "id": 59,
+      "title": "Show HN: I built a GitHub AI app to automate the fixing of outdated docs",
+      "summary": "In my 15+ years as a developer, one of the most annoying things I've consistently faced is outdated documentation. A GitHub AI app has been built to automate the fixing of these outdated docs, making maintaining docs easier for developers.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:44:38Z",
+      "url": "https://github.com/marketplace/deepdocsai"
+    },
+    {
+      "id": 60,
+      "title": "Vidnoz AI Unveils Product Avatar and Interactive Avatar, Redefining Marketing Video | Digital More",
+      "summary": "Vidnoz AI introduces Product Avatar and Interactive Avatar, revolutionizing marketing video creation.",
+      "source": "Digitalmore.co",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:44:01Z",
+      "url": "https://digitalmore.co/vidnoz-ai-unveils-product-avatar-and-interactive-avatar-redefining-marketing-video/"
+    },
+    {
+      "id": 61,
+      "title": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside",
+      "summary": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside as the company's stock is on a downward slide this year. Investors are looking for signs of a turnaround during its upcoming July earnings call.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T14:43:40Z",
+      "url": "https://biztoc.com/x/71fde655e98dc727"
+    },
+    {
+      "id": 62,
+      "title": "West Coast May Get Tallest Skyscraper Yet As Record-Breaking Tower Proposed",
+      "summary": "A proposed record-breaking 1,225 foot-high tower in San Francisco may become the tallest building on the West Coast, featuring 1.6 million square feet of office space.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:43:39Z",
+      "url": "https://biztoc.com/x/c75ab018c29c5fc7"
+    },
+    {
+      "id": 63,
+      "title": "Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown",
+      "summary": "Rex Salisbury’s Cambrian Ventures raises new fund for fintech startups, with $20 million second fund continuing focus on this sector.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-16T14:43:29Z",
+      "url": "https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/"
+    },
+    {
+      "id": 64,
+      "title": "Ixigo’s AI Mindset: Use Tech Instead of ‘Just Hiring More People’",
+      "summary": "Ixigo is focusing on using AI technology instead of hiring more people, showcasing the trend of CEOs prioritizing the use and benefits of AI over traditional metrics.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:43:01Z",
+      "url": "https://finance.yahoo.com/news/ixigo-ai-mindset-tech-instead-144301679.html"
+    },
+    {
+      "id": 65,
+      "title": "Ixigo’s AI Mindset: Use Tech Instead of ‘Just Hiring More People’",
+      "summary": "Ixigo's AI mindset involves using technology instead of hiring more people, with CEOs focusing on demonstrating how AI is being used and its impact on business over traditional metrics like sales and earnings.",
+      "source": "Skift",
+      "category": "innovation",
+      "timestamp": "2025-07-16T14:43:01Z",
+      "url": "http://skift.com/2025/07/16/ixigos-ai-mindset-use-tech-instead-of-just-hiring-more-people/"
+    },
+    {
+      "id": 66,
+      "title": "Bruce Mansfield Power Plant to Be Converted to Run on Gas",
+      "summary": "The Bruce Mansfield Power Plant is set to be converted to run on gas in order to power a new data center and the PJM interconnection region.",
+      "source": "Rigzone",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:42:48Z",
+      "url": "https://www.rigzone.com/news/bruce_mansfield_power_plant_to_be_converted_to_run_on_gas-16-jul-2025-181166-article/"
+    },
+    {
+      "id": 67,
+      "title": "5 ChatGPT Prompts To Launch A $3,000/Month Side Hustle",
+      "summary": "Use ChatGPT prompts to start a $3,000/month side hustle by finding your niche, validating demand, creating content, and scaling faster with AI-driven strategies.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-16T14:42:45Z",
+      "url": "https://www.forbes.com/sites/sarahhernholm/2025/07/16/5-chatgpt-prompts-to-launch-a-3000month-side-hustle/"
+    },
+    {
+      "id": 68,
+      "title": "AI Adoption Is Growing Fast Among Construction and Design Pros (19 photos)",
+      "summary": "AI adoption is growing fast among construction and design professionals, as revealed by the 2025 U.S. Houzz State of AI in Construction and Design report. The technology is reshaping industries worldwide and providing new insights for professionals in these fields.",
+      "source": "Houzz.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T14:41:55Z",
+      "url": "https://www.houzz.com/magazine/ai-adoption-is-growing-fast-among-construction-and-design-pros-stsetivw-vs~182137291"
+    },
     {
       "id": 51,
       "title": "Meta Snags Two Key OpenAI Researchers In Latest Talent Grab, Continuing Its Streak Of Poaching Top Minds For Superintelligence Ambitions",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-16T14:10:13Z",
       "url": "https://biztoc.com/x/15b45fb134105670"
-    },
-    {
-      "id": 63,
-      "title": "How Dr. Heather Farley Led a Wellness Revolution for Health Care Workers",
-      "summary": "Dr. Heather Farley led a wellness revolution for health care workers using AI-generated voice technology, recognizing the challenges of balancing medical school and motherhood.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:10:11Z",
-      "url": "https://biztoc.com/x/b04420da6f191ed0"
-    },
-    {
-      "id": 64,
-      "title": "Lamine Yamal mural in Barcelona not vandalised contrary to reports",
-      "summary": "Lamine Yamal mural in Barcelona not vandalised contrary to reports - Barcelona fans are waiting for the official announcement of Lamine Yamal becoming the team’s new No. 10, with the ceremony set to take place in a few hours.",
-      "source": "Barcauniversal.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:10:00Z",
-      "url": "https://barcauniversal.com/lamine-yamal-mural-in-barcelona-not-vandalised-contrary-to-reports/"
-    },
-    {
-      "id": 65,
-      "title": "Nvidia C.E.O. Treads Carefully in Beijing",
-      "summary": "Nvidia's CEO is navigating the competition between the US and China in artificial intelligence to protect his company's interests.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:10:00Z",
-      "url": "https://biztoc.com/x/2c151a7b6e0766d0"
-    },
-    {
-      "id": 66,
-      "title": "AI Startups: Heron Aims to Organize Business Data",
-      "summary": "AI startup Heron raises $16.6 million in Series A funding round to automate organization of business data.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T14:09:45Z",
-      "url": "https://biztoc.com/x/d81f7e408c87c48e"
-    },
-    {
-      "id": 67,
-      "title": "Leaked message show Marc Andreessen blasting elite colleges over DEI: ‘My people are furious and not going to take it anymore’",
-      "summary": "Leaked messages reveal Marc Andreessen criticizing elite colleges for alleged reverse discrimination, showing his frustration with the lack of diversity and inclusion. The messages highlight the ongoing ethical challenges around diversity, equity, and inclusion in prestigious institutions.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-16T14:08:43Z",
-      "url": "https://fortune.com/2025/07/16/marc-andreessen-leaked-messages-dei-stanford-university-mit/"
-    },
-    {
-      "id": 68,
-      "title": "Cryptocurrency regulation is clear, and BJMINING cloud mining is gaining popularity",
-      "summary": "Cryptocurrency regulation is clear, and BJMINING cloud mining is gaining popularity. The price of Bitcoin broke through $120,000 as 'Cryptocurrency Week' kicked off in the US.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:08:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116579/0/en/Cryptocurrency-regulation-is-clear-and-BJMINING-cloud-mining-is-gaining-popularity.html"
-    },
-    {
-      "id": 51,
-      "title": "Trading Revenues Drive Bank Earnings; Wholesale Prices Muted",
-      "summary": "Trading revenues boosted bank earnings despite muted wholesale prices, with markets falling except for the Nasdaq which was lifted by Nvidia's surge.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:52:56Z",
-      "url": "https://www.forbes.com/sites/jjkinahan/2025/07/16/trading-revenues-drive-bank-earnings-wholesale-prices-muted/"
-    },
-    {
-      "id": 52,
-      "title": "Greetings from New Delhi, India, where performing monkeys spark delight -- and ambivalence",
-      "summary": "Performing monkeys in New Delhi spark both delight and ambivalence, as highlighted in NPR's Far-Flung Postcards series.",
-      "source": "NPR",
-      "category": "ethics",
-      "timestamp": "2025-07-16T13:52:16Z",
-      "url": "https://www.npr.org/2025/07/16/g-s1-77174/india-monkeys-new-delhi"
-    },
-    {
-      "id": 53,
-      "title": "View Systems Launches Cloud and Desktop Experiences to Deliver AI in Minutes",
-      "summary": "View Systems launches View Desktop and View Cloud to deliver AI in minutes, accelerating AI adoption by eliminating costly infrastructure and development cycles.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:52:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/view-systems-launches-cloud-and-desktop-experiences-to-deliver-ai-in-minutes.aspx"
-    },
-    {
-      "id": 54,
-      "title": "$450 Mn Flexible Graphite Markets, 2030 - Focus on Sheets, Foils, Tapes, Gaskets & Seals, Thermal Management, Emi Shielding, Automotive, Aerospace, Electronics, Oil & Gas, Power & Energy",
-      "summary": "The flexible graphite market is expected to grow from USD 0.35 billion in 2025 to USD 0.45 billion by 2030, with a CAGR of 5.5% due to rising demand in thermal management and sealing solutions across industries like automotive and petrochemicals.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T13:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116548/28124/en/450-Mn-Flexible-Graphite-Markets-2030-Focus-on-Sheets-Foils-Tapes-Gaskets-Seals-Thermal-Management-Emi-Shielding-Automotive-Aerospace-Electronics-Oil-Gas-Power-Energy.html"
-    },
-    {
-      "id": 55,
-      "title": "F5 Application Delivery and Security Platform Introduces Data Leakage Detection and Prevention for Securing AI Workloads",
-      "summary": "F5 introduces data leakage detection and prevention for securing AI workloads with new AI-driven capabilities for the Application Delivery and Security Platform.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:48:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/f5-application-delivery-and-security-platform-introduces-data-leakage-detection-and-prevention-for-securing-ai-workloads.aspx"
-    },
-    {
-      "id": 56,
-      "title": "‘Catalyst for progress’: Nvidia CEO hails China’s AI at Beijing expo",
-      "summary": "Nvidia CEO hails China's AI as a catalyst for progress at Beijing expo.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:47:57Z",
-      "url": "https://biztoc.com/x/7f73c61d812c9934"
-    },
-    {
-      "id": 57,
-      "title": "Man Eats Sandwich, Internet Not Prepared for What Crawls Out of It at End",
-      "summary": "A Reddit user's meal took an unexpected turn when a live snail crawled out of his sandwich, sparking discussion of AI-generated voice inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:47:42Z",
-      "url": "https://biztoc.com/x/8c557bb6ea800561"
-    },
-    {
-      "id": 58,
-      "title": "Apple's iOS 26 and iPadOS 26 public betas will release any minute now: What to expect",
-      "summary": "Apple is set to release iOS 26 and iPadOS 26 public betas soon, providing users with a glimpse of what to expect. The details on timeline, eligibility, and enrollment for the beta releases are outlined for those interested in trying out the new features.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:47:00Z",
-      "url": "https://www.zdnet.com/article/apples-ios-26-and-ipados-26-public-betas-will-release-any-minute-now-what-to-expect/"
-    },
-    {
-      "id": 59,
-      "title": "Liqid Unveils Next-Generation Composable Infrastructure Solutions to Scale Enterprise AI for On-Premises Datacenter and Edge Environments",
-      "summary": "Liqid unveils new composable infrastructure solutions designed to scale enterprise AI workloads while minimizing costs and maximizing performance.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T13:46:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/liqid-unveils-next-generation-composable-infrastructure-solutions-to-scale-enterprise-ai-for-on-premises-datacenter-and-edge-environments.aspx"
-    },
-    {
-      "id": 60,
-      "title": "How Indian students can unlock Google’s Gemini AI Pro plan worth Rs 19,500 for free",
-      "summary": "Google has announced a free one-year AI Pro plan for college students in India, unlocking tools like Gemini 2.5 Pro, Veo 3, Deep Research, and NotebookLM, plus 2TB of storage.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:45:04Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/how-indian-students-can-unlock-googles-gemini-ai-pro-plan-worth-rs-19500-for-free/articleshow/122578127.cms"
-    },
-    {
-      "id": 61,
-      "title": "MoonBull Launches Whitelist Registration Amid Surging Meme Coin Momentum",
-      "summary": "MoonBull launches whitelist registration for early access to $MOBU token with staking and allocation benefits",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T13:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116543/0/en/MoonBull-Launches-Whitelist-Registration-Amid-Surging-Meme-Coin-Momentum.html"
-    },
-    {
-      "id": 62,
-      "title": "Immersive Announces AI-Powered Lab Customization Feature to Improve Cyber Skills Across the Technical Workforce",
-      "summary": "Immersive announced its Immersive One AI-powered Lab Builder feature to give customers and partners powerful new ways to rapidly improve cyber skills across teams through customized labs and learning experiences.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T13:44:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/immersive-announces-ai-powered-lab-customization-feature-to-improve-cyber-skills-across-the-technical-workforce.aspx"
     }
   ]
 }
