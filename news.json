@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-17T18:22:49.857Z",
+  "lastUpdate": "2025-07-17T18:52:50.587Z",
   "items": [
+    {
+      "id": 51,
+      "title": "SZA Calls Out Destructive AI Usage: ‘Environmental Racism’ Is the ‘Price for Convenience’",
+      "summary": "SZA criticizes the harmful effects of AI usage, describing it as environmental racism and a price paid for convenience.",
+      "source": "Rolling Stone",
+      "category": "ethics",
+      "timestamp": "2025-07-16T18:50:32Z",
+      "url": "http://www.rollingstone.com/music/music-news/sza-ai-use-environmental-racism-pollution-1235387310/"
+    },
+    {
+      "id": 52,
+      "title": "New Research Shows Data Breaches Keep Coming. Here's How To Protect Yourself",
+      "summary": "New research shows that there were over 1,000 reported data breaches in the first half of 2021, impacting millions of Americans.",
+      "source": "CNET",
+      "category": "research",
+      "timestamp": "2025-07-16T18:50:29Z",
+      "url": "https://www.cnet.com/tech/services-and-software/new-research-shows-data-breaches-keep-coming-heres-how-to-protect-yourself/"
+    },
+    {
+      "id": 53,
+      "title": "CrowdStrike sees cybersecurity innovation hitting warp speed with agentic AI",
+      "summary": "CrowdStrike sees cybersecurity innovation accelerating with agentic AI, transforming threat detection and response. The traditional reactive approach to breaches is being replaced by a smarter, faster model.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:49:44Z",
+      "url": "https://siliconangle.com/2025/07/16/crowdstrike-cybersecurity-innovation-enters-new-era-agentic-ai-awssummitnyc/"
+    },
+    {
+      "id": 54,
+      "title": "Meta-backed Scale AI to cut 200 jobs",
+      "summary": "Meta-backed Scale AI is set to cut 200 jobs, or 14% if its workforce, in order to become more nimble and efficient.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T18:49:02Z",
+      "url": "https://biztoc.com/x/7e7cc5d76a3e8487"
+    },
+    {
+      "id": 55,
+      "title": "Redwood is repurposing GM’s EV batteries into energy storage",
+      "summary": "Redwood is repurposing GM’s EV batteries into energy storage - General Motors and Redwood Materials are joining forces to take EV battery tech beyond the road and onto the grid.",
+      "source": "Electrek",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:48:53Z",
+      "url": "http://electrek.co/2025/07/16/redwood-gm-ev-batteries-energy-storage/"
+    },
+    {
+      "id": 56,
+      "title": "Tech layoffs 2025: How Microsoft, Google, and Meta are plotting for the AI era",
+      "summary": "Tech layoffs in 2025 by big companies like Microsoft, Google, and Meta are shedding thousands of workers, sparking discussions on the motivations behind the workforce reductions.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T18:48:45Z",
+      "url": "https://biztoc.com/x/1459f9dfd13ff181"
+    },
+    {
+      "id": 57,
+      "title": "Zuckerberg says Meta will build data center the size of Manhattan in latest AI push",
+      "summary": "Mark Zuckerberg announced Meta's plan to build a data center the size of Manhattan and spend hundreds of billions on developing artificial intelligence products.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-16T18:48:30Z",
+      "url": "https://biztoc.com/x/8a8f697ba8c40cd1"
+    },
+    {
+      "id": 58,
+      "title": "Supernova Cinematography: How NASA’s Roman Space Telescope Will Create a Movie of Exploding Stars",
+      "summary": "The Nancy Grace Roman Space Telescope is preparing for its science operations by running simulations, including creating a movie of exploding stars like supernovae. The telescope is set to launch in May 2027.",
+      "source": "Universe Today",
+      "category": "research",
+      "timestamp": "2025-07-16T18:47:51Z",
+      "url": "https://www.universetoday.com/articles/supernova-cinematography-how-nasas-roman-space-telescope-will-create-a-movie-of-exploding-stars"
+    },
+    {
+      "id": 59,
+      "title": "As AI surges, Schneider Electric is teaming up with Nvidia to help data centers manage their energy use. Here's how.",
+      "summary": "As AI surges, Schneider Electric is teaming up with Nvidia to help data centers manage their energy use by developing a new reference design to make them more sustainable.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:46:12Z",
+      "url": "https://www.businessinsider.com/schneider-electric-nvidia-ai-data-centers-designs-energy-demands-2025-7"
+    },
+    {
+      "id": 60,
+      "title": "GPU Secrets for Scalable AI Performance",
+      "summary": "GPU Secrets for Scalable AI Performance - Register now free-of-charge to explore this white paper AI is transforming industries - but only if your infrastructure can deliver the speed, efficiency, and scalability your use cases demand.",
+      "source": "Wiley.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:45:55Z",
+      "url": "https://content.knowledgehub.wiley.com/unlock-the-full-potential-of-ai-with-optimized-inference-infrastructure/"
+    },
+    {
+      "id": 61,
+      "title": "AI Express Boeing 737 Plane Faces Tech Issue; Airline Cancels Lucknow-Dubai Flight",
+      "summary": "AI Express Boeing 737 plane faced a tech issue at Lucknow airport, leading to cancellation of flight to Dubai.",
+      "source": "Ndtvprofit.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T18:45:26Z",
+      "url": "https://www.ndtvprofit.com/nation/ai-express-boeing-737-plane-faces-tech-issue-airline-cancels-lucknow-dubai-flight"
+    },
+    {
+      "id": 62,
+      "title": "Intel Allegedly Readies Nova Lake-AX To Challenge AMD's Strix Halo",
+      "summary": "Intel is reportedly preparing the Nova Lake-AX processor to compete with AMD's Strix Halo. Leaks suggest the Nova Lake-AX will have a powerful integrated GPU, desktop-class CPU, and a 256-bit memory interface.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-16T18:45:00Z",
+      "url": "https://hothardware.com/news/intel-nova-lake-ax-rumor"
+    },
     {
       "id": 51,
       "title": "shitlint added to PyPI",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T17:37:05Z",
       "url": "https://www.trendhunter.com/trends/petkit-purobot-crystal-duo"
-    },
-    {
-      "id": 64,
-      "title": "The Key To Staying Relevant In The Age Of AI",
-      "summary": "The key to staying relevant in the age of AI is being agile and open to new possibilities, more important than any degree or credential.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:36:04Z",
-      "url": "https://www.forbes.com/sites/harmoncullinan/2025/07/16/the-key-to-staying-relevant-in-the-age-of-ai/"
-    },
-    {
-      "id": 65,
-      "title": "'Plus Mind' rolls onto the OnePlus 13, 13R as the assistant Android users need",
-      "summary": "'Plus Mind' has been introduced on the OnePlus 13 and 13R as an AI assistant for Android users, offering a screenshot assistant feature to enhance user experience.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:34:59Z",
-      "url": "https://www.androidcentral.com/phones/oneplus/plus-mind-ai-oneplus-13-13r-screenshot-assistant-rollout-announced"
-    },
-    {
-      "id": 66,
-      "title": "JA Mining Expands Renewable Mining Infrastructure in North America Post Completion of Independent Security Audit",
-      "summary": "JA Mining expands renewable mining infrastructure in North America post completion of independent security audit, in response to rising demand for sustainable and secure digital asset participation.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:34:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116756/0/en/JA-Mining-Expands-Renewable-Mining-Infrastructure-in-North-America-Post-Completion-of-Independent-Security-Audit.html"
-    },
-    {
-      "id": 67,
-      "title": "Yves Guillemot’s Son And Christophe Derennes Named Co-CEOs Of New Tencent Subsidiary At Ubisoft",
-      "summary": "Yves Guillemot’s son and Christophe Derennes have been named co-CEOs of a new Tencent subsidiary at Ubisoft, signaling a leadership change and collaboration between the two companies.",
-      "source": "Wccftech",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:33:53Z",
-      "url": "https://wccftech.com/ubisoft-name-yves-guillemot-son-christophe-derennes-co-ceos-tencent-subsidiary/"
-    },
-    {
-      "id": 68,
-      "title": "\"We'll Kill Each Other\": Panic as Peller Opens Up on What He'll Do If Lover Jarvis Breaks His Heart",
-      "summary": "Peller and Jarvis' tumultuous relationship highlights concerns over toxic relationships and the impact on mental health.",
-      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:32:04Z",
-      "url": "https://www.legit.ng/entertainment/celebrities/1664649-ll-kill-panic-peller-opens-what-ll-jarvis-breaks-heart/"
-    },
-    {
-      "id": 69,
-      "title": "Google announces Pixel 10 series launch event",
-      "summary": "Google announces Pixel 10 series launch event, revealing the announcement date for its next-generation Pixel devices.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:32:01Z",
-      "url": "https://www.neowin.net/news/google-announces-pixel-10-series-launch-event/"
-    },
-    {
-      "id": 70,
-      "title": "Google's AI Can Now Make Phone Calls",
-      "summary": "Google has developed AI technology that allows users to make phone calls to local businesses for pricing and availability information without having to speak with a person, an application of AI in providing customer service.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:32:00Z",
-      "url": "https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls"
-    },
-    {
-      "id": 51,
-      "title": "Google announces Pixel 10 launch event - The Verge",
-      "summary": "Google announces Pixel 10 launch event with a focus on AI, unveiling new hardware on August 20 including the Pixel 10 and Pixel Watch.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:15:03Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394196"
-    },
-    {
-      "id": 52,
-      "title": "This new, improved Nextdoor might be just the social app we need right now",
-      "summary": "Nextdoor's redesigned app adds emergency alerts, news, and AI-powered recommendations to provide a more comprehensive social platform while still allowing users to engage with their neighbors.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:14:11Z",
-      "url": "https://www.zdnet.com/article/this-new-improved-nextdoor-might-be-just-the-social-app-we-need-right-now/"
-    },
-    {
-      "id": 53,
-      "title": "EXL announces availability of EXL Code Harbor™ and EXL Smart Agent Assist™ in the new AWS Marketplace AI Agents and Tools category",
-      "summary": "EXL announces availability of EXL Code Harbor™ and EXL Smart Agent Assist™ in the new AWS Marketplace AI Agents and Tools category.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:14:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116748/9060/en/EXL-announces-availability-of-EXL-Code-Harbor-and-EXL-Smart-Agent-Assist-in-the-new-AWS-Marketplace-AI-Agents-and-Tools-category.html"
-    },
-    {
-      "id": 54,
-      "title": "Cybersecurity startup Deep Algorithm raises Rs 10.8 crore from Unicorn India Ventures",
-      "summary": "Cybersecurity startup Deep Algorithm raises Rs 10.8 crore from Unicorn India Ventures to scale engineering and threat intelligence teams, accelerate go-to-market activities in India and Southeast Asia, and expand integrations with key enterprise platforms.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:13:58Z",
-      "url": "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-deep-algorithm-raises-rs-10-8-crore-from-unicorn-india-ventures/articleshow/122586240.cms"
-    },
-    {
-      "id": 55,
-      "title": "Meta Patches AI Security Flaw That Could Leak Your Private Chatbot Prompts",
-      "summary": "Meta has fixed a security flaw in its AI that could leak users' private chatbot prompts, after it was discovered by a cybersecurity expert. The vulnerability was disclosed on December 26, 2024, and fixed on January 24, 2025.",
-      "source": "Hot Hardware",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:13:00Z",
-      "url": "https://hothardware.com/news/meta-patches-ai-security-flaw-private-prompts"
     }
   ]
 }
