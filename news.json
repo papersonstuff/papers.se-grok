@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T10:47:31.688Z",
+  "lastUpdate": "2025-07-17T11:14:31.544Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Morning Bid: Tariff inflation irks bonds",
+      "summary": "U.S. long-bond rates have climbed above 5% due to tariff-related inflation, agitating global bond markets.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:12:41Z",
+      "url": "https://finance.yahoo.com/news/morning-bid-tariff-inflation-irks-111241427.html"
+    },
+    {
+      "id": 52,
+      "title": "10x Your Meetings with These 5 Simple AI Tricks",
+      "summary": "10x Your Meetings with These 5 Simple AI Tricks - What if your meetings could go from time-draining obligations to productivity powerhouses? For many teams, meetings are a necessary evil—often criticized for being too long, poorly structured, or downright unproductive.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:12:31Z",
+      "url": "https://www.geeky-gadgets.com/productive-meeting-strategies/"
+    },
+    {
+      "id": 53,
+      "title": "10 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "summary": "Warren Buffett's Berkshire Hathaway holds significant stakes in Apple, Bank of America, and Coca-Cola, providing passive income opportunities for investors in various industries.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:12:29Z",
+      "url": "https://biztoc.com/x/6af0cb09e072570e"
+    },
+    {
+      "id": 54,
+      "title": "Chinese AI startup's low-cost model challenges US competitors",
+      "summary": "Chinese AI startup releases low-cost model challenging US competitors, showcasing performance at a fraction of the cost.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T11:12:26Z",
+      "url": "https://biztoc.com/x/4f6879ceebe8877c"
+    },
+    {
+      "id": 55,
+      "title": "Deaf Woman Films Video in Apartment—Everyone Warns Her About the Same Thing",
+      "summary": "Deaf woman's viral video filmed inside apartment sparks warnings about AI-generated voice inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:12:14Z",
+      "url": "https://biztoc.com/x/e43146bfa36a0017"
+    },
+    {
+      "id": 56,
+      "title": "Bonded Pair of 15-Year-Old Shelter Dogs Desperate To Be Adopted Together",
+      "summary": "Two 15-year-old dog siblings are looking to be adopted together from a shelter, with the hope of finding a forever home. Oliver and Savannah are in the care of Frosted Faces Foundation.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:12:13Z",
+      "url": "https://biztoc.com/x/70367e27b5cd78e3"
+    },
+    {
+      "id": 57,
+      "title": "(PR) Lexar Launches the NM990 PCIe 5.0 SSD Series with Up to 14 GB/s Sequential Reads",
+      "summary": "Lexar launches NM990 PCIe 5.0 SSD Series with up to 14 GB/s sequential reads, targeting high-end gamers, professional creators, and AI developers.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:09:58Z",
+      "url": "https://www.techpowerup.com/338979/lexar-launches-the-nm990-pcie-5-0-ssd-series-with-up-to-14-gb-s-sequential-reads"
+    },
+    {
+      "id": 58,
+      "title": "Mike Johnson calls for Epstein files and ICE memos gives deportation guidance: Morning Rundown",
+      "summary": "House Speaker Mike Johnson is calling for the release of the Epstein files and ICE memos providing guidance on deportation. Donald Trump dismisses interest in the Epstein case despite calls from his supporters.",
+      "source": "NBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-16T11:09:58Z",
+      "url": "https://www.nbcnews.com/news/us-news/mike-johnson-epstein-files-ice-memos-deportation-morning-rundown-rcna219034"
+    },
+    {
+      "id": 59,
+      "title": "Dubai restaurant to launch world’s first AI chef experience. Curious how it cooks without tasting?",
+      "summary": "Dubai restaurant to launch world’s first AI chef experience, using an AI chef named Aiman to revolutionize fine dining. Aiman utilizes decades of food science and global recipes to craft unique dishes, partnering with chef Reif Othman.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:08:48Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/dubai-restaurant-to-launch-worlds-first-ai-chef-experience-curious-how-it-cooks-without-tasting/articleshow/122573560.cms"
+    },
+    {
+      "id": 60,
+      "title": "India isn’t the West: Shark Anupam Mittal warns against blind reliance on AI in a billion-plus nation",
+      "summary": "Anupam Mittal warns against blind reliance on AI in India, advocating for a balanced focus on job creation and skilling",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-16T11:08:32Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/india-isnt-the-west-shark-anupam-mittal-warns-against-blind-reliance-on-ai-in-a-billion-plus-nation/articleshow/122573734.cms"
+    },
+    {
+      "id": 61,
+      "title": "Veranex Unveils MedTech’s First Innovation CRO (iCRO)–Redefining R&D in a Capital‑Tight Market",
+      "summary": "Veranex unveils MedTech's first Innovation CRO (iCRO) redefining R&D in a capital-tight market.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:06:56Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/veranex-unveils-medtechs-first-innovation-cro-icro-redefining-rd-in-a-capital‑tight-market"
+    },
+    {
+      "id": 62,
+      "title": "Samsung Encourages Users to Activate Latest Anti-Theft Features to Help Tackle Phone Theft",
+      "summary": "Samsung is encouraging Galaxy users to activate the latest anti-theft features to combat phone theft.",
+      "source": "Samsung.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:05:51Z",
+      "url": "https://news.samsung.com/in/samsung-encourages-users-to-activate-latest-anti-theft-features-to-help-tackle-phone-theft"
+    },
+    {
+      "id": 63,
+      "title": "Dayforce Unveils Discover 2025: Discover the Work You’re Meant to Do",
+      "summary": "Dayforce unveils Discover 2025 event featuring speakers like Tracee Ellis Ross and Salman Khan, with inspiring stories and sessions scheduled from October 6-9 at Wynn Las Vegas.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:05:37Z",
+      "url": "https://financialpost.com/globe-newswire/dayforce-unveils-discover-2025-discover-the-work-youre-meant-to-do"
+    },
+    {
+      "id": 64,
+      "title": "Dayforce Unveils Discover 2025: Discover the Work You’re Meant to Do",
+      "summary": "Dayforce unveils Discover 2025 event featuring Tracee Ellis Ross and Salman Khan, offering sessions and speakers focused on inspiring stories from October 6-9 at Wynn Las Vegas.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116265/0/en/Dayforce-Unveils-Discover-2025-Discover-the-Work-You-re-Meant-to-Do.html"
+    },
+    {
+      "id": 65,
+      "title": "How drones are changing the way wars are fought",
+      "summary": "The use of armed drones is increasing in current conflicts as combat units, with their automation likely to further enhance their significance in warfare.",
+      "source": "The Conversation Africa",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:04:37Z",
+      "url": "https://theconversation.com/how-drones-are-changing-the-way-wars-are-fought-260745"
+    },
+    {
+      "id": 66,
+      "title": "Simplicity-Focused Back-To-School Campaigns - Staples Wants to Simplify Back-To-School Shopping (TrendHunter.com)",
+      "summary": "Simplicity-Focused back-to-school campaigns by Staples Canada aim to simplify the shopping experience for contemporary students with curated tech solutions, exclusive collections, and expert guidance.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:04:07Z",
+      "url": "https://www.trendhunter.com/trends/backtoschool-shopping"
+    },
+    {
+      "id": 67,
+      "title": "'Playing around with Fed can...': JPMorgan CEO Jamie Dimon gives message to Trump at earnings call of the America's biggest bank",
+      "summary": "JPMorgan CEO warns Trump that tariffs could pose significant risks to the US economy",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:03:56Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-playing-around-with-the-fed-can-jpmorgan-ceo-jamie-dimon-gives-a-message-to-trump-at-earnings-call-of-the-americas-biggest-bank/articleshow/122573813.cms"
+    },
+    {
+      "id": 68,
+      "title": "I Asked ChatGPT What the Big Beautiful Bill Means for Upper Class Taxes — Here’s What It Said",
+      "summary": "ChatGPT analysis suggests that the Big Beautiful Bill solidifies tax breaks for the wealthy with permanent cuts, changes to the SALT cap, and preserved loopholes.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T11:03:36Z",
+      "url": "https://finance.yahoo.com/news/asked-chatgpt-big-beautiful-bill-110336232.html"
+    },
+    {
+      "id": 69,
+      "title": "Lucinity and Zenoo partner to deliver full-lifecycle compliance—from onboarding to investigation",
+      "summary": "Lucinity and Zenoo partner to provide full-lifecycle compliance solutions for financial institutions, offering a connected approach from onboarding to investigations.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T11:03:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116263/0/en/Lucinity-and-Zenoo-partner-to-deliver-full-lifecycle-compliance-from-onboarding-to-investigation.html"
+    },
+    {
+      "id": 70,
+      "title": "AI is at the heart of how Wipro operates, says Rishad Premji at company’s 79th AGM",
+      "summary": "AI is at the heart of how Wipro operates, making a tangible impact across internal operations from HR and finance to legal, as stated by Chairman Rishad Premji at the company's 79th AGM.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-16T11:02:54Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/ai-is-at-the-heart-of-how-wipro-operates-says-rishad-premji-at-companys-79th-agm/article69818540.ece"
+    },
     {
       "id": 51,
       "title": "Larry Ellison: The college dropout who built Oracle and made it to the billionaire chart",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T10:16:50Z",
       "url": "https://biztoc.com/x/88d42fd69fd7c5a0"
-    },
-    {
-      "id": 62,
-      "title": "UBS Says It’s Still Overvalued—Watch Musk’s Next Comments",
-      "summary": "Tesla stock deemed overvalued by UBS, despite being an AI-related stock in the spotlight.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:16:50Z",
-      "url": "https://biztoc.com/x/885b8fcd833f39ca"
-    },
-    {
-      "id": 63,
-      "title": "Security expert issues chilling warning over how AI could be used to attack UK and explains the 'most difficult problem'",
-      "summary": "Security expert warns of potential terrorist threats in the UK using AI technology.",
-      "source": "LADbible",
-      "category": "ethics",
-      "timestamp": "2025-07-16T10:15:48Z",
-      "url": "https://www.ladbible.com/news/uk-news/ai-terrorism-threats-uk-expert-explains-931639-20250716"
-    },
-    {
-      "id": 64,
-      "title": "Nvidia CEO Jensen Huang says ‘doing our best’ to serve China after meeting Beijing officials",
-      "summary": "Nvidia CEO reassures China of their commitment to investing and serving the market there after meeting with Beijing officials.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:15:46Z",
-      "url": "https://fortune.com/asia/2025/07/16/nvidia-ceo-jensen-huang-doing-our-best-serve-china-beijing-officials/"
-    },
-    {
-      "id": 65,
-      "title": "lightman-ai 0.19.9",
-      "summary": "lightman-ai 0.19.9 is a cybersecurity news aggregator that aims to provide users with the latest updates and insights in the field of cybersecurity. It uses AI technology to gather and analyze news articles from various sources, helping professionals stay informed and proactive in addressing cyber threats.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T10:15:38Z",
-      "url": "https://pypi.org/project/lightman-ai/0.19.9/"
-    },
-    {
-      "id": 66,
-      "title": "X adds pornographic mode to AI assistant days before Irish media regulator’s crackdown on age-verification for children",
-      "summary": "X adds pornographic mode to AI assistant just days before Irish media regulator's crackdown on age-verification for children.",
-      "source": "Independent.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-16T10:15:08Z",
-      "url": "https://www.independent.ie/business/technology/x-adds-pornographic-mode-to-ai-assistant-days-before-irish-media-regulators-crackdown-on-age-verification-for-children/a839423399.html"
-    },
-    {
-      "id": 67,
-      "title": "How Enterprises Can Be AI Front-Runners",
-      "summary": "Enterprises can become AI front-runners by implementing four key strategies to navigate through the hype surrounding AI.",
-      "source": "Sap.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T10:15:00Z",
-      "url": "https://news.sap.com/2025/07/how-enterprises-can-be-ai-front-runners/"
-    },
-    {
-      "id": 68,
-      "title": "Top earners fear creativity loss in AI era, even as salaries soar: Naukri report",
-      "summary": "Top earners in India fear AI's impact on creativity even as salaries in AI-related roles soar, according to a Naukri report.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T10:14:10Z",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/top-earners-fear-creativity-loss-in-ai-era-even-as-salaries-soar-naukri-report/articleshow/122571637.cms"
-    },
-    {
-      "id": 69,
-      "title": "craft-ai-sdk 0.65.2rc1",
-      "summary": "The craft-ai-sdk version 0.65.2rc1 has been released, providing improvements to the Craft AI MLOps platform SDK.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-16T10:12:47Z",
-      "url": "https://pypi.org/project/craft-ai-sdk/0.65.2rc1/"
-    },
-    {
-      "id": 70,
-      "title": "Trouble in Paradise? Consumers Don’t Trust Travel Industry to Protect Them From AI-Powered Fraud",
-      "summary": "Trouble in Paradise? Consumers Don’t Trust Travel Industry to Protect Them From AI-Powered Fraud - New research from Jumio reveals nearly half of global consumers lack confidence in travel industry’s ability to protect against identity fraud",
-      "source": "Financial Post",
-      "category": "ethics",
-      "timestamp": "2025-07-16T10:12:37Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/trouble-in-paradise-consumers-dont-trust-travel-industry-to-protect-them-from-ai-powered-fraud"
-    },
-    {
-      "id": 51,
-      "title": "Yanis Varoufakis: Who Needs Marx in 2025?",
-      "summary": "Yanis Varoufakis argues that to break free from technofeudal overlords, we need to adopt the thinking of Karl Marx in 2025.",
-      "source": "Nakedcapitalism.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:55:24Z",
-      "url": "https://www.nakedcapitalism.com/2025/07/yanis-varoufakis-who-needs-marx-in-2025.html"
-    },
-    {
-      "id": 52,
-      "title": "Drone Attacks Strike US-Owned Oil Field in Iraq",
-      "summary": "A drone attack targeted a US-owned oil field in Iraq's Kurdistan region, raising security concerns. The use of drones in such attacks poses ethical questions about their impact on global stability and security.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:54:55Z",
-      "url": "https://biztoc.com/x/483c1990cbb94a79"
-    },
-    {
-      "id": 53,
-      "title": "Russia Claims New Victories After Trump Sets Deadline",
-      "summary": "Russia claims new military victories in Ukraine, using AI-generated voice to communicate. This raises ethical concerns about the use of AI in warfare.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T09:54:23Z",
-      "url": "https://biztoc.com/x/97ade1615c3a2723"
-    },
-    {
-      "id": 54,
-      "title": "ASML Falls Most Since April After CEO Walks Back Growth Forecast",
-      "summary": "ASML Holding NV shares plunged after CEO walked back growth forecast.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:53:20Z",
-      "url": "https://finance.yahoo.com/news/asml-walks-back-2026-growth-061702879.html"
-    },
-    {
-      "id": 55,
-      "title": "Germany eyes 10% economic output from AI by 2030",
-      "summary": "Germany aims to achieve 10% economic output from AI by 2030, but the strategy doesn't mention the current contribution of AI to the country's economy.",
-      "source": "Verdict",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:52:43Z",
-      "url": "https://www.verdict.co.uk/germany-strategy-economic-output-ai/"
-    },
-    {
-      "id": 56,
-      "title": "Nvidia (NVDA): Why Wall Street Remains Bullish on AI Chip Leader",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is receiving bullish ratings from Wall Street for its leadership in AI chips, with KeyBanc reiterating the stock as 'Overweight' on July 14.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:52:19Z",
-      "url": "https://finance.yahoo.com/news/nvidia-nvda-why-wall-street-095219093.html"
-    },
-    {
-      "id": 57,
-      "title": "Don't Make the Job Hunt Harder. 9 Strategies to Stay Sane and Get Hired",
-      "summary": "Tips for landing a job in the age of AI include using AI resumes and networking effectively to stay sane and get hired.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T09:52:05Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178391022"
-    },
-    {
-      "id": 58,
-      "title": "Google brings yet another change to Gboard’s emoji picker",
-      "summary": "Google refreshes Gboard's design with subtle changes to emoji and GIF picker buttons.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:51:21Z",
-      "url": "https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/"
-    },
-    {
-      "id": 59,
-      "title": "Kettleborough VC launches second fund with Rs 80 crore target",
-      "summary": "Kettleborough VC launches its second fund with a target of Rs 80 crore, having marked its first close at Rs 35 crore. The firm plans to invest in about 10 startups with initial cheques of $300,000–$500,000.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-16T09:50:47Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/kettleborough-vc-launches-second-fund-with-rs-80-crore-target-marks-first-close-at-rs-35-crore/articleshow/122570172.cms"
-    },
-    {
-      "id": 60,
-      "title": "TSM: Morgan Stanley Says Buy Ahead of Earnings on Strong AI Demand",
-      "summary": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is recommended as a buy ahead of earnings due to strong AI demand, with Morgan Stanley adding a catalyst on July 14.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-16T09:49:42Z",
-      "url": "https://finance.yahoo.com/news/tsm-morgan-stanley-says-buy-094942256.html"
-    },
-    {
-      "id": 61,
-      "title": "Google Might Kill Circle to Search — Here’s What Could Replace It",
-      "summary": "Google might replace Circle to Search with Gemini's Tell Me About This feature on Android.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-16T09:49:24Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-might-kill-circle-to-search-heres-what-could-replace-it.html"
     }
   ]
 }
