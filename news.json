@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T09:20:00.742Z",
+  "lastUpdate": "2025-07-17T09:45:21.288Z",
   "items": [
+    {
+      "id": 51,
+      "title": "xAI announces $200m US military deal after Grok chatbot had Nazi meltdown",
+      "summary": "xAI announces $200m US military deal after Grok chatbot had Nazi meltdown, raising questions about ethical implications of AI development",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:43:27Z",
+      "url": "https://biztoc.com/x/cd7a0d4949e8f2df"
+    },
+    {
+      "id": 52,
+      "title": "Oracle Is No Longer AI’s Dark Horse",
+      "summary": "Oracle's stock has surged thanks to artificial-intelligence deals, but its high valuation poses risks.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:43:23Z",
+      "url": "https://biztoc.com/x/7a4528a21b70730a"
+    },
+    {
+      "id": 53,
+      "title": "Interview With Cognition CEO After Cognition AI Acquires Windsurf",
+      "summary": "The acquisition of Windsurf by Cognition AI is a bold step toward reshaping the future of artificial intelligence coding and AI software engineering.",
+      "source": "Geeky Gadgets",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:43:04Z",
+      "url": "https://www.geeky-gadgets.com/cognition-ai-windsurf-acquisition/"
+    },
+    {
+      "id": 54,
+      "title": "Lenovo ThinkPad X9 Aura Edition Moonlight White colorway revealed",
+      "summary": "Lenovo reveals new Moonlight White colorway for ThinkPad X9 Aura Edition, the first white color option for the series, following its debut at CES 2025.",
+      "source": "Yugatech.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:42:42Z",
+      "url": "https://www.yugatech.com/news/lenovo-thinkpad-x9-aura-edition-moonlight-white-colorway-revealed/"
+    },
+    {
+      "id": 55,
+      "title": "mcpmarket 0.1.1",
+      "summary": "mcpmarket 0.1.1 is a Python MCP server registry and proxy designed for AI agents, facilitating easier communication and interaction. This tool can be useful for various AI applications and projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:42:30Z",
+      "url": "https://pypi.org/project/mcpmarket/0.1.1/"
+    },
+    {
+      "id": 56,
+      "title": "Trump Threatens Drug Tariffs; Hassett Frontrunner For Fed Chair",
+      "summary": "President Trump threatens to impose tariffs on pharmaceuticals and potentially semiconductors, causing concerns for the economy.",
+      "source": "Omny.fm",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:40:38Z",
+      "url": "https://omny.fm/shows/bloomberg-daybreak/trump-threatens-drug-tariffs-bank-earnings-continue"
+    },
+    {
+      "id": 57,
+      "title": "「薬急便 遠隔接客AIアシスタント」 接客対話AIをアップデート",
+      "summary": "A company has updated its customer service dialogue AI for its medicine delivery service, aiming to provide better remote assistance.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:40:03Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000093498.html"
+    },
+    {
+      "id": 58,
+      "title": "Forrester urges IT leaders to dump technical debt",
+      "summary": "Forrester advises IT leaders to prioritize investing in new technologies and outsourcing legacy IT management in order to address the challenges of volatile global markets.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:40:00Z",
+      "url": "https://www.computerweekly.com/news/366627792/Forrester-urges-IT-leaders-to-dump-technical-debt"
+    },
+    {
+      "id": 59,
+      "title": "Agritech investments and incubators: Nurturing the next generation of food innovators in Dubai",
+      "summary": "Agritech investments and incubators in Dubai are nurturing the next generation of food innovators, providing opportunities for India's next-gen food innovators as the UAE focuses on sustainable food innovation.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:39:56Z",
+      "url": "https://economictimes.indiatimes.com/news/international/uae/agritech-investments-and-incubators-nurturing-the-next-generation-of-food-innovators-in-dubai/articleshow/122569172.cms"
+    },
+    {
+      "id": 60,
+      "title": "Nothing CEO Carl Pei reacts to Phone 3 reviews, admits it’s not for everyone",
+      "summary": "Nothing CEO Carl Pei reacts to Phone 3 reviews, admitting that the phone is not for everyone. The company posted a YouTube video showing Pei reacting to various reviews of the Nothing Phone 3.",
+      "source": "Android Authority",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:39:41Z",
+      "url": "https://www.androidauthority.com/nothing-ceo-carl-pei-react-to-phone-3-reviews-3577911/"
+    },
+    {
+      "id": 61,
+      "title": "AppLovin Stock (APP): Analysts Expect Strong Q2 and More Upside Ahead",
+      "summary": "AppLovin Corporation, an AI stock, is expected to have a strong Q2 and more upside ahead according to analysts.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:39:02Z",
+      "url": "https://finance.yahoo.com/news/applovin-stock-app-analysts-expect-093902722.html"
+    },
+    {
+      "id": 62,
+      "title": " Cristiano Ronaldo: his top 10 goals for Al-Nassr in 2024/25",
+      "summary": "Cristiano Ronaldo's top 10 goals for Al-Nassr in 2024/25 season showcased his skill and versatility as a striker, with goals scored using both his left and right foot.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:38:00Z",
+      "url": "https://onefootball.com/en/news/cristiano-ronaldo-his-top-10-goals-for-al-nassr-in-202425-41381935"
+    },
+    {
+      "id": 63,
+      "title": "How AI Is Redefining Content Strategy",
+      "summary": "Manick Bhan, founder and CTO of Search Atlas, is utilizing AI to redefine content strategy in the SEO and content marketing industry.",
+      "source": "Libsyn.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:38:00Z",
+      "url": "https://sites.libsyn.com/18353/how-ai-is-redefining-content-strategy"
+    },
+    {
+      "id": 64,
+      "title": "phosphobot 0.3.58",
+      "summary": "phosphobot 0.3.58 is an AI-ready robotics dev kit that comes with built-in remote control and VLA support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:37:41Z",
+      "url": "https://pypi.org/project/phosphobot/0.3.58/"
+    },
+    {
+      "id": 65,
+      "title": "mcpmarket added to PyPI",
+      "summary": "mcpmarket added to PyPI - Python MCP server registry and proxy for AI agents",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:37:07Z",
+      "url": "https://pypi.org/project/mcpmarket/"
+    },
+    {
+      "id": 66,
+      "title": "Therapy Beacon Integrates AI-Centric Strategies to Future-Proof Therapist Marketing",
+      "summary": "Therapy Beacon integrates AI-centric strategies to future-proof therapist marketing, evolving their flagship system, The Beacon Advantage™.",
+      "source": "Newschannelnebraska.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:36:27Z",
+      "url": "https://metro.newschannelnebraska.com/story/52925290/therapy-beacon-integrates-ai-centric-strategies-to-future-proof-therapist-marketing"
+    },
+    {
+      "id": 67,
+      "title": "Citi Puts Arista (ANET) Stock on Catalyst Watch Ahead of Earnings",
+      "summary": "Citi analyst puts Arista Networks Inc stock on Catalyst Watch ahead of earnings, highlighting its position as one of the AI Stocks in the Spotlight Today on July 14.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:35:26Z",
+      "url": "https://finance.yahoo.com/news/citi-puts-arista-anet-stock-093526914.html"
+    },
+    {
+      "id": 68,
+      "title": "Anthropic launches Claude for Financial Services to help analysts conduct research",
+      "summary": "Anthropic launches Claude for Financial Services to help analysts conduct research - Banks wanting to boost productivity with AI have now been given access to Claude for Financial Services.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:34:48Z",
+      "url": "https://www.techradar.com/pro/anthropic-launches-claude-for-financial-services-to-help-analysts-conduct-research"
+    },
+    {
+      "id": 69,
+      "title": "aait 2.0.2",
+      "summary": "aait 2.0.2 - Advanced Artificial Intelligence Tools is a package meant to develop and enable advanced AI functionalities in Orange",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:34:15Z",
+      "url": "https://pypi.org/project/aait/2.0.2/"
+    },
+    {
+      "id": 70,
+      "title": "President Trump Solidifies U.S. Position as Leader in AI - The White House (.gov)",
+      "summary": "President Trump solidifies U.S. position as leader in AI with $90B in investments, aiming for Pennsylvania to be a revolutionary tech and energy hub.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:32:50Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178390940"
+    },
     {
       "id": 51,
       "title": "lightman-ai 0.19.5",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T08:38:04Z",
       "url": "https://www.etfdailynews.com/2025/07/16/cerity-partners-llc-sells-74507-shares-of-radnet-inc-nasdaqrdnt/"
-    },
-    {
-      "id": 50,
-      "title": "gllm-agents-binary 0.2.25",
-      "summary": "gllm-agents-binary 0.2.25 is a library for managing agents in Gen AI applications.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T08:37:47Z",
-      "url": "https://pypi.org/project/gllm-agents-binary/0.2.25/"
-    },
-    {
-      "id": 51,
-      "title": "Notice of Change to Enhance the Organizational Participation in the Medical Scientist Training Program",
-      "summary": "Notice of Change to Enhance the Organizational Participation in the Medical Scientist Training Program aims to improve participation in the program by implementing changes. NIGMS is seeking to enhance organizational involvement in the training program.",
-      "source": "National Institutes of Health",
-      "category": "research",
-      "timestamp": "2025-07-16T08:37:38Z",
-      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-25-024.html"
-    },
-    {
-      "id": 52,
-      "title": "Hotel Guests Want Smart TVs and Good Hotel Mobile App, J.D. Power Finds",
-      "summary": "Hotel guests in all segments, from economy to luxury, feel they are getting better value for their money despite record-high average daily rates in 2024",
-      "source": "Hospitality Net",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:37:11Z",
-      "url": "https://www.hospitalitynet.org/news/4128181.html"
-    },
-    {
-      "id": 27,
-      "title": "Top AI talent attracted not just by paycheques: Meta CEO Mark Zuckerberg",
-      "summary": "Top AI talent attracted to Meta for reasons beyond high pay, including autonomy and access to powerful compute, says CEO Mark Zuckerberg.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-16T08:19:07Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/top-ai-talent-attracted-not-just-by-paycheques-meta-ceo-mark-zuckerberg/articleshow/122565854.cms"
-    },
-    {
-      "id": 28,
-      "title": "Top AI talent attracted not just by paycheques: Meta CEO Mark Zuckerberg",
-      "summary": "Top AI talent is attracted to Meta not just for high pay, but also for autonomy, access to powerful compute, small teams, and the chance to build from scratch according to CEO Mark Zuckerberg.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-16T08:19:07Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/top-ai-talent-attracted-not-just-by-paycheques-meta-ceo-mark-zuckerberg/articleshow/122565678.cms"
-    },
-    {
-      "id": 29,
-      "title": "Medical Writing with Artificial Intelligence (AI) Online Training Course (October 15, 2025) Led by Expert Alex Evans",
-      "summary": "Medical Writing with Artificial Intelligence (AI) Online Training Course led by expert Alex Evans offers practical tips for faster, quality writing and research in the medical field.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T08:19:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116180/28124/en/Medical-Writing-with-Artificial-Intelligence-AI-Online-Training-Course-October-15-2025-Led-by-Expert-Alex-Evans.html"
-    },
-    {
-      "id": 30,
-      "title": "Nvidia's RTX 6000D aims to restore lost ground in China",
-      "summary": "Nvidia targets regaining lost revenue in China with the release of RTX 6000D built on TSMC's 4 nm process with GDDR7 memory, delivering 1,100 GB/s bidirectional bandwidth and staying within U.S. export caps.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:19:00Z",
-      "url": "https://www.notebookcheck.net/Nvidia-s-RTX-6000D-aims-to-restore-lost-ground-in-China.1059398.0.html"
-    },
-    {
-      "id": 31,
-      "title": "Babydoll Archi’s secret unveiled: She’s neither a content influencer nor living in US. Who is she?",
-      "summary": "An Instagram account, 'Babydoll Archi,' amassed 1.4 million followers using AI-generated content featuring a fabricated woman. Assam police arrested Pratim Bora, the ex-partner of the woman whose image was exploited, for creating the fake profile.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-16T08:15:01Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/babydoll-archis-secret-unveiled-shes-neither-a-content-influencer-nor-living-in-us-who-is-she/articleshow/122565611.cms"
-    },
-    {
-      "id": 32,
-      "title": "LAMEA Neuromorphic Computing Market Trends and Strategies Report 2025-2032",
-      "summary": "LAMEA Neuromorphic Computing Market Trends and Strategies Report highlights Brazil's leadership in the market, driven by demand for low-power AI solutions in healthcare and smart cities. Key players include Intel, IBM, and BrainChip Holdings.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T08:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116176/28124/en/LAMEA-Neuromorphic-Computing-Market-Trends-and-Strategies-Report-2025-2032.html"
-    },
-    {
-      "id": 33,
-      "title": "Virtual Reality Stocks To Add to Your Watchlist – July 14th",
-      "summary": "Virtual Reality Stocks To Add to Your Watchlist – July 14th - Meta Platforms, Unity Software, Best Buy, GameStop, EPAM Systems, Ambarella, and POET Technologies are the seven Virtual Reality stocks to watch today, according to MarketBeat’s stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:15:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/virtual-reality-stocks-to-add-to-your-watchlist-july-14th/"
-    },
-    {
-      "id": 34,
-      "title": "Top Small Cap Stocks To Follow Now – July 14th",
-      "summary": "Top Small Cap Stocks To Follow Now – July 14th - Sharplink Gaming, AltC Acquisition, BigBear.ai, Presidio Property Trust, and TeraWulf are the five small cap stocks to watch today, recommended by MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:14:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/top-small-cap-stocks-to-follow-now-july-14th/"
-    },
-    {
-      "id": 35,
-      "title": "Best Luxury Goods Stocks To Add to Your Watchlist – July 14th",
-      "summary": "Seven Luxury Goods stocks including New York Times, RealReal, SLR Investment, and Riskified are recommended to watch today by MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:14:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/best-luxury-goods-stocks-to-add-to-your-watchlist-july-14th/"
-    },
-    {
-      "id": 36,
-      "title": "Artificial Intelligence Stocks Worth Watching – July 13th",
-      "summary": "Artificial Intelligence stocks worth watching today include ServiceNow, Salesforce, Accenture, Arista Networks, and Super Micro Computer, according to MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:14:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/artificial-intelligence-stocks-worth-watching-july-13th/"
-    },
-    {
-      "id": 37,
-      "title": "Top Digital Media Stocks Worth Watching – July 13th",
-      "summary": "Adobe, Alibaba Group, and Digital Realty Trust are top Digital Media stocks to watch today according to MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:14:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/top-digital-media-stocks-worth-watching-july-13th/"
-    },
-    {
-      "id": 11,
-      "title": "Two weeks of showtime in Parliament, the new Plevris law, Euronext advances on the Hellenic Exchange, a (faint) light in Santorini, no deal for AVAX",
-      "summary": "Two weeks of showtime in Parliament, the new Plevris law, Euronext advances on the Hellenic Exchange, a (faint) light in Santorini, no deal for AVAX",
-      "source": "Protothema.gr",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:11:41Z",
-      "url": "https://en.protothema.gr/2025/07/16/two-weeks-of-showtime-in-parliament-the-new-plevris-law-euronext-advances-on-the-hellenic-exchange-a-faint-light-in-santorini-no-deal-for-avax/"
-    },
-    {
-      "id": 12,
-      "title": "Australian AI startup granted AUKUS exemption for autonomous vessel software",
-      "summary": "Australian AI startup granted AUKUS exemption for autonomous vessel software, allowing it to share information with defence contractors in the U.S. and Britain.",
-      "source": "CNA",
-      "category": "startups",
-      "timestamp": "2025-07-16T08:10:03Z",
-      "url": "https://www.channelnewsasia.com/business/australian-ai-startup-granted-aukus-exemption-autonomous-vessel-software-5241101"
-    },
-    {
-      "id": 13,
-      "title": "Fluence Energy (NASDAQ:FLNC) Earns “Neutral” Rating from Mizuho",
-      "summary": "Fluence Energy (NASDAQ:FLNC) Earns 'Neutral' Rating from Mizuho",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-16T08:08:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/fluence-energy-nasdaqflnc-earns-neutral-rating-from-mizuho/"
-    },
-    {
-      "id": 14,
-      "title": "Jeff Kopman Sells 470,000 Shares of ThreeD Capital Inc (CNSX:IDK) Stock",
-      "summary": "Jeff Kopman sold 470,000 shares of ThreeD Capital Inc stock in a transaction totaling $40,420.00.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:08:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/jeff-kopman-sells-470000-shares-of-threed-capital-inc-cnsxidk-stock/"
-    },
-    {
-      "id": 15,
-      "title": "The Goldman Sachs Group Begins Coverage on Nebius Group (NASDAQ:NBIS)",
-      "summary": "Goldman Sachs initiates coverage on Nebius Group with a buy rating and $68.00 price target.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-16T08:08:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/the-goldman-sachs-group-begins-coverage-on-nebius-group-nasdaqnbis/"
-    },
-    {
-      "id": 16,
-      "title": "ThreeD Capital Inc (CNSX:IDK) Insider 1313366 Ontario Inc. Sells 470,000 Shares",
-      "summary": "Insider of ThreeD Capital Inc sells 470,000 shares of stock at an average price of $0.09",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:08:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/16/threed-capital-inc-cnsxidk-insider-1313366-ontario-inc-sells-470000-shares/"
     }
   ]
 }
