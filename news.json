@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-17T16:50:17.282Z",
+  "lastUpdate": "2025-07-17T17:15:39.883Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Google announces Pixel 10 launch event - The Verge",
+      "summary": "Google announces Pixel 10 launch event with a focus on AI, unveiling new hardware on August 20 including the Pixel 10 and Pixel Watch.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:15:03Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178394196"
+    },
+    {
+      "id": 52,
+      "title": "This new, improved Nextdoor might be just the social app we need right now",
+      "summary": "Nextdoor's redesigned app adds emergency alerts, news, and AI-powered recommendations to provide a more comprehensive social platform while still allowing users to engage with their neighbors.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:14:11Z",
+      "url": "https://www.zdnet.com/article/this-new-improved-nextdoor-might-be-just-the-social-app-we-need-right-now/"
+    },
+    {
+      "id": 53,
+      "title": "EXL announces availability of EXL Code Harbor™ and EXL Smart Agent Assist™ in the new AWS Marketplace AI Agents and Tools category",
+      "summary": "EXL announces availability of EXL Code Harbor™ and EXL Smart Agent Assist™ in the new AWS Marketplace AI Agents and Tools category.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:14:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116748/9060/en/EXL-announces-availability-of-EXL-Code-Harbor-and-EXL-Smart-Agent-Assist-in-the-new-AWS-Marketplace-AI-Agents-and-Tools-category.html"
+    },
+    {
+      "id": 54,
+      "title": "Cybersecurity startup Deep Algorithm raises Rs 10.8 crore from Unicorn India Ventures",
+      "summary": "Cybersecurity startup Deep Algorithm raises Rs 10.8 crore from Unicorn India Ventures to scale engineering and threat intelligence teams, accelerate go-to-market activities in India and Southeast Asia, and expand integrations with key enterprise platforms.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-16T17:13:58Z",
+      "url": "https://economictimes.indiatimes.com/tech/funding/cybersecurity-startup-deep-algorithm-raises-rs-10-8-crore-from-unicorn-india-ventures/articleshow/122586240.cms"
+    },
+    {
+      "id": 55,
+      "title": "Meta Patches AI Security Flaw That Could Leak Your Private Chatbot Prompts",
+      "summary": "Meta has fixed a security flaw in its AI that could leak users' private chatbot prompts, after it was discovered by a cybersecurity expert. The vulnerability was disclosed on December 26, 2024, and fixed on January 24, 2025.",
+      "source": "Hot Hardware",
+      "category": "ethics",
+      "timestamp": "2025-07-16T17:13:00Z",
+      "url": "https://hothardware.com/news/meta-patches-ai-security-flaw-private-prompts"
+    },
+    {
+      "id": 56,
+      "title": " A Surveillance Startup in Damage Control | EFFector 37.8",
+      "summary": "A surveillance startup is in damage control as EFFector provides digital rights news updates, including AI-related news.",
+      "source": "EFF",
+      "category": "startups",
+      "timestamp": "2025-07-16T17:12:11Z",
+      "url": "https://www.eff.org/deeplinks/2025/07/surveillance-startup-damage-control-effector-378"
+    },
+    {
+      "id": 57,
+      "title": "I’m Afraid To Move to the City of My Dreams",
+      "summary": "A personal reflection on the fear of moving to a desired city with a partner.",
+      "source": "Autostraddle.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:11:17Z",
+      "url": "http://www.autostraddle.com/im-afraid-to-move-to-the-city-of-my-dreams/"
+    },
+    {
+      "id": 58,
+      "title": "Google Sets August 20 For New Pixel Devices Reveal",
+      "summary": "Google sets August 20 for new Pixel devices reveal. Expect new Pixel phones and a fourth generation smartwatch at the upcoming event in New York City.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:11:12Z",
+      "url": "https://me.pcmag.com/en/wearables/31000/google-sets-august-20-for-new-pixel-devices-reveal"
+    },
+    {
+      "id": 59,
+      "title": "Google Sets August 20 For New Pixel Devices Reveal",
+      "summary": "Google sets August 20 for new Pixel devices reveal, with new Pixel phones and a fourth generation smartwatch expected to be announced.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:11:12Z",
+      "url": "https://uk.pcmag.com/wearables/159158/google-sets-august-20-for-new-pixel-devices-reveal"
+    },
+    {
+      "id": 60,
+      "title": "Examining mushrooms under microscopes can help engineers design stronger materials",
+      "summary": "Examining mushrooms under microscopes can help engineers design stronger materials by studying their microscopic building blocks, hyphae.",
+      "source": "Tech Xplore",
+      "category": "research",
+      "timestamp": "2025-07-16T17:11:05Z",
+      "url": "https://techxplore.com/news/2025-07-mushrooms-microscopes-stronger-materials.html"
+    },
+    {
+      "id": 61,
+      "title": "Norwegian investment firm joins AI gold rush to the frozen north",
+      "summary": "Norwegian investment firm Aker plans to build an AI 'factory' in the Arctic to take advantage of abundant green energy and natural cooling for data centers.",
+      "source": "The Next Web",
+      "category": "economy",
+      "timestamp": "2025-07-16T17:10:48Z",
+      "url": "https://thenextweb.com/news/norwegian-investment-firm-joins-ai-gold-rush-to-the-frozen-north"
+    },
+    {
+      "id": 62,
+      "title": "SK Telecom Releases A Korean Sovereign LLM Built From Scratch",
+      "summary": "SK Telecom released a 7B parameter language model trained entirely from scratch for Korean use cases, contributing to the global AI race.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:10:22Z",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2025/07/16/sk-telecom-releases-a-korean-sovereign-llm-built-from-scratch/"
+    },
+    {
+      "id": 63,
+      "title": "How Mobile-First Marketing Platforms Empower Android App Growth",
+      "summary": "Discover how mobile-first marketing platforms like Ahrefs empower Android app growth through enhancing discoverability and tracking keyword shifts.",
+      "source": "TalkAndroid",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:10:05Z",
+      "url": "https://www.talkandroid.com/511954-how-mobile-first-marketing-platforms-empower-android-app-growth/"
+    },
+    {
+      "id": 64,
+      "title": "Air India finds no issues in fuel control switches across its Boeing 787 fleet, says airline official",
+      "summary": "Air India finds no issues in fuel control switches across its Boeing 787 fleet after completing inspections",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:09:19Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-finds-no-issues-in-fuel-control-switches-across-its-boeing-787-fleet-says-airline-official/articleshow/122586159.cms"
+    },
+    {
+      "id": 65,
+      "title": "Joe Biden Investigation: Second Person Pleads the Fifth to House Oversight",
+      "summary": "Former aide to Jill Biden pleads the Fifth in House investigation into Joe Biden's mental fitness, which is AI-generated. Inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T17:08:38Z",
+      "url": "https://biztoc.com/x/0a601e5eda6bc832"
+    },
+    {
+      "id": 66,
+      "title": "dynamiq 0.21.0",
+      "summary": "Dynamiq 0.21.0 is an orchestration framework for agentic AI and LLM applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:08:37Z",
+      "url": "https://pypi.org/project/dynamiq/0.21.0/"
+    },
+    {
+      "id": 67,
+      "title": "Nvidia’s resumption of H20 chip sales related to rare earth element trade talks",
+      "summary": "Nvidia has resumed H20 chip sales in relation to rare earth element trade talks, suggesting that these elements are a factor in their stance on China.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T17:08:23Z",
+      "url": "https://biztoc.com/x/7d02976745e53277"
+    },
+    {
+      "id": 68,
+      "title": "1Password Announces Availability of MCP Server® for Trelica by 1Password in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "1Password announces availability of MCP Server for Trelica in new AWS Marketplace AI Agents and Tools category, allowing Amazon Web Services customers to use the service for extended access management.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:08:08Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/1password-announces-availability-of-mcp-server-for-trelica-by-1password-in-the-new-aws-marketplace-ai-agents-and-tools-category"
+    },
     {
       "id": 51,
       "title": "GM and Redwood teaming up to make batteries for energy storage",
@@ -288,168 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-16T16:13:13Z",
       "url": "https://biztoc.com/x/688b78e1f5cd906f"
-    },
-    {
-      "id": 51,
-      "title": "As the Nintendo eShop fails to protect from 'eslop', indie devs reflect on how it affects their work and why Steam is just better: 'Their algorithm will more or less naturally bury AI slop'",
-      "summary": "The Nintendo eShop's failure to protect from 'eslop' has indie devs concerned about the impact on their work, as they believe Steam's algorithm handles AI slop better by burying it in a list of releases.",
-      "source": "PC Gamer",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:52:50Z",
-      "url": "https://www.pcgamer.com/software/platforms/as-the-nintendo-eshop-fails-to-protect-from-eslop-indie-devs-reflect-on-how-it-affects-their-work-and-why-steam-is-just-better-their-algorithm-will-more-or-less-naturally-bury-ai-slop/"
-    },
-    {
-      "id": 52,
-      "title": "This Ryzen AI 2-in-1 laptop with 16GB RAM has never been cheaper",
-      "summary": "This Ryzen AI 2-in-1 laptop with 16GB RAM has never been cheaper, making it difficult to find good deals on Windows laptops suitable for running Windows 11 and multiple browser tabs.",
-      "source": "PCWorld",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:52:20Z",
-      "url": "https://www.pcworld.com/article/2850375/this-ryzen-ai-2-in-1-laptop-with-16gb-ram-has-never-been-cheaper.html"
-    },
-    {
-      "id": 53,
-      "title": "SmartPrefabPlacer by Smart Creator",
-      "summary": "SmartPrefabPlacer by Smart Creator allows for effortless placement and preview of prefabs on terrain with snap-to-grid logic, rotation, and path placement, making it perfect for RTS, city builders, and base construction games.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:52:15Z",
-      "url": "https://assetstore.unity.com/packages/tools/painting/smartprefabplacer-324854"
-    },
-    {
-      "id": 54,
-      "title": "mcpstore-cli 0.1.9",
-      "summary": "mcpstore-cli 0.1.9 is a Python MCP server registry and proxy designed for AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:52:14Z",
-      "url": "https://pypi.org/project/mcpstore-cli/0.1.9/"
-    },
-    {
-      "id": 55,
-      "title": "An ode to breaking things",
-      "summary": "An article advocating for the integration of AI in work remains relevant, as we continue to evolve in our approach towards it.",
-      "source": "Uxdesign.cc",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:51:43Z",
-      "url": "https://uxdesign.cc/an-ode-to-breaking-things-9b8ed1cec5ce"
-    },
-    {
-      "id": 56,
-      "title": "RTX 5070-powered Lenovo Legion 5 gaming laptop with octa-core Ryzen AI 7 350 scores sizeable $350 price cut",
-      "summary": "RTX 5070-powered Lenovo Legion 5 gaming laptop with octa-core Ryzen AI 7 350 scores sizeable $350 price cut, making it more affordable for consumers.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:51:00Z",
-      "url": "https://www.notebookcheck.net/RTX-5070-powered-Lenovo-Legion-5-gaming-laptop-with-octa-core-Ryzen-AI-7-350-scores-sizeable-350-price-cut.1059731.0.html"
-    },
-    {
-      "id": 57,
-      "title": "Google inks $3bn US hydropower deal in largest clean energy agreement of its kind",
-      "summary": "Google has signed a $3 billion deal to purchase 3GW of US hydropower, aiming to power its AI and data centers in the eastern states.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:50:58Z",
-      "url": "https://biztoc.com/x/f5d982815873e252"
-    },
-    {
-      "id": 58,
-      "title": "WeTransfer says user content will not be used to train AI after backlash",
-      "summary": "WeTransfer has revised its terms of service to assure users that their content will not be used to train AI, following backlash over the possibility of user files being used to 'improve machine learning models'.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:50:47Z",
-      "url": "https://biztoc.com/x/a5a6985910cc25c9"
-    },
-    {
-      "id": 59,
-      "title": "Google plugs AI into nuclear reactor biz – what could possibly go wrong?",
-      "summary": "Google and Westinghouse Electric are using AI to speed up atomic plant builds and improve the efficiency of the grid.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:50:47Z",
-      "url": "https://biztoc.com/x/f77e09277b926766"
-    },
-    {
-      "id": 60,
-      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
-      "summary": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:50:46Z",
-      "url": "https://biztoc.com/x/7061bedfb86b3e34"
-    },
-    {
-      "id": 61,
-      "title": "As we race headlong into our glorious AI-powered future, are we on the road to Idiocracy? | Peter Lewis",
-      "summary": "As we race headlong into our glorious AI-powered future, concerns are raised about the potential negative impacts and ethics of allowing a massive corporation like OpenAI to set our future agenda.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:50:42Z",
-      "url": "https://biztoc.com/x/70726887b2619bb2"
-    },
-    {
-      "id": 62,
-      "title": "Free AI training to 5.5 lakh village entrepreneurs soon, says Ashwini Vaishnaw",
-      "summary": "Free AI training will be provided to 5.5 lakh village entrepreneurs by the government under the IndiaAI Mission, with the goal of skilling 10 lakh individuals. The initiative focuses on village-level entrepreneurs who offer essential digital services.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:50:12Z",
-      "url": "https://economictimes.indiatimes.com/news/india/free-ai-training-to-5-5-lakh-village-entrepreneurs-soon-says-ashwini-vaishnaw/articleshow/122582935.cms"
-    },
-    {
-      "id": 63,
-      "title": "Zuckerberg Isn’t Done Stealing OpenAI’s Crown Jewels",
-      "summary": "Zuckerberg is continuing to develop AI technology that competes with OpenAI, led by Sam Altman who is unfazed by the competition.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:50:09Z",
-      "url": "https://gizmodo.com/zuckerberg-isnt-done-stealing-openais-crown-jewels-2000630124"
-    },
-    {
-      "id": 64,
-      "title": "Deals: Galaxy Watch Ultra 2025 + $100 Amazon GC, 240Hz Odyssey monitor $550 off, Google Smart TV $1,000+ off, more",
-      "summary": "Deals on tech products such as the Galaxy Watch Ultra 2025, 240Hz Odyssey monitor, and Google Smart TV are being offered, with discounts and promotions available.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:49:05Z",
-      "url": "http://9to5google.com/2025/07/16/deals-galaxy-watch-ultra-odyssey-monitor-google-smart-tv/"
-    },
-    {
-      "id": 65,
-      "title": "Public Sector: Will Agentic AI Solve Your Integration Problems?",
-      "summary": "Forrester’s government clients are facing integration challenges in the public sector due to underfunded budgets and limited shared services. The pressure is on to implement agentic AI solutions for digital systems.",
-      "source": "Forrester.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:48:49Z",
-      "url": "https://www.forrester.com/blogs/public-sector-will-agentic-ai-solve-your-integration-problems/"
-    },
-    {
-      "id": 66,
-      "title": "LLM Seeding: A New Strategy to Get Mentioned and Cited by LLMs",
-      "summary": "The article discusses a new strategy called LLM Seeding to get mentioned and cited by LLMs in the field of AI. It also mentions that despite asking ChatGPT for the best resources to learn SEO in 2025, Backlinko was recommended twice, even though they don't rank #1 in Google search results.",
-      "source": "Backlinko.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:48:37Z",
-      "url": "https://backlinko.com/llm-seeding"
-    },
-    {
-      "id": 67,
-      "title": "kashima 1.0.7.6",
-      "summary": "Kashima 1.0.7.6 is a new machine learning tool developed for geotechnical earthquake engineering.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T15:47:44Z",
-      "url": "https://pypi.org/project/kashima/1.0.7.6/"
-    },
-    {
-      "id": 68,
-      "title": "Online IQ Test 2025 | Quick, Real, & Accurate IQ Test Now Offered by QuickIQTest.org",
-      "summary": "QuickIQTest.org now offers a real, accurate, and science-based IQ test with instant results, trusted by thousands worldwide.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116686/0/en/Online-IQ-Test-2025-Quick-Real-Accurate-IQ-Test-Now-Offered-by-QuickIQTest-org.html"
     }
   ]
 }
