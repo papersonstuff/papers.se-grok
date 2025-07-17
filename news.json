@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-17T16:20:19.732Z",
+  "lastUpdate": "2025-07-17T16:50:17.282Z",
   "items": [
+    {
+      "id": 51,
+      "title": "GM and Redwood teaming up to make batteries for energy storage",
+      "summary": "GM and Redwood are partnering to create energy storage units from recycled EV batteries, aiming to increase sustainability and efficiency in energy usage.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:48:52Z",
+      "url": "https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev"
+    },
+    {
+      "id": 52,
+      "title": "Why Email Security Is Now Essential to Marketing Success?",
+      "summary": "Email security is now essential for marketing success and not just IT's responsibility.",
+      "source": "Visualmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T16:48:50Z",
+      "url": "https://visualmodo.com/why-email-security-is-now-essential-to-marketing-success-and-not-just-its-problem/"
+    },
+    {
+      "id": 53,
+      "title": "“It’s a tectonic change” - AWS AI head calls agents \"the most impactful change we've seen since the dawn of the internet\"",
+      "summary": "AWS AI head describes AI agents as the most impactful change since the beginning of the internet, declaring a new era of AI agents with a bigger shift than the internet's inception.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:48:46Z",
+      "url": "https://www.techradar.com/pro/its-a-tectonic-change-aws-ai-head-calls-agents-the-most-impactful-change-weve-seen-since-the-dawn-of-the-internet"
+    },
+    {
+      "id": 54,
+      "title": "Driving AI-Powered Robotics Development with NVIDIA Isaac for Healthcare",
+      "summary": "Driving AI-Powered Robotics Development with NVIDIA Isaac for Healthcare to address the projected global shortage of over 15 million healthcare workers by 2030.",
+      "source": "Nvidia.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T16:46:32Z",
+      "url": "https://developer.nvidia.com/blog/driving-ai-powered-robotics-development-with-nvidia-isaac-for-healthcare/"
+    },
+    {
+      "id": 55,
+      "title": "How Generative AI's 'Deepfake Economy' Is Hobbling Small Businesses",
+      "summary": "Generative AI's 'Deepfake Economy' is affecting small businesses, with its potential positive and negative uses being discussed in recent years. Small business owners are highlighting the impact of this overlooked application of the technology.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T16:46:20Z",
+      "url": "https://biztoc.com/x/a3fd2a663b60b9e5"
+    },
+    {
+      "id": 56,
+      "title": "Pixel 10 Event Confirmed for August—Google Jumps Ahead of iPhone 17",
+      "summary": "Google has confirmed its Pixel 10 Event for August, ahead of the iPhone 17 release, showcasing the latest additions to its Pixel devices",
+      "source": "iPhone in Canada",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:46:04Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/16/pixel-10-event-confirmed-for-august-google-jumps-ahead-of-iphone-17/"
+    },
+    {
+      "id": 57,
+      "title": " Juve want Bissouma, Roma bid for Rios, Calhanoglu latest",
+      "summary": "The transfer market is active with negotiations pending for big clubs like Juventus and Roma.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T16:46:00Z",
+      "url": "https://onefootball.com/en/news/juve-want-bissouma-roma-bid-for-rios-calhanoglu-latest-41383115"
+    },
+    {
+      "id": 58,
+      "title": "Cast up to 300-inch 4K screens with Hisense’s C2 Mini Laser Projector at a new $1,349 low (Reg. $2,000)",
+      "summary": "Cast up to 300-inch 4K screens with Hisense’s C2 Mini Laser Projector at a new $1,349 low (Reg. $2,000) - Amazon is now offering the Hisense C2 Mini Laser Projector at $1,349 shipped.",
+      "source": "9to5Toys",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:45:38Z",
+      "url": "http://9to5toys.com/2025/07/16/hisense-c2-mini-laser-projector-new-1349-low/"
+    },
+    {
+      "id": 59,
+      "title": "Are You Unknowingly Dating an AI Chatbot?",
+      "summary": "Some individuals are using AI chatbots to craft messages, which can be detected based on unusual language and expressions",
+      "source": "POPSUGAR",
+      "category": "applications",
+      "timestamp": "2025-07-16T16:45:02Z",
+      "url": "https://www.popsugar.com/love/ai-dating-relationships-impact-49451986"
+    },
+    {
+      "id": 60,
+      "title": "Show HN: Photo Maps View for OneDrive",
+      "summary": "Show HN: Photo Maps View for OneDrive allows users to view their camera photo collections on a map, filter by date/keyword, and access on desktop",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T16:44:51Z",
+      "url": "https://github.com/ljw1004/geopic"
+    },
+    {
+      "id": 61,
+      "title": "ESWIN EBC77 is a RISC-V single-board computer with Ubuntu 24.04 support",
+      "summary": "ESWIN EBC77 is a RISC-V single-board computer with Ubuntu 24.04 support, featuring a 1.8 GHz ESWIN EIC7700X quad-core chip. Available for $149 on Amazon.",
+      "source": "Liliputing",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:44:10Z",
+      "url": "https://liliputing.com/eswin-ebc77-is-a-risc-v-single-board-computer-with-ubuntu-24-04-support/"
+    },
+    {
+      "id": 62,
+      "title": "AI Meets Innovation: Samsung Launches its Future-Forward Business Experience Studio in Mumbai",
+      "summary": "Samsung launches a business experience studio in Mumbai showcasing seamless interoperability between devices for B2B partners.",
+      "source": "Samsung.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T16:43:22Z",
+      "url": "https://news.samsung.com/in/ai-meets-innovation-samsung-launches-its-future-forward-business-experience-studio-in-mumbai"
+    },
+    {
+      "id": 63,
+      "title": "It’s official, Lamine Yamal is Barcelona’s new number 10 ",
+      "summary": "Lamine Yamal is Barcelona's new number 10, with the club unveiling his jersey number at his renewal ceremony.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T16:43:00Z",
+      "url": "https://onefootball.com/en/news/its-official-lamine-yamal-is-barcelonas-new-number-10-41384008"
+    },
     {
       "id": 51,
       "title": "What makes AI romance more addictive than real love?",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-16T15:47:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/16/3116686/0/en/Online-IQ-Test-2025-Quick-Real-Accurate-IQ-Test-Now-Offered-by-QuickIQTest-org.html"
-    },
-    {
-      "id": 51,
-      "title": "Sidetrade: 2025 H1 revenue, up 19% at constant exchange rates",
-      "summary": "Sidetrade reports a 19% increase in revenue in the first half of 2025 despite economic headwinds, with a decrease in Annual Contract Value of new deals compared to the previous year.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:43:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116683/0/en/Sidetrade-2025-H1-revenue-up-19-at-constant-exchange-rates.html"
-    },
-    {
-      "id": 52,
-      "title": "Chandrababu Naidu Unveils $2.4-Trillion Vision For 2047",
-      "summary": "Andhra Pradesh unveils $2.4 trillion vision for 2047, aiming to grow the state's economy significantly by that year.",
-      "source": "Ndtvprofit.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:42:51Z",
-      "url": "https://www.ndtvprofit.com/economy-finance/swarna-andhra-pradesh-chandrababu-naidu-unveils-usd-24-trillion-vision-for-2047"
-    },
-    {
-      "id": 53,
-      "title": "Pixel Watch 4 specs leak reveals new co-processor, battery life boost",
-      "summary": "Specs for the upcoming Pixel Watch 4 have leaked, revealing a new co-processor and improved battery life. The leaks suggest significant upgrades for this year's wearables.",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:42:49Z",
-      "url": "http://9to5google.com/2025/07/16/pixel-watch-4-specs-leak/"
-    },
-    {
-      "id": 54,
-      "title": "Sony's 61MP RX1R III Compact Camera Returns After A Decade With Big Upgrades",
-      "summary": "Sony's 61MP RX1R III Compact Camera makes a return after a decade with major upgrades, including a new sensor, AI autofocus, and the latest features.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-16T15:42:00Z",
-      "url": "https://hothardware.com/news/sonys-61mp-rx1r-iii-compact-camera-returns-after-a-decade"
-    },
-    {
-      "id": 55,
-      "title": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunch",
-      "summary": "Former Waymo engineers have founded Bedrock Robotics with $80 million in funding to automate construction processes.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:41:43Z",
-      "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
-    },
-    {
-      "id": 56,
-      "title": "Washington clears AMD to resume shipments of advanced AI chips to China",
-      "summary": "Washington clears AMD to resume shipments of advanced AI chips to China, allowing access to China's AI market and potentially boosting both vendors' revenue.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-16T15:41:00Z",
-      "url": "https://www.notebookcheck.net/Washington-clears-AMD-to-resume-shipments-of-advanced-AI-chips-to-China.1059400.0.html"
-    },
-    {
-      "id": 57,
-      "title": "Pluto Labs' 'Strategic Efficiency' AI Outperforms Google & Anthropic Models at a Fraction of the Cost",
-      "summary": "Pluto Labs' 'Strategic Efficiency' AI Outperforms Google & Anthropic Models at a Fraction of the Cost in the race to create an 'AI Scientist' capable of independent scientific discovery, making significant waves as a Korean startup.",
-      "source": "Vmblog.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:40:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/16/pluto-labs-strategic-efficiency-ai-outperforms-google-anthropic-models-at-a-fraction-of-the-cost.aspx"
-    },
-    {
-      "id": 58,
-      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
-      "summary": "CEO of $14 billion AI firm Perplexity believes success lies in 'sleeping with that fear' of competitors stealing ideas, using pressure as fuel.",
-      "source": "Fortune",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:39:55Z",
-      "url": "https://fortune.com/2025/07/16/perplexity-cofounder-ceo-aravind-srinivas-secret-success-embracing-fear-competitor-steal-idea-ai/"
-    },
-    {
-      "id": 59,
-      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
-      "summary": "CEO of $14 billion AI firm Perplexity emphasizes the importance of using the fear of competitors stealing your idea as motivation rather than letting it paralyze you.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-16T15:39:55Z",
-      "url": "https://finance.yahoo.com/news/ceo-14-billion-ai-firm-153955497.html"
-    },
-    {
-      "id": 60,
-      "title": "FBI Warns Parents Across America of Sinister Group Targeting Minors",
-      "summary": "FBI warns parents of sinister online group targeting minors through AI-generated voice",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:39:49Z",
-      "url": "https://biztoc.com/x/baf7802b1b796c64"
-    },
-    {
-      "id": 61,
-      "title": "Pastor Fired from Job After Ignoring Chosen Pronoun",
-      "summary": "A Louisiana pastor was fired from his job at a local library for refusing to use a co-worker's preferred pronouns, sparking a debate on ethics and inclusivity in the workplace.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T15:39:46Z",
-      "url": "https://biztoc.com/x/135ddf0a71cfc075"
-    },
-    {
-      "id": 62,
-      "title": "Fortnite's Speedy New Game Mode is Giving Players a Free Item if You Log in Now",
-      "summary": "Fortnite's new limited game mode offers an incentive for players to log in, using AI-generated voice. The v36.20 update was released after downtime.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:39:43Z",
-      "url": "https://biztoc.com/x/39fa889f25fbbfa4"
-    },
-    {
-      "id": 63,
-      "title": "Warning Issued As Hundreds of Thousands Told to Stay Out of the Water",
-      "summary": "More than 270,000 people in three states were warned to stay out of Lake Superior's waters due to dangerous conditions, with the warning being generated by an AI voice. National Weather Service lead meteorologist mentioned the inconsistencies that may occur with AI-generated messages.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T15:39:25Z",
-      "url": "https://biztoc.com/x/7abc8877b7863131"
     }
   ]
 }
