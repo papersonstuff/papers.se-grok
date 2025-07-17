@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-17T19:14:43.760Z",
+  "lastUpdate": "2025-07-17T19:30:09.844Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Meta AI: Founder Mode or “Win Now” Mode?",
+      "summary": "Meta's AI moves in sports franchise mimic a 'win now' mode, with the owner pushing for a championship this year despite a disappointing previous season.",
+      "source": "Platformonomics.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:29:46Z",
+      "url": "https://platformonomics.com/2025/07/meta-ai-founder-mode-or-win-now-mode/"
+    },
+    {
+      "id": 52,
+      "title": "Google Adds AI-Powered Local Business Calling to Search",
+      "summary": "Google is adding AI-powered local business calling to search, allowing users to make reservations and check pricing through a free feature.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:29:20Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/google-adds-ai-powered-local-business-calling-search/"
+    },
+    {
+      "id": 53,
+      "title": "Pass The GENIUS Act Or Risk The Wrath Of A CBDC",
+      "summary": "Pass The GENIUS Act to support innovation in artificial intelligence and other industries, or risk facing backlash from a Central Bank Digital Currency (CBDC)",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:28:30Z",
+      "url": "https://www.forbes.com/sites/davidbirnbaum/2025/07/16/pass-the-genius-act-or-risk-the-wrath-of-a-cbdc/"
+    },
+    {
+      "id": 54,
+      "title": "Why Congress May Pass The GENIUS Act Rather Than Make A CBDC",
+      "summary": "The GENIUS Act aims to enhance U.S. innovation in AI, energy networks, global trade, and other areas, potentially avoiding the need for a central bank digital currency.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:28:30Z",
+      "url": "https://www.forbes.com/sites/davidbirnbaum/2025/07/16/why-congress-may-pass-the-genius-act-rather-than-make-a-cbdc/"
+    },
+    {
+      "id": 55,
+      "title": "openrxn-perovskite-optimizer added to PyPI",
+      "summary": "openrxn-perovskite-optimizer added to PyPI - AI-driven perovskite solar cell optimization platform with OpenAI Agents SDK",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T19:26:46Z",
+      "url": "https://pypi.org/project/openrxn-perovskite-optimizer/"
+    },
+    {
+      "id": 56,
+      "title": "You can ask Gemini AI anything directly in Google Chrome - here's how and why you should",
+      "summary": "You can now ask Gemini AI directly in Google Chrome for help from any web page, making it more convenient and easy to access AI assistance while browsing.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-16T19:25:07Z",
+      "url": "https://www.zdnet.com/article/you-can-ask-gemini-ai-anything-directly-in-google-chrome-heres-how-and-why-you-should/"
+    },
+    {
+      "id": 57,
+      "title": "stormy-ai 1.0.1a3",
+      "summary": "stormy-ai 1.0.1a3 is the latest version of the AI software, bringing new features and improvements to users.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T19:24:21Z",
+      "url": "https://pypi.org/project/stormy-ai/1.0.1a3/"
+    },
+    {
+      "id": 58,
+      "title": "Chandra & Chandra's Andhra Pradesh road map: Push ease & speed of doing business",
+      "summary": "A taskforce in Andhra Pradesh led by N Chandrababu Naidu has proposed district-level growth strategies to boost the economy to $2.4 trillion by 2047, focusing on ease of doing business, infrastructure development, and targeted investments in key sectors.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:24:13Z",
+      "url": "https://economictimes.indiatimes.com/news/india/chandra-chandras-andhra-pradesh-road-map-push-ease-speed-of-doing-business/articleshow/122591869.cms"
+    },
+    {
+      "id": 59,
+      "title": "PBK Miner launches 2-day XRP mining contract, XRP short-term investment users surge 380%",
+      "summary": "PBK Miner launches 2-day XRP mining contract, XRP short-term investment users surge 380% in London, United Kingdom. The new contract offers investors a flexible and efficient opportunity to gain XRP.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:24:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116787/0/en/PBK-Miner-launches-2-day-XRP-mining-contract-XRP-short-term-investment-users-surge-380.html"
+    },
+    {
+      "id": 60,
+      "title": "She Was CEO of OpenAI for 2 Days. Now Her Secretive AI Startup Has Raised $12 Billion",
+      "summary": "Mira Murati, former CEO of OpenAI for 2 days, has raised $12 billion for her secretive AI startup, Thinking Machine Labs, after working at OpenAI for 6 years.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:22:10Z",
+      "url": "https://biztoc.com/x/3b377633486a4557"
+    },
+    {
+      "id": 61,
+      "title": "Scale AI blames overhiring and market shifts for layoffs and says it's not profitable",
+      "summary": "Scale AI blames overhiring and market shifts for layoffs of 200 employees, says it's unprofitable and created 'too many layers'. Former CEO, Alexandr Wang, hired by Meta.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T19:21:59Z",
+      "url": "https://biztoc.com/x/0d1848fa3f5e1663"
+    },
+    {
+      "id": 62,
+      "title": "The companies firing staff for AI today will regret it in five years",
+      "summary": "Some companies are firing staff for AI advancements, but experts believe they will regret it in the future as AI could potentially lead to the creation of billion-dollar companies with only one person. AI is changing the landscape of businesses and the economy.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:21:54Z",
+      "url": "https://biztoc.com/x/67e22c9e4428db11"
+    },
+    {
+      "id": 63,
+      "title": "Should You Be Adding Kinsale Capital Group (NYSE:KNSL) To Your Watchlist Today?",
+      "summary": "Should You Be Adding Kinsale Capital Group (NYSE:KNSL) To Your Watchlist Today?",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:21:44Z",
+      "url": "https://finance.yahoo.com/news/adding-kinsale-capital-group-nyse-192144113.html"
+    },
+    {
+      "id": 64,
+      "title": "OpenAI Is Eating Microsoft’s Lunch",
+      "summary": "OpenAI is emerging as a competitive player against Microsoft, potentially impacting the company's market share. Copilot, a tool developed by OpenAI and used by Microsoft, is being removed from their software offerings.",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T19:20:44Z",
+      "url": "https://gizmodo.com/openai-is-eating-microsofts-lunch-2000630194"
+    },
     {
       "id": 51,
       "title": "Microsoft Is Testing Letting Copilot AI Interact With Your Whole Desktop",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-16T18:12:22Z",
       "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/"
-    },
-    {
-      "id": 63,
-      "title": "Image-to-video generation support for Luma AI's Ray2 now in Amazon Bedrock",
-      "summary": "Luma AI's Ray2 model on Amazon Bedrock now supports image-to-video generation, expanding upon the text-to-video generation capabilities introduced earlier this year.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T18:12:00Z",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/"
-    },
-    {
-      "id": 51,
-      "title": "Where Will C3.ai Stock Be in 1 Year?",
-      "summary": "C3.ai has faced challenges in recent years but is showing growth in revenues and stabilizing gross margins. While the stock could climb higher in the next year, it is expected to remain below its IPO price.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:53:20Z",
-      "url": "https://biztoc.com/x/5e9237d616b2a616"
-    },
-    {
-      "id": 52,
-      "title": "Scale AI lays off 200 employees, ‘We ramped up our GenAI capacity too quickly’",
-      "summary": "Scale AI lays off 200 employees after ramping up GenAI capacity too quickly, following Meta's investment and hiring of CEO and staff.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:53:15Z",
-      "url": "https://biztoc.com/x/5a833728a8ef7aa6"
-    },
-    {
-      "id": 53,
-      "title": "The CMO’s Guide To Getting A Seat At The Corporate Strategy Table",
-      "summary": "CMOs are advised on how to secure a seat at the corporate strategy table, while luxury brands are cautioned to cater to high-end customers. In other news, Grok And X have had a busy week, streaming services are gaining more viewership in the TV market.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:52:51Z",
-      "url": "https://www.forbes.com/sites/cmo/2025/07/16/the-cmos-guide-to-getting-a-seat-at-the-corporate-strategy-table/"
-    },
-    {
-      "id": 54,
-      "title": "iPhone 17 Pro: Three reasons you might want to upgrade from iPhone 16 Pro",
-      "summary": "iPhone 17 Pro rumored to have new features, prompting potential upgrades from iPhone 16 Pro owners.",
-      "source": "9to5Mac",
-      "category": "applications",
-      "timestamp": "2025-07-16T17:49:36Z",
-      "url": "https://9to5mac.com/2025/07/16/iphone-17-pro-three-reasons-you-might-want-to-upgrade-from-iphone-16-pro/"
-    },
-    {
-      "id": 55,
-      "title": "Prodco HENRY & Hybrid Studio LIPSTICK Launch AI Roster",
-      "summary": "Prodco HENRY & Hybrid Studio LIPSTICK launch AI roster, providing a new production environment where AI-generated visuals coexist with direction and post-production in a unified structure.",
-      "source": "Stashmedia.tv",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:46:45Z",
-      "url": "https://www.stashmedia.tv/prodco-henry-hybrid-studio-lipstick-launch-ai-roster/"
-    },
-    {
-      "id": 56,
-      "title": "☑️ A new era begins: Barcelona unveil their new number 10 ",
-      "summary": "Barcelona unveil their new number 10 after Ansu Fati's departure, continuing the legacy of the legendary number worn by Maradona, Ronaldinho, and Lionel Messi.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:46:00Z",
-      "url": "https://onefootball.com/en/news/a-new-era-begins-barcelona-unveil-their-new-number-10-41383994"
-    },
-    {
-      "id": 57,
-      "title": "30 Years Ago, Matt Drudge’s Email Newsletter Changed Media Forever",
-      "summary": "30 years ago, Matt Drudge's email newsletter revolutionized media before platforms like Twitter existed. Drudge's headline-driven website played a major role in shaping today's political media landscape, and its influence continues to be felt three decades later.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:45:58Z",
-      "url": "https://www.forbes.com/sites/andymeek/2025/07/16/30-years-ago-matt-drudges-email-newsletter-changed-media-forever/"
-    },
-    {
-      "id": 58,
-      "title": "Google Search Gets Supercharged with Gemini 2.5 Pro & Deep Search",
-      "summary": "Google Search is enhanced with Gemini 2.5 Pro and Deep Search, providing advanced AI features like AI calling for local businesses.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:45:12Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-search-ai-mode-gemini-2-5-pro-deep-search-businesses-calls.html"
-    },
-    {
-      "id": 59,
-      "title": "(PR) Gigabyte Aero X16 and Gigabyte Gaming A16 Now Officially Available",
-      "summary": "Following the successful debut of the AORUS MASTER 18 and 16, GIGABYTE announces the availability of the GIGABYTE AERO X16 and GAMING A16, expanding its 2025 AI PC lineup to meet the needs of gamers.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T17:45:11Z",
-      "url": "https://www.techpowerup.com/338999/gigabyte-aero-x16-and-gigabyte-gaming-a16-now-officially-available"
-    },
-    {
-      "id": 60,
-      "title": "The Wrecking of the FBI",
-      "summary": "Former FBI official Peter Strzok criticizes President Trump for damaging U.S. counterintelligence efforts from within.",
-      "source": "The Atlantic",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:45:00Z",
-      "url": "https://www.theatlantic.com/podcasts/archive/2025/07/david-frum-show-peter-strzok-fbi/683547/"
-    },
-    {
-      "id": 61,
-      "title": "Open Science & Open Knowledge – similar but yet different worlds",
-      "summary": "Open Science and Open Knowledge have similar values of promoting free access to information, but they are associated with different types of people and do not seem to connect easily.",
-      "source": "Okfn.org",
-      "category": "ethics",
-      "timestamp": "2025-07-16T17:44:12Z",
-      "url": "https://blog.okfn.org/2025/07/16/open-science-open-knowledge-similar-but-yet-different-worlds/"
-    },
-    {
-      "id": 62,
-      "title": "Measurabl Launches Free Sustainability Software Solution, Onboards Over 92 Million Square Metres of Real Estate Within Weeks",
-      "summary": "Measurabl launches free sustainability software solution, onboarding over 92 million square meters of real estate within weeks.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T17:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116761/0/en/Measurabl-Launches-Free-Sustainability-Software-Solution-Onboards-Over-92-Million-Square-Metres-of-Real-Estate-Within-Weeks.html"
-    },
-    {
-      "id": 51,
-      "title": "Map Shows Countries That Don't Allow Dual Citizenship",
-      "summary": "Map showing countries that do not allow dual citizenship provides valuable data for understanding global citizenship laws.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-16T17:42:27Z",
-      "url": "https://biztoc.com/x/01af88f44356c2bd"
     }
   ]
 }
