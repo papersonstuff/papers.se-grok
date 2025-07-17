@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-17T08:50:23.743Z",
+  "lastUpdate": "2025-07-17T09:20:00.742Z",
   "items": [
+    {
+      "id": 51,
+      "title": "lightman-ai 0.19.5",
+      "summary": "lightman-ai 0.19.5 is a cybersecurity news aggregator that utilizes AI technology to gather and categorize relevant news articles in the cybersecurity space.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:18:49Z",
+      "url": "https://pypi.org/project/lightman-ai/0.19.5/"
+    },
+    {
+      "id": 52,
+      "title": "OPPO Reno14 Series First Look: The Perfect Camera Phones Under Rs. 50,000 in 2025?",
+      "summary": "The OPPO Reno14 Series is touted as the perfect camera phones under Rs. 50,000 in 2025, with advanced AI technology. The phones are expected to offer innovative features and high-quality camera capabilities.",
+      "source": "Gadgets360.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:17:53Z",
+      "url": "https://www.gadgets360.com/mobiles/sponsored/oppo-reno14-series-first-look-the-perfect-camera-phones-under-rs-50000-in-2025-8885506"
+    },
+    {
+      "id": 53,
+      "title": "BMW, Mercedes, and Audi have all picked Momenta to supply assisted driving tech",
+      "summary": "BMW, Mercedes, and Audi have chosen Momenta to provide assisted driving technology. Mercedes-Benz and Audi have also signed deals with Momenta for using these technologies in their upcoming models.",
+      "source": "TechNode",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:17:50Z",
+      "url": "http://technode.com/2025/07/16/bmw-mercedes-and-audi-have-all-picked-momenta-to-supply-assisted-driving-tech/"
+    },
+    {
+      "id": 54,
+      "title": "Securonix tackles security data deluge with AI-driven platform",
+      "summary": "Securonix is using its AI-driven platform to help businesses manage security threats cost-effectively as data volumes grow and security budgets tighten.",
+      "source": "ComputerWeekly.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T09:15:00Z",
+      "url": "https://www.computerweekly.com/news/366627527/Securonix-tackles-security-data-deluge-with-AI-driven-platform"
+    },
+    {
+      "id": 55,
+      "title": "ASRock Industrial unveils DSC-NV003-WT NVIDIA Jetson AGX Orin Developer Kit",
+      "summary": "ASRock Industrial has launched the DSC-NV003-WT NVIDIA Jetson AGX Orin Developer Kit for edge AI applications in robotics, drones, Smart Cities, and advanced industrial sectors.",
+      "source": "CNX Software",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:14:15Z",
+      "url": "https://www.cnx-software.com/2025/07/16/asrock-industrial-dsc-nv003-wt-nvidia-jetson-agx-orin-developer-kit/"
+    },
+    {
+      "id": 56,
+      "title": "Google Memory Bank Released : Long-Term AI Memory for Your Agents",
+      "summary": "Google has released the Memory Bank, a long-term AI memory for agents that allows them to remember user preferences, habits, and past conversations, making the vision of truly personalized AI assistants a reality.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:13:15Z",
+      "url": "https://www.geeky-gadgets.com/google-memory-bank-long-term-ai-memory/"
+    },
+    {
+      "id": 57,
+      "title": "Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time",
+      "summary": "Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time - Social engineering attacks have entered a new era—and they’re coming fast, smart, and deeply personalized.",
+      "source": "Internet",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:13:00Z",
+      "url": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html"
+    },
+    {
+      "id": 58,
+      "title": "aait 2.0.0.1",
+      "summary": "The aait 2.0.0.1 - Advanced Artificial Intelligence Tools package is designed to enhance AI capabilities in Orange software.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:11:54Z",
+      "url": "https://pypi.org/project/aait/2.0.0.1/"
+    },
+    {
+      "id": 59,
+      "title": "How To Reinvent Your Business For AI: A Roadmap To Transformation",
+      "summary": "How To Reinvent Your Business For AI: A Roadmap To Transformation focuses on the importance of reinvention for achieving a competitive advantage in the AI era.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:11:49Z",
+      "url": "https://www.forbes.com/sites/peterbendorsamuel/2025/07/16/how-to-reinvent-your-business-for-ai-a-roadmap-to-transformation/"
+    },
+    {
+      "id": 60,
+      "title": "Mexico Considering Legal Action Against ICE Over Migrant's Death",
+      "summary": "Mexico is considering legal action against ICE over a migrant's death, citing concerns about immigration raids in the United States.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:11:06Z",
+      "url": "https://biztoc.com/x/9f2c567d49e62a0f"
+    },
+    {
+      "id": 61,
+      "title": "Dubai Is a Dream Destination to Visit and Live, Says Tourism Chief",
+      "summary": "Dubai's tourist promotion chief remains optimistic about tourism despite uncertain geopolitical situation in the Middle East.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:11:01Z",
+      "url": "https://biztoc.com/x/8782e483dbcead06"
+    },
+    {
+      "id": 62,
+      "title": "Chef Olivia Tiedemann's Guide to Vacation Dining and Food Discovery",
+      "summary": "Olivia Tiedemann's Guide to Vacation Dining and Food Discovery is an AI-generated voice assisting users in finding the best dining experiences during their vacations. Inconsistencies may occur due to the AI technology used.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:10:57Z",
+      "url": "https://biztoc.com/x/fd3fa461c896c2ae"
+    },
+    {
+      "id": 63,
+      "title": "Rescue Dog Steals Owner's Clothes When They Shower, Hearts Break Over Why",
+      "summary": "A rescue dog steals owner's clothes when they shower, capturing the hearts of internet users with his sweet habit. The story is AI-generated by Catharina Hartmans from the U.K.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T09:10:54Z",
+      "url": "https://biztoc.com/x/8486e9232d8b8842"
+    },
+    {
+      "id": 64,
+      "title": "How Will Putin React to Trump's Ukraine Pivot? Newsweek Contributors Debate",
+      "summary": "President Trump's decision to send military aid to Ukraine and threaten new tariffs on Russia raises ethical questions about potential escalation of conflict and the impact on civilians in the region.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:10:53Z",
+      "url": "https://biztoc.com/x/f25f6c8cf143c130"
+    },
+    {
+      "id": 65,
+      "title": "Formula 1 Legends Put on a Show at Goodwood's Festival of Speed",
+      "summary": "More than 200,000 racing fans attended the Goodwood Festival of Speed to see Formula 1 Legends put on a show with AI-generated voice.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:10:51Z",
+      "url": "https://biztoc.com/x/0739018932893055"
+    },
+    {
+      "id": 66,
+      "title": "How the One Big Beautiful Bill Act Will Affect Clean Energy Jobs",
+      "summary": "The One Big Beautiful Bill Act signed by President Trump will impact clean energy jobs by ending federal support for clean energy initiatives.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T09:10:51Z",
+      "url": "https://biztoc.com/x/a6de20db1ac60fdd"
+    },
+    {
+      "id": 67,
+      "title": "Iran Makes Nuclear Threat",
+      "summary": "Iran is using AI-generated voice to make nuclear threats, leading to potential misinformation and security concerns.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T09:10:44Z",
+      "url": "https://biztoc.com/x/c3918638c14282b6"
+    },
+    {
+      "id": 68,
+      "title": "A former Big Tech hiring manager shares how to avoid the AI 'sameness epidemic' and stand out in your job application",
+      "summary": "A former Big Tech hiring manager shares how to avoid the AI 'sameness epidemic' in job applications, noticing that AI tools like ChatGPT led to predictable and forgettable resumes. Keith Anderson provides tips on how to stand out in the application process.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T09:10:43Z",
+      "url": "https://biztoc.com/x/be1e073d4afcf187"
+    },
     {
       "id": 38,
       "title": "Plaisiobots: The dream of three schoolgirls became a learning journey in California",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T08:08:46Z",
       "url": "https://www.etfdailynews.com/2025/07/16/threed-capital-inc-cnsxidk-insider-1313366-ontario-inc-sells-470000-shares/"
-    },
-    {
-      "id": 17,
-      "title": "As Huawei Ascend courts the Middle East and Southeast Asia, Washington raises red flags",
-      "summary": "Huawei Ascend AI chips face potential export control violations, raising concerns from the US Department of Commerce as the company expands in the Middle East and Southeast Asia.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:08:28Z",
-      "url": "https://www.digitimes.com/news/a20250715PD204/huawei-ascend-chips-saudi-arabia-malaysia-us-china-trade-war.html"
-    },
-    {
-      "id": 18,
-      "title": "Regenerative Agriculture Market Size, Share, Trends Analysis and Strategy Forecast 2025-2034 - The Industry is Expected to Mature Into a Collaborative Ecosystem",
-      "summary": "Regenerative Agriculture Market is expected to mature into a collaborative ecosystem driven by sustainable farming practices, ESG commitments, and climate resilience, with emerging technologies and certifications catalyzing global market expansion.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:08:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116168/28124/en/Regenerative-Agriculture-Market-Size-Share-Trends-Analysis-and-Strategy-Forecast-2025-2034-The-Industry-is-Expected-to-Mature-Into-a-Collaborative-Ecosystem.html"
-    },
-    {
-      "id": 19,
-      "title": "Military Thermal Camera Global and Regional Analysis Report 2025-2034 | Demand for All-weather and Night-vision Capabilities, & AI Integration to Propel the Future of the $13.42 Billion Market",
-      "summary": "The military thermal camera market is rapidly growing due to advancements in sensor technology, AI integration, and global defense modernization efforts.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116165/28124/en/Military-Thermal-Camera-Global-and-Regional-Analysis-Report-2025-2034-Demand-for-All-weather-and-Night-vision-Capabilities-AI-Integration-to-Propel-the-Future-of-the-13-42-Billion-.html"
-    },
-    {
-      "id": 20,
-      "title": "Redwood Bank names new CITO",
-      "summary": "Redwood Bank appoints Simon Goodyear as new CITO to focus on technology, data excellence, and operational efficiency.",
-      "source": "Finextra",
-      "category": "startups",
-      "timestamp": "2025-07-16T08:05:12Z",
-      "url": "https://www.finextra.com/pressarticle/106360/redwood-bank-names-new-cito"
-    },
-    {
-      "id": 21,
-      "title": "Anti-Money Laundering (AML) Software Global and Regional Market Analysis Report 2025-2034 | Cloud-Based Solutions Drive Accelerated Growth with ACI, NICE Actimize, Verafin Solutions, and IMTF Leading",
-      "summary": "The global anti-money laundering (AML) software market is thriving as financial institutions and various sectors intensify efforts to adhere to stringent regulations combating financial crimes.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-16T08:05:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116164/28124/en/Anti-Money-Laundering-AML-Software-Global-and-Regional-Market-Analysis-Report-2025-2034-Cloud-Based-Solutions-Drive-Accelerated-Growth-with-ACI-NICE-Actimize-Verafin-Solutions-and-.html"
-    },
-    {
-      "id": 22,
-      "title": "Mobile Mining Meets Bitcoin, PFMCrypto Brings BTC Cloud Mining to Mobile Devices",
-      "summary": "With PFMCrypto's app-based platform, anyone can start mining BTC remotely and receive daily crypto income without hardware.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-16T08:05:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116163/0/en/Mobile-Mining-Meets-Bitcoin-PFMCrypto-Brings-BTC-Cloud-Mining-to-Mobile-Devices.html"
-    },
-    {
-      "id": 23,
-      "title": "How will age verification for porn work and what about privacy?",
-      "summary": "UK will implement stricter age verification for online porn, raising concerns over privacy and data protection.",
-      "source": "BBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-16T08:04:09Z",
-      "url": "https://www.bbc.com/news/articles/ceq7ye3q2zwo"
-    },
-    {
-      "id": 24,
-      "title": "What You Need to Know Ahead of Airbnb’s Earnings Release",
-      "summary": "AI stocks and investing ideas related to AI are discussed in anticipation of Airbnb's earnings release.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:04:08Z",
-      "url": "https://biztoc.com/x/0839d9136edf6382"
-    },
-    {
-      "id": 25,
-      "title": "Autonomous Underwater Vehicles Global Markets Report 2025-2030 | Increasing Expansion in Deep-Sea Exploration, Rapid Growth of Renewable Energy, Rising Demand in Climate and Environmental Research",
-      "summary": "The report offers an in-depth analysis of the global autonomous underwater vehicle (AUV) market, covering key segments such as payload and product types, applications, and regional dynamics. It highlights trends, growth drivers, and market projections.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-16T08:04:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116162/28124/en/Autonomous-Underwater-Vehicles-Global-Markets-Report-2025-2030-Increasing-Expansion-in-Deep-Sea-Exploration-Rapid-Growth-of-Renewable-Energy-Rising-Demand-in-Climate-and-Environmen.html"
-    },
-    {
-      "id": 26,
-      "title": "'I Know What You Did Last Summer' Reboot: A Summer Must-See",
-      "summary": "'I Know What You Did Last Summer' Reboot: A Summer Must-See' voice is AI-generated, with potential inconsistencies. The writer and fan behind the reboot aims to deliver an enjoyable experience to viewers.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T08:03:50Z",
-      "url": "https://biztoc.com/x/a794cb80161a5988"
-    },
-    {
-      "id": 1,
-      "title": "Jim Cramer reviews some of the 'terrifying' ups and downs of earnings season",
-      "summary": "Jim Cramer reviews the challenges of predicting stock action during earnings season on Wall Street.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-15T22:49:18Z",
-      "url": "https://www.cnbc.com/2025/07/15/jim-cramer-reviews-the-terrifying-ups-and-downs-of-earnings-season.html"
-    },
-    {
-      "id": 2,
-      "title": "Microsoft begins testing sharing your desktop with Copilot on Windows 11 — allows AI to view and chat about what's on your screen",
-      "summary": "Microsoft is testing sharing your desktop with Copilot on Windows 11, allowing AI to view and chat about what's on your screen.",
-      "source": "Windows Central",
-      "category": "applications",
-      "timestamp": "2025-07-15T22:49:10Z",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-begins-testing-sharing-your-desktop-with-copilot-on-windows-11-allows-ai-to-view-and-chat-about-whats-on-your-screen"
-    },
-    {
-      "id": 3,
-      "title": "Zuckerberg: Top AI Talent Has 3 Asks",
-      "summary": "Mark Zuckerberg highlights the three main requests top AI researchers have when considering job opportunities, emphasizing that salary is just one aspect. The Meta CEO shared insights on attracting AI talent during an interview on The Information's TITV program.",
-      "source": "Newser",
-      "category": "research",
-      "timestamp": "2025-07-15T22:48:12Z",
-      "url": "https://www.newser.com/story/371923/zuckerberg-top-ai-talent-has-3-asks.html"
-    },
-    {
-      "id": 4,
-      "title": "Drone startup Xtend raises another $30M in funding",
-      "summary": "Drone startup Xtend raises $30M in funding led by Aliya Capital Partners and Protego Ventures for developing drone technology in the defense sector.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-15T22:47:40Z",
-      "url": "https://siliconangle.com/2025/07/15/drone-startup-xtend-raises-another-30m-funding/"
-    },
-    {
-      "id": 5,
-      "title": "OpenEvidence raises $210M on $3.5B valuation to expand AI-powered medical search and decision tools",
-      "summary": "OpenEvidence raises $210M on $3.5B valuation to expand AI-powered medical search and decision tools.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-15T22:46:49Z",
-      "url": "https://siliconangle.com/2025/07/15/openevidence-raises-210m-3-5b-valuation-expand-ai-powered-medical-search-decision-tools/"
-    },
-    {
-      "id": 6,
-      "title": "Apple researchers taught an AI model to reason about app interfaces",
-      "summary": "Apple researchers collaborated with Aalto University in Finland to create ILuvUI, an AI model trained to understand mobile app interfaces through screenshots and natural language conversations.",
-      "source": "9to5Mac",
-      "category": "research",
-      "timestamp": "2025-07-15T22:45:55Z",
-      "url": "https://9to5mac.com/2025/07/15/apple-researchers-taught-an-ai-model-to-reason-about-app-interfaces/"
-    },
-    {
-      "id": 7,
-      "title": "Show HN: Vezeto – Android app for travelers powered by AI",
-      "summary": "During travels, the Vezeto Android app for travelers powered by AI helps users find information about lesser-known attractions, especially in smaller towns, where internet information may need translation or may be lacking.",
-      "source": "Hacker News",
-      "category": "applications",
-      "timestamp": "2025-07-15T22:43:04Z",
-      "url": "https://news.ycombinator.com/item?id=44576665"
-    },
-    {
-      "id": 8,
-      "title": "Repost: Tidy RAG in R with ragnar",
-      "summary": "The ragnar package in R allows for retrieval augmented generation (RAG) for scraping text from websites and using it for various applications.",
-      "source": "R-bloggers.com",
-      "category": "applications",
-      "timestamp": "2025-07-15T22:43:00Z",
-      "url": "https://www.r-bloggers.com/2025/07/repost-tidy-rag-in-r-with-ragnar/"
     }
   ]
 }
