@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T17:15:39.883Z",
+  "lastUpdate": "2025-07-17T17:43:32.210Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Map Shows Countries That Don't Allow Dual Citizenship",
+      "summary": "Map showing countries that do not allow dual citizenship provides valuable data for understanding global citizenship laws.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-16T17:42:27Z",
+      "url": "https://biztoc.com/x/01af88f44356c2bd"
+    },
+    {
+      "id": 52,
+      "title": "Green Card Holder Mom of Toddler Detained by ICE Returning From Wedding",
+      "summary": "A 24-year-old Green Card holder, Esther Ngoy Tekele, was detained by ICE when returning to the U.S. after attending a wedding. This raises ethical concerns surrounding immigration policies and treatment of individuals.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T17:42:20Z",
+      "url": "https://biztoc.com/x/8def2ba7c444b430"
+    },
+    {
+      "id": 53,
+      "title": "Photos Show Tomorrowland Stage Catching Fire Before Festival Kicks Off",
+      "summary": "Dramatic photos and videos captured flames erupting from the Tomorrowland main stage just days before the festival was set to begin, showcasing the potential applications of AI-generated voice technology in disseminating breaking news.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:42:09Z",
+      "url": "https://biztoc.com/x/281c918d3c2af06c"
+    },
+    {
+      "id": 54,
+      "title": "Millions Face Garbage Strike Nationwide—Union",
+      "summary": "Members of the Teamsters union have extended their strike to impact millions nationwide, affecting garbage collection in Los Angeles and a landfill site in Ohio.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T17:41:58Z",
+      "url": "https://biztoc.com/x/af59cfafb5d356ef"
+    },
+    {
+      "id": 55,
+      "title": "Trump: Nvidia Can Sell AI Chips to China Again",
+      "summary": "In yet another massive backtrack, the CEO of Nvidia has revealed that the Trump administration will allow the tech giant to sell its AI chips to China.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T17:41:38Z",
+      "url": "https://biztoc.com/x/53447f1fd2d10872"
+    },
+    {
+      "id": 56,
+      "title": "notebook-intelligence 2.2.5",
+      "summary": "notebook-intelligence 2.2.5 is an AI coding assistant designed for JupyterLab, aimed at improving the coding experience for users by providing intelligent suggestions and auto-completion features.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:39:30Z",
+      "url": "https://pypi.org/project/notebook-intelligence/2.2.5/"
+    },
+    {
+      "id": 57,
+      "title": "Sangoma and Quicklert Announce Strategic Partnership to Help Schools Comply with Alyssa’s Law and Enhance Campus Safety",
+      "summary": "Sangoma and Quicklert have announced a strategic partnership to help schools comply with Alyssa’s Law and enhance campus safety through AI technology.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:38:54Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/sangoma-and-quicklert-announce-strategic-partnership-to-help-schools-comply-with-alyssas-law-and-enhance-campus-safety"
+    },
+    {
+      "id": 58,
+      "title": "Adastra Announces Availability of Three Agentic AI Offers in the New AWS Marketplace AI Agents and Tools Category",
+      "summary": "Adastra Corporation announced the availability of three new Agentic AI offers in the AWS Marketplace AI Agents and Tools Category.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:38:39Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/adastra-announces-availability-of-three-agentic-ai-offers-in-the-new-aws-marketplace-ai-agents-and-tools-category"
+    },
+    {
+      "id": 59,
+      "title": "Anthropic unveils Claude for Financial Services",
+      "summary": "Anthropic unveils Claude, a tool for finance professionals to analyze markets and make investment decisions, backed by Amazon and Google.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-16T17:38:08Z",
+      "url": "https://www.finextra.com/newsarticle/46307/anthropic-unveils-claude-for-financial-services"
+    },
+    {
+      "id": 60,
+      "title": "AI training, copyright issues headline U.S. Senate hearing",
+      "summary": "U.S. Senate hearing focused on copyright issues related to AI training, with senators criticizing companies like Meta and Anthropic for using copyrighted content such as pirated books. This raises ethical concerns about the use of copyrighted material in AI development.",
+      "source": "Techtarget.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T17:38:00Z",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366627854/AI-training-copyright-issues-headline-US-Senate-hearing"
+    },
+    {
+      "id": 61,
+      "title": "The Protocol: Layer-2 Eclipse’s Airdrop Goes Live",
+      "summary": "Several AI-related projects and developments were announced, including Layer-2 Eclipse's airdrop, Risc Zero's 'Boundless' incentivized testnet, a new Bitcoin proposal, and the introduction of the first DePIN powered credit card.",
+      "source": "CoinDesk",
+      "category": "startups",
+      "timestamp": "2025-07-16T17:37:14Z",
+      "url": "https://www.coindesk.com/tech/2025/07/16/the-protocol-layer-2-eclipse-s-airdrop-goes-live"
+    },
+    {
+      "id": 62,
+      "title": "Verdant Heart Art and Animation Pack by Guilded Hut Studio",
+      "summary": "Verdant Heart Art and Animation Pack by Guilded Hut Studio includes a 32x32 pixel art pack with player state machine scripts for platformer games, featuring Lily and Shadow Moth characters with animations.",
+      "source": "Unity.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:37:11Z",
+      "url": "https://assetstore.unity.com/packages/2d/verdant-heart-art-and-animation-pack-325772"
+    },
+    {
+      "id": 63,
+      "title": "AI-Powered Open-Top Litter Boxes - The PETKIT Purobot Crystal Duo Makes Preventative Care Accessible (TrendHunter.com)",
+      "summary": "The PETKIT Purobot Crystal Duo is an AI-powered open-top litter box that offers smart monitoring features for pet parents to track their cat's health and behavior, making preventative care more accessible.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:37:05Z",
+      "url": "https://www.trendhunter.com/trends/petkit-purobot-crystal-duo"
+    },
+    {
+      "id": 64,
+      "title": "The Key To Staying Relevant In The Age Of AI",
+      "summary": "The key to staying relevant in the age of AI is being agile and open to new possibilities, more important than any degree or credential.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:36:04Z",
+      "url": "https://www.forbes.com/sites/harmoncullinan/2025/07/16/the-key-to-staying-relevant-in-the-age-of-ai/"
+    },
+    {
+      "id": 65,
+      "title": "'Plus Mind' rolls onto the OnePlus 13, 13R as the assistant Android users need",
+      "summary": "'Plus Mind' has been introduced on the OnePlus 13 and 13R as an AI assistant for Android users, offering a screenshot assistant feature to enhance user experience.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:34:59Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/plus-mind-ai-oneplus-13-13r-screenshot-assistant-rollout-announced"
+    },
+    {
+      "id": 66,
+      "title": "JA Mining Expands Renewable Mining Infrastructure in North America Post Completion of Independent Security Audit",
+      "summary": "JA Mining expands renewable mining infrastructure in North America post completion of independent security audit, in response to rising demand for sustainable and secure digital asset participation.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:34:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116756/0/en/JA-Mining-Expands-Renewable-Mining-Infrastructure-in-North-America-Post-Completion-of-Independent-Security-Audit.html"
+    },
+    {
+      "id": 67,
+      "title": "Yves Guillemot’s Son And Christophe Derennes Named Co-CEOs Of New Tencent Subsidiary At Ubisoft",
+      "summary": "Yves Guillemot’s son and Christophe Derennes have been named co-CEOs of a new Tencent subsidiary at Ubisoft, signaling a leadership change and collaboration between the two companies.",
+      "source": "Wccftech",
+      "category": "startups",
+      "timestamp": "2025-07-16T17:33:53Z",
+      "url": "https://wccftech.com/ubisoft-name-yves-guillemot-son-christophe-derennes-co-ceos-tencent-subsidiary/"
+    },
+    {
+      "id": 68,
+      "title": "\"We'll Kill Each Other\": Panic as Peller Opens Up on What He'll Do If Lover Jarvis Breaks His Heart",
+      "summary": "Peller and Jarvis' tumultuous relationship highlights concerns over toxic relationships and the impact on mental health.",
+      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "category": "ethics",
+      "timestamp": "2025-07-16T17:32:04Z",
+      "url": "https://www.legit.ng/entertainment/celebrities/1664649-ll-kill-panic-peller-opens-what-ll-jarvis-breaks-heart/"
+    },
+    {
+      "id": 69,
+      "title": "Google announces Pixel 10 series launch event",
+      "summary": "Google announces Pixel 10 series launch event, revealing the announcement date for its next-generation Pixel devices.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-16T17:32:01Z",
+      "url": "https://www.neowin.net/news/google-announces-pixel-10-series-launch-event/"
+    },
+    {
+      "id": 70,
+      "title": "Google's AI Can Now Make Phone Calls",
+      "summary": "Google has developed AI technology that allows users to make phone calls to local businesses for pricing and availability information without having to speak with a person, an application of AI in providing customer service.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-16T17:32:00Z",
+      "url": "https://tech.slashdot.org/story/25/07/16/1732222/googles-ai-can-now-make-phone-calls"
+    },
     {
       "id": 51,
       "title": "Google announces Pixel 10 launch event - The Verge",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-16T16:43:22Z",
       "url": "https://news.samsung.com/in/ai-meets-innovation-samsung-launches-its-future-forward-business-experience-studio-in-mumbai"
-    },
-    {
-      "id": 63,
-      "title": "It’s official, Lamine Yamal is Barcelona’s new number 10 ",
-      "summary": "Lamine Yamal is Barcelona's new number 10, with the club unveiling his jersey number at his renewal ceremony.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T16:43:00Z",
-      "url": "https://onefootball.com/en/news/its-official-lamine-yamal-is-barcelonas-new-number-10-41384008"
-    },
-    {
-      "id": 51,
-      "title": "What makes AI romance more addictive than real love?",
-      "summary": "The concept of romantic relationships with artificial intelligence has moved from science fiction into everyday reality as millions of people worldwide engage with AI companions designed to simulate emotional connections.",
-      "source": "Rolling Out",
-      "category": "applications",
-      "timestamp": "2025-07-16T16:19:43Z",
-      "url": "https://rollingout.com/2025/07/16/ai-romance-more-addictive-than-real-love/"
-    },
-    {
-      "id": 52,
-      "title": "T.D. Jakes Finally Breaks His Silence On The Reason Behind His Diddy ‘Freak-Off’ Smear Campaign",
-      "summary": "T.D. Jakes breaks his silence on the reason behind the smear campaign involving Diddy, setting the record straight.",
-      "source": "The Root",
-      "category": "ethics",
-      "timestamp": "2025-07-16T16:19:38Z",
-      "url": "https://www.theroot.com/t-d-jakes-finally-breaks-his-silence-on-the-reason-beh-2000050927"
-    },
-    {
-      "id": 53,
-      "title": "Trendyol, Baykar CEO, ADQ and Ant International to develop fintech platform in Turkey",
-      "summary": "Trendyol, Baykar CEO, ADQ and Ant International have agreed to develop a fintech platform in Turkey.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:18:59Z",
-      "url": "https://finance.yahoo.com/news/trendyol-baykar-ceo-adq-ant-161859272.html"
-    },
-    {
-      "id": 54,
-      "title": "Trendyol, Baykar CEO, ADQ and Ant International to develop fintech platform in Turkey",
-      "summary": "Trendyol, Baykar CEO, ADQ, and Ant International are collaborating to develop a fintech platform in Turkey, offering digital financial services.",
-      "source": "CNA",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:18:59Z",
-      "url": "https://www.channelnewsasia.com/business/trendyol-baykar-ceo-adq-and-ant-international-develop-fintech-platform-turkey-5241946"
-    },
-    {
-      "id": 55,
-      "title": "Trendyol, Baykar CEO, ADQ and Ant International to develop fintech platform in Turkey",
-      "summary": "Trendyol, Baykar CEO, ADQ and Ant International are collaborating to develop a fintech platform in Turkey, offering digital payments, loans, deposits, investments, and insurance pending regulatory approvals.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:18:33Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/trendyol-baykar-ceo-adq-and-ant-international-to-develop-fintech-platform-in-turkey/articleshow/122584299.cms"
-    },
-    {
-      "id": 56,
-      "title": "Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels",
-      "summary": "The Trump administration, energy executives, and tech barons are pushing to power AI with fossil fuels, sparking ethical concerns about sustainability and environmental impact.",
-      "source": "Wired",
-      "category": "ethics",
-      "timestamp": "2025-07-16T16:16:45Z",
-      "url": "https://www.wired.com/story/trump-energy-industry-ai-fossil-fuels-pittsburgh-summit/"
-    },
-    {
-      "id": 57,
-      "title": "Stellar | Welcoming Jason Karsh, Chief Marketing Officer at SDF",
-      "summary": "Stellar Development Foundation welcomes Jason Karsh as Chief Marketing Officer to navigate marketing challenges in the fast-paced and regulatory-shifting environment of the blockchain space.",
-      "source": "Stellar.org",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:16:40Z",
-      "url": "https://stellar.org/blog/foundation-news/welcoming-jason-karsh-chief-marketing-officer-at-sdf"
-    },
-    {
-      "id": 58,
-      "title": "Elevated Signals Launches New Planning & Scheduling Module to Drive Profitable, Scalable Production",
-      "summary": "Elevated Signals launches a new planning & scheduling module for manufacturers, providing a more efficient way to model production, prevent stock-outs, and improve team coordination.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-16T16:16:05Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/elevated-signals-launches-new-planning-scheduling-module-to-drive-profitable-scalable-production"
-    },
-    {
-      "id": 59,
-      "title": "Candy Crush studio hit by layoffs as AI takes over design and writing work",
-      "summary": "Candy Crush studio faces layoffs as AI tools developed by employees take over design and writing work, accelerating workflows.",
-      "source": "TechSpot",
-      "category": "applications",
-      "timestamp": "2025-07-16T16:16:00Z",
-      "url": "https://www.techspot.com/news/108684-candy-crush-studio-hit-layoffs-ai-takes-over.html"
-    },
-    {
-      "id": 60,
-      "title": "Top AI Researchers Concerned They’re Losing the Ability to Understand What They’ve Created",
-      "summary": "Top AI researchers from Google, OpenAI, DeepMind, and Meta are concerned about losing the ability to understand the AI systems they have created, leading to collaboration on a position paper to address this issue.",
-      "source": "Futurism",
-      "category": "research",
-      "timestamp": "2025-07-16T16:15:31Z",
-      "url": "https://futurism.com/top-ai-researchers-concerned"
-    },
-    {
-      "id": 61,
-      "title": "Lightchain AI Launches Bonus Round After Raising Over $21M Across 15 Presale Stages",
-      "summary": "Lightchain AI launches bonus round after raising over $21M across 15 presale stages, a blockchain infrastructure project powered by artificial intelligence.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116713/0/en/Lightchain-AI-Launches-Bonus-Round-After-Raising-Over-21M-Across-15-Presale-Stages.html"
-    },
-    {
-      "id": 62,
-      "title": "KGNCloud Launches New $100 Trial Mining Program, Expanding Access to Compliant Cloud Mining",
-      "summary": "KGNCloud launches a new $100 Trial Mining Program to expand access to compliant cloud mining.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116714/0/en/KGNCloud-Launches-New-100-Trial-Mining-Program-Expanding-Access-to-Compliant-Cloud-Mining.html"
-    },
-    {
-      "id": 63,
-      "title": "From aircraft and tech to energy: How Bahrain’s $17 billion infusion can supercharge the US economy and boost jobs; check details",
-      "summary": "Bahrain's Crown Prince is set to unveil a $17 billion investment plan in the US, including a $7 billion deal for aircraft. This investment has the potential to supercharge the US economy and create jobs.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-16T16:14:55Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/from-aircraft-and-tech-to-energy-how-bahrains-17-billion-infusion-can-supercharge-the-us-economy-and-boost-jobs-check-details/articleshow/122584050.cms"
-    },
-    {
-      "id": 64,
-      "title": "Insta360 now offers lens filters and a larger battery for its 360-degree action cam",
-      "summary": "Insta360 has introduced new accessories and a major firmware update for its X5 360-degree action camera, including lens filters and a larger battery. The update also includes a new AdaptiveTone feature for improved color and detail.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-16T16:14:38Z",
-      "url": "https://www.theverge.com/news/708272/insta360-x5-action-camera-lens-filters-firmware-update"
-    },
-    {
-      "id": 65,
-      "title": "WeTransfer Backtracks on AI File Training After Backlash: What You Need to Know",
-      "summary": "WeTransfer has backtracked on using AI to train on user files after facing backlash from users, prompting the company to update its policies.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-16T16:14:37Z",
-      "url": "https://www.cnet.com/tech/services-and-software/wetransfer-backtracks-on-ai-file-training-after-backlash-what-you-need-to-know/"
-    },
-    {
-      "id": 66,
-      "title": "Aviva leads the market in 2025 UK Commercial Insurance Broker Survey",
-      "summary": "Aviva leads the market in 2025 UK Commercial Insurance Broker Survey, praised for underwriting flexibility, digital capabilities and AI integration.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T16:13:52Z",
-      "url": "https://biztoc.com/x/9c073bcd0cb7c33e"
-    },
-    {
-      "id": 67,
-      "title": "These are the best states for workers in America in 2025",
-      "summary": "These are the best states for workers in America in 2025 - For all its perils, artificial intelligence appears to have helped alleviate a longstanding problem in American business.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-16T16:13:35Z",
-      "url": "https://biztoc.com/x/e40617e1071b3f31"
-    },
-    {
-      "id": 68,
-      "title": "Scale AI just laid off 14% of its workforce: read the full email the interim CEO just sent employees",
-      "summary": "Scale AI recently laid off 14% of its workforce, raising questions about its future following Meta's investment. Scale AI founder Alexandr Wang was seen at Allen and Co.'s Sun Valley conference last year.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-16T16:13:19Z",
-      "url": "https://biztoc.com/x/a6992bbefea17724"
-    },
-    {
-      "id": 69,
-      "title": "Southwest US's Alarming 'Megadrought' Could Last Until 2100",
-      "summary": "Parts of the United States may be in a drought that will last until the end of the century, according to a concerning new study.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-16T16:13:13Z",
-      "url": "https://biztoc.com/x/688b78e1f5cd906f"
     }
   ]
 }
