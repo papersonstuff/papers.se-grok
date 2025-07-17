@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-17T08:21:28.899Z",
+  "lastUpdate": "2025-07-17T08:50:23.743Z",
   "items": [
+    {
+      "id": 38,
+      "title": "Plaisiobots: The dream of three schoolgirls became a learning journey in California",
+      "summary": "Plaisio invests in the new generation by taking three schoolgirls on a unique learning journey in California through the robotics competition 'Plaisiobots: the Race'.",
+      "source": "Protothema.gr",
+      "category": "startups",
+      "timestamp": "2025-07-16T08:49:58Z",
+      "url": "https://en.protothema.gr/2025/07/16/plaisiobots-the-dream-of-three-schoolgirls-became-a-learning-journey-in-california/"
+    },
+    {
+      "id": 39,
+      "title": "Pentagon inks contracts for Musk's xAI, competitors",
+      "summary": "Pentagon signs contracts with AI firms including Elon Musk's xAI, which has faced criticism over anti-Semitic posts by its Grok chatbot.",
+      "source": "Spacewar.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T08:48:22Z",
+      "url": "https://www.spacewar.com/reports/Pentagon_inks_contracts_for_Musks_xAI_competitors_999.html"
+    },
+    {
+      "id": 40,
+      "title": "Grok 4 Review : Does Grok 4 Deserve a Spot In Your AI Stack?",
+      "summary": "Grok 4 is being evaluated as a potential addition to AI stacks, with features such as real-time data analysis, coding automation, and pitch refinement. The question remains whether it is truly innovative or just another overhyped tool in a crowded market.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:46:50Z",
+      "url": "https://www.geeky-gadgets.com/grok-4-ai-tool-review/"
+    },
+    {
+      "id": 41,
+      "title": "Nvidia's Huang Says 'Doing Our Best' To Serve Chinese Market",
+      "summary": "Nvidia's CEO states the company is working to serve the Chinese market for semiconductors after meeting with Beijing officials.",
+      "source": "International Business Times",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:45:19Z",
+      "url": "https://www.ibtimes.com/nvidias-huang-says-doing-our-best-serve-chinese-market-3778628"
+    },
+    {
+      "id": 42,
+      "title": "Coralogix MCP Server Offers Observability View Into AI Agents",
+      "summary": "Coralogix MCP Server offers observability view into AI agents, allowing third-party AI agents to connect directly to Coralogix's observability data services.",
+      "source": "DevOps.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T08:44:32Z",
+      "url": "https://devops.com/coralogix-mcp-server-offers-observability-view-into-ai-agents/"
+    },
+    {
+      "id": 43,
+      "title": " Classic elegance in Sevilla’s new away kit",
+      "summary": "Sevilla FC and adidas have unveiled the club’s new away kit for the 2025-26 season, featuring classic elegance with red and white accents.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:44:00Z",
+      "url": "https://onefootball.com/en/news/classic-elegance-in-sevillas-new-away-kit-41381680"
+    },
+    {
+      "id": 44,
+      "title": "Deepin: (中文) UOS AI 2.8 发布！三大智能体上线，UOS AI 随航深度进化",
+      "summary": "Deepin has released UOS AI 2.8, featuring three intelligent entities online. The UOS AI continues to evolve with advancements in artificial intelligence.",
+      "source": "Deepin.org",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:43:36Z",
+      "url": "https://www.deepin.org/en/uos-ai-2-8/"
+    },
+    {
+      "id": 45,
+      "title": "Cybersecurity executives love AI, cybersecurity analysts distrust it",
+      "summary": "Cybersecurity executives value AI while analysts are skeptical, indicating a discrepancy in expectations and reality.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-16T08:43:23Z",
+      "url": "https://www.techradar.com/pro/cybersecurity-executives-love-ai-cybersecurity-analysts-distrust-it"
+    },
+    {
+      "id": 46,
+      "title": "Google partners with Youngkin and offers AI training courses to Virginia job seekers",
+      "summary": "Google partners with Youngkin to offer AI training courses to Virginia job seekers as part of efforts to connect citizens to new job opportunities.",
+      "source": "Tech Xplore",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:43:10Z",
+      "url": "https://techxplore.com/news/2025-07-google-partners-youngkin-ai-courses.html"
+    },
+    {
+      "id": 47,
+      "title": "LG enters hybrid bonding tool race, challenging Samsung and Hanwha",
+      "summary": "LG Electronics is challenging Samsung and Hanwha in the high-end semiconductor equipment market by entering the hybrid bonding tool race, with a focus on producing next-generation high-bandwidth memory chips. This move is seen as a bold push by LG into the industry.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:42:14Z",
+      "url": "https://www.digitimes.com/news/a20250715PD205/lg-lg-electronics-samsung-hanwha-equipment.html"
+    },
+    {
+      "id": 48,
+      "title": "Honor launched Magic V5 in Singapore, pre-order at S$2199",
+      "summary": "Honor launched Magic V5 in Singapore, the world's slimmest foldable smartphone, available for pre-order at S$2199.",
+      "source": "Ocworkbench.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T08:41:10Z",
+      "url": "https://en.ocworkbench.com/honor-launched-magic-v5-in-singapore-pre-order-at-s2199/"
+    },
+    {
+      "id": 49,
+      "title": "Cerity Partners LLC Sells 74,507 Shares of RadNet, Inc. (NASDAQ:RDNT)",
+      "summary": "Cerity Partners LLC sold 74,507 shares of RadNet, Inc. in the first quarter, reducing its stake by 33.3% according to SEC disclosure.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:38:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/16/cerity-partners-llc-sells-74507-shares-of-radnet-inc-nasdaqrdnt/"
+    },
+    {
+      "id": 50,
+      "title": "gllm-agents-binary 0.2.25",
+      "summary": "gllm-agents-binary 0.2.25 is a library for managing agents in Gen AI applications.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-16T08:37:47Z",
+      "url": "https://pypi.org/project/gllm-agents-binary/0.2.25/"
+    },
+    {
+      "id": 51,
+      "title": "Notice of Change to Enhance the Organizational Participation in the Medical Scientist Training Program",
+      "summary": "Notice of Change to Enhance the Organizational Participation in the Medical Scientist Training Program aims to improve participation in the program by implementing changes. NIGMS is seeking to enhance organizational involvement in the training program.",
+      "source": "National Institutes of Health",
+      "category": "research",
+      "timestamp": "2025-07-16T08:37:38Z",
+      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-25-024.html"
+    },
+    {
+      "id": 52,
+      "title": "Hotel Guests Want Smart TVs and Good Hotel Mobile App, J.D. Power Finds",
+      "summary": "Hotel guests in all segments, from economy to luxury, feel they are getting better value for their money despite record-high average daily rates in 2024",
+      "source": "Hospitality Net",
+      "category": "economy",
+      "timestamp": "2025-07-16T08:37:11Z",
+      "url": "https://www.hospitalitynet.org/news/4128181.html"
+    },
     {
       "id": 27,
       "title": "Top AI talent attracted not just by paycheques: Meta CEO Mark Zuckerberg",
@@ -315,24 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-15T22:43:00Z",
       "url": "https://www.r-bloggers.com/2025/07/repost-tidy-rag-in-r-with-ragnar/"
-    },
-    {
-      "id": 9,
-      "title": "Strikes World’s Largest Hydropower Deal to Fuel Its AI Expansion",
-      "summary": "Strikes World’s Largest Hydropower Deal to Fuel Its AI Expansion - An error has occurred Your request was blocked by Link11 Web Application Security. If you believe this is the result of an error, contact the administrator of www.tipranks.com If you believe this is the result of an error, contact the administrator of www.ti…",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-15T22:37:47Z",
-      "url": "https://biztoc.com/x/fbfb31c53c1c7c22"
-    },
-    {
-      "id": 10,
-      "title": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunch",
-      "summary": "The Chainsmokers' Mantis Ventures has closed a $100M third fund for investing in startups.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-15T22:37:33Z",
-      "url": "https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/"
     }
   ]
 }
