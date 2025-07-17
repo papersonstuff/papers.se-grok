@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-17T15:17:37.995Z",
+  "lastUpdate": "2025-07-17T15:44:27.988Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sidetrade: 2025 H1 revenue, up 19% at constant exchange rates",
+      "summary": "Sidetrade reports a 19% increase in revenue in the first half of 2025 despite economic headwinds, with a decrease in Annual Contract Value of new deals compared to the previous year.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:43:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116683/0/en/Sidetrade-2025-H1-revenue-up-19-at-constant-exchange-rates.html"
+    },
+    {
+      "id": 52,
+      "title": "Chandrababu Naidu Unveils $2.4-Trillion Vision For 2047",
+      "summary": "Andhra Pradesh unveils $2.4 trillion vision for 2047, aiming to grow the state's economy significantly by that year.",
+      "source": "Ndtvprofit.com",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:42:51Z",
+      "url": "https://www.ndtvprofit.com/economy-finance/swarna-andhra-pradesh-chandrababu-naidu-unveils-usd-24-trillion-vision-for-2047"
+    },
+    {
+      "id": 53,
+      "title": "Pixel Watch 4 specs leak reveals new co-processor, battery life boost",
+      "summary": "Specs for the upcoming Pixel Watch 4 have leaked, revealing a new co-processor and improved battery life. The leaks suggest significant upgrades for this year's wearables.",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:42:49Z",
+      "url": "http://9to5google.com/2025/07/16/pixel-watch-4-specs-leak/"
+    },
+    {
+      "id": 54,
+      "title": "Sony's 61MP RX1R III Compact Camera Returns After A Decade With Big Upgrades",
+      "summary": "Sony's 61MP RX1R III Compact Camera makes a return after a decade with major upgrades, including a new sensor, AI autofocus, and the latest features.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:42:00Z",
+      "url": "https://hothardware.com/news/sonys-61mp-rx1r-iii-compact-camera-returns-after-a-decade"
+    },
+    {
+      "id": 55,
+      "title": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunch",
+      "summary": "Former Waymo engineers have founded Bedrock Robotics with $80 million in funding to automate construction processes.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:41:43Z",
+      "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
+    },
+    {
+      "id": 56,
+      "title": "Washington clears AMD to resume shipments of advanced AI chips to China",
+      "summary": "Washington clears AMD to resume shipments of advanced AI chips to China, allowing access to China's AI market and potentially boosting both vendors' revenue.",
+      "source": "Notebookcheck.net",
+      "category": "economy",
+      "timestamp": "2025-07-16T15:41:00Z",
+      "url": "https://www.notebookcheck.net/Washington-clears-AMD-to-resume-shipments-of-advanced-AI-chips-to-China.1059400.0.html"
+    },
+    {
+      "id": 57,
+      "title": "Pluto Labs' 'Strategic Efficiency' AI Outperforms Google & Anthropic Models at a Fraction of the Cost",
+      "summary": "Pluto Labs' 'Strategic Efficiency' AI Outperforms Google & Anthropic Models at a Fraction of the Cost in the race to create an 'AI Scientist' capable of independent scientific discovery, making significant waves as a Korean startup.",
+      "source": "Vmblog.com",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:40:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/pluto-labs-strategic-efficiency-ai-outperforms-google-anthropic-models-at-a-fraction-of-the-cost.aspx"
+    },
+    {
+      "id": 58,
+      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
+      "summary": "CEO of $14 billion AI firm Perplexity believes success lies in 'sleeping with that fear' of competitors stealing ideas, using pressure as fuel.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:39:55Z",
+      "url": "https://fortune.com/2025/07/16/perplexity-cofounder-ceo-aravind-srinivas-secret-success-embracing-fear-competitor-steal-idea-ai/"
+    },
+    {
+      "id": 59,
+      "title": "CEO of $14 billion AI firm Perplexity says the secret to success is ‘sleeping with that fear’ that your competitor will steal your idea",
+      "summary": "CEO of $14 billion AI firm Perplexity emphasizes the importance of using the fear of competitors stealing your idea as motivation rather than letting it paralyze you.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-16T15:39:55Z",
+      "url": "https://finance.yahoo.com/news/ceo-14-billion-ai-firm-153955497.html"
+    },
+    {
+      "id": 60,
+      "title": "FBI Warns Parents Across America of Sinister Group Targeting Minors",
+      "summary": "FBI warns parents of sinister online group targeting minors through AI-generated voice",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:39:49Z",
+      "url": "https://biztoc.com/x/baf7802b1b796c64"
+    },
+    {
+      "id": 61,
+      "title": "Pastor Fired from Job After Ignoring Chosen Pronoun",
+      "summary": "A Louisiana pastor was fired from his job at a local library for refusing to use a co-worker's preferred pronouns, sparking a debate on ethics and inclusivity in the workplace.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:39:46Z",
+      "url": "https://biztoc.com/x/135ddf0a71cfc075"
+    },
+    {
+      "id": 62,
+      "title": "Fortnite's Speedy New Game Mode is Giving Players a Free Item if You Log in Now",
+      "summary": "Fortnite's new limited game mode offers an incentive for players to log in, using AI-generated voice. The v36.20 update was released after downtime.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:39:43Z",
+      "url": "https://biztoc.com/x/39fa889f25fbbfa4"
+    },
+    {
+      "id": 63,
+      "title": "Warning Issued As Hundreds of Thousands Told to Stay Out of the Water",
+      "summary": "More than 270,000 people in three states were warned to stay out of Lake Superior's waters due to dangerous conditions, with the warning being generated by an AI voice. National Weather Service lead meteorologist mentioned the inconsistencies that may occur with AI-generated messages.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:39:25Z",
+      "url": "https://biztoc.com/x/7abc8877b7863131"
+    },
+    {
+      "id": 64,
+      "title": "Tesla Flaunts Fiduciary Rules — And Its Workforce Is Fleeing",
+      "summary": "Tesla is being criticized for flouting fiduciary rules, leading to an exodus of its workforce. Senator Elizabeth Warren has raised concerns about the company's duties towards its workers and shareholders.",
+      "source": "CleanTechnica",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:39:08Z",
+      "url": "https://cleantechnica.com/2025/07/16/tesla-flaunts-fiduciary-rules-and-its-workforce-is-fleeing/"
+    },
+    {
+      "id": 65,
+      "title": "MAGA's Epstein Files Fight Shows the Long Tail of QAnon",
+      "summary": "The MAGA's fight to keep the Epstein files hidden highlights the use of the case as a political tool, similar to the broader sex trafficking panic. This raises ethical questions about the manipulation of sensitive issues for political gain.",
+      "source": "Reason",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:38:06Z",
+      "url": "https://reason.com/2025/07/16/magas-epstein-files-fight-shows-the-long-tail-of-qanon/"
+    },
+    {
+      "id": 66,
+      "title": "Google plugs AI into nuclear reactor biz – what could possibly go wrong?",
+      "summary": "Google and Westinghouse Electric are utilizing AI to speed up the construction of nuclear plants and ensure grid stability.",
+      "source": "Theregister.com",
+      "category": "applications",
+      "timestamp": "2025-07-16T15:37:52Z",
+      "url": "https://www.theregister.com/2025/07/16/google_westinghouse_ai_nuclear/"
+    },
+    {
+      "id": 67,
+      "title": "So Now You’re Just Going To Bribe Me For Reviews?",
+      "summary": "Companies are beginning to bribe individuals for reviews in order to increase their visibility in AI Overviews, raising ethical concerns.",
+      "source": "Seo-theory.com",
+      "category": "ethics",
+      "timestamp": "2025-07-16T15:36:38Z",
+      "url": "https://www.seo-theory.com/so-now-youre-just-going-to-bribe-me-for-reviews/"
+    },
+    {
+      "id": 68,
+      "title": "ISC2 Research Reveals Cybersecurity Teams Are Taking a Cautious Approach to AI Adoption",
+      "summary": "ISC2 published its 2025 AI Adoption Pulse Survey to measure cybersecurity teams' cautious approach to adopting AI security tools.",
+      "source": "Vmblog.com",
+      "category": "research",
+      "timestamp": "2025-07-16T15:36:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/16/isc2-research-reveals-cybersecurity-teams-are-taking-a-cautious-approach-to-ai-adoption.aspx"
+    },
+    {
+      "id": 69,
+      "title": "Disney Imagineering Moves the AI Bar by Encouraging BDX Droids ‘to Emote,’ Telling Them ‘You Are Smart’",
+      "summary": "Disney Imagineering is pushing the boundaries of AI by encouraging BDX droids to 'emote' and telling them 'You are smart'. Walt Disney created Imagineering as a place for inventors, engineers, and designers to innovate using the latest technology for Disney properties worldwide.",
+      "source": "Variety",
+      "category": "innovation",
+      "timestamp": "2025-07-16T15:35:00Z",
+      "url": "https://variety.com/2025/biz/news/disney-imagineering-ai-droids-learning-1236460286/"
+    },
+    {
+      "id": 70,
+      "title": "Why haven't we auto-translated all AI alignment content?",
+      "summary": "Gemini 2.5 Pro is a pretty good translator for auto-translating AI alignment content, but it has limitations such as being overly literal and occasionally failing to translate certain words.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-16T15:33:30Z",
+      "url": "https://www.lesswrong.com/posts/a7QEmdiqdi37PetjY/why-haven-t-we-auto-translated-all-ai-alignment-content"
+    },
     {
       "id": 51,
       "title": "FDA Issues Risk Warning for Potato Chips Recall",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-16T14:43:40Z",
       "url": "https://biztoc.com/x/71fde655e98dc727"
-    },
-    {
-      "id": 62,
-      "title": "West Coast May Get Tallest Skyscraper Yet As Record-Breaking Tower Proposed",
-      "summary": "A proposed record-breaking 1,225 foot-high tower in San Francisco may become the tallest building on the West Coast, featuring 1.6 million square feet of office space.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:43:39Z",
-      "url": "https://biztoc.com/x/c75ab018c29c5fc7"
-    },
-    {
-      "id": 63,
-      "title": "Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown",
-      "summary": "Rex Salisbury’s Cambrian Ventures raises new fund for fintech startups, with $20 million second fund continuing focus on this sector.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-16T14:43:29Z",
-      "url": "https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/"
-    },
-    {
-      "id": 64,
-      "title": "Ixigo’s AI Mindset: Use Tech Instead of ‘Just Hiring More People’",
-      "summary": "Ixigo is focusing on using AI technology instead of hiring more people, showcasing the trend of CEOs prioritizing the use and benefits of AI over traditional metrics.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:43:01Z",
-      "url": "https://finance.yahoo.com/news/ixigo-ai-mindset-tech-instead-144301679.html"
-    },
-    {
-      "id": 65,
-      "title": "Ixigo’s AI Mindset: Use Tech Instead of ‘Just Hiring More People’",
-      "summary": "Ixigo's AI mindset involves using technology instead of hiring more people, with CEOs focusing on demonstrating how AI is being used and its impact on business over traditional metrics like sales and earnings.",
-      "source": "Skift",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:43:01Z",
-      "url": "http://skift.com/2025/07/16/ixigos-ai-mindset-use-tech-instead-of-just-hiring-more-people/"
-    },
-    {
-      "id": 66,
-      "title": "Bruce Mansfield Power Plant to Be Converted to Run on Gas",
-      "summary": "The Bruce Mansfield Power Plant is set to be converted to run on gas in order to power a new data center and the PJM interconnection region.",
-      "source": "Rigzone",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:42:48Z",
-      "url": "https://www.rigzone.com/news/bruce_mansfield_power_plant_to_be_converted_to_run_on_gas-16-jul-2025-181166-article/"
-    },
-    {
-      "id": 67,
-      "title": "5 ChatGPT Prompts To Launch A $3,000/Month Side Hustle",
-      "summary": "Use ChatGPT prompts to start a $3,000/month side hustle by finding your niche, validating demand, creating content, and scaling faster with AI-driven strategies.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-16T14:42:45Z",
-      "url": "https://www.forbes.com/sites/sarahhernholm/2025/07/16/5-chatgpt-prompts-to-launch-a-3000month-side-hustle/"
-    },
-    {
-      "id": 68,
-      "title": "AI Adoption Is Growing Fast Among Construction and Design Pros (19 photos)",
-      "summary": "AI adoption is growing fast among construction and design professionals, as revealed by the 2025 U.S. Houzz State of AI in Construction and Design report. The technology is reshaping industries worldwide and providing new insights for professionals in these fields.",
-      "source": "Houzz.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:41:55Z",
-      "url": "https://www.houzz.com/magazine/ai-adoption-is-growing-fast-among-construction-and-design-pros-stsetivw-vs~182137291"
-    },
-    {
-      "id": 51,
-      "title": "Meta Snags Two Key OpenAI Researchers In Latest Talent Grab, Continuing Its Streak Of Poaching Top Minds For Superintelligence Ambitions",
-      "summary": "Meta Snags Two Key OpenAI Researchers In Latest Talent Grab, Continuing Its Streak Of Poaching Top Minds For Superintelligence Ambitions - There is no doubt that the AI sector seems to be seeing intense competition with companies aggressively working to establish themselves as leading the trend or advancing further in the technology. OpenAI has an ambitious approach to artificial intelligence an…",
-      "source": "Wccftech",
-      "category": "research",
-      "timestamp": "2025-07-16T14:40:05Z",
-      "url": "https://wccftech.com/meta-snags-two-key-openai-researchers-in-latest-talent-grab-continuing-its-streak-of-poaching-top-minds-for-superintelligence-ambitions/"
-    },
-    {
-      "id": 52,
-      "title": "One Man’s Fight Against His Diabetes Destiny",
-      "summary": "One man investigates whether science can help change his fate after his father developed diabetes.",
-      "source": "menshealth.com",
-      "category": "research",
-      "timestamp": "2025-07-16T14:40:00Z",
-      "url": "https://www.menshealth.com/health/a65425578/diabetes-prevention-family-history/"
-    },
-    {
-      "id": 53,
-      "title": "Our Minds Have Been Colonized: Ari Aster on “Eddington”",
-      "summary": "Director discusses the impact of doomscrolling in our lives post-2020 and explores the connection between music and violence in his work.",
-      "source": "Rogerebert.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T14:39:12Z",
-      "url": "https://www.rogerebert.com/interviews/ari-aster-eddington-interview"
-    },
-    {
-      "id": 54,
-      "title": "Tracks",
-      "summary": "Bob Ladd commented on the concept of 'track' in a conference announcement, questioning if it is a tech or AI-related term. The comment reflects curiosity about new developments and trends in the field.",
-      "source": "Upenn.edu",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:38:58Z",
-      "url": "https://languagelog.ldc.upenn.edu/nll/?p=70048"
-    },
-    {
-      "id": 55,
-      "title": "Google’s AI can now make phone calls for you",
-      "summary": "Google’s AI can now make phone calls for you - Google will now let everyone in the US call local businesses using AI. The feature, which is now available in Search, allows you to use AI for pricing or availability information without having to talk on the phone.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:37:49Z",
-      "url": "https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade"
-    },
-    {
-      "id": 56,
-      "title": "With all eyes on Apple’s next earnings report, one research firm calls on Tim Cook to step aside",
-      "summary": "Research firm urges Tim Cook to step aside as Apple's stock is down 16% year to date.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:37:47Z",
-      "url": "https://fortune.com/2025/07/16/apple-tim-cook-leadership-shakeup-ai-analyst-note/"
-    },
-    {
-      "id": 57,
-      "title": "Final Epic Games Store free game for July 2025 revealed ahead of official announcement",
-      "summary": "Final Epic Games Store free game for July 2025 will be Legion TD 2, worth $24.99, as confirmed by a credible leaker ahead of official announcement.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-16T14:37:00Z",
-      "url": "https://www.notebookcheck.net/Final-Epic-Games-Store-free-game-for-July-2025-revealed-ahead-of-official-announcement.1059655.0.html"
-    },
-    {
-      "id": 58,
-      "title": "Synthetic Darwin and Star26 Capital Partner to Advance Defense AI",
-      "summary": "Synthetic Darwin and Star26 Capital have partnered to deploy self-evolving AI across defense tech startups, enabling rapid, secure innovation via the $DARWIN-powered Darwinslab Ecosystem.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-16T14:37:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116612/0/en/Synthetic-Darwin-and-Star26-Capital-Partner-to-Advance-Defense-AI.html"
-    },
-    {
-      "id": 59,
-      "title": "Elon Musk: World's richest man a year after endorsing Trump",
-      "summary": "Elon Musk, the world's richest man, initially endorsed Donald Trump's campaign and maintained a significant impact on politics despite their falling out.",
-      "source": "DW (English)",
-      "category": "economy",
-      "timestamp": "2025-07-16T14:35:00Z",
-      "url": "https://www.dw.com/en/elon-musk-supports-trump-2025-election/a-70724719"
-    },
-    {
-      "id": 60,
-      "title": "AMD Unveils Ryzen AI 5 330 To Fuel Cheaper Copilot+ Laptops",
-      "summary": "AMD is expanding its Ryzen AI 300 series lineup of mobile processors with the addition of the entry-level model Ryzen AI 5 330, aimed at fueling cheaper Copilot+ laptops.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:35:00Z",
-      "url": "https://hothardware.com/news/amd-unveils-ryzen-ai-5-330-cheaper-copilot-laptops"
-    },
-    {
-      "id": 61,
-      "title": "Why JanSport revived its cringeworthy back-to-school ads to reach Gen Z",
-      "summary": "JanSport revived its cringeworthy back-to-school ads to reach Gen Z, with a TikTok-focused effort returning for a second year after leading to the brand’s highest grossing sales day in history.",
-      "source": "Marketing Dive",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:34:00Z",
-      "url": "https://www.marketingdive.com/news/why-jansport-revived-its-cringeworthy-back-to-school-ads-to-reach-gen-z/752901/"
-    },
-    {
-      "id": 62,
-      "title": "Two new ASUS ExpertBook P3 laptops: gentle AI features, paired with military-grade toughness",
-      "summary": "Two new ASUS ExpertBook P3 laptops, P3405 and P3605, showcase gentle AI features and military-grade toughness.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:33:35Z",
-      "url": "https://www.phonearena.com/news/two-new-asus-expertbook-p3-laptops_id172315"
-    },
-    {
-      "id": 63,
-      "title": "Technical Debt Must be Tackled, but Cloud & AI Bring their Own BCP Challenges, Says Parkview Health CISO",
-      "summary": "Technical Debt Must be Tackled, but Cloud & AI Bring their Own BCP Challenges, Says Parkview Health CISO - As health systems intensify efforts to modernize infrastructure, the risks associated with technical debt, fragmented applications, and over reliance on cloud and AI tools are becoming more pronounced.",
-      "source": "Healthsystemcio.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T14:33:26Z",
-      "url": "https://healthsystemcio.com/2025/07/16/technical-debt-must-be-tackled-but-cloud-ai-bring-their-own-bcp-challenges-says-parkview-health-ciso/"
     }
   ]
 }
