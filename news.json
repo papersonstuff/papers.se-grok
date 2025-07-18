@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T21:15:21.835Z",
+  "lastUpdate": "2025-07-18T21:33:38.265Z",
   "items": [
+    {
+      "id": 51,
+      "title": "coppersun-brass 2.3.12",
+      "summary": "Coppersun-brass 2.3.12 is a development intelligence tool for AI agents in the Copper Sun product line, aimed at improving AI capabilities and performance.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:32:16Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.12/"
+    },
+    {
+      "id": 52,
+      "title": "Last of a kind",
+      "summary": "Last of a kind - One of the architects of the championship era has passed.",
+      "source": "McCovey Chronicles",
+      "category": "research",
+      "timestamp": "2025-07-17T21:30:36Z",
+      "url": "https://www.mccoveychronicles.com/2025/7/17/24469556/last-of-a-kind-san-francisco-giants-bill-neukom-passes-away"
+    },
+    {
+      "id": 53,
+      "title": "Higher Education Marketing Software",
+      "summary": "Higher Education Marketing Software can help institutions get to know students and supporters better, allowing them to optimize their impact.",
+      "source": "Salesforce.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:29:45Z",
+      "url": "https://www.salesforce.com/eu/education/marketing-software/"
+    },
+    {
+      "id": 54,
+      "title": "Road-map to Getting Your Company Listed in ChatGPT",
+      "summary": "Road-map to Getting Your Company Listed in ChatGPT - Five pit-stop tactics, five specialist copilots, and one very long stretch of digital highway Prologue – The Sign on the...",
+      "source": "Contently.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T21:28:29Z",
+      "url": "https://contently.com/2025/07/17/road-map-to-getting-your-company-listed-in-chatgpt/"
+    },
+    {
+      "id": 55,
+      "title": "Here are 5 good *current* Microsoft products that have become stagnant — or worse — abandoned",
+      "summary": "Here are 5 current Microsoft products that have become stagnant or abandoned, signaling they may not be long for this world due to lack of updates.",
+      "source": "Windows Central",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:28:00Z",
+      "url": "https://www.windowscentral.com/microsoft/here-are-5-good-current-microsoft-products-that-have-become-stagnant-or-worse-abandoned"
+    },
+    {
+      "id": 56,
+      "title": "AWS previews AgentCore to jumpstart enterprise AI agents",
+      "summary": "AWS previews AgentCore on Amazon Bedrock to help organizations put AI agents into business-ready production.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:27:41Z",
+      "url": "https://www.theregister.com/2025/07/17/aws_agentcore_ai/"
+    },
+    {
+      "id": 57,
+      "title": "Show HN: I built a context-engineering CLI/MCP tool",
+      "summary": "Show HN: Developer creates a context-engineering CLI/MCP tool called context-llemur (ctx) to streamline explanations and track context",
+      "source": "Github.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:27:35Z",
+      "url": "https://github.com/jerpint/context-llemur"
+    },
+    {
+      "id": 58,
+      "title": "America needs more electricity. Trump has the worst idea for how to fix that.",
+      "summary": "More demand for power from large computing facilities, including AI, could lead to higher prices for consumers unless the U.S. generates more energy.",
+      "source": "MSNBC",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:27:04Z",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-energy-summit-pennsylvania-china-rcna219338"
+    },
+    {
+      "id": 59,
+      "title": "Bone Dry Roofing to host pet adoption event in Indianapolis",
+      "summary": "Bone Dry Roofing is partnering with Indianapolis Animal Care Services to host a pet adoption event in Indianapolis with waived adoption fees for cats and dogs.",
+      "source": "WISHTV.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:22:03Z",
+      "url": "https://www.wishtv.com/news/business/bone-dry-roofing-to-host-pet-adoption-event-in-indianapolis/"
+    },
+    {
+      "id": 60,
+      "title": "Consumers Are Focused on AI-Powered and Value Spending, While Retailers Face Supply Chain Challenges for the Second Half of 2025",
+      "summary": "Consumers are focused on AI-powered and value spending, while retailers face supply chain challenges for the second half of 2025. Listrak's H2 2025 retail trends highlight AI-powered shopping, value-driven spending, supply chain shifts and strategies for fashion and beauty brands.",
+      "source": "WWD",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:21:43Z",
+      "url": "http://wwd.com/business-news/business-features/listrak-retail-trends-2025-ai-value-spending-supply-chain-1237985524/"
+    },
+    {
+      "id": 61,
+      "title": "7-Eleven’s New Delivery Robots Are Using Public Transportation in China",
+      "summary": "7-Eleven in China is utilizing delivery robots to transport goods using public transportation, showcasing the growing trend of automation in reshaping retail logistics.",
+      "source": "Mental Floss",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:21:31Z",
+      "url": "https://www.mentalfloss.com/technology/robots/7-eleven-delivery-robots-use-subway-in-china"
+    },
+    {
+      "id": 62,
+      "title": "Talen to Buy Two US Gas-Fired Power Plants for $3.8 Billion",
+      "summary": "Talen Energy Corp. is acquiring two US power plants for $3.8 billion to meet the increasing demand for AI-related power.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:20:32Z",
+      "url": "https://financialpost.com/pmn/business-pmn/talen-to-buy-two-us-gas-fired-power-plants-for-3-8-billion"
+    },
+    {
+      "id": 63,
+      "title": "Show HN: TrueSift – AI-Powered Real-Time Fact-Checking Chrome Extension",
+      "summary": "TrueSift is an AI-powered Chrome extension that helps verify the accuracy of online content in real time by analyzing text on any page and highlighting questionable claims.",
+      "source": "Truesift.dev",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:15:34Z",
+      "url": "https://www.truesift.dev/"
+    },
+    {
+      "id": 64,
+      "title": "Norfolk Southern gains after WSJ reports Union Pacific explores acquisition deal",
+      "summary": "Norfolk Southern stock rose after reports of Union Pacific exploring an acquisition deal.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:15:30Z",
+      "url": "https://finance.yahoo.com/news/norfolk-southern-gains-wsj-reports-211530843.html"
+    },
+    {
+      "id": 65,
+      "title": "Uber to deploy 20,000 autonomous taxis in partnership with Lucid and Nuro",
+      "summary": "Uber plans to deploy 20,000 autonomous taxis through partnerships with Lucid and Nuro, advancing innovation in the transportation industry.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:15:14Z",
+      "url": "https://siliconangle.com/2025/07/17/uber-deploy-20000-autonomous-taxis-partnership-lucid-nuro/"
+    },
+    {
+      "id": 66,
+      "title": "bioguider 0.2.7",
+      "summary": "Bioguider 0.2.7 is an AI-powered package designed to assist biomedical developers in creating clear documentation.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:15:03Z",
+      "url": "https://pypi.org/project/bioguider/0.2.7/"
+    },
     {
       "id": 51,
       "title": "AI-Powered Smart Devices Help Older Adults Age at Home, Survey Finds",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T20:45:00Z",
       "url": "http://deadline.com/2025/07/culture-critics-endangered-species-1236461466/"
-    },
-    {
-      "id": 65,
-      "title": "sd-kimi-code added to PyPI",
-      "summary": "sd-kimi-code, an open-source terminal agent powered by Kimi AI, has been added to PyPI. It serves as an interactive coding assistant with a beautiful CLI, inspired by Claude-Code.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T20:43:41Z",
-      "url": "https://pypi.org/project/sd-kimi-code/"
-    },
-    {
-      "id": 66,
-      "title": "Global startups, synthetic data and AI agents: Inside DataMasque’s mission to unlock enterprise data",
-      "summary": "Global startup DataMasque aims to unlock enterprise data using synthetic data and AI agents, addressing the challenges faced by regulated industries in utilizing customer data safely amidst AI innovation acceleration.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-17T20:43:04Z",
-      "url": "https://siliconangle.com/2025/07/17/synthetic-data-ai-agents-unlock-customer-data-aicloudleaders/"
-    },
-    {
-      "id": 51,
-      "title": "PLTR: Palantir Soars to All-Time High on AI Momentum",
-      "summary": "Palantir's stock reaches an all-time high due to momentum in artificial intelligence, showing positive investor sentiment before their earnings report.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:42:05Z",
-      "url": "https://finance.yahoo.com/news/pltr-palantir-soars-time-high-204205221.html"
-    },
-    {
-      "id": 52,
-      "title": "HP OmniBook X Flip 2-in-1 Laptop: 16\" 1200p IPS Touch, Ryzen AI 5 340, 16GB RAM $530 + Free Shipping",
-      "summary": "HP OmniBook X Flip 2-in-1 Laptop with 16\" 1200p IPS touch display, Ryzen AI 5 340 processor, and 16GB RAM is available for $530 with free shipping. The laptop features AMD FreeSync technology and a 360-degree multitouch-enabled IPS display.",
-      "source": "Slickdeals.net",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:41:59Z",
-      "url": "https://slickdeals.net/f/18460969-hp-omnibook-x-flip-2-in-1-laptop-16-1200p-ips-touch-ryzen-ai-5-340-16gb-ram-530-free-shipping"
-    },
-    {
-      "id": 53,
-      "title": "Man Arrested for Threatening to Kill Marjorie Taylor Greene: Prosecutors",
-      "summary": "A Maryland man was arrested for making death threats against Republican Rep. Marjorie Taylor Greene and her family. The threats were allegedly AI-generated, raising ethical concerns about the use of technology for criminal activities.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T20:38:55Z",
-      "url": "https://biztoc.com/x/6d601383277aa20c"
-    },
-    {
-      "id": 54,
-      "title": "What do tickets cost to see Coldplay at Camp Randall Stadium in Wisconsin?",
-      "summary": "Tickets to see Coldplay at Camp Randall Stadium in Wisconsin on July 19 are priced at an undisclosed cost.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:37:03Z",
-      "url": "https://nypost.com/2025/07/17/ticket-sales/coldplay-camp-randall-stadium-madison-wisconsin-ticket-prices/"
-    },
-    {
-      "id": 55,
-      "title": "Will Delta Airlines’ AI Pricing Trigger A Customer Trust Crisis?",
-      "summary": "Delta Airlines is using AI to create personalized prices for flight searches, which may lead to a trust crisis if pricing is not transparent.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-17T20:36:24Z",
-      "url": "https://www.forbes.com/sites/rogerdooley/2025/07/17/will-delta-airlines-ai-pricing-trigger-a-customer-trust-crisis/"
-    },
-    {
-      "id": 56,
-      "title": "Immersive Virtual Reality Concerts - IMMERSION VR Concert Film Brings Fans Virtually on Stage (TrendHunter.com)",
-      "summary": "IMMERSION VR concert film brings fans virtually on stage at scale, allowing users to experience virtual reality concerts from the perspective of being on stage.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:36:05Z",
-      "url": "https://www.trendhunter.com/trends/immersion-vr"
-    },
-    {
-      "id": 57,
-      "title": "News 7/18/25",
-      "summary": "A Senate investigation finds that direct-to-consumer telehealth platforms",
-      "source": "Histalk2.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T20:34:50Z",
-      "url": "https://histalk2.com/2025/07/17/news-7-18-25/"
-    },
-    {
-      "id": 58,
-      "title": "Valve boss Gabe Newell shares his \"daily routine,\" which is shockingly like his Steam God persona: \"I get up, I work, I go scuba diving, work some more\" then \"go on a second scuba dive or I go to the gym\"",
-      "summary": "Valve boss Gabe Newell shares his daily routine which involves working seven days a week and engaging in activities like scuba diving and going to the gym.",
-      "source": "GamesRadar+",
-      "category": "innovation",
-      "timestamp": "2025-07-17T20:33:32Z",
-      "url": "https://www.gamesradar.com/games/valve-boss-gabe-newell-shares-his-daily-routine-which-is-shockingly-like-his-steam-god-persona-i-get-up-i-work-i-go-scuba-diving-work-some-more-then-go-on-a-second-scuba-dive-or-i-go-to-the-gym/"
-    },
-    {
-      "id": 59,
-      "title": "AppsFlyer launches AI-powered MCP to streamline marketing data access",
-      "summary": "AppsFlyer introduces an AI-powered Model Context Protocol tool to streamline marketing data access and campaign optimization through natural language queries.",
-      "source": "Ppc.land",
-      "category": "innovation",
-      "timestamp": "2025-07-17T20:32:55Z",
-      "url": "https://ppc.land/appsflyer-launches-ai-powered-mcp-to-streamline-marketing-data-access/"
-    },
-    {
-      "id": 60,
-      "title": "S&P 500 Hits New Record as PepsiCo, Tech Stocks Rally",
-      "summary": "S&P 500 Hits New Record as PepsiCo, Tech Stocks Rally on better-than-expected updates on the economy.",
-      "source": "Newser",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:32:47Z",
-      "url": "https://www.newser.com/story/372071/sp-500-hits-new-record-as-pepsico-tech-stocks-rally.html"
-    },
-    {
-      "id": 61,
-      "title": "Oblivion Remastered and Metal Gear Solid Delta co-developer Virtuos faces layoffs — with 270 workers cut",
-      "summary": "Virtuos, a company that's worked on games like The Elder Scrolls 4: Oblivion Remastered and Metal Gear Solid Delta: Snake Eater, faces layoffs with 270 workers cut.",
-      "source": "Windows Central",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:30:00Z",
-      "url": "https://www.windowscentral.com/gaming/oblivion-remastered-mgs-delta-co-developer-virtuos-layoffs"
-    },
-    {
-      "id": 62,
-      "title": "Show HN: 1.5B LLM routing model that aligns to preferences, not leaderboards",
-      "summary": "The team behind Arch has released a 1.5B LLM router model called Arch-Router designed to align to user-defined preferences, not leaderboards.",
-      "source": "Huggingface.co",
-      "category": "research",
-      "timestamp": "2025-07-17T20:29:12Z",
-      "url": "https://huggingface.co/katanemo/Arch-Router-1.5B"
-    },
-    {
-      "id": 63,
-      "title": "Musk leans into raunchy Grok 'companions,' teasing new '50 Shades' inspired bot",
-      "summary": "Elon Musk's xAI is leaning into its over-the-top AI 'companions,' teasing new '50 Shades' inspired bot.",
-      "source": "NBC News",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:29:05Z",
-      "url": "https://www.nbcnews.com/tech/tech-news/musk-leans-raunchy-grok-companions-teases-valentine-bot-rcna219430"
-    },
-    {
-      "id": 64,
-      "title": "Mike Johnson Reacts to Republican Blowback Over Jeffrey Epstein",
-      "summary": "Republican House Speaker Mike Johnson responds to blowback over Jeffrey Epstein, raising questions about ethics in politics.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T20:28:07Z",
-      "url": "https://biztoc.com/x/99bf65862fd716ac"
     }
   ]
 }
