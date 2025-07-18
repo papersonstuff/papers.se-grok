@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-18T16:25:31.611Z",
+  "lastUpdate": "2025-07-18T16:51:56.984Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Mobile Racing Game by ALIyerEdon",
+      "summary": "Mobile racing game by ALIyerEdon includes 5 cars and 3 levels with AAA graphics, optimized for mobile platforms with features like Realtime Reflections for Mobile.",
+      "source": "Unity.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:51:11Z",
+      "url": "https://assetstore.unity.com/packages/templates/packs/mobile-racing-game-325334"
+    },
+    {
+      "id": 52,
+      "title": "Dubai Launches World’s First Icon Classification for Human–Machine Collaboration in Research and Publications",
+      "summary": "Dubai launches world's first icon classification for human-machine collaboration in research and publications, setting a new standard for transparency in AI-assisted knowledge creation.",
+      "source": "Financial Post",
+      "category": "research",
+      "timestamp": "2025-07-17T16:50:36Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dubai-launches-worlds-first-icon-classification-for-human-machine-collaboration-in-research-and-publications"
+    },
+    {
+      "id": 53,
+      "title": "AI vibe coding startup Lovable raises $200M at $1.8B valuation",
+      "summary": "AI vibe coding startup Lovable raises $200M in Series A round, valuing the company at $1.8B.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-17T16:50:20Z",
+      "url": "https://siliconangle.com/2025/07/17/ai-vibe-coding-startup-lovable-raises-200m-1-8b-valuation/"
+    },
+    {
+      "id": 54,
+      "title": "Which bubble will burst first - the AI companies or the crypto ones? [Scary]",
+      "summary": "Debate on whether the bubble of AI companies or crypto companies will burst first, causing concern in the tech industry.",
+      "source": "Fark.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T16:50:09Z",
+      "url": "https://www.fark.com/comments/13744540/Which-bubble-will-burst-first-AI-companies-the-crypto-ones"
+    },
+    {
+      "id": 55,
+      "title": "Fashion commerce startup Culture Circle bags undisclosed amount from Oyo’s Ritesh Agarwal at Rs 100 crore valuation",
+      "summary": "Fashion commerce startup Culture Circle receives undisclosed amount of funding from Oyo's Ritesh Agarwal, valued at Rs 100 crore. The Gurugram-based startup, operating as a luxury marketplace for sneakers, t-shirts, streetwear, and watches, plans to use the funds to enhance its AI engine and expand into new markets.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T16:49:36Z",
+      "url": "https://economictimes.indiatimes.com/tech/startups/fashion-commerce-startup-culture-circle-bags-undisclosed-amount-from-oyos-ritesh-agarwal-at-rs-100-crore-valuation/articleshow/122660263.cms"
+    },
+    {
+      "id": 56,
+      "title": "Red AI: Nvidia CEO Jensen Huang Praises Chinese Tech Industry During Beijing Visit",
+      "summary": "Nvidia CEO Jensen Huang praises Chinese tech industry for AI contributions, sparking concerns about selling AI chips to a geopolitical rival.",
+      "source": "Breitbart News",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:49:17Z",
+      "url": "https://www.breitbart.com/tech/2025/07/17/red-ai-nvidia-ceo-jensen-huang-praises-chinese-tech-industry-during-beijing-visit/"
+    },
+    {
+      "id": 57,
+      "title": "Vereigen Media Launches ‘Marketers Connect’: San Francisco’s Must-Attend B2B Marketing Event This August",
+      "summary": "Vereigen Media is launching 'Marketers Connect', a B2B marketing event in San Francisco this August, aimed at senior B2B marketing leaders for strategy, networking, and human-led innovation.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T16:49:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117511/0/en/Vereigen-Media-Launches-Marketers-Connect-San-Francisco-s-Must-Attend-B2B-Marketing-Event-This-August.html"
+    },
+    {
+      "id": 58,
+      "title": "Wicked Cool New TRON: ARES Trailer Sees Jared Leto’s AI Warrior Unleashed in The Real World",
+      "summary": "Disney has released a new trailer for Tron: Ares featuring an AI warrior being unleashed in the real world. The trailer introduces a super-intelligent, unkillable warrior built from AI, setting the stage for an exciting new chapter in the Tron series.",
+      "source": "GeekTyrant",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:48:00Z",
+      "url": "https://geektyrant.com/news/wicked-cool-new-tron-ares-trailer-sees-jared-letos-ai-warrior-unleashed-in-the-real-world"
+    },
+    {
+      "id": 59,
+      "title": "GameSquare ETH Strategy Quickens With $70 Million Offering",
+      "summary": "GameSquare Holdings completed a $70 million public offering to fuel a major expansion into decentralized",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-17T16:47:57Z",
+      "url": "https://finance.yahoo.com/news/gamesquare-eth-strategy-quickens-70-164757408.html"
+    },
+    {
+      "id": 60,
+      "title": "Anthropic will face a class-action lawsuit from US authors",
+      "summary": "Anthropic facing class-action lawsuit from US authors over copyright infringement.",
+      "source": "The Verge",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:47:00Z",
+      "url": "https://www.theverge.com/anthropic/709183/anthropic-class-action-lawsuit-pirated-books-authors-downloads"
+    },
+    {
+      "id": 61,
+      "title": "Amazon workers are piecing together cloud division layoffs in internal messages",
+      "summary": "Amazon workers piecing together cloud division layoffs in internal messages",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T16:46:55Z",
+      "url": "https://biztoc.com/x/b564b193a4438370"
+    },
+    {
+      "id": 62,
+      "title": "How much is AI really replacing jobs? Goldman Sachs looks under the hood and has 3 takeaways to defuse the hype",
+      "summary": "Goldman Sachs examines the impact of AI on future jobs and provides 3 takeaways to address the hype.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-17T16:46:37Z",
+      "url": "https://biztoc.com/x/71c0df20dbe16567"
+    },
+    {
+      "id": 63,
+      "title": "Meta appoints generative AI VP to run Threads",
+      "summary": "Meta appoints generative AI VP Connor Hayes to lead Threads",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:46:33Z",
+      "url": "https://biztoc.com/x/13f5fdf09da7744f"
+    },
+    {
+      "id": 64,
+      "title": "Meta Flexes Ad Strength, Analyst Cites Travel Trends And Weak US Dollar",
+      "summary": "Keybanc analyst upgrades Meta Platforms rating and raises price forecast, citing strong ad trends and momentum in AI.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T16:46:31Z",
+      "url": "https://biztoc.com/x/6d223c757f205cba"
+    },
+    {
+      "id": 65,
+      "title": "Real photo shows Trump and wife Melania with Ghislaine Maxwell?",
+      "summary": "An old photo authentically shows U.S. President Donald Trump and his wife Melania Trump with convicted sex offender Ghislaine Maxwell.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:46:00Z",
+      "url": "https://www.snopes.com//fact-check/trump-photo-melania-ghislaine-maxwell/"
+    },
+    {
+      "id": 66,
+      "title": "lightman-ai 0.16.6",
+      "summary": "Lightman-ai has released version 0.16.6, a cybersecurity news aggregator that aims to provide up-to-date information in the field.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:45:37Z",
+      "url": "https://pypi.org/project/lightman-ai/0.16.6/"
+    },
+    {
+      "id": 67,
+      "title": "The A.I. revolution comes to us in the latest jaw-dropping trailer for Disney’s TRON: Ares",
+      "summary": "The latest TRON: Ares trailer warns of a future in which AI is unpredictable, evolving, and out to rewrite the rules.",
+      "source": "JoBlo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:45:08Z",
+      "url": "https://www.joblo.com/tron-ares-trailer-poster-disney/"
+    },
+    {
+      "id": 68,
+      "title": "Transcriptional modulation unique to vulnerable motor neurons predicts ALS across species and SOD1 mutations [RESEARCH]",
+      "summary": "Transcriptional modulation unique to vulnerable motor neurons predicts ALS across species and SOD1 mutations",
+      "source": "Cshlp.org",
+      "category": "research",
+      "timestamp": "2025-07-17T16:45:03Z",
+      "url": "https://genome.cshlp.org/content/early/2025/07/17/gr.279501.124.short?rss=1"
+    },
+    {
+      "id": 69,
+      "title": "Meta appoints generative AI VP to run Threads",
+      "summary": "Meta appoints Connor Hayes, Meta's VP of product for generative AI, to head Threads.",
+      "source": "TechCrunch",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:43:51Z",
+      "url": "https://techcrunch.com/2025/07/17/meta-appoints-generative-ai-vp-to-run-threads/"
+    },
+    {
+      "id": 70,
+      "title": "diffai-python 0.3.12",
+      "summary": "diffai-python 0.3.12 is an AI/ML specialized tool for deep tensor comparison and analysis.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:43:26Z",
+      "url": "https://pypi.org/project/diffai-python/0.3.12/"
+    },
     {
       "id": 51,
       "title": "Warning Issued as Floods Threaten to 'Surround' Old School",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T15:51:44Z",
       "url": "https://biztoc.com/x/f1ccdd3890fd1cc8"
-    },
-    {
-      "id": 62,
-      "title": "Can California High-Speed Rail Survive Trump's $4 Billion Cuts?",
-      "summary": "President Donald Trump revokes $4 billion in federal funding from California's high-speed rail program, raising doubts about the project's future.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:51:31Z",
-      "url": "https://biztoc.com/x/d70a537264a63053"
-    },
-    {
-      "id": 63,
-      "title": "Natural Gas Is America's Strategic Advantage Fueling The AI Race",
-      "summary": "Natural gas is being seen as America's strategic advantage in fueling the AI race, which is defining economic and technological competition globally.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:51:28Z",
-      "url": "https://biztoc.com/x/f742a57147b6d35e"
-    },
-    {
-      "id": 64,
-      "title": "Review: Donkey Kong Bananza Is a Smashing Good Time",
-      "summary": "Donkey Kong Bananza is a new game featuring Donkey Kong, generated by AI voice. The game marks the return of the popular character after 11 years.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:51:25Z",
-      "url": "https://biztoc.com/x/ecfe9ee6feeff5fe"
-    },
-    {
-      "id": 65,
-      "title": "VideoAmp Appoints Peter Liguori as CEO",
-      "summary": "VideoAmp appoints Peter Liguori as CEO after his previous roles as executive chairman and member of the board for five years.",
-      "source": "TheWrap",
-      "category": "startups",
-      "timestamp": "2025-07-17T15:50:58Z",
-      "url": "https://www.thewrap.com/videoamp-names-peter-liguori-ceo/"
-    },
-    {
-      "id": 66,
-      "title": "Gmail brings one-click appointment booking right to your inbox",
-      "summary": "Gmail introduces one-click appointment booking feature by integrating with Google Calendar, allowing users to add appointment booking page into email drafts.",
-      "source": "Android Central",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:50:29Z",
-      "url": "https://www.androidcentral.com/apps-software/android-os/gmail-allows-you-to-share-google-calendar-booking-page-directly-in-emails"
-    },
-    {
-      "id": 67,
-      "title": "poly-lithic 0.1.6.dev3",
-      "summary": "poly-lithic 0.1.6.dev3 is a package for deploying AI and other models using lume inspired interfaces.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:50:16Z",
-      "url": "https://pypi.org/project/poly-lithic/0.1.6.dev3/"
-    },
-    {
-      "id": 68,
-      "title": "How money or donations shape what we share about nature",
-      "summary": "Voluntary contributions from citizens are increasingly used to monitor biodiversity, but a new study led by the University of Osaka and the National Institute explores what motivates people to participate and how incentives influence the kind of data they provide.",
-      "source": "Phys.Org",
-      "category": "research",
-      "timestamp": "2025-07-17T15:50:07Z",
-      "url": "https://phys.org/news/2025-07-money-donations-nature.html"
-    },
-    {
-      "id": 69,
-      "title": "NASA’s new Roman Space Telescope aims to discover 100,000 cosmic explosions",
-      "summary": "NASA's new Roman Space Telescope aims to discover 100,000 cosmic explosions and find more 'kilonovae' when it launches in 2027.",
-      "source": "Popular Science",
-      "category": "research",
-      "timestamp": "2025-07-17T15:49:07Z",
-      "url": "https://www.popsci.com/science/roman-space-telescope-future-discoveries/"
-    },
-    {
-      "id": 70,
-      "title": "runagent 0.1.5",
-      "summary": "runagent 0.1.5 is a command-line tool and SDK for deploying, managing, and interacting with AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:48:33Z",
-      "url": "https://pypi.org/project/runagent/0.1.5/"
-    },
-    {
-      "id": 51,
-      "title": "Linux market share just crossed 5%, hitting a new milestone",
-      "summary": "Linux market share reaches new milestone of 5%, crossing an important threshold according to Statcounter data.",
-      "source": "PCWorld",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:42:32Z",
-      "url": "https://www.pcworld.com/article/2851606/linux-market-share-just-crossed-5-percent-hitting-a-new-milestone.html"
-    },
-    {
-      "id": 52,
-      "title": "evalstack 0.0.2",
-      "summary": "Evalstack 0.0.2 offers AI-driven analysis and evaluation for policy workflows, regardless of the framework being used.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:41:44Z",
-      "url": "https://pypi.org/project/evalstack/0.0.2/"
-    },
-    {
-      "id": 53,
-      "title": "Too Much Hype, Too Few Profits. Tesla Stock Fans Should Heed This Warning Before July 23.",
-      "summary": "Tesla stock fans should be cautious of the hype surrounding AI before their upcoming earnings report on July 23, as the company has yet to translate AI advancements into profits.",
-      "source": "Barchart.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:41:21Z",
-      "url": "https://www.barchart.com/story/news/33470146/too-much-hype-too-few-profits-tesla-stock-fans-should-heed-this-warning-before-july-23"
-    },
-    {
-      "id": 54,
-      "title": "Off The Grid free-to-play battle royale has officially launched on Steam",
-      "summary": "Off The Grid, a free-to-play battle royale set in a cyberpunk dystopia, has officially launched on Steam with cyberlimbs to loot and unique abilities enabled by them.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:41:00Z",
-      "url": "https://www.notebookcheck.net/Off-The-Grid-free-to-play-battle-royale-has-officially-launched-on-Steam.1060723.0.html"
-    },
-    {
-      "id": 55,
-      "title": "Liberty Announces Upsize to C$4.4 Million of Equity Financing Due to Demand",
-      "summary": "Liberty announces upsizing of equity financing to C$4.4 million due to demand, not for distribution to U.S. newswires or dissemination in the United States.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-17T15:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117462/0/en/Liberty-Announces-Upsize-to-C-4-4-Million-of-Equity-Financing-Due-to-Demand.html"
-    },
-    {
-      "id": 56,
-      "title": "You’re Not Imagining It: AI Is Already Taking Tech Jobs",
-      "summary": "Since the rise of generative AI, many have feared the toll it would take on the livelihood of human workers. Now CEOs are admitting AI’s impact and layoffs are starting to ramp up.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:40:47Z",
-      "url": "https://biztoc.com/x/56a489befb61bb0b"
-    },
-    {
-      "id": 57,
-      "title": "ChatGPT helps write this mayor’s speeches. Now he wants a thousand city workers using AI",
-      "summary": "ChatGPT is being used to help write speeches for the mayor of San Jose, California, and now he wants a thousand city workers to use AI as well.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:40:39Z",
-      "url": "https://biztoc.com/x/af0ed29677826bc1"
-    },
-    {
-      "id": 58,
-      "title": "Church Accuses Donald Trump of 'Domestic Terrorism'",
-      "summary": "A church accuses Donald Trump of 'domestic terrorism' for ICE raids, stating the administration is 'weaponizing the constitution'.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:40:33Z",
-      "url": "https://biztoc.com/x/4c0bf977958f4ca2"
-    },
-    {
-      "id": 59,
-      "title": "TSMC and Nvidia are latest bullish reads on AI demand: Opening Bid top takeaways",
-      "summary": "TSMC and Nvidia are showing bullish reads on AI demand, with markets stabilizing after a Trump-fueled tizzy. President Trump reportedly discussed firing Federal Reserve Chair Jerome Powell.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:40:29Z",
-      "url": "https://biztoc.com/x/0446e98dbf0e7132"
-    },
-    {
-      "id": 60,
-      "title": "Google gets unexpected boost from ChatGPT",
-      "summary": "Google is leveraging ChatGPT for AI advancements, focusing on scale, speed, and under-the-radar systems.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:40:29Z",
-      "url": "https://biztoc.com/x/4d6e705d84fcaabe"
-    },
-    {
-      "id": 61,
-      "title": "Rescue Pug Separated From Brother at 8 Weeks Old, 'Fate' Reunites Them",
-      "summary": "A dog owner shares the story of her rescue pug being reunited with his brother after being separated at a young age. The use of AI-generated voice technology to tell the story may lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:40:12Z",
-      "url": "https://biztoc.com/x/17b6b394e35c6c8a"
     }
   ]
 }
