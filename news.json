@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-18T11:30:26.789Z",
+  "lastUpdate": "2025-07-18T11:46:25.837Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Student Led Mission Designs Highlight The Challenges Of Engineering In Space",
+      "summary": "Student Led Mission Designs Highlight The Challenges Of Engineering In Space, with a focus on the engineering challenges specific to space exploration missions and universal challenges in electronics.",
+      "source": "Universe Today",
+      "category": "research",
+      "timestamp": "2025-07-17T11:45:49Z",
+      "url": "https://www.universetoday.com/articles/student-led-mission-designs-highlight-the-challenges-of-engineering-in-space"
+    },
+    {
+      "id": 52,
+      "title": "Intel's fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide",
+      "summary": "Intel's new AI tool is able to measure image quality in games in real time, effectively identifying upscaling artifacts and visual imperfections. This tool aims to quantify subjective aspects of image quality, providing a innovative solution for improving visual quality in gaming.",
+      "source": "PC Gamer",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:45:41Z",
+      "url": "https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/"
+    },
+    {
+      "id": 53,
+      "title": "Rowan Street Capital’s Investment Journey with Spotify (SPOT)",
+      "summary": "Rowan Street Capital released its second-quarter 2025 investor letter detailing its investment journey with Spotify (SPOT).",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:45:07Z",
+      "url": "https://finance.yahoo.com/news/rowan-street-capital-investment-journey-114507228.html"
+    },
+    {
+      "id": 54,
+      "title": "Intel, Indeed, Glassdoor Total 5,000+ Layoffs. Is Your Job AI-Proof?",
+      "summary": "Intel, Indeed, and Glassdoor are cutting 5,000+ roles, raising concerns about the impact of AI on job security. Learn about the types of jobs being replaced by AI, why the layoffs are happening, and how to future-proof your career in the face of automation.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:45:01Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/17/intel-indeed-glassdoor-total-5000-layoffs-is-your-job-ai-proof/"
+    },
+    {
+      "id": 55,
+      "title": "NetBox Labs raises $35m to modernise infrastructure operations",
+      "summary": "NetBox Labs raises $35m in second funding round to modernize infrastructure operations, as companies seek to improve deployment, management, and security of business-critical networks and infrastructure.",
+      "source": "ComputerWeekly.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:45:00Z",
+      "url": "https://www.computerweekly.com/news/366627777/NetBox-Labs-raises-35m-to-modernise-infrastructure-operations"
+    },
+    {
+      "id": 56,
+      "title": "skypilot-nightly 1.0.0.dev20250717",
+      "summary": "skypilot-nightly 1.0.0.dev20250717 allows for running AI on any infrastructure, providing a unified, faster, and cheaper solution.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:43:14Z",
+      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250717/"
+    },
+    {
+      "id": 57,
+      "title": "More Apple chips to be made in US as TSMC accelerates Arizona plants",
+      "summary": "More Apple chips to be made in US as TSMC accelerates Arizona plants, fulfilling a promise made back in March.",
+      "source": "9to5Mac",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:41:55Z",
+      "url": "https://9to5mac.com/2025/07/17/more-apple-chips-to-be-made-in-us-as-tsmc-accelerates-arizona-plants/"
+    },
+    {
+      "id": 58,
+      "title": "Content Canada publishes draft agenda designed to help Canadian entertainment business define its future in The New Content Economy",
+      "summary": "Content Canada releases draft agenda to assist Canadian entertainment industry in adapting to The New Content Economy.",
+      "source": "C21media.net",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:41:06Z",
+      "url": "https://www.c21media.net/department/marketing/content-canada-publishes-draft-agenda-designed-to-help-canadian-entertainment-business-define-its-future-in-the-new-content-economy/"
+    },
+    {
+      "id": 59,
+      "title": "Smart Habit Trackers - Bloom Provides AI-Powered Habit Tracking With Siri And iCloud Integration (TrendHunter.com)",
+      "summary": "Bloom is a habit tracking application powered by AI that integrates with Siri and iCloud to help users develop and sustain positive habits.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:40:06Z",
+      "url": "https://www.trendhunter.com/trends/habit-tracking"
+    },
+    {
+      "id": 60,
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models Explained",
+      "summary": "LoRA is a new technique for efficient fine-tuning of large language models by updating fewer parameters. It offers benefits such as faster adaptation, but also has limitations that need to be addressed. The research explores its real-world uses and potential for the future.",
+      "source": "Digitalocean.com",
+      "category": "research",
+      "timestamp": "2025-07-17T11:39:55Z",
+      "url": "https://www.digitalocean.com/community/tutorials/lora-low-rank-adaptation-llms-explained"
+    },
+    {
+      "id": 61,
+      "title": "'Sleeping With That Fear…': Perplexity CEO Aravind Srinivas On Staying Ahead In The AI Race",
+      "summary": "Perplexity CEO Aravind Srinivas discusses how the fear of being copied drives innovation and success in the competitive AI industry.",
+      "source": "Ndtvprofit.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:38:17Z",
+      "url": "https://www.ndtvprofit.com/technology/sleeping-with-that-fear-perplexity-ceo-aravind-srinivas-on-staying-ahead-in-the-ai-race"
+    },
+    {
+      "id": 62,
+      "title": "Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps",
+      "summary": "Ohan Oda discusses making the Lens in Maps AR feature accessible to visually impaired users, sharing valuable lessons on designing inclusive AR experiences and the impact on users.",
+      "source": "InfoQ.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:37:00Z",
+      "url": "https://www.infoq.com/presentations/augmented-reality-maps/"
+    },
+    {
+      "id": 63,
+      "title": "anosys-agentic-ai-package 0.0.6",
+      "summary": "Anosys-agentic-ai-package 0.0.6 is a helper package that makes it easier to implement AI solutions on the AnoSys platform.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:36:24Z",
+      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.6/"
+    },
     {
       "id": 51,
       "title": "Elon Musk says \"We need more babies\" — then creates digital girlfriends so you actually won't go out and make any babies",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T10:40:37Z",
       "url": "https://biztoc.com/x/5d3eb2b8b69f1479"
-    },
-    {
-      "id": 58,
-      "title": "How Republicans Can Prove They're Serious About the National Debt | Opinion",
-      "summary": "Republicans need to prove they are serious about the national debt, which is currently at $37 trillion, before their control of Congress and the White House is compromised.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:40:32Z",
-      "url": "https://biztoc.com/x/b802849456101098"
-    },
-    {
-      "id": 59,
-      "title": "TSMC posts 60% jump in record quarterly profit, but wary about U.S. tariffs",
-      "summary": "TSMC, a major producer of AI chips, reported a 60% increase in quarterly profit but expressed concerns about future income being impacted by U.S. tariffs.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:40:31Z",
-      "url": "https://biztoc.com/x/5c4e988e28ff0cd7"
-    },
-    {
-      "id": 60,
-      "title": "Synopsys acquires simulation specialist Ansys for $35 billion following Chinese regulator approval — Merger to power end-to-end design platform",
-      "summary": "Synopsys acquires simulation specialist Ansys for $35 billion following Chinese regulator approval, creating a powerful end-to-end design platform that raises competitive and geopolitical concerns.",
-      "source": "Tom's Hardware UK",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:40:30Z",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-acquires-simulation-specialist-ansys-for-usd35-billion-following-chinese-regulator-approval-merger-to-power-end-to-end-design-platform"
-    },
-    {
-      "id": 51,
-      "title": "sleepy-driver 1.1.2",
-      "summary": "The AI-powered drowsiness detection library, sleepy-driver 1.1.2, has been developed for driver safety. This innovation aims to help prevent accidents caused by drowsy driving.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T10:16:50Z",
-      "url": "https://pypi.org/project/sleepy-driver/1.1.2/"
-    },
-    {
-      "id": 52,
-      "title": "Stagwell Wins Heaven Hill Spirits’ Integrated Account",
-      "summary": "Stagwell has been chosen as the agency of record for Heaven Hill Spirits' integrated account, including a 10-brand spirits portfolio, following a competitive review.",
-      "source": "Adweek",
-      "category": "applications",
-      "timestamp": "2025-07-17T10:15:25Z",
-      "url": "https://www.adweek.com/agencies/stagwell-wins-heaven-hill-spirits-integrated-account/"
-    },
-    {
-      "id": 53,
-      "title": "Transforming SAP Implementations to Meet Evolving Customer Expectations",
-      "summary": "RISE with SAP Validated Partner recognition allows partners to leverage SAP Business Suite power in transforming SAP implementations to meet changing customer expectations.",
-      "source": "Sap.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T10:15:00Z",
-      "url": "https://news.sap.com/2025/07/transform-sap-implementations-meet-evolving-customer-expectations/"
-    },
-    {
-      "id": 54,
-      "title": "Minnesota tragedy reveals how data brokers sell your personal information",
-      "summary": "Minnesota tragedy highlights the dangers of data brokers selling personal information, with the $200 billion industry tracking individuals across websites. Privacy risks can be minimized with data removal services.",
-      "source": "Fox News",
-      "category": "ethics",
-      "timestamp": "2025-07-17T10:14:59Z",
-      "url": "https://www.foxnews.com/tech/data-broker-opt-out-steps-every-retiree-should-take-today"
-    },
-    {
-      "id": 55,
-      "title": "Perplexity CEO's warning to startups: big tech will \"copy anything that's good\"",
-      "summary": "Perplexity CEO warns startups that big tech will copy innovative ideas, emphasizing the need for commitment and hard work in the face of opportunities and risks.",
-      "source": "TechSpot",
-      "category": "startups",
-      "timestamp": "2025-07-17T10:14:00Z",
-      "url": "https://www.techspot.com/news/108700-perplexity-ceo-warning-startups-big-tech-copy-anything.html"
-    },
-    {
-      "id": 56,
-      "title": "sleepy-driver 1.1.1",
-      "summary": "sleepy-driver 1.1.1 is an AI-powered drowsiness detection library designed for driver safety.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T10:12:27Z",
-      "url": "https://pypi.org/project/sleepy-driver/1.1.1/"
-    },
-    {
-      "id": 57,
-      "title": "Google Pixel 10 Pro Fold set to outshine Samsung's Galaxy Z Fold 7",
-      "summary": "Google Pixel 10 Pro Fold anticipated to outperform Samsung's Galaxy Z Fold 7, with Google finding advantages for their upcoming foldable phone despite improvements made by Samsung.",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-17T10:12:10Z",
-      "url": "https://www.androidpolice.com/google-pixel-10-pro-fold-improvements/"
-    },
-    {
-      "id": 58,
-      "title": "Nvidia's selling AI chips to China part of rare earths talks, Reuters says",
-      "summary": "Nvidia's selling AI chips to China as part of rare earths talks, according to Reuters.",
-      "source": "Thefly.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:12:02Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4161077/NVDA-Nvidias-selling-AI-chips-to-China-part-of-rare-earths-talks-Reuters-says"
-    },
-    {
-      "id": 59,
-      "title": "Europe assumes financial burden of Ukraine war, angering Russia",
-      "summary": "Europe assuming financial burden of Ukraine war leads to anger from Russia, Trump sees European purchases of US weapons as a victory, while UN warns of record civilian casualties.",
-      "source": "Al Jazeera English",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:11:34Z",
-      "url": "https://www.aljazeera.com/news/2025/7/17/europe-assumes-financial-burden-of-ukraine-war-alarming-russia"
-    },
-    {
-      "id": 60,
-      "title": "Microsoft Edge 138.0.3351.95",
-      "summary": "Microsoft Edge 138.0.3351.95 is a free web browser based on the Chromium Open Source project and other Open Source software.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-17T10:10:01Z",
-      "url": "https://www.neowin.net/software/microsoft-edge-1380335195/"
     }
   ]
 }
