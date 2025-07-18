@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-18T15:43:01.347Z",
+  "lastUpdate": "2025-07-18T15:56:50.310Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trump claims Europe doesn't buy American cars or food. Is that true?",
+      "summary": "President Trump threatens to raise tariffs on EU claiming they don't buy US cars or food, but data shows otherwise.",
+      "source": "CBS News",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:56:01Z",
+      "url": "https://www.cbsnews.com/news/eu-trade-tariffs-trump-claims-europe-doesnt-buy-american-cars-food/"
+    },
+    {
+      "id": 52,
+      "title": "Alaska Air: Los Angeles – Newark (and vice versa). $197 (Basic Economy) / $287 (Regular Economy). Roundtrip, including all Taxes",
+      "summary": "Alaska Air is offering discounted fares between Los Angeles and Newark, with prices ranging from $197 for Basic Economy to $287 for Regular Economy. The Regular Economy fare includes advance seat assignment and a normal size carry-on.",
+      "source": "Theflightdeal.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:55:58Z",
+      "url": "https://www.theflightdeal.com/2025/07/17/alaska-air-los-angeles-newark-and-vice-versa-197-basic-economy-287-regular-economy-roundtrip-including-all-taxes/"
+    },
+    {
+      "id": 53,
+      "title": "7 reasons why I bought the Galaxy Z Flip 7 and why you should too",
+      "summary": "Samsung has started taking pre-orders for the new Galaxy Z Flip 7, featuring significant upgrades and improvements. The phone is considered the flip phone to beat, with several meaningful changes that elevate its status in the market.",
+      "source": "SamMobile",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:55:23Z",
+      "url": "https://www.sammobile.com/news/what-i-love-most-about-galaxy-z-flip-7-cover-display/"
+    },
+    {
+      "id": 54,
+      "title": "lightman-ai 0.16.1",
+      "summary": "The latest version of lightman-ai, 0.16.1, serves as a cybersecurity news aggregator that provides updates and information on cybersecurity threats. This tool can help organizations stay informed and proactive in protecting their systems and data.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:55:01Z",
+      "url": "https://pypi.org/project/lightman-ai/0.16.1/"
+    },
+    {
+      "id": 55,
+      "title": "Deals: Galaxy Tab S10 Ultra up to $400 off, FREE Buds 3 Pro w/ Flip 7, Google Smart TV + FREE 43-inch model, more",
+      "summary": "Deals on Galaxy Tab S10 Ultra offer up to $400 off, with additional free accessories like Buds 3 Pro and Google Smart TV; various retailers have discounts on the device, including an open-box model at Best Buy.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:52:51Z",
+      "url": "http://9to5google.com/2025/07/17/deals-galaxy-s10-ultra-free-buds-3-pro-google-smart-tv/"
+    },
+    {
+      "id": 56,
+      "title": "poly-lithic 0.1.6.dev4",
+      "summary": "poly-lithic 0.1.6.dev4 is a new package designed to deploy AI and other models with lume inspired interfaces",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:52:29Z",
+      "url": "https://pypi.org/project/poly-lithic/0.1.6.dev4/"
+    },
+    {
+      "id": 57,
+      "title": "Trump Administration Issues New Guidelines for Religious Workers",
+      "summary": "The Trump Administration has issued new guidelines for religious federal workers on working from home, with the use of AI-generated voice technology. Inconsistencies may occur due to the nature of AI-generated speech.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:51:55Z",
+      "url": "https://biztoc.com/x/1dff372d6e891bce"
+    },
+    {
+      "id": 58,
+      "title": "Numerai Announces $1 Million Strategic Buyback of NMR",
+      "summary": "Numerai announces a $1 million strategic buyback of NMR tokens, as the crowdsourced hedge fund sees growth in assets under management and its Meta Model leads. This move demonstrates economic strategy in the AI and decentralized finance space.",
+      "source": "The Daily Hodl",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:51:52Z",
+      "url": "https://dailyhodl.com/2025/07/17/numerai-announces-1-million-strategic-buyback-of-nmr/"
+    },
+    {
+      "id": 59,
+      "title": "Numerai Announces $1M Strategic Buyback of NMR",
+      "summary": "Numerai, a crowdsourced hedge fund, announced a $1 million strategic buyback of NMR tokens as their Meta Model leads amid asset under management growth.",
+      "source": "The Daily Hodl",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:51:52Z",
+      "url": "https://dailyhodl.com/2025/07/17/numerai-announces-1m-strategic-buyback-of-nmr/"
+    },
+    {
+      "id": 60,
+      "title": "Kids Fail When Adults Don't Care",
+      "summary": "Kids struggle when people see them as data points instead of whole people. Cultural connection and empathy can change this.",
+      "source": "Psychology Today",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:51:45Z",
+      "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202507/kids-fail-when-adults-dont-care"
+    },
+    {
+      "id": 61,
+      "title": "'Assassin's Creed' Live-Action Series Greenlit at Netflix",
+      "summary": "'Assassin's Creed' Live-Action Series Greenlit at Netflix - Voice is AI-generated. Inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:51:44Z",
+      "url": "https://biztoc.com/x/f1ccdd3890fd1cc8"
+    },
+    {
+      "id": 62,
+      "title": "Can California High-Speed Rail Survive Trump's $4 Billion Cuts?",
+      "summary": "President Donald Trump revokes $4 billion in federal funding from California's high-speed rail program, raising doubts about the project's future.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:51:31Z",
+      "url": "https://biztoc.com/x/d70a537264a63053"
+    },
+    {
+      "id": 63,
+      "title": "Natural Gas Is America's Strategic Advantage Fueling The AI Race",
+      "summary": "Natural gas is being seen as America's strategic advantage in fueling the AI race, which is defining economic and technological competition globally.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:51:28Z",
+      "url": "https://biztoc.com/x/f742a57147b6d35e"
+    },
+    {
+      "id": 64,
+      "title": "Review: Donkey Kong Bananza Is a Smashing Good Time",
+      "summary": "Donkey Kong Bananza is a new game featuring Donkey Kong, generated by AI voice. The game marks the return of the popular character after 11 years.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:51:25Z",
+      "url": "https://biztoc.com/x/ecfe9ee6feeff5fe"
+    },
+    {
+      "id": 65,
+      "title": "VideoAmp Appoints Peter Liguori as CEO",
+      "summary": "VideoAmp appoints Peter Liguori as CEO after his previous roles as executive chairman and member of the board for five years.",
+      "source": "TheWrap",
+      "category": "startups",
+      "timestamp": "2025-07-17T15:50:58Z",
+      "url": "https://www.thewrap.com/videoamp-names-peter-liguori-ceo/"
+    },
+    {
+      "id": 66,
+      "title": "Gmail brings one-click appointment booking right to your inbox",
+      "summary": "Gmail introduces one-click appointment booking feature by integrating with Google Calendar, allowing users to add appointment booking page into email drafts.",
+      "source": "Android Central",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:50:29Z",
+      "url": "https://www.androidcentral.com/apps-software/android-os/gmail-allows-you-to-share-google-calendar-booking-page-directly-in-emails"
+    },
+    {
+      "id": 67,
+      "title": "poly-lithic 0.1.6.dev3",
+      "summary": "poly-lithic 0.1.6.dev3 is a package for deploying AI and other models using lume inspired interfaces.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:50:16Z",
+      "url": "https://pypi.org/project/poly-lithic/0.1.6.dev3/"
+    },
+    {
+      "id": 68,
+      "title": "How money or donations shape what we share about nature",
+      "summary": "Voluntary contributions from citizens are increasingly used to monitor biodiversity, but a new study led by the University of Osaka and the National Institute explores what motivates people to participate and how incentives influence the kind of data they provide.",
+      "source": "Phys.Org",
+      "category": "research",
+      "timestamp": "2025-07-17T15:50:07Z",
+      "url": "https://phys.org/news/2025-07-money-donations-nature.html"
+    },
+    {
+      "id": 69,
+      "title": "NASA’s new Roman Space Telescope aims to discover 100,000 cosmic explosions",
+      "summary": "NASA's new Roman Space Telescope aims to discover 100,000 cosmic explosions and find more 'kilonovae' when it launches in 2027.",
+      "source": "Popular Science",
+      "category": "research",
+      "timestamp": "2025-07-17T15:49:07Z",
+      "url": "https://www.popsci.com/science/roman-space-telescope-future-discoveries/"
+    },
+    {
+      "id": 70,
+      "title": "runagent 0.1.5",
+      "summary": "runagent 0.1.5 is a command-line tool and SDK for deploying, managing, and interacting with AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:48:33Z",
+      "url": "https://pypi.org/project/runagent/0.1.5/"
+    },
     {
       "id": 51,
       "title": "Linux market share just crossed 5%, hitting a new milestone",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T15:18:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/17/3117437/0/en/Command-Alkon-Named-Top-Cloud-Based-Construction-Software-Provider-of-2025-by-Construction-Tech-Review.html"
-    },
-    {
-      "id": 62,
-      "title": "Is AI the New Android Bloatware? Why Phone-Makers Are Scrambling for Your Attention",
-      "summary": "Android phone-makers are exploring ways to utilize non-Google AI to make their devices unique, but may not be the best approach in the age of Gemini.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:17:44Z",
-      "url": "https://www.cnet.com/tech/services-and-software/is-ai-the-new-android-bloatware-why-phone-makers-are-scrambling-for-your-attention/"
-    },
-    {
-      "id": 63,
-      "title": "New Minisforum AMD Strix Halo mini-PC leaks with Ryzen AI Max+ 395 and 128 GB RAM",
-      "summary": "New Minisforum AMD Strix Halo mini-PC leaks with Ryzen AI Max+ 395 and 128 GB RAM, hinting at upcoming launch in the Minisforum AI X1 series.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:17:00Z",
-      "url": "https://www.notebookcheck.net/New-Minisforum-AMD-Strix-Halo-mini-PC-leaks-with-Ryzen-AI-Max-395-and-128-GB-RAM.1060425.0.html"
-    },
-    {
-      "id": 64,
-      "title": "Dell's new Pro Max laptops are here to tackle demanding AI workflows",
-      "summary": "Dell's new Pro Max laptops are designed to handle demanding AI workflows, targeting power users looking to enter the AI PC era.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:16:01Z",
-      "url": "https://www.neowin.net/news/dells-new-pro-max-laptops-are-here-to-tackle-demanding-ai-workflows/"
-    },
-    {
-      "id": 65,
-      "title": "Beyond GPS: Xona Raises $92M to Revolutionize Global Positioning with Pulsar Constellation",
-      "summary": "Satellite navigation startup Xona Space Systems raises $92 million in Series B funding to revolutionize global positioning with Pulsar Constellation.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-17T15:15:17Z",
-      "url": "https://finance.yahoo.com/news/beyond-gps-xona-raises-92m-151517213.html"
-    },
-    {
-      "id": 66,
-      "title": "Google Search adds Gemini 2.5 Pro, AI Deep Search, and agentic local calling - Search Engine Land",
-      "summary": "Google Search is adding more advanced AI capabilities such as Gemini 2.5 Pro, AI Deep Search, and agentic local calling, allowing for more efficient and intelligent search results.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:15:09Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178402414"
-    },
-    {
-      "id": 67,
-      "title": "The Atomic Purple Game Boy of VR Headsets Is Here, and It’s Glorious",
-      "summary": "BigScreen releases limited edition VR headset with Game Boy design",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:15:08Z",
-      "url": "https://gizmodo.com/the-atomic-purple-game-boy-of-vr-headsets-is-here-and-its-glorious-2000630658"
-    },
-    {
-      "id": 68,
-      "title": "AI-Powered Chef Set to Make Its Debut in Dubai",
-      "summary": "Dubai is preparing to introduce a new dining concept where artificial intelligence takes center stage, at least behind the scenes. WOOHOO, a restaurant set to open in September near the Burj Khalifa, promises 'dining in the future' with the debut of its AI-powered chef.",
-      "source": "Newser",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:14:49Z",
-      "url": "https://www.newser.com/story/372039/ai-powered-chef-set-to-make-its-debut-in-dubai.html"
-    },
-    {
-      "id": 69,
-      "title": "Looks like the Taiwanese chip industry is becoming a hot target for Chinese state-sponsored hackers trying to nab trade secrets",
-      "summary": "The Taiwanese chip industry is being targeted by Chinese state-sponsored hackers for trade secrets.",
-      "source": "PC Gamer",
-      "category": "security",
-      "timestamp": "2025-07-17T15:14:45Z",
-      "url": "https://www.pcgamer.com/software/security/looks-like-the-taiwanese-chip-industry-is-becoming-a-hot-target-for-chinese-state-sponsored-hackers-trying-to-nab-trade-secrets/"
-    },
-    {
-      "id": 51,
-      "title": "Who are the MAGA influencers calling for Pam Bondi’s head over Epstein?",
-      "summary": "MAGA influencers are calling for Pam Bondi to be removed over her handling of the Epstein case, with connections being made to Tesla, Pizzagate, and diet supplements in the world of conspiracy theorists.",
-      "source": "Al Jazeera English",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:56:17Z",
-      "url": "https://www.aljazeera.com/news/2025/7/17/who-are-the-maga-influencers-calling-for-pam-bondis-head-over-epstein"
-    },
-    {
-      "id": 52,
-      "title": "Mom Gives Birth to Twins, Unprepared for How They Look 4 Months Later",
-      "summary": "A Pennsylvania mom was surprised by how different her twins looked four months after birth, as shown in an AI-generated video shared on TikTok.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:56:16Z",
-      "url": "https://biztoc.com/x/48b2f9b2398392d2"
-    },
-    {
-      "id": 53,
-      "title": "mimicx 0.1.9",
-      "summary": "mimicx 0.1.9 offers human-like AI capabilities including vision, text, voice, and more in a single package for everyone.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:56:09Z",
-      "url": "https://pypi.org/project/mimicx/0.1.9/"
-    },
-    {
-      "id": 54,
-      "title": "CEO Caught on Jumbotron During Coldplay Concert Leads to Affair Accusations",
-      "summary": "A tech entrepreneur caught on the Jumbotron during a Coldplay concert hugging a woman who is not his wife, leading to affair accusations. The use of AI-generated voice technology may lead to inconsistencies and ethical concerns when it comes to privacy and personal relationships.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:56:04Z",
-      "url": "https://biztoc.com/x/032ceeee98bc38ca"
-    },
-    {
-      "id": 55,
-      "title": "Woman Always Wished for Cuddly Dog—Then Got More Than She Bargained For",
-      "summary": "A woman fulfilled her dream of having a 'cuddly' dog with the acquisition of pit bull cross Olive, who exceeded her expectations.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:55:47Z",
-      "url": "https://biztoc.com/x/749a5aa4dcce9475"
-    },
-    {
-      "id": 56,
-      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth $1 Trillion in 5 Years",
-      "summary": "Prediction suggests that Palantir, an AI stock, could reach $1 trillion valuation within 5 years, with its recent surge indicating further potential despite high valuation. The growing adoption of AI software for productivity enhancement is seen as a driver for the company's growth.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:55:47Z",
-      "url": "https://biztoc.com/x/febe8e5fde2709f1"
-    },
-    {
-      "id": 57,
-      "title": "Trump's Truth Social, Rumble Escalate Legal War With Brazil Supreme Court",
-      "summary": "An escalating international free speech clash is reigniting tensions between U.S. tech platforms and the Supreme Court in Brazil as Rumble Inc. and Trump Media & Technology Group (TMTG) escalate legal war with Brazil Supreme Court.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:55:45Z",
-      "url": "https://biztoc.com/x/46d4e67fdf7b3f26"
-    },
-    {
-      "id": 58,
-      "title": "OptiScaler has been updated to theoretically support AMD's FSR 4 in all games with upscaling that don't use Vulcan or anti-cheat—which is nice, but why the heck doesn't AMD do this?",
-      "summary": "OptiScaler has been updated to theoretically support AMD's FSR 4 in all games with upscaling that don't use Vulcan or anti-cheat, highlighting the potential for innovation in AI technology to enhance gaming experiences.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:54:45Z",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/optiscaler-has-been-updated-to-theoretically-support-amds-fsr-4-in-all-games-with-upscaling-that-dont-use-vulcan-or-anti-cheat-which-is-nice-but-why-the-heck-doesnt-amd-do-this/"
-    },
-    {
-      "id": 59,
-      "title": "Slack Adds AI-Powered Channel Recaps, Huddle Meeting Notes and More",
-      "summary": "Slack has added AI-powered features for enterprise clients, including Enterprise Search and channel recaps.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:54:07Z",
-      "url": "https://www.gadgets360.com/ai/news/slack-update-enterprise-search-writing-assistance-ai-actions-8895560"
-    },
-    {
-      "id": 60,
-      "title": "A shocking number of teens now prefer AI chatbots to real-world friends",
-      "summary": "A large percentage of teenagers are now favoring AI chatbots over real friends, raising concerns about the potential impact on human relationships.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:54:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68262/1/shocking-teenagers-prefer-ai-chatbots-chatgpt-real-world-friends-lonely-teens?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-shocking-number-of-teens-now-prefer-ai-chatbots-to-real-world-friends"
-    },
-    {
-      "id": 61,
-      "title": "The Shocking Rise of One of The Tech-Right’s Favorite Posters",
-      "summary": "Jordan Lasker, also known as Crémieux, sparked controversy by providing hacked data to the New York Times that revealed inconsistencies in Zohran Mamdani's identity, raising ethical concerns about privacy and data security.",
-      "source": "Mother Jones",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:52:26Z",
-      "url": "https://www.motherjones.com/politics/2025/07/cremieux-jordan-lasker-mamdani-nyt-nazi-faliceer-reddit/"
-    },
-    {
-      "id": 62,
-      "title": "US stock market today rallied: Dow, S&P 500, Nasdaq hit new highs as strong TSMC, PepsiCo earnings and retail sales spark Wall Street surge",
-      "summary": "US stock market today rallied: Dow, S&P 500, Nasdaq hit new highs as strong TSMC, PepsiCo earnings and retail sales spark Wall Street surge.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:52:03Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-rallied-dow-sp-500-nasdaq-hit-new-highs-as-strong-tsmc-pepsico-earnings-and-retail-sales-spark-wall-street-surge/articleshow/122647791.cms"
     }
   ]
 }
