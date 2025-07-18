@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-18T19:13:39.562Z",
+  "lastUpdate": "2025-07-18T19:29:14.150Z",
   "items": [
+    {
+      "id": 51,
+      "title": "TSM Reports Record Profits, Lifts Forecast — But Stays Cautious",
+      "summary": "TSM Reports Record Profits, Lifts Forecast but remains cautious amidst gaining attention on Wall Street.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:28:27Z",
+      "url": "https://finance.yahoo.com/news/tsm-reports-record-profits-lifts-192827384.html"
+    },
+    {
+      "id": 52,
+      "title": "Astronomer CEO Andy Byron raved about Kristin Cabot months before being caught on Coldplay kiss cam",
+      "summary": "Astronomer CEO praises Kristin Cabot's leadership and expertise in talent management and employee engagement, highlighting her importance as they continue to grow rapidly.",
+      "source": "Page Six",
+      "category": "startups",
+      "timestamp": "2025-07-17T19:27:32Z",
+      "url": "https://pagesix.com/2025/07/17/celebrity-news/astronomer-ceo-andy-byron-raved-about-kristin-cabot-before-being-caught-on-coldplay-kiss-cam/"
+    },
+    {
+      "id": 53,
+      "title": "Finding value from AI agents from day one",
+      "summary": "AI agents are being used to provide value to businesses from day one by tasks such as reading customer's minds, identifying cybersecurity loopholes before hackers strike, and restructuring global supply chains to avoid disruptions.",
+      "source": "MIT Technology Review",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:27:23Z",
+      "url": "https://www.technologyreview.com/2025/07/17/1119943/finding-value-from-ai-agents-from-day-one/"
+    },
+    {
+      "id": 54,
+      "title": "Sources: Perplexity jumped to a $18B valuation two months after it raised at $14B; its annualized revenues jumped from $35M in August 2024 to $150M this month (Financial Times)",
+      "summary": "Perplexity, an AI-powered search engine, saw a significant increase in valuation to $18B and annualized revenues from $35M in August 2024 to $150M this month, attracting new investors.",
+      "source": "Techmeme.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T19:25:01Z",
+      "url": "https://www.techmeme.com/250717/p44"
+    },
+    {
+      "id": 55,
+      "title": "Robinhood CEO Says Majority of Company's New Code Written by AI",
+      "summary": "Robinhood CEO Vlad Tenev stated that majority of the company's new code is written by AI, with close to 100% of engineers using AI code editors. Around 50% of new code at the trading platform is AI-generated.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:25:00Z",
+      "url": "https://developers.slashdot.org/story/25/07/17/1918220/robinhood-ceo-says-majority-of-companys-new-code-written-by-ai"
+    },
+    {
+      "id": 56,
+      "title": "Perplexity’s Comet is the AI browser Google wants",
+      "summary": "Perplexity has launched Comet, an AI-powered browser that aims to rival Google Chrome. Currently, Comet is only available to Perplexity Max users.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:22:52Z",
+      "url": "https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor"
+    },
+    {
+      "id": 57,
+      "title": "opencode-ai 0.1.0a20",
+      "summary": "opencode-ai 0.1.0a20 is the official Python library for the opencode API, enabling developers to easily interact with the platform for AI-related applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:22:37Z",
+      "url": "https://pypi.org/project/opencode-ai/0.1.0a20/"
+    },
+    {
+      "id": 58,
+      "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Reddit, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – RDDT",
+      "summary": "ROSEN, RECOGNIZED INVESTOR COUNSEL, encourages Reddit, Inc. investors to secure counsel before an important deadline in a securities class action lawsuit.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:22:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117565/673/en/ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Reddit-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-RDDT.html"
+    },
+    {
+      "id": 59,
+      "title": "pygpt-net 2.5.48",
+      "summary": "pygpt-net 2.5.48 is a Desktop AI Assistant powered by various OpenAI models including GPT-4, DALL-E 3, and others. It supports chatbot, agents, completion, image generation, vision analysis, and more.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:20:42Z",
+      "url": "https://pypi.org/project/pygpt-net/2.5.48/"
+    },
+    {
+      "id": 60,
+      "title": "Dell 16 Plus 2-in-1 (DB06250)",
+      "summary": "Dell's newly released 16 Plus 2-in-1 laptop aims to combine strong performance with a convertible design, but struggles under the weight of its ambitions.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:20:10Z",
+      "url": "https://me.pcmag.com/en/laptops/31027/dell-16-plus-2-in-1-db06250"
+    },
+    {
+      "id": 61,
+      "title": "Dell 16 Plus 2-in-1 (DB06250)",
+      "summary": "Dell's 16 Plus 2-in-1 (DB06250) is a large laptop that struggles with its convertible features, aiming to offer strong performance and versatility in a big form factor.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:20:10Z",
+      "url": "https://uk.pcmag.com/laptops/159184/dell-16-plus-2-in-1-db06250"
+    },
+    {
+      "id": 62,
+      "title": "Imagen Now Works on Video With AI-Powered Frame-By-Frame Color Correction",
+      "summary": "Imagen is expanding its AI-powered editing platform to video with a new feature for frame-by-frame color correction, catering to professionals in the video editing industry.",
+      "source": "PetaPixel",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:19:59Z",
+      "url": "https://petapixel.com/2025/07/17/imagen-now-works-on-video-with-ai-powered-frame-by-frame-color-correction/"
+    },
+    {
+      "id": 63,
+      "title": "bmasterai added to PyPI",
+      "summary": "bmasterai added to PyPI - A comprehensive Python framework for building multi-agent AI systems with advanced logging, monitoring, and integrations",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:19:34Z",
+      "url": "https://pypi.org/project/bmasterai/"
+    },
+    {
+      "id": 64,
+      "title": "bmasterai 0.2.0",
+      "summary": "bmasterai 0.2.0 is a Python framework for building multi-agent AI systems with advanced features, including logging, monitoring, and integrations.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:19:34Z",
+      "url": "https://pypi.org/project/bmasterai/0.2.0/"
+    },
     {
       "id": 51,
       "title": "AMD’s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
@@ -324,132 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T17:55:50Z",
       "url": "https://www.fark.com/comments/13744512/Truth-Social-announces-a-companion-AI-Avatar-choices-include-Kimberly-Guilfoyle-Conker-Squirrel"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Claude‑CMD – A CLI for managing Claude Code commands and workflows",
-      "summary": "Built an open-source CLI called Claude‑CMD for managing Claude Code commands and workflows, designed to streamline interaction with AI-driven workflows in coding tasks and automation.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:55:50Z",
-      "url": "https://github.com/kiliczsh/claude-cmd"
-    },
-    {
-      "id": 54,
-      "title": "Slack Gives Paid Users Access to More AI Tools",
-      "summary": "Slack gives paid users access to more AI tools to help them focus on high-value work and stay organized.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:55:12Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/slack-gives-paid-users-access-to-more-ai-tools/"
-    },
-    {
-      "id": 55,
-      "title": "Video and transcript of talk on \"Can goodness compete?\"",
-      "summary": "Video and transcript of a talk discussing long-term equilibria post-AGI and whether goodness can compete, presented at Mox in San Francisco in July 2025.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T17:54:17Z",
-      "url": "https://www.lesswrong.com/posts/evYne4Xx7L9J96BHW/video-and-transcript-of-talk-on-can-goodness-compete"
-    },
-    {
-      "id": 56,
-      "title": "Elon Musk says a male Grok companion is coming, with a personality inspired by 'Twilight' and '50 Shades of Grey'",
-      "summary": "Elon Musk teases a male Grok companion with a personality inspired by 'Twilight' and '50 Shades of Grey', following the release of xAI's anime waifu and red panda companions.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:54:01Z",
-      "url": "https://www.businessinsider.com/elon-musk-grok-ai-companion-inspired-edward-cullen-christian-gray-2025-7"
-    },
-    {
-      "id": 57,
-      "title": "PepsiCo to Streamline Operations Amid Higher Supply Chain Costs",
-      "summary": "PepsiCo is focusing on productivity initiatives and brand innovation to address increased supply chain costs caused by tariffs and maintain sales in North America amidst flat performance.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:53:54Z",
-      "url": "http://www.pymnts.com/earnings/2025/pepsico-to-streamline-operations-amid-higher-supply-chain-costs/"
-    },
-    {
-      "id": 58,
-      "title": "Chip Maker TSMC Boosts Outlook for Revenue Amid Strong AI Demand",
-      "summary": "Chip Maker TSMC boosts revenue outlook due to strong AI demand.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:53:03Z",
-      "url": "https://biztoc.com/x/433edd5029dcd5a4"
-    },
-    {
-      "id": 59,
-      "title": "Fascism For First Time Founders",
-      "summary": "Concerns about the alignment of tech and startup communities with neoreactionary views and support for Trump raises ethical questions about the values and beliefs promoted in the industry.",
-      "source": "Techdirt",
-      "category": "ethics",
-      "timestamp": "2025-07-17T17:53:00Z",
-      "url": "https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/"
-    },
-    {
-      "id": 60,
-      "title": "Pixel Watch 4 may finally allow for repairs, but the details are incredibly vague - 9to5Google",
-      "summary": "Pixel Watch 4 may allow for repairs with vague details and will use the same processor as previous models.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:52:46Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178403638"
-    },
-    {
-      "id": 61,
-      "title": "Trump’s tariffs are turning into a ‘mosaic’ that will be ‘idiosyncratic,’ Morgan Stanley says, projecting a $2.7 trillion haul over 10 years",
-      "summary": "Trump's tariffs could result in a $2.7 trillion haul over 10 years, leading to higher import prices, fueling inflation, and potentially squeezing corporate margins.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:50:21Z",
-      "url": "https://fortune.com/2025/07/17/how-much-will-trump-make-tariffs-us-treasury/"
-    },
-    {
-      "id": 62,
-      "title": "AMD launches Threadripper Pro 9000 WX-series CPUs with up to 96 Zen 5 cores for $11,699 — Shimada Peak and Radeon AI Pro R9700 arrive on July 23",
-      "summary": "AMD launches Threadripper Pro 9000 WX-series CPUs with up to 96 Zen 5 cores for $11,699 — Shimada Peak and Radeon AI Pro R9700 arrive on July 23, sharing pricing and release date for professional and workstation users.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:50:08Z",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-launches-threadripper-pro-9000-wx-series-cpus-with-up-to-96-zen-5-cores-for-usd11-699-shimada-peak-and-radeon-ai-pro-r9700-arrive-on-july-23"
-    },
-    {
-      "id": 51,
-      "title": "ChatGPT Will Soon Shop Online, Make PowerPoints On Your Behalf",
-      "summary": "OpenAI is enhancing ChatGPT to perform various tasks like online shopping and creating presentations for users, as part of its effort to make AI agents more accessible to the general public.",
-      "source": "Ndtvprofit.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:42:14Z",
-      "url": "https://www.ndtvprofit.com/business/chatgpt-will-soon-shop-online-make-powerpoints-on-your-behalf"
-    },
-    {
-      "id": 52,
-      "title": "Google adds new features in Search as AI race intensifies",
-      "summary": "Google adds new GenAI features and business calling system to Search in response to increasing competition in AI search.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:42:00Z",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366627898/Google-adds-new-features-in-Search-as-AI-race-intensifies"
-    },
-    {
-      "id": 53,
-      "title": "Kinder Morgan kicks off oil and gas earnings season with a bullish outlook, in part thanks to thirsty data centers",
-      "summary": "Kinder Morgan's bullish outlook for oil and gas earnings is attributed in part to data centers, with the biggest driver of natural gas demand being exports and the rapid buildout of LNG terminals.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:41:57Z",
-      "url": "https://biztoc.com/x/1979a7b1c1d4205f"
-    },
-    {
-      "id": 54,
-      "title": "Why the Gates Foundation and Other Funders Are Spending $1 Billionon AI for Frontline Workers",
-      "summary": "The Gates Foundation and other funders are investing $1 billion in a new entity called NextLadder Ventures to develop AI solutions for frontline workers such as public defenders, parole officers, and social workers.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:41:53Z",
-      "url": "https://biztoc.com/x/8464e9d4ca1db881"
     }
   ]
 }
