@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-18T09:20:02.067Z",
+  "lastUpdate": "2025-07-18T09:45:59.077Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Chiratae-backed Uniphore Technologies in talks to raise up to $250 million",
+      "summary": "Chiratae-backed Uniphore Technologies is in talks to raise up to $250 million to fuel global expansion and deepen its AI bets.",
+      "source": "Livemint",
+      "category": "startups",
+      "timestamp": "2025-07-17T09:45:03Z",
+      "url": "https://www.livemint.com/companies/start-ups/chirataebacked-uniphore-technologies-in-talks-to-raise-up-to-250-million-11752737476085.html"
+    },
+    {
+      "id": 52,
+      "title": "American firms in China report record-low new investment plans for 2025, and doubts about their profitability",
+      "summary": "American firms in China are reporting record-low new investment plans for 2025 due to doubts about profitability and negative effects from U.S. export control measures, with many facing lost sales and reputational damage as unreliable suppliers.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-17T09:44:41Z",
+      "url": "https://fortune.com/asia/2025/07/17/american-firms-china-record-low-investment-plans-2025-doubts-profitability/"
+    },
+    {
+      "id": 53,
+      "title": "New Kiro AI IDE Released by Amazon with Free Claude 4 Access for Limited Time",
+      "summary": "Amazon has released a new AI IDE called Kiro, which aims to streamline the coding process by acting as a personal assistant. The tool comes with free access to Claude 4 for a limited time, offering developers assistance with tedious tasks.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-17T09:42:32Z",
+      "url": "https://www.geeky-gadgets.com/amazon-ai-ide-kiro/"
+    },
+    {
+      "id": 54,
+      "title": "ChatGPT Plus Gets Record Mode on Mac for Meeting Transcription",
+      "summary": "OpenAI expands access to Record Mode in ChatGPT for macOS, allowing Plus subscribers to use AI-powered transcription feature initially rolled out to business users last month.",
+      "source": "MacRumors",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:41:43Z",
+      "url": "https://www.macrumors.com/2025/07/17/chatgpt-plus-gets-record-mode-macos/"
+    },
+    {
+      "id": 55,
+      "title": "aiyt 0.4.4",
+      "summary": "The latest version of aiyt AI tool, 0.4.4, can transcribe, chat, and summarize YouTube videos using AI technology.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:40:57Z",
+      "url": "https://pypi.org/project/aiyt/0.4.4/"
+    },
+    {
+      "id": 56,
+      "title": "『2030年の営業 組織の知×AIで生き残る』7月1９日発売｜出版記念ウェビナーを7月24日開催――AI時代に「ヒトらしさ」で成果を生む営業組織とは？",
+      "summary": "A new book titled '2030年の営業 組織の知×AIで生き残る' discusses how sales organizations can survive in the AI era by combining human skills with AI. A webinar celebrating the book's release will be held on July 24th, exploring how sales organizations can leverage 'humanity' to achieve success in the age of AI.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:40:03Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000115291.html"
+    },
+    {
+      "id": 57,
+      "title": "Anthropic draws investor interest at more than $100 billion valuation",
+      "summary": "Anthropic draws investor interest at more than $100 billion valuation after earlier round led by Lightspeed Venture Partners.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T09:39:37Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-draws-investor-interest-at-more-than-100-billion-valuation/articleshow/122631651.cms"
+    },
+    {
+      "id": 58,
+      "title": "Resume Optimization Tools - Easy2Resume Helps You Create Standout, ATS-Friendly Resumes Faster (TrendHunter.com)",
+      "summary": "Easy2Resume is an AI-enhanced resume optimization tool designed to assist job seekers in refining and improving their resumes for better visibility and impact.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:38:06Z",
+      "url": "https://www.trendhunter.com/trends/easy2resume"
+    },
+    {
+      "id": 59,
+      "title": "mseep-ailice added to PyPI",
+      "summary": "AIlice, a fully autonomous AI agent, has been added to PyPI. The project aims to create an artificial intelligence assistant similar to JARVIS based on the open-source LLM.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T09:36:39Z",
+      "url": "https://pypi.org/project/mseep-ailice/"
+    },
+    {
+      "id": 60,
+      "title": "Publicis raises its full-year growth forecast to ~5% after stronger-than-expected Q2 results, and CEO Arthur Sadoun dismisses concerns over Meta's AI ad systems (Reuters)",
+      "summary": "Publicis raises full-year growth forecast to ~5% after strong Q2 results, CEO dismisses concerns over Meta's AI ad systems",
+      "source": "Mediagazer.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T09:35:01Z",
+      "url": "https://mediagazer.com/250717/p5"
+    },
+    {
+      "id": 61,
+      "title": "BTC Mining Has Gone Mobile, PFMCrypto Launches Mobile-Based BTC Cloud Mining Platform for Global Users",
+      "summary": "BTC mining startup PFMCrypto launches mobile-based cloud mining platform for global users, offering seamless earnings, AI-optimized contracts, and 24/7 global access.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T09:35:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117049/0/en/BTC-Mining-Has-Gone-Mobile-PFMCrypto-Launches-Mobile-Based-BTC-Cloud-Mining-Platform-for-Global-Users.html"
+    },
+    {
+      "id": 62,
+      "title": "NVIDIA CEO makes third visit to China this year as H20 AI chip sales resume",
+      "summary": "NVIDIA CEO makes third visit to China as H20 AI chip sales resume, targeting the Chinese market. Company also launched a new RTX Pro GPU for smart factories and logistics applications.",
+      "source": "TechNode",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:34:28Z",
+      "url": "http://technode.com/2025/07/17/nvidia-ceo-makes-third-visit-to-china-this-year-as-h20-ai-chip-sales-resume/"
+    },
+    {
+      "id": 63,
+      "title": "China Flexes Island-Seizing Capability in Contested Waters",
+      "summary": "China showcased its island-seizing capabilities in the South China Sea by using air-cushioned landing craft in territorial disputes with neighboring countries.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:34:19Z",
+      "url": "https://biztoc.com/x/8ad2755a960a8a26"
+    },
+    {
+      "id": 64,
+      "title": "AI Offense Defense Balance in a Multipolar World",
+      "summary": "We examine whether intent-aligned defensive AI can effectively counter potentially unaligned or adversarial takeover-level AI. This post identifies two primary threat scenarios: strategic post-deployment.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-17T09:34:08Z",
+      "url": "https://www.lesswrong.com/posts/BHWYkoB7JshqpNSnh/ai-offense-defense-balance-in-a-multipolar-world"
+    },
     {
       "id": 51,
       "title": "AMD quietly reveals cheapest Ryzen AI yet — AI 5 330 is a quad-core budget processor with a 50 TOPS NPU",
@@ -324,132 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-17T08:16:13Z",
       "url": "https://www.zdnet.com/article/is-hr-ready-for-ai/"
-    },
-    {
-      "id": 59,
-      "title": "marsdevs-reviewer 1.1.0",
-      "summary": "Marsdevs-reviewer 1.1.0 is an AI-powered code review tool that learns from your repository",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:15:14Z",
-      "url": "https://pypi.org/project/marsdevs-reviewer/1.1.0/"
-    },
-    {
-      "id": 60,
-      "title": "Advanced packaging boom propels ASE, KYEC through shifting semiconductor landscape",
-      "summary": "Advanced packaging boom is propelling chip packaging and testing firms in Taiwan through semiconductor landscape shifts, despite unresolved tariff policies and currency fluctuations. Strong demand for high-performance computing chips is driving resilience in the industry.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:14:27Z",
-      "url": "https://www.digitimes.com/news/a20250717PD236/advanced-packaging-ase-kyec-revenue-taiwan.html"
-    },
-    {
-      "id": 61,
-      "title": "Meta poaching update: Two more top OpenAI researchers join Superintelligence Labs",
-      "summary": "Meta has poached two more OpenAI researchers, Jason Wei and Hyung Won Chung, for its Superintelligence Labs, continuing its aggressive hiring spree.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-17T08:14:27Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-poaching-update-two-more-top-openai-researchers-join-superintelligence-labs/articleshow/122625072.cms"
-    },
-    {
-      "id": 62,
-      "title": "dtx 0.24.0",
-      "summary": "dtx 0.24.0 is an AI Red Teaming Tool and Framework that has been launched, providing organizations with advanced capabilities for testing their cyber defenses. This tool allows for simulation of realistic cyber attacks to help businesses identify vulnerabilities and improve their security measures.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:13:06Z",
-      "url": "https://pypi.org/project/dtx/0.24.0/"
-    },
-    {
-      "id": 63,
-      "title": "py-automl-lib 2.2.9",
-      "summary": "py-automl-lib 2.2.9 is a Python package designed for automated hyperparameter optimization of common machine-learning algorithms",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-17T08:11:35Z",
-      "url": "https://pypi.org/project/py-automl-lib/2.2.9/"
-    },
-    {
-      "id": 64,
-      "title": "France's Legrand shares rise as data centre demand prompts outlook hike",
-      "summary": "France's Legrand shares rise as data centre demand prompts outlook hike due to increased investment in data centres by tech companies to meet AI model demands.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:11:22Z",
-      "url": "https://finance.yahoo.com/news/frances-legrand-shares-rise-data-081122302.html"
-    },
-    {
-      "id": 65,
-      "title": "What is the strategic significance of Airtel-Perplexity partnership",
-      "summary": "Airtel and Perplexity's partnership in India marks a first-of-its-kind Gen-AI collaboration for Airtel, providing an opportunity to make professional-grade AI more accessible to people in the country.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:10:29Z",
-      "url": "https://www.thehindubusinessline.com/blexplainer/what-is-the-strategic-significance-of-airtel-perplexity-partnership/article69822322.ece"
-    },
-    {
-      "id": 51,
-      "title": "Show HN",
-      "summary": "FounderScan is a new tool that provides a comprehensive website analysis covering security, SEO, performance, and compliance. It detects vulnerabilities, exposed API keys, missing security headers, SEO optimization opportunities, Core Web Vitals issues, and compliance gaps for a complete assessment.",
-      "source": "Founderscan.dev",
-      "category": "startups",
-      "timestamp": "2025-07-17T07:52:24Z",
-      "url": "https://www.founderscan.dev/"
-    },
-    {
-      "id": 52,
-      "title": "What’s Hot For Identity And Access Management (IAM) In Asia Pacific In 2025?",
-      "summary": "In a recently published report, key adoption drivers, technologies, and use cases for Identity and Access Management (IAM) in Asia Pacific (APAC) in 2025 are discussed. The report indicates that organizations in APAC will increase their IAM spend based on Forrester's data.",
-      "source": "Forrester.com",
-      "category": "research",
-      "timestamp": "2025-07-17T07:51:06Z",
-      "url": "https://www.forrester.com/blogs/whats-hot-for-identity-and-access-management-iam-in-asia-pacific-in-2025/"
-    },
-    {
-      "id": 53,
-      "title": "Biweekly AI Safety Comms Meetup",
-      "summary": "Biweekly AI Safety Comms Meetup hosted by AISafety.info offers virtual speed friending and hangouts for AI safety communicators and influencers worldwide.",
-      "source": "Lesswrong.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:50:34Z",
-      "url": "https://www.lesswrong.com/events/h9tQJd7FWmuMoYBLz/biweekly-ai-safety-comms-meetup"
-    },
-    {
-      "id": 54,
-      "title": "CrowdStrike’s (CRWD) Equal Weight Rating Reaffirmed at Morgan Stanley",
-      "summary": "Morgan Stanley reaffirmed their equal weight rating on shares of CrowdStrike in a report, with a price objective of $495.00.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:46:59Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/crowdstrikes-crwd-equal-weight-rating-reaffirmed-at-morgan-stanley/"
-    },
-    {
-      "id": 55,
-      "title": "CoreWeave (NASDAQ:CRWV) Given “Neutral” Rating at HC Wainwright",
-      "summary": "HC Wainwright reaffirmed their neutral rating on shares of CoreWeave (NASDAQ:CRWV) in a research report sent to investors on Monday.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-17T07:46:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/coreweave-nasdaqcrwv-given-neutral-rating-at-hc-wainwright/"
-    },
-    {
-      "id": 56,
-      "title": "Brussels stalls probe into Elon Musk’s X amid US trade talks",
-      "summary": "Brussels is delaying the probe into Elon Musk's X as EU trade talks progress, missing the deadline set before the summer recess.",
-      "source": "The Irish Times",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:46:31Z",
-      "url": "https://www.irishtimes.com/business/2025/07/17/brussels-stalls-probe-into-elon-musks-x-amid-us-trade-talks/"
-    },
-    {
-      "id": 57,
-      "title": "ChatGPT for Mac now doubles as an AI meeting assistant",
-      "summary": "ChatGPT for Mac now doubles as an AI meeting assistant, allowing users to transcribe meetings, brainstorming sessions, and voice notes.",
-      "source": "Cult of Mac",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:45:07Z",
-      "url": "https://www.cultofmac.com/news/chatgpt-for-mac-now-doubles-as-an-ai-meeting-assistant"
     }
   ]
 }
