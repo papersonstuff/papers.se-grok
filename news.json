@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-18T18:52:26.171Z",
+  "lastUpdate": "2025-07-18T19:13:39.562Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AMD’s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
+      "summary": "AMD's new 96-core Threadripper CPU is priced at $11,699, targeting high-performance users who require extensive computing power.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:12:41Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178404254"
+    },
+    {
+      "id": 52,
+      "title": "realvirtual.io AI Builder by realvirtual",
+      "summary": "realvirtual.io AI Builder allows users to train, test, and deploy AI in Unity for industrial vision and automation, including generating synthetic data, running ONNX models, and connecting to real PLCs.",
+      "source": "Unity.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:12:13Z",
+      "url": "https://assetstore.unity.com/packages/tools/ai-ml-integration/realvirtual-io-ai-builder-320773"
+    },
+    {
+      "id": 53,
+      "title": "OpenAI introduces ChatGPT agent that can complete tasks using its own computer",
+      "summary": "OpenAI introduces ChatGPT agent that can complete tasks using its own computer",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:12:02Z",
+      "url": "https://www.neowin.net/news/openai-introduces-chatgpt-agent-that-can-complete-tasks-using-its-own-computer/"
+    },
+    {
+      "id": 54,
+      "title": "US Ally Calls China Greatest Threat",
+      "summary": "Japan raises concerns over China's military presence, labeling China as the greatest strategic challenge in the Asia-Pacific region. The voice behind this statement is AI-generated, which may lead to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:10:53Z",
+      "url": "https://biztoc.com/x/517db6038ab1657c"
+    },
+    {
+      "id": 55,
+      "title": "Owner Wonders What Dog Does Home Alone—Instant Tears When She Watches Cam",
+      "summary": "Owner feels guilty leaving dog home alone, watches AI-generated voice on camera, feels relief.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:10:26Z",
+      "url": "https://biztoc.com/x/14f0088da969bbb0"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI launches personal assistant capable of controlling files and web browsers",
+      "summary": "OpenAI launches personal assistant capable of controlling files and web browsers, with the ability to find restaurant reservations and go shopping for users. OpenAI acknowledges there are 'more risks' associated with this technology.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:10:19Z",
+      "url": "https://biztoc.com/x/6c6e73b7f8bd8bfa"
+    },
+    {
+      "id": 57,
+      "title": "The Best Media & Journalist Databases You Can Use",
+      "summary": "The Best Media & Journalist Databases You Can Use provides information on finding the right journalist for effective media outreach.",
+      "source": "Socialmediaexplorer.com",
+      "category": "research",
+      "timestamp": "2025-07-17T19:09:45Z",
+      "url": "https://socialmediaexplorer.com/business-innovation-2/the-best-media-journalist-databases-you-can-use/"
+    },
+    {
+      "id": 58,
+      "title": "Virginia Becomes First State to Use Agentic AI for Regulatory Streamlining",
+      "summary": "Virginia becomes the first state to use agentic AI for regulatory streamlining, launching a pilot program to streamline regulations and improve business friendliness.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:08:56Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/virginia-becomes-first-state-to-use-agentic-ai-for-regulatory-streamlining/"
+    },
+    {
+      "id": 59,
+      "title": "Scary tech",
+      "summary": "There is a vulnerability in trains where someone can remotely lock the brakes with a radio link, which railroad companies have known about since 2012 but have not addressed.",
+      "source": "Freethoughtblogs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:07:30Z",
+      "url": "https://freethoughtblogs.com/pharyngula/2025/07/17/scary-tech/"
+    },
+    {
+      "id": 60,
+      "title": "Google's rolling out a fix for Gemini Live's blurry vision",
+      "summary": "Google is rolling out a fix for Gemini Live's blurry vision bug that was causing video feeds to appear low quality.",
+      "source": "Android Police",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:06:26Z",
+      "url": "https://www.androidpolice.com/sharper-video-for-gemini-live-on-android/"
+    },
+    {
+      "id": 61,
+      "title": "Anti-Exploitation Group Horrified by Elon Musk's AI-Powered Waifu",
+      "summary": "Anti-Exploitation Group expresses horror over Elon Musk's AI-Powered Waifu, which are sexually-charged animated chat bots referred to as 'companions' or 'waifus.'",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:04:39Z",
+      "url": "https://futurism.com/exploitation-group-ai-waifu"
+    },
     {
       "id": 51,
       "title": "The AI Replaces Labour Myth",
@@ -351,105 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-17T17:41:53Z",
       "url": "https://biztoc.com/x/8464e9d4ca1db881"
-    },
-    {
-      "id": 55,
-      "title": "For a Look at the Future of Work, These Startups Combine AI, Robots, and People",
-      "summary": "The age of the human-only workplace may be coming to an end as startups combine AI, robots, and people. A farms and a construction company offer a preview of what's to come.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:41:38Z",
-      "url": "https://biztoc.com/x/7a4728ca7901d036"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI Hires Entire Team From AI Startup Backed By Shopify And Radical Ventures 'To Ensure AGI Benefits All Of Humanity'",
-      "summary": "OpenAI hires entire team from AI startup Crossing Minds, backed by Shopify and Radical Ventures, to ensure AGI benefits all of humanity after raising $13.5 million and spending 8 years building personalized AI shopping technology.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:41:33Z",
-      "url": "https://biztoc.com/x/dd6c96620b0e18fc"
-    },
-    {
-      "id": 57,
-      "title": "Logistics Viewpoints Weekly News: From Reactive to Real-Time – Supply Chains Rewrite the Rules",
-      "summary": "Logistics industry transitioning from legacy systems to real-time orchestration and intelligent automation, rewriting supply chain rules.",
-      "source": "Logisticsviewpoints.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:41:09Z",
-      "url": "https://logisticsviewpoints.com/2025/07/17/logistics-weekly-from-reactive-to-real-time-supply-chains-rewrite-the-rules/"
-    },
-    {
-      "id": 58,
-      "title": "What Big Tech got out of Trump’s Big Beautiful Bill",
-      "summary": "The One Big Beautiful Bill Act signed into law by President Donald Trump on Independence Day benefits Big Tech by including provisions that could significantly impact the industry's largest players.",
-      "source": "The Verge",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:39:24Z",
-      "url": "https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill"
-    },
-    {
-      "id": 59,
-      "title": "Aerospace Ceramics Market Forecast to 2029: Advancing High-Performance Materials",
-      "summary": "Aerospace ceramics are forecasted to advance high-performance materials in the aerospace industry, improving fuel economy and enabling innovation in engines, spacecraft, and defense systems.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:39:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117535/0/en/Aerospace-Ceramics-Market-Forecast-to-2029-Advancing-High-Performance-Materials.html"
-    },
-    {
-      "id": 60,
-      "title": "You Can Call a Self-Driving Lucid Gravity EV Through Uber Starting in 2026",
-      "summary": "Luxury electric car maker Lucid will provide Uber with 20,000 self-driving Gravity SUVs for a premium rideshare option starting in 2026.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:38:16Z",
-      "url": "https://me.pcmag.com/en/ai/31024/you-can-call-a-self-driving-lucid-gravity-ev-through-uber-starting-in-2026"
-    },
-    {
-      "id": 61,
-      "title": "You Can Call a Self-Driving Lucid Gravity EV Through Uber Starting in 2026",
-      "summary": "Luxury electric car maker Lucid will provide Uber with 20,000 high-tech SUVs for a premium self-driving rideshare option starting in 2026.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:38:16Z",
-      "url": "https://uk.pcmag.com/ai/159181/you-can-call-a-self-driving-lucid-gravity-ev-through-uber-starting-in-2026"
-    },
-    {
-      "id": 62,
-      "title": "sherlock-ai 1.5.0",
-      "summary": "sherlock-ai 1.5.0 is a new Python package offering performance monitoring, logging utilities, and code analysis for developers to use in their AI projects.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:37:33Z",
-      "url": "https://pypi.org/project/sherlock-ai/1.5.0/"
-    },
-    {
-      "id": 63,
-      "title": "AI For Cybersecurity Is Advancing, But Users Need To Trust It",
-      "summary": "Advancements in AI for cybersecurity are being made, but user trust is crucial. Other topics in the newsletter include Nvidia's market value, a quick settlement in a Facebook lawsuit, and Perplexity's new AI web browser.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:36:05Z",
-      "url": "https://www.forbes.com/sites/cio/2025/07/17/ai-for-cybersecurity-is-advancing-but-users-need-to-trust-it/"
-    },
-    {
-      "id": 64,
-      "title": "Merchant of Record Firm Paddle Raises $25 Million to Fund Expansion",
-      "summary": "Merchant of Record Firm Paddle raises $25 million to fund expansion for digital product companies.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:33:03Z",
-      "url": "http://www.pymnts.com/news/investment-tracker/2025/merchant-of-record-firm-paddle-raises-25-million-to-fund-expansion/"
-    },
-    {
-      "id": 65,
-      "title": "Do later what can be done now",
-      "summary": "Procrastination can be a powerful asset in investing, especially in a world obsessed with instant action. The 'proxinator' thrives by delaying decisions, avoiding hype-driven mistakes, and sidestepping market crashes.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:32:41Z",
-      "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/do-later-what-can-be-done-now/articleshow/122665176.cms"
     }
   ]
 }
