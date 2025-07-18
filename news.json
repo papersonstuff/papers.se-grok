@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-18T18:26:40.371Z",
+  "lastUpdate": "2025-07-18T18:52:26.171Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The AI Replaces Labour Myth",
+      "summary": "The AI Replaces Labour Myth - During college, my class was instructed to study Schopenhauer in political philosophy.",
+      "source": "Substack.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T18:51:53Z",
+      "url": "https://aimode.substack.com/p/the-ai-replaces-services-myth"
+    },
+    {
+      "id": 52,
+      "title": "ServiceNow’s Moveworks Takeover Gets In-Depth Antitrust Review",
+      "summary": "ServiceNow Inc.'s $2.85 billion acquisition of Moveworks Inc. is under an in-depth antitrust review by the US Justice Department.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:51:51Z",
+      "url": "https://www.livemint.com/companies/news/servicenows-moveworks-takeover-gets-in-depth-antitrust-review-11752778312276.html"
+    },
+    {
+      "id": 53,
+      "title": "ChatGPT Agent, OpenAI's new AI Assistant can book dinner or order groceries, but is your data safe?",
+      "summary": "OpenAI's new ChatGPT Agent can perform tasks like booking reservations and ordering groceries, raising concerns about data privacy and security.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T18:50:17Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chatgpt-agent-openais-new-ai-assistant-can-book-dinner-or-order-groceries-but-is-your-data-safe/articleshow/122672059.cms"
+    },
+    {
+      "id": 54,
+      "title": "Intel Nova Lake-HX Tipped For 28 Cores And A Big GPU But Will It Launch?",
+      "summary": "Intel Nova Lake-HX Tipped For 28 Cores And A Big GPU But Will It Launch? - Intel's upcoming Nova Lake processors may include an 'AX' model, hinting at powerful capabilities for AI applications.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-17T18:50:00Z",
+      "url": "https://hothardware.com/news/intel-nova-lake-ax-specs-leaked"
+    },
+    {
+      "id": 55,
+      "title": "City of Hope CEO on the Challenge \"Greater Than Any One Entity Can Tackle\"",
+      "summary": "City of Hope CEO discusses the challenge of maximizing genomics' public health potential and addressing inefficient spending in the field.",
+      "source": "Newsweek",
+      "category": "research",
+      "timestamp": "2025-07-17T18:49:27Z",
+      "url": "https://www.newsweek.com/city-hope-ceo-challenge-greater-any-one-entity-can-tackle-2100402"
+    },
+    {
+      "id": 56,
+      "title": "America's New Fiscal Trap",
+      "summary": "Republican members of Congress passed a tax-and-spend bill that will define America's fiscal future.",
+      "source": "RealClearPolitics",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:47:22Z",
+      "url": "https://www.realclearpolitics.com/articles/2025/07/17/americas_new_fiscal_trap_153060.html"
+    },
+    {
+      "id": 57,
+      "title": "Compute Labs Offers Investor Opportunities In AI Data Center Buildout",
+      "summary": "Compute Labs offers investors opportunities in AI data center buildout, allowing data center operators to turn major capital investments into operating expenses.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-17T18:45:49Z",
+      "url": "https://www.forbes.com/sites/tomcoughlin/2025/07/17/compute-labs-offers-investor-opportunities-in-ai-data-center-buildout/"
+    },
+    {
+      "id": 58,
+      "title": "Fed's Daly Talks Tariff Impact, Rate Cuts and AI",
+      "summary": "Federal Reserve Bank of San Francisco President Mary Daly discusses the impact of the Trump administration's tariffs on the US.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:44:50Z",
+      "url": "https://biztoc.com/x/bb7f6e2d7a0e82b7"
+    },
+    {
+      "id": 59,
+      "title": "OpenAI's ChatGPT 'agent' is ready to assist you",
+      "summary": "OpenAI's ChatGPT 'agent' is ready to assist you in finding a wedding dress.",
+      "source": "NBC News",
+      "category": "applications",
+      "timestamp": "2025-07-17T18:43:35Z",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-chatgpt-agent-rcna219407"
+    },
+    {
+      "id": 60,
+      "title": "Does Your Favorite Emoji Crack the List of CNET's Top Picks?",
+      "summary": "Celebrate all of the smileys, hearts and gestures for World Emoji Day with CNET's list of top emoji picks.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-17T18:41:39Z",
+      "url": "https://www.cnet.com/tech/services-and-software/does-your-favorite-emoji-crack-the-list-of-cnets-top-picks/"
+    },
+    {
+      "id": 61,
+      "title": "Expert Council Q&A – Epi-3706",
+      "summary": "The expert council on The Survival Podcast answers questions on various topics including Trump's betrayal of his base, cheese making, heat injuries, radios, bitcoin, solar power, AI, and more.",
+      "source": "Thesurvivalpodcast.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T18:41:38Z",
+      "url": "https://www.thesurvivalpodcast.com/experts-3706"
+    },
+    {
+      "id": 62,
+      "title": "Amazon Ring’s founder is back as CEO with a hard pivot to AI. How Jamie Siminoff went from ‘Shark Tank’ reject to $1 billion brand",
+      "summary": "Amazon Ring's founder returns as CEO with a focus on AI after rebranding Doorbot as Ring and achieving success despite rejection on Shark Tank.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T18:37:44Z",
+      "url": "https://biztoc.com/x/c9f05533c75cf49f"
+    },
+    {
+      "id": 63,
+      "title": "Thursday links: central bank independence",
+      "summary": "Demand for private company shares exists but a workable regulatory regime is lacking",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:37:43Z",
+      "url": "https://biztoc.com/x/cd1a42b82a6f61bd"
+    },
+    {
+      "id": 64,
+      "title": "Coldplay's Chris Martin Concert 'Affair' Scandal — Married Astronomer CEO Could Stand To Lose a Fortune After 'Cheating' Kiss Cam Moment With Co-Worker",
+      "summary": "Astronomer CEO Andy Byron could potentially lose a fortune after a scandal involving a 'cheating' kiss cam moment with a co-worker, despite his company being worth over a billion dollars. The scandal has also led to his wife removing his last name from her social life.",
+      "source": "Radaronline.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T18:37:37Z",
+      "url": "https://radaronline.com/p/coldplay-chris-martin-affair-scandal-astronomer-ceo-kiss-cam-andy-byron/"
+    },
     {
       "id": 51,
       "title": "Centreon Extends Monitoring Reach into Observability Realm",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T17:32:41Z",
       "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/do-later-what-can-be-done-now/articleshow/122665176.cms"
-    },
-    {
-      "id": 66,
-      "title": "Andy Byron and Kristin Cabot: What we know about the viral clip, marriage, and the company",
-      "summary": "Astronomer CEO Andy Byron and his HR head Kristin Cabot faced public scrutiny after being caught on the kiss cam at a Coldplay concert, raising questions about appropriate workplace relationships.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T17:32:35Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/andy-byron-and-kristin-cabot-what-we-know-about-the-viral-clip-marriage-and-the-company/articleshow/122664109.cms"
-    },
-    {
-      "id": 67,
-      "title": "Kinder Morgan kicks off oil and gas earnings season with a bullish outlook, in part thanks to thirsty data centers",
-      "summary": "Kinder Morgan is optimistic about oil and gas earnings season, citing the increased demand from data centers as a factor for growth. The company's focus on building pipelines to support data center growth across various states contributes to their bullish outlook.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:32:26Z",
-      "url": "https://fortune.com/2025/07/17/gas-pipeline-construction-ramps-meet-lng-data-center-demand/"
-    },
-    {
-      "id": 68,
-      "title": "News publishers take paywall-blocker 12ft.io offline",
-      "summary": "News publishers successfully secure removal of paywall-blocker website 12ft.io, highlighting ethical concerns surrounding bypassing paywalls online.",
-      "source": "The Verge",
-      "category": "ethics",
-      "timestamp": "2025-07-17T17:32:06Z",
-      "url": "https://www.theverge.com/news/709209/news-media-alliance-12ft-io-takedown-paywall"
-    },
-    {
-      "id": 51,
-      "title": "Mayville Executives Signal Optimism After Accu-Fab Deal and Credit Boost",
-      "summary": "Mayville Engineering Company, Inc. executives show optimism after Accu-Fab deal and credit boost, with the stock's price target raised.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:15:23Z",
-      "url": "https://finance.yahoo.com/news/mayville-executives-signal-optimism-accu-171523131.html"
-    },
-    {
-      "id": 52,
-      "title": "Why Culture Amp Launched an AI-Powered Coaching Tool",
-      "summary": "Culture Amp launched an AI-powered coaching tool to provide support for managers and employees based on survey and sentiment data.",
-      "source": "Newsweek",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:15:18Z",
-      "url": "https://www.newsweek.com/why-culture-amp-launched-ai-powered-coaching-tool-2099989"
-    },
-    {
-      "id": 53,
-      "title": "NODE: The Last Favor of the Antarii adds PS5, Xbox Series versions",
-      "summary": "NODE: The Last Favor of the Antarii, a side-scrolling puzzle platformer, will be launching for PlayStation 5 and Xbox Series versions in addition to its previously announced PC version.",
-      "source": "Gematsu",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:15:07Z",
-      "url": "https://www.gematsu.com/2025/07/node-the-last-favor-of-the-antarii-adds-ps5-xbox-series-versions"
-    },
-    {
-      "id": 54,
-      "title": "‘Tron: Ares’ Trailer: Jared Leto Is an AI Villain in Latest Installment of the Iconic Jeff Bridges Franchise",
-      "summary": "'Tron: Ares' trailer reveals Jared Leto as an AI villain in the latest installment of the iconic franchise, directed by Joachim Rønning and co-written by Emmy nominee Jack Thorne.",
-      "source": "IndieWire",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:15:00Z",
-      "url": "https://www.indiewire.com/news/trailers/tron-ares-trailer-jared-leto-jeff-bridges-1235139178/"
-    },
-    {
-      "id": 55,
-      "title": "CORRECTION - Ad Age lists Advantage Solutions among 2025 Largest Agencies",
-      "summary": "Advantage Solutions has been listed as the 9th largest agency company in North America and No. 18 worldwide by Ad Age, according to the latest Agency Report.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117525/0/en/CORRECTION-Ad-Age-lists-Advantage-Solutions-among-2025-Largest-Agencies.html"
-    },
-    {
-      "id": 56,
-      "title": "Corey Feldman’s AI Clones Sing “Characters” in New Music Video: Watch",
-      "summary": "Corey Feldman uses AI technology to create clones of himself singing characters from his past roles in a music video to celebrate his 54th birthday.",
-      "source": "Consequence.net",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:14:53Z",
-      "url": "https://consequence.net/2025/07/corey-feldmans-ai-characters-music-video/"
-    },
-    {
-      "id": 57,
-      "title": "$90 Billion AI Investments, MLB Robot Umpires and More | Tech Today video",
-      "summary": "$90 billion AI investments, MLB robot umpires, and more tech news highlighted by Aly Lopez, including an EcoFlow home battery backup system and AI data center investments.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:14:35Z",
-      "url": "https://www.cnet.com/videos/90-billion-ai-investments-mlb-robot-umpires-and-more-tech-today/"
-    },
-    {
-      "id": 58,
-      "title": "Wear OS features: Why Google's smartwatch OS deserves more attention",
-      "summary": "Wear OS offers a variety of features including apps, Google services integration, and health tracking capabilities that make it deserving of more attention.",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:14:11Z",
-      "url": "https://www.androidpolice.com/wear-os-features-that-made-me-a-believer/"
-    },
-    {
-      "id": 59,
-      "title": "Ampco-Pittsburgh Insiders Show Steady Backing Amid Credit Facility Secured",
-      "summary": "Ampco-Pittsburgh Corporation insiders are showing steady backing as the company secures a credit facility. The company is one of the 10 Metal Stocks with Insider Buying in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:14:00Z",
-      "url": "https://finance.yahoo.com/news/ampco-pittsburgh-insiders-show-steady-171400274.html"
-    },
-    {
-      "id": 60,
-      "title": "AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown",
-      "summary": "AWS AI League is a program that combines fun competition and hands-on learning with AWS AI services to help organizations upskill their workforce and gain valuable skills.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:13:52Z",
-      "url": "https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/"
-    },
-    {
-      "id": 61,
-      "title": "Canon Rolls Out Major Firmware Update for EOS R1, R5 Mark II, and More",
-      "summary": "Canon is rolling out a major firmware update for its EOS lineup, including the flagship EOS R1, introducing new features like Panning Assist and enhanced Servo.",
-      "source": "imaging resource",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:13:19Z",
-      "url": "https://www.imaging-resource.com/news/2025/07/17/canon-rolls-out-major-firmware-update-for-eos-r1-r5-mark-ii-and-more"
     }
   ]
 }
