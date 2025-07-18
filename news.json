@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-18T07:19:29.046Z",
+  "lastUpdate": "2025-07-18T07:43:00.984Z",
   "items": [
+    {
+      "id": 51,
+      "title": "European shares rise after four-day drop as ABB shines",
+      "summary": "European shares rebounded on Wednesday, fueled by robust quarterly results from ABB and optimism surrounding potential trade negotiations between the U.S. and EU.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:41:54Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-rise-after-four-day-drop-as-abb-shines/articleshow/122623696.cms"
+    },
+    {
+      "id": 52,
+      "title": "mseep-linkedin-mcp-server added to PyPI",
+      "summary": "mseep-linkedin-mcp-server has been added to PyPI, providing a MCP server for LinkedIn profile, company, and job scraping with Claude AI integration. It supports direct URL scraping and secure credential storage.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:40:11Z",
+      "url": "https://pypi.org/project/mseep-linkedin-mcp-server/"
+    },
+    {
+      "id": 53,
+      "title": "sleepy-driver added to PyPI",
+      "summary": "A new AI-powered drowsiness detection library for driver safety, called sleepy-driver, has been added to PyPI. The library aims to help prevent accidents caused by drowsy driving.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:40:07Z",
+      "url": "https://pypi.org/project/sleepy-driver/"
+    },
+    {
+      "id": 54,
+      "title": "mseep-dune-analytics-mcp added to PyPI",
+      "summary": "A new mcp server called mseep-dune-analytics-mcp has been added to PyPI, which bridges Dune Analytics data to AI agents. This innovation allows for easier integration of Dune Analytics data into AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:39:00Z",
+      "url": "https://pypi.org/project/mseep-dune-analytics-mcp/"
+    },
+    {
+      "id": 55,
+      "title": "Principal Financial Group Inc. Increases Stock Position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN)",
+      "summary": "Principal Financial Group Inc. increases stock position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) by 2.4% in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:38:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/principal-financial-group-inc-increases-stock-position-in-grid-dynamics-holdings-inc-nasdaqgdyn/"
+    },
+    {
+      "id": 56,
+      "title": "CamThink NeoEyes NE101 – A low-power, modular ESP32-S3 Vision AI Camera with optional 4G LTE and WiFi HaLow connectivity",
+      "summary": "CamThink NeoEyes NE101 is a low-power, modular ESP32-S3 Vision AI Camera with optional 4G LTE and WiFi HaLow connectivity.",
+      "source": "CNX Software",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:37:11Z",
+      "url": "https://www.cnx-software.com/2025/07/17/camthink-neoeyes-ne101-a-low-power-esp32-s3-vision-ai-camera-with-optional-4g-lte-and-wifi-halow-connectivity/"
+    },
+    {
+      "id": 57,
+      "title": "Japan's Nikkei gains on weaker yen; chip shares cheer TSMC earnings",
+      "summary": "Japan's Nikkei gains on weaker yen as chip shares cheer TSMC earnings",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:35:28Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-gains-on-weaker-yen-chip-shares-cheer-tsmc-earnings/articleshow/122623271.cms"
+    },
+    {
+      "id": 58,
+      "title": "Upstart Holdings, Inc. (NASDAQ:UPST) Shares Acquired by Principal Financial Group Inc.",
+      "summary": "Principal Financial Group Inc. significantly increased its holdings in AI startup Upstart Holdings, Inc. during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-17T07:35:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/upstart-holdings-inc-nasdaqupst-shares-acquired-by-principal-financial-group-inc/"
+    },
+    {
+      "id": 59,
+      "title": "Xiaomi Outdoor Camera 4: Finally, a Security Camera That Won’t Break the Bank",
+      "summary": "Xiaomi Outdoor Camera 4 offers an affordable option for home security, catering to those looking for cost-effective solutions in this tech sector.",
+      "source": "Gizchina.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:33:54Z",
+      "url": "https://www.gizchina.com/2025/07/17/xiaomi-outdoor-camera-4-finally-a-security-camera-that-wont-break-the-bank/"
+    },
+    {
+      "id": 60,
+      "title": "Bank of New York Mellon Corp Sells 15,922 Shares of Globant S.A. (NYSE:GLOB)",
+      "summary": "Bank of New York Mellon Corp decreased its position in Globant S.A. by 6.7% in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:32:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/bank-of-new-york-mellon-corp-sells-15922-shares-of-globant-s-a-nyseglob/"
+    },
+    {
+      "id": 61,
+      "title": "Air India plane crash: Pilots' grouping FIP flags concerns over AAIB initial report, wants subject experts in probe",
+      "summary": "Federation of Indian Pilots raises concerns over premature inference of pilot error in Air India plane crash investigation, calls for reassessment and inclusion of subject experts.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T07:32:23Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-plane-crash-pilots-grouping-fip-flags-concerns-over-aaib-initial-report-wants-subject-experts-in-probe/articleshow/122623054.cms"
+    },
+    {
+      "id": 62,
+      "title": "marsdevs-reviewer added to PyPI",
+      "summary": "marsdevs-reviewer, an AI-powered code review tool, has been added to PyPI. The tool learns from your repository to provide more effective code reviews.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:31:04Z",
+      "url": "https://pypi.org/project/marsdevs-reviewer/"
+    },
+    {
+      "id": 63,
+      "title": "iPhone 17: Apple Faces New Challenges Ahead of Launch",
+      "summary": "Apple faces challenges ahead of iPhone 17 launch due to criticism over lack of innovation, as competitors introduce new advancements.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:30:52Z",
+      "url": "https://www.geeky-gadgets.com/iphone-17-2/"
+    },
+    {
+      "id": 64,
+      "title": "Section 232 tariffs risk jeopardizing US-Taiwan relations",
+      "summary": "Section 232 tariffs risk jeopardizing US-Taiwan relations due to President Trump's economic and trade policies focusing on fair and reciprocal trade, reindustrializing the US, and moving supply chains back to the US.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:29:57Z",
+      "url": "https://www.digitimes.com/news/a20250717PD230/taiwan-government-usa-tariffs.html"
+    },
     {
       "id": 51,
       "title": "Kimi K2 AI Model by Moonshot Review : The Affordable AI That’s Shaking Up the Industry",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-17T06:19:58Z",
       "url": "https://www.livemint.com/money/personal-finance/confirmation-bias-in-investing-stock-market-investments-ai-in-investing-f-o-trading-11752726982321.html"
-    },
-    {
-      "id": 56,
-      "title": "It’s not that you look—it’s when: The hidden power of eye contact",
-      "summary": "A study from Flinders University shows that the timing and manner of making eye contact is crucial in human interactions, discovered through research on interactions with virtual partners.",
-      "source": "Science Daily",
-      "category": "research",
-      "timestamp": "2025-07-17T06:19:28Z",
-      "url": "https://www.sciencedaily.com/releases/2025/07/250716000854.htm"
-    },
-    {
-      "id": 57,
-      "title": "vibe-pentesterlab 0.0.0",
-      "summary": "The release of vibe-pentesterlab 0.0.0 introduces an AI-assisted offensive security framework, enhancing capabilities for cybersecurity professionals.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:19:01Z",
-      "url": "https://pypi.org/project/vibe-pentesterlab/0.0.0/"
-    },
-    {
-      "id": 58,
-      "title": "DeepSeek stumbles as user growth slows and R2 delay drags on; Nvidia H20 restart offers a lifeline",
-      "summary": "DeepSeek, a once-promising AI startup in China, is experiencing slower user growth and delays. However, a potential lifeline is in sight with Nvidia's expected restart of H20 chip exports to China, which could benefit DeepSeek's founder and CEO.",
-      "source": "Digitimes",
-      "category": "startups",
-      "timestamp": "2025-07-17T06:16:23Z",
-      "url": "https://www.digitimes.com/news/a20250717PD209/deepseek-nvidia-chips-growth.html"
-    },
-    {
-      "id": 59,
-      "title": "gokite 0.0.14",
-      "summary": "The release of gokite 0.0.14, a Python SDK for GoKite AI, provides developers with tools to easily integrate AI capabilities into their applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T06:15:48Z",
-      "url": "https://pypi.org/project/gokite/0.0.14/"
-    },
-    {
-      "id": 60,
-      "title": "Professors to get paid like creators, earn royalties from digital twins, AI avatars",
-      "summary": "Masters' Union introduces royalty model for professors to earn from digital twins and AI avatars teaching online courses.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:15:24Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/professors-to-get-paid-like-creators-earn-royalties-from-digital-twins-ai-avatars/articleshow/122617892.cms"
-    },
-    {
-      "id": 61,
-      "title": "Nano-X Imaging (NASDAQ:NNOX) Raised to “Strong-Buy” at LADENBURG THALM/SH SH",
-      "summary": "Nano-X Imaging (NASDAQ:NNOX) was upgraded to a strong-buy rating by LADENBURG THALM/SH SH in a research report sent to investors. Other analysts have also recently issued research reports about the company.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-17T06:14:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/nano-x-imaging-nasdaqnnox-raised-to-strong-buy-at-ladenburg-thalm-sh-sh/"
-    },
-    {
-      "id": 62,
-      "title": "What is pattern recognition?",
-      "summary": "Pattern recognition is the ability to detect arrangements of characteristics in data that yields information about a given system or data set.",
-      "source": "Techtarget.com",
-      "category": "research",
-      "timestamp": "2025-07-17T06:13:00Z",
-      "url": "https://www.techtarget.com/whatis/definition/pattern-recognition"
-    },
-    {
-      "id": 63,
-      "title": "️ Today's front pages: Lamine Yamal, the new number 10 at Can Barça",
-      "summary": "The announcement of Lamine Yamal's renewal as the new number 10 at Can Barça until 2031 is the big news of the day in Spain.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T06:11:00Z",
-      "url": "https://onefootball.com/en/news/todays-front-pages-lamine-yamal-the-new-number-10-at-can-barca-41386132"
-    },
-    {
-      "id": 64,
-      "title": "vibe-pentesterlab 2.0.0",
-      "summary": "Vibe-pentesterlab 2.0.0 is an AI-assisted offensive security framework.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:10:40Z",
-      "url": "https://pypi.org/project/vibe-pentesterlab/2.0.0/"
-    },
-    {
-      "id": 65,
-      "title": "残された時間",
-      "summary": "Air India crash probe focuses on actions of plane's captain",
-      "source": "Txt-nifty.com",
-      "category": "research",
-      "timestamp": "2025-07-17T06:07:51Z",
-      "url": "https://eiji.txt-nifty.com/diary/2025/07/post-fd3651.html"
-    },
-    {
-      "id": 66,
-      "title": "Show HN: Bytesites.ai – Launch a full website in moments using AI",
-      "summary": "Bytesites.ai allows users to launch a full website quickly using AI, providing a custom domain, SSL, editor, blogs, and forms. The pricing includes a one-time build fee of $99 and a yearly hosting fee of $24.99.",
-      "source": "Bytesites.ai",
-      "category": "applications",
-      "timestamp": "2025-07-17T06:06:21Z",
-      "url": "https://bytesites.ai"
-    },
-    {
-      "id": 51,
-      "title": "Project Nectar: Another Palantir Special",
-      "summary": "Project Nectar is a new surveillance state initiative being tested in the UK, raising ethical concerns about privacy and civil liberties.",
-      "source": "Nakedcapitalism.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T05:47:21Z",
-      "url": "https://www.nakedcapitalism.com/2025/07/project-nectar-another-palantir-special.html"
-    },
-    {
-      "id": 52,
-      "title": "Sadoun says WPP & Omnicom-IPG upheaval hurting advertising as Publicis pulls further ahead",
-      "summary": "Publicis CEO discusses how the upheaval between WPP & Omnicom-IPG is impacting advertising and explains why he is looking forward to the completion of the merger. Publicis is pulling ahead in the advertising industry amidst these changes.",
-      "source": "The Drum",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:45:00Z",
-      "url": "https://www.thedrum.com/news/2025/07/17/sadoun-says-wpp-omnicom-ipg-upheaval-hurting-advertising-publicis-pulls-further"
-    },
-    {
-      "id": 53,
-      "title": "Airtel Offers Perplexity Pro Users For Free",
-      "summary": "Airtel has partnered with AI search engine Perplexity to offer all its subscribers a 12-month subscription to the pro version of the tool, a first-ever move by a telecom operator.",
-      "source": "Ndtvprofit.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T05:44:56Z",
-      "url": "https://www.ndtvprofit.com/business/airtel-offers-perplexity-pro-to-36-crore-users-at-no-cost"
     }
   ]
 }
