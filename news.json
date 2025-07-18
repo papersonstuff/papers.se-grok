@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-18T17:17:14.100Z",
+  "lastUpdate": "2025-07-18T17:44:12.197Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ChatGPT Will Soon Shop Online, Make PowerPoints On Your Behalf",
+      "summary": "OpenAI is enhancing ChatGPT to perform various tasks like online shopping and creating presentations for users, as part of its effort to make AI agents more accessible to the general public.",
+      "source": "Ndtvprofit.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:42:14Z",
+      "url": "https://www.ndtvprofit.com/business/chatgpt-will-soon-shop-online-make-powerpoints-on-your-behalf"
+    },
+    {
+      "id": 52,
+      "title": "Google adds new features in Search as AI race intensifies",
+      "summary": "Google adds new GenAI features and business calling system to Search in response to increasing competition in AI search.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:42:00Z",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366627898/Google-adds-new-features-in-Search-as-AI-race-intensifies"
+    },
+    {
+      "id": 53,
+      "title": "Kinder Morgan kicks off oil and gas earnings season with a bullish outlook, in part thanks to thirsty data centers",
+      "summary": "Kinder Morgan's bullish outlook for oil and gas earnings is attributed in part to data centers, with the biggest driver of natural gas demand being exports and the rapid buildout of LNG terminals.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:41:57Z",
+      "url": "https://biztoc.com/x/1979a7b1c1d4205f"
+    },
+    {
+      "id": 54,
+      "title": "Why the Gates Foundation and Other Funders Are Spending $1 Billionon AI for Frontline Workers",
+      "summary": "The Gates Foundation and other funders are investing $1 billion in a new entity called NextLadder Ventures to develop AI solutions for frontline workers such as public defenders, parole officers, and social workers.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:41:53Z",
+      "url": "https://biztoc.com/x/8464e9d4ca1db881"
+    },
+    {
+      "id": 55,
+      "title": "For a Look at the Future of Work, These Startups Combine AI, Robots, and People",
+      "summary": "The age of the human-only workplace may be coming to an end as startups combine AI, robots, and people. A farms and a construction company offer a preview of what's to come.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:41:38Z",
+      "url": "https://biztoc.com/x/7a4728ca7901d036"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI Hires Entire Team From AI Startup Backed By Shopify And Radical Ventures 'To Ensure AGI Benefits All Of Humanity'",
+      "summary": "OpenAI hires entire team from AI startup Crossing Minds, backed by Shopify and Radical Ventures, to ensure AGI benefits all of humanity after raising $13.5 million and spending 8 years building personalized AI shopping technology.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:41:33Z",
+      "url": "https://biztoc.com/x/dd6c96620b0e18fc"
+    },
+    {
+      "id": 57,
+      "title": "Logistics Viewpoints Weekly News: From Reactive to Real-Time – Supply Chains Rewrite the Rules",
+      "summary": "Logistics industry transitioning from legacy systems to real-time orchestration and intelligent automation, rewriting supply chain rules.",
+      "source": "Logisticsviewpoints.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:41:09Z",
+      "url": "https://logisticsviewpoints.com/2025/07/17/logistics-weekly-from-reactive-to-real-time-supply-chains-rewrite-the-rules/"
+    },
+    {
+      "id": 58,
+      "title": "What Big Tech got out of Trump’s Big Beautiful Bill",
+      "summary": "The One Big Beautiful Bill Act signed into law by President Donald Trump on Independence Day benefits Big Tech by including provisions that could significantly impact the industry's largest players.",
+      "source": "The Verge",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:39:24Z",
+      "url": "https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill"
+    },
+    {
+      "id": 59,
+      "title": "Aerospace Ceramics Market Forecast to 2029: Advancing High-Performance Materials",
+      "summary": "Aerospace ceramics are forecasted to advance high-performance materials in the aerospace industry, improving fuel economy and enabling innovation in engines, spacecraft, and defense systems.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:39:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117535/0/en/Aerospace-Ceramics-Market-Forecast-to-2029-Advancing-High-Performance-Materials.html"
+    },
+    {
+      "id": 60,
+      "title": "You Can Call a Self-Driving Lucid Gravity EV Through Uber Starting in 2026",
+      "summary": "Luxury electric car maker Lucid will provide Uber with 20,000 self-driving Gravity SUVs for a premium rideshare option starting in 2026.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:38:16Z",
+      "url": "https://me.pcmag.com/en/ai/31024/you-can-call-a-self-driving-lucid-gravity-ev-through-uber-starting-in-2026"
+    },
+    {
+      "id": 61,
+      "title": "You Can Call a Self-Driving Lucid Gravity EV Through Uber Starting in 2026",
+      "summary": "Luxury electric car maker Lucid will provide Uber with 20,000 high-tech SUVs for a premium self-driving rideshare option starting in 2026.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:38:16Z",
+      "url": "https://uk.pcmag.com/ai/159181/you-can-call-a-self-driving-lucid-gravity-ev-through-uber-starting-in-2026"
+    },
+    {
+      "id": 62,
+      "title": "sherlock-ai 1.5.0",
+      "summary": "sherlock-ai 1.5.0 is a new Python package offering performance monitoring, logging utilities, and code analysis for developers to use in their AI projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:37:33Z",
+      "url": "https://pypi.org/project/sherlock-ai/1.5.0/"
+    },
+    {
+      "id": 63,
+      "title": "AI For Cybersecurity Is Advancing, But Users Need To Trust It",
+      "summary": "Advancements in AI for cybersecurity are being made, but user trust is crucial. Other topics in the newsletter include Nvidia's market value, a quick settlement in a Facebook lawsuit, and Perplexity's new AI web browser.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:36:05Z",
+      "url": "https://www.forbes.com/sites/cio/2025/07/17/ai-for-cybersecurity-is-advancing-but-users-need-to-trust-it/"
+    },
+    {
+      "id": 64,
+      "title": "Merchant of Record Firm Paddle Raises $25 Million to Fund Expansion",
+      "summary": "Merchant of Record Firm Paddle raises $25 million to fund expansion for digital product companies.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:33:03Z",
+      "url": "http://www.pymnts.com/news/investment-tracker/2025/merchant-of-record-firm-paddle-raises-25-million-to-fund-expansion/"
+    },
+    {
+      "id": 65,
+      "title": "Do later what can be done now",
+      "summary": "Procrastination can be a powerful asset in investing, especially in a world obsessed with instant action. The 'proxinator' thrives by delaying decisions, avoiding hype-driven mistakes, and sidestepping market crashes.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:32:41Z",
+      "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/do-later-what-can-be-done-now/articleshow/122665176.cms"
+    },
+    {
+      "id": 66,
+      "title": "Andy Byron and Kristin Cabot: What we know about the viral clip, marriage, and the company",
+      "summary": "Astronomer CEO Andy Byron and his HR head Kristin Cabot faced public scrutiny after being caught on the kiss cam at a Coldplay concert, raising questions about appropriate workplace relationships.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T17:32:35Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/andy-byron-and-kristin-cabot-what-we-know-about-the-viral-clip-marriage-and-the-company/articleshow/122664109.cms"
+    },
+    {
+      "id": 67,
+      "title": "Kinder Morgan kicks off oil and gas earnings season with a bullish outlook, in part thanks to thirsty data centers",
+      "summary": "Kinder Morgan is optimistic about oil and gas earnings season, citing the increased demand from data centers as a factor for growth. The company's focus on building pipelines to support data center growth across various states contributes to their bullish outlook.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:32:26Z",
+      "url": "https://fortune.com/2025/07/17/gas-pipeline-construction-ramps-meet-lng-data-center-demand/"
+    },
+    {
+      "id": 68,
+      "title": "News publishers take paywall-blocker 12ft.io offline",
+      "summary": "News publishers successfully secure removal of paywall-blocker website 12ft.io, highlighting ethical concerns surrounding bypassing paywalls online.",
+      "source": "The Verge",
+      "category": "ethics",
+      "timestamp": "2025-07-17T17:32:06Z",
+      "url": "https://www.theverge.com/news/709209/news-media-alliance-12ft-io-takedown-paywall"
+    },
     {
       "id": 51,
       "title": "Mayville Executives Signal Optimism After Accu-Fab Deal and Credit Boost",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T16:46:33Z",
       "url": "https://biztoc.com/x/13f5fdf09da7744f"
-    },
-    {
-      "id": 64,
-      "title": "Meta Flexes Ad Strength, Analyst Cites Travel Trends And Weak US Dollar",
-      "summary": "Keybanc analyst upgrades Meta Platforms rating and raises price forecast, citing strong ad trends and momentum in AI.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T16:46:31Z",
-      "url": "https://biztoc.com/x/6d223c757f205cba"
-    },
-    {
-      "id": 65,
-      "title": "Real photo shows Trump and wife Melania with Ghislaine Maxwell?",
-      "summary": "An old photo authentically shows U.S. President Donald Trump and his wife Melania Trump with convicted sex offender Ghislaine Maxwell.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T16:46:00Z",
-      "url": "https://www.snopes.com//fact-check/trump-photo-melania-ghislaine-maxwell/"
-    },
-    {
-      "id": 66,
-      "title": "lightman-ai 0.16.6",
-      "summary": "Lightman-ai has released version 0.16.6, a cybersecurity news aggregator that aims to provide up-to-date information in the field.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:45:37Z",
-      "url": "https://pypi.org/project/lightman-ai/0.16.6/"
-    },
-    {
-      "id": 67,
-      "title": "The A.I. revolution comes to us in the latest jaw-dropping trailer for Disney’s TRON: Ares",
-      "summary": "The latest TRON: Ares trailer warns of a future in which AI is unpredictable, evolving, and out to rewrite the rules.",
-      "source": "JoBlo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:45:08Z",
-      "url": "https://www.joblo.com/tron-ares-trailer-poster-disney/"
-    },
-    {
-      "id": 68,
-      "title": "Transcriptional modulation unique to vulnerable motor neurons predicts ALS across species and SOD1 mutations [RESEARCH]",
-      "summary": "Transcriptional modulation unique to vulnerable motor neurons predicts ALS across species and SOD1 mutations",
-      "source": "Cshlp.org",
-      "category": "research",
-      "timestamp": "2025-07-17T16:45:03Z",
-      "url": "https://genome.cshlp.org/content/early/2025/07/17/gr.279501.124.short?rss=1"
-    },
-    {
-      "id": 69,
-      "title": "Meta appoints generative AI VP to run Threads",
-      "summary": "Meta appoints Connor Hayes, Meta's VP of product for generative AI, to head Threads.",
-      "source": "TechCrunch",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:43:51Z",
-      "url": "https://techcrunch.com/2025/07/17/meta-appoints-generative-ai-vp-to-run-threads/"
-    },
-    {
-      "id": 70,
-      "title": "diffai-python 0.3.12",
-      "summary": "diffai-python 0.3.12 is an AI/ML specialized tool for deep tensor comparison and analysis.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:43:26Z",
-      "url": "https://pypi.org/project/diffai-python/0.3.12/"
-    },
-    {
-      "id": 51,
-      "title": "Warning Issued as Floods Threaten to 'Surround' Old School",
-      "summary": "A warning has been issued for a school in northeastern Kansas as heavy rain is expected to cause a creek to surge. The AI-generated voice is being used to convey this information.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:24:38Z",
-      "url": "https://biztoc.com/x/e928001e5b96ada3"
-    },
-    {
-      "id": 52,
-      "title": "Green Card Holder in US for 40 Years Detained by ICE While Walking Dog",
-      "summary": "Green card holder in US for 40 years detained by ICE while walking dog, raising ethical questions about immigration enforcement",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T16:24:36Z",
-      "url": "https://biztoc.com/x/240f749f6be5efb9"
-    },
-    {
-      "id": 53,
-      "title": "Netflix's 'Untamed'—Who Are the Cast and Where Is It Filmed?",
-      "summary": "Netflix's new series Untamed features AI-generated voice casting, showcasing the application of artificial intelligence in content creation.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:24:33Z",
-      "url": "https://biztoc.com/x/ba4ba01a1cb7b50f"
-    },
-    {
-      "id": 54,
-      "title": "Perplexity CEO predicts the AI talent wars will become like NBA free agency",
-      "summary": "Perplexity CEO predicts the AI talent wars will become like NBA free agency, with top talent having leverage. He also compares the situation to a transfer market.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T16:24:29Z",
-      "url": "https://biztoc.com/x/5897df90a1ca723a"
-    },
-    {
-      "id": 55,
-      "title": "Stock: Why Wall Street Thinks AI Will Fuel Its Growth",
-      "summary": "GitLab Inc. (NASDAQ:GTLB) is one of the AI Stocks Gaining Attention on Wall Street with a 'Buy' rating and $58 price target, indicating potential growth. The firm believes the software company is well-positioned for growth and share gains.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T16:24:28Z",
-      "url": "https://biztoc.com/x/bb54bc570aa654ec"
-    },
-    {
-      "id": 56,
-      "title": "ChatGPT Helps Write This Mayor’s Speeches. Now He Wants a Thousand Workers Using AI",
-      "summary": "A mayor is using ChatGPT to help write his speeches and now wants to expand the use of AI to a thousand workers. This highlights the increasing acceptance and utilization of AI technologies in important tasks.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:24:26Z",
-      "url": "https://biztoc.com/x/bef3d64e2a4fbc2b"
-    },
-    {
-      "id": 57,
-      "title": "Mike Rowe’s Mother Had an Important Warning for Him Before He Met Trump",
-      "summary": "Mike Rowe attended the Energy and Innovation Summit in Pittsburgh, where he sat on a panel and addressed high-profile individuals. Before meeting Trump, Rowe's mother gave him an important warning.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:23:46Z",
-      "url": "https://freerepublic.com/focus/f-bloggers/4329191/posts"
-    },
-    {
-      "id": 58,
-      "title": "UK online safety law is going to change the way we use the internet",
-      "summary": "UK online safety law is set to change internet use to protect children from accessing pornography, with broader implications",
-      "source": "New Scientist",
-      "category": "ethics",
-      "timestamp": "2025-07-17T16:23:29Z",
-      "url": "https://www.newscientist.com/article/2488541-uk-online-safety-law-is-going-to-change-the-way-we-use-the-internet/"
-    },
-    {
-      "id": 59,
-      "title": "The New ‘Tron: Ares’ Trailer Teases Jared Leto’s AI Warrior—and His Wild Ride Through the Real World",
-      "summary": "The new 'Tron: Ares' trailer showcases Jared Leto's AI warrior and his journey through the real world, with Jeff Bridges making a cameo. The highly anticipated third 'Tron' installment is set to release in October.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:22:53Z",
-      "url": "https://gizmodo.com/the-new-tron-ares-trailer-teases-jared-letos-ai-warrior-and-his-wild-ride-through-the-real-world-2000630780"
-    },
-    {
-      "id": 60,
-      "title": "Perplexity CEO predicts the AI talent wars will become like NBA free agency",
-      "summary": "Perplexity CEO predicts the AI talent wars will become like NBA free agency, with some stand-out AI stars having significant leverage.",
-      "source": "Business Insider",
-      "category": "startup",
-      "timestamp": "2025-07-17T16:21:17Z",
-      "url": "https://www.businessinsider.com/perplexity-ceo-aravind-srinivas-ai-talent-wars-nba-2025-7"
-    },
-    {
-      "id": 61,
-      "title": "How To Crush Your Enterprise's Tech Debt With AI",
-      "summary": "Nigel Vaz, CEO of Publicis Sapient, discusses how AI is being used to address tech debt in enterprises, highlighting the success of their Slingshot AI platform in helping a healthcare client modernize their legacy systems.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:21:16Z",
-      "url": "https://www.forbes.com/video/08caf671-319d-4144-ab9e-5ae9747ac07d/how-to-crush-your-enterprises-tech-debt-with-ai/"
     }
   ]
 }
