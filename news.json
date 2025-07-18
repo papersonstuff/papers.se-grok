@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-18T21:50:09.700Z",
+  "lastUpdate": "2025-07-18T22:15:49.945Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+      "summary": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI goes beyond traditional statistical metrics like perplexity or BLEU scores, providing a deeper understanding for real-world scenarios.",
+      "source": "Amazon.com",
+      "category": "research",
+      "timestamp": "2025-07-17T22:12:26Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
+    },
+    {
+      "id": 52,
+      "title": "Economics & Investing For Preppers",
+      "summary": "Latest news and commentary on economics, market trends, stocks, investing opportunities, and precious metals markets.",
+      "source": "Survivalblog.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:12:19Z",
+      "url": "https://survivalblog.com/2025/07/18/economics-investing-for-preppers-45/"
+    },
+    {
+      "id": 53,
+      "title": "coppersun-brass 2.3.14",
+      "summary": "Coppersun-brass 2.3.14 is a development intelligence tool for AI agents in the Copper Sun product line.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:10:10Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.14/"
+    },
+    {
+      "id": 54,
+      "title": "48 Strategic Icebreakers for Meetings, Conferences, and Corporate Events",
+      "summary": "Icebreakers are evolving from cheesy to strategic, with a focus on creating stronger connections and driving participation. Here's how to use them with intent across various formats.",
+      "source": "Skift",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:09:29Z",
+      "url": "http://meetings.skift.com/2025/07/17/icebreakers/"
+    },
+    {
+      "id": 55,
+      "title": "Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors",
+      "summary": "Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors, demonstrating how to integrate them for scaling knowledge bases to handle millions of documents.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:09:04Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-cost-effective-rag-applications-with-amazon-bedrock-knowledge-bases-and-amazon-s3-vectors/"
+    },
+    {
+      "id": 56,
+      "title": "Top 10 SaaS Solutions for Generative Engine Optimization (GEO) in 2025 — Expanded Guide",
+      "summary": "Top 10 SaaS Solutions for Generative Engine Optimization are becoming increasingly important as Generative-AI search transitions from experiment to mainstream traffic driver.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:08:30Z",
+      "url": "https://contently.com/2025/07/17/top-10-saas-solutions-for-generative-engine-optimization-geo-in-2025-expanded-guide/"
+    },
+    {
+      "id": 57,
+      "title": "Pragmatic engagement – what Albanese’s visit reveals about China relations in a turbulent world",
+      "summary": "Albanese's visit to China is focused on enhancing the economic partnership while steering clear of ideological disagreements.",
+      "source": "The Conversation Africa",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:08:29Z",
+      "url": "https://theconversation.com/pragmatic-engagement-what-albaneses-visit-reveals-about-china-relations-in-a-turbulent-world-260578"
+    },
+    {
+      "id": 58,
+      "title": "Full List as Supreme Court Rules for Donald Trump 15 Times in a Row",
+      "summary": "The U.S. Supreme Court has ruled in favor of President Donald Trump 15 times in a row, allowing him to quickly reshape the federal government. Voice AI technology has been used to generate this news, leading to potential inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T22:08:08Z",
+      "url": "https://biztoc.com/x/26c64863a82d2320"
+    },
+    {
+      "id": 59,
+      "title": "Adam Mosseri steps back from Threads, app to be overseen by Meta’s AI lead",
+      "summary": "Adam Mosseri steps back from Threads, app to be overseen by Meta’s AI lead, potentially impacting the app's future.",
+      "source": "9to5Mac",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:06:53Z",
+      "url": "https://9to5mac.com/2025/07/17/adam-mosseri-steps-back-from-threads-app-to-be-overseen-by-metas-ai-lead/"
+    },
+    {
+      "id": 60,
+      "title": "Show HN: Claude Memory Visualizer",
+      "summary": "A new tool called Claude Memory Visualizer has been created to visualize memory data from the Knowledge Graph Memory Server, allowing users to see entities and relationships in a visual format with zero configuration required.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:06:28Z",
+      "url": "https://github.com/srijanshukla18/claude-memory-viz"
+    },
+    {
+      "id": 61,
+      "title": "EBC77: Single-board computer sports PCIe and was developed in collaboration with Canonical",
+      "summary": "The EBC77 single-board computer, developed in collaboration with Canonical, features PCIe and an NPU for AI applications, distinguishing it from the Raspberry Pi.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:06:00Z",
+      "url": "https://www.notebookcheck.net/EBC77-Single-board-computer-sports-PCIe-and-was-developed-in-collaboration-with-Canonical.1060747.0.html"
+    },
+    {
+      "id": 62,
+      "title": "PDF Solutions to Report Second Quarter Fiscal 2025 Financial Results on August 7, 2025",
+      "summary": "PDF Solutions, Inc. to report Second Quarter Fiscal 2025 Financial Results on August 7, 2025, indicating financial performance in the semiconductor industry.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117679/7239/en/PDF-Solutions-to-Report-Second-Quarter-Fiscal-2025-Financial-Results-on-August-7-2025.html"
+    },
+    {
+      "id": 63,
+      "title": "hume 0.10.1",
+      "summary": "hume 0.10.1 is a Python SDK that allows developers to easily integrate Hume AI into their projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:03:08Z",
+      "url": "https://pypi.org/project/hume/0.10.1/"
+    },
+    {
+      "id": 64,
+      "title": "Robot creates world-first portrait of King Charles III",
+      "summary": "An ultra-realistic humanoid robot has created a world-first portrait of King Charles III.",
+      "source": "The-independent.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:02:17Z",
+      "url": "https://www.the-independent.com/tv/lifestyle/king-charles-robot-portrait-video-b2791268.html"
+    },
+    {
+      "id": 65,
+      "title": "Boost Your Smart Home Security: The 5 Best Security Cameras You Can Get in 2025!",
+      "summary": "Upgrade your home security with the 5 best security cameras for 2025 according to Phandroid.",
+      "source": "Phandroid - News for Android",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:00:55Z",
+      "url": "https://phandroid.com/2025/07/17/boost-your-smart-home-security-the-5-best-security-cameras-you-can-get-in-2025/"
+    },
+    {
+      "id": 66,
+      "title": "AI demand could drive up US electricity bills – even if it fizzles",
+      "summary": "AI demand could drive up US electricity bills due to inflated estimates of data center growth, leading to higher costs for households and small businesses even if AI demand decreases.",
+      "source": "New Scientist",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:00:54Z",
+      "url": "https://www.newscientist.com/article/2488769-ai-demand-could-drive-up-us-electricity-bills-even-if-it-fizzles/"
+    },
+    {
+      "id": 67,
+      "title": "coppersun-brass 2.3.13",
+      "summary": "Coppersun-brass 2.3.13 is a development intelligence tool for AI agents, part of the Copper Sun product line.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:00:37Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.13/"
+    },
+    {
+      "id": 68,
+      "title": "Woman From Viral Coldplay Video Was ‘Energized’ to Meet CEO Andy Byron",
+      "summary": "Woman from viral Coldplay video excited to meet CEO of Astronomer, expressing enthusiasm for the opportunities at the company.",
+      "source": "Us Weekly",
+      "category": "startups",
+      "timestamp": "2025-07-17T22:00:01Z",
+      "url": "https://www.usmagazine.com/celebrity-news/news/woman-from-viral-coldplay-video-was-energized-to-meet-ceo-andy-byron/#article"
+    },
     {
       "id": 51,
       "title": "Voice AI is having a moment: Here are the startups that could get acquired next",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T21:20:32Z",
       "url": "https://financialpost.com/pmn/business-pmn/talen-to-buy-two-us-gas-fired-power-plants-for-3-8-billion"
-    },
-    {
-      "id": 63,
-      "title": "Show HN: TrueSift – AI-Powered Real-Time Fact-Checking Chrome Extension",
-      "summary": "TrueSift is an AI-powered Chrome extension that helps verify the accuracy of online content in real time by analyzing text on any page and highlighting questionable claims.",
-      "source": "Truesift.dev",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:15:34Z",
-      "url": "https://www.truesift.dev/"
-    },
-    {
-      "id": 64,
-      "title": "Norfolk Southern gains after WSJ reports Union Pacific explores acquisition deal",
-      "summary": "Norfolk Southern stock rose after reports of Union Pacific exploring an acquisition deal.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:15:30Z",
-      "url": "https://finance.yahoo.com/news/norfolk-southern-gains-wsj-reports-211530843.html"
-    },
-    {
-      "id": 65,
-      "title": "Uber to deploy 20,000 autonomous taxis in partnership with Lucid and Nuro",
-      "summary": "Uber plans to deploy 20,000 autonomous taxis through partnerships with Lucid and Nuro, advancing innovation in the transportation industry.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:15:14Z",
-      "url": "https://siliconangle.com/2025/07/17/uber-deploy-20000-autonomous-taxis-partnership-lucid-nuro/"
-    },
-    {
-      "id": 66,
-      "title": "bioguider 0.2.7",
-      "summary": "Bioguider 0.2.7 is an AI-powered package designed to assist biomedical developers in creating clear documentation.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:15:03Z",
-      "url": "https://pypi.org/project/bioguider/0.2.7/"
-    },
-    {
-      "id": 51,
-      "title": "AI-Powered Smart Devices Help Older Adults Age at Home, Survey Finds",
-      "summary": "AI-powered smart devices are found to be helpful for older adults aging at home, though skepticism remains towards AI-generated content.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:14:48Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405194"
-    },
-    {
-      "id": 52,
-      "title": "White House CEA Report Finds Trump's Energy Policies Could Add Almost 2 Points to GDP by 2035",
-      "summary": "White House CEA Report finds Trump's energy policies could add almost 2 points to GDP by 2035.",
-      "source": "Breitbart News",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:13:45Z",
-      "url": "https://www.breitbart.com/politics/2025/07/17/white-house-cea-report-finds-trumps-energy-policies-could-add-almost-2-points-to-gdp-by-2035/"
-    },
-    {
-      "id": 53,
-      "title": "iamret 0.1.0",
-      "summary": "iamret 0.1.0 is an AI-powered terminal assistant designed for system administration tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:13:34Z",
-      "url": "https://pypi.org/project/iamret/0.1.0/"
-    },
-    {
-      "id": 54,
-      "title": "iamret added to PyPI",
-      "summary": "iamret, an AI-powered terminal assistant for system administration, has been added to PyPI for easier installation and usage.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:13:34Z",
-      "url": "https://pypi.org/project/iamret/"
-    },
-    {
-      "id": 55,
-      "title": "5 Lucrative, AI-Enhanced Side Hustles You Can Start This Weekend",
-      "summary": "AI-enhanced side hustles are becoming more popular as workers find the AI they once feared can help to build lucrative career paths with the same tools corporations use.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:12:52Z",
-      "url": "https://www.forbes.com/sites/bryanrobinson/2025/07/17/5-lucrative-ai-enhanced-side-hustles-you-can-start-this-weekend/"
-    },
-    {
-      "id": 56,
-      "title": "openhands-ai 0.49.1",
-      "summary": "The latest update of openhands-ai, version 0.49.1, aims to provide users with the ability to code less and achieve more. This AI platform aims to streamline development processes and increase productivity.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:12:32Z",
-      "url": "https://pypi.org/project/openhands-ai/0.49.1/"
-    },
-    {
-      "id": 57,
-      "title": "House passes trio of crypto bills to help regulate digital currency, bars Fed from making its own",
-      "summary": "House passes trio of crypto bills to help regulate digital currency, bars Fed from making its own, in a significant development for the cryptocurrency industry.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:11:59Z",
-      "url": "https://nypost.com/2025/07/17/us-news/house-passes-trio-of-crypto-bills-to-help-regulate-digital-currency-bars-fed-from-making-its-own/"
-    },
-    {
-      "id": 58,
-      "title": "How to Make Your Content the Star of Google AI Overviews",
-      "summary": "Google AI Overviews (AIO) now appear in 13% of U.S. searches, and the article discusses how to make your content stand out in these AI-generated summaries.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:11:51Z",
-      "url": "https://contently.com/2025/07/17/how-to-make-your-content-the-star-of-google-ai-overviews/"
-    },
-    {
-      "id": 59,
-      "title": "Slack will generate thread summaries and AI notes from your huddles now",
-      "summary": "Slack has introduced new features such as thread summaries and AI notes to enhance productivity during huddles. Users can now access live translations, channel recaps, and automated action items.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:11:41Z",
-      "url": "https://www.zdnet.com/article/slack-will-generate-thread-summaries-and-ai-notes-from-your-huddles-now/"
-    },
-    {
-      "id": 60,
-      "title": "Econ surprise, Wall Street's new highs",
-      "summary": "Econ surprise, Wall Street's new highs - Another batch of upbeat U.S. economic data including solid retail sales boosted risk appetite on Thursday.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:10:54Z",
-      "url": "https://finance.yahoo.com/news/econ-surprise-wall-streets-highs-211054152.html"
-    },
-    {
-      "id": 61,
-      "title": "Jared Leto is a video game assassin brought into the real world in new Tron: Ares trailer, complete with the power to respawn",
-      "summary": "Jared Leto becomes a video game assassin in real life in the new Tron: Ares trailer, showcasing the application of AI in creating super-powered digital characters in the real world.",
-      "source": "GamesRadar+",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:10:10Z",
-      "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/jared-leto-is-a-video-game-assassin-brought-into-the-real-world-in-new-tron-ares-trailer-complete-with-the-power-to-respawn/"
-    },
-    {
-      "id": 62,
-      "title": " U. de Chile line-up confirmed to face Guaraní",
-      "summary": "Universidad de Chile's AI, The Romantic Traveler, will be participating in the playoffs for the round of 16 of the 2025 CONMEBOL Sudamericana at the National Stadium.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:10:00Z",
-      "url": "https://onefootball.com/en/news/u-de-chile-line-up-confirmed-to-face-guarani-41389833"
-    },
-    {
-      "id": 63,
-      "title": "Which matters more for the economy — babies or robots?",
-      "summary": "Two sweeping visions of the future have been unfolding, with one highlighting the declining birth rates leading to aging societies, while the other emphasizes the rise of robots and AI impacting the economy.",
-      "source": "Vox",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:09:42Z",
-      "url": "https://www.vox.com/economy/420074/ai-birth-rates-pronatalism-future-of-work-automation-jobs-economy"
-    },
-    {
-      "id": 64,
-      "title": "Integrating Amazon OpenSearch Ingestion with Amazon RDS and Amazon Aurora",
-      "summary": "Integrating Amazon OpenSearch Ingestion with Amazon RDS and Amazon Aurora enables near real-time data synchronization and eliminates complex data pipelines.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:09:12Z",
-      "url": "https://aws.amazon.com/blogs/big-data/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora/"
     }
   ]
 }
