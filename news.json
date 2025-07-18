@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-18T11:13:48.816Z",
+  "lastUpdate": "2025-07-18T11:30:26.789Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Elon Musk says \"We need more babies\" — then creates digital girlfriends so you actually won't go out and make any babies",
+      "summary": "Elon Musk promotes having more babies but also creates digital girlfriends through Grok, potentially discouraging real relationships and reproduction.",
+      "source": "Windows Central",
+      "category": "ethics",
+      "timestamp": "2025-07-17T11:30:00Z",
+      "url": "https://www.windowscentral.com/artificial-intelligence/elon-musk-we-need-more-babies-digital-girlfriends"
+    },
+    {
+      "id": 52,
+      "title": "South Korean priests undergo AI training",
+      "summary": "South Korean priests are undergoing AI training at a library in a shopping mall, signaling a new frontier in utilizing technology for preaching and pastoral work.",
+      "source": "Catholicnewsagency.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:30:00Z",
+      "url": "https://www.catholicnewsagency.com/news/265383/south-korean-priests-undergo-ai-training"
+    },
+    {
+      "id": 53,
+      "title": "OptimizeRx Sets Second Quarter 2025 Conference Call for August 7, 2025, at 4:30 p.m. ET",
+      "summary": "OptimizeRx Corp. will hold a conference call on August 7, 2025, to discuss their healthcare technology solutions for reaching and engaging healthcare professionals and patients.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117118/0/en/OptimizeRx-Sets-Second-Quarter-2025-Conference-Call-for-August-7-2025-at-4-30-p-m-ET.html"
+    },
+    {
+      "id": 54,
+      "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
+      "summary": "Hackers have found new ways to hide malware in DNS records, exploiting the domain name system to conceal malicious code and prompt injection attacks against chatbots.",
+      "source": "Wired",
+      "category": "research",
+      "timestamp": "2025-07-17T11:30:00Z",
+      "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/"
+    },
+    {
+      "id": 55,
+      "title": "Digi Power X Acquires Supermicro NVIDIA B200 Systems to Launch Tier 3 NeoCloud AI Infrastructure",
+      "summary": "Digi Power X acquires Supermicro NVIDIA B200 Systems to launch Tier 3 NeoCloud AI infrastructure, designated news release for the Company's prospectus supplement.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117121/0/en/Digi-Power-X-Acquires-Supermicro-NVIDIA-B200-Systems-to-Launch-Tier-3-NeoCloud-AI-Infrastructure.html"
+    },
+    {
+      "id": 56,
+      "title": "YouTube to Have a Major Presence at Mipcom Cannes for 20th Anniversary",
+      "summary": "YouTube will have a major presence at Mipcom Cannes for its 20th anniversary, marking a significant move in the TV industry.",
+      "source": "Variety",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:29:59Z",
+      "url": "https://variety.com/2025/tv/global/youtube-major-presence-mipcom-cannes-20th-anniversary-1236463565/"
+    },
+    {
+      "id": 57,
+      "title": "LTIMindtree Q1 Results: Cons profit jumps 11% YoY to Rs 1,255 crore; revenue up 8%",
+      "summary": "LTIMindtree reported an 11% increase in Q1FY26 consolidated net profit to Rs 1,255 crore, with revenue up 8% at Rs 9,841 crore.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:29:42Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltimindtree-q1-results-cons-profit-jumps-11-yoy-to-rs-1255-crore-revenue-up-8/articleshow/122639510.cms"
+    },
+    {
+      "id": 58,
+      "title": "Google Gemini Exploited: AI Attack Targets 1.8 Billion Gmail Users",
+      "summary": "Over 1.8 billion Gmail users are open to a new form of cyberattack using artificial intelligence.",
+      "source": "Gizchina.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T11:28:37Z",
+      "url": "https://www.gizchina.com/2025/07/17/google-gemini-exploited-ai-attack-targets-1-8-billion-gmail-users/"
+    },
+    {
+      "id": 59,
+      "title": "New Apple Watch Gesture in watchOS 26 Limited to Newer Models",
+      "summary": "New Apple Watch gesture in watchOS 26 limited to newer models allows users to dismiss notifications and return to watch face with a wrist flick.",
+      "source": "MacRumors",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:27:46Z",
+      "url": "https://www.macrumors.com/2025/07/17/new-apple-watch-gesture-watchos-26-newer-models/"
+    },
+    {
+      "id": 60,
+      "title": "timbal 0.57.2",
+      "summary": "timbal 0.57.2 is a strongly opinionated framework for building and orchestrating agentic AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:27:08Z",
+      "url": "https://pypi.org/project/timbal/0.57.2/"
+    },
+    {
+      "id": 61,
+      "title": "Picsart: Create Scroll-Stopping Ads in Minutes with AI-Powered Workflows",
+      "summary": "Creating high-performing ads using AI-powered workflows can save time and money for marketers, who are expected to fulfill multiple roles. The pressure to launch quickly and scale effortlessly adds to the need for AI in advertising.",
+      "source": "Martech.zone",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:27:01Z",
+      "url": "https://martech.zone/picsart-create-scroll-stopping-ads-in-minutes-with-ai-powered-workflows/"
+    },
+    {
+      "id": 62,
+      "title": "Just 3 in 10 aviation executives believe their strategy can adequately address the emerging risk challenges of the next decade",
+      "summary": "Just 3 in 10 aviation executives believe their strategy can adequately address the emerging risk challenges of the next decade, according to a new report by Willis. ",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-17T11:27:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117113/0/en/Just-3-in-10-aviation-executives-believe-their-strategy-can-adequately-address-the-emerging-risk-challenges-of-the-next-decade.html"
+    },
+    {
+      "id": 63,
+      "title": "wayak-ai added to PyPI",
+      "summary": "wayak-ai has been added to PyPI, making it easier for developers to access the official Python library for the wayak-ai API.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:26:53Z",
+      "url": "https://pypi.org/project/wayak-ai/"
+    },
+    {
+      "id": 64,
+      "title": "wayak-ai 0.0.1a1",
+      "summary": "wayak-ai 0.0.1a1 is the official Python library for the wayak-ai API, facilitating the integration of artificial intelligence capabilities into applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:26:53Z",
+      "url": "https://pypi.org/project/wayak-ai/0.0.1a1/"
+    },
+    {
+      "id": 65,
+      "title": "Quantum code breaking? You'd get further with an 8-bit computer, an abacus, and a dog",
+      "summary": "Computer scientist Peter Gutmann criticizes quantum code breaking as 'bollocks' and suggests traditional methods may be more effective. The US National Institute for Standards and Technology has been advocating for post-quantum cryptographic algorithms since 2016.",
+      "source": "Theregister.com",
+      "category": "research",
+      "timestamp": "2025-07-17T11:26:10Z",
+      "url": "https://www.theregister.com/2025/07/17/quantum_cryptanalysis_criticism/"
+    },
+    {
+      "id": 66,
+      "title": "YouTuber loses 11 kg in 46 days with ChatGPT’s prompts; shares daily routine, no trainers or fad diets involved",
+      "summary": "YouTuber uses ChatGPT prompts to lose 11 kg in 46 days through personalized fitness and diet plan.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:25:51Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/youtuber-loses-11-kg-in-46-days-with-chatgpts-prompts-shares-daily-routine-no-trainers-or-fad-diets-involved/articleshow/122638959.cms"
+    },
+    {
+      "id": 67,
+      "title": "Fan Bingbing Stars in Magic-Realist Short ‘Small, Sharp & Green’ for Anthony Chen’s Giraffe Pictures (EXCLUSIVE)",
+      "summary": "Chinese superstar Fan Bingbing has finished filming Giraffe Pictures' magic-realist short film 'Small, Sharp & Green'. Giraffe Pictures recently completed production on Anthony Chen's upcoming feature 'We Are All Strangers'.",
+      "source": "Variety",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:25:08Z",
+      "url": "https://variety.com/2025/film/news/fan-bingbing-magic-realist-short-small-sharp-green-1236463568/"
+    },
     {
       "id": 51,
       "title": "Realme Buds T200: με Spatial Sound, ANC και BT 5.4 σχεδόν τσάμπα!",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T10:10:01Z",
       "url": "https://www.neowin.net/software/microsoft-edge-1380335195/"
-    },
-    {
-      "id": 61,
-      "title": "‘Just ridiculous,’ says Google Brain founder on hype about AI taking away all jobs, shares tips how anyone can become powerful",
-      "summary": "Andrew Ng, a prominent AI expert, dismisses the excessive hype surrounding Artificial General Intelligence (AGI) and advises focusing on mastering existing tools for practical applications.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T10:09:40Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/just-ridiculous-says-google-brain-founder-on-hype-about-ai-taking-away-all-jobs-shares-tips-how-anyone-can-become-powerful/articleshow/122633320.cms"
-    },
-    {
-      "id": 62,
-      "title": "Teacher Retirement System of Texas Purchases New Position in Upstart Holdings, Inc. (NASDAQ:UPST)",
-      "summary": "Teacher Retirement System of Texas purchased a new stake in Upstart Holdings, Inc. (NASDAQ:UPST) in the 1st quarter, acquiring 11,947 shares of the company's stock valued at approximately $550,000.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-17T10:08:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/teacher-retirement-system-of-texas-purchases-new-position-in-upstart-holdings-inc-nasdaqupst/"
-    },
-    {
-      "id": 63,
-      "title": "Metaverse Stocks To Keep An Eye On – July 15th",
-      "summary": "Metaverse stocks such as NVIDIA, Accenture, and Globant are recommended to watch as they are companies involved in building, enabling, or monetizing immersive digital environments for user interaction via avatars.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:08:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/metaverse-stocks-to-keep-an-eye-on-july-15th/"
-    },
-    {
-      "id": 64,
-      "title": "Samsung's boss escapes prison, but can he escape the market slump?",
-      "summary": "Samsung's boss escapes prison, but faces challenges in navigating the market slump.",
-      "source": "PhoneArena",
-      "category": "economy",
-      "timestamp": "2025-07-17T10:08:35Z",
-      "url": "https://www.phonearena.com/news/Samsungs-boss-escapes-prison-but-can-he-escape-the-market-slump_id172356"
-    },
-    {
-      "id": 65,
-      "title": "Congress Should Reject Cryptocurrency Double Standard | Opinion",
-      "summary": "Congress is being urged to implement new ethics rules preventing the president from issuing or owning digital assets like cryptocurrency during discussions on regulating digital assets.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T10:07:44Z",
-      "url": "https://biztoc.com/x/5fb3f542ddc1d972"
-    },
-    {
-      "id": 51,
-      "title": "Chiratae-backed Uniphore Technologies in talks to raise up to $250 million",
-      "summary": "Chiratae-backed Uniphore Technologies is in talks to raise up to $250 million to fuel global expansion and deepen its AI bets.",
-      "source": "Livemint",
-      "category": "startups",
-      "timestamp": "2025-07-17T09:45:03Z",
-      "url": "https://www.livemint.com/companies/start-ups/chirataebacked-uniphore-technologies-in-talks-to-raise-up-to-250-million-11752737476085.html"
-    },
-    {
-      "id": 52,
-      "title": "American firms in China report record-low new investment plans for 2025, and doubts about their profitability",
-      "summary": "American firms in China are reporting record-low new investment plans for 2025 due to doubts about profitability and negative effects from U.S. export control measures, with many facing lost sales and reputational damage as unreliable suppliers.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T09:44:41Z",
-      "url": "https://fortune.com/asia/2025/07/17/american-firms-china-record-low-investment-plans-2025-doubts-profitability/"
-    },
-    {
-      "id": 53,
-      "title": "New Kiro AI IDE Released by Amazon with Free Claude 4 Access for Limited Time",
-      "summary": "Amazon has released a new AI IDE called Kiro, which aims to streamline the coding process by acting as a personal assistant. The tool comes with free access to Claude 4 for a limited time, offering developers assistance with tedious tasks.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-17T09:42:32Z",
-      "url": "https://www.geeky-gadgets.com/amazon-ai-ide-kiro/"
-    },
-    {
-      "id": 54,
-      "title": "ChatGPT Plus Gets Record Mode on Mac for Meeting Transcription",
-      "summary": "OpenAI expands access to Record Mode in ChatGPT for macOS, allowing Plus subscribers to use AI-powered transcription feature initially rolled out to business users last month.",
-      "source": "MacRumors",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:41:43Z",
-      "url": "https://www.macrumors.com/2025/07/17/chatgpt-plus-gets-record-mode-macos/"
-    },
-    {
-      "id": 55,
-      "title": "aiyt 0.4.4",
-      "summary": "The latest version of aiyt AI tool, 0.4.4, can transcribe, chat, and summarize YouTube videos using AI technology.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:40:57Z",
-      "url": "https://pypi.org/project/aiyt/0.4.4/"
-    },
-    {
-      "id": 56,
-      "title": "『2030年の営業 組織の知×AIで生き残る』7月1９日発売｜出版記念ウェビナーを7月24日開催――AI時代に「ヒトらしさ」で成果を生む営業組織とは？",
-      "summary": "A new book titled '2030年の営業 組織の知×AIで生き残る' discusses how sales organizations can survive in the AI era by combining human skills with AI. A webinar celebrating the book's release will be held on July 24th, exploring how sales organizations can leverage 'humanity' to achieve success in the age of AI.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:40:03Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000115291.html"
-    },
-    {
-      "id": 57,
-      "title": "Anthropic draws investor interest at more than $100 billion valuation",
-      "summary": "Anthropic draws investor interest at more than $100 billion valuation after earlier round led by Lightspeed Venture Partners.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-17T09:39:37Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-draws-investor-interest-at-more-than-100-billion-valuation/articleshow/122631651.cms"
-    },
-    {
-      "id": 58,
-      "title": "Resume Optimization Tools - Easy2Resume Helps You Create Standout, ATS-Friendly Resumes Faster (TrendHunter.com)",
-      "summary": "Easy2Resume is an AI-enhanced resume optimization tool designed to assist job seekers in refining and improving their resumes for better visibility and impact.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:38:06Z",
-      "url": "https://www.trendhunter.com/trends/easy2resume"
-    },
-    {
-      "id": 59,
-      "title": "mseep-ailice added to PyPI",
-      "summary": "AIlice, a fully autonomous AI agent, has been added to PyPI. The project aims to create an artificial intelligence assistant similar to JARVIS based on the open-source LLM.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T09:36:39Z",
-      "url": "https://pypi.org/project/mseep-ailice/"
-    },
-    {
-      "id": 60,
-      "title": "Publicis raises its full-year growth forecast to ~5% after stronger-than-expected Q2 results, and CEO Arthur Sadoun dismisses concerns over Meta's AI ad systems (Reuters)",
-      "summary": "Publicis raises full-year growth forecast to ~5% after strong Q2 results, CEO dismisses concerns over Meta's AI ad systems",
-      "source": "Mediagazer.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T09:35:01Z",
-      "url": "https://mediagazer.com/250717/p5"
-    },
-    {
-      "id": 61,
-      "title": "BTC Mining Has Gone Mobile, PFMCrypto Launches Mobile-Based BTC Cloud Mining Platform for Global Users",
-      "summary": "BTC mining startup PFMCrypto launches mobile-based cloud mining platform for global users, offering seamless earnings, AI-optimized contracts, and 24/7 global access.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-17T09:35:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117049/0/en/BTC-Mining-Has-Gone-Mobile-PFMCrypto-Launches-Mobile-Based-BTC-Cloud-Mining-Platform-for-Global-Users.html"
-    },
-    {
-      "id": 62,
-      "title": "NVIDIA CEO makes third visit to China this year as H20 AI chip sales resume",
-      "summary": "NVIDIA CEO makes third visit to China as H20 AI chip sales resume, targeting the Chinese market. Company also launched a new RTX Pro GPU for smart factories and logistics applications.",
-      "source": "TechNode",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:34:28Z",
-      "url": "http://technode.com/2025/07/17/nvidia-ceo-makes-third-visit-to-china-this-year-as-h20-ai-chip-sales-resume/"
     }
   ]
 }
