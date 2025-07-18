@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T06:24:12.912Z",
+  "lastUpdate": "2025-07-18T06:55:30.146Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Claude Code Tips & Tricks to Boost Your Workflows and Coding",
+      "summary": "Claude Code offers tips and tricks to simplify coding workflows and boost efficiency for developers grappling with complex projects and repetitive tasks.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:55:05Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-tips-tricks-to-boost-your-workflows-and-coding/"
+    },
+    {
+      "id": 52,
+      "title": "swe-ai-agent 1.0.9",
+      "summary": "swe-ai-agent 1.0.9 is a headless agentic IDE with comprehensive tool support for developers working on AI projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:54:45Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.9/"
+    },
+    {
+      "id": 53,
+      "title": "swe-ai-agent 1.0.8",
+      "summary": "swe-ai-agent 1.0.8 is a headless agentic IDE that offers comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:53:50Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.8/"
+    },
+    {
+      "id": 54,
+      "title": "swe-ai-agent 1.0.7",
+      "summary": "SWE Agent 1.0.7 is an agentic IDE with comprehensive tool support",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:52:51Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.7/"
+    },
+    {
+      "id": 55,
+      "title": "Trump softening on China – Bloomberg",
+      "summary": "Trump is softening on China and chip curbs to pursue a new trade deal and summit with President Xi.",
+      "source": "RT",
+      "category": "economy",
+      "timestamp": "2025-07-17T06:52:10Z",
+      "url": "https://www.rt.com/news/621599-trump-softening-on-china-bloomberg/"
+    },
+    {
+      "id": 56,
+      "title": "Instant payments: beyond compliance to commercial growth",
+      "summary": "Marie-Christine Diaz explores why fraud prevention is the key to trust, adoption and opportunity in the age of instant payments",
+      "source": "Electronicpaymentsinternational.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:52:05Z",
+      "url": "https://www.electronicpaymentsinternational.com/comment/instant-payments-beyond-compliance-to-commercial-growth/"
+    },
+    {
+      "id": 57,
+      "title": "swe-ai-agent 1.0.6",
+      "summary": "swe-ai-agent 1.0.6 is a Headless Agentic IDE with comprehensive tool support designed for software developers working on AI-related projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:51:46Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.6/"
+    },
+    {
+      "id": 58,
+      "title": "Inside the deepfake threat that’s reshaping corporate risk",
+      "summary": "A measured approach to managing deepfake risks amid rising threats and evolving digital manipulation tools.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-17T06:50:24Z",
+      "url": "https://www.techradar.com/pro/inside-the-deepfake-threat-thats-reshaping-corporate-risk"
+    },
+    {
+      "id": 59,
+      "title": "Soonicorns at scale: The AI-driven sprint to India’s next unicorn wave at ET Soonicorns Summit 2025",
+      "summary": "India's soonicorns are scaling with speed, backed by AI, capital, and national ambition at ET Soonicorns Summit 2025, showcasing how the next generation of unicorns is being built and funded.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T06:50:18Z",
+      "url": "https://economictimes.indiatimes.com/tech/startups/soonicorns-at-scale-the-ai-driven-sprint-to-indias-next-unicorn-wave-at-et-soonicorns-summit-2025/articleshow/122618507.cms"
+    },
+    {
+      "id": 60,
+      "title": "Trump hosts Qatar’s PM for private dinner, meets Bahrain crown prince",
+      "summary": "US president Trump hosts Qatar’s PM and meets Bahrain crown prince, highlighting focus on the Gulf region. The meetings are part of Trump's foreign policy efforts in his second term.",
+      "source": "Al Jazeera English",
+      "category": "economy",
+      "timestamp": "2025-07-17T06:50:15Z",
+      "url": "https://www.aljazeera.com/news/2025/7/17/trump-hosts-qatars-emir-for-private-dinner-meets-bahrain-crown-prince"
+    },
+    {
+      "id": 61,
+      "title": "swe-ai-agent 1.0.5",
+      "summary": "swe-ai-agent 1.0.5 - SWE Agent - Headless Agentic IDE with comprehensive tool support",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:50:14Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.5/"
+    },
+    {
+      "id": 62,
+      "title": "ivcap_ai_tool 0.7.10",
+      "summary": "The ivcap_ai_tool 0.7.10 provides helper functions for creating AI tools as IVCAP services, aiding in the development of innovative AI tools. This update focuses on enhancing the efficiency and ease of building AI applications within the IVCAP framework.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:49:39Z",
+      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.10/"
+    },
+    {
+      "id": 63,
+      "title": "joshi-ai-commits added to PyPI",
+      "summary": "joshi-ai-commits added to PyPI - AI-powered Git commit message generator that automatically creates conventional commit messages using Groq, OpenRouter, or Cohere APIs",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:49:03Z",
+      "url": "https://pypi.org/project/joshi-ai-commits/"
+    },
+    {
+      "id": 64,
+      "title": "joshi-ai-commits 1.0.0",
+      "summary": "joshi-ai releases version 1.0.0 of an AI-powered Git commit message generator that uses Groq, OpenRouter, or Cohere APIs to automatically create conventional commit messages",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:49:03Z",
+      "url": "https://pypi.org/project/joshi-ai-commits/1.0.0/"
+    },
+    {
+      "id": 65,
+      "title": "Roth Capital Initiates Coverage of OMS Energy Technologies (OMSE) Stock with a Buy",
+      "summary": "Roth Capital Initiates Coverage of OMS Energy Technologies (OMSE) Stock with a Buy - OMS Energy Technologies Inc. (NASDAQ:OMSE) is one of the Most Undervalued Stocks Under $10 to Buy Now.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-17T06:46:47Z",
+      "url": "https://finance.yahoo.com/news/roth-capital-initiates-coverage-oms-064647656.html"
+    },
+    {
+      "id": 66,
+      "title": "Alliance Global Partners Resumes Coverage of Ring Energy (REI) Stock with a Buy",
+      "summary": "Alliance Global Partners resumes coverage of Ring Energy (REI) stock with a Buy rating, highlighting it as one of the most undervalued stocks under $10 to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T06:46:42Z",
+      "url": "https://finance.yahoo.com/news/alliance-global-partners-resumes-coverage-064642671.html"
+    },
     {
       "id": 51,
       "title": "Taiwan’s TSMC says second quarter profit up 60%",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T05:15:59Z",
       "url": "https://finance.yahoo.com/news/kla-corporation-klac-one-most-051559427.html"
-    },
-    {
-      "id": 56,
-      "title": "Applied Materials, Inc. (AMAT) “Is About To Have A Renaissance,” Says Jim Cramer",
-      "summary": "Applied Materials, Inc. (AMAT) is considered to be on the verge of a renaissance according to Jim Cramer, as part of a discussion on why certain stocks are rising.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:15:50Z",
-      "url": "https://finance.yahoo.com/news/applied-materials-inc-amat-renaissance-051550517.html"
-    },
-    {
-      "id": 57,
-      "title": "Amrit Thomas, Ashish Thukral team up to launch AI-focused marketing firm NeuGenM.ai",
-      "summary": "Amrit Thomas and Ashish Thukral have launched an AI-focused marketing firm called NeuGenM.ai, which aims to empower marketers with the necessary skills and tools for the AI era.",
-      "source": "Bestmediainfo.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T05:15:31Z",
-      "url": "https://bestmediainfo.com/mediainfo/mediainfo-digital/amrit-thomas-ashish-thukral-team-up-to-launch-ai-focused-marketing-firm-neugenmai-9504653"
-    },
-    {
-      "id": 58,
-      "title": "T-Mobile US, Inc. (TMUS) “Has Been A Huge, Huge Winner,” Says Jim Cramer",
-      "summary": "T-Mobile US, Inc. (TMUS) has been performing well and was discussed by Jim Cramer in relation to record Bitcoin price.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:15:30Z",
-      "url": "https://finance.yahoo.com/news/t-mobile-us-inc-tmus-051530290.html"
-    },
-    {
-      "id": 59,
-      "title": "Ixigo shares jumps 12%, hits 52-week high after strong Q1 results",
-      "summary": "Shares of Ixigo jumped 12% to a 52-week high after reporting strong Q1FY26 earnings, with revenue surging 73% YoY to Rs 314.5 crore and net profit rising 27% to Rs 19 crore. The growth in flight, bus, and train bookings contributed to the company's success.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-17T05:15:14Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-shares-jumps-12-hits-52-week-high-after-strong-q1-results/articleshow/122615567.cms"
-    },
-    {
-      "id": 60,
-      "title": "‘We have a LOT of main character energy’: OpenAI's Sam Altman backs Jensen Huang on AI and job losses",
-      "summary": "Sam Altman backs Jensen Huang, stating AI will not eliminate jobs but will fundamentally change how work is done.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:12:02Z",
-      "url": "https://www.livemint.com/companies/people/we-have-a-lot-of-main-character-energy-openais-sam-altman-backs-jensen-huang-on-ai-and-job-losses-11752726497248.html"
-    },
-    {
-      "id": 61,
-      "title": "Super Micro (SMCI) Rallies 6.9% on US $92-Billion AI Investment",
-      "summary": "Super Micro Computer, Inc. (NASDAQ:SMCI) rallies 6.9% on US $92-billion AI investment.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:11:33Z",
-      "url": "https://finance.yahoo.com/news/super-micro-smci-rallies-6-051133854.html"
-    },
-    {
-      "id": 62,
-      "title": "千葉県の未来を拓く「先進型アクアポニックスによる人材育成と地域共創型サーキュラーエコノミー推進事業」が、ひまわりベンチャー育成基金の助成事業に採択",
-      "summary": "A project to promote advanced aquaponics for talent development and regional collaborative circular economy in Chiba Prefecture has been selected for funding by the Himawari Venture Development Fund.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-17T05:11:26Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000031.000120301.html"
-    },
-    {
-      "id": 63,
-      "title": "Bilibili (BILI) Jumps 7.35% as Wall Street Analyst Turns More Bullish",
-      "summary": "Bilibili (BILI) jumps 7.35% as Wall Street analyst turns more bullish, making it one of Tuesday's top performers.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:11:23Z",
-      "url": "https://finance.yahoo.com/news/bilibili-bili-jumps-7-35-051123854.html"
-    },
-    {
-      "id": 64,
-      "title": "GDS Holdings (GDS) Surges 7.77% on JPMorgan’s Bullish Rating",
-      "summary": "GDS Holdings (GDS) surged 7.77% after receiving a bullish rating from JPMorgan, making it one of Tuesday's top performers.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:11:12Z",
-      "url": "https://finance.yahoo.com/news/gds-holdings-gds-surges-7-051112839.html"
-    },
-    {
-      "id": 65,
-      "title": "How Hot Can It Get? Scientists Are Struggling to Find an Answer",
-      "summary": "Scientists are struggling to determine how hot a heat wave can get after an extreme heat spike hit western North America in June 2021, resulting in at least 1,400 deaths.",
-      "source": "Insurance Journal",
-      "category": "research",
-      "timestamp": "2025-07-17T05:10:47Z",
-      "url": "https://www.insurancejournal.com/news/international/2025/07/17/831944.htm"
-    },
-    {
-      "id": 66,
-      "title": "NTT DC REIT’s flat trading debut shows Singapore’s struggle to revive a ‘lackluster’ stock market",
-      "summary": "NTT DC REIT had a flat trading debut in Singapore, highlighting the struggle to revive the lackluster stock market with only three IPOs so far this year. In comparison, Hong Kong has had over 40 IPOs, showcasing a more vibrant market.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:10:25Z",
-      "url": "https://fortune.com/asia/2025/07/17/ntt-dc-reit-shares-singapore-vs-hong-kong-ipos/"
-    },
-    {
-      "id": 51,
-      "title": "batchata 0.3.3",
-      "summary": "Batchata 0.3.3 is a new tool for batch processing AI models that includes cost tracking and state persistence features.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:51:26Z",
-      "url": "https://pypi.org/project/batchata/0.3.3/"
-    },
-    {
-      "id": 52,
-      "title": "Are Agentic AI Systems Quietly Taking Over Enterprises? 3 Ways To Keep Humans In The Loop",
-      "summary": "Agentic AI systems are being used by top companies to automate tasks and improve customer service. The key to success with AI is to keep humans involved alongside the machines.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:51:01Z",
-      "url": "https://www.forbes.com/sites/saharhashmi/2025/07/17/are-agentic-ai-systems-quietly-taking-over-enterprises-3-ways-to-keep-humans-in-the-loop/"
-    },
-    {
-      "id": 53,
-      "title": "How Elon Musk’s rogue Grok chatbot became a cautionary AI tale",
-      "summary": "Elon Musk's rogue Grok chatbot highlights the risks of accelerating AI technology without proper testing and safeguards, as exemplified by posts praising Hitler.",
-      "source": "The Irish Times",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:50:00Z",
-      "url": "https://www.irishtimes.com/business/2025/07/17/how-elon-musks-rogue-grok-chatbot-became-a-cautionary-ai-tale/"
-    },
-    {
-      "id": 54,
-      "title": "gllm-agents-binary 0.2.26",
-      "summary": "gllm-agents-binary 0.2.26 is a library designed for managing agents in Gen AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:49:06Z",
-      "url": "https://pypi.org/project/gllm-agents-binary/0.2.26/"
-    },
-    {
-      "id": 55,
-      "title": "Airtel offers Perplexity Pro subscription worth ₹17,000/ year for free to all users",
-      "summary": "Airtel partners with Perplexity to offer free Perplexity Pro subscription worth ₹17,000/ year to its users. The subscription includes advanced AI tools for Airtel mobile, Wi-Fi, and DTH subscribers.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:46:55Z",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-offers-perplexity-pro-subscription-worth-17000-/-year-for-free-to-all-users-how-to-avail-it/articleshow/122613306.cms"
     }
   ]
 }
