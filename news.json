@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-18T10:47:39.565Z",
+  "lastUpdate": "2025-07-18T11:13:48.816Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Realme Buds T200: με Spatial Sound, ANC και BT 5.4 σχεδόν τσάμπα!",
+      "summary": "Realme Buds T200 TWS earbuds offer Hi-Res Audio, ANC, 3D Spatial Sound, AI Call Noise Reduction, Bluetooth 5.4, and 50 hours of battery life at an affordable price.",
+      "source": "Gizchina.gr",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:11:38Z",
+      "url": "https://www.gizchina.gr/2025/07/17/realme-buds-t200-me-spatial-sound-anc-kai-bt-5-4-schedon-tsampa-july/"
+    },
+    {
+      "id": 52,
+      "title": "sleepy-driver 1.1.6",
+      "summary": "The sleepy-driver 1.1.6 is an AI-powered drowsiness detection library designed for driver safety.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:09:41Z",
+      "url": "https://pypi.org/project/sleepy-driver/1.1.6/"
+    },
+    {
+      "id": 53,
+      "title": "All Galaxy Tab S10 Ultra configs now $220 off, or most affordable open-box model at $400+ off w/ 1-yr. warranty",
+      "summary": "All Galaxy Tab S10 Ultra configs are currently $220 off, with the most affordable open-box model at $400+ off with a 1-year warranty. This deal has pricing starting at $979.99 shipped.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:09:12Z",
+      "url": "http://9to5toys.com/2025/07/17/galaxy-tab-s10-ultra-deals/"
+    },
+    {
+      "id": 54,
+      "title": "Kinaxis Inc. to Host Second Quarter 2025 Financial Results Conference Call on August 7, 2025",
+      "summary": "Kinaxis Inc. to host conference call to discuss financial results for second quarter of 2025",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:08:09Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/kinaxis-inc-to-host-second-quarter-2025-financial-results-conference-call-on-august-7-2025"
+    },
+    {
+      "id": 55,
+      "title": "Paystand Vaults into Elite CNBC/Statista Top Global Fintech List",
+      "summary": "Paystand has been included in CNBC/Statista's top global fintech list and is expanding blockchain technology across the Americas, solidifying its position among the world's top financial innovators.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:07:44Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/paystand-vaults-into-elite-cnbc-statista-top-global-fintech-list"
+    },
+    {
+      "id": 56,
+      "title": "Elucid Names Richard E. Kuntz, MD, MSc and Shamiram Feinglass, MD, MPH Board Directors",
+      "summary": "Elucid names Richard E. Kuntz, MD, MSc and Shamiram Feinglass, MD, MPH as board directors to provide guidance for PlaqueIQTM strategy at the SCCT Annual Meeting. They are leaders in clinical, product innovation, and market access.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:07:31Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/elucid-names-richard-e-kuntz-md-msc-and-shamiram-feinglass-md-mph-board-directors"
+    },
+    {
+      "id": 57,
+      "title": "Zepto co-founder Kaivalya Vohra leads Avendus-Hurun India list of Under-30 entrepreneurs",
+      "summary": "Zepto co-founder Kaivalya Vohra leads Avendus-Hurun India list of Under-30 entrepreneurs, with Zepto topping the first Avendus Wealth Hurun India 2025 Under-30 list. The list highlights the accomplishments of 79 young entrepreneurs across various sectors, with over $5 billion in funding raised.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:06:14Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zepto-co-founder-kaivalya-vohra-leads-avendus-hurun-india-list-of-under-30-entrepreneurs/articleshow/122637795.cms"
+    },
+    {
+      "id": 58,
+      "title": "Velocity Clinical Research Partners with Palantir to Solve Clinical Trials’ Payment Headache",
+      "summary": "Velocity Clinical Research partners with Palantir to solve clinical trials' payment headache, marking Palantir's strategic move into the industry. Velocity is one of Palantir's first partners in this endeavor.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:06:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117107/0/en/Velocity-Clinical-Research-Partners-with-Palantir-to-Solve-Clinical-Trials-Payment-Headache.html"
+    },
+    {
+      "id": 59,
+      "title": "The Google Pixel Watch 4 is rumored to sport a bigger battery – but I'm hoping it's not just for a brighter screen and on-device AI",
+      "summary": "The rumored Google Pixel Watch 4 is expected to have a bigger battery, potentially improving battery life for users. The leaked specs indicate a focus on longer battery life, which could be beneficial for Wear OS users.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-17T11:05:18Z",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/the-google-pixel-watch-4-is-rumored-to-sport-a-bigger-battery-but-im-hoping-its-not-just-for-a-brighter-screen-and-on-device-ai"
+    },
+    {
+      "id": 60,
+      "title": "LLMs bow to pressure, changing answers when challenged: DeepMind study",
+      "summary": "LLMs such as GPT-4o and Google’s Gemma may change answers under pressure, raising concerns for enterprise applications that rely on multi-turn AI interactions.",
+      "source": "Computerworld",
+      "category": "research",
+      "timestamp": "2025-07-17T11:05:04Z",
+      "url": "https://www.computerworld.com/article/4023989/llms-bow-to-pressure-changing-answers-when-challenged-deepmind-study.html"
+    },
+    {
+      "id": 61,
+      "title": "Dating apps are banking on AI to win over Gen Z—but the sparks aren’t flying, survey finds",
+      "summary": "Dating apps are relying on AI to attract Gen Z users, but a survey revealed that this generation is more hesitant to embrace AI in the dating realm.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-17T11:05:00Z",
+      "url": "https://fortune.com/2025/07/17/dating-apps-ai-gen-z-bloomberg-study/"
+    },
+    {
+      "id": 62,
+      "title": "India Asset Management – Key drivers and trends (Anusha Sivaramakrishnan)",
+      "summary": "The Indian asset management industry has witnessed remarkable growth over the past decade, with increasing investments and advancements in technology. AI is expected to be a key driver for further growth and efficiency within the industry.",
+      "source": "Finextra",
+      "category": "economy",
+      "timestamp": "2025-07-17T11:04:26Z",
+      "url": "https://www.finextra.com/blogposting/28920/india-asset-management--key-drivers-and-trends"
+    },
+    {
+      "id": 63,
+      "title": "AI Maverick Launches Enhanced Prospecting Platform to Deliver Human-Like Outreach–No SDR Team Required",
+      "summary": "AI Maverick launches enhanced prospecting platform to deliver human-like outreach without requiring an SDR team.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-17T11:03:05Z",
+      "url": "https://financialpost.com/globe-newswire/ai-maverick-launches-enhanced-prospecting-platform-to-deliver-human-like-outreach-no-sdr-team-required"
+    },
     {
       "id": 51,
       "title": "OpenAI Seeks Piece of ChatGPT-Driven eCommerce Sales",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T09:34:28Z",
       "url": "http://technode.com/2025/07/17/nvidia-ceo-makes-third-visit-to-china-this-year-as-h20-ai-chip-sales-resume/"
-    },
-    {
-      "id": 63,
-      "title": "China Flexes Island-Seizing Capability in Contested Waters",
-      "summary": "China showcased its island-seizing capabilities in the South China Sea by using air-cushioned landing craft in territorial disputes with neighboring countries.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:34:19Z",
-      "url": "https://biztoc.com/x/8ad2755a960a8a26"
-    },
-    {
-      "id": 64,
-      "title": "AI Offense Defense Balance in a Multipolar World",
-      "summary": "We examine whether intent-aligned defensive AI can effectively counter potentially unaligned or adversarial takeover-level AI. This post identifies two primary threat scenarios: strategic post-deployment.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-17T09:34:08Z",
-      "url": "https://www.lesswrong.com/posts/BHWYkoB7JshqpNSnh/ai-offense-defense-balance-in-a-multipolar-world"
-    },
-    {
-      "id": 51,
-      "title": "AMD quietly reveals cheapest Ryzen AI yet — AI 5 330 is a quad-core budget processor with a 50 TOPS NPU",
-      "summary": "AMD introduces the Ryzen AI 5 330, a budget-friendly quad-core processor with a 50 TOPS NPU that meets Microsoft Copilot+ PC requirements, aiming to bring AI features to inexpensive Windows 11 laptops.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-17T09:18:01Z",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-quietly-reveals-cheapest-ryzen-ai-yet-ai-5-330-is-a-quad-core-budget-processor-with-a-50-tops-npu"
-    },
-    {
-      "id": 52,
-      "title": "RIL Q1 preview: Profits have slowed, hype is building—can Reliance deliver this time?",
-      "summary": "India's most valuable company, Reliance, is expected to report slower profits in Q1, with investors looking for updates on its new energy ventures.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-17T09:17:59Z",
-      "url": "https://www.livemint.com/companies/company-results/ril-q1-preview-o2c-retail-telecom-new-energy-profits-11752735517862.html"
-    },
-    {
-      "id": 53,
-      "title": "Secrets to Choosing Lucky Numbers for Online Lottery Games",
-      "summary": "Secrets to Choosing Lucky Numbers for Online Lottery Games - Many players believe a thoughtful approach to selecting numbers boosts their confidence and enjoyment in online lottery games.",
-      "source": "Todoinstagram.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:16:11Z",
-      "url": "https://www.todoinstagram.com/lottery/secrets-to-choosing-lucky-numbers-for-online-lottery-games/"
-    },
-    {
-      "id": 54,
-      "title": "Harrity & Harrity Seeks FT Patent Attorney / Agent in Electrical or Mechanical Technologies",
-      "summary": "Harrity & Harrity, a trusted patent firm, is seeking a full-time patent attorney or agent with experience in handling electrical or mechanical technologies to draft and prosecute high-value applications for top technology companies.",
-      "source": "IPWatchdog.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:15:54Z",
-      "url": "https://ipwatchdog.com/2025/07/17/harrity-harrity-seeks-ft-patent-attorney-agent-electrical-mechanical-technologies/id=190410/"
-    },
-    {
-      "id": 55,
-      "title": "ChatGPT Data Analysis : Turn Raw Data into Gold with the DIG Framework",
-      "summary": "ChatGPT Data Analysis tool promises to transform raw data into actionable insights in just 12 minutes.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:15:25Z",
-      "url": "https://www.geeky-gadgets.com/chatgpt-data-analysis-dig-framework/"
-    },
-    {
-      "id": 56,
-      "title": "What Did I Do “At School” Today? A Learner from 2040 Tells All",
-      "summary": "Explore a future where cities become classrooms, with unbundled learning ecosystems, personalized AI, and lifelong learning opportunities.",
-      "source": "Gettingsmart.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T09:15:00Z",
-      "url": "https://www.gettingsmart.com/2025/07/17/what-did-i-do-at-school-today-a-learner-from-2040-tells-all/"
-    },
-    {
-      "id": 57,
-      "title": "The HALO effect",
-      "summary": "The HALO effect - Notes on the recent trend of “Hire and License Out” deals in AI",
-      "source": "Kwokchain.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T09:13:20Z",
-      "url": "https://kwokchain.com/2025/07/15/the-halo-effect/"
-    },
-    {
-      "id": 58,
-      "title": "A young VC closed a $10 million fund for AI seed startups. Here's what he's looking for and the pitch deck he used",
-      "summary": "Sam Awrabi's Banyan Ventures closed a $10 million fund for AI seed startups, with plans to back 36 AI startups in seed and pre-seed stages.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T09:12:40Z",
-      "url": "https://biztoc.com/x/e04d97d6a8e4b1d4"
-    },
-    {
-      "id": 59,
-      "title": "I'm the ex-VP of HR at Microsoft. The tech job market feels bleak, but here are 3 reasons not to panic",
-      "summary": "Despite tech layoffs, ex-Microsoft HR VP Chris Williams remains optimistic about job expansions in the tech industry due to AI advancements.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T09:12:38Z",
-      "url": "https://biztoc.com/x/280e0a93b022dd40"
-    },
-    {
-      "id": 60,
-      "title": "How to Get Away With Anything in 2025",
-      "summary": "The better AI gets at creating things that don’t exist, the more difficult it will be to prove that anything actually exists.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T09:12:02Z",
-      "url": "https://biztoc.com/x/2ef606adbe7f46d3"
-    },
-    {
-      "id": 61,
-      "title": " Yamal, now it’s your turn! The 10 best number 10s in Barça’s history ",
-      "summary": "Lamien Yamal is Barcelona's new No.10, taking on a role previously held by great players. The article looks at the 10 best No.10s in the team's history, including Lionel Messi.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T09:12:00Z",
-      "url": "https://onefootball.com/en/news/yamal-now-its-your-turn-the-10-best-number-10s-in-barcas-history-41386850"
     }
   ]
 }
