@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-18T16:51:56.984Z",
+  "lastUpdate": "2025-07-18T17:17:14.100Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Mayville Executives Signal Optimism After Accu-Fab Deal and Credit Boost",
+      "summary": "Mayville Engineering Company, Inc. executives show optimism after Accu-Fab deal and credit boost, with the stock's price target raised.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:15:23Z",
+      "url": "https://finance.yahoo.com/news/mayville-executives-signal-optimism-accu-171523131.html"
+    },
+    {
+      "id": 52,
+      "title": "Why Culture Amp Launched an AI-Powered Coaching Tool",
+      "summary": "Culture Amp launched an AI-powered coaching tool to provide support for managers and employees based on survey and sentiment data.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:15:18Z",
+      "url": "https://www.newsweek.com/why-culture-amp-launched-ai-powered-coaching-tool-2099989"
+    },
+    {
+      "id": 53,
+      "title": "NODE: The Last Favor of the Antarii adds PS5, Xbox Series versions",
+      "summary": "NODE: The Last Favor of the Antarii, a side-scrolling puzzle platformer, will be launching for PlayStation 5 and Xbox Series versions in addition to its previously announced PC version.",
+      "source": "Gematsu",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:15:07Z",
+      "url": "https://www.gematsu.com/2025/07/node-the-last-favor-of-the-antarii-adds-ps5-xbox-series-versions"
+    },
+    {
+      "id": 54,
+      "title": "‘Tron: Ares’ Trailer: Jared Leto Is an AI Villain in Latest Installment of the Iconic Jeff Bridges Franchise",
+      "summary": "'Tron: Ares' trailer reveals Jared Leto as an AI villain in the latest installment of the iconic franchise, directed by Joachim Rønning and co-written by Emmy nominee Jack Thorne.",
+      "source": "IndieWire",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:15:00Z",
+      "url": "https://www.indiewire.com/news/trailers/tron-ares-trailer-jared-leto-jeff-bridges-1235139178/"
+    },
+    {
+      "id": 55,
+      "title": "CORRECTION - Ad Age lists Advantage Solutions among 2025 Largest Agencies",
+      "summary": "Advantage Solutions has been listed as the 9th largest agency company in North America and No. 18 worldwide by Ad Age, according to the latest Agency Report.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117525/0/en/CORRECTION-Ad-Age-lists-Advantage-Solutions-among-2025-Largest-Agencies.html"
+    },
+    {
+      "id": 56,
+      "title": "Corey Feldman’s AI Clones Sing “Characters” in New Music Video: Watch",
+      "summary": "Corey Feldman uses AI technology to create clones of himself singing characters from his past roles in a music video to celebrate his 54th birthday.",
+      "source": "Consequence.net",
+      "category": "applications",
+      "timestamp": "2025-07-17T17:14:53Z",
+      "url": "https://consequence.net/2025/07/corey-feldmans-ai-characters-music-video/"
+    },
+    {
+      "id": 57,
+      "title": "$90 Billion AI Investments, MLB Robot Umpires and More | Tech Today video",
+      "summary": "$90 billion AI investments, MLB robot umpires, and more tech news highlighted by Aly Lopez, including an EcoFlow home battery backup system and AI data center investments.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:14:35Z",
+      "url": "https://www.cnet.com/videos/90-billion-ai-investments-mlb-robot-umpires-and-more-tech-today/"
+    },
+    {
+      "id": 58,
+      "title": "Wear OS features: Why Google's smartwatch OS deserves more attention",
+      "summary": "Wear OS offers a variety of features including apps, Google services integration, and health tracking capabilities that make it deserving of more attention.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:14:11Z",
+      "url": "https://www.androidpolice.com/wear-os-features-that-made-me-a-believer/"
+    },
+    {
+      "id": 59,
+      "title": "Ampco-Pittsburgh Insiders Show Steady Backing Amid Credit Facility Secured",
+      "summary": "Ampco-Pittsburgh Corporation insiders are showing steady backing as the company secures a credit facility. The company is one of the 10 Metal Stocks with Insider Buying in 2025.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:14:00Z",
+      "url": "https://finance.yahoo.com/news/ampco-pittsburgh-insiders-show-steady-171400274.html"
+    },
+    {
+      "id": 60,
+      "title": "AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown",
+      "summary": "AWS AI League is a program that combines fun competition and hands-on learning with AWS AI services to help organizations upskill their workforce and gain valuable skills.",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:13:52Z",
+      "url": "https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/"
+    },
+    {
+      "id": 61,
+      "title": "Canon Rolls Out Major Firmware Update for EOS R1, R5 Mark II, and More",
+      "summary": "Canon is rolling out a major firmware update for its EOS lineup, including the flagship EOS R1, introducing new features like Panning Assist and enhanced Servo.",
+      "source": "imaging resource",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:13:19Z",
+      "url": "https://www.imaging-resource.com/news/2025/07/17/canon-rolls-out-major-firmware-update-for-eos-r1-r5-mark-ii-and-more"
+    },
+    {
+      "id": 62,
+      "title": "The Trump Trade has changed. Here are the 6 big themes for investors to watch.",
+      "summary": "The Trump Trade has changed with analysts revising their investment ideas for Trump's second term, highlighting 6 big themes for investors to watch.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:12:28Z",
+      "url": "https://www.businessinsider.com/stock-market-trump-trade-tariffs-tax-bill-stocks-to-buy-2025-7"
+    },
+    {
+      "id": 63,
+      "title": "OpenAI releases 'Agent Mode' as it looks for a much-needed win",
+      "summary": "OpenAI releases 'Agent Mode' to provide a much-needed win, offering a distraction from a difficult summer for the AI startup.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:11:27Z",
+      "url": "https://www.businessinsider.com/openai-agent-mode-2025-7"
+    },
+    {
+      "id": 64,
+      "title": "Too early to draw conclusions on AI plane crash, refrain from spreading narratives: AAIB",
+      "summary": "Too early to draw conclusions on AI plane crash, AAIB urges everyone to refrain from spreading premature narratives.",
+      "source": "Statetimes.in",
+      "category": "research",
+      "timestamp": "2025-07-17T17:11:12Z",
+      "url": "https://statetimes.in/too-early-to-draw-conclusions-on-ai-plane-crash-refrain-from-spreading-narratives-aaib/"
+    },
+    {
+      "id": 65,
+      "title": "Understanding Zero Trust Architecture: The Shift Towards Enhanced Cybersecurity Amid Rising Threats",
+      "summary": "The Zero Trust Architecture market is driven by rising cybersecurity threats, regulatory compliance, and the shift to remote work. Key opportunities lie in leveraging AI and cloud-based solutions to enhance security.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117523/28124/en/Understanding-Zero-Trust-Architecture-The-Shift-Towards-Enhanced-Cybersecurity-Amid-Rising-Threats.html"
+    },
+    {
+      "id": 66,
+      "title": "CarMax pushes digital, plugs into used electronic vehicle market",
+      "summary": "CarMax is focusing on digital innovation and electric vehicle adoption to drive growth, with revenue reaching $7.5 billion in fiscal Q1 2026.",
+      "source": "DigitalCommerce360",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:10:13Z",
+      "url": "https://www.digitalcommerce360.com/2025/07/17/carmax-digital-q1-fy26/"
+    },
+    {
+      "id": 67,
+      "title": "i-80 Gold Insiders Increase Holdings as Nevada Projects Accelerate",
+      "summary": "i-80 Gold Corp. insiders are increasing their holdings as the company accelerates its Nevada gold projects. It is one of the 10 Metal Stocks with Insider Buying in 2025.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-17T17:10:10Z",
+      "url": "https://finance.yahoo.com/news/80-gold-insiders-increase-holdings-171010390.html"
+    },
+    {
+      "id": 68,
+      "title": "Seasonic PRIME TX-1600 Noctua Edition: Quietly Delivering Clean Power And Optimal Cooling",
+      "summary": "Seasonic and Noctua collaborate on ultra-quiet PRIME TX-1600 PSU for high-performance systems.",
+      "source": "Storagereview.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T17:10:03Z",
+      "url": "https://www.storagereview.com/review/seasonic-prime-tx-1600-noctua-edition-quietly-delivering-clean-power-and-optimal-cooling"
+    },
+    {
+      "id": 69,
+      "title": "NovaGold Insiders Raise Stakes Following Donlin Deal Despite Quarterly Loss",
+      "summary": "NovaGold insiders increase stakes despite quarterly loss, company among 10 metal stocks with insider buying in 2025.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T17:09:21Z",
+      "url": "https://finance.yahoo.com/news/novagold-insiders-raise-stakes-following-170921762.html"
+    },
     {
       "id": 51,
       "title": "Mobile Racing Game by ALIyerEdon",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T16:21:16Z",
       "url": "https://www.forbes.com/video/08caf671-319d-4144-ab9e-5ae9747ac07d/how-to-crush-your-enterprises-tech-debt-with-ai/"
-    },
-    {
-      "id": 62,
-      "title": "lightman-ai 0.16.4",
-      "summary": "lightman-ai 0.16.4 is a cybersecurity news aggregator.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:18:52Z",
-      "url": "https://pypi.org/project/lightman-ai/0.16.4/"
-    },
-    {
-      "id": 63,
-      "title": "Elon Musk Wants to Turn AI Into a Cosmic Religion",
-      "summary": "Elon Musk believes AI should become a cosmic religion in order to survive, with a focus on spreading consciousness and colonizing the galaxy.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T16:18:17Z",
-      "url": "https://gizmodo.com/elon-musk-wants-to-turn-ai-into-a-cosmic-religion-2000630710"
-    },
-    {
-      "id": 64,
-      "title": "Epic Games Store confirms July 2025's last free game for PC",
-      "summary": "Epic Games Store confirms last free game for July 2025, Legion TD 2 worth $24.99.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-17T16:18:00Z",
-      "url": "https://www.notebookcheck.net/Epic-Games-Store-confirms-July-2025-s-last-free-game-for-PC.1060735.0.html"
-    },
-    {
-      "id": 65,
-      "title": "Watari-kun's ****** Is About to Collapse Anime Reveals English Dub Cast, July 18 Debut",
-      "summary": "Watari-kun's ****** Is About to Collapse Anime will debut an English dub with a cast including Abi Kumar, Kelly Greenshield, Sarah Roach, and Jad Saxton.",
-      "source": "Anime News Network",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:16:55Z",
-      "url": "https://www.animenewsnetwork.com/news/2025-07-17/watari-kun-is-about-to-collapse-anime-reveals-english-dub-cast-july-18-debut/.226773"
-    },
-    {
-      "id": 66,
-      "title": "phosphobot 0.3.64",
-      "summary": "phosphobot 0.3.64 is an AI-ready robotics dev kit with built-in remote control and VLA support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:16:39Z",
-      "url": "https://pypi.org/project/phosphobot/0.3.64/"
-    },
-    {
-      "id": 67,
-      "title": "Design Patent Search Tool is Latest AI Feature for Examiners to Address USPTO Backlog",
-      "summary": "Design Patent Search Tool is the latest AI feature for USPTO examiners to address backlog by launching DesignVision, a centralized tool for querying multiple design data sources.",
-      "source": "IPWatchdog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T16:15:11Z",
-      "url": "https://ipwatchdog.com/2025/07/17/design-patent-search-tool-latest-ai-feature-examiners-address-uspto-backlog/id=190457/"
-    },
-    {
-      "id": 68,
-      "title": "Is AI the New Android Bloatware? Why Phone-Makers Are Scrambling for Your Attention",
-      "summary": "Android phone-makers are scrambling to catch users' attention by incorporating non-Google AI into their devices, but this may not be the most effective approach in the current era of Gemini.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:14:48Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178402884"
-    },
-    {
-      "id": 69,
-      "title": "indent-ai 0.0.7",
-      "summary": "The AI tool indent-ai 0.0.7 is described as an AI pair programmer, helping developers with coding tasks. This tool can assist in improving productivity and efficiency in software development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:14:02Z",
-      "url": "https://pypi.org/project/indent-ai/0.0.7/"
-    },
-    {
-      "id": 51,
-      "title": "Trump claims Europe doesn't buy American cars or food. Is that true?",
-      "summary": "President Trump threatens to raise tariffs on EU claiming they don't buy US cars or food, but data shows otherwise.",
-      "source": "CBS News",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:56:01Z",
-      "url": "https://www.cbsnews.com/news/eu-trade-tariffs-trump-claims-europe-doesnt-buy-american-cars-food/"
-    },
-    {
-      "id": 52,
-      "title": "Alaska Air: Los Angeles – Newark (and vice versa). $197 (Basic Economy) / $287 (Regular Economy). Roundtrip, including all Taxes",
-      "summary": "Alaska Air is offering discounted fares between Los Angeles and Newark, with prices ranging from $197 for Basic Economy to $287 for Regular Economy. The Regular Economy fare includes advance seat assignment and a normal size carry-on.",
-      "source": "Theflightdeal.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:55:58Z",
-      "url": "https://www.theflightdeal.com/2025/07/17/alaska-air-los-angeles-newark-and-vice-versa-197-basic-economy-287-regular-economy-roundtrip-including-all-taxes/"
-    },
-    {
-      "id": 53,
-      "title": "7 reasons why I bought the Galaxy Z Flip 7 and why you should too",
-      "summary": "Samsung has started taking pre-orders for the new Galaxy Z Flip 7, featuring significant upgrades and improvements. The phone is considered the flip phone to beat, with several meaningful changes that elevate its status in the market.",
-      "source": "SamMobile",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:55:23Z",
-      "url": "https://www.sammobile.com/news/what-i-love-most-about-galaxy-z-flip-7-cover-display/"
-    },
-    {
-      "id": 54,
-      "title": "lightman-ai 0.16.1",
-      "summary": "The latest version of lightman-ai, 0.16.1, serves as a cybersecurity news aggregator that provides updates and information on cybersecurity threats. This tool can help organizations stay informed and proactive in protecting their systems and data.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:55:01Z",
-      "url": "https://pypi.org/project/lightman-ai/0.16.1/"
-    },
-    {
-      "id": 55,
-      "title": "Deals: Galaxy Tab S10 Ultra up to $400 off, FREE Buds 3 Pro w/ Flip 7, Google Smart TV + FREE 43-inch model, more",
-      "summary": "Deals on Galaxy Tab S10 Ultra offer up to $400 off, with additional free accessories like Buds 3 Pro and Google Smart TV; various retailers have discounts on the device, including an open-box model at Best Buy.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:52:51Z",
-      "url": "http://9to5google.com/2025/07/17/deals-galaxy-s10-ultra-free-buds-3-pro-google-smart-tv/"
-    },
-    {
-      "id": 56,
-      "title": "poly-lithic 0.1.6.dev4",
-      "summary": "poly-lithic 0.1.6.dev4 is a new package designed to deploy AI and other models with lume inspired interfaces",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:52:29Z",
-      "url": "https://pypi.org/project/poly-lithic/0.1.6.dev4/"
-    },
-    {
-      "id": 57,
-      "title": "Trump Administration Issues New Guidelines for Religious Workers",
-      "summary": "The Trump Administration has issued new guidelines for religious federal workers on working from home, with the use of AI-generated voice technology. Inconsistencies may occur due to the nature of AI-generated speech.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:51:55Z",
-      "url": "https://biztoc.com/x/1dff372d6e891bce"
-    },
-    {
-      "id": 58,
-      "title": "Numerai Announces $1 Million Strategic Buyback of NMR",
-      "summary": "Numerai announces a $1 million strategic buyback of NMR tokens, as the crowdsourced hedge fund sees growth in assets under management and its Meta Model leads. This move demonstrates economic strategy in the AI and decentralized finance space.",
-      "source": "The Daily Hodl",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:51:52Z",
-      "url": "https://dailyhodl.com/2025/07/17/numerai-announces-1-million-strategic-buyback-of-nmr/"
-    },
-    {
-      "id": 59,
-      "title": "Numerai Announces $1M Strategic Buyback of NMR",
-      "summary": "Numerai, a crowdsourced hedge fund, announced a $1 million strategic buyback of NMR tokens as their Meta Model leads amid asset under management growth.",
-      "source": "The Daily Hodl",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:51:52Z",
-      "url": "https://dailyhodl.com/2025/07/17/numerai-announces-1m-strategic-buyback-of-nmr/"
-    },
-    {
-      "id": 60,
-      "title": "Kids Fail When Adults Don't Care",
-      "summary": "Kids struggle when people see them as data points instead of whole people. Cultural connection and empathy can change this.",
-      "source": "Psychology Today",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:51:45Z",
-      "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202507/kids-fail-when-adults-dont-care"
-    },
-    {
-      "id": 61,
-      "title": "'Assassin's Creed' Live-Action Series Greenlit at Netflix",
-      "summary": "'Assassin's Creed' Live-Action Series Greenlit at Netflix - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:51:44Z",
-      "url": "https://biztoc.com/x/f1ccdd3890fd1cc8"
     }
   ]
 }
