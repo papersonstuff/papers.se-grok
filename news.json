@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-18T09:45:59.077Z",
+  "lastUpdate": "2025-07-18T10:17:43.449Z",
   "items": [
+    {
+      "id": 51,
+      "title": "sleepy-driver 1.1.2",
+      "summary": "The AI-powered drowsiness detection library, sleepy-driver 1.1.2, has been developed for driver safety. This innovation aims to help prevent accidents caused by drowsy driving.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:16:50Z",
+      "url": "https://pypi.org/project/sleepy-driver/1.1.2/"
+    },
+    {
+      "id": 52,
+      "title": "Stagwell Wins Heaven Hill Spirits’ Integrated Account",
+      "summary": "Stagwell has been chosen as the agency of record for Heaven Hill Spirits' integrated account, including a 10-brand spirits portfolio, following a competitive review.",
+      "source": "Adweek",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:15:25Z",
+      "url": "https://www.adweek.com/agencies/stagwell-wins-heaven-hill-spirits-integrated-account/"
+    },
+    {
+      "id": 53,
+      "title": "Transforming SAP Implementations to Meet Evolving Customer Expectations",
+      "summary": "RISE with SAP Validated Partner recognition allows partners to leverage SAP Business Suite power in transforming SAP implementations to meet changing customer expectations.",
+      "source": "Sap.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:15:00Z",
+      "url": "https://news.sap.com/2025/07/transform-sap-implementations-meet-evolving-customer-expectations/"
+    },
+    {
+      "id": 54,
+      "title": "Minnesota tragedy reveals how data brokers sell your personal information",
+      "summary": "Minnesota tragedy highlights the dangers of data brokers selling personal information, with the $200 billion industry tracking individuals across websites. Privacy risks can be minimized with data removal services.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-17T10:14:59Z",
+      "url": "https://www.foxnews.com/tech/data-broker-opt-out-steps-every-retiree-should-take-today"
+    },
+    {
+      "id": 55,
+      "title": "Perplexity CEO's warning to startups: big tech will \"copy anything that's good\"",
+      "summary": "Perplexity CEO warns startups that big tech will copy innovative ideas, emphasizing the need for commitment and hard work in the face of opportunities and risks.",
+      "source": "TechSpot",
+      "category": "startups",
+      "timestamp": "2025-07-17T10:14:00Z",
+      "url": "https://www.techspot.com/news/108700-perplexity-ceo-warning-startups-big-tech-copy-anything.html"
+    },
+    {
+      "id": 56,
+      "title": "sleepy-driver 1.1.1",
+      "summary": "sleepy-driver 1.1.1 is an AI-powered drowsiness detection library designed for driver safety.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:12:27Z",
+      "url": "https://pypi.org/project/sleepy-driver/1.1.1/"
+    },
+    {
+      "id": 57,
+      "title": "Google Pixel 10 Pro Fold set to outshine Samsung's Galaxy Z Fold 7",
+      "summary": "Google Pixel 10 Pro Fold anticipated to outperform Samsung's Galaxy Z Fold 7, with Google finding advantages for their upcoming foldable phone despite improvements made by Samsung.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-17T10:12:10Z",
+      "url": "https://www.androidpolice.com/google-pixel-10-pro-fold-improvements/"
+    },
+    {
+      "id": 58,
+      "title": "Nvidia's selling AI chips to China part of rare earths talks, Reuters says",
+      "summary": "Nvidia's selling AI chips to China as part of rare earths talks, according to Reuters.",
+      "source": "Thefly.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:12:02Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4161077/NVDA-Nvidias-selling-AI-chips-to-China-part-of-rare-earths-talks-Reuters-says"
+    },
+    {
+      "id": 59,
+      "title": "Europe assumes financial burden of Ukraine war, angering Russia",
+      "summary": "Europe assuming financial burden of Ukraine war leads to anger from Russia, Trump sees European purchases of US weapons as a victory, while UN warns of record civilian casualties.",
+      "source": "Al Jazeera English",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:11:34Z",
+      "url": "https://www.aljazeera.com/news/2025/7/17/europe-assumes-financial-burden-of-ukraine-war-alarming-russia"
+    },
+    {
+      "id": 60,
+      "title": "Microsoft Edge 138.0.3351.95",
+      "summary": "Microsoft Edge 138.0.3351.95 is a free web browser based on the Chromium Open Source project and other Open Source software.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-17T10:10:01Z",
+      "url": "https://www.neowin.net/software/microsoft-edge-1380335195/"
+    },
+    {
+      "id": 61,
+      "title": "‘Just ridiculous,’ says Google Brain founder on hype about AI taking away all jobs, shares tips how anyone can become powerful",
+      "summary": "Andrew Ng, a prominent AI expert, dismisses the excessive hype surrounding Artificial General Intelligence (AGI) and advises focusing on mastering existing tools for practical applications.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T10:09:40Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/just-ridiculous-says-google-brain-founder-on-hype-about-ai-taking-away-all-jobs-shares-tips-how-anyone-can-become-powerful/articleshow/122633320.cms"
+    },
+    {
+      "id": 62,
+      "title": "Teacher Retirement System of Texas Purchases New Position in Upstart Holdings, Inc. (NASDAQ:UPST)",
+      "summary": "Teacher Retirement System of Texas purchased a new stake in Upstart Holdings, Inc. (NASDAQ:UPST) in the 1st quarter, acquiring 11,947 shares of the company's stock valued at approximately $550,000.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-17T10:08:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/teacher-retirement-system-of-texas-purchases-new-position-in-upstart-holdings-inc-nasdaqupst/"
+    },
+    {
+      "id": 63,
+      "title": "Metaverse Stocks To Keep An Eye On – July 15th",
+      "summary": "Metaverse stocks such as NVIDIA, Accenture, and Globant are recommended to watch as they are companies involved in building, enabling, or monetizing immersive digital environments for user interaction via avatars.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:08:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/metaverse-stocks-to-keep-an-eye-on-july-15th/"
+    },
+    {
+      "id": 64,
+      "title": "Samsung's boss escapes prison, but can he escape the market slump?",
+      "summary": "Samsung's boss escapes prison, but faces challenges in navigating the market slump.",
+      "source": "PhoneArena",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:08:35Z",
+      "url": "https://www.phonearena.com/news/Samsungs-boss-escapes-prison-but-can-he-escape-the-market-slump_id172356"
+    },
+    {
+      "id": 65,
+      "title": "Congress Should Reject Cryptocurrency Double Standard | Opinion",
+      "summary": "Congress is being urged to implement new ethics rules preventing the president from issuing or owning digital assets like cryptocurrency during discussions on regulating digital assets.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T10:07:44Z",
+      "url": "https://biztoc.com/x/5fb3f542ddc1d972"
+    },
     {
       "id": 51,
       "title": "Chiratae-backed Uniphore Technologies in talks to raise up to $250 million",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T08:47:58Z",
       "url": "https://www.etfdailynews.com/2025/07/17/intel-nasdaqintc-price-target-raised-to-25-00/"
-    },
-    {
-      "id": 60,
-      "title": "Wei-Ming Shao Sells 10,000 Shares of MicroStrategy Incorporated (NASDAQ:MSTR) Stock",
-      "summary": "MicroStrategy EVP sells 10,000 shares of company stock for over $4 million.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:47:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/wei-ming-shao-sells-10000-shares-of-microstrategy-incorporated-nasdaqmstr-stock/"
-    },
-    {
-      "id": 61,
-      "title": "KiAI、ナイジェリア・アブジャ商工会議所と戦略的パートナーシップを締結",
-      "summary": "KiAI has formed a strategic partnership with the Nigeria Abuja Chamber of Commerce, aiming to expand its presence and offerings in the region.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-17T08:47:35Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000141552.html"
-    },
-    {
-      "id": 62,
-      "title": "chainlit-hl-custom added to PyPI",
-      "summary": "The chainlit-hl-custom, a custom fork of Chainlit, has been added to PyPI for building Conversational AI. This development shows continued innovation in the field of artificial intelligence.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:46:22Z",
-      "url": "https://pypi.org/project/chainlit-hl-custom/"
-    },
-    {
-      "id": 63,
-      "title": "chainlit-hl-custom 2.6.2",
-      "summary": "chainlit-hl-custom 2.6.2 is a custom fork of Chainlit that focuses on building Conversational AI, making it suitable for various applications requiring AI-powered chatbots and virtual assistants.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:46:22Z",
-      "url": "https://pypi.org/project/chainlit-hl-custom/2.6.2/"
-    },
-    {
-      "id": 64,
-      "title": "Mint Explainer: Will FY26 be a washout year for the IT services industry?",
-      "summary": "The latest earnings reports depict a challenging year for the IT services industry, including impacts from tariffs and changing client preferences. The future outlook for FY26 remains uncertain.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:45:41Z",
-      "url": "https://www.livemint.com/industry/fy26-it-industry-outlook-it-services-earnings-q1-india-it-sector-performance-tcs-hcltech-accenture-11752735708593.html"
-    },
-    {
-      "id": 65,
-      "title": "OpenAI taps into Google Cloud for expanded AI infrastructure",
-      "summary": "OpenAI partners with Google Cloud to enhance AI infrastructure for training large language models.",
-      "source": "Verdict",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:45:40Z",
-      "url": "https://www.verdict.co.uk/openai-google-cloud-ai-infrastructure/"
-    },
-    {
-      "id": 66,
-      "title": "TSMC reports record profits as AI boom fuels chip demand; Stock expected to open at all-time high",
-      "summary": "TSMC reports record profits as AI boom fuels chip demand, with stock expected to open at all-time high.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:43:15Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/tsmc-reports-record-profits-as-ai-boom-fuels-chip-demand-stock-expected-to-open-at-all-time-high/articleshow/122627526.cms"
-    },
-    {
-      "id": 51,
-      "title": "Outrun the bear: why ‘good enough’ isn’t fast enough anymore",
-      "summary": "When speed meets storytelling, measurement must keep up. Real-time insights are reshaping campaign performance for marketers under pressure.",
-      "source": "The Drum",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:20:00Z",
-      "url": "https://www.thedrum.com/news/2025/07/17/outrun-the-bear-why-good-enough-isn-t-fast-enough-anymore"
-    },
-    {
-      "id": 52,
-      "title": "Thyroid Gland Disorders Diagnostics and Treatment Market Analysis Report 2024-2030 | Incorporation of AI and Advanced Therapeutics Fueling Opportunities",
-      "summary": "Analysis of AI incorporation and advanced therapeutics in the diagnostics and treatment of thyroid gland disorders is fueling opportunities in the global market. The report covers revenue projections, segmentation by disease type, product type, and region, as well as trends, challenges, competitive landscape, and ESG developments.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:18:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117014/28124/en/Thyroid-Gland-Disorders-Diagnostics-and-Treatment-Market-Analysis-Report-2024-2030-Incorporation-of-AI-and-Advanced-Therapeutics-Fueling-Opportunities.html"
-    },
-    {
-      "id": 53,
-      "title": "You Can Now Ask Meta AI to Generate Your Images in Different Scenarios",
-      "summary": "You Can Now Ask Meta AI to Generate Your Images in Different Scenarios - Meta announced the introduction of the Imagine Me feature in India, allowing users to generate images in various scenarios using artificial intelligence.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:17:26Z",
-      "url": "https://www.gadgets360.com/ai/news/meta-ai-imagine-me-feature-india-released-generate-user-images-different-styles-scenarios-context-8892352"
-    },
-    {
-      "id": 54,
-      "title": "Vietnam Diagnostic Labs Market Insights, Developments and Forecast 2025-2034 - Diag, PATHLAB, Himedic, and Chemedic Test Center Dominate the Competition",
-      "summary": "Vietnam Diagnostic Labs Market Report and Forecast 2025-2034 highlights the dominance of Diag, PATHLAB, Himedic, and Chemedic Test Center in the competition.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:17:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117011/28124/en/Vietnam-Diagnostic-Labs-Market-Insights-Developments-and-Forecast-2025-2034-Diag-PATHLAB-Himedic-and-Chemedic-Test-Center-Dominate-the-Competition.html"
-    },
-    {
-      "id": 55,
-      "title": "Auddia (NASDAQ:AUUD) Stock Price Up 1.9% – Time to Buy?",
-      "summary": "Auddia Inc. (NASDAQ:AUUD) stock price rose 1.9% during trading on Wednesday.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:16:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/auddia-nasdaqauud-stock-price-up-1-9-time-to-buy/"
-    },
-    {
-      "id": 56,
-      "title": "R.I.P Total War: Warhammer's arse ladders (2016-2025)",
-      "summary": "R.I.P Total War: Warhammer's arse ladders (2016-2025) - 'When our fathers stood against the Persians,' spake Greek statesman and general Pericles, 'they had no such resources as we have now'. Time, of course, muddies the clear waters of specifics, but I'm basically sure he was talking about the ability for each of…",
-      "source": "Rock Paper Shotgun",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:16:50Z",
-      "url": "https://www.rockpapershotgun.com/rip-total-war-warhammers-arse-ladders-2016-2025"
-    },
-    {
-      "id": 57,
-      "title": "Franklin Exponential Data ETF (BATS:XDAT) Stock Price Down 0.9% – Time to Sell?",
-      "summary": "Franklin Exponential Data ETF (BATS:XDAT) Stock Price Down 0.9% during mid-day trading on Wednesday, trading at $26.58 with a decline in shares traded by 90%.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:16:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/franklin-exponential-data-etf-batsxdat-stock-price-down-0-9-time-to-sell/"
-    },
-    {
-      "id": 58,
-      "title": "Is HR ready for AI?",
-      "summary": "Only 34% of organizations have policies for using generative AI, with even fewer having effective training programs in place.",
-      "source": "ZDNet",
-      "category": "research",
-      "timestamp": "2025-07-17T08:16:13Z",
-      "url": "https://www.zdnet.com/article/is-hr-ready-for-ai/"
     }
   ]
 }
