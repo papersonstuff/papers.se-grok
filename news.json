@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T08:21:44.898Z",
+  "lastUpdate": "2025-07-18T08:50:30.579Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Perplexity's CEO takes a shot at Google's AI dilemma: 'They need to embrace one path and suffer'",
+      "summary": "Perplexity's CEO criticizes Google for its AI direction and dependence on ad revenue, suggesting they need to choose one path to follow. Google's model is seen as conflicting with the growth of AI agent technology.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:49:56Z",
+      "url": "https://biztoc.com/x/a9434e7b8a8883bb"
+    },
+    {
+      "id": 52,
+      "title": "marsdevs-reviewer 1.1.1",
+      "summary": "marsdevs-reviewer 1.1.1 is an AI-powered code review tool that learns from your repository.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T08:49:48Z",
+      "url": "https://pypi.org/project/marsdevs-reviewer/1.1.1/"
+    },
+    {
+      "id": 53,
+      "title": "TSMC chair C.C. Wei hails Nvidia’s renewed AI chip sales to China as ‘very positive news’",
+      "summary": "TSMC chair C.C. Wei is optimistic about Nvidia's AI chip sales to China, which contributed to a 60% rise in net profit for TSMC in the second quarter due to sustained demand for artificial intelligence technology.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:49:48Z",
+      "url": "https://biztoc.com/x/e26c2c8bdc656643"
+    },
+    {
+      "id": 54,
+      "title": "Why the ‘Tim Cook Doctrine’ Is Preventing Apple From Winning at AI",
+      "summary": "The 'Tim Cook Doctrine' at Apple is hindering the company's AI success, turning its biggest strength into a problem.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:49:43Z",
+      "url": "https://biztoc.com/x/5780b3976f9e714f"
+    },
+    {
+      "id": 55,
+      "title": "The web just clamped down on bots. What now for brands and agencies?",
+      "summary": "The web just changed with what we are calling ‘Content Independence Day,’ raising questions about the future for brands and agencies in the wake of new limitations on bots. Another reset has hit the internet, impacting those in charge of brand marketing or working inside agencies.",
+      "source": "The Drum",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:49:00Z",
+      "url": "https://www.thedrum.com/opinion/2025/07/17/the-web-just-clamped-down-bots-what-now-brands-and-agencies"
+    },
+    {
+      "id": 56,
+      "title": "Intel Nova Lake-AX specs emerge alongside murmurs of cancellation",
+      "summary": "Leaked specs of the Intel Nova Lake-AX chip have emerged, but there are rumors of potential cancellation.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:49:00Z",
+      "url": "https://www.notebookcheck.net/Intel-Nova-Lake-AX-specs-emerge-alongside-murmurs-of-cancellation.1060381.0.html"
+    },
+    {
+      "id": 57,
+      "title": "AI, satellites, and Golden Dome shine in new House-passed defense bill",
+      "summary": "The House version of the NDAA focuses on improving acquisition and requirements processes in defense, utilizing AI, satellites, and the Golden Dome. This aims to address long-standing issues faced by Congress and the military.",
+      "source": "Defense One",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:48:37Z",
+      "url": "https://www.defenseone.com/policy/2025/07/ai-satellites-and-golden-dome-shine-new-house-passed-defense-bill/406787/"
+    },
+    {
+      "id": 58,
+      "title": "Synopsys CEO Sassine Ghazi took us inside his $35 billion acquisition of Ansys, which closes today",
+      "summary": "Synopsys CEO Sassine Ghazi discusses the $35 billion acquisition of Ansys, which is closing today. Fortune provides all the latest news and watercooler chat surrounding the acquisition.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:47:59Z",
+      "url": "https://fortune.com/2025/07/17/synopsys-ceo-sassine-ghazi-35-billion-acquisition-ansys/"
+    },
+    {
+      "id": 59,
+      "title": "Intel (NASDAQ:INTC) Price Target Raised to $25.00",
+      "summary": "Intel's target price was raised to $25.00 by UBS Group, indicating positive outlook in the chip maker's stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:47:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/intel-nasdaqintc-price-target-raised-to-25-00/"
+    },
+    {
+      "id": 60,
+      "title": "Wei-Ming Shao Sells 10,000 Shares of MicroStrategy Incorporated (NASDAQ:MSTR) Stock",
+      "summary": "MicroStrategy EVP sells 10,000 shares of company stock for over $4 million.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:47:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/wei-ming-shao-sells-10000-shares-of-microstrategy-incorporated-nasdaqmstr-stock/"
+    },
+    {
+      "id": 61,
+      "title": "KiAI、ナイジェリア・アブジャ商工会議所と戦略的パートナーシップを締結",
+      "summary": "KiAI has formed a strategic partnership with the Nigeria Abuja Chamber of Commerce, aiming to expand its presence and offerings in the region.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-17T08:47:35Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000141552.html"
+    },
+    {
+      "id": 62,
+      "title": "chainlit-hl-custom added to PyPI",
+      "summary": "The chainlit-hl-custom, a custom fork of Chainlit, has been added to PyPI for building Conversational AI. This development shows continued innovation in the field of artificial intelligence.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:46:22Z",
+      "url": "https://pypi.org/project/chainlit-hl-custom/"
+    },
+    {
+      "id": 63,
+      "title": "chainlit-hl-custom 2.6.2",
+      "summary": "chainlit-hl-custom 2.6.2 is a custom fork of Chainlit that focuses on building Conversational AI, making it suitable for various applications requiring AI-powered chatbots and virtual assistants.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T08:46:22Z",
+      "url": "https://pypi.org/project/chainlit-hl-custom/2.6.2/"
+    },
+    {
+      "id": 64,
+      "title": "Mint Explainer: Will FY26 be a washout year for the IT services industry?",
+      "summary": "The latest earnings reports depict a challenging year for the IT services industry, including impacts from tariffs and changing client preferences. The future outlook for FY26 remains uncertain.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:45:41Z",
+      "url": "https://www.livemint.com/industry/fy26-it-industry-outlook-it-services-earnings-q1-india-it-sector-performance-tcs-hcltech-accenture-11752735708593.html"
+    },
+    {
+      "id": 65,
+      "title": "OpenAI taps into Google Cloud for expanded AI infrastructure",
+      "summary": "OpenAI partners with Google Cloud to enhance AI infrastructure for training large language models.",
+      "source": "Verdict",
+      "category": "innovation",
+      "timestamp": "2025-07-17T08:45:40Z",
+      "url": "https://www.verdict.co.uk/openai-google-cloud-ai-infrastructure/"
+    },
+    {
+      "id": 66,
+      "title": "TSMC reports record profits as AI boom fuels chip demand; Stock expected to open at all-time high",
+      "summary": "TSMC reports record profits as AI boom fuels chip demand, with stock expected to open at all-time high.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T08:43:15Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/tsmc-reports-record-profits-as-ai-boom-fuels-chip-demand-stock-expected-to-open-at-all-time-high/articleshow/122627526.cms"
+    },
     {
       "id": 51,
       "title": "Outrun the bear: why ‘good enough’ isn’t fast enough anymore",
@@ -306,150 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-17T07:35:02Z",
       "url": "https://www.etfdailynews.com/2025/07/17/upstart-holdings-inc-nasdaqupst-shares-acquired-by-principal-financial-group-inc/"
-    },
-    {
-      "id": 59,
-      "title": "Xiaomi Outdoor Camera 4: Finally, a Security Camera That Won’t Break the Bank",
-      "summary": "Xiaomi Outdoor Camera 4 offers an affordable option for home security, catering to those looking for cost-effective solutions in this tech sector.",
-      "source": "Gizchina.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:33:54Z",
-      "url": "https://www.gizchina.com/2025/07/17/xiaomi-outdoor-camera-4-finally-a-security-camera-that-wont-break-the-bank/"
-    },
-    {
-      "id": 60,
-      "title": "Bank of New York Mellon Corp Sells 15,922 Shares of Globant S.A. (NYSE:GLOB)",
-      "summary": "Bank of New York Mellon Corp decreased its position in Globant S.A. by 6.7% in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:32:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/bank-of-new-york-mellon-corp-sells-15922-shares-of-globant-s-a-nyseglob/"
-    },
-    {
-      "id": 61,
-      "title": "Air India plane crash: Pilots' grouping FIP flags concerns over AAIB initial report, wants subject experts in probe",
-      "summary": "Federation of Indian Pilots raises concerns over premature inference of pilot error in Air India plane crash investigation, calls for reassessment and inclusion of subject experts.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T07:32:23Z",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-plane-crash-pilots-grouping-fip-flags-concerns-over-aaib-initial-report-wants-subject-experts-in-probe/articleshow/122623054.cms"
-    },
-    {
-      "id": 62,
-      "title": "marsdevs-reviewer added to PyPI",
-      "summary": "marsdevs-reviewer, an AI-powered code review tool, has been added to PyPI. The tool learns from your repository to provide more effective code reviews.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:31:04Z",
-      "url": "https://pypi.org/project/marsdevs-reviewer/"
-    },
-    {
-      "id": 63,
-      "title": "iPhone 17: Apple Faces New Challenges Ahead of Launch",
-      "summary": "Apple faces challenges ahead of iPhone 17 launch due to criticism over lack of innovation, as competitors introduce new advancements.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:30:52Z",
-      "url": "https://www.geeky-gadgets.com/iphone-17-2/"
-    },
-    {
-      "id": 64,
-      "title": "Section 232 tariffs risk jeopardizing US-Taiwan relations",
-      "summary": "Section 232 tariffs risk jeopardizing US-Taiwan relations due to President Trump's economic and trade policies focusing on fair and reciprocal trade, reindustrializing the US, and moving supply chains back to the US.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:29:57Z",
-      "url": "https://www.digitimes.com/news/a20250717PD230/taiwan-government-usa-tariffs.html"
-    },
-    {
-      "id": 51,
-      "title": "Kimi K2 AI Model by Moonshot Review : The Affordable AI That’s Shaking Up the Industry",
-      "summary": "The Kimi K2 AI model by Moonshot AI is gaining attention in the developer community for offering advanced AI capabilities at an affordable price, disrupting the industry with its high-quality results delivered at a fraction of the cost.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:18:37Z",
-      "url": "https://www.geeky-gadgets.com/?p=463962"
-    },
-    {
-      "id": 52,
-      "title": "Ranking Member Shaheen Floor Remarks on Trump Administration Diplomatic Cuts: \"China is eating our lunch\"",
-      "summary": "Ranking Member Shaheen criticized the Trump Administration for cuts to diplomatic efforts, arguing that China is gaining an advantage. She condemned the chaotic dismantling of the U.S. diplomatic corps and foreign relations.",
-      "source": "Globalsecurity.org",
-      "category": "ethics",
-      "timestamp": "2025-07-17T07:17:03Z",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250716-sfrc01.htm"
-    },
-    {
-      "id": 53,
-      "title": "UK-Germany landmark agreement to help smash smuggling gangs and boost defence exports",
-      "summary": "UK and Germany agree to strengthen partnership to combat smuggling, enhance defense exports, and benefit both nations economically with a visit from Chancellor Merz to London.",
-      "source": "Globalsecurity.org",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:17:03Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-250716-ukgov01.htm"
-    },
-    {
-      "id": 54,
-      "title": "French national strategy report highlights China's threats to Taiwan",
-      "summary": "France's national strategic report highlights China's military threats to Taiwan, causing unease in the region.",
-      "source": "Globalsecurity.org",
-      "category": "research",
-      "timestamp": "2025-07-17T07:16:29Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250716-cna04.htm"
-    },
-    {
-      "id": 55,
-      "title": "Pentagon to Increase Low-Cost Drone Production in U.S.",
-      "summary": "The Pentagon is increasing low-cost drone production in the U.S. with the help of industry to enhance battlefield superiority.",
-      "source": "Globalsecurity.org",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:16:28Z",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250716-dodnews03.htm"
-    },
-    {
-      "id": 56,
-      "title": "langchain-scrapeless added to PyPI",
-      "summary": "langchain-scrapeless added to PyPI, an integration package connecting Scrapeless and LangChain.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:16:26Z",
-      "url": "https://pypi.org/project/langchain-scrapeless/"
-    },
-    {
-      "id": 57,
-      "title": "Supra Unveils Real-Time Macro-Economic Data Feeds to Enhance Onchain Trading",
-      "summary": "Supra unveils real-time macro-economic data feeds for onchain trading on its Layer-1 blockchain built for Automatic DeFi.",
-      "source": "The Daily Hodl",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:15:36Z",
-      "url": "https://dailyhodl.com/2025/07/17/supra-unveils-real-time-macro-economic-data-feeds-to-enhance-onchain-trading/"
-    },
-    {
-      "id": 58,
-      "title": "Task-Sharing Of Therapy Gets Boosted Via New Guidebook By Google And McKinsey On AI For Mental Health",
-      "summary": "Not enough therapists for the rising demand of mental health therapy, so task-sharing with non-specialists and AI is being explored as a solution.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:15:00Z",
-      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/17/task-sharing-of-therapy-gets-boosted-via-new-guidebook-by-google-and-mckinsey-on-ai-for-mental-health/"
-    },
-    {
-      "id": 59,
-      "title": "IMAX (IMAX) to Release Earnings on Thursday",
-      "summary": "IMAX to release Q2 2025 earnings data with analysts expecting earnings of $0.19 per share and revenue of $93.04 million for the quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:14:45Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/imax-imax-to-release-earnings-on-thursday/"
-    },
-    {
-      "id": 60,
-      "title": "PayInOne Unveils “pio”: People, Intelligence, All in One",
-      "summary": "PayInOne has unveiled pio, a next-generation intelligent people platform that offers AI-powered payroll, compliance, and global workforce management solutions.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:12:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3116981/0/en/PayInOne-Unveils-pio-People-Intelligence-All-in-One.html"
     }
   ]
 }
