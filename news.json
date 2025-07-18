@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-18T08:50:30.579Z",
+  "lastUpdate": "2025-07-18T09:20:02.067Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AMD quietly reveals cheapest Ryzen AI yet — AI 5 330 is a quad-core budget processor with a 50 TOPS NPU",
+      "summary": "AMD introduces the Ryzen AI 5 330, a budget-friendly quad-core processor with a 50 TOPS NPU that meets Microsoft Copilot+ PC requirements, aiming to bring AI features to inexpensive Windows 11 laptops.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-17T09:18:01Z",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-quietly-reveals-cheapest-ryzen-ai-yet-ai-5-330-is-a-quad-core-budget-processor-with-a-50-tops-npu"
+    },
+    {
+      "id": 52,
+      "title": "RIL Q1 preview: Profits have slowed, hype is building—can Reliance deliver this time?",
+      "summary": "India's most valuable company, Reliance, is expected to report slower profits in Q1, with investors looking for updates on its new energy ventures.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-17T09:17:59Z",
+      "url": "https://www.livemint.com/companies/company-results/ril-q1-preview-o2c-retail-telecom-new-energy-profits-11752735517862.html"
+    },
+    {
+      "id": 53,
+      "title": "Secrets to Choosing Lucky Numbers for Online Lottery Games",
+      "summary": "Secrets to Choosing Lucky Numbers for Online Lottery Games - Many players believe a thoughtful approach to selecting numbers boosts their confidence and enjoyment in online lottery games.",
+      "source": "Todoinstagram.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:16:11Z",
+      "url": "https://www.todoinstagram.com/lottery/secrets-to-choosing-lucky-numbers-for-online-lottery-games/"
+    },
+    {
+      "id": 54,
+      "title": "Harrity & Harrity Seeks FT Patent Attorney / Agent in Electrical or Mechanical Technologies",
+      "summary": "Harrity & Harrity, a trusted patent firm, is seeking a full-time patent attorney or agent with experience in handling electrical or mechanical technologies to draft and prosecute high-value applications for top technology companies.",
+      "source": "IPWatchdog.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:15:54Z",
+      "url": "https://ipwatchdog.com/2025/07/17/harrity-harrity-seeks-ft-patent-attorney-agent-electrical-mechanical-technologies/id=190410/"
+    },
+    {
+      "id": 55,
+      "title": "ChatGPT Data Analysis : Turn Raw Data into Gold with the DIG Framework",
+      "summary": "ChatGPT Data Analysis tool promises to transform raw data into actionable insights in just 12 minutes.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:15:25Z",
+      "url": "https://www.geeky-gadgets.com/chatgpt-data-analysis-dig-framework/"
+    },
+    {
+      "id": 56,
+      "title": "What Did I Do “At School” Today? A Learner from 2040 Tells All",
+      "summary": "Explore a future where cities become classrooms, with unbundled learning ecosystems, personalized AI, and lifelong learning opportunities.",
+      "source": "Gettingsmart.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T09:15:00Z",
+      "url": "https://www.gettingsmart.com/2025/07/17/what-did-i-do-at-school-today-a-learner-from-2040-tells-all/"
+    },
+    {
+      "id": 57,
+      "title": "The HALO effect",
+      "summary": "The HALO effect - Notes on the recent trend of “Hire and License Out” deals in AI",
+      "source": "Kwokchain.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T09:13:20Z",
+      "url": "https://kwokchain.com/2025/07/15/the-halo-effect/"
+    },
+    {
+      "id": 58,
+      "title": "A young VC closed a $10 million fund for AI seed startups. Here's what he's looking for and the pitch deck he used",
+      "summary": "Sam Awrabi's Banyan Ventures closed a $10 million fund for AI seed startups, with plans to back 36 AI startups in seed and pre-seed stages.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T09:12:40Z",
+      "url": "https://biztoc.com/x/e04d97d6a8e4b1d4"
+    },
+    {
+      "id": 59,
+      "title": "I'm the ex-VP of HR at Microsoft. The tech job market feels bleak, but here are 3 reasons not to panic",
+      "summary": "Despite tech layoffs, ex-Microsoft HR VP Chris Williams remains optimistic about job expansions in the tech industry due to AI advancements.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T09:12:38Z",
+      "url": "https://biztoc.com/x/280e0a93b022dd40"
+    },
+    {
+      "id": 60,
+      "title": "How to Get Away With Anything in 2025",
+      "summary": "The better AI gets at creating things that don’t exist, the more difficult it will be to prove that anything actually exists.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T09:12:02Z",
+      "url": "https://biztoc.com/x/2ef606adbe7f46d3"
+    },
+    {
+      "id": 61,
+      "title": " Yamal, now it’s your turn! The 10 best number 10s in Barça’s history ",
+      "summary": "Lamien Yamal is Barcelona's new No.10, taking on a role previously held by great players. The article looks at the 10 best No.10s in the team's history, including Lionel Messi.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T09:12:00Z",
+      "url": "https://onefootball.com/en/news/yamal-now-its-your-turn-the-10-best-number-10s-in-barcas-history-41386850"
+    },
+    {
+      "id": 62,
+      "title": "QpiAI raises USD 32 million (INR 279 crore) in Series-A round led by Avataar Ventures and National Quantum Mission",
+      "summary": "QpiAI raises $32 million in Series A round to advance full-stack Quantum Computing technology globally.",
+      "source": "BusinessLine",
+      "category": "startups",
+      "timestamp": "2025-07-17T09:10:58Z",
+      "url": "https://www.thehindubusinessline.com/brandhub/qpiai-raises-usd-32-million-inr-279-crore-in-series-a-round-led-by-avataar-ventures-and-national-quantum-mission/article69822047.ece"
+    },
     {
       "id": 51,
       "title": "Perplexity's CEO takes a shot at Google's AI dilemma: 'They need to embrace one path and suffer'",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T07:45:07Z",
       "url": "https://www.cultofmac.com/news/chatgpt-for-mac-now-doubles-as-an-ai-meeting-assistant"
-    },
-    {
-      "id": 58,
-      "title": "360 Million Indians Just Got Premium AI Chatbots For Free For a Year",
-      "summary": "360 million Indians are receiving premium AI chatbots for free for a year through a partnership between Perplexity and Bharti Airtel, representing the largest distribution deal of its kind globally.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:45:00Z",
-      "url": "https://slashdot.org/story/25/07/17/0742246/360-million-indians-just-got-premium-ai-chatbots-for-free-for-a-year"
-    },
-    {
-      "id": 59,
-      "title": "Stratos Wealth Partners LTD. Takes Position in Applied Digital Corporation (NASDAQ:APLD)",
-      "summary": "Stratos Wealth Partners LTD. acquired a new stake in Applied Digital Corporation (NASDAQ:APLD) during the 1st quarter, purchasing 33,625 shares valued at approximately $189,000.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:44:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/stratos-wealth-partners-ltd-takes-position-in-applied-digital-corporation-nasdaqapld/"
-    },
-    {
-      "id": 60,
-      "title": "Treasury and Payments Platform Finmo Secures UK EMI Licence, Expands Global Footprint",
-      "summary": "Fast-growing fintech company Finmo receives UK EMI licence from FCA, enabling expansion of global footprint.",
-      "source": "Antaranews.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T07:44:36Z",
-      "url": "https://en.antaranews.com/news/367025/treasury-and-payments-platform-finmo-secures-uk-emi-licence-expands-global-footprint"
-    },
-    {
-      "id": 61,
-      "title": "What is TCS' new policy that's making thousands of techies at India's biggest IT firm anxious about layoffs?",
-      "summary": "TCS' new 35-day bench policy causing concern among employees about potential layoffs due to challenges in finding suitable projects.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:44:26Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/what-is-tcs-new-bench-policy-thats-making-thousands-of-techies-at-indias-biggest-it-firm-anxious-about-layoffs/articleshow/122621595.cms"
-    },
-    {
-      "id": 51,
-      "title": "European shares rise after four-day drop as ABB shines",
-      "summary": "European shares rebounded on Wednesday, fueled by robust quarterly results from ABB and optimism surrounding potential trade negotiations between the U.S. and EU.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:41:54Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-rise-after-four-day-drop-as-abb-shines/articleshow/122623696.cms"
-    },
-    {
-      "id": 52,
-      "title": "mseep-linkedin-mcp-server added to PyPI",
-      "summary": "mseep-linkedin-mcp-server has been added to PyPI, providing a MCP server for LinkedIn profile, company, and job scraping with Claude AI integration. It supports direct URL scraping and secure credential storage.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:40:11Z",
-      "url": "https://pypi.org/project/mseep-linkedin-mcp-server/"
-    },
-    {
-      "id": 53,
-      "title": "sleepy-driver added to PyPI",
-      "summary": "A new AI-powered drowsiness detection library for driver safety, called sleepy-driver, has been added to PyPI. The library aims to help prevent accidents caused by drowsy driving.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T07:40:07Z",
-      "url": "https://pypi.org/project/sleepy-driver/"
-    },
-    {
-      "id": 54,
-      "title": "mseep-dune-analytics-mcp added to PyPI",
-      "summary": "A new mcp server called mseep-dune-analytics-mcp has been added to PyPI, which bridges Dune Analytics data to AI agents. This innovation allows for easier integration of Dune Analytics data into AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:39:00Z",
-      "url": "https://pypi.org/project/mseep-dune-analytics-mcp/"
-    },
-    {
-      "id": 55,
-      "title": "Principal Financial Group Inc. Increases Stock Position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN)",
-      "summary": "Principal Financial Group Inc. increases stock position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) by 2.4% in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:38:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/principal-financial-group-inc-increases-stock-position-in-grid-dynamics-holdings-inc-nasdaqgdyn/"
-    },
-    {
-      "id": 56,
-      "title": "CamThink NeoEyes NE101 – A low-power, modular ESP32-S3 Vision AI Camera with optional 4G LTE and WiFi HaLow connectivity",
-      "summary": "CamThink NeoEyes NE101 is a low-power, modular ESP32-S3 Vision AI Camera with optional 4G LTE and WiFi HaLow connectivity.",
-      "source": "CNX Software",
-      "category": "innovation",
-      "timestamp": "2025-07-17T07:37:11Z",
-      "url": "https://www.cnx-software.com/2025/07/17/camthink-neoeyes-ne101-a-low-power-esp32-s3-vision-ai-camera-with-optional-4g-lte-and-wifi-halow-connectivity/"
-    },
-    {
-      "id": 57,
-      "title": "Japan's Nikkei gains on weaker yen; chip shares cheer TSMC earnings",
-      "summary": "Japan's Nikkei gains on weaker yen as chip shares cheer TSMC earnings",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T07:35:28Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-gains-on-weaker-yen-chip-shares-cheer-tsmc-earnings/articleshow/122623271.cms"
-    },
-    {
-      "id": 58,
-      "title": "Upstart Holdings, Inc. (NASDAQ:UPST) Shares Acquired by Principal Financial Group Inc.",
-      "summary": "Principal Financial Group Inc. significantly increased its holdings in AI startup Upstart Holdings, Inc. during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-17T07:35:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/upstart-holdings-inc-nasdaqupst-shares-acquired-by-principal-financial-group-inc/"
     }
   ]
 }
