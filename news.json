@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-18T14:57:33.323Z",
+  "lastUpdate": "2025-07-18T15:21:56.554Z",
   "items": [
+    {
+      "id": 51,
+      "title": "What Do You Think About AI?",
+      "summary": "Understanding public thinking about AI can inform companies' decisions on developing and training AI tools.",
+      "source": "Acm.org",
+      "category": "research",
+      "timestamp": "2025-07-17T15:20:02Z",
+      "url": "http://cacm.acm.org/news/what-do-you-think-about-ai/"
+    },
+    {
+      "id": 52,
+      "title": "Jack Ciattarelli's Chances of Beating Sherrill and Flipping New Jersey—poll",
+      "summary": "Republican Jack Ciattarelli is trailing behind Democrat Mikie Sherrill in the race for New Jersey governor according to a new internal poll from Ciattarelli's campaign.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-17T15:18:31Z",
+      "url": "https://biztoc.com/x/e9a4640058ea400b"
+    },
+    {
+      "id": 53,
+      "title": "Okta Patent Disrupts AI-Fueled Phishing Attacks",
+      "summary": "Okta has patented technology to disrupt AI-fueled phishing attacks, as phishing attempts become more advanced in the age of AI.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:18:30Z",
+      "url": "https://biztoc.com/x/9d8154dc4b18cd82"
+    },
+    {
+      "id": 54,
+      "title": "Kylie Jenner's Make-Up Video With Daughter Stormi, 7, Raises Questions",
+      "summary": "Kylie Jenner's make-up video featuring her AI-generated voice for her daughter raises questions about the ethics of using AI in such personal and intimate situations.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:18:30Z",
+      "url": "https://biztoc.com/x/eeaaa2d49a379c1d"
+    },
+    {
+      "id": 55,
+      "title": "Digi Power X Stock Jumps After Deal With Supermicro To Roll Out Nvidia-Powered AI Systems",
+      "summary": "Digi Power X stock rose after securing a deal with Supermicro to provide AI systems powered by Nvidia GPUs for its Tier 3 modular AI infrastructure.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:18:25Z",
+      "url": "https://biztoc.com/x/624806d0af399b67"
+    },
+    {
+      "id": 56,
+      "title": "Alaska Resident Captures Terrifying Moment Home Shakes Amid Earthquake",
+      "summary": "A viral video shared on TikTok shows a home shaking during an earthquake in Alaska, capturing a terrifying moment. The video, posted by @nicoledemoski, has gained over 741,000 views since Thursday.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:18:13Z",
+      "url": "https://biztoc.com/x/f942382211261cd7"
+    },
+    {
+      "id": 57,
+      "title": "Russia's Oil Prices Lag Behind Target",
+      "summary": "Russia's oil prices are lagging behind government targets, putting more strain on the economy during a turbulent wartime period.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:18:13Z",
+      "url": "https://biztoc.com/x/bc42b063af665f1d"
+    },
+    {
+      "id": 58,
+      "title": "States Take the Lead in Regulating American AI Development",
+      "summary": "States are taking the lead in regulating American AI development as the Senate removed a 10-year prohibition on states enacting their own AI laws. This move has opened the floodgates for state-level AI regulation.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:18:09Z",
+      "url": "https://biztoc.com/x/252c04037de08ea3"
+    },
+    {
+      "id": 59,
+      "title": "Slack’s paid users are getting new time-saving AI tools",
+      "summary": "Slack's paid users will have access to new time-saving AI tools including enterprise search functionality, language translation, and meetings.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:18:05Z",
+      "url": "https://biztoc.com/x/e11fcbbcb3145443"
+    },
+    {
+      "id": 60,
+      "title": "Business News: What Richemont And Swatch Group’s Financial Results Say About The State Of The Swiss Watch Industry",
+      "summary": "Watchmakers Richemont and Swatch Group are seeing weak demand and sales in the Swiss watch industry, particularly in China, but there are signs of potential stabilization and surprising strength.",
+      "source": "HODINKEE",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:18:00Z",
+      "url": "https://www.hodinkee.com/articles/what-richemont-and-swatch-groups-financial-results-say-about-the-state-of-the-swiss-watch-industry"
+    },
+    {
+      "id": 61,
+      "title": "Command Alkon Named Top Cloud-Based Construction Software Provider of 2025 by Construction Tech Review",
+      "summary": "Command Alkon named top cloud-based construction software provider of 2025 by Construction Tech Review.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:18:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117437/0/en/Command-Alkon-Named-Top-Cloud-Based-Construction-Software-Provider-of-2025-by-Construction-Tech-Review.html"
+    },
+    {
+      "id": 62,
+      "title": "Is AI the New Android Bloatware? Why Phone-Makers Are Scrambling for Your Attention",
+      "summary": "Android phone-makers are exploring ways to utilize non-Google AI to make their devices unique, but may not be the best approach in the age of Gemini.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:17:44Z",
+      "url": "https://www.cnet.com/tech/services-and-software/is-ai-the-new-android-bloatware-why-phone-makers-are-scrambling-for-your-attention/"
+    },
+    {
+      "id": 63,
+      "title": "New Minisforum AMD Strix Halo mini-PC leaks with Ryzen AI Max+ 395 and 128 GB RAM",
+      "summary": "New Minisforum AMD Strix Halo mini-PC leaks with Ryzen AI Max+ 395 and 128 GB RAM, hinting at upcoming launch in the Minisforum AI X1 series.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:17:00Z",
+      "url": "https://www.notebookcheck.net/New-Minisforum-AMD-Strix-Halo-mini-PC-leaks-with-Ryzen-AI-Max-395-and-128-GB-RAM.1060425.0.html"
+    },
+    {
+      "id": 64,
+      "title": "Dell's new Pro Max laptops are here to tackle demanding AI workflows",
+      "summary": "Dell's new Pro Max laptops are designed to handle demanding AI workflows, targeting power users looking to enter the AI PC era.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:16:01Z",
+      "url": "https://www.neowin.net/news/dells-new-pro-max-laptops-are-here-to-tackle-demanding-ai-workflows/"
+    },
+    {
+      "id": 65,
+      "title": "Beyond GPS: Xona Raises $92M to Revolutionize Global Positioning with Pulsar Constellation",
+      "summary": "Satellite navigation startup Xona Space Systems raises $92 million in Series B funding to revolutionize global positioning with Pulsar Constellation.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-17T15:15:17Z",
+      "url": "https://finance.yahoo.com/news/beyond-gps-xona-raises-92m-151517213.html"
+    },
+    {
+      "id": 66,
+      "title": "Google Search adds Gemini 2.5 Pro, AI Deep Search, and agentic local calling - Search Engine Land",
+      "summary": "Google Search is adding more advanced AI capabilities such as Gemini 2.5 Pro, AI Deep Search, and agentic local calling, allowing for more efficient and intelligent search results.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:15:09Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178402414"
+    },
+    {
+      "id": 67,
+      "title": "The Atomic Purple Game Boy of VR Headsets Is Here, and It’s Glorious",
+      "summary": "BigScreen releases limited edition VR headset with Game Boy design",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:15:08Z",
+      "url": "https://gizmodo.com/the-atomic-purple-game-boy-of-vr-headsets-is-here-and-its-glorious-2000630658"
+    },
+    {
+      "id": 68,
+      "title": "AI-Powered Chef Set to Make Its Debut in Dubai",
+      "summary": "Dubai is preparing to introduce a new dining concept where artificial intelligence takes center stage, at least behind the scenes. WOOHOO, a restaurant set to open in September near the Burj Khalifa, promises 'dining in the future' with the debut of its AI-powered chef.",
+      "source": "Newser",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:14:49Z",
+      "url": "https://www.newser.com/story/372039/ai-powered-chef-set-to-make-its-debut-in-dubai.html"
+    },
+    {
+      "id": 69,
+      "title": "Looks like the Taiwanese chip industry is becoming a hot target for Chinese state-sponsored hackers trying to nab trade secrets",
+      "summary": "The Taiwanese chip industry is being targeted by Chinese state-sponsored hackers for trade secrets.",
+      "source": "PC Gamer",
+      "category": "security",
+      "timestamp": "2025-07-17T15:14:45Z",
+      "url": "https://www.pcgamer.com/software/security/looks-like-the-taiwanese-chip-industry-is-becoming-a-hot-target-for-chinese-state-sponsored-hackers-trying-to-nab-trade-secrets/"
+    },
     {
       "id": 51,
       "title": "Who are the MAGA influencers calling for Pam Bondi’s head over Epstein?",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-17T14:41:55Z",
       "url": "https://www.channelnewsasia.com/business/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules-5243976"
-    },
-    {
-      "id": 65,
-      "title": "‘X’ cannot claim same constitutional rights as individual: Centre tells Karnataka HC in X Corp case",
-      "summary": "'X' corporation cannot claim same constitutional rights as individual, according to the Centre in Karnataka HC case. The Solicitor General emphasized the importance of responsible behavior by internet intermediaries, citing concerns about digital surveillance, cybercrime, and the need for regulation.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:41:54Z",
-      "url": "https://www.thehindubusinessline.com/news/x-cannot-claim-same-constitutional-rights-as-individual-centre-tells-karnataka-hc-in-x-corp-case/article69824005.ece"
-    },
-    {
-      "id": 66,
-      "title": "phosphobot 0.3.62",
-      "summary": "phosphobot 0.3.62 is an AI-ready robotics dev kit with built-in remote control and VLA support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:40:53Z",
-      "url": "https://pypi.org/project/phosphobot/0.3.62/"
-    },
-    {
-      "id": 67,
-      "title": "生成AIとチャットしながら留学の見積を作成する機能が追加されました。",
-      "summary": "A feature has been added to generate estimates for studying abroad while chatting with AI - [World Avenue Co., Ltd.]",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000028.000010683.html"
-    },
-    {
-      "id": 51,
-      "title": "Memecoins and DeFi beat Bitcoin as BONK, CRV, FRAX post over 20% gains in 24 hours",
-      "summary": "Memecoins and DeFi outperform Bitcoin with BONK, CRV, FRAX showing over 20% gains in 24 hours, reflecting a bullish market environment.",
-      "source": "CryptoSlate",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:13:35Z",
-      "url": "https://cryptoslate.com/memecoins-and-defi-beat-bitcoin-as-bonk-crv-frax-post-over-20-gains-in-24-hours/"
-    },
-    {
-      "id": 52,
-      "title": "Adobe Adds Generative Sound Effects Plus Other New Video Capabilities to Firefly AI Models",
-      "summary": "Adobe has added Generative Sound Effects and other new video capabilities to its Firefly AI model, aiming to improve audio and video editing efficiency.",
-      "source": "Nofilmschool.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:13:10Z",
-      "url": "https://nofilmschool.com/adobe-generate-sound-effects"
-    },
-    {
-      "id": 53,
-      "title": "RGTI Stock: Path To 10x Growth",
-      "summary": "RGTI stock has seen a 1,300% increase over the past year, prompting speculation about potential factors that could lead to further growth",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-17T14:11:52Z",
-      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/17/rgti-stock-path-to-10x-growth/"
-    },
-    {
-      "id": 54,
-      "title": "China Reacts As Russia Floats New Geopolitical Power Bloc With India",
-      "summary": "China reacts positively to Russia's proposal for a new geopolitical power bloc involving India, citing potential benefits for peace and security.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:11:48Z",
-      "url": "https://biztoc.com/x/34dd243ef6c5775d"
-    },
-    {
-      "id": 55,
-      "title": "Man Goes Berserk on American Airlines Flight Over a Charging Cable",
-      "summary": "A passenger on an American Airlines flight went berserk over a charging cable, which was recorded and shared on TikTok. This incident raises ethical questions about passenger behavior and security on flights.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:11:46Z",
-      "url": "https://biztoc.com/x/c41c194ad85d1fb1"
-    },
-    {
-      "id": 56,
-      "title": "FDA Issues Risk Warning for Nationwide Cough Syrup Recall",
-      "summary": "FDA warns of nationwide cough syrup recall due to bacterial contamination, potentially impacting consumers affected by inconsistent AI-generated voice warnings.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:11:46Z",
-      "url": "https://biztoc.com/x/e9b2f605d4ccc9a1"
-    },
-    {
-      "id": 57,
-      "title": "REDMAGIC Astra gaming tablet review – phenomenal gaming power and OLED screen in a mini tablet",
-      "summary": "The REDMAGIC Astra gaming tablet offers phenomenal gaming power and an OLED screen in a mini tablet, making it a great option for gamers. The review highlights the powerful mobile hardware and compact design of the tablet.",
-      "source": "The Gadgeteer",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:11:18Z",
-      "url": "https://the-gadgeteer.com/2025/07/17/redmagic-astra-gaming-tablet-review-phenomenal-gaming-power-and-oled-screen-in-a-mini-tablet/"
-    },
-    {
-      "id": 58,
-      "title": "Katie Sturino Is Ending Women's Body Shame, One Chafe Stick at a Time",
-      "summary": "Katie Sturino is using AI-generated voice to address women's body shame and provide solutions for common problems like chafing. This innovation has the potential to impact how women approach self-care and body positivity.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:11:12Z",
-      "url": "https://biztoc.com/x/7ca34fe790b2b88e"
-    },
-    {
-      "id": 59,
-      "title": "Magnesium Sulfate Market Volume to Exceed 3,670.97 Thousand Tones by 2034",
-      "summary": "Global magnesium sulfate market volume is projected to exceed 3,670.97 thousand tones by 2034, with a CAGR of 3.47%, signaling potential economic growth in the industry.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:11:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117371/0/en/Magnesium-Sulfate-Market-Volume-to-Exceed-3-670-97-Thousand-Tones-by-2034.html"
-    },
-    {
-      "id": 60,
-      "title": "Wipro sees muted start to FY26 amid macro headwinds",
-      "summary": "Wipro's Q1 FY26 performance shows a muted start due to macro headwinds, with revenue decline countered by large deal bookings and margin expansion.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:10:36Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/wipro-sees-muted-start-to-fy26-amid-macro-headwinds/article69823582.ece"
-    },
-    {
-      "id": 61,
-      "title": "Wipro sees muted start to FY26 amid macro headwinds",
-      "summary": "Wipro's Q1 FY26 performance was impacted by macroeconomic challenges, leading to revenue decline despite large deal bookings and margin expansion.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:10:36Z",
-      "url": "https://www.thehindubusinessline.com/companies/wipro-sees-muted-start-to-fy26-amid-macro-headwinds/article69823582.ece"
-    },
-    {
-      "id": 62,
-      "title": "Why I’ll Likely Spend $8,000 on Replit — This Month Alone. And Why That’s OK.",
-      "summary": "The article discusses the author's experience with Replit and how addictive it is for them, leading them to consider spending $8,000 on it in one month. The author reflects on the benefits of vibe coding and the enjoyment they get from using the app.",
-      "source": "Saastr.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:10:31Z",
-      "url": "https://www.saastr.com/why-ill-likely-spend-8000-on-replit-this-month-alone-and-why-thats-ok/"
-    },
-    {
-      "id": 63,
-      "title": "Digital Transformation Europe Returns to Amsterdam – The Premier Enterprise Tech Event of the Year",
-      "summary": "Digital Transformation Expo Europe, part of TechEx Europe, one of Europe's largest enterprise technology events, is returning to Amsterdam.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:10:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/17/digital-transformation-europe-returns-to-amsterdam-the-premier-enterprise-tech-event-of-the-year.aspx"
-    },
-    {
-      "id": 64,
-      "title": "Seth Meyers Debunks Trump’s ‘Full Hallucination’ About His Uncle and the Unabomber | Video",
-      "summary": "Seth Meyers debunks Trump's false claim about his uncle's involvement with the Unabomber, highlighting the ethical concerns of spreading misinformation.",
-      "source": "TheWrap",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:08:52Z",
-      "url": "https://www.thewrap.com/seth-meyers-debunks-trump-story-uncle-unabomber/"
-    },
-    {
-      "id": 65,
-      "title": "RCAT Stock To $25?",
-      "summary": "RCAT stock expected to reach $25 due to military contract success, despite ongoing losses.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:08:20Z",
-      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/17/rcat-stock-to-25/"
-    },
-    {
-      "id": 66,
-      "title": "Why Your Messages Are Finally Coming Clean: Google's Status Revolution",
-      "summary": "Google Messages will soon provide users with detailed information on the status of their sent messages, reducing uncertainty and improving communication clarity.",
-      "source": "Gadgethacks.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:08:01Z",
-      "url": "https://android.gadgethacks.com/news/why-your-messages-are-finally-coming-clean-googles-status-revolution/"
     }
   ]
 }
