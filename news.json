@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-18T13:24:41.125Z",
+  "lastUpdate": "2025-07-18T13:54:03.848Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Amazon Warns 220 Million Customers Of Prime Account Attacks",
+      "summary": "Amazon Prime subscribers are being warned of potential account attacks affecting 220 million customers.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:53:16Z",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/07/17/amazon-warns-220-million-customers-of-prime-account-attacks/"
+    },
+    {
+      "id": 52,
+      "title": "Dell employees are not OK",
+      "summary": "Dell employees are experiencing a significant drop in satisfaction, as revealed by internal survey results, showing a nearly 50% decrease within two years.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:50:38Z",
+      "url": "https://www.businessinsider.com/tell-dell-results-employee-satisfaction-falls-2025-7"
+    },
+    {
+      "id": 53,
+      "title": "anosys-agentic-ai-package 0.0.15",
+      "summary": "Anosys-agentic-ai-package 0.0.15 is a helper package designed to make it easier to implement the AnoSys platform. This tool aids in integrating AI solutions into various applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:50:03Z",
+      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.15/"
+    },
+    {
+      "id": 54,
+      "title": "Contrast Security releases Software Under Siege 2025, exposing what traditional reports miss about application-layer threats",
+      "summary": "Contrast Security releases Software Under Siege 2025, exposing the growing crisis at the application layer as adversaries use AI to easily launch previously sophisticated attacks at scale.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:50:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/17/contrast-security-releases-software-under-siege-2025-exposing-what-traditional-reports-miss-about-application-layer-threats.aspx"
+    },
+    {
+      "id": 55,
+      "title": "Coca-Cola Will Get More Expensive if it Changes to Cane Sugar. Here's Why",
+      "summary": "Coca-Cola will become more expensive if it switches to using cane sugar in its beverages in the U.S., as announced by President Trump on Truth Social.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:49:38Z",
+      "url": "https://biztoc.com/x/40ccc7ff57e9a73e"
+    },
+    {
+      "id": 56,
+      "title": "Barack Obama Has Eye-Opening Take On Parenting Girls vs Boys—He's Right",
+      "summary": "Barack Obama discusses parenting differences between boys and girls on Michelle Obama's podcast, touching on how boys are being raised in today's world.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T13:49:13Z",
+      "url": "https://biztoc.com/x/eed636a59fc7d2af"
+    },
+    {
+      "id": 57,
+      "title": "diffai-python 0.3.8",
+      "summary": "The diffai-python 0.3.8 tool is designed for deep tensor comparison and analysis in the field of AI/ML, making it easier to identify differences between models. This specialized tool can aid researchers in improving AI algorithms and models.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-17T13:49:13Z",
+      "url": "https://pypi.org/project/diffai-python/0.3.8/"
+    },
+    {
+      "id": 58,
+      "title": "UAE’s deal to buy Nvidia AI chips reportedly on hold",
+      "summary": "UAE’s deal to buy Nvidia AI chips reportedly on hold due to national security reasons",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:49:07Z",
+      "url": "https://biztoc.com/x/0761b8f0986626c1"
+    },
+    {
+      "id": 59,
+      "title": "Hexaware acquires two SMC Squared firms for over Rs 1,000 crore in GCC space",
+      "summary": "Hexaware acquires two SMC Squared firms for over Rs 1,000 crore in GCC space, aiming to expand presence in global capability centre space.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T13:48:36Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/hexaware-acquires-two-smc-squared-firms-for-over-rs-1000-crore-in-gcc-space/articleshow/122644612.cms"
+    },
+    {
+      "id": 60,
+      "title": "Perplexity’s CEO on why the browser is AI’s killer app",
+      "summary": "Perplexity’s CEO discusses how AI is becoming the killer app for browsers and changing the way we use the web.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:48:16Z",
+      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search"
+    },
+    {
+      "id": 61,
+      "title": "DataDome & Arc XP Partner to Help Publishers Protect and Monetize AI Agent Traffic",
+      "summary": "DataDome and Arc XP partner to help publishers protect and monetize AI agent traffic through a global technology partnership",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:48:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/17/datadome-arc-xp-partner-to-help-publishers-protect-and-monetize-ai-agent-traffic.aspx"
+    },
+    {
+      "id": 62,
+      "title": "autonomize-model-sdk 1.1.54",
+      "summary": "The autonomize-model-sdk 1.1.54 is a SDK designed for creating and managing machine learning pipelines.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:47:43Z",
+      "url": "https://pypi.org/project/autonomize-model-sdk/1.1.54/"
+    },
+    {
+      "id": 63,
+      "title": "encryptly added to PyPI",
+      "summary": "Encryptly, a lightweight authentication tool for AI agents, has been added to PyPI. This tool aims to improve security for AI applications by providing a simple and effective way to authenticate agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:47:37Z",
+      "url": "https://pypi.org/project/encryptly/"
+    },
+    {
+      "id": 64,
+      "title": "encryptly 0.1.1",
+      "summary": "Encryptly 0.1.1 is a lightweight authentication solution for AI agents, providing added security for sensitive data. This innovation improves the trustworthiness of AI systems by ensuring secure communication between agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:47:37Z",
+      "url": "https://pypi.org/project/encryptly/0.1.1/"
+    },
+    {
+      "id": 65,
+      "title": "TSMC Raises 2025 Outlook in a Big Boost for AI Demand Hopes",
+      "summary": "TSMC raises its 2025 revenue growth outlook, boosting investors' confidence in the momentum of AI demand.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:47:30Z",
+      "url": "https://finance.yahoo.com/news/tsmc-raises-2025-outlook-big-070844740.html"
+    },
+    {
+      "id": 66,
+      "title": "Why B2B Customer Service Is Now Part Of My Research Agenda",
+      "summary": "B2B survey respondents are emphasizing the importance of customer retention and growth, with 73% of revenue stemming from current customers. This has led to a focus on coordinating all post-sale motions, from onboarding to servicing and expanding business.",
+      "source": "Forrester.com",
+      "category": "research",
+      "timestamp": "2025-07-17T13:47:07Z",
+      "url": "https://www.forrester.com/blogs/why-b2b-customer-service-is-now-part-of-my-research-agenda/"
+    },
+    {
+      "id": 67,
+      "title": "Samsung Galaxy Z Fold 7",
+      "summary": "Samsung Galaxy Z Fold 7 is the best folding phone available with refined design, powerful hardware, and improved cameras. Now in its seventh generation, the device offers excellent hardware and an expansive display.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:46:47Z",
+      "url": "https://uk.pcmag.com/mobile-phones/159172/samsung-galaxy-z-fold-7"
+    },
+    {
+      "id": 68,
+      "title": "Samsung Galaxy Z Fold 7",
+      "summary": "Samsung Galaxy Z Fold 7 is the best folding phone with a refined design, plenty of power, and improved cameras. Now in its seventh generation, it offers excellent hardware and an expansive screen.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:46:47Z",
+      "url": "https://me.pcmag.com/en/mobile-phones/31015/samsung-galaxy-z-fold-7"
+    },
+    {
+      "id": 69,
+      "title": "anosys-agentic-ai-package 0.0.14",
+      "summary": "The Anosys-agentic-ai-package 0.0.14 is a helper package designed to support easy implementation to the AnoSys platform.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:45:48Z",
+      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.14/"
+    },
+    {
+      "id": 70,
+      "title": "rasa-pro 3.13.3",
+      "summary": "rasa-pro 3.13.3 is a state-of-the-art open-core Conversational AI framework for Enterprises that utilizes generative AI for easy assistant development.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:45:37Z",
+      "url": "https://pypi.org/project/rasa-pro/3.13.3/"
+    },
     {
       "id": 51,
       "title": "WARC report highlights trends, insights in programmatic market",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T12:29:26Z",
       "url": "https://finance.yahoo.com/news/l1-capital-international-fund-hca-122926924.html"
-    },
-    {
-      "id": 64,
-      "title": "Why giving 16-year-olds the vote could change UK politics forever",
-      "summary": "Giving 16-year-olds the vote could change UK politics forever as young people historically vote for Labour, but this may not be the case in the future.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:29:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68259/1/voting-age-16-labour-british-politics-young-people-uk-keir-starmer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-giving-16-year-olds-the-vote-could-change-uk-politics-forever"
-    },
-    {
-      "id": 65,
-      "title": "Why giving 16-year-olds the vote could change British politics forever",
-      "summary": "Lowering the voting age to 16 could have a significant impact on British politics by shifting power towards the future generation who will have to live with the consequences. This decision could potentially change the political landscape in the UK.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:29:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68259/1/voting-age-16-labour-british-politics-young-people-uk-keir-starmer-future?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-giving-16-year-olds-the-vote-could-change-british-politics-forever"
-    },
-    {
-      "id": 66,
-      "title": "Giving 16-year-olds the vote could change British politics forever",
-      "summary": "Giving 16-year-olds the vote could change British politics forever, as it shifts power towards the future generation who will have to live with the consequences.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:29:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68259/1/voting-age-16-labour-british-politics-young-people-uk-keir-starmer-future?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=giving-16-year-olds-the-vote-could-change-british-politics-forever"
-    },
-    {
-      "id": 67,
-      "title": "Why giving 16-year-olds the vote will change British politics forever",
-      "summary": "Lowering the voting age to 16 will shift power towards the future and to the people who will have to live in it, changing British politics forever.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:29:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68259/1/voting-age-16-labour-british-politics-young-people-uk-keir-starmer-future?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-giving-16-year-olds-the-vote-will-change-british-politics-forever"
-    },
-    {
-      "id": 68,
-      "title": "The voting age is dropping to 16 – here’s why it matters",
-      "summary": "Lowering the voting age to 16 is seen as a way to give more power to the younger generation who will be most affected by future policies and decisions.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:29:00Z",
-      "url": "https://www.dazeddigital.com/life-culture/article/68259/1/voting-age-16-labour-british-politics-young-people-uk-keir-starmer-future?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-voting-age-is-dropping-to-16-here-s-why-it-matters"
-    },
-    {
-      "id": 69,
-      "title": "Poll finds bipartisan agreement on a key issue: Regulating AI",
-      "summary": "Poll finds bipartisan agreement that AI should be regulated to protect the public.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-17T12:28:17Z",
-      "url": "https://theconversation.com/poll-finds-bipartisan-agreement-on-a-key-issue-regulating-ai-259780"
-    },
-    {
-      "id": 70,
-      "title": "AI Demand Has Wall Street Snatching Up Utility Companies",
-      "summary": "AI Demand Has Wall Street investing in utility companies to benefit from rising demand for electricity from data centers.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T12:26:59Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/ai-demand-has-wall-street-snatching-up-utility-companies/"
-    },
-    {
-      "id": 51,
-      "title": "Student Led Mission Designs Highlight The Challenges Of Engineering In Space",
-      "summary": "Student Led Mission Designs Highlight The Challenges Of Engineering In Space, with a focus on the engineering challenges specific to space exploration missions and universal challenges in electronics.",
-      "source": "Universe Today",
-      "category": "research",
-      "timestamp": "2025-07-17T11:45:49Z",
-      "url": "https://www.universetoday.com/articles/student-led-mission-designs-highlight-the-challenges-of-engineering-in-space"
-    },
-    {
-      "id": 52,
-      "title": "Intel's fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide",
-      "summary": "Intel's new AI tool is able to measure image quality in games in real time, effectively identifying upscaling artifacts and visual imperfections. This tool aims to quantify subjective aspects of image quality, providing a innovative solution for improving visual quality in gaming.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-17T11:45:41Z",
-      "url": "https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/"
-    },
-    {
-      "id": 53,
-      "title": "Rowan Street Capital’s Investment Journey with Spotify (SPOT)",
-      "summary": "Rowan Street Capital released its second-quarter 2025 investor letter detailing its investment journey with Spotify (SPOT).",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T11:45:07Z",
-      "url": "https://finance.yahoo.com/news/rowan-street-capital-investment-journey-114507228.html"
-    },
-    {
-      "id": 54,
-      "title": "Intel, Indeed, Glassdoor Total 5,000+ Layoffs. Is Your Job AI-Proof?",
-      "summary": "Intel, Indeed, and Glassdoor are cutting 5,000+ roles, raising concerns about the impact of AI on job security. Learn about the types of jobs being replaced by AI, why the layoffs are happening, and how to future-proof your career in the face of automation.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T11:45:01Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/17/intel-indeed-glassdoor-total-5000-layoffs-is-your-job-ai-proof/"
-    },
-    {
-      "id": 55,
-      "title": "NetBox Labs raises $35m to modernise infrastructure operations",
-      "summary": "NetBox Labs raises $35m in second funding round to modernize infrastructure operations, as companies seek to improve deployment, management, and security of business-critical networks and infrastructure.",
-      "source": "ComputerWeekly.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T11:45:00Z",
-      "url": "https://www.computerweekly.com/news/366627777/NetBox-Labs-raises-35m-to-modernise-infrastructure-operations"
-    },
-    {
-      "id": 56,
-      "title": "skypilot-nightly 1.0.0.dev20250717",
-      "summary": "skypilot-nightly 1.0.0.dev20250717 allows for running AI on any infrastructure, providing a unified, faster, and cheaper solution.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:43:14Z",
-      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250717/"
-    },
-    {
-      "id": 57,
-      "title": "More Apple chips to be made in US as TSMC accelerates Arizona plants",
-      "summary": "More Apple chips to be made in US as TSMC accelerates Arizona plants, fulfilling a promise made back in March.",
-      "source": "9to5Mac",
-      "category": "economy",
-      "timestamp": "2025-07-17T11:41:55Z",
-      "url": "https://9to5mac.com/2025/07/17/more-apple-chips-to-be-made-in-us-as-tsmc-accelerates-arizona-plants/"
-    },
-    {
-      "id": 58,
-      "title": "Content Canada publishes draft agenda designed to help Canadian entertainment business define its future in The New Content Economy",
-      "summary": "Content Canada releases draft agenda to assist Canadian entertainment industry in adapting to The New Content Economy.",
-      "source": "C21media.net",
-      "category": "economy",
-      "timestamp": "2025-07-17T11:41:06Z",
-      "url": "https://www.c21media.net/department/marketing/content-canada-publishes-draft-agenda-designed-to-help-canadian-entertainment-business-define-its-future-in-the-new-content-economy/"
-    },
-    {
-      "id": 59,
-      "title": "Smart Habit Trackers - Bloom Provides AI-Powered Habit Tracking With Siri And iCloud Integration (TrendHunter.com)",
-      "summary": "Bloom is a habit tracking application powered by AI that integrates with Siri and iCloud to help users develop and sustain positive habits.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:40:06Z",
-      "url": "https://www.trendhunter.com/trends/habit-tracking"
-    },
-    {
-      "id": 60,
-      "title": "LoRA: Low-Rank Adaptation of Large Language Models Explained",
-      "summary": "LoRA is a new technique for efficient fine-tuning of large language models by updating fewer parameters. It offers benefits such as faster adaptation, but also has limitations that need to be addressed. The research explores its real-world uses and potential for the future.",
-      "source": "Digitalocean.com",
-      "category": "research",
-      "timestamp": "2025-07-17T11:39:55Z",
-      "url": "https://www.digitalocean.com/community/tutorials/lora-low-rank-adaptation-llms-explained"
-    },
-    {
-      "id": 61,
-      "title": "'Sleeping With That Fear…': Perplexity CEO Aravind Srinivas On Staying Ahead In The AI Race",
-      "summary": "Perplexity CEO Aravind Srinivas discusses how the fear of being copied drives innovation and success in the competitive AI industry.",
-      "source": "Ndtvprofit.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T11:38:17Z",
-      "url": "https://www.ndtvprofit.com/technology/sleeping-with-that-fear-perplexity-ceo-aravind-srinivas-on-staying-ahead-in-the-ai-race"
-    },
-    {
-      "id": 62,
-      "title": "Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps",
-      "summary": "Ohan Oda discusses making the Lens in Maps AR feature accessible to visually impaired users, sharing valuable lessons on designing inclusive AR experiences and the impact on users.",
-      "source": "InfoQ.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:37:00Z",
-      "url": "https://www.infoq.com/presentations/augmented-reality-maps/"
-    },
-    {
-      "id": 63,
-      "title": "anosys-agentic-ai-package 0.0.6",
-      "summary": "Anosys-agentic-ai-package 0.0.6 is a helper package that makes it easier to implement AI solutions on the AnoSys platform.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:36:24Z",
-      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.6/"
     }
   ]
 }
