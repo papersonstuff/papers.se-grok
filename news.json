@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-18T15:21:56.554Z",
+  "lastUpdate": "2025-07-18T15:43:01.347Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Linux market share just crossed 5%, hitting a new milestone",
+      "summary": "Linux market share reaches new milestone of 5%, crossing an important threshold according to Statcounter data.",
+      "source": "PCWorld",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:42:32Z",
+      "url": "https://www.pcworld.com/article/2851606/linux-market-share-just-crossed-5-percent-hitting-a-new-milestone.html"
+    },
+    {
+      "id": 52,
+      "title": "evalstack 0.0.2",
+      "summary": "Evalstack 0.0.2 offers AI-driven analysis and evaluation for policy workflows, regardless of the framework being used.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:41:44Z",
+      "url": "https://pypi.org/project/evalstack/0.0.2/"
+    },
+    {
+      "id": 53,
+      "title": "Too Much Hype, Too Few Profits. Tesla Stock Fans Should Heed This Warning Before July 23.",
+      "summary": "Tesla stock fans should be cautious of the hype surrounding AI before their upcoming earnings report on July 23, as the company has yet to translate AI advancements into profits.",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:41:21Z",
+      "url": "https://www.barchart.com/story/news/33470146/too-much-hype-too-few-profits-tesla-stock-fans-should-heed-this-warning-before-july-23"
+    },
+    {
+      "id": 54,
+      "title": "Off The Grid free-to-play battle royale has officially launched on Steam",
+      "summary": "Off The Grid, a free-to-play battle royale set in a cyberpunk dystopia, has officially launched on Steam with cyberlimbs to loot and unique abilities enabled by them.",
+      "source": "Notebookcheck.net",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:41:00Z",
+      "url": "https://www.notebookcheck.net/Off-The-Grid-free-to-play-battle-royale-has-officially-launched-on-Steam.1060723.0.html"
+    },
+    {
+      "id": 55,
+      "title": "Liberty Announces Upsize to C$4.4 Million of Equity Financing Due to Demand",
+      "summary": "Liberty announces upsizing of equity financing to C$4.4 million due to demand, not for distribution to U.S. newswires or dissemination in the United States.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T15:41:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117462/0/en/Liberty-Announces-Upsize-to-C-4-4-Million-of-Equity-Financing-Due-to-Demand.html"
+    },
+    {
+      "id": 56,
+      "title": "You’re Not Imagining It: AI Is Already Taking Tech Jobs",
+      "summary": "Since the rise of generative AI, many have feared the toll it would take on the livelihood of human workers. Now CEOs are admitting AI’s impact and layoffs are starting to ramp up.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:40:47Z",
+      "url": "https://biztoc.com/x/56a489befb61bb0b"
+    },
+    {
+      "id": 57,
+      "title": "ChatGPT helps write this mayor’s speeches. Now he wants a thousand city workers using AI",
+      "summary": "ChatGPT is being used to help write speeches for the mayor of San Jose, California, and now he wants a thousand city workers to use AI as well.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:40:39Z",
+      "url": "https://biztoc.com/x/af0ed29677826bc1"
+    },
+    {
+      "id": 58,
+      "title": "Church Accuses Donald Trump of 'Domestic Terrorism'",
+      "summary": "A church accuses Donald Trump of 'domestic terrorism' for ICE raids, stating the administration is 'weaponizing the constitution'.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:40:33Z",
+      "url": "https://biztoc.com/x/4c0bf977958f4ca2"
+    },
+    {
+      "id": 59,
+      "title": "TSMC and Nvidia are latest bullish reads on AI demand: Opening Bid top takeaways",
+      "summary": "TSMC and Nvidia are showing bullish reads on AI demand, with markets stabilizing after a Trump-fueled tizzy. President Trump reportedly discussed firing Federal Reserve Chair Jerome Powell.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:40:29Z",
+      "url": "https://biztoc.com/x/0446e98dbf0e7132"
+    },
+    {
+      "id": 60,
+      "title": "Google gets unexpected boost from ChatGPT",
+      "summary": "Google is leveraging ChatGPT for AI advancements, focusing on scale, speed, and under-the-radar systems.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:40:29Z",
+      "url": "https://biztoc.com/x/4d6e705d84fcaabe"
+    },
+    {
+      "id": 61,
+      "title": "Rescue Pug Separated From Brother at 8 Weeks Old, 'Fate' Reunites Them",
+      "summary": "A dog owner shares the story of her rescue pug being reunited with his brother after being separated at a young age. The use of AI-generated voice technology to tell the story may lead to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:40:12Z",
+      "url": "https://biztoc.com/x/17b6b394e35c6c8a"
+    },
+    {
+      "id": 62,
+      "title": "Study: AI Boosts Productivity for 72% of Users",
+      "summary": "Study shows that 72% of users are experiencing increased productivity thanks to AI, according to The AI Guide: How the UK is Using AI at Home and Work.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:40:06Z",
+      "url": "https://biztoc.com/x/242fbefdb29b82e4"
+    },
+    {
+      "id": 63,
+      "title": "Jamie Dimon turned down Jeff Bezos and a top gig at Amazon to take on ‘troubled’ Bank One in a $60 million bet",
+      "summary": "Jamie Dimon chose to take on a challenging role at Bank One instead of joining Amazon, showing a $60 million bet on the banking industry.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:40:06Z",
+      "url": "https://fortune.com/2025/07/17/jamie-dimon-turned-down-jeff-bezos-job-offer-amazon-bank-one/"
+    },
+    {
+      "id": 64,
+      "title": "diffai-python 0.3.9",
+      "summary": "diffai-python 0.3.9 is an AI/ML specialized diff tool designed for deep tensor comparison and analysis.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T15:39:24Z",
+      "url": "https://pypi.org/project/diffai-python/0.3.9/"
+    },
+    {
+      "id": 65,
+      "title": "robot-kinematics added to PyPI",
+      "summary": "Robot-kinematics library with URDF and PyBullet integration added to PyPI",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:39:21Z",
+      "url": "https://pypi.org/project/robot-kinematics/"
+    },
+    {
+      "id": 66,
+      "title": "PropStream, a Stewart Information Services Corporation company, Acquires BatchLeads and BatchDialer Products",
+      "summary": "PropStream, a Stewart Information Services Corporation company, acquires BatchLeads and BatchDialer products to expand their technology offerings.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T15:39:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117458/0/en/PropStream-a-Stewart-Information-Services-Corporation-company-Acquires-BatchLeads-and-BatchDialer-Products.html"
+    },
+    {
+      "id": 67,
+      "title": "The FCC wants to ban Chinese tech from the undersea cables that connect the U.S. to the rest of the world — proposed new rules would 'secure cables against foreign adversaries'",
+      "summary": "The FCC plans to ban Chinese tech from undersea cables to protect against foreign adversaries like China and accelerate the buildout of AI infrastructure.",
+      "source": "Tom's Hardware UK",
+      "category": "ethics",
+      "timestamp": "2025-07-17T15:37:54Z",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/the-fcc-wants-to-ban-chinese-tech-from-the-undersea-cables-that-connect-the-u-s-to-the-rest-of-the-world-proposed-new-rules-would-secure-cables-against-foreign-adversaries"
+    },
+    {
+      "id": 68,
+      "title": "Would Customers Pay for Premium Customer Experience?",
+      "summary": "AI is making human support a luxury, with some brands testing whether customers will pay extra for better service.",
+      "source": "CMSWire",
+      "category": "economy",
+      "timestamp": "2025-07-17T15:35:13Z",
+      "url": "https://www.cmswire.com/customer-experience/would-customers-pay-for-premium-customer-experience/"
+    },
+    {
+      "id": 69,
+      "title": "Letters to Editor",
+      "summary": "The Letters to Editor section discussed the implications of AI technology and its potential impact on society. Various viewpoints were expressed regarding the ethical considerations and applications of AI in different sectors.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-17T15:34:02Z",
+      "url": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article69824379.ece"
+    },
     {
       "id": 51,
       "title": "What Do You Think About AI?",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T14:52:03Z",
       "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-rallied-dow-sp-500-nasdaq-hit-new-highs-as-strong-tsmc-pepsico-earnings-and-retail-sales-spark-wall-street-surge/articleshow/122647791.cms"
-    },
-    {
-      "id": 63,
-      "title": "Chris Martin Suspects Couple Are \"Having an Affair\" on Coldplay Show Jumbotron",
-      "summary": "Chris Martin serenaded a couple on the jumbotron during Coldplay's 'Music of the Spheres' tour, suspecting they were having an affair. This raises ethical concerns about privacy and consent in using AI technology to display personal interactions in public settings.",
-      "source": "Exclaim!",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:50:48Z",
-      "url": "https://exclaim.ca/music/article/chris-martin-suspects-couple-are-having-an-affair-on-coldplay-show-jumbotron"
-    },
-    {
-      "id": 64,
-      "title": "【新機能開発】MOTERUのリアルキャストとの演習に加えて、AIキャストを開発スタート！準備・復習に活用できる学習環境が8月デモ版スタート予定につき、トライアル希望者募集！",
-      "summary": "A new AI cast has been developed for training in addition to the real cast of MOTERU. A learning environment that can be used for preparation and review is set to start a demo version in August, with applications being accepted for trial.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:50:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000082.000026264.html"
-    },
-    {
-      "id": 65,
-      "title": "Google’s Building The Workforce Higher Ed Promised—But Never Delivered",
-      "summary": "Google is shaping education to train workers for the new credential economy, taking control of what is taught and assessed, ultimately affecting hiring practices.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:49:23Z",
-      "url": "https://www.forbes.com/sites/jasonwingard/2025/07/17/google-is-building-the-workforce-higher-ed-promised-but-never-delivered/"
-    },
-    {
-      "id": 66,
-      "title": "Essential tips to integrate computer science into your lessons: Teacher tips from CSTA 2025",
-      "summary": "Essential tips for integrating computer science into other subjects shared by educators at CSTA 2025 conference.",
-      "source": "Raspberrypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:49:14Z",
-      "url": "https://www.raspberrypi.org/blog/teacher-tips-csta-2025-integrating-computer-science/"
-    },
-    {
-      "id": 67,
-      "title": "ChatGPT helps write this mayor's speeches. Now he wants a thousand city workers using AI",
-      "summary": "San Jose's mayor is using AI tools like ChatGPT to streamline city operations and improve services for its 1 million residents.",
-      "source": "ABC News",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:49:09Z",
-      "url": "https://abcnews.go.com/Technology/wireStory/chatgpt-helps-write-mayors-speeches-now-thousand-city-123832614"
-    },
-    {
-      "id": 51,
-      "title": "PaladinMining Launches AI Cloud Mining with Dogecoin, Earn Up to $5,100 a Day",
-      "summary": "PaladinMining launches AI cloud mining platform with Dogecoin, allowing users to earn up to $5,100 a day without the need for hardware.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-17T14:45:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117398/0/en/PaladinMining-Launches-AI-Cloud-Mining-with-Dogecoin-Earn-Up-to-5-100-a-Day.html"
-    },
-    {
-      "id": 52,
-      "title": "Australia Birth Rate Warning Issued: 'Human Catastrophe'",
-      "summary": "Australia is facing a potential 'human catastrophe' as the number of deaths surpasses births, according to data analysis. This could have significant economic implications for the country.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:44:51Z",
-      "url": "https://biztoc.com/x/554da7f47a183ea8"
-    },
-    {
-      "id": 53,
-      "title": "Got ChatGPT Plus? You can record and summarize meetings on a Mac now - here's how",
-      "summary": "ChatGPT Plus users can now record and summarize meetings on a Mac, expanding on a feature previously limited to Pro, Enterprise, and Edu users.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:44:45Z",
-      "url": "https://www.zdnet.com/article/got-chatgpt-plus-you-can-record-and-summarize-meetings-on-a-mac-now-heres-how/"
-    },
-    {
-      "id": 54,
-      "title": "Full List of Republicans Urging Trump to Unfreeze Funds for K-12 Schools",
-      "summary": "Ten Republican senators are urging the Trump administration to unfreeze over $6 billion in federal funding for education programs.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:44:42Z",
-      "url": "https://biztoc.com/x/6c1c00ef5ef68b04"
-    },
-    {
-      "id": 55,
-      "title": "Jennifer Love Hewitt Re-Enters the Spotlight, Sparks Body-Shaming Debate",
-      "summary": "Jennifer Love Hewitt faces body-shaming debate after appearance at premiere of reboot",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:44:41Z",
-      "url": "https://biztoc.com/x/27549301f0ecd625"
-    },
-    {
-      "id": 56,
-      "title": "Gen AI May Finally Bridge the Personalization Gap, Experts Say",
-      "summary": "Gen AI may finally bridge the personalization gap, offering tailored experiences to customers. Despite decades of promises, personalization has often fallen short in delivering accurate offers and recommendations based on consumer behavior.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:44:35Z",
-      "url": "https://biztoc.com/x/db2d35477a1f2a77"
-    },
-    {
-      "id": 57,
-      "title": "Mobile-Health Network Solutions Aims to Raise $300 Million for Digital Health Platform",
-      "summary": "Mobile-Health Network Solutions aims to raise $300 million through an equity offering to accelerate the growth of their AI-powered digital health platform.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T14:44:28Z",
-      "url": "https://biztoc.com/x/7946f0c903378eab"
-    },
-    {
-      "id": 58,
-      "title": "Microsoft Will Delete Your Passwords on August 1. Here's What You Need to Do Now",
-      "summary": "Microsoft will delete passwords on August 1 for users using Microsoft Authenticator to manage online credentials, prompting changes in the app's interface.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:44:06Z",
-      "url": "https://me.pcmag.com/en/password-managers/31018/microsoft-will-delete-your-passwords-on-august-1-heres-what-you-need-to-do-now"
-    },
-    {
-      "id": 59,
-      "title": "Microsoft Will Delete Your Passwords on August 1. Here's What You Need to Do Now",
-      "summary": "If you use Microsoft Authenticator to manage your online credentials, big changes are coming in just a few weeks. Microsoft will delete passwords on August 1, so users need to take action now.",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T14:44:06Z",
-      "url": "https://uk.pcmag.com/password-managers/159175/microsoft-will-delete-your-passwords-on-august-1-heres-what-you-need-to-do-now"
-    },
-    {
-      "id": 60,
-      "title": "The Rise of Debt Financing: Collaboration and M&A as Growth Catalysts",
-      "summary": "The debt financing market is expected to grow significantly by 2029, driven by tax-deductible interest costs and M&A activity.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T14:43:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117397/28124/en/The-Rise-of-Debt-Financing-Collaboration-and-M-A-as-Growth-Catalysts.html"
-    },
-    {
-      "id": 61,
-      "title": "US authors suing Anthropic can band together in copyright class action, judge rules",
-      "summary": "US authors are able to sue Anthropic in a copyright class action, with the potential for billions of dollars in damages if successful for allegedly downloading millions of books illegally.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:42:53Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules/articleshow/122649685.cms"
-    },
-    {
-      "id": 62,
-      "title": "Meta is using its own blend of AI-optimised, low-carbon 'green concrete' in one of its honking great data centers",
-      "summary": "Meta is using its own blend of AI-optimised, low-carbon 'green concrete' in one of its data centers, which involves small amounts of liquid and has connections to oceans.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-17T14:42:48Z",
-      "url": "https://www.pcgamer.com/software/ai/meta-is-using-its-own-blend-of-ai-optimised-low-carbon-green-concrete-in-one-of-its-honking-great-data-centers/"
-    },
-    {
-      "id": 63,
-      "title": "AI slop is now in charge",
-      "summary": "AI ethics concerns raised as Cory Doctorow criticizes Google for its practices and antitrust issues.",
-      "source": "Freethoughtblogs.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:42:08Z",
-      "url": "https://freethoughtblogs.com/pharyngula/2025/07/17/ai-slop-is-now-in-charge/"
-    },
-    {
-      "id": 64,
-      "title": "US authors suing Anthropic can band together in copyright class action, judge rules",
-      "summary": "US authors suing Anthropic can lead a copyright class action involving authors nationwide, alleging pirated books were used to train its AI system.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-17T14:41:55Z",
-      "url": "https://www.channelnewsasia.com/business/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules-5243976"
     }
   ]
 }
