@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-18T22:15:49.945Z",
+  "lastUpdate": "2025-07-18T22:44:05.907Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Wildlife is not migrating out of Yellowstone National Park, NPS says",
+      "summary": "Wildlife is not migrating out of Yellowstone National Park, according to the National Park Service, refuting any misconceptions about the animals leaving the area.",
+      "source": "ABC News",
+      "category": "research",
+      "timestamp": "2025-07-17T22:42:28Z",
+      "url": "https://abcnews.go.com/US/wildlife-migrating-yellowstone-national-park-despite-misinformation-spreading/story?id=123841877"
+    },
+    {
+      "id": 52,
+      "title": "Top 10 Agencies Leading Answer Engine Optimization (AEO) in 2025",
+      "summary": "Top 10 agencies leading in Answer Engine Optimization (AEO) in 2025 with Google's AI Overviews, ChatGPT, Browse, and other AI technologies being utilized.",
+      "source": "Contently.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:39:50Z",
+      "url": "https://contently.com/2025/07/17/top-10-agencies-leading-answer-engine-optimization-aeo-in-2025/"
+    },
+    {
+      "id": 53,
+      "title": "What Is Astronomer? All About the Company From Coldplay Concert Scandal",
+      "summary": "Tech company Astronomer is in the spotlight after its CEO was seen cozying up to a coworker at a Coldplay concert. The incident occurred during Coldplay's performance at Gillette Stadium in Foxboro, Massachusetts.",
+      "source": "Us Weekly",
+      "category": "startups",
+      "timestamp": "2025-07-17T22:37:32Z",
+      "url": "https://www.usmagazine.com/celebrity-news/news/what-is-astronomer-tech-company-tied-to-concert-scandal/#article"
+    },
+    {
+      "id": 54,
+      "title": "StrongestLayer secures $5.2M to combat emerging AI-driven email threats",
+      "summary": "Cybersecurity startup StrongestLayer Inc. secures $5.2M in funding to combat emerging AI-driven email threats.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-17T22:37:18Z",
+      "url": "https://siliconangle.com/2025/07/17/strongestlayer-secures-5-2m-combat-emerging-ai-driven-email-threats/"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI's advisory board calls for continued and strengthened nonprofit oversight",
+      "summary": "OpenAI's advisory board emphasizes the importance of nonprofit oversight for the AI technology they are developing, stating it is too significant to be controlled solely by a corporation.",
+      "source": "WFTV Orlando",
+      "category": "ethics",
+      "timestamp": "2025-07-17T22:35:50Z",
+      "url": "https://www.wftv.com/news/openais-advisory/OFXKGAOFSVDTNNHAD3BB4U4F6I/"
+    },
+    {
+      "id": 56,
+      "title": "Apple to Add New Emoji to iOS 26 in 2026, Includes Bigfoot, Orca, and More",
+      "summary": "Apple announced new emoji characters including Bigfoot and Orca for iOS 26 in 2026, as confirmed by the Unicode Consortium on World Emoji Day.",
+      "source": "Mactrast.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:35:22Z",
+      "url": "https://www.mactrast.com/2025/07/apple-to-add-new-emoji-to-ios-26-in-2026-includes-bigfoot-orca-and-more/"
+    },
+    {
+      "id": 57,
+      "title": "Unboxing the Oakley HSTN Smart Glasses video",
+      "summary": "CNET's Scott Stein unboxes the sportier, stylish Oakley HSTN glasses, which have similar Meta AI functions to the earlier Meta Ray-Bans.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:34:52Z",
+      "url": "https://www.cnet.com/videos/unboxing-the-oakley-hstn-smart-glasses/"
+    },
+    {
+      "id": 58,
+      "title": "Top 10 Platforms Powering Answer Engine Optimization (AEO) in 2025",
+      "summary": "Top 10 Platforms Powering Answer Engine Optimization (AEO) in 2025 highlights the importance of AEO and the use of AI technologies like Google's AI Overviews and ChatGPT Browse in optimizing search engine results.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:33:54Z",
+      "url": "https://contently.com/2025/07/17/top-10-platforms-powering-answer-engine-optimization-aeo-in-2025/"
+    },
+    {
+      "id": 59,
+      "title": "Why Google’s August 20 event could make or break its Pixel lineup - Android Authority",
+      "summary": "Google's upcoming event on August 20 will unveil new Pixel hardware with a focus on artificial intelligence capabilities, which could potentially make or break the Pixel lineup. The event is anticipated to showcase how AI technology is integrated into Google's latest devices.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:32:40Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405648"
+    },
+    {
+      "id": 60,
+      "title": "ioa-metrics-computation-engine added to PyPI",
+      "summary": "ioa-metrics-computation-engine added to PyPI - Service for computing metrics on AI agent telemetry data",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:32:33Z",
+      "url": "https://pypi.org/project/ioa-metrics-computation-engine/"
+    },
+    {
+      "id": 61,
+      "title": "quantiq added to PyPI",
+      "summary": "quantiq added to PyPI - Confidence-aware AI toolkit with uncertainty estimation for Transformers and Deep Ensembles",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:32:00Z",
+      "url": "https://pypi.org/project/quantiq/"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI ChatGPT Agent Marks A Turning Point For Businesses And SEO via @sejournal, @martinibuster",
+      "summary": "ChatGPT agent is a turning point for SEO, changing how websites are expected to function for both humans and machines.",
+      "source": "Search Engine Journal",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:31:50Z",
+      "url": "https://www.searchenginejournal.com/openai-chatgpt-agent-marks-a-turning-point-for-businesses-and-seo/551464/"
+    },
+    {
+      "id": 63,
+      "title": "Agentic AI can help nonprofits find new funding sources",
+      "summary": "Agentic AI can assist nonprofits in finding new funding sources and managing donor relationships, serving as a fundraising coach or workflow tool.",
+      "source": "Fast Company",
+      "category": "applications",
+      "timestamp": "2025-07-17T22:30:00Z",
+      "url": "https://www.fastcompany.com/91369304/agentic-ai-can-help-nonprofits-find-new-funding-sources"
+    },
+    {
+      "id": 64,
+      "title": "Vojvoda's exit cuts number of managers with over a year in charge ",
+      "summary": "Vojvoda's resignation from Fortaleza ended the second longest tenure among Serie A clubs, with Renato Paiva taking over. This change in leadership marks a significant shift in the management of the team.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T22:28:00Z",
+      "url": "https://onefootball.com/en/news/vojvodas-exit-cuts-number-of-managers-with-over-a-year-in-charge-41389802"
+    },
+    {
+      "id": 65,
+      "title": "Is AI Coming For Your Team Next? How AI Hype Is Becoming The Hot Layoff Excuse",
+      "summary": "The AI revolution is being used as a justification for workforce reductions, with many business leaders admitting that AI won't replace employees but still slowing hiring due to uncertainty. This trend has raised concerns about the impact of AI on job security within companies.",
+      "source": "Forrester.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:27:56Z",
+      "url": "https://www.forrester.com/blogs/is-ai-coming-for-your-team-next-how-ai-hype-is-becoming-the-hot-layoff-excuse/"
+    },
+    {
+      "id": 66,
+      "title": "Top 10 Tools for Answer Engine Optimization (AEO) in 2025",
+      "summary": "Top 10 Tools for Answer Engine Optimization (AEO) in 2025 are essential for businesses as AEO becomes more important. These tools leverage Generative-AI 'answer engines' like Google AI Overviews and ChatGPT Browse to improve optimization strategies.",
+      "source": "Contently.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T22:26:45Z",
+      "url": "https://contently.com/2025/07/17/top-10-tools-for-answer-engine-optimization-aeo-in-2025/"
+    },
+    {
+      "id": 67,
+      "title": "Permanent makeup classified as 'adult entertainment' in Mount Juliet, Tennessee",
+      "summary": "Permanent makeup classified as 'adult entertainment' in Mount Juliet, Tennessee due to outdated zoning laws, causing challenges for beauty businesses",
+      "source": "NewsChannel5.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T22:25:48Z",
+      "url": "https://www.newschannel5.com/news/this-tennessee-city-deems-permanent-makeup-tattoos-as-adult-entertainment"
+    },
+    {
+      "id": 68,
+      "title": "OpenAI’s advisory board calls for continued and strengthened nonprofit oversight",
+      "summary": "OpenAI's advisory board recommends continued nonprofit oversight for the development of artificial intelligence technology due to its significant consequences.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-17T22:25:42Z",
+      "url": "https://financialpost.com/pmn/openais-advisory-board-calls-for-continued-and-strengthened-nonprofit-oversight"
+    },
+    {
+      "id": 69,
+      "title": "Stock market today: Dow slips as S&P 500, Nasdaq rise in march to latest records",
+      "summary": "Wall Street bullish as S&P 500 and Nasdaq rise to new records amid signs of economic strength.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:25:35Z",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slips-as-sp-500-nasdaq-rise-in-march-to-latest-records-222535166.html"
+    },
+    {
+      "id": 70,
+      "title": "Stock market today: Dow slips as S&P 500, Nasdaq trim gains to hover near latest records",
+      "summary": "Wall Street remains bullish as the Dow slips while S&P 500 and Nasdaq hover near latest records, indicating strength in the economy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T22:25:35Z",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slips-as-sp-500-nasdaq-trim-gains-to-hover-near-latest-records-222535574.html"
+    },
     {
       "id": 51,
       "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T21:45:26Z",
       "url": "https://biztoc.com/x/d4693768275b2b3f"
-    },
-    {
-      "id": 63,
-      "title": "You can now get daily recaps of your Teams chats, thanks to this AI tool’s newest feature",
-      "summary": "A new AI tool now allows users to receive daily recaps of their Teams chats, ensuring they don't miss important updates even if they were offline. This feature enhances communication and productivity for Teams users.",
-      "source": "XDA Developers",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:43:35Z",
-      "url": "https://www.xda-developers.com/read-ai-summaries-feature/"
-    },
-    {
-      "id": 64,
-      "title": "Show HN: Empromptu.ai – Agentic AI Building AI Apps",
-      "summary": "Empromptu.ai is an AI app builder that creates AI apps with pre-built RAG, models, and evaluations. The startup was founded after facing limitations with other AI builders.",
-      "source": "Hacker News",
-      "category": "startups",
-      "timestamp": "2025-07-17T21:40:14Z",
-      "url": "https://news.ycombinator.com/item?id=44598550"
-    },
-    {
-      "id": 65,
-      "title": "Amazon's big bet on AI agents comes into focus at AWS Summit",
-      "summary": "Amazon's cloud computing division unveiled new AI agent development and deployment tools at AWS Summit, as well as a marketplace for ready-made agent products.",
-      "source": "TechSpot",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:37:00Z",
-      "url": "https://www.techspot.com/news/108714-amazon-big-bet-ai-agents-comes-focus-aws.html"
-    },
-    {
-      "id": 66,
-      "title": "Billionaire Mike Ashley’s Frasers Hit By Higher Labor Costs And Drop In Luxury Sales",
-      "summary": "Retail giant Frasers Group faces higher labor costs and a drop in luxury sales, blaming the government's tax increases and challenging retail market.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:35:05Z",
-      "url": "https://www.forbes.com/sites/robertolsen-1/2025/07/17/billionaire-mike-ashleys-frasers-hit-by-higher-labor-costs-and-drop-in-luxury-sales/"
-    },
-    {
-      "id": 67,
-      "title": "Disinformation warriors are 'grooming' chatbots (John Thornhill/Financial Times)",
-      "summary": "Disinformation warriors are 'grooming' chatbots in an attempt to inject propaganda into generative AI models. Russian hackers are exploring ways to manipulate the training data of chatbots for misinformation purposes.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T21:35:01Z",
-      "url": "https://www.memeorandum.com/250717/p120"
-    },
-    {
-      "id": 68,
-      "title": "ChatGPT’s new AI agent can browse the web and create PowerPoint slideshows",
-      "summary": "ChatGPT's new AI agent can now browse the web and create PowerPoint slideshows, bringing agentic abilities to the platform.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:34:58Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405328"
-    },
-    {
-      "id": 69,
-      "title": "SmartCentres Releases 2024 ESG Report",
-      "summary": "SmartCentres has released its 2024 ESG Report, highlighting its environmental, social, and governance initiatives.",
-      "source": "Financial Post",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:34:49Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/smartcentres-releases-2024-esg-report"
-    },
-    {
-      "id": 70,
-      "title": "AWS previews AgentCore to jumpstart enterprise AI agents",
-      "summary": "AWS previews AgentCore to jumpstart enterprise AI agents on Amazon Bedrock, aiming to pave the path from prototype to production.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:34:22Z",
-      "url": "https://biztoc.com/x/88d316d5897f9df4"
-    },
-    {
-      "id": 51,
-      "title": "coppersun-brass 2.3.12",
-      "summary": "Coppersun-brass 2.3.12 is a development intelligence tool for AI agents in the Copper Sun product line, aimed at improving AI capabilities and performance.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:32:16Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.12/"
-    },
-    {
-      "id": 52,
-      "title": "Last of a kind",
-      "summary": "Last of a kind - One of the architects of the championship era has passed.",
-      "source": "McCovey Chronicles",
-      "category": "research",
-      "timestamp": "2025-07-17T21:30:36Z",
-      "url": "https://www.mccoveychronicles.com/2025/7/17/24469556/last-of-a-kind-san-francisco-giants-bill-neukom-passes-away"
-    },
-    {
-      "id": 53,
-      "title": "Higher Education Marketing Software",
-      "summary": "Higher Education Marketing Software can help institutions get to know students and supporters better, allowing them to optimize their impact.",
-      "source": "Salesforce.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:29:45Z",
-      "url": "https://www.salesforce.com/eu/education/marketing-software/"
-    },
-    {
-      "id": 54,
-      "title": "Road-map to Getting Your Company Listed in ChatGPT",
-      "summary": "Road-map to Getting Your Company Listed in ChatGPT - Five pit-stop tactics, five specialist copilots, and one very long stretch of digital highway Prologue – The Sign on the...",
-      "source": "Contently.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T21:28:29Z",
-      "url": "https://contently.com/2025/07/17/road-map-to-getting-your-company-listed-in-chatgpt/"
-    },
-    {
-      "id": 55,
-      "title": "Here are 5 good *current* Microsoft products that have become stagnant — or worse — abandoned",
-      "summary": "Here are 5 current Microsoft products that have become stagnant or abandoned, signaling they may not be long for this world due to lack of updates.",
-      "source": "Windows Central",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:28:00Z",
-      "url": "https://www.windowscentral.com/microsoft/here-are-5-good-current-microsoft-products-that-have-become-stagnant-or-worse-abandoned"
-    },
-    {
-      "id": 56,
-      "title": "AWS previews AgentCore to jumpstart enterprise AI agents",
-      "summary": "AWS previews AgentCore on Amazon Bedrock to help organizations put AI agents into business-ready production.",
-      "source": "Theregister.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:27:41Z",
-      "url": "https://www.theregister.com/2025/07/17/aws_agentcore_ai/"
-    },
-    {
-      "id": 57,
-      "title": "Show HN: I built a context-engineering CLI/MCP tool",
-      "summary": "Show HN: Developer creates a context-engineering CLI/MCP tool called context-llemur (ctx) to streamline explanations and track context",
-      "source": "Github.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:27:35Z",
-      "url": "https://github.com/jerpint/context-llemur"
-    },
-    {
-      "id": 58,
-      "title": "America needs more electricity. Trump has the worst idea for how to fix that.",
-      "summary": "More demand for power from large computing facilities, including AI, could lead to higher prices for consumers unless the U.S. generates more energy.",
-      "source": "MSNBC",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:27:04Z",
-      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-energy-summit-pennsylvania-china-rcna219338"
-    },
-    {
-      "id": 59,
-      "title": "Bone Dry Roofing to host pet adoption event in Indianapolis",
-      "summary": "Bone Dry Roofing is partnering with Indianapolis Animal Care Services to host a pet adoption event in Indianapolis with waived adoption fees for cats and dogs.",
-      "source": "WISHTV.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:22:03Z",
-      "url": "https://www.wishtv.com/news/business/bone-dry-roofing-to-host-pet-adoption-event-in-indianapolis/"
-    },
-    {
-      "id": 60,
-      "title": "Consumers Are Focused on AI-Powered and Value Spending, While Retailers Face Supply Chain Challenges for the Second Half of 2025",
-      "summary": "Consumers are focused on AI-powered and value spending, while retailers face supply chain challenges for the second half of 2025. Listrak's H2 2025 retail trends highlight AI-powered shopping, value-driven spending, supply chain shifts and strategies for fashion and beauty brands.",
-      "source": "WWD",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:21:43Z",
-      "url": "http://wwd.com/business-news/business-features/listrak-retail-trends-2025-ai-value-spending-supply-chain-1237985524/"
-    },
-    {
-      "id": 61,
-      "title": "7-Eleven’s New Delivery Robots Are Using Public Transportation in China",
-      "summary": "7-Eleven in China is utilizing delivery robots to transport goods using public transportation, showcasing the growing trend of automation in reshaping retail logistics.",
-      "source": "Mental Floss",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:21:31Z",
-      "url": "https://www.mentalfloss.com/technology/robots/7-eleven-delivery-robots-use-subway-in-china"
-    },
-    {
-      "id": 62,
-      "title": "Talen to Buy Two US Gas-Fired Power Plants for $3.8 Billion",
-      "summary": "Talen Energy Corp. is acquiring two US power plants for $3.8 billion to meet the increasing demand for AI-related power.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:20:32Z",
-      "url": "https://financialpost.com/pmn/business-pmn/talen-to-buy-two-us-gas-fired-power-plants-for-3-8-billion"
     }
   ]
 }
