@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-18T17:56:40.228Z",
+  "lastUpdate": "2025-07-18T18:26:40.371Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Centreon Extends Monitoring Reach into Observability Realm",
+      "summary": "Centreon has expanded its monitoring capabilities by releasing an open source monitoring agent that integrates OpenTelemetry, allowing for unified monitoring and observability across IT and OT environments.",
+      "source": "DevOps.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T18:26:18Z",
+      "url": "https://devops.com/centreon-extends-monitoring-reach-into-observability-realm/"
+    },
+    {
+      "id": 52,
+      "title": "Why a VC is betting AI is 'the opposite of social media' and will forge more human connections",
+      "summary": "Menlo Ventures partners predict AI will create more human connections and are eyeing opportunities in consumer startups amid the growing adoption of AI.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T18:26:12Z",
+      "url": "https://biztoc.com/x/cbdb00f5e1098382"
+    },
+    {
+      "id": 53,
+      "title": "GSA plans to optimize operations following cost-cutting, agency head says",
+      "summary": "GSA plans to optimize operations to become more efficient and effective while prioritizing the American taxpayer.",
+      "source": "Nextgov",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:24:00Z",
+      "url": "https://www.nextgov.com/digital-government/2025/07/gsa-plans-optimize-operations-following-cost-cutting-agency-head-says/406802/"
+    },
+    {
+      "id": 54,
+      "title": "Amazon trims workforce in Cloud Division AWS citing rising AI-driven costs: Report",
+      "summary": "Amazon is reducing its workforce in the Cloud Division AWS due to rising AI-driven costs, following CEO Andy Jassy's focus on automation to streamline operations.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-17T18:23:19Z",
+      "url": "https://www.livemint.com/companies/news/amazon-trims-workforce-in-cloud-division-aws-citing-rising-ai-driven-costs-report-11752775540524.html"
+    },
+    {
+      "id": 55,
+      "title": "Nothing Updates the Essential Space With 3 Big Improvements",
+      "summary": "The Essential Space by Nothing has received 3 big improvements to differentiate its most recent phones, although execution may still need improvement. There is potential for further enhancements to optimize the Essential Space feature.",
+      "source": "Droid Life",
+      "category": "innovation",
+      "timestamp": "2025-07-17T18:21:20Z",
+      "url": "https://www.droid-life.com/2025/07/17/nothing-updates-the-essential-space-with-3-big-improvements/"
+    },
+    {
+      "id": 56,
+      "title": "Walmart Extends US Supply Chain Changes to Global Operations",
+      "summary": "Walmart is reengineering its global supply chain with a focus on automation and real-time artificial intelligence (AI), extending proven U.S. technologies globally for faster and smarter operations.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T18:19:04Z",
+      "url": "http://www.pymnts.com/walmart/2025/walmart-extends-us-supply-chain-changes-to-global-operations/"
+    },
+    {
+      "id": 57,
+      "title": "Andy Byron, Kristin Cabot's company Astronomer is AI-Airflow data firm, tie up with over 80,000 - all about Astronomer Inc",
+      "summary": "Andy Byron and Kristin Cabot's company Astronomer, an AI-Airflow data firm, has tied up with over 80,000 collaborators. A video clip of them from a Coldplay concert has gone viral, showcasing their work at Astronomer Inc.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-17T18:16:09Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-kristin-cabots-company-astronomer-is-ai-airflow-data-firm-ties-up-with-over-80000-all-about-astronomer-inc/articleshow/122668937.cms"
+    },
+    {
+      "id": 58,
+      "title": "Congress’ AI moratorium isn’t dead yet, Rep. McCormick says",
+      "summary": "Advocates are still pushing for the passage of a provision preventing states from enforcing AI regulations, despite it not making it into the final reconciliation law.",
+      "source": "Nextgov",
+      "category": "research",
+      "timestamp": "2025-07-17T18:16:00Z",
+      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/congress-ai-moratorium-isnt-dead-yet-rep-mccormick-says/406801/"
+    },
+    {
+      "id": 59,
+      "title": "Integrating MuleSoft with Einstein AI and Prompt Templates Using the MAC Project",
+      "summary": "Integrating MuleSoft with Einstein AI and Prompt Templates Using the MAC Project allows developers to easily configure and manage AI agents within Anypoint Studio or Anypoint Code Builder.",
+      "source": "Salesforce.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T18:15:57Z",
+      "url": "https://developer.salesforce.com/blogs/2025/07/integrating-mulesoft-with-einstein-ai-and-prompt-templates-using-the-mac-project"
+    },
     {
       "id": 51,
       "title": "Waymo and Tesla Austin Robotaxi Competition",
@@ -369,87 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T17:13:19Z",
       "url": "https://www.imaging-resource.com/news/2025/07/17/canon-rolls-out-major-firmware-update-for-eos-r1-r5-mark-ii-and-more"
-    },
-    {
-      "id": 62,
-      "title": "The Trump Trade has changed. Here are the 6 big themes for investors to watch.",
-      "summary": "The Trump Trade has changed with analysts revising their investment ideas for Trump's second term, highlighting 6 big themes for investors to watch.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:12:28Z",
-      "url": "https://www.businessinsider.com/stock-market-trump-trade-tariffs-tax-bill-stocks-to-buy-2025-7"
-    },
-    {
-      "id": 63,
-      "title": "OpenAI releases 'Agent Mode' as it looks for a much-needed win",
-      "summary": "OpenAI releases 'Agent Mode' to provide a much-needed win, offering a distraction from a difficult summer for the AI startup.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:11:27Z",
-      "url": "https://www.businessinsider.com/openai-agent-mode-2025-7"
-    },
-    {
-      "id": 64,
-      "title": "Too early to draw conclusions on AI plane crash, refrain from spreading narratives: AAIB",
-      "summary": "Too early to draw conclusions on AI plane crash, AAIB urges everyone to refrain from spreading premature narratives.",
-      "source": "Statetimes.in",
-      "category": "research",
-      "timestamp": "2025-07-17T17:11:12Z",
-      "url": "https://statetimes.in/too-early-to-draw-conclusions-on-ai-plane-crash-refrain-from-spreading-narratives-aaib/"
-    },
-    {
-      "id": 65,
-      "title": "Understanding Zero Trust Architecture: The Shift Towards Enhanced Cybersecurity Amid Rising Threats",
-      "summary": "The Zero Trust Architecture market is driven by rising cybersecurity threats, regulatory compliance, and the shift to remote work. Key opportunities lie in leveraging AI and cloud-based solutions to enhance security.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:11:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117523/28124/en/Understanding-Zero-Trust-Architecture-The-Shift-Towards-Enhanced-Cybersecurity-Amid-Rising-Threats.html"
-    },
-    {
-      "id": 66,
-      "title": "CarMax pushes digital, plugs into used electronic vehicle market",
-      "summary": "CarMax is focusing on digital innovation and electric vehicle adoption to drive growth, with revenue reaching $7.5 billion in fiscal Q1 2026.",
-      "source": "DigitalCommerce360",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:10:13Z",
-      "url": "https://www.digitalcommerce360.com/2025/07/17/carmax-digital-q1-fy26/"
-    },
-    {
-      "id": 67,
-      "title": "i-80 Gold Insiders Increase Holdings as Nevada Projects Accelerate",
-      "summary": "i-80 Gold Corp. insiders are increasing their holdings as the company accelerates its Nevada gold projects. It is one of the 10 Metal Stocks with Insider Buying in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-17T17:10:10Z",
-      "url": "https://finance.yahoo.com/news/80-gold-insiders-increase-holdings-171010390.html"
-    },
-    {
-      "id": 68,
-      "title": "Seasonic PRIME TX-1600 Noctua Edition: Quietly Delivering Clean Power And Optimal Cooling",
-      "summary": "Seasonic and Noctua collaborate on ultra-quiet PRIME TX-1600 PSU for high-performance systems.",
-      "source": "Storagereview.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:10:03Z",
-      "url": "https://www.storagereview.com/review/seasonic-prime-tx-1600-noctua-edition-quietly-delivering-clean-power-and-optimal-cooling"
-    },
-    {
-      "id": 69,
-      "title": "NovaGold Insiders Raise Stakes Following Donlin Deal Despite Quarterly Loss",
-      "summary": "NovaGold insiders increase stakes despite quarterly loss, company among 10 metal stocks with insider buying in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T17:09:21Z",
-      "url": "https://finance.yahoo.com/news/novagold-insiders-raise-stakes-following-170921762.html"
-    },
-    {
-      "id": 51,
-      "title": "Mobile Racing Game by ALIyerEdon",
-      "summary": "Mobile racing game by ALIyerEdon includes 5 cars and 3 levels with AAA graphics, optimized for mobile platforms with features like Realtime Reflections for Mobile.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T16:51:11Z",
-      "url": "https://assetstore.unity.com/packages/templates/packs/mobile-racing-game-325334"
     }
   ]
 }
