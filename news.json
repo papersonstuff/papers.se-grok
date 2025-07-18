@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-18T12:32:44.505Z",
+  "lastUpdate": "2025-07-18T13:24:41.125Z",
   "items": [
+    {
+      "id": 51,
+      "title": "WARC report highlights trends, insights in programmatic market",
+      "summary": "WARC report highlights trends and insights in the programmatic market, pointing out the rise of AI-driven brand safety tools, prDOOH, and programmatic curation.",
+      "source": "Mediaincanada.com",
+      "category": "research",
+      "timestamp": "2025-07-17T13:24:13Z",
+      "url": "https://mediaincanada.com/2025/07/17/warc-report-2025/"
+    },
+    {
+      "id": 52,
+      "title": "enhanced-mcp-memory added to PyPI",
+      "summary": "Enhanced MCP server with AI-powered features for memory and task management has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:22:18Z",
+      "url": "https://pypi.org/project/enhanced-mcp-memory/"
+    },
+    {
+      "id": 53,
+      "title": "enhanced-mcp-memory 1.2.1",
+      "summary": "The enhanced-mcp-memory 1.2.1 is an improved MCP server that includes AI-powered features for memory and task management.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:22:18Z",
+      "url": "https://pypi.org/project/enhanced-mcp-memory/1.2.1/"
+    },
+    {
+      "id": 54,
+      "title": "Nvidia workstation GPUs fall to first-ever GDDR6 Rowhammer bit-flip attack",
+      "summary": "Nvidia workstation GPUs vulnerable to first-ever GDDR6 Rowhammer attack demonstrated by University of Toronto researchers, with mitigation already available.",
+      "source": "TechSpot",
+      "category": "research",
+      "timestamp": "2025-07-17T13:22:00Z",
+      "url": "https://www.techspot.com/news/108698-nvidia-workstation-gpus-fall-first-ever-gddr6-rowhammer.html"
+    },
+    {
+      "id": 55,
+      "title": "Got a job interview? Be ready to impress a bot",
+      "summary": "AI is being used for initial job interviews in tech companies like Fractal Analytics and UST, conducting interviews and screening candidates. It also designs tests, checks for cheating, and analyzes candidate communication.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:21:12Z",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/got-a-job-interview-be-ready-to-impress-a-bot-ai-interview-happiest-minds-ustfractal/articleshow/122643065.cms"
+    },
+    {
+      "id": 56,
+      "title": "Cognitive Media Market Size to Surpass USD 10.07 Billion by 2032, Driven by AI Innovation, Personalization, and Real-Time Analytics | SNS Insider",
+      "summary": "The U.S. Cognitive Media Market is projected to surpass USD 10.07 billion by 2032, driven by AI innovation, personalization, and real-time analytics. The market is expected to grow at a CAGR of 23.92% from 2024 to 2032, with the U.S. market reaching USD 2.96 billion by 2032.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:20:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117308/0/en/Cognitive-Media-Market-Size-to-Surpass-USD-10-07-Billion-by-2032-Driven-by-AI-Innovation-Personalization-and-Real-Time-Analytics-SNS-Insider.html"
+    },
+    {
+      "id": 57,
+      "title": "Your Next Braider Might Be An AI Robot — And Here’s Why Black Women Ain’t Mad About It!",
+      "summary": "Tired of the long hours in the salon? Black women may not be mad about AI robots being their next braider.",
+      "source": "The Root",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:19:16Z",
+      "url": "https://www.theroot.com/your-next-braider-might-be-an-ai-robot-and-heres-why-2000051113"
+    },
+    {
+      "id": 58,
+      "title": "TSMC US chip production may soon only be three years behind Taiwan",
+      "summary": "TSMC's US chip production may catch up to Taiwan within three years as the company accelerates the building of two plants in Arizona, potentially bringing more Apple chip production to the region faster.",
+      "source": "AppleInsider",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:19:14Z",
+      "url": "https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan"
+    },
+    {
+      "id": 59,
+      "title": "TexIV 0.1.10",
+      "summary": "TexIV 0.1.10 is a machine learning-based method for transforming text into instrumental variables (IV).",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-17T13:19:13Z",
+      "url": "https://pypi.org/project/texiv/0.1.10/"
+    },
+    {
+      "id": 60,
+      "title": "Tempus AI, Inc. (TEM) and Personalis Join Forces to Take on Colorectal Cancer",
+      "summary": "Tempus AI, Inc. (TEM) and Personalis are joining forces to take on colorectal cancer, with Tempus AI being popular among hedge funds and having a bullish sentiment surrounding it.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-17T13:19:11Z",
+      "url": "https://finance.yahoo.com/news/tempus-ai-inc-tem-personalis-131911227.html"
+    },
+    {
+      "id": 61,
+      "title": "Musk Uses Grok's AI Replies To Attack Trump Over ‘Epstein Files’",
+      "summary": "Musk criticizes Trump over Epstein files using AI-generated responses.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-17T13:19:07Z",
+      "url": "https://www.forbes.com/sites/siladityaray/2025/07/17/musk-uses-groks-ai-replies-to-attack-trump-over-epstein-files/"
+    },
+    {
+      "id": 62,
+      "title": "BMO Capital Maintains ‘Outperform’ Rating on Intuit Inc. (INTU); Raises PT from $820 to $870",
+      "summary": "BMO Capital maintains 'Outperform' rating on Intuit Inc. and raises price target, highlighting the company's strong position in AI infrastructure technology.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-17T13:18:49Z",
+      "url": "https://finance.yahoo.com/news/bmo-capital-maintains-outperform-rating-131849881.html"
+    },
+    {
+      "id": 63,
+      "title": "Famous director and CA Shekhar Kapur predicts bold AI future for education: ‘Everyone will be their own CEO'",
+      "summary": "Famous director Shekhar Kapur predicts a bold AI future for education, envisioning a scenario where everyone becomes their own CEO through AI-driven changes in the education system.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:18:02Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/famous-director-and-ca-shekhar-kapur-predicts-bold-ai-future-for-education-everyone-will-be-their-own-ceo/articleshow/122642985.cms"
+    },
+    {
+      "id": 64,
+      "title": "New Affordable Honor X6a Smartphone Launched in Nepal: Specs, Price, and Where to Buy the Budget-Friendly Phone",
+      "summary": "New affordable HONOR X6a smartphone launched in Nepal, featuring AI capabilities. The budget-friendly phone offers smart features and stylish design.",
+      "source": "Nep123.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T13:17:53Z",
+      "url": "https://nep123.com/new-affordable-honor-x6a-smartphone-launched-in-nepal-specs-price-and-where-to-buy-the-budget-friendly-phone/"
+    },
+    {
+      "id": 65,
+      "title": "Microsoft’s (MSFT) is Well Positioned for Growth in AI and Cloud Services",
+      "summary": "Microsoft's growth in AI and cloud services is highlighted in Vulcan Value Partners' second-quarter 2025 investor letter.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:16:35Z",
+      "url": "https://biztoc.com/x/7f8406302f7a4329"
+    },
+    {
+      "id": 66,
+      "title": "The companies laying off staff for AI today will regret it in five years",
+      "summary": "Companies laying off staff for AI today may regret it in five years, as AI advances could lead to the next billion-dollar company consisting of just one person.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T13:16:25Z",
+      "url": "https://biztoc.com/x/3e982ea429b0d673"
+    },
+    {
+      "id": 67,
+      "title": "Map Shows States With Higher Rates of Homelessness",
+      "summary": "Map shows states with higher rates of homelessness, indicating a growing crisis despite efforts to address the issue. Experts suggest that the root causes of homelessness continue to persist.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-17T13:16:18Z",
+      "url": "https://biztoc.com/x/34febe9a0d9a4030"
+    },
     {
       "id": 51,
       "title": "Elon Musk's New 'Ani' AI Avatar Incepts $70 Million Meme Coin On Solana",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T11:36:24Z",
       "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.6/"
-    },
-    {
-      "id": 51,
-      "title": "Elon Musk says \"We need more babies\" — then creates digital girlfriends so you actually won't go out and make any babies",
-      "summary": "Elon Musk promotes having more babies but also creates digital girlfriends through Grok, potentially discouraging real relationships and reproduction.",
-      "source": "Windows Central",
-      "category": "ethics",
-      "timestamp": "2025-07-17T11:30:00Z",
-      "url": "https://www.windowscentral.com/artificial-intelligence/elon-musk-we-need-more-babies-digital-girlfriends"
-    },
-    {
-      "id": 52,
-      "title": "South Korean priests undergo AI training",
-      "summary": "South Korean priests are undergoing AI training at a library in a shopping mall, signaling a new frontier in utilizing technology for preaching and pastoral work.",
-      "source": "Catholicnewsagency.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:30:00Z",
-      "url": "https://www.catholicnewsagency.com/news/265383/south-korean-priests-undergo-ai-training"
-    },
-    {
-      "id": 53,
-      "title": "OptimizeRx Sets Second Quarter 2025 Conference Call for August 7, 2025, at 4:30 p.m. ET",
-      "summary": "OptimizeRx Corp. will hold a conference call on August 7, 2025, to discuss their healthcare technology solutions for reaching and engaging healthcare professionals and patients.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-17T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117118/0/en/OptimizeRx-Sets-Second-Quarter-2025-Conference-Call-for-August-7-2025-at-4-30-p-m-ET.html"
-    },
-    {
-      "id": 54,
-      "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
-      "summary": "Hackers have found new ways to hide malware in DNS records, exploiting the domain name system to conceal malicious code and prompt injection attacks against chatbots.",
-      "source": "Wired",
-      "category": "research",
-      "timestamp": "2025-07-17T11:30:00Z",
-      "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/"
-    },
-    {
-      "id": 55,
-      "title": "Digi Power X Acquires Supermicro NVIDIA B200 Systems to Launch Tier 3 NeoCloud AI Infrastructure",
-      "summary": "Digi Power X acquires Supermicro NVIDIA B200 Systems to launch Tier 3 NeoCloud AI infrastructure, designated news release for the Company's prospectus supplement.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-17T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117121/0/en/Digi-Power-X-Acquires-Supermicro-NVIDIA-B200-Systems-to-Launch-Tier-3-NeoCloud-AI-Infrastructure.html"
-    },
-    {
-      "id": 56,
-      "title": "YouTube to Have a Major Presence at Mipcom Cannes for 20th Anniversary",
-      "summary": "YouTube will have a major presence at Mipcom Cannes for its 20th anniversary, marking a significant move in the TV industry.",
-      "source": "Variety",
-      "category": "innovation",
-      "timestamp": "2025-07-17T11:29:59Z",
-      "url": "https://variety.com/2025/tv/global/youtube-major-presence-mipcom-cannes-20th-anniversary-1236463565/"
-    },
-    {
-      "id": 57,
-      "title": "LTIMindtree Q1 Results: Cons profit jumps 11% YoY to Rs 1,255 crore; revenue up 8%",
-      "summary": "LTIMindtree reported an 11% increase in Q1FY26 consolidated net profit to Rs 1,255 crore, with revenue up 8% at Rs 9,841 crore.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T11:29:42Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltimindtree-q1-results-cons-profit-jumps-11-yoy-to-rs-1255-crore-revenue-up-8/articleshow/122639510.cms"
-    },
-    {
-      "id": 58,
-      "title": "Google Gemini Exploited: AI Attack Targets 1.8 Billion Gmail Users",
-      "summary": "Over 1.8 billion Gmail users are open to a new form of cyberattack using artificial intelligence.",
-      "source": "Gizchina.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T11:28:37Z",
-      "url": "https://www.gizchina.com/2025/07/17/google-gemini-exploited-ai-attack-targets-1-8-billion-gmail-users/"
-    },
-    {
-      "id": 59,
-      "title": "New Apple Watch Gesture in watchOS 26 Limited to Newer Models",
-      "summary": "New Apple Watch gesture in watchOS 26 limited to newer models allows users to dismiss notifications and return to watch face with a wrist flick.",
-      "source": "MacRumors",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:27:46Z",
-      "url": "https://www.macrumors.com/2025/07/17/new-apple-watch-gesture-watchos-26-newer-models/"
-    },
-    {
-      "id": 60,
-      "title": "timbal 0.57.2",
-      "summary": "timbal 0.57.2 is a strongly opinionated framework for building and orchestrating agentic AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:27:08Z",
-      "url": "https://pypi.org/project/timbal/0.57.2/"
-    },
-    {
-      "id": 61,
-      "title": "Picsart: Create Scroll-Stopping Ads in Minutes with AI-Powered Workflows",
-      "summary": "Creating high-performing ads using AI-powered workflows can save time and money for marketers, who are expected to fulfill multiple roles. The pressure to launch quickly and scale effortlessly adds to the need for AI in advertising.",
-      "source": "Martech.zone",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:27:01Z",
-      "url": "https://martech.zone/picsart-create-scroll-stopping-ads-in-minutes-with-ai-powered-workflows/"
-    },
-    {
-      "id": 62,
-      "title": "Just 3 in 10 aviation executives believe their strategy can adequately address the emerging risk challenges of the next decade",
-      "summary": "Just 3 in 10 aviation executives believe their strategy can adequately address the emerging risk challenges of the next decade, according to a new report by Willis. ",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-17T11:27:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117113/0/en/Just-3-in-10-aviation-executives-believe-their-strategy-can-adequately-address-the-emerging-risk-challenges-of-the-next-decade.html"
-    },
-    {
-      "id": 63,
-      "title": "wayak-ai added to PyPI",
-      "summary": "wayak-ai has been added to PyPI, making it easier for developers to access the official Python library for the wayak-ai API.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:26:53Z",
-      "url": "https://pypi.org/project/wayak-ai/"
-    },
-    {
-      "id": 64,
-      "title": "wayak-ai 0.0.1a1",
-      "summary": "wayak-ai 0.0.1a1 is the official Python library for the wayak-ai API, facilitating the integration of artificial intelligence capabilities into applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:26:53Z",
-      "url": "https://pypi.org/project/wayak-ai/0.0.1a1/"
-    },
-    {
-      "id": 65,
-      "title": "Quantum code breaking? You'd get further with an 8-bit computer, an abacus, and a dog",
-      "summary": "Computer scientist Peter Gutmann criticizes quantum code breaking as 'bollocks' and suggests traditional methods may be more effective. The US National Institute for Standards and Technology has been advocating for post-quantum cryptographic algorithms since 2016.",
-      "source": "Theregister.com",
-      "category": "research",
-      "timestamp": "2025-07-17T11:26:10Z",
-      "url": "https://www.theregister.com/2025/07/17/quantum_cryptanalysis_criticism/"
-    },
-    {
-      "id": 66,
-      "title": "YouTuber loses 11 kg in 46 days with ChatGPT’s prompts; shares daily routine, no trainers or fad diets involved",
-      "summary": "YouTuber uses ChatGPT prompts to lose 11 kg in 46 days through personalized fitness and diet plan.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:25:51Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/youtuber-loses-11-kg-in-46-days-with-chatgpts-prompts-shares-daily-routine-no-trainers-or-fad-diets-involved/articleshow/122638959.cms"
-    },
-    {
-      "id": 67,
-      "title": "Fan Bingbing Stars in Magic-Realist Short ‘Small, Sharp & Green’ for Anthony Chen’s Giraffe Pictures (EXCLUSIVE)",
-      "summary": "Chinese superstar Fan Bingbing has finished filming Giraffe Pictures' magic-realist short film 'Small, Sharp & Green'. Giraffe Pictures recently completed production on Anthony Chen's upcoming feature 'We Are All Strangers'.",
-      "source": "Variety",
-      "category": "applications",
-      "timestamp": "2025-07-17T11:25:08Z",
-      "url": "https://variety.com/2025/film/news/fan-bingbing-magic-realist-short-small-sharp-green-1236463568/"
     }
   ]
 }
