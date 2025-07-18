@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-18T07:43:00.984Z",
+  "lastUpdate": "2025-07-18T07:54:47.164Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Show HN",
+      "summary": "FounderScan is a new tool that provides a comprehensive website analysis covering security, SEO, performance, and compliance. It detects vulnerabilities, exposed API keys, missing security headers, SEO optimization opportunities, Core Web Vitals issues, and compliance gaps for a complete assessment.",
+      "source": "Founderscan.dev",
+      "category": "startups",
+      "timestamp": "2025-07-17T07:52:24Z",
+      "url": "https://www.founderscan.dev/"
+    },
+    {
+      "id": 52,
+      "title": "What’s Hot For Identity And Access Management (IAM) In Asia Pacific In 2025?",
+      "summary": "In a recently published report, key adoption drivers, technologies, and use cases for Identity and Access Management (IAM) in Asia Pacific (APAC) in 2025 are discussed. The report indicates that organizations in APAC will increase their IAM spend based on Forrester's data.",
+      "source": "Forrester.com",
+      "category": "research",
+      "timestamp": "2025-07-17T07:51:06Z",
+      "url": "https://www.forrester.com/blogs/whats-hot-for-identity-and-access-management-iam-in-asia-pacific-in-2025/"
+    },
+    {
+      "id": 53,
+      "title": "Biweekly AI Safety Comms Meetup",
+      "summary": "Biweekly AI Safety Comms Meetup hosted by AISafety.info offers virtual speed friending and hangouts for AI safety communicators and influencers worldwide.",
+      "source": "Lesswrong.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:50:34Z",
+      "url": "https://www.lesswrong.com/events/h9tQJd7FWmuMoYBLz/biweekly-ai-safety-comms-meetup"
+    },
+    {
+      "id": 54,
+      "title": "CrowdStrike’s (CRWD) Equal Weight Rating Reaffirmed at Morgan Stanley",
+      "summary": "Morgan Stanley reaffirmed their equal weight rating on shares of CrowdStrike in a report, with a price objective of $495.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:46:59Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/crowdstrikes-crwd-equal-weight-rating-reaffirmed-at-morgan-stanley/"
+    },
+    {
+      "id": 55,
+      "title": "CoreWeave (NASDAQ:CRWV) Given “Neutral” Rating at HC Wainwright",
+      "summary": "HC Wainwright reaffirmed their neutral rating on shares of CoreWeave (NASDAQ:CRWV) in a research report sent to investors on Monday.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-17T07:46:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/coreweave-nasdaqcrwv-given-neutral-rating-at-hc-wainwright/"
+    },
+    {
+      "id": 56,
+      "title": "Brussels stalls probe into Elon Musk’s X amid US trade talks",
+      "summary": "Brussels is delaying the probe into Elon Musk's X as EU trade talks progress, missing the deadline set before the summer recess.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:46:31Z",
+      "url": "https://www.irishtimes.com/business/2025/07/17/brussels-stalls-probe-into-elon-musks-x-amid-us-trade-talks/"
+    },
+    {
+      "id": 57,
+      "title": "ChatGPT for Mac now doubles as an AI meeting assistant",
+      "summary": "ChatGPT for Mac now doubles as an AI meeting assistant, allowing users to transcribe meetings, brainstorming sessions, and voice notes.",
+      "source": "Cult of Mac",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:45:07Z",
+      "url": "https://www.cultofmac.com/news/chatgpt-for-mac-now-doubles-as-an-ai-meeting-assistant"
+    },
+    {
+      "id": 58,
+      "title": "360 Million Indians Just Got Premium AI Chatbots For Free For a Year",
+      "summary": "360 million Indians are receiving premium AI chatbots for free for a year through a partnership between Perplexity and Bharti Airtel, representing the largest distribution deal of its kind globally.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:45:00Z",
+      "url": "https://slashdot.org/story/25/07/17/0742246/360-million-indians-just-got-premium-ai-chatbots-for-free-for-a-year"
+    },
+    {
+      "id": 59,
+      "title": "Stratos Wealth Partners LTD. Takes Position in Applied Digital Corporation (NASDAQ:APLD)",
+      "summary": "Stratos Wealth Partners LTD. acquired a new stake in Applied Digital Corporation (NASDAQ:APLD) during the 1st quarter, purchasing 33,625 shares valued at approximately $189,000.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:44:49Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/stratos-wealth-partners-ltd-takes-position-in-applied-digital-corporation-nasdaqapld/"
+    },
+    {
+      "id": 60,
+      "title": "Treasury and Payments Platform Finmo Secures UK EMI Licence, Expands Global Footprint",
+      "summary": "Fast-growing fintech company Finmo receives UK EMI licence from FCA, enabling expansion of global footprint.",
+      "source": "Antaranews.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T07:44:36Z",
+      "url": "https://en.antaranews.com/news/367025/treasury-and-payments-platform-finmo-secures-uk-emi-licence-expands-global-footprint"
+    },
+    {
+      "id": 61,
+      "title": "What is TCS' new policy that's making thousands of techies at India's biggest IT firm anxious about layoffs?",
+      "summary": "TCS' new 35-day bench policy causing concern among employees about potential layoffs due to challenges in finding suitable projects.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:44:26Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/what-is-tcs-new-bench-policy-thats-making-thousands-of-techies-at-indias-biggest-it-firm-anxious-about-layoffs/articleshow/122621595.cms"
+    },
     {
       "id": 51,
       "title": "European shares rise after four-day drop as ABB shines",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T06:50:15Z",
       "url": "https://www.aljazeera.com/news/2025/7/17/trump-hosts-qatars-emir-for-private-dinner-meets-bahrain-crown-prince"
-    },
-    {
-      "id": 61,
-      "title": "swe-ai-agent 1.0.5",
-      "summary": "swe-ai-agent 1.0.5 - SWE Agent - Headless Agentic IDE with comprehensive tool support",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T06:50:14Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.5/"
-    },
-    {
-      "id": 62,
-      "title": "ivcap_ai_tool 0.7.10",
-      "summary": "The ivcap_ai_tool 0.7.10 provides helper functions for creating AI tools as IVCAP services, aiding in the development of innovative AI tools. This update focuses on enhancing the efficiency and ease of building AI applications within the IVCAP framework.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:49:39Z",
-      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.10/"
-    },
-    {
-      "id": 63,
-      "title": "joshi-ai-commits added to PyPI",
-      "summary": "joshi-ai-commits added to PyPI - AI-powered Git commit message generator that automatically creates conventional commit messages using Groq, OpenRouter, or Cohere APIs",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:49:03Z",
-      "url": "https://pypi.org/project/joshi-ai-commits/"
-    },
-    {
-      "id": 64,
-      "title": "joshi-ai-commits 1.0.0",
-      "summary": "joshi-ai releases version 1.0.0 of an AI-powered Git commit message generator that uses Groq, OpenRouter, or Cohere APIs to automatically create conventional commit messages",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:49:03Z",
-      "url": "https://pypi.org/project/joshi-ai-commits/1.0.0/"
-    },
-    {
-      "id": 65,
-      "title": "Roth Capital Initiates Coverage of OMS Energy Technologies (OMSE) Stock with a Buy",
-      "summary": "Roth Capital Initiates Coverage of OMS Energy Technologies (OMSE) Stock with a Buy - OMS Energy Technologies Inc. (NASDAQ:OMSE) is one of the Most Undervalued Stocks Under $10 to Buy Now.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-17T06:46:47Z",
-      "url": "https://finance.yahoo.com/news/roth-capital-initiates-coverage-oms-064647656.html"
-    },
-    {
-      "id": 66,
-      "title": "Alliance Global Partners Resumes Coverage of Ring Energy (REI) Stock with a Buy",
-      "summary": "Alliance Global Partners resumes coverage of Ring Energy (REI) stock with a Buy rating, highlighting it as one of the most undervalued stocks under $10 to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T06:46:42Z",
-      "url": "https://finance.yahoo.com/news/alliance-global-partners-resumes-coverage-064642671.html"
-    },
-    {
-      "id": 51,
-      "title": "Taiwan’s TSMC says second quarter profit up 60%",
-      "summary": "Taiwan's TSMC reported a 60% increase in net profit for the second quarter due to sustained demand for AI technology.",
-      "source": "Digital Journal",
-      "category": "economy",
-      "timestamp": "2025-07-17T06:22:32Z",
-      "url": "https://www.digitaljournal.com/world/taiwans-tsmc-says-second-quarter-profit-up-60/article"
-    },
-    {
-      "id": 52,
-      "title": "Mercedes-Benz Unveils All-Electric CLA Shooting Brake",
-      "summary": "Mercedes-Benz unveils first electric CLA Shooting Brake with up to 470-mile range, illuminated panoramic roof, AI-powered MBUX system, and up to 1,800 kg towing. Launching in Europe in March 2026, with hybrid models to follow.",
-      "source": "HYPEBEAST",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:21:37Z",
-      "url": "https://hypebeast.com/2025/7/mercedes-benz-ev-cla-shooting-brake-release-info"
-    },
-    {
-      "id": 53,
-      "title": "dingo-python 1.8.1",
-      "summary": "dingo-python 1.8.1 is a comprehensive tool designed for evaluating data quality in large AI models, aiming to improve the accuracy and reliability of AI systems.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T06:21:36Z",
-      "url": "https://pypi.org/project/dingo-python/1.8.1/"
-    },
-    {
-      "id": 54,
-      "title": "Ripple compliance upgrade is imminent, RICH Miner converts XRP into daily income",
-      "summary": "Ripple compliance upgrade is imminent, RICH Miner converts XRP into daily income - New opportunities for XRP holders: Join RICH Miner now to participate in the global high-yield, safe, zero-threshold cloud mining program.",
-      "source": "Android Headlines",
-      "category": "startups",
-      "timestamp": "2025-07-17T06:20:55Z",
-      "url": "https://www.androidheadlines.com/2025/07/ripple-compliance-upgrade-is-imminent-rich-miner-converts-xrp-into-daily-income.html"
-    },
-    {
-      "id": 55,
-      "title": "The confirmation bias: Why investors see what they want to see, and often get it wrong",
-      "summary": "The confirmation bias leads investors to seek information that supports their existing beliefs, leading to potential mistakes in decision-making.",
-      "source": "Livemint",
-      "category": "ethics",
-      "timestamp": "2025-07-17T06:19:58Z",
-      "url": "https://www.livemint.com/money/personal-finance/confirmation-bias-in-investing-stock-market-investments-ai-in-investing-f-o-trading-11752726982321.html"
     }
   ]
 }
