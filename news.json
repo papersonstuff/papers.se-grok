@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-18T19:49:49.744Z",
+  "lastUpdate": "2025-07-18T20:17:37.361Z",
   "items": [
+    {
+      "id": 51,
+      "title": "North GA accused of using AI to make nude images of kids, facing 120 more charges",
+      "summary": "North GA accused of using AI to create child porn, facing additional charges. Richardson allegedly solicited nude images from a student at a school where he was working.",
+      "source": "WSB Atlanta",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:16:58Z",
+      "url": "https://www.wsbtv.com/news/local/atlanta/north-ga-accused-using-ai-make-nude-images-kids-facing-120-more-charges/GRZF47YQZZA25KCCXGNCONYDIU/"
+    },
+    {
+      "id": 52,
+      "title": "What's Going On With Rumble Shares Today?",
+      "summary": "Shares of Rumble Inc. are trading higher following strategic updates related to the company's AI initiatives and cloud services business.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:16:45Z",
+      "url": "https://biztoc.com/x/72213cfdd23e9066"
+    },
+    {
+      "id": 53,
+      "title": "Reddit, Inc. Class Action: Levi & Korsinsky Reminds Reddit, Inc. Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of August 18, 2025 – RDDT",
+      "summary": "Levi & Korsinsky, LLP notifies investors in Reddit, Inc. of a pending class action lawsuit with a lead plaintiff deadline of August 18, 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117628/3080/en/Reddit-Inc-Class-Action-Levi-Korsinsky-Reminds-Reddit-Inc-Investors-of-the-Pending-Class-Action-Lawsuit-with-a-Lead-Plaintiff-Deadline-of-August-18-2025-RDDT.html"
+    },
+    {
+      "id": 54,
+      "title": "Your Google Phone App Just Got Its Biggest Makeover in Years",
+      "summary": "Your Google Phone App has received a major update, providing improved features for call management such as grouping calls together. This update aims to enhance user experience and reduce accidental hang-ups or missed calls.",
+      "source": "Gadgethacks.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:14:05Z",
+      "url": "https://android.gadgethacks.com/news/your-google-phone-app-just-got-its-biggest-makeover-in-years/"
+    },
+    {
+      "id": 55,
+      "title": "Backblaze to Announce Second Quarter 2025 Results on August 7, 2025",
+      "summary": "Backblaze, Inc. will report financial results for its second quarter ending June 30, 2025 on August 7, 2025.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:13:18Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/backblaze-to-announce-second-quarter-2025-results-on-august-7-2025"
+    },
+    {
+      "id": 56,
+      "title": "Hackathon Winners Bring Agentic AI to Life with the NVIDIA NeMo Agent Toolkit",
+      "summary": "Hackathon Winners Bring Agentic AI to Life with the NVIDIA NeMo Agent Toolkit - The best way to learn a new toolkit is to build something real, and that’s exactly what developers did at the recent NVIDIA NeMo Agent Toolkit Hackathon.",
+      "source": "Nvidia.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:13:11Z",
+      "url": "https://developer.nvidia.com/blog/hackathon-winners-bring-agentic-ai-to-life-with-the-nvidia-nemo-agent-toolkit/"
+    },
+    {
+      "id": 57,
+      "title": "AMD Ryzen Threadripper 9980X Early Benchmarks Reveal Up To 16% Better Multi-Core Performance Than Its Predecessor - Wccftech",
+      "summary": "Early benchmarks for the AMD Ryzen Threadripper 9980X show up to 16% better multi-core performance compared to its predecessor. The new 96-core Threadripper CPU is priced at $11,699, and AMD has also launched the Threadripper Pro 9000 WX-series CPUs with up to 96 Zen cores.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:12:30Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178404670"
+    },
+    {
+      "id": 58,
+      "title": "Gainey McKenna & Egleston Announces A Class Action Lawsuit Has Been Filed Against Reddit, Inc. (RDDT)",
+      "summary": "Gainey McKenna & Egleston has filed a class action lawsuit against Reddit, Inc. for securities fraud in the United States District Court for the Northern District of California.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117618/10782/en/Gainey-McKenna-Egleston-Announces-A-Class-Action-Lawsuit-Has-Been-Filed-Against-Reddit-Inc-RDDT.html"
+    },
+    {
+      "id": 59,
+      "title": "Levi & Korsinsky Reminds DoubleVerify Holdings, Inc. Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of July 21, 2025 – DV",
+      "summary": "Levi & Korsinsky, LLP notifies investors in DoubleVerify Holdings, Inc. of a pending class action lawsuit regarding securities fraud.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117616/3080/en/Levi-Korsinsky-Reminds-DoubleVerify-Holdings-Inc-Investors-of-the-Pending-Class-Action-Lawsuit-with-a-Lead-Plaintiff-Deadline-of-July-21-2025-DV.html"
+    },
+    {
+      "id": 60,
+      "title": "【ノックラーン】スタートアップHRフォーラム2025 第三弾！シリコンバレー著名VCのHR支援担当・注目のAI HRプロダクト開発企業のCEO登壇が決定！",
+      "summary": "The Startup HR Forum 2025, featuring a prominent VC from Silicon Valley and the CEO of an AI HR product development company, has been announced by Knocklearn.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-17T20:10:01Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000047.000103563.html"
+    },
+    {
+      "id": 61,
+      "title": "AI is now part of our world. Uni graduates should know how to use it responsibly",
+      "summary": "AI is now part of our world and uni graduates should know how to use it responsibly. Using AI well involves navigating ethical issues like bias, privacy, and misinformation.",
+      "source": "The Conversation Africa",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:09:53Z",
+      "url": "https://theconversation.com/ai-is-now-part-of-our-world-uni-graduates-should-know-how-to-use-it-responsibly-261273"
+    },
+    {
+      "id": 62,
+      "title": "House passes landmark cryptocurrency bills to regulate stablecoin; now to Trump's desk",
+      "summary": "House passes landmark cryptocurrency bills to regulate stablecoin, now heading to Trump's desk for approval.",
+      "source": "USA Today",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:09:00Z",
+      "url": "https://www.usatoday.com/story/news/politics/2025/07/17/house-cryptocurrency-bills-legislation-stablecoin-trump/85195673007/"
+    },
+    {
+      "id": 63,
+      "title": "Urgent warning for 1.8 billion Gmail users: ‘Hidden danger’ steals passwords in ways even AI can’t detect",
+      "summary": "Google warns 1.8 billion Gmail users of a new password-stealing scam using AI, which generates fake security alerts through hidden instructions in emails.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:08:57Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/urgent-warning-for-1-8-billion-gmail-users-hidden-danger-steals-passwords-in-ways-even-ai-cant-detect/articleshow/122679151.cms"
+    },
+    {
+      "id": 64,
+      "title": "Valve's Gabe Newell predicts AI will lead to a \"funny situation\" where \"people who don't know how to program\" could be \"more effective\" than people \"who've been programming for a decade\"",
+      "summary": "Valve's Gabe Newell predicts AI will lead to a 'funny situation' where non-programmers could be more effective than experienced programmers, and advises businesses to focus on listening to customers",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:07:07Z",
+      "url": "https://www.gamesradar.com/games/valves-gabe-newell-predicts-ai-will-lead-to-a-funny-situation-where-people-who-dont-know-how-to-program-could-be-more-effective-than-people-whove-been-programming-for-a-decade/"
+    },
+    {
+      "id": 65,
+      "title": "PairSoft and Finexo Renew Partnership on Embedded Payments for Accounts Payable",
+      "summary": "PairSoft and Finexio have renewed their partnership to allow users to use Finexio's embedded payments solution for accounts payable within PairSoft's AI solutions.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:05:45Z",
+      "url": "http://www.pymnts.com/news/b2b-payments/2025/pairsoft-and-finexo-renew-partnership-on-embedded-payments-for-accounts-payable/"
+    },
+    {
+      "id": 66,
+      "title": "California funds LGBTQ+ youth mental health hotline as feds cut support",
+      "summary": "California funds Trevor Project's LGBTQ+ youth mental health hotline after federal cuts, providing critical support for vulnerable population.",
+      "source": "10News",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:05:37Z",
+      "url": "https://www.10news.com/news/local-news/california-steps-in-to-fund-lgbtq-youth-mental-health-hotline-after-federal-cuts"
+    },
+    {
+      "id": 67,
+      "title": "Optimove Insights' 2025 Back-to-School Report: Parents Need Empathy as Tariffs Drive Economic Uncertainty",
+      "summary": "Tariffs and rising prices are challenging brand loyalty, making empathy and timely, context-aware communication vital for marketers",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:04:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117584/0/en/Optimove-Insights-2025-Back-to-School-Report-Parents-Need-Empathy-as-Tariffs-Drive-Economic-Uncertainty.html"
+    },
+    {
+      "id": 68,
+      "title": "Older iPhones won’t get these iOS 26 features",
+      "summary": "Older iPhones won’t get these iOS 26 features - Apple's iOS 26 introduces significant updates for iPhone users. The standout Liquid Glass redesign is available on all iPhones compatible.",
+      "source": "Macdailynews.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:01:48Z",
+      "url": "https://macdailynews.com/2025/07/17/older-iphones-wont-get-these-ios-26-features/"
+    },
+    {
+      "id": 69,
+      "title": "Talen Energy Expands and Enhances Portfolio with Best-in-Class CCGT Acquisitions in PJM",
+      "summary": "Talen Energy expands its portfolio with best-in-class CCGT acquisitions in PJM, enhancing its position as a leading independent power producer.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:01:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117582/0/en/Talen-Energy-Expands-and-Enhances-Portfolio-with-Best-in-Class-CCGT-Acquisitions-in-PJM.html"
+    },
     {
       "id": 51,
       "title": "This AI Warps Live Video in Real Time",
@@ -279,177 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-17T19:27:32Z",
       "url": "https://pagesix.com/2025/07/17/celebrity-news/astronomer-ceo-andy-byron-raved-about-kristin-cabot-before-being-caught-on-coldplay-kiss-cam/"
-    },
-    {
-      "id": 53,
-      "title": "Finding value from AI agents from day one",
-      "summary": "AI agents are being used to provide value to businesses from day one by tasks such as reading customer's minds, identifying cybersecurity loopholes before hackers strike, and restructuring global supply chains to avoid disruptions.",
-      "source": "MIT Technology Review",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:27:23Z",
-      "url": "https://www.technologyreview.com/2025/07/17/1119943/finding-value-from-ai-agents-from-day-one/"
-    },
-    {
-      "id": 54,
-      "title": "Sources: Perplexity jumped to a $18B valuation two months after it raised at $14B; its annualized revenues jumped from $35M in August 2024 to $150M this month (Financial Times)",
-      "summary": "Perplexity, an AI-powered search engine, saw a significant increase in valuation to $18B and annualized revenues from $35M in August 2024 to $150M this month, attracting new investors.",
-      "source": "Techmeme.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T19:25:01Z",
-      "url": "https://www.techmeme.com/250717/p44"
-    },
-    {
-      "id": 55,
-      "title": "Robinhood CEO Says Majority of Company's New Code Written by AI",
-      "summary": "Robinhood CEO Vlad Tenev stated that majority of the company's new code is written by AI, with close to 100% of engineers using AI code editors. Around 50% of new code at the trading platform is AI-generated.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:25:00Z",
-      "url": "https://developers.slashdot.org/story/25/07/17/1918220/robinhood-ceo-says-majority-of-companys-new-code-written-by-ai"
-    },
-    {
-      "id": 56,
-      "title": "Perplexity’s Comet is the AI browser Google wants",
-      "summary": "Perplexity has launched Comet, an AI-powered browser that aims to rival Google Chrome. Currently, Comet is only available to Perplexity Max users.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:22:52Z",
-      "url": "https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor"
-    },
-    {
-      "id": 57,
-      "title": "opencode-ai 0.1.0a20",
-      "summary": "opencode-ai 0.1.0a20 is the official Python library for the opencode API, enabling developers to easily interact with the platform for AI-related applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:22:37Z",
-      "url": "https://pypi.org/project/opencode-ai/0.1.0a20/"
-    },
-    {
-      "id": 58,
-      "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Reddit, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – RDDT",
-      "summary": "ROSEN, RECOGNIZED INVESTOR COUNSEL, encourages Reddit, Inc. investors to secure counsel before an important deadline in a securities class action lawsuit.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:22:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117565/673/en/ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Reddit-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-RDDT.html"
-    },
-    {
-      "id": 59,
-      "title": "pygpt-net 2.5.48",
-      "summary": "pygpt-net 2.5.48 is a Desktop AI Assistant powered by various OpenAI models including GPT-4, DALL-E 3, and others. It supports chatbot, agents, completion, image generation, vision analysis, and more.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:20:42Z",
-      "url": "https://pypi.org/project/pygpt-net/2.5.48/"
-    },
-    {
-      "id": 60,
-      "title": "Dell 16 Plus 2-in-1 (DB06250)",
-      "summary": "Dell's newly released 16 Plus 2-in-1 laptop aims to combine strong performance with a convertible design, but struggles under the weight of its ambitions.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:20:10Z",
-      "url": "https://me.pcmag.com/en/laptops/31027/dell-16-plus-2-in-1-db06250"
-    },
-    {
-      "id": 61,
-      "title": "Dell 16 Plus 2-in-1 (DB06250)",
-      "summary": "Dell's 16 Plus 2-in-1 (DB06250) is a large laptop that struggles with its convertible features, aiming to offer strong performance and versatility in a big form factor.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:20:10Z",
-      "url": "https://uk.pcmag.com/laptops/159184/dell-16-plus-2-in-1-db06250"
-    },
-    {
-      "id": 62,
-      "title": "Imagen Now Works on Video With AI-Powered Frame-By-Frame Color Correction",
-      "summary": "Imagen is expanding its AI-powered editing platform to video with a new feature for frame-by-frame color correction, catering to professionals in the video editing industry.",
-      "source": "PetaPixel",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:19:59Z",
-      "url": "https://petapixel.com/2025/07/17/imagen-now-works-on-video-with-ai-powered-frame-by-frame-color-correction/"
-    },
-    {
-      "id": 63,
-      "title": "bmasterai added to PyPI",
-      "summary": "bmasterai added to PyPI - A comprehensive Python framework for building multi-agent AI systems with advanced logging, monitoring, and integrations",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:19:34Z",
-      "url": "https://pypi.org/project/bmasterai/"
-    },
-    {
-      "id": 64,
-      "title": "bmasterai 0.2.0",
-      "summary": "bmasterai 0.2.0 is a Python framework for building multi-agent AI systems with advanced features, including logging, monitoring, and integrations.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:19:34Z",
-      "url": "https://pypi.org/project/bmasterai/0.2.0/"
-    },
-    {
-      "id": 51,
-      "title": "AMD’s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
-      "summary": "AMD's new 96-core Threadripper CPU is priced at $11,699, targeting high-performance users who require extensive computing power.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:12:41Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178404254"
-    },
-    {
-      "id": 52,
-      "title": "realvirtual.io AI Builder by realvirtual",
-      "summary": "realvirtual.io AI Builder allows users to train, test, and deploy AI in Unity for industrial vision and automation, including generating synthetic data, running ONNX models, and connecting to real PLCs.",
-      "source": "Unity.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:12:13Z",
-      "url": "https://assetstore.unity.com/packages/tools/ai-ml-integration/realvirtual-io-ai-builder-320773"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI introduces ChatGPT agent that can complete tasks using its own computer",
-      "summary": "OpenAI introduces ChatGPT agent that can complete tasks using its own computer",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:12:02Z",
-      "url": "https://www.neowin.net/news/openai-introduces-chatgpt-agent-that-can-complete-tasks-using-its-own-computer/"
-    },
-    {
-      "id": 54,
-      "title": "US Ally Calls China Greatest Threat",
-      "summary": "Japan raises concerns over China's military presence, labeling China as the greatest strategic challenge in the Asia-Pacific region. The voice behind this statement is AI-generated, which may lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:10:53Z",
-      "url": "https://biztoc.com/x/517db6038ab1657c"
-    },
-    {
-      "id": 55,
-      "title": "Owner Wonders What Dog Does Home Alone—Instant Tears When She Watches Cam",
-      "summary": "Owner feels guilty leaving dog home alone, watches AI-generated voice on camera, feels relief.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:10:26Z",
-      "url": "https://biztoc.com/x/14f0088da969bbb0"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI launches personal assistant capable of controlling files and web browsers",
-      "summary": "OpenAI launches personal assistant capable of controlling files and web browsers, with the ability to find restaurant reservations and go shopping for users. OpenAI acknowledges there are 'more risks' associated with this technology.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:10:19Z",
-      "url": "https://biztoc.com/x/6c6e73b7f8bd8bfa"
-    },
-    {
-      "id": 57,
-      "title": "The Best Media & Journalist Databases You Can Use",
-      "summary": "The Best Media & Journalist Databases You Can Use provides information on finding the right journalist for effective media outreach.",
-      "source": "Socialmediaexplorer.com",
-      "category": "research",
-      "timestamp": "2025-07-17T19:09:45Z",
-      "url": "https://socialmediaexplorer.com/business-innovation-2/the-best-media-journalist-databases-you-can-use/"
     }
   ]
 }
