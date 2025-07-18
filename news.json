@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-18T19:29:14.150Z",
+  "lastUpdate": "2025-07-18T19:41:17.493Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
+      "summary": "Trump administration order requires interior secretary to sign off on all wind and solar projects, potentially slowing down renewable energy development on federal lands.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:40:17Z",
+      "url": "https://www.yahoo.com/news/trump-administration-order-requires-interior-194017213.html"
+    },
+    {
+      "id": 52,
+      "title": "Amazon Eliminates Hundreds of Cloud Computing Jobs",
+      "summary": "Amazon has cut hundreds of jobs in its AWS cloud division, affecting its cloud computing sector.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:39:26Z",
+      "url": "http://www.pymnts.com/amazon/2025/amazon-eliminates-hundreds-of-cloud-computing-jobs/"
+    },
+    {
+      "id": 53,
+      "title": "TikTok Germany moderators raise alarm over layoff plans",
+      "summary": "TikTok Germany moderators raise alarm over layoff plans as they fear being replaced with artificial intelligence, potentially risking the safety of platform users.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:38:01Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tiktok-germany-moderators-raise-alarm-over-layoff-plans/articleshow/122677012.cms"
+    },
+    {
+      "id": 54,
+      "title": "mlrun 1.9.2rc3",
+      "summary": "mlrun 1.9.2rc3 introduces new features for tracking and configuring machine learning runs.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:37:57Z",
+      "url": "https://pypi.org/project/mlrun/1.9.2rc3/"
+    },
+    {
+      "id": 55,
+      "title": "Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies",
+      "summary": "Roblox is using AI to scan video selfies of teens to verify their ages for a new 'Trusted Connections' feature allowing unfiltered chatting with known users.",
+      "source": "Wired",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:37:49Z",
+      "url": "https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/"
+    },
+    {
+      "id": 56,
+      "title": "DV DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages DoubleVerify Holdings, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action – DV",
+      "summary": "Rosen Law Firm is reminding DoubleVerify Holdings, Inc. investors with losses over $100K to seek counsel before an important deadline in a securities class action lawsuit.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:37:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117567/673/en/DV-DEADLINE-ROSEN-A-LEADING-LAW-FIRM-Encourages-DoubleVerify-Holdings-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Ac.html"
+    },
+    {
+      "id": 57,
+      "title": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock",
+      "summary": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock for AI applications, including step-by-step implementation guides using AWS Management Console and APIs.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:36:59Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-on-demand-deployment-with-customized-amazon-nova-models-on-amazon-bedrock/"
+    },
+    {
+      "id": 58,
+      "title": "E-commerce player Rokt buys Canal",
+      "summary": "E-commerce player Rokt acquires Canal to expand its ecommerce product offering and help clients unlock new revenue streams.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-17T19:36:58Z",
+      "url": "https://www.finextra.com/pressarticle/106396/e-commerce-player-rokt-buys-canal"
+    },
+    {
+      "id": 59,
+      "title": "NVIDIA (NVDA) Gets Green Light for China Sales, Analysts See EPS Upside Ahead",
+      "summary": "NVIDIA Corporation receives approval to sell in China, with analysts predicting potential earnings per share growth. Wall Street is showing increased interest in AI stocks like NVIDIA.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:36:56Z",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-gets-green-light-193656433.html"
+    },
+    {
+      "id": 60,
+      "title": "Amazon's AWS cloud computing unit cuts at least hundreds of jobs",
+      "summary": "Amazon's AWS cloud computing unit has cut at least hundreds of jobs, joining other tech firms in job cuts. The exact number of jobs cut has not been disclosed.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:33:39Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazons-aws-cloud-computing-unit-cuts-at-least-hundreds-of-jobs/articleshow/122676606.cms"
+    },
+    {
+      "id": 61,
+      "title": "Carolyn Elefant Talks Owning Your Talent, AI and the Future of Solo Practice on Real Lawyers Podcast",
+      "summary": "Carolyn Elefant discusses owning your talent, AI, and the future of solo practice in a podcast interview, highlighting the importance of generative AI for solo and small-firm lawyers.",
+      "source": "Lexblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:32:56Z",
+      "url": "https://kevin.lexblog.com/2025/07/17/carolyn-elefant-talks-owning-your-talent-ai-and-the-future-of-solo-practice-on-real-lawyers-podcast/"
+    },
+    {
+      "id": 62,
+      "title": "Amazon workers are piecing together cloud division layoffs in internal messages",
+      "summary": "Amazon employees are trying to piece together layoffs in the cloud-computing unit, Amazon Web Services, through internal messages on Slack. The cuts come after CEO Andy Jassy discussed the importance of AI in the company.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:32:54Z",
+      "url": "https://biztoc.com/x/27cd772d1cfa501e"
+    },
+    {
+      "id": 63,
+      "title": "Perplexity AI said to hit $18B valuation after funding",
+      "summary": "Perplexity AI reached an $18 billion valuation after a new round of funding, exceeding $14 billion. The firm has been able to raise a significant amount of funding over the past 18 months.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T19:32:51Z",
+      "url": "https://biztoc.com/x/c87f1266b1a85193"
+    },
+    {
+      "id": 64,
+      "title": "Who is Tren de Aragua Leader 'Niño Guerrero' Donald Trump is Sanctioning?",
+      "summary": "The United States Treasury's Office of Foreign Assets Control (OFAC) imposed sanctions on Thursday against Hector Rusthenford Guerrero Flores, also known as 'Niño Guerrero,' along with five other key leaders.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:32:50Z",
+      "url": "https://biztoc.com/x/312dc7d585b3f594"
+    },
+    {
+      "id": 65,
+      "title": "TechM to invest in sales, marketing in next 2 years across key markets: Mahindra",
+      "summary": "Tech Mahindra plans to invest in sales and marketing in key markets over the next two years, with a focus on their edge in AI technology. During the Annual General Meeting, they highlighted how AI is reshaping businesses and society.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:32:48Z",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/techm-to-invest-in-sales-marketing-in-next-2-years-across-key-markets-mahindra/articleshow/122676541.cms"
+    },
+    {
+      "id": 66,
+      "title": "Malaysia bets on tech sector to secure its economic future",
+      "summary": "Malaysia is betting on its tech sector to secure its economic future and become a regional leader in the digital economy, facing challenges such as environment, resources, and geopolitics.",
+      "source": "ABC News (AU)",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:31:49Z",
+      "url": "https://www.abc.net.au/news/2025-07-18/how-malaysia-plans-to-become-asean-s-leader-in-tech/105489658"
+    },
+    {
+      "id": 67,
+      "title": "opencode-ai 0.1.0a21",
+      "summary": "Opencode-ai 0.1.0a21 released, the official Python library for the opencode API.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:30:19Z",
+      "url": "https://pypi.org/project/opencode-ai/0.1.0a21/"
+    },
     {
       "id": 51,
       "title": "TSM Reports Record Profits, Lifts Forecast — But Stays Cautious",
@@ -297,159 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T18:44:50Z",
       "url": "https://biztoc.com/x/bb7f6e2d7a0e82b7"
-    },
-    {
-      "id": 59,
-      "title": "OpenAI's ChatGPT 'agent' is ready to assist you",
-      "summary": "OpenAI's ChatGPT 'agent' is ready to assist you in finding a wedding dress.",
-      "source": "NBC News",
-      "category": "applications",
-      "timestamp": "2025-07-17T18:43:35Z",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-chatgpt-agent-rcna219407"
-    },
-    {
-      "id": 60,
-      "title": "Does Your Favorite Emoji Crack the List of CNET's Top Picks?",
-      "summary": "Celebrate all of the smileys, hearts and gestures for World Emoji Day with CNET's list of top emoji picks.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-17T18:41:39Z",
-      "url": "https://www.cnet.com/tech/services-and-software/does-your-favorite-emoji-crack-the-list-of-cnets-top-picks/"
-    },
-    {
-      "id": 61,
-      "title": "Expert Council Q&A – Epi-3706",
-      "summary": "The expert council on The Survival Podcast answers questions on various topics including Trump's betrayal of his base, cheese making, heat injuries, radios, bitcoin, solar power, AI, and more.",
-      "source": "Thesurvivalpodcast.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T18:41:38Z",
-      "url": "https://www.thesurvivalpodcast.com/experts-3706"
-    },
-    {
-      "id": 62,
-      "title": "Amazon Ring’s founder is back as CEO with a hard pivot to AI. How Jamie Siminoff went from ‘Shark Tank’ reject to $1 billion brand",
-      "summary": "Amazon Ring's founder returns as CEO with a focus on AI after rebranding Doorbot as Ring and achieving success despite rejection on Shark Tank.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T18:37:44Z",
-      "url": "https://biztoc.com/x/c9f05533c75cf49f"
-    },
-    {
-      "id": 63,
-      "title": "Thursday links: central bank independence",
-      "summary": "Demand for private company shares exists but a workable regulatory regime is lacking",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:37:43Z",
-      "url": "https://biztoc.com/x/cd1a42b82a6f61bd"
-    },
-    {
-      "id": 64,
-      "title": "Coldplay's Chris Martin Concert 'Affair' Scandal — Married Astronomer CEO Could Stand To Lose a Fortune After 'Cheating' Kiss Cam Moment With Co-Worker",
-      "summary": "Astronomer CEO Andy Byron could potentially lose a fortune after a scandal involving a 'cheating' kiss cam moment with a co-worker, despite his company being worth over a billion dollars. The scandal has also led to his wife removing his last name from her social life.",
-      "source": "Radaronline.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T18:37:37Z",
-      "url": "https://radaronline.com/p/coldplay-chris-martin-affair-scandal-astronomer-ceo-kiss-cam-andy-byron/"
-    },
-    {
-      "id": 51,
-      "title": "Centreon Extends Monitoring Reach into Observability Realm",
-      "summary": "Centreon has expanded its monitoring capabilities by releasing an open source monitoring agent that integrates OpenTelemetry, allowing for unified monitoring and observability across IT and OT environments.",
-      "source": "DevOps.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T18:26:18Z",
-      "url": "https://devops.com/centreon-extends-monitoring-reach-into-observability-realm/"
-    },
-    {
-      "id": 52,
-      "title": "Why a VC is betting AI is 'the opposite of social media' and will forge more human connections",
-      "summary": "Menlo Ventures partners predict AI will create more human connections and are eyeing opportunities in consumer startups amid the growing adoption of AI.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T18:26:12Z",
-      "url": "https://biztoc.com/x/cbdb00f5e1098382"
-    },
-    {
-      "id": 53,
-      "title": "GSA plans to optimize operations following cost-cutting, agency head says",
-      "summary": "GSA plans to optimize operations to become more efficient and effective while prioritizing the American taxpayer.",
-      "source": "Nextgov",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:24:00Z",
-      "url": "https://www.nextgov.com/digital-government/2025/07/gsa-plans-optimize-operations-following-cost-cutting-agency-head-says/406802/"
-    },
-    {
-      "id": 54,
-      "title": "Amazon trims workforce in Cloud Division AWS citing rising AI-driven costs: Report",
-      "summary": "Amazon is reducing its workforce in the Cloud Division AWS due to rising AI-driven costs, following CEO Andy Jassy's focus on automation to streamline operations.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:23:19Z",
-      "url": "https://www.livemint.com/companies/news/amazon-trims-workforce-in-cloud-division-aws-citing-rising-ai-driven-costs-report-11752775540524.html"
-    },
-    {
-      "id": 55,
-      "title": "Nothing Updates the Essential Space With 3 Big Improvements",
-      "summary": "The Essential Space by Nothing has received 3 big improvements to differentiate its most recent phones, although execution may still need improvement. There is potential for further enhancements to optimize the Essential Space feature.",
-      "source": "Droid Life",
-      "category": "innovation",
-      "timestamp": "2025-07-17T18:21:20Z",
-      "url": "https://www.droid-life.com/2025/07/17/nothing-updates-the-essential-space-with-3-big-improvements/"
-    },
-    {
-      "id": 56,
-      "title": "Walmart Extends US Supply Chain Changes to Global Operations",
-      "summary": "Walmart is reengineering its global supply chain with a focus on automation and real-time artificial intelligence (AI), extending proven U.S. technologies globally for faster and smarter operations.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T18:19:04Z",
-      "url": "http://www.pymnts.com/walmart/2025/walmart-extends-us-supply-chain-changes-to-global-operations/"
-    },
-    {
-      "id": 57,
-      "title": "Andy Byron, Kristin Cabot's company Astronomer is AI-Airflow data firm, tie up with over 80,000 - all about Astronomer Inc",
-      "summary": "Andy Byron and Kristin Cabot's company Astronomer, an AI-Airflow data firm, has tied up with over 80,000 collaborators. A video clip of them from a Coldplay concert has gone viral, showcasing their work at Astronomer Inc.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-17T18:16:09Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-kristin-cabots-company-astronomer-is-ai-airflow-data-firm-ties-up-with-over-80000-all-about-astronomer-inc/articleshow/122668937.cms"
-    },
-    {
-      "id": 58,
-      "title": "Congress’ AI moratorium isn’t dead yet, Rep. McCormick says",
-      "summary": "Advocates are still pushing for the passage of a provision preventing states from enforcing AI regulations, despite it not making it into the final reconciliation law.",
-      "source": "Nextgov",
-      "category": "research",
-      "timestamp": "2025-07-17T18:16:00Z",
-      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/congress-ai-moratorium-isnt-dead-yet-rep-mccormick-says/406801/"
-    },
-    {
-      "id": 59,
-      "title": "Integrating MuleSoft with Einstein AI and Prompt Templates Using the MAC Project",
-      "summary": "Integrating MuleSoft with Einstein AI and Prompt Templates Using the MAC Project allows developers to easily configure and manage AI agents within Anypoint Studio or Anypoint Code Builder.",
-      "source": "Salesforce.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T18:15:57Z",
-      "url": "https://developer.salesforce.com/blogs/2025/07/integrating-mulesoft-with-einstein-ai-and-prompt-templates-using-the-mac-project"
-    },
-    {
-      "id": 51,
-      "title": "Waymo and Tesla Austin Robotaxi Competition",
-      "summary": "Waymo and Tesla are expanding their robotaxi services in Austin, with Waymo now serving a larger area than Tesla. Both companies are expected to serve the entire City of Austin within 2-6 weeks.",
-      "source": "Next Big Future",
-      "category": "innovation",
-      "timestamp": "2025-07-17T17:56:19Z",
-      "url": "https://www.nextbigfuture.com/2025/07/waymo-and-tesla-austin-robotaxi-competition.html"
-    },
-    {
-      "id": 52,
-      "title": "Truth Social announces a companion AI. Avatar choices include Kimberly Guilfoyle and Conker the Squirrel [Awkward]",
-      "summary": "Truth Social announces a companion AI with avatar choices like Kimberly Guilfoyle and Conker the Squirrel.",
-      "source": "Fark.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T17:55:50Z",
-      "url": "https://www.fark.com/comments/13744512/Truth-Social-announces-a-companion-AI-Avatar-choices-include-Kimberly-Guilfoyle-Conker-Squirrel"
     }
   ]
 }
