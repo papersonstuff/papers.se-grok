@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-18T06:55:30.146Z",
+  "lastUpdate": "2025-07-18T07:19:29.046Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Kimi K2 AI Model by Moonshot Review : The Affordable AI That’s Shaking Up the Industry",
+      "summary": "The Kimi K2 AI model by Moonshot AI is gaining attention in the developer community for offering advanced AI capabilities at an affordable price, disrupting the industry with its high-quality results delivered at a fraction of the cost.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:18:37Z",
+      "url": "https://www.geeky-gadgets.com/?p=463962"
+    },
+    {
+      "id": 52,
+      "title": "Ranking Member Shaheen Floor Remarks on Trump Administration Diplomatic Cuts: \"China is eating our lunch\"",
+      "summary": "Ranking Member Shaheen criticized the Trump Administration for cuts to diplomatic efforts, arguing that China is gaining an advantage. She condemned the chaotic dismantling of the U.S. diplomatic corps and foreign relations.",
+      "source": "Globalsecurity.org",
+      "category": "ethics",
+      "timestamp": "2025-07-17T07:17:03Z",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250716-sfrc01.htm"
+    },
+    {
+      "id": 53,
+      "title": "UK-Germany landmark agreement to help smash smuggling gangs and boost defence exports",
+      "summary": "UK and Germany agree to strengthen partnership to combat smuggling, enhance defense exports, and benefit both nations economically with a visit from Chancellor Merz to London.",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:17:03Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-250716-ukgov01.htm"
+    },
+    {
+      "id": 54,
+      "title": "French national strategy report highlights China's threats to Taiwan",
+      "summary": "France's national strategic report highlights China's military threats to Taiwan, causing unease in the region.",
+      "source": "Globalsecurity.org",
+      "category": "research",
+      "timestamp": "2025-07-17T07:16:29Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250716-cna04.htm"
+    },
+    {
+      "id": 55,
+      "title": "Pentagon to Increase Low-Cost Drone Production in U.S.",
+      "summary": "The Pentagon is increasing low-cost drone production in the U.S. with the help of industry to enhance battlefield superiority.",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:16:28Z",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250716-dodnews03.htm"
+    },
+    {
+      "id": 56,
+      "title": "langchain-scrapeless added to PyPI",
+      "summary": "langchain-scrapeless added to PyPI, an integration package connecting Scrapeless and LangChain.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:16:26Z",
+      "url": "https://pypi.org/project/langchain-scrapeless/"
+    },
+    {
+      "id": 57,
+      "title": "Supra Unveils Real-Time Macro-Economic Data Feeds to Enhance Onchain Trading",
+      "summary": "Supra unveils real-time macro-economic data feeds for onchain trading on its Layer-1 blockchain built for Automatic DeFi.",
+      "source": "The Daily Hodl",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:15:36Z",
+      "url": "https://dailyhodl.com/2025/07/17/supra-unveils-real-time-macro-economic-data-feeds-to-enhance-onchain-trading/"
+    },
+    {
+      "id": 58,
+      "title": "Task-Sharing Of Therapy Gets Boosted Via New Guidebook By Google And McKinsey On AI For Mental Health",
+      "summary": "Not enough therapists for the rising demand of mental health therapy, so task-sharing with non-specialists and AI is being explored as a solution.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:15:00Z",
+      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/17/task-sharing-of-therapy-gets-boosted-via-new-guidebook-by-google-and-mckinsey-on-ai-for-mental-health/"
+    },
+    {
+      "id": 59,
+      "title": "IMAX (IMAX) to Release Earnings on Thursday",
+      "summary": "IMAX to release Q2 2025 earnings data with analysts expecting earnings of $0.19 per share and revenue of $93.04 million for the quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:14:45Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/imax-imax-to-release-earnings-on-thursday/"
+    },
+    {
+      "id": 60,
+      "title": "PayInOne Unveils “pio”: People, Intelligence, All in One",
+      "summary": "PayInOne has unveiled pio, a next-generation intelligent people platform that offers AI-powered payroll, compliance, and global workforce management solutions.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:12:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3116981/0/en/PayInOne-Unveils-pio-People-Intelligence-All-in-One.html"
+    },
+    {
+      "id": 61,
+      "title": "The Big Tech Show: How to spot disinformation in the age of mistrust",
+      "summary": "The podcast discusses the challenge of identifying truth from lies online, particularly with the rise of AI-generated photos and videos. It also explores ways to curb the spread of misinformation in the digital age.",
+      "source": "Independent.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-17T07:11:53Z",
+      "url": "https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-how-to-spot-disinformation-in-the-age-of-mistrust/a1655383789.html"
+    },
+    {
+      "id": 62,
+      "title": "agisdk 0.2.2",
+      "summary": "agisdk 0.2.2 is a set of tools designed for constructing and assessing AI web agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T07:11:40Z",
+      "url": "https://pypi.org/project/agisdk/0.2.2/"
+    },
+    {
+      "id": 63,
+      "title": "Intel to layoff more than 5,500 employees in US",
+      "summary": "Intel to layoff more than 5,500 employees in US - Intel plans to lay off over 5,500 employees across the US, with teams in California and Oregon set to see the most job cuts. This decision comes as Intel lags in the CPU and AI GPU markets, and effects can be seen in the company's market value.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T07:11:09Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-layoff-more-than-5500-employees-in-us/articleshow/122619863.cms"
+    },
+    {
+      "id": 64,
+      "title": "Toddler Falls Asleep, Reaction When She Wakes Up in Disneyland Is Priceless",
+      "summary": "A toddler's priceless reaction to waking up in Disneyland has gone viral, with the video featuring AI-generated voice technology. The toddler's confusion and excitement highlight the potential of AI applications in creating engaging and emotional content.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:10:43Z",
+      "url": "https://biztoc.com/x/bcfcf0f9b6e76d9b"
+    },
+    {
+      "id": 65,
+      "title": "Fire Kills 50 People at Shopping Mall",
+      "summary": "At least 50 people were killed in a fire at a shopping mall in Iraq, with AI-generated voice reporting the news causing possible inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T07:10:14Z",
+      "url": "https://biztoc.com/x/b5f70d90f331ec14"
+    },
     {
       "id": 51,
       "title": "Claude Code Tips & Tricks to Boost Your Workflows and Coding",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T05:44:56Z",
       "url": "https://www.ndtvprofit.com/business/airtel-offers-perplexity-pro-to-36-crore-users-at-no-cost"
-    },
-    {
-      "id": 54,
-      "title": "Elon Musk’s xAI permits challenged by NAACP, environmental groups in Memphis",
-      "summary": "Elon Musk's xAI permits challenged by NAACP and environmental groups in Memphis due to concerns over the use of gas-burning turbines to power its supercomputer facility.",
-      "source": "CNBC",
-      "category": "ethics",
-      "timestamp": "2025-07-17T05:44:31Z",
-      "url": "https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html"
-    },
-    {
-      "id": 55,
-      "title": "TSMC's second-quarter profit soars nearly 61% as AI chip demand stays strong",
-      "summary": "TSMC's second-quarter profit surged nearly 61% due to strong demand for AI chips, surpassing expectations and reaching a new high.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:42:09Z",
-      "url": "https://biztoc.com/x/3e6be566d2ccf7ea"
-    },
-    {
-      "id": 56,
-      "title": "AI-generated music is going viral. Should the music industry be worried?",
-      "summary": "AI-generated music by The Velvet Sundown is gaining popularity, raising concerns in the music industry about its future.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T05:41:36Z",
-      "url": "https://biztoc.com/x/a2266593fe7bbbac"
-    },
-    {
-      "id": 57,
-      "title": "mseep-mcp-feedback-enhanced added to PyPI",
-      "summary": "mseep-mcp-feedback-enhanced added to PyPI - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment de...",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T05:41:30Z",
-      "url": "https://pypi.org/project/mseep-mcp-feedback-enhanced/"
-    },
-    {
-      "id": 58,
-      "title": "India and Spain are like 'twin brothers', carriers of 2 ancient civilisations: MP CM Yadav",
-      "summary": "India and Spain share cultural heritage, with Madhya Pradesh Chief Minister inviting Spanish investment in the state's growing sectors.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:41:22Z",
-      "url": "https://economictimes.indiatimes.com/news/india/india-and-spain-are-like-twin-brothers-carriers-of-2-ancient-civilisations-mp-cm-yadav/articleshow/122616574.cms"
-    },
-    {
-      "id": 59,
-      "title": "～システム管理者に聞いた世代間協働に関する意識調査～　8割のエンジニアが世代間協働を経験　若手の24.4%はシニアに「経験知」を、シニアの28.4%は若手に「最新技術」を学びたいと回答",
-      "summary": "An attitude survey on intergenerational collaboration involving system administrators revealed that 80% of engineers have experience with intergenerational collaboration. 24.4% of young engineers want to learn 'experiential knowledge' from seniors, while 28.4% of seniors want to learn 'latest technology' from young engineers.",
-      "source": "Prtimes.jp",
-      "category": "research",
-      "timestamp": "2025-07-17T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000017.000035559.html"
-    },
-    {
-      "id": 60,
-      "title": "TSMC Q2 profit surges 60%, reaches historic high",
-      "summary": "TSMC's second-quarter profit surged 60.7%, reaching a historic high due to increased demand for semiconductors used in artificial intelligence.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:38:18Z",
-      "url": "https://www.channelnewsasia.com/business/tsmc-q2-profit-surges-60-reaches-historic-high-5242986"
-    },
-    {
-      "id": 61,
-      "title": "Publicis' CEO dismisses Meta threat, raises yearly growth guidance",
-      "summary": "French advertising firm Publicis raises full-year growth guidance and dismisses concerns over Meta's AI-powered ad creation system.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:33:02Z",
-      "url": "https://www.channelnewsasia.com/business/publicis-ceo-dismisses-meta-threat-raises-yearly-growth-guidance-5242966"
-    },
-    {
-      "id": 62,
-      "title": "mseep-zen-mcp-server added to PyPI",
-      "summary": "mseep-zen-mcp-server, an AI-powered MCP server with multiple model providers, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T05:31:33Z",
-      "url": "https://pypi.org/project/mseep-zen-mcp-server/"
-    },
-    {
-      "id": 63,
-      "title": "mseep-zen-mcp-server 0.1.0",
-      "summary": "mseep-zen-mcp-server 0.1.0 is an AI-powered MCP server that supports multiple model providers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T05:31:33Z",
-      "url": "https://pypi.org/project/mseep-zen-mcp-server/0.1.0/"
-    },
-    {
-      "id": 51,
-      "title": "US Metal War: Silver Becomes Strategic as Premiums Explode",
-      "summary": "The Exchange for Physical (EFP) premium for silver, reflecting the cost of converting COMEX futures into deliverable metal, surged from near-zero levels to between 60 and 80 cents, causing a sudden dislocation in the market.",
-      "source": "Freerepublic.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:19:49Z",
-      "url": "https://freerepublic.com/focus/f-news/4329120/posts"
-    },
-    {
-      "id": 52,
-      "title": "US Metal War: Silver Becomes Strategic as Premiums Explode",
-      "summary": "The Exchange for Physical (EFP) premium for silver surged in the US, reflecting a sudden dislocation in the silver market.",
-      "source": "Freerepublic.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:19:49Z",
-      "url": "https://freerepublic.com/focus/f-chat/4329120/posts"
-    },
-    {
-      "id": 53,
-      "title": "rune-code 0.13.0",
-      "summary": "rune-code 0.13.0 is a terminal first AI coding agent written in Python that is opinionated and works with almost any model via Pydantic-AI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T05:18:24Z",
-      "url": "https://pypi.org/project/rune-code/0.13.0/"
-    },
-    {
-      "id": 54,
-      "title": "LINEで1分アプリ生成「アプつく！」無料提供開始",
-      "summary": "Voice Up Lab Inc. has launched a new service called 'Apotsuku!' which can generate a mobile app in just one minute on the LINE messaging platform for free.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-17T05:17:55Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000021.000048542.html"
-    },
-    {
-      "id": 55,
-      "title": "KLA Corporation (KLAC) Is One Of The Most Important Companies In America, Says Jim Cramer",
-      "summary": "KLA Corporation (KLAC) is considered one of the most important companies in America according to Jim Cramer, as part of 11 stocks discussed on why stocks are rising",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T05:15:59Z",
-      "url": "https://finance.yahoo.com/news/kla-corporation-klac-one-most-051559427.html"
     }
   ]
 }
