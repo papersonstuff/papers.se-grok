@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T20:43:33.020Z",
+  "lastUpdate": "2025-07-18T20:54:17.518Z",
   "items": [
+    {
+      "id": 51,
+      "title": "coppersun-brass 2.3.10",
+      "summary": "Coppersun-brass 2.3.10 is a development intelligence tool designed to enhance AI agents in the Copper Sun product line.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:52:57Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.10/"
+    },
+    {
+      "id": 52,
+      "title": "Google's Nest Aware Just Got Pricier. Here's How Much It'll Cost You",
+      "summary": "Google's Nest Aware has increased in price, with the change not attributed to tariffs according to CNET's home editor.",
+      "source": "CNET",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:52:57Z",
+      "url": "https://www.cnet.com/home/security/googles-nest-aware-just-got-pricier-heres-how-much-itll-cost-you/"
+    },
+    {
+      "id": 53,
+      "title": "Samsung Galaxy Watch 8 Review: The Best Wearable AI - PCMag",
+      "summary": "Samsung Galaxy Watch 8 is reviewed as the best wearable AI device, with significant improvements compared to its predecessor. Despite some issues, it is still recommended by reviewers for its features and capabilities.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:52:46Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405044"
+    },
+    {
+      "id": 54,
+      "title": "Gen AI a trusted source for purchase recommendation: survey",
+      "summary": "Gen AI is seen as a trusted source for purchase recommendations according to a survey by Accenture, highlighting the potential of AI in creating differentiated consumer experiences.",
+      "source": "Mediaincanada.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:52:32Z",
+      "url": "https://mediaincanada.com/2025/07/17/gen-ai-for-purchase-recommendation-survey/"
+    },
+    {
+      "id": 55,
+      "title": "Trump targets solar and wind with tighter federal permitting in another blow to renewable industry",
+      "summary": "The Trump administration is tightening federal permitting for solar and wind projects, dealing another blow to the renewable industry. The industry accuses the Interior Department of obstructing projects for political reasons.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:52:30Z",
+      "url": "https://www.cnbc.com/2025/07/17/solar-wind-permit-interior-department-burgum-trump.html"
+    },
+    {
+      "id": 56,
+      "title": "GitLab Announces the Public Beta of GitLab Duo Agent Platform",
+      "summary": "GitLab Inc. has announced the public beta launch of GitLab Duo Agent Platform, a DevSecOps orchestration platform facilitating collaboration between developers and AI agents.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:52:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/17/gitlab-announces-the-public-beta-of-gitlab-duo-agent-platform.aspx"
+    },
+    {
+      "id": 57,
+      "title": "Can Tech Lead Stocks Higher In The Second Half Of 2025?",
+      "summary": "Tech stocks have rebounded in Q2 after struggling in prior quarters, leading to speculation on whether they can help drive US stocks higher by the end of 2025.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:51:44Z",
+      "url": "https://www.forbes.com/sites/bretkenwell/2025/07/17/can-tech-lead-stocks-higher-in-the-second-half-of-2025/"
+    },
+    {
+      "id": 58,
+      "title": "OpenAI unveils ChatGPT Agent: Too tired to plan your date, shop online, or create a slide deck? This new AI tool has you covered",
+      "summary": "OpenAI has launched ChatGPT Agent, a virtual assistant capable of performing real-world tasks using a 'virtual computer', such as planning events, generating research reports, and creating presentations.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:50:40Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chatgpt-agent-news-openai-unveils-chatgpt-agent-too-tired-to-plan-your-date-shop-online-or-create-a-slide-deck-this-new-ai-tool-has-you-covered-openai-news-latest-ai-news/articleshow/122675389.cms"
+    },
+    {
+      "id": 59,
+      "title": "PairSoft and Finexo Renew Partnership on Embedded Payments for Accounts Payable",
+      "summary": "PairSoft and Finexio have renewed their partnership for embedded payments in accounts payable, allowing users to benefit from automated procure-to-pay solutions.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:50:15Z",
+      "url": "https://biztoc.com/x/0136874da0f6aaf0"
+    },
+    {
+      "id": 60,
+      "title": "Virginia Becomes First State to Use Agentic AI for Regulatory Streamlining",
+      "summary": "Virginia becomes the first state to use Agentic AI for regulatory streamlining, launching a pilot program to leverage AI agents for this purpose.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:50:00Z",
+      "url": "https://biztoc.com/x/1fff8a2b7ee02366"
+    },
+    {
+      "id": 61,
+      "title": "chatbot-test-framework 0.1.16",
+      "summary": "chatbot-test-framework 0.1.16 is an open-source framework for testing and tracing conversational AI and chatbot applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:49:25Z",
+      "url": "https://pypi.org/project/chatbot-test-framework/0.1.16/"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI's ChatGPT Agent Launches With Expanded Powers—And Elevated Risk",
+      "summary": "OpenAI's new ChatGPT Agent can do complex tasks on behalf of users, but it comes with potentially greater risks.",
+      "source": "Decrypt",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:47:22Z",
+      "url": "https://decrypt.co/330714/openais-chatgpt-agent-launches-expanded-powers-elevated-risk"
+    },
+    {
+      "id": 63,
+      "title": "'It's a cover up': Musk floods X with posts attacking Trump over Epstein",
+      "summary": "Elon Musk criticizes President Trump over his handling of the Jeffrey Epstein files on social media.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:47:02Z",
+      "url": "https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343"
+    },
+    {
+      "id": 64,
+      "title": "Peter Bart: With YouTube Soaring, PBS Fading And Film Struggling, Critics As We Know Them Might Be An Endangered Species",
+      "summary": "Peter Bart discusses the impact of YouTube's success on traditional media outlets like PBS, which are facing funding challenges and potential extinction.",
+      "source": "Deadline",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:45:00Z",
+      "url": "http://deadline.com/2025/07/culture-critics-endangered-species-1236461466/"
+    },
+    {
+      "id": 65,
+      "title": "sd-kimi-code added to PyPI",
+      "summary": "sd-kimi-code, an open-source terminal agent powered by Kimi AI, has been added to PyPI. It serves as an interactive coding assistant with a beautiful CLI, inspired by Claude-Code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:43:41Z",
+      "url": "https://pypi.org/project/sd-kimi-code/"
+    },
+    {
+      "id": 66,
+      "title": "Global startups, synthetic data and AI agents: Inside DataMasque’s mission to unlock enterprise data",
+      "summary": "Global startup DataMasque aims to unlock enterprise data using synthetic data and AI agents, addressing the challenges faced by regulated industries in utilizing customer data safely amidst AI innovation acceleration.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-17T20:43:04Z",
+      "url": "https://siliconangle.com/2025/07/17/synthetic-data-ai-agents-unlock-customer-data-aicloudleaders/"
+    },
     {
       "id": 51,
       "title": "PLTR: Palantir Soars to All-Time High on AI Momentum",
@@ -306,150 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-17T20:05:37Z",
       "url": "https://www.10news.com/news/local-news/california-steps-in-to-fund-lgbtq-youth-mental-health-hotline-after-federal-cuts"
-    },
-    {
-      "id": 67,
-      "title": "Optimove Insights' 2025 Back-to-School Report: Parents Need Empathy as Tariffs Drive Economic Uncertainty",
-      "summary": "Tariffs and rising prices are challenging brand loyalty, making empathy and timely, context-aware communication vital for marketers",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:04:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117584/0/en/Optimove-Insights-2025-Back-to-School-Report-Parents-Need-Empathy-as-Tariffs-Drive-Economic-Uncertainty.html"
-    },
-    {
-      "id": 68,
-      "title": "Older iPhones won’t get these iOS 26 features",
-      "summary": "Older iPhones won’t get these iOS 26 features - Apple's iOS 26 introduces significant updates for iPhone users. The standout Liquid Glass redesign is available on all iPhones compatible.",
-      "source": "Macdailynews.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:01:48Z",
-      "url": "https://macdailynews.com/2025/07/17/older-iphones-wont-get-these-ios-26-features/"
-    },
-    {
-      "id": 69,
-      "title": "Talen Energy Expands and Enhances Portfolio with Best-in-Class CCGT Acquisitions in PJM",
-      "summary": "Talen Energy expands its portfolio with best-in-class CCGT acquisitions in PJM, enhancing its position as a leading independent power producer.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-17T20:01:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117582/0/en/Talen-Energy-Expands-and-Enhances-Portfolio-with-Best-in-Class-CCGT-Acquisitions-in-PJM.html"
-    },
-    {
-      "id": 51,
-      "title": "This AI Warps Live Video in Real Time",
-      "summary": "A startup called Decart has developed an AI model that can transform live footage, producing mind-bending results and has the potential to disrupt streaming services.",
-      "source": "Wired",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:49:12Z",
-      "url": "https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/"
-    },
-    {
-      "id": 52,
-      "title": "Behind The Godfather Of AI’s Terrifying Comments Lies A Valid Point About The Future Of Work",
-      "summary": "AI may disrupt white-collar work, but manufacturing jobs remain essential. The future of work may be more hands-on than anticipated.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:49:02Z",
-      "url": "https://www.forbes.com/sites/ethankarp/2025/07/17/behind-the-godfather-of-ais-terrifying-comments-lies-a-valid-point-about-the-future-of-work/"
-    },
-    {
-      "id": 53,
-      "title": "This MSI RTX 5070 Hits an All-Time Low, Amazon Is Clearing the Shelves of GPUs",
-      "summary": "MSI RTX 5070 GPU hits an all-time low price as Amazon clears its shelves of GPUs.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:48:25Z",
-      "url": "https://gizmodo.com/this-msi-rtx-5070-hits-an-all-time-low-amazon-is-clearing-the-shelves-of-gpus-2000630945"
-    },
-    {
-      "id": 54,
-      "title": "pygeai 0.3.0",
-      "summary": "pygeai 0.3.0 is a Software Development Kit designed to interact with Globant Enterprise AI, offering new applications for integrating AI technology into various software solutions.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:47:41Z",
-      "url": "https://pypi.org/project/pygeai/0.3.0/"
-    },
-    {
-      "id": 55,
-      "title": "Vance didn't tell Jasmine Crockett to 'go back to the zoo'",
-      "summary": "During a congressional hearing in mid-2025, U.S. Vice President JD Vance did not tell Rep. Jasmine Crockett to 'go back to the zoo', refuting earlier reports. The incident highlights the importance of maintaining civility and respectful discourse in political settings.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:47:00Z",
-      "url": "https://www.snopes.com//fact-check/vance-crockett-zoo-quote/"
-    },
-    {
-      "id": 56,
-      "title": "San Jose Mayor Matt Mahan wants city workers to use AI after it wrote his speeches",
-      "summary": "San Jose Mayor Matt Mahan is advocating for city workers to use AI tools after experiencing its benefits in speechwriting, emphasizing the potential to streamline operations and improve services for residents.",
-      "source": "New York Post",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:46:07Z",
-      "url": "https://nypost.com/2025/07/17/us-news/san-jose-mayor-matt-mahan-wants-city-workers-to-use-ai/"
-    },
-    {
-      "id": 57,
-      "title": "geomltools 0.1.6",
-      "summary": "geomltools 0.1.6 is a Python library designed for spatial machine learning and geospatial analysis.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:45:43Z",
-      "url": "https://pypi.org/project/geomltools/0.1.6/"
-    },
-    {
-      "id": 58,
-      "title": "opentelemetry-instrumentation-together 0.42.0",
-      "summary": "The release of OpenTelemetry Together 0.42.0 includes AI instrumentation for improved monitoring and tracing capabilities in applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:45:42Z",
-      "url": "https://pypi.org/project/opentelemetry-instrumentation-together/0.42.0/"
-    },
-    {
-      "id": 59,
-      "title": "opentelemetry-instrumentation-mistralai 0.42.0",
-      "summary": "OpenTelemetry Mistral AI instrumentation has been released in version 0.42.0, offering AI-related instrumentation capabilities for OpenTelemetry. AI instrumentation enables better monitoring and tracing of AI applications for improved performance and reliability.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:45:32Z",
-      "url": "https://pypi.org/project/opentelemetry-instrumentation-mistralai/0.42.0/"
-    },
-    {
-      "id": 60,
-      "title": "opentelemetry-instrumentation-google-generativeai 0.42.0",
-      "summary": "Version 0.42.0 of OpenTelemetry Google Generative AI instrumentation has been released, providing enhanced tracking and monitoring capabilities for AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:45:23Z",
-      "url": "https://pypi.org/project/opentelemetry-instrumentation-google-generativeai/0.42.0/"
-    },
-    {
-      "id": 61,
-      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
-      "summary": "Trump administration order requires interior secretary to sign off on all wind and solar projects, potentially hampering projects that need to move quickly.",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:44:27Z",
-      "url": "https://www.bostonherald.com/2025/07/17/doug-burgum-wind-solar-projects/"
-    },
-    {
-      "id": 62,
-      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
-      "summary": "Trump administration order requires interior secretary to personally approve all solar and wind energy projects on federal lands and waters, raising concerns about potential delays and increased bureaucracy.",
-      "source": "Financial Post",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:42:58Z",
-      "url": "https://financialpost.com/pmn/trump-administration-order-requires-interior-secretary-to-sign-off-on-all-wind-and-solar-projects"
-    },
-    {
-      "id": 51,
-      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
-      "summary": "Trump administration order requires interior secretary to sign off on all wind and solar projects, potentially slowing down renewable energy development on federal lands.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:40:17Z",
-      "url": "https://www.yahoo.com/news/trump-administration-order-requires-interior-194017213.html"
     }
   ]
 }
