@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-18T20:17:37.361Z",
+  "lastUpdate": "2025-07-18T20:43:33.020Z",
   "items": [
+    {
+      "id": 51,
+      "title": "PLTR: Palantir Soars to All-Time High on AI Momentum",
+      "summary": "Palantir's stock reaches an all-time high due to momentum in artificial intelligence, showing positive investor sentiment before their earnings report.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:42:05Z",
+      "url": "https://finance.yahoo.com/news/pltr-palantir-soars-time-high-204205221.html"
+    },
+    {
+      "id": 52,
+      "title": "HP OmniBook X Flip 2-in-1 Laptop: 16\" 1200p IPS Touch, Ryzen AI 5 340, 16GB RAM $530 + Free Shipping",
+      "summary": "HP OmniBook X Flip 2-in-1 Laptop with 16\" 1200p IPS touch display, Ryzen AI 5 340 processor, and 16GB RAM is available for $530 with free shipping. The laptop features AMD FreeSync technology and a 360-degree multitouch-enabled IPS display.",
+      "source": "Slickdeals.net",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:41:59Z",
+      "url": "https://slickdeals.net/f/18460969-hp-omnibook-x-flip-2-in-1-laptop-16-1200p-ips-touch-ryzen-ai-5-340-16gb-ram-530-free-shipping"
+    },
+    {
+      "id": 53,
+      "title": "Man Arrested for Threatening to Kill Marjorie Taylor Greene: Prosecutors",
+      "summary": "A Maryland man was arrested for making death threats against Republican Rep. Marjorie Taylor Greene and her family. The threats were allegedly AI-generated, raising ethical concerns about the use of technology for criminal activities.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:38:55Z",
+      "url": "https://biztoc.com/x/6d601383277aa20c"
+    },
+    {
+      "id": 54,
+      "title": "What do tickets cost to see Coldplay at Camp Randall Stadium in Wisconsin?",
+      "summary": "Tickets to see Coldplay at Camp Randall Stadium in Wisconsin on July 19 are priced at an undisclosed cost.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:37:03Z",
+      "url": "https://nypost.com/2025/07/17/ticket-sales/coldplay-camp-randall-stadium-madison-wisconsin-ticket-prices/"
+    },
+    {
+      "id": 55,
+      "title": "Will Delta Airlines’ AI Pricing Trigger A Customer Trust Crisis?",
+      "summary": "Delta Airlines is using AI to create personalized prices for flight searches, which may lead to a trust crisis if pricing is not transparent.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:36:24Z",
+      "url": "https://www.forbes.com/sites/rogerdooley/2025/07/17/will-delta-airlines-ai-pricing-trigger-a-customer-trust-crisis/"
+    },
+    {
+      "id": 56,
+      "title": "Immersive Virtual Reality Concerts - IMMERSION VR Concert Film Brings Fans Virtually on Stage (TrendHunter.com)",
+      "summary": "IMMERSION VR concert film brings fans virtually on stage at scale, allowing users to experience virtual reality concerts from the perspective of being on stage.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:36:05Z",
+      "url": "https://www.trendhunter.com/trends/immersion-vr"
+    },
+    {
+      "id": 57,
+      "title": "News 7/18/25",
+      "summary": "A Senate investigation finds that direct-to-consumer telehealth platforms",
+      "source": "Histalk2.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:34:50Z",
+      "url": "https://histalk2.com/2025/07/17/news-7-18-25/"
+    },
+    {
+      "id": 58,
+      "title": "Valve boss Gabe Newell shares his \"daily routine,\" which is shockingly like his Steam God persona: \"I get up, I work, I go scuba diving, work some more\" then \"go on a second scuba dive or I go to the gym\"",
+      "summary": "Valve boss Gabe Newell shares his daily routine which involves working seven days a week and engaging in activities like scuba diving and going to the gym.",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:33:32Z",
+      "url": "https://www.gamesradar.com/games/valve-boss-gabe-newell-shares-his-daily-routine-which-is-shockingly-like-his-steam-god-persona-i-get-up-i-work-i-go-scuba-diving-work-some-more-then-go-on-a-second-scuba-dive-or-i-go-to-the-gym/"
+    },
+    {
+      "id": 59,
+      "title": "AppsFlyer launches AI-powered MCP to streamline marketing data access",
+      "summary": "AppsFlyer introduces an AI-powered Model Context Protocol tool to streamline marketing data access and campaign optimization through natural language queries.",
+      "source": "Ppc.land",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:32:55Z",
+      "url": "https://ppc.land/appsflyer-launches-ai-powered-mcp-to-streamline-marketing-data-access/"
+    },
+    {
+      "id": 60,
+      "title": "S&P 500 Hits New Record as PepsiCo, Tech Stocks Rally",
+      "summary": "S&P 500 Hits New Record as PepsiCo, Tech Stocks Rally on better-than-expected updates on the economy.",
+      "source": "Newser",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:32:47Z",
+      "url": "https://www.newser.com/story/372071/sp-500-hits-new-record-as-pepsico-tech-stocks-rally.html"
+    },
+    {
+      "id": 61,
+      "title": "Oblivion Remastered and Metal Gear Solid Delta co-developer Virtuos faces layoffs — with 270 workers cut",
+      "summary": "Virtuos, a company that's worked on games like The Elder Scrolls 4: Oblivion Remastered and Metal Gear Solid Delta: Snake Eater, faces layoffs with 270 workers cut.",
+      "source": "Windows Central",
+      "category": "economy",
+      "timestamp": "2025-07-17T20:30:00Z",
+      "url": "https://www.windowscentral.com/gaming/oblivion-remastered-mgs-delta-co-developer-virtuos-layoffs"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: 1.5B LLM routing model that aligns to preferences, not leaderboards",
+      "summary": "The team behind Arch has released a 1.5B LLM router model called Arch-Router designed to align to user-defined preferences, not leaderboards.",
+      "source": "Huggingface.co",
+      "category": "research",
+      "timestamp": "2025-07-17T20:29:12Z",
+      "url": "https://huggingface.co/katanemo/Arch-Router-1.5B"
+    },
+    {
+      "id": 63,
+      "title": "Musk leans into raunchy Grok 'companions,' teasing new '50 Shades' inspired bot",
+      "summary": "Elon Musk's xAI is leaning into its over-the-top AI 'companions,' teasing new '50 Shades' inspired bot.",
+      "source": "NBC News",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:29:05Z",
+      "url": "https://www.nbcnews.com/tech/tech-news/musk-leans-raunchy-grok-companions-teases-valentine-bot-rcna219430"
+    },
+    {
+      "id": 64,
+      "title": "Mike Johnson Reacts to Republican Blowback Over Jeffrey Epstein",
+      "summary": "Republican House Speaker Mike Johnson responds to blowback over Jeffrey Epstein, raising questions about ethics in politics.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T20:28:07Z",
+      "url": "https://biztoc.com/x/99bf65862fd716ac"
+    },
+    {
+      "id": 65,
+      "title": "This smart connected chess board plays back and helps you get better, here’s a rare deal at $50 off",
+      "summary": "This smart connected chess board helps players improve and is currently on sale for $50 off. The GoChess Mini Smart Chess Set offers a new level of gameplay for those looking to enhance their chess skills.",
+      "source": "9to5Toys",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:27:52Z",
+      "url": "http://9to5toys.com/2025/07/17/this-smart-connected-chess-board-plays-back-and-helps-you-get-better-heres-a-rare-deal-at-50-off/"
+    },
+    {
+      "id": 66,
+      "title": "Collaboration between AWS and Karini extends gen AI for agentic workflows and edge use cases",
+      "summary": "Collaboration between AWS and Karini extends gen AI for agentic workflows and edge use cases, as enterprises are seeking secure, scalable generative AI platforms to bring to market faster.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-17T20:27:07Z",
+      "url": "https://siliconangle.com/2025/07/17/collaboration-aws-karini-scalable-generative-ai-aicloudleaders/"
+    },
+    {
+      "id": 67,
+      "title": "Required Reading",
+      "summary": "This week's required reading includes various topics such as preserving Toni Morrison's childhood home, graffiti artist Michael Stewart's legacy, Gen Z stare discourse, a mini model of NYC, and the Dallas Cowboys Cheerleaders.",
+      "source": "Hyperallergic",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:26:15Z",
+      "url": "http://hyperallergic.com/1027863/required-reading-742/"
+    },
+    {
+      "id": 68,
+      "title": " Leandro Paredes included: Boca Juniors squad to face Unión",
+      "summary": "Boca Juniors includes Leandro Paredes in their squad to face Unión in the 2025 Torneo Clausura match, signaling the application of AI technology in sports management.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T20:25:00Z",
+      "url": "https://onefootball.com/en/news/leandro-paredes-included-boca-juniors-squad-to-face-union-41389701"
+    },
     {
       "id": 51,
       "title": "North GA accused of using AI to make nude images of kids, facing 120 more charges",
@@ -288,168 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-17T19:40:17Z",
       "url": "https://www.yahoo.com/news/trump-administration-order-requires-interior-194017213.html"
-    },
-    {
-      "id": 52,
-      "title": "Amazon Eliminates Hundreds of Cloud Computing Jobs",
-      "summary": "Amazon has cut hundreds of jobs in its AWS cloud division, affecting its cloud computing sector.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:39:26Z",
-      "url": "http://www.pymnts.com/amazon/2025/amazon-eliminates-hundreds-of-cloud-computing-jobs/"
-    },
-    {
-      "id": 53,
-      "title": "TikTok Germany moderators raise alarm over layoff plans",
-      "summary": "TikTok Germany moderators raise alarm over layoff plans as they fear being replaced with artificial intelligence, potentially risking the safety of platform users.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:38:01Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/tiktok-germany-moderators-raise-alarm-over-layoff-plans/articleshow/122677012.cms"
-    },
-    {
-      "id": 54,
-      "title": "mlrun 1.9.2rc3",
-      "summary": "mlrun 1.9.2rc3 introduces new features for tracking and configuring machine learning runs.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:37:57Z",
-      "url": "https://pypi.org/project/mlrun/1.9.2rc3/"
-    },
-    {
-      "id": 55,
-      "title": "Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies",
-      "summary": "Roblox is using AI to scan video selfies of teens to verify their ages for a new 'Trusted Connections' feature allowing unfiltered chatting with known users.",
-      "source": "Wired",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:37:49Z",
-      "url": "https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/"
-    },
-    {
-      "id": 56,
-      "title": "DV DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages DoubleVerify Holdings, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action – DV",
-      "summary": "Rosen Law Firm is reminding DoubleVerify Holdings, Inc. investors with losses over $100K to seek counsel before an important deadline in a securities class action lawsuit.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:37:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117567/673/en/DV-DEADLINE-ROSEN-A-LEADING-LAW-FIRM-Encourages-DoubleVerify-Holdings-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Ac.html"
-    },
-    {
-      "id": 57,
-      "title": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock",
-      "summary": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock for AI applications, including step-by-step implementation guides using AWS Management Console and APIs.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:36:59Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-on-demand-deployment-with-customized-amazon-nova-models-on-amazon-bedrock/"
-    },
-    {
-      "id": 58,
-      "title": "E-commerce player Rokt buys Canal",
-      "summary": "E-commerce player Rokt acquires Canal to expand its ecommerce product offering and help clients unlock new revenue streams.",
-      "source": "Finextra",
-      "category": "startups",
-      "timestamp": "2025-07-17T19:36:58Z",
-      "url": "https://www.finextra.com/pressarticle/106396/e-commerce-player-rokt-buys-canal"
-    },
-    {
-      "id": 59,
-      "title": "NVIDIA (NVDA) Gets Green Light for China Sales, Analysts See EPS Upside Ahead",
-      "summary": "NVIDIA Corporation receives approval to sell in China, with analysts predicting potential earnings per share growth. Wall Street is showing increased interest in AI stocks like NVIDIA.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:36:56Z",
-      "url": "https://finance.yahoo.com/news/nvidia-nvda-gets-green-light-193656433.html"
-    },
-    {
-      "id": 60,
-      "title": "Amazon's AWS cloud computing unit cuts at least hundreds of jobs",
-      "summary": "Amazon's AWS cloud computing unit has cut at least hundreds of jobs, joining other tech firms in job cuts. The exact number of jobs cut has not been disclosed.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:33:39Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/amazons-aws-cloud-computing-unit-cuts-at-least-hundreds-of-jobs/articleshow/122676606.cms"
-    },
-    {
-      "id": 61,
-      "title": "Carolyn Elefant Talks Owning Your Talent, AI and the Future of Solo Practice on Real Lawyers Podcast",
-      "summary": "Carolyn Elefant discusses owning your talent, AI, and the future of solo practice in a podcast interview, highlighting the importance of generative AI for solo and small-firm lawyers.",
-      "source": "Lexblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:32:56Z",
-      "url": "https://kevin.lexblog.com/2025/07/17/carolyn-elefant-talks-owning-your-talent-ai-and-the-future-of-solo-practice-on-real-lawyers-podcast/"
-    },
-    {
-      "id": 62,
-      "title": "Amazon workers are piecing together cloud division layoffs in internal messages",
-      "summary": "Amazon employees are trying to piece together layoffs in the cloud-computing unit, Amazon Web Services, through internal messages on Slack. The cuts come after CEO Andy Jassy discussed the importance of AI in the company.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:32:54Z",
-      "url": "https://biztoc.com/x/27cd772d1cfa501e"
-    },
-    {
-      "id": 63,
-      "title": "Perplexity AI said to hit $18B valuation after funding",
-      "summary": "Perplexity AI reached an $18 billion valuation after a new round of funding, exceeding $14 billion. The firm has been able to raise a significant amount of funding over the past 18 months.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T19:32:51Z",
-      "url": "https://biztoc.com/x/c87f1266b1a85193"
-    },
-    {
-      "id": 64,
-      "title": "Who is Tren de Aragua Leader 'Niño Guerrero' Donald Trump is Sanctioning?",
-      "summary": "The United States Treasury's Office of Foreign Assets Control (OFAC) imposed sanctions on Thursday against Hector Rusthenford Guerrero Flores, also known as 'Niño Guerrero,' along with five other key leaders.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:32:50Z",
-      "url": "https://biztoc.com/x/312dc7d585b3f594"
-    },
-    {
-      "id": 65,
-      "title": "TechM to invest in sales, marketing in next 2 years across key markets: Mahindra",
-      "summary": "Tech Mahindra plans to invest in sales and marketing in key markets over the next two years, with a focus on their edge in AI technology. During the Annual General Meeting, they highlighted how AI is reshaping businesses and society.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:32:48Z",
-      "url": "https://economictimes.indiatimes.com/tech/information-tech/techm-to-invest-in-sales-marketing-in-next-2-years-across-key-markets-mahindra/articleshow/122676541.cms"
-    },
-    {
-      "id": 66,
-      "title": "Malaysia bets on tech sector to secure its economic future",
-      "summary": "Malaysia is betting on its tech sector to secure its economic future and become a regional leader in the digital economy, facing challenges such as environment, resources, and geopolitics.",
-      "source": "ABC News (AU)",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:31:49Z",
-      "url": "https://www.abc.net.au/news/2025-07-18/how-malaysia-plans-to-become-asean-s-leader-in-tech/105489658"
-    },
-    {
-      "id": 67,
-      "title": "opencode-ai 0.1.0a21",
-      "summary": "Opencode-ai 0.1.0a21 released, the official Python library for the opencode API.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:30:19Z",
-      "url": "https://pypi.org/project/opencode-ai/0.1.0a21/"
-    },
-    {
-      "id": 51,
-      "title": "TSM Reports Record Profits, Lifts Forecast — But Stays Cautious",
-      "summary": "TSM Reports Record Profits, Lifts Forecast but remains cautious amidst gaining attention on Wall Street.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T19:28:27Z",
-      "url": "https://finance.yahoo.com/news/tsm-reports-record-profits-lifts-192827384.html"
-    },
-    {
-      "id": 52,
-      "title": "Astronomer CEO Andy Byron raved about Kristin Cabot months before being caught on Coldplay kiss cam",
-      "summary": "Astronomer CEO praises Kristin Cabot's leadership and expertise in talent management and employee engagement, highlighting her importance as they continue to grow rapidly.",
-      "source": "Page Six",
-      "category": "startups",
-      "timestamp": "2025-07-17T19:27:32Z",
-      "url": "https://pagesix.com/2025/07/17/celebrity-news/astronomer-ceo-andy-byron-raved-about-kristin-cabot-before-being-caught-on-coldplay-kiss-cam/"
     }
   ]
 }
