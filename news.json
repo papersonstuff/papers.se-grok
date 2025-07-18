@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-18T10:17:43.449Z",
+  "lastUpdate": "2025-07-18T10:47:39.565Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI Seeks Piece of ChatGPT-Driven eCommerce Sales",
+      "summary": "OpenAI is seeking a portion of eCommerce sales driven by ChatGPT in an effort to expand their business.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T10:46:44Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/openai-seeks-piece-of-chatgpt-driven-ecommerce-sales/"
+    },
+    {
+      "id": 52,
+      "title": "TSMC announced a blowout quarter due to AI and provided an update on their new 2nm plants with even more advanced plants set for Arizona",
+      "summary": "TSMC reported a blowout quarter attributed to AI, with updates on new 2nm plants in Arizona and plans for even more advanced chips.",
+      "source": "Patently Apple",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:44:18Z",
+      "url": "https://www.patentlyapple.com/2025/07/tsmc-announced-a-blowout-quarter-due-to-ai-and-provided-an-update-on-their-new-2nm-plants-with-even-.html"
+    },
+    {
+      "id": 53,
+      "title": "What is GEO vs SEO and why it matters now",
+      "summary": "As AI tools like ChatGPT, Perplexity, and Claude become the new search engines, a new kind of optimization is emerging: GEO — Generative Engine Optimization.",
+      "source": "Hospitality Net",
+      "category": "innovation",
+      "timestamp": "2025-07-17T10:44:08Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128206.html"
+    },
+    {
+      "id": 54,
+      "title": "The AI Bubble Today Is Bigger Than the IT Bubble in the 1990s",
+      "summary": "The AI bubble today is bigger than the IT bubble in the 1990s, with the top 10 companies leading the charge.",
+      "source": "Apolloacademy.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:42:02Z",
+      "url": "https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/"
+    },
+    {
+      "id": 55,
+      "title": "Trust is Tech Mahindra’s currency, and deep understanding of AI is its edge: Anand Mahindra",
+      "summary": "Trust and deep understanding of AI are highlighted by Tech Mahindra's Chairman Anand Mahindra as crucial for navigating global uncertainties. The company is committed to responsible AI implementation for measurable returns, emphasizing resilience and trust as key factors.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:41:30Z",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/trust-is-tech-mahindras-currency-and-deep-understanding-of-ai-is-its-edge-anand-mahindra/articleshow/122635325.cms"
+    },
+    {
+      "id": 56,
+      "title": "anosys-agentic-ai-package 0.0.5",
+      "summary": "AnoSys-agentic-AI-package 0.0.5 is a helper package designed to support easy implementation to the AnoSys platform. This tool aids in streamlining the process of integrating AI functionalities into existing systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T10:40:56Z",
+      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.5/"
+    },
+    {
+      "id": 57,
+      "title": "Nvidia's Jensen Huang Says China Leads In Open-Source AI",
+      "summary": "Nvidia's Jensen Huang acknowledges China's leading role in open-source AI innovation during a fireside chat with Alibaba Group Cloud founder Wang Jian at the China International Supply Chain Expo.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T10:40:37Z",
+      "url": "https://biztoc.com/x/5d3eb2b8b69f1479"
+    },
+    {
+      "id": 58,
+      "title": "How Republicans Can Prove They're Serious About the National Debt | Opinion",
+      "summary": "Republicans need to prove they are serious about the national debt, which is currently at $37 trillion, before their control of Congress and the White House is compromised.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:40:32Z",
+      "url": "https://biztoc.com/x/b802849456101098"
+    },
+    {
+      "id": 59,
+      "title": "TSMC posts 60% jump in record quarterly profit, but wary about U.S. tariffs",
+      "summary": "TSMC, a major producer of AI chips, reported a 60% increase in quarterly profit but expressed concerns about future income being impacted by U.S. tariffs.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:40:31Z",
+      "url": "https://biztoc.com/x/5c4e988e28ff0cd7"
+    },
+    {
+      "id": 60,
+      "title": "Synopsys acquires simulation specialist Ansys for $35 billion following Chinese regulator approval — Merger to power end-to-end design platform",
+      "summary": "Synopsys acquires simulation specialist Ansys for $35 billion following Chinese regulator approval, creating a powerful end-to-end design platform that raises competitive and geopolitical concerns.",
+      "source": "Tom's Hardware UK",
+      "category": "economy",
+      "timestamp": "2025-07-17T10:40:30Z",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-acquires-simulation-specialist-ansys-for-usd35-billion-following-chinese-regulator-approval-merger-to-power-end-to-end-design-platform"
+    },
     {
       "id": 51,
       "title": "sleepy-driver 1.1.2",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T09:12:00Z",
       "url": "https://onefootball.com/en/news/yamal-now-its-your-turn-the-10-best-number-10s-in-barcas-history-41386850"
-    },
-    {
-      "id": 62,
-      "title": "QpiAI raises USD 32 million (INR 279 crore) in Series-A round led by Avataar Ventures and National Quantum Mission",
-      "summary": "QpiAI raises $32 million in Series A round to advance full-stack Quantum Computing technology globally.",
-      "source": "BusinessLine",
-      "category": "startups",
-      "timestamp": "2025-07-17T09:10:58Z",
-      "url": "https://www.thehindubusinessline.com/brandhub/qpiai-raises-usd-32-million-inr-279-crore-in-series-a-round-led-by-avataar-ventures-and-national-quantum-mission/article69822047.ece"
-    },
-    {
-      "id": 51,
-      "title": "Perplexity's CEO takes a shot at Google's AI dilemma: 'They need to embrace one path and suffer'",
-      "summary": "Perplexity's CEO criticizes Google for its AI direction and dependence on ad revenue, suggesting they need to choose one path to follow. Google's model is seen as conflicting with the growth of AI agent technology.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:49:56Z",
-      "url": "https://biztoc.com/x/a9434e7b8a8883bb"
-    },
-    {
-      "id": 52,
-      "title": "marsdevs-reviewer 1.1.1",
-      "summary": "marsdevs-reviewer 1.1.1 is an AI-powered code review tool that learns from your repository.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T08:49:48Z",
-      "url": "https://pypi.org/project/marsdevs-reviewer/1.1.1/"
-    },
-    {
-      "id": 53,
-      "title": "TSMC chair C.C. Wei hails Nvidia’s renewed AI chip sales to China as ‘very positive news’",
-      "summary": "TSMC chair C.C. Wei is optimistic about Nvidia's AI chip sales to China, which contributed to a 60% rise in net profit for TSMC in the second quarter due to sustained demand for artificial intelligence technology.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:49:48Z",
-      "url": "https://biztoc.com/x/e26c2c8bdc656643"
-    },
-    {
-      "id": 54,
-      "title": "Why the ‘Tim Cook Doctrine’ Is Preventing Apple From Winning at AI",
-      "summary": "The 'Tim Cook Doctrine' at Apple is hindering the company's AI success, turning its biggest strength into a problem.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:49:43Z",
-      "url": "https://biztoc.com/x/5780b3976f9e714f"
-    },
-    {
-      "id": 55,
-      "title": "The web just clamped down on bots. What now for brands and agencies?",
-      "summary": "The web just changed with what we are calling ‘Content Independence Day,’ raising questions about the future for brands and agencies in the wake of new limitations on bots. Another reset has hit the internet, impacting those in charge of brand marketing or working inside agencies.",
-      "source": "The Drum",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:49:00Z",
-      "url": "https://www.thedrum.com/opinion/2025/07/17/the-web-just-clamped-down-bots-what-now-brands-and-agencies"
-    },
-    {
-      "id": 56,
-      "title": "Intel Nova Lake-AX specs emerge alongside murmurs of cancellation",
-      "summary": "Leaked specs of the Intel Nova Lake-AX chip have emerged, but there are rumors of potential cancellation.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:49:00Z",
-      "url": "https://www.notebookcheck.net/Intel-Nova-Lake-AX-specs-emerge-alongside-murmurs-of-cancellation.1060381.0.html"
-    },
-    {
-      "id": 57,
-      "title": "AI, satellites, and Golden Dome shine in new House-passed defense bill",
-      "summary": "The House version of the NDAA focuses on improving acquisition and requirements processes in defense, utilizing AI, satellites, and the Golden Dome. This aims to address long-standing issues faced by Congress and the military.",
-      "source": "Defense One",
-      "category": "innovation",
-      "timestamp": "2025-07-17T08:48:37Z",
-      "url": "https://www.defenseone.com/policy/2025/07/ai-satellites-and-golden-dome-shine-new-house-passed-defense-bill/406787/"
-    },
-    {
-      "id": 58,
-      "title": "Synopsys CEO Sassine Ghazi took us inside his $35 billion acquisition of Ansys, which closes today",
-      "summary": "Synopsys CEO Sassine Ghazi discusses the $35 billion acquisition of Ansys, which is closing today. Fortune provides all the latest news and watercooler chat surrounding the acquisition.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:47:59Z",
-      "url": "https://fortune.com/2025/07/17/synopsys-ceo-sassine-ghazi-35-billion-acquisition-ansys/"
-    },
-    {
-      "id": 59,
-      "title": "Intel (NASDAQ:INTC) Price Target Raised to $25.00",
-      "summary": "Intel's target price was raised to $25.00 by UBS Group, indicating positive outlook in the chip maker's stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-17T08:47:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/17/intel-nasdaqintc-price-target-raised-to-25-00/"
     }
   ]
 }
