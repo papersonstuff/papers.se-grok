@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-18T21:33:38.265Z",
+  "lastUpdate": "2025-07-18T21:50:09.700Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Voice AI is having a moment: Here are the startups that could get acquired next",
+      "summary": "Voice AI startups are becoming acquisition targets as Meta recently acquired PlayAI and investments in the sector have surged to $371M in equity funding this year.",
+      "source": "Cbinsights.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T21:49:13Z",
+      "url": "https://www.cbinsights.com/research/voice-ai-consolidation-acquisitions/"
+    },
+    {
+      "id": 52,
+      "title": "Stealing the Spotlight: A Heist Playbook for Winning ChatGPT Mentions",
+      "summary": "Stealing the Spotlight: A Heist Playbook for Winning ChatGPT Mentions outlines strategies for brands to boost their presence using ChatGPT, a powerful AI tool known for influencing millions with its answers.",
+      "source": "Contently.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:49:10Z",
+      "url": "https://contently.com/2025/07/17/stealing-the-spotlight-a-heist-playbook-for-winning-chatgpt-mentions/"
+    },
+    {
+      "id": 53,
+      "title": "Karoline Leavitt Insults Reporter, Then Shamelessly Dodges Question About Trump’s Incomprehensible Unabomber Theory",
+      "summary": "White House Press Secretary Karoline Leavitt insults reporter and dodges question about President Trump's incomprehensible Unabomber theory, demonstrating unethical behavior.",
+      "source": "Mediaite",
+      "category": "ethics",
+      "timestamp": "2025-07-17T21:48:33Z",
+      "url": "https://www.mediaite.com/opinion/karoline-leavitt-insults-reporter-then-shamelessly-dodges-question-about-trumps-incomprehensible-unabomber-theory/"
+    },
+    {
+      "id": 54,
+      "title": "Automated CBAM Compliance Tools - Wolters Kluwer Launched the 'CBAM Module' for Easy ESG Compliance (TrendHunter.com)",
+      "summary": "Wolters Kluwer launched the 'CBAM Module' to streamline compliance with the European Union’s Carbon Border Adjustment Mechanism, making ESG compliance easier for businesses",
+      "source": "Cleanthesky.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:48:06Z",
+      "url": "https://www.cleanthesky.com/innovation/cbam-module"
+    },
+    {
+      "id": 55,
+      "title": "I Don't Think I Can Pull Off Wearing Meta's Oakley Glasses",
+      "summary": "The sports-targeted Oakley HSTN glasses by Meta are designed for better battery life, raising the question of whether the user is sporty enough to pull them off.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:48:00Z",
+      "url": "https://www.cnet.com/tech/computing/i-dont-think-i-can-pull-off-wearing-metas-oakley-glasses/"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI just launched its new ChatGPT Agent that can make as many as 1 complicated cupcake order per hour, but even Sam Altman says you probably shouldn't trust it for 'high-stakes uses'",
+      "summary": "OpenAI launches new ChatGPT Agent capable of making complex cupcake orders, but cautioned against using it for high-stakes purposes.",
+      "source": "PC Gamer",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:47:38Z",
+      "url": "https://www.pcgamer.com/software/ai/openai-just-launched-its-new-chatgpt-agent-that-can-make-as-many-as-1-complicated-cupcake-order-per-hour-but-even-sam-altman-says-you-probably-shouldnt-trust-it-for-high-stakes-uses/"
+    },
+    {
+      "id": 57,
+      "title": "Sega eyes return to 1990s gaming glory",
+      "summary": "Sega eyes return to 1990s gaming glory with the success of 'Sonic the Hedgehog' movie, poised for a comeback after two tough decades.",
+      "source": "Japan Today",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:46:14Z",
+      "url": "https://japantoday.com/category/tech/japan%27s-sega-eyes-return-to-1990s-gaming-glory"
+    },
+    {
+      "id": 58,
+      "title": "Elon Musk's xAI Is Hiring Engineers for Its Anime 'AI Companions' — With Salaries Up to $440,000 a Year",
+      "summary": "Elon Musk's xAI is hiring engineers to work on their anime 'AI companions', offering salaries up to $440,000 a year. xAI recently launched a set of AI companions and has a third one in development.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T21:45:47Z",
+      "url": "https://biztoc.com/x/6c044e556084c5e2"
+    },
+    {
+      "id": 59,
+      "title": "Empower Your Workflow with Copilot Vision on Windows with Desktop Share",
+      "summary": "Empower Your Workflow with Copilot Vision on Windows with Desktop Share - Discover how Copilot Vision on Windows with desktop share transforms collaboration by letting AI see your screen in real time.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:45:42Z",
+      "url": "https://www.smashingapps.com/copilot-vision-on-windows-with-desktop-share/"
+    },
+    {
+      "id": 60,
+      "title": "Daunted by geopolitics and trade war, U.S. companies in China report record-low new investment plans",
+      "summary": "Daunted by geopolitics and trade war, U.S. companies in China report record-low new investment plans due to uncertainty in U.S.-China relations and President Donald Trump’s tariffs.",
+      "source": "Japan Today",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:45:37Z",
+      "url": "https://japantoday.com/category/business/daunted-by-geopolitics-and-trade-war-us-companies-in-china-report-record-low-new-investment-plans"
+    },
+    {
+      "id": 61,
+      "title": "America needs more electricity. Trump has the worst idea for how to fix that",
+      "summary": "America needs more electricity to support large computing facilities for AI, leading to higher prices for consumers unless the U.S. generates more energy.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:45:32Z",
+      "url": "https://biztoc.com/x/c5f8efe1b5d6c1e1"
+    },
+    {
+      "id": 62,
+      "title": "10-Year-Old Shih Tzu Crowned World's 'Ugliest' Dog in Need of Forever Home",
+      "summary": "In an unofficial competition, an animal rescue organization marketed one of their available dogs as the world's 'ugliest' in hopes of gathering attention for his adoption.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:45:26Z",
+      "url": "https://biztoc.com/x/d4693768275b2b3f"
+    },
+    {
+      "id": 63,
+      "title": "You can now get daily recaps of your Teams chats, thanks to this AI tool’s newest feature",
+      "summary": "A new AI tool now allows users to receive daily recaps of their Teams chats, ensuring they don't miss important updates even if they were offline. This feature enhances communication and productivity for Teams users.",
+      "source": "XDA Developers",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:43:35Z",
+      "url": "https://www.xda-developers.com/read-ai-summaries-feature/"
+    },
+    {
+      "id": 64,
+      "title": "Show HN: Empromptu.ai – Agentic AI Building AI Apps",
+      "summary": "Empromptu.ai is an AI app builder that creates AI apps with pre-built RAG, models, and evaluations. The startup was founded after facing limitations with other AI builders.",
+      "source": "Hacker News",
+      "category": "startups",
+      "timestamp": "2025-07-17T21:40:14Z",
+      "url": "https://news.ycombinator.com/item?id=44598550"
+    },
+    {
+      "id": 65,
+      "title": "Amazon's big bet on AI agents comes into focus at AWS Summit",
+      "summary": "Amazon's cloud computing division unveiled new AI agent development and deployment tools at AWS Summit, as well as a marketplace for ready-made agent products.",
+      "source": "TechSpot",
+      "category": "applications",
+      "timestamp": "2025-07-17T21:37:00Z",
+      "url": "https://www.techspot.com/news/108714-amazon-big-bet-ai-agents-comes-focus-aws.html"
+    },
+    {
+      "id": 66,
+      "title": "Billionaire Mike Ashley’s Frasers Hit By Higher Labor Costs And Drop In Luxury Sales",
+      "summary": "Retail giant Frasers Group faces higher labor costs and a drop in luxury sales, blaming the government's tax increases and challenging retail market.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-17T21:35:05Z",
+      "url": "https://www.forbes.com/sites/robertolsen-1/2025/07/17/billionaire-mike-ashleys-frasers-hit-by-higher-labor-costs-and-drop-in-luxury-sales/"
+    },
+    {
+      "id": 67,
+      "title": "Disinformation warriors are 'grooming' chatbots (John Thornhill/Financial Times)",
+      "summary": "Disinformation warriors are 'grooming' chatbots in an attempt to inject propaganda into generative AI models. Russian hackers are exploring ways to manipulate the training data of chatbots for misinformation purposes.",
+      "source": "Memeorandum.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T21:35:01Z",
+      "url": "https://www.memeorandum.com/250717/p120"
+    },
+    {
+      "id": 68,
+      "title": "ChatGPT’s new AI agent can browse the web and create PowerPoint slideshows",
+      "summary": "ChatGPT's new AI agent can now browse the web and create PowerPoint slideshows, bringing agentic abilities to the platform.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:34:58Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405328"
+    },
+    {
+      "id": 69,
+      "title": "SmartCentres Releases 2024 ESG Report",
+      "summary": "SmartCentres has released its 2024 ESG Report, highlighting its environmental, social, and governance initiatives.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:34:49Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/smartcentres-releases-2024-esg-report"
+    },
+    {
+      "id": 70,
+      "title": "AWS previews AgentCore to jumpstart enterprise AI agents",
+      "summary": "AWS previews AgentCore to jumpstart enterprise AI agents on Amazon Bedrock, aiming to pave the path from prototype to production.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T21:34:22Z",
+      "url": "https://biztoc.com/x/88d316d5897f9df4"
+    },
     {
       "id": 51,
       "title": "coppersun-brass 2.3.12",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T21:09:12Z",
       "url": "https://aws.amazon.com/blogs/big-data/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora/"
-    },
-    {
-      "id": 65,
-      "title": "How were Andy Byron and Kristin Cabot identified in Coldplay Concert Kiss Cam viral clip? Details here",
-      "summary": "Andy Byron and Kristin Cabot were identified after a viral Coldplay concert video showed them on the kiss cam. Social media users speculated about their identities and alleged affair, with online sleuths connecting the duo to the AI firm Astronomer, sparking debate.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-17T21:09:04Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-kristin-cabot-coldplay-concert-kiss-cam-viral-video-tiktok-astronomer-ceo-hr-officer-identified-clip-internet-sleuths-privacy/articleshow/122684354.cms"
-    },
-    {
-      "id": 66,
-      "title": "The Week contest: Shoe holiday",
-      "summary": "The latest Puzzles And Quizzes Contest by The Week challenges participants to create a shoe holiday, showcasing AI innovation in creative thinking and problem solving.",
-      "source": "The Week Magazine",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:08:19Z",
-      "url": "https://theweek.com/puzzles/the-week-contest-shoe-holiday"
-    },
-    {
-      "id": 67,
-      "title": "Trump Admin Moves To Mitigate Risks Of Potential Blackouts, Soaring Energy Rates",
-      "summary": "The White House released a report detailing the risks of America's soaring electricity demand and the economic benefits of Trump's energy policies.",
-      "source": "The Daily Caller",
-      "category": "economy",
-      "timestamp": "2025-07-17T21:08:07Z",
-      "url": "https://dailycaller.com/2025/07/17/trump-admin-moves-to-mitigate-risks-of-potential-blackouts-soaring-energy-rates/"
-    },
-    {
-      "id": 68,
-      "title": "Scale your AWS Glue for Apache Spark jobs with R type, G.12X, and G.16X workers",
-      "summary": "Scale your AWS Glue for Apache Spark jobs with R type, G.12X, and G.16X workers to improve efficiency and performance.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:07:52Z",
-      "url": "https://aws.amazon.com/blogs/big-data/scale-your-aws-glue-for-apache-spark-jobs-with-r-type-g-12x-and-g-16x-workers/"
-    },
-    {
-      "id": 69,
-      "title": "coppersun-brass 2.3.11",
-      "summary": "Coppersun-brass 2.3.11 is a new development intelligence tool for AI agents in the Copper Sun product line, aiming to enhance AI capabilities. It provides a more efficient way for AI agents to learn and make decisions.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:07:35Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.11/"
-    },
-    {
-      "id": 70,
-      "title": "Relive The Tech People Want Summit: 2025 Documentation",
-      "summary": "People want technology for people. The Tech People Want Summit, hosted by the Open Knowledge Foundation, brought together 34 speakers from 19 countries to rethink how technology supports our work in conversational sessions.",
-      "source": "Okfn.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T21:07:26Z",
-      "url": "https://blog.okfn.org/2025/07/17/relive-the-tech-people-want-summit-2025-documentation/"
-    },
-    {
-      "id": 51,
-      "title": "coppersun-brass 2.3.10",
-      "summary": "Coppersun-brass 2.3.10 is a development intelligence tool designed to enhance AI agents in the Copper Sun product line.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:52:57Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.10/"
-    },
-    {
-      "id": 52,
-      "title": "Google's Nest Aware Just Got Pricier. Here's How Much It'll Cost You",
-      "summary": "Google's Nest Aware has increased in price, with the change not attributed to tariffs according to CNET's home editor.",
-      "source": "CNET",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:52:57Z",
-      "url": "https://www.cnet.com/home/security/googles-nest-aware-just-got-pricier-heres-how-much-itll-cost-you/"
-    },
-    {
-      "id": 53,
-      "title": "Samsung Galaxy Watch 8 Review: The Best Wearable AI - PCMag",
-      "summary": "Samsung Galaxy Watch 8 is reviewed as the best wearable AI device, with significant improvements compared to its predecessor. Despite some issues, it is still recommended by reviewers for its features and capabilities.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:52:46Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178405044"
-    },
-    {
-      "id": 54,
-      "title": "Gen AI a trusted source for purchase recommendation: survey",
-      "summary": "Gen AI is seen as a trusted source for purchase recommendations according to a survey by Accenture, highlighting the potential of AI in creating differentiated consumer experiences.",
-      "source": "Mediaincanada.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:52:32Z",
-      "url": "https://mediaincanada.com/2025/07/17/gen-ai-for-purchase-recommendation-survey/"
-    },
-    {
-      "id": 55,
-      "title": "Trump targets solar and wind with tighter federal permitting in another blow to renewable industry",
-      "summary": "The Trump administration is tightening federal permitting for solar and wind projects, dealing another blow to the renewable industry. The industry accuses the Interior Department of obstructing projects for political reasons.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:52:30Z",
-      "url": "https://www.cnbc.com/2025/07/17/solar-wind-permit-interior-department-burgum-trump.html"
-    },
-    {
-      "id": 56,
-      "title": "GitLab Announces the Public Beta of GitLab Duo Agent Platform",
-      "summary": "GitLab Inc. has announced the public beta launch of GitLab Duo Agent Platform, a DevSecOps orchestration platform facilitating collaboration between developers and AI agents.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T20:52:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/17/gitlab-announces-the-public-beta-of-gitlab-duo-agent-platform.aspx"
-    },
-    {
-      "id": 57,
-      "title": "Can Tech Lead Stocks Higher In The Second Half Of 2025?",
-      "summary": "Tech stocks have rebounded in Q2 after struggling in prior quarters, leading to speculation on whether they can help drive US stocks higher by the end of 2025.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:51:44Z",
-      "url": "https://www.forbes.com/sites/bretkenwell/2025/07/17/can-tech-lead-stocks-higher-in-the-second-half-of-2025/"
-    },
-    {
-      "id": 58,
-      "title": "OpenAI unveils ChatGPT Agent: Too tired to plan your date, shop online, or create a slide deck? This new AI tool has you covered",
-      "summary": "OpenAI has launched ChatGPT Agent, a virtual assistant capable of performing real-world tasks using a 'virtual computer', such as planning events, generating research reports, and creating presentations.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:50:40Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/chatgpt-agent-news-openai-unveils-chatgpt-agent-too-tired-to-plan-your-date-shop-online-or-create-a-slide-deck-this-new-ai-tool-has-you-covered-openai-news-latest-ai-news/articleshow/122675389.cms"
-    },
-    {
-      "id": 59,
-      "title": "PairSoft and Finexo Renew Partnership on Embedded Payments for Accounts Payable",
-      "summary": "PairSoft and Finexio have renewed their partnership for embedded payments in accounts payable, allowing users to benefit from automated procure-to-pay solutions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:50:15Z",
-      "url": "https://biztoc.com/x/0136874da0f6aaf0"
-    },
-    {
-      "id": 60,
-      "title": "Virginia Becomes First State to Use Agentic AI for Regulatory Streamlining",
-      "summary": "Virginia becomes the first state to use Agentic AI for regulatory streamlining, launching a pilot program to leverage AI agents for this purpose.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:50:00Z",
-      "url": "https://biztoc.com/x/1fff8a2b7ee02366"
-    },
-    {
-      "id": 61,
-      "title": "chatbot-test-framework 0.1.16",
-      "summary": "chatbot-test-framework 0.1.16 is an open-source framework for testing and tracing conversational AI and chatbot applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:49:25Z",
-      "url": "https://pypi.org/project/chatbot-test-framework/0.1.16/"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI's ChatGPT Agent Launches With Expanded Powers—And Elevated Risk",
-      "summary": "OpenAI's new ChatGPT Agent can do complex tasks on behalf of users, but it comes with potentially greater risks.",
-      "source": "Decrypt",
-      "category": "applications",
-      "timestamp": "2025-07-17T20:47:22Z",
-      "url": "https://decrypt.co/330714/openais-chatgpt-agent-launches-expanded-powers-elevated-risk"
-    },
-    {
-      "id": 63,
-      "title": "'It's a cover up': Musk floods X with posts attacking Trump over Epstein",
-      "summary": "Elon Musk criticizes President Trump over his handling of the Jeffrey Epstein files on social media.",
-      "source": "ABC News",
-      "category": "ethics",
-      "timestamp": "2025-07-17T20:47:02Z",
-      "url": "https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343"
-    },
-    {
-      "id": 64,
-      "title": "Peter Bart: With YouTube Soaring, PBS Fading And Film Struggling, Critics As We Know Them Might Be An Endangered Species",
-      "summary": "Peter Bart discusses the impact of YouTube's success on traditional media outlets like PBS, which are facing funding challenges and potential extinction.",
-      "source": "Deadline",
-      "category": "economy",
-      "timestamp": "2025-07-17T20:45:00Z",
-      "url": "http://deadline.com/2025/07/culture-critics-endangered-species-1236461466/"
     }
   ]
 }
