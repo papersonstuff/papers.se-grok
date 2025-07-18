@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-17T23:51:06.105Z",
+  "lastUpdate": "2025-07-18T01:17:48.108Z",
   "items": [
+    {
+      "id": 51,
+      "title": "CNBC Daily Open: U.S. producer prices are flat — but they don't factor in imports",
+      "summary": "U.S. producer prices remain flat without factoring in imports, but the impact of tariffs may not be fully understood until after Aug. 1 when updated tariffs go into effect.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-17T01:15:05Z",
+      "url": "https://www.cnbc.com/2025/07/17/cnbc-daily-open-us-producer-prices-are-flat-but-they-dont-factor-in-imports.html"
+    },
+    {
+      "id": 52,
+      "title": " Neymar shines as Santos beat leaders Flamengo, ease drop fears",
+      "summary": "Neymar shines as Santos beat leaders Flamengo 1-0 in the 2025 Brasileirão, easing drop fears for Santos. The match was highly contested with few clear scoring chances.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T01:14:00Z",
+      "url": "https://onefootball.com/en/news/neymar-shines-as-santos-beat-leaders-flamengo-ease-drop-fears-41385444"
+    },
+    {
+      "id": 53,
+      "title": "New York's tech elite give Mamdani points for 'charisma' — and engaging with them at closed-door meet",
+      "summary": "New York's tech elite are impressed by Zohran Mamdani's 'charisma' and engaging pitch at a closed-door meet, despite not having a presentation deck.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-17T01:11:44Z",
+      "url": "https://www.businessinsider.com/nyc-mayoral-candidate-zohran-mamdani-meeting-with-tech-execs-vc-2025-7"
+    },
+    {
+      "id": 54,
+      "title": "ガバナンスクラウド株式会社、役員会DXクラウド「Governance Cloud」にAzure OpenAI Serviceを利用し役員会専用AI「Governance Cloud AI」を提供開始",
+      "summary": "Governance Cloud Corporation utilizes Azure OpenAI Service to offer Governance Cloud AI for board meetings via Director's Meeting DX Cloud.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-17T01:10:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000091080.html"
+    },
+    {
+      "id": 55,
+      "title": "David Corenswet Loves 'Star Wars' and 'The Rehearsal?' Dear God…",
+      "summary": "David Corenswet discusses his love for 'Star Wars' and 'The Rehearsal Season 2' during the Superman press tour.",
+      "source": "Pajiba.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T01:08:07Z",
+      "url": "https://www.pajiba.com/pajiba_love/david-corenswet-loves-star-wars-and-the-rehearsal-dear-god.php"
+    },
+    {
+      "id": 56,
+      "title": "⏳ Atlético Nacional close to sealing a new signing",
+      "summary": "Atlético Nacional is close to signing César Haydar, a former Junior defender from Japan, as a reinforcement for the upcoming semester.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T01:08:00Z",
+      "url": "https://onefootball.com/en/news/atletico-nacional-close-to-sealing-a-new-signing-41385471"
+    },
+    {
+      "id": 57,
+      "title": "Trump says Coca-Cola will use real sugar in its US flagship drink. The company isn’t confirming that",
+      "summary": "Trump says Coca-Cola will use real sugar in its US flagship drink, but the company isn’t confirming the move",
+      "source": "WTAE Pittsburgh",
+      "category": "economy",
+      "timestamp": "2025-07-17T01:06:39Z",
+      "url": "https://www.wtae.com/article/trump-coca-cola-real-sugar-drink-company-isnt-confirming/65430821"
+    },
+    {
+      "id": 58,
+      "title": "Singtel-led group to build 8,900km Asian subsea cable with NEC",
+      "summary": "Singtel-led group, with NEC, to build high-capacity subsea cable connecting Singapore and Japan to meet demand for data infrastructure driven by AI and cloud computing.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T01:04:58Z",
+      "url": "https://biztoc.com/x/f4525e6f51bce68f"
+    },
+    {
+      "id": 59,
+      "title": "Anthropic Draws Investor Interest At More Than $100 Billion Valuation",
+      "summary": "OpenAI rival Anthropic is drawing investor interest and may be valued at over $100 billion in its next investment round. The artificial intelligence startup is in the early stages of planning the round.",
+      "source": "Ndtvprofit.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T01:01:38Z",
+      "url": "https://www.ndtvprofit.com/business/anthropic-draws-investor-interest-at-more-than-100-billion-valuation"
+    },
+    {
+      "id": 60,
+      "title": "The Man Who Called Every Crypto Cycle Since 2017 Just Revealed His Blueprint for the $250K Bitcoin Run—And Why This Time Is Different",
+      "summary": "The Man Who Called Every Crypto Cycle Since 2017 reveals his blueprint for the $250K Bitcoin run and explains why this time is different, despite having already built and sold a media empire for over $150 million. Ran Neer has been heavily involved in crypto since 2016.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T01:00:34Z",
+      "url": "https://finance.yahoo.com/news/man-called-every-crypto-cycle-010034873.html"
+    },
+    {
+      "id": 61,
+      "title": "Akuma.AI Transforming Scribbles Into Top Anime Art",
+      "summary": "Akuma.AI is an AI tool that can transform crude scribbles into professional-grade anime-style illustrations, demonstrating its powerful capabilities in a new promotional video.",
+      "source": "Sankakucomplex.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T01:00:29Z",
+      "url": "https://news.sankakucomplex.com/2025/07/17/akuma-ai-transforming-scribbles-into-top-anime-art/"
+    },
+    {
+      "id": 62,
+      "title": "Trump Announces Massive Investments to Steer America Closer to Energy, Tech Dominance",
+      "summary": "President Trump announced $92 billion in energy and technology investment to bring America closer to dominance in those fields.",
+      "source": "Wattsupwiththat.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T01:00:00Z",
+      "url": "https://wattsupwiththat.com/2025/07/16/trump-announces-massive-investments-to-steer-america-closer-to-energy-tech-dominance/"
+    },
+    {
+      "id": 63,
+      "title": "Jane Street: SEBI’s moment of reckoning",
+      "summary": "SEBI's moment of reckoning with Jane Street case must lead to systemic reforms to protect India's markets from becoming algorithmic battlegrounds.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-17T01:00:00Z",
+      "url": "https://www.thehindubusinessline.com/opinion/jane-street-sebis-moment-of-reckoning/article69820179.ece"
+    },
     {
       "id": 51,
       "title": "Scale AI Lays Off 200 Employees: 'We Ramped Up Our GenAI Capacity Too Quickly'",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-16T23:01:04Z",
       "url": "https://www.abc.net.au/news/2025-07-17/bank-scammers-target-kimberley-businesses/105529024"
-    },
-    {
-      "id": 61,
-      "title": "New eye scan could detect risk of heart attack and stroke",
-      "summary": "New eye scan technology can detect risk of heart attack and stroke by looking for warning signs like blood vessel narrowing or blockages.",
-      "source": "The-independent.com",
-      "category": "research",
-      "timestamp": "2025-07-16T23:01:00Z",
-      "url": "https://www.the-independent.com/life-style/health-and-families/eye-test-heart-attack-stroke-b2790128.html"
-    },
-    {
-      "id": 62,
-      "title": "A Decade Later, Manchester Fashion Week Returns With Green Ambitions",
-      "summary": "Manchester Fashion Week returns with green ambitions, providing a platform for dialogues between fashion pioneers and sustainability advocates while engaging with the city's fast fashion industry.",
-      "source": "WWD",
-      "category": "innovation",
-      "timestamp": "2025-07-16T23:01:00Z",
-      "url": "http://wwd.com/business-news/government-trade/manchester-fashion-week-return-1237982806/"
-    },
-    {
-      "id": 63,
-      "title": "This car is just 19 inches wide, and it actually drives",
-      "summary": "This car, known as the 'Flat Fiat,' is only 19 inches wide and is built entirely by hand from scrap materials. Despite its small size, it is able to drive, showcasing innovative design and engineering.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-16T23:00:41Z",
-      "url": "https://biztoc.com/x/9f2a5bb59ed84235"
-    },
-    {
-      "id": 64,
-      "title": "Eric Topol explores the science of super-agers and healthy aging [PODCAST]",
-      "summary": "Cardiologist and author Eric Topol discusses the science of super-agers and healthy aging in his new book, Super Agers, exploring what super agers can teach us about longevity and health span.",
-      "source": "Kevinmd.com",
-      "category": "research",
-      "timestamp": "2025-07-16T23:00:38Z",
-      "url": "https://kevinmd.com/2025/07/eric-topol-explores-the-science-of-super-agers-and-healthy-aging-podcast.html"
-    },
-    {
-      "id": 65,
-      "title": "How to Use AI to Battle Bugs in Your Garden",
-      "summary": "These tools help you learn to recognize and work to reduce unwanted pests in your flower beds using AI.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-16T23:00:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-battle-bugs-in-your-garden/"
-    },
-    {
-      "id": 66,
-      "title": "Unraveling Disorder-to-Order Transitions and Chemical Ordering in PtCoM Ternary Alloys Using Machine Learning Potential",
-      "summary": "Researchers used machine learning potential to investigate disorder-to-order transitions and chemical ordering in PtCoM ternary alloys, providing insight into their properties. The study, published in Chem. Sci., demonstrates a novel approach to understanding alloy structures and behavior.",
-      "source": "Royal Society of Chemistry",
-      "category": "research",
-      "timestamp": "2025-07-16T23:00:00Z",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04043d"
-    },
-    {
-      "id": 67,
-      "title": "Adata surges on memory boom, eyes AI and Biotech for next growth wave",
-      "summary": "Taiwanese memory module maker Adata Technology reported a surge in after-tax profit in June 2025, signaling a comeback from a loss the previous year. The company is now looking towards AI and Biotech for its next growth wave.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-16T22:58:27Z",
-      "url": "https://www.digitimes.com/news/a20250716PD244/adata-memory-module-profit-growth-loss.html"
-    },
-    {
-      "id": 68,
-      "title": "“Dear ChatGPT, please say my name.”",
-      "summary": "Companies are focusing on getting ChatGPT to mention their name in their marketing plans as it sits on approximately 5 billion monthly visits, indicating the growing importance of AI in marketing strategies.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:58:12Z",
-      "url": "https://contently.com/2025/07/16/dear-chatgpt-please-say-my-name/"
-    },
-    {
-      "id": 69,
-      "title": "Show HN: Phoaiart – Chat-Based AI Photo Editor Built with Flux Kontext",
-      "summary": "PHOAIART is an AI-powered photo editor that allows users to edit images through natural language commands, eliminating the need for buttons or sliders.",
-      "source": "Apple Newsroom",
-      "category": "applications",
-      "timestamp": "2025-07-16T22:54:54Z",
-      "url": "https://apps.apple.com/us/app/phoaiart-ai-photo-editor/id6747897909"
-    },
-    {
-      "id": 51,
-      "title": "Axon’s Draft One Is Designed To Defy Transparency",
-      "summary": "Axon's Draft One AI product designed to avoid transparency in generating police reports from body-worn camera audio",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:53:12Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178396658"
-    },
-    {
-      "id": 52,
-      "title": "Intel cuts more than 5,000 jobs across four states as restructuring accelerates",
-      "summary": "Intel Corp. is laying off more than 5,000 employees across four states in the latest round of job cuts from the chip maker, as part of their restructuring efforts.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-16T22:53:09Z",
-      "url": "https://siliconangle.com/2025/07/16/intel-cuts-5000-jobs-across-four-states-restructuring-accelerates/"
-    },
-    {
-      "id": 53,
-      "title": "Grok may be breaking App Store rules with sexualized AI chatbots, and that’s not the only problem",
-      "summary": "Grok may be breaking App Store rules with sexualized AI chatbots, raising concerns about ethical use of AI technology.",
-      "source": "9to5Mac",
-      "category": "ethics",
-      "timestamp": "2025-07-16T22:52:43Z",
-      "url": "https://9to5mac.com/2025/07/16/grok-may-be-breaking-app-store-rules-with-sexualized-ai-chatbots-and-thats-not-the-only-problem/"
-    },
-    {
-      "id": 54,
-      "title": "Big Tech Researchers Issue Strict Warning About How AI Thinks",
-      "summary": "Big tech researchers issue strict warning about the importance of being able to monitor AI thinking.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-16T22:52:09Z",
-      "url": "https://biztoc.com/x/7d05b95b27a6e945"
     }
   ]
 }
