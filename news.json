@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T05:49:11.857Z",
+  "lastUpdate": "2025-07-18T06:24:12.912Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Taiwan’s TSMC says second quarter profit up 60%",
+      "summary": "Taiwan's TSMC reported a 60% increase in net profit for the second quarter due to sustained demand for AI technology.",
+      "source": "Digital Journal",
+      "category": "economy",
+      "timestamp": "2025-07-17T06:22:32Z",
+      "url": "https://www.digitaljournal.com/world/taiwans-tsmc-says-second-quarter-profit-up-60/article"
+    },
+    {
+      "id": 52,
+      "title": "Mercedes-Benz Unveils All-Electric CLA Shooting Brake",
+      "summary": "Mercedes-Benz unveils first electric CLA Shooting Brake with up to 470-mile range, illuminated panoramic roof, AI-powered MBUX system, and up to 1,800 kg towing. Launching in Europe in March 2026, with hybrid models to follow.",
+      "source": "HYPEBEAST",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:21:37Z",
+      "url": "https://hypebeast.com/2025/7/mercedes-benz-ev-cla-shooting-brake-release-info"
+    },
+    {
+      "id": 53,
+      "title": "dingo-python 1.8.1",
+      "summary": "dingo-python 1.8.1 is a comprehensive tool designed for evaluating data quality in large AI models, aiming to improve the accuracy and reliability of AI systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:21:36Z",
+      "url": "https://pypi.org/project/dingo-python/1.8.1/"
+    },
+    {
+      "id": 54,
+      "title": "Ripple compliance upgrade is imminent, RICH Miner converts XRP into daily income",
+      "summary": "Ripple compliance upgrade is imminent, RICH Miner converts XRP into daily income - New opportunities for XRP holders: Join RICH Miner now to participate in the global high-yield, safe, zero-threshold cloud mining program.",
+      "source": "Android Headlines",
+      "category": "startups",
+      "timestamp": "2025-07-17T06:20:55Z",
+      "url": "https://www.androidheadlines.com/2025/07/ripple-compliance-upgrade-is-imminent-rich-miner-converts-xrp-into-daily-income.html"
+    },
+    {
+      "id": 55,
+      "title": "The confirmation bias: Why investors see what they want to see, and often get it wrong",
+      "summary": "The confirmation bias leads investors to seek information that supports their existing beliefs, leading to potential mistakes in decision-making.",
+      "source": "Livemint",
+      "category": "ethics",
+      "timestamp": "2025-07-17T06:19:58Z",
+      "url": "https://www.livemint.com/money/personal-finance/confirmation-bias-in-investing-stock-market-investments-ai-in-investing-f-o-trading-11752726982321.html"
+    },
+    {
+      "id": 56,
+      "title": "It’s not that you look—it’s when: The hidden power of eye contact",
+      "summary": "A study from Flinders University shows that the timing and manner of making eye contact is crucial in human interactions, discovered through research on interactions with virtual partners.",
+      "source": "Science Daily",
+      "category": "research",
+      "timestamp": "2025-07-17T06:19:28Z",
+      "url": "https://www.sciencedaily.com/releases/2025/07/250716000854.htm"
+    },
+    {
+      "id": 57,
+      "title": "vibe-pentesterlab 0.0.0",
+      "summary": "The release of vibe-pentesterlab 0.0.0 introduces an AI-assisted offensive security framework, enhancing capabilities for cybersecurity professionals.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:19:01Z",
+      "url": "https://pypi.org/project/vibe-pentesterlab/0.0.0/"
+    },
+    {
+      "id": 58,
+      "title": "DeepSeek stumbles as user growth slows and R2 delay drags on; Nvidia H20 restart offers a lifeline",
+      "summary": "DeepSeek, a once-promising AI startup in China, is experiencing slower user growth and delays. However, a potential lifeline is in sight with Nvidia's expected restart of H20 chip exports to China, which could benefit DeepSeek's founder and CEO.",
+      "source": "Digitimes",
+      "category": "startups",
+      "timestamp": "2025-07-17T06:16:23Z",
+      "url": "https://www.digitimes.com/news/a20250717PD209/deepseek-nvidia-chips-growth.html"
+    },
+    {
+      "id": 59,
+      "title": "gokite 0.0.14",
+      "summary": "The release of gokite 0.0.14, a Python SDK for GoKite AI, provides developers with tools to easily integrate AI capabilities into their applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:15:48Z",
+      "url": "https://pypi.org/project/gokite/0.0.14/"
+    },
+    {
+      "id": 60,
+      "title": "Professors to get paid like creators, earn royalties from digital twins, AI avatars",
+      "summary": "Masters' Union introduces royalty model for professors to earn from digital twins and AI avatars teaching online courses.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:15:24Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/professors-to-get-paid-like-creators-earn-royalties-from-digital-twins-ai-avatars/articleshow/122617892.cms"
+    },
+    {
+      "id": 61,
+      "title": "Nano-X Imaging (NASDAQ:NNOX) Raised to “Strong-Buy” at LADENBURG THALM/SH SH",
+      "summary": "Nano-X Imaging (NASDAQ:NNOX) was upgraded to a strong-buy rating by LADENBURG THALM/SH SH in a research report sent to investors. Other analysts have also recently issued research reports about the company.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-17T06:14:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/17/nano-x-imaging-nasdaqnnox-raised-to-strong-buy-at-ladenburg-thalm-sh-sh/"
+    },
+    {
+      "id": 62,
+      "title": "What is pattern recognition?",
+      "summary": "Pattern recognition is the ability to detect arrangements of characteristics in data that yields information about a given system or data set.",
+      "source": "Techtarget.com",
+      "category": "research",
+      "timestamp": "2025-07-17T06:13:00Z",
+      "url": "https://www.techtarget.com/whatis/definition/pattern-recognition"
+    },
+    {
+      "id": 63,
+      "title": "️ Today's front pages: Lamine Yamal, the new number 10 at Can Barça",
+      "summary": "The announcement of Lamine Yamal's renewal as the new number 10 at Can Barça until 2031 is the big news of the day in Spain.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:11:00Z",
+      "url": "https://onefootball.com/en/news/todays-front-pages-lamine-yamal-the-new-number-10-at-can-barca-41386132"
+    },
+    {
+      "id": 64,
+      "title": "vibe-pentesterlab 2.0.0",
+      "summary": "Vibe-pentesterlab 2.0.0 is an AI-assisted offensive security framework.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T06:10:40Z",
+      "url": "https://pypi.org/project/vibe-pentesterlab/2.0.0/"
+    },
+    {
+      "id": 65,
+      "title": "残された時間",
+      "summary": "Air India crash probe focuses on actions of plane's captain",
+      "source": "Txt-nifty.com",
+      "category": "research",
+      "timestamp": "2025-07-17T06:07:51Z",
+      "url": "https://eiji.txt-nifty.com/diary/2025/07/post-fd3651.html"
+    },
+    {
+      "id": 66,
+      "title": "Show HN: Bytesites.ai – Launch a full website in moments using AI",
+      "summary": "Bytesites.ai allows users to launch a full website quickly using AI, providing a custom domain, SSL, editor, blogs, and forms. The pricing includes a one-time build fee of $99 and a yearly hosting fee of $24.99.",
+      "source": "Bytesites.ai",
+      "category": "applications",
+      "timestamp": "2025-07-17T06:06:21Z",
+      "url": "https://bytesites.ai"
+    },
     {
       "id": 51,
       "title": "Project Nectar: Another Palantir Special",
@@ -306,150 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-17T04:46:55Z",
       "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-offers-perplexity-pro-subscription-worth-17000-/-year-for-free-to-all-users-how-to-avail-it/articleshow/122613306.cms"
-    },
-    {
-      "id": 56,
-      "title": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case",
-      "summary": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case, removing a legal distraction for Lee as Samsung focuses on developing cutting-edge AI chips.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:46:17Z",
-      "url": "https://biztoc.com/x/4944b3e2ea8d8d6c"
-    },
-    {
-      "id": 57,
-      "title": "Rayados make counter-offer to Betis for Nelson Deossa",
-      "summary": "Rayados make counter-offer to Betis for Nelson Deossa, whose future is uncertain as both clubs negotiate his transfer.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:46:00Z",
-      "url": "https://onefootball.com/en/news/rayados-make-counter-offer-to-betis-for-nelson-deossa-41385936"
-    },
-    {
-      "id": 58,
-      "title": "Sonic The Hedgehog creator Sega eyes return to 1990s gaming glory",
-      "summary": "Sonic The Hedgehog creator Sega aims to recapture 1990s gaming success by focusing on nostalgic game remakes and movie adaptations.",
-      "source": "The Straits Times",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:43:56Z",
-      "url": "https://www.straitstimes.com/business/companies-markets/sonic-the-hedgehog-creator-sega-eyes-return-to-1990s-gaming-glory"
-    },
-    {
-      "id": 59,
-      "title": "ingenious 0.2.0",
-      "summary": "ingenious 0.2.0 is an enterprise-grade Python library designed to efficiently create APIs for interacting with AI Agents.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:40:32Z",
-      "url": "https://pypi.org/project/ingenious/0.2.0/"
-    },
-    {
-      "id": 60,
-      "title": "High Growth Tech Stocks In Asia For July 2025",
-      "summary": "High growth tech stocks in Asia for July 2025 show resilience amidst muted market reactions to new U.S. tariffs and mixed economic signals.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:37:56Z",
-      "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-asia-043756782.html"
-    },
-    {
-      "id": 61,
-      "title": "Fatal abuse of Myanmar maid: 10 years' jail for cop who abetted wife in starving maid and removed evidence",
-      "summary": "A police officer in Myanmar was sentenced to 10 years in jail for abetting his wife in abusing and starving their maid. The judge noted that the officer had the chance to stop the abuse but chose not to.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:37:00Z",
-      "url": "https://www.channelnewsasia.com/singapore/fatal-abuse-myanmar-maid-piang-ngaih-don-kevin-chelvam-jail-5242666"
-    },
-    {
-      "id": 62,
-      "title": "Commission should rethink AI gigafactories’ business model, says lobby",
-      "summary": "Commission urged to rethink business model for AI gigafactories, with a call to switch to US-style funding approach by the European AI Forum.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:35:09Z",
-      "url": "https://biztoc.com/x/52c39524052ec1e1"
-    },
-    {
-      "id": 63,
-      "title": "What Fortune 100s are getting wrong about cybersecurity hiring",
-      "summary": "Many Fortune 100 companies are struggling to find cybersecurity professionals, but a new report suggests the real issue is how the jobs are structured and advertised.",
-      "source": "Help Net Security",
-      "category": "research",
-      "timestamp": "2025-07-17T04:30:35Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/17/cybersecurity-hiring-trends-2025/"
-    },
-    {
-      "id": 64,
-      "title": "Samsung Galaxy F36 5G: Everything You Need to Know Ahead of Launch",
-      "summary": "Samsung Galaxy F36 5G is set to be launched in India soon, expected to be the latest addition to the Galaxy F series. Here is everything we know about the upcoming Samsung Galaxy F36 5G including its launch date.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:30:01Z",
-      "url": "https://www.gadgets360.com/mobiles/features/samsung-galaxy-f36-5g-launch-date-know-price-in-india-specs-features-and-more-8886523"
-    },
-    {
-      "id": 65,
-      "title": "There’s no AI staff replacement at Eir, says chief tech officer, and no copper switch-off until after 2030",
-      "summary": "There are no plans to replace staff with AI at Eir, and the copper switch-off is not scheduled until after 2030, according to the chief technology officer. Additionally, a glass box in Fergal McCann's attic has played a role in illustrating a well-known business and political saga in Ireland.",
-      "source": "Independent.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:30:00Z",
-      "url": "https://www.independent.ie/business/technology/theres-no-ai-staff-replacement-at-eir-says-chief-tech-officer-and-no-copper-switch-off-until-after-2030/a1083386862.html"
-    },
-    {
-      "id": 66,
-      "title": "Agentic AI is next stage for digital media, says NewsWhip CEO Paul Quigley",
-      "summary": "Agentic AI is next stage for digital media, says NewsWhip CEO Paul Quigley - In a world of AI, what’s the future for media? Paul Quigley, who co-founded media-tech firm NewsWhip in 2011 and has seen almost €20m in funding, thinks it’s moving away from traditional formats.",
-      "source": "Independent.ie",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:30:00Z",
-      "url": "https://www.independent.ie/business/technology/agentic-ai-is-next-stage-for-digital-media-says-newswhip-ceo-paul-quigley/a809794288.html"
-    },
-    {
-      "id": 67,
-      "title": "‘I was reading last week about a guy who had 10 remote jobs – and he was earning more than $1.5m a year’",
-      "summary": "Cheats are using AI bots to create fake CVs and clones of other people's skills to apply for remote jobs, leading to potential ethical concerns and unfair advantages in the job market.",
-      "source": "Independent.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:30:00Z",
-      "url": "https://www.independent.ie/business/i-was-reading-last-week-about-a-guy-who-had-10-remote-jobs-and-he-was-earning-more-than-15m-a-year/a662767060.html"
-    },
-    {
-      "id": 51,
-      "title": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case",
-      "summary": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case, allowing Samsung to focus on developing cutting-edge AI chips and compete in the global market.",
-      "source": "The Japan Times",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:07:00Z",
-      "url": "https://www.japantimes.co.jp/business/2025/07/17/companies/south-korea-samsung-lee-fraud-case/"
-    },
-    {
-      "id": 52,
-      "title": "Salman Khan launched her, but actress Zareen Khan now says no to Bigg Boss 19. Her reason is brutally honest",
-      "summary": "Actress Zareen Khan turned down an offer to participate in Bigg Boss 19 due to her aversion to living with strangers and a zero-tolerance policy for misbehavior. She humorously mentioned potentially hitting someone as a reason for not wanting to be part of the show.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:06:53Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/salman-khan-launched-her-but-actress-zareen-khan-now-says-no-to-bigg-boss-19-her-reason-is-brutally-honest/articleshow/122610002.cms"
-    },
-    {
-      "id": 53,
-      "title": "When Venture Capital’s Speed Runs Ahead of Its Due Diligence",
-      "summary": "In the venture capital world, the balance between speed and due diligence is being questioned in light of recent high-profile startup failures.",
-      "source": "Columbia.edu",
-      "category": "startups",
-      "timestamp": "2025-07-17T04:05:55Z",
-      "url": "https://clsbluesky.law.columbia.edu/2025/07/17/when-venture-capitals-speed-runs-ahead-of-its-due-diligence/"
-    },
-    {
-      "id": 54,
-      "title": "Media Briefing: AI is the new middleman, and it’s coming for the browser",
-      "summary": "AI browsers are becoming the new middleman in the browser war, potentially accelerating the decline of search traffic for publishers",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:02:21Z",
-      "url": "https://biztoc.com/x/91757a336d92fcd3"
     }
   ]
 }
