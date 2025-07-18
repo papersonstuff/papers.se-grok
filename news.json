@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-18T19:41:17.493Z",
+  "lastUpdate": "2025-07-18T19:49:49.744Z",
   "items": [
+    {
+      "id": 51,
+      "title": "This AI Warps Live Video in Real Time",
+      "summary": "A startup called Decart has developed an AI model that can transform live footage, producing mind-bending results and has the potential to disrupt streaming services.",
+      "source": "Wired",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:49:12Z",
+      "url": "https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/"
+    },
+    {
+      "id": 52,
+      "title": "Behind The Godfather Of AI’s Terrifying Comments Lies A Valid Point About The Future Of Work",
+      "summary": "AI may disrupt white-collar work, but manufacturing jobs remain essential. The future of work may be more hands-on than anticipated.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:49:02Z",
+      "url": "https://www.forbes.com/sites/ethankarp/2025/07/17/behind-the-godfather-of-ais-terrifying-comments-lies-a-valid-point-about-the-future-of-work/"
+    },
+    {
+      "id": 53,
+      "title": "This MSI RTX 5070 Hits an All-Time Low, Amazon Is Clearing the Shelves of GPUs",
+      "summary": "MSI RTX 5070 GPU hits an all-time low price as Amazon clears its shelves of GPUs.",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T19:48:25Z",
+      "url": "https://gizmodo.com/this-msi-rtx-5070-hits-an-all-time-low-amazon-is-clearing-the-shelves-of-gpus-2000630945"
+    },
+    {
+      "id": 54,
+      "title": "pygeai 0.3.0",
+      "summary": "pygeai 0.3.0 is a Software Development Kit designed to interact with Globant Enterprise AI, offering new applications for integrating AI technology into various software solutions.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:47:41Z",
+      "url": "https://pypi.org/project/pygeai/0.3.0/"
+    },
+    {
+      "id": 55,
+      "title": "Vance didn't tell Jasmine Crockett to 'go back to the zoo'",
+      "summary": "During a congressional hearing in mid-2025, U.S. Vice President JD Vance did not tell Rep. Jasmine Crockett to 'go back to the zoo', refuting earlier reports. The incident highlights the importance of maintaining civility and respectful discourse in political settings.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:47:00Z",
+      "url": "https://www.snopes.com//fact-check/vance-crockett-zoo-quote/"
+    },
+    {
+      "id": 56,
+      "title": "San Jose Mayor Matt Mahan wants city workers to use AI after it wrote his speeches",
+      "summary": "San Jose Mayor Matt Mahan is advocating for city workers to use AI tools after experiencing its benefits in speechwriting, emphasizing the potential to streamline operations and improve services for residents.",
+      "source": "New York Post",
+      "category": "applications",
+      "timestamp": "2025-07-17T19:46:07Z",
+      "url": "https://nypost.com/2025/07/17/us-news/san-jose-mayor-matt-mahan-wants-city-workers-to-use-ai/"
+    },
+    {
+      "id": 57,
+      "title": "geomltools 0.1.6",
+      "summary": "geomltools 0.1.6 is a Python library designed for spatial machine learning and geospatial analysis.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:45:43Z",
+      "url": "https://pypi.org/project/geomltools/0.1.6/"
+    },
+    {
+      "id": 58,
+      "title": "opentelemetry-instrumentation-together 0.42.0",
+      "summary": "The release of OpenTelemetry Together 0.42.0 includes AI instrumentation for improved monitoring and tracing capabilities in applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:45:42Z",
+      "url": "https://pypi.org/project/opentelemetry-instrumentation-together/0.42.0/"
+    },
+    {
+      "id": 59,
+      "title": "opentelemetry-instrumentation-mistralai 0.42.0",
+      "summary": "OpenTelemetry Mistral AI instrumentation has been released in version 0.42.0, offering AI-related instrumentation capabilities for OpenTelemetry. AI instrumentation enables better monitoring and tracing of AI applications for improved performance and reliability.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:45:32Z",
+      "url": "https://pypi.org/project/opentelemetry-instrumentation-mistralai/0.42.0/"
+    },
+    {
+      "id": 60,
+      "title": "opentelemetry-instrumentation-google-generativeai 0.42.0",
+      "summary": "Version 0.42.0 of OpenTelemetry Google Generative AI instrumentation has been released, providing enhanced tracking and monitoring capabilities for AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T19:45:23Z",
+      "url": "https://pypi.org/project/opentelemetry-instrumentation-google-generativeai/0.42.0/"
+    },
+    {
+      "id": 61,
+      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
+      "summary": "Trump administration order requires interior secretary to sign off on all wind and solar projects, potentially hampering projects that need to move quickly.",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:44:27Z",
+      "url": "https://www.bostonherald.com/2025/07/17/doug-burgum-wind-solar-projects/"
+    },
+    {
+      "id": 62,
+      "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
+      "summary": "Trump administration order requires interior secretary to personally approve all solar and wind energy projects on federal lands and waters, raising concerns about potential delays and increased bureaucracy.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-17T19:42:58Z",
+      "url": "https://financialpost.com/pmn/trump-administration-order-requires-interior-secretary-to-sign-off-on-all-wind-and-solar-projects"
+    },
     {
       "id": 51,
       "title": "Trump administration order requires interior secretary to sign off on all wind and solar projects",
@@ -342,114 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-17T19:09:45Z",
       "url": "https://socialmediaexplorer.com/business-innovation-2/the-best-media-journalist-databases-you-can-use/"
-    },
-    {
-      "id": 58,
-      "title": "Virginia Becomes First State to Use Agentic AI for Regulatory Streamlining",
-      "summary": "Virginia becomes the first state to use agentic AI for regulatory streamlining, launching a pilot program to streamline regulations and improve business friendliness.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T19:08:56Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/virginia-becomes-first-state-to-use-agentic-ai-for-regulatory-streamlining/"
-    },
-    {
-      "id": 59,
-      "title": "Scary tech",
-      "summary": "There is a vulnerability in trains where someone can remotely lock the brakes with a radio link, which railroad companies have known about since 2012 but have not addressed.",
-      "source": "Freethoughtblogs.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:07:30Z",
-      "url": "https://freethoughtblogs.com/pharyngula/2025/07/17/scary-tech/"
-    },
-    {
-      "id": 60,
-      "title": "Google's rolling out a fix for Gemini Live's blurry vision",
-      "summary": "Google is rolling out a fix for Gemini Live's blurry vision bug that was causing video feeds to appear low quality.",
-      "source": "Android Police",
-      "category": "applications",
-      "timestamp": "2025-07-17T19:06:26Z",
-      "url": "https://www.androidpolice.com/sharper-video-for-gemini-live-on-android/"
-    },
-    {
-      "id": 61,
-      "title": "Anti-Exploitation Group Horrified by Elon Musk's AI-Powered Waifu",
-      "summary": "Anti-Exploitation Group expresses horror over Elon Musk's AI-Powered Waifu, which are sexually-charged animated chat bots referred to as 'companions' or 'waifus.'",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-17T19:04:39Z",
-      "url": "https://futurism.com/exploitation-group-ai-waifu"
-    },
-    {
-      "id": 51,
-      "title": "The AI Replaces Labour Myth",
-      "summary": "The AI Replaces Labour Myth - During college, my class was instructed to study Schopenhauer in political philosophy.",
-      "source": "Substack.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T18:51:53Z",
-      "url": "https://aimode.substack.com/p/the-ai-replaces-services-myth"
-    },
-    {
-      "id": 52,
-      "title": "ServiceNow’s Moveworks Takeover Gets In-Depth Antitrust Review",
-      "summary": "ServiceNow Inc.'s $2.85 billion acquisition of Moveworks Inc. is under an in-depth antitrust review by the US Justice Department.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:51:51Z",
-      "url": "https://www.livemint.com/companies/news/servicenows-moveworks-takeover-gets-in-depth-antitrust-review-11752778312276.html"
-    },
-    {
-      "id": 53,
-      "title": "ChatGPT Agent, OpenAI's new AI Assistant can book dinner or order groceries, but is your data safe?",
-      "summary": "OpenAI's new ChatGPT Agent can perform tasks like booking reservations and ordering groceries, raising concerns about data privacy and security.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T18:50:17Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/chatgpt-agent-openais-new-ai-assistant-can-book-dinner-or-order-groceries-but-is-your-data-safe/articleshow/122672059.cms"
-    },
-    {
-      "id": 54,
-      "title": "Intel Nova Lake-HX Tipped For 28 Cores And A Big GPU But Will It Launch?",
-      "summary": "Intel Nova Lake-HX Tipped For 28 Cores And A Big GPU But Will It Launch? - Intel's upcoming Nova Lake processors may include an 'AX' model, hinting at powerful capabilities for AI applications.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-17T18:50:00Z",
-      "url": "https://hothardware.com/news/intel-nova-lake-ax-specs-leaked"
-    },
-    {
-      "id": 55,
-      "title": "City of Hope CEO on the Challenge \"Greater Than Any One Entity Can Tackle\"",
-      "summary": "City of Hope CEO discusses the challenge of maximizing genomics' public health potential and addressing inefficient spending in the field.",
-      "source": "Newsweek",
-      "category": "research",
-      "timestamp": "2025-07-17T18:49:27Z",
-      "url": "https://www.newsweek.com/city-hope-ceo-challenge-greater-any-one-entity-can-tackle-2100402"
-    },
-    {
-      "id": 56,
-      "title": "America's New Fiscal Trap",
-      "summary": "Republican members of Congress passed a tax-and-spend bill that will define America's fiscal future.",
-      "source": "RealClearPolitics",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:47:22Z",
-      "url": "https://www.realclearpolitics.com/articles/2025/07/17/americas_new_fiscal_trap_153060.html"
-    },
-    {
-      "id": 57,
-      "title": "Compute Labs Offers Investor Opportunities In AI Data Center Buildout",
-      "summary": "Compute Labs offers investors opportunities in AI data center buildout, allowing data center operators to turn major capital investments into operating expenses.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-17T18:45:49Z",
-      "url": "https://www.forbes.com/sites/tomcoughlin/2025/07/17/compute-labs-offers-investor-opportunities-in-ai-data-center-buildout/"
-    },
-    {
-      "id": 58,
-      "title": "Fed's Daly Talks Tariff Impact, Rate Cuts and AI",
-      "summary": "Federal Reserve Bank of San Francisco President Mary Daly discusses the impact of the Trump administration's tariffs on the US.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T18:44:50Z",
-      "url": "https://biztoc.com/x/bb7f6e2d7a0e82b7"
     }
   ]
 }
