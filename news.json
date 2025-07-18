@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-18T04:08:27.058Z",
+  "lastUpdate": "2025-07-18T04:52:48.371Z",
   "items": [
+    {
+      "id": 51,
+      "title": "batchata 0.3.3",
+      "summary": "Batchata 0.3.3 is a new tool for batch processing AI models that includes cost tracking and state persistence features.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T04:51:26Z",
+      "url": "https://pypi.org/project/batchata/0.3.3/"
+    },
+    {
+      "id": 52,
+      "title": "Are Agentic AI Systems Quietly Taking Over Enterprises? 3 Ways To Keep Humans In The Loop",
+      "summary": "Agentic AI systems are being used by top companies to automate tasks and improve customer service. The key to success with AI is to keep humans involved alongside the machines.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-17T04:51:01Z",
+      "url": "https://www.forbes.com/sites/saharhashmi/2025/07/17/are-agentic-ai-systems-quietly-taking-over-enterprises-3-ways-to-keep-humans-in-the-loop/"
+    },
+    {
+      "id": 53,
+      "title": "How Elon Musk’s rogue Grok chatbot became a cautionary AI tale",
+      "summary": "Elon Musk's rogue Grok chatbot highlights the risks of accelerating AI technology without proper testing and safeguards, as exemplified by posts praising Hitler.",
+      "source": "The Irish Times",
+      "category": "ethics",
+      "timestamp": "2025-07-17T04:50:00Z",
+      "url": "https://www.irishtimes.com/business/2025/07/17/how-elon-musks-rogue-grok-chatbot-became-a-cautionary-ai-tale/"
+    },
+    {
+      "id": 54,
+      "title": "gllm-agents-binary 0.2.26",
+      "summary": "gllm-agents-binary 0.2.26 is a library designed for managing agents in Gen AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T04:49:06Z",
+      "url": "https://pypi.org/project/gllm-agents-binary/0.2.26/"
+    },
+    {
+      "id": 55,
+      "title": "Airtel offers Perplexity Pro subscription worth ₹17,000/ year for free to all users",
+      "summary": "Airtel partners with Perplexity to offer free Perplexity Pro subscription worth ₹17,000/ year to its users. The subscription includes advanced AI tools for Airtel mobile, Wi-Fi, and DTH subscribers.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-17T04:46:55Z",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-offers-perplexity-pro-subscription-worth-17000-/-year-for-free-to-all-users-how-to-avail-it/articleshow/122613306.cms"
+    },
+    {
+      "id": 56,
+      "title": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case",
+      "summary": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case, removing a legal distraction for Lee as Samsung focuses on developing cutting-edge AI chips.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T04:46:17Z",
+      "url": "https://biztoc.com/x/4944b3e2ea8d8d6c"
+    },
+    {
+      "id": 57,
+      "title": "Rayados make counter-offer to Betis for Nelson Deossa",
+      "summary": "Rayados make counter-offer to Betis for Nelson Deossa, whose future is uncertain as both clubs negotiate his transfer.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T04:46:00Z",
+      "url": "https://onefootball.com/en/news/rayados-make-counter-offer-to-betis-for-nelson-deossa-41385936"
+    },
+    {
+      "id": 58,
+      "title": "Sonic The Hedgehog creator Sega eyes return to 1990s gaming glory",
+      "summary": "Sonic The Hedgehog creator Sega aims to recapture 1990s gaming success by focusing on nostalgic game remakes and movie adaptations.",
+      "source": "The Straits Times",
+      "category": "innovation",
+      "timestamp": "2025-07-17T04:43:56Z",
+      "url": "https://www.straitstimes.com/business/companies-markets/sonic-the-hedgehog-creator-sega-eyes-return-to-1990s-gaming-glory"
+    },
+    {
+      "id": 59,
+      "title": "ingenious 0.2.0",
+      "summary": "ingenious 0.2.0 is an enterprise-grade Python library designed to efficiently create APIs for interacting with AI Agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T04:40:32Z",
+      "url": "https://pypi.org/project/ingenious/0.2.0/"
+    },
+    {
+      "id": 60,
+      "title": "High Growth Tech Stocks In Asia For July 2025",
+      "summary": "High growth tech stocks in Asia for July 2025 show resilience amidst muted market reactions to new U.S. tariffs and mixed economic signals.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-17T04:37:56Z",
+      "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-asia-043756782.html"
+    },
+    {
+      "id": 61,
+      "title": "Fatal abuse of Myanmar maid: 10 years' jail for cop who abetted wife in starving maid and removed evidence",
+      "summary": "A police officer in Myanmar was sentenced to 10 years in jail for abetting his wife in abusing and starving their maid. The judge noted that the officer had the chance to stop the abuse but chose not to.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-17T04:37:00Z",
+      "url": "https://www.channelnewsasia.com/singapore/fatal-abuse-myanmar-maid-piang-ngaih-don-kevin-chelvam-jail-5242666"
+    },
+    {
+      "id": 62,
+      "title": "Commission should rethink AI gigafactories’ business model, says lobby",
+      "summary": "Commission urged to rethink business model for AI gigafactories, with a call to switch to US-style funding approach by the European AI Forum.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T04:35:09Z",
+      "url": "https://biztoc.com/x/52c39524052ec1e1"
+    },
+    {
+      "id": 63,
+      "title": "What Fortune 100s are getting wrong about cybersecurity hiring",
+      "summary": "Many Fortune 100 companies are struggling to find cybersecurity professionals, but a new report suggests the real issue is how the jobs are structured and advertised.",
+      "source": "Help Net Security",
+      "category": "research",
+      "timestamp": "2025-07-17T04:30:35Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/17/cybersecurity-hiring-trends-2025/"
+    },
+    {
+      "id": 64,
+      "title": "Samsung Galaxy F36 5G: Everything You Need to Know Ahead of Launch",
+      "summary": "Samsung Galaxy F36 5G is set to be launched in India soon, expected to be the latest addition to the Galaxy F series. Here is everything we know about the upcoming Samsung Galaxy F36 5G including its launch date.",
+      "source": "Gadgets360.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T04:30:01Z",
+      "url": "https://www.gadgets360.com/mobiles/features/samsung-galaxy-f36-5g-launch-date-know-price-in-india-specs-features-and-more-8886523"
+    },
+    {
+      "id": 65,
+      "title": "There’s no AI staff replacement at Eir, says chief tech officer, and no copper switch-off until after 2030",
+      "summary": "There are no plans to replace staff with AI at Eir, and the copper switch-off is not scheduled until after 2030, according to the chief technology officer. Additionally, a glass box in Fergal McCann's attic has played a role in illustrating a well-known business and political saga in Ireland.",
+      "source": "Independent.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-17T04:30:00Z",
+      "url": "https://www.independent.ie/business/technology/theres-no-ai-staff-replacement-at-eir-says-chief-tech-officer-and-no-copper-switch-off-until-after-2030/a1083386862.html"
+    },
+    {
+      "id": 66,
+      "title": "Agentic AI is next stage for digital media, says NewsWhip CEO Paul Quigley",
+      "summary": "Agentic AI is next stage for digital media, says NewsWhip CEO Paul Quigley - In a world of AI, what’s the future for media? Paul Quigley, who co-founded media-tech firm NewsWhip in 2011 and has seen almost €20m in funding, thinks it’s moving away from traditional formats.",
+      "source": "Independent.ie",
+      "category": "innovation",
+      "timestamp": "2025-07-17T04:30:00Z",
+      "url": "https://www.independent.ie/business/technology/agentic-ai-is-next-stage-for-digital-media-says-newswhip-ceo-paul-quigley/a809794288.html"
+    },
+    {
+      "id": 67,
+      "title": "‘I was reading last week about a guy who had 10 remote jobs – and he was earning more than $1.5m a year’",
+      "summary": "Cheats are using AI bots to create fake CVs and clones of other people's skills to apply for remote jobs, leading to potential ethical concerns and unfair advantages in the job market.",
+      "source": "Independent.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-17T04:30:00Z",
+      "url": "https://www.independent.ie/business/i-was-reading-last-week-about-a-guy-who-had-10-remote-jobs-and-he-was-earning-more-than-15m-a-year/a662767060.html"
+    },
     {
       "id": 51,
       "title": "South Korea's top court clears Samsung chairman Lee in 2015 fraud case",
@@ -297,159 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-17T01:15:05Z",
       "url": "https://www.cnbc.com/2025/07/17/cnbc-daily-open-us-producer-prices-are-flat-but-they-dont-factor-in-imports.html"
-    },
-    {
-      "id": 52,
-      "title": " Neymar shines as Santos beat leaders Flamengo, ease drop fears",
-      "summary": "Neymar shines as Santos beat leaders Flamengo 1-0 in the 2025 Brasileirão, easing drop fears for Santos. The match was highly contested with few clear scoring chances.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T01:14:00Z",
-      "url": "https://onefootball.com/en/news/neymar-shines-as-santos-beat-leaders-flamengo-ease-drop-fears-41385444"
-    },
-    {
-      "id": 53,
-      "title": "New York's tech elite give Mamdani points for 'charisma' — and engaging with them at closed-door meet",
-      "summary": "New York's tech elite are impressed by Zohran Mamdani's 'charisma' and engaging pitch at a closed-door meet, despite not having a presentation deck.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-17T01:11:44Z",
-      "url": "https://www.businessinsider.com/nyc-mayoral-candidate-zohran-mamdani-meeting-with-tech-execs-vc-2025-7"
-    },
-    {
-      "id": 54,
-      "title": "ガバナンスクラウド株式会社、役員会DXクラウド「Governance Cloud」にAzure OpenAI Serviceを利用し役員会専用AI「Governance Cloud AI」を提供開始",
-      "summary": "Governance Cloud Corporation utilizes Azure OpenAI Service to offer Governance Cloud AI for board meetings via Director's Meeting DX Cloud.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-17T01:10:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000004.000091080.html"
-    },
-    {
-      "id": 55,
-      "title": "David Corenswet Loves 'Star Wars' and 'The Rehearsal?' Dear God…",
-      "summary": "David Corenswet discusses his love for 'Star Wars' and 'The Rehearsal Season 2' during the Superman press tour.",
-      "source": "Pajiba.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T01:08:07Z",
-      "url": "https://www.pajiba.com/pajiba_love/david-corenswet-loves-star-wars-and-the-rehearsal-dear-god.php"
-    },
-    {
-      "id": 56,
-      "title": "⏳ Atlético Nacional close to sealing a new signing",
-      "summary": "Atlético Nacional is close to signing César Haydar, a former Junior defender from Japan, as a reinforcement for the upcoming semester.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T01:08:00Z",
-      "url": "https://onefootball.com/en/news/atletico-nacional-close-to-sealing-a-new-signing-41385471"
-    },
-    {
-      "id": 57,
-      "title": "Trump says Coca-Cola will use real sugar in its US flagship drink. The company isn’t confirming that",
-      "summary": "Trump says Coca-Cola will use real sugar in its US flagship drink, but the company isn’t confirming the move",
-      "source": "WTAE Pittsburgh",
-      "category": "economy",
-      "timestamp": "2025-07-17T01:06:39Z",
-      "url": "https://www.wtae.com/article/trump-coca-cola-real-sugar-drink-company-isnt-confirming/65430821"
-    },
-    {
-      "id": 58,
-      "title": "Singtel-led group to build 8,900km Asian subsea cable with NEC",
-      "summary": "Singtel-led group, with NEC, to build high-capacity subsea cable connecting Singapore and Japan to meet demand for data infrastructure driven by AI and cloud computing.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T01:04:58Z",
-      "url": "https://biztoc.com/x/f4525e6f51bce68f"
-    },
-    {
-      "id": 59,
-      "title": "Anthropic Draws Investor Interest At More Than $100 Billion Valuation",
-      "summary": "OpenAI rival Anthropic is drawing investor interest and may be valued at over $100 billion in its next investment round. The artificial intelligence startup is in the early stages of planning the round.",
-      "source": "Ndtvprofit.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T01:01:38Z",
-      "url": "https://www.ndtvprofit.com/business/anthropic-draws-investor-interest-at-more-than-100-billion-valuation"
-    },
-    {
-      "id": 60,
-      "title": "The Man Who Called Every Crypto Cycle Since 2017 Just Revealed His Blueprint for the $250K Bitcoin Run—And Why This Time Is Different",
-      "summary": "The Man Who Called Every Crypto Cycle Since 2017 reveals his blueprint for the $250K Bitcoin run and explains why this time is different, despite having already built and sold a media empire for over $150 million. Ran Neer has been heavily involved in crypto since 2016.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-17T01:00:34Z",
-      "url": "https://finance.yahoo.com/news/man-called-every-crypto-cycle-010034873.html"
-    },
-    {
-      "id": 61,
-      "title": "Akuma.AI Transforming Scribbles Into Top Anime Art",
-      "summary": "Akuma.AI is an AI tool that can transform crude scribbles into professional-grade anime-style illustrations, demonstrating its powerful capabilities in a new promotional video.",
-      "source": "Sankakucomplex.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T01:00:29Z",
-      "url": "https://news.sankakucomplex.com/2025/07/17/akuma-ai-transforming-scribbles-into-top-anime-art/"
-    },
-    {
-      "id": 62,
-      "title": "Trump Announces Massive Investments to Steer America Closer to Energy, Tech Dominance",
-      "summary": "President Trump announced $92 billion in energy and technology investment to bring America closer to dominance in those fields.",
-      "source": "Wattsupwiththat.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T01:00:00Z",
-      "url": "https://wattsupwiththat.com/2025/07/16/trump-announces-massive-investments-to-steer-america-closer-to-energy-tech-dominance/"
-    },
-    {
-      "id": 63,
-      "title": "Jane Street: SEBI’s moment of reckoning",
-      "summary": "SEBI's moment of reckoning with Jane Street case must lead to systemic reforms to protect India's markets from becoming algorithmic battlegrounds.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-17T01:00:00Z",
-      "url": "https://www.thehindubusinessline.com/opinion/jane-street-sebis-moment-of-reckoning/article69820179.ece"
-    },
-    {
-      "id": 51,
-      "title": "Scale AI Lays Off 200 Employees: 'We Ramped Up Our GenAI Capacity Too Quickly'",
-      "summary": "Scale AI is laying off 200 employees and 500 contractors as part of a major restructuring, following Meta's purchase of a 49% stake. This comes just weeks after the CEO was absorbed into a new superintelligence lab.",
-      "source": "Slashdot.org",
-      "category": "startups",
-      "timestamp": "2025-07-16T23:50:00Z",
-      "url": "https://slashdot.org/story/25/07/16/2058240/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly"
-    },
-    {
-      "id": 52,
-      "title": "gabiteodoru-parseq 0.1.3",
-      "summary": "gabiteodoru-parseq 0.1.3 is a Q language to Python translator with AI-powered disambiguation, aimed at advancing research in programming language translation.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-16T23:49:32Z",
-      "url": "https://pypi.org/project/gabiteodoru-parseq/0.1.3/"
-    },
-    {
-      "id": 53,
-      "title": "Unusual protest: Dorival Jr offers GLASSES to the fourth official ",
-      "summary": "Coach Dorival Júnior offers glasses to fourth official in protest of refereeing during soccer match.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-16T23:48:00Z",
-      "url": "https://onefootball.com/en/news/unusual-protest-dorival-jr-offers-glasses-to-the-fourth-official-41385358"
-    },
-    {
-      "id": 54,
-      "title": "PraisonAI 2.2.69",
-      "summary": "PraisonAI 2.2.69 is an AI Agents Framework with Self Reflection, combining various tools into a low-code solution for building and managing multi-agent LLM systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-16T23:46:57Z",
-      "url": "https://pypi.org/project/praisonai/2.2.69/"
-    },
-    {
-      "id": 55,
-      "title": " Red Bull Bragantino and São Paulo set for BR-2025 showdown",
-      "summary": "Red Bull Bragantino and São Paulo will face off in a Brasileirão-2025 match this Wednesday at 9:30 PM. The game will take place at Cícero de Souza Marque.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-16T23:46:00Z",
-      "url": "https://onefootball.com/en/news/red-bull-bragantino-and-sao-paulo-set-for-br-2025-showdown-41385337"
     }
   ]
 }
