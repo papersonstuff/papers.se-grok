@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-18T15:56:50.310Z",
+  "lastUpdate": "2025-07-18T16:25:31.611Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Warning Issued as Floods Threaten to 'Surround' Old School",
+      "summary": "A warning has been issued for a school in northeastern Kansas as heavy rain is expected to cause a creek to surge. The AI-generated voice is being used to convey this information.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:24:38Z",
+      "url": "https://biztoc.com/x/e928001e5b96ada3"
+    },
+    {
+      "id": 52,
+      "title": "Green Card Holder in US for 40 Years Detained by ICE While Walking Dog",
+      "summary": "Green card holder in US for 40 years detained by ICE while walking dog, raising ethical questions about immigration enforcement",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:24:36Z",
+      "url": "https://biztoc.com/x/240f749f6be5efb9"
+    },
+    {
+      "id": 53,
+      "title": "Netflix's 'Untamed'—Who Are the Cast and Where Is It Filmed?",
+      "summary": "Netflix's new series Untamed features AI-generated voice casting, showcasing the application of artificial intelligence in content creation.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:24:33Z",
+      "url": "https://biztoc.com/x/ba4ba01a1cb7b50f"
+    },
+    {
+      "id": 54,
+      "title": "Perplexity CEO predicts the AI talent wars will become like NBA free agency",
+      "summary": "Perplexity CEO predicts the AI talent wars will become like NBA free agency, with top talent having leverage. He also compares the situation to a transfer market.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T16:24:29Z",
+      "url": "https://biztoc.com/x/5897df90a1ca723a"
+    },
+    {
+      "id": 55,
+      "title": "Stock: Why Wall Street Thinks AI Will Fuel Its Growth",
+      "summary": "GitLab Inc. (NASDAQ:GTLB) is one of the AI Stocks Gaining Attention on Wall Street with a 'Buy' rating and $58 price target, indicating potential growth. The firm believes the software company is well-positioned for growth and share gains.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T16:24:28Z",
+      "url": "https://biztoc.com/x/bb54bc570aa654ec"
+    },
+    {
+      "id": 56,
+      "title": "ChatGPT Helps Write This Mayor’s Speeches. Now He Wants a Thousand Workers Using AI",
+      "summary": "A mayor is using ChatGPT to help write his speeches and now wants to expand the use of AI to a thousand workers. This highlights the increasing acceptance and utilization of AI technologies in important tasks.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:24:26Z",
+      "url": "https://biztoc.com/x/bef3d64e2a4fbc2b"
+    },
+    {
+      "id": 57,
+      "title": "Mike Rowe’s Mother Had an Important Warning for Him Before He Met Trump",
+      "summary": "Mike Rowe attended the Energy and Innovation Summit in Pittsburgh, where he sat on a panel and addressed high-profile individuals. Before meeting Trump, Rowe's mother gave him an important warning.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:23:46Z",
+      "url": "https://freerepublic.com/focus/f-bloggers/4329191/posts"
+    },
+    {
+      "id": 58,
+      "title": "UK online safety law is going to change the way we use the internet",
+      "summary": "UK online safety law is set to change internet use to protect children from accessing pornography, with broader implications",
+      "source": "New Scientist",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:23:29Z",
+      "url": "https://www.newscientist.com/article/2488541-uk-online-safety-law-is-going-to-change-the-way-we-use-the-internet/"
+    },
+    {
+      "id": 59,
+      "title": "The New ‘Tron: Ares’ Trailer Teases Jared Leto’s AI Warrior—and His Wild Ride Through the Real World",
+      "summary": "The new 'Tron: Ares' trailer showcases Jared Leto's AI warrior and his journey through the real world, with Jeff Bridges making a cameo. The highly anticipated third 'Tron' installment is set to release in October.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:22:53Z",
+      "url": "https://gizmodo.com/the-new-tron-ares-trailer-teases-jared-letos-ai-warrior-and-his-wild-ride-through-the-real-world-2000630780"
+    },
+    {
+      "id": 60,
+      "title": "Perplexity CEO predicts the AI talent wars will become like NBA free agency",
+      "summary": "Perplexity CEO predicts the AI talent wars will become like NBA free agency, with some stand-out AI stars having significant leverage.",
+      "source": "Business Insider",
+      "category": "startup",
+      "timestamp": "2025-07-17T16:21:17Z",
+      "url": "https://www.businessinsider.com/perplexity-ceo-aravind-srinivas-ai-talent-wars-nba-2025-7"
+    },
+    {
+      "id": 61,
+      "title": "How To Crush Your Enterprise's Tech Debt With AI",
+      "summary": "Nigel Vaz, CEO of Publicis Sapient, discusses how AI is being used to address tech debt in enterprises, highlighting the success of their Slingshot AI platform in helping a healthcare client modernize their legacy systems.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:21:16Z",
+      "url": "https://www.forbes.com/video/08caf671-319d-4144-ab9e-5ae9747ac07d/how-to-crush-your-enterprises-tech-debt-with-ai/"
+    },
+    {
+      "id": 62,
+      "title": "lightman-ai 0.16.4",
+      "summary": "lightman-ai 0.16.4 is a cybersecurity news aggregator.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:18:52Z",
+      "url": "https://pypi.org/project/lightman-ai/0.16.4/"
+    },
+    {
+      "id": 63,
+      "title": "Elon Musk Wants to Turn AI Into a Cosmic Religion",
+      "summary": "Elon Musk believes AI should become a cosmic religion in order to survive, with a focus on spreading consciousness and colonizing the galaxy.",
+      "source": "Gizmodo.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T16:18:17Z",
+      "url": "https://gizmodo.com/elon-musk-wants-to-turn-ai-into-a-cosmic-religion-2000630710"
+    },
+    {
+      "id": 64,
+      "title": "Epic Games Store confirms July 2025's last free game for PC",
+      "summary": "Epic Games Store confirms last free game for July 2025, Legion TD 2 worth $24.99.",
+      "source": "Notebookcheck.net",
+      "category": "economy",
+      "timestamp": "2025-07-17T16:18:00Z",
+      "url": "https://www.notebookcheck.net/Epic-Games-Store-confirms-July-2025-s-last-free-game-for-PC.1060735.0.html"
+    },
+    {
+      "id": 65,
+      "title": "Watari-kun's ****** Is About to Collapse Anime Reveals English Dub Cast, July 18 Debut",
+      "summary": "Watari-kun's ****** Is About to Collapse Anime will debut an English dub with a cast including Abi Kumar, Kelly Greenshield, Sarah Roach, and Jad Saxton.",
+      "source": "Anime News Network",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:16:55Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-17/watari-kun-is-about-to-collapse-anime-reveals-english-dub-cast-july-18-debut/.226773"
+    },
+    {
+      "id": 66,
+      "title": "phosphobot 0.3.64",
+      "summary": "phosphobot 0.3.64 is an AI-ready robotics dev kit with built-in remote control and VLA support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:16:39Z",
+      "url": "https://pypi.org/project/phosphobot/0.3.64/"
+    },
+    {
+      "id": 67,
+      "title": "Design Patent Search Tool is Latest AI Feature for Examiners to Address USPTO Backlog",
+      "summary": "Design Patent Search Tool is the latest AI feature for USPTO examiners to address backlog by launching DesignVision, a centralized tool for querying multiple design data sources.",
+      "source": "IPWatchdog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T16:15:11Z",
+      "url": "https://ipwatchdog.com/2025/07/17/design-patent-search-tool-latest-ai-feature-examiners-address-uspto-backlog/id=190457/"
+    },
+    {
+      "id": 68,
+      "title": "Is AI the New Android Bloatware? Why Phone-Makers Are Scrambling for Your Attention",
+      "summary": "Android phone-makers are scrambling to catch users' attention by incorporating non-Google AI into their devices, but this may not be the most effective approach in the current era of Gemini.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:14:48Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178402884"
+    },
+    {
+      "id": 69,
+      "title": "indent-ai 0.0.7",
+      "summary": "The AI tool indent-ai 0.0.7 is described as an AI pair programmer, helping developers with coding tasks. This tool can assist in improving productivity and efficiency in software development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-17T16:14:02Z",
+      "url": "https://pypi.org/project/indent-ai/0.0.7/"
+    },
     {
       "id": 51,
       "title": "Trump claims Europe doesn't buy American cars or food. Is that true?",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-17T15:40:12Z",
       "url": "https://biztoc.com/x/17b6b394e35c6c8a"
-    },
-    {
-      "id": 62,
-      "title": "Study: AI Boosts Productivity for 72% of Users",
-      "summary": "Study shows that 72% of users are experiencing increased productivity thanks to AI, according to The AI Guide: How the UK is Using AI at Home and Work.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:40:06Z",
-      "url": "https://biztoc.com/x/242fbefdb29b82e4"
-    },
-    {
-      "id": 63,
-      "title": "Jamie Dimon turned down Jeff Bezos and a top gig at Amazon to take on ‘troubled’ Bank One in a $60 million bet",
-      "summary": "Jamie Dimon chose to take on a challenging role at Bank One instead of joining Amazon, showing a $60 million bet on the banking industry.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:40:06Z",
-      "url": "https://fortune.com/2025/07/17/jamie-dimon-turned-down-jeff-bezos-job-offer-amazon-bank-one/"
-    },
-    {
-      "id": 64,
-      "title": "diffai-python 0.3.9",
-      "summary": "diffai-python 0.3.9 is an AI/ML specialized diff tool designed for deep tensor comparison and analysis.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:39:24Z",
-      "url": "https://pypi.org/project/diffai-python/0.3.9/"
-    },
-    {
-      "id": 65,
-      "title": "robot-kinematics added to PyPI",
-      "summary": "Robot-kinematics library with URDF and PyBullet integration added to PyPI",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:39:21Z",
-      "url": "https://pypi.org/project/robot-kinematics/"
-    },
-    {
-      "id": 66,
-      "title": "PropStream, a Stewart Information Services Corporation company, Acquires BatchLeads and BatchDialer Products",
-      "summary": "PropStream, a Stewart Information Services Corporation company, acquires BatchLeads and BatchDialer products to expand their technology offerings.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-17T15:39:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117458/0/en/PropStream-a-Stewart-Information-Services-Corporation-company-Acquires-BatchLeads-and-BatchDialer-Products.html"
-    },
-    {
-      "id": 67,
-      "title": "The FCC wants to ban Chinese tech from the undersea cables that connect the U.S. to the rest of the world — proposed new rules would 'secure cables against foreign adversaries'",
-      "summary": "The FCC plans to ban Chinese tech from undersea cables to protect against foreign adversaries like China and accelerate the buildout of AI infrastructure.",
-      "source": "Tom's Hardware UK",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:37:54Z",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/the-fcc-wants-to-ban-chinese-tech-from-the-undersea-cables-that-connect-the-u-s-to-the-rest-of-the-world-proposed-new-rules-would-secure-cables-against-foreign-adversaries"
-    },
-    {
-      "id": 68,
-      "title": "Would Customers Pay for Premium Customer Experience?",
-      "summary": "AI is making human support a luxury, with some brands testing whether customers will pay extra for better service.",
-      "source": "CMSWire",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:35:13Z",
-      "url": "https://www.cmswire.com/customer-experience/would-customers-pay-for-premium-customer-experience/"
-    },
-    {
-      "id": 69,
-      "title": "Letters to Editor",
-      "summary": "The Letters to Editor section discussed the implications of AI technology and its potential impact on society. Various viewpoints were expressed regarding the ethical considerations and applications of AI in different sectors.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:34:02Z",
-      "url": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article69824379.ece"
-    },
-    {
-      "id": 51,
-      "title": "What Do You Think About AI?",
-      "summary": "Understanding public thinking about AI can inform companies' decisions on developing and training AI tools.",
-      "source": "Acm.org",
-      "category": "research",
-      "timestamp": "2025-07-17T15:20:02Z",
-      "url": "http://cacm.acm.org/news/what-do-you-think-about-ai/"
-    },
-    {
-      "id": 52,
-      "title": "Jack Ciattarelli's Chances of Beating Sherrill and Flipping New Jersey—poll",
-      "summary": "Republican Jack Ciattarelli is trailing behind Democrat Mikie Sherrill in the race for New Jersey governor according to a new internal poll from Ciattarelli's campaign.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-17T15:18:31Z",
-      "url": "https://biztoc.com/x/e9a4640058ea400b"
-    },
-    {
-      "id": 53,
-      "title": "Okta Patent Disrupts AI-Fueled Phishing Attacks",
-      "summary": "Okta has patented technology to disrupt AI-fueled phishing attacks, as phishing attempts become more advanced in the age of AI.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:18:30Z",
-      "url": "https://biztoc.com/x/9d8154dc4b18cd82"
-    },
-    {
-      "id": 54,
-      "title": "Kylie Jenner's Make-Up Video With Daughter Stormi, 7, Raises Questions",
-      "summary": "Kylie Jenner's make-up video featuring her AI-generated voice for her daughter raises questions about the ethics of using AI in such personal and intimate situations.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:18:30Z",
-      "url": "https://biztoc.com/x/eeaaa2d49a379c1d"
-    },
-    {
-      "id": 55,
-      "title": "Digi Power X Stock Jumps After Deal With Supermicro To Roll Out Nvidia-Powered AI Systems",
-      "summary": "Digi Power X stock rose after securing a deal with Supermicro to provide AI systems powered by Nvidia GPUs for its Tier 3 modular AI infrastructure.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:18:25Z",
-      "url": "https://biztoc.com/x/624806d0af399b67"
-    },
-    {
-      "id": 56,
-      "title": "Alaska Resident Captures Terrifying Moment Home Shakes Amid Earthquake",
-      "summary": "A viral video shared on TikTok shows a home shaking during an earthquake in Alaska, capturing a terrifying moment. The video, posted by @nicoledemoski, has gained over 741,000 views since Thursday.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:18:13Z",
-      "url": "https://biztoc.com/x/f942382211261cd7"
-    },
-    {
-      "id": 57,
-      "title": "Russia's Oil Prices Lag Behind Target",
-      "summary": "Russia's oil prices are lagging behind government targets, putting more strain on the economy during a turbulent wartime period.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:18:13Z",
-      "url": "https://biztoc.com/x/bc42b063af665f1d"
-    },
-    {
-      "id": 58,
-      "title": "States Take the Lead in Regulating American AI Development",
-      "summary": "States are taking the lead in regulating American AI development as the Senate removed a 10-year prohibition on states enacting their own AI laws. This move has opened the floodgates for state-level AI regulation.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T15:18:09Z",
-      "url": "https://biztoc.com/x/252c04037de08ea3"
-    },
-    {
-      "id": 59,
-      "title": "Slack’s paid users are getting new time-saving AI tools",
-      "summary": "Slack's paid users will have access to new time-saving AI tools including enterprise search functionality, language translation, and meetings.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T15:18:05Z",
-      "url": "https://biztoc.com/x/e11fcbbcb3145443"
-    },
-    {
-      "id": 60,
-      "title": "Business News: What Richemont And Swatch Group’s Financial Results Say About The State Of The Swiss Watch Industry",
-      "summary": "Watchmakers Richemont and Swatch Group are seeing weak demand and sales in the Swiss watch industry, particularly in China, but there are signs of potential stabilization and surprising strength.",
-      "source": "HODINKEE",
-      "category": "economy",
-      "timestamp": "2025-07-17T15:18:00Z",
-      "url": "https://www.hodinkee.com/articles/what-richemont-and-swatch-groups-financial-results-say-about-the-state-of-the-swiss-watch-industry"
-    },
-    {
-      "id": 61,
-      "title": "Command Alkon Named Top Cloud-Based Construction Software Provider of 2025 by Construction Tech Review",
-      "summary": "Command Alkon named top cloud-based construction software provider of 2025 by Construction Tech Review.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-17T15:18:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117437/0/en/Command-Alkon-Named-Top-Cloud-Based-Construction-Software-Provider-of-2025-by-Construction-Tech-Review.html"
     }
   ]
 }
