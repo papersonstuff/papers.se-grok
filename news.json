@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-18T14:15:59.008Z",
+  "lastUpdate": "2025-07-18T14:45:28.656Z",
   "items": [
+    {
+      "id": 51,
+      "title": "PaladinMining Launches AI Cloud Mining with Dogecoin, Earn Up to $5,100 a Day",
+      "summary": "PaladinMining launches AI cloud mining platform with Dogecoin, allowing users to earn up to $5,100 a day without the need for hardware.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-17T14:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117398/0/en/PaladinMining-Launches-AI-Cloud-Mining-with-Dogecoin-Earn-Up-to-5-100-a-Day.html"
+    },
+    {
+      "id": 52,
+      "title": "Australia Birth Rate Warning Issued: 'Human Catastrophe'",
+      "summary": "Australia is facing a potential 'human catastrophe' as the number of deaths surpasses births, according to data analysis. This could have significant economic implications for the country.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T14:44:51Z",
+      "url": "https://biztoc.com/x/554da7f47a183ea8"
+    },
+    {
+      "id": 53,
+      "title": "Got ChatGPT Plus? You can record and summarize meetings on a Mac now - here's how",
+      "summary": "ChatGPT Plus users can now record and summarize meetings on a Mac, expanding on a feature previously limited to Pro, Enterprise, and Edu users.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-17T14:44:45Z",
+      "url": "https://www.zdnet.com/article/got-chatgpt-plus-you-can-record-and-summarize-meetings-on-a-mac-now-heres-how/"
+    },
+    {
+      "id": 54,
+      "title": "Full List of Republicans Urging Trump to Unfreeze Funds for K-12 Schools",
+      "summary": "Ten Republican senators are urging the Trump administration to unfreeze over $6 billion in federal funding for education programs.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T14:44:42Z",
+      "url": "https://biztoc.com/x/6c1c00ef5ef68b04"
+    },
+    {
+      "id": 55,
+      "title": "Jennifer Love Hewitt Re-Enters the Spotlight, Sparks Body-Shaming Debate",
+      "summary": "Jennifer Love Hewitt faces body-shaming debate after appearance at premiere of reboot",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T14:44:41Z",
+      "url": "https://biztoc.com/x/27549301f0ecd625"
+    },
+    {
+      "id": 56,
+      "title": "Gen AI May Finally Bridge the Personalization Gap, Experts Say",
+      "summary": "Gen AI may finally bridge the personalization gap, offering tailored experiences to customers. Despite decades of promises, personalization has often fallen short in delivering accurate offers and recommendations based on consumer behavior.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T14:44:35Z",
+      "url": "https://biztoc.com/x/db2d35477a1f2a77"
+    },
+    {
+      "id": 57,
+      "title": "Mobile-Health Network Solutions Aims to Raise $300 Million for Digital Health Platform",
+      "summary": "Mobile-Health Network Solutions aims to raise $300 million through an equity offering to accelerate the growth of their AI-powered digital health platform.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-17T14:44:28Z",
+      "url": "https://biztoc.com/x/7946f0c903378eab"
+    },
+    {
+      "id": 58,
+      "title": "Microsoft Will Delete Your Passwords on August 1. Here's What You Need to Do Now",
+      "summary": "Microsoft will delete passwords on August 1 for users using Microsoft Authenticator to manage online credentials, prompting changes in the app's interface.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T14:44:06Z",
+      "url": "https://me.pcmag.com/en/password-managers/31018/microsoft-will-delete-your-passwords-on-august-1-heres-what-you-need-to-do-now"
+    },
+    {
+      "id": 59,
+      "title": "Microsoft Will Delete Your Passwords on August 1. Here's What You Need to Do Now",
+      "summary": "If you use Microsoft Authenticator to manage your online credentials, big changes are coming in just a few weeks. Microsoft will delete passwords on August 1, so users need to take action now.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T14:44:06Z",
+      "url": "https://uk.pcmag.com/password-managers/159175/microsoft-will-delete-your-passwords-on-august-1-heres-what-you-need-to-do-now"
+    },
+    {
+      "id": 60,
+      "title": "The Rise of Debt Financing: Collaboration and M&A as Growth Catalysts",
+      "summary": "The debt financing market is expected to grow significantly by 2029, driven by tax-deductible interest costs and M&A activity.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-17T14:43:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117397/28124/en/The-Rise-of-Debt-Financing-Collaboration-and-M-A-as-Growth-Catalysts.html"
+    },
+    {
+      "id": 61,
+      "title": "US authors suing Anthropic can band together in copyright class action, judge rules",
+      "summary": "US authors are able to sue Anthropic in a copyright class action, with the potential for billions of dollars in damages if successful for allegedly downloading millions of books illegally.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-17T14:42:53Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules/articleshow/122649685.cms"
+    },
+    {
+      "id": 62,
+      "title": "Meta is using its own blend of AI-optimised, low-carbon 'green concrete' in one of its honking great data centers",
+      "summary": "Meta is using its own blend of AI-optimised, low-carbon 'green concrete' in one of its data centers, which involves small amounts of liquid and has connections to oceans.",
+      "source": "PC Gamer",
+      "category": "innovation",
+      "timestamp": "2025-07-17T14:42:48Z",
+      "url": "https://www.pcgamer.com/software/ai/meta-is-using-its-own-blend-of-ai-optimised-low-carbon-green-concrete-in-one-of-its-honking-great-data-centers/"
+    },
+    {
+      "id": 63,
+      "title": "AI slop is now in charge",
+      "summary": "AI ethics concerns raised as Cory Doctorow criticizes Google for its practices and antitrust issues.",
+      "source": "Freethoughtblogs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T14:42:08Z",
+      "url": "https://freethoughtblogs.com/pharyngula/2025/07/17/ai-slop-is-now-in-charge/"
+    },
+    {
+      "id": 64,
+      "title": "US authors suing Anthropic can band together in copyright class action, judge rules",
+      "summary": "US authors suing Anthropic can lead a copyright class action involving authors nationwide, alleging pirated books were used to train its AI system.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-17T14:41:55Z",
+      "url": "https://www.channelnewsasia.com/business/us-authors-suing-anthropic-can-band-together-in-copyright-class-action-judge-rules-5243976"
+    },
+    {
+      "id": 65,
+      "title": "‘X’ cannot claim same constitutional rights as individual: Centre tells Karnataka HC in X Corp case",
+      "summary": "'X' corporation cannot claim same constitutional rights as individual, according to the Centre in Karnataka HC case. The Solicitor General emphasized the importance of responsible behavior by internet intermediaries, citing concerns about digital surveillance, cybercrime, and the need for regulation.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-17T14:41:54Z",
+      "url": "https://www.thehindubusinessline.com/news/x-cannot-claim-same-constitutional-rights-as-individual-centre-tells-karnataka-hc-in-x-corp-case/article69824005.ece"
+    },
+    {
+      "id": 66,
+      "title": "phosphobot 0.3.62",
+      "summary": "phosphobot 0.3.62 is an AI-ready robotics dev kit with built-in remote control and VLA support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T14:40:53Z",
+      "url": "https://pypi.org/project/phosphobot/0.3.62/"
+    },
+    {
+      "id": 67,
+      "title": "生成AIとチャットしながら留学の見積を作成する機能が追加されました。",
+      "summary": "A feature has been added to generate estimates for studying abroad while chatting with AI - [World Avenue Co., Ltd.]",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-17T14:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000010683.html"
+    },
     {
       "id": 51,
       "title": "Memecoins and DeFi beat Bitcoin as BONK, CRV, FRAX post over 20% gains in 24 hours",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T13:46:47Z",
       "url": "https://uk.pcmag.com/mobile-phones/159172/samsung-galaxy-z-fold-7"
-    },
-    {
-      "id": 68,
-      "title": "Samsung Galaxy Z Fold 7",
-      "summary": "Samsung Galaxy Z Fold 7 is the best folding phone with a refined design, plenty of power, and improved cameras. Now in its seventh generation, it offers excellent hardware and an expansive screen.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:46:47Z",
-      "url": "https://me.pcmag.com/en/mobile-phones/31015/samsung-galaxy-z-fold-7"
-    },
-    {
-      "id": 69,
-      "title": "anosys-agentic-ai-package 0.0.14",
-      "summary": "The Anosys-agentic-ai-package 0.0.14 is a helper package designed to support easy implementation to the AnoSys platform.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T13:45:48Z",
-      "url": "https://pypi.org/project/anosys-agentic-ai-package/0.0.14/"
-    },
-    {
-      "id": 70,
-      "title": "rasa-pro 3.13.3",
-      "summary": "rasa-pro 3.13.3 is a state-of-the-art open-core Conversational AI framework for Enterprises that utilizes generative AI for easy assistant development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:45:37Z",
-      "url": "https://pypi.org/project/rasa-pro/3.13.3/"
-    },
-    {
-      "id": 51,
-      "title": "WARC report highlights trends, insights in programmatic market",
-      "summary": "WARC report highlights trends and insights in the programmatic market, pointing out the rise of AI-driven brand safety tools, prDOOH, and programmatic curation.",
-      "source": "Mediaincanada.com",
-      "category": "research",
-      "timestamp": "2025-07-17T13:24:13Z",
-      "url": "https://mediaincanada.com/2025/07/17/warc-report-2025/"
-    },
-    {
-      "id": 52,
-      "title": "enhanced-mcp-memory added to PyPI",
-      "summary": "Enhanced MCP server with AI-powered features for memory and task management has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:22:18Z",
-      "url": "https://pypi.org/project/enhanced-mcp-memory/"
-    },
-    {
-      "id": 53,
-      "title": "enhanced-mcp-memory 1.2.1",
-      "summary": "The enhanced-mcp-memory 1.2.1 is an improved MCP server that includes AI-powered features for memory and task management.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:22:18Z",
-      "url": "https://pypi.org/project/enhanced-mcp-memory/1.2.1/"
-    },
-    {
-      "id": 54,
-      "title": "Nvidia workstation GPUs fall to first-ever GDDR6 Rowhammer bit-flip attack",
-      "summary": "Nvidia workstation GPUs vulnerable to first-ever GDDR6 Rowhammer attack demonstrated by University of Toronto researchers, with mitigation already available.",
-      "source": "TechSpot",
-      "category": "research",
-      "timestamp": "2025-07-17T13:22:00Z",
-      "url": "https://www.techspot.com/news/108698-nvidia-workstation-gpus-fall-first-ever-gddr6-rowhammer.html"
-    },
-    {
-      "id": 55,
-      "title": "Got a job interview? Be ready to impress a bot",
-      "summary": "AI is being used for initial job interviews in tech companies like Fractal Analytics and UST, conducting interviews and screening candidates. It also designs tests, checks for cheating, and analyzes candidate communication.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-17T13:21:12Z",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/got-a-job-interview-be-ready-to-impress-a-bot-ai-interview-happiest-minds-ustfractal/articleshow/122643065.cms"
-    },
-    {
-      "id": 56,
-      "title": "Cognitive Media Market Size to Surpass USD 10.07 Billion by 2032, Driven by AI Innovation, Personalization, and Real-Time Analytics | SNS Insider",
-      "summary": "The U.S. Cognitive Media Market is projected to surpass USD 10.07 billion by 2032, driven by AI innovation, personalization, and real-time analytics. The market is expected to grow at a CAGR of 23.92% from 2024 to 2032, with the U.S. market reaching USD 2.96 billion by 2032.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-17T13:20:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117308/0/en/Cognitive-Media-Market-Size-to-Surpass-USD-10-07-Billion-by-2032-Driven-by-AI-Innovation-Personalization-and-Real-Time-Analytics-SNS-Insider.html"
-    },
-    {
-      "id": 57,
-      "title": "Your Next Braider Might Be An AI Robot — And Here’s Why Black Women Ain’t Mad About It!",
-      "summary": "Tired of the long hours in the salon? Black women may not be mad about AI robots being their next braider.",
-      "source": "The Root",
-      "category": "applications",
-      "timestamp": "2025-07-17T13:19:16Z",
-      "url": "https://www.theroot.com/your-next-braider-might-be-an-ai-robot-and-heres-why-2000051113"
-    },
-    {
-      "id": 58,
-      "title": "TSMC US chip production may soon only be three years behind Taiwan",
-      "summary": "TSMC's US chip production may catch up to Taiwan within three years as the company accelerates the building of two plants in Arizona, potentially bringing more Apple chip production to the region faster.",
-      "source": "AppleInsider",
-      "category": "economy",
-      "timestamp": "2025-07-17T13:19:14Z",
-      "url": "https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan"
-    },
-    {
-      "id": 59,
-      "title": "TexIV 0.1.10",
-      "summary": "TexIV 0.1.10 is a machine learning-based method for transforming text into instrumental variables (IV).",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-17T13:19:13Z",
-      "url": "https://pypi.org/project/texiv/0.1.10/"
-    },
-    {
-      "id": 60,
-      "title": "Tempus AI, Inc. (TEM) and Personalis Join Forces to Take on Colorectal Cancer",
-      "summary": "Tempus AI, Inc. (TEM) and Personalis are joining forces to take on colorectal cancer, with Tempus AI being popular among hedge funds and having a bullish sentiment surrounding it.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-17T13:19:11Z",
-      "url": "https://finance.yahoo.com/news/tempus-ai-inc-tem-personalis-131911227.html"
-    },
-    {
-      "id": 61,
-      "title": "Musk Uses Grok's AI Replies To Attack Trump Over ‘Epstein Files’",
-      "summary": "Musk criticizes Trump over Epstein files using AI-generated responses.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-17T13:19:07Z",
-      "url": "https://www.forbes.com/sites/siladityaray/2025/07/17/musk-uses-groks-ai-replies-to-attack-trump-over-epstein-files/"
-    },
-    {
-      "id": 62,
-      "title": "BMO Capital Maintains ‘Outperform’ Rating on Intuit Inc. (INTU); Raises PT from $820 to $870",
-      "summary": "BMO Capital maintains 'Outperform' rating on Intuit Inc. and raises price target, highlighting the company's strong position in AI infrastructure technology.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-17T13:18:49Z",
-      "url": "https://finance.yahoo.com/news/bmo-capital-maintains-outperform-rating-131849881.html"
-    },
-    {
-      "id": 63,
-      "title": "Famous director and CA Shekhar Kapur predicts bold AI future for education: ‘Everyone will be their own CEO'",
-      "summary": "Famous director Shekhar Kapur predicts a bold AI future for education, envisioning a scenario where everyone becomes their own CEO through AI-driven changes in the education system.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:18:02Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/famous-director-and-ca-shekhar-kapur-predicts-bold-ai-future-for-education-everyone-will-be-their-own-ceo/articleshow/122642985.cms"
-    },
-    {
-      "id": 64,
-      "title": "New Affordable Honor X6a Smartphone Launched in Nepal: Specs, Price, and Where to Buy the Budget-Friendly Phone",
-      "summary": "New affordable HONOR X6a smartphone launched in Nepal, featuring AI capabilities. The budget-friendly phone offers smart features and stylish design.",
-      "source": "Nep123.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T13:17:53Z",
-      "url": "https://nep123.com/new-affordable-honor-x6a-smartphone-launched-in-nepal-specs-price-and-where-to-buy-the-budget-friendly-phone/"
     }
   ]
 }
