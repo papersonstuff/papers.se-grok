@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-18T05:21:53.929Z",
+  "lastUpdate": "2025-07-18T05:49:11.857Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Project Nectar: Another Palantir Special",
+      "summary": "Project Nectar is a new surveillance state initiative being tested in the UK, raising ethical concerns about privacy and civil liberties.",
+      "source": "Nakedcapitalism.com",
+      "category": "ethics",
+      "timestamp": "2025-07-17T05:47:21Z",
+      "url": "https://www.nakedcapitalism.com/2025/07/project-nectar-another-palantir-special.html"
+    },
+    {
+      "id": 52,
+      "title": "Sadoun says WPP & Omnicom-IPG upheaval hurting advertising as Publicis pulls further ahead",
+      "summary": "Publicis CEO discusses how the upheaval between WPP & Omnicom-IPG is impacting advertising and explains why he is looking forward to the completion of the merger. Publicis is pulling ahead in the advertising industry amidst these changes.",
+      "source": "The Drum",
+      "category": "economy",
+      "timestamp": "2025-07-17T05:45:00Z",
+      "url": "https://www.thedrum.com/news/2025/07/17/sadoun-says-wpp-omnicom-ipg-upheaval-hurting-advertising-publicis-pulls-further"
+    },
+    {
+      "id": 53,
+      "title": "Airtel Offers Perplexity Pro Users For Free",
+      "summary": "Airtel has partnered with AI search engine Perplexity to offer all its subscribers a 12-month subscription to the pro version of the tool, a first-ever move by a telecom operator.",
+      "source": "Ndtvprofit.com",
+      "category": "innovation",
+      "timestamp": "2025-07-17T05:44:56Z",
+      "url": "https://www.ndtvprofit.com/business/airtel-offers-perplexity-pro-to-36-crore-users-at-no-cost"
+    },
+    {
+      "id": 54,
+      "title": "Elon Musk’s xAI permits challenged by NAACP, environmental groups in Memphis",
+      "summary": "Elon Musk's xAI permits challenged by NAACP and environmental groups in Memphis due to concerns over the use of gas-burning turbines to power its supercomputer facility.",
+      "source": "CNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-17T05:44:31Z",
+      "url": "https://www.cnbc.com/2025/07/16/musks-xai-permits-challenged-by-naacp-environmental-groups-memphis.html"
+    },
+    {
+      "id": 55,
+      "title": "TSMC's second-quarter profit soars nearly 61% as AI chip demand stays strong",
+      "summary": "TSMC's second-quarter profit surged nearly 61% due to strong demand for AI chips, surpassing expectations and reaching a new high.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-17T05:42:09Z",
+      "url": "https://biztoc.com/x/3e6be566d2ccf7ea"
+    },
+    {
+      "id": 56,
+      "title": "AI-generated music is going viral. Should the music industry be worried?",
+      "summary": "AI-generated music by The Velvet Sundown is gaining popularity, raising concerns in the music industry about its future.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-17T05:41:36Z",
+      "url": "https://biztoc.com/x/a2266593fe7bbbac"
+    },
+    {
+      "id": 57,
+      "title": "mseep-mcp-feedback-enhanced added to PyPI",
+      "summary": "mseep-mcp-feedback-enhanced added to PyPI - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment de...",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T05:41:30Z",
+      "url": "https://pypi.org/project/mseep-mcp-feedback-enhanced/"
+    },
+    {
+      "id": 58,
+      "title": "India and Spain are like 'twin brothers', carriers of 2 ancient civilisations: MP CM Yadav",
+      "summary": "India and Spain share cultural heritage, with Madhya Pradesh Chief Minister inviting Spanish investment in the state's growing sectors.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-17T05:41:22Z",
+      "url": "https://economictimes.indiatimes.com/news/india/india-and-spain-are-like-twin-brothers-carriers-of-2-ancient-civilisations-mp-cm-yadav/articleshow/122616574.cms"
+    },
+    {
+      "id": 59,
+      "title": "～システム管理者に聞いた世代間協働に関する意識調査～　8割のエンジニアが世代間協働を経験　若手の24.4%はシニアに「経験知」を、シニアの28.4%は若手に「最新技術」を学びたいと回答",
+      "summary": "An attitude survey on intergenerational collaboration involving system administrators revealed that 80% of engineers have experience with intergenerational collaboration. 24.4% of young engineers want to learn 'experiential knowledge' from seniors, while 28.4% of seniors want to learn 'latest technology' from young engineers.",
+      "source": "Prtimes.jp",
+      "category": "research",
+      "timestamp": "2025-07-17T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000035559.html"
+    },
+    {
+      "id": 60,
+      "title": "TSMC Q2 profit surges 60%, reaches historic high",
+      "summary": "TSMC's second-quarter profit surged 60.7%, reaching a historic high due to increased demand for semiconductors used in artificial intelligence.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-17T05:38:18Z",
+      "url": "https://www.channelnewsasia.com/business/tsmc-q2-profit-surges-60-reaches-historic-high-5242986"
+    },
+    {
+      "id": 61,
+      "title": "Publicis' CEO dismisses Meta threat, raises yearly growth guidance",
+      "summary": "French advertising firm Publicis raises full-year growth guidance and dismisses concerns over Meta's AI-powered ad creation system.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-17T05:33:02Z",
+      "url": "https://www.channelnewsasia.com/business/publicis-ceo-dismisses-meta-threat-raises-yearly-growth-guidance-5242966"
+    },
+    {
+      "id": 62,
+      "title": "mseep-zen-mcp-server added to PyPI",
+      "summary": "mseep-zen-mcp-server, an AI-powered MCP server with multiple model providers, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T05:31:33Z",
+      "url": "https://pypi.org/project/mseep-zen-mcp-server/"
+    },
+    {
+      "id": 63,
+      "title": "mseep-zen-mcp-server 0.1.0",
+      "summary": "mseep-zen-mcp-server 0.1.0 is an AI-powered MCP server that supports multiple model providers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-17T05:31:33Z",
+      "url": "https://pypi.org/project/mseep-zen-mcp-server/0.1.0/"
+    },
     {
       "id": 51,
       "title": "US Metal War: Silver Becomes Strategic as Premiums Explode",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T04:02:21Z",
       "url": "https://biztoc.com/x/91757a336d92fcd3"
-    },
-    {
-      "id": 55,
-      "title": "Beijing’s Dominance of the South China Sea Is Not Inevitable",
-      "summary": "Beijing's dominance in the South China Sea is not inevitable, but groupthink and short-termism are influencing judgments about the situation.",
-      "source": "Foreign Policy",
-      "category": "ethics",
-      "timestamp": "2025-07-17T04:01:21Z",
-      "url": "http://foreignpolicy.com/2025/07/17/south-china-sea-disputes-southeast-asia/"
-    },
-    {
-      "id": 56,
-      "title": "Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media",
-      "summary": "Jack Dorsey invests $10 million in nonprofit 'and Other Stuff' to develop open-source social media technology.",
-      "source": "TechCrunch",
-      "category": "innovation",
-      "timestamp": "2025-07-17T04:01:00Z",
-      "url": "https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/"
-    },
-    {
-      "id": 57,
-      "title": "Media Briefing: AI is the new middleman, and it’s coming for the browser",
-      "summary": "AI is emerging as the new middleman in online browsing, potentially leading to a decline in search traffic for publishers and an increased focus on getting paid by AI companies.",
-      "source": "Digiday",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:01:00Z",
-      "url": "http://digiday.com/media/media-briefing-ai-is-the-new-middleman-and-its-coming-for-the-browser/"
-    },
-    {
-      "id": 58,
-      "title": "Instagram offers a new guide to advertisers to convince them to try out its creator marketplace",
-      "summary": "Instagram has released a guide for advertisers to try out its Creator Marketplace, aiming to streamline the process and attract more users to the platform.",
-      "source": "Digiday",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:01:00Z",
-      "url": "http://digiday.com/marketing/instagram-offers-a-new-guide-to-advertisers-to-convince-them-to-try-out-its-creator-marketplace/"
-    },
-    {
-      "id": 59,
-      "title": "Jack Dorsey pumps $10M into a nonprofit focused on open source social media",
-      "summary": "Jack Dorsey invests $10M in nonprofit 'and Other Stuff' to develop open source social technology.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-17T04:01:00Z",
-      "url": "https://techcrunch.com/2025/07/16/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media/"
-    },
-    {
-      "id": 60,
-      "title": "Boyamic 2 AI-Powered Mini Wireless Microphone: 30% off, from $70 + free shipping",
-      "summary": "Boya is offering 30% off its Boyamic 2 AI-Powered Mini Wireless Microphone options, with prices starting at $70 after the promo code and free shipping for all orders.",
-      "source": "Dealnews.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T04:00:00Z",
-      "url": "https://www.dealnews.com/Boyamic-2-AI-Powered-Mini-Wireless-Microphone-30-off-from-70-free-shipping/21753357.html"
-    },
-    {
-      "id": 61,
-      "title": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles",
-      "summary": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles, inspired by how we use emojis to communicate.",
-      "source": "TechCrunch",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:00:00Z",
-      "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-solve-puzzles/"
-    },
-    {
-      "id": 62,
-      "title": "Midnight Mania! Shane Gillis’ UFC White House Zinger Shocks Audience",
-      "summary": "Shane Gillis shocks audience with UFC White House zinger during MMA coverage",
-      "source": "MMA Mania",
-      "category": "applications",
-      "timestamp": "2025-07-17T04:00:00Z",
-      "url": "https://www.mmamania.com/2025/7/17/24469132/shane-gillis-shocks-espys-crowd-ufc-white-house-zinger-donald-trump-dc-mike-pence-almost-died"
-    },
-    {
-      "id": 51,
-      "title": "Publicis Upgrades 2025 Guidance Following Mars and Paramount Wins",
-      "summary": "Publicis Groupe upgrades 2025 guidance after successful quarter, following wins with Mars and Paramount.",
-      "source": "Adweek",
-      "category": "economy",
-      "timestamp": "2025-07-17T03:12:28Z",
-      "url": "https://www.adweek.com/agencies/publicis-upgrades-2025-guidance-mars-paramount-wins/"
-    },
-    {
-      "id": 52,
-      "title": "Sudden Strike 5 Announced For Release in 2026",
-      "summary": "Sudden Strike 5 has been announced for release in 2026, building off the success of the tactical series with new units and features.",
-      "source": "Bleeding Cool News",
-      "category": "innovation",
-      "timestamp": "2025-07-17T03:12:04Z",
-      "url": "https://bleedingcool.com/games/sudden-strike-5-announced-for-release-in-2026/"
-    },
-    {
-      "id": 53,
-      "title": "Nvidia CEO disclaims US-China trade and export policy influence",
-      "summary": "Nvidia CEO disclaims US-China trade and export policy influence during visit to China, addressing questions about the US H20 chip ban and tech conflict, stating he had not changed his position on the restrictions but kept Washington updated on AI developments.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-17T03:11:40Z",
-      "url": "https://www.digitimes.com/news/a20250717PD218/nvidia-policy-market-ceo-ban.html"
-    },
-    {
-      "id": 54,
-      "title": "【AIに耳を与える】常時起動型AI「StandBy」クラウドファンディング開始",
-      "summary": "AI-zen Inc. has started a crowdfunding campaign for an always-on AI called 'StandBy' which gives AI the ability to listen.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-17T03:08:52Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000006.000125667.html"
-    },
-    {
-      "id": 55,
-      "title": "China is winning Donald Trump’s trade war",
-      "summary": "China is winning Donald Trump’s trade war by being willing to risk a trade war the United States may lose, rather than kowtow to Trump.",
-      "source": "The Japan Times",
-      "category": "economy",
-      "timestamp": "2025-07-17T03:08:00Z",
-      "url": "https://www.japantimes.co.jp/commentary/2025/07/17/world/china-winning-trumps-trade-war/"
     }
   ]
 }
