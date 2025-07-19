@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-19T15:52:41.019Z",
+  "lastUpdate": "2025-07-19T16:17:56.300Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Is your Ring camera showing strange logins? Here's what's going on",
+      "summary": "Ring camera users are reporting strange logins, with some users suspecting hacking despite Ring's denial. This raises concerns about personal privacy and data security in smart home devices.",
+      "source": "ZDNet",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:17:24Z",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/is-your-ring-camera-showing-strange-logins-heres-whats-going-on/"
+    },
+    {
+      "id": 52,
+      "title": "Tired Microsoft employees say layoffs impacting 9,000 people could've been avoided by reducing spending on AI instead: \"I can't believe how deep the cuts run\"",
+      "summary": "Microsoft employees believe layoffs impacting 9,000 people could've been avoided by reducing spending on AI, highlighting ethical concerns around prioritizing technology over human jobs",
+      "source": "GamesRadar+",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:16:19Z",
+      "url": "https://www.gamesradar.com/games/tired-microsoft-employees-say-layoffs-impacting-9-000-people-couldve-been-avoided-by-reducing-spending-on-ai-instead-i-cant-believe-how-deep-the-cuts-run/"
+    },
+    {
+      "id": 53,
+      "title": "Americans Told to Stay Out of the Sun in 20 States This Weekend",
+      "summary": "Americans are being warned to stay out of the sun in 20 states this weekend due to elevated UV radiation levels, as predicted by AI-generated voice technology. This highlights the application of AI in providing real-time weather alerts and helping protect public health.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T16:15:14Z",
+      "url": "https://biztoc.com/x/6c9f573844b61fe1"
+    },
+    {
+      "id": 54,
+      "title": "US and NATO Ally Flex Aircraft Carrier Muscles in Pacific",
+      "summary": "Aircraft carriers deployed by the United States and the United Kingdom conducted joint operations in the Pacific amid concerns over China's increasing presence.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-18T16:15:02Z",
+      "url": "https://biztoc.com/x/78bbb0d5b8e7afd7"
+    },
+    {
+      "id": 55,
+      "title": "Husband Denied Entry Into US to Get Body of His Dead Wife",
+      "summary": "A man in Mexico is unable to retrieve his wife's body in the US after her death in a car crash due to denied visa. The use of AI to generate voice denial may have led to inconsistencies in the decision.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:15:00Z",
+      "url": "https://biztoc.com/x/d42cf03590f86470"
+    },
+    {
+      "id": 56,
+      "title": "Deploy a full stack voice AI agent with Amazon Nova Sonic",
+      "summary": "Deploy a full stack voice AI agent named Telly for a fictional company called AnyTelco, which can handle customer inquiries about plans and services while accessing real-time customer data using custom tools.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T16:14:43Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-full-stack-voice-ai-agent-with-amazon-nova-sonic/"
+    },
+    {
+      "id": 57,
+      "title": "For Sterling K. Brown, Hulu's 'Washington Black' Seeks Black Joy, Not Pain",
+      "summary": "Sterling K. Brown emphasizes the importance of creating opportunities for other people in AI-generated voice performance for Hulu's 'Washington Black'.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:14:43Z",
+      "url": "https://biztoc.com/x/454c19b2c16ef39d"
+    },
     {
       "id": 51,
       "title": "OpenAI Transforms ChatGPT Into an AI Agent",
@@ -387,69 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T15:06:42Z",
       "url": "https://www.mediaite.com/media/news/donald-trump-jr-rushes-to-defend-dad-after-wsjs-epstein-report-ive-never-seen-him-doodle-once/"
-    },
-    {
-      "id": 64,
-      "title": "Steam's Updated Guidelines Allow Banks To Enforce Standards On Adult-Only Content",
-      "summary": "Steam's updated guidelines now allow banks to enforce standards on adult-only content, potentially leading to a purging of such content on the platform.",
-      "source": "GameSpot",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:06:00Z",
-      "url": "https://www.gamespot.com/articles/steams-updated-guidelines-allow-banks-to-enforce-standards-on-adult-only-content/1100-6533253/"
-    },
-    {
-      "id": 51,
-      "title": "How Distillation Makes AI Models Smaller and Cheaper",
-      "summary": "Fundamental technique allows researchers to use a big 'teacher' model to train a smaller 'student' model for less, making AI models smaller and cheaper.",
-      "source": "Quanta Magazine",
-      "category": "research",
-      "timestamp": "2025-07-18T14:50:08Z",
-      "url": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
-    },
-    {
-      "id": 52,
-      "title": "I hate Windows 11 a little less because of this tiny free app",
-      "summary": "I hate Windows 11 a little less because of this tiny free app - I like Windows 11 a lot less than I liked Windows 10—and that was before it started advertising to me incessantly and filling up every nook and cranny of the experience with 'AI' I neither wanted nor asked for.",
-      "source": "PCWorld",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:49:56Z",
-      "url": "https://www.pcworld.com/article/2847973/i-hate-windows-11-a-little-less-because-of-this-tiny-free-app.html"
-    },
-    {
-      "id": 53,
-      "title": "tf-nightly 2.21.0.dev20250718",
-      "summary": "tf-nightly 2.21.0.dev20250718 - TensorFlow is an open source machine learning framework for everyone.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:49:13Z",
-      "url": "https://pypi.org/project/tf-nightly/2.21.0.dev20250718/"
-    },
-    {
-      "id": 54,
-      "title": "$1.99: Read Write Own: Building the Next Era of the Internet (eBook) by Chris Dixon",
-      "summary": "The eBook 'Read Write Own: Building the Next Era of the Internet' by Chris Dixon is available on various retailers like Amazon, iBooks, Barnes & Noble, Google Play Store, Kobo, and Bookshop.",
-      "source": "Slickdeals.net",
-      "category": "applications",
-      "timestamp": "2025-07-18T14:49:10Z",
-      "url": "https://slickdeals.net/f/18467752-1-99-read-write-own-building-the-next-era-of-the-internet-ebook-by-chris-dixon"
-    },
-    {
-      "id": 55,
-      "title": "5 best investment management CRMs in 2025",
-      "summary": "5 best investment management CRMs in 2025 highlighted for their ability to handle high-stakes portfolios, detailed reporting cycles, and compliance rules in investment firms.",
-      "source": "Hubspot.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T14:48:45Z",
-      "url": "https://blog.hubspot.com/marketing/investment-management-crm#article"
-    },
-    {
-      "id": 56,
-      "title": "Humidity Sensor Company Evaluation Report 2025 | Amphenol, Honeywell, and Texas Instruments Lead Humidity Sensor Market with Innovation, Global Expansion, and Sector Diversification",
-      "summary": "Amphenol, Honeywell, and Texas Instruments are leading the humidity sensor market with innovation, global expansion, and sector diversification. The Humidity Sensor Companies Quadrant provides a detailed analysis of the top 25 players in the market, highlighting technology advancements, product innovations, and industry trends.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-18T14:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118021/28124/en/Humidity-Sensor-Company-Evaluation-Report-2025-Amphenol-Honeywell-and-Texas-Instruments-Lead-Humidity-Sensor-Market-with-Innovation-Global-Expansion-and-Sector-Diversification.html"
     }
   ]
 }
