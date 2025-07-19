@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-18T23:50:35.395Z",
+  "lastUpdate": "2025-07-19T01:15:51.703Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Morning Brief Podcast: Brandalore Rising!",
+      "summary": "Bengaluru is becoming India's new advertising hub, rivalling Mumbai and Delhi, driven by a mix of startups, digitally native brands, and independent firms.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T01:14:15Z",
+      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-brandalore-rising/podcast/122707660.cms"
+    },
+    {
+      "id": 52,
+      "title": "Nvidia CEO: If I were a 20-year-old again today, this is the field I would focus on in college",
+      "summary": "Nvidia CEO Jensen Huang believes that students should focus on the physical sciences if they were to start college today, emphasizing the importance of this field for future innovation in AI.",
+      "source": "CNBC",
+      "category": "innovation",
+      "timestamp": "2025-07-18T01:13:59Z",
+      "url": "https://www.cnbc.com/2025/07/18/nvidia-ceo-jensen-huang-study-field-computer-science-software-gpu-alexnet-generative-physical-ai-university.html"
+    },
+    {
+      "id": 53,
+      "title": "Fed Governor Lisa Cook: AI Set to Reshape Labor Market",
+      "summary": "Fed Governor Lisa Cook discusses how AI is set to reshape the labor market, with the Federal Reserve studying its impact and utilizing the technology for its own work.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T01:13:43Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/fed-governor-lisa-cook-ai-set-to-reshape-labor-market/"
+    },
+    {
+      "id": 54,
+      "title": "Vaishnaw lauds Meghalaya village-level entrepreneur for leading grassroots digital empowerment",
+      "summary": "Union minister Ashwini Vaishnaw lauded Rose Angelina M Kharsyntiew, a village-level entrepreneur (VLE) from Meghalaya, for her role in driving digital empowerment at the grassroots level.",
+      "source": "Thehillstimes.in",
+      "category": "applications",
+      "timestamp": "2025-07-18T01:10:00Z",
+      "url": "https://thehillstimes.in/northeast/vaishnaw-lauds-meghalaya-village-level-entrepreneur-for-leading-grassroots-digital-empowerment"
+    },
+    {
+      "id": 55,
+      "title": "phonic-python 0.1.19",
+      "summary": "phonic-python 0.1.19 is the official Python SDK for building voice AI with Phonic, enabling developers to create voice AI applications easily.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T01:05:20Z",
+      "url": "https://pypi.org/project/phonic-python/0.1.19/"
+    },
+    {
+      "id": 56,
+      "title": "Chip Maker TSMC's Stock Rises on Upbeat Outlook for Revenue, Strong AI Demand",
+      "summary": "Chip Maker TSMC's stock rises on upbeat outlook for revenue, driven by strong AI demand",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T01:05:03Z",
+      "url": "https://biztoc.com/x/9300d34f3c32b569"
+    },
+    {
+      "id": 57,
+      "title": "Asian stocks edge up after US gains, dollar dips",
+      "summary": "Asian stocks edge up after US gains, driven by positive economic data and strong performances in tech stocks like Taiwan Semiconductor and Netflix.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T01:05:01Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-edge-up-after-us-gains-dollar-dips/articleshow/122706746.cms"
+    },
+    {
+      "id": 58,
+      "title": "Wipro revenue drops 2.3% in June quarter",
+      "summary": "Wipro's Q1 revenue declined by 2.3% in constant currency, attributed to muted demand caused by macro uncertainty. Clients are prioritizing cost optimization and AI initiatives, impacting the revenue.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T01:03:14Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/wipro-revenue-drops-2-3-in-june-quarter/articleshow/122706298.cms"
+    },
+    {
+      "id": 59,
+      "title": "Cohesity、価値あるエンタープライズデータへのアクセスを簡素化・拡張のため Cohesity GaiaとMicrosoft 365 Copilotの統合を発表",
+      "summary": "Cohesity announces integration of Cohesity Gaia and Microsoft 365 Copilot to simplify and expand access to valuable enterprise data.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-18T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000072250.html"
+    },
+    {
+      "id": 60,
+      "title": "Pre-order deals: Get up to $300 in Samsung credit with your Galaxy Z Fold 7 or Flip 7",
+      "summary": "Pre-order deals offer up to $300 in Samsung credit for purchasing the Galaxy Z Fold 7 or Flip 7, but the best place to pre-order depends on individual preferences.",
+      "source": "Android Authority",
+      "category": "economy",
+      "timestamp": "2025-07-18T00:56:42Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-pre-order-deals-3578699/"
+    },
+    {
+      "id": 61,
+      "title": "直近3年間に企業が実施したインタビュー調査「内部実施」は68.3％、「外部委託」は65.7％　インタビュー調査の満足度、外部委託は64.0％、内部実施は52.5％",
+      "summary": "A recent survey by companies in the past 3 years found that 68.3% conducted internal interviews and 65.7% outsourced them. The satisfaction rate for outsourced interviews was 64.0% compared to 52.5% for internal interviews.",
+      "source": "Prtimes.jp",
+      "category": "research",
+      "timestamp": "2025-07-18T00:51:15Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000004240.html"
+    },
+    {
+      "id": 62,
+      "title": "aider-lint-fixer 1.3.0",
+      "summary": "Aider-lint-fixer 1.3.0 is an AI-powered tool that detects and fixes lint errors using artificial intelligence through aider.chat platform.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T00:50:46Z",
+      "url": "https://pypi.org/project/aider-lint-fixer/1.3.0/"
+    },
+    {
+      "id": 63,
+      "title": "aider-lint-fixer added to PyPI",
+      "summary": "AI-powered aider-lint-fixer tool for detecting and fixing lint errors released on PyPI by aider.chat",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T00:50:46Z",
+      "url": "https://pypi.org/project/aider-lint-fixer/"
+    },
+    {
+      "id": 64,
+      "title": "Patriots to move to Kyiv \"as quickly as possible.\" Man, Foxboro must have gotten really rough after Brady and Belichick left [Scary]",
+      "summary": "The New England Patriots are planning to move to Kyiv as quickly as possible. This decision may have been influenced by changes in the team after the departure of Tom Brady and Bill Belichick.",
+      "source": "Fark.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T00:45:59Z",
+      "url": "https://www.fark.com/comments/13744686/Patriots-to-move-to-Kyiv-as-quickly-as-possible-Man-Foxboro-must-have-gotten-really-rough-after-Brady-Belichick-left"
+    },
+    {
+      "id": 65,
+      "title": "revenium-mcp 0.1.20",
+      "summary": "Revenium-mcp 0.1.20 introduces Model Context Protocol server for monitoring, analytics, and managing AI spending through Revenium API.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T00:43:33Z",
+      "url": "https://pypi.org/project/revenium-mcp/0.1.20/"
+    },
+    {
+      "id": 66,
+      "title": "Meta execs settle with board in $8B lawsuit over data harvesting scandal",
+      "summary": "Meta execs settle with board in $8B lawsuit over data harvesting scandal involving Cambridge Analytica, addressing shareholder losses related to privacy issues.",
+      "source": "SiliconANGLE News",
+      "category": "ethics",
+      "timestamp": "2025-07-18T00:42:55Z",
+      "url": "https://siliconangle.com/2025/07/17/meta-execs-settle-board-8-billion-lawsuit-data-harvesting-scandal/"
+    },
     {
       "id": 51,
       "title": "Why use a Canva Verified Expert? Who they are and how to work with them",
@@ -306,150 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-17T23:07:31Z",
       "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250717/"
-    },
-    {
-      "id": 59,
-      "title": "Top 10 APIs Driving Answer Engine Optimization (AEO) in 2025",
-      "summary": "Top 10 APIs are driving Answer Engine Optimization (AEO) in 2025, showing the need for brands to use AEO-ready APIs such as Google AI Overviews, ChatGPT Browse, and TikTok for better search engine performance.",
-      "source": "Contently.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T23:06:00Z",
-      "url": "https://contently.com/2025/07/17/top-10-apis-driving-answer-engine-optimization-aeo-in-2025/"
-    },
-    {
-      "id": 60,
-      "title": "White House Prepares Executive Order Targeting 'Woke AI' (Wall Street Journal)",
-      "summary": "White House is preparing an executive order targeting 'woke AI' as part of Trump's vision to win the AI race with China.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T23:05:01Z",
-      "url": "https://www.memeorandum.com/250717/p136"
-    },
-    {
-      "id": 61,
-      "title": "Amazon’s AWS has joined the AI agent craze. Now the real work of showing Fortune 500 companies how to actually use them begins",
-      "summary": "Amazon's AWS has introduced Agentcore, a set of services for building and deploying AI agents, aimed at helping Fortune 500 companies utilize them effectively.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:03:04Z",
-      "url": "https://biztoc.com/x/1188def1ba2773fd"
-    },
-    {
-      "id": 62,
-      "title": "ChatGPT's New Update Can Create PowerPoint Presentations and Excel Spreadsheets for You",
-      "summary": "ChatGPT's new update includes the ability to create PowerPoint presentations and Excel spreadsheets, enhancing its capabilities as a powerful office tool.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T23:03:00Z",
-      "url": "https://biztoc.com/x/dbd4776621c37b12"
-    },
-    {
-      "id": 63,
-      "title": "Tapped-Out Consumers Shape Summer Retail’s Innovation Bets and Price Wars",
-      "summary": "The summer of 2025 is shaping up to be a crucial time for global retailers, as they navigate geopolitical challenges, U.S. tariffs, AI disruption, and changing consumer preferences.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T23:02:58Z",
-      "url": "https://biztoc.com/x/c82c8a4593f3e8c7"
-    },
-    {
-      "id": 64,
-      "title": "Android 16 QPR1 Beta 3: Colorful weather icons return, search bar tweaked",
-      "summary": "Android 16 QPR1 Beta 3 includes tweaks to weather in At a Glance and the Pixel Launcher search field, with the stable launch expected in September.",
-      "source": "9to5google.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:02:00Z",
-      "url": "http://9to5google.com/2025/07/17/android-16-qpr1-weather-icons/"
-    },
-    {
-      "id": 65,
-      "title": "Vimeo Video Sharing Platform Brings Back Their Apple TV App",
-      "summary": "Vimeo has relaunched their streaming app on Apple TV, allowing users to share and watch videos on the platform once again.",
-      "source": "Mactrast.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:01:28Z",
-      "url": "https://www.mactrast.com/2025/07/vimeo-video-sharing-platform-brings-back-apple-tv-app/"
-    },
-    {
-      "id": 66,
-      "title": "Leading lights of UK research spearhead search for world's best talent",
-      "summary": "Leading UK research institutions chosen to receive government funds for recruiting top researchers in the field of AI.",
-      "source": "Www.gov.uk",
-      "category": "research",
-      "timestamp": "2025-07-17T23:01:01Z",
-      "url": "https://www.gov.uk/government/news/leading-lights-of-uk-research-spearhead-search-for-worlds-best-talent"
-    },
-    {
-      "id": 67,
-      "title": "Review: No Sleep for Kaname Date – From AI: THE SOMNIUM FILES (Nintendo Switch)",
-      "summary": "A review of the game No Sleep for Kaname Date - From AI: THE SOMNIUM FILES on Nintendo Switch highlights the rewarding experience of exploring what one has been missing. The game features AI-related themes and challenges, making it engaging for players interested in artificial intelligence applications.",
-      "source": "Purenintendo.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:00:57Z",
-      "url": "https://purenintendo.com/review-no-sleep-for-kaname-date-from-ai-the-somnium-files-nintendo-switch/"
-    },
-    {
-      "id": 68,
-      "title": "“Is it just me?”: What’s going on with our weather apps, and is it tied to DOGE cuts?",
-      "summary": "As people head off to sunny destinations for their summer vacation, some travelers are reporting that the weather forecasts that once helped them plan their travels aren’t as accurate as they used to be.",
-      "source": "The Daily Dot",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:00:35Z",
-      "url": "https://www.dailydot.com/news/weather-apps-doge-cuts/"
-    },
-    {
-      "id": 69,
-      "title": "Quantum Threshold Brings High-Intensity Seated Combat to PC VR Today",
-      "summary": "Quantum Threshold brings high-intensity seated combat to PC VR, focusing on accessibility through gameplay.",
-      "source": "UploadVR",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:00:22Z",
-      "url": "https://www.uploadvr.com/quantum-threshold-pc-vr-launch/"
-    },
-    {
-      "id": 70,
-      "title": "Dan Da Dan meets Mindhunter in this fresh, futuristic detective game",
-      "summary": "Dan Da Dan meets Mindhunter in this fresh, futuristic detective game - I’ve been a big fan of the AI: The Somnium Files series since its 2019 debut, and have been a hardcore Kaname Date stan for just as long. So, naturally, upon hearing about the third game in the series, I was hyped - doubly so to see my beloved's name front an…",
-      "source": "Pockettactics.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:00:19Z",
-      "url": "https://www.pockettactics.com/no-sleep-for-kaname-date-review"
-    },
-    {
-      "id": 51,
-      "title": "Trump Has a Bad Case of Biden on the Brain",
-      "summary": "Donald Trump's fixation on Joe Biden and other opponents may be a calculated distraction from his failures, including on trade and peace deals.",
-      "source": "The New Yorker",
-      "category": "ethics",
-      "timestamp": "2025-07-17T22:53:57Z",
-      "url": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-has-a-bad-case-of-biden-on-the-brain"
-    },
-    {
-      "id": 52,
-      "title": "Charlotte push for Giakoumakis",
-      "summary": "Charlotte FC is in negotiations with Cruz Azul for Giorgos Giakoumakis, with the MLS club planning to make another offer after their initial one was rejected.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-17T22:51:00Z",
-      "url": "https://onefootball.com/en/news/charlotte-push-for-giakoumakis-41390142"
-    },
-    {
-      "id": 53,
-      "title": "Musk unleashes AI Grok and X storm to expose Epstein secrets after Trump blocks release of new files",
-      "summary": "Elon Musk criticizes Donald Trump for withholding Jeffrey Epstein files, accusing Trump of concealing important information",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-17T22:49:19Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/musk-unleashes-ai-grok-and-x-storm-to-expose-epstein-secrets-after-trump-blocks-release-of-new-files/articleshow/122692882.cms"
-    },
-    {
-      "id": 54,
-      "title": "'Utopian' city California Forever announces huge tech manufacturing park  | TechCrunch",
-      "summary": "'Utopian' city California Forever announces Solano Foundry, a 2,100-acre manufacturing park for advanced tech manufacturing.",
-      "source": "TechCrunch",
-      "category": "innovation",
-      "timestamp": "2025-07-17T22:48:03Z",
-      "url": "https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/"
     }
   ]
 }
