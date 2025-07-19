@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-19T10:54:21.287Z",
+  "lastUpdate": "2025-07-19T11:13:00.392Z",
   "items": [
+    {
+      "id": 51,
+      "title": "EY's London cleaners are picketing its office after over a third were told their jobs could be cut",
+      "summary": "Cleaners at EY's London office are protesting potential job cuts, accusing the company of being the 'Dirtiest employer of the year'.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:11:40Z",
+      "url": "https://www.businessinsider.com/ey-cleaning-staff-strike-over-proposed-layoffs-big-four-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "New quantum magnetic navigation system to replace aircraft GPS",
+      "summary": "New quantum magnetic navigation system developed to replace aircraft GPS due to satellite positioning system signal disruptions.",
+      "source": "TelecomTV",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:11:22Z",
+      "url": "https://www.telecomtv.com/content/security/new-quantum-magnetic-navigation-system-to-replace-aircraft-gps-53468/"
+    },
+    {
+      "id": 53,
+      "title": "All the Important New iOS 26 Features, From Liquid Glass to Photos App Fixes",
+      "summary": "Your iPhone will look different and get new features when iOS 26 ships in the fall, including Liquid Glass and fixes to the Photos app.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-18T11:11:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/all-the-important-new-ios-26-features-from-liquid-glass-to-photos-app-fixes/"
+    },
+    {
+      "id": 54,
+      "title": "Elon Musk teasing a Grok male companion inspired by \"50 Shades of Grey\" — beating Microsoft's AI CEO at his own game",
+      "summary": "Elon Musk teases a new Grok male companion inspired by '50 Shades of Grey' and Twilight, beating Microsoft's AI CEO at his own game",
+      "source": "Windows Central",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:10:36Z",
+      "url": "https://www.windowscentral.com/artificial-intelligence/elon-musk-teasing-a-grok-male-companion"
+    },
+    {
+      "id": 55,
+      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
+      "summary": "AI models with systemic risks given pointers on how to comply with EU AI rules to address criticism and provide clarity to businesses facing fines.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:07:47Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules/articleshow/122764502.cms"
+    },
+    {
+      "id": 56,
+      "title": "Antivirus vs Anti-malware: which is best for you?",
+      "summary": "Comparison between antivirus software and anti-malware to help users determine which one is best suited for their needs.",
+      "source": "TechRadar",
+      "category": "research",
+      "timestamp": "2025-07-18T11:07:31Z",
+      "url": "https://www.techradar.com/pro/security/antivirus-vs-anti-malware-which-is-best-for-you"
+    },
+    {
+      "id": 57,
+      "title": "Former rugby player sentenced for $900K crypto mining Ponzi",
+      "summary": "Former rugby player sentenced to 2.5 years in prison for running a $900K Ponzi scheme disguised as a crypto mining operation.",
+      "source": "Cointelegraph",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:06:32Z",
+      "url": "https://cointelegraph.com/news/rugby-shane-moore-gets-2-5-years-for-crypto-mining-ponzi"
+    },
+    {
+      "id": 58,
+      "title": "ALIEN: EARTH Full Trailer Unleashes The Xenomorph - And Four New Extraterrestrial Threats",
+      "summary": "Noah Hawley's Alien: Earth is set to premiere on August 12, showcasing the Xenomorph and new extraterrestrial threats in FX's new trailer.",
+      "source": "CBM (Comic Book Movie)",
+      "category": "applications",
+      "timestamp": "2025-07-18T11:06:22Z",
+      "url": "https://comicbookmovie.com/sci_fi/alien/alien-earth-full-trailer-unleashes-the-xenomorph---and-four-new-extraterrestrial-threats-a222858"
+    },
+    {
+      "id": 59,
+      "title": "Ex-Google CEO: ‘AI’s natural limit is electricity, not chips’",
+      "summary": "Ex-Google CEO states that AI's natural limit is electricity, not chips, due to the excessive amount of water AI is projected to use by 2027.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:05:00Z",
+      "url": "https://fortune.com/2025/07/18/eric-schmidt-ai-natural-limit-electricity-chips-water-usage/"
+    },
+    {
+      "id": 60,
+      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
+      "summary": "AI models with systemic risks are given guidelines to comply with EU AI rules, aimed at mitigating potential threats and ensuring adherence to European Union regulations.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:04:55Z",
+      "url": "https://www.channelnewsasia.com/business/ai-models-systemic-risks-given-pointers-how-comply-eu-ai-rules-5245821"
+    },
+    {
+      "id": 61,
+      "title": "Inside Apple Calendar - Creating events, setting reminders & remembering birthdays",
+      "summary": "Inside Apple Calendar - Creating events, setting reminders & remembering birthdays - Apple Calendar may look deceptively simple, but it's actually one of the most sophisticated scheduling tools in the Apple ecosystem.",
+      "source": "AppleInsider",
+      "category": "applications",
+      "timestamp": "2025-07-18T11:04:21Z",
+      "url": "https://appleinsider.com/inside/ios-26/tips/inside-apple-calendar---creating-events-setting-reminders-remembering-birthdays"
+    },
+    {
+      "id": 62,
+      "title": "(PR) Rapidus Achieves Significant Milestone with Prototyping of Leading-Edge 2nm GAA Transistors",
+      "summary": "Rapidus Corporation achieves milestone by prototyping leading-edge 2nm GAA transistors at its foundry, Rapidus Innovative Integration for Manufacturing.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:04:16Z",
+      "url": "https://www.techpowerup.com/339047/rapidus-achieves-significant-milestone-with-prototyping-of-leading-edge-2nm-gaa-transistors"
+    },
+    {
+      "id": 63,
+      "title": "Carney inherited a fiscal mess from Trudeau, and he is set to make it worse",
+      "summary": "Carney inherited a fiscal mess from Trudeau, and he is set to make it worse - Rising debt usually leads to slower growth, higher debt interest costs and higher taxes for future generations.",
+      "source": "The Globe And Mail",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:04:06Z",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-mark-carney-economy-fiscal-deficit-debt-interest-taxes/"
+    },
+    {
+      "id": 64,
+      "title": "Game-based Learning Market Forecast Report 2025-2030, with Case Studies of Hyundai, Clifton Public Schools, University of Illinois, Kahoot!, Maruti Suzuki and Tenneo'",
+      "summary": "Game-based Learning Market Forecast Report 2025-2030, with Case Studies of Hyundai, Clifton Public Schools, University of Illinois, Kahoot!, Maruti Suzuki and Tenneo' - The market is driven by the demand for digital tools and engaging content, with rapid growth in neurodiversity education and inclusive education initiatives. Language learning segments dominate due to the global need for mul…",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-18T11:04:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117825/28124/en/Game-based-Learning-Market-Forecast-Report-2025-2030-with-Case-Studies-of-Hyundai-Clifton-Public-Schools-University-of-Illinois-Kahoot-Maruti-Suzuki-and-Tenneo.html"
+    },
+    {
+      "id": 65,
+      "title": "Hawaii State Senator: Did Your Home Insurance Bill Increase? Big Oil Should Pay Up | Opinion",
+      "summary": "Hawaii State Senator suggests that Big Oil should pay for increased home insurance bills caused by climate change. The AI-generated opinion piece raises ethical questions about who should bear the financial burden of climate-related damages.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:03:46Z",
+      "url": "https://biztoc.com/x/02cb835791c16ea4"
+    },
+    {
+      "id": 66,
+      "title": "Iran's Military Leaders Threaten to Resume War",
+      "summary": "Iran's military leaders are threatening to resume war with Israel, with AI-generated voice potentially causing inconsistencies in the message.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:03:31Z",
+      "url": "https://biztoc.com/x/4060dc08099a08be"
+    },
+    {
+      "id": 67,
+      "title": "Donald Trump Fires Housing Market Accusation at Powell's Fed",
+      "summary": "President Donald Trump accuses the Federal Reserve of 'choking out the housing market' under Chair Jerome Powell, citing higher interest rates.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:03:29Z",
+      "url": "https://biztoc.com/x/6432099abbfc3c5b"
+    },
     {
       "id": 51,
       "title": "Is history repeating itself with the government’s push to open public sector cloud deals to SMEs?",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T10:10:00Z",
       "url": "https://onefootball.com/en/news/austrian-club-unveil-kit-featuring-double-digit-sponsors-41391535"
-    },
-    {
-      "id": 63,
-      "title": "Taxmann, EY India launch AI-powered platform for tax, legal professionals",
-      "summary": "Taxmann and EY India have collaborated to launch an AI-powered platform for tax and legal professionals, providing responses based on original content from Taxmann with the privacy and security of EY tax technology.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:09:28Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/taxmann-ey-india-launch-ai-powered-platform-for-tax-legal-professionals/article69827075.ece"
-    },
-    {
-      "id": 64,
-      "title": "1.7 million Texans could lose health care under ACA changes",
-      "summary": "1.7 million Texans may lose health care under ACA changes, as Texas did not expand Medicaid. The Affordable Care Act will have a significant impact on the state's healthcare system.",
-      "source": "The Texas Tribune",
-      "category": "economy",
-      "timestamp": "2025-07-18T10:08:46Z",
-      "url": "https://www.texastribune.org/2025/07/18/texas-health-coverage-loss-trump-gop-megabill-affordable-care-act/"
-    },
-    {
-      "id": 65,
-      "title": "Millions Told To Stop Driving in 3 States",
-      "summary": "Millions of Americans in 3 states were told to stop driving due to AI-generated voice warnings about high pollution levels.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:08:12Z",
-      "url": "https://biztoc.com/x/dc45e4367a0a45f3"
-    },
-    {
-      "id": 66,
-      "title": "Meet the Woman Spending Her Free Time Chasing ICE Vehicles",
-      "summary": "Angie Vargas started a popular TikTok account in which she pursues Immigration and Customs Enforcement (ICE) vehicles, using AI-generated voice technology. This application of AI is gaining attention for mixing activism with social media.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:08:02Z",
-      "url": "https://biztoc.com/x/8b88b2a66b465733"
-    },
-    {
-      "id": 51,
-      "title": "Customer experience remains central to SBI's growth strategy: Chairman",
-      "summary": "State Bank of India prioritizes customer experience in their growth strategy, leading to being named 'World's Best Consumer Bank' for 2025 by Global Finance magazine.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T09:48:45Z",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/customer-experience-remains-central-to-sbis-growth-strategy-chairman/articleshow/122762430.cms"
-    },
-    {
-      "id": 52,
-      "title": "Show HN: I created a resource to find the best AI apps for Real Estate",
-      "summary": "Created a resource to find the best AI apps for Real Estate after spending hours researching different tools for business automation in real estate.",
-      "source": "Propertyaitools.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:48:12Z",
-      "url": "https://www.propertyaitools.com/"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI: GPT-5 is coming, \"we'll see\" if it creates a shockwave",
-      "summary": "OpenAI is working on their next state-of-the-art model, GPT-5, but the release date is still unknown. The impact of GPT-5 on the AI field remains to be seen.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:47:46Z",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/"
-    },
-    {
-      "id": 54,
-      "title": "LameHug: first AI-Powered malware linked to Russia’s APT28",
-      "summary": "LameHug malware, the first AI-Powered malware linked to Russia's APT28, utilizes AI to create data-theft commands on infected Windows systems. Ukrainian CERT-UA warns of this new malware strain that uses a large language model to generate commands.",
-      "source": "Securityaffairs.com",
-      "category": "research",
-      "timestamp": "2025-07-18T09:47:36Z",
-      "url": "https://securityaffairs.com/180092/apt/lamehug-first-ai-powered-malware-linked-to-russias-apt28.html"
-    },
-    {
-      "id": 55,
-      "title": "Disruptive Innovation and Commercialisation in Earth Observation Training Course is now open for applications",
-      "summary": "Disruptive Innovation and Commercialisation in Earth Observation Training Course is now open for applications at the ESA Education Training Centre in ESEC-Galaxia from 8 to 11 December 2025.",
-      "source": "Esa.int",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:47:00Z",
-      "url": "https://www.esa.int/Education/ESA_Academy/Disruptive_Innovation_and_Commercialisation_in_Earth_Observation_Training_Course_is_now_open_for_applications"
-    },
-    {
-      "id": 56,
-      "title": "Facebook Deletes 10 Million Accounts And Warns The Purge Will Go On",
-      "summary": "Meta has confirmed that 10 million Facebook accounts have been deleted and the purge will continue, raising ethical questions about privacy and data protection on social media platforms.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-18T09:46:04Z",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/07/18/facebook-deletes-10-million-accounts-and-warns-the-purge-will-go-on/"
-    },
-    {
-      "id": 57,
-      "title": "Dog Desperate for Cuddles Not Allowed on the Couch—but He Has a Plan",
-      "summary": "A cuddly Border collie uses AI-generated voice to express his desire for affection and his clever plan to get on the couch, gaining popularity on TikTok.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:45:40Z",
-      "url": "https://biztoc.com/x/5595abbe67f7b77b"
-    },
-    {
-      "id": 58,
-      "title": "Coldplay Reacts to Astronomer CEO Andy Byron's Kiss Cam Moment",
-      "summary": "Coldplay frontman Chris Martin reacts to Astronomer CEO Andy Byron's kiss cam moment, created by an AI-generated voice. Byron and HR chief Kristin Cabot face cheating allegations.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T09:45:29Z",
-      "url": "https://biztoc.com/x/b2bf517b166d70da"
-    },
-    {
-      "id": 59,
-      "title": "92 Percent of People Don’t Check Their AI Answers, a New Report Warns",
-      "summary": "Recent research finds very few people check the accuracy of answers given by an AI tool, highlighting the importance of discussing best practices for using artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T09:45:15Z",
-      "url": "https://biztoc.com/x/99efa9078b1c3cca"
-    },
-    {
-      "id": 60,
-      "title": "What everyone’s missing about the future of Android — and ChromeOS",
-      "summary": "Everyone is talking about the potential merging of Android and ChromeOS, sparking a sense of déjà vu in the tech community as similar discussions have happened before. This move is seen as an innovative step towards the future of these operating systems.",
-      "source": "Computerworld",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:45:00Z",
-      "url": "https://www.computerworld.com/article/4023608/android-chromeos-merger.html"
-    },
-    {
-      "id": 61,
-      "title": "William Blair Reiterates “Outperform” Rating for Simulations Plus (NASDAQ:SLP)",
-      "summary": "William Blair reissued their outperform rating on shares of Simulations Plus (NASDAQ:SLP – Free Report) in a research report sent to investors, with estimates for FY2026 earnings at $0.86 EPS.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-18T09:44:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/william-blair-reiterates-outperform-rating-for-simulations-plus-nasdaqslp/"
-    },
-    {
-      "id": 62,
-      "title": "New OpenAI ChatGPT Agent : The AI Tool That Does It All, So You Don’t Have To",
-      "summary": "The new OpenAI ChatGPT Agent is an innovative AI tool designed to handle tedious tasks and constantly improve. It combines advanced capabilities into a single system for more efficient and effective productivity.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:43:55Z",
-      "url": "https://www.geeky-gadgets.com/chatgpt-agent/"
-    },
-    {
-      "id": 63,
-      "title": "Delta to determine 20% of fares individually using AI by YE, Fortune reports",
-      "summary": "Delta plans to determine 20% of fares individually using AI by the end of the year, as reported by Fortune.",
-      "source": "Thefly.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:43:14Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4161930/DAL-Delta-to-determine--of-fares-individually-using-AI-by-YE-Fortune-reports"
     }
   ]
 }
