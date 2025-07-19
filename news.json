@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T06:22:01.891Z",
+  "lastUpdate": "2025-07-19T06:50:21.776Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Netflix reveals that one of its shows used generative AI for the first time",
+      "summary": "Netflix used generative AI for the first time in one of its shows, creating a historic sequence in 'The Eternaut' where a building in Buenos Aires collapses.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:47:01Z",
+      "url": "https://www.businessinsider.com/netflix-generative-ai-use-artificial-intelligence-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "BRICS Media and Think Tank Forum releases initiative on AI cooperation, development",
+      "summary": "BRICS Media and Think Tank Forum releases initiative on AI cooperation and development",
+      "source": "Mypeoplesreview.com",
+      "category": "research",
+      "timestamp": "2025-07-18T06:45:16Z",
+      "url": "https://mypeoplesreview.com/2025/07/18/brics-media-and-think-tank-forum-releases-initiative-on-ai-cooperation-development/"
+    },
+    {
+      "id": 53,
+      "title": "Barracuda: Security opportunities and challenges out there for MSPs",
+      "summary": "Survey reveals growing opportunities for MSPs in providing security solutions to SME customers, who are willing to invest in protection against cyber threats.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:45:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366627860/Barracuda-Security-opportunities-and-challenges-out-there-for-MSPs"
+    },
+    {
+      "id": 54,
+      "title": "No Longer Just Holding: PFMCrypto Unleashes Next-Gen XRP Earnings Through AI Liquidity Mining",
+      "summary": "PFMCrypto introduces a next-gen XRP earnings platform that utilizes AI liquidity mining to mine XRP and 10 major cryptocurrencies simultaneously.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:43:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117735/0/en/No-Longer-Just-Holding-PFMCrypto-Unleashes-Next-Gen-XRP-Earnings-Through-AI-Liquidity-Mining.html"
+    },
+    {
+      "id": 55,
+      "title": "【AI活用EXPO2025】NTTコミュニケーションズ 岩瀬 義昌氏、富士通 西本 伸一氏、LINEヤフー 加藤 敏之氏、日本航空株式会社（JAL）山脇 学氏の追加登壇が決定！",
+      "summary": "NTT Communications, Fujitsu, LINE Yahoo, and Japan Airlines (JAL) executives will be speaking at the AI Expo 2025.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:41:43Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000158804.html"
+    },
+    {
+      "id": 56,
+      "title": "Uber’s latest robotaxi plan involves 20,000 Lucid EVs",
+      "summary": "Uber plans to deploy 20,000 Lucid EVs as part of its robotaxi program, investing in Nuro and Lucid to build a global network of autonomous vehicles.",
+      "source": "Madshrimps.be",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:41:37Z",
+      "url": "https://www.madshrimps.be/news/ubers-latest-robotaxi-plan-involves-20000-lucid-evs/"
+    },
+    {
+      "id": 57,
+      "title": "Intel and Weizmann Institute Speed AI with Speculative Decoding Advance",
+      "summary": "Intel and Weizmann Institute introduced a major advance in speculative decoding at ICML, speeding up AI processes.",
+      "source": "Madshrimps.be",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:40:41Z",
+      "url": "https://www.madshrimps.be/news/intel-and-weizmann-institute-speed-ai-with-speculative-decoding-advance/"
+    },
+    {
+      "id": 58,
+      "title": "How involve.me Is Helping Companies Unlock the Full Value of First-Party Data",
+      "summary": "involve.me is helping companies utilize first-party data to navigate privacy regulations and the end of third-party cookies.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:39:32Z",
+      "url": "https://www.androidheadlines.com/2025/07/how-involve-me-is-helping-companies-unlock-the-full-value-of-first-party-data.html"
+    },
+    {
+      "id": 59,
+      "title": "BRICS media, think tanks convene to promote BRICS cooperation, new vision for Global South",
+      "summary": "BRICS media and think tanks gather to promote cooperation and new vision for Global South.",
+      "source": "Mypeoplesreview.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:37:40Z",
+      "url": "https://mypeoplesreview.com/2025/07/18/brics-media-think-tanks-convene-to-promote-brics-cooperation-new-vision-for-global-south/"
+    },
+    {
+      "id": 60,
+      "title": "TSMC to step up 2nm deployment to meet AI demand",
+      "summary": "TSMC is increasing its deployment of 2nm technology to meet the rising demand for AI, with its industry-leading process technologies giving a competitive edge in energy-efficient computing.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:36:38Z",
+      "url": "https://www.digitimes.com/news/a20250718PD217/tsmc-2nm-demand-arizona-kumamoto-fab.html"
+    },
+    {
+      "id": 61,
+      "title": "Diakhaby regains his key role this season",
+      "summary": "Mouctar Diakhaby regains his key role with Valencia CF after overcoming a serious knee injury, marking his eighth season with the team",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:35:00Z",
+      "url": "https://onefootball.com/en/news/diakhaby-regains-his-key-role-this-season-41390765"
+    },
     {
       "id": 51,
       "title": "Perforce puts agentic functions in test scripts",
@@ -351,105 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T05:18:35Z",
       "url": "https://www.thehindubusinessline.com/economy/logistics/pilots-body-calls-for-reconstitution-of-aaibs-team-investigating-ai-crash/article69824344.ece"
-    },
-    {
-      "id": 54,
-      "title": "Rematch Review",
-      "summary": "Rematch Review is a series that will primarily appeal to chess enthusiasts, but also contains a lot of drama and intrigue to engage a wider audience. Norma Godinho notes that the show's mix of chess and storytelling keeps viewers hooked across all six episodes.",
-      "source": "Rediff.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:18:12Z",
-      "url": "https://www.rediff.com/movies/review/rematch-review/20250718.htm"
-    },
-    {
-      "id": 55,
-      "title": "CoreWeave Target of Unusually Large Options Trading (NASDAQ:CRWV)",
-      "summary": "CoreWeave Inc. (NASDAQ:CRWV) saw unusually large options trading on Thursday, with investors purchasing 373,356 call options on the company, representing a 42% increase compared to the average daily volume.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:14:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/coreweave-target-of-unusually-large-options-trading-nasdaqcrwv/"
-    },
-    {
-      "id": 56,
-      "title": "QRAFT AI-Enhanced U.S. Large Cap ETF Sees Unusually High Options Volume (NYSEARCA:QRFT)",
-      "summary": "QRAFT AI-Enhanced U.S. Large Cap ETF (NYSEARCA:QRFT) experienced unusually high options trading with 14,648 call options purchased, representing a significant increase compared to previous trading.",
-      "source": "ETF Daily News",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:14:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/qraft-ai-enhanced-u-s-large-cap-etf-sees-unusually-high-options-volume-nysearcaqrft/"
-    },
-    {
-      "id": 57,
-      "title": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams",
-      "summary": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams, as the top leadership pledges to curb 'involutionary' competition amid intense price wars.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:12:03Z",
-      "url": "https://www.businessinsider.com/china-eonomy-xi-jinping-industry-involution-competition-ev-ai-deflation-2025-7"
-    },
-    {
-      "id": 58,
-      "title": "Stonepeak Invests $1.3 Billion In Warburg Pincus-Backed Data Center Operator Princeton Digital",
-      "summary": "Stonepeak invests $1.3 billion in Princeton Digital to expand data center capacity in Asia Pacific, aiming to tap into rapidly growing digital hubs.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:09:39Z",
-      "url": "https://www.forbes.com/sites/yessarrosendar/2025/07/18/stonepeak-invests-13-billion-in-warburg-pincus-backed-data-center-operator-princeton-digital/"
-    },
-    {
-      "id": 51,
-      "title": "mimicx 0.1.12",
-      "summary": "mimicx 0.1.12 offers human-like AI capabilities such as vision, text, voice, and more all bundled into one package for easy access by everyone.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:57:09Z",
-      "url": "https://pypi.org/project/mimicx/0.1.12/"
-    },
-    {
-      "id": 52,
-      "title": "Chamath Palihapitiya Slams AI Agent Hype As 'Year Of Letdowns'—Touts 8090's Software Factory As No-Gimmick Alternative",
-      "summary": "Billionaire investor Chamath Palihapitiya criticizes AI hype and underperformance in large corporations, touting his own Software Factory as a no-gimmick alternative.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T04:57:03Z",
-      "url": "https://biztoc.com/x/b4cbf05298da2d78"
-    },
-    {
-      "id": 53,
-      "title": "agentcrew-ai 0.6.5.post4",
-      "summary": "agentcrew-ai 0.6.5.post4 is a multi-agent interactive chat tool that has been released, allowing users to engage with multiple AI agents simultaneously.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:55:53Z",
-      "url": "https://pypi.org/project/agentcrew-ai/0.6.5.post4/"
-    },
-    {
-      "id": 54,
-      "title": "Special Ops Season 2 X reviews: Audience in awe of Kay Kay Menon’s performance. And demand season 3 ASAP",
-      "summary": "Special Ops Season 2 featuring artificial intelligence as a threat has captivated audiences, with fans clamoring for a season 3 due to Kay Kay Menon's performance.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:51:29Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/special-ops-season-2-x-reviews-audience-in-awe-of-kay-kay-menons-performance-and-demand-season-3-asap/articleshow/122725747.cms"
-    },
-    {
-      "id": 55,
-      "title": "smart-commits-ai 1.1.0",
-      "summary": "smart-commits-ai 1.1.0 is an AI-powered Git commit message generator with enterprise-grade security that automatically creates conventional commit messages using Groq, OpenRouter, or Cohere APIs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:51:21Z",
-      "url": "https://pypi.org/project/smart-commits-ai/1.1.0/"
-    },
-    {
-      "id": 51,
-      "title": "Perplexity sees India as a shortcut in its race against OpenAI",
-      "summary": "Perplexity is expanding into India to compete with OpenAI in the next phase of AI adoption.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T04:35:00Z",
-      "url": "https://biztoc.com/x/4ca5c320fc2af65e"
     }
   ]
 }
