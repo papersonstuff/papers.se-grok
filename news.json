@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T18:20:46.596Z",
+  "lastUpdate": "2025-07-19T18:48:58.764Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Astronomer launches formal investigation into CEO Andy Byron and Kristin Cabot’s Coldplay kiss cam fiasco",
+      "summary": "Astronomer launches formal investigation into CEO Andy Byron and Kristin Cabot’s Coldplay kiss cam fiasco, leading to Byron's wife deleting her social media account.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-18T18:48:26Z",
+      "url": "https://pagesix.com/2025/07/18/celebrity-news/astronomer-launches-formal-investigation-after-ceo-andy-byron-and-kristin-cabots-coldplay-kiss-cam-fiasco/"
+    },
+    {
+      "id": 52,
+      "title": "cryptex-ai 0.3.1",
+      "summary": "Cryptex AI 0.3.1 offers zero-config temporal isolation for AI/LLM applications, providing bulletproof secrets isolation with zero cognitive overhead.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:47:36Z",
+      "url": "https://pypi.org/project/cryptex-ai/0.3.1/"
+    },
+    {
+      "id": 53,
+      "title": "Energy Transfer LP (ET) Gets Initiated With a New Buy Rating at TD Cowen",
+      "summary": "Energy Transfer LP (ET) receives a new Buy rating and is considered one of the best cheap stocks under $50 to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "research",
+      "timestamp": "2025-07-18T18:47:19Z",
+      "url": "https://finance.yahoo.com/news/energy-transfer-lp-et-gets-184719561.html"
+    },
+    {
+      "id": 54,
+      "title": "Global PC Shipments Are Expected to Weaken With U.S. Tariffs, But the AI PC Hype Will Keep the Market Momentum Up & Running",
+      "summary": "Global PC shipments are expected to weaken due to U.S. tariffs, but the demand for AI PCs is expected to keep the market momentum going.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:46:43Z",
+      "url": "https://wccftech.com/global-pc-shipments-are-expected-to-weaken-with-u-s-tariffs/"
+    },
+    {
+      "id": 55,
+      "title": "American Express just offered a rare peek inside the spending habits of wealthy Americans—all the way down to Gen Z",
+      "summary": "American Express revealed spending habits of wealthy Americans, with record quarterly revenue of $17.9 billion. Millennial spending increased by 10% and Gen Z spending rose by 40%.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:46:40Z",
+      "url": "https://fortune.com/2025/07/18/american-express-earnings-millennials-gen-z-wealth-affluent-spending/"
+    },
+    {
+      "id": 56,
+      "title": "The Coldplay ‘kiss cam’ cheating scandal is now a video game",
+      "summary": "The Coldplay ‘kiss cam’ cheating scandal has now been turned into a video game, showcasing the creativity and innovation in utilizing AI technology to create entertainment products.",
+      "source": "Polygon",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:46:33Z",
+      "url": "https://www.polygon.com/news/614100/coldplay-kiss-cam-cheating-video-video-game"
+    },
+    {
+      "id": 57,
+      "title": "NSF-Backed ‘MaVila’ AI Brings Factory Floors Into The LLM Era",
+      "summary": "NSF-backed AI model 'MaVila' is able to analyze machine defects and recommend process parameters in real-time on factory floors.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:44:44Z",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2025/07/18/nsf-backed-mavila-ai-brings-factory-floors-into-the-llm-era/"
+    },
+    {
+      "id": 58,
+      "title": "Samsung Galaxy A56 Launches in US With Premium Perks at $499",
+      "summary": "Samsung Galaxy A56 launches in the US at $499 with premium features, hitting store shelves in July.",
+      "source": "TalkAndroid",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:44:00Z",
+      "url": "https://www.talkandroid.com/512161-samsung-galaxy-a56-us-sale/"
+    },
+    {
+      "id": 59,
+      "title": "Google Launches Monthly 'Gemini Drops': July Update New Features",
+      "summary": "Google introduces AI updates in its Gemini Feature Drop, including Veo 3 photo-to-video creation and Scheduled Actions.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:43:05Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-gemini-feature-drops-july-update-new-features.html"
+    },
+    {
+      "id": 60,
+      "title": "Chris Dyer Reveals How Company Culture Drives Burnout Or Breakthrough On The Burnout Club with Patrice Bonfiglio",
+      "summary": "Chris Dyer discusses how company culture can drive either burnout or breakthrough, emphasizing the importance of intentional culture and radical transparency in transforming teams.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:43:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118152/0/en/Chris-Dyer-Reveals-How-Company-Culture-Drives-Burnout-Or-Breakthrough-On-The-Burnout-Club-with-Patrice-Bonfiglio.html"
+    },
+    {
+      "id": 61,
+      "title": "howso-engine 40.4.0",
+      "summary": "The Howso Engine™ is a natively and fully explainable ML engine, providing an alternative to black box AI neural networks.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:42:41Z",
+      "url": "https://pypi.org/project/howso-engine/40.4.0/"
+    },
+    {
+      "id": 62,
+      "title": "From Tools To Teammates: How AI Agents Will Become Digital Labor",
+      "summary": "From Tools To Teammates: How AI Agents Will Become Digital Labor - AI agents such as ChatGPT are being used as digital workforce to drive revenue growth and handle tasks, leading to cost savings for companies. Top companies are saving millions with autonomous workers.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:42:19Z",
+      "url": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/18/from-tools-to-teammates-how-ai-agents-will-become-digital-labor/"
+    },
+    {
+      "id": 63,
+      "title": "Snoop Dogg becomes co-owner of a former Premier League club ",
+      "summary": "Snoop Dogg becomes co-owner of a former Premier League club Swansea, currently playing in the Championship.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T18:41:00Z",
+      "url": "https://onefootball.com/en/news/snoop-dogg-becomes-co-owner-of-a-former-premier-league-club-41393901"
+    },
+    {
+      "id": 64,
+      "title": "Show HN: molab, a cloud-hosted marimo notebook workspace",
+      "summary": "molab, a cloud-hosted marimo notebook workspace, is gaining popularity and has received requests for support in Google Colab.",
+      "source": "Marimo.io",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:40:30Z",
+      "url": "https://marimo.io/blog/announcing-molab"
+    },
+    {
+      "id": 65,
+      "title": "Astronomer CEO Was Caught Red-Handed at a Coldplay Concert — and the Internet Won’t Let It Die",
+      "summary": "A couple caught red-handed as they canoodled during a Coldplay concert this week has been the subject of numerous memes and X posts, days after their apparent affair was exposed.",
+      "source": "Mediaite",
+      "category": "ethics",
+      "timestamp": "2025-07-18T18:39:56Z",
+      "url": "https://www.mediaite.com/online/astronomer-ceo-was-caught-red-handed-at-a-coldplay-concert-and-the-internet-wont-let-it-die/"
+    },
+    {
+      "id": 66,
+      "title": "plain.upgrade 0.3.3",
+      "summary": "plain.upgrade 0.3.3 is a tool that uses AI agents to upgrade Plain packages, allowing for more efficient and accurate software updates.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:39:51Z",
+      "url": "https://pypi.org/project/plain-upgrade/0.3.3/"
+    },
+    {
+      "id": 67,
+      "title": "Coldplay kiss-cam flap proves we’re already our own surveillance state",
+      "summary": "Coldplay kiss-cam flap demonstrates the power of surveillance we already possess, reminding us of the ethical implications of building our own surveillance state.",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T18:39:50Z",
+      "url": "https://www.theregister.com/2025/07/18/coldplay_kiss_cam_privacy/"
+    },
+    {
+      "id": 68,
+      "title": "Mango Health (YC W24) Is Hiring",
+      "summary": "Mango Health is hiring for individuals passionate about mental health to join their team and make a difference in changing lives.",
+      "source": "Hacker News",
+      "category": "startups",
+      "timestamp": "2025-07-18T18:39:02Z",
+      "url": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer"
+    },
+    {
+      "id": 69,
+      "title": "This Week in AI: AI Startups Hit Fundraising Gold",
+      "summary": "AI startups like Perplexity, Thinking Machines, and Anthropic have recently raised billions in funding, while tech giants like Google, Meta, and Blackstone are investing heavily in building AI data centers.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T18:38:46Z",
+      "url": "https://biztoc.com/x/f76bf4782938bcf1"
+    },
+    {
+      "id": 70,
+      "title": "Meta Continues AI Focus by Adding 2 Ex-Apple Researchers",
+      "summary": "Meta continues AI focus by adding 2 ex-Apple researchers to its Superintelligence Labs team.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-18T18:38:44Z",
+      "url": "https://biztoc.com/x/08d1d2dd8a20cc85"
+    },
     {
       "id": 51,
       "title": "For the first time since COVID, more than half of Fortune 100 companies have mandated workers fully return to work as hybrid options wither",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T17:30:00Z",
       "url": "https://www.memeorandum.com/250718/p73"
-    },
-    {
-      "id": 60,
-      "title": "Special Ops Season 2 Now Streaming On JioHotstar: What You Need to Know",
-      "summary": "Kay Kay Menon stars in season 2 of Special Ops, now streaming on Jio Hotstar, focusing on cyber threats rather than terror attacks.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:26:11Z",
-      "url": "https://www.gadgets360.com/entertainment/news/special-ops-season-2-now-streaming-on-jiohotstar-what-you-need-to-know-8849502"
-    },
-    {
-      "id": 61,
-      "title": "Razer Basilisk Mobile",
-      "summary": "Razer Basilisk Mobile - A do-it-all mobile mouse with the right stuff. Razer condenses the iconic Basilisk shape into a travel-friendly form while retaining core features.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:25:59Z",
-      "url": "https://uk.pcmag.com/computer-mice/159202/razer-basilisk-mobile"
-    },
-    {
-      "id": 62,
-      "title": "Razer Basilisk Mobile",
-      "summary": "Razer Basilisk Mobile is a more refined do-it-all mobile mouse that condenses the iconic Basilisk shape into a travel-friendly form while retaining core features.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:25:59Z",
-      "url": "https://me.pcmag.com/en/computer-mice/31044/razer-basilisk-mobile"
-    },
-    {
-      "id": 63,
-      "title": "How Business Leaders Are Misjudging AI’s Workforce Impact",
-      "summary": "Wharton management professor discusses how AI is reshaping job forecasts, CEO decision-making, and long-standing misconceptions about which roles are at risk.",
-      "source": "Upenn.edu",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:25:46Z",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/how-business-leaders-are-misjudging-ais-workforce-impact/"
-    },
-    {
-      "id": 51,
-      "title": "The brainbox behind Valve's Steam Labs says the number of Steam releases featuring GenAI in 2025 is 1 in 5, with 7% of all games on there now incorporating it: 'We’ve octupled last year’s figure'",
-      "summary": "The brainbox behind Valve's Steam Labs predicts that by 2025, 1 in 5 Steam releases will feature GenAI, with 7% of current games on the platform already incorporating it. However, there is a vocal anti-AI sentiment among some artists and gamers who refuse to buy games with AI technology.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:13:50Z",
-      "url": "https://www.pcgamer.com/software/ai/the-boffin-behind-valves-steam-labs-says-the-number-of-steam-releases-featuring-genai-in-2025-is-1-in-5-with-7-percent-of-all-games-on-there-now-incorporating-it-weve-octupled-last-years-figure/"
-    },
-    {
-      "id": 52,
-      "title": "Gen X’s $1.4 trillion windfall: The ‘Forgotten Generation’ is the surprise short-term winner in the Great Wealth Transfer",
-      "summary": "Gen X, Americans aged 45-60, are set to inherit $1.4 trillion annually over the next decade, making them the surprise short-term winners in the Great Wealth Transfer.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:13:05Z",
-      "url": "https://fortune.com/2025/07/18/great-wealth-transfer-gen-x-1-4-trillion-millennials-boomers/"
-    },
-    {
-      "id": 53,
-      "title": "swe-ai-agent 1.0.20",
-      "summary": "The SWE AI Agent 1.0.20 has been released, offering a headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:11:52Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.20/"
-    },
-    {
-      "id": 54,
-      "title": "HP 16\" OmniBook X Flip Laptop-Tablet Hybrid (16GB RAM, 512GB SSD) Is Nearly 50% Off at Best Buy",
-      "summary": "HP 16\" OmniBook X Flip Laptop-Tablet Hybrid (16GB RAM, 512GB SSD) Is Nearly 50% Off at Best Buy",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:11:35Z",
-      "url": "https://gizmodo.com/hp-16-omnibook-x-flip-laptop-tablet-hybrid-16gb-ram-512gb-ssd-is-nearly-50-off-at-best-buy-2000631086"
-    },
-    {
-      "id": 55,
-      "title": "Netflix admits it used generative AI in a big sci-fi hit to cut costs",
-      "summary": "Netflix used generative AI to create a scene in The Eternaut, a sci-fi series, in order to cut costs. This marked the first time AI was used in one of Netflix's original shows or films, showing the application of AI technology in the entertainment industry.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:11:09Z",
-      "url": "https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut"
-    },
-    {
-      "id": 56,
-      "title": "I Asked Chat GPT to Help Me Get Over My Gym Shame. Here's What It Told Me.",
-      "summary": "An AI chatbot was used to help a Men's Health reader overcome gym shame, with annotations by AI expert Gary Marcus.",
-      "source": "menshealth.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:11:00Z",
-      "url": "https://www.menshealth.com/fitness/a65440271/chatgpt-fitness-advice-expert-analysis/"
-    },
-    {
-      "id": 57,
-      "title": "The Surprising Strategy Smart Leaders Use to Outpace Disruption",
-      "summary": "In a world where AI is reshaping industries overnight, agility is a leader's greatest asset. The companies thriving aren't the fastest or the biggest, but the ones built to adapt.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:10:34Z",
-      "url": "https://biztoc.com/x/109e29490284ce87"
-    },
-    {
-      "id": 58,
-      "title": "Goldman Gains \"Deeper Appreciation\" For Dell's AI Servers After Investor Trip To Headquarters",
-      "summary": "Goldman Sachs gains a deeper appreciation for Dell's AI servers after a visit to the company's headquarters, solidifying Dell's position in the AI infrastructure space.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:10:15Z",
-      "url": "https://biztoc.com/x/a82cc5cc8618fcba"
-    },
-    {
-      "id": 59,
-      "title": "Alibaba Stock Retakes Key Level After Gains From Nvidia News",
-      "summary": "Alibaba stock regains key level after benefiting from Nvidia's ability to sell AI chips in China.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:10:11Z",
-      "url": "https://biztoc.com/x/60e4802d02025255"
-    },
-    {
-      "id": 60,
-      "title": "aider-lint-fixer 1.7.0",
-      "summary": "Aider-lint-fixer 1.7.0 uses AI-powered technology for lint error detection and fixing through aider.chat.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:10:04Z",
-      "url": "https://pypi.org/project/aider-lint-fixer/1.7.0/"
-    },
-    {
-      "id": 61,
-      "title": "This Search Engine Lets You Hide AI-Generated Images in Search Results",
-      "summary": "This Search Engine Lets You Hide AI-Generated Images in Search Results - Reduce the number of AI images in your searches with DuckDuckGo.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:08:35Z",
-      "url": "https://www.cnet.com/tech/services-and-software/this-search-engine-lets-you-hide-ai-generated-images-in-search-results/"
-    },
-    {
-      "id": 51,
-      "title": "Netflix announces record $11 billion revenue as fans rip slate of ‘garbage’ shows",
-      "summary": "Netflix announces record $11 billion revenue in second quarter, with fans criticizing quality of shows. The streaming service reported a net profit of $3.1 billion.",
-      "source": "The-independent.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T16:47:16Z",
-      "url": "https://www.the-independent.com/arts-entertainment/tv/news/netflix-revenue-profits-record-critics-b2791797.html"
-    },
-    {
-      "id": 52,
-      "title": "Welfare Trust set up for Air India crash victims",
-      "summary": "Welfare Trust set up by Tata Group for Air India crash victims to provide financial assistance and support",
-      "source": "The Star Online",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:47:00Z",
-      "url": "https://www.thestar.com.my/news/world/2025/07/19/welfare-trust-set-up-for-air-india-crash-victims"
-    },
-    {
-      "id": 53,
-      "title": "Analysts revamp Alphabet stock price target before key earnings",
-      "summary": "Analysts revise Alphabet stock price target ahead of earnings report, sparking speculation on Google parent's next moves.",
-      "source": "TheStreet",
-      "category": "economy",
-      "timestamp": "2025-07-18T16:47:00Z",
-      "url": "https://www.thestreet.com/investing/analysts-revamp-alphabet-stock-price-target-before-key-earnings"
-    },
-    {
-      "id": 54,
-      "title": "JPMorgan Adds Private Firms to Research Starting With OpenAI",
-      "summary": "JPMorgan Chase & Co. is expanding research coverage to private companies in the Wall Street bank’s latest effort to capitalize on the rapidly changing landscape of artificial intelligence.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-18T16:46:18Z",
-      "url": "https://finance.yahoo.com/news/jpmorgan-adds-private-firms-research-164618406.html"
-    },
-    {
-      "id": 55,
-      "title": "OpenAI and Anthropic Are Horrified by Elon Musk's \"Reckless\" and \"Completely Irresponsible\" Grok Scandal",
-      "summary": "Experts at OpenAI and Anthropic are criticizing Elon Musk and xAI for not publishing safety research after Grok, their chatbot, made racist and anti-Semitic comments publicly.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:43:56Z",
-      "url": "https://futurism.com/openai-anthropic-xai-grok-scandal"
     }
   ]
 }
