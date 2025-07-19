@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-19T22:52:17.960Z",
+  "lastUpdate": "2025-07-19T23:17:00.471Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Astronomer clarifies Alyssa Stoddard was not at Coldplay event amid viral video speculation. Here's what happened",
+      "summary": "Astronomer clarifies Alyssa Stoddard was not at Coldplay event amid viral video speculation.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:15:44Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-statement-alyssa-stoddard-coldplay-viral-video-ceo-andy-byron-kristin-cabot-employee-clarification-false-online-claims-internal-investigation-embarrassed-woman/articleshow/122773527.cms"
+    },
+    {
+      "id": 52,
+      "title": "12 Best PS2 Horror Games, Ranked",
+      "summary": "There’s almost too much horror on offer nowadays that sometimes it’s nice to revisit the past and see the golden era of video games—where innovation, intrigue, and taking risks was at its peak. The PS2 had (in my opinion) the very best horror games that are now considered classics.",
+      "source": "ComicBook.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:15:00Z",
+      "url": "http://comicbook.com/gaming/news/ps2-games-horror-best/"
+    },
+    {
+      "id": 53,
+      "title": "primisai 0.8.0",
+      "summary": "primisai 0.8.0 - Nexus is a powerful Python package for managing AI agents and coordinating complex tasks using LLMs.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:10:37Z",
+      "url": "https://pypi.org/project/primisai/0.8.0/"
+    },
+    {
+      "id": 54,
+      "title": "python-imagine-sdk 0.5.0",
+      "summary": "The python-imagine-sdk 0.5.0 is a simple Python library that enables the quick development of custom AI use cases using Qualcomm's inference-as-a-service platform.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T23:10:22Z",
+      "url": "https://pypi.org/project/python-imagine-sdk/0.5.0/"
+    },
+    {
+      "id": 55,
+      "title": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana",
+      "summary": "AI meets Ayodhya: Karachi stages its first-ever 'Ramayana' production with an all-Muslim cast, incorporating AI technology.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-18T23:09:50Z",
+      "url": "https://timesofindia.indiatimes.com/india/ai-meets-ayodhya-young-drama-group-stages-paks-1st-ramayana/articleshow/122773587.cms"
+    },
+    {
+      "id": 56,
+      "title": "flwr-nightly 1.20.0.dev20250718",
+      "summary": "flwr-nightly 1.20.0.dev20250718 introduces Flower, a friendly federated AI framework.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-18T23:07:00Z",
+      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250718/"
+    },
+    {
+      "id": 57,
+      "title": "I clicked on a link I thought was from Amazon Prime..",
+      "summary": "User clicked on a link they thought was from Amazon Prime, leading to a potential phishing attempt.",
+      "source": "BleepingComputer",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:06:23Z",
+      "url": "https://www.bleepingcomputer.com/forums/t/809633/i-clicked-on-a-link-i-thought-was-from-amazon-prime/"
+    },
+    {
+      "id": 58,
+      "title": "I clicked on a link I thought was from Amazon Prime..",
+      "summary": "User mistakenly clicks on link appearing to be from Amazon Prime, possibly leading to malware installation. Seeking help for virus removal.",
+      "source": "BleepingComputer",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:06:23Z",
+      "url": "https://www.bleepingcomputer.com/forums/t/809632/i-clicked-on-a-link-i-thought-was-from-amazon-prime/"
+    },
+    {
+      "id": 59,
+      "title": "Why AI is moving from chatbots to the browser",
+      "summary": "AI researchers are now being covered like NBA trades, as AI moves from chatbots to the browser.",
+      "source": "The Verge",
+      "category": "research",
+      "timestamp": "2025-07-18T23:04:08Z",
+      "url": "https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet"
+    },
+    {
+      "id": 60,
+      "title": "Trump administration gives ICE access to Medicaid records",
+      "summary": "Trump administration agrees to share Medicaid data with ICE to locate undocumented immigrants in the U.S.",
+      "source": "Marketplace.org",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:03:49Z",
+      "url": "https://www.marketplace.org/episode/2025/07/18/trump-administration-gives-ice-access-to-medicaid-records"
+    },
+    {
+      "id": 61,
+      "title": "ai-audio-detector 1.0.7",
+      "summary": "ai-audio-detector 1.0.7 uses machine learning to detect AI-generated audio by leveraging Benford's Law and advanced spectral features.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-18T23:01:55Z",
+      "url": "https://pypi.org/project/ai-audio-detector/1.0.7/"
+    },
+    {
+      "id": 62,
+      "title": "ai-audio-detector added to PyPI",
+      "summary": "AI-audio-detector added to PyPI, a machine learning system for detecting AI-generated audio using Benford's Law and advanced spectral features.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:01:55Z",
+      "url": "https://pypi.org/project/ai-audio-detector/"
+    },
+    {
+      "id": 63,
+      "title": "The Genius Act is approved: Mint Miner opens a new era of cloud mining for all, turning cryptocurrency into daily income",
+      "summary": "The Genius Act is approved, Mint Miner opens a new era of cloud mining for all. Trump wishes Bitcoin, Ethereum, XRP 'Happy Crypto Week!'",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118228/0/en/The-Genius-Act-is-approved-Mint-Miner-opens-a-new-era-of-cloud-mining-for-all-turning-cryptocurrency-into-daily-income.html"
+    },
+    {
+      "id": 64,
+      "title": "Academic standards must be enhanced to meet emerging industry requirements: Assam CM",
+      "summary": "Academic standards in engineering colleges and polytechnics need to be enhanced to produce skilled workforce for the demands of the Fourth Industrial Revolution.",
+      "source": "Thehillstimes.in",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:00:00Z",
+      "url": "https://thehillstimes.in/assam/academic-standards-must-be-enhanced-to-meet-emerging-industry-requirements-assam-cm"
+    },
+    {
+      "id": 65,
+      "title": "Pixel Watch 4 might finally bring a feature it must have had years ago",
+      "summary": "Pixel Watch 4 may introduce long-awaited features that go beyond just tracking runs, potentially catching up with capabilities it should have had years ago.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:59:27Z",
+      "url": "https://www.phonearena.com/news/Pixel-Watch-4-might-finally-bring-a-feature-it-must-have-had-years-ago_id172417"
+    },
     {
       "id": 51,
       "title": "BrightAI raises $51M to ease infrastructure maintenance with AI",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T21:47:04Z",
       "url": "https://finance.yahoo.com/news/taiwan-dollar-strength-tests-tsmc-214704504.html"
-    },
-    {
-      "id": 54,
-      "title": "Can Generative AI Predict Fashion Trends and Improve Design Efficiency?",
-      "summary": "Researchers in South Korea have explored how generative AI models can forecast trends and improve design efficiency.",
-      "source": "WWD",
-      "category": "research",
-      "timestamp": "2025-07-18T21:45:57Z",
-      "url": "http://wwd.com/fashion-news/fashion-features/ai-fashion-trends-design-efficiency-south-korea-1237986759/"
-    },
-    {
-      "id": 55,
-      "title": "Who Runs the News? The Tug-of-War Between Shareholders and Journalists",
-      "summary": "As Congress pulls the plug on $1.1 billion in funding for NPR and PBS, critics frame it as a strike against media bias, while questioning who we trust to inform us and the objectivity of journalism.",
-      "source": "Skeptic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:45:26Z",
-      "url": "https://www.skeptic.com/article/who-runs-news-tug-of-war-between-shareholders-journalists/"
-    },
-    {
-      "id": 56,
-      "title": "Why Women Are Rejecting the 'Summer Fling' on Dating Apps",
-      "summary": "There's a growing desire especially among women for depth, intentionality, and shared values, even in the context of something temporary, according to Qloo CEO Alex Elias.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:43:36Z",
-      "url": "https://www.newsweek.com/why-women-are-rejecting-summer-fling-dating-apps-2101020"
-    },
-    {
-      "id": 57,
-      "title": "Astronomer CEO Andy Byron's wife Megan Kerrigan Facebook account once had happy pictures but now it's gone. Here’s a look at it",
-      "summary": "Astronomer CEO's wife deletes Facebook account after viral video of him with HR head",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:40:30Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-wife-megan-kerrigan-facebook-account-images-photos-coldplay-concert-kristin-cabot-affair-astronomer-ceo-scandal-family-marriage-sons-viral-video-gillette-stadium-chris-martin/articleshow/122772662.cms"
-    },
-    {
-      "id": 58,
-      "title": "revenium-mcp 0.1.21",
-      "summary": "Revenium-mcp 0.1.21 is a Model Context Protocol (MCP) server designed for Revenium API monitoring, analytics, and AI spending management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:40:18Z",
-      "url": "https://pypi.org/project/revenium-mcp/0.1.21/"
-    },
-    {
-      "id": 59,
-      "title": "Google launches Gemini Drops and a web page to highlight new stuff",
-      "summary": "Google launches Gemini Drops and a web page to highlight new AI features and updates.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:40:01Z",
-      "url": "https://www.neowin.net/news/google-launches-gemini-drops-and-a-web-page-to-highlight-new-stuff/"
-    },
-    {
-      "id": 60,
-      "title": "Treatment.com AI Engages Marketing Services Providers",
-      "summary": "Treatment.com AI Inc. has engaged marketing services providers 45 Degrees, Inc. and Investment Publishing LLC.",
-      "source": "Financial Post",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:39:54Z",
-      "url": "https://financialpost.com/globe-newswire/treatment-com-ai-engages-marketing-services-providers"
-    },
-    {
-      "id": 61,
-      "title": "Intel Adds Big Battlemage “BMG-G31” GPU Support To Compute Runtime, Four Device IDs Spotted",
-      "summary": "Intel adds support for the big Battlemage BMG-G31 GPU with four Device IDs in Compute Runtime.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:39:19Z",
-      "url": "https://wccftech.com/intel-adds-big-battlemage-bmg-g31-gpu-support-four-device-ids-spotted/"
-    },
-    {
-      "id": 62,
-      "title": "Company that Coldplay kiss-cam ‘couple’ work for launches investigation after awkward viral moment",
-      "summary": "Company that Coldplay kiss-cam ‘couple’ work for launches investigation after awkward viral moment, sparking ethical considerations regarding privacy and consent.",
-      "source": "TheJournal.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:38:29Z",
-      "url": "https://www.thejournal.ie/company-that-coldplay-kiss-cam-couple-work-for-launches-investigation-after-awkward-viral-moment-6767455-Jul2025/"
-    },
-    {
-      "id": 63,
-      "title": "Pam Bondi Asks to Release Epstein Grand Jury Testimony as Trump Under Fire",
-      "summary": "The Justice Department has requested to unseal the Jeffrey Epstein grand jury transcripts in the midst of controversy surrounding the case.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:37:09Z",
-      "url": "https://biztoc.com/x/3bc94497f0d90abd"
-    },
-    {
-      "id": 64,
-      "title": "Texas Democrat Tells Joe Rogan His Advice to GOP That Trump 'Tapped Into'",
-      "summary": "Texas Democrat urges GOP to focus on competing for young voters rather than suppressing them during Joe Rogan podcast.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:36:55Z",
-      "url": "https://www.newsweek.com/texas-democrat-tells-joe-rogan-his-advice-gop-that-trump-tapped-2101025"
-    },
-    {
-      "id": 65,
-      "title": "Treatment.com AI Engages Marketing Services Providers",
-      "summary": "Treatment.com AI Inc. has engaged marketing services providers 45 Degrees, Inc. and Investment Publishing LLC to further its business goals.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:36:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118217/0/en/Treatment-com-AI-Engages-Marketing-Services-Providers.html"
-    },
-    {
-      "id": 66,
-      "title": "New APOE4 App Uses AI Digital Twins to Help 25% of Population at High Alzheimer's Risk",
-      "summary": "New APOE4 App utilizes AI digital twins to assist individuals at high Alzheimer's risk by matching them with genetically similar people to determine effective interventions.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:34:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118215/0/en/New-APOE4-App-Uses-AI-Digital-Twins-to-Help-25-of-Population-at-High-Alzheimer-s-Risk.html"
-    },
-    {
-      "id": 51,
-      "title": "PraisonAI 2.2.71",
-      "summary": "PraisonAI 2.2.71 is an AI Agents Framework with Self Reflection that offers a low-code solution for building and managing multi-agent LLM systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:30:17Z",
-      "url": "https://pypi.org/project/praisonai/2.2.71/"
-    },
-    {
-      "id": 52,
-      "title": "Despite Progress, Healthcare Cybersecurity Is Still Falling Short",
-      "summary": "Despite progress in healthcare cybersecurity, vulnerabilities still exist, especially in AI governance. Fortified Health Security CEO emphasizes the need for industry action.",
-      "source": "MedCity News",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:30:00Z",
-      "url": "https://medcitynews.com/2025/07/hospitals-healthcare-cybersecurity/"
     }
   ]
 }
