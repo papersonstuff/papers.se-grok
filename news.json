@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-19T19:50:12.553Z",
+  "lastUpdate": "2025-07-19T20:16:48.323Z",
   "items": [
+    {
+      "id": 51,
+      "title": "XRP Surges 15% in a Day: PFMCrypto Launches Revolutionary XRP Cloud Mining, Igniting the XRP Market",
+      "summary": "XRP Surges 15% in a Day: PFMCrypto Launches Revolutionary XRP Cloud Mining, Igniting the XRP Market - As the XRP Market Heats Up, PFMCrypto Delivers a Fully Integrated Mining Platform That Lets Users Deposit, Mine, and Withdraw XRP Seamlessly—From Anywhere",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:16:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118178/0/en/XRP-Surges-15-in-a-Day-PFMCrypto-Launches-Revolutionary-XRP-Cloud-Mining-Igniting-the-XRP-Market.html"
+    },
+    {
+      "id": 52,
+      "title": "Train smarter: Boost frontline performance while reducing costs",
+      "summary": "Companies are spending billions on frontline training with the expectation of it increasing significantly by 2028, yet only 44% of employees feel like their organizations are investing in their development.",
+      "source": "Hospitality Net",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:15:45Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128228.html"
+    },
+    {
+      "id": 53,
+      "title": "Obscure Code of Ethics From the Late 19th Century Still Has Relevancy Today",
+      "summary": "Obscure Code of Ethics From the Late 19th Century Still Has Relevancy Today",
+      "source": "My Modern Met",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:15:11Z",
+      "url": "https://mymodernmet.com/hobo-ethical-code-1889-today/"
+    },
+    {
+      "id": 54,
+      "title": "From hype to frontline impact: Building trust through thoughtful AI",
+      "summary": "AI is becoming more prominent in various industries, emphasizing the importance of building trust and thoughtful implementation in order to have a positive impact on society.",
+      "source": "Hospitality Net",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:13:45Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128227.html"
+    },
+    {
+      "id": 55,
+      "title": "Adoption is up, panic is down: Cyber pros weigh AI’s real impact",
+      "summary": "ISC2 survey found that 30% of cybersecurity professionals are already using AI tools, indicating increased adoption and reduced panic regarding AI's impact.",
+      "source": "Digital Journal",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:12:41Z",
+      "url": "https://www.digitaljournal.com/business/adoption-is-up-panic-is-down-cyber-pros-weigh-ais-real-impact/article"
+    },
+    {
+      "id": 56,
+      "title": "Opinion | It’s time to invoke the U.S. Defense Production Act to support a new battery technology revolution",
+      "summary": "It's proposed that the U.S. Defense Production Act be used to support a new battery technology revolution to reduce reliance on China for drone dominance. This move could have significant implications for the U.S. military supply chains.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:09:35Z",
+      "url": "https://fortune.com/2025/07/18/batteries-drones-china-us-defense-production-act/"
+    },
+    {
+      "id": 57,
+      "title": "Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot",
+      "summary": "Cursor acquires enterprise startup Koala to strengthen its competition with GitHub Copilot in the AI coding tools market.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T20:07:33Z",
+      "url": "https://biztoc.com/x/a660e2c347977f56"
+    },
+    {
+      "id": 58,
+      "title": "Samsung's Galaxy A56 Just Changed the Mid-Range Game—Here's Why $499 Might Be the Smartest Phone Budget You'll Set This Year",
+      "summary": "Samsung's Galaxy A56 is changing the mid-range smartphone game by offering a range of features at an affordable price of $499, including a six-year software update guarantee.",
+      "source": "Gadgethacks.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:07:31Z",
+      "url": "https://samsung.gadgethacks.com/news/samsungs-galaxy-a56-just-changed-the-mid-range-gameheres-why-499-might-be-the-smartest-phone-budget-youll-set-this-year/"
+    },
+    {
+      "id": 59,
+      "title": "Ai-Generated Visual Streaming - Netflix Debuts Fully AI VFX in the Eternaut Collapse Scene (TrendHunter.com)",
+      "summary": "Netflix debuts fully AI VFX in The Eternaut, showcasing a digitally collapsed building rendered entirely using generative AI.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:07:06Z",
+      "url": "https://www.trendhunter.com/trends/the-eternaut"
+    },
+    {
+      "id": 60,
+      "title": "Job market mayhem: Whether you’re 22 or 52, job searching in 2025 is a total nightmare",
+      "summary": "Job market in the United States is challenging in 2025 with young graduates struggling to find entry-level positions and mid-career professionals facing layoffs. Older Americans are postponing retirement due to financial constraints.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:05:49Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/job-market-mayhem-whether-youre-22-or-52-job-searching-in-2025-is-a-total-nightmare/articleshow/122772097.cms"
+    },
+    {
+      "id": 61,
+      "title": "AlveolEye 0.1.7",
+      "summary": "AlveolEye 0.1.7 utilizes AI-driven and classical methods to read lung slides.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:05:01Z",
+      "url": "https://pypi.org/project/alveoleye/0.1.7/"
+    },
+    {
+      "id": 62,
+      "title": "This Bullish Catalyst for Nvidia Stock Is Coming in September",
+      "summary": "Nvidia plans to start shipping GB300 in September, which is seen as a bullish catalyst for the company. JPMorgan has reaffirmed NVDA shares as a top pick.",
+      "source": "Barchart.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:02:58Z",
+      "url": "https://www.barchart.com/story/news/33502133/this-bullish-catalyst-for-nvidia-stock-is-coming-in-september"
+    },
+    {
+      "id": 63,
+      "title": "The Fab Academy 2025 exhibition comes to Creative Spark’s Downtown Hub in Dundalk",
+      "summary": "The Fab Academy 2025 exhibition showcasing two graduates who completed the digital fabrication diploma will be held at Creative Spark’s Downtown Hub in Dundalk.",
+      "source": "Dundalkdemocrat.ie",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:02:34Z",
+      "url": "https://www.dundalkdemocrat.ie/news/business/1852527/the-fab-academy-2025-exhibition-comes-to-creative-sparks-downtown-hub-in-dundalk.html"
+    },
+    {
+      "id": 64,
+      "title": "Dialogues: Social Theory Re-Wired: Interview with the Authors",
+      "summary": "First Publics interviewed the authors of Social Theory Re-Wired, Drs. Wesley Longhofer and Daniel Winchester, to discuss their goals and experiences in writing their theory reader.",
+      "source": "Thesocietypages.org",
+      "category": "research",
+      "timestamp": "2025-07-18T20:00:56Z",
+      "url": "https://thesocietypages.org/firstpublics/2025/07/18/social-theory-re-wired-interview-with-the-authors/"
+    },
+    {
+      "id": 65,
+      "title": "Astronomer board investigating CEO Andy Byron after viral Coldplay kiss cam video",
+      "summary": "An investigation has been launched into Astronomer CEO Andy Byron after a video surfaced showing him kissing the company's HR chief at a Coldplay concert.",
+      "source": "CNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:00:56Z",
+      "url": "https://www.cnbc.com/2025/07/18/astronomer-andy-byron-coldplay-kiss-cam.html"
+    },
+    {
+      "id": 66,
+      "title": "Why Are Students Using AI To Cheat? Maybe Because They Shouldn't Be In College At All",
+      "summary": "AI cheating among students may be a result of them not being suited for college, raising ethical concerns.",
+      "source": "Reason",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:00:50Z",
+      "url": "https://reason.com/2025/07/18/why-are-students-using-ai-to-cheat-maybe-because-they-shouldnt-be-in-college-at-all/"
+    },
+    {
+      "id": 67,
+      "title": "xnewsbot added to PyPI",
+      "summary": "xnewsbot, an AI-powered news bot, has been added to PyPI for X.com automation on Twitter. The bot has research and writing capabilities to assist in generating news content.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:00:05Z",
+      "url": "https://pypi.org/project/xnewsbot/"
+    },
+    {
+      "id": 68,
+      "title": "The Facts Clearly Tell Us That The Middle Class In America Is Dying",
+      "summary": "The middle class in America is dying, with the rich becoming even richer. Flooding the system with money has made things worse for almost everyone else.",
+      "source": "Activistpost.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:00:00Z",
+      "url": "https://www.activistpost.com/the-facts-clearly-tell-us-that-the-middle-class-in-america-is-dying/"
+    },
+    {
+      "id": 69,
+      "title": "Should you wait for the Google Pixel 10 Pro Fold?",
+      "summary": "Should you wait for the Google Pixel 10 Pro Fold? Now that the Galaxy Z Fold 7 has been announced, you might be wondering whether to upgrade now or wait for the Pixel 10 Pro Fold. Let's go over a few reasons why you should, and shouldn't, wait.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:00:00Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-the-google-pixel-10-pro-fold"
+    },
     {
       "id": 51,
       "title": "mlx-cuda 0.26.4",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T19:28:01Z",
       "url": "https://www.neowin.net/news/new-windows-11-builds-add-slowdown-logging-new-accessibility-features-and-more/"
-    },
-    {
-      "id": 64,
-      "title": "Sacrilege! Lenovo launches white ThinkPad with only four ports, no red TrackPoint, and no physical touchpad buttons — and I have only one word for it...why?",
-      "summary": "Lenovo’s white ThinkPad X9 Aura sacrifices core features like the red TrackPoint and physical touchpad buttons in favor of sleek looks and powerful specs, sparking controversy among loyal ThinkPad users.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:28:00Z",
-      "url": "https://www.techradar.com/pro/sacrilege-lenovo-launches-white-thinkpad-with-only-four-ports-no-red-trackpoint-and-no-physical-touchpad-buttons-and-i-have-only-one-word-for-it-why"
-    },
-    {
-      "id": 65,
-      "title": "Meta calls EU's AI code overreach, will not sign it",
-      "summary": "Meta Platforms refuses to sign the EU's AI code of practice, citing concerns about overreach and legal uncertainties for model developers.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:26:22Z",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/meta-calls-eus-ai-code-overreach-will-not-sign-it/articleshow/122772151.cms"
-    },
-    {
-      "id": 51,
-      "title": "Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027",
-      "summary": "Foundry competition heats up as Japan’s Rapidus aims to start volume production of 2nm chip tech in 2027, two years behind competitors.",
-      "source": "Theregister.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:24:57Z",
-      "url": "https://www.theregister.com/2025/07/18/rapidus_foundry_2nm/"
-    },
-    {
-      "id": 52,
-      "title": "How retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun'",
-      "summary": "Retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun' and are expected to acquire AI systems in the coming months for optimizing store layouts and meeting changing customer needs.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:22:55Z",
-      "url": "https://biztoc.com/x/0cec1df67fca9776"
-    },
-    {
-      "id": 53,
-      "title": "BC shuffles cabinet, moving Rick Glumac to AI and Ravi Kahlon back to jobs",
-      "summary": "BC Premier David Eby shuffles cabinet to focus on jobs and economy, moving Rick Glumac to AI and Ravi Kahlon back to jobs in response to rising US tensions.",
-      "source": "BetaKit",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:22:14Z",
-      "url": "https://betakit.com/bc-shuffles-cabinet-moving-rick-glumac-to-ai-and-ravi-kahlon-back-to-jobs/"
-    },
-    {
-      "id": 54,
-      "title": "Microsoft likely to sign EU AI code of practice, Meta rebuffs guidelines",
-      "summary": "Microsoft is likely to sign the EU AI code of practice, while Meta is rebuffing guidelines.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:20:46Z",
-      "url": "https://tech.yahoo.com/ai/articles/microsoft-likely-sign-eu-ai-192046270.html"
-    },
-    {
-      "id": 55,
-      "title": "Microsoft likely to sign EU AI code of practice, Meta rebuffs guidelines",
-      "summary": "Microsoft is likely to sign the EU AI code of practice, while Meta Platforms refuses to adhere to the guidelines.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:20:46Z",
-      "url": "https://www.channelnewsasia.com/business/microsoft-likely-sign-eu-ai-code-practice-meta-rebuffs-guidelines-5246546"
-    },
-    {
-      "id": 56,
-      "title": "RealPage goes from setting rent to collecting it",
-      "summary": "RealPage, the algorithmic rent-setting software company, is expanding its services by acquiring Livble, a platform that allows renters to pay their monthly rent in installments. This move aims to provide a more flexible and convenient payment solution for tenants.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:20:26Z",
-      "url": "https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments"
-    },
-    {
-      "id": 57,
-      "title": "14 interesting facts about self-driving cars",
-      "summary": "Salvi, Schostok & Pritchard P.C. shares 14 intriguing facts about self-driving cars, covering their history, benefits, challenges, and safety concerns.",
-      "source": "Salvilaw.com",
-      "category": "research",
-      "timestamp": "2025-07-18T19:20:00Z",
-      "url": "https://www.salvilaw.com/self-driving-cars/"
-    },
-    {
-      "id": 58,
-      "title": "PS6 May Feature an Increased RAM Without Raising Costs",
-      "summary": "PS6 may feature an increased RAM without raising costs, potentially up to 32 GB according to experts.",
-      "source": "PlayStation LifeStyle",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:19:17Z",
-      "url": "https://www.playstationlifestyle.net/2025/07/18/ps6-increased-ram-not-raising-cost/"
-    },
-    {
-      "id": 59,
-      "title": "This AI browser may replace 2 office jobs you thought were safe, and it's coming for your job next",
-      "summary": "This AI browser may replace 2 office jobs you thought were safe, and it's coming for your job next - Perplexity CEO Aravind Srinivas introduces Comet, an AI-powered browser poised to automate knowledge work. Comet aims to replace administrative assistants and recruiters by handling tasks like candidate sourcing, scheduling, and email management.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:18:53Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/this-ai-browser-may-replace-2-office-jobs-you-thought-were-safe-and-its-coming-for-your-job-next/articleshow/122771676.cms"
-    },
-    {
-      "id": 60,
-      "title": "Investigating claim Trump laughingly agreed with being called a 'sexual predator' on 'Howard Stern Show'",
-      "summary": "Investigation confirms video showing President Trump jokingly agreeing with being called a sexual predator on 'Howard Stern Show'",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:18:00Z",
-      "url": "https://www.snopes.com//fact-check/video-trump-howard-stern-show-sexual-predator/"
-    },
-    {
-      "id": 61,
-      "title": "How retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun'",
-      "summary": "Retailers like Lowe's are using AI to optimize store layouts, predict product trends, and enhance the customer experience.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:16:02Z",
-      "url": "https://www.businessinsider.com/lowes-ai-retail-store-layout-product-trends-customer-experience-2025-7"
-    },
-    {
-      "id": 62,
-      "title": "ChatGPT's new AI agent can fill out online forms and generate PowerPoint presentations",
-      "summary": "ChatGPT's new AI agent can fill out online forms and generate PowerPoint presentations, building on existing operator functionality and using a virtual browser in the cloud to handle complex tasks.",
-      "source": "TechSpot",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:16:00Z",
-      "url": "https://www.techspot.com/news/108721-openai-new-chatgpt-agent-can-fill-out-online.html"
-    },
-    {
-      "id": 51,
-      "title": "AEC Trends 2025: The Technologies and Workflows Shaping Our Industry",
-      "summary": "The AEC industry is adopting new technologies and workflows at a faster pace in 2025 to meet the demands of delivering projects faster, cheaper, and with fewer people.",
-      "source": "Btl-blog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:11:05Z",
-      "url": "https://www.btl-blog.com/between_the_lines/2025/07/aec-trends-2025-the-technologies-and-workflows-shaping-our-industry.html"
-    },
-    {
-      "id": 52,
-      "title": "Repligen, Bruker, Fortrea, Azenta, and Biogen Stocks Trade Down, What You Need To Know",
-      "summary": "A number of healthcare stocks fell in the afternoon session after several negative developments weighed on the sector.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:11:01Z",
-      "url": "https://finance.yahoo.com/news/repligen-bruker-fortrea-azenta-biogen-191101000.html"
-    },
-    {
-      "id": 53,
-      "title": "Why Are Rivian (RIVN) Shares Soaring Today",
-      "summary": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) jumped 6% in the afternoon session after the company announced it will establish a new East",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-18T19:11:00Z",
-      "url": "https://finance.yahoo.com/news/why-rivian-rivn-shares-soaring-191100320.html"
-    },
-    {
-      "id": 54,
-      "title": "Fugs & Pieces, July 17, 2025",
-      "summary": "The post Fugs & Pieces, July 17, 2025 from Go Fug Yourself celebrates Clueless's birthday and other interesting reads.",
-      "source": "Gofugyourself.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:09:44Z",
-      "url": "https://www.gofugyourself.com/fugs-pieces-july-17-2025-07-2025"
-    },
-    {
-      "id": 55,
-      "title": "Brandon Sanderson explains why reading fantasy is \"as good for you as going to the gym\"",
-      "summary": "Brandon Sanderson discusses the impact of generative AI on epic fantasy and how reading fantasy can have similar benefits to physical exercise.",
-      "source": "Winter is Coming",
-      "category": "research",
-      "timestamp": "2025-07-18T19:09:00Z",
-      "url": "https://winteriscoming.net/brandon-sanderson-explains-why-reading-fantasy-is-as-good-for-you-as-going-to-the-gym"
     }
   ]
 }
