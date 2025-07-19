@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-19T11:13:00.392Z",
+  "lastUpdate": "2025-07-19T11:28:28.305Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nordstrom hires Dollar General’s turnaround CFO behind stock surge",
+      "summary": "Nordstrom hires Kelly Dilts, Dollar General's CFO, responsible for the company's stock surge. Dilts will leave Dollar General in August.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:27:55Z",
+      "url": "https://fortune.com/2025/07/18/nordstrom-hires-dollar-generals-turnaround-cfo-behind-stock-surge/"
+    },
+    {
+      "id": 52,
+      "title": "Tech layoffs: Amazon, Intel to cut more jobs amid AI push, cost control",
+      "summary": "Tech layoffs at companies like Amazon and Intel are driven by a push towards AI and cost-cutting measures, with hundreds of jobs being cut. Amazon's CEO has warned of the impact of AI on office roles, while Intel plans to cut 5,500 U.S. jobs and Microsoft trims 4% of staff.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:25:44Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tech-layoffs-amazon-intel-to-cut-more-jobs-amid-ai-push-cost-control/articleshow/122764791.cms"
+    },
+    {
+      "id": 53,
+      "title": "Pam Bondi Preparing To Release Epstein Grand Jury Testimonies: Live Updates",
+      "summary": "Attorney General Pam Bondi is preparing to release AI-generated voice recordings of Jeffrey Epstein's grand jury testimonies, which may contain inconsistencies. President Trump's directive raises ethical concerns regarding the potential impact on the judicial process and public perception.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:25:44Z",
+      "url": "https://biztoc.com/x/af4bcce83d1ad956"
+    },
+    {
+      "id": 54,
+      "title": "Coldplay concert dates in US: A look at ticket prices at Camp Randall Stadium in Wisconsin to be held tomorrow",
+      "summary": "Coldplay concert featuring AI tech CEO caught in cozy situation with co-worker.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:23:36Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/coldplay-concert-dates-in-us-a-look-at-ticket-prices-at-camp-randall-stadium-in-wisconsin-to-be-held-tomorrow/articleshow/122764482.cms"
+    },
+    {
+      "id": 55,
+      "title": "Trump denies letter to Epstein and Stephen Colbert's 'Late Show' to end: Morning Rundown",
+      "summary": "A $9 billion rescissions package could jeopardize the future of hundreds of local NPR and PBS stations.",
+      "source": "NBC News",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:22:35Z",
+      "url": "https://www.nbcnews.com/news/us-news/trump-denies-letter-epstein-stephen-colberts-late-show-end-morning-run-rcna219522"
+    },
+    {
+      "id": 56,
+      "title": "Takeaways from the AP’s reporting on Trump’s business deals",
+      "summary": "President Donald Trump's family businesses have raked in hundreds of millions of dollars from various deals since his election, including crypto coins, bibles, overseas development deals, and an upcoming line of cellphones.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:22:09Z",
+      "url": "https://financialpost.com/pmn/takeaways-from-the-aps-reporting-on-trumps-business-deals"
+    },
+    {
+      "id": 57,
+      "title": "South Korea Poised to Become Regional Hub for Smart Prefabricated Construction - South Korea Prefabricated Construction Market Intelligence and Future Growth Dynamics Databook",
+      "summary": "South Korea is set to become a regional hub for smart prefabricated construction, with its market projected to reach KRW 13 trillion by 2025 and KRW 15.90 trillion by 2029.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:22:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117834/28124/en/South-Korea-Poised-to-Become-Regional-Hub-for-Smart-Prefabricated-Construction-South-Korea-Prefabricated-Construction-Market-Intelligence-and-Future-Growth-Dynamics-Databook.html"
+    },
     {
       "id": 51,
       "title": "EY's London cleaners are picketing its office after over a third were told their jobs could be cut",
@@ -387,69 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T10:13:00Z",
       "url": "https://onefootball.com/en/news/head-to-head-sao-paulo-v-corinthians-compared-check-it-out-41391628"
-    },
-    {
-      "id": 56,
-      "title": "NTU upholds zero mark for student initially accused of using AI",
-      "summary": "NTU upholds zero mark for student accused of using AI after appeal panel found 14 instances of false citations or data in the essay, attributing the inaccuracies to generative AI.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-18T10:12:44Z",
-      "url": "https://www.channelnewsasia.com/singapore/ntu-ai-reddit-post-zero-mark-appeal-5245671"
-    },
-    {
-      "id": 57,
-      "title": "5 Reasons to Skip This Year's iPhone 17 Pro",
-      "summary": "Apple will launch the new iPhone 17 series in two months, with expected new design features for the rear casing of the iPhone 17 Pro models.",
-      "source": "MacRumors",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:12:38Z",
-      "url": "https://www.macrumors.com/2025/07/18/5-reasons-to-skip-this-years-iphone-17-pro/"
-    },
-    {
-      "id": 58,
-      "title": "poly-lithic 0.1.6rc1",
-      "summary": "poly-lithic 0.1.6rc1 is a package that enables the deployment of AI and other models with lume inspired interfaces.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:12:36Z",
-      "url": "https://pypi.org/project/poly-lithic/0.1.6rc1/"
-    },
-    {
-      "id": 59,
-      "title": "skypilot-nightly 1.0.0.dev20250718",
-      "summary": "skypilot-nightly 1.0.0.dev20250718 allows users to run AI on any infrastructure, providing a unified, faster, and cheaper solution.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:10:24Z",
-      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250718/"
-    },
-    {
-      "id": 60,
-      "title": "ENESS’ glowing, interactive AI oracles question digital futures near new zealand mountains",
-      "summary": "ENESS’ glowing, interactive AI oracles near New Zealand mountains blend AI musings with philosophical provocation, merging AI with spiritual storytelling.",
-      "source": "Designboom",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:10:19Z",
-      "url": "https://www.designboom.com/art/eness-interactive-ai-oracles-digital-futures-new-zealand-mountains-07-18-2025/"
-    },
-    {
-      "id": 61,
-      "title": "What does an Elvis superfan make of the King’s new London immersive experience?",
-      "summary": "Presley devotee Snake Denton gets a sneak peek at the capital’s latest and greatest immersive event",
-      "source": "Time Out",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:10:13Z",
-      "url": "https://www.timeout.com/london/news/what-does-an-elvis-superfan-make-of-the-kings-new-london-immersive-experience-071825"
-    },
-    {
-      "id": 62,
-      "title": " Austrian club unveil kit featuring double-digit sponsors",
-      "summary": "Austrian club TSV Hartberg has unveiled their new kit for the upcoming season filled with double-digit sponsors, continuing their trend from last year with 19 brands on the shirt.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:10:00Z",
-      "url": "https://onefootball.com/en/news/austrian-club-unveil-kit-featuring-double-digit-sponsors-41391535"
     }
   ]
 }
