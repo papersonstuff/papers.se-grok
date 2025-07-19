@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-19T19:26:18.975Z",
+  "lastUpdate": "2025-07-19T19:37:21.743Z",
   "items": [
+    {
+      "id": 51,
+      "title": "mlx-cpu 0.26.4",
+      "summary": "mlx-cpu 0.26.4 is a framework designed for machine learning on Apple silicon, showcasing innovation in the development of AI tools for specific hardware platforms.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:37:01Z",
+      "url": "https://pypi.org/project/mlx-cpu/0.26.4/"
+    },
+    {
+      "id": 52,
+      "title": "Astronomer’s future, investor confidence, employee morale, public image, company valuation are in shambles. Here’s how CEO Andy Byron scandal may lead to its downfall",
+      "summary": "Astronomer, a startup, faces uncertainty and potential downfall after CEO Andy Byron's scandal involving HR head Kristin Cabot. Investor confidence, employee morale, and company valuation are all at risk as a result.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T19:36:11Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-ceo-scandal-astronomer-future-kristin-cabot-coldplay-kiss-cam-astronomer-stockholders-andy-byron-apology-astronomer-future-hr-ethics-workplace-romance-astronomer-funding-investor-trust-investor-confidence-employee-morale-public-image-company-valuation-downfall/articleshow/122771992.cms"
+    },
+    {
+      "id": 53,
+      "title": "Lethbridge girls football coach charged for allegedly using AI to make child pornography",
+      "summary": "Lethbridge girls football coach charged for allegedly using AI to make child pornography, a new phenomenon in Alberta",
+      "source": "CBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:35:25Z",
+      "url": "https://www.cbc.ca/news/canada/calgary/child-exploitation-football-ai-lethbridge-1.7588788"
+    },
+    {
+      "id": 54,
+      "title": "London’s Immersive New Elvis Show Fails to Bring the King Back to Life",
+      "summary": "London's Immersive New Elvis Show, Elvis Evolution, falls short of bringing the King back to life despite using AI-generated footage.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:34:53Z",
+      "url": "https://financialpost.com/pmn/business-pmn/londons-immersive-new-elvis-show-fails-to-bring-the-king-back-to-life"
+    },
+    {
+      "id": 55,
+      "title": "Astronomer Breaks Silence After CEO's Concert Cheating Accusations",
+      "summary": "Astronomer CEO's concert cheating accusations were made based on AI-generated voice, leading to inconsistencies and a formal investigation into the matter.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:34:25Z",
+      "url": "https://biztoc.com/x/70e1cf7e6a1c8487"
+    },
+    {
+      "id": 56,
+      "title": "Riley Gaines Tells Trump To Sue Rupert Murdoch, Her Boss, 'Into Oblivion'",
+      "summary": "Right-wing activist Riley Gaines urged President Donald Trump to sue media mogul Rupert Murdoch, who is Gaines' boss, 'into oblivion' after the Wall Street Journal published an explosive story about a 'bawdy' incident. This raises ethical concerns about conflicts of interest and impartiality in the media industry.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:34:24Z",
+      "url": "https://biztoc.com/x/be84b30c43e60e1c"
+    },
+    {
+      "id": 57,
+      "title": "The Buccaneers Season 2 Episode 6 – Release Date, Schedule, How To Watch",
+      "summary": "The Buccaneers Season 2 Episode 6 features AI-generated voice, with the girls preparing for Lizzy's wedding and helping Jinny fight for freedom in the next episode.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:34:24Z",
+      "url": "https://biztoc.com/x/7aa0bf15505c3250"
+    },
+    {
+      "id": 58,
+      "title": "Amazon Ring Staff Reportedly Must Prove That They Use AI To Get Promoted",
+      "summary": "Amazon Ring staff must prove they use AI to get promoted, raising questions about the ethical implications of requiring employees to use AI in order to advance in their careers.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:34:22Z",
+      "url": "https://biztoc.com/x/8b8b7adae2a136d6"
+    },
+    {
+      "id": 59,
+      "title": "mlx-metal 0.26.4",
+      "summary": "mlx-metal 0.26.4 is a framework for machine learning on Apple silicon.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:34:02Z",
+      "url": "https://pypi.org/project/mlx-metal/0.26.4/"
+    },
+    {
+      "id": 60,
+      "title": "Watching Where and How You’re Walking",
+      "summary": "Using AI to watch where and how people are walking and how it can alter the nature of things.",
+      "source": "Thehealthcareblog.com",
+      "category": "research",
+      "timestamp": "2025-07-18T19:30:41Z",
+      "url": "https://thehealthcareblog.com/blog/2025/07/18/watching-where-and-how-youre-walking/"
+    },
+    {
+      "id": 61,
+      "title": "Anduril Awarded $99.6M for U.S. Army Next Generation Command and Control Prototype",
+      "summary": "Anduril awarded $99.6M for U.S. Army Next Generation Command and Control Prototype to enhance reconnaissance capabilities for soldiers in combat situations.",
+      "source": "Soldiersystems.net",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:30:00Z",
+      "url": "https://soldiersystems.net/2025/07/18/anduril-awarded-99-6m-for-u-s-army-next-generation-command-and-control-prototype/"
+    },
+    {
+      "id": 62,
+      "title": "New Google Pixel 10 to Debut on August 20",
+      "summary": "Tech company Google is set to reveal its new Google Pixel 10 flagship phones on August 20, a few weeks before Apple's iPhone 17 debut. The launch of the latest line of Pixel smartphones is highly anticipated.",
+      "source": "iLounge",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:29:46Z",
+      "url": "https://www.ilounge.com/news/new-google-pixel-10-to-debut-on-august-20"
+    },
+    {
+      "id": 63,
+      "title": "New Windows 11 builds add slowdown logging, new accessibility features, and more",
+      "summary": "New Windows 11 builds include slowdown logging, new accessibility features, and other changes.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:28:01Z",
+      "url": "https://www.neowin.net/news/new-windows-11-builds-add-slowdown-logging-new-accessibility-features-and-more/"
+    },
+    {
+      "id": 64,
+      "title": "Sacrilege! Lenovo launches white ThinkPad with only four ports, no red TrackPoint, and no physical touchpad buttons — and I have only one word for it...why?",
+      "summary": "Lenovo’s white ThinkPad X9 Aura sacrifices core features like the red TrackPoint and physical touchpad buttons in favor of sleek looks and powerful specs, sparking controversy among loyal ThinkPad users.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:28:00Z",
+      "url": "https://www.techradar.com/pro/sacrilege-lenovo-launches-white-thinkpad-with-only-four-ports-no-red-trackpoint-and-no-physical-touchpad-buttons-and-i-have-only-one-word-for-it-why"
+    },
+    {
+      "id": 65,
+      "title": "Meta calls EU's AI code overreach, will not sign it",
+      "summary": "Meta Platforms refuses to sign the EU's AI code of practice, citing concerns about overreach and legal uncertainties for model developers.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:26:22Z",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/meta-calls-eus-ai-code-overreach-will-not-sign-it/articleshow/122772151.cms"
+    },
     {
       "id": 51,
       "title": "Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T18:46:33Z",
       "url": "https://www.polygon.com/news/614100/coldplay-kiss-cam-cheating-video-video-game"
-    },
-    {
-      "id": 57,
-      "title": "NSF-Backed ‘MaVila’ AI Brings Factory Floors Into The LLM Era",
-      "summary": "NSF-backed AI model 'MaVila' is able to analyze machine defects and recommend process parameters in real-time on factory floors.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:44:44Z",
-      "url": "https://www.forbes.com/sites/ronschmelzer/2025/07/18/nsf-backed-mavila-ai-brings-factory-floors-into-the-llm-era/"
-    },
-    {
-      "id": 58,
-      "title": "Samsung Galaxy A56 Launches in US With Premium Perks at $499",
-      "summary": "Samsung Galaxy A56 launches in the US at $499 with premium features, hitting store shelves in July.",
-      "source": "TalkAndroid",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:44:00Z",
-      "url": "https://www.talkandroid.com/512161-samsung-galaxy-a56-us-sale/"
-    },
-    {
-      "id": 59,
-      "title": "Google Launches Monthly 'Gemini Drops': July Update New Features",
-      "summary": "Google introduces AI updates in its Gemini Feature Drop, including Veo 3 photo-to-video creation and Scheduled Actions.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:43:05Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-gemini-feature-drops-july-update-new-features.html"
-    },
-    {
-      "id": 60,
-      "title": "Chris Dyer Reveals How Company Culture Drives Burnout Or Breakthrough On The Burnout Club with Patrice Bonfiglio",
-      "summary": "Chris Dyer discusses how company culture can drive either burnout or breakthrough, emphasizing the importance of intentional culture and radical transparency in transforming teams.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:43:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118152/0/en/Chris-Dyer-Reveals-How-Company-Culture-Drives-Burnout-Or-Breakthrough-On-The-Burnout-Club-with-Patrice-Bonfiglio.html"
-    },
-    {
-      "id": 61,
-      "title": "howso-engine 40.4.0",
-      "summary": "The Howso Engine™ is a natively and fully explainable ML engine, providing an alternative to black box AI neural networks.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:42:41Z",
-      "url": "https://pypi.org/project/howso-engine/40.4.0/"
-    },
-    {
-      "id": 62,
-      "title": "From Tools To Teammates: How AI Agents Will Become Digital Labor",
-      "summary": "From Tools To Teammates: How AI Agents Will Become Digital Labor - AI agents such as ChatGPT are being used as digital workforce to drive revenue growth and handle tasks, leading to cost savings for companies. Top companies are saving millions with autonomous workers.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:42:19Z",
-      "url": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/18/from-tools-to-teammates-how-ai-agents-will-become-digital-labor/"
-    },
-    {
-      "id": 63,
-      "title": "Snoop Dogg becomes co-owner of a former Premier League club ",
-      "summary": "Snoop Dogg becomes co-owner of a former Premier League club Swansea, currently playing in the Championship.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T18:41:00Z",
-      "url": "https://onefootball.com/en/news/snoop-dogg-becomes-co-owner-of-a-former-premier-league-club-41393901"
-    },
-    {
-      "id": 64,
-      "title": "Show HN: molab, a cloud-hosted marimo notebook workspace",
-      "summary": "molab, a cloud-hosted marimo notebook workspace, is gaining popularity and has received requests for support in Google Colab.",
-      "source": "Marimo.io",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:40:30Z",
-      "url": "https://marimo.io/blog/announcing-molab"
-    },
-    {
-      "id": 65,
-      "title": "Astronomer CEO Was Caught Red-Handed at a Coldplay Concert — and the Internet Won’t Let It Die",
-      "summary": "A couple caught red-handed as they canoodled during a Coldplay concert this week has been the subject of numerous memes and X posts, days after their apparent affair was exposed.",
-      "source": "Mediaite",
-      "category": "ethics",
-      "timestamp": "2025-07-18T18:39:56Z",
-      "url": "https://www.mediaite.com/online/astronomer-ceo-was-caught-red-handed-at-a-coldplay-concert-and-the-internet-wont-let-it-die/"
-    },
-    {
-      "id": 66,
-      "title": "plain.upgrade 0.3.3",
-      "summary": "plain.upgrade 0.3.3 is a tool that uses AI agents to upgrade Plain packages, allowing for more efficient and accurate software updates.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:39:51Z",
-      "url": "https://pypi.org/project/plain-upgrade/0.3.3/"
-    },
-    {
-      "id": 67,
-      "title": "Coldplay kiss-cam flap proves we’re already our own surveillance state",
-      "summary": "Coldplay kiss-cam flap demonstrates the power of surveillance we already possess, reminding us of the ethical implications of building our own surveillance state.",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T18:39:50Z",
-      "url": "https://www.theregister.com/2025/07/18/coldplay_kiss_cam_privacy/"
-    },
-    {
-      "id": 68,
-      "title": "Mango Health (YC W24) Is Hiring",
-      "summary": "Mango Health is hiring for individuals passionate about mental health to join their team and make a difference in changing lives.",
-      "source": "Hacker News",
-      "category": "startups",
-      "timestamp": "2025-07-18T18:39:02Z",
-      "url": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer"
-    },
-    {
-      "id": 69,
-      "title": "This Week in AI: AI Startups Hit Fundraising Gold",
-      "summary": "AI startups like Perplexity, Thinking Machines, and Anthropic have recently raised billions in funding, while tech giants like Google, Meta, and Blackstone are investing heavily in building AI data centers.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T18:38:46Z",
-      "url": "https://biztoc.com/x/f76bf4782938bcf1"
-    },
-    {
-      "id": 70,
-      "title": "Meta Continues AI Focus by Adding 2 Ex-Apple Researchers",
-      "summary": "Meta continues AI focus by adding 2 ex-Apple researchers to its Superintelligence Labs team.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T18:38:44Z",
-      "url": "https://biztoc.com/x/08d1d2dd8a20cc85"
-    },
-    {
-      "id": 51,
-      "title": "For the first time since COVID, more than half of Fortune 100 companies have mandated workers fully return to work as hybrid options wither",
-      "summary": "For the first time since COVID, more than half of Fortune 100 companies have mandated workers fully return to work as hybrid options wither, marking a significant shift in workplace arrangements.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:19:59Z",
-      "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/"
     }
   ]
 }
