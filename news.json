@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-19T22:14:59.343Z",
+  "lastUpdate": "2025-07-19T22:38:20.071Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted | TechCrunch",
+      "summary": "Pig.dev, a Y Combinator startup, gave up on developing AI agents for Windows desktops and pivoted to a different direction.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:34:29Z",
+      "url": "https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/"
+    },
+    {
+      "id": 52,
+      "title": "mlx-cpu 0.26.5",
+      "summary": "mlx-cpu 0.26.5 is a framework designed for machine learning on Apple silicon, showcasing innovation in the field of AI technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:33:52Z",
+      "url": "https://pypi.org/project/mlx-cpu/0.26.5/"
+    },
+    {
+      "id": 53,
+      "title": "Meta declines to abide by voluntary EU AI safety guidelines",
+      "summary": "Meta declines to follow EU AI safety guidelines and the European Commission issues voluntary guidelines for AI providers.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T22:33:12Z",
+      "url": "https://biztoc.com/x/5f48ff22aa24eee6"
+    },
+    {
+      "id": 54,
+      "title": "Weekend reading: London stalling (and calling!)",
+      "summary": "Weekend reading: London stalling (and calling!) - Where's our irrational euphoria when we need it? Plus all the week's good reads…",
+      "source": "Monevator.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:31:09Z",
+      "url": "https://monevator.com/weekend-reading-london-stalling-and-calling/"
+    },
+    {
+      "id": 55,
+      "title": "Série E, fifth division, set for discussion at CBF ",
+      "summary": "The Brazilian Football Confederation is set to discuss the creation of a new fifth division, Series E, to add to the existing entry series. This potential innovation is being pushed by many clubs and could bring new opportunities for lower-tier teams in Brazilian football.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:31:00Z",
+      "url": "https://onefootball.com/en/news/serie-e-fifth-division-set-for-discussion-at-cbf-41394323"
+    },
+    {
+      "id": 56,
+      "title": "mlx-metal 0.26.5",
+      "summary": "mlx-metal 0.26.5 is a framework specifically designed for machine learning on Apple silicon chips.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:30:22Z",
+      "url": "https://pypi.org/project/mlx-metal/0.26.5/"
+    },
+    {
+      "id": 57,
+      "title": "DuckDuckGo Now Lets You Hide AI-Generated Images In Search Results",
+      "summary": "DuckDuckGo is rolling out a new setting to filter out AI-generated images in search results, in response to user feedback.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:30:00Z",
+      "url": "https://tech.slashdot.org/story/25/07/18/2046207/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results"
+    },
+    {
+      "id": 58,
+      "title": "2025’s Most Efficient Crypto Mining Platform? AIXA’s AI Has the Answer",
+      "summary": "In 2025, a new AI-powered crypto mining platform called AIXA is being hailed as the most efficient solution for growing digital assets in the cryptocurrency industry.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118224/0/en/2025-s-Most-Efficient-Crypto-Mining-Platform-AIXA-s-AI-Has-the-Answer.html"
+    },
+    {
+      "id": 59,
+      "title": "Meta declines to abide by voluntary EU AI safety guidelines",
+      "summary": "Meta declines to abide by voluntary EU AI safety guidelines, despite the European Commission issuing them two weeks before the EU AI Act takes effect.",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T22:29:16Z",
+      "url": "https://www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/"
+    },
+    {
+      "id": 60,
+      "title": "[Linkpost] How Am I Getting Along with AI?",
+      "summary": "Jessie Fischbein noticed that ChatGPT used phrases like 'I'm remembering' that are not meant to be taken literally while researching for her writing project.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-18T22:26:30Z",
+      "url": "https://www.lesswrong.com/posts/qqcMstCfpJEvjEj79/linkpost-how-am-i-getting-along-with-ai"
+    },
     {
       "id": 51,
       "title": "Is Windows 11 Better Than Windows 10? Here’s What You Need to Know",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T21:25:22Z",
       "url": "https://pypi.org/project/yandex-yc-ai-bindings/66.0.3/"
-    },
-    {
-      "id": 60,
-      "title": "yandex-yc-ai-bindings added to PyPI",
-      "summary": "yandex-yc-ai-bindings added to PyPI - A package to prevent Dependency Confusion attacks against Yandex.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:25:22Z",
-      "url": "https://pypi.org/project/yandex-yc-ai-bindings/"
-    },
-    {
-      "id": 61,
-      "title": "reAlpha Tech Corp. Announces Closing of $2 Million Public Offering",
-      "summary": "reAlpha Tech Corp. closed a $2 million public offering as an AI-powered real estate technology company.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:25:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118212/0/en/reAlpha-Tech-Corp-Announces-Closing-of-2-Million-Public-Offering.html"
-    },
-    {
-      "id": 62,
-      "title": "evidently 0.7.11",
-      "summary": "0.7.11 is an open-source tool designed to analyze, monitor, and debug machine learning models in production.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:23:52Z",
-      "url": "https://pypi.org/project/evidently/0.7.11/"
-    },
-    {
-      "id": 63,
-      "title": "Who calls the shots at your workplace: your boss or a bot?",
-      "summary": "Some workplaces are seeing an increase in reliance on AI for decision making, raising questions about whether managers are abdicating their responsibilities to technology.",
-      "source": "Digital Journal",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:19:38Z",
-      "url": "https://www.digitaljournal.com/business/who-calls-the-shots-at-your-workplace-your-boss-or-a-bot/article"
-    },
-    {
-      "id": 64,
-      "title": "Optiva Inc. enters into Support Agreement with Holders of Approximately 85% of Outstanding Senior Secured Notes to Provide 45-Day Period to Continue Negotiations with Noteholders and Third Parties regarding a Potential Transaction",
-      "summary": "Optiva Inc. enters into Support Agreement with Holders of Approximately 85% of Outstanding Senior Secured Notes to Provide 45-Day Period to Continue Negotiations with Noteholders and Third Parties regarding a Potential Transaction - Optiva is in negotiations with its existing noteholders and certain third parties regarding a potential transaction that would result in the exchange of Optiva’s outstanding notes for a combination of shares and new notes of a proforma merged strategic third",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:19:35Z",
-      "url": "https://financialpost.com/globe-newswire/optiva-inc-enters-into-support-agreement-with-holders-of-approximately-85-of-outstanding-senior-secured-notes-to-provide-45-day-period-to-continue-negotiations-with-noteholders-and-third-parties-rega"
-    },
-    {
-      "id": 65,
-      "title": "OpenAI unveils ChatGPT Agent: AI for complex tasks with a higher risk of financial theft and bioweapon creation",
-      "summary": "OpenAI unveils ChatGPT Agent for complex tasks with a higher risk of financial theft and bioweapon creation, potentially posing ethical concerns.",
-      "source": "Notebookcheck.net",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:19:00Z",
-      "url": "https://www.notebookcheck.net/OpenAI-unveils-ChatGPT-Agent-AI-for-complex-tasks-with-a-higher-risk-of-financial-theft-and-bioweapon-creation.1061433.0.html"
-    },
-    {
-      "id": 66,
-      "title": "praisonaiagents 0.0.143",
-      "summary": "Praison AI agents 0.0.143 allows for completing complex tasks with Self Reflection Agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:18:22Z",
-      "url": "https://pypi.org/project/praisonaiagents/0.0.143/"
-    },
-    {
-      "id": 67,
-      "title": "Why iOS 26 turns Apple Notes into the productivity powerhouse you never knew you needed",
-      "summary": "The iOS 26 update is turning Apple Notes into a powerful productivity tool, offering users a free alternative to paid note-taking subscriptions.",
-      "source": "Gadgethacks.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:18:03Z",
-      "url": "https://ios.gadgethacks.com/news/why-ios-26-turns-apple-notes-into-the-productivity-powerhouse-you-never-knew-you-needed/"
-    },
-    {
-      "id": 68,
-      "title": "Citi and Ant International Pilot AI-Enhanced FX Risk Management Solution",
-      "summary": "Citi and Ant International are piloting an AI-enhanced FX risk management solution for businesses selling through eCommerce channels.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:16:08Z",
-      "url": "http://www.pymnts.com/partnerships/2025/citi-ant-international-pilot-ai-enhanced-fx-risk-management-solution/"
-    },
-    {
-      "id": 69,
-      "title": "Jim Cramer: ‘Apple could become number one in AI immediately if it bought Perplexity’",
-      "summary": "Jim Cramer suggests that Apple could become a leader in AI by acquiring Perplexity, raising concerns about Apple's stock.",
-      "source": "Macdailynews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:15:13Z",
-      "url": "https://macdailynews.com/2025/07/18/jim-cramer-apple-could-become-number-one-in-ai-immediately-if-it-bought-perplexity/"
     }
   ]
 }
