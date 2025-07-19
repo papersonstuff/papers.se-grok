@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-19T15:34:40.534Z",
+  "lastUpdate": "2025-07-19T15:52:41.019Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI Transforms ChatGPT Into an AI Agent",
+      "summary": "OpenAI is transforming ChatGPT into a fully agentic system capable of executing complex tasks using its own virtual computer and built-in tools.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:50:20Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/openai-transforms-chatgpt-into-an-ai-agent/"
+    },
+    {
+      "id": 52,
+      "title": "Slog AM: Northbound Lane Closures on I-5 Begin, CBS Cancels Colbert's Show, Big Dumper Signs Ad Deal with HoneyBucket",
+      "summary": "Northbound Lane Closures on I-5 Begin, CBS Cancels Colbert's Show, Big Dumper Signs Ad Deal with HoneyBucket - The Stranger's morning news roundup",
+      "source": "TheStranger.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:49:00Z",
+      "url": "https://www.thestranger.com/slog-am/2025/07/18/80152877/slog-am-northbound-lane-closures-on-i-5-begin-cbs-cancels-colberts-show-big-dumper-signs-ad-deal-with-honeybucket"
+    },
+    {
+      "id": 53,
+      "title": "∞ The Dalrymple Report: watchOS Gestures, Emmys, Apple TV Keyboard",
+      "summary": "Apple TV+ shows receive multiple Emmy nominations, while new watchOS gestures are positively received by users.",
+      "source": "Loopinsight.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:48:17Z",
+      "url": "https://www.loopinsight.com/2025/07/18/the-dalrymple-report-watchos-gestures-emmys-apple-tv-keyboard/"
+    },
+    {
+      "id": 54,
+      "title": "pyconfly 0.0.4",
+      "summary": "pyconfly 0.0.4 is a simple configuration manager specifically designed for machine learning projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:48:04Z",
+      "url": "https://pypi.org/project/pyconfly/0.0.4/"
+    },
+    {
+      "id": 55,
+      "title": "Poppy Playtime Chapter 4 Brings Its Scary ‘Safe Haven’ to Mobile",
+      "summary": "Poppy Playtime Chapter 4 'Safe Haven' is now available on mobile, continuing the scary adventure after Deep Sleep.",
+      "source": "DroidGamers",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:48:00Z",
+      "url": "https://www.droidgamers.com/news/poppy-playtime-chapter-4/"
+    },
+    {
+      "id": 56,
+      "title": "Why the AI stock bubble may be just getting started",
+      "summary": "Valuations for the biggest stocks in the S&P 500 are appearing stretched, sparking worries about concentration risk.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:47:44Z",
+      "url": "https://finance.yahoo.com/video/why-ai-stock-bubble-may-154744983.html"
+    },
+    {
+      "id": 57,
+      "title": "Holistic reconfiguration of financial ecosystem needed to unlock required flows into green infra: RBI Dy Guv Rao",
+      "summary": "Holistic reconfiguration of financial ecosystem needed to unlock required flows into green infrastructure, says RBI Deputy Governor",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:47:08Z",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/holistic-reconfiguration-of-financial-ecosystem-needed-to-unlock-required-flows-into-green-infra-rbi-dy-guv-rao/article69828257.ece"
+    },
+    {
+      "id": 58,
+      "title": "Don’t buy the Galaxy A56 in the US until you see this S24 FE deal",
+      "summary": "Samsung released the Galaxy A56 in the US today, following the earlier availability of models like the Galaxy A36. The delay in launch could have been strategic to prevent impacting sales of other devices in the lineup.",
+      "source": "SamMobile",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:45:16Z",
+      "url": "https://www.sammobile.com/news/galaxy-a56-july-2025-security-update/"
+    },
+    {
+      "id": 59,
+      "title": "At All-Time Highs, Should You Buy Taiwan Semi Stock Here or Wait for a Dip?",
+      "summary": "At all-time highs, investors are debating whether to buy Taiwan Semi stock now or wait for a dip, despite short-term challenges TSMC has potential for long-term growth",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:45:09Z",
+      "url": "https://www.barchart.com/story/news/33497155/at-all-time-highs-should-you-buy-taiwan-semi-stock-here-or-wait-for-a-dip"
+    },
+    {
+      "id": 60,
+      "title": "Report: Elon Musk's Neuralink Labeled Itself a 'Small Disadvantaged Business' Prior to $9 Billion Valuation",
+      "summary": "Elon Musk's Neuralink labeled itself as a 'small disadvantaged business' before reaching a $9 billion valuation.",
+      "source": "Breitbart News",
+      "category": "startups",
+      "timestamp": "2025-07-18T15:41:54Z",
+      "url": "https://www.breitbart.com/tech/2025/07/18/report-elon-musks-neuralink-labeled-itself-a-small-disadvantaged-business-prior-to-9-billion-valuation/"
+    },
+    {
+      "id": 61,
+      "title": "Several Dead in Explosion at Los Angeles County Sheriff's Facility: Live Updates",
+      "summary": "Authorities are investigating a deadly incident at a Los Angeles County Sheriff's Department training facility in East Los Angeles, where a possible explosion occurred early Friday morning.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:41:33Z",
+      "url": "https://biztoc.com/x/22698f77e0d27dcd"
+    },
+    {
+      "id": 62,
+      "title": "Heartbreak as Woman Captures Pregnancy Excitement Fade With 'Every Loss'",
+      "summary": "A couple from Georgia experienced the joy of a positive pregnancy test followed by the heartbreak of losing the baby. Voice AI was used to capture their emotions, showcasing the potential ethical concerns around using AI in sensitive situations.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:41:17Z",
+      "url": "https://biztoc.com/x/4a1f735df7284b45"
+    },
+    {
+      "id": 63,
+      "title": "A Stranger's Alleged Affair Has Gone Viral—Here's Why We Can't Look Away",
+      "summary": "An AI-generated voice has been used to create a viral story about an alleged affair at a Coldplay concert, causing confusion and intrigue. The incident highlights the power of AI in manipulating and spreading information online.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:41:16Z",
+      "url": "https://biztoc.com/x/b8f47586a6181efe"
+    },
     {
       "id": 51,
       "title": "AMD's Threadripper Pro 9995WX will set you back $11,699, touts 26% speed boost",
@@ -333,123 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T14:47:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/18/3118021/28124/en/Humidity-Sensor-Company-Evaluation-Report-2025-Amphenol-Honeywell-and-Texas-Instruments-Lead-Humidity-Sensor-Market-with-Innovation-Global-Expansion-and-Sector-Diversification.html"
-    },
-    {
-      "id": 57,
-      "title": "Exclusive: Google Pixel Watch 4 adds all-new Strength Training Experience",
-      "summary": "Google Pixel Watch 4 adds all-new Strength Training Experience to help users train smarter with a Workout Builder.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:46:40Z",
-      "url": "https://www.androidheadlines.com/google-pixel-watch-4-strength-training"
-    },
-    {
-      "id": 58,
-      "title": "Coldplay concert scandal: Woman who filmed Astronomer CEO Andy Byron and Kristin Cabot on kiss cam reacts",
-      "summary": "Coldplay concert scandal involving Astronomer CEO and Chief People Officer on kiss cam sparks controversy",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:46:35Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/coldplay-concert-scandal-woman-who-filmed-astronomer-ceo-andy-byron-and-kristin-cabot-on-kiss-cam-reacts/articleshow/122767761.cms"
-    },
-    {
-      "id": 59,
-      "title": "Amazon Recall Update: Customers Told 'Dispose' of Product Parts Nationwide",
-      "summary": "A recliner chair sold on Amazon with malfunctioning USB ports has been recalled, with customers advised to dispose of the product parts nationwide. The AI-generated voice used in the update may lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:45:49Z",
-      "url": "https://biztoc.com/x/fe9ed09080d45f6d"
-    },
-    {
-      "id": 60,
-      "title": "dualdb-memory-plugin 0.1.6",
-      "summary": "Dualdb-memory-plugin 0.1.6 is a lightweight AI dialogue memory rotation plugin that supports dual DB (JSON/SQLite) and pluggable summarizer.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:45:39Z",
-      "url": "https://pypi.org/project/dualdb-memory-plugin/0.1.6/"
-    },
-    {
-      "id": 61,
-      "title": "commandor-ai 0.0.1",
-      "summary": "Commandor-ai 0.0.1 is an intelligent terminal assistant that uses AI to convert natural language to shell commands.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:45:27Z",
-      "url": "https://pypi.org/project/commandor-ai/0.0.1/"
-    },
-    {
-      "id": 62,
-      "title": "Bank of America makes its boldest AMD call yet",
-      "summary": "Bank of America makes a bold call on AMD stock, creating a significant buzz in the market with a billion-dollar tailwind.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:45:23Z",
-      "url": "https://biztoc.com/x/2e6fd0126aca4986"
-    },
-    {
-      "id": 63,
-      "title": "Why OpenAI’s Advisory Board Is Calling for Continued Nonprofit Oversight",
-      "summary": "OpenAI's Advisory Board is calling for continued nonprofit oversight due to the consequential nature of the AI technology being developed.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:45:15Z",
-      "url": "https://biztoc.com/x/86d32b62c6f9c385"
-    },
-    {
-      "id": 51,
-      "title": "CEO of One of America's Largest Transit Systems Quits Over Green Card Issue",
-      "summary": "The CEO of one of the largest transit systems in the U.S. steps down due to green card issue, impacting the organization's leadership and potentially economic stability.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:34:39Z",
-      "url": "https://biztoc.com/x/76c8980141655e7f"
-    },
-    {
-      "id": 52,
-      "title": "How Gen Z’s entry into the workplace is being affected by AI",
-      "summary": "Are Gen Z losing out on internships and early-career positions because of AI?",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:34:30Z",
-      "url": "https://biztoc.com/x/ca94a4ac6b27567b"
-    },
-    {
-      "id": 53,
-      "title": "Mom Given Option To Terminate at 20 Weeks, Unprepared for What Happens Next",
-      "summary": "A mom who was given the option to terminate her pregnancy was unprepared for what happened next. Kristina shared her story on Instagram, highlighting the emotional impact of such a decision.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:34:27Z",
-      "url": "https://biztoc.com/x/41298ef5ad01e47e"
-    },
-    {
-      "id": 54,
-      "title": "Recycled Polyolefin Market Size to Exceed USD 144.2 Billion by 2034",
-      "summary": "Global recycled polyolefin market size is projected to surpass USD 144.2 billion by 2034, with a compound annual growth rate of 8.95% according to Towards chem and Materials consultants.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:34:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118016/0/en/Recycled-Polyolefin-Market-Size-to-Exceed-USD-144-2-Billion-by-2034.html"
-    },
-    {
-      "id": 55,
-      "title": "Top Republican on China panel objects to resumption of Nvidia H20 chip shipments",
-      "summary": "Top Republican on China panel objects to resumption of Nvidia H20 chip shipments",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:33:37Z",
-      "url": "https://www.yahoo.com/news/top-republican-china-panel-objects-143337670.html"
-    },
-    {
-      "id": 56,
-      "title": "What is MySQL?",
-      "summary": "MySQL is a user-friendly relational database management system that uses SQL to store and manage data. It is a popular choice for various applications due to its scalability and open source nature.",
-      "source": "Techtarget.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T14:33:00Z",
-      "url": "https://www.techtarget.com/searchoracle/definition/MySQL"
     }
   ]
 }
