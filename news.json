@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-19T18:48:58.764Z",
+  "lastUpdate": "2025-07-19T19:11:45.369Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AEC Trends 2025: The Technologies and Workflows Shaping Our Industry",
+      "summary": "The AEC industry is adopting new technologies and workflows at a faster pace in 2025 to meet the demands of delivering projects faster, cheaper, and with fewer people.",
+      "source": "Btl-blog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:11:05Z",
+      "url": "https://www.btl-blog.com/between_the_lines/2025/07/aec-trends-2025-the-technologies-and-workflows-shaping-our-industry.html"
+    },
+    {
+      "id": 52,
+      "title": "Repligen, Bruker, Fortrea, Azenta, and Biogen Stocks Trade Down, What You Need To Know",
+      "summary": "A number of healthcare stocks fell in the afternoon session after several negative developments weighed on the sector.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:11:01Z",
+      "url": "https://finance.yahoo.com/news/repligen-bruker-fortrea-azenta-biogen-191101000.html"
+    },
+    {
+      "id": 53,
+      "title": "Why Are Rivian (RIVN) Shares Soaring Today",
+      "summary": "Shares of electric vehicle manufacturer Rivian (NASDAQ:RIVN) jumped 6% in the afternoon session after the company announced it will establish a new East",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-18T19:11:00Z",
+      "url": "https://finance.yahoo.com/news/why-rivian-rivn-shares-soaring-191100320.html"
+    },
+    {
+      "id": 54,
+      "title": "Fugs & Pieces, July 17, 2025",
+      "summary": "The post Fugs & Pieces, July 17, 2025 from Go Fug Yourself celebrates Clueless's birthday and other interesting reads.",
+      "source": "Gofugyourself.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:09:44Z",
+      "url": "https://www.gofugyourself.com/fugs-pieces-july-17-2025-07-2025"
+    },
+    {
+      "id": 55,
+      "title": "Brandon Sanderson explains why reading fantasy is \"as good for you as going to the gym\"",
+      "summary": "Brandon Sanderson discusses the impact of generative AI on epic fantasy and how reading fantasy can have similar benefits to physical exercise.",
+      "source": "Winter is Coming",
+      "category": "research",
+      "timestamp": "2025-07-18T19:09:00Z",
+      "url": "https://winteriscoming.net/brandon-sanderson-explains-why-reading-fantasy-is-as-good-for-you-as-going-to-the-gym"
+    },
+    {
+      "id": 56,
+      "title": "Passive Power Surge — Get Reliable Crypto Income Securely with AIXA Miner's Smart Contracts",
+      "summary": "Passive Power Surge — Get Reliable Crypto Income Securely with AIXA Miner's Smart Contracts. The crypto space is changing with Bitcoin and altcoins moving into DeFi, NFTs, and AI territories, attracting experienced investors who are no longer following hype-driven speculation.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:08:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118158/0/en/Passive-Power-Surge-Get-Reliable-Crypto-Income-Securely-with-AIXA-Miner-s-Smart-Contracts.html"
+    },
+    {
+      "id": 57,
+      "title": "Announcing Windows 11 Insider Preview Build 26200.5710 (Dev Channel)",
+      "summary": "Announcing Windows 11 Insider Preview Build 26200.5710 (Dev Channel) with new features and improvements.",
+      "source": "Windows.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:06:11Z",
+      "url": "https://blogs.windows.com/windows-insider/2025/07/18/announcing-windows-11-insider-preview-build-26200-5710-dev-channel/"
+    },
+    {
+      "id": 58,
+      "title": "Platformonomics TGIF #94: July 18, 2025",
+      "summary": "Platformonomics TGIF #94 provides a weekly compilation of links and comments related to AI, with a focus on CAPEX negative cash flow. The newsletter is taking a break next week, but promises future posts on various AI-related topics.",
+      "source": "Platformonomics.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:05:30Z",
+      "url": "https://platformonomics.com/2025/07/platformonomics-tgif-94-july-18-2025/"
+    },
+    {
+      "id": 59,
+      "title": "Now Google is Doing Gemini Drops, Sort Of",
+      "summary": "Google has introduced Gemini Drops, joining its lineup of Pixel, Android, and Workspace Drops, indicating ongoing innovation in their offerings.",
+      "source": "Thurrott.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:05:25Z",
+      "url": "https://www.thurrott.com/a-i/google-gemini-a-i/323534/now-google-is-doing-gemini-drops-sort-of"
+    },
+    {
+      "id": 60,
+      "title": "Netflix Says It Used Generative AI In One Of Its TV Shows ‘El Eternauta’ For The First Time, Helping ‘Creators Make Films And Series Better’ While Also Saving On Costs",
+      "summary": "Netflix used generative AI in its TV show 'El Eternauta' for the first time, aiming to improve content creation and reduce costs.",
+      "source": "Wccftech",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:05:04Z",
+      "url": "https://wccftech.com/netflix-used-generative-ai-in-series-titled-el-eternauta-for-the-first-time/"
+    },
+    {
+      "id": 61,
+      "title": "China Market Update: Hong Kong Higher, Regulators Comment On Instant Commerce, Week In Review",
+      "summary": "Asian equities ended the week higher, with Hong Kong and Australia outperforming while India underperformed.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:04:43Z",
+      "url": "https://www.forbes.com/sites/brendanahern/2025/07/18/china-market-update-hong-kong-higher-regulators-comment-on-instant-commerce-week-in-review/"
+    },
+    {
+      "id": 62,
+      "title": "Meta’s AI Strategy Faces Scrutiny After EU Code Rejection",
+      "summary": "Meta faces scrutiny for not joining EU's AI Code of Conduct, citing demands beyond reasonable compliance",
+      "source": "iPhone in Canada",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:04:30Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/18/meta-ai-strategy-faces-scrutiny-in-eu/"
+    },
+    {
+      "id": 63,
+      "title": "It's Never Been Harder to Get Away With Cheating — or Anything",
+      "summary": "It's becoming increasingly difficult to get away with cheating or any other behavior due to the prevalence of digital surveillance.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:03:35Z",
+      "url": "https://www.newsweek.com/coldplay-cheating-jumbotron-andy-byron-mass-surveillance-2100918"
+    },
+    {
+      "id": 64,
+      "title": "Google Pixel Watch 4 may skip the price hike many were expecting",
+      "summary": "Google Pixel Watch 4 may maintain current prices despite cost pressures, avoiding a potential price increase in models.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:03:30Z",
+      "url": "https://www.phonearena.com/news/google-pixel-watch-4-may-skip-the-price-hike-many-were-expecting_id172412"
+    },
+    {
+      "id": 65,
+      "title": "If Amazon Ring staff want a promotion, they must now prove they’ve used AI",
+      "summary": "Amazon Ring staff must now prove AI use for promotion, expanding expectations in the smart home division.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:03:26Z",
+      "url": "https://fortune.com/2025/07/18/amazon-ring-ai-promotion-headcount/"
+    },
+    {
+      "id": 66,
+      "title": "Sheryl Crow Slams Donald Trump in Protest Song 'The New Normal'",
+      "summary": "Sheryl Crow criticizes President Donald Trump in protest song 'The New Normal,' referring to him as 'immoral.'",
+      "source": "Billboard",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:03:13Z",
+      "url": "http://www.billboard.com/music/music-news/sheryl-crow-slams-president-trump-protest-song-new-normal-1236024917/"
+    },
+    {
+      "id": 67,
+      "title": "The agent economy: A new blueprint for AI-driven business",
+      "summary": "The agent economy is reshaping the foundation of enterprise artificial intelligence, turning autonomous agents into the new orchestrators of digital infrastructure, services and capital.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:03:06Z",
+      "url": "https://siliconangle.com/2025/07/18/apps-agent-economy-new-model-ai-driven-business-aicloudleaders/"
+    },
     {
       "id": 51,
       "title": "Astronomer launches formal investigation into CEO Andy Byron and Kristin Cabot’s Coldplay kiss cam fiasco",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T18:05:00Z",
       "url": "https://onefootball.com/en/news/aura-farming-kid-real-star-joins-viral-trend-on-a-jetski-41393766"
-    },
-    {
-      "id": 51,
-      "title": "Being human",
-      "summary": "Sam Altman highlights the importance of courtesy in AI interactions, reflecting our own values. AI's learned responses remind us of the ethical considerations in developing and using artificial intelligence.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T17:50:41Z",
-      "url": "https://economictimes.indiatimes.com/opinion/speaking-tree/being-human/articleshow/122770445.cms"
-    },
-    {
-      "id": 52,
-      "title": "Why Are So Few Women in Tech Leadership?",
-      "summary": "Unconscious bias, lack of support for working parents and willful ignorance of broader societal issues are persistent barriers to gender equity in tech.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-18T17:49:37Z",
-      "url": "https://www.newsweek.com/why-are-so-few-women-tech-leadership-2099254"
-    },
-    {
-      "id": 53,
-      "title": "CBS' Colbert Cancellation and Late-Night's Profit Free Fall",
-      "summary": "CBS' Colbert Cancellation and Late-Night's Profit Free Fall highlights the impact of ownership changes on 'The Late Show' franchise, as well as the challenges faced by traditional late-night programming in competing with cheaper and more abundant YouTube rivals.",
-      "source": "Hollywood Reporter",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:46:53Z",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/cbs-colbert-late-show-cancel-profit-tv-1236319484/"
-    },
-    {
-      "id": 54,
-      "title": "Hockerty’s Sneakers Brings Virtual Reality To Custom Made Looks",
-      "summary": "Hockerty's app for custom-made sneakers brings virtual reality to the shopping experience, allowing users to visualize their customized shoes before purchasing.",
-      "source": "WWD",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:46:42Z",
-      "url": "http://wwd.com/footwear-news/shoe-industry-news/app-custom-made-mens-hockerty-sneakers-augmented-reality-1237985760/"
-    },
-    {
-      "id": 55,
-      "title": "Astronomer finally speaks out, says CEO Andy Byron’s viral Coldplay Concert apology is fake. See all revelations made by AI firm",
-      "summary": "Astronomer AI firm confirms that a viral apology from CEO Andy Byron is fake, calling into question the ethics of the situation",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T17:44:10Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-statement-ceo-andy-byron-fake-apology-coldplay-concert-viral-video-kristin-cabot-hr-kiss-cam-coldplay-fix-you-social-media-hoax-truth/articleshow/122770083.cms"
-    },
-    {
-      "id": 56,
-      "title": "Report: AI risk management practices are severely lacking",
-      "summary": "Report reveals that AI companies, including those focused on AI safety like Anthropic, lack strong risk management practices.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T17:43:39Z",
-      "url": "https://biztoc.com/x/3d5753c798262076"
-    },
-    {
-      "id": 57,
-      "title": "intentkit 0.6.5.dev3",
-      "summary": "Intentkit 0.6.5.dev3 is an intent-based AI agent platform core package that has been released, offering new features and capabilities for developers to create intelligent AI agents. This platform enables developers to build sophisticated AI models that can understand user intents and provide personalized responses.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:43:39Z",
-      "url": "https://pypi.org/project/intentkit/0.6.5.dev3/"
-    },
-    {
-      "id": 58,
-      "title": "Trump set to unveil AI orders to boost US edge over China",
-      "summary": "Trump set to unveil AI orders to boost US edge over China with executive orders focusing on securing US AI edge against China, speedier permitting for data center buildouts, promoting US tech exports, and other moves to facilitate the nation's advancements.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:43:38Z",
-      "url": "https://biztoc.com/x/f3af5a3fdbb48e38"
-    },
-    {
-      "id": 51,
-      "title": "A Prominent OpenAI Investor May Be Suffering an ChatGPT-Related Mental Health Crisis, His Peers Say",
-      "summary": "A prominent venture capitalist may be experiencing mental health issues related to the use of ChatGPT, a technology developed by OpenAI. The incident raises ethical concerns about the potential negative impacts of AI on mental health.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-18T17:33:49Z",
-      "url": "https://futurism.com/openai-investor-chatgpt-mental-health"
-    },
-    {
-      "id": 52,
-      "title": "Bank of America makes its boldest AMD call yet",
-      "summary": "Bank of America makes a bold AMD call, changing the tone around AI chip play.",
-      "source": "TheStreet",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:33:00Z",
-      "url": "https://www.thestreet.com/technology/bank-of-america-makes-its-boldest-amd-call-yet"
-    },
-    {
-      "id": 53,
-      "title": "Nikon Introduces 600x600 mm Substrates for Advanced AI Silicon",
-      "summary": "Nikon introduces 600x600 mm substrates for advanced AI silicon with its Digital Lithography System DSP-100 designed for advanced semiconductor packaging, with deliveries set for fiscal year 2026.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:32:23Z",
-      "url": "https://www.techpowerup.com/339060/nikon-introduces-600x600-mm-substrates-for-advanced-ai-silicon"
-    },
-    {
-      "id": 54,
-      "title": "List of Notable Jumbotron Controversies and Mishaps",
-      "summary": "List of Jumbotron controversies and mishaps resurfacing in light of recent viral incident involving a tech CEO caught in an affair during a kiss cam. Potential ethical concerns regarding privacy and public embarrassment are highlighted.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T17:32:01Z",
-      "url": "https://biztoc.com/x/4828088640ee7a85"
-    },
-    {
-      "id": 55,
-      "title": "How LiDAR and Photogrammetry Are Redefining AEC Workflows",
-      "summary": "Reality capture using LiDAR and photogrammetry has redefined AEC workflows, transforming how we approach architecture, engineering, and construction. These key technologies continue to evolve rapidly, shaping the future of AEC practices.",
-      "source": "Btl-blog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T17:30:58Z",
-      "url": "https://www.btl-blog.com/between_the_lines/2025/07/how-lidar-and-photogrammetry-are-redefining-aec-workflows.html"
-    },
-    {
-      "id": 56,
-      "title": "Avalanche Bulls Eye Breakout, But Mid-Term Caution Clouds The View",
-      "summary": "Avalanche Bulls Eye Breakout, But Mid-Term Caution Clouds The View - Crypto Analysis AI highlights mixed signals for AVAX across different timeframes.",
-      "source": "newsBTC",
-      "category": "research",
-      "timestamp": "2025-07-18T17:30:48Z",
-      "url": "http://www.newsbtc.com/news/avalanche/avalanche-bulls-eye-breakout/"
-    },
-    {
-      "id": 57,
-      "title": "Europe’s Fintechs Welcome U.S. Stablecoin Regulation",
-      "summary": "Europe and the U.S. have acted to regulate Stablecoin issuers and service providers, potentially boosting UK and European fintechs working in the sector.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-18T17:30:29Z",
-      "url": "https://www.forbes.com/sites/trevorclawson/2025/07/18/europes-fintechs-welcome-us-stablecoin-regulation/"
-    },
-    {
-      "id": 58,
-      "title": "11 Things You Shouldn't Be Using ChatGPT For",
-      "summary": "11 Things You Shouldn't Be Using ChatGPT For - This AI Chatbot has a lot of functionality for everyday tasks, but it's still unsuitable for some things.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:30:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/11-things-you-shouldnt-be-using-chatgpt-for/"
-    },
-    {
-      "id": 59,
-      "title": "White House Partners With PragerU to Make AI-Slopified Founding Fathers (Samantha Cole/404 Media)",
-      "summary": "White House partners with PragerU to create AI-generated videos featuring Founding Fathers, showcasing application of AI technology in educational content.",
-      "source": "Memeorandum.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T17:30:00Z",
-      "url": "https://www.memeorandum.com/250718/p73"
     }
   ]
 }
