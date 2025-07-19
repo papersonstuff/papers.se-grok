@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T13:27:21.907Z",
+  "lastUpdate": "2025-07-19T13:40:48.035Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Samsung has finally released the Galaxy A56 in the United States",
+      "summary": "Samsung has finally released the Galaxy A56 in the United States, which is one of the best Samsung phones in the mid-range segment. It had been out in many markets, but the US launch was confirmed earlier in the year and the device has just been released.",
+      "source": "SamMobile",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:40:20Z",
+      "url": "https://www.sammobile.com/news/save-175-gbp-or-more-on-samsung-galaxy-a56-uk/"
+    },
+    {
+      "id": 52,
+      "title": "New AI-powered method accelerates protein simulations and reveals complex folding dynamics",
+      "summary": "New AI-powered method accelerates protein simulations and reveals complex folding dynamics. An international team led by Einstein Professor Cecilia Clementi in the Department of Physics at Freie Universität Berlin has introduced CGSchNet, a machine-learned coarse-grained (CG) model that can accurately and efficiently simulate proteins like never before.",
+      "source": "Phys.Org",
+      "category": "research",
+      "timestamp": "2025-07-18T13:40:05Z",
+      "url": "https://phys.org/news/2025-07-ai-powered-method-protein-simulations.html"
+    },
+    {
+      "id": 53,
+      "title": "DAZN to invest ₹500 cr on sports tech GCC",
+      "summary": "DAZN is investing ₹500 crore on sports tech GCC, which will be a base for global operations with 3,000 employees by 2026.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:39:54Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/dazn-to-invest-500-cr-on-sports-tech-gcc/article69827981.ece"
+    },
+    {
+      "id": 54,
+      "title": "How to Build Your Career as a Content Creator While Working as a Freelancer",
+      "summary": "The article discusses how freelancers can build a career as content creators in the growing creator economy, which has seen over 165 million creators join social media since 2020.",
+      "source": "Millo.co",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:39:10Z",
+      "url": "https://millo.co/how-to-build-your-career-as-a-content-creator-while-working-as-a-freelancer"
+    },
+    {
+      "id": 55,
+      "title": "Weight-Loss Drugs Telehealth Platform Hims & Hers Hit With New Lawsuit",
+      "summary": "A stockholder has filed a derivative lawsuit against the board of directors of Hims & Hers, the telehealth platform, for inconsistencies in their weight-loss products.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:38:52Z",
+      "url": "https://biztoc.com/x/a2d4637b836cc4ec"
+    },
+    {
+      "id": 56,
+      "title": "Lenovo Xiaoxin Pro GT: Flagship Specs in a Shockingly Thin Body",
+      "summary": "Lenovo Xiaoxin Pro GT offers flagship specs in a surprisingly thin body, showcasing innovation in the design and engineering of laptops.",
+      "source": "Gizchina.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:38:33Z",
+      "url": "https://www.gizchina.com/2025/07/18/lenovo-xiaoxin-pro-gt-flagship-specs-thin-body/"
+    },
+    {
+      "id": 57,
+      "title": "Large-scale shipments of Nvidia GB300 servers tipped to start in September — GB200 demand remains 'robust' despite widespread coolant leak reports",
+      "summary": "Large-scale shipments of Nvidia GB300 servers expected to start in September, with continued strong demand for GB200 despite coolant leak reports. Design reuse and modular approach contributing to smoother rollout of servers, but liquid cooling remains a challenge.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:35:34Z",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/large-scale-shipments-of-nvidia-gb300-servers-tipped-to-start-in-september-gb200-demand-remains-robust-despite-widespread-coolant-leak-reports"
+    },
+    {
+      "id": 58,
+      "title": "Business Operations-Focused AI-Driven Solutions - The Kyndryl Agentic AI Framework is Efficient (TrendHunter.com)",
+      "summary": "The Kyndryl Agentic AI Framework is an efficient solution for enterprises looking to enhance operations through adaptive, self-learning technology.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:35:05Z",
+      "url": "https://www.trendhunter.com/trends/agentic-ai-framework"
+    },
+    {
+      "id": 59,
+      "title": "iPadOS 26 is turning my iPad Air into the ultraportable laptop it was meant to be",
+      "summary": "iPadOS 26 is turning my iPad Air into the ultraportable laptop it was meant to be - Apple is finally delivering what the iPad has been missing.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:35:00Z",
+      "url": "https://www.zdnet.com/article/ipados-26-is-turning-my-ipad-air-into-the-ultraportable-laptop-it-was-meant-to-be/"
+    },
+    {
+      "id": 60,
+      "title": "Britain just launched its top supercomputer. Here’s how it ranks globally",
+      "summary": "The UK has launched its 11th most powerful supercomputer in the world, Isambard-AI, hosted at the University of Bristol. Built by Hewlett-Packard Enterprises, the machine officially went live this week.",
+      "source": "The Next Web",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:34:39Z",
+      "url": "https://thenextweb.com/news/britain-just-launched-its-top-supercomputer-heres-how-it-ranks-globally"
+    },
+    {
+      "id": 61,
+      "title": "gllm-inference-binary 0.4.25",
+      "summary": "gllm-inference-binary 0.4.25 is a library containing components related to model inferences in Gen AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:34:38Z",
+      "url": "https://pypi.org/project/gllm-inference-binary/0.4.25/"
+    },
+    {
+      "id": 62,
+      "title": "AIXA Miner Integrates More Advanced AI Capabilities Arrive in Cloud Mining",
+      "summary": "AIXA Miner integrates more advanced AI capabilities in cloud mining, showcasing the ongoing transformation of tech sectors by artificial intelligence.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:34:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117971/0/en/AIXA-Miner-Integrates-More-Advanced-AI-Capabilities-Arrive-in-Cloud-Mining.html"
+    },
+    {
+      "id": 63,
+      "title": "PepsiCo moves toward North America “integration” in productivity drive",
+      "summary": "PepsiCo is aiming to integrate its operations in North America to increase productivity and improve competitiveness. CEO Ramon Laguarta believes that this move will modernize the company and make it more agile in the marketplace over time.",
+      "source": "just-drinks.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:33:07Z",
+      "url": "https://www.just-drinks.com/news/pepsico-moves-toward-north-america-integration-in-productivity-drive-2/"
+    },
+    {
+      "id": 64,
+      "title": "Soft condorcet optimization for ranking of general agents",
+      "summary": "Soft condorcet optimization for ranking of general agents is a new research paper by Lanctot, Marc and team. The paper introduces a soft condorcet optimization method for ranking general agents.",
+      "source": "Lse.ac.uk",
+      "category": "research",
+      "timestamp": "2025-07-18T13:33:02Z",
+      "url": "http://eprints.lse.ac.uk/128883/"
+    },
+    {
+      "id": 65,
+      "title": "The Future of Urban Farming: Inside the Growing Home Hydroponics Market | Asia Pacific Leads the Charge",
+      "summary": "The global home hydroponics market is projected to grow significantly by 2030, driven by increasing urbanization.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117964/0/en/The-Future-of-Urban-Farming-Inside-the-Growing-Home-Hydroponics-Market-Asia-Pacific-Leads-the-Charge.html"
+    },
+    {
+      "id": 66,
+      "title": "Sports.com and Lottery.com Head to Toronto as Callum Ilott and Louis Foster Prepare for Final Street Battle of 2025",
+      "summary": "Sports.com and Lottery.com are heading to Toronto for the final street battle of 2025 where Callum Ilott and Louis Foster will compete. SEGG Media aims to target momentum, exposure, and strategic expansion.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117967/0/en/Sports-com-and-Lottery-com-Head-to-Toronto-as-Callum-Ilott-and-Louis-Foster-Prepare-for-Final-Street-Battle-of-2025.html"
+    },
+    {
+      "id": 67,
+      "title": "Inverter Welding Equipment Market to Surpass USD 8.63 Billion By 2032, Owing to Rising Demand for Energy-Efficient, Sustainable and Automated Welding Solutions – SNS Insider",
+      "summary": "Inverter welding equipment market projected to surpass USD 8.63 billion by 2032, driven by increasing demand for energy-efficient, sustainable, and automated welding solutions in the U.S.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117966/0/en/Inverter-Welding-Equipment-Market-to-Surpass-USD-8-63-Billion-By-2032-Owing-to-Rising-Demand-for-Energy-Efficient-Sustainable-and-Automated-Welding-Solutions-SNS-Insider.html"
+    },
+    {
+      "id": 68,
+      "title": "U.S. Smart Home Healthcare Market Set to Attain Valuation of US$ 65.46 Billion By 2033 | Astute Analytica",
+      "summary": "U.S. Smart Home Healthcare Market projected to reach a valuation of US$65.46 billion by 2033, driven by aging demographics and the need for chronic disease management, leading to potential cost savings in the national healthcare system.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117962/0/en/U-S-Smart-Home-Healthcare-Market-Set-to-Attain-Valuation-of-US-65-46-Billion-By-2033-Astute-Analytica.html"
+    },
+    {
+      "id": 69,
+      "title": "Udaan buys ShopKirana; Paytm Money’s new CEO",
+      "summary": "Udaan acquires ShopKirana and Paytm Money appoints new CEO in preparation for its listing.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T13:29:25Z",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/udaan-fortifies-fmcg-play-paytm-moneys-new-ceo/articleshow/122764902.cms"
+    },
+    {
+      "id": 70,
+      "title": " Team of the week for BR-2025 round 14 features seven clubs and Neymar",
+      "summary": "Team of the week for BR-2025 round 14 features seven clubs and Neymar - End of the 14th round of the Brasileirão with routs, surprises, and a new leader!It's time then to check out who stood out in the Serie A duels.Seven teams are in the Round Selection of OneFootball.C...",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:29:00Z",
+      "url": "https://sports.yahoo.com/article/team-week-br-2025-round-132900812.html"
+    },
     {
       "id": 51,
       "title": "Robot metabolism: The next evolution of our overlords? (Video)",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T13:05:13Z",
       "url": "https://biztoc.com/x/ea977dfe0ca96906"
-    },
-    {
-      "id": 61,
-      "title": "Anvesh Tiwari leads the launch of India’s first AI-driven end-to-end fintech platform by Laraware",
-      "summary": "Anvesh Tiwari leads the launch of India’s first AI-driven end-to-end fintech platform by Laraware, called Nxtbanking, poised to transform digital financial services.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T13:05:09Z",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/anvesh-tiwari-leads-the-launch-of-indias-first-ai-driven-end-to-end-fintech-platform-by-laraware/articleshow/122766642.cms"
-    },
-    {
-      "id": 62,
-      "title": "AAPL SECURITIES FRAUD: Apple Inc. (NASDAQ:AAPL) Stock Drop Triggers Class Action Lawsuit – Contact BFA Law by August 19 Legal Deadline",
-      "summary": "Apple Inc. investors are alerted to a class action lawsuit following a drop in stock price, with a legal deadline of August 19. BFA Law is handling the securities fraud case for investors who lost money.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:05:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117933/0/en/AAPL-SECURITIES-FRAUD-Apple-Inc-NASDAQ-AAPL-Stock-Drop-Triggers-Class-Action-Lawsuit-Contact-BFA-Law-by-August-19-Legal-Deadline.html"
-    },
-    {
-      "id": 63,
-      "title": "How BSE and NSE quietly got their act together online",
-      "summary": "Discover the upgraded BSE and NSE websites with real-time data, AI insights, and comprehensive market information.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:04:52Z",
-      "url": "https://www.thehindubusinessline.com/markets/how-bse-and-nse-quietly-got-their-act-together-online/article69827579.ece"
-    },
-    {
-      "id": 64,
-      "title": "NFL Running Back Derrick Henry Joins Amazfit as Athlete Ambassador",
-      "summary": "NFL running back Derrick Henry has joined Amazfit as an athlete ambassador, utilizing their products to optimize health, recovery, and performance in his 10th NFL season.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:04:38Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nfl-running-back-derrick-henry-joins-amazfit-as-athlete-ambassador"
-    },
-    {
-      "id": 65,
-      "title": "5 Essential Photoshop Techniques for Better Portrait Editing",
-      "summary": "Portrait editing techniques in Photoshop to balance natural-looking results with professional polish, helping photographers achieve better images.",
-      "source": "Photoshoproadmap.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:02:43Z",
-      "url": "https://www.photoshoproadmap.com/5-essential-photoshop-techniques-for-better-portrait-editing/"
-    },
-    {
-      "id": 66,
-      "title": "SIM Mining Launches Enhanced Cloud Mining Security Measures Today",
-      "summary": "SIM Mining launches enhanced cloud mining security measures to safeguard user data and platform operations.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:02:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117932/0/en/SIM-Mining-Launches-Enhanced-Cloud-Mining-Security-Measures-Today.html"
-    },
-    {
-      "id": 67,
-      "title": "Elon’s Porn Girl Is A Disaster In The Making",
-      "summary": "Elon Musk's anime girl project raises ethical concerns about the use of technology and its potential negative impact on society.",
-      "source": "The Daily Caller",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:01:24Z",
-      "url": "https://dailycaller.com/2025/07/18/elon-musk-grok-ai-companion-anime-porn-men/"
-    },
-    {
-      "id": 68,
-      "title": "Revolutionizing IT Management With Generative AI: The Future Is Here",
-      "summary": "The world of IT management is being revolutionized by generative AI, with potential to reshape IT operations. GenAI is driving a seismic transformation in the industry.",
-      "source": "Forrester.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:01:01Z",
-      "url": "https://www.forrester.com/blogs/revolutionizing-it-management-with-generative-ai-the-future-is-here/"
-    },
-    {
-      "id": 51,
-      "title": "No time to waste: NATO chief urges rapid industrial mobilization",
-      "summary": "NATO chief urges rapid industrial mobilization to deliver capability to Europe to deter Russia.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:28:16Z",
-      "url": "https://www.yahoo.com/news/no-time-waste-nato-chief-122816891.html"
-    },
-    {
-      "id": 52,
-      "title": "PlayStation 6 Could Get a Massive Upgrade With 24GB of RAM",
-      "summary": "PlayStation 6 may feature a significant upgrade with 24GB of RAM, as suggested by Digital Foundry.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:27:36Z",
-      "url": "https://www.androidheadlines.com/2025/07/playstation-6-could-get-a-massive-upgrade-with-24gb-of-ram.html"
-    },
-    {
-      "id": 53,
-      "title": "Netflix chief claims generative AI will make their content \"better\", and a show with a near-perfect Rotten Tomatoes score is already using it",
-      "summary": "Netflix chief is confident that generative AI will enhance their content, with a highly-rated show already utilizing the technology.",
-      "source": "GamesRadar+",
-      "category": "applications",
-      "timestamp": "2025-07-18T12:26:14Z",
-      "url": "https://www.gamesradar.com/entertainment/netflix/netflix-chief-claims-generative-ai-will-make-their-content-better-and-a-show-with-a-near-perfect-rotten-tomatoes-score-is-already-using-it/"
-    },
-    {
-      "id": 54,
-      "title": "mcp-fmri added to PyPI",
-      "summary": "mcp-fmri added to PyPI - Ethical Analysis of Mathematical Abilities Using Generative AI and fMRI",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:26:13Z",
-      "url": "https://pypi.org/project/mcp-fmri/"
-    },
-    {
-      "id": 55,
-      "title": "Science Finds People Want to Date Their Pets (Kind of)",
-      "summary": "Science Finds People Want to Date Their Pets (Kind of) - A new study shows a significant number of pet owners wouldn't mind dating their pets if an AI version of them could be created.",
-      "source": "Newser",
-      "category": "research",
-      "timestamp": "2025-07-18T12:26:00Z",
-      "url": "https://www.newser.com/story/372095/science-finds-people-want-to-date-their-pets-kind-of.html"
-    },
-    {
-      "id": 56,
-      "title": "CISO role in ASM could add runtime security, tokenization",
-      "summary": "CISO role in ASM could add runtime security and tokenization, impacting security leaders' responsibilities.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:24:18Z",
-      "url": "https://www.techtarget.com/searchsecurity/feature/CISO-role-in-ASM-could-add-runtime-security-tokenization"
-    },
-    {
-      "id": 57,
-      "title": "Bengaluru-based QpiAI raises $32 million by Avataar Ventures and NQM",
-      "summary": "Bengaluru-based QpiAI raises $32 million in funding led by Avataar Ventures and NQM, focusing on enhancing its quantum computers for targeted industries.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T12:23:48Z",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bengaluru-based-qpiai-raises-32-million-by-avataar-ventures-and-nqm/articleshow/122765905.cms"
-    },
-    {
-      "id": 58,
-      "title": "The Reworked Terminal Becomes the Default in 2025.2",
-      "summary": "The default terminal implementation starting from 2025.2 is now the reworked terminal, which was rewritten from scratch to provide a technical foundation for new features.",
-      "source": "Jetbrains.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:23:37Z",
-      "url": "https://blog.jetbrains.com/platform/2025/07/the-reworked-terminal-becomes-the-default-in-2025-2/"
-    },
-    {
-      "id": 59,
-      "title": "5 things to know before the stock market opens Friday",
-      "summary": "5 key things investors need to know to start the trading day.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-18T12:23:29Z",
-      "url": "https://www.cnbc.com/2025/07/18/5-things-to-know-before-the-stock-market-opens-friday-july-18.html"
-    },
-    {
-      "id": 60,
-      "title": "intentkit 0.6.5.dev1",
-      "summary": "Intentkit 0.6.5.dev1 is an intent-based AI agent platform core package that has been released.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:23:10Z",
-      "url": "https://pypi.org/project/intentkit/0.6.5.dev1/"
-    },
-    {
-      "id": 61,
-      "title": "Netflix starts using GenAI in its shows and films | TechCrunch",
-      "summary": "Netflix is incorporating GenAI in its shows and films, starting with an Argentinean show called El Atonata.",
-      "source": "TechCrunch",
-      "category": "applications",
-      "timestamp": "2025-07-18T12:22:37Z",
-      "url": "https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/"
-    },
-    {
-      "id": 62,
-      "title": "Flagship tablet, fair price: Doogee Tab E3 Max",
-      "summary": "Flagship tablet, fair price: Doogee Tab E3 Max - The Doogee Tab E3 series brings serious specs at a reasonable cost",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:22:29Z",
-      "url": "https://www.phonearena.com/news/Flagship-tablet-fair-price-Doogee-Tab-E3-Max_id172405"
     }
   ]
 }
