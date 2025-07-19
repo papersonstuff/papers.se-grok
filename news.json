@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-19T11:48:36.886Z",
+  "lastUpdate": "2025-07-19T12:29:28.951Z",
   "items": [
+    {
+      "id": 51,
+      "title": "No time to waste: NATO chief urges rapid industrial mobilization",
+      "summary": "NATO chief urges rapid industrial mobilization to deliver capability to Europe to deter Russia.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:28:16Z",
+      "url": "https://www.yahoo.com/news/no-time-waste-nato-chief-122816891.html"
+    },
+    {
+      "id": 52,
+      "title": "PlayStation 6 Could Get a Massive Upgrade With 24GB of RAM",
+      "summary": "PlayStation 6 may feature a significant upgrade with 24GB of RAM, as suggested by Digital Foundry.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:27:36Z",
+      "url": "https://www.androidheadlines.com/2025/07/playstation-6-could-get-a-massive-upgrade-with-24gb-of-ram.html"
+    },
+    {
+      "id": 53,
+      "title": "Netflix chief claims generative AI will make their content \"better\", and a show with a near-perfect Rotten Tomatoes score is already using it",
+      "summary": "Netflix chief is confident that generative AI will enhance their content, with a highly-rated show already utilizing the technology.",
+      "source": "GamesRadar+",
+      "category": "applications",
+      "timestamp": "2025-07-18T12:26:14Z",
+      "url": "https://www.gamesradar.com/entertainment/netflix/netflix-chief-claims-generative-ai-will-make-their-content-better-and-a-show-with-a-near-perfect-rotten-tomatoes-score-is-already-using-it/"
+    },
+    {
+      "id": 54,
+      "title": "mcp-fmri added to PyPI",
+      "summary": "mcp-fmri added to PyPI - Ethical Analysis of Mathematical Abilities Using Generative AI and fMRI",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:26:13Z",
+      "url": "https://pypi.org/project/mcp-fmri/"
+    },
+    {
+      "id": 55,
+      "title": "Science Finds People Want to Date Their Pets (Kind of)",
+      "summary": "Science Finds People Want to Date Their Pets (Kind of) - A new study shows a significant number of pet owners wouldn't mind dating their pets if an AI version of them could be created.",
+      "source": "Newser",
+      "category": "research",
+      "timestamp": "2025-07-18T12:26:00Z",
+      "url": "https://www.newser.com/story/372095/science-finds-people-want-to-date-their-pets-kind-of.html"
+    },
+    {
+      "id": 56,
+      "title": "CISO role in ASM could add runtime security, tokenization",
+      "summary": "CISO role in ASM could add runtime security and tokenization, impacting security leaders' responsibilities.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:24:18Z",
+      "url": "https://www.techtarget.com/searchsecurity/feature/CISO-role-in-ASM-could-add-runtime-security-tokenization"
+    },
+    {
+      "id": 57,
+      "title": "Bengaluru-based QpiAI raises $32 million by Avataar Ventures and NQM",
+      "summary": "Bengaluru-based QpiAI raises $32 million in funding led by Avataar Ventures and NQM, focusing on enhancing its quantum computers for targeted industries.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T12:23:48Z",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bengaluru-based-qpiai-raises-32-million-by-avataar-ventures-and-nqm/articleshow/122765905.cms"
+    },
+    {
+      "id": 58,
+      "title": "The Reworked Terminal Becomes the Default in 2025.2",
+      "summary": "The default terminal implementation starting from 2025.2 is now the reworked terminal, which was rewritten from scratch to provide a technical foundation for new features.",
+      "source": "Jetbrains.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:23:37Z",
+      "url": "https://blog.jetbrains.com/platform/2025/07/the-reworked-terminal-becomes-the-default-in-2025-2/"
+    },
+    {
+      "id": 59,
+      "title": "5 things to know before the stock market opens Friday",
+      "summary": "5 key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-18T12:23:29Z",
+      "url": "https://www.cnbc.com/2025/07/18/5-things-to-know-before-the-stock-market-opens-friday-july-18.html"
+    },
+    {
+      "id": 60,
+      "title": "intentkit 0.6.5.dev1",
+      "summary": "Intentkit 0.6.5.dev1 is an intent-based AI agent platform core package that has been released.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:23:10Z",
+      "url": "https://pypi.org/project/intentkit/0.6.5.dev1/"
+    },
+    {
+      "id": 61,
+      "title": "Netflix starts using GenAI in its shows and films | TechCrunch",
+      "summary": "Netflix is incorporating GenAI in its shows and films, starting with an Argentinean show called El Atonata.",
+      "source": "TechCrunch",
+      "category": "applications",
+      "timestamp": "2025-07-18T12:22:37Z",
+      "url": "https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/"
+    },
+    {
+      "id": 62,
+      "title": "Flagship tablet, fair price: Doogee Tab E3 Max",
+      "summary": "Flagship tablet, fair price: Doogee Tab E3 Max - The Doogee Tab E3 series brings serious specs at a reasonable cost",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:22:29Z",
+      "url": "https://www.phonearena.com/news/Flagship-tablet-fair-price-Doogee-Tab-E3-Max_id172405"
+    },
+    {
+      "id": 63,
+      "title": "Data-driven AI: how AWS partners and customers operate",
+      "summary": "Data-driven AI applications are being used by various enterprises, such as The Ocean Cleanup and Dine Brands, to leverage AWS technology for their specific needs and operations.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T12:22:00Z",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366627825/Data-driven-AI-how-AWS-partners-and-customers-operate"
+    },
+    {
+      "id": 64,
+      "title": "Here's What to Expect From Charles River Laboratories' Next Earnings Report",
+      "summary": "Charles River Laboratories' next earnings report is expected to include information on AI stocks and other investing ideas, showcasing the applications of artificial intelligence in the financial market.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T12:21:17Z",
+      "url": "https://biztoc.com/x/f85660bd639b2610"
+    },
+    {
+      "id": 65,
+      "title": "Meta rebuffs EU's AI Code of Practice",
+      "summary": "Meta rebuffs EU's AI Code of Practice, criticizing it for stifling innovation.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T12:20:50Z",
+      "url": "https://biztoc.com/x/dc6cff4ac7a8aa00"
+    },
+    {
+      "id": 66,
+      "title": "Palantir’s (PLTR) Execution Called “Stunning” — Is a Fifth Quarter of Growth Coming?",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is gaining attention for its impressive execution, leading to speculation of a fifth consecutive quarter of growth. The company is considered one of the Trending AI Stocks in Focus This Week.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:20:48Z",
+      "url": "https://finance.yahoo.com/news/palantir-pltr-execution-called-stunning-122048645.html"
+    },
+    {
+      "id": 67,
+      "title": "Huawei Debuts Eye Tracking 3D Basketball Game on Lock Screen",
+      "summary": "Huawei debuts a revolutionary eye tracking 3D basketball game on smartphone lock screens, controlled by gestures.",
+      "source": "TalkAndroid",
+      "category": "innovation",
+      "timestamp": "2025-07-18T12:20:00Z",
+      "url": "https://www.talkandroid.com/512122-huawei-pura-80-ultra-3d-game/"
+    },
+    {
+      "id": 68,
+      "title": "Forbes Daily: Earnings Optimism Drives S&P 500 To New Heights",
+      "summary": "Forbes Daily covers new ChatGPT capabilities, Facebook execs settlement, crypto regulations OK’d, and CBS cancels “The Late Show with Stephen Colbert.”",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-18T12:19:35Z",
+      "url": "https://www.forbes.com/sites/daniellechemtob/2025/07/18/forbes-daily-earnings-optimism-drives-sp-500-to-new-heights/"
+    },
+    {
+      "id": 69,
+      "title": "Broker’s call: Tech Mahindra (Add)",
+      "summary": "Tech Mahindra reports in-line Q1FY26 performance with revenue of ₹1,335 crore, EBIT margin increase, and positive growth outlook.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-18T12:19:31Z",
+      "url": "https://www.thehindubusinessline.com/markets/brokers-call-tech-mahindra-add/article69827536.ece"
+    },
     {
       "id": 51,
       "title": "The Windsurf and Scale deals underscore a fragile reality for startup employees",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T11:11:22Z",
       "url": "https://www.telecomtv.com/content/security/new-quantum-magnetic-navigation-system-to-replace-aircraft-gps-53468/"
-    },
-    {
-      "id": 53,
-      "title": "All the Important New iOS 26 Features, From Liquid Glass to Photos App Fixes",
-      "summary": "Your iPhone will look different and get new features when iOS 26 ships in the fall, including Liquid Glass and fixes to the Photos app.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:11:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/all-the-important-new-ios-26-features-from-liquid-glass-to-photos-app-fixes/"
-    },
-    {
-      "id": 54,
-      "title": "Elon Musk teasing a Grok male companion inspired by \"50 Shades of Grey\" — beating Microsoft's AI CEO at his own game",
-      "summary": "Elon Musk teases a new Grok male companion inspired by '50 Shades of Grey' and Twilight, beating Microsoft's AI CEO at his own game",
-      "source": "Windows Central",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:10:36Z",
-      "url": "https://www.windowscentral.com/artificial-intelligence/elon-musk-teasing-a-grok-male-companion"
-    },
-    {
-      "id": 55,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks given pointers on how to comply with EU AI rules to address criticism and provide clarity to businesses facing fines.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:07:47Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules/articleshow/122764502.cms"
-    },
-    {
-      "id": 56,
-      "title": "Antivirus vs Anti-malware: which is best for you?",
-      "summary": "Comparison between antivirus software and anti-malware to help users determine which one is best suited for their needs.",
-      "source": "TechRadar",
-      "category": "research",
-      "timestamp": "2025-07-18T11:07:31Z",
-      "url": "https://www.techradar.com/pro/security/antivirus-vs-anti-malware-which-is-best-for-you"
-    },
-    {
-      "id": 57,
-      "title": "Former rugby player sentenced for $900K crypto mining Ponzi",
-      "summary": "Former rugby player sentenced to 2.5 years in prison for running a $900K Ponzi scheme disguised as a crypto mining operation.",
-      "source": "Cointelegraph",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:06:32Z",
-      "url": "https://cointelegraph.com/news/rugby-shane-moore-gets-2-5-years-for-crypto-mining-ponzi"
-    },
-    {
-      "id": 58,
-      "title": "ALIEN: EARTH Full Trailer Unleashes The Xenomorph - And Four New Extraterrestrial Threats",
-      "summary": "Noah Hawley's Alien: Earth is set to premiere on August 12, showcasing the Xenomorph and new extraterrestrial threats in FX's new trailer.",
-      "source": "CBM (Comic Book Movie)",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:06:22Z",
-      "url": "https://comicbookmovie.com/sci_fi/alien/alien-earth-full-trailer-unleashes-the-xenomorph---and-four-new-extraterrestrial-threats-a222858"
-    },
-    {
-      "id": 59,
-      "title": "Ex-Google CEO: ‘AI’s natural limit is electricity, not chips’",
-      "summary": "Ex-Google CEO states that AI's natural limit is electricity, not chips, due to the excessive amount of water AI is projected to use by 2027.",
-      "source": "Fortune",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:05:00Z",
-      "url": "https://fortune.com/2025/07/18/eric-schmidt-ai-natural-limit-electricity-chips-water-usage/"
-    },
-    {
-      "id": 60,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks are given guidelines to comply with EU AI rules, aimed at mitigating potential threats and ensuring adherence to European Union regulations.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:04:55Z",
-      "url": "https://www.channelnewsasia.com/business/ai-models-systemic-risks-given-pointers-how-comply-eu-ai-rules-5245821"
-    },
-    {
-      "id": 61,
-      "title": "Inside Apple Calendar - Creating events, setting reminders & remembering birthdays",
-      "summary": "Inside Apple Calendar - Creating events, setting reminders & remembering birthdays - Apple Calendar may look deceptively simple, but it's actually one of the most sophisticated scheduling tools in the Apple ecosystem.",
-      "source": "AppleInsider",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:04:21Z",
-      "url": "https://appleinsider.com/inside/ios-26/tips/inside-apple-calendar---creating-events-setting-reminders-remembering-birthdays"
-    },
-    {
-      "id": 62,
-      "title": "(PR) Rapidus Achieves Significant Milestone with Prototyping of Leading-Edge 2nm GAA Transistors",
-      "summary": "Rapidus Corporation achieves milestone by prototyping leading-edge 2nm GAA transistors at its foundry, Rapidus Innovative Integration for Manufacturing.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:04:16Z",
-      "url": "https://www.techpowerup.com/339047/rapidus-achieves-significant-milestone-with-prototyping-of-leading-edge-2nm-gaa-transistors"
-    },
-    {
-      "id": 63,
-      "title": "Carney inherited a fiscal mess from Trudeau, and he is set to make it worse",
-      "summary": "Carney inherited a fiscal mess from Trudeau, and he is set to make it worse - Rising debt usually leads to slower growth, higher debt interest costs and higher taxes for future generations.",
-      "source": "The Globe And Mail",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:04:06Z",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-mark-carney-economy-fiscal-deficit-debt-interest-taxes/"
-    },
-    {
-      "id": 64,
-      "title": "Game-based Learning Market Forecast Report 2025-2030, with Case Studies of Hyundai, Clifton Public Schools, University of Illinois, Kahoot!, Maruti Suzuki and Tenneo'",
-      "summary": "Game-based Learning Market Forecast Report 2025-2030, with Case Studies of Hyundai, Clifton Public Schools, University of Illinois, Kahoot!, Maruti Suzuki and Tenneo' - The market is driven by the demand for digital tools and engaging content, with rapid growth in neurodiversity education and inclusive education initiatives. Language learning segments dominate due to the global need for mul…",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-18T11:04:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117825/28124/en/Game-based-Learning-Market-Forecast-Report-2025-2030-with-Case-Studies-of-Hyundai-Clifton-Public-Schools-University-of-Illinois-Kahoot-Maruti-Suzuki-and-Tenneo.html"
-    },
-    {
-      "id": 65,
-      "title": "Hawaii State Senator: Did Your Home Insurance Bill Increase? Big Oil Should Pay Up | Opinion",
-      "summary": "Hawaii State Senator suggests that Big Oil should pay for increased home insurance bills caused by climate change. The AI-generated opinion piece raises ethical questions about who should bear the financial burden of climate-related damages.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:03:46Z",
-      "url": "https://biztoc.com/x/02cb835791c16ea4"
-    },
-    {
-      "id": 66,
-      "title": "Iran's Military Leaders Threaten to Resume War",
-      "summary": "Iran's military leaders are threatening to resume war with Israel, with AI-generated voice potentially causing inconsistencies in the message.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:03:31Z",
-      "url": "https://biztoc.com/x/4060dc08099a08be"
-    },
-    {
-      "id": 67,
-      "title": "Donald Trump Fires Housing Market Accusation at Powell's Fed",
-      "summary": "President Donald Trump accuses the Federal Reserve of 'choking out the housing market' under Chair Jerome Powell, citing higher interest rates.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:03:29Z",
-      "url": "https://biztoc.com/x/6432099abbfc3c5b"
-    },
-    {
-      "id": 51,
-      "title": "Is history repeating itself with the government’s push to open public sector cloud deals to SMEs?",
-      "summary": "The UK government is aiming to open public sector cloud deals to SMEs in order to help public sector IT buyers migrate more workloads to the cloud. This initiative is part of a larger effort to move away from legacy tech and improve efficiency.",
-      "source": "ComputerWeekly.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T10:54:00Z",
-      "url": "https://www.computerweekly.com/news/366627823/Is-history-repeating-itself-with-government-push-to-open-public-sector-cloud-deals-to-SMEs"
-    },
-    {
-      "id": 52,
-      "title": "House CCP Committee’s Chair: NVIDIA’s H20 Is A “Powerful Chip” That Played “A Significant Role In The Rise Of PRC AI Companies Like DeepSeek”",
-      "summary": "House CCP Committee’s Chair highlights NVIDIA’s H20 chip's role in the rise of Chinese AI companies, sparking US policy debate and potential impacts on US-China trade relations.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-18T10:52:41Z",
-      "url": "https://wccftech.com/house-ccp-committees-chair-nvidias-h20-is-a-powerful-chip-that-played-a-significant-role-in-the-rise-of-prc-ai-companies-like-deepseek/"
-    },
-    {
-      "id": 53,
-      "title": "How AI vibe coding is destroying junior devs’ careers",
-      "summary": "New research shows that AI vibe coding is making junior developers believe they are faster when they are actually slower, leading to unemployable pseudo-developers. This trend is harmful to junior devs' careers and the industry's integrity.",
-      "source": "Finalroundai.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T10:52:41Z",
-      "url": "https://www.finalroundai.com/blog/ai-vibe-coding-destroying-junior-developers-careers"
-    },
-    {
-      "id": 54,
-      "title": "Indie game studios battle for piece of Switch 2 success",
-      "summary": "Indie game studios are showcasing their upcoming titles for the Nintendo Switch 2 at a Japanese game fair, with three games on display all made by smaller-scale independent developers. The absence of Nintendo's popular mascot Mario is notable as players line up to try out the new games.",
-      "source": "Digital Journal",
-      "category": "startups",
-      "timestamp": "2025-07-18T10:52:32Z",
-      "url": "https://www.digitaljournal.com/world/indie-game-studios-battle-for-piece-of-switch-2-success/article"
     }
   ]
 }
