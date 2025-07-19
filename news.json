@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-19T06:50:21.776Z",
+  "lastUpdate": "2025-07-19T07:14:26.051Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Realme Buds T200 announced, launching July 24",
+      "summary": "Realme Buds T200 announced, set to launch alongside Realme 15 series of smartphones on July 24",
+      "source": "GSMArena.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:12:02Z",
+      "url": "https://www.gsmarena.com/realme_buds_t200_announced_launching_july_24-news-68674.php"
+    },
+    {
+      "id": 52,
+      "title": "China welcomes resumption of Nvidia H20 AI chip sales; Japan warns tariffs ‘not right tool’ – business live",
+      "summary": "China welcomes resumption of Nvidia H20 AI chip sales, Japan criticizes US tariffs after exports to the United States fall for the third straight month.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:09:59Z",
+      "url": "https://biztoc.com/x/1d5e327e49a65fd6"
+    },
+    {
+      "id": 53,
+      "title": "Wedbush Analyst Says TSMC Blowout Earnings Confirm AI Demand Is 'Really, Really Strong' — Bullish Signal For Nvidia And Big Tech",
+      "summary": "Wedbush analyst highlights TSMC's strong earnings as confirmation of high AI demand, signaling potential growth for Nvidia and other big tech companies.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:09:52Z",
+      "url": "https://biztoc.com/x/e6818d835ff104c0"
+    },
+    {
+      "id": 54,
+      "title": "Pegatron chair hails Indonesia tariff cut, urges balance in US-China AI strategy",
+      "summary": "Pegatron Chairman T.H. Tung welcomes the sharp reduction in US tariffs on Indonesian exports, highlighting it as beneficial for the company's production facility in Batam.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:08:25Z",
+      "url": "https://www.digitimes.com/news/a20250718PD221/pegatron-indonesia-tariffs-exports-us-china-trade-war.html"
+    },
+    {
+      "id": 55,
+      "title": "fireworks-ai 0.19.4",
+      "summary": "Fireworks-ai 0.19.4 is a Python client library for the Fireworks AI Platform.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:08:25Z",
+      "url": "https://pypi.org/project/fireworks-ai/0.19.4/"
+    },
+    {
+      "id": 56,
+      "title": "SoulGen Launches Revolutionary Image to Video AI Platform with Industry-Leading Character Consistency",
+      "summary": "SoulGen has launched a cutting-edge Image to Video AI platform that boasts industry-leading character consistency and a fast 10-second processing speed, targeting a $6.8 billion market.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117738/0/en/SoulGen-Launches-Revolutionary-Image-to-Video-AI-Platform-with-Industry-Leading-Character-Consistency.html"
+    },
+    {
+      "id": 57,
+      "title": "AI Ready API ─ AI時代に求められるAPI設計とは？/ AI-Ready API - Designing MCP and APIs in the AI Era",
+      "summary": "AI-Ready API design in the AI era was discussed in a presentation at Azure OpenAI Service Dev Day 2025, focusing on the importance of MCP and APIs. The session title was 'AI Ready API ─ AI時代に求められるAPI設計とは？/'.",
+      "source": "Speakerdeck.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:05:42Z",
+      "url": "https://speakerdeck.com/yokawasa/ai-ready-api-designing-mcp-and-apis-in-the-ai-era"
+    },
+    {
+      "id": 58,
+      "title": "Research and Education: a Connection to Ever-Evolving Expertise and Experience",
+      "summary": "The skills that managers and leaders in hospitality need are a combination of operations management, traditional business functions, and specialty topics, with a focus on the connection between industry experience and sustainable education practices.",
+      "source": "Hospitality Net",
+      "category": "research",
+      "timestamp": "2025-07-18T07:05:00Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128052.html"
+    },
+    {
+      "id": 59,
+      "title": "GEO vs SEO for Hotels: 10 Comparisons",
+      "summary": "GEO vs SEO for Hotels: 10 Comparisons - Key Takeaway: Your GEO should build on top of your SEO strategy.",
+      "source": "Hospitality Net",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:05:00Z",
+      "url": "https://www.hospitalitynet.org/news/4128209.html"
+    },
+    {
+      "id": 60,
+      "title": "Smarter Denoising, GPU Boost & Faster Exports – Aiarty Video Enhancer Update + Special Offer",
+      "summary": "Aiarty Video Enhancer has updated with smarter denoising, GPU boost, and faster exports, making it easier to enhance footage with natural, texture-preserving cleanups.",
+      "source": "43rumors.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:04:44Z",
+      "url": "https://www.43rumors.com/smarter-denoising-gpu-boost-faster-exports-aiarty-video-enhancer-update-special-offer/"
+    },
+    {
+      "id": 61,
+      "title": "fireworks-ai 0.19.3",
+      "summary": "Fireworks-ai 0.19.3 is a Python client library for the Fireworks AI Platform, used for AI-related tasks",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:04:41Z",
+      "url": "https://pypi.org/project/fireworks-ai/0.19.3/"
+    },
+    {
+      "id": 62,
+      "title": "Investor Dan Ives Says Microsoft and Nvidia To Hit $5,000,000,000,000 Market Cap in Months, Unveils Four Stocks Primed To Outperform",
+      "summary": "Investor Dan Ives predicts that Microsoft and Nvidia will reach a $5 trillion market cap in months and reveals four stocks that are expected to outperform.",
+      "source": "The Daily Hodl",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:04:38Z",
+      "url": "https://dailyhodl.com/2025/07/18/investor-dan-ives-says-microsoft-and-nvidia-to-hit-5000000000000-market-cap-in-months-unveils-four-stocks-primed-to-outperform/"
+    },
+    {
+      "id": 63,
+      "title": "netra-sdk 0.1.12",
+      "summary": "netra-sdk 0.1.12 is a Python SDK for AI application observability that offers monitoring, tracing, and PII protection for LLM and vector database applications. It enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:04:03Z",
+      "url": "https://pypi.org/project/netra-sdk/0.1.12/"
+    },
+    {
+      "id": 64,
+      "title": "Elon Musk’s X Sets First UK Original With In-Season Docuseries On Premier League Club Burnley",
+      "summary": "Elon Musk's X sets first UK Original with in-season docuseries on Premier League club Burnley, a first-of-its kind deal featuring 20 episodes.",
+      "source": "Deadline",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:01:00Z",
+      "url": "http://deadline.com/2025/07/elon-musk-x-first-uk-series-premier-league-club-burnley-1236461594/"
+    },
+    {
+      "id": 65,
+      "title": "With help from AI, this threatened frog is making a comeback",
+      "summary": "With help from AI, this threatened frog is making a comeback - If you were a miner in California during the Gold Rush, you might have dined on a California red-legged frog. The largest native frog in the western United States, this Golden State denizen used to be found as far inland as the Sierra Nevada mountains.",
+      "source": "NPR",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:00:59Z",
+      "url": "https://www.npr.org/2025/07/18/1255880062/ai-california-frog-science-conservation"
+    },
     {
       "id": 51,
       "title": "Netflix reveals that one of its shows used generative AI for the first time",
@@ -315,141 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T05:40:02Z",
       "url": "https://prtimes.jp/main/html/rd/p/000000175.000137297.html"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI diversifies cloud providers as AI compute demand outpaces supply",
-      "summary": "OpenAI diversifies cloud providers to meet the increasing demand for AI computing resources.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:37:12Z",
-      "url": "https://www.digitimes.com/news/a20250718PD207/openai-demand-infrastructure-google-cloud-microsoft.html"
-    },
-    {
-      "id": 54,
-      "title": "Missed by the headlines: The true story of European tech’s Summer 2025",
-      "summary": "Oleg Khusaenov assesses the European tech scene and sets out where meaningful bets are being placed in Summer 2025.",
-      "source": "Retailbankerinternational.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:36:43Z",
-      "url": "https://www.retailbankerinternational.com/comment/the-true-story-of-european-tech-summer-2025-oleg-khusaenov-zubr-capital/"
-    },
-    {
-      "id": 55,
-      "title": "Intel’s Entry-Level Wildcat Lake CPUs Won’t Feature Ray Tracing Support, Pack Two “Xe3” RT Units & XMX Cores",
-      "summary": "Intel is set to launch its Wildcat Lake CPUs for the entry-level segment, which will not feature ray tracing support but will instead pack two 'Xe3' RT units and XMX cores.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:35:26Z",
-      "url": "https://wccftech.com/intel-entry-level-wildcat-lake-cpus-wont-feature-ray-tracing-support-two-xe3-rt-units-xmx-cores/"
-    },
-    {
-      "id": 56,
-      "title": "Army Experts Discuss Vital Components of Multidomain Operations at LANDEURO",
-      "summary": "Army experts emphasize the significance of joint doctrine and technology for successful multidomain operations during the 2025 LANDEURO Symposium.",
-      "source": "Globalsecurity.org",
-      "category": "research",
-      "timestamp": "2025-07-18T05:35:18Z",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-dodnews01.htm"
-    },
-    {
-      "id": 57,
-      "title": "US-China spy wars intensify under Trump 2.0 as tech competition heats up",
-      "summary": "US-China spy wars intensify under Trump 2.0 as tech competition heats up with both sides boosting espionage and counter-espionage efforts.",
-      "source": "The Star Online",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:35:00Z",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/07/18/us-china-spy-wars-intensify-under-trump-20-as-tech-competition-heats-up"
-    },
-    {
-      "id": 58,
-      "title": "Warfare Experts Discuss Multi-Domain Operations at LANDEURO",
-      "summary": "Warfare experts discuss the need for a multi-domain approach to overcome advanced anti-access/area denial (A2/AD) systems during a panel at LANDEURO conference.",
-      "source": "Globalsecurity.org",
-      "category": "research",
-      "timestamp": "2025-07-18T05:34:59Z",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-arnews01.htm"
-    },
-    {
-      "id": 59,
-      "title": "Minister for the Armed Forces speech at Global Air & Space Chiefs' Conference 2025",
-      "summary": "Minister for the Armed Forces, Luke Pollard, gave a speech at the Global Air & Space Chiefs' Conference 2025 on 17 July 2025.",
-      "source": "Globalsecurity.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:34:59Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-250717-ukmod02.htm"
-    },
-    {
-      "id": 60,
-      "title": "Defending the Skies: Today's Capabilities, Tomorrow's Edge",
-      "summary": "Defending the skies is becoming a fast-evolving, multi-domain mission driven by accelerating threats and advancing technologies, with an urgent need for speed, adaptability, and interoperability.",
-      "source": "Globalsecurity.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:34:53Z",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-arnews03.htm"
-    },
-    {
-      "id": 61,
-      "title": "swe-ai-agent 1.0.15",
-      "summary": "swe-ai-agent 1.0.15 is a Headless Agentic IDE with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:31:52Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.15/"
-    },
-    {
-      "id": 62,
-      "title": "Amazon Slashes Roles In AWS Cloud Unit As CEO Andy Jassy Says AI Will Reduce The Need For Certain Roles: Report",
-      "summary": "Amazon has reportedly laid off employees in its AWS cloud unit as CEO Andy Jassy predicts AI will reduce the need for certain roles, reflecting the company's restructuring in response to the impact of generative artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:30:44Z",
-      "url": "https://biztoc.com/x/1ff13a3bd450eb96"
-    },
-    {
-      "id": 63,
-      "title": "marsdevs-reviewer 1.1.2",
-      "summary": "marsdevs-reviewer 1.1.2 is an AI-powered code review tool that learns from your repository.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:30:34Z",
-      "url": "https://pypi.org/project/marsdevs-reviewer/1.1.2/"
-    },
-    {
-      "id": 64,
-      "title": "Making security and development co-owners of DevSecOps",
-      "summary": "Former Head of Cybersecurity discusses strategic approaches to implementing DevSecOps at scale in regulated industries like finance and telecom.",
-      "source": "Help Net Security",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:30:30Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/18/galal-ibrahim-maghola-devsecops-practices-tips/"
-    },
-    {
-      "id": 51,
-      "title": "swe-ai-agent 1.0.12",
-      "summary": "The release of SWE-AI-Agent 1.0.12 features a Headless Agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:20:37Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.12/"
-    },
-    {
-      "id": 52,
-      "title": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams",
-      "summary": "Chinese leader Xi Jinping questions if all of China should focus on developing the same high-tech sectors like EVs and AI, as challenges arise due to price wars and overcapacity.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:19:26Z",
-      "url": "https://biztoc.com/x/e64cfa8fcd0ace61"
-    },
-    {
-      "id": 53,
-      "title": "Pilots’ body calls for reconstitution of AAIB’s team investigating AI crash",
-      "summary": "Pilots' body calls for reconstitution of AIIB's team investigating AI crash due to technical flaws and lack of subject matter experts.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-18T05:18:35Z",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/pilots-body-calls-for-reconstitution-of-aaibs-team-investigating-ai-crash/article69824344.ece"
     }
   ]
 }
