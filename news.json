@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T13:07:22.587Z",
+  "lastUpdate": "2025-07-19T13:27:21.907Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Robot metabolism: The next evolution of our overlords? (Video)",
+      "summary": "Engineers have developed robots with the ability to grow, self-repair, and morph by absorbing parts from other robots, inching us closer to the singularity.",
+      "source": "New Atlas",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:27:00Z",
+      "url": "https://newatlas.com/robotics/morphing-robot-metabolism/"
+    },
+    {
+      "id": 52,
+      "title": "Reflexive AI: Adapt or Become Obsolete",
+      "summary": "Reflexive AI emphasizes the need for companies to adapt to AI technology in order to avoid becoming obsolete in the rapidly changing landscape. Many companies are now realizing the importance of incorporating AI into their operations to stay competitive in the modern market.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:26:00Z",
+      "url": "https://www.forbes.com/sites/stephenmiles/2025/07/18/reflexive-ai-adapt-or-become-obsolete/"
+    },
+    {
+      "id": 53,
+      "title": "Netflix uses generative AI VFX in a show for the first time, as CEO says ‘the cost just wouldn’t have been feasible for a show on that budget’",
+      "summary": "Netflix uses generative AI VFX in a show for the first time, CEO mentions cost feasibility for smaller budget productions.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:25:52Z",
+      "url": "https://www.techradar.com/computing/artificial-intelligence/netflix-uses-generative-ai-vfx-in-a-show-for-the-first-time-as-ceo-says-the-cost-just-wouldnt-have-been-feasible-for-a-show-on-that-budget"
+    },
+    {
+      "id": 54,
+      "title": "AI Models With Systemic Risks Given Pointers on How to Comply With EU AI Rules",
+      "summary": "The European Commission released guidelines to help AI models with systemic risks comply with EU AI rules, aiming to ensure they meet tougher obligations to mitigate potential threats.",
+      "source": "Insurance Journal",
+      "category": "research",
+      "timestamp": "2025-07-18T13:24:52Z",
+      "url": "https://www.insurancejournal.com/news/international/2025/07/18/832287.htm"
+    },
+    {
+      "id": 55,
+      "title": "Sungrow Unveils Next-Generation Residential ESS",
+      "summary": "Sungrow unveils next-generation residential energy storage system designed for reliable backup power in Vietnam.",
+      "source": "PR Newswire UK",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:24:00Z",
+      "url": "https://www.prnewswire.co.uk/news-releases/sungrow-unveils-next-generation-residential-ess-302508710.html"
+    },
+    {
+      "id": 56,
+      "title": "poly-lithic 0.1.6rc6",
+      "summary": "poly-lithic 0.1.6rc6 is a package designed for deploying AI and other models using lume inspired interfaces.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:23:53Z",
+      "url": "https://pypi.org/project/poly-lithic/0.1.6rc6/"
+    },
+    {
+      "id": 57,
+      "title": "OpenAI Won’t Be Profitable Until 2027 & “Test” Investor Expectations, Says JPMorgan",
+      "summary": "Investment banking giant JPMorgan predicts that OpenAI will not be profitable until 2027, highlighting the long road to financial success for the AI leader. The majority of OpenAI's revenue comes from customer subscriptions, indicating a focus on generating consistent income rather than immediate profitability.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:23:07Z",
+      "url": "https://wccftech.com/openai-wont-be-profitable-until-2027-test-investor-expectations-says-jpmorgan/"
+    },
+    {
+      "id": 58,
+      "title": "OpenAI announces ChatGPT Agent – its agentic AI that does tasks for you",
+      "summary": "OpenAI announces its latest agentic AI called ChatGPT Agent, combining features from Operator and ChatGPT to interact with websites, provide conversational fluency, research skills, and information synthesis.",
+      "source": "GSMArena.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:23:02Z",
+      "url": "https://www.gsmarena.com/openai_announces_chatgpt_agent__its_autonomous_ai_tool_that_does_tasks_for_you-news-68680.php"
+    },
+    {
+      "id": 59,
+      "title": "Johnson Fistel, PLLP Continues Investigation Claims on Behalf of Quantum Computing Inc. (QUBT), AppLovin Corporation (APP), Skyworks Solutions, Inc. (SWKS), and Maravai LifeSciences Holdings, Inc. (MRVI) Long-Term Shareholders",
+      "summary": "Johnson Fistel, PLLP is investigating potential violations by officers and directors of Quantum Computing Inc., AppLovin Corporation, Skyworks Solutions, Inc., and Maravai LifeSciences Holdings Inc.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T13:23:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117956/0/en/Johnson-Fistel-PLLP-Continues-Investigation-Claims-on-Behalf-of-Quantum-Computing-Inc-QUBT-AppLovin-Corporation-APP-Skyworks-Solutions-Inc-SWKS-and-Maravai-LifeSciences-Holdings-In.html"
+    },
+    {
+      "id": 60,
+      "title": "foodpanda Malaysia, Heydoc Health launch pilot outpatient care for gig workers",
+      "summary": "foodpanda Malaysia partners with Heydoc Health to launch pilot outpatient care program for gig workers, FutureK will support health needs of riders and families. Data and rider input will be used to improve the offering before a national rollout.",
+      "source": "Digital News Asia",
+      "category": "startups",
+      "timestamp": "2025-07-18T13:22:35Z",
+      "url": "https://www.digitalnewsasia.com/startups/foodpanda-malaysia-heydoc-health-launch-pilot-outpatient-care-gig-workers"
+    },
+    {
+      "id": 61,
+      "title": "mcp-fmri 1.0.0",
+      "summary": "The mcp-fmri 1.0.0 software combines generative AI and fMRI technology to ethically analyze mathematical abilities. This research innovation provides insights into how AI can enhance cognitive studies using advanced imaging techniques.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-18T13:22:06Z",
+      "url": "https://pypi.org/project/mcp-fmri/1.0.0/"
+    },
+    {
+      "id": 62,
+      "title": "Weekly deals roundup: Grab these stunning post-Prime Day bargains before it's too late!",
+      "summary": "Weekly deals roundup featuring post-Prime Day bargains on Apple Watch Series 10, Google Pixel 9, and Samsung Galaxy Z Fold 7.",
+      "source": "PhoneArena",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:21:59Z",
+      "url": "https://www.phonearena.com/news/best-deals-of-the-week-post-prime-day-offers-pixel-9-galaxy-z-fold-7-apple-watch-series-10-more_id172408"
+    },
+    {
+      "id": 63,
+      "title": "KeyShot x YD present the Pantone Dualities Challenge, with prizes over $3,000 USD",
+      "summary": "KeyShot x YD present the Pantone Dualities Challenge with prizes over $3,000 USD, marking the announcement of the new Pantone Dualities color palette.",
+      "source": "Yanko Design",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:20:47Z",
+      "url": "https://www.yankodesign.com/2025/07/18/keyshot-x-yd-present-the-pantone-dualities-challenge-with-prizes-over-3000-usd/"
+    },
+    {
+      "id": 64,
+      "title": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long-Term Shareholders of Geron Corporation, Viatris, Everus Construction, and SoundHound",
+      "summary": "Johnson Fistel, PLLP is investigating potential violations of federal and state securities laws by certain officers and directors of Geron Corporation, Viatris Inc., Everus Construction, and SoundHound.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:20:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117952/0/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-Geron-Corporation-Viatris-Everus-Construction-and-SoundHound.html"
+    },
+    {
+      "id": 65,
+      "title": "Chemical Mechanical Planarization Market Size to Hit USD 10.77 Billion by 2032, at 7.12% CAGR | SNS Insider",
+      "summary": "Chemical Mechanical Planarization Market is expected to reach USD 10.77 billion by 2032 with a CAGR of 7.12%, driven by increasing demand in advanced semiconductor manufacturing and 3D integration technologies.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:20:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117951/0/en/Chemical-Mechanical-Planarization-Market-Size-to-Hit-USD-10-77-Billion-by-2032-at-7-12-CAGR-SNS-Insider.html"
+    },
+    {
+      "id": 66,
+      "title": "immuno-compass added to PyPI",
+      "summary": "Immuno-compass, a new addition to PyPI, showcases COMPASS, a generalizable AI tool that can predict immunotherapy outcomes across various cancers and treatments.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:19:36Z",
+      "url": "https://pypi.org/project/immuno-compass/"
+    },
+    {
+      "id": 67,
+      "title": "immuno-compass 1.0",
+      "summary": "immuno-compass 1.0 is a generalizable AI that can predict immunotherapy outcomes across different types of cancers and treatments.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-18T13:19:36Z",
+      "url": "https://pypi.org/project/immuno-compass/1.0/"
+    },
+    {
+      "id": 68,
+      "title": "HBO Max is getting into thumbnail testing — 9 years after Netflix",
+      "summary": "HBO Max is finally starting to do A/B testing on photo thumbnails, following in the footsteps of Netflix, Disney+, and Hulu.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:18:46Z",
+      "url": "https://www.businessinsider.com/hbo-max-ab-thumbnail-testing-netflix-youtube-2025-7"
+    },
+    {
+      "id": 69,
+      "title": "Golden Retrievers 'Don't Understand' Spiral Steps—Owner Does the Unexpected",
+      "summary": "Two golden retrievers struggle with navigating spiral staircase in a home, as captured in AI-generated voice. Ellie Schraft helps them down by carrying them individually.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:16:41Z",
+      "url": "https://biztoc.com/x/1a68f15b41ebaff2"
+    },
+    {
+      "id": 70,
+      "title": "Ramit Sethi Explains That People Who Are Bad With Money Don't Have To Stay That Way: 'It's A Skill Like Anything Else'",
+      "summary": "Financial personality Ramit Sethi encourages people to understand that being good with money is a skill that can be learned and improved, rather than an inherent trait.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:16:19Z",
+      "url": "https://finance.yahoo.com/news/ramit-sethi-explains-people-bad-131619232.html"
+    },
     {
       "id": 51,
       "title": "RDDT SECURITIES FRAUD: Reddit, Inc. (NYSE:RDDT) 9% Stock Drop Triggers Class Action Lawsuit – Contact BFA Law by August 18 Legal Deadline",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T12:22:29Z",
       "url": "https://www.phonearena.com/news/Flagship-tablet-fair-price-Doogee-Tab-E3-Max_id172405"
-    },
-    {
-      "id": 63,
-      "title": "Data-driven AI: how AWS partners and customers operate",
-      "summary": "Data-driven AI applications are being used by various enterprises, such as The Ocean Cleanup and Dine Brands, to leverage AWS technology for their specific needs and operations.",
-      "source": "Techtarget.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T12:22:00Z",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366627825/Data-driven-AI-how-AWS-partners-and-customers-operate"
-    },
-    {
-      "id": 64,
-      "title": "Here's What to Expect From Charles River Laboratories' Next Earnings Report",
-      "summary": "Charles River Laboratories' next earnings report is expected to include information on AI stocks and other investing ideas, showcasing the applications of artificial intelligence in the financial market.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T12:21:17Z",
-      "url": "https://biztoc.com/x/f85660bd639b2610"
-    },
-    {
-      "id": 65,
-      "title": "Meta rebuffs EU's AI Code of Practice",
-      "summary": "Meta rebuffs EU's AI Code of Practice, criticizing it for stifling innovation.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T12:20:50Z",
-      "url": "https://biztoc.com/x/dc6cff4ac7a8aa00"
-    },
-    {
-      "id": 66,
-      "title": "Palantir’s (PLTR) Execution Called “Stunning” — Is a Fifth Quarter of Growth Coming?",
-      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is gaining attention for its impressive execution, leading to speculation of a fifth consecutive quarter of growth. The company is considered one of the Trending AI Stocks in Focus This Week.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:20:48Z",
-      "url": "https://finance.yahoo.com/news/palantir-pltr-execution-called-stunning-122048645.html"
-    },
-    {
-      "id": 67,
-      "title": "Huawei Debuts Eye Tracking 3D Basketball Game on Lock Screen",
-      "summary": "Huawei debuts a revolutionary eye tracking 3D basketball game on smartphone lock screens, controlled by gestures.",
-      "source": "TalkAndroid",
-      "category": "innovation",
-      "timestamp": "2025-07-18T12:20:00Z",
-      "url": "https://www.talkandroid.com/512122-huawei-pura-80-ultra-3d-game/"
-    },
-    {
-      "id": 68,
-      "title": "Forbes Daily: Earnings Optimism Drives S&P 500 To New Heights",
-      "summary": "Forbes Daily covers new ChatGPT capabilities, Facebook execs settlement, crypto regulations OK’d, and CBS cancels “The Late Show with Stephen Colbert.”",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-18T12:19:35Z",
-      "url": "https://www.forbes.com/sites/daniellechemtob/2025/07/18/forbes-daily-earnings-optimism-drives-sp-500-to-new-heights/"
-    },
-    {
-      "id": 69,
-      "title": "Broker’s call: Tech Mahindra (Add)",
-      "summary": "Tech Mahindra reports in-line Q1FY26 performance with revenue of ₹1,335 crore, EBIT margin increase, and positive growth outlook.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-18T12:19:31Z",
-      "url": "https://www.thehindubusinessline.com/markets/brokers-call-tech-mahindra-add/article69827536.ece"
-    },
-    {
-      "id": 51,
-      "title": "The Windsurf and Scale deals underscore a fragile reality for startup employees",
-      "summary": "The Windsurf and Scale deals highlight how CEO and founder acquihires can leave startup employees with uncertain futures.",
-      "source": "Fortune",
-      "category": "startups",
-      "timestamp": "2025-07-18T11:48:16Z",
-      "url": "https://fortune.com/2025/07/18/the-windsurf-and-scale-deals-underscore-a-fragile-reality-for-startup-employees/"
-    },
-    {
-      "id": 52,
-      "title": "SeaFi Launches $1 Million MEGA IDO for Elympics ($ELP) with Whitelist and Reward Campaigns Active Until July 20",
-      "summary": "SeaFi launches $1 million MEGA IDO for Elympics ($ELP) with whitelist and reward campaigns active until July 20, aiming to redefine decentralized fundraising.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T11:48:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117847/0/en/SeaFi-Launches-1-Million-MEGA-IDO-for-Elympics-ELP-with-Whitelist-and-Reward-Campaigns-Active-Until-July-20.html"
-    },
-    {
-      "id": 53,
-      "title": "How to build a cybersecurity team to maximize business impact",
-      "summary": "How CISOs design and build their security teams is as important as the technology they select to safeguard their organizations' digital assets.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:48:00Z",
-      "url": "https://www.techtarget.com/searchsecurity/tip/How-to-build-a-cybersecurity-team-to-maximize-business-impact"
-    },
-    {
-      "id": 54,
-      "title": "Meta won’t sign EU’s Code of Practice for generative AI",
-      "summary": "Meta refuses to sign EU's Code of Practice for generative AI, criticizing it as excessive and unnecessary.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:47:36Z",
-      "url": "https://biztoc.com/x/c232da3b2edec616"
-    },
-    {
-      "id": 55,
-      "title": "How displaying your DNA became a status symbol",
-      "summary": "The new beauty ideal involves displaying your DNA as a status symbol, shifting the focus from external appearance to internal health.",
-      "source": "Dazed",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:47:00Z",
-      "url": "https://www.dazeddigital.com/beauty/article/68248/1/will-displaying-your-dna-and-biomarkers-become-the-ultimate-status-symbol?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-displaying-your-dna-became-a-status-symbol"
-    },
-    {
-      "id": 56,
-      "title": "US Dollar’s ‘Supremacy Premium’ To Erode Further if Fed Is Forced To Intervene in Bond Market, Says Global Macro Analyst at $15,000,000,000,000 Asset Administrator",
-      "summary": "US Dollar’s ‘Supremacy Premium’ To Erode Further if Fed Is Forced To Intervene in Bond Market, says Global Macro Analyst at $15,000,000,000,000 Asset Administrator.",
-      "source": "The Daily Hodl",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:45:40Z",
-      "url": "https://dailyhodl.com/2025/07/18/us-dollars-supremacy-premium-to-erode-further-if-fed-is-forced-to-intervene-in-bond-market-says-global-macro-analyst-at-15000000000000-asset-administrator/"
-    },
-    {
-      "id": 57,
-      "title": "Donald Trump has been diagnosed with chronic venous insufficiency",
-      "summary": "Donald Trump's declining health has been a topic of concern, with recent photos showing him in a deteriorating state. The ethical implications of discussing a public figure's health in this manner raise questions about privacy and respect.",
-      "source": "Celebitchy.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:45:34Z",
-      "url": "https://www.celebitchy.com/931655/donald_trump_has_been_diagnosed_with_chronic_venous_insufficiency/"
-    },
-    {
-      "id": 58,
-      "title": "Why Shadcn is the Secret Weapon Every AI UI Designer Needs",
-      "summary": "Shadcn is being touted as the secret weapon every AI UI designer needs to create apps that feel effortlessly intuitive. The quality of user interfaces (UI) can make the difference between a frustrating app and a seamless experience for users.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:45:22Z",
-      "url": "https://www.geeky-gadgets.com/shadcn-ui-design-toolkit/"
-    },
-    {
-      "id": 59,
-      "title": "Netflix confirms use of AI to help make ‘better and cheaper’ films and TV shows",
-      "summary": "Netflix confirms use of AI to help make 'better and cheaper' films and TV shows",
-      "source": "The-independent.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:45:07Z",
-      "url": "https://www.the-independent.com/arts-entertainment/tv/news/netflix-ai-the-eternaut-b2791588.html"
-    },
-    {
-      "id": 60,
-      "title": "Google Vs. Microsoft. Vs. Coursera. Which AI Certification Is Best?",
-      "summary": "Comparing Google, Microsoft, and Coursera AI certifications to determine the best option in 2025 based on credibility, outcomes, and value.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:45:00Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/18/google-vs-microsoft-vs-coursera-which-ai-certification-is-best/"
-    },
-    {
-      "id": 61,
-      "title": "Perplexity: How 31-year-old Indian founder is trying to shake ChatGPT, Google's Gemini AI dominance",
-      "summary": "Perplexity AI, led by Aravind Srinivas, has surpassed ChatGPT to become the top free app on Apple's App Store, fueled by a strategic partnership with Airtel. This collaboration grants Airtel customers complimentary access to Perplexity Pro, valued at Rs 17,00.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T11:42:37Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-how-31-year-old-indian-founder-is-trying-to-shake-chatgpt-googles-gemini-ai-dominance/articleshow/122761075.cms"
-    },
-    {
-      "id": 51,
-      "title": "Asia-Pacific Data Center Dielectric Fluid Market Report 2025, with Competitive Benchmarking of ENEOS Corporation",
-      "summary": "Asia-Pacific Data Center Dielectric Fluid Market Report 2025 highlights key factors driving growth, including environmental concerns, sustainable cooling solutions, and advancements in technology. ENEOS Corporation is competitively benchmarked in the APAC market.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-18T11:38:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117843/28124/en/Asia-Pacific-Data-Center-Dielectric-Fluid-Market-Report-2025-with-Competitive-Benchmarking-of-ENEOS-Corporation.html"
-    },
-    {
-      "id": 52,
-      "title": "This ‘Strong Buy’ Stock Could Be the Next Big Biotech Breakout",
-      "summary": "This news discusses a 'Strong Buy' stock in the biotech sector that is poised to be a major breakout. It highlights the potential growth and opportunities in the market, particularly in AI-related biotechnology stocks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:36:43Z",
-      "url": "https://biztoc.com/x/05ce4e77844d4e8d"
     }
   ]
 }
