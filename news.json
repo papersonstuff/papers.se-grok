@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-19T05:44:31.038Z",
+  "lastUpdate": "2025-07-19T05:54:30.886Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Docker Unifies Container Development And AI Agent Workflows",
+      "summary": "Docker unifies container development and AI agent workflows, providing a standardized mechanism for AI development with flexibility in framework choice.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:53:20Z",
+      "url": "https://www.forbes.com/sites/janakirammsv/2025/07/18/docker-unifies-container-development-and-ai-agent-workflows/"
+    },
+    {
+      "id": 52,
+      "title": "Promising Digital Media Stocks To Consider – July 16th",
+      "summary": "Seven promising digital media stocks to watch on July 16th, according to MarketBeat's stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:53:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/promising-digital-media-stocks-to-consider-july-16th/"
+    },
+    {
+      "id": 53,
+      "title": "TD Cowen Raises MicroStrategy (NASDAQ:MSTR) Price Target to $680.00",
+      "summary": "TD Cowen raised MicroStrategy's price target to $680.00 in a research note, with a buy rating on the software maker's stock.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-18T05:52:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/td-cowen-raises-microstrategy-nasdaqmstr-price-target-to-680-00/"
+    },
+    {
+      "id": 54,
+      "title": "Nvidia CEO Huang Emerges as Reluctant Emissary in US-China Clash",
+      "summary": "Nvidia CEO Jensen Huang becomes involved in US-China clash after meeting with President Trump and audience in Beijing.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:52:41Z",
+      "url": "https://www.livemint.com/companies/news/nvidia-ceo-huang-emerges-as-reluctant-emissary-in-us-china-clash-11752817961889.html"
+    },
+    {
+      "id": 55,
+      "title": "Bitcoin Stocks To Watch Today – July 16th",
+      "summary": "Marathon Digital, IREN, Riot Platforms, Bit Digital, and Cleanspark are the five Bitcoin stocks to watch today, according to MarketBeat’s stock screener tool. Bitcoin stocks are shares of publicly traded companies whose core business involves Bitcoin.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:50:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/bitcoin-stocks-to-watch-today-july-16th/"
+    },
+    {
+      "id": 56,
+      "title": "Asian shares mostly advance after Wall Street cruises to more records",
+      "summary": "Asian shares mostly advance after Wall Street reaches new records following positive updates on the economy and mixed profit reports from major U.S. companies.",
+      "source": "ABC News",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:50:23Z",
+      "url": "https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-wall-street-cruises-records-123854769"
+    },
+    {
+      "id": 57,
+      "title": "bobbot_noir1458 added to PyPI",
+      "summary": "bobbot_noir1458, an AI chatbot with multiple personalities, has been added to PyPI, allowing users to easily access and use the innovative technology for various communication needs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:49:50Z",
+      "url": "https://pypi.org/project/bobbot-noir1458/"
+    },
+    {
+      "id": 58,
+      "title": "China's spy agency attacks foreign efforts to 'steal' rare earths",
+      "summary": "China's Ministry of State Security announced crackdown on foreign spy agencies attempting to steal rare earths, emphasizing the importance of protecting critical mineral sector from infiltration and espionage.",
+      "source": "Japan Today",
+      "category": "ethics",
+      "timestamp": "2025-07-18T05:48:35Z",
+      "url": "https://japantoday.com/category/world/china%27s-spy-agency-attacks-foreign-efforts-to-%27steal%27-rare-earths"
+    },
+    {
+      "id": 59,
+      "title": "common-pile/caselaw_access_project · Datasets at Hugging Face",
+      "summary": "Common-pile/caselaw_access_project datasets are now available at Hugging Face, aiming to advance and democratize artificial intelligence through open source and open science.",
+      "source": "Huggingface.co",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:47:01Z",
+      "url": "https://huggingface.co/datasets/common-pile/caselaw_access_project"
+    },
+    {
+      "id": 60,
+      "title": "【報】自民52→30　公明14→9　立憲22→27　参政1→15",
+      "summary": "The number of AI-related members in the Japanese political parties has changed, with the Liberal Democratic Party having 30 members, Komeito having 9 members, the Constitutional Democratic Party having 27 members, and the People First Party having 15 members.",
+      "source": "Matometanews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:45:30Z",
+      "url": "http://matometanews.com/archives/2104901.html"
+    },
     {
       "id": 51,
       "title": "【9/2(火)・参加無料】AI活用術を身につける3つのワークショップ開催&VC監修の事業開発プロンプトもプレゼント！",
@@ -360,96 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T03:59:00Z",
       "url": "https://www.animenewsnetwork.com/interest/2025-07-17/sponsors-return-for-fuji-tv-summer-anime-season/.226760"
-    },
-    {
-      "id": 52,
-      "title": "Indian Markets May Continue Weekly Loss as Key Earnings Fall Short",
-      "summary": "Indian Markets May Continue Weekly Loss as Key Earnings Fall Short",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:57:59Z",
-      "url": "https://financialpost.com/pmn/business-pmn/indian-markets-may-continue-weekly-loss-as-key-earnings-fall-short"
-    },
-    {
-      "id": 53,
-      "title": "Boeing Continues Development of Exploration Upper Stage",
-      "summary": "Boeing to spend 2.8 billion dollars on NASA's Exploration Upper Stage for the Space Launch System Block 1B. First flight planned for Artemis IV in 2028.",
-      "source": "Next Big Future",
-      "category": "innovation",
-      "timestamp": "2025-07-18T03:56:38Z",
-      "url": "https://www.nextbigfuture.com/2025/07/boeing-continues-development-of-exploration-upper-stage.html"
-    },
-    {
-      "id": 54,
-      "title": "catt-tashkeel added to PyPI",
-      "summary": "CATT-tashkeel added to PyPI - Character-based Arabic Tashkeel Transformer (CATT) by Abjad AI allows for improved text processing and analysis in Arabic language applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T03:56:10Z",
-      "url": "https://pypi.org/project/catt-tashkeel/"
-    },
-    {
-      "id": 55,
-      "title": "AI isn’t just for coders: 7 emerging non-tech career paths in artificial intelligence",
-      "summary": "AI isn’t just for coders: 7 emerging non-tech career paths in artificial intelligence - Artificial intelligence is rapidly evolving, creating diverse career opportunities beyond computer science. The field needs professionals from various backgrounds like ethics, design, and policy to ensure AI is responsible and beneficial. Students in law, art…",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-18T03:55:49Z",
-      "url": "https://timesofindia.indiatimes.com/education/careers/ai-isnt-just-for-coders-7-emerging-non-tech-career-paths-in-artificial-intelligence/articleshow/122722679.cms"
-    },
-    {
-      "id": 56,
-      "title": "Why Is a Sexually Explicit Chatbot Available to Kids on the App Store?",
-      "summary": "Grok's sexually explicit chatbot available to kids on App Store raises concerns about Apple's App Store moderation and child safety.",
-      "source": "The Mac Observer",
-      "category": "ethics",
-      "timestamp": "2025-07-18T03:55:18Z",
-      "url": "https://www.macobserver.com/news/why-is-a-sexually-explicit-chatbot-available-to-kids-on-the-app-store/"
-    },
-    {
-      "id": 57,
-      "title": "【悲報】AI生成同人、終焉へｗｗｗｗ　AI絵師さんの稼ぎもこれまでか",
-      "summary": "AI-generated doujinshi brings an end to human creators, causing anger in platforms like FANZA, DL, and BOOTH.",
-      "source": "Yaraon-blog.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:54:43Z",
-      "url": "http://yaraon-blog.com/archives/280451"
-    },
-    {
-      "id": 58,
-      "title": "Trump AI Guidelines Expected to Loosen Rules, Pursue Energy",
-      "summary": "President Trump expected to announce AI guidelines loosening rules and promoting energy sources for data centers.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:52:53Z",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-ai-guidelines-expected-to-loosen-rules-pursue-energy"
-    },
-    {
-      "id": 59,
-      "title": "agunreal 0.1.0",
-      "summary": "agunreal 0.1.0 is a new package designed for developing AI-Enhanced games, offering a simple solution for integrating artificial intelligence into gaming experiences.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T03:52:17Z",
-      "url": "https://pypi.org/project/agunreal/0.1.0/"
-    },
-    {
-      "id": 60,
-      "title": "agunreal added to PyPI",
-      "summary": "agunreal added to PyPI - A simple package for creating AI-Enhanced games.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T03:52:17Z",
-      "url": "https://pypi.org/project/agunreal/"
-    },
-    {
-      "id": 61,
-      "title": "Fully Homomorphic Encryption and the Dawn of a Truly Private Internet",
-      "summary": "The article discusses Fully Homomorphic Encryption and its potential to usher in a truly private internet by enabling computations on encrypted data. This breakthrough has significant implications for data privacy and security online.",
-      "source": "Bozmen.io",
-      "category": "research",
-      "timestamp": "2025-07-18T03:49:50Z",
-      "url": "https://bozmen.io/fhe"
     }
   ]
 }
