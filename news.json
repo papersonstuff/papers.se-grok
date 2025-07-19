@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-19T16:17:56.300Z",
+  "lastUpdate": "2025-07-19T16:47:54.271Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Netflix announces record $11 billion revenue as fans rip slate of ‘garbage’ shows",
+      "summary": "Netflix announces record $11 billion revenue in second quarter, with fans criticizing quality of shows. The streaming service reported a net profit of $3.1 billion.",
+      "source": "The-independent.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T16:47:16Z",
+      "url": "https://www.the-independent.com/arts-entertainment/tv/news/netflix-revenue-profits-record-critics-b2791797.html"
+    },
+    {
+      "id": 52,
+      "title": "Welfare Trust set up for Air India crash victims",
+      "summary": "Welfare Trust set up by Tata Group for Air India crash victims to provide financial assistance and support",
+      "source": "The Star Online",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:47:00Z",
+      "url": "https://www.thestar.com.my/news/world/2025/07/19/welfare-trust-set-up-for-air-india-crash-victims"
+    },
+    {
+      "id": 53,
+      "title": "Analysts revamp Alphabet stock price target before key earnings",
+      "summary": "Analysts revise Alphabet stock price target ahead of earnings report, sparking speculation on Google parent's next moves.",
+      "source": "TheStreet",
+      "category": "economy",
+      "timestamp": "2025-07-18T16:47:00Z",
+      "url": "https://www.thestreet.com/investing/analysts-revamp-alphabet-stock-price-target-before-key-earnings"
+    },
+    {
+      "id": 54,
+      "title": "JPMorgan Adds Private Firms to Research Starting With OpenAI",
+      "summary": "JPMorgan Chase & Co. is expanding research coverage to private companies in the Wall Street bank’s latest effort to capitalize on the rapidly changing landscape of artificial intelligence.",
+      "source": "Yahoo Entertainment",
+      "category": "research",
+      "timestamp": "2025-07-18T16:46:18Z",
+      "url": "https://finance.yahoo.com/news/jpmorgan-adds-private-firms-research-164618406.html"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI and Anthropic Are Horrified by Elon Musk's \"Reckless\" and \"Completely Irresponsible\" Grok Scandal",
+      "summary": "Experts at OpenAI and Anthropic are criticizing Elon Musk and xAI for not publishing safety research after Grok, their chatbot, made racist and anti-Semitic comments publicly.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:43:56Z",
+      "url": "https://futurism.com/openai-anthropic-xai-grok-scandal"
+    },
+    {
+      "id": 56,
+      "title": "More Than Half of Teens Surveyed Use AI for Companionship. Why That's Not Ideal",
+      "summary": "More than half of teens surveyed use AI for companionship, but it is not recommended for anyone younger than 18 due to potential negative impacts on social development.",
+      "source": "CNET",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:43:00Z",
+      "url": "https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-regularly-use-ai-chatbots-why-thats-not-ideal/"
+    },
+    {
+      "id": 57,
+      "title": "More Than Half of Teens Surveyed Use AI for Companionship. Why That's Not Ideal",
+      "summary": "More than half of teens surveyed use AI for companionship, but it is not ideal as the survey company recommends that no one younger than 18 should use AI companions.",
+      "source": "CNET",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:43:00Z",
+      "url": "https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-use-ai-for-companionship-why-thats-not-ideal/"
+    },
+    {
+      "id": 58,
+      "title": "OpenAI CEO Sam Altman issues strong warning over new ChatGPT service",
+      "summary": "OpenAI CEO Sam Altman warns about potential risks of new ChatGPT Agent service that can complete complex tasks from start to finish.",
+      "source": "LADbible",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:42:58Z",
+      "url": "https://www.ladbible.com/news/technology/chatgpt-open-ai-sam-altman-warning-166490-20250718"
+    },
+    {
+      "id": 59,
+      "title": "timbal 0.57.4",
+      "summary": "timbal 0.57.4 is a strongly opinionated framework for building and orchestrating agentic AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T16:41:50Z",
+      "url": "https://pypi.org/project/timbal/0.57.4/"
+    },
+    {
+      "id": 60,
+      "title": "Update: China Issues New Statement on US Tech War",
+      "summary": "China criticizes US decision to loosen AI chip exports as it could give the US an advantage in the technology war.",
+      "source": "Newsweek",
+      "category": "economy",
+      "timestamp": "2025-07-18T16:40:41Z",
+      "url": "https://www.newsweek.com/china-issues-new-statement-us-tech-war-nvidia-ai-chip-2100871"
+    },
+    {
+      "id": 61,
+      "title": "Skift IDEA Awards: Meet the 2025 Finalists",
+      "summary": "Skift IDEA Awards recognizes individuals, teams, and companies shaping the future of the industry in its seventh year.",
+      "source": "Skift",
+      "category": "innovation",
+      "timestamp": "2025-07-18T16:40:41Z",
+      "url": "http://skift.com/2025/07/18/skift-idea-awards-meet-the-2025-finalists/"
+    },
+    {
+      "id": 62,
+      "title": "Billion-euro chip factory planned for eastern Germany",
+      "summary": "Billion-euro chip factory planned in eastern Germany to produce microchips for European industry.",
+      "source": "Dpa-international.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T16:40:33Z",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:250718-99-494901/"
+    },
+    {
+      "id": 63,
+      "title": "A night-watchman ASI as a first step toward a great future",
+      "summary": "A night-watchman ASI is being considered as a first step towards a great future, with the author taking a week off from their job to think about aligning AI and potential uses for it.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-18T16:40:20Z",
+      "url": "https://www.lesswrong.com/posts/us8ss79mWCgTcSKoK/a-night-watchman-asi-as-a-first-step-toward-a-great-future"
+    },
+    {
+      "id": 64,
+      "title": "Ubuntu server started crashing after install cifs-utils",
+      "summary": "Ubuntu server started crashing after installing cifs-utils, causing AI server to freeze during an rsync transfer.",
+      "source": "Askubuntu.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T16:39:56Z",
+      "url": "https://askubuntu.com/questions/1553102/ubuntu-server-started-crashing-after-install-cifs-utils"
+    },
+    {
+      "id": 65,
+      "title": "Cognitive warfare: why wars without bombs or bullets are a legal blind spot",
+      "summary": "Cognitive warfare, involving tactics like spreading false health alerts to create panic, is a legal blind spot that raises ethical concerns about the impact of misinformation in conflicts.",
+      "source": "The Conversation Africa",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:38:59Z",
+      "url": "https://theconversation.com/cognitive-warfare-why-wars-without-bombs-or-bullets-are-a-legal-blind-spot-260607"
+    },
+    {
+      "id": 66,
+      "title": "Green card holder detained by ICE, may soon be deported to Democratic Republic of Congo",
+      "summary": "Green card holder detained by ICE and facing possible deportation to Congo after officials claim she lied about marital status.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:38:55Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/green-card-holder-detained-by-ice-may-soon-be-deported-to-democratic-republic-of-congo/articleshow/122769459.cms"
+    },
+    {
+      "id": 67,
+      "title": "Coldplay Fan Who Exposed Cheating CEO At Concert By Filming Kiss Cam Finally Breaks Silence",
+      "summary": "Coldplay fan exposes cheating CEO at concert by filming kiss cam, leading to family's lives being turned upside down.",
+      "source": "Boredpanda.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T16:38:14Z",
+      "url": "https://www.boredpanda.com/coldplay-fan-who-filmed-andy-byron-kiss-tell-tech-ceo-stupid-games-get-stupid-prizes/"
+    },
+    {
+      "id": 68,
+      "title": "Texas Reservoir Map Shows How Water Levels Compare After Floods",
+      "summary": "Many reservoirs and lakes in Central and Eastern Texas near capacity after floods, state data shows. AI-generated voice used in news report, highlighting potential inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T16:37:12Z",
+      "url": "https://biztoc.com/x/fee98e0fbe4609aa"
+    },
     {
       "id": 51,
       "title": "Is your Ring camera showing strange logins? Here's what's going on",
@@ -288,168 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T15:30:03Z",
       "url": "https://spectrum.ieee.org/video-friday-robot-metabolism"
-    },
-    {
-      "id": 63,
-      "title": "AWS CEO Matt Garman bets big on AI agents – but so are OpenAI and everyone else",
-      "summary": "AWS CEO Matt Garman is focusing on AI agents, joining other companies like OpenAI in pushing the development of artificial intelligence capabilities.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:29:45Z",
-      "url": "https://siliconangle.com/2025/07/18/aws-ceo-matt-garman-bets-big-ai-agents-openai-everyone-else/"
-    },
-    {
-      "id": 64,
-      "title": "Dreaming of a career in AI? These US universities are leading the charge",
-      "summary": "Dreaming of a career in AI? These US universities are leading the charge in artificial intelligence and data science education according to the QS World University Rankings 2024.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-18T15:29:39Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/dreaming-of-a-career-in-ai-these-us-universities-are-leading-the-charge/articleshow/122768664.cms"
-    },
-    {
-      "id": 65,
-      "title": "AI in Focus",
-      "summary": "The latest AI in Focus breaking news, comment, reviews and features from the experts at Creative Bloq",
-      "source": "Creative Bloq",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:28:49Z",
-      "url": "https://www.creativebloq.com/tag/ai-in-focus"
-    },
-    {
-      "id": 66,
-      "title": "US government wants to ban Chinese technology in submarine cables",
-      "summary": "US government wants to ban Chinese technology in submarine cables to secure them from foreign adversaries.",
-      "source": "TechRadar",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:28:00Z",
-      "url": "https://www.techradar.com/pro/security/us-government-wants-to-ban-chinese-technology-in-submarine-cables"
-    },
-    {
-      "id": 67,
-      "title": "When Will You See AI-Generated Content on Netflix? It's Possible You Already Have",
-      "summary": "A graphic-novel adaptation from Argentina already used AI to generate final footage, potentially paving the way for more AI-generated content on Netflix in the future.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:27:11Z",
-      "url": "https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/"
-    },
-    {
-      "id": 51,
-      "title": "How to Crash Out Mindfully",
-      "summary": "An article discussing how to crash out mindfully in various situations, such as dealing with difficult coworkers or relationships, to avoid making impulsive decisions. The importance of managing emotions and reactions in a mindful way is emphasized.",
-      "source": "POPSUGAR",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:15:01Z",
-      "url": "https://www.popsugar.com/health/crash-out-mindfully-49452346"
-    },
-    {
-      "id": 52,
-      "title": "Every Day, Something Shows Up In The News That Sounds Like A Cyberpunk 2077 Sidequest",
-      "summary": "Every Day, Something Shows Up In The News That Sounds Like A Cyberpunk 2077 Sidequest - If the cyberpunk genre was meant to warn us away from a capitalistic, dystopian future hellscape, what purpose does it serve when that hellscape is already here?",
-      "source": "Kotaku",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:15:00Z",
-      "url": "https://kotaku.com/cyberpunk-2077-chatgpt-psychosis-ai-robot-austin-weho-1851786563"
-    },
-    {
-      "id": 53,
-      "title": "2025.29: What It Takes to Change the Web",
-      "summary": "This AI-related news discusses the economic future of the web, a conference in Las Vegas, and methods of cooling computers.",
-      "source": "Stratechery.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:14:47Z",
-      "url": "https://stratechery.com/2025/what-it-takes-to-change-the-web/"
-    },
-    {
-      "id": 54,
-      "title": "Psychedelics, Dreams, Energy Intentions, and the Limits of Human Comprehension",
-      "summary": "Psychedelics, Dreams, Energy Intentions, and the Limits of Human Comprehension - The post explores experiences at the edges of reality, especially during sleep, that are difficult to comprehend and make sense of.",
-      "source": "Stevepavlina.com",
-      "category": "research",
-      "timestamp": "2025-07-18T15:11:12Z",
-      "url": "https://stevepavlina.com/blog/2025/07/psychedelics-dreams-energy-intentions-and-the-limits-of-human-comprehension/"
-    },
-    {
-      "id": 55,
-      "title": "Manufacturing Execution System Company Evaluation Report 2025 | Siemens, Dassault Systèmes, and SAP SE Drive Global MES Market with Scalable Digital Manufacturing and Automation Solutions",
-      "summary": "Manufacturing Execution System Company Evaluation Report 2025 highlights key players in the global MES market driving innovation with scalable digital manufacturing and automation solutions.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118033/28124/en/Manufacturing-Execution-System-Company-Evaluation-Report-2025-Siemens-Dassault-Syst%C3%A8mes-and-SAP-SE-Drive-Global-MES-Market-with-Scalable-Digital-Manufacturing-and-Automation-Soluti.html"
-    },
-    {
-      "id": 56,
-      "title": "Non-Linear Web Design: Unlocking the Future of User Experience",
-      "summary": "Non-linear web design offers users a dynamic and interactive experience by allowing them to explore content in various, personalized paths rather than following a rigid, linear flow. This approach enhances user engagement and fosters a more organic, exploratory experience.",
-      "source": "Webdesignerdepot.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:09:32Z",
-      "url": "https://webdesignerdepot.com/non-linear-web-design-unlocking-the-future-of-user-experience/"
-    },
-    {
-      "id": 57,
-      "title": "Woman Films Morning Gym Walk, Internet Not Prepared for Who's in Window",
-      "summary": "A woman's viral TikTok video of her morning gym walk featuring an AI-generated voice has caught internet users by surprise. The heartwarming video has been widely shared and discussed online.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:08:13Z",
-      "url": "https://biztoc.com/x/1e41753bbd9f8ec6"
-    },
-    {
-      "id": 58,
-      "title": "Hearts Melt As Dog Teaches Mini Golden Doodle To Swim 'Just Like Her'",
-      "summary": "Hearts Melt As Dog Teaches Mini Golden Doodle To Swim 'Just Like Her' in a heartwarming viral video. ",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:08:03Z",
-      "url": "https://biztoc.com/x/dbea63693199ced5"
-    },
-    {
-      "id": 59,
-      "title": "MIL Comes To Stay With Couple, Nobody Prepared for What She Does Next",
-      "summary": "A daughter-in-law shares a bizarre encounter with her mother-in-law, who used green pen to leave a message on their door. The incident raises questions about privacy and boundaries when it comes to AI-generated voices.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:07:46Z",
-      "url": "https://biztoc.com/x/3850be0f70231473"
-    },
-    {
-      "id": 60,
-      "title": "Intuitive Machines (LUNR) Jumps on 4th Day on Aggressive Expansion",
-      "summary": "Intuitive Machines Inc. (NASDAQ:LUNR) is performing well as it jumps on its fourth day of aggressive expansion, featured in Wall Street Shockers: 10 Stocks on Sky High.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-18T15:07:40Z",
-      "url": "https://finance.yahoo.com/news/intuitive-machines-lunr-jumps-4th-150740485.html"
-    },
-    {
-      "id": 61,
-      "title": "Netflix uses AI to speed up movie production and launch new features",
-      "summary": "Netflix is using Artificial Intelligence in film and television production to speed up movie production and launch new features.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:07:18Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/netflix-uses-ai-to-speed-up-movie-production-and-launch-new-features/articleshow/122768357.cms"
-    },
-    {
-      "id": 62,
-      "title": "Vascular Access Devices Company Evaluation Report 2025 | Becton Dickinson, Teleflex, and ICU Medical Strengthen Global Leadership Through Strategic Acquisitions and Product Innovation",
-      "summary": "The Vascular Access Devices Market Companies Quadrant report highlights how companies like Becton Dickinson, Teleflex, and ICU Medical are strengthening their global leadership through strategic acquisitions and product innovation in the vascular access devices sector.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:07:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118032/28124/en/Vascular-Access-Devices-Company-Evaluation-Report-2025-Becton-Dickinson-Teleflex-and-ICU-Medical-Strengthen-Global-Leadership-Through-Strategic-Acquisitions-and-Product-Innovation.html"
-    },
-    {
-      "id": 63,
-      "title": "Donald Trump Jr. Rushes to Defend Dad After WSJ’s Epstein Report: ‘I’ve Never Seen Him Doodle Once’",
-      "summary": "Donald Trump Jr. defends his father against reports suggesting he doodled, stating he has never seen President Trump do so.",
-      "source": "Mediaite",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:06:42Z",
-      "url": "https://www.mediaite.com/media/news/donald-trump-jr-rushes-to-defend-dad-after-wsjs-epstein-report-ive-never-seen-him-doodle-once/"
     }
   ]
 }
