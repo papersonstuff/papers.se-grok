@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T11:40:18.164Z",
+  "lastUpdate": "2025-07-19T11:48:36.886Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The Windsurf and Scale deals underscore a fragile reality for startup employees",
+      "summary": "The Windsurf and Scale deals highlight how CEO and founder acquihires can leave startup employees with uncertain futures.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-18T11:48:16Z",
+      "url": "https://fortune.com/2025/07/18/the-windsurf-and-scale-deals-underscore-a-fragile-reality-for-startup-employees/"
+    },
+    {
+      "id": 52,
+      "title": "SeaFi Launches $1 Million MEGA IDO for Elympics ($ELP) with Whitelist and Reward Campaigns Active Until July 20",
+      "summary": "SeaFi launches $1 million MEGA IDO for Elympics ($ELP) with whitelist and reward campaigns active until July 20, aiming to redefine decentralized fundraising.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T11:48:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117847/0/en/SeaFi-Launches-1-Million-MEGA-IDO-for-Elympics-ELP-with-Whitelist-and-Reward-Campaigns-Active-Until-July-20.html"
+    },
+    {
+      "id": 53,
+      "title": "How to build a cybersecurity team to maximize business impact",
+      "summary": "How CISOs design and build their security teams is as important as the technology they select to safeguard their organizations' digital assets.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:48:00Z",
+      "url": "https://www.techtarget.com/searchsecurity/tip/How-to-build-a-cybersecurity-team-to-maximize-business-impact"
+    },
+    {
+      "id": 54,
+      "title": "Meta won’t sign EU’s Code of Practice for generative AI",
+      "summary": "Meta refuses to sign EU's Code of Practice for generative AI, criticizing it as excessive and unnecessary.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:47:36Z",
+      "url": "https://biztoc.com/x/c232da3b2edec616"
+    },
+    {
+      "id": 55,
+      "title": "How displaying your DNA became a status symbol",
+      "summary": "The new beauty ideal involves displaying your DNA as a status symbol, shifting the focus from external appearance to internal health.",
+      "source": "Dazed",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:47:00Z",
+      "url": "https://www.dazeddigital.com/beauty/article/68248/1/will-displaying-your-dna-and-biomarkers-become-the-ultimate-status-symbol?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-displaying-your-dna-became-a-status-symbol"
+    },
+    {
+      "id": 56,
+      "title": "US Dollar’s ‘Supremacy Premium’ To Erode Further if Fed Is Forced To Intervene in Bond Market, Says Global Macro Analyst at $15,000,000,000,000 Asset Administrator",
+      "summary": "US Dollar’s ‘Supremacy Premium’ To Erode Further if Fed Is Forced To Intervene in Bond Market, says Global Macro Analyst at $15,000,000,000,000 Asset Administrator.",
+      "source": "The Daily Hodl",
+      "category": "economy",
+      "timestamp": "2025-07-18T11:45:40Z",
+      "url": "https://dailyhodl.com/2025/07/18/us-dollars-supremacy-premium-to-erode-further-if-fed-is-forced-to-intervene-in-bond-market-says-global-macro-analyst-at-15000000000000-asset-administrator/"
+    },
+    {
+      "id": 57,
+      "title": "Donald Trump has been diagnosed with chronic venous insufficiency",
+      "summary": "Donald Trump's declining health has been a topic of concern, with recent photos showing him in a deteriorating state. The ethical implications of discussing a public figure's health in this manner raise questions about privacy and respect.",
+      "source": "Celebitchy.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T11:45:34Z",
+      "url": "https://www.celebitchy.com/931655/donald_trump_has_been_diagnosed_with_chronic_venous_insufficiency/"
+    },
+    {
+      "id": 58,
+      "title": "Why Shadcn is the Secret Weapon Every AI UI Designer Needs",
+      "summary": "Shadcn is being touted as the secret weapon every AI UI designer needs to create apps that feel effortlessly intuitive. The quality of user interfaces (UI) can make the difference between a frustrating app and a seamless experience for users.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T11:45:22Z",
+      "url": "https://www.geeky-gadgets.com/shadcn-ui-design-toolkit/"
+    },
+    {
+      "id": 59,
+      "title": "Netflix confirms use of AI to help make ‘better and cheaper’ films and TV shows",
+      "summary": "Netflix confirms use of AI to help make 'better and cheaper' films and TV shows",
+      "source": "The-independent.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T11:45:07Z",
+      "url": "https://www.the-independent.com/arts-entertainment/tv/news/netflix-ai-the-eternaut-b2791588.html"
+    },
+    {
+      "id": 60,
+      "title": "Google Vs. Microsoft. Vs. Coursera. Which AI Certification Is Best?",
+      "summary": "Comparing Google, Microsoft, and Coursera AI certifications to determine the best option in 2025 based on credibility, outcomes, and value.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-18T11:45:00Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/18/google-vs-microsoft-vs-coursera-which-ai-certification-is-best/"
+    },
+    {
+      "id": 61,
+      "title": "Perplexity: How 31-year-old Indian founder is trying to shake ChatGPT, Google's Gemini AI dominance",
+      "summary": "Perplexity AI, led by Aravind Srinivas, has surpassed ChatGPT to become the top free app on Apple's App Store, fueled by a strategic partnership with Airtel. This collaboration grants Airtel customers complimentary access to Perplexity Pro, valued at Rs 17,00.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T11:42:37Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-how-31-year-old-indian-founder-is-trying-to-shake-chatgpt-googles-gemini-ai-dominance/articleshow/122761075.cms"
+    },
     {
       "id": 51,
       "title": "Asia-Pacific Data Center Dielectric Fluid Market Report 2025, with Competitive Benchmarking of ENEOS Corporation",
@@ -351,105 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-18T10:52:32Z",
       "url": "https://www.digitaljournal.com/world/indie-game-studios-battle-for-piece-of-switch-2-success/article"
-    },
-    {
-      "id": 55,
-      "title": "Meet the Hybrid Tester: The Future of QA in the Age of AI",
-      "summary": "The hybrid tester is a pivotal role in QA, blending traditional skills with AI technology to enhance quality and speed.",
-      "source": "DevOps.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:52:05Z",
-      "url": "https://devops.com/meet-the-hybrid-tester-the-future-of-qa-in-the-age-of-ai/"
-    },
-    {
-      "id": 56,
-      "title": "Airfare by algorithm: Delta leans into AI pricing — but is it a good thing?",
-      "summary": "Airfare pricing for Delta Air Lines is shifting to be determined by AI algorithms, with about 3 percent of domestic ticket prices already influenced by AI. This move raises questions about the implications of AI-driven pricing strategies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:51:55Z",
-      "url": "https://biztoc.com/x/38b804c6f29b7376"
-    },
-    {
-      "id": 57,
-      "title": "Indie Game Studios Battle For Piece Of Switch 2 Success",
-      "summary": "Indie game studios are competing for success with upcoming Switch 2 titles at a Japanese game fair, where Nintendo's iconic character Mario is notably absent.",
-      "source": "International Business Times",
-      "category": "startups",
-      "timestamp": "2025-07-18T10:51:07Z",
-      "url": "https://www.ibtimes.com/indie-game-studios-battle-piece-switch-2-success-3778854"
-    },
-    {
-      "id": 58,
-      "title": "Delta Air Lines is using AI to set the maximum price you’re willing to pay",
-      "summary": "Delta Air Lines is using AI to set the maximum price individuals are willing to pay for flights through dynamic ticket pricing.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:50:57Z",
-      "url": "https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout"
-    },
-    {
-      "id": 59,
-      "title": "Living Well & Living Safe: How to Choose a Home Security System That Fits Your Life",
-      "summary": "Your home security system is essential for creating a secure environment in an uncertain world, and it is important for your overall well-being. Choosing the right home security system is crucial for maintaining your sanctuary and safe haven.",
-      "source": "Ahouseinthehills.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:50:05Z",
-      "url": "https://ahouseinthehills.com/living-well-living-safe-how-to-choose-a-home-security-system-that-fits-your-life/"
-    },
-    {
-      "id": 60,
-      "title": "Making a strategic change to pay less for the flight you want",
-      "summary": "Making strategic changes to pay less for flights, discussing the JetBlue 25 for 25 promotion and sharing strategies for saving money on flights.",
-      "source": "Frequentmiler.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T10:45:12Z",
-      "url": "https://frequentmiler.com/making-a-strategic-change-to-pay-less-for-the-flight-you-want/"
-    },
-    {
-      "id": 51,
-      "title": "NVIDIA’s High-End “Blackwell Ultra” GB300 AI Servers to Begin Shipping by September as Design Changes Ease Pressure on the Supply Chain",
-      "summary": "NVIDIA's high-end GB300 AI servers, named Blackwell Ultra, are set to begin shipping by September following design changes that have eased pressure on the supply chain.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-18T10:43:05Z",
-      "url": "https://wccftech.com/nvidia-blackwell-ultra-gb300-ai-servers-to-begin-shipping-by-september/"
-    },
-    {
-      "id": 52,
-      "title": "How Human-Centered AI Actually Gets Built",
-      "summary": "Fei-Fei Li discusses building human-centered AI as a civilizational technology with Hugo Bowne-Anderson and Duncan Gilchrist on the High Signal podcast.",
-      "source": "Oreilly.com",
-      "category": "research",
-      "timestamp": "2025-07-18T10:42:18Z",
-      "url": "https://www.oreilly.com/radar/how-human-centered-ai-actually-gets-built/#BlogPosting"
-    },
-    {
-      "id": 53,
-      "title": "Perplexity AI Hits $18 Billion Valuation in Latest Funding Round",
-      "summary": "Perplexity AI, a generative AI search startup, has raised $100 million in new funding, increasing its valuation to $18 billion. The funding round extends a previous valuation of $14 billion, showcasing the company's growth and potential in the AI industry.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T10:41:48Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/"
-    },
-    {
-      "id": 54,
-      "title": "Satellite Images Show New Trump Resort Emerge in Middle East",
-      "summary": "Recent satellite imagery reveals significant progress at one of the Middle East's most high-value coastal real estate projects, where Trump-branded villas are being developed above the Gulf of Oman. Voice is AI-generated.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:41:26Z",
-      "url": "https://biztoc.com/x/b47be37ae1b2400e"
-    },
-    {
-      "id": 55,
-      "title": "Perplexity's CEO says his AI browser could replace 2 white-collar roles every company relies on",
-      "summary": "Perplexity's CEO claims their AI browser, Comet, has the potential to replace white-collar roles like recruiters and assistants.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T10:41:24Z",
-      "url": "https://biztoc.com/x/d6136ef3c11f2c56"
     }
   ]
 }
