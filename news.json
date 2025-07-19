@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-19T10:44:22.083Z",
+  "lastUpdate": "2025-07-19T10:54:21.287Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Is history repeating itself with the government’s push to open public sector cloud deals to SMEs?",
+      "summary": "The UK government is aiming to open public sector cloud deals to SMEs in order to help public sector IT buyers migrate more workloads to the cloud. This initiative is part of a larger effort to move away from legacy tech and improve efficiency.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T10:54:00Z",
+      "url": "https://www.computerweekly.com/news/366627823/Is-history-repeating-itself-with-government-push-to-open-public-sector-cloud-deals-to-SMEs"
+    },
+    {
+      "id": 52,
+      "title": "House CCP Committee’s Chair: NVIDIA’s H20 Is A “Powerful Chip” That Played “A Significant Role In The Rise Of PRC AI Companies Like DeepSeek”",
+      "summary": "House CCP Committee’s Chair highlights NVIDIA’s H20 chip's role in the rise of Chinese AI companies, sparking US policy debate and potential impacts on US-China trade relations.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-18T10:52:41Z",
+      "url": "https://wccftech.com/house-ccp-committees-chair-nvidias-h20-is-a-powerful-chip-that-played-a-significant-role-in-the-rise-of-prc-ai-companies-like-deepseek/"
+    },
+    {
+      "id": 53,
+      "title": "How AI vibe coding is destroying junior devs’ careers",
+      "summary": "New research shows that AI vibe coding is making junior developers believe they are faster when they are actually slower, leading to unemployable pseudo-developers. This trend is harmful to junior devs' careers and the industry's integrity.",
+      "source": "Finalroundai.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T10:52:41Z",
+      "url": "https://www.finalroundai.com/blog/ai-vibe-coding-destroying-junior-developers-careers"
+    },
+    {
+      "id": 54,
+      "title": "Indie game studios battle for piece of Switch 2 success",
+      "summary": "Indie game studios are showcasing their upcoming titles for the Nintendo Switch 2 at a Japanese game fair, with three games on display all made by smaller-scale independent developers. The absence of Nintendo's popular mascot Mario is notable as players line up to try out the new games.",
+      "source": "Digital Journal",
+      "category": "startups",
+      "timestamp": "2025-07-18T10:52:32Z",
+      "url": "https://www.digitaljournal.com/world/indie-game-studios-battle-for-piece-of-switch-2-success/article"
+    },
+    {
+      "id": 55,
+      "title": "Meet the Hybrid Tester: The Future of QA in the Age of AI",
+      "summary": "The hybrid tester is a pivotal role in QA, blending traditional skills with AI technology to enhance quality and speed.",
+      "source": "DevOps.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T10:52:05Z",
+      "url": "https://devops.com/meet-the-hybrid-tester-the-future-of-qa-in-the-age-of-ai/"
+    },
+    {
+      "id": 56,
+      "title": "Airfare by algorithm: Delta leans into AI pricing — but is it a good thing?",
+      "summary": "Airfare pricing for Delta Air Lines is shifting to be determined by AI algorithms, with about 3 percent of domestic ticket prices already influenced by AI. This move raises questions about the implications of AI-driven pricing strategies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:51:55Z",
+      "url": "https://biztoc.com/x/38b804c6f29b7376"
+    },
+    {
+      "id": 57,
+      "title": "Indie Game Studios Battle For Piece Of Switch 2 Success",
+      "summary": "Indie game studios are competing for success with upcoming Switch 2 titles at a Japanese game fair, where Nintendo's iconic character Mario is notably absent.",
+      "source": "International Business Times",
+      "category": "startups",
+      "timestamp": "2025-07-18T10:51:07Z",
+      "url": "https://www.ibtimes.com/indie-game-studios-battle-piece-switch-2-success-3778854"
+    },
+    {
+      "id": 58,
+      "title": "Delta Air Lines is using AI to set the maximum price you’re willing to pay",
+      "summary": "Delta Air Lines is using AI to set the maximum price individuals are willing to pay for flights through dynamic ticket pricing.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:50:57Z",
+      "url": "https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout"
+    },
+    {
+      "id": 59,
+      "title": "Living Well & Living Safe: How to Choose a Home Security System That Fits Your Life",
+      "summary": "Your home security system is essential for creating a secure environment in an uncertain world, and it is important for your overall well-being. Choosing the right home security system is crucial for maintaining your sanctuary and safe haven.",
+      "source": "Ahouseinthehills.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:50:05Z",
+      "url": "https://ahouseinthehills.com/living-well-living-safe-how-to-choose-a-home-security-system-that-fits-your-life/"
+    },
+    {
+      "id": 60,
+      "title": "Making a strategic change to pay less for the flight you want",
+      "summary": "Making strategic changes to pay less for flights, discussing the JetBlue 25 for 25 promotion and sharing strategies for saving money on flights.",
+      "source": "Frequentmiler.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T10:45:12Z",
+      "url": "https://frequentmiler.com/making-a-strategic-change-to-pay-less-for-the-flight-you-want/"
+    },
     {
       "id": 51,
       "title": "NVIDIA’s High-End “Blackwell Ultra” GB300 AI Servers to Begin Shipping by September as Design Changes Ease Pressure on the Supply Chain",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T09:43:14Z",
       "url": "https://thefly.com/permalinks/entry.php/id4161930/DAL-Delta-to-determine--of-fares-individually-using-AI-by-YE-Fortune-reports"
-    },
-    {
-      "id": 64,
-      "title": "Opinion: Is the Great American Economic Machine Ready to Produce Prosperity?",
-      "summary": "Opinion piece discussing whether the American economy is poised to create prosperity.",
-      "source": "Boston Herald",
-      "category": "economy",
-      "timestamp": "2025-07-18T09:42:12Z",
-      "url": "https://www.bostonherald.com/2025/07/18/opinion-is-the-great-american-economic-machine-ready-to-produce-prosperity/"
-    },
-    {
-      "id": 65,
-      "title": "Pressure Transmitter Company Evaluation Report 2025 | Emerson, Yokogawa, and Endress+Hauser Lead the Industry",
-      "summary": "Pressure transmitters play a key role in industries such as oil & gas, chemicals, and power generation by converting pressure readings into digital or analog signals for real-time system control.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117784/28124/en/Pressure-Transmitter-Company-Evaluation-Report-2025-Emerson-Yokogawa-and-Endress-Hauser-Lead-the-Industry.html"
-    },
-    {
-      "id": 66,
-      "title": "Virturo Broker Launches Enhanced AI-Powered Trading Suite at London Investor Summit",
-      "summary": "Virturo Broker launches enhanced AI-powered trading suite at London Investor Summit, showcasing next-generation trading technologies for high-net-worth clients.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117783/0/en/Virturo-Broker-Launches-Enhanced-AI-Powered-Trading-Suite-at-London-Investor-Summit.html"
-    },
-    {
-      "id": 67,
-      "title": "Alienware 16 Area-51 review: \"it's back, baby\"",
-      "summary": "The Alienware 16 Area-51 is a powerful machine with impressive benchmarks, making it a noteworthy innovation in the laptop market.",
-      "source": "GamesRadar+",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:40:22Z",
-      "url": "https://www.gamesradar.com/hardware/laptops/alienware-16-area-51-review/"
-    },
-    {
-      "id": 68,
-      "title": "Trump’s AI Action Plan Set to Expand Energy Sources for Data Centers",
-      "summary": "Trump's AI Action Plan aims to expand energy sources for data centers, potentially impacting the economy through policy guidelines and regulatory changes.",
-      "source": "OilPrice.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T09:40:05Z",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-AI-Action-Plan-Set-to-Expand-Energy-Sources-for-Data-Centers.html"
-    },
-    {
-      "id": 69,
-      "title": "Penny Pennington of investment advice firm Edward Jones: ‘We’re a health and wellbeing company’",
-      "summary": "Penny Pennington of investment advice firm Edward Jones emphasizes the company's focus on health and wellbeing, positioning themselves as a health and wellbeing company. Additionally, Fortune covers all the latest news and watercooler chat in the industry.",
-      "source": "Fortune",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:39:41Z",
-      "url": "https://fortune.com/2025/07/18/penny-pennington-edward-jones-health-and-wellbeing/"
-    },
-    {
-      "id": 70,
-      "title": "OpenAI Launches ChatGPT Agent Mode: What It Could Mean for the Travel Industry",
-      "summary": "OpenAI launches ChatGPT Agent mode which could be a game changer for the travel industry by allowing real bookings, but the question arises whether people will trust AI with their money, logins, and bank details.",
-      "source": "Skift",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:39:00Z",
-      "url": "http://skift.com/2025/07/18/openai-launches-chatgpt-agent-mode-what-it-could-mean-for-the-travel-industry/"
-    },
-    {
-      "id": 51,
-      "title": "Narayana Murthy says he knows someone already working 100 hours a week in a chat on Bengaluru-Mumbai flight",
-      "summary": "Narayana Murthy suggests young Indians work 70 hours a week, joking about people who work 100 hours. Tejasvi Surya's conversation with Murthy on work hours gains attention.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T09:33:04Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/narayana-murthy-says-he-knows-someone-already-working-100-hours-a-week-in-a-chat-on-bengaluru-mumbai-flight/articleshow/122759974.cms"
-    },
-    {
-      "id": 52,
-      "title": "Premier League: English clubs' crazy transfer market, huge sums ",
-      "summary": "Premier League English clubs are spending huge sums in the transfer market, driven by unmatched turnover. The prices of players are increasing as a result.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T09:33:00Z",
-      "url": "https://onefootball.com/en/news/premier-league-english-clubs-crazy-transfer-market-huge-sums-41391436"
-    },
-    {
-      "id": 53,
-      "title": "Reading Haven by Emma Donoghue.",
-      "summary": "Reading Haven by Emma Donoghue is an AI-related news article discussing the use of artificial intelligence in applications like reading and literature.",
-      "source": "Adactio.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:31:06Z",
-      "url": "https://adactio.com/notes/22025"
     }
   ]
 }
