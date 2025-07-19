@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T08:19:44.860Z",
+  "lastUpdate": "2025-07-19T08:46:36.235Z",
   "items": [
+    {
+      "id": 51,
+      "title": "R&S: la Cina ha raggiunto gli Stati Uniti in poco più di venti anni",
+      "summary": "R&S: la Cina ha raggiunto gli Stati Uniti in poco più di venti anni",
+      "source": "Il Sole 24 Ore",
+      "category": "economy",
+      "timestamp": "2025-07-18T08:43:31Z",
+      "url": "https://www.infodata.ilsole24ore.com/2025/07/18/rs-la-cina-ha-raggiunto-gli-stati-uniti-in-poco-piu-di-venti-anni/"
+    },
+    {
+      "id": 52,
+      "title": "Use MS Copilot Studio to Create a Custom AI Assistant for Work : No Coding Required",
+      "summary": "Use Microsoft Copilot Studio to easily create a custom AI assistant for work without needing to code, making it accessible to anyone looking to simplify their day-to-day tasks.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:42:50Z",
+      "url": "https://www.geeky-gadgets.com/microsoft-copilot-studio-create-a-custom-ai-assistant-no-coding-required/"
+    },
+    {
+      "id": 53,
+      "title": "Barclays Raised the Firm’s PT on 3M Company (MMM), Kept an Overweight Rating",
+      "summary": "Barclays raised the firm’s price target on 3M Company and kept an overweight rating, indicating it is undervalued. This news may impact the stock market and economy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T08:42:00Z",
+      "url": "https://finance.yahoo.com/news/barclays-raised-firm-pt-3m-084200446.html"
+    },
+    {
+      "id": 54,
+      "title": "QUALCOMM Incorporated (QCOM) to Power The New Samsung Galaxy Z Fold7",
+      "summary": "QUALCOMM Incorporated to power the new Samsung Galaxy Z Fold7, considered one of the most undervalued high quality stocks to buy according to hedge funds.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-18T08:41:56Z",
+      "url": "https://finance.yahoo.com/news/qualcomm-incorporated-qcom-power-samsung-084156244.html"
+    },
+    {
+      "id": 55,
+      "title": "Honor 400 Pro review: Is this near-flagship phone worth buying?",
+      "summary": "The review of the Honor 400 Pro smartphone evaluates its performance, photography capabilities, and multitasking features, helping potential buyers assess its value. The article also includes affiliate links for purchasing the phone, which may generate a small commission for the website.",
+      "source": "CNA",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:41:43Z",
+      "url": "https://cnalifestyle.channelnewsasia.com/buyers-guide/honor-400-pro-review-468181"
+    },
+    {
+      "id": 56,
+      "title": "Government AI Platforms - Bloomberg Government Launched AI-Powered Federal Budget Management System (TrendHunter.com)",
+      "summary": "Bloomberg Government introduced an AI-powered platform for federal budget management, aimed at simplifying tracking, allocation, and reporting of spending through automated processes.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:41:06Z",
+      "url": "https://www.trendhunter.com/trends/bloomberg-government"
+    },
+    {
+      "id": 57,
+      "title": "How to Optimize for AI Search Results in 2025",
+      "summary": "Learn AI search optimization tactics to get cited by ChatGPT, Perplexity, and Google AI Overviews to capture high-intent traffic in 2025.",
+      "source": "Semrush.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:41:00Z",
+      "url": "https://www.semrush.com/blog/ai-search-optimization/"
+    },
+    {
+      "id": 58,
+      "title": "ADNOC to Transfer OMV Stake to Its Global Investment Arm",
+      "summary": "ADNOC is transferring its stake in OMV to its global investment arm XRG, as part of its strategy to consolidate international growth investments.",
+      "source": "Rigzone",
+      "category": "economy",
+      "timestamp": "2025-07-18T08:39:35Z",
+      "url": "https://www.rigzone.com/news/adnoc_to_transfer_omv_stake_to_its_global_investment_arm-18-jul-2025-181188-article/"
+    },
+    {
+      "id": 59,
+      "title": "That free lunch your boss is offering might just be a way to get you back into the office",
+      "summary": "AI customer service platform Sendbird offers a free lunch on Fridays to employees who come into the office, which has successfully encouraged more workers to return to the office.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:38:44Z",
+      "url": "https://biztoc.com/x/2cc0697d360f339f"
+    },
+    {
+      "id": 60,
+      "title": "Honda’s new super low-cost electric motorcycle could come at the perfect time",
+      "summary": "Honda's new super low-cost electric motorcycle could come at the perfect time, as revealed in recent patent images.",
+      "source": "Electrek",
+      "category": "innovation",
+      "timestamp": "2025-07-18T08:37:49Z",
+      "url": "http://electrek.co/2025/07/18/hondas-new-super-low-cost-electric-motorcycle-could-come-at-the-perfect-time/"
+    },
+    {
+      "id": 61,
+      "title": "US approval of Nvidia AI chip exports to China more than meets eye",
+      "summary": "Washington has approved shipments of Nvidia's AI chips to China, seen as a compromise for geopolitical and commercial reasons.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-18T08:34:57Z",
+      "url": "https://www.digitimes.com/news/a20250718PD218/nvidia-exports-ai-chip-shipments-chips.html"
+    },
+    {
+      "id": 62,
+      "title": "Closing Britain to Global Talent Will Be An Act of Immense Self-Harm –London Mayor",
+      "summary": "At a time when the United States is tightening restrictions on international students, the Mayor of London, Sir Sadiq Khan, has called on the British government to keep the UK’s doors open to global talent, warning that closing Britain to global talent would be an act of immense self-harm.",
+      "source": "Thechronicle.com.gh",
+      "category": "economy",
+      "timestamp": "2025-07-18T08:34:40Z",
+      "url": "https://thechronicle.com.gh/closing-britain-to-global-talent-will-be-an-act-of-immense-self-harm-london-mayor/"
+    },
+    {
+      "id": 63,
+      "title": "Foreign Minister Baiba Braže in the U.S.: The Allies have everything they need to address the threat posed by Russia",
+      "summary": "Foreign Minister Baiba Braže discussed international security and support to Ukraine during her working visit to the United States.",
+      "source": "Globalsecurity.org",
+      "category": "research",
+      "timestamp": "2025-07-18T08:33:32Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/07/russia-250717-latvia-mfa01.htm"
+    },
+    {
+      "id": 64,
+      "title": "5 Features Every AI-Powered SOC Platform Needs in 2025",
+      "summary": "A modern AI-based SOC platform needs to adapt in real time to handle alert overloads and fast-moving threats, surpassing traditional SIEM tools. Security operations centers are under immense pressure with overwhelmed analysts and overflowing alert queues.",
+      "source": "Securityaffairs.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T08:32:26Z",
+      "url": "https://securityaffairs.com/180070/security/5-features-every-ai-powered-soc-platform-needs-in-2025.html"
+    },
+    {
+      "id": 65,
+      "title": "Windsurf AI Wave 11 Update Overview : Voice, Deeper Browser Integrations and More",
+      "summary": "Windsurf AI has released its Wave 11 update, featuring voice interaction for hands-free coding, deeper browser integration for debugging, and enhancements specific to JetBrains.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T08:32:20Z",
+      "url": "https://www.geeky-gadgets.com/windsurf-ai-wave-11-update/"
+    },
+    {
+      "id": 66,
+      "title": "Banking AI Assistants - Lloyds Bank Introduced a Generative AI Tool for Operational Efficiency (TrendHunter.com)",
+      "summary": "Lloyds Bank introduced a generative AI tool named 'Athena' to enhance operational efficiency in customer service and internal banking processes.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:31:06Z",
+      "url": "https://www.trendhunter.com/trends/lloyds-bank"
+    },
+    {
+      "id": 67,
+      "title": "That free lunch your boss is offering might just be a way to get you back into the office",
+      "summary": "AI customer service platform Sendbird is using free lunch in the form of bahn mi sandwiches to incentivize workers to come into the office, and it is proving to be successful.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:31:01Z",
+      "url": "https://www.businessinsider.com/free-lunch-office-rto-return-to-office-jobs-2025-7"
+    },
+    {
+      "id": 68,
+      "title": "iPadOS 26’s Game-Changing Impact on the M4 iPad Pro",
+      "summary": "The M4 iPad Pro, in tandem with iPadOS 26, has redefined what an iPad can achieve, offering a harmonious blend of innovative hardware and refined software. This combination positions it as a versatile tool for creators, students, and professionals.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T08:30:12Z",
+      "url": "https://www.geeky-gadgets.com/ipados-26s-game-changing-impact-on-the-m4-ipad-pro/"
+    },
+    {
+      "id": 69,
+      "title": "XRP Surges 15% to $3.5 as PFMCrypto Launches Free XRP Mining Contracts, Attracting a Flood of XRP Holders",
+      "summary": "XRP surges 15% to $3.5 as PFMCrypto launches free XRP mining contracts, attracting a flood of XRP holders.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117763/0/en/XRP-Surges-15-to-3-5-as-PFMCrypto-Launches-Free-XRP-Mining-Contracts-Attracting-a-Flood-of-XRP-Holders.html"
+    },
+    {
+      "id": 70,
+      "title": "AI-Generated Lcryx Ransomware Discovered in Cryptomining Botnet",
+      "summary": "AI-generated Lcryx ransomware has been discovered in a cryptomining botnet that has been active since 2019, showcasing the application of AI in cyber attacks.",
+      "source": "Infosecurity Magazine",
+      "category": "applications",
+      "timestamp": "2025-07-18T08:30:00Z",
+      "url": "https://www.infosecurity-magazine.com/news/lcryx-ransomware-discovered-crypto/"
+    },
     {
       "id": 51,
       "title": "livekit-plugins-uplift 0.2.8",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T07:35:00Z",
       "url": "https://www.thestar.com.my/tech/tech-news/2025/07/18/ai-is-making-sure-you-pay-for-that-ding-on-your-rental-car"
-    },
-    {
-      "id": 62,
-      "title": "Q1 Earnings Forecast for Simulations Plus Issued By KeyCorp",
-      "summary": "KeyCorp issued their Q1 2026 earnings per share estimates for Simulations Plus, Inc. The equities research analysts forecasted the earnings in a research note on July 14th.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:34:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/q1-earnings-forecast-for-simulations-plus-issued-by-keycorp/"
-    },
-    {
-      "id": 63,
-      "title": "Barrington Research Has Positive Outlook of IMAX Q1 Earnings",
-      "summary": "Barrington Research analysts have a positive outlook on IMAX Corporation's Q1 earnings, with an increase in earnings per share estimates for 2026.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-18T07:34:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/barrington-research-has-positive-outlook-of-imax-q1-earnings/"
-    },
-    {
-      "id": 64,
-      "title": "Ghost Downloader 3 v3.6.1",
-      "summary": "Ghost Downloader 3 is a fast, AI-powered Windows download manager with advanced features such as multi-threading, proxy support, and smart resume.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-18T07:34:01Z",
-      "url": "https://www.neowin.net/software/ghost-downloader-3-v361/"
-    },
-    {
-      "id": 51,
-      "title": "Stocks to Buy | Navigating a tough market: Precision over breadth",
-      "summary": "Stocks to Buy | Navigating a tough market: Precision over breadth - Siddharth Bothra, in an interview with ET Now, said that the earnings growth over the next two years will be in the early double digits, which is relatively modest.",
-      "source": "Economictimes.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:30:29Z",
-      "url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-navigating-a-tough-market-precision-over-breadth/market-outlook-muted-returns-ahead/slideshow/122745512.cms"
-    },
-    {
-      "id": 52,
-      "title": "camel-ai 0.2.72a8",
-      "summary": "The release of camel-ai 0.2.72a8 focuses on Communicative Agents for AI Society Study, aiming to advance research in AI communication. This version introduces new features for studying the interactions between AI agents within society.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-18T07:30:27Z",
-      "url": "https://pypi.org/project/camel-ai/0.2.72a8/"
-    },
-    {
-      "id": 53,
-      "title": "Lessons from history’s most notorious procrastinators: How delay became genius",
-      "summary": "Lessons from history’s most notorious procrastinators show that working with our tendencies is often more effective than fighting them.",
-      "source": "Livemint",
-      "category": "research",
-      "timestamp": "2025-07-18T07:30:19Z",
-      "url": "https://www.livemint.com/opinion/online-views/mozart-hannibal-napoleon-darwin-wright-hugo-adams-kafka-leonardo-einstein-procrastination-strategy-pomodoro-technique-11752815533204.html"
-    },
-    {
-      "id": 54,
-      "title": "I tested HP's new EliteBook X G1i, and it's a featherweight champ in the office",
-      "summary": "HP's new EliteBook X G1i offers impressive performance with an 18-hour battery life, making it a great choice for office use.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-18T07:30:19Z",
-      "url": "https://www.zdnet.com/article/i-tested-hps-new-elitebook-x-g1i-and-its-a-featherweight-champ-in-the-office/"
-    },
-    {
-      "id": 55,
-      "title": "GitHub - Meirtz/Awesome-Context-Engineering:  Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents.",
-      "summary": "Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems, including papers on Large Language Models and Prompt Engineering techniques.",
-      "source": "Github.com",
-      "category": "research",
-      "timestamp": "2025-07-18T07:27:18Z",
-      "url": "https://github.com/Meirtz/Awesome-Context-Engineering"
-    },
-    {
-      "id": 56,
-      "title": "Principal Financial Group Inc. Takes Position in Penguin Solutions, Inc. (NASDAQ:PENG)",
-      "summary": "Principal Financial Group Inc. purchased a new position in shares of Penguin Solutions, Inc. (NASDAQ:PENG – Free Report) during the first quarter, Holdings Channel.com reports.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-18T07:27:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/principal-financial-group-inc-takes-position-in-penguin-solutions-inc-nasdaqpeng/"
-    },
-    {
-      "id": 57,
-      "title": "$14 development board features GUITION ESP32-P4 + ESP32-C6 module",
-      "summary": "$14 development board combines GUITION ESP32-P4 and ESP32-C6 modules into a single package for IoT development.",
-      "source": "CNX Software",
-      "category": "innovation",
-      "timestamp": "2025-07-18T07:26:07Z",
-      "url": "https://www.cnx-software.com/2025/07/18/14-development-board-features-guition-esp32-p4-esp32-c6-module/"
-    },
-    {
-      "id": 58,
-      "title": " Man City unveil their new away kit",
-      "summary": "Manchester City unveiled their new all-black away kit for the 2025-26 season, marking a unique design choice in the world of football jerseys.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T07:26:00Z",
-      "url": "https://onefootball.com/en/news/man-city-unveil-their-new-away-kit-41390916"
-    },
-    {
-      "id": 59,
-      "title": "Ripple’s XRP Mining News: PFMCrypto Launches First-Ever Cloud Mining for XRP with AI-Optimized Daily Rewards",
-      "summary": "Ripple's XRP mining news: PFMCrypto launches first-ever cloud mining for XRP with AI-optimized daily rewards, making XRP mining simple, scalable, and accessible for investors at all levels.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T07:25:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117740/0/en/Ripple-s-XRP-Mining-News-PFMCrypto-Launches-First-Ever-Cloud-Mining-for-XRP-with-AI-Optimized-Daily-Rewards.html"
-    },
-    {
-      "id": 60,
-      "title": "Viasat Inc. (NASDAQ:VSAT) Shares Bought by Principal Financial Group Inc.",
-      "summary": "Principal Financial Group Inc. increased its holdings in shares of Viasat Inc. by 3.4% in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:22:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/viasat-inc-nasdaqvsat-shares-bought-by-principal-financial-group-inc/"
-    },
-    {
-      "id": 61,
-      "title": "langchain-cloudsway added to PyPI",
-      "summary": "langchain-cloudsway added to PyPI - An integration package connecting Cloudsway and LangChain",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T07:21:52Z",
-      "url": "https://pypi.org/project/langchain-cloudsway/"
-    },
-    {
-      "id": 62,
-      "title": "OTAs aren’t stealing your guests. You’re giving them away.",
-      "summary": "A hotel general manager is frustrated by the rising number of OTA guest bookings and the fees that come with them, as direct bookings decrease. This highlights the economic impact of OTAs on hotels.",
-      "source": "Hospitality Net",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:21:00Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128216.html"
-    },
-    {
-      "id": 63,
-      "title": "TSMC raises 2025 revenue forecast on AI demand despite macro headwinds",
-      "summary": "TSMC raises 2025 revenue forecast due to AI demand, despite macro headwinds. The company benefits from robust demand for high-performance computing chips driven by AI applications.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:20:51Z",
-      "url": "https://www.digitimes.com/news/a20250718PD219/tsmc-ai-demand-outlook-revenue-2025.html"
-    },
-    {
-      "id": 64,
-      "title": "Dentsu expands global innovation lab network with new centre in India",
-      "summary": "Dentsu has expanded its global innovation lab network by launching Dentsu Lab in India, focusing on projects involving AI, immersive tech, and human insight.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-18T07:19:52Z",
-      "url": "https://economictimes.indiatimes.com/industry/services/advertising/dentsu-expands-global-innovation-lab-network-with-new-centre-in-india/articleshow/122742717.cms"
-    },
-    {
-      "id": 65,
-      "title": "Moonvalley Raises $84 Million, Venice Immersive Selections, Grok’s Naughty Avatars",
-      "summary": "Moonvalley raises $84 million for Marey AI video model, 'Post Truth' all-AI doc released in theaters, Grok's Avatars go all the way.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-18T07:19:35Z",
-      "url": "https://www.forbes.com/sites/charliefink/2025/07/18/moonvalley-raises-84-million-venice-immersive-selections-groks-naughty-avatars/"
-    },
-    {
-      "id": 66,
-      "title": "72,161 Shares in Alight, Inc. (NYSE:ALIT) Bought by Teacher Retirement System of Texas",
-      "summary": "Teacher Retirement System of Texas bought 72,161 shares in Alight, Inc. in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T07:16:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/72161-shares-in-alight-inc-nysealit-bought-by-teacher-retirement-system-of-texas/"
-    },
-    {
-      "id": 51,
-      "title": "Realme Buds T200 announced, launching July 24",
-      "summary": "Realme Buds T200 announced, set to launch alongside Realme 15 series of smartphones on July 24",
-      "source": "GSMArena.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T07:12:02Z",
-      "url": "https://www.gsmarena.com/realme_buds_t200_announced_launching_july_24-news-68674.php"
     }
   ]
 }
