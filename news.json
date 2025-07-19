@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-19T21:49:22.551Z",
+  "lastUpdate": "2025-07-19T22:14:59.343Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Is Windows 11 Better Than Windows 10? Here’s What You Need to Know",
+      "summary": "Is Windows 11 better than Windows 10? Find out if the upgrade enhances performance, security, and design for daily workflow.",
+      "source": "Smashingapps.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:14:14Z",
+      "url": "https://www.smashingapps.com/is-windows-11-better-than-windows-10/"
+    },
+    {
+      "id": 52,
+      "title": "How OpenAI’s red team made ChatGPT agent into an AI fortress",
+      "summary": "OpenAI's red team strengthened the ChatGPT Agent with a 95% security defense system through 110 coordinated attacks and 7 exploit fixes.",
+      "source": "VentureBeat",
+      "category": "research",
+      "timestamp": "2025-07-18T22:13:52Z",
+      "url": "https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/"
+    },
+    {
+      "id": 53,
+      "title": "Agents lag behind AI 2027's schedule",
+      "summary": "Agents lag behind AI 2027's schedule, raising questions about the accuracy of the timeline established in 2025.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-18T22:13:15Z",
+      "url": "https://www.lesswrong.com/posts/wcTKRYSt7QinNNkGx/agents-lag-behind-ai-2027-s-schedule"
+    },
+    {
+      "id": 54,
+      "title": "Trump Sues Murdoch: List of Defendants in Lawsuit Over Epstein Letter",
+      "summary": "President Donald Trump sues over AI-generated story revealing 'bawdy' letter sent to Jeffrey Epstein, raising concerns about the ethics of AI applications in creating potentially false information.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T22:10:47Z",
+      "url": "https://biztoc.com/x/76bbcf3df22b0230"
+    },
+    {
+      "id": 55,
+      "title": "Trump Sues Murdoch: List of Defendants in Lawsuit Over Epstein Letter",
+      "summary": "President Trump sues over a report on a letter to Jeffrey Epstein, raising ethical concerns over the use of AI-generated content.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T22:10:47Z",
+      "url": "https://biztoc.com/x/76bbcf3df22b0230"
+    },
+    {
+      "id": 56,
+      "title": "Amazon now requires staff to show AI use to get promoted at Ring and some other units",
+      "summary": "Amazon now requires staff to show AI use to get promoted at Ring and some other units, with Jamie Siminoff making big changes including mandating AI use for promotions.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:10:24Z",
+      "url": "https://biztoc.com/x/16a8824e635d0e04"
+    },
+    {
+      "id": 57,
+      "title": "Amazon now requires staff to show AI use to get promoted at Ring and some other units",
+      "summary": "Amazon now requires staff to show AI use to get promoted at Ring and some other units. The founder of Ring, Jamie Siminoff, is back at Amazon and is implementing changes including mandating the use of AI for promotions.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:10:24Z",
+      "url": "https://biztoc.com/x/16a8824e635d0e04"
+    },
+    {
+      "id": 58,
+      "title": "ONAR to Acquire Retina.ai, Boosting AI Marketing Intelligence",
+      "summary": "ONAR is set to acquire Retina.ai in order to enhance their AI marketing intelligence capabilities.",
+      "source": "Substack.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:08:05Z",
+      "url": "https://curatedbusinessnews.substack.com/p/943173a111b442282f7c551ee841c80c/comments"
+    },
+    {
+      "id": 59,
+      "title": "Have you heard? VSauce returns, KSI tries to turn a profit on YouTube, and MrBeast’s predictions come true.",
+      "summary": "VSauce returns to YouTube, KSI explores profit-making strategies on the platform, and MrBeast's predictions come to fruition in the creator industry.",
+      "source": "Tubefilter",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:06:16Z",
+      "url": "https://www.tubefilter.com/2025/07/18/roundup-vsauce-michael-stevens-ksi-youtube-mrbeast-predictions/"
+    },
+    {
+      "id": 60,
+      "title": "Meta Swears This Time Is Different",
+      "summary": "Meta is investing in a 'superintelligence' team after struggling with AI in the past.",
+      "source": "The Atlantic",
+      "category": "research",
+      "timestamp": "2025-07-18T22:05:40Z",
+      "url": "https://www.theatlantic.com/technology/archive/2025/07/meta-superintelligence-team/683607/"
+    },
+    {
+      "id": 61,
+      "title": "HSBC note says Apple’s AI fumble may stretch iPhone upgrade cycle",
+      "summary": "HSBC note says Apple’s AI fumble may stretch iPhone upgrade cycle",
+      "source": "9to5Mac",
+      "category": "economy",
+      "timestamp": "2025-07-18T22:05:06Z",
+      "url": "https://9to5mac.com/2025/07/18/hsbc-note-says-apples-ai-fumble-may-stretch-iphone-upgrade-cycle/"
+    },
+    {
+      "id": 62,
+      "title": "Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps",
+      "summary": "Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps - For novice developers or even those with expertise who want to spin up a new project fast, AnyCoder seems like a great place to start.",
+      "source": "VentureBeat",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:03:25Z",
+      "url": "https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/"
+    },
+    {
+      "id": 63,
+      "title": "Binance Airdrops, Adds Trading Support for New Blockchain Integrating Interface Token Chainbase (C)",
+      "summary": "Binance is adding support and airdropping for Chainbase (C), an artificial intelligence (AI) altcoin that integrates blockchain interfaces.",
+      "source": "The Daily Hodl",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:01:57Z",
+      "url": "https://dailyhodl.com/2025/07/18/binance-airdrops-adds-trading-support-for-new-blockchain-integrating-interface-token-chainbase-c/"
+    },
+    {
+      "id": 64,
+      "title": "Anamanaguchi talks Batman Rock",
+      "summary": "Anamanaguchi is working on a new album and recently released a Batman-themed video with an infographic on the history of Batman-centric music, signaling a new trend in music creation and promotion.",
+      "source": "Punknews.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:00:01Z",
+      "url": "https://www.punknews.org/article/86082/anamanaguchi-talks-batman-rock"
+    },
+    {
+      "id": 65,
+      "title": "China Just Started Using AI to Animate Film Adaptations — Is Labubu Next?",
+      "summary": "China has started using AI to animate film adaptations, prompting speculation about the use of the technology for retailer Pop Mart. Embracing AI could help the retailer adapt to trends, but there are concerns about cultural consequences in the U.S.",
+      "source": "IndieWire",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:00:00Z",
+      "url": "https://www.indiewire.com/features/general/china-ai-labubu-1235137268/"
+    },
     {
       "id": 51,
       "title": "Netflix Is Doubling Down on Ads and Dabbling in AI",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T21:15:13Z",
       "url": "https://macdailynews.com/2025/07/18/jim-cramer-apple-could-become-number-one-in-ai-immediately-if-it-bought-perplexity/"
-    },
-    {
-      "id": 70,
-      "title": "cryptosolo – World's First Free Bitcoin & Dogecoin Cloud Mining: AI-Powered Mining for Easy Passive Income",
-      "summary": "Cryptosolo offers the world's first free Bitcoin & Dogecoin cloud mining platform powered by AI for easy passive income. Users can earn free cryptocurrencies daily without the need for hardware or technical skills, making it beginner-friendly and accessible to all.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118208/0/en/cryptosolo-World-s-First-Free-Bitcoin-Dogecoin-Cloud-Mining-AI-Powered-Mining-for-Easy-Passive-Income.html"
-    },
-    {
-      "id": 51,
-      "title": "When Apple's Legal Team Comes for the Leakers",
-      "summary": "Apple's latest lawsuit against YouTuber Jon Prosser reveals how the tech giant protects its secretive information, highlighting the ethical considerations of leaking proprietary technology.",
-      "source": "Gadgethacks.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T21:12:41Z",
-      "url": "https://ios.gadgethacks.com/news/when-apples-legal-team-comes-for-the-leakers/"
-    },
-    {
-      "id": 52,
-      "title": "Trump Signs First Major Federal Crypto Bill Into Law",
-      "summary": "President Trump signed the GENIUS Act into law, marking the first major U.S. regulation of stablecoins by creating a legal framework for their issuance and consumer protections, while also championing crypto innovation as a major financial revolution.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:10:00Z",
-      "url": "https://yro.slashdot.org/story/25/07/18/2037217/trump-signs-first-major-federal-crypto-bill-into-law"
-    },
-    {
-      "id": 53,
-      "title": "Why Electricity Prices Are Rising And What You Can Do To Cut Costs",
-      "summary": "Electricity prices are rising, here are some ways to cut costs",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:09:37Z",
-      "url": "https://www.forbes.com/sites/mattrandolph/2025/07/18/why-electricity-prices-are-rising-and-what-you-can-do-to-cut-costs/"
-    },
-    {
-      "id": 54,
-      "title": "Samsung released an upgraded version of its popular Frame TV, and we put it to the test. Here's what sets it apart.",
-      "summary": "Samsung released an upgraded version of its popular Frame TV, the Frame Pro, which features a more advanced backlight and wireless connection box to enhance the viewing experience.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:06:56Z",
-      "url": "https://www.businessinsider.com/guides/tech/samsung-frame-pro-tv-review"
-    },
-    {
-      "id": 55,
-      "title": "ServiceNow's acquisition of Moveworks is reportedly being reviewed over antitrust concerns | TechCrunch",
-      "summary": "ServiceNow's acquisition of Moveworks is facing antitrust concerns and is currently being reviewed. The acquisition was announced in March and the probe started in June.",
-      "source": "TechCrunch",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:05:22Z",
-      "url": "https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/"
-    },
-    {
-      "id": 56,
-      "title": "AI's biggest impact on your workforce is still to come - 3 ways to avoid getting left behind",
-      "summary": "AI's biggest impact on your workforce is still to come - 3 ways to avoid getting left behind. Research suggests 80% of professionals believe AI will have a significant impact on their work over the next year. Here's how to prepare your staff.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:05:12Z",
-      "url": "https://www.zdnet.com/article/ais-biggest-impact-on-your-workforce-is-still-to-come-3-ways-to-avoid-getting-left-behind/"
-    },
-    {
-      "id": 57,
-      "title": "Here's why a yearly ChatGPT subscription might be too good to be true",
-      "summary": "Recent discoveries suggest that ChatGPT Plus might finally offer the yearly subscription Android users have been requesting, despite OpenAI previously not supporting annual plans.",
-      "source": "Gadgethacks.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:04:59Z",
-      "url": "https://android.gadgethacks.com/news/heres-why-a-yearly-chatgpt-subscription-might-be-too-good-to-be-true/"
-    },
-    {
-      "id": 58,
-      "title": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI",
-      "summary": "Business Insider is creating a list of the most influential individuals in AI and machine learning, seeking a diverse range of innovators in the field.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T21:03:28Z",
-      "url": "https://biztoc.com/x/c4ae52dc6d59ee08"
-    },
-    {
-      "id": 59,
-      "title": "vectara-agentic 0.3.1",
-      "summary": "vectara-agentic 0.3.1 is a Python package that allows for the creation of AI Assistants and AI Agents with Vectara, enabling users to build advanced AI technologies for various applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:02:22Z",
-      "url": "https://pypi.org/project/vectara-agentic/0.3.1/"
-    },
-    {
-      "id": 60,
-      "title": "Assemble AI crypto gains 164% in a day – Here’s what happened!",
-      "summary": "Assemble AI cryptocurrency experienced a 164% increase in value in just one day. Top whale holders have acquired over 100 million ASM tokens this week.",
-      "source": "Ambcrypto.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:00:20Z",
-      "url": "https://ambcrypto.com/assemble-ai-crypto-gains-164-in-a-day-heres-what-happened/"
-    },
-    {
-      "id": 61,
-      "title": "What Is Grok? Everything to Know About Elon Musk's AI Tool",
-      "summary": "A deep dive into the advantages and controversies of Grok, Elon Musk's AI tool, and what sets it apart from other generative AI chatbots.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:00:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/what-is-grok-everything-to-know-about-elon-musks-ai-tool/"
-    },
-    {
-      "id": 62,
-      "title": "US Wearable Technology market to grow at a CAGR of 15.4%: Wissen Research",
-      "summary": "US wearable technology market expected to grow at a CAGR of 15.4% from 2025-2030, reaching USD 24 billion",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118201/0/en/US-Wearable-Technology-market-to-grow-at-a-CAGR-of-15-4-Wissen-Research.html"
-    },
-    {
-      "id": 63,
-      "title": "Topnotch Crypto Launches Revolutionary AI-Powered Cloud Mining Platform Ahead of 2025 Cryptocurrency Surge",
-      "summary": "Topnotch Crypto launches AI-powered cloud mining platform ahead of 2025 cryptocurrency surge in Houston, Texas.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118199/0/en/Topnotch-Crypto-Launches-Revolutionary-AI-Powered-Cloud-Mining-Platform-Ahead-of-2025-Cryptocurrency-Surge.html"
-    },
-    {
-      "id": 64,
-      "title": "Much happened at Triumph Financial during the quarter; USPS dispute settled",
-      "summary": "Much happened at Triumph Financial during the quarter; USPS dispute settled - Triumph Financial wrapped up a quarter where lots happened with the company beyond its bottom line.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:59:53Z",
-      "url": "https://finance.yahoo.com/news/much-happened-triumph-financial-during-205953201.html"
     }
   ]
 }
