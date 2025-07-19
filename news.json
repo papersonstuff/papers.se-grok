@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-19T21:31:47.064Z",
+  "lastUpdate": "2025-07-19T21:49:22.551Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Netflix Is Doubling Down on Ads and Dabbling in AI",
+      "summary": "Netflix is expanding its ad network and exploring AI technology as the future of its business.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:48:33Z",
+      "url": "https://biztoc.com/x/13b95458d7d03068"
+    },
+    {
+      "id": 52,
+      "title": "Why Women Are Rejecting the 'Summer Fling' on Dating Apps",
+      "summary": "Some women are rejecting the idea of a summer fling on dating apps, according to a new survey from Hily.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-18T21:48:27Z",
+      "url": "https://biztoc.com/x/3b8b1ad9c28babb7"
+    },
+    {
+      "id": 53,
+      "title": "Taiwan Dollar Strength Tests TSMC Amid AI Chip Boom",
+      "summary": "Taiwan Dollar Strength Tests TSMC Amid AI Chip Boom - Wendell Huang outlines spot sales, forwards and offshore cash moves to guard margins",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:47:04Z",
+      "url": "https://finance.yahoo.com/news/taiwan-dollar-strength-tests-tsmc-214704504.html"
+    },
+    {
+      "id": 54,
+      "title": "Can Generative AI Predict Fashion Trends and Improve Design Efficiency?",
+      "summary": "Researchers in South Korea have explored how generative AI models can forecast trends and improve design efficiency.",
+      "source": "WWD",
+      "category": "research",
+      "timestamp": "2025-07-18T21:45:57Z",
+      "url": "http://wwd.com/fashion-news/fashion-features/ai-fashion-trends-design-efficiency-south-korea-1237986759/"
+    },
+    {
+      "id": 55,
+      "title": "Who Runs the News? The Tug-of-War Between Shareholders and Journalists",
+      "summary": "As Congress pulls the plug on $1.1 billion in funding for NPR and PBS, critics frame it as a strike against media bias, while questioning who we trust to inform us and the objectivity of journalism.",
+      "source": "Skeptic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:45:26Z",
+      "url": "https://www.skeptic.com/article/who-runs-news-tug-of-war-between-shareholders-journalists/"
+    },
+    {
+      "id": 56,
+      "title": "Why Women Are Rejecting the 'Summer Fling' on Dating Apps",
+      "summary": "There's a growing desire especially among women for depth, intentionality, and shared values, even in the context of something temporary, according to Qloo CEO Alex Elias.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:43:36Z",
+      "url": "https://www.newsweek.com/why-women-are-rejecting-summer-fling-dating-apps-2101020"
+    },
+    {
+      "id": 57,
+      "title": "Astronomer CEO Andy Byron's wife Megan Kerrigan Facebook account once had happy pictures but now it's gone. Here’s a look at it",
+      "summary": "Astronomer CEO's wife deletes Facebook account after viral video of him with HR head",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:40:30Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-wife-megan-kerrigan-facebook-account-images-photos-coldplay-concert-kristin-cabot-affair-astronomer-ceo-scandal-family-marriage-sons-viral-video-gillette-stadium-chris-martin/articleshow/122772662.cms"
+    },
+    {
+      "id": 58,
+      "title": "revenium-mcp 0.1.21",
+      "summary": "Revenium-mcp 0.1.21 is a Model Context Protocol (MCP) server designed for Revenium API monitoring, analytics, and AI spending management.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:40:18Z",
+      "url": "https://pypi.org/project/revenium-mcp/0.1.21/"
+    },
+    {
+      "id": 59,
+      "title": "Google launches Gemini Drops and a web page to highlight new stuff",
+      "summary": "Google launches Gemini Drops and a web page to highlight new AI features and updates.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:40:01Z",
+      "url": "https://www.neowin.net/news/google-launches-gemini-drops-and-a-web-page-to-highlight-new-stuff/"
+    },
+    {
+      "id": 60,
+      "title": "Treatment.com AI Engages Marketing Services Providers",
+      "summary": "Treatment.com AI Inc. has engaged marketing services providers 45 Degrees, Inc. and Investment Publishing LLC.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:39:54Z",
+      "url": "https://financialpost.com/globe-newswire/treatment-com-ai-engages-marketing-services-providers"
+    },
+    {
+      "id": 61,
+      "title": "Intel Adds Big Battlemage “BMG-G31” GPU Support To Compute Runtime, Four Device IDs Spotted",
+      "summary": "Intel adds support for the big Battlemage BMG-G31 GPU with four Device IDs in Compute Runtime.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:39:19Z",
+      "url": "https://wccftech.com/intel-adds-big-battlemage-bmg-g31-gpu-support-four-device-ids-spotted/"
+    },
+    {
+      "id": 62,
+      "title": "Company that Coldplay kiss-cam ‘couple’ work for launches investigation after awkward viral moment",
+      "summary": "Company that Coldplay kiss-cam ‘couple’ work for launches investigation after awkward viral moment, sparking ethical considerations regarding privacy and consent.",
+      "source": "TheJournal.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:38:29Z",
+      "url": "https://www.thejournal.ie/company-that-coldplay-kiss-cam-couple-work-for-launches-investigation-after-awkward-viral-moment-6767455-Jul2025/"
+    },
+    {
+      "id": 63,
+      "title": "Pam Bondi Asks to Release Epstein Grand Jury Testimony as Trump Under Fire",
+      "summary": "The Justice Department has requested to unseal the Jeffrey Epstein grand jury transcripts in the midst of controversy surrounding the case.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:37:09Z",
+      "url": "https://biztoc.com/x/3bc94497f0d90abd"
+    },
+    {
+      "id": 64,
+      "title": "Texas Democrat Tells Joe Rogan His Advice to GOP That Trump 'Tapped Into'",
+      "summary": "Texas Democrat urges GOP to focus on competing for young voters rather than suppressing them during Joe Rogan podcast.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:36:55Z",
+      "url": "https://www.newsweek.com/texas-democrat-tells-joe-rogan-his-advice-gop-that-trump-tapped-2101025"
+    },
+    {
+      "id": 65,
+      "title": "Treatment.com AI Engages Marketing Services Providers",
+      "summary": "Treatment.com AI Inc. has engaged marketing services providers 45 Degrees, Inc. and Investment Publishing LLC to further its business goals.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:36:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118217/0/en/Treatment-com-AI-Engages-Marketing-Services-Providers.html"
+    },
+    {
+      "id": 66,
+      "title": "New APOE4 App Uses AI Digital Twins to Help 25% of Population at High Alzheimer's Risk",
+      "summary": "New APOE4 App utilizes AI digital twins to assist individuals at high Alzheimer's risk by matching them with genetically similar people to determine effective interventions.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:34:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118215/0/en/New-APOE4-App-Uses-AI-Digital-Twins-to-Help-25-of-Population-at-High-Alzheimer-s-Risk.html"
+    },
     {
       "id": 51,
       "title": "PraisonAI 2.2.71",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T20:59:53Z",
       "url": "https://finance.yahoo.com/news/much-happened-triumph-financial-during-205953201.html"
-    },
-    {
-      "id": 65,
-      "title": "AdTech’s Inflection Point Signals More Compelling Customer Experiences",
-      "summary": "AdTech is reaching an inflection point, signaling the need for more compelling customer experiences. It has evolved from a simple framework for managing banner ads to a complex ecosystem of different platforms and data technologies.",
-      "source": "Forrester.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:59:52Z",
-      "url": "https://www.forrester.com/blogs/adtechs-inflection-point-signals-more-compelling-customer-experiences/"
-    },
-    {
-      "id": 66,
-      "title": "Hooray! Taxpayers will no longer have to pick up the tab for NPR, PBS’s lefty propaganda",
-      "summary": "Congress is defunding public broadcasting, which means taxpayers will no longer have to support NPR and PBS. Some view this as a positive development, while others may see it as a loss of unbiased media.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:57:26Z",
-      "url": "https://nypost.com/2025/07/18/opinion/hooray-taxpayers-will-no-longer-have-to-pay-for-npr-pbss-lefty-propaganda/"
-    },
-    {
-      "id": 67,
-      "title": "Chris Martin Interrogates Second Couple Immediately After Viral Cheating Scandal At Coldplay Concert",
-      "summary": "Chris Martin interrogated a second couple at a Coldplay concert following a viral cheating scandal, mentioning he got PTSD from the previous couple. This raises ethical concerns about the use of AI in questioning individuals in sensitive or emotionally charged situations.",
-      "source": "Boredpanda.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:56:11Z",
-      "url": "https://www.boredpanda.com/coldplays-chris-martin-grills-next-couple-on-kiss-cam-after-ceo-bust/"
-    },
-    {
-      "id": 68,
-      "title": "TSMC posts record Q2 revenue up 38.6 percent to $31.8 billion",
-      "summary": "TSMC's Q2 revenue hit a record high of $31.8 billion, with a significant increase year-on-year. Advanced node sales drove growth, leading to a raised full-year growth outlook of 30 percent.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:56:00Z",
-      "url": "https://www.notebookcheck.net/TSMC-posts-record-Q2-revenue-up-38-6-percent-to-31-8-billion.1061258.0.html"
-    },
-    {
-      "id": 69,
-      "title": "Disney Goes To War Over Mickey Mouse After Copyright Lapses",
-      "summary": "Disney goes to war over Mickey Mouse copyright after it lapsed, sparking public reaction and chaos.",
-      "source": "Inside the Magic",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:55:50Z",
-      "url": "https://insidethemagic.net/2025/07/disney-goes-to-war-over-mickey-mouse-after-copyright-lapses-cj1/"
-    },
-    {
-      "id": 51,
-      "title": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI",
-      "summary": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:53:00Z",
-      "url": "https://www.businessinsider.com/nominations-open-for-ai-power-list-2025-7"
-    },
-    {
-      "id": 52,
-      "title": "Deals for today: iBUYPOWER Element Pro RTX 9070XT gaming PC Drops to $1,499",
-      "summary": "Deals for iBUYPOWER Element Pro RTX 9070XT gaming PC dropping to $1,499 today, along with discounts on SSDs, graphics cards, and other gaming essentials.",
-      "source": "Rock Paper Shotgun",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:53:00Z",
-      "url": "https://www.rockpapershotgun.com/deals-for-today-ibuypower-element-pro-rtx-9070xt-gaming-pc-drops-to-1499"
-    },
-    {
-      "id": 53,
-      "title": "This is how OpenAI COO Brad Lightcap defines AI agents",
-      "summary": "OpenAI COO Brad Lightcap discusses the definition of AI agents on the company's podcast.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T20:52:24Z",
-      "url": "https://biztoc.com/x/aea11249b9e456da"
-    },
-    {
-      "id": 54,
-      "title": "Creative Industries, Creators & Creatives",
-      "summary": "This series of posts explores how we can rethink the intersection of AI, creativity, and policy, questioning copyright norms and highlighting the risks of stifling innovation.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:52:05Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178413080"
-    },
-    {
-      "id": 55,
-      "title": "Dr. Anosh Ahmed Foundation Announces Plans for AI Data Center Development on Chicago’s West Side",
-      "summary": "Dr. Anosh Ahmed Foundation plans to develop an AI Data Center on Chicago's West Side with international investment and free AI education programs for local youth.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:52:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118197/0/en/Dr-Anosh-Ahmed-Foundation-Announces-Plans-for-AI-Data-Center-Development-on-Chicago-s-West-Side.html"
-    },
-    {
-      "id": 56,
-      "title": "He used money from an Internet of Things startup to jump into AI. Now he has millions to play with",
-      "summary": "BrightAI, a startup that originally focused on Internet of Things, has raised $51 million in a Series A round to develop AI for the physical world.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T20:51:58Z",
-      "url": "https://biztoc.com/x/f83cfd5191d4e53d"
-    },
-    {
-      "id": 57,
-      "title": "xnewsbot 0.5.0",
-      "summary": "xnewsbot 0.5.0 is an AI-powered news bot designed for automating X.com's Twitter account with research and writing abilities.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:51:19Z",
-      "url": "https://pypi.org/project/xnewsbot/0.5.0/"
-    },
-    {
-      "id": 58,
-      "title": "Coldplay Concert Kiss Cam Scandal 'Vibe Coded' Into A Game By Song A Day Guy",
-      "summary": "Coldplay Canoodlers, a video game inspired by the viral Coldplay concert kiss cam incident, has been created by Jonathan Mann, known for uploading a new song to YouTube every day. The game is a unique application of AI technology to bring a real-life event into the gaming world.",
-      "source": "Kotaku",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:50:00Z",
-      "url": "https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603"
-    },
-    {
-      "id": 59,
-      "title": "Microsoft Issues New Windows 11 Builds to Dev and Beta Channels",
-      "summary": "Microsoft issues new Windows 11 builds to Dev and Beta Channels, encouraging PCs enrolled in the Windows Insider Program to check for updates.",
-      "source": "Thurrott.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:49:16Z",
-      "url": "https://www.thurrott.com/windows/windows-11/323539/microsoft-issues-new-windows-11-builds-to-dev-and-beta-channels"
-    },
-    {
-      "id": 60,
-      "title": "GitLab Preps Platform for Building and Managing AI Agents for DevOps Teams",
-      "summary": "GitLab is prepping a platform for building and managing AI agents for DevOps teams, allowing teams to build, manage, and orchestrate AI agents across the software development lifecycle.",
-      "source": "DevOps.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:47:13Z",
-      "url": "https://devops.com/gitlab-preps-platform-for-building-and-managing-ai-agents-for-devops-teams/"
-    },
-    {
-      "id": 61,
-      "title": " Napoli fans taunt Osimhen: \"Pauper, Maradona played here!\" ",
-      "summary": "Napoli fans taunt Victor Osimhen with harsh banners, sparking ethical concerns in the soccer community.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:45:00Z",
-      "url": "https://onefootball.com/en/news/napoli-fans-taunt-osimhen-pauper-maradona-played-here-41394340"
     }
   ]
 }
