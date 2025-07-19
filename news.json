@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-19T15:15:33.194Z",
+  "lastUpdate": "2025-07-19T15:34:40.534Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AMD's Threadripper Pro 9995WX will set you back $11,699, touts 26% speed boost",
+      "summary": "AMD is set to launch the Threadripper Pro 9995WX processor with a 26% speed boost for $11,699, along with four other Ryzen Threadripper Pro processors. The new processors will feature Zen 5 architecture and a more advanced 4nm process, promising significant performance improvements.",
+      "source": "TechSpot",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:34:00Z",
+      "url": "https://www.techspot.com/news/108716-amd-threadripper-pro-9995wx-set-you-back-11699.html"
+    },
+    {
+      "id": 52,
+      "title": "Barclays warns: ’Negative summer seasonality’ is looming",
+      "summary": "Barclays warns of 'negative summer seasonality' leading to elevated volatility in markets during August and September.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T15:33:35Z",
+      "url": "https://finance.yahoo.com/news/barclays-warns-negative-summer-seasonality-153335239.html"
+    },
+    {
+      "id": 53,
+      "title": "Free health clinic coming to Portland Community Center on July 30",
+      "summary": "A free health clinic, scheduled for July 30 at the Portland Community Center, will offer screenings and preventive care to underserved Coastal Bend residents.",
+      "source": "KRIS Corpus Christi News",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:33:31Z",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/portland/free-health-clinic-coming-to-portland-community-center-on-july-30"
+    },
+    {
+      "id": 54,
+      "title": "Is Generative AI Replacing Junior Developers?",
+      "summary": "Generative AI tools are reshaping the first rung on the engineering career ladder, potentially impacting entry-level developers.",
+      "source": "DevOps.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:32:51Z",
+      "url": "https://devops.com/is-generative-ai-replacing-junior-developers/"
+    },
+    {
+      "id": 55,
+      "title": "AI Business Magazine - July 2025",
+      "summary": "AI Business Magazine offers actionable insights and real-world strategies for businesses to integrate AI into their operations, boosting productivity and exploring the latest AI trends.",
+      "source": "Rlsbb.cc",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:32:50Z",
+      "url": "https://post.rlsbb.cc/ai-business-magazine-july-2025/"
+    },
+    {
+      "id": 56,
+      "title": " Napoli: Conte's press conference live on OneFootball",
+      "summary": "Napoli's press conference focuses on preparing for the upcoming 2025/2026 season, highlighting their championship win and future ambitions.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:32:00Z",
+      "url": "https://onefootball.com/en/news/napoli-contes-press-conference-live-on-onefootball-41392222"
+    },
+    {
+      "id": 57,
+      "title": "Show HN: Rove – Ultimate Chat UI for OpenRouter",
+      "summary": "Rove is a chat UI for OpenRouter that aims to provide an ultimate user experience. The platform is designed to enhance communication and streamline interactions through AI technology.",
+      "source": "Rove.chat",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:31:15Z",
+      "url": "https://rove.chat/home"
+    },
+    {
+      "id": 58,
+      "title": "A programmer beat an OpenAI tool at coding. He says the AI made him push himself to win.",
+      "summary": "A programmer beat an OpenAI tool at coding, pushing himself to win. OpenAI congratulated the champion for holding them off at the AtCoder Heuristics World Finals in Tokyo.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:30:24Z",
+      "url": "https://www.businessinsider.com/programmer-beat-openai-atcoder-coding-competition-sam-altman-psyho-2025-7"
+    },
+    {
+      "id": 59,
+      "title": "Woman Bombarded With Mystery Walmart Packages of BBQ Sauce—'Crazy'",
+      "summary": "Chicago resident receives mystery Walmart packages of BBQ sauce, believed to be AI-generated. Raises concerns about privacy and unsolicited deliveries.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:30:07Z",
+      "url": "https://biztoc.com/x/6807ec0b67886e63"
+    },
+    {
+      "id": 60,
+      "title": "Walmart Recall Nationwide: Customers Told to 'Immediately Stop' Using Products",
+      "summary": "Walmart is recalling e-bikes nationwide due to faulty lithium-ion batteries that pose a fire hazard, highlighting ethical concerns with AI-generated voice technology.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:30:05Z",
+      "url": "https://biztoc.com/x/ca65b167b8962b2d"
+    },
+    {
+      "id": 61,
+      "title": "What is Umamusume? The New Viral Horse Racing Game Explained",
+      "summary": "Gamers worldwide are becoming obsessed with Umamusume, a new viral horse racing game that uses AI-generated voices. The game has sparked increased interest in real-life horse racing and support for stables from fans.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:30:04Z",
+      "url": "https://biztoc.com/x/009573b89e5082a1"
+    },
+    {
+      "id": 62,
+      "title": "Video Friday: Robot Metabolism",
+      "summary": "Video Friday features a selection of robotics videos and upcoming robotics events, including a showcase of robot metabolism. ",
+      "source": "Ieee.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:30:03Z",
+      "url": "https://spectrum.ieee.org/video-friday-robot-metabolism"
+    },
+    {
+      "id": 63,
+      "title": "AWS CEO Matt Garman bets big on AI agents – but so are OpenAI and everyone else",
+      "summary": "AWS CEO Matt Garman is focusing on AI agents, joining other companies like OpenAI in pushing the development of artificial intelligence capabilities.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:29:45Z",
+      "url": "https://siliconangle.com/2025/07/18/aws-ceo-matt-garman-bets-big-ai-agents-openai-everyone-else/"
+    },
+    {
+      "id": 64,
+      "title": "Dreaming of a career in AI? These US universities are leading the charge",
+      "summary": "Dreaming of a career in AI? These US universities are leading the charge in artificial intelligence and data science education according to the QS World University Rankings 2024.",
+      "source": "The Times of India",
+      "category": "research",
+      "timestamp": "2025-07-18T15:29:39Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/dreaming-of-a-career-in-ai-these-us-universities-are-leading-the-charge/articleshow/122768664.cms"
+    },
+    {
+      "id": 65,
+      "title": "AI in Focus",
+      "summary": "The latest AI in Focus breaking news, comment, reviews and features from the experts at Creative Bloq",
+      "source": "Creative Bloq",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:28:49Z",
+      "url": "https://www.creativebloq.com/tag/ai-in-focus"
+    },
+    {
+      "id": 66,
+      "title": "US government wants to ban Chinese technology in submarine cables",
+      "summary": "US government wants to ban Chinese technology in submarine cables to secure them from foreign adversaries.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:28:00Z",
+      "url": "https://www.techradar.com/pro/security/us-government-wants-to-ban-chinese-technology-in-submarine-cables"
+    },
+    {
+      "id": 67,
+      "title": "When Will You See AI-Generated Content on Netflix? It's Possible You Already Have",
+      "summary": "A graphic-novel adaptation from Argentina already used AI to generate final footage, potentially paving the way for more AI-generated content on Netflix in the future.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:27:11Z",
+      "url": "https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/"
+    },
     {
       "id": 51,
       "title": "How to Crash Out Mindfully",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T14:33:00Z",
       "url": "https://www.techtarget.com/searchoracle/definition/MySQL"
-    },
-    {
-      "id": 57,
-      "title": "Medical Filtration Company Benchmark Report 2025 | Merck KGaA, 3M, and Danaher Strengthen Medical Filtration Market Leadership Through Strategic Expansions, Spin-Offs, and Mergers",
-      "summary": "The Medical Filtration Companies Quadrant report analyzes the global medical filtration market, highlighting key players such as Merck KGaA, 3M, and Danaher. These companies are strengthening their market leadership through strategic expansions, spin-offs, and mergers, reflecting ongoing advancements and trends in the medical filtration industry.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T14:32:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118013/28124/en/Medical-Filtration-Company-Benchmark-Report-2025-Merck-KGaA-3M-and-Danaher-Strengthen-Medical-Filtration-Market-Leadership-Through-Strategic-Expansions-Spin-Offs-and-Mergers.html"
-    },
-    {
-      "id": 58,
-      "title": "ASRock Cranks The Hype Dial To 11 On 'Exciting' New X870 And X870E Motherboards",
-      "summary": "ASRock is generating excitement with its new X870 and X870E motherboards for AMD Ryzen builds, showcasing innovation in motherboard technology.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:32:00Z",
-      "url": "https://hothardware.com/news/asrock-cranks-the-hype-dial-to-11-on-exciting-new-x870-and-x870e"
-    },
-    {
-      "id": 59,
-      "title": "Scientists Discover a New Phase of Game Show!",
-      "summary": "Scientists have discovered a new phase of game show which provides insight into the physics of phase transitions using random votes, open pipes, and water.",
-      "source": "Condmat.org",
-      "category": "research",
-      "timestamp": "2025-07-18T14:30:28Z",
-      "url": "https://condmat.org/p/scientists-discover-a-new-phase-of"
-    },
-    {
-      "id": 60,
-      "title": "OpenAI Quietly Turns to Google to Stay Online",
-      "summary": "OpenAI, the powerful AI company, turned to Google for help to stay online, highlighting the financial challenges even the biggest players in the industry face.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:30:08Z",
-      "url": "https://gizmodo.com/openai-quietly-turns-to-google-to-stay-online-2000631252"
-    },
-    {
-      "id": 61,
-      "title": "Meet Aprilynne Alter, who’s helping YouTubers go pro with her Creator Crew bootcamp",
-      "summary": "Meet Aprilynne Alter, who’s helping YouTubers go pro with her Creator Crew bootcamp. She set herself a deadline of one year to figure out her future, transitioning from hospitality operations to pursuing her childhood dream of becoming a writer.",
-      "source": "Tubefilter",
-      "category": "startups",
-      "timestamp": "2025-07-18T14:30:06Z",
-      "url": "https://www.tubefilter.com/2025/07/18/aprilynne-alter-creator-crew-spotify/"
-    },
-    {
-      "id": 51,
-      "title": "Image Comics: Frank J. Barbiere & Morgan Beem's The Author Immortal",
-      "summary": "Frank J. Barbiere and Morgan Beem are teaming up to launch a new comic book series called The Author Immortal with Image Comics, blending elements of metafiction and portal fantasy.",
-      "source": "Bleeding Cool News",
-      "category": "startups",
-      "timestamp": "2025-07-18T14:13:05Z",
-      "url": "https://bleedingcool.com/comics/image-comics-frank-j-barbiere-morgan-beems-the-author-immortal/"
-    },
-    {
-      "id": 52,
-      "title": "Microfiltration Membranes Company Evaluation Report 2024-2025 | Merck and Veolia Lead in Microfiltration Market with Strategic Moves",
-      "summary": "Microfiltration Membranes Company Evaluation Report 2024-2025 highlights key market trends and technological advancements in the global microfiltration segment, with Merck and Veolia leading in the market.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:13:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118001/28124/en/Microfiltration-Membranes-Company-Evaluation-Report-2024-2025-Merck-and-Veolia-Lead-in-Microfiltration-Market-with-Strategic-Moves.html"
-    },
-    {
-      "id": 53,
-      "title": "Oracle's AI-driven surge: Can its stock rally last?",
-      "summary": "Oracle's stock has surged more than 45% this year due to massive cloud deals, outperforming AI-centric companies like Nvidia and Meta.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:12:58Z",
-      "url": "https://biztoc.com/x/6029862c853f65ee"
-    },
-    {
-      "id": 54,
-      "title": "Alpha School is doing something remarkable",
-      "summary": "Alpha School is redefining education in a remarkable way according to an anonymous parent, who believes that the current descriptions do not capture the true essence of the learning experience.",
-      "source": "Isegoria.net",
-      "category": "innovation",
-      "timestamp": "2025-07-18T14:12:58Z",
-      "url": "https://www.isegoria.net/2025/07/alpha-school-is-doing-something-remarkable/"
-    },
-    {
-      "id": 55,
-      "title": "Analyst Explains Impact of Trump’s Bill on Tesla (TSLA) – ‘Direct Hit to Cash Flow’",
-      "summary": "Analyst explains impact of Trump's bill on Tesla, predicting a direct hit to cash flow",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:12:47Z",
-      "url": "https://biztoc.com/x/3414897b11c28f4e"
-    },
-    {
-      "id": 56,
-      "title": "After Cheating Scandal At Coldplay Concert, Man Shares Violent School Story About “Sociopath” CEO",
-      "summary": "After a cheating scandal at a Coldplay concert, a man shares a violent school story about a 'sociopath' CEO, stating 'Karma always catches up'.",
-      "source": "Boredpanda.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:12:36Z",
-      "url": "https://www.boredpanda.com/man-claims-ceo-caught-cheating-coldplay-concert-beat-him-up-when-they-were-kids/"
-    },
-    {
-      "id": 57,
-      "title": "Owner Takes Dog to Day Care To Make Friends—Then Checks the Footage",
-      "summary": "A dog owner takes their pet to day care to make friends, but instead captures heartwarming footage that goes viral on TikTok.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T14:12:30Z",
-      "url": "https://biztoc.com/x/4ef9aa7c0c9d1795"
-    },
-    {
-      "id": 58,
-      "title": "NATO Warns Russia About Seizing Territory in Europe",
-      "summary": "NATO commander warns Russia about seizing territory in Europe, using AI-generated voice which may lead to inconsistencies",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:12:23Z",
-      "url": "https://biztoc.com/x/0f932b067446be51"
-    },
-    {
-      "id": 59,
-      "title": "Map Shows Where Social Security Goes Furthest in Retirement",
-      "summary": "Map Shows Where Social Security Goes Furthest in Retirement - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:12:00Z",
-      "url": "https://biztoc.com/x/a301ebf2681d44d3"
-    },
-    {
-      "id": 60,
-      "title": "Refrigerants Industry Company Evaluation Report 2025 | Honeywell and Chemours Lead Global Market with Strategic Initiatives, Linde PLC Strengthens Position through Innovation and Expansion",
-      "summary": "Refrigerants Industry Company Evaluation Report 2025 highlights top players like Honeywell and Chemours, with Linde PLC strengthening its position through innovation and expansion in the global market.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-18T14:12:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118000/28124/en/Refrigerants-Industry-Company-Evaluation-Report-2025-Honeywell-and-Chemours-Lead-Global-Market-with-Strategic-Initiatives-Linde-PLC-Strengthens-Position-through-Innovation-and-Expa.html"
-    },
-    {
-      "id": 61,
-      "title": "Indeed and Glassdoor Just Laid Off 1,300 Employees, Citing AI",
-      "summary": "Indeed and Glassdoor laid off 1,300 employees with AI cited as the reason, setting an example for clear communication in leadership during job cuts.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T14:11:58Z",
-      "url": "https://biztoc.com/x/d3004e9e31173676"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI warns that its new ChatGPT Agent has the ability to aid dangerous bioweapon development",
-      "summary": "OpenAI warns that its new ChatGPT Agent has the ability to aid dangerous bioweapon development, posing heightened bioweapon risks. The tool is designed to automate everyday tasks but safety researchers found it could potentially help novices create biological threats.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T14:11:58Z",
-      "url": "https://biztoc.com/x/d882b77899d83a3a"
     }
   ]
 }
