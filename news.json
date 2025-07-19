@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T09:34:19.099Z",
+  "lastUpdate": "2025-07-19T09:49:45.743Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Customer experience remains central to SBI's growth strategy: Chairman",
+      "summary": "State Bank of India prioritizes customer experience in their growth strategy, leading to being named 'World's Best Consumer Bank' for 2025 by Global Finance magazine.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:48:45Z",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/customer-experience-remains-central-to-sbis-growth-strategy-chairman/articleshow/122762430.cms"
+    },
+    {
+      "id": 52,
+      "title": "Show HN: I created a resource to find the best AI apps for Real Estate",
+      "summary": "Created a resource to find the best AI apps for Real Estate after spending hours researching different tools for business automation in real estate.",
+      "source": "Propertyaitools.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:48:12Z",
+      "url": "https://www.propertyaitools.com/"
+    },
+    {
+      "id": 53,
+      "title": "OpenAI: GPT-5 is coming, \"we'll see\" if it creates a shockwave",
+      "summary": "OpenAI is working on their next state-of-the-art model, GPT-5, but the release date is still unknown. The impact of GPT-5 on the AI field remains to be seen.",
+      "source": "BleepingComputer",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:47:46Z",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/"
+    },
+    {
+      "id": 54,
+      "title": "LameHug: first AI-Powered malware linked to Russia’s APT28",
+      "summary": "LameHug malware, the first AI-Powered malware linked to Russia's APT28, utilizes AI to create data-theft commands on infected Windows systems. Ukrainian CERT-UA warns of this new malware strain that uses a large language model to generate commands.",
+      "source": "Securityaffairs.com",
+      "category": "research",
+      "timestamp": "2025-07-18T09:47:36Z",
+      "url": "https://securityaffairs.com/180092/apt/lamehug-first-ai-powered-malware-linked-to-russias-apt28.html"
+    },
+    {
+      "id": 55,
+      "title": "Disruptive Innovation and Commercialisation in Earth Observation Training Course is now open for applications",
+      "summary": "Disruptive Innovation and Commercialisation in Earth Observation Training Course is now open for applications at the ESA Education Training Centre in ESEC-Galaxia from 8 to 11 December 2025.",
+      "source": "Esa.int",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:47:00Z",
+      "url": "https://www.esa.int/Education/ESA_Academy/Disruptive_Innovation_and_Commercialisation_in_Earth_Observation_Training_Course_is_now_open_for_applications"
+    },
+    {
+      "id": 56,
+      "title": "Facebook Deletes 10 Million Accounts And Warns The Purge Will Go On",
+      "summary": "Meta has confirmed that 10 million Facebook accounts have been deleted and the purge will continue, raising ethical questions about privacy and data protection on social media platforms.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:46:04Z",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/07/18/facebook-deletes-10-million-accounts-and-warns-the-purge-will-go-on/"
+    },
+    {
+      "id": 57,
+      "title": "Dog Desperate for Cuddles Not Allowed on the Couch—but He Has a Plan",
+      "summary": "A cuddly Border collie uses AI-generated voice to express his desire for affection and his clever plan to get on the couch, gaining popularity on TikTok.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:45:40Z",
+      "url": "https://biztoc.com/x/5595abbe67f7b77b"
+    },
+    {
+      "id": 58,
+      "title": "Coldplay Reacts to Astronomer CEO Andy Byron's Kiss Cam Moment",
+      "summary": "Coldplay frontman Chris Martin reacts to Astronomer CEO Andy Byron's kiss cam moment, created by an AI-generated voice. Byron and HR chief Kristin Cabot face cheating allegations.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:45:29Z",
+      "url": "https://biztoc.com/x/b2bf517b166d70da"
+    },
+    {
+      "id": 59,
+      "title": "92 Percent of People Don’t Check Their AI Answers, a New Report Warns",
+      "summary": "Recent research finds very few people check the accuracy of answers given by an AI tool, highlighting the importance of discussing best practices for using artificial intelligence.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:45:15Z",
+      "url": "https://biztoc.com/x/99efa9078b1c3cca"
+    },
+    {
+      "id": 60,
+      "title": "What everyone’s missing about the future of Android — and ChromeOS",
+      "summary": "Everyone is talking about the potential merging of Android and ChromeOS, sparking a sense of déjà vu in the tech community as similar discussions have happened before. This move is seen as an innovative step towards the future of these operating systems.",
+      "source": "Computerworld",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:45:00Z",
+      "url": "https://www.computerworld.com/article/4023608/android-chromeos-merger.html"
+    },
+    {
+      "id": 61,
+      "title": "William Blair Reiterates “Outperform” Rating for Simulations Plus (NASDAQ:SLP)",
+      "summary": "William Blair reissued their outperform rating on shares of Simulations Plus (NASDAQ:SLP – Free Report) in a research report sent to investors, with estimates for FY2026 earnings at $0.86 EPS.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-18T09:44:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/william-blair-reiterates-outperform-rating-for-simulations-plus-nasdaqslp/"
+    },
+    {
+      "id": 62,
+      "title": "New OpenAI ChatGPT Agent : The AI Tool That Does It All, So You Don’t Have To",
+      "summary": "The new OpenAI ChatGPT Agent is an innovative AI tool designed to handle tedious tasks and constantly improve. It combines advanced capabilities into a single system for more efficient and effective productivity.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:43:55Z",
+      "url": "https://www.geeky-gadgets.com/chatgpt-agent/"
+    },
+    {
+      "id": 63,
+      "title": "Delta to determine 20% of fares individually using AI by YE, Fortune reports",
+      "summary": "Delta plans to determine 20% of fares individually using AI by the end of the year, as reported by Fortune.",
+      "source": "Thefly.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:43:14Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4161930/DAL-Delta-to-determine--of-fares-individually-using-AI-by-YE-Fortune-reports"
+    },
+    {
+      "id": 64,
+      "title": "Opinion: Is the Great American Economic Machine Ready to Produce Prosperity?",
+      "summary": "Opinion piece discussing whether the American economy is poised to create prosperity.",
+      "source": "Boston Herald",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:42:12Z",
+      "url": "https://www.bostonherald.com/2025/07/18/opinion-is-the-great-american-economic-machine-ready-to-produce-prosperity/"
+    },
+    {
+      "id": 65,
+      "title": "Pressure Transmitter Company Evaluation Report 2025 | Emerson, Yokogawa, and Endress+Hauser Lead the Industry",
+      "summary": "Pressure transmitters play a key role in industries such as oil & gas, chemicals, and power generation by converting pressure readings into digital or analog signals for real-time system control.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:41:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117784/28124/en/Pressure-Transmitter-Company-Evaluation-Report-2025-Emerson-Yokogawa-and-Endress-Hauser-Lead-the-Industry.html"
+    },
+    {
+      "id": 66,
+      "title": "Virturo Broker Launches Enhanced AI-Powered Trading Suite at London Investor Summit",
+      "summary": "Virturo Broker launches enhanced AI-powered trading suite at London Investor Summit, showcasing next-generation trading technologies for high-net-worth clients.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:41:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117783/0/en/Virturo-Broker-Launches-Enhanced-AI-Powered-Trading-Suite-at-London-Investor-Summit.html"
+    },
+    {
+      "id": 67,
+      "title": "Alienware 16 Area-51 review: \"it's back, baby\"",
+      "summary": "The Alienware 16 Area-51 is a powerful machine with impressive benchmarks, making it a noteworthy innovation in the laptop market.",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:40:22Z",
+      "url": "https://www.gamesradar.com/hardware/laptops/alienware-16-area-51-review/"
+    },
+    {
+      "id": 68,
+      "title": "Trump’s AI Action Plan Set to Expand Energy Sources for Data Centers",
+      "summary": "Trump's AI Action Plan aims to expand energy sources for data centers, potentially impacting the economy through policy guidelines and regulatory changes.",
+      "source": "OilPrice.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:40:05Z",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-AI-Action-Plan-Set-to-Expand-Energy-Sources-for-Data-Centers.html"
+    },
+    {
+      "id": 69,
+      "title": "Penny Pennington of investment advice firm Edward Jones: ‘We’re a health and wellbeing company’",
+      "summary": "Penny Pennington of investment advice firm Edward Jones emphasizes the company's focus on health and wellbeing, positioning themselves as a health and wellbeing company. Additionally, Fortune covers all the latest news and watercooler chat in the industry.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:39:41Z",
+      "url": "https://fortune.com/2025/07/18/penny-pennington-edward-jones-health-and-wellbeing/"
+    },
+    {
+      "id": 70,
+      "title": "OpenAI Launches ChatGPT Agent Mode: What It Could Mean for the Travel Industry",
+      "summary": "OpenAI launches ChatGPT Agent mode which could be a game changer for the travel industry by allowing real bookings, but the question arises whether people will trust AI with their money, logins, and bank details.",
+      "source": "Skift",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:39:00Z",
+      "url": "http://skift.com/2025/07/18/openai-launches-chatgpt-agent-mode-what-it-could-mean-for-the-travel-industry/"
+    },
     {
       "id": 51,
       "title": "Narayana Murthy says he knows someone already working 100 hours a week in a chat on Bengaluru-Mumbai flight",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T09:09:11Z",
       "url": "https://www.gadgets360.com/mobiles/news/lava-blaze-dragon-india-launch-date-design-amazon-availability-features-expected-8899900"
-    },
-    {
-      "id": 62,
-      "title": "【動画】海外のパワーボーイ、レベチｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "summary": "A video of a foreign 'power boy' showcasing his abilities is circulating online, showcasing impressive skills. The video demonstrates the application of AI technology in enhancing human capabilities.",
-      "source": "Matometanews.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:09:00Z",
-      "url": "http://matometanews.com/archives/2104913.html"
-    },
-    {
-      "id": 63,
-      "title": "I'm a 28-year-old AI engineer in Big Tech. Here's my advice for others who want to break into this growing field.",
-      "summary": "28-year-old Kriti Goyal shares advice on breaking into the AI field by leveraging education and networking. She used her master's degree to succeed at a Big Tech company in the US.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:08:01Z",
-      "url": "https://www.businessinsider.com/advice-on-how-to-land-big-tech-ai-job-education-2025-7"
-    },
-    {
-      "id": 64,
-      "title": "AI Angel Investors - No Cap Evaluates Startups With Data-Driven AI Investment Insights (TrendHunter.com)",
-      "summary": "No Cap is the world’s first AI angel investor, using artificial intelligence to evaluate startups for early-stage investment decisions.",
-      "source": "Trendhunter.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T09:07:05Z",
-      "url": "https://www.trendhunter.com/trends/no-cap"
-    },
-    {
-      "id": 65,
-      "title": "Agents are advancing, fast. Security Needs to Keep Pace",
-      "summary": "Agent adoption is advancing rapidly, highlighting the need for security measures to keep up with the pace of innovation in AI technology.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:06:46Z",
-      "url": "https://www.techradar.com/pro/agents-are-advancing-fast-security-needs-to-keep-pace"
-    },
-    {
-      "id": 66,
-      "title": "Span Group: Expansion to Greece, Cyprus, Malta",
-      "summary": "Span Group has established Span Hellas to expand its presence in Greece, Cyprus, and Malta, reflecting its confidence in the market of these countries.",
-      "source": "Naftemporiki.gr",
-      "category": "expansion",
-      "timestamp": "2025-07-18T09:06:16Z",
-      "url": "https://www.naftemporiki.gr/english/1983207/span-group-expansion-to-greece-cyprus-malta/"
-    },
-    {
-      "id": 67,
-      "title": "Livestock Identification Company Evaluation Report 2025 | Merck, Shearwell, Datamars Drive Innovations with Comprehensive Tagging and Tracking Solutions",
-      "summary": "Livestock identification companies such as Merck, Shearwell, and Datamars are driving innovations in tagging and tracking solutions. The evaluation report highlights the top 25 leaders in this market, focusing on key players, product innovations, and technological trends.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117776/28124/en/Livestock-Identification-Company-Evaluation-Report-2025-Merck-Shearwell-Datamars-Drive-Innovations-with-Comprehensive-Tagging-and-Tracking-Solutions.html"
-    },
-    {
-      "id": 68,
-      "title": "Smarter Denoising, GPU Boost & Faster Exports – Aiarty Video Enhancer Update + Special Offer",
-      "summary": "Aiarty Video Enhancer has updated its software with expanded GPU support, faster performance, and smarter denoising capabilities, making it easier to enhance video footage. Users can upscale, deblur, denoise, and enhance their videos with natural, texture-preserving cleanups.",
-      "source": "Mirrorlessrumors.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:04:50Z",
-      "url": "https://www.mirrorlessrumors.com/smarter-denoising-gpu-boost-faster-exports-aiarty-video-enhancer-update-special-offer/"
-    },
-    {
-      "id": 69,
-      "title": "aiwand 0.4.2",
-      "summary": "aiwand 0.4.2 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:03:24Z",
-      "url": "https://pypi.org/project/aiwand/0.4.2/"
-    },
-    {
-      "id": 70,
-      "title": "How Estonia outpaced the rest of Europe at digitalization",
-      "summary": "Estonia has outpaced Europe in digitalization by digitizing all government services, including applying for divorce, while other countries like Germany are described as analogue. This has led to Estonia becoming Europe's digital leader.",
-      "source": "DW (English)",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:03:00Z",
-      "url": "https://www.dw.com/en/how-estonia-outpaced-the-rest-of-europe-at-digitalization/a-73098771"
-    },
-    {
-      "id": 51,
-      "title": "R&S: la Cina ha raggiunto gli Stati Uniti in poco più di venti anni",
-      "summary": "R&S: la Cina ha raggiunto gli Stati Uniti in poco più di venti anni",
-      "source": "Il Sole 24 Ore",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:43:31Z",
-      "url": "https://www.infodata.ilsole24ore.com/2025/07/18/rs-la-cina-ha-raggiunto-gli-stati-uniti-in-poco-piu-di-venti-anni/"
-    },
-    {
-      "id": 52,
-      "title": "Use MS Copilot Studio to Create a Custom AI Assistant for Work : No Coding Required",
-      "summary": "Use Microsoft Copilot Studio to easily create a custom AI assistant for work without needing to code, making it accessible to anyone looking to simplify their day-to-day tasks.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:42:50Z",
-      "url": "https://www.geeky-gadgets.com/microsoft-copilot-studio-create-a-custom-ai-assistant-no-coding-required/"
-    },
-    {
-      "id": 53,
-      "title": "Barclays Raised the Firm’s PT on 3M Company (MMM), Kept an Overweight Rating",
-      "summary": "Barclays raised the firm’s price target on 3M Company and kept an overweight rating, indicating it is undervalued. This news may impact the stock market and economy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:42:00Z",
-      "url": "https://finance.yahoo.com/news/barclays-raised-firm-pt-3m-084200446.html"
-    },
-    {
-      "id": 54,
-      "title": "QUALCOMM Incorporated (QCOM) to Power The New Samsung Galaxy Z Fold7",
-      "summary": "QUALCOMM Incorporated to power the new Samsung Galaxy Z Fold7, considered one of the most undervalued high quality stocks to buy according to hedge funds.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:41:56Z",
-      "url": "https://finance.yahoo.com/news/qualcomm-incorporated-qcom-power-samsung-084156244.html"
-    },
-    {
-      "id": 55,
-      "title": "Honor 400 Pro review: Is this near-flagship phone worth buying?",
-      "summary": "The review of the Honor 400 Pro smartphone evaluates its performance, photography capabilities, and multitasking features, helping potential buyers assess its value. The article also includes affiliate links for purchasing the phone, which may generate a small commission for the website.",
-      "source": "CNA",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:41:43Z",
-      "url": "https://cnalifestyle.channelnewsasia.com/buyers-guide/honor-400-pro-review-468181"
-    },
-    {
-      "id": 56,
-      "title": "Government AI Platforms - Bloomberg Government Launched AI-Powered Federal Budget Management System (TrendHunter.com)",
-      "summary": "Bloomberg Government introduced an AI-powered platform for federal budget management, aimed at simplifying tracking, allocation, and reporting of spending through automated processes.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:41:06Z",
-      "url": "https://www.trendhunter.com/trends/bloomberg-government"
-    },
-    {
-      "id": 57,
-      "title": "How to Optimize for AI Search Results in 2025",
-      "summary": "Learn AI search optimization tactics to get cited by ChatGPT, Perplexity, and Google AI Overviews to capture high-intent traffic in 2025.",
-      "source": "Semrush.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:41:00Z",
-      "url": "https://www.semrush.com/blog/ai-search-optimization/"
-    },
-    {
-      "id": 58,
-      "title": "ADNOC to Transfer OMV Stake to Its Global Investment Arm",
-      "summary": "ADNOC is transferring its stake in OMV to its global investment arm XRG, as part of its strategy to consolidate international growth investments.",
-      "source": "Rigzone",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:39:35Z",
-      "url": "https://www.rigzone.com/news/adnoc_to_transfer_omv_stake_to_its_global_investment_arm-18-jul-2025-181188-article/"
-    },
-    {
-      "id": 59,
-      "title": "That free lunch your boss is offering might just be a way to get you back into the office",
-      "summary": "AI customer service platform Sendbird offers a free lunch on Fridays to employees who come into the office, which has successfully encouraged more workers to return to the office.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:38:44Z",
-      "url": "https://biztoc.com/x/2cc0697d360f339f"
-    },
-    {
-      "id": 60,
-      "title": "Honda’s new super low-cost electric motorcycle could come at the perfect time",
-      "summary": "Honda's new super low-cost electric motorcycle could come at the perfect time, as revealed in recent patent images.",
-      "source": "Electrek",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:37:49Z",
-      "url": "http://electrek.co/2025/07/18/hondas-new-super-low-cost-electric-motorcycle-could-come-at-the-perfect-time/"
-    },
-    {
-      "id": 61,
-      "title": "US approval of Nvidia AI chip exports to China more than meets eye",
-      "summary": "Washington has approved shipments of Nvidia's AI chips to China, seen as a compromise for geopolitical and commercial reasons.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:34:57Z",
-      "url": "https://www.digitimes.com/news/a20250718PD218/nvidia-exports-ai-chip-shipments-chips.html"
     }
   ]
 }
