@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T21:14:14.456Z",
+  "lastUpdate": "2025-07-19T21:31:47.064Z",
   "items": [
+    {
+      "id": 51,
+      "title": "PraisonAI 2.2.71",
+      "summary": "PraisonAI 2.2.71 is an AI Agents Framework with Self Reflection that offers a low-code solution for building and managing multi-agent LLM systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:30:17Z",
+      "url": "https://pypi.org/project/praisonai/2.2.71/"
+    },
+    {
+      "id": 52,
+      "title": "Despite Progress, Healthcare Cybersecurity Is Still Falling Short",
+      "summary": "Despite progress in healthcare cybersecurity, vulnerabilities still exist, especially in AI governance. Fortified Health Security CEO emphasizes the need for industry action.",
+      "source": "MedCity News",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:30:00Z",
+      "url": "https://medcitynews.com/2025/07/hospitals-healthcare-cybersecurity/"
+    },
+    {
+      "id": 53,
+      "title": "\"I don't think I changed his mind\" — NVIDIA CEO comments on H20 AI GPU sales resuming in China following a meeting with President Trump",
+      "summary": "NVIDIA's H20 AI GPUs are allowed to be sold in China again after restrictions were lifted by the Trump administration, with the CEO stating he believes he did not influence the decision.",
+      "source": "Windows Central",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:30:00Z",
+      "url": "https://www.windowscentral.com/hardware/nvidia/nvidia-ceo-comments-h20-ban-reversal-trump"
+    },
+    {
+      "id": 54,
+      "title": "reAlpha Tech Corp. Announces Closing of $2 Million Public Offering",
+      "summary": "reAlpha Tech Corp., an AI-powered real estate technology company, closed a $2 million public offering. The company announced the closing of its previously announced public offering of 13,333,334 shares.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:29:45Z",
+      "url": "https://financialpost.com/globe-newswire/realpha-tech-corp-announces-closing-of-2-million-public-offering"
+    },
+    {
+      "id": 55,
+      "title": "Tech companies and operating margins: Seven lead the way",
+      "summary": "The top seven technology firms with the highest operating returns were revealed in a recent assessment, showcasing their strong performance in the market.",
+      "source": "Digital Journal",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:29:42Z",
+      "url": "https://www.digitaljournal.com/business/tech-companies-and-operating-margins-seven-lead-the-way/article"
+    },
+    {
+      "id": 56,
+      "title": "Report: Claude users experienced unannounced usage limit reductions",
+      "summary": "Report: Users of AI assistant Claude experienced unannounced usage limit reductions, specifically affecting those on the top-end Max tier costing $200 a month.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:29:03Z",
+      "url": "https://siliconangle.com/2025/07/18/report-claude-users-experienced-unannounced-usage-limit-reductions/"
+    },
+    {
+      "id": 57,
+      "title": "praisonaiagents 0.0.144",
+      "summary": "praisonaiagents 0.0.144 introduces Praison AI agents capable of completing complex tasks with Self Reflection Agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:26:37Z",
+      "url": "https://pypi.org/project/praisonaiagents/0.0.144/"
+    },
+    {
+      "id": 58,
+      "title": "Citi and Ant International Pilot AI-Enhanced FX Risk Management Solution",
+      "summary": "Citi and Ant International are piloting an AI-enhanced FX risk management solution for eCommerce businesses.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:25:58Z",
+      "url": "https://biztoc.com/x/9c9aca250a2fe86a"
+    },
+    {
+      "id": 59,
+      "title": "yandex-yc-ai-bindings 66.0.3",
+      "summary": "yandex-yc-ai-bindings 66.0.3 is a package designed to prevent Dependency Confusion attacks against Yandex, enhancing security for AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:25:22Z",
+      "url": "https://pypi.org/project/yandex-yc-ai-bindings/66.0.3/"
+    },
+    {
+      "id": 60,
+      "title": "yandex-yc-ai-bindings added to PyPI",
+      "summary": "yandex-yc-ai-bindings added to PyPI - A package to prevent Dependency Confusion attacks against Yandex.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:25:22Z",
+      "url": "https://pypi.org/project/yandex-yc-ai-bindings/"
+    },
+    {
+      "id": 61,
+      "title": "reAlpha Tech Corp. Announces Closing of $2 Million Public Offering",
+      "summary": "reAlpha Tech Corp. closed a $2 million public offering as an AI-powered real estate technology company.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:25:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118212/0/en/reAlpha-Tech-Corp-Announces-Closing-of-2-Million-Public-Offering.html"
+    },
+    {
+      "id": 62,
+      "title": "evidently 0.7.11",
+      "summary": "0.7.11 is an open-source tool designed to analyze, monitor, and debug machine learning models in production.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:23:52Z",
+      "url": "https://pypi.org/project/evidently/0.7.11/"
+    },
+    {
+      "id": 63,
+      "title": "Who calls the shots at your workplace: your boss or a bot?",
+      "summary": "Some workplaces are seeing an increase in reliance on AI for decision making, raising questions about whether managers are abdicating their responsibilities to technology.",
+      "source": "Digital Journal",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:19:38Z",
+      "url": "https://www.digitaljournal.com/business/who-calls-the-shots-at-your-workplace-your-boss-or-a-bot/article"
+    },
+    {
+      "id": 64,
+      "title": "Optiva Inc. enters into Support Agreement with Holders of Approximately 85% of Outstanding Senior Secured Notes to Provide 45-Day Period to Continue Negotiations with Noteholders and Third Parties regarding a Potential Transaction",
+      "summary": "Optiva Inc. enters into Support Agreement with Holders of Approximately 85% of Outstanding Senior Secured Notes to Provide 45-Day Period to Continue Negotiations with Noteholders and Third Parties regarding a Potential Transaction - Optiva is in negotiations with its existing noteholders and certain third parties regarding a potential transaction that would result in the exchange of Optiva’s outstanding notes for a combination of shares and new notes of a proforma merged strategic third",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:19:35Z",
+      "url": "https://financialpost.com/globe-newswire/optiva-inc-enters-into-support-agreement-with-holders-of-approximately-85-of-outstanding-senior-secured-notes-to-provide-45-day-period-to-continue-negotiations-with-noteholders-and-third-parties-rega"
+    },
+    {
+      "id": 65,
+      "title": "OpenAI unveils ChatGPT Agent: AI for complex tasks with a higher risk of financial theft and bioweapon creation",
+      "summary": "OpenAI unveils ChatGPT Agent for complex tasks with a higher risk of financial theft and bioweapon creation, potentially posing ethical concerns.",
+      "source": "Notebookcheck.net",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:19:00Z",
+      "url": "https://www.notebookcheck.net/OpenAI-unveils-ChatGPT-Agent-AI-for-complex-tasks-with-a-higher-risk-of-financial-theft-and-bioweapon-creation.1061433.0.html"
+    },
+    {
+      "id": 66,
+      "title": "praisonaiagents 0.0.143",
+      "summary": "Praison AI agents 0.0.143 allows for completing complex tasks with Self Reflection Agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:18:22Z",
+      "url": "https://pypi.org/project/praisonaiagents/0.0.143/"
+    },
+    {
+      "id": 67,
+      "title": "Why iOS 26 turns Apple Notes into the productivity powerhouse you never knew you needed",
+      "summary": "The iOS 26 update is turning Apple Notes into a powerful productivity tool, offering users a free alternative to paid note-taking subscriptions.",
+      "source": "Gadgethacks.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:18:03Z",
+      "url": "https://ios.gadgethacks.com/news/why-ios-26-turns-apple-notes-into-the-productivity-powerhouse-you-never-knew-you-needed/"
+    },
+    {
+      "id": 68,
+      "title": "Citi and Ant International Pilot AI-Enhanced FX Risk Management Solution",
+      "summary": "Citi and Ant International are piloting an AI-enhanced FX risk management solution for businesses selling through eCommerce channels.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:16:08Z",
+      "url": "http://www.pymnts.com/partnerships/2025/citi-ant-international-pilot-ai-enhanced-fx-risk-management-solution/"
+    },
+    {
+      "id": 69,
+      "title": "Jim Cramer: ‘Apple could become number one in AI immediately if it bought Perplexity’",
+      "summary": "Jim Cramer suggests that Apple could become a leader in AI by acquiring Perplexity, raising concerns about Apple's stock.",
+      "source": "Macdailynews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:15:13Z",
+      "url": "https://macdailynews.com/2025/07/18/jim-cramer-apple-could-become-number-one-in-ai-immediately-if-it-bought-perplexity/"
+    },
+    {
+      "id": 70,
+      "title": "cryptosolo – World's First Free Bitcoin & Dogecoin Cloud Mining: AI-Powered Mining for Easy Passive Income",
+      "summary": "Cryptosolo offers the world's first free Bitcoin & Dogecoin cloud mining platform powered by AI for easy passive income. Users can earn free cryptocurrencies daily without the need for hardware or technical skills, making it beginner-friendly and accessible to all.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118208/0/en/cryptosolo-World-s-First-Free-Bitcoin-Dogecoin-Cloud-Mining-AI-Powered-Mining-for-Easy-Passive-Income.html"
+    },
     {
       "id": 51,
       "title": "When Apple's Legal Team Comes for the Leakers",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T20:45:00Z",
       "url": "https://onefootball.com/en/news/napoli-fans-taunt-osimhen-pauper-maradona-played-here-41394340"
-    },
-    {
-      "id": 62,
-      "title": "DuckDuckGo Now Lets You Hide AI-Generated Images In Search Results",
-      "summary": "DuckDuckGo is introducing a new setting that allows users to hide AI-generated images in search results, responding to user feedback. This feature aims to improve user experience by filtering out images that may obstruct finding desired information.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:44:20Z",
-      "url": "https://slashdot.org/submission/17338012/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results"
-    },
-    {
-      "id": 63,
-      "title": "Citi, Ant International pilot AI-powered FX tool",
-      "summary": "Citi and Ant International pilot AI-powered FX tool to help clients manage foreign exchange risk.",
-      "source": "The Manila Times",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:43:25Z",
-      "url": "https://www.manilatimes.net/2025/07/19/business/foreign-business/citi-ant-international-pilot-ai-powered-fx-tool/2152026"
-    },
-    {
-      "id": 64,
-      "title": "The investor behind Opendoor's 190% run nearly shut down his fund",
-      "summary": "Investor Eric Jackson has been pushing for a rally in shares of Opendoor, which has seen a 190% increase. His efforts to boost the online real estate service's stock price have been a key factor in its success.",
-      "source": "CNBC",
-      "category": "startups",
-      "timestamp": "2025-07-18T20:43:14Z",
-      "url": "https://www.cnbc.com/2025/07/18/eric-jackson-opendoor-real-estate-carvana.html"
-    },
-    {
-      "id": 65,
-      "title": "OpenAI Unveils ChatGPT AI Agent that Works for You to Automate Complex Tasks",
-      "summary": "OpenAI unveils ChatGPT AI agent that automates complex tasks from research to presentations in one unified system.",
-      "source": "Smashingapps.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:42:06Z",
-      "url": "https://www.smashingapps.com/chatgpt-ai-agent-that-works-for-you/"
-    },
-    {
-      "id": 66,
-      "title": "Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now",
-      "summary": "Twelve South is offering a travel-friendly 2-in-1 Qi2 charger at over 50 percent off, making it easier to keep multiple devices charged while traveling. The clever design allows users to power two Qi2-compatible devices with a single, compact accessory.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:41:38Z",
-      "url": "https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale"
-    },
-    {
-      "id": 51,
-      "title": "AI Is Changing Public Relations — Here's How to Stay in Control",
-      "summary": "AI is transforming public relations by reshaping how brands are discovered and represented.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:40:54Z",
-      "url": "https://biztoc.com/x/88c78cd89fa80be2"
-    },
-    {
-      "id": 52,
-      "title": "This is how OpenAI COO Brad Lightcap defines AI agents",
-      "summary": "OpenAI COO Brad Lightcap defines AI agents as being able to take on new tasks, with the company releasing its latest agent this week.",
-      "source": "Business Insider",
-      "category": "research",
-      "timestamp": "2025-07-18T20:40:06Z",
-      "url": "https://www.businessinsider.com/openai-coo-brad-lightcap-ai-agents-chatgpt-agent-2025-7"
-    },
-    {
-      "id": 53,
-      "title": "New South Korea president faces balancing act on gender equality",
-      "summary": "South Korea's new president must navigate pressures from both young women advocating for gender equality and disaffected young men feeling resentful over perceived discrimination.",
-      "source": "ABC News (AU)",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:40:02Z",
-      "url": "https://www.abc.net.au/news/2025-07-19/south-korea-new-president-pledges-for-women/105539988"
-    },
-    {
-      "id": 54,
-      "title": "DoubleVerify Holdings, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. July 21, 2025 Deadline to file Lead Plaintiff Motion.",
-      "summary": "Investors of DoubleVerify Holdings, Inc. are encouraged to contact the Portnoy Law Firm by July 21, 2025 to recover their losses.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:39:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118191/0/en/DoubleVerify-Holdings-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-July-21-2025-Deadline-to-file-Lead-Plaintiff-Motion.html"
-    },
-    {
-      "id": 55,
-      "title": "Creative Industries, Creators & Creatives",
-      "summary": "This series of posts explores how we can rethink the intersection of AI, creativity, and policy, questioning copyright norms and highlighting the risks of stifling innovation.",
-      "source": "Techdirt",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:37:06Z",
-      "url": "https://www.techdirt.com/2025/07/18/creative-industries-creators-creatives/"
-    },
-    {
-      "id": 56,
-      "title": "EFF to Court: The DMCA Didn't Create a New Right of Attribution, You Shouldn't Either",
-      "summary": "EFF argues that the DMCA did not establish a new right of attribution for AI-generated works, amidst lawsuits concerning AI companies' use of copyrighted works in training models.",
-      "source": "EFF",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:37:04Z",
-      "url": "https://www.eff.org/deeplinks/2025/07/eff-court-dmca-didnt-create-new-right-attribution-you-shouldnt-either-0"
-    },
-    {
-      "id": 57,
-      "title": "XRP to $3.5, PFMCrypto Announces XRP Mining Contract with Daily Returns for All Holders",
-      "summary": "PFMCrypto announces AI-powered XRP cloud mining contracts, starting at $10, offering daily returns with no hardware or setup required for all holders.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T20:37:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118190/0/en/XRP-to-3-5-PFMCrypto-Announces-XRP-Mining-Contract-with-Daily-Returns-for-All-Holders.html"
-    },
-    {
-      "id": 58,
-      "title": "Windows 10’s end of life looms. A security pro dissects your only options",
-      "summary": "Windows 10 reaching end of life prompts users to carefully consider their options before facing potential online vulnerabilities.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:35:20Z",
-      "url": "https://freerepublic.com/focus/f-chat/4329453/posts"
-    },
-    {
-      "id": 59,
-      "title": "aider-lint-fixer 1.9.0",
-      "summary": "The latest version of aider-lint-fixer 1.9.0 utilizes AI to detect and fix lint errors through the platform aider.chat.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:35:10Z",
-      "url": "https://pypi.org/project/aider-lint-fixer/1.9.0/"
-    },
-    {
-      "id": 60,
-      "title": "Everything announced at Big Summer Warhammer Preview 2025, from Chaos Dwarfs to an awesome new Kill Team setting",
-      "summary": "Everything announced at Big Summer Warhammer Preview 2025, from Chaos Dwarfs to an awesome new Kill Team setting - There's a lot of good hobbying in our future, it seems",
-      "source": "GamesRadar+",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:34:56Z",
-      "url": "https://www.gamesradar.com/tabletop-gaming/everything-announced-at-big-summer-warhammer-preview-2025-from-chaos-dwarfs-to-an-awesome-new-kill-team-setting/"
-    },
-    {
-      "id": 61,
-      "title": "It’s Official: Apple Needs to Drop a New Version of AirPods ASAP",
-      "summary": "The great AirPods slowdown is upon us, with Apple in need of releasing a new version of AirPods as soon as possible.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:34:02Z",
-      "url": "https://gizmodo.com/its-official-apple-needs-to-drop-a-new-version-of-airpods-asap-2000631407"
-    },
-    {
-      "id": 62,
-      "title": "WhatsApp streamlines in-app support process",
-      "summary": "WhatsApp is streamlining its in-app support process by removing the form and screenin. Users will no longer have to fill out a form and wait for a support rep to get in touch.",
-      "source": "9to5Mac",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:32:47Z",
-      "url": "https://9to5mac.com/2025/07/18/whatsapp-streamlines-in-app-support-process/"
-    },
-    {
-      "id": 63,
-      "title": "The Samsung S95F OLED TV Delivers A Stunning Picture But Stumbles On AI",
-      "summary": "The Samsung S95F OLED TV delivers a stunning picture but stumbles on AI. The reviewer spent over two weeks testing Samsung's latest flagship OLED TV and shared their full review.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:31:36Z",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/2025/07/18/samsung-s95f-oled-tv-review-1/"
-    },
-    {
-      "id": 64,
-      "title": "What Stops This Train?",
-      "summary": "The article explores the question of what stops the advancement of AI, examining various factors that could potentially halt its progress.",
-      "source": "Awealthofcommonsense.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:30:40Z",
-      "url": "https://awealthofcommonsense.com/2025/07/what-stops-this-train/"
-    },
-    {
-      "id": 65,
-      "title": "Exhausted Man Defeats AI Model In World Coding Championship",
-      "summary": "Exhausted man defeats AI model in world coding championship",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:30:00Z",
-      "url": "https://developers.slashdot.org/story/25/07/18/2025211/exhausted-man-defeats-ai-model-in-world-coding-championship"
     }
   ]
 }
