@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-19T20:53:56.589Z",
+  "lastUpdate": "2025-07-19T21:14:14.456Z",
   "items": [
+    {
+      "id": 51,
+      "title": "When Apple's Legal Team Comes for the Leakers",
+      "summary": "Apple's latest lawsuit against YouTuber Jon Prosser reveals how the tech giant protects its secretive information, highlighting the ethical considerations of leaking proprietary technology.",
+      "source": "Gadgethacks.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T21:12:41Z",
+      "url": "https://ios.gadgethacks.com/news/when-apples-legal-team-comes-for-the-leakers/"
+    },
+    {
+      "id": 52,
+      "title": "Trump Signs First Major Federal Crypto Bill Into Law",
+      "summary": "President Trump signed the GENIUS Act into law, marking the first major U.S. regulation of stablecoins by creating a legal framework for their issuance and consumer protections, while also championing crypto innovation as a major financial revolution.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:10:00Z",
+      "url": "https://yro.slashdot.org/story/25/07/18/2037217/trump-signs-first-major-federal-crypto-bill-into-law"
+    },
+    {
+      "id": 53,
+      "title": "Why Electricity Prices Are Rising And What You Can Do To Cut Costs",
+      "summary": "Electricity prices are rising, here are some ways to cut costs",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:09:37Z",
+      "url": "https://www.forbes.com/sites/mattrandolph/2025/07/18/why-electricity-prices-are-rising-and-what-you-can-do-to-cut-costs/"
+    },
+    {
+      "id": 54,
+      "title": "Samsung released an upgraded version of its popular Frame TV, and we put it to the test. Here's what sets it apart.",
+      "summary": "Samsung released an upgraded version of its popular Frame TV, the Frame Pro, which features a more advanced backlight and wireless connection box to enhance the viewing experience.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:06:56Z",
+      "url": "https://www.businessinsider.com/guides/tech/samsung-frame-pro-tv-review"
+    },
+    {
+      "id": 55,
+      "title": "ServiceNow's acquisition of Moveworks is reportedly being reviewed over antitrust concerns | TechCrunch",
+      "summary": "ServiceNow's acquisition of Moveworks is facing antitrust concerns and is currently being reviewed. The acquisition was announced in March and the probe started in June.",
+      "source": "TechCrunch",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:05:22Z",
+      "url": "https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/"
+    },
+    {
+      "id": 56,
+      "title": "AI's biggest impact on your workforce is still to come - 3 ways to avoid getting left behind",
+      "summary": "AI's biggest impact on your workforce is still to come - 3 ways to avoid getting left behind. Research suggests 80% of professionals believe AI will have a significant impact on their work over the next year. Here's how to prepare your staff.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:05:12Z",
+      "url": "https://www.zdnet.com/article/ais-biggest-impact-on-your-workforce-is-still-to-come-3-ways-to-avoid-getting-left-behind/"
+    },
+    {
+      "id": 57,
+      "title": "Here's why a yearly ChatGPT subscription might be too good to be true",
+      "summary": "Recent discoveries suggest that ChatGPT Plus might finally offer the yearly subscription Android users have been requesting, despite OpenAI previously not supporting annual plans.",
+      "source": "Gadgethacks.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:04:59Z",
+      "url": "https://android.gadgethacks.com/news/heres-why-a-yearly-chatgpt-subscription-might-be-too-good-to-be-true/"
+    },
+    {
+      "id": 58,
+      "title": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI",
+      "summary": "Business Insider is creating a list of the most influential individuals in AI and machine learning, seeking a diverse range of innovators in the field.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T21:03:28Z",
+      "url": "https://biztoc.com/x/c4ae52dc6d59ee08"
+    },
+    {
+      "id": 59,
+      "title": "vectara-agentic 0.3.1",
+      "summary": "vectara-agentic 0.3.1 is a Python package that allows for the creation of AI Assistants and AI Agents with Vectara, enabling users to build advanced AI technologies for various applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:02:22Z",
+      "url": "https://pypi.org/project/vectara-agentic/0.3.1/"
+    },
+    {
+      "id": 60,
+      "title": "Assemble AI crypto gains 164% in a day – Here’s what happened!",
+      "summary": "Assemble AI cryptocurrency experienced a 164% increase in value in just one day. Top whale holders have acquired over 100 million ASM tokens this week.",
+      "source": "Ambcrypto.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:00:20Z",
+      "url": "https://ambcrypto.com/assemble-ai-crypto-gains-164-in-a-day-heres-what-happened/"
+    },
+    {
+      "id": 61,
+      "title": "What Is Grok? Everything to Know About Elon Musk's AI Tool",
+      "summary": "A deep dive into the advantages and controversies of Grok, Elon Musk's AI tool, and what sets it apart from other generative AI chatbots.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-18T21:00:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/what-is-grok-everything-to-know-about-elon-musks-ai-tool/"
+    },
+    {
+      "id": 62,
+      "title": "US Wearable Technology market to grow at a CAGR of 15.4%: Wissen Research",
+      "summary": "US wearable technology market expected to grow at a CAGR of 15.4% from 2025-2030, reaching USD 24 billion",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T21:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118201/0/en/US-Wearable-Technology-market-to-grow-at-a-CAGR-of-15-4-Wissen-Research.html"
+    },
+    {
+      "id": 63,
+      "title": "Topnotch Crypto Launches Revolutionary AI-Powered Cloud Mining Platform Ahead of 2025 Cryptocurrency Surge",
+      "summary": "Topnotch Crypto launches AI-powered cloud mining platform ahead of 2025 cryptocurrency surge in Houston, Texas.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T21:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118199/0/en/Topnotch-Crypto-Launches-Revolutionary-AI-Powered-Cloud-Mining-Platform-Ahead-of-2025-Cryptocurrency-Surge.html"
+    },
+    {
+      "id": 64,
+      "title": "Much happened at Triumph Financial during the quarter; USPS dispute settled",
+      "summary": "Much happened at Triumph Financial during the quarter; USPS dispute settled - Triumph Financial wrapped up a quarter where lots happened with the company beyond its bottom line.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:59:53Z",
+      "url": "https://finance.yahoo.com/news/much-happened-triumph-financial-during-205953201.html"
+    },
+    {
+      "id": 65,
+      "title": "AdTech’s Inflection Point Signals More Compelling Customer Experiences",
+      "summary": "AdTech is reaching an inflection point, signaling the need for more compelling customer experiences. It has evolved from a simple framework for managing banner ads to a complex ecosystem of different platforms and data technologies.",
+      "source": "Forrester.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:59:52Z",
+      "url": "https://www.forrester.com/blogs/adtechs-inflection-point-signals-more-compelling-customer-experiences/"
+    },
+    {
+      "id": 66,
+      "title": "Hooray! Taxpayers will no longer have to pick up the tab for NPR, PBS’s lefty propaganda",
+      "summary": "Congress is defunding public broadcasting, which means taxpayers will no longer have to support NPR and PBS. Some view this as a positive development, while others may see it as a loss of unbiased media.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:57:26Z",
+      "url": "https://nypost.com/2025/07/18/opinion/hooray-taxpayers-will-no-longer-have-to-pay-for-npr-pbss-lefty-propaganda/"
+    },
+    {
+      "id": 67,
+      "title": "Chris Martin Interrogates Second Couple Immediately After Viral Cheating Scandal At Coldplay Concert",
+      "summary": "Chris Martin interrogated a second couple at a Coldplay concert following a viral cheating scandal, mentioning he got PTSD from the previous couple. This raises ethical concerns about the use of AI in questioning individuals in sensitive or emotionally charged situations.",
+      "source": "Boredpanda.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:56:11Z",
+      "url": "https://www.boredpanda.com/coldplays-chris-martin-grills-next-couple-on-kiss-cam-after-ceo-bust/"
+    },
+    {
+      "id": 68,
+      "title": "TSMC posts record Q2 revenue up 38.6 percent to $31.8 billion",
+      "summary": "TSMC's Q2 revenue hit a record high of $31.8 billion, with a significant increase year-on-year. Advanced node sales drove growth, leading to a raised full-year growth outlook of 30 percent.",
+      "source": "Notebookcheck.net",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:56:00Z",
+      "url": "https://www.notebookcheck.net/TSMC-posts-record-Q2-revenue-up-38-6-percent-to-31-8-billion.1061258.0.html"
+    },
+    {
+      "id": 69,
+      "title": "Disney Goes To War Over Mickey Mouse After Copyright Lapses",
+      "summary": "Disney goes to war over Mickey Mouse copyright after it lapsed, sparking public reaction and chaos.",
+      "source": "Inside the Magic",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:55:50Z",
+      "url": "https://insidethemagic.net/2025/07/disney-goes-to-war-over-mickey-mouse-after-copyright-lapses-cj1/"
+    },
     {
       "id": 51,
       "title": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T20:30:00Z",
       "url": "https://developers.slashdot.org/story/25/07/18/2025211/exhausted-man-defeats-ai-model-in-world-coding-championship"
-    },
-    {
-      "id": 66,
-      "title": "Robot Consulting Co., Ltd. Announces Closing of $15 Million Initial Public Offering",
-      "summary": "Robot Consulting Co., Ltd. closes a $15 million Initial Public Offering to expand their platform service providing human resource solutions and legal technology.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T20:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118186/0/en/Robot-Consulting-Co-Ltd-Announces-Closing-of-15-Million-Initial-Public-Offering.html"
-    },
-    {
-      "id": 67,
-      "title": "Pixelated 062: The Pixel 10 countdown begins",
-      "summary": "The Pixel 10 countdown has begun with the Made By Google event set for August 20th, signaling the upcoming release of new Google hardware.",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:30:00Z",
-      "url": "http://9to5google.com/2025/07/18/pixelated-062-the-pixel-10-countdown-begins/"
-    },
-    {
-      "id": 68,
-      "title": "Samsung Galaxy Flip 7 FE vs. Motorola Razr 2025: Battle of the Budget Foldables",
-      "summary": "The Samsung Galaxy Flip 7 FE and Motorola Razr 2025 are the most affordable foldable phones in the US, offering good specs and features for their price.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:29:34Z",
-      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-flip-7-fe-vs-motorola-razr-2025-battle-of-the-budget-foldables/"
-    },
-    {
-      "id": 69,
-      "title": "Dr. Anosh Ahmed Foundation Advances Plans for AI Data Center Development on Chicago’s West Side",
-      "summary": "Dr. Anosh Ahmed Foundation is advancing plans for an AI data center development in Chicago's West Side, including international collaboration for youth-focused educational programs and technology infrastructure investment.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:28:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118180/0/en/Dr-Anosh-Ahmed-Foundation-Advances-Plans-for-AI-Data-Center-Development-on-Chicago-s-West-Side.html"
-    },
-    {
-      "id": 70,
-      "title": "Unifying data insights with Amazon QuickSight and Amazon SageMaker",
-      "summary": "Amazon SageMaker is integrating with Amazon QuickSight to unify data insights and provide interactive dashboards and pixel perfect reports for businesses.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:26:38Z",
-      "url": "https://aws.amazon.com/blogs/big-data/unifying-data-insights-with-amazon-quicksight-and-amazon-sagemaker/"
-    },
-    {
-      "id": 51,
-      "title": "XRP Surges 15% in a Day: PFMCrypto Launches Revolutionary XRP Cloud Mining, Igniting the XRP Market",
-      "summary": "XRP Surges 15% in a Day: PFMCrypto Launches Revolutionary XRP Cloud Mining, Igniting the XRP Market - As the XRP Market Heats Up, PFMCrypto Delivers a Fully Integrated Mining Platform That Lets Users Deposit, Mine, and Withdraw XRP Seamlessly—From Anywhere",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:16:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118178/0/en/XRP-Surges-15-in-a-Day-PFMCrypto-Launches-Revolutionary-XRP-Cloud-Mining-Igniting-the-XRP-Market.html"
-    },
-    {
-      "id": 52,
-      "title": "Train smarter: Boost frontline performance while reducing costs",
-      "summary": "Companies are spending billions on frontline training with the expectation of it increasing significantly by 2028, yet only 44% of employees feel like their organizations are investing in their development.",
-      "source": "Hospitality Net",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:15:45Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128228.html"
-    },
-    {
-      "id": 53,
-      "title": "Obscure Code of Ethics From the Late 19th Century Still Has Relevancy Today",
-      "summary": "Obscure Code of Ethics From the Late 19th Century Still Has Relevancy Today",
-      "source": "My Modern Met",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:15:11Z",
-      "url": "https://mymodernmet.com/hobo-ethical-code-1889-today/"
-    },
-    {
-      "id": 54,
-      "title": "From hype to frontline impact: Building trust through thoughtful AI",
-      "summary": "AI is becoming more prominent in various industries, emphasizing the importance of building trust and thoughtful implementation in order to have a positive impact on society.",
-      "source": "Hospitality Net",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:13:45Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128227.html"
-    },
-    {
-      "id": 55,
-      "title": "Adoption is up, panic is down: Cyber pros weigh AI’s real impact",
-      "summary": "ISC2 survey found that 30% of cybersecurity professionals are already using AI tools, indicating increased adoption and reduced panic regarding AI's impact.",
-      "source": "Digital Journal",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:12:41Z",
-      "url": "https://www.digitaljournal.com/business/adoption-is-up-panic-is-down-cyber-pros-weigh-ais-real-impact/article"
-    },
-    {
-      "id": 56,
-      "title": "Opinion | It’s time to invoke the U.S. Defense Production Act to support a new battery technology revolution",
-      "summary": "It's proposed that the U.S. Defense Production Act be used to support a new battery technology revolution to reduce reliance on China for drone dominance. This move could have significant implications for the U.S. military supply chains.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:09:35Z",
-      "url": "https://fortune.com/2025/07/18/batteries-drones-china-us-defense-production-act/"
-    },
-    {
-      "id": 57,
-      "title": "Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot",
-      "summary": "Cursor acquires enterprise startup Koala to strengthen its competition with GitHub Copilot in the AI coding tools market.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T20:07:33Z",
-      "url": "https://biztoc.com/x/a660e2c347977f56"
-    },
-    {
-      "id": 58,
-      "title": "Samsung's Galaxy A56 Just Changed the Mid-Range Game—Here's Why $499 Might Be the Smartest Phone Budget You'll Set This Year",
-      "summary": "Samsung's Galaxy A56 is changing the mid-range smartphone game by offering a range of features at an affordable price of $499, including a six-year software update guarantee.",
-      "source": "Gadgethacks.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:07:31Z",
-      "url": "https://samsung.gadgethacks.com/news/samsungs-galaxy-a56-just-changed-the-mid-range-gameheres-why-499-might-be-the-smartest-phone-budget-youll-set-this-year/"
-    },
-    {
-      "id": 59,
-      "title": "Ai-Generated Visual Streaming - Netflix Debuts Fully AI VFX in the Eternaut Collapse Scene (TrendHunter.com)",
-      "summary": "Netflix debuts fully AI VFX in The Eternaut, showcasing a digitally collapsed building rendered entirely using generative AI.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:07:06Z",
-      "url": "https://www.trendhunter.com/trends/the-eternaut"
-    },
-    {
-      "id": 60,
-      "title": "Job market mayhem: Whether you’re 22 or 52, job searching in 2025 is a total nightmare",
-      "summary": "Job market in the United States is challenging in 2025 with young graduates struggling to find entry-level positions and mid-career professionals facing layoffs. Older Americans are postponing retirement due to financial constraints.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:05:49Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/job-market-mayhem-whether-youre-22-or-52-job-searching-in-2025-is-a-total-nightmare/articleshow/122772097.cms"
-    },
-    {
-      "id": 61,
-      "title": "AlveolEye 0.1.7",
-      "summary": "AlveolEye 0.1.7 utilizes AI-driven and classical methods to read lung slides.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:05:01Z",
-      "url": "https://pypi.org/project/alveoleye/0.1.7/"
-    },
-    {
-      "id": 62,
-      "title": "This Bullish Catalyst for Nvidia Stock Is Coming in September",
-      "summary": "Nvidia plans to start shipping GB300 in September, which is seen as a bullish catalyst for the company. JPMorgan has reaffirmed NVDA shares as a top pick.",
-      "source": "Barchart.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:02:58Z",
-      "url": "https://www.barchart.com/story/news/33502133/this-bullish-catalyst-for-nvidia-stock-is-coming-in-september"
-    },
-    {
-      "id": 63,
-      "title": "The Fab Academy 2025 exhibition comes to Creative Spark’s Downtown Hub in Dundalk",
-      "summary": "The Fab Academy 2025 exhibition showcasing two graduates who completed the digital fabrication diploma will be held at Creative Spark’s Downtown Hub in Dundalk.",
-      "source": "Dundalkdemocrat.ie",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:02:34Z",
-      "url": "https://www.dundalkdemocrat.ie/news/business/1852527/the-fab-academy-2025-exhibition-comes-to-creative-sparks-downtown-hub-in-dundalk.html"
-    },
-    {
-      "id": 64,
-      "title": "Dialogues: Social Theory Re-Wired: Interview with the Authors",
-      "summary": "First Publics interviewed the authors of Social Theory Re-Wired, Drs. Wesley Longhofer and Daniel Winchester, to discuss their goals and experiences in writing their theory reader.",
-      "source": "Thesocietypages.org",
-      "category": "research",
-      "timestamp": "2025-07-18T20:00:56Z",
-      "url": "https://thesocietypages.org/firstpublics/2025/07/18/social-theory-re-wired-interview-with-the-authors/"
     }
   ]
 }
