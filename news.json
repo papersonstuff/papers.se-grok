@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-19T14:50:47.804Z",
+  "lastUpdate": "2025-07-19T15:15:33.194Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How to Crash Out Mindfully",
+      "summary": "An article discussing how to crash out mindfully in various situations, such as dealing with difficult coworkers or relationships, to avoid making impulsive decisions. The importance of managing emotions and reactions in a mindful way is emphasized.",
+      "source": "POPSUGAR",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:15:01Z",
+      "url": "https://www.popsugar.com/health/crash-out-mindfully-49452346"
+    },
+    {
+      "id": 52,
+      "title": "Every Day, Something Shows Up In The News That Sounds Like A Cyberpunk 2077 Sidequest",
+      "summary": "Every Day, Something Shows Up In The News That Sounds Like A Cyberpunk 2077 Sidequest - If the cyberpunk genre was meant to warn us away from a capitalistic, dystopian future hellscape, what purpose does it serve when that hellscape is already here?",
+      "source": "Kotaku",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:15:00Z",
+      "url": "https://kotaku.com/cyberpunk-2077-chatgpt-psychosis-ai-robot-austin-weho-1851786563"
+    },
+    {
+      "id": 53,
+      "title": "2025.29: What It Takes to Change the Web",
+      "summary": "This AI-related news discusses the economic future of the web, a conference in Las Vegas, and methods of cooling computers.",
+      "source": "Stratechery.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:14:47Z",
+      "url": "https://stratechery.com/2025/what-it-takes-to-change-the-web/"
+    },
+    {
+      "id": 54,
+      "title": "Psychedelics, Dreams, Energy Intentions, and the Limits of Human Comprehension",
+      "summary": "Psychedelics, Dreams, Energy Intentions, and the Limits of Human Comprehension - The post explores experiences at the edges of reality, especially during sleep, that are difficult to comprehend and make sense of.",
+      "source": "Stevepavlina.com",
+      "category": "research",
+      "timestamp": "2025-07-18T15:11:12Z",
+      "url": "https://stevepavlina.com/blog/2025/07/psychedelics-dreams-energy-intentions-and-the-limits-of-human-comprehension/"
+    },
+    {
+      "id": 55,
+      "title": "Manufacturing Execution System Company Evaluation Report 2025 | Siemens, Dassault Systèmes, and SAP SE Drive Global MES Market with Scalable Digital Manufacturing and Automation Solutions",
+      "summary": "Manufacturing Execution System Company Evaluation Report 2025 highlights key players in the global MES market driving innovation with scalable digital manufacturing and automation solutions.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118033/28124/en/Manufacturing-Execution-System-Company-Evaluation-Report-2025-Siemens-Dassault-Syst%C3%A8mes-and-SAP-SE-Drive-Global-MES-Market-with-Scalable-Digital-Manufacturing-and-Automation-Soluti.html"
+    },
+    {
+      "id": 56,
+      "title": "Non-Linear Web Design: Unlocking the Future of User Experience",
+      "summary": "Non-linear web design offers users a dynamic and interactive experience by allowing them to explore content in various, personalized paths rather than following a rigid, linear flow. This approach enhances user engagement and fosters a more organic, exploratory experience.",
+      "source": "Webdesignerdepot.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:09:32Z",
+      "url": "https://webdesignerdepot.com/non-linear-web-design-unlocking-the-future-of-user-experience/"
+    },
+    {
+      "id": 57,
+      "title": "Woman Films Morning Gym Walk, Internet Not Prepared for Who's in Window",
+      "summary": "A woman's viral TikTok video of her morning gym walk featuring an AI-generated voice has caught internet users by surprise. The heartwarming video has been widely shared and discussed online.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:08:13Z",
+      "url": "https://biztoc.com/x/1e41753bbd9f8ec6"
+    },
+    {
+      "id": 58,
+      "title": "Hearts Melt As Dog Teaches Mini Golden Doodle To Swim 'Just Like Her'",
+      "summary": "Hearts Melt As Dog Teaches Mini Golden Doodle To Swim 'Just Like Her' in a heartwarming viral video. ",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:08:03Z",
+      "url": "https://biztoc.com/x/dbea63693199ced5"
+    },
+    {
+      "id": 59,
+      "title": "MIL Comes To Stay With Couple, Nobody Prepared for What She Does Next",
+      "summary": "A daughter-in-law shares a bizarre encounter with her mother-in-law, who used green pen to leave a message on their door. The incident raises questions about privacy and boundaries when it comes to AI-generated voices.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:07:46Z",
+      "url": "https://biztoc.com/x/3850be0f70231473"
+    },
+    {
+      "id": 60,
+      "title": "Intuitive Machines (LUNR) Jumps on 4th Day on Aggressive Expansion",
+      "summary": "Intuitive Machines Inc. (NASDAQ:LUNR) is performing well as it jumps on its fourth day of aggressive expansion, featured in Wall Street Shockers: 10 Stocks on Sky High.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-18T15:07:40Z",
+      "url": "https://finance.yahoo.com/news/intuitive-machines-lunr-jumps-4th-150740485.html"
+    },
+    {
+      "id": 61,
+      "title": "Netflix uses AI to speed up movie production and launch new features",
+      "summary": "Netflix is using Artificial Intelligence in film and television production to speed up movie production and launch new features.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-18T15:07:18Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/netflix-uses-ai-to-speed-up-movie-production-and-launch-new-features/articleshow/122768357.cms"
+    },
+    {
+      "id": 62,
+      "title": "Vascular Access Devices Company Evaluation Report 2025 | Becton Dickinson, Teleflex, and ICU Medical Strengthen Global Leadership Through Strategic Acquisitions and Product Innovation",
+      "summary": "The Vascular Access Devices Market Companies Quadrant report highlights how companies like Becton Dickinson, Teleflex, and ICU Medical are strengthening their global leadership through strategic acquisitions and product innovation in the vascular access devices sector.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T15:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118032/28124/en/Vascular-Access-Devices-Company-Evaluation-Report-2025-Becton-Dickinson-Teleflex-and-ICU-Medical-Strengthen-Global-Leadership-Through-Strategic-Acquisitions-and-Product-Innovation.html"
+    },
+    {
+      "id": 63,
+      "title": "Donald Trump Jr. Rushes to Defend Dad After WSJ’s Epstein Report: ‘I’ve Never Seen Him Doodle Once’",
+      "summary": "Donald Trump Jr. defends his father against reports suggesting he doodled, stating he has never seen President Trump do so.",
+      "source": "Mediaite",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:06:42Z",
+      "url": "https://www.mediaite.com/media/news/donald-trump-jr-rushes-to-defend-dad-after-wsjs-epstein-report-ive-never-seen-him-doodle-once/"
+    },
+    {
+      "id": 64,
+      "title": "Steam's Updated Guidelines Allow Banks To Enforce Standards On Adult-Only Content",
+      "summary": "Steam's updated guidelines now allow banks to enforce standards on adult-only content, potentially leading to a purging of such content on the platform.",
+      "source": "GameSpot",
+      "category": "ethics",
+      "timestamp": "2025-07-18T15:06:00Z",
+      "url": "https://www.gamespot.com/articles/steams-updated-guidelines-allow-banks-to-enforce-standards-on-adult-only-content/1100-6533253/"
+    },
     {
       "id": 51,
       "title": "How Distillation Makes AI Models Smaller and Cheaper",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T14:11:58Z",
       "url": "https://biztoc.com/x/d882b77899d83a3a"
-    },
-    {
-      "id": 51,
-      "title": "Meta refuses to sign EU's AI code of practice | TechCrunch",
-      "summary": "Meta refuses to sign EU's AI code of practice, citing over-reach",
-      "source": "TechCrunch",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:53:44Z",
-      "url": "https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/"
-    },
-    {
-      "id": 52,
-      "title": "If You Trust AI, You’re Asleep. (At Least You’re Not “Woke”)",
-      "summary": "Today brought so many stories worth 'notes and observations' that I thought I'd try something new - a flash newsletter of sorts, with commentary on stories that pushed my eyebrows up a bit more than usual.",
-      "source": "Battellemedia.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:53:41Z",
-      "url": "https://battellemedia.com/archives/2025/07/if-you-trust-ai-youre-asleep-at-least-youre-not-woke"
-    },
-    {
-      "id": 53,
-      "title": "Japan Utility to Survey First Nuclear Reactor Since Fukushima: Nikkei",
-      "summary": "Japan's Kansai Electric Power Co. plans to survey the construction of a new nuclear reactor, marking the first step since the 2011 Fukushima disaster.",
-      "source": "Financial Post",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:53:22Z",
-      "url": "https://financialpost.com/pmn/business-pmn/japan-utility-to-survey-first-nuclear-reactor-since-fukushima-nikkei"
-    },
-    {
-      "id": 54,
-      "title": "New Community of Practice for Exploring Content Provenance and Authenticity in the Age of AI",
-      "summary": "New Community of Practice for exploring content provenance and authenticity in the age of AI established at the Library of Congress.",
-      "source": "Loc.gov",
-      "category": "research",
-      "timestamp": "2025-07-18T13:52:56Z",
-      "url": "https://blogs.loc.gov/thesignal/2025/07/c2pa-glam/"
-    },
-    {
-      "id": 55,
-      "title": "Talen Energy shares surge 17% on $3.5 billion gas-fired power plant deals",
-      "summary": "Talen Energy shares surge 17% after announcing $3.5 billion gas-fired power plant deals.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:52:14Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/talen-energy-shares-surge-17-on-3-5-billion-gas-fired-power-plant-deals/articleshow/122767426.cms"
-    },
-    {
-      "id": 56,
-      "title": "Show HN: Tips for getting great Text2Cypher outputs from LLMs for Graph RAG",
-      "summary": "Tips for improving Text2Cypher outputs from LLMs for Graph RAG, based on experiments on the LDBC dataset and shared in a blog post. Code is available for reference.",
-      "source": "Kuzudb.com",
-      "category": "research",
-      "timestamp": "2025-07-18T13:52:04Z",
-      "url": "https://blog.kuzudb.com/post/improving-text2cypher-for-graphrag-via-schema-pruning/"
-    },
-    {
-      "id": 57,
-      "title": "Valve boss Gabe Newell reveals daily routine in bizarre new interview: \"I get up, I work, I go scuba-diving, then work some more.\"",
-      "summary": "Valve boss Gabe Newell reveals daily routine which includes scuba diving and working, indicating an innovative approach to work-life balance.",
-      "source": "Eurogamer.net",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:51:07Z",
-      "url": "https://www.eurogamer.net/valve-boss-gabe-newell-reveals-daily-routine-in-bizarre-new-interview-i-get-up-i-work-i-go-scuba-diving-then-work-some-more"
-    },
-    {
-      "id": 58,
-      "title": "News brief: Cyberattack trends signal security arms race",
-      "summary": "Cyberattack trends indicate a growing need for enhanced security measures, leading to an ongoing security arms race. Stay informed with the latest security news from the Informa TechTarget team.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:51:00Z",
-      "url": "https://www.techtarget.com/searchsecurity/news/366627923/News-brief-Cyberattack-trends-signal-security-arms-race"
-    },
-    {
-      "id": 59,
-      "title": "‘Ryan’s World’ Outfit Pocket.watch Deepens AI Investment To Power “Responsible Innovation” For Kids & Family Creators",
-      "summary": "Pocket.watch is deepening its investment in AI to power 'responsible innovation' for kids and family creators, including developing a proprietary tool called Channelyzer AI.",
-      "source": "Deadline",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:50:19Z",
-      "url": "http://deadline.com/2025/07/ryans-world-outfit-pocket-watch-deepens-ai-investment-1236462196/"
-    },
-    {
-      "id": 60,
-      "title": "VR training can help build empathy in the workplace",
-      "summary": "VR training can help build empathy in the workplace - A new study led by researchers at the Stanford Accelerator for Learning explores how companies can use immersive technology to boost new managers' relational skills.",
-      "source": "Phys.Org",
-      "category": "research",
-      "timestamp": "2025-07-18T13:50:05Z",
-      "url": "https://phys.org/news/2025-07-vr-empathy-workplace.html"
-    },
-    {
-      "id": 61,
-      "title": "AI Is Being Used to Support Sighted Volunteers Working With the Visually Impaired. Here's How",
-      "summary": "AI Is Being Used to Support Sighted Volunteers Working With the Visually Impaired through the Be My Eyes accessibility app, which utilizes AI and a global volunteer network for live video assistance.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:50:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/ai-is-being-used-to-support-sighted-volunteers-working-with-the-visually-impaired-heres-how/"
-    },
-    {
-      "id": 62,
-      "title": "ICE Discovers How to Bypass Sanctuary City Policy—'There's No Choice'",
-      "summary": "The Los Angeles County Sheriff's Department resumed transferring jail inmates to U.S. Immigration and Customs Enforcement in May and June, bypassing sanctuary city policies. This raises ethical concerns about the treatment of undocumented immigrants in custody.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:49:59Z",
-      "url": "https://biztoc.com/x/673ceeae06948ffc"
-    },
-    {
-      "id": 63,
-      "title": "Nationwide Sausage Recall as Consumer Warning Issued",
-      "summary": "A company has issued a nationwide sausage recall due to inconsistencies in AI-generated voice warnings.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:49:53Z",
-      "url": "https://biztoc.com/x/0973bcb45242202f"
-    },
-    {
-      "id": 64,
-      "title": "Trump's MAGA Ambassador Nominee Faces Protests",
-      "summary": "Protesters gathered outside the U.S. embassy in Malaysia to oppose Nick Adams' nomination as Trump's ambassador. Adams is known for his controversial views, and the use of AI-generated voice raises concerns about inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:49:51Z",
-      "url": "https://biztoc.com/x/d997230730a51da2"
     }
   ]
 }
