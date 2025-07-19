@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T16:47:54.271Z",
+  "lastUpdate": "2025-07-19T17:14:53.610Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The brainbox behind Valve's Steam Labs says the number of Steam releases featuring GenAI in 2025 is 1 in 5, with 7% of all games on there now incorporating it: 'We’ve octupled last year’s figure'",
+      "summary": "The brainbox behind Valve's Steam Labs predicts that by 2025, 1 in 5 Steam releases will feature GenAI, with 7% of current games on the platform already incorporating it. However, there is a vocal anti-AI sentiment among some artists and gamers who refuse to buy games with AI technology.",
+      "source": "PC Gamer",
+      "category": "innovation",
+      "timestamp": "2025-07-18T17:13:50Z",
+      "url": "https://www.pcgamer.com/software/ai/the-boffin-behind-valves-steam-labs-says-the-number-of-steam-releases-featuring-genai-in-2025-is-1-in-5-with-7-percent-of-all-games-on-there-now-incorporating-it-weve-octupled-last-years-figure/"
+    },
+    {
+      "id": 52,
+      "title": "Gen X’s $1.4 trillion windfall: The ‘Forgotten Generation’ is the surprise short-term winner in the Great Wealth Transfer",
+      "summary": "Gen X, Americans aged 45-60, are set to inherit $1.4 trillion annually over the next decade, making them the surprise short-term winners in the Great Wealth Transfer.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:13:05Z",
+      "url": "https://fortune.com/2025/07/18/great-wealth-transfer-gen-x-1-4-trillion-millennials-boomers/"
+    },
+    {
+      "id": 53,
+      "title": "swe-ai-agent 1.0.20",
+      "summary": "The SWE AI Agent 1.0.20 has been released, offering a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:11:52Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.20/"
+    },
+    {
+      "id": 54,
+      "title": "HP 16\" OmniBook X Flip Laptop-Tablet Hybrid (16GB RAM, 512GB SSD) Is Nearly 50% Off at Best Buy",
+      "summary": "HP 16\" OmniBook X Flip Laptop-Tablet Hybrid (16GB RAM, 512GB SSD) Is Nearly 50% Off at Best Buy",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:11:35Z",
+      "url": "https://gizmodo.com/hp-16-omnibook-x-flip-laptop-tablet-hybrid-16gb-ram-512gb-ssd-is-nearly-50-off-at-best-buy-2000631086"
+    },
+    {
+      "id": 55,
+      "title": "Netflix admits it used generative AI in a big sci-fi hit to cut costs",
+      "summary": "Netflix used generative AI to create a scene in The Eternaut, a sci-fi series, in order to cut costs. This marked the first time AI was used in one of Netflix's original shows or films, showing the application of AI technology in the entertainment industry.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:11:09Z",
+      "url": "https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut"
+    },
+    {
+      "id": 56,
+      "title": "I Asked Chat GPT to Help Me Get Over My Gym Shame. Here's What It Told Me.",
+      "summary": "An AI chatbot was used to help a Men's Health reader overcome gym shame, with annotations by AI expert Gary Marcus.",
+      "source": "menshealth.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:11:00Z",
+      "url": "https://www.menshealth.com/fitness/a65440271/chatgpt-fitness-advice-expert-analysis/"
+    },
+    {
+      "id": 57,
+      "title": "The Surprising Strategy Smart Leaders Use to Outpace Disruption",
+      "summary": "In a world where AI is reshaping industries overnight, agility is a leader's greatest asset. The companies thriving aren't the fastest or the biggest, but the ones built to adapt.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T17:10:34Z",
+      "url": "https://biztoc.com/x/109e29490284ce87"
+    },
+    {
+      "id": 58,
+      "title": "Goldman Gains \"Deeper Appreciation\" For Dell's AI Servers After Investor Trip To Headquarters",
+      "summary": "Goldman Sachs gains a deeper appreciation for Dell's AI servers after a visit to the company's headquarters, solidifying Dell's position in the AI infrastructure space.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:10:15Z",
+      "url": "https://biztoc.com/x/a82cc5cc8618fcba"
+    },
+    {
+      "id": 59,
+      "title": "Alibaba Stock Retakes Key Level After Gains From Nvidia News",
+      "summary": "Alibaba stock regains key level after benefiting from Nvidia's ability to sell AI chips in China.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:10:11Z",
+      "url": "https://biztoc.com/x/60e4802d02025255"
+    },
+    {
+      "id": 60,
+      "title": "aider-lint-fixer 1.7.0",
+      "summary": "Aider-lint-fixer 1.7.0 uses AI-powered technology for lint error detection and fixing through aider.chat.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:10:04Z",
+      "url": "https://pypi.org/project/aider-lint-fixer/1.7.0/"
+    },
+    {
+      "id": 61,
+      "title": "This Search Engine Lets You Hide AI-Generated Images in Search Results",
+      "summary": "This Search Engine Lets You Hide AI-Generated Images in Search Results - Reduce the number of AI images in your searches with DuckDuckGo.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:08:35Z",
+      "url": "https://www.cnet.com/tech/services-and-software/this-search-engine-lets-you-hide-ai-generated-images-in-search-results/"
+    },
     {
       "id": 51,
       "title": "Netflix announces record $11 billion revenue as fans rip slate of ‘garbage’ shows",
@@ -351,105 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T15:34:00Z",
       "url": "https://www.techspot.com/news/108716-amd-threadripper-pro-9995wx-set-you-back-11699.html"
-    },
-    {
-      "id": 52,
-      "title": "Barclays warns: ’Negative summer seasonality’ is looming",
-      "summary": "Barclays warns of 'negative summer seasonality' leading to elevated volatility in markets during August and September.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T15:33:35Z",
-      "url": "https://finance.yahoo.com/news/barclays-warns-negative-summer-seasonality-153335239.html"
-    },
-    {
-      "id": 53,
-      "title": "Free health clinic coming to Portland Community Center on July 30",
-      "summary": "A free health clinic, scheduled for July 30 at the Portland Community Center, will offer screenings and preventive care to underserved Coastal Bend residents.",
-      "source": "KRIS Corpus Christi News",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:33:31Z",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/san-patricio-county/portland/free-health-clinic-coming-to-portland-community-center-on-july-30"
-    },
-    {
-      "id": 54,
-      "title": "Is Generative AI Replacing Junior Developers?",
-      "summary": "Generative AI tools are reshaping the first rung on the engineering career ladder, potentially impacting entry-level developers.",
-      "source": "DevOps.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:32:51Z",
-      "url": "https://devops.com/is-generative-ai-replacing-junior-developers/"
-    },
-    {
-      "id": 55,
-      "title": "AI Business Magazine - July 2025",
-      "summary": "AI Business Magazine offers actionable insights and real-world strategies for businesses to integrate AI into their operations, boosting productivity and exploring the latest AI trends.",
-      "source": "Rlsbb.cc",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:32:50Z",
-      "url": "https://post.rlsbb.cc/ai-business-magazine-july-2025/"
-    },
-    {
-      "id": 56,
-      "title": " Napoli: Conte's press conference live on OneFootball",
-      "summary": "Napoli's press conference focuses on preparing for the upcoming 2025/2026 season, highlighting their championship win and future ambitions.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:32:00Z",
-      "url": "https://onefootball.com/en/news/napoli-contes-press-conference-live-on-onefootball-41392222"
-    },
-    {
-      "id": 57,
-      "title": "Show HN: Rove – Ultimate Chat UI for OpenRouter",
-      "summary": "Rove is a chat UI for OpenRouter that aims to provide an ultimate user experience. The platform is designed to enhance communication and streamline interactions through AI technology.",
-      "source": "Rove.chat",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:31:15Z",
-      "url": "https://rove.chat/home"
-    },
-    {
-      "id": 58,
-      "title": "A programmer beat an OpenAI tool at coding. He says the AI made him push himself to win.",
-      "summary": "A programmer beat an OpenAI tool at coding, pushing himself to win. OpenAI congratulated the champion for holding them off at the AtCoder Heuristics World Finals in Tokyo.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:30:24Z",
-      "url": "https://www.businessinsider.com/programmer-beat-openai-atcoder-coding-competition-sam-altman-psyho-2025-7"
-    },
-    {
-      "id": 59,
-      "title": "Woman Bombarded With Mystery Walmart Packages of BBQ Sauce—'Crazy'",
-      "summary": "Chicago resident receives mystery Walmart packages of BBQ sauce, believed to be AI-generated. Raises concerns about privacy and unsolicited deliveries.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:30:07Z",
-      "url": "https://biztoc.com/x/6807ec0b67886e63"
-    },
-    {
-      "id": 60,
-      "title": "Walmart Recall Nationwide: Customers Told to 'Immediately Stop' Using Products",
-      "summary": "Walmart is recalling e-bikes nationwide due to faulty lithium-ion batteries that pose a fire hazard, highlighting ethical concerns with AI-generated voice technology.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T15:30:05Z",
-      "url": "https://biztoc.com/x/ca65b167b8962b2d"
-    },
-    {
-      "id": 61,
-      "title": "What is Umamusume? The New Viral Horse Racing Game Explained",
-      "summary": "Gamers worldwide are becoming obsessed with Umamusume, a new viral horse racing game that uses AI-generated voices. The game has sparked increased interest in real-life horse racing and support for stables from fans.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T15:30:04Z",
-      "url": "https://biztoc.com/x/009573b89e5082a1"
-    },
-    {
-      "id": 62,
-      "title": "Video Friday: Robot Metabolism",
-      "summary": "Video Friday features a selection of robotics videos and upcoming robotics events, including a showcase of robot metabolism. ",
-      "source": "Ieee.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:30:03Z",
-      "url": "https://spectrum.ieee.org/video-friday-robot-metabolism"
     }
   ]
 }
