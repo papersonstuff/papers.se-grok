@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-19T23:42:18.955Z",
+  "lastUpdate": "2025-07-19T23:53:36.343Z",
   "items": [
+    {
+      "id": 51,
+      "title": "swe-ai-agent 1.0.22",
+      "summary": "swe-ai-agent 1.0.22 is a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T23:52:58Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.22/"
+    },
+    {
+      "id": 52,
+      "title": "rich-agents 0.2.1",
+      "summary": "The rich-agents 0.2.1 toolkit offers support for financial trading analysis and patent intelligence systems, providing a unified multi-agent AI solution.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T23:52:52Z",
+      "url": "https://pypi.org/project/rich-agents/0.2.1/"
+    },
+    {
+      "id": 53,
+      "title": "Republican calls out Trump admin's decision to resume GPU sales to China",
+      "summary": "Republican chair questions the ethics of Trump administration's decision to resume GPU sales to China",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:52:23Z",
+      "url": "https://www.theregister.com/2025/07/18/trump_gpu_china/"
+    },
+    {
+      "id": 54,
+      "title": "CRMOne: Boost Sales With This Sales-Driven AI-First CRM",
+      "summary": "CRMOne is a sales-driven AI-first CRM aimed at helping startups and growing businesses manage customer relationships, track sales, and scale marketing efforts more efficiently. It addresses challenges such as disconnected tools, limited automation, and high subscription costs that hinder progress in sales and marketing for companies in their early stages.",
+      "source": "Martech.zone",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:51:18Z",
+      "url": "https://martech.zone/crmone-ai-powered-crm-for-startups-and-growing-businesses/"
+    },
+    {
+      "id": 55,
+      "title": "Best VPS & VDS Hosting 2025: The Only Guide You’ll Need for Smart, Scalable Projects | HackerNoon",
+      "summary": "Choosing the right virtual server is crucial for businesses to run smoothly, handle traffic spikes, and avoid costly downtime in 2025.",
+      "source": "hackernoon.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T23:47:34Z",
+      "url": "https://hackernoon.com/best-vps-and-vds-hosting-2025-the-only-guide-youll-need-for-smart-scalable-projects"
+    },
     {
       "id": 51,
       "title": "avalan 1.2.11",
@@ -405,51 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T22:13:52Z",
       "url": "https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/"
-    },
-    {
-      "id": 53,
-      "title": "Agents lag behind AI 2027's schedule",
-      "summary": "Agents lag behind AI 2027's schedule, raising questions about the accuracy of the timeline established in 2025.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-18T22:13:15Z",
-      "url": "https://www.lesswrong.com/posts/wcTKRYSt7QinNNkGx/agents-lag-behind-ai-2027-s-schedule"
-    },
-    {
-      "id": 54,
-      "title": "Trump Sues Murdoch: List of Defendants in Lawsuit Over Epstein Letter",
-      "summary": "President Donald Trump sues over AI-generated story revealing 'bawdy' letter sent to Jeffrey Epstein, raising concerns about the ethics of AI applications in creating potentially false information.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T22:10:47Z",
-      "url": "https://biztoc.com/x/76bbcf3df22b0230"
-    },
-    {
-      "id": 55,
-      "title": "Trump Sues Murdoch: List of Defendants in Lawsuit Over Epstein Letter",
-      "summary": "President Trump sues over a report on a letter to Jeffrey Epstein, raising ethical concerns over the use of AI-generated content.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T22:10:47Z",
-      "url": "https://biztoc.com/x/76bbcf3df22b0230"
-    },
-    {
-      "id": 56,
-      "title": "Amazon now requires staff to show AI use to get promoted at Ring and some other units",
-      "summary": "Amazon now requires staff to show AI use to get promoted at Ring and some other units, with Jamie Siminoff making big changes including mandating AI use for promotions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T22:10:24Z",
-      "url": "https://biztoc.com/x/16a8824e635d0e04"
-    },
-    {
-      "id": 57,
-      "title": "Amazon now requires staff to show AI use to get promoted at Ring and some other units",
-      "summary": "Amazon now requires staff to show AI use to get promoted at Ring and some other units. The founder of Ring, Jamie Siminoff, is back at Amazon and is implementing changes including mandating the use of AI for promotions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T22:10:24Z",
-      "url": "https://biztoc.com/x/16a8824e635d0e04"
     }
   ]
 }
