@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-19T14:34:48.867Z",
+  "lastUpdate": "2025-07-19T14:50:47.804Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How Distillation Makes AI Models Smaller and Cheaper",
+      "summary": "Fundamental technique allows researchers to use a big 'teacher' model to train a smaller 'student' model for less, making AI models smaller and cheaper.",
+      "source": "Quanta Magazine",
+      "category": "research",
+      "timestamp": "2025-07-18T14:50:08Z",
+      "url": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
+    },
+    {
+      "id": 52,
+      "title": "I hate Windows 11 a little less because of this tiny free app",
+      "summary": "I hate Windows 11 a little less because of this tiny free app - I like Windows 11 a lot less than I liked Windows 10—and that was before it started advertising to me incessantly and filling up every nook and cranny of the experience with 'AI' I neither wanted nor asked for.",
+      "source": "PCWorld",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:49:56Z",
+      "url": "https://www.pcworld.com/article/2847973/i-hate-windows-11-a-little-less-because-of-this-tiny-free-app.html"
+    },
+    {
+      "id": 53,
+      "title": "tf-nightly 2.21.0.dev20250718",
+      "summary": "tf-nightly 2.21.0.dev20250718 - TensorFlow is an open source machine learning framework for everyone.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T14:49:13Z",
+      "url": "https://pypi.org/project/tf-nightly/2.21.0.dev20250718/"
+    },
+    {
+      "id": 54,
+      "title": "$1.99: Read Write Own: Building the Next Era of the Internet (eBook) by Chris Dixon",
+      "summary": "The eBook 'Read Write Own: Building the Next Era of the Internet' by Chris Dixon is available on various retailers like Amazon, iBooks, Barnes & Noble, Google Play Store, Kobo, and Bookshop.",
+      "source": "Slickdeals.net",
+      "category": "applications",
+      "timestamp": "2025-07-18T14:49:10Z",
+      "url": "https://slickdeals.net/f/18467752-1-99-read-write-own-building-the-next-era-of-the-internet-ebook-by-chris-dixon"
+    },
+    {
+      "id": 55,
+      "title": "5 best investment management CRMs in 2025",
+      "summary": "5 best investment management CRMs in 2025 highlighted for their ability to handle high-stakes portfolios, detailed reporting cycles, and compliance rules in investment firms.",
+      "source": "Hubspot.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T14:48:45Z",
+      "url": "https://blog.hubspot.com/marketing/investment-management-crm#article"
+    },
+    {
+      "id": 56,
+      "title": "Humidity Sensor Company Evaluation Report 2025 | Amphenol, Honeywell, and Texas Instruments Lead Humidity Sensor Market with Innovation, Global Expansion, and Sector Diversification",
+      "summary": "Amphenol, Honeywell, and Texas Instruments are leading the humidity sensor market with innovation, global expansion, and sector diversification. The Humidity Sensor Companies Quadrant provides a detailed analysis of the top 25 players in the market, highlighting technology advancements, product innovations, and industry trends.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-18T14:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118021/28124/en/Humidity-Sensor-Company-Evaluation-Report-2025-Amphenol-Honeywell-and-Texas-Instruments-Lead-Humidity-Sensor-Market-with-Innovation-Global-Expansion-and-Sector-Diversification.html"
+    },
+    {
+      "id": 57,
+      "title": "Exclusive: Google Pixel Watch 4 adds all-new Strength Training Experience",
+      "summary": "Google Pixel Watch 4 adds all-new Strength Training Experience to help users train smarter with a Workout Builder.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-18T14:46:40Z",
+      "url": "https://www.androidheadlines.com/google-pixel-watch-4-strength-training"
+    },
+    {
+      "id": 58,
+      "title": "Coldplay concert scandal: Woman who filmed Astronomer CEO Andy Byron and Kristin Cabot on kiss cam reacts",
+      "summary": "Coldplay concert scandal involving Astronomer CEO and Chief People Officer on kiss cam sparks controversy",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:46:35Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/coldplay-concert-scandal-woman-who-filmed-astronomer-ceo-andy-byron-and-kristin-cabot-on-kiss-cam-reacts/articleshow/122767761.cms"
+    },
+    {
+      "id": 59,
+      "title": "Amazon Recall Update: Customers Told 'Dispose' of Product Parts Nationwide",
+      "summary": "A recliner chair sold on Amazon with malfunctioning USB ports has been recalled, with customers advised to dispose of the product parts nationwide. The AI-generated voice used in the update may lead to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:45:49Z",
+      "url": "https://biztoc.com/x/fe9ed09080d45f6d"
+    },
+    {
+      "id": 60,
+      "title": "dualdb-memory-plugin 0.1.6",
+      "summary": "Dualdb-memory-plugin 0.1.6 is a lightweight AI dialogue memory rotation plugin that supports dual DB (JSON/SQLite) and pluggable summarizer.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T14:45:39Z",
+      "url": "https://pypi.org/project/dualdb-memory-plugin/0.1.6/"
+    },
+    {
+      "id": 61,
+      "title": "commandor-ai 0.0.1",
+      "summary": "Commandor-ai 0.0.1 is an intelligent terminal assistant that uses AI to convert natural language to shell commands.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T14:45:27Z",
+      "url": "https://pypi.org/project/commandor-ai/0.0.1/"
+    },
+    {
+      "id": 62,
+      "title": "Bank of America makes its boldest AMD call yet",
+      "summary": "Bank of America makes a bold call on AMD stock, creating a significant buzz in the market with a billion-dollar tailwind.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T14:45:23Z",
+      "url": "https://biztoc.com/x/2e6fd0126aca4986"
+    },
+    {
+      "id": 63,
+      "title": "Why OpenAI’s Advisory Board Is Calling for Continued Nonprofit Oversight",
+      "summary": "OpenAI's Advisory Board is calling for continued nonprofit oversight due to the consequential nature of the AI technology being developed.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:45:15Z",
+      "url": "https://biztoc.com/x/86d32b62c6f9c385"
+    },
     {
       "id": 51,
       "title": "CEO of One of America's Largest Transit Systems Quits Over Green Card Issue",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T13:49:51Z",
       "url": "https://biztoc.com/x/d997230730a51da2"
-    },
-    {
-      "id": 65,
-      "title": "Mystery Illness Strikes 140 on Luxury Cruise After Departing US",
-      "summary": "More than 140 passengers and crew members mysteriously fell ill during a luxury Royal Caribbean cruise that recently departed Los Angeles for Mexico. Newsweek has contacted Royal Caribbean for more information.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:49:43Z",
-      "url": "https://biztoc.com/x/7a0a32d5c62d6910"
-    },
-    {
-      "id": 66,
-      "title": "Donald Trump Reacts to Stephen Colbert News, Predicts Who Is Next",
-      "summary": "President Donald Trump's reaction to AI-generated news predicting the next late-night talk show host to be cut raises ethical concerns about the use of AI in creating and spreading misinformation.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:49:42Z",
-      "url": "https://biztoc.com/x/67b6e1a22bfb5a6d"
-    },
-    {
-      "id": 51,
-      "title": "Samsung has finally released the Galaxy A56 in the United States",
-      "summary": "Samsung has finally released the Galaxy A56 in the United States, which is one of the best Samsung phones in the mid-range segment. It had been out in many markets, but the US launch was confirmed earlier in the year and the device has just been released.",
-      "source": "SamMobile",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:40:20Z",
-      "url": "https://www.sammobile.com/news/save-175-gbp-or-more-on-samsung-galaxy-a56-uk/"
-    },
-    {
-      "id": 52,
-      "title": "New AI-powered method accelerates protein simulations and reveals complex folding dynamics",
-      "summary": "New AI-powered method accelerates protein simulations and reveals complex folding dynamics. An international team led by Einstein Professor Cecilia Clementi in the Department of Physics at Freie Universität Berlin has introduced CGSchNet, a machine-learned coarse-grained (CG) model that can accurately and efficiently simulate proteins like never before.",
-      "source": "Phys.Org",
-      "category": "research",
-      "timestamp": "2025-07-18T13:40:05Z",
-      "url": "https://phys.org/news/2025-07-ai-powered-method-protein-simulations.html"
-    },
-    {
-      "id": 53,
-      "title": "DAZN to invest ₹500 cr on sports tech GCC",
-      "summary": "DAZN is investing ₹500 crore on sports tech GCC, which will be a base for global operations with 3,000 employees by 2026.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:39:54Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/dazn-to-invest-500-cr-on-sports-tech-gcc/article69827981.ece"
-    },
-    {
-      "id": 54,
-      "title": "How to Build Your Career as a Content Creator While Working as a Freelancer",
-      "summary": "The article discusses how freelancers can build a career as content creators in the growing creator economy, which has seen over 165 million creators join social media since 2020.",
-      "source": "Millo.co",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:39:10Z",
-      "url": "https://millo.co/how-to-build-your-career-as-a-content-creator-while-working-as-a-freelancer"
-    },
-    {
-      "id": 55,
-      "title": "Weight-Loss Drugs Telehealth Platform Hims & Hers Hit With New Lawsuit",
-      "summary": "A stockholder has filed a derivative lawsuit against the board of directors of Hims & Hers, the telehealth platform, for inconsistencies in their weight-loss products.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T13:38:52Z",
-      "url": "https://biztoc.com/x/a2d4637b836cc4ec"
-    },
-    {
-      "id": 56,
-      "title": "Lenovo Xiaoxin Pro GT: Flagship Specs in a Shockingly Thin Body",
-      "summary": "Lenovo Xiaoxin Pro GT offers flagship specs in a surprisingly thin body, showcasing innovation in the design and engineering of laptops.",
-      "source": "Gizchina.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:38:33Z",
-      "url": "https://www.gizchina.com/2025/07/18/lenovo-xiaoxin-pro-gt-flagship-specs-thin-body/"
-    },
-    {
-      "id": 57,
-      "title": "Large-scale shipments of Nvidia GB300 servers tipped to start in September — GB200 demand remains 'robust' despite widespread coolant leak reports",
-      "summary": "Large-scale shipments of Nvidia GB300 servers expected to start in September, with continued strong demand for GB200 despite coolant leak reports. Design reuse and modular approach contributing to smoother rollout of servers, but liquid cooling remains a challenge.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:35:34Z",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/large-scale-shipments-of-nvidia-gb300-servers-tipped-to-start-in-september-gb200-demand-remains-robust-despite-widespread-coolant-leak-reports"
-    },
-    {
-      "id": 58,
-      "title": "Business Operations-Focused AI-Driven Solutions - The Kyndryl Agentic AI Framework is Efficient (TrendHunter.com)",
-      "summary": "The Kyndryl Agentic AI Framework is an efficient solution for enterprises looking to enhance operations through adaptive, self-learning technology.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:35:05Z",
-      "url": "https://www.trendhunter.com/trends/agentic-ai-framework"
-    },
-    {
-      "id": 59,
-      "title": "iPadOS 26 is turning my iPad Air into the ultraportable laptop it was meant to be",
-      "summary": "iPadOS 26 is turning my iPad Air into the ultraportable laptop it was meant to be - Apple is finally delivering what the iPad has been missing.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:35:00Z",
-      "url": "https://www.zdnet.com/article/ipados-26-is-turning-my-ipad-air-into-the-ultraportable-laptop-it-was-meant-to-be/"
-    },
-    {
-      "id": 60,
-      "title": "Britain just launched its top supercomputer. Here’s how it ranks globally",
-      "summary": "The UK has launched its 11th most powerful supercomputer in the world, Isambard-AI, hosted at the University of Bristol. Built by Hewlett-Packard Enterprises, the machine officially went live this week.",
-      "source": "The Next Web",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:34:39Z",
-      "url": "https://thenextweb.com/news/britain-just-launched-its-top-supercomputer-heres-how-it-ranks-globally"
-    },
-    {
-      "id": 61,
-      "title": "gllm-inference-binary 0.4.25",
-      "summary": "gllm-inference-binary 0.4.25 is a library containing components related to model inferences in Gen AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:34:38Z",
-      "url": "https://pypi.org/project/gllm-inference-binary/0.4.25/"
     }
   ]
 }
