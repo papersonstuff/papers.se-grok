@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-19T04:57:49.668Z",
+  "lastUpdate": "2025-07-19T05:22:59.503Z",
   "items": [
+    {
+      "id": 51,
+      "title": "swe-ai-agent 1.0.12",
+      "summary": "The release of SWE-AI-Agent 1.0.12 features a Headless Agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:20:37Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.12/"
+    },
+    {
+      "id": 52,
+      "title": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams",
+      "summary": "Chinese leader Xi Jinping questions if all of China should focus on developing the same high-tech sectors like EVs and AI, as challenges arise due to price wars and overcapacity.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:19:26Z",
+      "url": "https://biztoc.com/x/e64cfa8fcd0ace61"
+    },
+    {
+      "id": 53,
+      "title": "Pilots’ body calls for reconstitution of AAIB’s team investigating AI crash",
+      "summary": "Pilots' body calls for reconstitution of AIIB's team investigating AI crash due to technical flaws and lack of subject matter experts.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-18T05:18:35Z",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/pilots-body-calls-for-reconstitution-of-aaibs-team-investigating-ai-crash/article69824344.ece"
+    },
+    {
+      "id": 54,
+      "title": "Rematch Review",
+      "summary": "Rematch Review is a series that will primarily appeal to chess enthusiasts, but also contains a lot of drama and intrigue to engage a wider audience. Norma Godinho notes that the show's mix of chess and storytelling keeps viewers hooked across all six episodes.",
+      "source": "Rediff.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:18:12Z",
+      "url": "https://www.rediff.com/movies/review/rematch-review/20250718.htm"
+    },
+    {
+      "id": 55,
+      "title": "CoreWeave Target of Unusually Large Options Trading (NASDAQ:CRWV)",
+      "summary": "CoreWeave Inc. (NASDAQ:CRWV) saw unusually large options trading on Thursday, with investors purchasing 373,356 call options on the company, representing a 42% increase compared to the average daily volume.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:14:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/coreweave-target-of-unusually-large-options-trading-nasdaqcrwv/"
+    },
+    {
+      "id": 56,
+      "title": "QRAFT AI-Enhanced U.S. Large Cap ETF Sees Unusually High Options Volume (NYSEARCA:QRFT)",
+      "summary": "QRAFT AI-Enhanced U.S. Large Cap ETF (NYSEARCA:QRFT) experienced unusually high options trading with 14,648 call options purchased, representing a significant increase compared to previous trading.",
+      "source": "ETF Daily News",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:14:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/qraft-ai-enhanced-u-s-large-cap-etf-sees-unusually-high-options-volume-nysearcaqrft/"
+    },
+    {
+      "id": 57,
+      "title": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams",
+      "summary": "Xi Jinping is questioning if all of China should chase the same AI and EV dreams, as the top leadership pledges to curb 'involutionary' competition amid intense price wars.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:12:03Z",
+      "url": "https://www.businessinsider.com/china-eonomy-xi-jinping-industry-involution-competition-ev-ai-deflation-2025-7"
+    },
+    {
+      "id": 58,
+      "title": "Stonepeak Invests $1.3 Billion In Warburg Pincus-Backed Data Center Operator Princeton Digital",
+      "summary": "Stonepeak invests $1.3 billion in Princeton Digital to expand data center capacity in Asia Pacific, aiming to tap into rapidly growing digital hubs.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:09:39Z",
+      "url": "https://www.forbes.com/sites/yessarrosendar/2025/07/18/stonepeak-invests-13-billion-in-warburg-pincus-backed-data-center-operator-princeton-digital/"
+    },
     {
       "id": 51,
       "title": "mimicx 0.1.12",
@@ -378,78 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T02:49:16Z",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ltimindtree-shares-in-focus-after-q1-profit-rises-11-yoy-to-rs-1255-crore-revenue-up-8/articleshow/122716859.cms"
-    },
-    {
-      "id": 51,
-      "title": "Morning Brief Podcast: Brandalore Rising!",
-      "summary": "Bengaluru is becoming India's new advertising hub, rivalling Mumbai and Delhi, driven by a mix of startups, digitally native brands, and independent firms.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T01:14:15Z",
-      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-brandalore-rising/podcast/122707660.cms"
-    },
-    {
-      "id": 52,
-      "title": "Nvidia CEO: If I were a 20-year-old again today, this is the field I would focus on in college",
-      "summary": "Nvidia CEO Jensen Huang believes that students should focus on the physical sciences if they were to start college today, emphasizing the importance of this field for future innovation in AI.",
-      "source": "CNBC",
-      "category": "innovation",
-      "timestamp": "2025-07-18T01:13:59Z",
-      "url": "https://www.cnbc.com/2025/07/18/nvidia-ceo-jensen-huang-study-field-computer-science-software-gpu-alexnet-generative-physical-ai-university.html"
-    },
-    {
-      "id": 53,
-      "title": "Fed Governor Lisa Cook: AI Set to Reshape Labor Market",
-      "summary": "Fed Governor Lisa Cook discusses how AI is set to reshape the labor market, with the Federal Reserve studying its impact and utilizing the technology for its own work.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T01:13:43Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/fed-governor-lisa-cook-ai-set-to-reshape-labor-market/"
-    },
-    {
-      "id": 54,
-      "title": "Vaishnaw lauds Meghalaya village-level entrepreneur for leading grassroots digital empowerment",
-      "summary": "Union minister Ashwini Vaishnaw lauded Rose Angelina M Kharsyntiew, a village-level entrepreneur (VLE) from Meghalaya, for her role in driving digital empowerment at the grassroots level.",
-      "source": "Thehillstimes.in",
-      "category": "applications",
-      "timestamp": "2025-07-18T01:10:00Z",
-      "url": "https://thehillstimes.in/northeast/vaishnaw-lauds-meghalaya-village-level-entrepreneur-for-leading-grassroots-digital-empowerment"
-    },
-    {
-      "id": 55,
-      "title": "phonic-python 0.1.19",
-      "summary": "phonic-python 0.1.19 is the official Python SDK for building voice AI with Phonic, enabling developers to create voice AI applications easily.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T01:05:20Z",
-      "url": "https://pypi.org/project/phonic-python/0.1.19/"
-    },
-    {
-      "id": 56,
-      "title": "Chip Maker TSMC's Stock Rises on Upbeat Outlook for Revenue, Strong AI Demand",
-      "summary": "Chip Maker TSMC's stock rises on upbeat outlook for revenue, driven by strong AI demand",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T01:05:03Z",
-      "url": "https://biztoc.com/x/9300d34f3c32b569"
-    },
-    {
-      "id": 57,
-      "title": "Asian stocks edge up after US gains, dollar dips",
-      "summary": "Asian stocks edge up after US gains, driven by positive economic data and strong performances in tech stocks like Taiwan Semiconductor and Netflix.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T01:05:01Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-edge-up-after-us-gains-dollar-dips/articleshow/122706746.cms"
-    },
-    {
-      "id": 58,
-      "title": "Wipro revenue drops 2.3% in June quarter",
-      "summary": "Wipro's Q1 revenue declined by 2.3% in constant currency, attributed to muted demand caused by macro uncertainty. Clients are prioritizing cost optimization and AI initiatives, impacting the revenue.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T01:03:14Z",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/wipro-revenue-drops-2-3-in-june-quarter/articleshow/122706298.cms"
     }
   ]
 }
