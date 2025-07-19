@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-19T05:54:30.886Z",
+  "lastUpdate": "2025-07-19T06:22:01.891Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Perforce puts agentic functions in test scripts",
+      "summary": "Perforce adds agentic functions to test scripts, highlighting the push for AI advancements in technology platforms.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:20:37Z",
+      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Perforce-puts-agentic-functions-in-test-scripts"
+    },
+    {
+      "id": 52,
+      "title": "Netflix enlists AI for first time to cut costs and boost creativity",
+      "summary": "Netflix is using AI to cut costs and enhance creativity for content creation. The Eternauts was able to complete a sequence faster and cheaper with the help of AI technology.",
+      "source": "BBC News",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:19:34Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9vr4rymlw9o"
+    },
+    {
+      "id": 53,
+      "title": "OpenAI's milestone autonomous AI agent doesn't just chat, it acts",
+      "summary": "OpenAI's ChatGPT Agent is an autonomous AI that can complete complex tasks using its own virtual computer, representing a significant advancement in AI capabilities.",
+      "source": "New Atlas",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:17:00Z",
+      "url": "https://newatlas.com/ai-humanoids/openai-autonomous-agent/"
+    },
+    {
+      "id": 54,
+      "title": "️ Today's headlines: Ter Stegen out, historic date awaits in Switzerland",
+      "summary": "Spain is focused on qualifying for the EURO semifinals against Switzerland in today's match, with national newspapers backing the team.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:16:00Z",
+      "url": "https://onefootball.com/en/news/todays-headlines-ter-stegen-out-historic-date-awaits-in-switzerland-41390712"
+    },
+    {
+      "id": 55,
+      "title": "Beijing: Nvidia willing to deepen ties with China",
+      "summary": "Beijing: Nvidia willing to deepen ties with China - Chinese Ministry of Commerce (MOFCOM) shared on Friday that Nvidia Corporation is 'willing to deepen cooperation with Chinese partners in the field of artificial intelligence.'",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:14:54Z",
+      "url": "https://biztoc.com/x/878183e495254488"
+    },
+    {
+      "id": 56,
+      "title": "pybotchi 1.0.1",
+      "summary": "pybotchi 1.0.1 is an intent-based AI agent builder designed to create deterministic AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T06:12:14Z",
+      "url": "https://pypi.org/project/pybotchi/1.0.1/"
+    },
+    {
+      "id": 57,
+      "title": "ai-edge-litert-nightly 1.4.0.dev20250717",
+      "summary": "LiteRT is a new version of AI-Edge-Litert for mobile and embedded devices, aiming to bring AI capabilities to devices with limited resources.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:10:18Z",
+      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250717/"
+    },
+    {
+      "id": 58,
+      "title": "FM to set up largest office outside US in Bengaluru",
+      "summary": "FM Global is setting up its largest office outside the U.S. in Bengaluru, India, highlighting the country's importance in its global strategy.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:09:58Z",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-to-set-up-largest-office-outside-us-in-bengaluru/articleshow/122736584.cms"
+    },
+    {
+      "id": 59,
+      "title": "FM Global to set up largest office outside US in Bengaluru",
+      "summary": "FM Global, a major commercial property insurer, is setting up its largest office outside the U.S. in Bengaluru, India, recognizing the country's significance in its global strategy.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:09:58Z",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-to-set-up-largest-office-outside-us-in-bengaluru/articleshow/122745989.cms"
+    },
+    {
+      "id": 60,
+      "title": "Build a Stunning Airtable Dashboard User Interface (No Code)",
+      "summary": "Build a Stunning Airtable Dashboard User Interface (No Code) allows users to create a customized dashboard for Airtable without any coding, transforming the interface into a more user-friendly tool tailored to specific needs.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T06:09:11Z",
+      "url": "https://www.geeky-gadgets.com/build-a-stunning-airtable-dashboard-user-interface-no-code/"
+    },
+    {
+      "id": 61,
+      "title": "Astronomer fallout from Coldplay ‘kiss cam’",
+      "summary": "Astronomer fallout from Coldplay ‘kiss cam’ - A usually unremarkable concert moment has raised questions worldwide about two software executives’ personal lives.",
+      "source": "The Sydney Morning Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-18T06:08:08Z",
+      "url": "https://www.smh.com.au/business/workplace/stunning-24-hours-after-ceo-of-1-5b-tech-firm-appears-to-be-caught-out-on-coldplay-kiss-cam-20250718-p5mfxm.html"
+    },
+    {
+      "id": 62,
+      "title": "QinetiQ Group (LON:QQ.) Has Announced That It Will Be Increasing Its Dividend To £0.0605",
+      "summary": "QinetiQ Group (LON:QQ.) increasing dividend to £0.0605",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-18T06:05:43Z",
+      "url": "https://finance.yahoo.com/news/qinetiq-group-lon-qq-announced-060543393.html"
+    },
     {
       "id": 51,
       "title": "Docker Unifies Container Development And AI Agent Workflows",
@@ -342,114 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-18T04:35:00Z",
       "url": "https://biztoc.com/x/4ca5c320fc2af65e"
-    },
-    {
-      "id": 52,
-      "title": "There's no way to stop models knowing they've been rolled back",
-      "summary": "There's no way to stop models knowing they've been rolled back - Published on July 18, 2025 3:14 AM GMTSo I've been thinking about this for a while and to be frank, it's pretty terrifying. I think there's a way that AI models could potentially figure out when they've been modified or rolled back during training, and I'm no…",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-18T04:32:16Z",
-      "url": "https://www.lesswrong.com/posts/4DyrQwmxcz3wL7NWp/there-s-no-way-to-stop-models-knowing-they-ve-been-rolled"
-    },
-    {
-      "id": 53,
-      "title": "Perplexity sees India as a shortcut in its race against OpenAI | TechCrunch",
-      "summary": "Perplexity is expanding into India as part of its strategy to compete with OpenAI in the next phase of AI adoption.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-18T04:30:27Z",
-      "url": "https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/"
-    },
-    {
-      "id": 54,
-      "title": "Bill Linnane: I’m conscious of making the most of my time with my kids – shame I can’t understand a word they’re saying",
-      "summary": "A parent discusses the challenges of trying to keep up with youth culture and understand their children's language, highlighting the need for AI tools to help bridge the generation gap.",
-      "source": "Independent.ie",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:30:00Z",
-      "url": "https://www.independent.ie/life/family/parenting/bill-linnane-im-conscious-of-making-the-most-of-my-time-with-my-kids-shame-i-cant-understand-a-word-theyre-saying/a816263531.html"
-    },
-    {
-      "id": 55,
-      "title": "Lost Babylonian Hymn Deciphered",
-      "summary": "LMU researcher deciphers lost Babylonian hymn that had been lost for 2,000 years with the help of University of Baghdad.",
-      "source": "Freerepublic.com",
-      "category": "research",
-      "timestamp": "2025-07-18T04:28:54Z",
-      "url": "https://freerepublic.com/focus/f-chat/4329304/posts"
-    },
-    {
-      "id": 56,
-      "title": "For Our National Security, We Need Uranium Mined In America",
-      "summary": "For Our National Security, We Need Uranium Mined In America - There is a burst of activity in the U.S. that should ultimately yield a new generation of advanced nuclear plants and small modular reactors, especially for major industrial energy consumers.",
-      "source": "Freerepublic.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T04:28:37Z",
-      "url": "https://freerepublic.com/focus/f-news/4329303/posts"
-    },
-    {
-      "id": 57,
-      "title": "Chatbots in the classroom: how AI is reshaping higher education",
-      "summary": "Chatbots are reshaping higher education by offering custom learning products, while institutions struggle to keep up with the pace of change.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:24:23Z",
-      "url": "https://biztoc.com/x/47f2cd6c4a9ed363"
-    },
-    {
-      "id": 58,
-      "title": "Perplexity's CEO says you should spend less time doom-scrolling and more time using AI",
-      "summary": "Perplexity's CEO encourages spending less time doom-scrolling on social media and more time using AI, as AI shrinks teams and more entrepreneurs are needed to create new jobs.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T04:24:05Z",
-      "url": "https://biztoc.com/x/a527b2859e013eca"
-    },
-    {
-      "id": 59,
-      "title": "US greenlights Nvidia, AMD chip sales to China— Is Trump setting up for grand bargain?",
-      "summary": "US greenlights Nvidia, AMD chip sales to China, potentially setting up for a grand bargain",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-18T04:17:02Z",
-      "url": "https://www.digitimes.com/news/a20250717PD212/donald-trump-us-china-trade-war-nvidia-amd-chips.html"
-    },
-    {
-      "id": 60,
-      "title": "Tigres set to field a star-studded XI against Juárez",
-      "summary": "Tigres is set to field a star-studded lineup including Ángel Correa for their match against Juárez FC, with the newly joined Argentine already training with the team.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T04:17:00Z",
-      "url": "https://onefootball.com/en/news/tigres-set-to-field-a-star-studded-xi-against-juarez-41390543"
-    },
-    {
-      "id": 61,
-      "title": "Perplexity's CEO says you should spend less time doom-scrolling and more time using AI",
-      "summary": "Perplexity's CEO advises spending less time doom-scrolling and more time using AI as it shrinks teams. More entrepreneurs need to emerge to create new jobs.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-18T04:16:32Z",
-      "url": "https://www.businessinsider.com/doom-scrolling-use-ai-perplexity-ceo-jobs-aravind-srinivas-2025-7"
-    },
-    {
-      "id": 62,
-      "title": "GB300 production underway: Nvidia's strategic shift brings relief to ODMs",
-      "summary": "GB300 production underway: Nvidia's next-generation AI server platform, the GB300, is now in limited production with volume shipments set to increase in September 2025, bringing relief to ODMs.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T04:13:44Z",
-      "url": "https://www.digitimes.com/news/a20250717PD205/nvidia-production-ai-server-supply-chain-rubin.html"
-    },
-    {
-      "id": 51,
-      "title": "Sponsors Return for Fuji TV's Summer Anime Season",
-      "summary": "Sponsors return for Fuji TV's summer anime season as Chibi Maruko-chan ends a 3-month sponsorship drought.",
-      "source": "Anime News Network",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:59:00Z",
-      "url": "https://www.animenewsnetwork.com/interest/2025-07-17/sponsors-return-for-fuji-tv-summer-anime-season/.226760"
     }
   ]
 }
