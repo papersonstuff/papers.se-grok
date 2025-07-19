@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-19T07:14:26.051Z",
+  "lastUpdate": "2025-07-19T07:31:31.518Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Stocks to Buy | Navigating a tough market: Precision over breadth",
+      "summary": "Stocks to Buy | Navigating a tough market: Precision over breadth - Siddharth Bothra, in an interview with ET Now, said that the earnings growth over the next two years will be in the early double digits, which is relatively modest.",
+      "source": "Economictimes.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:30:29Z",
+      "url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-navigating-a-tough-market-precision-over-breadth/market-outlook-muted-returns-ahead/slideshow/122745512.cms"
+    },
+    {
+      "id": 52,
+      "title": "camel-ai 0.2.72a8",
+      "summary": "The release of camel-ai 0.2.72a8 focuses on Communicative Agents for AI Society Study, aiming to advance research in AI communication. This version introduces new features for studying the interactions between AI agents within society.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-18T07:30:27Z",
+      "url": "https://pypi.org/project/camel-ai/0.2.72a8/"
+    },
+    {
+      "id": 53,
+      "title": "Lessons from history’s most notorious procrastinators: How delay became genius",
+      "summary": "Lessons from history’s most notorious procrastinators show that working with our tendencies is often more effective than fighting them.",
+      "source": "Livemint",
+      "category": "research",
+      "timestamp": "2025-07-18T07:30:19Z",
+      "url": "https://www.livemint.com/opinion/online-views/mozart-hannibal-napoleon-darwin-wright-hugo-adams-kafka-leonardo-einstein-procrastination-strategy-pomodoro-technique-11752815533204.html"
+    },
+    {
+      "id": 54,
+      "title": "I tested HP's new EliteBook X G1i, and it's a featherweight champ in the office",
+      "summary": "HP's new EliteBook X G1i offers impressive performance with an 18-hour battery life, making it a great choice for office use.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:30:19Z",
+      "url": "https://www.zdnet.com/article/i-tested-hps-new-elitebook-x-g1i-and-its-a-featherweight-champ-in-the-office/"
+    },
+    {
+      "id": 55,
+      "title": "GitHub - Meirtz/Awesome-Context-Engineering:  Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents.",
+      "summary": "Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems, including papers on Large Language Models and Prompt Engineering techniques.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-18T07:27:18Z",
+      "url": "https://github.com/Meirtz/Awesome-Context-Engineering"
+    },
+    {
+      "id": 56,
+      "title": "Principal Financial Group Inc. Takes Position in Penguin Solutions, Inc. (NASDAQ:PENG)",
+      "summary": "Principal Financial Group Inc. purchased a new position in shares of Penguin Solutions, Inc. (NASDAQ:PENG – Free Report) during the first quarter, Holdings Channel.com reports.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:27:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/principal-financial-group-inc-takes-position-in-penguin-solutions-inc-nasdaqpeng/"
+    },
+    {
+      "id": 57,
+      "title": "$14 development board features GUITION ESP32-P4 + ESP32-C6 module",
+      "summary": "$14 development board combines GUITION ESP32-P4 and ESP32-C6 modules into a single package for IoT development.",
+      "source": "CNX Software",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:26:07Z",
+      "url": "https://www.cnx-software.com/2025/07/18/14-development-board-features-guition-esp32-p4-esp32-c6-module/"
+    },
+    {
+      "id": 58,
+      "title": " Man City unveil their new away kit",
+      "summary": "Manchester City unveiled their new all-black away kit for the 2025-26 season, marking a unique design choice in the world of football jerseys.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:26:00Z",
+      "url": "https://onefootball.com/en/news/man-city-unveil-their-new-away-kit-41390916"
+    },
+    {
+      "id": 59,
+      "title": "Ripple’s XRP Mining News: PFMCrypto Launches First-Ever Cloud Mining for XRP with AI-Optimized Daily Rewards",
+      "summary": "Ripple's XRP mining news: PFMCrypto launches first-ever cloud mining for XRP with AI-optimized daily rewards, making XRP mining simple, scalable, and accessible for investors at all levels.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:25:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117740/0/en/Ripple-s-XRP-Mining-News-PFMCrypto-Launches-First-Ever-Cloud-Mining-for-XRP-with-AI-Optimized-Daily-Rewards.html"
+    },
+    {
+      "id": 60,
+      "title": "Viasat Inc. (NASDAQ:VSAT) Shares Bought by Principal Financial Group Inc.",
+      "summary": "Principal Financial Group Inc. increased its holdings in shares of Viasat Inc. by 3.4% in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:22:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/viasat-inc-nasdaqvsat-shares-bought-by-principal-financial-group-inc/"
+    },
+    {
+      "id": 61,
+      "title": "langchain-cloudsway added to PyPI",
+      "summary": "langchain-cloudsway added to PyPI - An integration package connecting Cloudsway and LangChain",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:21:52Z",
+      "url": "https://pypi.org/project/langchain-cloudsway/"
+    },
+    {
+      "id": 62,
+      "title": "OTAs aren’t stealing your guests. You’re giving them away.",
+      "summary": "A hotel general manager is frustrated by the rising number of OTA guest bookings and the fees that come with them, as direct bookings decrease. This highlights the economic impact of OTAs on hotels.",
+      "source": "Hospitality Net",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:21:00Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128216.html"
+    },
+    {
+      "id": 63,
+      "title": "TSMC raises 2025 revenue forecast on AI demand despite macro headwinds",
+      "summary": "TSMC raises 2025 revenue forecast due to AI demand, despite macro headwinds. The company benefits from robust demand for high-performance computing chips driven by AI applications.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:20:51Z",
+      "url": "https://www.digitimes.com/news/a20250718PD219/tsmc-ai-demand-outlook-revenue-2025.html"
+    },
+    {
+      "id": 64,
+      "title": "Dentsu expands global innovation lab network with new centre in India",
+      "summary": "Dentsu has expanded its global innovation lab network by launching Dentsu Lab in India, focusing on projects involving AI, immersive tech, and human insight.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:19:52Z",
+      "url": "https://economictimes.indiatimes.com/industry/services/advertising/dentsu-expands-global-innovation-lab-network-with-new-centre-in-india/articleshow/122742717.cms"
+    },
+    {
+      "id": 65,
+      "title": "Moonvalley Raises $84 Million, Venice Immersive Selections, Grok’s Naughty Avatars",
+      "summary": "Moonvalley raises $84 million for Marey AI video model, 'Post Truth' all-AI doc released in theaters, Grok's Avatars go all the way.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:19:35Z",
+      "url": "https://www.forbes.com/sites/charliefink/2025/07/18/moonvalley-raises-84-million-venice-immersive-selections-groks-naughty-avatars/"
+    },
+    {
+      "id": 66,
+      "title": "72,161 Shares in Alight, Inc. (NYSE:ALIT) Bought by Teacher Retirement System of Texas",
+      "summary": "Teacher Retirement System of Texas bought 72,161 shares in Alight, Inc. in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:16:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/72161-shares-in-alight-inc-nysealit-bought-by-teacher-retirement-system-of-texas/"
+    },
     {
       "id": 51,
       "title": "Realme Buds T200 announced, launching July 24",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T06:09:58Z",
       "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-to-set-up-largest-office-outside-us-in-bengaluru/articleshow/122736584.cms"
-    },
-    {
-      "id": 59,
-      "title": "FM Global to set up largest office outside US in Bengaluru",
-      "summary": "FM Global, a major commercial property insurer, is setting up its largest office outside the U.S. in Bengaluru, India, recognizing the country's significance in its global strategy.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T06:09:58Z",
-      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-to-set-up-largest-office-outside-us-in-bengaluru/articleshow/122745989.cms"
-    },
-    {
-      "id": 60,
-      "title": "Build a Stunning Airtable Dashboard User Interface (No Code)",
-      "summary": "Build a Stunning Airtable Dashboard User Interface (No Code) allows users to create a customized dashboard for Airtable without any coding, transforming the interface into a more user-friendly tool tailored to specific needs.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:09:11Z",
-      "url": "https://www.geeky-gadgets.com/build-a-stunning-airtable-dashboard-user-interface-no-code/"
-    },
-    {
-      "id": 61,
-      "title": "Astronomer fallout from Coldplay ‘kiss cam’",
-      "summary": "Astronomer fallout from Coldplay ‘kiss cam’ - A usually unremarkable concert moment has raised questions worldwide about two software executives’ personal lives.",
-      "source": "The Sydney Morning Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-18T06:08:08Z",
-      "url": "https://www.smh.com.au/business/workplace/stunning-24-hours-after-ceo-of-1-5b-tech-firm-appears-to-be-caught-out-on-coldplay-kiss-cam-20250718-p5mfxm.html"
-    },
-    {
-      "id": 62,
-      "title": "QinetiQ Group (LON:QQ.) Has Announced That It Will Be Increasing Its Dividend To £0.0605",
-      "summary": "QinetiQ Group (LON:QQ.) increasing dividend to £0.0605",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T06:05:43Z",
-      "url": "https://finance.yahoo.com/news/qinetiq-group-lon-qq-announced-060543393.html"
-    },
-    {
-      "id": 51,
-      "title": "Docker Unifies Container Development And AI Agent Workflows",
-      "summary": "Docker unifies container development and AI agent workflows, providing a standardized mechanism for AI development with flexibility in framework choice.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:53:20Z",
-      "url": "https://www.forbes.com/sites/janakirammsv/2025/07/18/docker-unifies-container-development-and-ai-agent-workflows/"
-    },
-    {
-      "id": 52,
-      "title": "Promising Digital Media Stocks To Consider – July 16th",
-      "summary": "Seven promising digital media stocks to watch on July 16th, according to MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:53:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/promising-digital-media-stocks-to-consider-july-16th/"
-    },
-    {
-      "id": 53,
-      "title": "TD Cowen Raises MicroStrategy (NASDAQ:MSTR) Price Target to $680.00",
-      "summary": "TD Cowen raised MicroStrategy's price target to $680.00 in a research note, with a buy rating on the software maker's stock.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-18T05:52:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/td-cowen-raises-microstrategy-nasdaqmstr-price-target-to-680-00/"
-    },
-    {
-      "id": 54,
-      "title": "Nvidia CEO Huang Emerges as Reluctant Emissary in US-China Clash",
-      "summary": "Nvidia CEO Jensen Huang becomes involved in US-China clash after meeting with President Trump and audience in Beijing.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:52:41Z",
-      "url": "https://www.livemint.com/companies/news/nvidia-ceo-huang-emerges-as-reluctant-emissary-in-us-china-clash-11752817961889.html"
-    },
-    {
-      "id": 55,
-      "title": "Bitcoin Stocks To Watch Today – July 16th",
-      "summary": "Marathon Digital, IREN, Riot Platforms, Bit Digital, and Cleanspark are the five Bitcoin stocks to watch today, according to MarketBeat’s stock screener tool. Bitcoin stocks are shares of publicly traded companies whose core business involves Bitcoin.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:50:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/bitcoin-stocks-to-watch-today-july-16th/"
-    },
-    {
-      "id": 56,
-      "title": "Asian shares mostly advance after Wall Street cruises to more records",
-      "summary": "Asian shares mostly advance after Wall Street reaches new records following positive updates on the economy and mixed profit reports from major U.S. companies.",
-      "source": "ABC News",
-      "category": "economy",
-      "timestamp": "2025-07-18T05:50:23Z",
-      "url": "https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-wall-street-cruises-records-123854769"
-    },
-    {
-      "id": 57,
-      "title": "bobbot_noir1458 added to PyPI",
-      "summary": "bobbot_noir1458, an AI chatbot with multiple personalities, has been added to PyPI, allowing users to easily access and use the innovative technology for various communication needs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:49:50Z",
-      "url": "https://pypi.org/project/bobbot-noir1458/"
-    },
-    {
-      "id": 58,
-      "title": "China's spy agency attacks foreign efforts to 'steal' rare earths",
-      "summary": "China's Ministry of State Security announced crackdown on foreign spy agencies attempting to steal rare earths, emphasizing the importance of protecting critical mineral sector from infiltration and espionage.",
-      "source": "Japan Today",
-      "category": "ethics",
-      "timestamp": "2025-07-18T05:48:35Z",
-      "url": "https://japantoday.com/category/world/china%27s-spy-agency-attacks-foreign-efforts-to-%27steal%27-rare-earths"
-    },
-    {
-      "id": 59,
-      "title": "common-pile/caselaw_access_project · Datasets at Hugging Face",
-      "summary": "Common-pile/caselaw_access_project datasets are now available at Hugging Face, aiming to advance and democratize artificial intelligence through open source and open science.",
-      "source": "Huggingface.co",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:47:01Z",
-      "url": "https://huggingface.co/datasets/common-pile/caselaw_access_project"
-    },
-    {
-      "id": 60,
-      "title": "【報】自民52→30　公明14→9　立憲22→27　参政1→15",
-      "summary": "The number of AI-related members in the Japanese political parties has changed, with the Liberal Democratic Party having 30 members, Komeito having 9 members, the Constitutional Democratic Party having 27 members, and the People First Party having 15 members.",
-      "source": "Matometanews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T05:45:30Z",
-      "url": "http://matometanews.com/archives/2104901.html"
-    },
-    {
-      "id": 51,
-      "title": "【9/2(火)・参加無料】AI活用術を身につける3つのワークショップ開催&VC監修の事業開発プロンプトもプレゼント！",
-      "summary": "Three workshops on learning AI utilization techniques will be held, along with the presentation of business development prompts supervised by VCs, by Protostar Co., Ltd.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-18T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000126.000023145.html"
-    },
-    {
-      "id": 52,
-      "title": "【7/31開催】AIの最前線を知る、松尾研究室所属のCTOが語る！AI戦略コンサルタントの仕事を徹底解剖！｜FLUX × ヤマトヒューマンキャピタル",
-      "summary": "CTO from Matsuo Laboratory will discuss the forefront of AI and dissect the job of AI strategy consultant at an event hosted by FLUX and Yamato Human Capital.",
-      "source": "Prtimes.jp",
-      "category": "research",
-      "timestamp": "2025-07-18T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000175.000137297.html"
     }
   ]
 }
