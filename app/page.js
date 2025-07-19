@@ -2,16 +2,18 @@
 
 import { useEffect, useState } from 'react';
 import Head from 'next/head';
-import { useSession } from 'next-auth/react';
+import { SessionProvider, useSession } from 'next-auth/react';
 
-export default function Home() {
+export const dynamic = 'force-dynamic';  // Disable prerender to fix useSession error
+
+function MainContent() {
   const { data: session, status } = useSession();
   const [allNews, setAllNews] = useState([]);
   const [currentCategory, setCurrentCategory] = useState('all');
 
   if (status === 'loading') return <p>Loading session...</p>;
   if (!session) {
-    window.location.href = '/auth/signin';  // Changed to custom page URL
+    window.location.href = '/auth/signin';
     return <p>Redirecting to sign-in...</p>;
   }
 
@@ -50,7 +52,7 @@ export default function Home() {
     return response.json();
   }
 
-  // ... The rest of your original JS functions (setupCategoryTabs, displayNews, createNewsCard, getTimeAgo, getCategoryIcon, updateTimestamps, showError)
+  // ... Your other functions (setupCategoryTabs, displayNews, createNewsCard, getTimeAgo, getCategoryIcon, updateTimestamps, showError)
 
   return (
     <>
@@ -95,5 +97,13 @@ export default function Home() {
         /* Your full original CSS here */
       `}</style>
     </>
+  );
+}
+
+export default function Home() {
+  return (
+    <SessionProvider>
+      <MainContent />
+    </SessionProvider>
   );
 }
