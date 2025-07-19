@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T14:14:18.641Z",
+  "lastUpdate": "2025-07-19T14:34:48.867Z",
   "items": [
+    {
+      "id": 51,
+      "title": "CEO of One of America's Largest Transit Systems Quits Over Green Card Issue",
+      "summary": "The CEO of one of the largest transit systems in the U.S. steps down due to green card issue, impacting the organization's leadership and potentially economic stability.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T14:34:39Z",
+      "url": "https://biztoc.com/x/76c8980141655e7f"
+    },
+    {
+      "id": 52,
+      "title": "How Gen Z’s entry into the workplace is being affected by AI",
+      "summary": "Are Gen Z losing out on internships and early-career positions because of AI?",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:34:30Z",
+      "url": "https://biztoc.com/x/ca94a4ac6b27567b"
+    },
+    {
+      "id": 53,
+      "title": "Mom Given Option To Terminate at 20 Weeks, Unprepared for What Happens Next",
+      "summary": "A mom who was given the option to terminate her pregnancy was unprepared for what happened next. Kristina shared her story on Instagram, highlighting the emotional impact of such a decision.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:34:27Z",
+      "url": "https://biztoc.com/x/41298ef5ad01e47e"
+    },
+    {
+      "id": 54,
+      "title": "Recycled Polyolefin Market Size to Exceed USD 144.2 Billion by 2034",
+      "summary": "Global recycled polyolefin market size is projected to surpass USD 144.2 billion by 2034, with a compound annual growth rate of 8.95% according to Towards chem and Materials consultants.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T14:34:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118016/0/en/Recycled-Polyolefin-Market-Size-to-Exceed-USD-144-2-Billion-by-2034.html"
+    },
+    {
+      "id": 55,
+      "title": "Top Republican on China panel objects to resumption of Nvidia H20 chip shipments",
+      "summary": "Top Republican on China panel objects to resumption of Nvidia H20 chip shipments",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-18T14:33:37Z",
+      "url": "https://www.yahoo.com/news/top-republican-china-panel-objects-143337670.html"
+    },
+    {
+      "id": 56,
+      "title": "What is MySQL?",
+      "summary": "MySQL is a user-friendly relational database management system that uses SQL to store and manage data. It is a popular choice for various applications due to its scalability and open source nature.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T14:33:00Z",
+      "url": "https://www.techtarget.com/searchoracle/definition/MySQL"
+    },
+    {
+      "id": 57,
+      "title": "Medical Filtration Company Benchmark Report 2025 | Merck KGaA, 3M, and Danaher Strengthen Medical Filtration Market Leadership Through Strategic Expansions, Spin-Offs, and Mergers",
+      "summary": "The Medical Filtration Companies Quadrant report analyzes the global medical filtration market, highlighting key players such as Merck KGaA, 3M, and Danaher. These companies are strengthening their market leadership through strategic expansions, spin-offs, and mergers, reflecting ongoing advancements and trends in the medical filtration industry.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-18T14:32:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118013/28124/en/Medical-Filtration-Company-Benchmark-Report-2025-Merck-KGaA-3M-and-Danaher-Strengthen-Medical-Filtration-Market-Leadership-Through-Strategic-Expansions-Spin-Offs-and-Mergers.html"
+    },
+    {
+      "id": 58,
+      "title": "ASRock Cranks The Hype Dial To 11 On 'Exciting' New X870 And X870E Motherboards",
+      "summary": "ASRock is generating excitement with its new X870 and X870E motherboards for AMD Ryzen builds, showcasing innovation in motherboard technology.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-18T14:32:00Z",
+      "url": "https://hothardware.com/news/asrock-cranks-the-hype-dial-to-11-on-exciting-new-x870-and-x870e"
+    },
+    {
+      "id": 59,
+      "title": "Scientists Discover a New Phase of Game Show!",
+      "summary": "Scientists have discovered a new phase of game show which provides insight into the physics of phase transitions using random votes, open pipes, and water.",
+      "source": "Condmat.org",
+      "category": "research",
+      "timestamp": "2025-07-18T14:30:28Z",
+      "url": "https://condmat.org/p/scientists-discover-a-new-phase-of"
+    },
+    {
+      "id": 60,
+      "title": "OpenAI Quietly Turns to Google to Stay Online",
+      "summary": "OpenAI, the powerful AI company, turned to Google for help to stay online, highlighting the financial challenges even the biggest players in the industry face.",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T14:30:08Z",
+      "url": "https://gizmodo.com/openai-quietly-turns-to-google-to-stay-online-2000631252"
+    },
+    {
+      "id": 61,
+      "title": "Meet Aprilynne Alter, who’s helping YouTubers go pro with her Creator Crew bootcamp",
+      "summary": "Meet Aprilynne Alter, who’s helping YouTubers go pro with her Creator Crew bootcamp. She set herself a deadline of one year to figure out her future, transitioning from hospitality operations to pursuing her childhood dream of becoming a writer.",
+      "source": "Tubefilter",
+      "category": "startups",
+      "timestamp": "2025-07-18T14:30:06Z",
+      "url": "https://www.tubefilter.com/2025/07/18/aprilynne-alter-creator-crew-spotify/"
+    },
     {
       "id": 51,
       "title": "Image Comics: Frank J. Barbiere & Morgan Beem's The Author Immortal",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T13:34:38Z",
       "url": "https://pypi.org/project/gllm-inference-binary/0.4.25/"
-    },
-    {
-      "id": 62,
-      "title": "AIXA Miner Integrates More Advanced AI Capabilities Arrive in Cloud Mining",
-      "summary": "AIXA Miner integrates more advanced AI capabilities in cloud mining, showcasing the ongoing transformation of tech sectors by artificial intelligence.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:34:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117971/0/en/AIXA-Miner-Integrates-More-Advanced-AI-Capabilities-Arrive-in-Cloud-Mining.html"
-    },
-    {
-      "id": 63,
-      "title": "PepsiCo moves toward North America “integration” in productivity drive",
-      "summary": "PepsiCo is aiming to integrate its operations in North America to increase productivity and improve competitiveness. CEO Ramon Laguarta believes that this move will modernize the company and make it more agile in the marketplace over time.",
-      "source": "just-drinks.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:33:07Z",
-      "url": "https://www.just-drinks.com/news/pepsico-moves-toward-north-america-integration-in-productivity-drive-2/"
-    },
-    {
-      "id": 64,
-      "title": "Soft condorcet optimization for ranking of general agents",
-      "summary": "Soft condorcet optimization for ranking of general agents is a new research paper by Lanctot, Marc and team. The paper introduces a soft condorcet optimization method for ranking general agents.",
-      "source": "Lse.ac.uk",
-      "category": "research",
-      "timestamp": "2025-07-18T13:33:02Z",
-      "url": "http://eprints.lse.ac.uk/128883/"
-    },
-    {
-      "id": 65,
-      "title": "The Future of Urban Farming: Inside the Growing Home Hydroponics Market | Asia Pacific Leads the Charge",
-      "summary": "The global home hydroponics market is projected to grow significantly by 2030, driven by increasing urbanization.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117964/0/en/The-Future-of-Urban-Farming-Inside-the-Growing-Home-Hydroponics-Market-Asia-Pacific-Leads-the-Charge.html"
-    },
-    {
-      "id": 66,
-      "title": "Sports.com and Lottery.com Head to Toronto as Callum Ilott and Louis Foster Prepare for Final Street Battle of 2025",
-      "summary": "Sports.com and Lottery.com are heading to Toronto for the final street battle of 2025 where Callum Ilott and Louis Foster will compete. SEGG Media aims to target momentum, exposure, and strategic expansion.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117967/0/en/Sports-com-and-Lottery-com-Head-to-Toronto-as-Callum-Ilott-and-Louis-Foster-Prepare-for-Final-Street-Battle-of-2025.html"
-    },
-    {
-      "id": 67,
-      "title": "Inverter Welding Equipment Market to Surpass USD 8.63 Billion By 2032, Owing to Rising Demand for Energy-Efficient, Sustainable and Automated Welding Solutions – SNS Insider",
-      "summary": "Inverter welding equipment market projected to surpass USD 8.63 billion by 2032, driven by increasing demand for energy-efficient, sustainable, and automated welding solutions in the U.S.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117966/0/en/Inverter-Welding-Equipment-Market-to-Surpass-USD-8-63-Billion-By-2032-Owing-to-Rising-Demand-for-Energy-Efficient-Sustainable-and-Automated-Welding-Solutions-SNS-Insider.html"
-    },
-    {
-      "id": 68,
-      "title": "U.S. Smart Home Healthcare Market Set to Attain Valuation of US$ 65.46 Billion By 2033 | Astute Analytica",
-      "summary": "U.S. Smart Home Healthcare Market projected to reach a valuation of US$65.46 billion by 2033, driven by aging demographics and the need for chronic disease management, leading to potential cost savings in the national healthcare system.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T13:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117962/0/en/U-S-Smart-Home-Healthcare-Market-Set-to-Attain-Valuation-of-US-65-46-Billion-By-2033-Astute-Analytica.html"
-    },
-    {
-      "id": 69,
-      "title": "Udaan buys ShopKirana; Paytm Money’s new CEO",
-      "summary": "Udaan acquires ShopKirana and Paytm Money appoints new CEO in preparation for its listing.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T13:29:25Z",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/udaan-fortifies-fmcg-play-paytm-moneys-new-ceo/articleshow/122764902.cms"
-    },
-    {
-      "id": 70,
-      "title": " Team of the week for BR-2025 round 14 features seven clubs and Neymar",
-      "summary": "Team of the week for BR-2025 round 14 features seven clubs and Neymar - End of the 14th round of the Brasileirão with routs, surprises, and a new leader!It's time then to check out who stood out in the Serie A duels.Seven teams are in the Round Selection of OneFootball.C...",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-18T13:29:00Z",
-      "url": "https://sports.yahoo.com/article/team-week-br-2025-round-132900812.html"
-    },
-    {
-      "id": 51,
-      "title": "Robot metabolism: The next evolution of our overlords? (Video)",
-      "summary": "Engineers have developed robots with the ability to grow, self-repair, and morph by absorbing parts from other robots, inching us closer to the singularity.",
-      "source": "New Atlas",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:27:00Z",
-      "url": "https://newatlas.com/robotics/morphing-robot-metabolism/"
-    },
-    {
-      "id": 52,
-      "title": "Reflexive AI: Adapt or Become Obsolete",
-      "summary": "Reflexive AI emphasizes the need for companies to adapt to AI technology in order to avoid becoming obsolete in the rapidly changing landscape. Many companies are now realizing the importance of incorporating AI into their operations to stay competitive in the modern market.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T13:26:00Z",
-      "url": "https://www.forbes.com/sites/stephenmiles/2025/07/18/reflexive-ai-adapt-or-become-obsolete/"
     }
   ]
 }
