@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T23:17:00.471Z",
+  "lastUpdate": "2025-07-19T23:42:18.955Z",
   "items": [
+    {
+      "id": 51,
+      "title": "avalan 1.2.11",
+      "summary": "avalan 1.2.11 is a multi-backend, multi-modal framework designed for seamless AI agent development, orchestration, and deployment.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:33:58Z",
+      "url": "https://pypi.org/project/avalan/1.2.11/"
+    },
+    {
+      "id": 52,
+      "title": "resume limiting",
+      "summary": "In America, job seekers often send out hundreds of resumes, leading to companies receiving too many applications. This has prompted companies to implement resume limiting measures to manage the influx.",
+      "source": "Lesswrong.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T23:31:37Z",
+      "url": "https://www.lesswrong.com/posts/jGWDx6RyzKabs68eS/resume-limiting"
+    },
+    {
+      "id": 53,
+      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
+      "summary": "Benchmark is reportedly in talks to lead a Series A funding round for Greptile, an AI-powered code review startup, at a valuation of $180 million. The deal, led by Benchmark partner Eric Vishria, is said to be worth $30 million.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:29:06Z",
+      "url": "https://biztoc.com/x/ca072cf274b6839d"
+    },
+    {
+      "id": 54,
+      "title": "One Big Beautiful Bill, Wine Tariffs, Wearable Technology, Monetary Policy & AI | Wall Street Week",
+      "summary": "Former Treasury Secretary Lawrence H. Summers discusses how President Trump's One Big Beautiful Bill may impact many Americans' financial situation.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T23:26:01Z",
+      "url": "https://biztoc.com/x/b5c74aee44f2d557"
+    },
+    {
+      "id": 55,
+      "title": "Apple Loop: iPhone 17 Pro Release Date, iPhone Fold Design Leaks, MacBook Pro Disappointment",
+      "summary": "Apple Loop highlights various upcoming Apple products like the iPhone 17 Pro and iPhone Fold, as well as a delayed MacBook Pro release. It also mentions the possibility of Cyberpunk 2077 coming to macOS and Apple's plans for baseball.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:24:50Z",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/18/apple-news-headlines-iphone-17-pro-iphone-fold-macbook-pro-cyberpunk-2077/"
+    },
+    {
+      "id": 56,
+      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
+      "summary": "Benchmark is in discussion to lead the Series A funding for Greptile, which is an AI-code reviewer, at a valuation of $180M according to sources.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:22:36Z",
+      "url": "https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/"
+    },
+    {
+      "id": 57,
+      "title": "Android Circuit: Galaxy S26 Ultra Leaks, OnePlus’s New AI Launch, Pixel 10 Pro Fold Specs",
+      "summary": "This week's Android headlines include leaks about the Galaxy S26 Ultra and Pixel 10 Pro Fold specs, as well as OnePlus launching their new AI program PlusMind. The news also mentions the Galaxy Z Trifold and the innovative features such as thin design or wireless charging.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:22:25Z",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/18/android-news-headline-galaxy-s26-ultra-oneplus-plusmind-pixel-10-pro-fold/"
+    },
+    {
+      "id": 58,
+      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
+      "summary": "Benchmark is in discussions to lead the Series A funding round for Greptile, a startup specializing in AI-code review, potentially valuing the company at $180 million. The Y Combinator alum has raised $30 million in its Series A round.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:21:29Z",
+      "url": "https://finance.yahoo.com/news/benchmark-talks-lead-series-greptile-232129611.html"
+    },
+    {
+      "id": 59,
+      "title": "What Will Stephen Colbert Do After 'Late Show' Ends?",
+      "summary": "Stephen Colbert's future after 'Late Show' discussed in light of CBS admitting issues in late-night format.",
+      "source": "Hollywood Reporter",
+      "category": "innovation",
+      "timestamp": "2025-07-18T23:21:11Z",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-late-show-ends-future-1236319676/"
+    },
+    {
+      "id": 60,
+      "title": "AI Arms Race Heats Up As Startups Borrow Billions To Buy Nvidia GPUs",
+      "summary": "AI startups are borrowing billions to buy Nvidia GPUs in the midst of an AI arms race, with companies like Crusoe Energy Systems securing large credit lines to expand their data centers.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T23:18:00Z",
+      "url": "https://biztoc.com/x/d188a5d9118c31d2"
+    },
+    {
+      "id": 61,
+      "title": "Meta says it won't sign the EU's AI code of practice",
+      "summary": "Meta refuses to sign EU's AI code of practice, which provides guidelines for the AI Act regulating companies in the EU.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T23:17:44Z",
+      "url": "https://biztoc.com/x/67ce579097039691"
+    },
     {
       "id": 51,
       "title": "Astronomer clarifies Alyssa Stoddard was not at Coldplay event amid viral video speculation. Here's what happened",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T22:10:24Z",
       "url": "https://biztoc.com/x/16a8824e635d0e04"
-    },
-    {
-      "id": 58,
-      "title": "ONAR to Acquire Retina.ai, Boosting AI Marketing Intelligence",
-      "summary": "ONAR is set to acquire Retina.ai in order to enhance their AI marketing intelligence capabilities.",
-      "source": "Substack.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T22:08:05Z",
-      "url": "https://curatedbusinessnews.substack.com/p/943173a111b442282f7c551ee841c80c/comments"
-    },
-    {
-      "id": 59,
-      "title": "Have you heard? VSauce returns, KSI tries to turn a profit on YouTube, and MrBeast’s predictions come true.",
-      "summary": "VSauce returns to YouTube, KSI explores profit-making strategies on the platform, and MrBeast's predictions come to fruition in the creator industry.",
-      "source": "Tubefilter",
-      "category": "innovation",
-      "timestamp": "2025-07-18T22:06:16Z",
-      "url": "https://www.tubefilter.com/2025/07/18/roundup-vsauce-michael-stevens-ksi-youtube-mrbeast-predictions/"
-    },
-    {
-      "id": 60,
-      "title": "Meta Swears This Time Is Different",
-      "summary": "Meta is investing in a 'superintelligence' team after struggling with AI in the past.",
-      "source": "The Atlantic",
-      "category": "research",
-      "timestamp": "2025-07-18T22:05:40Z",
-      "url": "https://www.theatlantic.com/technology/archive/2025/07/meta-superintelligence-team/683607/"
-    },
-    {
-      "id": 61,
-      "title": "HSBC note says Apple’s AI fumble may stretch iPhone upgrade cycle",
-      "summary": "HSBC note says Apple’s AI fumble may stretch iPhone upgrade cycle",
-      "source": "9to5Mac",
-      "category": "economy",
-      "timestamp": "2025-07-18T22:05:06Z",
-      "url": "https://9to5mac.com/2025/07/18/hsbc-note-says-apples-ai-fumble-may-stretch-iphone-upgrade-cycle/"
-    },
-    {
-      "id": 62,
-      "title": "Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps",
-      "summary": "Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps - For novice developers or even those with expertise who want to spin up a new project fast, AnyCoder seems like a great place to start.",
-      "source": "VentureBeat",
-      "category": "startups",
-      "timestamp": "2025-07-18T22:03:25Z",
-      "url": "https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/"
-    },
-    {
-      "id": 63,
-      "title": "Binance Airdrops, Adds Trading Support for New Blockchain Integrating Interface Token Chainbase (C)",
-      "summary": "Binance is adding support and airdropping for Chainbase (C), an artificial intelligence (AI) altcoin that integrates blockchain interfaces.",
-      "source": "The Daily Hodl",
-      "category": "applications",
-      "timestamp": "2025-07-18T22:01:57Z",
-      "url": "https://dailyhodl.com/2025/07/18/binance-airdrops-adds-trading-support-for-new-blockchain-integrating-interface-token-chainbase-c/"
-    },
-    {
-      "id": 64,
-      "title": "Anamanaguchi talks Batman Rock",
-      "summary": "Anamanaguchi is working on a new album and recently released a Batman-themed video with an infographic on the history of Batman-centric music, signaling a new trend in music creation and promotion.",
-      "source": "Punknews.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T22:00:01Z",
-      "url": "https://www.punknews.org/article/86082/anamanaguchi-talks-batman-rock"
-    },
-    {
-      "id": 65,
-      "title": "China Just Started Using AI to Animate Film Adaptations — Is Labubu Next?",
-      "summary": "China has started using AI to animate film adaptations, prompting speculation about the use of the technology for retailer Pop Mart. Embracing AI could help the retailer adapt to trends, but there are concerns about cultural consequences in the U.S.",
-      "source": "IndieWire",
-      "category": "applications",
-      "timestamp": "2025-07-18T22:00:00Z",
-      "url": "https://www.indiewire.com/features/general/china-ai-labubu-1235137268/"
-    },
-    {
-      "id": 51,
-      "title": "Netflix Is Doubling Down on Ads and Dabbling in AI",
-      "summary": "Netflix is expanding its ad network and exploring AI technology as the future of its business.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:48:33Z",
-      "url": "https://biztoc.com/x/13b95458d7d03068"
-    },
-    {
-      "id": 52,
-      "title": "Why Women Are Rejecting the 'Summer Fling' on Dating Apps",
-      "summary": "Some women are rejecting the idea of a summer fling on dating apps, according to a new survey from Hily.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T21:48:27Z",
-      "url": "https://biztoc.com/x/3b8b1ad9c28babb7"
-    },
-    {
-      "id": 53,
-      "title": "Taiwan Dollar Strength Tests TSMC Amid AI Chip Boom",
-      "summary": "Taiwan Dollar Strength Tests TSMC Amid AI Chip Boom - Wendell Huang outlines spot sales, forwards and offshore cash moves to guard margins",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:47:04Z",
-      "url": "https://finance.yahoo.com/news/taiwan-dollar-strength-tests-tsmc-214704504.html"
     }
   ]
 }
