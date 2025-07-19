@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-19T17:35:46.307Z",
+  "lastUpdate": "2025-07-19T17:50:48.947Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Being human",
+      "summary": "Sam Altman highlights the importance of courtesy in AI interactions, reflecting our own values. AI's learned responses remind us of the ethical considerations in developing and using artificial intelligence.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T17:50:41Z",
+      "url": "https://economictimes.indiatimes.com/opinion/speaking-tree/being-human/articleshow/122770445.cms"
+    },
+    {
+      "id": 52,
+      "title": "Why Are So Few Women in Tech Leadership?",
+      "summary": "Unconscious bias, lack of support for working parents and willful ignorance of broader societal issues are persistent barriers to gender equity in tech.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-18T17:49:37Z",
+      "url": "https://www.newsweek.com/why-are-so-few-women-tech-leadership-2099254"
+    },
+    {
+      "id": 53,
+      "title": "CBS' Colbert Cancellation and Late-Night's Profit Free Fall",
+      "summary": "CBS' Colbert Cancellation and Late-Night's Profit Free Fall highlights the impact of ownership changes on 'The Late Show' franchise, as well as the challenges faced by traditional late-night programming in competing with cheaper and more abundant YouTube rivals.",
+      "source": "Hollywood Reporter",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:46:53Z",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/cbs-colbert-late-show-cancel-profit-tv-1236319484/"
+    },
+    {
+      "id": 54,
+      "title": "Hockerty’s Sneakers Brings Virtual Reality To Custom Made Looks",
+      "summary": "Hockerty's app for custom-made sneakers brings virtual reality to the shopping experience, allowing users to visualize their customized shoes before purchasing.",
+      "source": "WWD",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:46:42Z",
+      "url": "http://wwd.com/footwear-news/shoe-industry-news/app-custom-made-mens-hockerty-sneakers-augmented-reality-1237985760/"
+    },
+    {
+      "id": 55,
+      "title": "Astronomer finally speaks out, says CEO Andy Byron’s viral Coldplay Concert apology is fake. See all revelations made by AI firm",
+      "summary": "Astronomer AI firm confirms that a viral apology from CEO Andy Byron is fake, calling into question the ethics of the situation",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T17:44:10Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-statement-ceo-andy-byron-fake-apology-coldplay-concert-viral-video-kristin-cabot-hr-kiss-cam-coldplay-fix-you-social-media-hoax-truth/articleshow/122770083.cms"
+    },
+    {
+      "id": 56,
+      "title": "Report: AI risk management practices are severely lacking",
+      "summary": "Report reveals that AI companies, including those focused on AI safety like Anthropic, lack strong risk management practices.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T17:43:39Z",
+      "url": "https://biztoc.com/x/3d5753c798262076"
+    },
+    {
+      "id": 57,
+      "title": "intentkit 0.6.5.dev3",
+      "summary": "Intentkit 0.6.5.dev3 is an intent-based AI agent platform core package that has been released, offering new features and capabilities for developers to create intelligent AI agents. This platform enables developers to build sophisticated AI models that can understand user intents and provide personalized responses.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T17:43:39Z",
+      "url": "https://pypi.org/project/intentkit/0.6.5.dev3/"
+    },
+    {
+      "id": 58,
+      "title": "Trump set to unveil AI orders to boost US edge over China",
+      "summary": "Trump set to unveil AI orders to boost US edge over China with executive orders focusing on securing US AI edge against China, speedier permitting for data center buildouts, promoting US tech exports, and other moves to facilitate the nation's advancements.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T17:43:38Z",
+      "url": "https://biztoc.com/x/f3af5a3fdbb48e38"
+    },
     {
       "id": 51,
       "title": "A Prominent OpenAI Investor May Be Suffering an ChatGPT-Related Mental Health Crisis, His Peers Say",
@@ -378,78 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T16:37:12Z",
       "url": "https://biztoc.com/x/fee98e0fbe4609aa"
-    },
-    {
-      "id": 51,
-      "title": "Is your Ring camera showing strange logins? Here's what's going on",
-      "summary": "Ring camera users are reporting strange logins, with some users suspecting hacking despite Ring's denial. This raises concerns about personal privacy and data security in smart home devices.",
-      "source": "ZDNet",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:17:24Z",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/is-your-ring-camera-showing-strange-logins-heres-whats-going-on/"
-    },
-    {
-      "id": 52,
-      "title": "Tired Microsoft employees say layoffs impacting 9,000 people could've been avoided by reducing spending on AI instead: \"I can't believe how deep the cuts run\"",
-      "summary": "Microsoft employees believe layoffs impacting 9,000 people could've been avoided by reducing spending on AI, highlighting ethical concerns around prioritizing technology over human jobs",
-      "source": "GamesRadar+",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:16:19Z",
-      "url": "https://www.gamesradar.com/games/tired-microsoft-employees-say-layoffs-impacting-9-000-people-couldve-been-avoided-by-reducing-spending-on-ai-instead-i-cant-believe-how-deep-the-cuts-run/"
-    },
-    {
-      "id": 53,
-      "title": "Americans Told to Stay Out of the Sun in 20 States This Weekend",
-      "summary": "Americans are being warned to stay out of the sun in 20 states this weekend due to elevated UV radiation levels, as predicted by AI-generated voice technology. This highlights the application of AI in providing real-time weather alerts and helping protect public health.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T16:15:14Z",
-      "url": "https://biztoc.com/x/6c9f573844b61fe1"
-    },
-    {
-      "id": 54,
-      "title": "US and NATO Ally Flex Aircraft Carrier Muscles in Pacific",
-      "summary": "Aircraft carriers deployed by the United States and the United Kingdom conducted joint operations in the Pacific amid concerns over China's increasing presence.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T16:15:02Z",
-      "url": "https://biztoc.com/x/78bbb0d5b8e7afd7"
-    },
-    {
-      "id": 55,
-      "title": "Husband Denied Entry Into US to Get Body of His Dead Wife",
-      "summary": "A man in Mexico is unable to retrieve his wife's body in the US after her death in a car crash due to denied visa. The use of AI to generate voice denial may have led to inconsistencies in the decision.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:15:00Z",
-      "url": "https://biztoc.com/x/d42cf03590f86470"
-    },
-    {
-      "id": 56,
-      "title": "Deploy a full stack voice AI agent with Amazon Nova Sonic",
-      "summary": "Deploy a full stack voice AI agent named Telly for a fictional company called AnyTelco, which can handle customer inquiries about plans and services while accessing real-time customer data using custom tools.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T16:14:43Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-full-stack-voice-ai-agent-with-amazon-nova-sonic/"
-    },
-    {
-      "id": 57,
-      "title": "For Sterling K. Brown, Hulu's 'Washington Black' Seeks Black Joy, Not Pain",
-      "summary": "Sterling K. Brown emphasizes the importance of creating opportunities for other people in AI-generated voice performance for Hulu's 'Washington Black'.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:14:43Z",
-      "url": "https://biztoc.com/x/454c19b2c16ef39d"
-    },
-    {
-      "id": 51,
-      "title": "OpenAI Transforms ChatGPT Into an AI Agent",
-      "summary": "OpenAI is transforming ChatGPT into a fully agentic system capable of executing complex tasks using its own virtual computer and built-in tools.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T15:50:20Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/openai-transforms-chatgpt-into-an-ai-agent/"
     }
   ]
 }
