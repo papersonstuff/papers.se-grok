@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-19T09:15:11.435Z",
+  "lastUpdate": "2025-07-19T09:34:19.099Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Narayana Murthy says he knows someone already working 100 hours a week in a chat on Bengaluru-Mumbai flight",
+      "summary": "Narayana Murthy suggests young Indians work 70 hours a week, joking about people who work 100 hours. Tejasvi Surya's conversation with Murthy on work hours gains attention.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:33:04Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/narayana-murthy-says-he-knows-someone-already-working-100-hours-a-week-in-a-chat-on-bengaluru-mumbai-flight/articleshow/122759974.cms"
+    },
+    {
+      "id": 52,
+      "title": "Premier League: English clubs' crazy transfer market, huge sums ",
+      "summary": "Premier League English clubs are spending huge sums in the transfer market, driven by unmatched turnover. The prices of players are increasing as a result.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:33:00Z",
+      "url": "https://onefootball.com/en/news/premier-league-english-clubs-crazy-transfer-market-huge-sums-41391436"
+    },
+    {
+      "id": 53,
+      "title": "Reading Haven by Emma Donoghue.",
+      "summary": "Reading Haven by Emma Donoghue is an AI-related news article discussing the use of artificial intelligence in applications like reading and literature.",
+      "source": "Adactio.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:31:06Z",
+      "url": "https://adactio.com/notes/22025"
+    },
+    {
+      "id": 54,
+      "title": "Want to Free Up 15GB in Gmail? Here's How I Did It",
+      "summary": "Want to Free Up 15GB in Gmail? Here's How I Did It - Getting the 'storage full' alert? Here's how to clear space fast and safely.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:30:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/want-to-free-up-15gb-in-gmail-heres-how-i-did-it/"
+    },
+    {
+      "id": 55,
+      "title": "Jensen Huang would have ditched ‘coding’ for ‘physics’: Nvidia CEO urges mastering the real world for the next AI wave",
+      "summary": "Jensen Huang emphasizes the importance of mastering physics for the next wave of AI innovation, moving beyond just programming to understand the physical world.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:28:32Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/jensen-huang-would-have-ditched-coding-for-physics-nvidia-ceo-urges-mastering-the-real-world-for-the-next-ai-wave/articleshow/122758243.cms"
+    },
+    {
+      "id": 56,
+      "title": "Startup Perplexity AI hits $18 billion valuation after $100 million funding round",
+      "summary": "Startup Perplexity AI reaches an $18 billion valuation after raising $100 million in funding, following a previous round that valued the company at $14 billion.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T09:28:00Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startup-perplexity-ai-hits-18-billion-valuation-after-100-million-funding-round/articleshow/122761131.cms"
+    },
+    {
+      "id": 57,
+      "title": "Beyond SEPA: The true impact of payment fragmentation for payroll providers",
+      "summary": "Eddie Harrison discusses the impact of payment fragmentation on payroll providers and emphasizes the importance of payment curation for global growth.",
+      "source": "Electronicpaymentsinternational.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:27:41Z",
+      "url": "https://www.electronicpaymentsinternational.com/comment/true-impact-of-payment-fragmentation-for-payroll-providers/"
+    },
+    {
+      "id": 58,
+      "title": "Google's head of Android said the computer science major needs a 'rebrand'",
+      "summary": "Google's head of Android discusses the need to rebrand the computer science major to emphasize it's about more than just coding.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:27:01Z",
+      "url": "https://www.businessinsider.com/google-head-android-computer-science-major-rebrand-2025-7"
+    },
+    {
+      "id": 59,
+      "title": "mcp-kql-server 2.0.2",
+      "summary": "mcp-kql-server 2.0.2 is an AI-Powered server for KQL query execution, offering intelligent schema memory and context assistance.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:26:47Z",
+      "url": "https://pypi.org/project/mcp-kql-server/2.0.2/"
+    },
+    {
+      "id": 60,
+      "title": "The Pentagon will host a ‘Top Gun’ school for Ukraine-style attack drones",
+      "summary": "The Pentagon plans to establish a 'Top Gun' school for attack drones similar to those used by Ukraine as part of an effort to achieve American drone dominance, highlighting the push for innovation in military technology.",
+      "source": "Defense One",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:26:33Z",
+      "url": "https://www.defenseone.com/technology/2025/07/pentagon-will-host-top-gun-school-ukraine-style-attack-drones/406818/"
+    },
+    {
+      "id": 61,
+      "title": "ai-microcore 4.2.5",
+      "summary": "The ai-microcore 4.2.5 version provides a minimalistic foundation for AI applications, making it easier for developers to build AI functionalities. This update is aimed at improving the efficiency and effectiveness of AI systems in various applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:25:43Z",
+      "url": "https://pypi.org/project/ai-microcore/4.2.5/"
+    },
+    {
+      "id": 62,
+      "title": "New York State Common Retirement Fund Sells 75,535 Shares of Kyndryl Holdings, Inc. (NYSE:KD)",
+      "summary": "New York State Common Retirement Fund sold 75,535 shares of Kyndryl Holdings, Inc., lowering its holdings by 14.2% in the first quarter according to its recent 13F filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:24:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/new-york-state-common-retirement-fund-sells-75535-shares-of-kyndryl-holdings-inc-nysekd/"
+    },
+    {
+      "id": 63,
+      "title": "AI Context-Aware Assistants - TwinMind Captures, Summarizes, And Organizes Life With AI Intelligence (TrendHunter.com)",
+      "summary": "TwinMind is an AI-powered personal assistant designed to enhance productivity by capturing and processing real-time spoken information.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:22:06Z",
+      "url": "https://www.trendhunter.com/trends/twinmind"
+    },
+    {
+      "id": 64,
+      "title": "Japanese chipmaker Rapidus begins test production of 2nm circuits — company commits to single-wafer processing ahead of 2027 mass production target",
+      "summary": "Japanese chipmaker Rapidus starts test production of 2nm circuits and commits to single-wafer processing ahead of 2027 mass production target.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:21:09Z",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-begins-test-production-of-2nm-circuits-company-commits-to-single-wafer-processing-ahead-of-2027-mass-production-target"
+    },
+    {
+      "id": 65,
+      "title": "Trump White House's ‘Golden Age' POV Clip Triggers Massive Cringe Fest Online",
+      "summary": "Trump White House's ‘Golden Age' POV Clip triggers massive cringe fest online, with many calling it embarrassing and gross.",
+      "source": "HuffPost",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:20:07Z",
+      "url": "https://www.huffpost.com/entry/trump-white-house-make-it-rain-post_n_6879ffbfe4b00f995df4efe4"
+    },
+    {
+      "id": 66,
+      "title": "Special Ops 2 on Jio Hotstar: Money lessons from Neeraj Pandey’s excellent spy thriller with Kay Kay Menon",
+      "summary": "Special Ops 2 on Jio Hotstar raises questions about the ethical responsibilities of secret services and politicians when brave individuals sacrifice their lives for their agendas.",
+      "source": "Livemint",
+      "category": "ethics",
+      "timestamp": "2025-07-18T09:16:45Z",
+      "url": "https://www.livemint.com/money/personal-finance/special-ops-2-on-jio-hotstar-money-lessons-from-neeraj-pandey-s-excellent-spy-thriller-with-kay-kay-menon-11752829570043.html"
+    },
+    {
+      "id": 67,
+      "title": "Official: Corberán signs new deal at Valencia",
+      "summary": "Jesús Vázquez has renewed his contract with Valencia CF until June 2028, extending his commitment for three additional seasons.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T09:16:00Z",
+      "url": "https://onefootball.com/en/news/official-corberan-signs-new-deal-at-valencia-41391364"
+    },
+    {
+      "id": 68,
+      "title": "Using Claude Code to Build an Apple Watch App",
+      "summary": "Using AI to streamline the development of Apple Watch apps, Claude Code aims to simplify the process and make it more intuitive for developers.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T09:15:30Z",
+      "url": "https://www.geeky-gadgets.com/building-apple-watch-apps-with-claude-code-ai/"
+    },
+    {
+      "id": 69,
+      "title": "Exertis Enterprise looks to life after sale of IT business",
+      "summary": "Exertis Enterprise continues to operate under DCC Technology umbrella after the sale of IT business earlier this week.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T09:15:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366627955/Exertis-Enterprise-looks-to-life-after-sale-of-IT-business"
+    },
     {
       "id": 51,
       "title": " Back to 1884: City unveil retro-style away kit",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T08:34:57Z",
       "url": "https://www.digitimes.com/news/a20250718PD218/nvidia-exports-ai-chip-shipments-chips.html"
-    },
-    {
-      "id": 62,
-      "title": "Closing Britain to Global Talent Will Be An Act of Immense Self-Harm –London Mayor",
-      "summary": "At a time when the United States is tightening restrictions on international students, the Mayor of London, Sir Sadiq Khan, has called on the British government to keep the UK’s doors open to global talent, warning that closing Britain to global talent would be an act of immense self-harm.",
-      "source": "Thechronicle.com.gh",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:34:40Z",
-      "url": "https://thechronicle.com.gh/closing-britain-to-global-talent-will-be-an-act-of-immense-self-harm-london-mayor/"
-    },
-    {
-      "id": 63,
-      "title": "Foreign Minister Baiba Braže in the U.S.: The Allies have everything they need to address the threat posed by Russia",
-      "summary": "Foreign Minister Baiba Braže discussed international security and support to Ukraine during her working visit to the United States.",
-      "source": "Globalsecurity.org",
-      "category": "research",
-      "timestamp": "2025-07-18T08:33:32Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/07/russia-250717-latvia-mfa01.htm"
-    },
-    {
-      "id": 64,
-      "title": "5 Features Every AI-Powered SOC Platform Needs in 2025",
-      "summary": "A modern AI-based SOC platform needs to adapt in real time to handle alert overloads and fast-moving threats, surpassing traditional SIEM tools. Security operations centers are under immense pressure with overwhelmed analysts and overflowing alert queues.",
-      "source": "Securityaffairs.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:32:26Z",
-      "url": "https://securityaffairs.com/180070/security/5-features-every-ai-powered-soc-platform-needs-in-2025.html"
-    },
-    {
-      "id": 65,
-      "title": "Windsurf AI Wave 11 Update Overview : Voice, Deeper Browser Integrations and More",
-      "summary": "Windsurf AI has released its Wave 11 update, featuring voice interaction for hands-free coding, deeper browser integration for debugging, and enhancements specific to JetBrains.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:32:20Z",
-      "url": "https://www.geeky-gadgets.com/windsurf-ai-wave-11-update/"
-    },
-    {
-      "id": 66,
-      "title": "Banking AI Assistants - Lloyds Bank Introduced a Generative AI Tool for Operational Efficiency (TrendHunter.com)",
-      "summary": "Lloyds Bank introduced a generative AI tool named 'Athena' to enhance operational efficiency in customer service and internal banking processes.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:31:06Z",
-      "url": "https://www.trendhunter.com/trends/lloyds-bank"
-    },
-    {
-      "id": 67,
-      "title": "That free lunch your boss is offering might just be a way to get you back into the office",
-      "summary": "AI customer service platform Sendbird is using free lunch in the form of bahn mi sandwiches to incentivize workers to come into the office, and it is proving to be successful.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:31:01Z",
-      "url": "https://www.businessinsider.com/free-lunch-office-rto-return-to-office-jobs-2025-7"
-    },
-    {
-      "id": 68,
-      "title": "iPadOS 26’s Game-Changing Impact on the M4 iPad Pro",
-      "summary": "The M4 iPad Pro, in tandem with iPadOS 26, has redefined what an iPad can achieve, offering a harmonious blend of innovative hardware and refined software. This combination positions it as a versatile tool for creators, students, and professionals.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:30:12Z",
-      "url": "https://www.geeky-gadgets.com/ipados-26s-game-changing-impact-on-the-m4-ipad-pro/"
-    },
-    {
-      "id": 69,
-      "title": "XRP Surges 15% to $3.5 as PFMCrypto Launches Free XRP Mining Contracts, Attracting a Flood of XRP Holders",
-      "summary": "XRP surges 15% to $3.5 as PFMCrypto launches free XRP mining contracts, attracting a flood of XRP holders.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117763/0/en/XRP-Surges-15-to-3-5-as-PFMCrypto-Launches-Free-XRP-Mining-Contracts-Attracting-a-Flood-of-XRP-Holders.html"
-    },
-    {
-      "id": 70,
-      "title": "AI-Generated Lcryx Ransomware Discovered in Cryptomining Botnet",
-      "summary": "AI-generated Lcryx ransomware has been discovered in a cryptomining botnet that has been active since 2019, showcasing the application of AI in cyber attacks.",
-      "source": "Infosecurity Magazine",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:30:00Z",
-      "url": "https://www.infosecurity-magazine.com/news/lcryx-ransomware-discovered-crypto/"
-    },
-    {
-      "id": 51,
-      "title": "livekit-plugins-uplift 0.2.8",
-      "summary": "livekit-plugins-uplift 0.2.8 is an Agent Framework plugin for voice synthesis with Uplift AI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:19:26Z",
-      "url": "https://pypi.org/project/livekit-plugins-uplift/0.2.8/"
-    },
-    {
-      "id": 52,
-      "title": "New York State Common Retirement Fund Lowers Stock Holdings in Monolithic Power Systems, Inc. (NASDAQ:MPWR)",
-      "summary": "New York State Common Retirement Fund reduced its stock holdings in Monolithic Power Systems, Inc. by 2.0% in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:18:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/new-york-state-common-retirement-fund-lowers-stock-holdings-in-monolithic-power-systems-inc-nasdaqmpwr/"
-    },
-    {
-      "id": 53,
-      "title": "Amazon’s Kiro AI IDE: The Future of Smarter Software Development",
-      "summary": "Amazon has unveiled the Kiro AI IDE, which aims to revolutionize software development by offering features like predicting needs, streamlining workflows, and adapting to project complexities.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:17:12Z",
-      "url": "https://www.geeky-gadgets.com/amazons-kiro-ai-ide-overview/"
-    },
-    {
-      "id": 54,
-      "title": "Netflix uses generative AI in one of its shows for first time",
-      "summary": "Netflix utilizes generative AI in one of its shows for the first time, aiming to improve the quality of content creation rather than just cost efficiency.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:16:44Z",
-      "url": "https://biztoc.com/x/0c72318ae9c3ac4b"
-    },
-    {
-      "id": 55,
-      "title": "What China Wants",
-      "summary": "China's AI-related news highlights the regime prioritizing its domestic political economy over global leadership, despite its stated global vision.",
-      "source": "Project Syndicate",
-      "category": "economy",
-      "timestamp": "2025-07-18T08:16:25Z",
-      "url": "https://www.project-syndicate.org/onpoint/china-will-pursue-own-interests-not-american-style-global-leadership-by-yu-jie-2025-07"
-    },
-    {
-      "id": 56,
-      "title": "Nothing’s most important piece of software gets a major upgrade",
-      "summary": "Nothing's Essential Space feature receives a significant upgrade, enhancing the functionality of their latest phones.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:15:51Z",
-      "url": "https://www.phonearena.com/news/nothing-essential-space-google-calendar-integration_id172382"
-    },
-    {
-      "id": 57,
-      "title": "Enterprise AI Automation - Amazon Introduced Agentic AI Tools for Business Process Management (TrendHunter.com)",
-      "summary": "Amazon introduced agentic AI tools for automating complex business processes with minimal human intervention.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T08:15:06Z",
-      "url": "https://www.trendhunter.com/trends/agentic-ai-tools"
-    },
-    {
-      "id": 58,
-      "title": "How Strand Palace revolutionized their marketing strategy with unified guest data",
-      "summary": "Strand Palace revolutionized their marketing strategy by utilizing unified guest data, enhancing their customer experience and targeting strategies. The historic London hotel's innovative approach showcases the potential of AI in the hospitality industry.",
-      "source": "Revinate.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:15:00Z",
-      "url": "https://www.revinate.com/customer-stories/strand-palace/"
-    },
-    {
-      "id": 59,
-      "title": "Allworth Financial LP Grows Stock Position in SoundHound AI, Inc. (NASDAQ:SOUN)",
-      "summary": "Allworth Financial LP increased its stock position in SoundHound AI, Inc. by 11.6% in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "innovation",
-      "timestamp": "2025-07-18T08:12:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/allworth-financial-lp-grows-stock-position-in-soundhound-ai-inc-nasdaqsoun/"
-    },
-    {
-      "id": 60,
-      "title": "Apple Warning—Do Not Call This Number On Your iPhone",
-      "summary": "Apple warns users not to call a certain number on their iPhone to prevent potential harm or scam. It is important to be cautious when making calls on smartphones to protect personal information.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-18T08:12:47Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/18/apple-warning-do-not-call-this-number-on-your-iphone/"
     }
   ]
 }
