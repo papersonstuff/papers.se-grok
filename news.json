@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-19T20:41:33.216Z",
+  "lastUpdate": "2025-07-19T20:53:56.589Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI",
+      "summary": "Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:53:00Z",
+      "url": "https://www.businessinsider.com/nominations-open-for-ai-power-list-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "Deals for today: iBUYPOWER Element Pro RTX 9070XT gaming PC Drops to $1,499",
+      "summary": "Deals for iBUYPOWER Element Pro RTX 9070XT gaming PC dropping to $1,499 today, along with discounts on SSDs, graphics cards, and other gaming essentials.",
+      "source": "Rock Paper Shotgun",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:53:00Z",
+      "url": "https://www.rockpapershotgun.com/deals-for-today-ibuypower-element-pro-rtx-9070xt-gaming-pc-drops-to-1499"
+    },
+    {
+      "id": 53,
+      "title": "This is how OpenAI COO Brad Lightcap defines AI agents",
+      "summary": "OpenAI COO Brad Lightcap discusses the definition of AI agents on the company's podcast.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-18T20:52:24Z",
+      "url": "https://biztoc.com/x/aea11249b9e456da"
+    },
+    {
+      "id": 54,
+      "title": "Creative Industries, Creators & Creatives",
+      "summary": "This series of posts explores how we can rethink the intersection of AI, creativity, and policy, questioning copyright norms and highlighting the risks of stifling innovation.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:52:05Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178413080"
+    },
+    {
+      "id": 55,
+      "title": "Dr. Anosh Ahmed Foundation Announces Plans for AI Data Center Development on Chicago’s West Side",
+      "summary": "Dr. Anosh Ahmed Foundation plans to develop an AI Data Center on Chicago's West Side with international investment and free AI education programs for local youth.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:52:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118197/0/en/Dr-Anosh-Ahmed-Foundation-Announces-Plans-for-AI-Data-Center-Development-on-Chicago-s-West-Side.html"
+    },
+    {
+      "id": 56,
+      "title": "He used money from an Internet of Things startup to jump into AI. Now he has millions to play with",
+      "summary": "BrightAI, a startup that originally focused on Internet of Things, has raised $51 million in a Series A round to develop AI for the physical world.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T20:51:58Z",
+      "url": "https://biztoc.com/x/f83cfd5191d4e53d"
+    },
+    {
+      "id": 57,
+      "title": "xnewsbot 0.5.0",
+      "summary": "xnewsbot 0.5.0 is an AI-powered news bot designed for automating X.com's Twitter account with research and writing abilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:51:19Z",
+      "url": "https://pypi.org/project/xnewsbot/0.5.0/"
+    },
+    {
+      "id": 58,
+      "title": "Coldplay Concert Kiss Cam Scandal 'Vibe Coded' Into A Game By Song A Day Guy",
+      "summary": "Coldplay Canoodlers, a video game inspired by the viral Coldplay concert kiss cam incident, has been created by Jonathan Mann, known for uploading a new song to YouTube every day. The game is a unique application of AI technology to bring a real-life event into the gaming world.",
+      "source": "Kotaku",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:50:00Z",
+      "url": "https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603"
+    },
+    {
+      "id": 59,
+      "title": "Microsoft Issues New Windows 11 Builds to Dev and Beta Channels",
+      "summary": "Microsoft issues new Windows 11 builds to Dev and Beta Channels, encouraging PCs enrolled in the Windows Insider Program to check for updates.",
+      "source": "Thurrott.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:49:16Z",
+      "url": "https://www.thurrott.com/windows/windows-11/323539/microsoft-issues-new-windows-11-builds-to-dev-and-beta-channels"
+    },
+    {
+      "id": 60,
+      "title": "GitLab Preps Platform for Building and Managing AI Agents for DevOps Teams",
+      "summary": "GitLab is prepping a platform for building and managing AI agents for DevOps teams, allowing teams to build, manage, and orchestrate AI agents across the software development lifecycle.",
+      "source": "DevOps.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:47:13Z",
+      "url": "https://devops.com/gitlab-preps-platform-for-building-and-managing-ai-agents-for-devops-teams/"
+    },
+    {
+      "id": 61,
+      "title": " Napoli fans taunt Osimhen: \"Pauper, Maradona played here!\" ",
+      "summary": "Napoli fans taunt Victor Osimhen with harsh banners, sparking ethical concerns in the soccer community.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:45:00Z",
+      "url": "https://onefootball.com/en/news/napoli-fans-taunt-osimhen-pauper-maradona-played-here-41394340"
+    },
+    {
+      "id": 62,
+      "title": "DuckDuckGo Now Lets You Hide AI-Generated Images In Search Results",
+      "summary": "DuckDuckGo is introducing a new setting that allows users to hide AI-generated images in search results, responding to user feedback. This feature aims to improve user experience by filtering out images that may obstruct finding desired information.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:44:20Z",
+      "url": "https://slashdot.org/submission/17338012/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results"
+    },
+    {
+      "id": 63,
+      "title": "Citi, Ant International pilot AI-powered FX tool",
+      "summary": "Citi and Ant International pilot AI-powered FX tool to help clients manage foreign exchange risk.",
+      "source": "The Manila Times",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:43:25Z",
+      "url": "https://www.manilatimes.net/2025/07/19/business/foreign-business/citi-ant-international-pilot-ai-powered-fx-tool/2152026"
+    },
+    {
+      "id": 64,
+      "title": "The investor behind Opendoor's 190% run nearly shut down his fund",
+      "summary": "Investor Eric Jackson has been pushing for a rally in shares of Opendoor, which has seen a 190% increase. His efforts to boost the online real estate service's stock price have been a key factor in its success.",
+      "source": "CNBC",
+      "category": "startups",
+      "timestamp": "2025-07-18T20:43:14Z",
+      "url": "https://www.cnbc.com/2025/07/18/eric-jackson-opendoor-real-estate-carvana.html"
+    },
+    {
+      "id": 65,
+      "title": "OpenAI Unveils ChatGPT AI Agent that Works for You to Automate Complex Tasks",
+      "summary": "OpenAI unveils ChatGPT AI agent that automates complex tasks from research to presentations in one unified system.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:42:06Z",
+      "url": "https://www.smashingapps.com/chatgpt-ai-agent-that-works-for-you/"
+    },
+    {
+      "id": 66,
+      "title": "Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now",
+      "summary": "Twelve South is offering a travel-friendly 2-in-1 Qi2 charger at over 50 percent off, making it easier to keep multiple devices charged while traveling. The clever design allows users to power two Qi2-compatible devices with a single, compact accessory.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:41:38Z",
+      "url": "https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale"
+    },
     {
       "id": 51,
       "title": "AI Is Changing Public Relations — Here's How to Stay in Control",
@@ -306,150 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T20:00:56Z",
       "url": "https://thesocietypages.org/firstpublics/2025/07/18/social-theory-re-wired-interview-with-the-authors/"
-    },
-    {
-      "id": 65,
-      "title": "Astronomer board investigating CEO Andy Byron after viral Coldplay kiss cam video",
-      "summary": "An investigation has been launched into Astronomer CEO Andy Byron after a video surfaced showing him kissing the company's HR chief at a Coldplay concert.",
-      "source": "CNBC",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:00:56Z",
-      "url": "https://www.cnbc.com/2025/07/18/astronomer-andy-byron-coldplay-kiss-cam.html"
-    },
-    {
-      "id": 66,
-      "title": "Why Are Students Using AI To Cheat? Maybe Because They Shouldn't Be In College At All",
-      "summary": "AI cheating among students may be a result of them not being suited for college, raising ethical concerns.",
-      "source": "Reason",
-      "category": "ethics",
-      "timestamp": "2025-07-18T20:00:50Z",
-      "url": "https://reason.com/2025/07/18/why-are-students-using-ai-to-cheat-maybe-because-they-shouldnt-be-in-college-at-all/"
-    },
-    {
-      "id": 67,
-      "title": "xnewsbot added to PyPI",
-      "summary": "xnewsbot, an AI-powered news bot, has been added to PyPI for X.com automation on Twitter. The bot has research and writing capabilities to assist in generating news content.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T20:00:05Z",
-      "url": "https://pypi.org/project/xnewsbot/"
-    },
-    {
-      "id": 68,
-      "title": "The Facts Clearly Tell Us That The Middle Class In America Is Dying",
-      "summary": "The middle class in America is dying, with the rich becoming even richer. Flooding the system with money has made things worse for almost everyone else.",
-      "source": "Activistpost.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T20:00:00Z",
-      "url": "https://www.activistpost.com/the-facts-clearly-tell-us-that-the-middle-class-in-america-is-dying/"
-    },
-    {
-      "id": 69,
-      "title": "Should you wait for the Google Pixel 10 Pro Fold?",
-      "summary": "Should you wait for the Google Pixel 10 Pro Fold? Now that the Galaxy Z Fold 7 has been announced, you might be wondering whether to upgrade now or wait for the Pixel 10 Pro Fold. Let's go over a few reasons why you should, and shouldn't, wait.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-18T20:00:00Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-the-google-pixel-10-pro-fold"
-    },
-    {
-      "id": 51,
-      "title": "mlx-cuda 0.26.4",
-      "summary": "mlx-cuda 0.26.4 is a framework for machine learning specifically designed for Apple silicon, marking an innovation in the field of AI technology.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:49:16Z",
-      "url": "https://pypi.org/project/mlx-cuda/0.26.4/"
-    },
-    {
-      "id": 52,
-      "title": "talkpipe 0.7.0",
-      "summary": "talkpipe 0.7.0 is a Python internal and external DSL designed for writing generative AI analytics.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:48:02Z",
-      "url": "https://pypi.org/project/talkpipe/0.7.0/"
-    },
-    {
-      "id": 53,
-      "title": "Ai Sound Effect Generators - Adobe Firefly Adds Voice and Text-Driven Sound Fx Creation (TrendHunter.com)",
-      "summary": "Adobe Firefly introduces a beta Generate Sound Effects feature that allows users to create sound effects through voice recordings or text prompts.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:47:06Z",
-      "url": "https://www.trendhunter.com/trends/adobe-firefly-1"
-    },
-    {
-      "id": 54,
-      "title": "Flamengo under-20 thrash Bayer Leverkusen in friendly, watch the goals",
-      "summary": "Flamengo's Under-20 team dominated Bayer Leverkusen in a friendly match, scoring 5 goals to Bayer Leverkusen's 1.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:47:00Z",
-      "url": "https://onefootball.com/en/news/flamengo-under-20-thrash-bayer-leverkusen-in-friendly-watch-the-goals-41393919"
-    },
-    {
-      "id": 55,
-      "title": "Alien: Earth’s Hybrid Stars Talk Taking on the Xenomorph",
-      "summary": "Audiences anticipate the upcoming Alien: Earth movie and remember the original Alien's crew being unprepared for the xenomorph threat. The film's depiction of hybrid stars and the battle against the alien species is sure to captivate viewers.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:45:41Z",
-      "url": "http://comicbook.com/tv-shows/news/alien-earth-cast-interview-hybrids-sydney-chandler/"
-    },
-    {
-      "id": 56,
-      "title": "Stock Surges On $120 Million Asian AI Infrastructure Deal",
-      "summary": "Shares of Blaize Holdings Inc surge after announcing a $120 million collaboration with Asian AI infrastructure provider Starshine Computing Power Technology.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:45:28Z",
-      "url": "https://biztoc.com/x/c5bcd44a4978cd1f"
-    },
-    {
-      "id": 57,
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is considered one of France’s most promising tech startups and a potential competitor to OpenAI.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T19:45:18Z",
-      "url": "https://biztoc.com/x/8c73c45549042775"
-    },
-    {
-      "id": 58,
-      "title": "Trump's Move On Crypto Retirement Investments Carries 'Great Risks'—Expert",
-      "summary": "President Trump's executive order to open up the U.S. retirement market to cryptocurrencies, gold, and private equity carries great risks according to experts.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:45:15Z",
-      "url": "https://biztoc.com/x/a30b1e8a8a24d318"
-    },
-    {
-      "id": 59,
-      "title": "crypticorn 2.19.0rc2",
-      "summary": "Crypticorn 2.19.0rc2 aims to maximize cryptocurrency trading profits through the use of machine learning.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:44:29Z",
-      "url": "https://pypi.org/project/crypticorn/2.19.0rc2/"
-    },
-    {
-      "id": 60,
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor | TechCrunch",
-      "summary": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-18T19:43:44Z",
-      "url": "https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
-    },
-    {
-      "id": 61,
-      "title": "Who Is Andy Byron? 5 Things to Know About the Astronomer CEO Amid Affair Allegations",
-      "summary": "The CEO of Astronomer, Andy Byron, faced controversy after being seen in a romantic embrace with a colleague. Learn more about the situation and the businessman here.",
-      "source": "Hollywood Life",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:43:14Z",
-      "url": "https://hollywoodlife.com/feature/who-is-andy-byron-5429378/"
     }
   ]
 }
