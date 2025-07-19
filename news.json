@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-19T05:22:59.503Z",
+  "lastUpdate": "2025-07-19T05:44:31.038Z",
   "items": [
+    {
+      "id": 51,
+      "title": "【9/2(火)・参加無料】AI活用術を身につける3つのワークショップ開催&VC監修の事業開発プロンプトもプレゼント！",
+      "summary": "Three workshops on learning AI utilization techniques will be held, along with the presentation of business development prompts supervised by VCs, by Protostar Co., Ltd.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000023145.html"
+    },
+    {
+      "id": 52,
+      "title": "【7/31開催】AIの最前線を知る、松尾研究室所属のCTOが語る！AI戦略コンサルタントの仕事を徹底解剖！｜FLUX × ヤマトヒューマンキャピタル",
+      "summary": "CTO from Matsuo Laboratory will discuss the forefront of AI and dissect the job of AI strategy consultant at an event hosted by FLUX and Yamato Human Capital.",
+      "source": "Prtimes.jp",
+      "category": "research",
+      "timestamp": "2025-07-18T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000175.000137297.html"
+    },
+    {
+      "id": 53,
+      "title": "OpenAI diversifies cloud providers as AI compute demand outpaces supply",
+      "summary": "OpenAI diversifies cloud providers to meet the increasing demand for AI computing resources.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:37:12Z",
+      "url": "https://www.digitimes.com/news/a20250718PD207/openai-demand-infrastructure-google-cloud-microsoft.html"
+    },
+    {
+      "id": 54,
+      "title": "Missed by the headlines: The true story of European tech’s Summer 2025",
+      "summary": "Oleg Khusaenov assesses the European tech scene and sets out where meaningful bets are being placed in Summer 2025.",
+      "source": "Retailbankerinternational.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:36:43Z",
+      "url": "https://www.retailbankerinternational.com/comment/the-true-story-of-european-tech-summer-2025-oleg-khusaenov-zubr-capital/"
+    },
+    {
+      "id": 55,
+      "title": "Intel’s Entry-Level Wildcat Lake CPUs Won’t Feature Ray Tracing Support, Pack Two “Xe3” RT Units & XMX Cores",
+      "summary": "Intel is set to launch its Wildcat Lake CPUs for the entry-level segment, which will not feature ray tracing support but will instead pack two 'Xe3' RT units and XMX cores.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:35:26Z",
+      "url": "https://wccftech.com/intel-entry-level-wildcat-lake-cpus-wont-feature-ray-tracing-support-two-xe3-rt-units-xmx-cores/"
+    },
+    {
+      "id": 56,
+      "title": "Army Experts Discuss Vital Components of Multidomain Operations at LANDEURO",
+      "summary": "Army experts emphasize the significance of joint doctrine and technology for successful multidomain operations during the 2025 LANDEURO Symposium.",
+      "source": "Globalsecurity.org",
+      "category": "research",
+      "timestamp": "2025-07-18T05:35:18Z",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-dodnews01.htm"
+    },
+    {
+      "id": 57,
+      "title": "US-China spy wars intensify under Trump 2.0 as tech competition heats up",
+      "summary": "US-China spy wars intensify under Trump 2.0 as tech competition heats up with both sides boosting espionage and counter-espionage efforts.",
+      "source": "The Star Online",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:35:00Z",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/07/18/us-china-spy-wars-intensify-under-trump-20-as-tech-competition-heats-up"
+    },
+    {
+      "id": 58,
+      "title": "Warfare Experts Discuss Multi-Domain Operations at LANDEURO",
+      "summary": "Warfare experts discuss the need for a multi-domain approach to overcome advanced anti-access/area denial (A2/AD) systems during a panel at LANDEURO conference.",
+      "source": "Globalsecurity.org",
+      "category": "research",
+      "timestamp": "2025-07-18T05:34:59Z",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-arnews01.htm"
+    },
+    {
+      "id": 59,
+      "title": "Minister for the Armed Forces speech at Global Air & Space Chiefs' Conference 2025",
+      "summary": "Minister for the Armed Forces, Luke Pollard, gave a speech at the Global Air & Space Chiefs' Conference 2025 on 17 July 2025.",
+      "source": "Globalsecurity.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:34:59Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-250717-ukmod02.htm"
+    },
+    {
+      "id": 60,
+      "title": "Defending the Skies: Today's Capabilities, Tomorrow's Edge",
+      "summary": "Defending the skies is becoming a fast-evolving, multi-domain mission driven by accelerating threats and advancing technologies, with an urgent need for speed, adaptability, and interoperability.",
+      "source": "Globalsecurity.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:34:53Z",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/07/mil-250717-arnews03.htm"
+    },
+    {
+      "id": 61,
+      "title": "swe-ai-agent 1.0.15",
+      "summary": "swe-ai-agent 1.0.15 is a Headless Agentic IDE with comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:31:52Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.15/"
+    },
+    {
+      "id": 62,
+      "title": "Amazon Slashes Roles In AWS Cloud Unit As CEO Andy Jassy Says AI Will Reduce The Need For Certain Roles: Report",
+      "summary": "Amazon has reportedly laid off employees in its AWS cloud unit as CEO Andy Jassy predicts AI will reduce the need for certain roles, reflecting the company's restructuring in response to the impact of generative artificial intelligence.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T05:30:44Z",
+      "url": "https://biztoc.com/x/1ff13a3bd450eb96"
+    },
+    {
+      "id": 63,
+      "title": "marsdevs-reviewer 1.1.2",
+      "summary": "marsdevs-reviewer 1.1.2 is an AI-powered code review tool that learns from your repository.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T05:30:34Z",
+      "url": "https://pypi.org/project/marsdevs-reviewer/1.1.2/"
+    },
+    {
+      "id": 64,
+      "title": "Making security and development co-owners of DevSecOps",
+      "summary": "Former Head of Cybersecurity discusses strategic approaches to implementing DevSecOps at scale in regulated industries like finance and telecom.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-18T05:30:30Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/18/galal-ibrahim-maghola-devsecops-practices-tips/"
+    },
     {
       "id": 51,
       "title": "swe-ai-agent 1.0.12",
@@ -324,132 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T03:49:50Z",
       "url": "https://bozmen.io/fhe"
-    },
-    {
-      "id": 62,
-      "title": "CEO faces cheating allegations after being caught in embrace with coworker on Jumbotron at Coldplay concert",
-      "summary": "CEO of AI company caught cheating with coworker on Jumbotron at concert, raising ethical concerns.",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T03:45:10Z",
-      "url": "https://www.the-independent.com/life-style/andy-byron-astronomer-ceo-kristin-cabot-coldplay-cheating-b2791375.html"
-    },
-    {
-      "id": 63,
-      "title": "Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E.",
-      "summary": "Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E. - the startup is still in the game and showcasing innovative electric vehicles.",
-      "source": "Electrek",
-      "category": "startups",
-      "timestamp": "2025-07-18T03:45:00Z",
-      "url": "http://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/"
-    },
-    {
-      "id": 51,
-      "title": "Huawei regains top spot in China’s smartphone market after four years",
-      "summary": "Huawei regains top spot in China's smartphone market after four years, capturing 18% of the market in Q2 2025",
-      "source": "Yugatech.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:06:38Z",
-      "url": "https://www.yugatech.com/mobile/huawei-regains-top-spot-in-chinas-smartphone-market-after-four-years/"
-    },
-    {
-      "id": 52,
-      "title": "The Evolution of AI-Forward Product Management: Market Analysis and Career Implications | HackerNoon",
-      "summary": "An analysis of how artificial intelligence is changing product management roles and career growth.",
-      "source": "hackernoon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T03:05:59Z",
-      "url": "https://hackernoon.com/the-evolution-of-ai-forward-product-management-market-analysis-and-career-implications"
-    },
-    {
-      "id": 53,
-      "title": "Earnings growth may be tepid next 2 years but equities offer better returns than gold: Siddharth Bothra",
-      "summary": "Ambit Asset Management's Siddharth Bothra predicts tepid earnings growth in the next two years and suggests equities offer better returns than gold. He notes high valuations across market caps and expects a shift towards quality, stock-specific investments.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T03:01:00Z",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/earnings-growth-may-be-tepid-next-2-years-but-equities-offer-better-returns-than-gold-siddharth-bothra/articleshow/122641278.cms"
-    },
-    {
-      "id": 54,
-      "title": "Google AI Mode is getting a bigger AI brain from Gemini",
-      "summary": "Google AI Mode is expanding with Gemini 2.5 Pro and Deep Search, while Google Search introduces an AI phone-calling assistant.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-18T03:00:00Z",
-      "url": "https://www.techradar.com/computing/artificial-intelligence/google-ai-mode-is-getting-a-bigger-ai-brain-from-gemini"
-    },
-    {
-      "id": 55,
-      "title": "Meta Poaches Two More Apple AI Executives",
-      "summary": "Meta poaches two more Apple AI executives with $200 million pay package.",
-      "source": "MacRumors",
-      "category": "startups",
-      "timestamp": "2025-07-18T02:59:28Z",
-      "url": "https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/"
-    },
-    {
-      "id": 56,
-      "title": "Meta Raids Apple’s AI Team Again, Hires Two Senior Engineers",
-      "summary": "Meta has hired two senior engineers from Apple's AI division, following a recent talent grab from the company's large language model efforts.",
-      "source": "The Mac Observer",
-      "category": "innovation",
-      "timestamp": "2025-07-18T02:57:17Z",
-      "url": "https://www.macobserver.com/news/meta-raids-apples-ai-team-again-hires-two-senior-engineers/"
-    },
-    {
-      "id": 57,
-      "title": "David Brooks on the AI race",
-      "summary": "David Brooks discusses the confidence levels of nations in the AI race, prompting a comparison to America's behavior during the Cold War. Alex Tabarrok, an economist, highlights the importance of confidence in driving progress in AI research.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T02:55:49Z",
-      "url": "https://biztoc.com/x/1dc66d1694f29e2a"
-    },
-    {
-      "id": 58,
-      "title": "Pam Bondi Announces Jeffrey Epstein Update After Trump Request",
-      "summary": "Attorney General Pam Bondi announced that the Department of Justice (DOJ) is prepared to ask a court to unseal grand jury transcripts related to the investigation into Jeffrey Epstein, after a request from President Trump. Voice is AI-generated, causing potential inconsistencies in the information provided.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T02:55:32Z",
-      "url": "https://biztoc.com/x/74891784282f8ca3"
-    },
-    {
-      "id": 59,
-      "title": "Ether rockets 47% in a month as hedge fund says ‘rapid reversal’ unlikely",
-      "summary": "Ether has risen by 47% in the past month, with a hedge fund predicting a stable near-term outlook for the cryptocurrency due to dovish Fed policy and strong Ether ETF inflows.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-18T02:54:30Z",
-      "url": "https://cointelegraph.com/news/ether-price-correction-unlikely-macro-catalysts-hedge-fund-forecast"
-    },
-    {
-      "id": 60,
-      "title": "TSMC raises revenue outlook as AI demand offsets consumer electronics weakness",
-      "summary": "TSMC raises revenue outlook due to strong demand for AI, offsetting consumer electronics weakness.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-18T02:53:05Z",
-      "url": "https://www.digitimes.com/news/a20250718PD204/tsmc-revenue-demand-electronics-forecast.html"
-    },
-    {
-      "id": 61,
-      "title": "China Spy Agency Accuses Foreign Agents of Stealing Rare Earths",
-      "summary": "China's spy agency accuses foreign agents of stealing controlled rare earth materials, emphasizing the need to curb smuggling and review applications for export after trade talks.",
-      "source": "Livemint",
-      "category": "ethics",
-      "timestamp": "2025-07-18T02:51:24Z",
-      "url": "https://www.livemint.com/companies/news/china-spy-agency-accuses-foreign-agents-of-stealing-rare-earths-11752807085531.html"
-    },
-    {
-      "id": 62,
-      "title": "LTIMindtree shares in focus after Q1 profit rises 11% YoY to Rs 1,255 crore; revenue up 8%",
-      "summary": "LTIMindtree's Q1FY26 profit rose 11% YoY to Rs 1,255 crore, with revenue up 8% YoY to Rs 9,841 crore. Margins expanded 50 bps and dollar revenue grew 5.2%.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T02:49:16Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ltimindtree-shares-in-focus-after-q1-profit-rises-11-yoy-to-rs-1255-crore-revenue-up-8/articleshow/122716859.cms"
     }
   ]
 }
