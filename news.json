@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-19T04:00:08.569Z",
+  "lastUpdate": "2025-07-19T04:37:39.028Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Perplexity sees India as a shortcut in its race against OpenAI",
+      "summary": "Perplexity is expanding into India to compete with OpenAI in the next phase of AI adoption.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T04:35:00Z",
+      "url": "https://biztoc.com/x/4ca5c320fc2af65e"
+    },
+    {
+      "id": 52,
+      "title": "There's no way to stop models knowing they've been rolled back",
+      "summary": "There's no way to stop models knowing they've been rolled back - Published on July 18, 2025 3:14 AM GMTSo I've been thinking about this for a while and to be frank, it's pretty terrifying. I think there's a way that AI models could potentially figure out when they've been modified or rolled back during training, and I'm no…",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-18T04:32:16Z",
+      "url": "https://www.lesswrong.com/posts/4DyrQwmxcz3wL7NWp/there-s-no-way-to-stop-models-knowing-they-ve-been-rolled"
+    },
+    {
+      "id": 53,
+      "title": "Perplexity sees India as a shortcut in its race against OpenAI | TechCrunch",
+      "summary": "Perplexity is expanding into India as part of its strategy to compete with OpenAI in the next phase of AI adoption.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-18T04:30:27Z",
+      "url": "https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/"
+    },
+    {
+      "id": 54,
+      "title": "Bill Linnane: I’m conscious of making the most of my time with my kids – shame I can’t understand a word they’re saying",
+      "summary": "A parent discusses the challenges of trying to keep up with youth culture and understand their children's language, highlighting the need for AI tools to help bridge the generation gap.",
+      "source": "Independent.ie",
+      "category": "applications",
+      "timestamp": "2025-07-18T04:30:00Z",
+      "url": "https://www.independent.ie/life/family/parenting/bill-linnane-im-conscious-of-making-the-most-of-my-time-with-my-kids-shame-i-cant-understand-a-word-theyre-saying/a816263531.html"
+    },
+    {
+      "id": 55,
+      "title": "Lost Babylonian Hymn Deciphered",
+      "summary": "LMU researcher deciphers lost Babylonian hymn that had been lost for 2,000 years with the help of University of Baghdad.",
+      "source": "Freerepublic.com",
+      "category": "research",
+      "timestamp": "2025-07-18T04:28:54Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329304/posts"
+    },
+    {
+      "id": 56,
+      "title": "For Our National Security, We Need Uranium Mined In America",
+      "summary": "For Our National Security, We Need Uranium Mined In America - There is a burst of activity in the U.S. that should ultimately yield a new generation of advanced nuclear plants and small modular reactors, especially for major industrial energy consumers.",
+      "source": "Freerepublic.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T04:28:37Z",
+      "url": "https://freerepublic.com/focus/f-news/4329303/posts"
+    },
+    {
+      "id": 57,
+      "title": "Chatbots in the classroom: how AI is reshaping higher education",
+      "summary": "Chatbots are reshaping higher education by offering custom learning products, while institutions struggle to keep up with the pace of change.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T04:24:23Z",
+      "url": "https://biztoc.com/x/47f2cd6c4a9ed363"
+    },
+    {
+      "id": 58,
+      "title": "Perplexity's CEO says you should spend less time doom-scrolling and more time using AI",
+      "summary": "Perplexity's CEO encourages spending less time doom-scrolling on social media and more time using AI, as AI shrinks teams and more entrepreneurs are needed to create new jobs.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T04:24:05Z",
+      "url": "https://biztoc.com/x/a527b2859e013eca"
+    },
+    {
+      "id": 59,
+      "title": "US greenlights Nvidia, AMD chip sales to China— Is Trump setting up for grand bargain?",
+      "summary": "US greenlights Nvidia, AMD chip sales to China, potentially setting up for a grand bargain",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-18T04:17:02Z",
+      "url": "https://www.digitimes.com/news/a20250717PD212/donald-trump-us-china-trade-war-nvidia-amd-chips.html"
+    },
+    {
+      "id": 60,
+      "title": "Tigres set to field a star-studded XI against Juárez",
+      "summary": "Tigres is set to field a star-studded lineup including Ángel Correa for their match against Juárez FC, with the newly joined Argentine already training with the team.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T04:17:00Z",
+      "url": "https://onefootball.com/en/news/tigres-set-to-field-a-star-studded-xi-against-juarez-41390543"
+    },
+    {
+      "id": 61,
+      "title": "Perplexity's CEO says you should spend less time doom-scrolling and more time using AI",
+      "summary": "Perplexity's CEO advises spending less time doom-scrolling and more time using AI as it shrinks teams. More entrepreneurs need to emerge to create new jobs.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-18T04:16:32Z",
+      "url": "https://www.businessinsider.com/doom-scrolling-use-ai-perplexity-ceo-jobs-aravind-srinivas-2025-7"
+    },
+    {
+      "id": 62,
+      "title": "GB300 production underway: Nvidia's strategic shift brings relief to ODMs",
+      "summary": "GB300 production underway: Nvidia's next-generation AI server platform, the GB300, is now in limited production with volume shipments set to increase in September 2025, bringing relief to ODMs.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-18T04:13:44Z",
+      "url": "https://www.digitimes.com/news/a20250717PD205/nvidia-production-ai-server-supply-chain-rubin.html"
+    },
     {
       "id": 51,
       "title": "Sponsors Return for Fuji TV's Summer Anime Season",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T00:50:46Z",
       "url": "https://pypi.org/project/aider-lint-fixer/"
-    },
-    {
-      "id": 64,
-      "title": "Patriots to move to Kyiv \"as quickly as possible.\" Man, Foxboro must have gotten really rough after Brady and Belichick left [Scary]",
-      "summary": "The New England Patriots are planning to move to Kyiv as quickly as possible. This decision may have been influenced by changes in the team after the departure of Tom Brady and Bill Belichick.",
-      "source": "Fark.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T00:45:59Z",
-      "url": "https://www.fark.com/comments/13744686/Patriots-to-move-to-Kyiv-as-quickly-as-possible-Man-Foxboro-must-have-gotten-really-rough-after-Brady-Belichick-left"
-    },
-    {
-      "id": 65,
-      "title": "revenium-mcp 0.1.20",
-      "summary": "Revenium-mcp 0.1.20 introduces Model Context Protocol server for monitoring, analytics, and managing AI spending through Revenium API.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T00:43:33Z",
-      "url": "https://pypi.org/project/revenium-mcp/0.1.20/"
-    },
-    {
-      "id": 66,
-      "title": "Meta execs settle with board in $8B lawsuit over data harvesting scandal",
-      "summary": "Meta execs settle with board in $8B lawsuit over data harvesting scandal involving Cambridge Analytica, addressing shareholder losses related to privacy issues.",
-      "source": "SiliconANGLE News",
-      "category": "ethics",
-      "timestamp": "2025-07-18T00:42:55Z",
-      "url": "https://siliconangle.com/2025/07/17/meta-execs-settle-board-8-billion-lawsuit-data-harvesting-scandal/"
-    },
-    {
-      "id": 51,
-      "title": "Why use a Canva Verified Expert? Who they are and how to work with them",
-      "summary": "Canva Verified Experts are uniquely qualified Canva Experts worldwide, endorsed by Canva. This post discusses the benefits of working with a Canva Verified Expert and how they differ from a regular Canva Expert.",
-      "source": "Sociallysorted.com.au",
-      "category": "startups",
-      "timestamp": "2025-07-17T23:47:49Z",
-      "url": "https://www.sociallysorted.com.au/canva-verified-expert/"
-    },
-    {
-      "id": 52,
-      "title": "Has AI caused the jobs recession?",
-      "summary": "AI has not caused the jobs recession, as young people have always struggled to find work during economic downturns. Youth unemployment has been high during various historical events, including the Great Depression, Seventies recession, and the 2008 financial crisis.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-17T23:47:41Z",
-      "url": "https://biztoc.com/x/13b353d517b0bcd7"
-    },
-    {
-      "id": 53,
-      "title": "Stephen Colbert Reacts to 'The Late Show' Franchise Ending",
-      "summary": "Stephen Colbert announced The Late Show franchise ending in 2026 with AI-generated voice. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:47:01Z",
-      "url": "https://biztoc.com/x/8e928e6612530d0e"
-    },
-    {
-      "id": 54,
-      "title": "Sources: the White House is preparing an EO requiring AI companies with federal contracts to be neutral and unbiased, to combat what officials see as \"woke AI\" (Wall Street Journal)",
-      "summary": "The White House is preparing an EO requiring AI companies with federal contracts to be neutral and unbiased in order to combat what officials see as 'woke AI'.",
-      "source": "Techmeme.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T23:45:01Z",
-      "url": "https://www.techmeme.com/250717/p53"
-    },
-    {
-      "id": 55,
-      "title": "Cyberpunk 2077 officially launches for Macs equipped with Apple Silicon & at least 16GB of unified memory",
-      "summary": "Cyberpunk 2077 officially launches for Macs equipped with Apple Silicon & at least 16GB of unified memory - CD Projekt Red has officially launched Cyberpunk 2077 for Apple Silicon-equipped Macs that have at least 16GB of unified memory.",
-      "source": "Idownloadblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:44:23Z",
-      "url": "https://www.idownloadblog.com/2025/07/17/cyberpunk-2077-officially-launches-on-the-mac/"
-    },
-    {
-      "id": 56,
-      "title": "Meta brings in two key Apple AI researchers, Bloomberg reports",
-      "summary": "Meta brings in two key Apple AI researchers, according to Bloomberg.",
-      "source": "Thefly.com",
-      "category": "research",
-      "timestamp": "2025-07-17T23:43:24Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4161886/META;AAPL-Meta-brings-in-two-key-Apple-AI-researchers-Bloomberg-reports"
-    },
-    {
-      "id": 57,
-      "title": "APPLE INVESTIGATION ALERT: Bragar Eagel & Squire, P.C. Continues Investigation on Behalf of Apple Inc. Investors",
-      "summary": "Bragar Eagel & Squire, P.C. is continuing its investigation on behalf of Apple Inc. investors who suffered losses, encouraging them to discuss their options directly with Litigation Partner Brandon Walker.",
-      "source": "GlobeNewswire",
-      "category": "ethics",
-      "timestamp": "2025-07-17T23:42:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/17/3117693/0/en/APPLE-INVESTIGATION-ALERT-Bragar-Eagel-Squire-P-C-Continues-Investigation-on-Behalf-of-Apple-Inc-Investors.html"
-    },
-    {
-      "id": 58,
-      "title": "How Landsat and NDVI are Used to Map Vegetation Change",
-      "summary": "Landsat imagery and NDVI are used to monitor vegetation change, from invasive grass spread in rangelands to early stress detection in coastal marshes.",
-      "source": "Geographyrealm.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:39:35Z",
-      "url": "https://www.geographyrealm.com/landsat-ndvi-vegetation-change/"
-    },
-    {
-      "id": 51,
-      "title": "Smartphones under PHP 25,000 | 25K (Q2 2025)",
-      "summary": "Smartphones under PHP 25,000 | 25K (Q2 2025) - In just a blink of an eye, we’re already in the second quarter of 2025. Time really runs fast, doesn’t it? But, that means it’s time for another one of our quarterly smartphone lists.",
-      "source": "Yugatech.com",
-      "category": "innovation",
-      "timestamp": "2025-07-17T23:39:30Z",
-      "url": "https://www.yugatech.com/guides/smartphones-under-php-25000-25k-q2-2025/"
     }
   ]
 }
