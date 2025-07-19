@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-19T17:50:48.947Z",
+  "lastUpdate": "2025-07-19T18:20:46.596Z",
   "items": [
+    {
+      "id": 51,
+      "title": "For the first time since COVID, more than half of Fortune 100 companies have mandated workers fully return to work as hybrid options wither",
+      "summary": "For the first time since COVID, more than half of Fortune 100 companies have mandated workers fully return to work as hybrid options wither, marking a significant shift in workplace arrangements.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:19:59Z",
+      "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/"
+    },
+    {
+      "id": 52,
+      "title": "Schneider Electric launches Zeigo Hub to digitize supply chain emissions",
+      "summary": "Schneider Electric launches Zeigo Hub, an AI-powered platform to help companies track and reduce supply chain emissions.",
+      "source": "DigitalCommerce360",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:17:53Z",
+      "url": "https://www.digitalcommerce360.com/2025/07/18/schneider-electric-zeigo-hub-digitize-supply-chain-emissions/"
+    },
+    {
+      "id": 53,
+      "title": "Google launches Gemini Drops feature feed to keep users in the loop",
+      "summary": "Google launches Gemini Drops feature feed to keep users in the loop, offering features, tips, and tricks that are not exclusive to Pixel drops.",
+      "source": "Android Police",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:17:38Z",
+      "url": "https://www.androidpolice.com/gemini-drops-ai-features-news-feed-launch/"
+    },
+    {
+      "id": 54,
+      "title": "Modi Govt removed barriers between public, private sectors, enabling healthy synergy: Dr Jitendra",
+      "summary": "Modi Govt removed barriers between public, private sectors, enabling healthy synergy: Dr Jitendra - STATE TIMES NEWS NEW DELHI: “The Modi Government has removed unreasonable barriers between public and private sectors, enabling a healthy synergy of best practices from all domains to be harnessed”. ",
+      "source": "Statetimes.in",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:15:55Z",
+      "url": "https://statetimes.in/modi-govt-removed-barriers-between-public-private-sectors-enabling-healthy-synergy-dr-jitendra/"
+    },
+    {
+      "id": 55,
+      "title": "Netflix’s first show with generative AI is a sign of what’s to come in TV, film",
+      "summary": "Netflix's debut of The Eternaut utilizing generative AI in a scene showcases the future of AI in TV and film.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:12:35Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178411792"
+    },
+    {
+      "id": 56,
+      "title": "Pixel Watch 4 leak points to identical pricing",
+      "summary": "Pixel Watch 4 leak indicates pricing will remain the same as previous model, similar to the Pixel 10 series pricing. European pricing for Pixel Watch 4 has been leaked.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:11:08Z",
+      "url": "http://9to5google.com/2025/07/18/pixel-watch-4-price/"
+    },
+    {
+      "id": 57,
+      "title": "Other Barks & Bites for Friday, July 18: CAFC Finds Doctrine of Equivalents Barred by Prosecution Estoppel; Senators Grill Witnesses on AI and Fair Use; and UKIPO Begins Consultation on SEP Ratemaking",
+      "summary": "The UKIPO begins consultation on SEP ratemaking, while the Federal Circuit rules on Colibri's cancellation of claims related to heart valve deployment.",
+      "source": "IPWatchdog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:08:35Z",
+      "url": "https://ipwatchdog.com/2025/07/18/barks-senators-grill-witnesses-ai-fair-use-ukipo-begins-consultation-sep-ratemaking/id=190464/"
+    },
+    {
+      "id": 58,
+      "title": " Weekly kit launch roundup: top 5 leagues in the spotlight",
+      "summary": "Weekly kit launch roundup focusing on the top 5 leagues in Europe, with a spotlight on England, showcasing new jersey releases during preseason.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:08:00Z",
+      "url": "https://onefootball.com/en/news/weekly-kit-launch-roundup-top-5-leagues-in-the-spotlight-41393791"
+    },
+    {
+      "id": 59,
+      "title": "Why Alignment Fails Without a Functional Model of Intelligence: A Structural Invariant You Can’t Train Your Way Around",
+      "summary": "This post discusses the importance of having a functional model of intelligence for achieving AI alignment, as outlined in a recent paper.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-18T18:07:12Z",
+      "url": "https://www.lesswrong.com/posts/apyPHy6o9GzeFRTpa/why-alignment-fails-without-a-functional-model-of"
+    },
+    {
+      "id": 60,
+      "title": "On The Up: Innovative exporters celebrated at Bay of Plenty Export Awards",
+      "summary": "The Bay of Plenty Export Awards celebrate businesses exporting goods and services to markets globally.",
+      "source": "New Zealand Herald",
+      "category": "economy",
+      "timestamp": "2025-07-18T18:07:00Z",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/on-the-up-innovative-exporters-celebrated-at-bay-of-plenty-export-awards/VKNROZXJ6VCIFH6IWJ6COFJ5JU/"
+    },
+    {
+      "id": 61,
+      "title": "The next AI breakthrough will be how well your agent knows you",
+      "summary": "The next AI breakthrough will be how well your agent knows you - How do you code common sense?",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-18T18:05:34Z",
+      "url": "https://biztoc.com/x/3c03cead76f5551b"
+    },
+    {
+      "id": 62,
+      "title": "Pixel Watch 4 might bulk up its fitness features to help you get ripped",
+      "summary": "Pixel Watch 4 may incorporate new strength training features to enhance fitness tracking, including custom workouts and smarter tracking capabilities.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-18T18:05:21Z",
+      "url": "https://www.androidauthority.com/pixel-watch-4-leak-strength-training-3579017/"
+    },
+    {
+      "id": 63,
+      "title": " Aura farming kid! Real star joins viral trend – on a jetski",
+      "summary": "The eleven-year-old Rayyan Arkan Dikha, also known as 'Aura farming kid,' has sparked a viral trend on the internet with a dance on a rowing racing boat, showcasing the potential for AI to create viral trends and captivate audiences worldwide.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T18:05:00Z",
+      "url": "https://onefootball.com/en/news/aura-farming-kid-real-star-joins-viral-trend-on-a-jetski-41393766"
+    },
     {
       "id": 51,
       "title": "Being human",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T16:43:56Z",
       "url": "https://futurism.com/openai-anthropic-xai-grok-scandal"
-    },
-    {
-      "id": 56,
-      "title": "More Than Half of Teens Surveyed Use AI for Companionship. Why That's Not Ideal",
-      "summary": "More than half of teens surveyed use AI for companionship, but it is not recommended for anyone younger than 18 due to potential negative impacts on social development.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:43:00Z",
-      "url": "https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-regularly-use-ai-chatbots-why-thats-not-ideal/"
-    },
-    {
-      "id": 57,
-      "title": "More Than Half of Teens Surveyed Use AI for Companionship. Why That's Not Ideal",
-      "summary": "More than half of teens surveyed use AI for companionship, but it is not ideal as the survey company recommends that no one younger than 18 should use AI companions.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:43:00Z",
-      "url": "https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-use-ai-for-companionship-why-thats-not-ideal/"
-    },
-    {
-      "id": 58,
-      "title": "OpenAI CEO Sam Altman issues strong warning over new ChatGPT service",
-      "summary": "OpenAI CEO Sam Altman warns about potential risks of new ChatGPT Agent service that can complete complex tasks from start to finish.",
-      "source": "LADbible",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:42:58Z",
-      "url": "https://www.ladbible.com/news/technology/chatgpt-open-ai-sam-altman-warning-166490-20250718"
-    },
-    {
-      "id": 59,
-      "title": "timbal 0.57.4",
-      "summary": "timbal 0.57.4 is a strongly opinionated framework for building and orchestrating agentic AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T16:41:50Z",
-      "url": "https://pypi.org/project/timbal/0.57.4/"
-    },
-    {
-      "id": 60,
-      "title": "Update: China Issues New Statement on US Tech War",
-      "summary": "China criticizes US decision to loosen AI chip exports as it could give the US an advantage in the technology war.",
-      "source": "Newsweek",
-      "category": "economy",
-      "timestamp": "2025-07-18T16:40:41Z",
-      "url": "https://www.newsweek.com/china-issues-new-statement-us-tech-war-nvidia-ai-chip-2100871"
-    },
-    {
-      "id": 61,
-      "title": "Skift IDEA Awards: Meet the 2025 Finalists",
-      "summary": "Skift IDEA Awards recognizes individuals, teams, and companies shaping the future of the industry in its seventh year.",
-      "source": "Skift",
-      "category": "innovation",
-      "timestamp": "2025-07-18T16:40:41Z",
-      "url": "http://skift.com/2025/07/18/skift-idea-awards-meet-the-2025-finalists/"
-    },
-    {
-      "id": 62,
-      "title": "Billion-euro chip factory planned for eastern Germany",
-      "summary": "Billion-euro chip factory planned in eastern Germany to produce microchips for European industry.",
-      "source": "Dpa-international.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T16:40:33Z",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:250718-99-494901/"
-    },
-    {
-      "id": 63,
-      "title": "A night-watchman ASI as a first step toward a great future",
-      "summary": "A night-watchman ASI is being considered as a first step towards a great future, with the author taking a week off from their job to think about aligning AI and potential uses for it.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-18T16:40:20Z",
-      "url": "https://www.lesswrong.com/posts/us8ss79mWCgTcSKoK/a-night-watchman-asi-as-a-first-step-toward-a-great-future"
-    },
-    {
-      "id": 64,
-      "title": "Ubuntu server started crashing after install cifs-utils",
-      "summary": "Ubuntu server started crashing after installing cifs-utils, causing AI server to freeze during an rsync transfer.",
-      "source": "Askubuntu.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T16:39:56Z",
-      "url": "https://askubuntu.com/questions/1553102/ubuntu-server-started-crashing-after-install-cifs-utils"
-    },
-    {
-      "id": 65,
-      "title": "Cognitive warfare: why wars without bombs or bullets are a legal blind spot",
-      "summary": "Cognitive warfare, involving tactics like spreading false health alerts to create panic, is a legal blind spot that raises ethical concerns about the impact of misinformation in conflicts.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:38:59Z",
-      "url": "https://theconversation.com/cognitive-warfare-why-wars-without-bombs-or-bullets-are-a-legal-blind-spot-260607"
-    },
-    {
-      "id": 66,
-      "title": "Green card holder detained by ICE, may soon be deported to Democratic Republic of Congo",
-      "summary": "Green card holder detained by ICE and facing possible deportation to Congo after officials claim she lied about marital status.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:38:55Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/green-card-holder-detained-by-ice-may-soon-be-deported-to-democratic-republic-of-congo/articleshow/122769459.cms"
-    },
-    {
-      "id": 67,
-      "title": "Coldplay Fan Who Exposed Cheating CEO At Concert By Filming Kiss Cam Finally Breaks Silence",
-      "summary": "Coldplay fan exposes cheating CEO at concert by filming kiss cam, leading to family's lives being turned upside down.",
-      "source": "Boredpanda.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T16:38:14Z",
-      "url": "https://www.boredpanda.com/coldplay-fan-who-filmed-andy-byron-kiss-tell-tech-ceo-stupid-games-get-stupid-prizes/"
-    },
-    {
-      "id": 68,
-      "title": "Texas Reservoir Map Shows How Water Levels Compare After Floods",
-      "summary": "Many reservoirs and lakes in Central and Eastern Texas near capacity after floods, state data shows. AI-generated voice used in news report, highlighting potential inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T16:37:12Z",
-      "url": "https://biztoc.com/x/fee98e0fbe4609aa"
     }
   ]
 }
