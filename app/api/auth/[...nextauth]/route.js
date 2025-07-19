@@ -10,27 +10,28 @@ export const authOptions = {
   providers: [
     EmailProvider({
       server: {
-        host: process.env.EMAIL_SERVER_HOST,  // 'smtp.gmail.com'
-        port: process.env.EMAIL_SERVER_PORT,  // '587'
+        host: process.env.EMAIL_SERVER_HOST,
+        port: process.env.EMAIL_SERVER_PORT,
         auth: {
-          user: process.env.EMAIL_SERVER_USER,  // 'info@papers.se'
-          pass: process.env.EMAIL_SERVER_PASSWORD,  // 'U9=(AOd.wu>&0bd4'
+          user: process.env.EMAIL_SERVER_USER,
+          pass: process.env.EMAIL_SERVER_PASSWORD,
         },
       },
-      from: process.env.EMAIL_FROM,  // 'info@papers.se'
+      from: process.env.EMAIL_FROM,
     }),
   ],
   secret: process.env.NEXT_AUTH_SECRET,
   pages: {
-    signIn: '/auth/signin',  // Your custom sign-in page
-    error: '/auth/error',  // Your custom error page
+    signIn: '/auth/signin',
+    error: '/auth/error',
   },
   callbacks: {
     async session({ session, user }) {
-      session.user.id = user.id;  // Add user ID for subscription checks
+      session.user.id = user.id;
       return session;
     },
   },
+  debug: true,  // Enables detailed logs in Vercel - check for errors
 };
 
 const handler = NextAuth(authOptions);
