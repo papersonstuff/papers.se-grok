@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-19T03:07:17.512Z",
+  "lastUpdate": "2025-07-19T04:00:08.569Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sponsors Return for Fuji TV's Summer Anime Season",
+      "summary": "Sponsors return for Fuji TV's summer anime season as Chibi Maruko-chan ends a 3-month sponsorship drought.",
+      "source": "Anime News Network",
+      "category": "economy",
+      "timestamp": "2025-07-18T03:59:00Z",
+      "url": "https://www.animenewsnetwork.com/interest/2025-07-17/sponsors-return-for-fuji-tv-summer-anime-season/.226760"
+    },
+    {
+      "id": 52,
+      "title": "Indian Markets May Continue Weekly Loss as Key Earnings Fall Short",
+      "summary": "Indian Markets May Continue Weekly Loss as Key Earnings Fall Short",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-18T03:57:59Z",
+      "url": "https://financialpost.com/pmn/business-pmn/indian-markets-may-continue-weekly-loss-as-key-earnings-fall-short"
+    },
+    {
+      "id": 53,
+      "title": "Boeing Continues Development of Exploration Upper Stage",
+      "summary": "Boeing to spend 2.8 billion dollars on NASA's Exploration Upper Stage for the Space Launch System Block 1B. First flight planned for Artemis IV in 2028.",
+      "source": "Next Big Future",
+      "category": "innovation",
+      "timestamp": "2025-07-18T03:56:38Z",
+      "url": "https://www.nextbigfuture.com/2025/07/boeing-continues-development-of-exploration-upper-stage.html"
+    },
+    {
+      "id": 54,
+      "title": "catt-tashkeel added to PyPI",
+      "summary": "CATT-tashkeel added to PyPI - Character-based Arabic Tashkeel Transformer (CATT) by Abjad AI allows for improved text processing and analysis in Arabic language applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T03:56:10Z",
+      "url": "https://pypi.org/project/catt-tashkeel/"
+    },
+    {
+      "id": 55,
+      "title": "AI isn’t just for coders: 7 emerging non-tech career paths in artificial intelligence",
+      "summary": "AI isn’t just for coders: 7 emerging non-tech career paths in artificial intelligence - Artificial intelligence is rapidly evolving, creating diverse career opportunities beyond computer science. The field needs professionals from various backgrounds like ethics, design, and policy to ensure AI is responsible and beneficial. Students in law, art…",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-18T03:55:49Z",
+      "url": "https://timesofindia.indiatimes.com/education/careers/ai-isnt-just-for-coders-7-emerging-non-tech-career-paths-in-artificial-intelligence/articleshow/122722679.cms"
+    },
+    {
+      "id": 56,
+      "title": "Why Is a Sexually Explicit Chatbot Available to Kids on the App Store?",
+      "summary": "Grok's sexually explicit chatbot available to kids on App Store raises concerns about Apple's App Store moderation and child safety.",
+      "source": "The Mac Observer",
+      "category": "ethics",
+      "timestamp": "2025-07-18T03:55:18Z",
+      "url": "https://www.macobserver.com/news/why-is-a-sexually-explicit-chatbot-available-to-kids-on-the-app-store/"
+    },
+    {
+      "id": 57,
+      "title": "【悲報】AI生成同人、終焉へｗｗｗｗ　AI絵師さんの稼ぎもこれまでか",
+      "summary": "AI-generated doujinshi brings an end to human creators, causing anger in platforms like FANZA, DL, and BOOTH.",
+      "source": "Yaraon-blog.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T03:54:43Z",
+      "url": "http://yaraon-blog.com/archives/280451"
+    },
+    {
+      "id": 58,
+      "title": "Trump AI Guidelines Expected to Loosen Rules, Pursue Energy",
+      "summary": "President Trump expected to announce AI guidelines loosening rules and promoting energy sources for data centers.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-18T03:52:53Z",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-ai-guidelines-expected-to-loosen-rules-pursue-energy"
+    },
+    {
+      "id": 59,
+      "title": "agunreal 0.1.0",
+      "summary": "agunreal 0.1.0 is a new package designed for developing AI-Enhanced games, offering a simple solution for integrating artificial intelligence into gaming experiences.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T03:52:17Z",
+      "url": "https://pypi.org/project/agunreal/0.1.0/"
+    },
+    {
+      "id": 60,
+      "title": "agunreal added to PyPI",
+      "summary": "agunreal added to PyPI - A simple package for creating AI-Enhanced games.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T03:52:17Z",
+      "url": "https://pypi.org/project/agunreal/"
+    },
+    {
+      "id": 61,
+      "title": "Fully Homomorphic Encryption and the Dawn of a Truly Private Internet",
+      "summary": "The article discusses Fully Homomorphic Encryption and its potential to usher in a truly private internet by enabling computations on encrypted data. This breakthrough has significant implications for data privacy and security online.",
+      "source": "Bozmen.io",
+      "category": "research",
+      "timestamp": "2025-07-18T03:49:50Z",
+      "url": "https://bozmen.io/fhe"
+    },
+    {
+      "id": 62,
+      "title": "CEO faces cheating allegations after being caught in embrace with coworker on Jumbotron at Coldplay concert",
+      "summary": "CEO of AI company caught cheating with coworker on Jumbotron at concert, raising ethical concerns.",
+      "source": "The-independent.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T03:45:10Z",
+      "url": "https://www.the-independent.com/life-style/andy-byron-astronomer-ceo-kristin-cabot-coldplay-cheating-b2791375.html"
+    },
+    {
+      "id": 63,
+      "title": "Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E.",
+      "summary": "Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E. - the startup is still in the game and showcasing innovative electric vehicles.",
+      "source": "Electrek",
+      "category": "startups",
+      "timestamp": "2025-07-18T03:45:00Z",
+      "url": "http://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/"
+    },
     {
       "id": 51,
       "title": "Huawei regains top spot in China’s smartphone market after four years",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-17T23:39:30Z",
       "url": "https://www.yugatech.com/guides/smartphones-under-php-25000-25k-q2-2025/"
-    },
-    {
-      "id": 52,
-      "title": "My favorite use-case for AI is writing logs",
-      "summary": "My favorite use-case for AI is writing logs - One of my favorite AI dev products today is Full Line Code Completion in PyCharm (bundled with the IDE since late 2023). It’s extremely well-thought out...",
-      "source": "Vickiboykis.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:38:48Z",
-      "url": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/"
-    },
-    {
-      "id": 53,
-      "title": "Hadrian gets $260M in funding to accelerate defense industry manufacturing automation",
-      "summary": "Hadrian Automation Inc. secures $260 million in new funding led by Peter Thiel’s Founders Fund and Lux Capital, bringing total funding to over $500 million, with the goal of accelerating defense industry manufacturing automation.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-17T23:35:37Z",
-      "url": "https://siliconangle.com/2025/07/17/hadrian-gets-260m-funding-accelerate-defense-industry-manufacturing-automation/"
-    },
-    {
-      "id": 54,
-      "title": "pygpt-net 2.5.49",
-      "summary": "pygpt-net 2.5.49 is a Desktop AI Assistant powered by several OpenAI models such as GPT-4, DALL-E 3, and Llama 3, offering chatbot capabilities, completion, image generation, and vision analysis.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:33:57Z",
-      "url": "https://pypi.org/project/pygpt-net/2.5.49/"
-    },
-    {
-      "id": 55,
-      "title": "New Leak Reveals Galaxy S26 Ultra To Feature Larger 6.89-Inch CoE OLED Display With Ultra-Thin Bezels, Brighter Panel, And Improved Battery Efficiency",
-      "summary": "New Leak Reveals Galaxy S26 Ultra To Feature Larger 6.89-Inch CoE OLED Display With Ultra-Thin Bezels, Brighter Panel, And Improved Battery Efficiency - Samsung's flagship model Galaxy S26 Ultra is anticipated to bring major upgrades in display technology and battery efficiency.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-17T23:33:33Z",
-      "url": "https://wccftech.com/new-leak-reveals-galaxy-s26-ultra-to-pack-larger-6-89-inch-coe-oled-display-with-ultra-thin-bezels/"
-    },
-    {
-      "id": 56,
-      "title": "An advisory board convened by OpenAI recommends that the company remain a nonprofit because AI is \"too consequential\" to be governed by a corporation alone (Thalia Beaty/Associated Press)",
-      "summary": "An advisory board recommends OpenAI remain a nonprofit due to the consequential nature of AI, stating that it should not be governed solely by a corporation.",
-      "source": "Techmeme.com",
-      "category": "ethics",
-      "timestamp": "2025-07-17T23:30:00Z",
-      "url": "https://www.techmeme.com/250717/p52"
-    },
-    {
-      "id": 57,
-      "title": "langchain-nvidia-ai-endpoints 0.3.12",
-      "summary": "LangChain has released version 0.3.12 of an integration package connecting NVIDIA AI Endpoints, allowing for enhanced AI capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-17T23:29:28Z",
-      "url": "https://pypi.org/project/langchain-nvidia-ai-endpoints/0.3.12/"
-    },
-    {
-      "id": 58,
-      "title": "‘Crypto week’ is a turning point, for better or worse | CNN Business",
-      "summary": "'Crypto week' in DC is seen as a turning point by some, while others are preparing for potential economic collapse. The legislative focus on crypto is causing mixed reactions in the business world.",
-      "source": "CNN",
-      "category": "economy",
-      "timestamp": "2025-07-17T23:28:27Z",
-      "url": "https://www.cnn.com/2025/07/17/business/crypto-week-nightcap"
-    },
-    {
-      "id": 59,
-      "title": "Netflix says it used GenAI in Argentine TV series",
-      "summary": "Netflix used GenAI in Argentine TV series to create visual effects using generative artificial intelligence.",
-      "source": "CNA",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:26:51Z",
-      "url": "https://www.channelnewsasia.com/business/netflix-says-it-used-genai-in-argentine-tv-series-5244811"
-    },
-    {
-      "id": 60,
-      "title": "Top 10 Platforms for LLM SEO in 2025",
-      "summary": "Top 10 Platforms for LLM SEO in 2025 are discussed, highlighting why 'LLM SEO' is important for every CMO. Google's AI advancements are shaping the future of search beyond blue links.",
-      "source": "Contently.com",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:23:58Z",
-      "url": "https://contently.com/2025/07/17/top-10-platforms-for-llm-seo-in-2025/"
-    },
-    {
-      "id": 61,
-      "title": "AI技術(cursor pro, claude3.5/3.7)によってコーディング開発が19%遅くなっている？！",
-      "summary": "AI技術によってコーディング開発が19%遅くなるとするMETR論文の詳細記事が公開された。著者はLLMの助けも借りつつ、熟練 OSS 開発者を対象に研究を行った。",
-      "source": "Zenn.dev",
-      "category": "research",
-      "timestamp": "2025-07-17T23:23:37Z",
-      "url": "https://zenn.dev/boku_yaji/articles/2eba9ff05fc3e2"
-    },
-    {
-      "id": 62,
-      "title": "phonic-python 0.1.18",
-      "summary": "Phonic-python 0.1.18 is the official Python SDK for building voice AI with Phonic.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-17T23:22:57Z",
-      "url": "https://pypi.org/project/phonic-python/0.1.18/"
-    },
-    {
-      "id": 63,
-      "title": "Florida woman scammed out of $15K by AI cloning her daughter’s voice: ‘I know my daughter’s cry’",
-      "summary": "Florida woman scammed out of $15K by AI cloning her daughter’s voice, leading to concerns about the ethical implications of AI technology.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-17T23:22:46Z",
-      "url": "https://nypost.com/2025/07/17/us-news/florida-woman-tricked-into-forking-over-15k-by-ai-cloning-her-daughters-voice-i-know-my-daughters-cry/"
-    },
-    {
-      "id": 64,
-      "title": "Why do Mechanistic Interpretability?",
-      "summary": "Why Mechanistic Interpretability is essential in AI research, discussing the need to understand transformers and their impact on circuits.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-17T23:21:30Z",
-      "url": "https://www.lesswrong.com/posts/FndngJxj7YpuNsXHB/why-do-mechanistic-interpretability"
     }
   ]
 }
