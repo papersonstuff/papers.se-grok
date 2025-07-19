@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-19T19:11:45.369Z",
+  "lastUpdate": "2025-07-19T19:26:18.975Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027",
+      "summary": "Foundry competition heats up as Japan’s Rapidus aims to start volume production of 2nm chip tech in 2027, two years behind competitors.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:24:57Z",
+      "url": "https://www.theregister.com/2025/07/18/rapidus_foundry_2nm/"
+    },
+    {
+      "id": 52,
+      "title": "How retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun'",
+      "summary": "Retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun' and are expected to acquire AI systems in the coming months for optimizing store layouts and meeting changing customer needs.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:22:55Z",
+      "url": "https://biztoc.com/x/0cec1df67fca9776"
+    },
+    {
+      "id": 53,
+      "title": "BC shuffles cabinet, moving Rick Glumac to AI and Ravi Kahlon back to jobs",
+      "summary": "BC Premier David Eby shuffles cabinet to focus on jobs and economy, moving Rick Glumac to AI and Ravi Kahlon back to jobs in response to rising US tensions.",
+      "source": "BetaKit",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:22:14Z",
+      "url": "https://betakit.com/bc-shuffles-cabinet-moving-rick-glumac-to-ai-and-ravi-kahlon-back-to-jobs/"
+    },
+    {
+      "id": 54,
+      "title": "Microsoft likely to sign EU AI code of practice, Meta rebuffs guidelines",
+      "summary": "Microsoft is likely to sign the EU AI code of practice, while Meta is rebuffing guidelines.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:20:46Z",
+      "url": "https://tech.yahoo.com/ai/articles/microsoft-likely-sign-eu-ai-192046270.html"
+    },
+    {
+      "id": 55,
+      "title": "Microsoft likely to sign EU AI code of practice, Meta rebuffs guidelines",
+      "summary": "Microsoft is likely to sign the EU AI code of practice, while Meta Platforms refuses to adhere to the guidelines.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:20:46Z",
+      "url": "https://www.channelnewsasia.com/business/microsoft-likely-sign-eu-ai-code-practice-meta-rebuffs-guidelines-5246546"
+    },
+    {
+      "id": 56,
+      "title": "RealPage goes from setting rent to collecting it",
+      "summary": "RealPage, the algorithmic rent-setting software company, is expanding its services by acquiring Livble, a platform that allows renters to pay their monthly rent in installments. This move aims to provide a more flexible and convenient payment solution for tenants.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:20:26Z",
+      "url": "https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments"
+    },
+    {
+      "id": 57,
+      "title": "14 interesting facts about self-driving cars",
+      "summary": "Salvi, Schostok & Pritchard P.C. shares 14 intriguing facts about self-driving cars, covering their history, benefits, challenges, and safety concerns.",
+      "source": "Salvilaw.com",
+      "category": "research",
+      "timestamp": "2025-07-18T19:20:00Z",
+      "url": "https://www.salvilaw.com/self-driving-cars/"
+    },
+    {
+      "id": 58,
+      "title": "PS6 May Feature an Increased RAM Without Raising Costs",
+      "summary": "PS6 may feature an increased RAM without raising costs, potentially up to 32 GB according to experts.",
+      "source": "PlayStation LifeStyle",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:19:17Z",
+      "url": "https://www.playstationlifestyle.net/2025/07/18/ps6-increased-ram-not-raising-cost/"
+    },
+    {
+      "id": 59,
+      "title": "This AI browser may replace 2 office jobs you thought were safe, and it's coming for your job next",
+      "summary": "This AI browser may replace 2 office jobs you thought were safe, and it's coming for your job next - Perplexity CEO Aravind Srinivas introduces Comet, an AI-powered browser poised to automate knowledge work. Comet aims to replace administrative assistants and recruiters by handling tasks like candidate sourcing, scheduling, and email management.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:18:53Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/this-ai-browser-may-replace-2-office-jobs-you-thought-were-safe-and-its-coming-for-your-job-next/articleshow/122771676.cms"
+    },
+    {
+      "id": 60,
+      "title": "Investigating claim Trump laughingly agreed with being called a 'sexual predator' on 'Howard Stern Show'",
+      "summary": "Investigation confirms video showing President Trump jokingly agreeing with being called a sexual predator on 'Howard Stern Show'",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:18:00Z",
+      "url": "https://www.snopes.com//fact-check/video-trump-howard-stern-show-sexual-predator/"
+    },
+    {
+      "id": 61,
+      "title": "How retailers like Lowe's are using AI to make shopping 'simpler, faster, and more fun'",
+      "summary": "Retailers like Lowe's are using AI to optimize store layouts, predict product trends, and enhance the customer experience.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:16:02Z",
+      "url": "https://www.businessinsider.com/lowes-ai-retail-store-layout-product-trends-customer-experience-2025-7"
+    },
+    {
+      "id": 62,
+      "title": "ChatGPT's new AI agent can fill out online forms and generate PowerPoint presentations",
+      "summary": "ChatGPT's new AI agent can fill out online forms and generate PowerPoint presentations, building on existing operator functionality and using a virtual browser in the cloud to handle complex tasks.",
+      "source": "TechSpot",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:16:00Z",
+      "url": "https://www.techspot.com/news/108721-openai-new-chatgpt-agent-can-fill-out-online.html"
+    },
     {
       "id": 51,
       "title": "AEC Trends 2025: The Technologies and Workflows Shaping Our Industry",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T18:19:59Z",
       "url": "https://fortune.com/2025/07/18/return-to-office-hybrid-work-fortune-100-companies/"
-    },
-    {
-      "id": 52,
-      "title": "Schneider Electric launches Zeigo Hub to digitize supply chain emissions",
-      "summary": "Schneider Electric launches Zeigo Hub, an AI-powered platform to help companies track and reduce supply chain emissions.",
-      "source": "DigitalCommerce360",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:17:53Z",
-      "url": "https://www.digitalcommerce360.com/2025/07/18/schneider-electric-zeigo-hub-digitize-supply-chain-emissions/"
-    },
-    {
-      "id": 53,
-      "title": "Google launches Gemini Drops feature feed to keep users in the loop",
-      "summary": "Google launches Gemini Drops feature feed to keep users in the loop, offering features, tips, and tricks that are not exclusive to Pixel drops.",
-      "source": "Android Police",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:17:38Z",
-      "url": "https://www.androidpolice.com/gemini-drops-ai-features-news-feed-launch/"
-    },
-    {
-      "id": 54,
-      "title": "Modi Govt removed barriers between public, private sectors, enabling healthy synergy: Dr Jitendra",
-      "summary": "Modi Govt removed barriers between public, private sectors, enabling healthy synergy: Dr Jitendra - STATE TIMES NEWS NEW DELHI: “The Modi Government has removed unreasonable barriers between public and private sectors, enabling a healthy synergy of best practices from all domains to be harnessed”. ",
-      "source": "Statetimes.in",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:15:55Z",
-      "url": "https://statetimes.in/modi-govt-removed-barriers-between-public-private-sectors-enabling-healthy-synergy-dr-jitendra/"
-    },
-    {
-      "id": 55,
-      "title": "Netflix’s first show with generative AI is a sign of what’s to come in TV, film",
-      "summary": "Netflix's debut of The Eternaut utilizing generative AI in a scene showcases the future of AI in TV and film.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:12:35Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178411792"
-    },
-    {
-      "id": 56,
-      "title": "Pixel Watch 4 leak points to identical pricing",
-      "summary": "Pixel Watch 4 leak indicates pricing will remain the same as previous model, similar to the Pixel 10 series pricing. European pricing for Pixel Watch 4 has been leaked.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:11:08Z",
-      "url": "http://9to5google.com/2025/07/18/pixel-watch-4-price/"
-    },
-    {
-      "id": 57,
-      "title": "Other Barks & Bites for Friday, July 18: CAFC Finds Doctrine of Equivalents Barred by Prosecution Estoppel; Senators Grill Witnesses on AI and Fair Use; and UKIPO Begins Consultation on SEP Ratemaking",
-      "summary": "The UKIPO begins consultation on SEP ratemaking, while the Federal Circuit rules on Colibri's cancellation of claims related to heart valve deployment.",
-      "source": "IPWatchdog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:08:35Z",
-      "url": "https://ipwatchdog.com/2025/07/18/barks-senators-grill-witnesses-ai-fair-use-ukipo-begins-consultation-sep-ratemaking/id=190464/"
-    },
-    {
-      "id": 58,
-      "title": " Weekly kit launch roundup: top 5 leagues in the spotlight",
-      "summary": "Weekly kit launch roundup focusing on the top 5 leagues in Europe, with a spotlight on England, showcasing new jersey releases during preseason.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:08:00Z",
-      "url": "https://onefootball.com/en/news/weekly-kit-launch-roundup-top-5-leagues-in-the-spotlight-41393791"
-    },
-    {
-      "id": 59,
-      "title": "Why Alignment Fails Without a Functional Model of Intelligence: A Structural Invariant You Can’t Train Your Way Around",
-      "summary": "This post discusses the importance of having a functional model of intelligence for achieving AI alignment, as outlined in a recent paper.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-18T18:07:12Z",
-      "url": "https://www.lesswrong.com/posts/apyPHy6o9GzeFRTpa/why-alignment-fails-without-a-functional-model-of"
-    },
-    {
-      "id": 60,
-      "title": "On The Up: Innovative exporters celebrated at Bay of Plenty Export Awards",
-      "summary": "The Bay of Plenty Export Awards celebrate businesses exporting goods and services to markets globally.",
-      "source": "New Zealand Herald",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:07:00Z",
-      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/on-the-up-innovative-exporters-celebrated-at-bay-of-plenty-export-awards/VKNROZXJ6VCIFH6IWJ6COFJ5JU/"
-    },
-    {
-      "id": 61,
-      "title": "The next AI breakthrough will be how well your agent knows you",
-      "summary": "The next AI breakthrough will be how well your agent knows you - How do you code common sense?",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-18T18:05:34Z",
-      "url": "https://biztoc.com/x/3c03cead76f5551b"
-    },
-    {
-      "id": 62,
-      "title": "Pixel Watch 4 might bulk up its fitness features to help you get ripped",
-      "summary": "Pixel Watch 4 may incorporate new strength training features to enhance fitness tracking, including custom workouts and smarter tracking capabilities.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:05:21Z",
-      "url": "https://www.androidauthority.com/pixel-watch-4-leak-strength-training-3579017/"
-    },
-    {
-      "id": 63,
-      "title": " Aura farming kid! Real star joins viral trend – on a jetski",
-      "summary": "The eleven-year-old Rayyan Arkan Dikha, also known as 'Aura farming kid,' has sparked a viral trend on the internet with a dance on a rowing racing boat, showcasing the potential for AI to create viral trends and captivate audiences worldwide.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T18:05:00Z",
-      "url": "https://onefootball.com/en/news/aura-farming-kid-real-star-joins-viral-trend-on-a-jetski-41393766"
     }
   ]
 }
