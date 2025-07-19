@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-19T07:31:31.518Z",
+  "lastUpdate": "2025-07-19T07:48:57.958Z",
   "items": [
+    {
+      "id": 51,
+      "title": "fireworks-ai 0.19.6",
+      "summary": "fireworks-ai 0.19.6 is a Python client library for the Fireworks AI Platform.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:47:18Z",
+      "url": "https://pypi.org/project/fireworks-ai/0.19.6/"
+    },
+    {
+      "id": 52,
+      "title": "How undergraduate business programs are evolving to teach AI, sustainability, and global skills",
+      "summary": "Undergraduate business education is evolving to incorporate AI fluency, sustainability leadership, and cross-border business skills into their curricula in response to the changing global landscape.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:45:29Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/how-undergraduate-business-programs-are-evolving-to-teach-ai-sustainability-and-global-business-skills/articleshow/122745714.cms"
+    },
+    {
+      "id": 53,
+      "title": "Apple’s Tech Impresses Everyone But Garrett the Cat and His Loyal Owner",
+      "summary": "Apple's Tech Impresses Everyone But Garrett the Cat and His Loyal Owner - Apple Intelligence ad demonstrates a feature that impresses everyone but Garrett the cat and his devoted owner",
+      "source": "Adweek",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:44:46Z",
+      "url": "https://www.adweek.com/creativity/apples-tech-impresses-everyone-but-garrett-the-cat-and-his-loyal-owner/"
+    },
+    {
+      "id": 54,
+      "title": "Donald Trump Scores Second Massive Legislative Victory",
+      "summary": "The House of Representatives approves President Trump's request to claw back $9 billion for public broadcasting and foreign aid, marking his second massive legislative victory.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:43:23Z",
+      "url": "https://biztoc.com/x/84fdf4c8113538a4"
+    },
+    {
+      "id": 55,
+      "title": "Allworth Financial LP Acquires 560 Shares of CorVel Corp. (NASDAQ:CRVL)",
+      "summary": "Allworth Financial LP increases its position in CorVel Corp. by 4,000.0% during the first quarter, showing confidence in the company's performance.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:42:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/allworth-financial-lp-acquires-560-shares-of-corvel-corp-nasdaqcrvl/"
+    },
+    {
+      "id": 56,
+      "title": "1,918 Shares in iShares Future AI & Tech ETF (NYSEARCA:ARTY) Acquired by Allworth Financial LP",
+      "summary": "Allworth Financial LP acquired a new position in shares of iShares Future AI & Tech ETF, indicating potential interest and investment in AI and technology-related companies.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:42:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/1918-shares-in-ishares-future-ai-tech-etf-nysearcaarty-acquired-by-allworth-financial-lp/"
+    },
+    {
+      "id": 57,
+      "title": "How Managed Networks Support Scalable IT Infrastructure In Modern Enterprises",
+      "summary": "Today, enterprises require robust, scalable IT infrastructure to maintain competitiveness. As businesses expand, their network demands grow exponentially, necessitating solutions that ensure reliability, security, and efficiency.",
+      "source": "Unixmen.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T07:42:22Z",
+      "url": "https://www.unixmen.com/how-managed-networks-support-scalable-it-infrastructure-in-modern-enterprises/"
+    },
+    {
+      "id": 58,
+      "title": "Leading Startup Squareでは、『企業価値分析・向上支援サービス「IVAC（アイバック）」』の提供を開始いたしました。",
+      "summary": "Leading Startup Square has started offering the 'IVAC (I-Back) service for corporate value analysis and improvement.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000134446.html"
+    },
+    {
+      "id": 59,
+      "title": "W Health Ventures set to close $100–150 mn fund II for early-stage healthcare bets in India and US",
+      "summary": "W Health Ventures is closing a $100–150 mn fund II for early-stage healthcare bets in India and US, while experiencing a leadership churn with a principal resigning.",
+      "source": "Livemint",
+      "category": "startups",
+      "timestamp": "2025-07-18T07:39:06Z",
+      "url": "https://www.livemint.com/companies/start-ups/w-health-ventures-healthcare-venture-capital-healthtech-vc-india-us-healthcare-startups-early-stage-healthcare-11752817749552.html"
+    },
+    {
+      "id": 60,
+      "title": "Gorilla Technology Group (NASDAQ:GRRRW) Trading Down 8.1% – Should You Sell?",
+      "summary": "Gorilla Technology Group Inc. (NASDAQ:GRRRW) fell 8.1% during mid-day trading on Thursday.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:36:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/gorilla-technology-group-nasdaqgrrrw-trading-down-8-1-should-you-sell/"
+    },
+    {
+      "id": 61,
+      "title": "AI is making sure you pay for that ding on your rental car",
+      "summary": "AI is being used by rental car agencies like Hertz to detect even minor damages on vehicles, leading to customer dissatisfaction.",
+      "source": "The Star Online",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:35:00Z",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/07/18/ai-is-making-sure-you-pay-for-that-ding-on-your-rental-car"
+    },
+    {
+      "id": 62,
+      "title": "Q1 Earnings Forecast for Simulations Plus Issued By KeyCorp",
+      "summary": "KeyCorp issued their Q1 2026 earnings per share estimates for Simulations Plus, Inc. The equities research analysts forecasted the earnings in a research note on July 14th.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-18T07:34:55Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/q1-earnings-forecast-for-simulations-plus-issued-by-keycorp/"
+    },
+    {
+      "id": 63,
+      "title": "Barrington Research Has Positive Outlook of IMAX Q1 Earnings",
+      "summary": "Barrington Research analysts have a positive outlook on IMAX Corporation's Q1 earnings, with an increase in earnings per share estimates for 2026.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-18T07:34:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/18/barrington-research-has-positive-outlook-of-imax-q1-earnings/"
+    },
+    {
+      "id": 64,
+      "title": "Ghost Downloader 3 v3.6.1",
+      "summary": "Ghost Downloader 3 is a fast, AI-powered Windows download manager with advanced features such as multi-threading, proxy support, and smart resume.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-18T07:34:01Z",
+      "url": "https://www.neowin.net/software/ghost-downloader-3-v361/"
+    },
     {
       "id": 51,
       "title": "Stocks to Buy | Navigating a tough market: Precision over breadth",
@@ -324,132 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T06:41:43Z",
       "url": "https://prtimes.jp/main/html/rd/p/000000005.000158804.html"
-    },
-    {
-      "id": 56,
-      "title": "Uber’s latest robotaxi plan involves 20,000 Lucid EVs",
-      "summary": "Uber plans to deploy 20,000 Lucid EVs as part of its robotaxi program, investing in Nuro and Lucid to build a global network of autonomous vehicles.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:41:37Z",
-      "url": "https://www.madshrimps.be/news/ubers-latest-robotaxi-plan-involves-20000-lucid-evs/"
-    },
-    {
-      "id": 57,
-      "title": "Intel and Weizmann Institute Speed AI with Speculative Decoding Advance",
-      "summary": "Intel and Weizmann Institute introduced a major advance in speculative decoding at ICML, speeding up AI processes.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:40:41Z",
-      "url": "https://www.madshrimps.be/news/intel-and-weizmann-institute-speed-ai-with-speculative-decoding-advance/"
-    },
-    {
-      "id": 58,
-      "title": "How involve.me Is Helping Companies Unlock the Full Value of First-Party Data",
-      "summary": "involve.me is helping companies utilize first-party data to navigate privacy regulations and the end of third-party cookies.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-18T06:39:32Z",
-      "url": "https://www.androidheadlines.com/2025/07/how-involve-me-is-helping-companies-unlock-the-full-value-of-first-party-data.html"
-    },
-    {
-      "id": 59,
-      "title": "BRICS media, think tanks convene to promote BRICS cooperation, new vision for Global South",
-      "summary": "BRICS media and think tanks gather to promote cooperation and new vision for Global South.",
-      "source": "Mypeoplesreview.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T06:37:40Z",
-      "url": "https://mypeoplesreview.com/2025/07/18/brics-media-think-tanks-convene-to-promote-brics-cooperation-new-vision-for-global-south/"
-    },
-    {
-      "id": 60,
-      "title": "TSMC to step up 2nm deployment to meet AI demand",
-      "summary": "TSMC is increasing its deployment of 2nm technology to meet the rising demand for AI, with its industry-leading process technologies giving a competitive edge in energy-efficient computing.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:36:38Z",
-      "url": "https://www.digitimes.com/news/a20250718PD217/tsmc-2nm-demand-arizona-kumamoto-fab.html"
-    },
-    {
-      "id": 61,
-      "title": "Diakhaby regains his key role this season",
-      "summary": "Mouctar Diakhaby regains his key role with Valencia CF after overcoming a serious knee injury, marking his eighth season with the team",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T06:35:00Z",
-      "url": "https://onefootball.com/en/news/diakhaby-regains-his-key-role-this-season-41390765"
-    },
-    {
-      "id": 51,
-      "title": "Perforce puts agentic functions in test scripts",
-      "summary": "Perforce adds agentic functions to test scripts, highlighting the push for AI advancements in technology platforms.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:20:37Z",
-      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Perforce-puts-agentic-functions-in-test-scripts"
-    },
-    {
-      "id": 52,
-      "title": "Netflix enlists AI for first time to cut costs and boost creativity",
-      "summary": "Netflix is using AI to cut costs and enhance creativity for content creation. The Eternauts was able to complete a sequence faster and cheaper with the help of AI technology.",
-      "source": "BBC News",
-      "category": "applications",
-      "timestamp": "2025-07-18T06:19:34Z",
-      "url": "https://www.bbc.co.uk/news/articles/c9vr4rymlw9o"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI's milestone autonomous AI agent doesn't just chat, it acts",
-      "summary": "OpenAI's ChatGPT Agent is an autonomous AI that can complete complex tasks using its own virtual computer, representing a significant advancement in AI capabilities.",
-      "source": "New Atlas",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:17:00Z",
-      "url": "https://newatlas.com/ai-humanoids/openai-autonomous-agent/"
-    },
-    {
-      "id": 54,
-      "title": "️ Today's headlines: Ter Stegen out, historic date awaits in Switzerland",
-      "summary": "Spain is focused on qualifying for the EURO semifinals against Switzerland in today's match, with national newspapers backing the team.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T06:16:00Z",
-      "url": "https://onefootball.com/en/news/todays-headlines-ter-stegen-out-historic-date-awaits-in-switzerland-41390712"
-    },
-    {
-      "id": 55,
-      "title": "Beijing: Nvidia willing to deepen ties with China",
-      "summary": "Beijing: Nvidia willing to deepen ties with China - Chinese Ministry of Commerce (MOFCOM) shared on Friday that Nvidia Corporation is 'willing to deepen cooperation with Chinese partners in the field of artificial intelligence.'",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T06:14:54Z",
-      "url": "https://biztoc.com/x/878183e495254488"
-    },
-    {
-      "id": 56,
-      "title": "pybotchi 1.0.1",
-      "summary": "pybotchi 1.0.1 is an intent-based AI agent builder designed to create deterministic AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T06:12:14Z",
-      "url": "https://pypi.org/project/pybotchi/1.0.1/"
-    },
-    {
-      "id": 57,
-      "title": "ai-edge-litert-nightly 1.4.0.dev20250717",
-      "summary": "LiteRT is a new version of AI-Edge-Litert for mobile and embedded devices, aiming to bring AI capabilities to devices with limited resources.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T06:10:18Z",
-      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250717/"
-    },
-    {
-      "id": 58,
-      "title": "FM to set up largest office outside US in Bengaluru",
-      "summary": "FM Global is setting up its largest office outside the U.S. in Bengaluru, India, highlighting the country's importance in its global strategy.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T06:09:58Z",
-      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-to-set-up-largest-office-outside-us-in-bengaluru/articleshow/122736584.cms"
     }
   ]
 }
