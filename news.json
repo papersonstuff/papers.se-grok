@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-19T19:37:21.743Z",
+  "lastUpdate": "2025-07-19T19:50:12.553Z",
   "items": [
+    {
+      "id": 51,
+      "title": "mlx-cuda 0.26.4",
+      "summary": "mlx-cuda 0.26.4 is a framework for machine learning specifically designed for Apple silicon, marking an innovation in the field of AI technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:49:16Z",
+      "url": "https://pypi.org/project/mlx-cuda/0.26.4/"
+    },
+    {
+      "id": 52,
+      "title": "talkpipe 0.7.0",
+      "summary": "talkpipe 0.7.0 is a Python internal and external DSL designed for writing generative AI analytics.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:48:02Z",
+      "url": "https://pypi.org/project/talkpipe/0.7.0/"
+    },
+    {
+      "id": 53,
+      "title": "Ai Sound Effect Generators - Adobe Firefly Adds Voice and Text-Driven Sound Fx Creation (TrendHunter.com)",
+      "summary": "Adobe Firefly introduces a beta Generate Sound Effects feature that allows users to create sound effects through voice recordings or text prompts.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:47:06Z",
+      "url": "https://www.trendhunter.com/trends/adobe-firefly-1"
+    },
+    {
+      "id": 54,
+      "title": "Flamengo under-20 thrash Bayer Leverkusen in friendly, watch the goals",
+      "summary": "Flamengo's Under-20 team dominated Bayer Leverkusen in a friendly match, scoring 5 goals to Bayer Leverkusen's 1.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:47:00Z",
+      "url": "https://onefootball.com/en/news/flamengo-under-20-thrash-bayer-leverkusen-in-friendly-watch-the-goals-41393919"
+    },
+    {
+      "id": 55,
+      "title": "Alien: Earth’s Hybrid Stars Talk Taking on the Xenomorph",
+      "summary": "Audiences anticipate the upcoming Alien: Earth movie and remember the original Alien's crew being unprepared for the xenomorph threat. The film's depiction of hybrid stars and the battle against the alien species is sure to captivate viewers.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:45:41Z",
+      "url": "http://comicbook.com/tv-shows/news/alien-earth-cast-interview-hybrids-sydney-chandler/"
+    },
+    {
+      "id": 56,
+      "title": "Stock Surges On $120 Million Asian AI Infrastructure Deal",
+      "summary": "Shares of Blaize Holdings Inc surge after announcing a $120 million collaboration with Asian AI infrastructure provider Starshine Computing Power Technology.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:45:28Z",
+      "url": "https://biztoc.com/x/c5bcd44a4978cd1f"
+    },
+    {
+      "id": 57,
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is considered one of France’s most promising tech startups and a potential competitor to OpenAI.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T19:45:18Z",
+      "url": "https://biztoc.com/x/8c73c45549042775"
+    },
+    {
+      "id": 58,
+      "title": "Trump's Move On Crypto Retirement Investments Carries 'Great Risks'—Expert",
+      "summary": "President Trump's executive order to open up the U.S. retirement market to cryptocurrencies, gold, and private equity carries great risks according to experts.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:45:15Z",
+      "url": "https://biztoc.com/x/a30b1e8a8a24d318"
+    },
+    {
+      "id": 59,
+      "title": "crypticorn 2.19.0rc2",
+      "summary": "Crypticorn 2.19.0rc2 aims to maximize cryptocurrency trading profits through the use of machine learning.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:44:29Z",
+      "url": "https://pypi.org/project/crypticorn/2.19.0rc2/"
+    },
+    {
+      "id": 60,
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor | TechCrunch",
+      "summary": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-18T19:43:44Z",
+      "url": "https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+    },
+    {
+      "id": 61,
+      "title": "Who Is Andy Byron? 5 Things to Know About the Astronomer CEO Amid Affair Allegations",
+      "summary": "The CEO of Astronomer, Andy Byron, faced controversy after being seen in a romantic embrace with a colleague. Learn more about the situation and the businessman here.",
+      "source": "Hollywood Life",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:43:14Z",
+      "url": "https://hollywoodlife.com/feature/who-is-andy-byron-5429378/"
+    },
+    {
+      "id": 62,
+      "title": "Sheryl Crow Protests ‘The New Normal’ in Song About Trump, Robots and Algorithms",
+      "summary": "Sheryl Crow protests the current political climate under President Trump in a song, comparing reality to George Orwell's dystopian novel.",
+      "source": "Variety",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:42:43Z",
+      "url": "https://variety.com/2025/music/news/sheryl-crow-the-new-normal-song-trump-robots-algorithms-1236464908/"
+    },
+    {
+      "id": 63,
+      "title": "I sent ChatGPT Agent out to shop for me",
+      "summary": "OpenAI debuted ChatGPT Agent, a new AI assistant designed to help with tasks, but is still slow in completing them. The AI agent is described as a day-one intern that will eventually get the job done, though not always completely.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:42:32Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription"
+    },
+    {
+      "id": 64,
+      "title": "Propaganda platform PragerU is primed to capitalize on Trump’s PBS cuts",
+      "summary": "PragerU and Trump's cuts to PBS funding could jeopardize children's educational programming",
+      "source": "MSNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-18T19:42:22Z",
+      "url": "https://www.msnbc.com/top-stories/latest/prageru-pbs-cuts-john-adams-video-trump-rcna219645"
+    },
+    {
+      "id": 65,
+      "title": "Crypto execs center stage as Trump signs stablecoin bill into law",
+      "summary": "Trump signs stablecoin bill into law with AI and crypto industry leaders present",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-18T19:42:03Z",
+      "url": "https://cointelegraph.com/news/donald-trump-stablecoin-law-signed"
+    },
+    {
+      "id": 66,
+      "title": "strands-agents 1.0.1",
+      "summary": "strands-agents 1.0.1 offers a model-driven approach to quickly build AI agents with minimal code, showcasing innovation in the field of artificial intelligence.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:41:28Z",
+      "url": "https://pypi.org/project/strands-agents/1.0.1/"
+    },
+    {
+      "id": 67,
+      "title": "Gemini Live Gets Video Quality Boost: Your AI Can See Better",
+      "summary": "Google has improved Gemini Live's camera resolution on Android, enhancing video quality for better AI interactions.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-18T19:40:56Z",
+      "url": "https://www.androidheadlines.com/2025/07/gemini-live-improved-video-resolution-quality.html"
+    },
+    {
+      "id": 68,
+      "title": "Delta Announces New System Where AI Makes Up the Price for Your Ticket on the Spot",
+      "summary": "Delta announces new system where AI makes up the price for your ticket on the spot, utilizing AI to set prices for individual customers.",
+      "source": "Futurism",
+      "category": "applications",
+      "timestamp": "2025-07-18T19:40:38Z",
+      "url": "https://futurism.com/delta-system-ai-price-ticket"
+    },
     {
       "id": 51,
       "title": "mlx-cpu 0.26.4",
@@ -288,168 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-18T19:09:00Z",
       "url": "https://winteriscoming.net/brandon-sanderson-explains-why-reading-fantasy-is-as-good-for-you-as-going-to-the-gym"
-    },
-    {
-      "id": 56,
-      "title": "Passive Power Surge — Get Reliable Crypto Income Securely with AIXA Miner's Smart Contracts",
-      "summary": "Passive Power Surge — Get Reliable Crypto Income Securely with AIXA Miner's Smart Contracts. The crypto space is changing with Bitcoin and altcoins moving into DeFi, NFTs, and AI territories, attracting experienced investors who are no longer following hype-driven speculation.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:08:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118158/0/en/Passive-Power-Surge-Get-Reliable-Crypto-Income-Securely-with-AIXA-Miner-s-Smart-Contracts.html"
-    },
-    {
-      "id": 57,
-      "title": "Announcing Windows 11 Insider Preview Build 26200.5710 (Dev Channel)",
-      "summary": "Announcing Windows 11 Insider Preview Build 26200.5710 (Dev Channel) with new features and improvements.",
-      "source": "Windows.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:06:11Z",
-      "url": "https://blogs.windows.com/windows-insider/2025/07/18/announcing-windows-11-insider-preview-build-26200-5710-dev-channel/"
-    },
-    {
-      "id": 58,
-      "title": "Platformonomics TGIF #94: July 18, 2025",
-      "summary": "Platformonomics TGIF #94 provides a weekly compilation of links and comments related to AI, with a focus on CAPEX negative cash flow. The newsletter is taking a break next week, but promises future posts on various AI-related topics.",
-      "source": "Platformonomics.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:05:30Z",
-      "url": "https://platformonomics.com/2025/07/platformonomics-tgif-94-july-18-2025/"
-    },
-    {
-      "id": 59,
-      "title": "Now Google is Doing Gemini Drops, Sort Of",
-      "summary": "Google has introduced Gemini Drops, joining its lineup of Pixel, Android, and Workspace Drops, indicating ongoing innovation in their offerings.",
-      "source": "Thurrott.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:05:25Z",
-      "url": "https://www.thurrott.com/a-i/google-gemini-a-i/323534/now-google-is-doing-gemini-drops-sort-of"
-    },
-    {
-      "id": 60,
-      "title": "Netflix Says It Used Generative AI In One Of Its TV Shows ‘El Eternauta’ For The First Time, Helping ‘Creators Make Films And Series Better’ While Also Saving On Costs",
-      "summary": "Netflix used generative AI in its TV show 'El Eternauta' for the first time, aiming to improve content creation and reduce costs.",
-      "source": "Wccftech",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:05:04Z",
-      "url": "https://wccftech.com/netflix-used-generative-ai-in-series-titled-el-eternauta-for-the-first-time/"
-    },
-    {
-      "id": 61,
-      "title": "China Market Update: Hong Kong Higher, Regulators Comment On Instant Commerce, Week In Review",
-      "summary": "Asian equities ended the week higher, with Hong Kong and Australia outperforming while India underperformed.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:04:43Z",
-      "url": "https://www.forbes.com/sites/brendanahern/2025/07/18/china-market-update-hong-kong-higher-regulators-comment-on-instant-commerce-week-in-review/"
-    },
-    {
-      "id": 62,
-      "title": "Meta’s AI Strategy Faces Scrutiny After EU Code Rejection",
-      "summary": "Meta faces scrutiny for not joining EU's AI Code of Conduct, citing demands beyond reasonable compliance",
-      "source": "iPhone in Canada",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:04:30Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/18/meta-ai-strategy-faces-scrutiny-in-eu/"
-    },
-    {
-      "id": 63,
-      "title": "It's Never Been Harder to Get Away With Cheating — or Anything",
-      "summary": "It's becoming increasingly difficult to get away with cheating or any other behavior due to the prevalence of digital surveillance.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:03:35Z",
-      "url": "https://www.newsweek.com/coldplay-cheating-jumbotron-andy-byron-mass-surveillance-2100918"
-    },
-    {
-      "id": 64,
-      "title": "Google Pixel Watch 4 may skip the price hike many were expecting",
-      "summary": "Google Pixel Watch 4 may maintain current prices despite cost pressures, avoiding a potential price increase in models.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:03:30Z",
-      "url": "https://www.phonearena.com/news/google-pixel-watch-4-may-skip-the-price-hike-many-were-expecting_id172412"
-    },
-    {
-      "id": 65,
-      "title": "If Amazon Ring staff want a promotion, they must now prove they’ve used AI",
-      "summary": "Amazon Ring staff must now prove AI use for promotion, expanding expectations in the smart home division.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:03:26Z",
-      "url": "https://fortune.com/2025/07/18/amazon-ring-ai-promotion-headcount/"
-    },
-    {
-      "id": 66,
-      "title": "Sheryl Crow Slams Donald Trump in Protest Song 'The New Normal'",
-      "summary": "Sheryl Crow criticizes President Donald Trump in protest song 'The New Normal,' referring to him as 'immoral.'",
-      "source": "Billboard",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:03:13Z",
-      "url": "http://www.billboard.com/music/music-news/sheryl-crow-slams-president-trump-protest-song-new-normal-1236024917/"
-    },
-    {
-      "id": 67,
-      "title": "The agent economy: A new blueprint for AI-driven business",
-      "summary": "The agent economy is reshaping the foundation of enterprise artificial intelligence, turning autonomous agents into the new orchestrators of digital infrastructure, services and capital.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:03:06Z",
-      "url": "https://siliconangle.com/2025/07/18/apps-agent-economy-new-model-ai-driven-business-aicloudleaders/"
-    },
-    {
-      "id": 51,
-      "title": "Astronomer launches formal investigation into CEO Andy Byron and Kristin Cabot’s Coldplay kiss cam fiasco",
-      "summary": "Astronomer launches formal investigation into CEO Andy Byron and Kristin Cabot’s Coldplay kiss cam fiasco, leading to Byron's wife deleting her social media account.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-18T18:48:26Z",
-      "url": "https://pagesix.com/2025/07/18/celebrity-news/astronomer-launches-formal-investigation-after-ceo-andy-byron-and-kristin-cabots-coldplay-kiss-cam-fiasco/"
-    },
-    {
-      "id": 52,
-      "title": "cryptex-ai 0.3.1",
-      "summary": "Cryptex AI 0.3.1 offers zero-config temporal isolation for AI/LLM applications, providing bulletproof secrets isolation with zero cognitive overhead.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:47:36Z",
-      "url": "https://pypi.org/project/cryptex-ai/0.3.1/"
-    },
-    {
-      "id": 53,
-      "title": "Energy Transfer LP (ET) Gets Initiated With a New Buy Rating at TD Cowen",
-      "summary": "Energy Transfer LP (ET) receives a new Buy rating and is considered one of the best cheap stocks under $50 to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-18T18:47:19Z",
-      "url": "https://finance.yahoo.com/news/energy-transfer-lp-et-gets-184719561.html"
-    },
-    {
-      "id": 54,
-      "title": "Global PC Shipments Are Expected to Weaken With U.S. Tariffs, But the AI PC Hype Will Keep the Market Momentum Up & Running",
-      "summary": "Global PC shipments are expected to weaken due to U.S. tariffs, but the demand for AI PCs is expected to keep the market momentum going.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:46:43Z",
-      "url": "https://wccftech.com/global-pc-shipments-are-expected-to-weaken-with-u-s-tariffs/"
-    },
-    {
-      "id": 55,
-      "title": "American Express just offered a rare peek inside the spending habits of wealthy Americans—all the way down to Gen Z",
-      "summary": "American Express revealed spending habits of wealthy Americans, with record quarterly revenue of $17.9 billion. Millennial spending increased by 10% and Gen Z spending rose by 40%.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-18T18:46:40Z",
-      "url": "https://fortune.com/2025/07/18/american-express-earnings-millennials-gen-z-wealth-affluent-spending/"
-    },
-    {
-      "id": 56,
-      "title": "The Coldplay ‘kiss cam’ cheating scandal is now a video game",
-      "summary": "The Coldplay ‘kiss cam’ cheating scandal has now been turned into a video game, showcasing the creativity and innovation in utilizing AI technology to create entertainment products.",
-      "source": "Polygon",
-      "category": "innovation",
-      "timestamp": "2025-07-18T18:46:33Z",
-      "url": "https://www.polygon.com/news/614100/coldplay-kiss-cam-cheating-video-video-game"
     }
   ]
 }
