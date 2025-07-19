@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-19T22:38:20.071Z",
+  "lastUpdate": "2025-07-19T22:52:17.960Z",
   "items": [
+    {
+      "id": 51,
+      "title": "BrightAI raises $51M to ease infrastructure maintenance with AI",
+      "summary": "BrightAI Inc. raised $51 million in a funding round led by Khosla Ventures and Inspired Capital to further develop its AI technology for infrastructure maintenance.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:49:18Z",
+      "url": "https://siliconangle.com/2025/07/18/brightai-raises-51m-ease-infrastructure-maintenance-ai/"
+    },
+    {
+      "id": 52,
+      "title": " Another incident: ultras confront Serie A club squad",
+      "summary": "Ultras confront Serie A club squad at training center, sparking concerns over safety and fan behavior.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T22:45:00Z",
+      "url": "https://onefootball.com/en/news/another-incident-ultras-confront-serie-a-club-squad-41394664"
+    },
+    {
+      "id": 53,
+      "title": "Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted",
+      "summary": "A Y Combinator startup focusing on AI agents for Windows desktops, Pig.dev, decided to pivot after facing challenges. They were working on revolutionary agent tech for controlling Windows desktops, but ultimately gave up on the idea.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:44:19Z",
+      "url": "https://biztoc.com/x/97f1211aec2612a4"
+    },
+    {
+      "id": 54,
+      "title": "mlx-cuda 0.26.5",
+      "summary": "mlx-cuda 0.26.5 is a framework specifically designed for machine learning on Apple silicon, bringing innovation to AI development on Apple devices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:44:03Z",
+      "url": "https://pypi.org/project/mlx-cuda/0.26.5/"
+    },
+    {
+      "id": 55,
+      "title": "Netflix CEO Reveals AI Was Used For 96% RT Sci-Fi Hit Series",
+      "summary": "Netflix CEO reveals that generative AI was used to cut costs in production of a popular sci-fi series",
+      "source": "Screen Rant",
+      "category": "applications",
+      "timestamp": "2025-07-18T22:42:31Z",
+      "url": "https://screenrant.com/netflix-the-eternaut-show-ai-use-ted-sarandos/"
+    },
+    {
+      "id": 56,
+      "title": "Lilbits: A single-board PC that can also be a Raspberry Pi AI accelerator, turning an Onyx BOOX Palma into a writerdeck, and KDA Plasma Bigscreen’s big refresh",
+      "summary": "Sipeed introduces a new single-board computer designed for AI with an NPU that delivers up to 18 TOPS.",
+      "source": "Liliputing",
+      "category": "innovation",
+      "timestamp": "2025-07-18T22:42:13Z",
+      "url": "https://liliputing.com/lilbits-a-single-board-pc-that-can-also-be-a-raspberry-pi-ai-accelerator-turning-an-onyx-boox-palma-into-a-writerdeck-and-kda-plasma-bigscreens-big-refresh/"
+    },
+    {
+      "id": 57,
+      "title": "Perplexity in talks with phone makers to pre-install Comet AI mobile browser on devices",
+      "summary": "Perplexity is in talks with phone makers to pre-install its Comet AI mobile browser on devices, as the Nvidia-backed startup challenges Google with its AI-powered search engine.",
+      "source": "CNA",
+      "category": "startups",
+      "timestamp": "2025-07-18T22:37:52Z",
+      "url": "https://www.channelnewsasia.com/business/perplexity-in-talks-phone-makers-pre-install-comet-ai-mobile-browser-devices-5246841"
+    },
     {
       "id": 51,
       "title": "Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted | TechCrunch",
@@ -387,69 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-18T21:30:00Z",
       "url": "https://medcitynews.com/2025/07/hospitals-healthcare-cybersecurity/"
-    },
-    {
-      "id": 53,
-      "title": "\"I don't think I changed his mind\" — NVIDIA CEO comments on H20 AI GPU sales resuming in China following a meeting with President Trump",
-      "summary": "NVIDIA's H20 AI GPUs are allowed to be sold in China again after restrictions were lifted by the Trump administration, with the CEO stating he believes he did not influence the decision.",
-      "source": "Windows Central",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:30:00Z",
-      "url": "https://www.windowscentral.com/hardware/nvidia/nvidia-ceo-comments-h20-ban-reversal-trump"
-    },
-    {
-      "id": 54,
-      "title": "reAlpha Tech Corp. Announces Closing of $2 Million Public Offering",
-      "summary": "reAlpha Tech Corp., an AI-powered real estate technology company, closed a $2 million public offering. The company announced the closing of its previously announced public offering of 13,333,334 shares.",
-      "source": "Financial Post",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:29:45Z",
-      "url": "https://financialpost.com/globe-newswire/realpha-tech-corp-announces-closing-of-2-million-public-offering"
-    },
-    {
-      "id": 55,
-      "title": "Tech companies and operating margins: Seven lead the way",
-      "summary": "The top seven technology firms with the highest operating returns were revealed in a recent assessment, showcasing their strong performance in the market.",
-      "source": "Digital Journal",
-      "category": "economy",
-      "timestamp": "2025-07-18T21:29:42Z",
-      "url": "https://www.digitaljournal.com/business/tech-companies-and-operating-margins-seven-lead-the-way/article"
-    },
-    {
-      "id": 56,
-      "title": "Report: Claude users experienced unannounced usage limit reductions",
-      "summary": "Report: Users of AI assistant Claude experienced unannounced usage limit reductions, specifically affecting those on the top-end Max tier costing $200 a month.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-18T21:29:03Z",
-      "url": "https://siliconangle.com/2025/07/18/report-claude-users-experienced-unannounced-usage-limit-reductions/"
-    },
-    {
-      "id": 57,
-      "title": "praisonaiagents 0.0.144",
-      "summary": "praisonaiagents 0.0.144 introduces Praison AI agents capable of completing complex tasks with Self Reflection Agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:26:37Z",
-      "url": "https://pypi.org/project/praisonaiagents/0.0.144/"
-    },
-    {
-      "id": 58,
-      "title": "Citi and Ant International Pilot AI-Enhanced FX Risk Management Solution",
-      "summary": "Citi and Ant International are piloting an AI-enhanced FX risk management solution for eCommerce businesses.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:25:58Z",
-      "url": "https://biztoc.com/x/9c9aca250a2fe86a"
-    },
-    {
-      "id": 59,
-      "title": "yandex-yc-ai-bindings 66.0.3",
-      "summary": "yandex-yc-ai-bindings 66.0.3 is a package designed to prevent Dependency Confusion attacks against Yandex, enhancing security for AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T21:25:22Z",
-      "url": "https://pypi.org/project/yandex-yc-ai-bindings/66.0.3/"
     }
   ]
 }
