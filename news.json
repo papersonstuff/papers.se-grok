@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-19T20:16:48.323Z",
+  "lastUpdate": "2025-07-19T20:41:33.216Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI Is Changing Public Relations — Here's How to Stay in Control",
+      "summary": "AI is transforming public relations by reshaping how brands are discovered and represented.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:40:54Z",
+      "url": "https://biztoc.com/x/88c78cd89fa80be2"
+    },
+    {
+      "id": 52,
+      "title": "This is how OpenAI COO Brad Lightcap defines AI agents",
+      "summary": "OpenAI COO Brad Lightcap defines AI agents as being able to take on new tasks, with the company releasing its latest agent this week.",
+      "source": "Business Insider",
+      "category": "research",
+      "timestamp": "2025-07-18T20:40:06Z",
+      "url": "https://www.businessinsider.com/openai-coo-brad-lightcap-ai-agents-chatgpt-agent-2025-7"
+    },
+    {
+      "id": 53,
+      "title": "New South Korea president faces balancing act on gender equality",
+      "summary": "South Korea's new president must navigate pressures from both young women advocating for gender equality and disaffected young men feeling resentful over perceived discrimination.",
+      "source": "ABC News (AU)",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:40:02Z",
+      "url": "https://www.abc.net.au/news/2025-07-19/south-korea-new-president-pledges-for-women/105539988"
+    },
+    {
+      "id": 54,
+      "title": "DoubleVerify Holdings, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. July 21, 2025 Deadline to file Lead Plaintiff Motion.",
+      "summary": "Investors of DoubleVerify Holdings, Inc. are encouraged to contact the Portnoy Law Firm by July 21, 2025 to recover their losses.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T20:39:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118191/0/en/DoubleVerify-Holdings-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-July-21-2025-Deadline-to-file-Lead-Plaintiff-Motion.html"
+    },
+    {
+      "id": 55,
+      "title": "Creative Industries, Creators & Creatives",
+      "summary": "This series of posts explores how we can rethink the intersection of AI, creativity, and policy, questioning copyright norms and highlighting the risks of stifling innovation.",
+      "source": "Techdirt",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:37:06Z",
+      "url": "https://www.techdirt.com/2025/07/18/creative-industries-creators-creatives/"
+    },
+    {
+      "id": 56,
+      "title": "EFF to Court: The DMCA Didn't Create a New Right of Attribution, You Shouldn't Either",
+      "summary": "EFF argues that the DMCA did not establish a new right of attribution for AI-generated works, amidst lawsuits concerning AI companies' use of copyrighted works in training models.",
+      "source": "EFF",
+      "category": "ethics",
+      "timestamp": "2025-07-18T20:37:04Z",
+      "url": "https://www.eff.org/deeplinks/2025/07/eff-court-dmca-didnt-create-new-right-attribution-you-shouldnt-either-0"
+    },
+    {
+      "id": 57,
+      "title": "XRP to $3.5, PFMCrypto Announces XRP Mining Contract with Daily Returns for All Holders",
+      "summary": "PFMCrypto announces AI-powered XRP cloud mining contracts, starting at $10, offering daily returns with no hardware or setup required for all holders.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T20:37:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118190/0/en/XRP-to-3-5-PFMCrypto-Announces-XRP-Mining-Contract-with-Daily-Returns-for-All-Holders.html"
+    },
+    {
+      "id": 58,
+      "title": "Windows 10’s end of life looms. A security pro dissects your only options",
+      "summary": "Windows 10 reaching end of life prompts users to carefully consider their options before facing potential online vulnerabilities.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:35:20Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329453/posts"
+    },
+    {
+      "id": 59,
+      "title": "aider-lint-fixer 1.9.0",
+      "summary": "The latest version of aider-lint-fixer 1.9.0 utilizes AI to detect and fix lint errors through the platform aider.chat.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:35:10Z",
+      "url": "https://pypi.org/project/aider-lint-fixer/1.9.0/"
+    },
+    {
+      "id": 60,
+      "title": "Everything announced at Big Summer Warhammer Preview 2025, from Chaos Dwarfs to an awesome new Kill Team setting",
+      "summary": "Everything announced at Big Summer Warhammer Preview 2025, from Chaos Dwarfs to an awesome new Kill Team setting - There's a lot of good hobbying in our future, it seems",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:34:56Z",
+      "url": "https://www.gamesradar.com/tabletop-gaming/everything-announced-at-big-summer-warhammer-preview-2025-from-chaos-dwarfs-to-an-awesome-new-kill-team-setting/"
+    },
+    {
+      "id": 61,
+      "title": "It’s Official: Apple Needs to Drop a New Version of AirPods ASAP",
+      "summary": "The great AirPods slowdown is upon us, with Apple in need of releasing a new version of AirPods as soon as possible.",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:34:02Z",
+      "url": "https://gizmodo.com/its-official-apple-needs-to-drop-a-new-version-of-airpods-asap-2000631407"
+    },
+    {
+      "id": 62,
+      "title": "WhatsApp streamlines in-app support process",
+      "summary": "WhatsApp is streamlining its in-app support process by removing the form and screenin. Users will no longer have to fill out a form and wait for a support rep to get in touch.",
+      "source": "9to5Mac",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:32:47Z",
+      "url": "https://9to5mac.com/2025/07/18/whatsapp-streamlines-in-app-support-process/"
+    },
+    {
+      "id": 63,
+      "title": "The Samsung S95F OLED TV Delivers A Stunning Picture But Stumbles On AI",
+      "summary": "The Samsung S95F OLED TV delivers a stunning picture but stumbles on AI. The reviewer spent over two weeks testing Samsung's latest flagship OLED TV and shared their full review.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:31:36Z",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/2025/07/18/samsung-s95f-oled-tv-review-1/"
+    },
+    {
+      "id": 64,
+      "title": "What Stops This Train?",
+      "summary": "The article explores the question of what stops the advancement of AI, examining various factors that could potentially halt its progress.",
+      "source": "Awealthofcommonsense.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:30:40Z",
+      "url": "https://awealthofcommonsense.com/2025/07/what-stops-this-train/"
+    },
+    {
+      "id": 65,
+      "title": "Exhausted Man Defeats AI Model In World Coding Championship",
+      "summary": "Exhausted man defeats AI model in world coding championship",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:30:00Z",
+      "url": "https://developers.slashdot.org/story/25/07/18/2025211/exhausted-man-defeats-ai-model-in-world-coding-championship"
+    },
+    {
+      "id": 66,
+      "title": "Robot Consulting Co., Ltd. Announces Closing of $15 Million Initial Public Offering",
+      "summary": "Robot Consulting Co., Ltd. closes a $15 million Initial Public Offering to expand their platform service providing human resource solutions and legal technology.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-18T20:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118186/0/en/Robot-Consulting-Co-Ltd-Announces-Closing-of-15-Million-Initial-Public-Offering.html"
+    },
+    {
+      "id": 67,
+      "title": "Pixelated 062: The Pixel 10 countdown begins",
+      "summary": "The Pixel 10 countdown has begun with the Made By Google event set for August 20th, signaling the upcoming release of new Google hardware.",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:30:00Z",
+      "url": "http://9to5google.com/2025/07/18/pixelated-062-the-pixel-10-countdown-begins/"
+    },
+    {
+      "id": 68,
+      "title": "Samsung Galaxy Flip 7 FE vs. Motorola Razr 2025: Battle of the Budget Foldables",
+      "summary": "The Samsung Galaxy Flip 7 FE and Motorola Razr 2025 are the most affordable foldable phones in the US, offering good specs and features for their price.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:29:34Z",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-flip-7-fe-vs-motorola-razr-2025-battle-of-the-budget-foldables/"
+    },
+    {
+      "id": 69,
+      "title": "Dr. Anosh Ahmed Foundation Advances Plans for AI Data Center Development on Chicago’s West Side",
+      "summary": "Dr. Anosh Ahmed Foundation is advancing plans for an AI data center development in Chicago's West Side, including international collaboration for youth-focused educational programs and technology infrastructure investment.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T20:28:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118180/0/en/Dr-Anosh-Ahmed-Foundation-Advances-Plans-for-AI-Data-Center-Development-on-Chicago-s-West-Side.html"
+    },
+    {
+      "id": 70,
+      "title": "Unifying data insights with Amazon QuickSight and Amazon SageMaker",
+      "summary": "Amazon SageMaker is integrating with Amazon QuickSight to unify data insights and provide interactive dashboards and pixel perfect reports for businesses.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T20:26:38Z",
+      "url": "https://aws.amazon.com/blogs/big-data/unifying-data-insights-with-amazon-quicksight-and-amazon-sagemaker/"
+    },
     {
       "id": 51,
       "title": "XRP Surges 15% in a Day: PFMCrypto Launches Revolutionary XRP Cloud Mining, Igniting the XRP Market",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T19:43:14Z",
       "url": "https://hollywoodlife.com/feature/who-is-andy-byron-5429378/"
-    },
-    {
-      "id": 62,
-      "title": "Sheryl Crow Protests ‘The New Normal’ in Song About Trump, Robots and Algorithms",
-      "summary": "Sheryl Crow protests the current political climate under President Trump in a song, comparing reality to George Orwell's dystopian novel.",
-      "source": "Variety",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:42:43Z",
-      "url": "https://variety.com/2025/music/news/sheryl-crow-the-new-normal-song-trump-robots-algorithms-1236464908/"
-    },
-    {
-      "id": 63,
-      "title": "I sent ChatGPT Agent out to shop for me",
-      "summary": "OpenAI debuted ChatGPT Agent, a new AI assistant designed to help with tasks, but is still slow in completing them. The AI agent is described as a day-one intern that will eventually get the job done, though not always completely.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:42:32Z",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription"
-    },
-    {
-      "id": 64,
-      "title": "Propaganda platform PragerU is primed to capitalize on Trump’s PBS cuts",
-      "summary": "PragerU and Trump's cuts to PBS funding could jeopardize children's educational programming",
-      "source": "MSNBC",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:42:22Z",
-      "url": "https://www.msnbc.com/top-stories/latest/prageru-pbs-cuts-john-adams-video-trump-rcna219645"
-    },
-    {
-      "id": 65,
-      "title": "Crypto execs center stage as Trump signs stablecoin bill into law",
-      "summary": "Trump signs stablecoin bill into law with AI and crypto industry leaders present",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-18T19:42:03Z",
-      "url": "https://cointelegraph.com/news/donald-trump-stablecoin-law-signed"
-    },
-    {
-      "id": 66,
-      "title": "strands-agents 1.0.1",
-      "summary": "strands-agents 1.0.1 offers a model-driven approach to quickly build AI agents with minimal code, showcasing innovation in the field of artificial intelligence.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:41:28Z",
-      "url": "https://pypi.org/project/strands-agents/1.0.1/"
-    },
-    {
-      "id": 67,
-      "title": "Gemini Live Gets Video Quality Boost: Your AI Can See Better",
-      "summary": "Google has improved Gemini Live's camera resolution on Android, enhancing video quality for better AI interactions.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:40:56Z",
-      "url": "https://www.androidheadlines.com/2025/07/gemini-live-improved-video-resolution-quality.html"
-    },
-    {
-      "id": 68,
-      "title": "Delta Announces New System Where AI Makes Up the Price for Your Ticket on the Spot",
-      "summary": "Delta announces new system where AI makes up the price for your ticket on the spot, utilizing AI to set prices for individual customers.",
-      "source": "Futurism",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:40:38Z",
-      "url": "https://futurism.com/delta-system-ai-price-ticket"
-    },
-    {
-      "id": 51,
-      "title": "mlx-cpu 0.26.4",
-      "summary": "mlx-cpu 0.26.4 is a framework designed for machine learning on Apple silicon, showcasing innovation in the development of AI tools for specific hardware platforms.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:37:01Z",
-      "url": "https://pypi.org/project/mlx-cpu/0.26.4/"
-    },
-    {
-      "id": 52,
-      "title": "Astronomer’s future, investor confidence, employee morale, public image, company valuation are in shambles. Here’s how CEO Andy Byron scandal may lead to its downfall",
-      "summary": "Astronomer, a startup, faces uncertainty and potential downfall after CEO Andy Byron's scandal involving HR head Kristin Cabot. Investor confidence, employee morale, and company valuation are all at risk as a result.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T19:36:11Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-ceo-scandal-astronomer-future-kristin-cabot-coldplay-kiss-cam-astronomer-stockholders-andy-byron-apology-astronomer-future-hr-ethics-workplace-romance-astronomer-funding-investor-trust-investor-confidence-employee-morale-public-image-company-valuation-downfall/articleshow/122771992.cms"
-    },
-    {
-      "id": 53,
-      "title": "Lethbridge girls football coach charged for allegedly using AI to make child pornography",
-      "summary": "Lethbridge girls football coach charged for allegedly using AI to make child pornography, a new phenomenon in Alberta",
-      "source": "CBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:35:25Z",
-      "url": "https://www.cbc.ca/news/canada/calgary/child-exploitation-football-ai-lethbridge-1.7588788"
-    },
-    {
-      "id": 54,
-      "title": "London’s Immersive New Elvis Show Fails to Bring the King Back to Life",
-      "summary": "London's Immersive New Elvis Show, Elvis Evolution, falls short of bringing the King back to life despite using AI-generated footage.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:34:53Z",
-      "url": "https://financialpost.com/pmn/business-pmn/londons-immersive-new-elvis-show-fails-to-bring-the-king-back-to-life"
-    },
-    {
-      "id": 55,
-      "title": "Astronomer Breaks Silence After CEO's Concert Cheating Accusations",
-      "summary": "Astronomer CEO's concert cheating accusations were made based on AI-generated voice, leading to inconsistencies and a formal investigation into the matter.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:34:25Z",
-      "url": "https://biztoc.com/x/70e1cf7e6a1c8487"
-    },
-    {
-      "id": 56,
-      "title": "Riley Gaines Tells Trump To Sue Rupert Murdoch, Her Boss, 'Into Oblivion'",
-      "summary": "Right-wing activist Riley Gaines urged President Donald Trump to sue media mogul Rupert Murdoch, who is Gaines' boss, 'into oblivion' after the Wall Street Journal published an explosive story about a 'bawdy' incident. This raises ethical concerns about conflicts of interest and impartiality in the media industry.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:34:24Z",
-      "url": "https://biztoc.com/x/be84b30c43e60e1c"
-    },
-    {
-      "id": 57,
-      "title": "The Buccaneers Season 2 Episode 6 – Release Date, Schedule, How To Watch",
-      "summary": "The Buccaneers Season 2 Episode 6 features AI-generated voice, with the girls preparing for Lizzy's wedding and helping Jinny fight for freedom in the next episode.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:34:24Z",
-      "url": "https://biztoc.com/x/7aa0bf15505c3250"
-    },
-    {
-      "id": 58,
-      "title": "Amazon Ring Staff Reportedly Must Prove That They Use AI To Get Promoted",
-      "summary": "Amazon Ring staff must prove they use AI to get promoted, raising questions about the ethical implications of requiring employees to use AI in order to advance in their careers.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T19:34:22Z",
-      "url": "https://biztoc.com/x/8b8b7adae2a136d6"
-    },
-    {
-      "id": 59,
-      "title": "mlx-metal 0.26.4",
-      "summary": "mlx-metal 0.26.4 is a framework for machine learning on Apple silicon.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:34:02Z",
-      "url": "https://pypi.org/project/mlx-metal/0.26.4/"
-    },
-    {
-      "id": 60,
-      "title": "Watching Where and How You’re Walking",
-      "summary": "Using AI to watch where and how people are walking and how it can alter the nature of things.",
-      "source": "Thehealthcareblog.com",
-      "category": "research",
-      "timestamp": "2025-07-18T19:30:41Z",
-      "url": "https://thehealthcareblog.com/blog/2025/07/18/watching-where-and-how-youre-walking/"
-    },
-    {
-      "id": 61,
-      "title": "Anduril Awarded $99.6M for U.S. Army Next Generation Command and Control Prototype",
-      "summary": "Anduril awarded $99.6M for U.S. Army Next Generation Command and Control Prototype to enhance reconnaissance capabilities for soldiers in combat situations.",
-      "source": "Soldiersystems.net",
-      "category": "applications",
-      "timestamp": "2025-07-18T19:30:00Z",
-      "url": "https://soldiersystems.net/2025/07/18/anduril-awarded-99-6m-for-u-s-army-next-generation-command-and-control-prototype/"
-    },
-    {
-      "id": 62,
-      "title": "New Google Pixel 10 to Debut on August 20",
-      "summary": "Tech company Google is set to reveal its new Google Pixel 10 flagship phones on August 20, a few weeks before Apple's iPhone 17 debut. The launch of the latest line of Pixel smartphones is highly anticipated.",
-      "source": "iLounge",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:29:46Z",
-      "url": "https://www.ilounge.com/news/new-google-pixel-10-to-debut-on-august-20"
-    },
-    {
-      "id": 63,
-      "title": "New Windows 11 builds add slowdown logging, new accessibility features, and more",
-      "summary": "New Windows 11 builds include slowdown logging, new accessibility features, and other changes.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-18T19:28:01Z",
-      "url": "https://www.neowin.net/news/new-windows-11-builds-add-slowdown-logging-new-accessibility-features-and-more/"
     }
   ]
 }
