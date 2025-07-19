@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-19T12:29:28.951Z",
+  "lastUpdate": "2025-07-19T13:07:22.587Z",
   "items": [
+    {
+      "id": 51,
+      "title": "RDDT SECURITIES FRAUD: Reddit, Inc. (NYSE:RDDT) 9% Stock Drop Triggers Class Action Lawsuit – Contact BFA Law by August 18 Legal Deadline",
+      "summary": "Reddit, Inc. investors are advised to contact BFA Law by August 18, 2025, due to a 9% stock drop triggering a class action lawsuit for securities fraud.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117937/0/en/RDDT-SECURITIES-FRAUD-Reddit-Inc-NYSE-RDDT-9-Stock-Drop-Triggers-Class-Action-Lawsuit-Contact-BFA-Law-by-August-18-Legal-Deadline.html"
+    },
+    {
+      "id": 52,
+      "title": "quantiq 0.2.0",
+      "summary": "quantiq 0.2.0 is an AI toolkit that allows for uncertainty estimation in Transformers and Deep Ensembles, enhancing the confidence of AI decision-making.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:06:28Z",
+      "url": "https://pypi.org/project/quantiq/0.2.0/"
+    },
+    {
+      "id": 53,
+      "title": "AI meets Ayodhya: How a young drama group staged Pakistan’s first Ramayana",
+      "summary": "AI meets Ayodhya: Pakistan's first Ramayana play staged by a young drama group, exploring what Ram and Raavan would do in modern times.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:06:27Z",
+      "url": "https://timesofindia.indiatimes.com/life-style/books/features/ai-meets-ayodhya-how-a-young-drama-group-staged-pakistans-first-ramayana/articleshow/122766451.cms"
+    },
+    {
+      "id": 54,
+      "title": "Was Stephen Colbert's 'Late Show' Canceled Because of Trump? What to Know",
+      "summary": "CBS announced the cancellation of The Late Show with Stephen Colbert, which has been running since 1993. This decision has economic implications for the network and could impact the late-night television landscape.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:05:30Z",
+      "url": "https://biztoc.com/x/61228dad38d05909"
+    },
+    {
+      "id": 55,
+      "title": "American Express Launches New Style of Airport Lounge",
+      "summary": "American Express launches a new AI-generated voice style airport lounge for travelers who are short on time, with potential inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:05:29Z",
+      "url": "https://biztoc.com/x/36e9d3f2c9e40ce2"
+    },
+    {
+      "id": 56,
+      "title": "Air India Plane Crash: Tata Sons sets up ‘AI-171 Memorial and Welfare Trust’, pledges ₹500 crore for victims",
+      "summary": "Tata Sons sets up ‘AI-171 Memorial and Welfare Trust’ with ₹500 crore to assist victims of Air India plane crash",
+      "source": "Livemint",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:05:28Z",
+      "url": "https://www.livemint.com/companies/news/air-india-plane-crash-tata-sons-sets-up-ai-171-memorial-and-welfare-trust-pledges-rs-500-crore-for-victims-11752842986948.html"
+    },
+    {
+      "id": 57,
+      "title": "Nationwide Anti-Trump 'Families First' Protest Planned for July 26",
+      "summary": "A nationwide anti-President Donald Trump protest is being planned for July 26 to unite families, caregivers, immigrants, and workers, say organizers.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:05:27Z",
+      "url": "https://biztoc.com/x/0c83ed22fb9eb5b4"
+    },
+    {
+      "id": 58,
+      "title": "Elon Musk's xAI eyes Gulf data centers",
+      "summary": "Elon Musk is in talks with data center companies in Saudi Arabia and the UAE to lease computing capacity for his artificial intelligence startup xAI, seeking locations with cheaper energy and friendly regulators.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:05:27Z",
+      "url": "https://biztoc.com/x/3191cfbeac0b9be8"
+    },
+    {
+      "id": 59,
+      "title": "Nasdaq-listed TAO Synergies buys $10 million in Bittensor tokens for treasury",
+      "summary": "Nasdaq-listed TAO Synergies buys $10 million in Bittensor tokens for treasury, becoming the biggest publicly traded TAO holder and staking the tokens to earn AI-network rewards.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:05:20Z",
+      "url": "https://biztoc.com/x/1d2d46a1f086908d"
+    },
+    {
+      "id": 60,
+      "title": "Jobs survive, pay and purpose don’t: The quiet risk of workplace AI",
+      "summary": "Researchers Paul Glavin, Scott Schieman, and Alexander Wilson discuss the potential risks of workplace AI, particularly in terms of job security, pay, and sense of purpose.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:05:13Z",
+      "url": "https://biztoc.com/x/ea977dfe0ca96906"
+    },
+    {
+      "id": 61,
+      "title": "Anvesh Tiwari leads the launch of India’s first AI-driven end-to-end fintech platform by Laraware",
+      "summary": "Anvesh Tiwari leads the launch of India’s first AI-driven end-to-end fintech platform by Laraware, called Nxtbanking, poised to transform digital financial services.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-18T13:05:09Z",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/anvesh-tiwari-leads-the-launch-of-indias-first-ai-driven-end-to-end-fintech-platform-by-laraware/articleshow/122766642.cms"
+    },
+    {
+      "id": 62,
+      "title": "AAPL SECURITIES FRAUD: Apple Inc. (NASDAQ:AAPL) Stock Drop Triggers Class Action Lawsuit – Contact BFA Law by August 19 Legal Deadline",
+      "summary": "Apple Inc. investors are alerted to a class action lawsuit following a drop in stock price, with a legal deadline of August 19. BFA Law is handling the securities fraud case for investors who lost money.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-18T13:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117933/0/en/AAPL-SECURITIES-FRAUD-Apple-Inc-NASDAQ-AAPL-Stock-Drop-Triggers-Class-Action-Lawsuit-Contact-BFA-Law-by-August-19-Legal-Deadline.html"
+    },
+    {
+      "id": 63,
+      "title": "How BSE and NSE quietly got their act together online",
+      "summary": "Discover the upgraded BSE and NSE websites with real-time data, AI insights, and comprehensive market information.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:04:52Z",
+      "url": "https://www.thehindubusinessline.com/markets/how-bse-and-nse-quietly-got-their-act-together-online/article69827579.ece"
+    },
+    {
+      "id": 64,
+      "title": "NFL Running Back Derrick Henry Joins Amazfit as Athlete Ambassador",
+      "summary": "NFL running back Derrick Henry has joined Amazfit as an athlete ambassador, utilizing their products to optimize health, recovery, and performance in his 10th NFL season.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:04:38Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nfl-running-back-derrick-henry-joins-amazfit-as-athlete-ambassador"
+    },
+    {
+      "id": 65,
+      "title": "5 Essential Photoshop Techniques for Better Portrait Editing",
+      "summary": "Portrait editing techniques in Photoshop to balance natural-looking results with professional polish, helping photographers achieve better images.",
+      "source": "Photoshoproadmap.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T13:02:43Z",
+      "url": "https://www.photoshoproadmap.com/5-essential-photoshop-techniques-for-better-portrait-editing/"
+    },
+    {
+      "id": 66,
+      "title": "SIM Mining Launches Enhanced Cloud Mining Security Measures Today",
+      "summary": "SIM Mining launches enhanced cloud mining security measures to safeguard user data and platform operations.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:02:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117932/0/en/SIM-Mining-Launches-Enhanced-Cloud-Mining-Security-Measures-Today.html"
+    },
+    {
+      "id": 67,
+      "title": "Elon’s Porn Girl Is A Disaster In The Making",
+      "summary": "Elon Musk's anime girl project raises ethical concerns about the use of technology and its potential negative impact on society.",
+      "source": "The Daily Caller",
+      "category": "ethics",
+      "timestamp": "2025-07-18T13:01:24Z",
+      "url": "https://dailycaller.com/2025/07/18/elon-musk-grok-ai-companion-anime-porn-men/"
+    },
+    {
+      "id": 68,
+      "title": "Revolutionizing IT Management With Generative AI: The Future Is Here",
+      "summary": "The world of IT management is being revolutionized by generative AI, with potential to reshape IT operations. GenAI is driving a seismic transformation in the industry.",
+      "source": "Forrester.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T13:01:01Z",
+      "url": "https://www.forrester.com/blogs/revolutionizing-it-management-with-generative-ai-the-future-is-here/"
+    },
     {
       "id": 51,
       "title": "No time to waste: NATO chief urges rapid industrial mobilization",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-18T11:36:43Z",
       "url": "https://biztoc.com/x/05ce4e77844d4e8d"
-    },
-    {
-      "id": 53,
-      "title": "Woman Orders Coffee on DoorDash, 'Shocked' at Message She Then Receives",
-      "summary": "Woman orders coffee on DoorDash and receives an AI-generated message, highlighting the use of AI in delivery services.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:36:41Z",
-      "url": "https://biztoc.com/x/547166d6d50793a9"
-    },
-    {
-      "id": 54,
-      "title": "Perplexity AI Hits $18 Billion Valuation in Latest Funding Round",
-      "summary": "Perplexity AI, a generative AI search startup, has raised $100 million in funding, bringing its valuation to $18 billion.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T11:36:36Z",
-      "url": "https://biztoc.com/x/04dfa2fb0a80bd48"
-    },
-    {
-      "id": 55,
-      "title": " We've found the worst kits for next season ",
-      "summary": "OneFootball's article 'Jersey News of the Week' typically features the most beautiful kits released, but this time they are showcasing the worst kits for next season.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:34:00Z",
-      "url": "https://onefootball.com/en/news/weve-found-the-worst-kits-for-next-season-41391960"
-    },
-    {
-      "id": 56,
-      "title": "'Black Swan' author Nassim Taleb shares 4 life lessons — and reveals what keeps him awake at night",
-      "summary": "'Black SwaN' author Nassim Taleb emphasizes the importance of discipline, health, and building the right skills for a good life. He also shares what keeps him awake at night.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:33:45Z",
-      "url": "https://www.businessinsider.com/black-swan-nassim-taleb-life-lessons-success-ai-health-community-2025-7"
-    },
-    {
-      "id": 57,
-      "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
-      "summary": "CERT-UA has disclosed details of a phishing campaign delivering LAMEHUG malware linked to APT28, which utilizes LLM for generating commands.",
-      "source": "Internet",
-      "category": "research",
-      "timestamp": "2025-07-18T11:32:00Z",
-      "url": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html"
-    },
-    {
-      "id": 58,
-      "title": "Mobile Robots Market Forecast Report 2025-2035: Global Mobile Robots Market to Surge from $18.49 Billion in 2025 to $63.28 Billion by 2035",
-      "summary": "Global mobile robots market expected to grow from $18.49B in 2025 to $63.28B by 2035, driven by advancements in AI, sensors, and automation. North America currently leads the market, but Asia is experiencing rapid growth.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:31:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117841/28124/en/Mobile-Robots-Market-Forecast-Report-2025-2035-Global-Mobile-Robots-Market-to-Surge-from-18-49-Billion-in-2025-to-63-28-Billion-by-2035.html"
-    },
-    {
-      "id": 59,
-      "title": "Best E-Ink Tablets to Buy in 2025",
-      "summary": "Best E-Ink Tablets to Buy in 2025 - These are the best E-Ink tablets you can buy in 2025.",
-      "source": "Phandroid - News for Android",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:30:59Z",
-      "url": "https://phandroid.com/2025/07/18/best-e-ink-tablets-to-buy-in-2025/"
-    },
-    {
-      "id": 60,
-      "title": "Defunding NPR and PBS passed the Senate — and it’s a direct hit to rural America",
-      "summary": "Defunding NPR and PBS by President Trump is seen as a direct hit to rural America, as it threatens the availability of public broadcasting in those areas.",
-      "source": "Poynter",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:30:14Z",
-      "url": "https://www.poynter.org/commentary/2025/defunding-npr-and-pbs-passed-the-senate/"
-    },
-    {
-      "id": 61,
-      "title": "Why 100% of CEH Professionals Would Recommend the Certification to Their Peers: Insights from the CEH HOF 2025 Industry Report",
-      "summary": "100% of CEH Hall of Fame inductees credit their career success to the Certified Ethical Hacker (CEH) certification.",
-      "source": "Infosecurity Magazine",
-      "category": "applications",
-      "timestamp": "2025-07-18T11:30:00Z",
-      "url": "https://www.infosecurity-magazine.com/blogs/insights-ceh-hof-2025-industry/"
-    },
-    {
-      "id": 51,
-      "title": "Nordstrom hires Dollar General’s turnaround CFO behind stock surge",
-      "summary": "Nordstrom hires Kelly Dilts, Dollar General's CFO, responsible for the company's stock surge. Dilts will leave Dollar General in August.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:27:55Z",
-      "url": "https://fortune.com/2025/07/18/nordstrom-hires-dollar-generals-turnaround-cfo-behind-stock-surge/"
-    },
-    {
-      "id": 52,
-      "title": "Tech layoffs: Amazon, Intel to cut more jobs amid AI push, cost control",
-      "summary": "Tech layoffs at companies like Amazon and Intel are driven by a push towards AI and cost-cutting measures, with hundreds of jobs being cut. Amazon's CEO has warned of the impact of AI on office roles, while Intel plans to cut 5,500 U.S. jobs and Microsoft trims 4% of staff.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:25:44Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/tech-layoffs-amazon-intel-to-cut-more-jobs-amid-ai-push-cost-control/articleshow/122764791.cms"
-    },
-    {
-      "id": 53,
-      "title": "Pam Bondi Preparing To Release Epstein Grand Jury Testimonies: Live Updates",
-      "summary": "Attorney General Pam Bondi is preparing to release AI-generated voice recordings of Jeffrey Epstein's grand jury testimonies, which may contain inconsistencies. President Trump's directive raises ethical concerns regarding the potential impact on the judicial process and public perception.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:25:44Z",
-      "url": "https://biztoc.com/x/af4bcce83d1ad956"
-    },
-    {
-      "id": 54,
-      "title": "Coldplay concert dates in US: A look at ticket prices at Camp Randall Stadium in Wisconsin to be held tomorrow",
-      "summary": "Coldplay concert featuring AI tech CEO caught in cozy situation with co-worker.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:23:36Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/coldplay-concert-dates-in-us-a-look-at-ticket-prices-at-camp-randall-stadium-in-wisconsin-to-be-held-tomorrow/articleshow/122764482.cms"
-    },
-    {
-      "id": 55,
-      "title": "Trump denies letter to Epstein and Stephen Colbert's 'Late Show' to end: Morning Rundown",
-      "summary": "A $9 billion rescissions package could jeopardize the future of hundreds of local NPR and PBS stations.",
-      "source": "NBC News",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:22:35Z",
-      "url": "https://www.nbcnews.com/news/us-news/trump-denies-letter-epstein-stephen-colberts-late-show-end-morning-run-rcna219522"
-    },
-    {
-      "id": 56,
-      "title": "Takeaways from the AP’s reporting on Trump’s business deals",
-      "summary": "President Donald Trump's family businesses have raked in hundreds of millions of dollars from various deals since his election, including crypto coins, bibles, overseas development deals, and an upcoming line of cellphones.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:22:09Z",
-      "url": "https://financialpost.com/pmn/takeaways-from-the-aps-reporting-on-trumps-business-deals"
-    },
-    {
-      "id": 57,
-      "title": "South Korea Poised to Become Regional Hub for Smart Prefabricated Construction - South Korea Prefabricated Construction Market Intelligence and Future Growth Dynamics Databook",
-      "summary": "South Korea is set to become a regional hub for smart prefabricated construction, with its market projected to reach KRW 13 trillion by 2025 and KRW 15.90 trillion by 2029.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-18T11:22:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117834/28124/en/South-Korea-Poised-to-Become-Regional-Hub-for-Smart-Prefabricated-Construction-South-Korea-Prefabricated-Construction-Market-Intelligence-and-Future-Growth-Dynamics-Databook.html"
-    },
-    {
-      "id": 51,
-      "title": "EY's London cleaners are picketing its office after over a third were told their jobs could be cut",
-      "summary": "Cleaners at EY's London office are protesting potential job cuts, accusing the company of being the 'Dirtiest employer of the year'.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-18T11:11:40Z",
-      "url": "https://www.businessinsider.com/ey-cleaning-staff-strike-over-proposed-layoffs-big-four-2025-7"
-    },
-    {
-      "id": 52,
-      "title": "New quantum magnetic navigation system to replace aircraft GPS",
-      "summary": "New quantum magnetic navigation system developed to replace aircraft GPS due to satellite positioning system signal disruptions.",
-      "source": "TelecomTV",
-      "category": "innovation",
-      "timestamp": "2025-07-18T11:11:22Z",
-      "url": "https://www.telecomtv.com/content/security/new-quantum-magnetic-navigation-system-to-replace-aircraft-gps-53468/"
     }
   ]
 }
