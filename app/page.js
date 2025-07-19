@@ -2,16 +2,16 @@
 
 import { useEffect, useState } from 'react';
 import Head from 'next/head';
-import { SessionProvider, useSession } from 'next-auth/react';  // Add SessionProvider
+import { useSession } from 'next-auth/react';
 
-function MainContent() {
+export default function Home() {
   const { data: session, status } = useSession();
   const [allNews, setAllNews] = useState([]);
   const [currentCategory, setCurrentCategory] = useState('all');
 
   if (status === 'loading') return <p>Loading session...</p>;
   if (!session) {
-    window.location.href = '/api/auth/signin';
+    window.location.href = '/auth/signin';  // Changed to custom page URL
     return <p>Redirecting to sign-in...</p>;
   }
 
@@ -23,13 +23,18 @@ function MainContent() {
           ...item,
           timestamp: new Date(item.timestamp)
         })));
+        displayNews();
+        const lastUpdateEl = document.getElementById('lastUpdate');
+        if (lastUpdateEl) {
+          lastUpdateEl.textContent = `Last updated: ${new Date(data.lastUpdate).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' })}`;
+        }
       } catch (error) {
         showError();
       }
     };
 
-    fetchAndDisplay();
     setupCategoryTabs();
+    fetchAndDisplay();
     const fetchInterval = setInterval(fetchAndDisplay, 60000);
     const timestampInterval = setInterval(updateTimestamps, 60000);
 
@@ -37,11 +42,7 @@ function MainContent() {
       clearInterval(fetchInterval);
       clearInterval(timestampInterval);
     };
-  }, []);
-
-  useEffect(() => {
-    displayNews();
-  }, [allNews, currentCategory]); // Re-display when data or category changes
+  }, [currentCategory]);
 
   async function fetchNews() {
     const response = await fetch('./news.json?ts=' + new Date().getTime());
@@ -49,7 +50,7 @@ function MainContent() {
     return response.json();
   }
 
-  // ... Your other functions (setupCategoryTabs, displayNews, createNewsCard, etc.)
+  // ... The rest of your original JS functions (setupCategoryTabs, displayNews, createNewsCard, getTimeAgo, getCategoryIcon, updateTimestamps, showError)
 
   return (
     <>
@@ -60,11 +61,25 @@ function MainContent() {
       </Head>
 
       <header>
-        {/* Your header HTML */}
+        <div className="header-content">
+          <h1 className="logo">Papers.se</h1>
+          <div className="last-update">
+            <div className="update-indicator"></div>
+            <span id="lastUpdate">Updating...</span>
+          </div>
+        </div>
       </header>
 
       <nav className="categories">
-        {/* Your nav HTML */}
+        <div className="category-tabs" id="categoryTabs">
+          <button className="category-tab active" data-category="all">All News</button>
+          <button className="category-tab" data-category="innovation">Innovation</button>
+          <button className="category-tab" data-category="research">Research</button>
+          <button className="category-tab" data-category="economy">Economy</button>
+          <button className="category-tab" data-category="ethics">Ethics</button>
+          <button className="category-tab" data-category="applications">Applications</button>
+          <button className="category-tab" data-category="startups">Startups</button>
+        </div>
       </nav>
 
       <main className="container">
@@ -77,16 +92,8 @@ function MainContent() {
       </main>
 
       <style jsx global>{`
-        /* Your CSS */
+        /* Your full original CSS here */
       `}</style>
     </>
-  );
-}
-
-export default function Home() {
-  return (
-    <SessionProvider>
-      <MainContent />
-    </SessionProvider>
   );
 }
