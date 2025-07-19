@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-19T10:17:44.201Z",
+  "lastUpdate": "2025-07-19T10:44:22.083Z",
   "items": [
+    {
+      "id": 51,
+      "title": "NVIDIA’s High-End “Blackwell Ultra” GB300 AI Servers to Begin Shipping by September as Design Changes Ease Pressure on the Supply Chain",
+      "summary": "NVIDIA's high-end GB300 AI servers, named Blackwell Ultra, are set to begin shipping by September following design changes that have eased pressure on the supply chain.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-18T10:43:05Z",
+      "url": "https://wccftech.com/nvidia-blackwell-ultra-gb300-ai-servers-to-begin-shipping-by-september/"
+    },
+    {
+      "id": 52,
+      "title": "How Human-Centered AI Actually Gets Built",
+      "summary": "Fei-Fei Li discusses building human-centered AI as a civilizational technology with Hugo Bowne-Anderson and Duncan Gilchrist on the High Signal podcast.",
+      "source": "Oreilly.com",
+      "category": "research",
+      "timestamp": "2025-07-18T10:42:18Z",
+      "url": "https://www.oreilly.com/radar/how-human-centered-ai-actually-gets-built/#BlogPosting"
+    },
+    {
+      "id": 53,
+      "title": "Perplexity AI Hits $18 Billion Valuation in Latest Funding Round",
+      "summary": "Perplexity AI, a generative AI search startup, has raised $100 million in new funding, increasing its valuation to $18 billion. The funding round extends a previous valuation of $14 billion, showcasing the company's growth and potential in the AI industry.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-18T10:41:48Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/"
+    },
+    {
+      "id": 54,
+      "title": "Satellite Images Show New Trump Resort Emerge in Middle East",
+      "summary": "Recent satellite imagery reveals significant progress at one of the Middle East's most high-value coastal real estate projects, where Trump-branded villas are being developed above the Gulf of Oman. Voice is AI-generated.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:41:26Z",
+      "url": "https://biztoc.com/x/b47be37ae1b2400e"
+    },
+    {
+      "id": 55,
+      "title": "Perplexity's CEO says his AI browser could replace 2 white-collar roles every company relies on",
+      "summary": "Perplexity's CEO claims their AI browser, Comet, has the potential to replace white-collar roles like recruiters and assistants.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:41:24Z",
+      "url": "https://biztoc.com/x/d6136ef3c11f2c56"
+    },
+    {
+      "id": 56,
+      "title": "Claude Code & GitHub : Say Goodbye to Tedious Code Reviews",
+      "summary": "Claude Code & GitHub aims to reduce time spent on tedious code reviews and debugging errors, allowing developers to focus more on crafting innovative solutions.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-18T10:41:19Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-github-say-goodbye-to-tedious-code-reviews/"
+    },
+    {
+      "id": 57,
+      "title": "Corpay Earnings Preview: What to Expect",
+      "summary": "Corpay Earnings Preview is discussing various market strategies including volatility, volume, open interest, butterfly strategies, and more. It also covers resources like European futures, Forex market pulse, investing ideas, AI stocks, battery stocks, and biotechnology stocks.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-18T10:41:10Z",
+      "url": "https://biztoc.com/x/dbc3b8c832790752"
+    },
+    {
+      "id": 58,
+      "title": "netra-sdk 0.1.13",
+      "summary": "netra-sdk 0.1.13 is a Python SDK for AI application observability that provides monitoring, tracing, and PII protection for LLM and vector database applications, enabling easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-18T10:40:57Z",
+      "url": "https://pypi.org/project/netra-sdk/0.1.13/"
+    },
+    {
+      "id": 59,
+      "title": "Woman Feeds Dog Common Treat—Then Every Owner's Worst Nightmare Unfolds",
+      "summary": "Woman unknowingly feeds her dog a dangerous treat, leading to a potential tragedy due to AI-generated voice miscommunication.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-18T10:40:53Z",
+      "url": "https://biztoc.com/x/33bb8c1867d2f256"
+    },
+    {
+      "id": 60,
+      "title": "Global crypto market hits $4 trillion, eclipses UK economy in size",
+      "summary": "Global crypto market capitalization surpasses $4 trillion, exceeding the size of the UK economy, driven by increasing altcoin prices and positive regulatory developments.",
+      "source": "CryptoSlate",
+      "category": "economy",
+      "timestamp": "2025-07-18T10:40:41Z",
+      "url": "https://cryptoslate.com/insights/global-crypto-market-hits-4-trillion-eclipses-uk-economy-in-size/"
+    },
+    {
+      "id": 61,
+      "title": "大阪けいさつ病院、最新鋭手術支援ロボット「ダビンチ5」による国内初のがん手術を開始",
+      "summary": "Osaka Keisatsu Hospital has started the first cancer surgery in Japan using the state-of-the-art surgical support robot 'Da Vinci 5'.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-18T10:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000137186.html"
+    },
     {
       "id": 51,
       "title": "Malaysia’s AI darling NationGate sees shares tumble after it got raided in a scrap metal smuggling probe",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-18T09:31:06Z",
       "url": "https://adactio.com/notes/22025"
-    },
-    {
-      "id": 54,
-      "title": "Want to Free Up 15GB in Gmail? Here's How I Did It",
-      "summary": "Want to Free Up 15GB in Gmail? Here's How I Did It - Getting the 'storage full' alert? Here's how to clear space fast and safely.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:30:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/want-to-free-up-15gb-in-gmail-heres-how-i-did-it/"
-    },
-    {
-      "id": 55,
-      "title": "Jensen Huang would have ditched ‘coding’ for ‘physics’: Nvidia CEO urges mastering the real world for the next AI wave",
-      "summary": "Jensen Huang emphasizes the importance of mastering physics for the next wave of AI innovation, moving beyond just programming to understand the physical world.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:28:32Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/jensen-huang-would-have-ditched-coding-for-physics-nvidia-ceo-urges-mastering-the-real-world-for-the-next-ai-wave/articleshow/122758243.cms"
-    },
-    {
-      "id": 56,
-      "title": "Startup Perplexity AI hits $18 billion valuation after $100 million funding round",
-      "summary": "Startup Perplexity AI reaches an $18 billion valuation after raising $100 million in funding, following a previous round that valued the company at $14 billion.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-18T09:28:00Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startup-perplexity-ai-hits-18-billion-valuation-after-100-million-funding-round/articleshow/122761131.cms"
-    },
-    {
-      "id": 57,
-      "title": "Beyond SEPA: The true impact of payment fragmentation for payroll providers",
-      "summary": "Eddie Harrison discusses the impact of payment fragmentation on payroll providers and emphasizes the importance of payment curation for global growth.",
-      "source": "Electronicpaymentsinternational.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:27:41Z",
-      "url": "https://www.electronicpaymentsinternational.com/comment/true-impact-of-payment-fragmentation-for-payroll-providers/"
-    },
-    {
-      "id": 58,
-      "title": "Google's head of Android said the computer science major needs a 'rebrand'",
-      "summary": "Google's head of Android discusses the need to rebrand the computer science major to emphasize it's about more than just coding.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:27:01Z",
-      "url": "https://www.businessinsider.com/google-head-android-computer-science-major-rebrand-2025-7"
-    },
-    {
-      "id": 59,
-      "title": "mcp-kql-server 2.0.2",
-      "summary": "mcp-kql-server 2.0.2 is an AI-Powered server for KQL query execution, offering intelligent schema memory and context assistance.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:26:47Z",
-      "url": "https://pypi.org/project/mcp-kql-server/2.0.2/"
-    },
-    {
-      "id": 60,
-      "title": "The Pentagon will host a ‘Top Gun’ school for Ukraine-style attack drones",
-      "summary": "The Pentagon plans to establish a 'Top Gun' school for attack drones similar to those used by Ukraine as part of an effort to achieve American drone dominance, highlighting the push for innovation in military technology.",
-      "source": "Defense One",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:26:33Z",
-      "url": "https://www.defenseone.com/technology/2025/07/pentagon-will-host-top-gun-school-ukraine-style-attack-drones/406818/"
-    },
-    {
-      "id": 61,
-      "title": "ai-microcore 4.2.5",
-      "summary": "The ai-microcore 4.2.5 version provides a minimalistic foundation for AI applications, making it easier for developers to build AI functionalities. This update is aimed at improving the efficiency and effectiveness of AI systems in various applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:25:43Z",
-      "url": "https://pypi.org/project/ai-microcore/4.2.5/"
-    },
-    {
-      "id": 62,
-      "title": "New York State Common Retirement Fund Sells 75,535 Shares of Kyndryl Holdings, Inc. (NYSE:KD)",
-      "summary": "New York State Common Retirement Fund sold 75,535 shares of Kyndryl Holdings, Inc., lowering its holdings by 14.2% in the first quarter according to its recent 13F filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-18T09:24:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/18/new-york-state-common-retirement-fund-sells-75535-shares-of-kyndryl-holdings-inc-nysekd/"
-    },
-    {
-      "id": 63,
-      "title": "AI Context-Aware Assistants - TwinMind Captures, Summarizes, And Organizes Life With AI Intelligence (TrendHunter.com)",
-      "summary": "TwinMind is an AI-powered personal assistant designed to enhance productivity by capturing and processing real-time spoken information.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T09:22:06Z",
-      "url": "https://www.trendhunter.com/trends/twinmind"
-    },
-    {
-      "id": 64,
-      "title": "Japanese chipmaker Rapidus begins test production of 2nm circuits — company commits to single-wafer processing ahead of 2027 mass production target",
-      "summary": "Japanese chipmaker Rapidus starts test production of 2nm circuits and commits to single-wafer processing ahead of 2027 mass production target.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-18T09:21:09Z",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-begins-test-production-of-2nm-circuits-company-commits-to-single-wafer-processing-ahead-of-2027-mass-production-target"
     }
   ]
 }
