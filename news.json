@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-20T23:40:31.057Z",
+  "lastUpdate": "2025-07-20T23:51:16.058Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel CEO concedes Nvidia's AI lead: a critical shift for the semiconductor giant",
+      "summary": "Intel CEO concedes Nvidia's AI lead: a critical shift for the semiconductor giant - Intel CEO Lip-Bu Tan has openly admitted to global employees that Nvidia has surpassed Intel in the AI chip market.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:50:40Z",
+      "url": "https://www.digitimes.com/news/a20250718PD222/intel-ceo-nvidia-market-ai-chip.html"
+    },
+    {
+      "id": 52,
+      "title": "Internet trolls roasted Astronomer CEO and HR chief for Coldplay scandal — here’s what they said",
+      "summary": "Internet trolls criticized the CEO and HR chief of Astronomer for a Coldplay scandal, highlighting the ethical implications of their actions.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-19T23:50:34Z",
+      "url": "https://nypost.com/2025/07/19/us-news/internet-trolls-roast-kiss-cam-astronomer-ceo-and-hr-chief/"
+    },
+    {
+      "id": 53,
+      "title": "How Soon Will ‘Mission: Impossible – The Final Reckoning’ Begin Streaming?",
+      "summary": "Tom Cruise's 'Mission: Impossible - The Final Reckoning' is expected to be available on digital streaming soon after its theatrical release.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-19T23:46:52Z",
+      "url": "https://www.forbes.com/sites/timlammers/2025/07/19/how-soon-will-mission-impossible--the-final-reckoning-begin-streaming/"
+    },
+    {
+      "id": 54,
+      "title": "‘Humanity Wins! – for Now’: Polish Programmer Beats AI Model in 10-Hour Coding Competition",
+      "summary": "Polish programmer beats AI model in 10-hour coding competition, highlighting the ongoing competition between humans and AI in various endeavors.",
+      "source": "Thegatewaypundit.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:40:55Z",
+      "url": "https://www.thegatewaypundit.com/2025/07/humanity-wins-now-polish-programmer-beats-ai-model/"
+    },
+    {
+      "id": 55,
+      "title": "metis-agent 0.1.3",
+      "summary": "metis-agent 0.1.3 is a new framework designed to streamline the development of AI agents by minimizing the required boilerplate code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:40:28Z",
+      "url": "https://pypi.org/project/metis-agent/0.1.3/"
+    },
     {
       "id": 51,
       "title": " All set in Córdoba: line-ups confirmed for Instituto and River Plate",
@@ -405,51 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T22:23:46Z",
       "url": "https://pypi.org/project/crystalyse-ai/1.0.8/"
-    },
-    {
-      "id": 62,
-      "title": "AI War 2 The Neinzul Abyss Update v5.708-I KnoW",
-      "summary": "AI War 2 The Neinzul Abyss Update v5.708-I KnoW is an indie simulation strategy game developed by Arcen Games, LLC. The update includes new features and improvements for players to enjoy.",
-      "source": "Rlsbb.ru",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:23:14Z",
-      "url": "https://post.rlsbb.ru/ai-war-2-the-neinzul-abyss-update-v5-708-i-know/"
-    },
-    {
-      "id": 63,
-      "title": "crystalyse-ai 1.0.7",
-      "summary": "CrystaLyse.AI has released version 1.0.7 of their autonomous AI agents for inorganic materials design, featuring natural language interfaces for faster development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:21:53Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.7/"
-    },
-    {
-      "id": 64,
-      "title": "Who Is Pete DeJoy: Co-Founder Taking Over AI Firm Following Coldplay Kiss Cam Cuddle Fallout",
-      "summary": "Astronomer has appointed Pete DeJoy as interim CEO after the company's former leader was caught in an affair exposed by a 'Kiss Cam' at a Coldplay concert.",
-      "source": "Rutherford Daily Voice",
-      "category": "startups",
-      "timestamp": "2025-07-19T22:20:34Z",
-      "url": "https://dailyvoice.com/ma/foxborough/who-is-pete-dejoy-co-founder-taking-over-ai-firm-following-coldplay-kiss-cam-cuddle-fallout/"
-    },
-    {
-      "id": 65,
-      "title": "hahabott 1.20.9",
-      "summary": "hahabott 1.20.9 is a library designed to facilitate interaction with various AI APIs, enabling easier integration of multiple AI technologies into applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:17:17Z",
-      "url": "https://pypi.org/project/hahabott/1.20.9/"
-    },
-    {
-      "id": 51,
-      "title": "Astronomer CEO resigns after viral kiss cam Coldplay concert incident",
-      "summary": "Astronomer CEO resigns after a controversial incident involving the kiss cam at a Coldplay concert, prompting questions about appropriate conduct in the workplace.",
-      "source": "7NEWS.com.au",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:09:51Z",
-      "url": "https://7news.com.au/news/astronomer-ceo-resigns-after-viral-coldplay-concert-incident-c-19413164"
     }
   ]
 }
