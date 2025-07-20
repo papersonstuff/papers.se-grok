@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-20T23:16:47.019Z",
+  "lastUpdate": "2025-07-20T23:40:31.057Z",
   "items": [
+    {
+      "id": 51,
+      "title": " All set in Córdoba: line-ups confirmed for Instituto and River Plate",
+      "summary": "For the second matchday of the Clausura Tournament of the Argentine Professional League, River Plate visits Instituto in Córdoba.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T23:40:00Z",
+      "url": "https://onefootball.com/en/news/all-set-in-cordoba-line-ups-confirmed-for-instituto-and-river-plate-41398348"
+    },
+    {
+      "id": 52,
+      "title": "XLM's price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "summary": "Stellar's price expected to surge like XRP, Trump signs crypto-related bill",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-19T23:38:07Z",
+      "url": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest"
+    },
+    {
+      "id": 53,
+      "title": " Santos thrashed by Mirassol, could end the round in the drop zone",
+      "summary": "Santos suffered a 3-0 defeat to Mirassol in the 15th round of Brasileirão 2025, potentially landing them in the relegation zone.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:36:00Z",
+      "url": "https://onefootball.com/en/news/santos-thrashed-by-mirassol-could-end-the-round-in-the-drop-zone-41398332"
+    },
+    {
+      "id": 54,
+      "title": "Can Samsung innovate its way out of its own system?",
+      "summary": "Samsung Electronics is in crisis due to a downturn in high-bandwidth memory sales in its semiconductor division, leading to widening losses in its chip business.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-19T23:34:44Z",
+      "url": "https://www.digitimes.com/news/a20250718PD214/samsung-talent-industrial.html"
+    },
+    {
+      "id": 55,
+      "title": "Most AI Interaction Will Go Through Your DA",
+      "summary": "Exploring the evolution of technology from websites to digital assistants as the final stage for AI interaction.",
+      "source": "Danielmiessler.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:30:00Z",
+      "url": "https://danielmiessler.com/blog/stages-of-app"
+    },
+    {
+      "id": 56,
+      "title": "Fianna Fáil 'should be running a candidate' says wannabe candidate Mary Hanafin",
+      "summary": "Fianna Fáil is being urged to have a candidate run for election by Mary Hanafin. There has been controversy surrounding the debate on extending voting rights to Irish citizens in Northern Ireland at the MacGill Summer School.",
+      "source": "TheJournal.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-19T23:29:39Z",
+      "url": "https://www.thejournal.ie/presidential-discussion-macgill-summer-school-6767989-Jul2025/"
+    },
+    {
+      "id": 57,
+      "title": "metis-agent 0.1.2",
+      "summary": "metis-agent 0.1.2 is a framework that allows for building powerful AI agents with minimal boilerplate code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T23:25:07Z",
+      "url": "https://pypi.org/project/metis-agent/0.1.2/"
+    },
+    {
+      "id": 58,
+      "title": "core-for-ai 0.1.98",
+      "summary": "core-for-ai 0.1.98 provides a unified interface for interacting with LLM and embedding providers, as well as observability tools.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T23:21:55Z",
+      "url": "https://pypi.org/project/core-for-ai/0.1.98/"
+    },
     {
       "id": 51,
       "title": "This Artificial Intelligence Stock Has Beaten the Market in 9 of the Past 10 Years. And It's On Track to Do It Again in 2025",
@@ -378,78 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-19T22:09:51Z",
       "url": "https://7news.com.au/news/astronomer-ceo-resigns-after-viral-coldplay-concert-incident-c-19413164"
-    },
-    {
-      "id": 52,
-      "title": "Dear Content Writer: Google Isn’t the Gatekeeper Anymore | HackerNoon",
-      "summary": "Google is no longer the sole gatekeeper of AI technology, with new tools like ChatGPT, Gemini, and Perplexity offering fast and helpful responses to questions.",
-      "source": "hackernoon.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:09:45Z",
-      "url": "https://hackernoon.com/dear-content-writer-google-isnt-the-gatekeeper-anymore"
-    },
-    {
-      "id": 53,
-      "title": "Tech company CEO resigns after video captured at Coldplay concert goes viral",
-      "summary": "Tech company CEO resigns after video captured at Coldplay concert goes viral",
-      "source": "PBS",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:09:35Z",
-      "url": "https://www.pbs.org/newshour/nation/tech-company-ceo-resigns-after-video-captured-at-coldplay-concert-goes-viral"
-    },
-    {
-      "id": 54,
-      "title": "Texas AG Sues Swimming Group Over Transgender Athletes at Masters Meet",
-      "summary": "Texas AG sues US Masters Swimming over transgender athletes competing in women's events, alleging deceptive practices.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:08:11Z",
-      "url": "https://biztoc.com/x/93b6b6eae2c0659f"
-    },
-    {
-      "id": 55,
-      "title": "Dow Jones Futures: Tesla, Google Step Up With Earnings Due; AI Stock Breaks Out As Nvidia, AMD Run",
-      "summary": "Dow Jones futures will open Sunday evening, with Tesla and Google-parent Alphabet leading a big earnings week. The stock market rally was mixed last week.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T22:07:58Z",
-      "url": "https://biztoc.com/x/de9703ba0be135fd"
-    },
-    {
-      "id": 56,
-      "title": "Astronomer's Andy Byron, Kristin Cabot Coldplay concert scandal: Reputation built in 10 or 20 years, can be lost in moment",
-      "summary": "Astronomer's Andy Byron, Kristin Cabot Coldplay concert scandal emphasizes the importance of being mindful of one's actions in the era of social media and ubiquitous cameras.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:07:00Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/astronomers-andy-byron-kristin-cabot-coldplay-concert-scandal-reputation-built-in-10-or-20-years-can-be-lost-in-moment/articleshow/122790279.cms"
-    },
-    {
-      "id": 57,
-      "title": " Penalty shootout drama: Germany reach the Euro semi-finals",
-      "summary": "Germany reaches Euro semi-finals after penalty shootout despite being down to ten players",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:06:00Z",
-      "url": "https://onefootball.com/en/news/penalty-shootout-drama-germany-reach-the-euro-semi-finals-41398187"
-    },
-    {
-      "id": 58,
-      "title": "How Elon Musk Created a Nightmare for Donald Trump",
-      "summary": "Elon Musk leveraged the Epstein conspiracy to create division within the MAGA base, leading to some supporters rebelling against Trump. This raises ethical concerns about using conspiracy theories as a tool for political manipulation.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:04:21Z",
-      "url": "https://gizmodo.com/how-elon-musk-created-a-nightmare-for-donald-trump-2000631776"
-    },
-    {
-      "id": 59,
-      "title": "crystalyse-ai 1.0.6",
-      "summary": "CrystaLyse.AI releases version 1.0.6 of their Autonomous AI agents aimed at accelerating inorganic materials design using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-19T22:03:28Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.6/"
     }
   ]
 }
