@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-20T08:46:45.060Z",
+  "lastUpdate": "2025-07-20T09:15:34.946Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Here's what the biggest names in tech and business think AI means for white-collar jobs",
+      "summary": "The biggest names in tech have differing opinions on the impact of AI on white-collar jobs, with Anthropic CEO Dario Amodei suggesting that AI could eliminate 50% of entry-level office jobs.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:12:12Z",
+      "url": "https://biztoc.com/x/5c587c96e23395d6"
+    },
+    {
+      "id": 52,
+      "title": "Google is giving OpenAI more computing power to keep up with everyone’s AI cravings",
+      "summary": "Google is providing OpenAI with more computing power to meet the demand for AI technology, showing collaboration between competitors in the AI field.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:08:26Z",
+      "url": "https://www.androidcentral.com/apps-software/google-is-giving-openai-more-computing-power-to-keep-up-with-everyones-ai-cravings"
+    },
+    {
+      "id": 53,
+      "title": "Stagnation - get used to it",
+      "summary": "Stagnation may be inevitable in the UK economy, raising questions about the possibility of achieving rapid growth even with optimal policies.",
+      "source": "Typepad.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:04:18Z",
+      "url": "https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2025/07/stagnation-get-used-to-it.html"
+    },
+    {
+      "id": 54,
+      "title": "Here's what the biggest names in tech and business think AI means for white-collar jobs",
+      "summary": "Tech and business leaders have varying perspectives on the impact of AI on white-collar jobs, with some, like Anthropic CEO Dario Amodei, expressing concern. However, there is a lack of consensus across Silicon Valley and beyond about the potential effects of AI on entry-level white collar roles.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:03:01Z",
+      "url": "https://www.businessinsider.com/ai-white-collar-jobs-outlook-dario-amodei-response-tech-leaders-2025-7"
+    },
+    {
+      "id": 55,
+      "title": "Exclusive: Trade partners have realized America is ‘simply not reliable’ after Trump’s tariff regime, says Elizabeth Warren—believing impact will be felt for generations to come",
+      "summary": "Trade partners consider America unreliable after Trump's tariffs, impacting generations. White House sees tariffs as beneficial, but Sen. Warren states they raise costs, slow manufacturing, and keep interest rates high.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:02:00Z",
+      "url": "https://fortune.com/2025/07/19/elizabeth-warren-trade-tariff-trump/"
+    },
+    {
+      "id": 56,
+      "title": "Donald Trump Is Most Successful President After Six Months Since FDR",
+      "summary": "An analysis conducted by Newsweek using AI concluded that the first six months of Donald Trump's second presidency have been the most successful of any American president since Franklin D. Roosevelt.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-19T09:01:00Z",
+      "url": "https://biztoc.com/x/ca6b2582d19c1db6"
+    },
+    {
+      "id": 57,
+      "title": "Donald Trump's Approval Rating Plunges with America's Richest",
+      "summary": "President Donald Trump is experiencing a sharp decline in support among high-income Americans, according to new polling.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:00:58Z",
+      "url": "https://biztoc.com/x/82ce09036e140856"
+    },
+    {
+      "id": 58,
+      "title": "Ozempic Could Change Births in America",
+      "summary": "Ozempic could potentially increase births in America due to its impact on fertility, with reports of 'Ozempic babies'. The AI-generated Voice in the news article may lead to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T09:00:53Z",
+      "url": "https://biztoc.com/x/3fb52185275e52aa"
+    },
+    {
+      "id": 59,
+      "title": "Cat Owners Are Revealing Nicknames for Their Pets—and Internet Can't Cope",
+      "summary": "A Reddit post asking users to share nicknames for their cats has gone viral, with an AI-generated voice. The response has sparked amusement and thousands of responses.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T09:00:50Z",
+      "url": "https://biztoc.com/x/607e4f495d2ec53e"
+    },
+    {
+      "id": 60,
+      "title": "Iran Pivots From Russia to China in Quest for New Weapons After Israel War",
+      "summary": "Iran pivots from Russia to China for new weapons after war with Israel, seeking advanced weaponry to reestablish its military",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:00:48Z",
+      "url": "https://biztoc.com/x/830ee5b48958bf48"
+    },
+    {
+      "id": 61,
+      "title": "What Would a 'Drone Wall' to Shield Europe's Borders Look Like?",
+      "summary": "It is still an 'unanswered question' whether countries running along NATO's eastern flank are prepared to defend against drone attacks, according to the European Commission's defense and space chief.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:00:44Z",
+      "url": "https://biztoc.com/x/22ad52697b303e75"
+    },
+    {
+      "id": 62,
+      "title": "Ro Khanna on Democrats' Path to Victory in Pro-Trump Districts",
+      "summary": "U.S. Representative Ro Khanna discusses Democrats' strategy for competing in pro-Trump districts in upcoming midterms.",
+      "source": "Biztoc.com",
+      "category": "politics",
+      "timestamp": "2025-07-19T09:00:41Z",
+      "url": "https://biztoc.com/x/85cc3fdc3a5c1770"
+    },
+    {
+      "id": 63,
+      "title": "Millennials Are Reviving This Midwest City",
+      "summary": "Des Moines, a city in the Midwest, is thriving thanks to the influx of young people, despite the region's population decline.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:00:36Z",
+      "url": "https://biztoc.com/x/262f3760bed645be"
+    },
+    {
+      "id": 64,
+      "title": "Alligator Alcatraz Detainees Reveal Chaotic Conditions",
+      "summary": "Allegations of medical neglect and verbal abuse are mounting about life inside Alligator Alcatraz, the Florida immigrant detention center.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T09:00:31Z",
+      "url": "https://biztoc.com/x/c3d62ca81947b91e"
+    },
+    {
+      "id": 65,
+      "title": "Donald Trump Is Most Successful President After Six Months Since FDR",
+      "summary": "Donald Trump's second term has been deemed the most successful since FDR in terms of legislative achievements, according to AI analysis.",
+      "source": "Newsweek",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:00:03Z",
+      "url": "https://www.newsweek.com/donald-trump-most-successful-president-after-six-months-since-fdr-2101113"
+    },
+    {
+      "id": 66,
+      "title": "Exclusive: Ro Khanna on Democrats' Path to Victory in Pro-Trump Districts",
+      "summary": "Ro Khanna discusses the Democrats' path to victory in Pro-Trump districts by promoting 'a new economic patriotism' during an interview with Newsweek.",
+      "source": "Newsweek",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:00:02Z",
+      "url": "https://www.newsweek.com/ro-khanna-democrats-path-victory-pro-trump-districts-2101019"
+    },
+    {
+      "id": 67,
+      "title": "How AI can improve dementia detection",
+      "summary": "Researchers from NCHA have developed a method for improving dementia detection in hospitals by combining traditional methods with AI.",
+      "source": "Starcommunity.com.au",
+      "category": "research",
+      "timestamp": "2025-07-19T09:00:02Z",
+      "url": "https://berwicknews.starcommunity.com.au/news/2025-07-19/how-ai-can-improve-dementia-detection/"
+    },
+    {
+      "id": 68,
+      "title": "Amazfit Helio smart ring review — Accurate sleep tracking without breaking the bank",
+      "summary": "The Amazfit Helio smart ring offers accurate sleep tracking at an affordable price, competing with the Oura Ring. However, users need to consider its short battery life and limited range of sizes.",
+      "source": "Live Science",
+      "category": "applications",
+      "timestamp": "2025-07-19T09:00:00Z",
+      "url": "https://www.livescience.com/health/amazfit-helio-smart-ring-review"
+    },
+    {
+      "id": 69,
+      "title": "New York State Common Retirement Fund Purchases 106,953 Shares of RadNet, Inc. (NASDAQ:RDNT)",
+      "summary": "New York State Common Retirement Fund raised its position in RadNet, Inc. by 92.5% in the 1st quarter, according to the company's filing with the Securities & Exchange Commission.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:58:22Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/new-york-state-common-retirement-fund-purchases-106953-shares-of-radnet-inc-nasdaqrdnt/"
+    },
+    {
+      "id": 70,
+      "title": "New York State Common Retirement Fund Boosts Position in First Watch Restaurant Group, Inc. (NASDAQ:FWRG)",
+      "summary": "New York State Common Retirement Fund raised its position in First Watch Restaurant Group, Inc. by 17.8% during the first quarter, according to the company in its most recent disclosure with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:58:18Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/new-york-state-common-retirement-fund-boosts-position-in-first-watch-restaurant-group-inc-nasdaqfwrg/"
+    },
     {
       "id": 51,
       "title": "Meta Declines European Union’s AI Pact, Claiming That The Proposed Agreement Overreaches Regulations, Threatens Innovation, And Forces Premature Changes That Could Slow Growth In The Tech Industry",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T08:00:20Z",
       "url": "https://www.zdnet.com/article/i-spoke-with-an-ai-version-of-myself-thanks-to-humes-free-tool-how-to-try-it/"
-    },
-    {
-      "id": 68,
-      "title": "Last chance to get Windows 11 Pro for $9.97 before the price goes up",
-      "summary": "Last chance to get Windows 11 Pro for $9.97 before the price goes up - TL;DR: Windows 11 Pro keys are at an all-time-low price right now through July 20 with this 94% discount.",
-      "source": "PCWorld",
-      "category": "economy",
-      "timestamp": "2025-07-19T08:00:00Z",
-      "url": "https://www.pcworld.com/article/2849202/last-chance-to-get-windows-11-pro-for-9-97-before-the-price-goes-up.html"
-    },
-    {
-      "id": 69,
-      "title": "Windows 11 Pro for under $10? Yes, it’s a deal so good you might not believe it",
-      "summary": "Windows 11 Pro available for under $10 is a great deal for users needing access to Windows for various purposes.",
-      "source": "Macworld",
-      "category": "economy",
-      "timestamp": "2025-07-19T08:00:00Z",
-      "url": "https://www.macworld.com/article/2849211/windows-11-pro-for-under-10-yes-its-a-deal-so-good-you-might-not-believe-it.html"
-    },
-    {
-      "id": 70,
-      "title": " Real Sociedad kick off pre-season with a win",
-      "summary": "Real Sociedad starts pre-season with a 2-0 win under new coach Sergio Francisco, who focused on set pieces in the victory over Pau FC.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:55:00Z",
-      "url": "https://onefootball.com/en/news/real-sociedad-kick-off-pre-season-with-a-win-41395393"
-    },
-    {
-      "id": 51,
-      "title": "Nahuel Molina set for a summer exit",
-      "summary": "Nahuel Molina could leave Atlético de Madrid this summer as he has lost prominence in Simeone's scheme, being overtaken by Marcos Llorente, according to a report by AS.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:49:00Z",
-      "url": "https://onefootball.com/en/news/nahuel-molina-set-for-a-summer-exit-41395373"
-    },
-    {
-      "id": 52,
-      "title": "Rafa Yuste set to leave Barça for Saudi Arabia imminently",
-      "summary": "Rafa Yuste, current sporting vice president of FC Barcelona, is set to leave for Al Nassr of Saudi Arabia in an imminent deal.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:44:00Z",
-      "url": "https://onefootball.com/en/news/rafa-yuste-set-to-leave-barca-for-saudi-arabia-imminently-41395357"
-    },
-    {
-      "id": 53,
-      "title": "Bank of New York Mellon Corp Has $18.46 Million Stake in PagerDuty (NYSE:PD)",
-      "summary": "Bank of New York Mellon Corp increased its stake in PagerDuty by 11.6% in the 1st quarter, with a $18.46 million investment.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:41:01Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/bank-of-new-york-mellon-corp-has-18-46-million-stake-in-pagerduty-nysepd/"
-    },
-    {
-      "id": 54,
-      "title": " Amid exit rumours: double contract extension at Köln",
-      "summary": "Amid exit rumours, 18-year-old Cologne talent Saïd El Mala puts a stop to reports of a major offer and signs a double contract extension.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:36:00Z",
-      "url": "https://onefootball.com/en/news/amid-exit-rumours-double-contract-extension-at-koeln-41395327"
-    },
-    {
-      "id": 55,
-      "title": "FY2025 EPS Forecast for Applied Digital Raised by Analyst",
-      "summary": "Analysts at Northland Capital raised their FY2025 earnings per share forecast for Applied Digital Corporation, resulting in a positive outlook for the company's stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:34:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/fy2025-eps-forecast-for-applied-digital-raised-by-analyst/"
-    },
-    {
-      "id": 56,
-      "title": "FY2025 Earnings Estimate for SLP Issued By KeyCorp",
-      "summary": "KeyCorp issued their FY2025 earnings estimate for Simulations Plus, Inc., predicting the earnings per share (EPS) for the company. Analyst S. Schoenhaus provided the estimate in a note to investors on July 14th.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:34:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/fy2025-earnings-estimate-for-slp-issued-by-keycorp/"
-    },
-    {
-      "id": 51,
-      "title": "definable 0.1.2",
-      "summary": "definable 0.1.2 is a new infrastructure designed for building and deploying AI agents, providing a platform for developers to create intelligent systems more efficiently.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T07:31:09Z",
-      "url": "https://pypi.org/project/definable/0.1.2/"
-    },
-    {
-      "id": 52,
-      "title": "Apple's AI Pivot Changes Everything (Rating Downgrade)",
-      "summary": "Apple's AI pivot changes investor perception of the company, impacting its stock rating due to a shifting landscape in the high tech industry.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:30:49Z",
-      "url": "https://biztoc.com/x/fd63f953fa0448e9"
-    },
-    {
-      "id": 53,
-      "title": "Barclays Raises Visteon (NASDAQ:VC) Price Target to $115.00",
-      "summary": "Barclays raises Visteon price target to $115.00 in report published on Wednesday morning.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:30:04Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/barclays-raises-visteon-nasdaqvc-price-target-to-115-00/"
-    },
-    {
-      "id": 54,
-      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
-      "summary": "Indian Pilots Federation issues legal notice to Wall Street Journal, Reuters over AI171 crash reports, demands apology for selective and unverified reporting.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-19T07:20:45Z",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/article69830726.ece"
-    },
-    {
-      "id": 55,
-      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
-      "summary": "Indian Pilots Federation sends legal notice to Wall Street Journal, Reuters over AI171 crash reports, demands apology for selective and unverified reporting.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-19T07:20:45Z",
-      "url": "https://www.thehindubusinessline.com/news/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/article69830726.ece"
-    },
-    {
-      "id": 56,
-      "title": "6,464 Shares in Ambarella, Inc. (NASDAQ:AMBA) Bought by Teacher Retirement System of Texas",
-      "summary": "Teacher Retirement System of Texas purchased 6,464 shares of Ambarella, Inc. worth $325,000 during the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:16:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/6464-shares-in-ambarella-inc-nasdaqamba-bought-by-teacher-retirement-system-of-texas/"
-    },
-    {
-      "id": 57,
-      "title": "model-compose 0.2.8",
-      "summary": "model-compose 0.2.8 is a declarative AI model and workflow orchestrator, aimed at streamlining the process of creating and managing AI models. This tool can help improve efficiency and productivity for AI developers and researchers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T07:16:53Z",
-      "url": "https://pypi.org/project/model-compose/0.2.8/"
-    },
-    {
-      "id": 58,
-      "title": "If AI Doesn’t Wipe Us Out It Might Actually Make Us Stronger",
-      "summary": "If AI doesn’t wipe us out, it might make us stronger, similar to the saying 'That which doesn't kill you will make you stronger'. This raises ethical questions about how we should handle the existential risks posed by AI.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-19T07:15:00Z",
-      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/19/if-ai-doesnt-wipe-us-out-it-might-actually-make-us-stronger/"
-    },
-    {
-      "id": 59,
-      "title": "definable 0.1.1",
-      "summary": "definable 0.1.1 is an infrastructure designed for creating and deploying AI agents. It provides a platform for building AI applications efficiently.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T07:14:45Z",
-      "url": "https://pypi.org/project/definable/0.1.1/"
-    },
-    {
-      "id": 51,
-      "title": "Principal Financial Group Inc. Boosts Stock Position in Adaptive Biotechnologies Corporation (NASDAQ:ADPT)",
-      "summary": "Principal Financial Group Inc. raised its position in shares of Adaptive Biotechnologies Corporation by 98.8% during the 1st quarter, according to the company's recent filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:12:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/principal-financial-group-inc-boosts-stock-position-in-adaptive-biotechnologies-corporation-nasdaqadpt/"
-    },
-    {
-      "id": 52,
-      "title": "Teacher Retirement System of Texas Buys Shares of 16,504 C3.ai, Inc. (NYSE:AI)",
-      "summary": "Teacher Retirement System of Texas purchased shares of AI startup C3.ai, Inc., adding to their investment portfolio in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-19T07:09:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/teacher-retirement-system-of-texas-buys-shares-of-16504-c3-ai-inc-nyseai/"
     }
   ]
 }
