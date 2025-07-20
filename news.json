@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-20T19:22:14.427Z",
+  "lastUpdate": "2025-07-20T19:26:50.152Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Justice League Unlimited #9 Preview: Apocalypse or Apokolips?",
+      "summary": "Justice League Unlimited #9 preview with AI overlord providing comic book preview",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:26:03Z",
+      "url": "https://bleedingcool.com/comics/justice-league-unlimited-9-preview-apocalypse-or-apokolips/"
+    },
+    {
+      "id": 52,
+      "title": "swe-ai-agent 1.0.30",
+      "summary": "swe-ai-agent 1.0.30 is a Headless Agentic IDE with comprehensive tool support for AI developers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:25:45Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.30/"
+    },
+    {
+      "id": 53,
+      "title": "Pam Bondi's Approval Rating Plummets Amid Epstein Controversy—Poll",
+      "summary": "Public approval of Attorney General Pam Bondi has dropped off amid the Jeffrey Epstein controversy, according to a new poll. Voice is AI-generated, so inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:18:54Z",
+      "url": "https://biztoc.com/x/2898221b01299e2f"
+    },
+    {
+      "id": 54,
+      "title": "aiwand 0.4.10",
+      "summary": "aiwand 0.4.10 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:18:00Z",
+      "url": "https://pypi.org/project/aiwand/0.4.10/"
+    },
+    {
+      "id": 55,
+      "title": "tensorial 0.4.3",
+      "summary": "Tensorial 0.4.3 is a library designed for machine learning on physical tensors, making it easier to work with complex data structures. This tool can be used by researchers and developers working on advanced AI algorithms.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T19:16:54Z",
+      "url": "https://pypi.org/project/tensorial/0.4.3/"
+    },
+    {
+      "id": 56,
+      "title": "Astronomer CEO Resigns After Viral Coldplay Kiss Cam Video",
+      "summary": "Astronomer CEO resigns after a viral video showing him with a woman who was not his wife at a Coldplay concert.",
+      "source": "Variety",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:15:53Z",
+      "url": "https://variety.com/2025/biz/news/astronomer-ceo-resigns-coldplay-kiss-cam-cheating-1236465250/"
+    },
+    {
+      "id": 57,
+      "title": "JUST IN: Astronomer CEO Resigns Days After Viral Video of Coldplay Kiss Cam Embrace With HR Exec Went Global",
+      "summary": "Astronomer CEO resigns after viral video of embrace with HR exec raises ethical concerns.",
+      "source": "Thegatewaypundit.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:15:51Z",
+      "url": "https://www.thegatewaypundit.com/2025/07/just-astronomer-ceo-resigns-days-after-viral-video/"
+    },
+    {
+      "id": 58,
+      "title": "Andy Byron resigns from AI company Astronomer after being caught canoodling with head of HR Kristin Cabot at Coldplay concert",
+      "summary": "Andy Byron resigns from AI company Astronomer after being caught canoodling with head of HR Kristin Cabot at Coldplay concert - Andy Byron has resigned from his big bucks CEO position of AI company Astronomer just days after he was caught canoodling with his head of HR on a jumbotron at a Coldplay concert, setting off a wild internet frenzy.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:15:46Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329616/posts"
+    },
+    {
+      "id": 59,
+      "title": "I Don't Think I Can Pull Off Wearing Meta's Oakley Glasses - CNET",
+      "summary": "Oakley has released Meta's HSTN Smart Glasses, offering constant access to AI features. The glasses have the potential to overshadow Meta's Ray-Bans in the smart glasses market.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:12:38Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178419254"
+    },
+    {
+      "id": 60,
+      "title": "mcp-server-table added to PyPI",
+      "summary": "mcp-server-table added to PyPI - Model Context Protocol (MCP) server for AI-driven ServiceNow table data export to XML attachments.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:12:11Z",
+      "url": "https://pypi.org/project/mcp-server-table/"
+    },
     {
       "id": 51,
       "title": "Astronomer CEO resigns after Coldplay Jumbotron incident with HR head",
@@ -360,96 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T18:05:45Z",
       "url": "https://podcast.nealschaffer.com/episode/the-repurposing-playbook-5-anchor-formats-that-fuel-50-pieces-of-content?ref=quuu"
-    },
-    {
-      "id": 60,
-      "title": "Pagaya Technologies (PGY) Jumps 35% as Preliminary Q2 Exceeds Targets",
-      "summary": "Pagaya Technologies (PGY) saw a 35% jump as its preliminary Q2 results exceeded expectations, making it one of the top performers this week.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T18:05:44Z",
-      "url": "https://finance.yahoo.com/news/pagaya-technologies-pgy-jumps-35-180544591.html"
-    },
-    {
-      "id": 61,
-      "title": "Their water taps ran dry when Meta built next door",
-      "summary": "Meta's data center in Newton County, Georgia, is causing water problems for local residents, leading to damaged wells and soaring water costs. Newton County may face a water deficit by 2030.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-19T18:05:14Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/their-water-taps-ran-dry-when-meta-built-next-door/articleshow/122786597.cms"
-    },
-    {
-      "id": 62,
-      "title": "MP Materials (MP) Soars 40% on Multi-Billio Dollar Deals",
-      "summary": "MP Materials (MP) stock surged 40% after securing multi-billion dollar deals, making it one of the top performers of the week.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T18:01:05Z",
-      "url": "https://finance.yahoo.com/news/mp-materials-mp-soars-40-180105194.html"
-    },
-    {
-      "id": 63,
-      "title": "Tether faces 3-year deadline as GENIUS Act becomes U.S. law",
-      "summary": "Tether CEO plans to introduce a new stablecoin for the U.S market and focus on expanding USDT to emerging markets within the next 3 years as the GENIUS Act becomes U.S. law.",
-      "source": "Ambcrypto.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T18:00:56Z",
-      "url": "https://ambcrypto.com/tether-faces-3-year-deadline-as-genius-act-becomes-u-s-law/"
-    },
-    {
-      "id": 64,
-      "title": "Study: Mainstream Media Peddled Hamas Propaganda to Smear Israel and U.S.-Backed Gaza Aid Group",
-      "summary": "Study reveals mainstream media peddled Hamas propaganda to smear Israel and U.S.-backed Gaza aid group, highlighting a core failure in media coverage by routinely elevating Hamas-run agency as a trusted source.",
-      "source": "Legalinsurrection.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T18:00:27Z",
-      "url": "https://legalinsurrection.com/2025/07/study-mainstream-media-peddled-hamas-propaganda-to-smear-israel-and-u-s-backed-gaza-aid-group/"
-    },
-    {
-      "id": 65,
-      "title": "Stream It Or Skip It: ‘Kaiju No. 8’ Season 2 on Crunchyroll, In Which Our Human-Kaiju Hybrid Protagonist Returns To Face Even Stronger Enemies",
-      "summary": "Season 2 of 'Kaiju No. 8' on Crunchyroll follows Kafka Hibino facing even stronger enemies after his secret identity as Kaiju No. 8 is revealed.",
-      "source": "Decider",
-      "category": "applications",
-      "timestamp": "2025-07-19T18:00:00Z",
-      "url": "https://decider.com/2025/07/19/kaiju-no-8-season-2-crunchyroll-review/"
-    },
-    {
-      "id": 66,
-      "title": "David Sacks and the blurred lines of government service",
-      "summary": "David Sacks' involvement in both government AI policy and investing in AI startups raises questions of potential conflicts of interest.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T17:59:50Z",
-      "url": "https://biztoc.com/x/2eff43ec4b6f70f3"
-    },
-    {
-      "id": 67,
-      "title": "David Sacks and the blurred lines of government service | TechCrunch",
-      "summary": "Vultron, an AI startup, announced a $22 million funding round with a key investor being Craft Ventures.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:59:22Z",
-      "url": "https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/"
-    },
-    {
-      "id": 68,
-      "title": "Gleim Aviation Demonstrates Groundbreaking Training Technologies at EAA AirVenture Oshkosh 2025",
-      "summary": "Gleim Aviation showcases revolutionary training technologies at EAA AirVenture Oshkosh 2025, reshaping the landscape of pilot training.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:57:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118273/0/en/Gleim-Aviation-Demonstrates-Groundbreaking-Training-Technologies-at-EAA-AirVenture-Oshkosh-2025.html"
-    },
-    {
-      "id": 69,
-      "title": "Rigetti Computing (RGTI) Surges 40.89% on New Milestone Achievement",
-      "summary": "Rigetti Computing (RGTI) surges 40.89% on new milestone achievement, making it one of this week's biggest players in the startup category.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:56:58Z",
-      "url": "https://finance.yahoo.com/news/rigetti-computing-rgti-surges-40-175658958.html"
     }
   ]
 }
