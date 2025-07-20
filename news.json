@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-20T11:40:22.725Z",
+  "lastUpdate": "2025-07-20T11:49:03.573Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Automotive market headwinds offset by AI servers; Eikei sees US liquid cooling board orders surge in 3Q25",
+      "summary": "Automotive market challenges are being balanced out by demand for AI servers, with Eikei experiencing a surge in orders for liquid cooling boards in the US in 3Q25. Eikei chairman mentioned that the impact of tariffs and exchange rates has lessened, leading to stabilization in customer orders.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-19T11:48:32Z",
+      "url": "https://www.digitimes.com/news/a20250717PD229/market-liquid-cooling-chairman-growth-2025.html"
+    },
+    {
+      "id": 52,
+      "title": "Forward Science's AI-powered vacuum systems win major orders from PSMC, Macronix",
+      "summary": "Forward Science's AI-powered vacuum systems win major orders from PSMC, Macronix - Taiwan's Forward Science Corp. (Forwardtek) introduces new V-pro smart vacuum pump and EcoNanoPur energy-saving system with AI diagnostics and predictive maintenance.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:47:42Z",
+      "url": "https://www.digitimes.com/news/a20250717PD231/taiwan-vacuum-pump-supplier-macronix-international-psmc.html"
+    },
+    {
+      "id": 53,
+      "title": "SK Hynix retreats from China, pivots to homegrown DRAM growth",
+      "summary": "SK Hynix is shifting its focus to domestic semiconductor production due to US export controls and geopolitical tensions, expanding its fabs in Icheon and Cheo.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-19T11:46:59Z",
+      "url": "https://www.digitimes.com/news/a20250716PD234/sk-hynix-dram-growth-production-hbm.html"
+    },
+    {
+      "id": 54,
+      "title": "Swiss Open: Cerundolo risponde al servizio di Buse",
+      "summary": "Juan Manuel Cerundolo of Argentina competes against Ignacio Buse of Peru in the semi final of the Swiss Open tennis tournament in Gstaad, Switzerland, showcasing the application of AI in sports",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T11:40:36Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/swiss-open-cerundolo-risponde-al-servizio-di-buse_8d32314f-74a8-41ed-8458-3ad483e6ac2c.html"
+    },
+    {
+      "id": 55,
+      "title": "Tadej Pogacar alla 14/ma tappa del Tour de France",
+      "summary": "Slovenian rider Tadej Pogacar won the 14th stage of the Tour de France, maintaining his position as the overall leader in the Yellow Jersey. The advancement of technology in cycling and sports performance, such as the use of AI and data analytics, continues to play a significant role in optimizing athlete performance.",
+      "source": "ANSA.it",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:40:33Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/tadej-pogacar-alla-14ma-tappa-del-tour-de-france_4861f5f9-3cd6-4093-be0f-905c1992b999.html"
+    },
     {
       "id": 51,
       "title": "I Dandy Warhols si esibiscono al Campus Festival in Ungheria",
@@ -405,51 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-19T10:30:00Z",
       "url": "https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/"
-    },
-    {
-      "id": 62,
-      "title": "I'm an avid traveler and finally found a useful way to use ChatGPT to plan my trips that saves me hours",
-      "summary": "A traveler found a useful way to use ChatGPT to plan trips, saving hours in background reading. ChatGPT was used to help plan a trip to Door County, Wisconsin.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:28:02Z",
-      "url": "https://www.businessinsider.com/travel-chatgpt-use-case-plan-trips-saves-hours-2025-7"
-    },
-    {
-      "id": 63,
-      "title": "NVIDIA’s CUDA Now Supports RISC-V Processors in AI Systems, Marking a Major Development & Posing a Threat to the x86 and ARM Duopoly",
-      "summary": "NVIDIA's CUDA now supports RISC-V processors in AI systems, expanding the platform's capabilities and posing a threat to the x86 and ARM duopoly.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:27:37Z",
-      "url": "https://wccftech.com/nvidias-cuda-now-supports-risc-v-processors-in-ai-systems/"
-    },
-    {
-      "id": 64,
-      "title": "Breaking up cybercrime gangs is helping save the planet, incredibly",
-      "summary": "Breaking up cybercrime gangs has resulted in the removal of up to 10k tCO₂e in emissions, which is helping save the planet according to a report.",
-      "source": "TechRadar",
-      "category": "research",
-      "timestamp": "2025-07-19T10:25:00Z",
-      "url": "https://www.techradar.com/pro/security/breaking-up-cybercrime-gangs-is-helping-save-the-planet-incredibly"
-    },
-    {
-      "id": 65,
-      "title": "evolvishub-alerting added to PyPI",
-      "summary": "evolvishub-alerting added to PyPI - A comprehensive, professional asynchronous multi-channel alerting library for Python applications",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:22:18Z",
-      "url": "https://pypi.org/project/evolvishub-alerting/"
-    },
-    {
-      "id": 51,
-      "title": "MotoGP Czech GP: Bagnaia shocks to take first pole of 2025",
-      "summary": "The MotoGP Czech GP qualifying session saw Francesco Bagnaia secure his first pole position of the 2025 season, providing excitement and drama for fans.",
-      "source": "autosport.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:12:57Z",
-      "url": "https://www.autosport.com/motogp/news/motogp-czech-gp-francesco-bagnaia-shocks-with-first-pole-position-of-2025-/10743331/"
     }
   ]
 }
