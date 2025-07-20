@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-20T17:33:31.398Z",
+  "lastUpdate": "2025-07-20T17:51:21.517Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Energy Fuels (UUUU) Jumps 41.8% on Rare Earth Boom Ride",
+      "summary": "Energy Fuels (UUUU) Jumps 41.8% on Rare Earth Boom Ride",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:50:49Z",
+      "url": "https://finance.yahoo.com/news/energy-fuels-uuuu-jumps-41-175049359.html"
+    },
+    {
+      "id": 52,
+      "title": "Perplexity AI’s Valuation Soars to $18B as Investors Rush for the AI Boom",
+      "summary": "Perplexity AI's valuation has reached $18B as investors show strong interest in the AI sector.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-19T17:48:56Z",
+      "url": "https://biztoc.com/x/19634461103aa27b"
+    },
+    {
+      "id": 53,
+      "title": "Two Hospitalized in Illinois Train Derailment",
+      "summary": "A train derailment in Illinois caused a chemical leak and sent two rail workers to the hospital. Norfolk Southern reported that 24 cars derailed, with two of them damaged.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:48:51Z",
+      "url": "https://biztoc.com/x/08c6887dfe4c59a8"
+    },
+    {
+      "id": 54,
+      "title": "aiwand 0.4.8",
+      "summary": "aiwand 0.4.8 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:47:17Z",
+      "url": "https://pypi.org/project/aiwand/0.4.8/"
+    },
+    {
+      "id": 55,
+      "title": "Joby Aviation (JOBY) Soars 48% on Aggressive Expansion",
+      "summary": "Joby Aviation (JOBY) Soars 48% on Aggressive Expansion",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-19T17:36:16Z",
+      "url": "https://finance.yahoo.com/news/joby-aviation-joby-soars-48-173616652.html"
+    },
+    {
+      "id": 56,
+      "title": "Pavlo Rudy: Clear Linux - In Memoriam",
+      "summary": "Intel closed another open source project, Clear Linux OS, which raises concerns about big corporations getting rid of open source initiatives.",
+      "source": "Nixsanctuary.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T17:35:47Z",
+      "url": "https://nixsanctuary.com/clear-linux-in-memoriam/"
+    },
     {
       "id": 51,
       "title": "Nearly 2 million people watched this spellbinding video of a mini PC being built from a slab of aluminium to a complete computer",
@@ -396,60 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-19T16:29:53Z",
       "url": "https://biztoc.com/x/d98cf08038bc7ceb"
-    },
-    {
-      "id": 63,
-      "title": "New Research Into Cocaine's Damaging Effects on the Heart",
-      "summary": "New research shows that cocaine's damaging effects on the heart are worsened when used with alcohol, increasing the risk of life-threatening cardiovascular damage.",
-      "source": "Psychology Today",
-      "category": "research",
-      "timestamp": "2025-07-19T16:26:49Z",
-      "url": "https://www.psychologytoday.com/us/blog/addiction-outlook/202507/new-research-into-cocaines-damaging-effects-on-the-heart"
-    },
-    {
-      "id": 64,
-      "title": "Iron Man #10 Preview: Man vs. Monger",
-      "summary": "AI-related news in a comic book preview where an AI overlord replaces a human writer raises ethical questions about AI taking over creative roles.",
-      "source": "Bleeding Cool News",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:26:03Z",
-      "url": "https://bleedingcool.com/comics/iron-man-10-preview-man-vs-monger/"
-    },
-    {
-      "id": 65,
-      "title": "Microsoft buys more than a billion dollars’ worth of excrement, including human poop — company will pump waste underground to offset AI carbon emissions",
-      "summary": "Microsoft purchases over a billion dollars' worth of waste to offset AI carbon emissions by sequestering 4.9 million metric tons underground.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:25:49Z",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-buys-more-than-a-billion-dollars-worth-of-excrement-including-human-poop-company-will-pump-waste-underground-to-offset-ai-carbon-emissions"
-    },
-    {
-      "id": 66,
-      "title": "Everything we know about the Google Pixel 10 series so far",
-      "summary": "Rumors and speculations about the Google Pixel 10 series ahead of its debut on August 20.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:22:01Z",
-      "url": "https://www.neowin.net/news/everything-we-know-about-the-google-pixel-10-series-so-far/"
-    },
-    {
-      "id": 51,
-      "title": "A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips",
-      "summary": "A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips - This is the DIY project to end all DIY projects.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:14:03Z",
-      "url": "https://www.pcgamer.com/hardware/a-diy-mad-scientist-from-poland-built-his-own-cpu-out-of-dozens-of-ancient-memory-chips/"
-    },
-    {
-      "id": 52,
-      "title": "Despite \"Very Positive\" Steam Reviews, This Open-World Game Has One Glaring Problem Players Can't Ignore",
-      "summary": "Despite positive reviews, an open-world game is facing criticism for its endgame grind, reflecting challenges in game design and player engagement.",
-      "source": "Screen Rant",
-      "category": "applications",
-      "timestamp": "2025-07-19T16:10:21Z",
-      "url": "https://screenrant.com/dune-awakening-endgame-content-problem/"
     }
   ]
 }
