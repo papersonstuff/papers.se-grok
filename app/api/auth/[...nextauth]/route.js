@@ -4,9 +4,9 @@ import { SupabaseAdapter } from '@auth/supabase-adapter';
 
 export const authOptions = {
   adapter: SupabaseAdapter({
-    url: process.env.NEXT_PUBLIC_SUPABASE_URL,
-    secret: process.env.SUPABASE_SERVICE_ROLE_KEY,
-    schema: 'next_auth',  // Explicitly set to use the new schema
+    supabaseUrl: process.env.NEXT_PUBLIC_SUPABASE_URL,
+    supabaseKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
+    schema: 'next_auth',  // Keep this as it fixes the earlier schema error
   }),
   providers: [
     EmailProvider({
