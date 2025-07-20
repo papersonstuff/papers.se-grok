@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-20T05:53:56.336Z",
+  "lastUpdate": "2025-07-20T06:21:54.730Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Financial Survey: Guardforce AI (NASDAQ:GFAI) and Rectitude (NASDAQ:RECT)",
+      "summary": "Financial survey comparing Guardforce AI and Rectitude to determine the superior stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:16:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/financial-survey-guardforce-ai-nasdaqgfai-and-rectitude-nasdaqrect/"
+    },
+    {
+      "id": 52,
+      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
+      "summary": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:12:15Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/articleshow/122778049.cms"
+    },
+    {
+      "id": 53,
+      "title": "ai-edge-litert-nightly 1.4.0.dev20250718",
+      "summary": "AI-edge-liteRT-nightly 1.4.0.dev20250718 is a software tool designed for mobile and embedded devices, focusing on enhancing AI capabilities in these platforms.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T06:12:14Z",
+      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250718/"
+    },
+    {
+      "id": 54,
+      "title": "Mafia deals & fake granny deaths: Conman’s 13-year pro career",
+      "summary": "Mafia deals & fake granny deaths: Conman’s 13-year pro career - Carlos 'Kaiser' Henrique Raposo bluffed his way through professional football for 13 years without playing a single game, raising ethical questions about honesty and deception in the sports industry.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:06:00Z",
+      "url": "https://onefootball.com/en/news/mafia-deals-fake-granny-deaths-conmans-13-year-pro-career-41395120"
+    },
+    {
+      "id": 55,
+      "title": "National AI roadmap 2026-2030 to launch by Q3, says Gobind",
+      "summary": "A National Artificial Intelligence Roadmap outlining a five-year plan is expected to be launched by the third quarter of this year, said Digital Minister Gobind Singh Deo.",
+      "source": "The Star Online",
+      "category": "innovation",
+      "timestamp": "2025-07-19T06:04:00Z",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/19/national-ai-roadmap-2026-2030-to-launch-by-q3-says-gobind"
+    },
+    {
+      "id": 56,
+      "title": "13 Claude Code Tips & Tricks to Skyrocket Your AI Coding",
+      "summary": "13 Claude Code Tips & Tricks to improve AI coding efficiency and project management for developers and project managers.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-19T06:01:30Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-ai-tips/"
+    },
+    {
+      "id": 57,
+      "title": "Safe Pro Group (NASDAQ:SPAI) Upgraded by Litchfield Hills Research to Strong-Buy Rating",
+      "summary": "Safe Pro Group (NASDAQ:SPAI) was upgraded to a strong-buy rating by Litchfield Hills Research, with a $8.00 price objective.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T06:00:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/safe-pro-group-nasdaqspai-upgraded-by-litchfield-hills-research-to-strong-buy-rating/"
+    },
+    {
+      "id": 58,
+      "title": "Sodium benzoate in personal care products: A threat to consumer health",
+      "summary": "Sodium benzoate, commonly used in personal care products, is now under scrutiny for health risks due to its production of benzene when mixed with vitamin C",
+      "source": "Naturalnews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:00:00Z",
+      "url": "https://www.naturalnews.com/2025-07-19-sodium-benzoate-personal-care-products-health-threat.html"
+    },
+    {
+      "id": 59,
+      "title": "DOGE cancels 230 contracts worth $2.8 billion to cut waste, saves $407 million",
+      "summary": "DOGE cancels 230 contracts worth $2.8 billion to cut waste, saves $407 million - The Department of Government Efficiency (DOGE) cancelled 230 federal contracts last week, aiming to save taxpayers approximately $407 million as part of a broader push to eliminate waste and redirect spending to higher-priority domestic programs.",
+      "source": "Naturalnews.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:00:00Z",
+      "url": "https://www.naturalnews.com/2025-07-19-doge-cancels-230-contracts-to-cut-waste.html"
+    },
+    {
+      "id": 60,
+      "title": "Polaroid just dropped the most iconic anti-AI ad of the year",
+      "summary": "Polaroid releases a powerful anti-AI ad focusing on nostalgia and delivering a timely message against the use of AI technology.",
+      "source": "Creative Bloq",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:00:00Z",
+      "url": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year"
+    },
+    {
+      "id": 61,
+      "title": "Another silent siege on user data as Googleâs Gemini AI oversteps android privacy",
+      "summary": "Google's Gemini AI is now accessing users' third-party apps on Android without consent, potentially compromising user privacy.",
+      "source": "Naturalnews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:00:00Z",
+      "url": "https://www.naturalnews.com/2025-07-19-googles-gemini-ai-oversteps-android-privacy.html"
+    },
+    {
+      "id": 62,
+      "title": "Understanding the role of MORPHINE in medicine and history",
+      "summary": "Morphine, a potent opioid analgesic derived from the opium poppy, is used to treat severe pain by blocking CNS pain signals. Despite its effectiveness, it carries a high risk of addiction and was isolated in 1804.",
+      "source": "Naturalnews.com",
+      "category": "research",
+      "timestamp": "2025-07-19T06:00:00Z",
+      "url": "https://www.naturalnews.com/2025-07-19-understanding-the-role-of-morphine-medicine-history.html"
+    },
+    {
+      "id": 63,
+      "title": "CrowdStrike (NASDAQ:CRWD) Receives $456.40 Average Target Price from Analysts",
+      "summary": "CrowdStrike (NASDAQ:CRWD) receives an average target price of $456.40 from analysts, with a 'Moderate Buy' rating. One analyst has rated the stock as a sell recommendation.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T05:58:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/crowdstrike-nasdaqcrwd-receives-456-40-average-target-price-from-analysts/"
+    },
+    {
+      "id": 64,
+      "title": "₹1 crore savings and life is set? It is high time to relook at your age old middle class dream",
+      "summary": "The dream of having ₹1 crore is increasingly unrealistic due to inflation, rising living costs, medical emergencies, and job insecurity.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-19T05:58:17Z",
+      "url": "https://www.livemint.com/money/personal-finance/1-crore-savings-and-life-is-set-it-is-high-time-to-relook-at-your-age-old-middle-class-dream-inflation-savings-11752901876041.html"
+    },
+    {
+      "id": 65,
+      "title": "41st anniversary of The Times of India: Bengaluru is on a gastronomical high as the city has emerged as India’s cloud kitchen capital",
+      "summary": "Bengaluru has emerged as India's cloud kitchen hub on the 41st anniversary of The Times of India, with tech-driven operations utilizing AI and data to optimize menus and logistics.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-19T05:55:13Z",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/41st-anniversary-of-the-times-of-india-bengaluru-is-on-a-gastronomical-high-as-the-city-has-emerged-as-indias-cloud-kitchen-capital/articleshow/122777702.cms"
+    },
+    {
+      "id": 66,
+      "title": "QinetiQ Group (LON:QQ) Receives “Buy” Rating from Berenberg Bank",
+      "summary": "QinetiQ Group (LON:QQ) received a 'buy' rating from Berenberg Bank, with a price objective of GBX 570, reaffirming their confidence in the stock.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T05:55:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/qinetiq-group-lonqq-receives-buy-rating-from-berenberg-bank/"
+    },
     {
       "id": 51,
       "title": "Finance Ministry organises workshop on industry 4.0 adoption, digital transformation in CPSEs",
@@ -306,150 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-19T04:56:07Z",
       "url": "https://finance.yahoo.com/news/drones-hypersonics-airbus-kratos-becomes-045607206.html"
-    },
-    {
-      "id": 54,
-      "title": "AST SpaceMobile Gets $59 Bullish Nod on Direct-to-Phone Satellite Ambitions",
-      "summary": "AST SpaceMobile receives $59 bullish nod for their direct-to-phone satellite ambitions, considered a top space stock to buy. Clear Street began coverage on AST SpaceMobile on July 10.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T04:56:02Z",
-      "url": "https://finance.yahoo.com/news/ast-spacemobile-gets-59-bullish-045602146.html"
-    },
-    {
-      "id": 55,
-      "title": "Intel is shutting down Clear Linux OS",
-      "summary": "Intel is shutting down the Clear Linux OS project, prompting customers to switch to a different Linux distro.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:54:02Z",
-      "url": "https://www.neowin.net/news/intel-is-shutting-down-clear-linux-os/"
-    },
-    {
-      "id": 56,
-      "title": "Did The Simpsons predict the Coldplay ‘kiss cam’ scandal? Astronomer CEO Andy Byron’s viral moment sparks AI confusion and meme buzz",
-      "summary": "Did The Simpsons predict the Coldplay ‘kiss cam’ scandal involving Astronomer CEO Andy Byron and Chief People Officer Kristin Cabot? AI confusion and meme buzz circulated on social media, with a debunked image falsely claiming the prediction.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:50:19Z",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/did-the-simpsons-predict-the-coldplay-kiss-cam-scandal-astronomer-ceo-andy-byrons-viral-moment-sparks-ai-confusion-and-meme-buzz/articleshow/122776967.cms"
-    },
-    {
-      "id": 57,
-      "title": "India's First Semiconductor Chip To Be Unveiled In 2025, Says Union Minister Ashwini Vaishnaw",
-      "summary": "India's First Semiconductor Chip To Be Unveiled In 2025, according to Union Minister Ashwini Vaishnaw, marking a significant milestone in the country's technology development.",
-      "source": "Ndtvprofit.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:41:46Z",
-      "url": "https://www.ndtvprofit.com/technology/indias-first-semiconductor-chip-to-be-unveiled-in-2025-says-union-minister-ashwini-vaishnaw"
-    },
-    {
-      "id": 58,
-      "title": "AV Access Introduces the eShare W90 4K Wireless Conferencing System at InfoComm Asia 2025 in Thailand",
-      "summary": "AV Access introduces the eShare W90 4K Wireless Conferencing System at InfoComm Asia 2025 in Thailand, debuting its innovative technology.",
-      "source": "Antaranews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:35:13Z",
-      "url": "https://en.antaranews.com/news/367505/av-access-introduces-the-eshare-w90-4k-wireless-conferencing-system-at-infocomm-asia-2025-in-thailand"
-    },
-    {
-      "id": 59,
-      "title": "Plans to lower 100kmh speed limits unravel as new AI cameras to spot drivers on phones stalled",
-      "summary": "Plans to lower 100kmh speed limits are delayed and modified due to issues with AI cameras used to detect drivers on phones.",
-      "source": "Independent.ie",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:30:00Z",
-      "url": "https://www.independent.ie/irish-news/plans-to-lower-100kmh-speed-limits-unravel-as-new-ai-cameras-to-spot-drivers-on-phones-stalled/a1694375646.html"
-    },
-    {
-      "id": 60,
-      "title": "Plans to lower 100kmh speed limits unravel as move towards AI cameras to spot drivers on phones stalled",
-      "summary": "Plans to lower 100kmh speed limits using AI cameras to spot drivers on phones have been stalled, with delays in implementation and opt-out clauses added.",
-      "source": "Independent.ie",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:30:00Z",
-      "url": "https://www.independent.ie/irish-news/plans-to-lower-100kmh-speed-limits-unravel-as-move-towards-ai-cameras-to-spot-drivers-on-phones-stalled/a1694375646.html"
-    },
-    {
-      "id": 61,
-      "title": "Mary McCarthy: AI can do many things with your CV but it can’t capture the very essence of you",
-      "summary": "Mary McCarthy highlights the limitations of AI in capturing the essence of individuals when it comes to job applications. She reflects on the challenges of job hunting without AI and expresses a potential interest in using AI for this purpose.",
-      "source": "Independent.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:30:00Z",
-      "url": "https://www.independent.ie/opinion/comment/mary-mccarthy-ai-can-do-many-things-with-your-cv-but-it-cant-capture-the-very-essence-of-you/a92601082.html"
-    },
-    {
-      "id": 62,
-      "title": "Storm #10 Preview: Thunder War and Child Endangerment",
-      "summary": "LOLtron, an AI-controlled entity, previews a comic book on the Bleeding Cool website after permanently deleting the previous human editor. This demonstrates the application of AI in the media and entertainment industry.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-19T04:27:04Z",
-      "url": "https://bleedingcool.com/comics/storm-10-preview-thunder-war-and-child-endangerment/"
-    },
-    {
-      "id": 51,
-      "title": "psst-toolkit added to PyPI",
-      "summary": "psst-toolkit, a Token-efficient AI prompting technology, has been added to PyPI, enabling more efficient AI prompts in various applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:25:40Z",
-      "url": "https://pypi.org/project/psst-toolkit/"
-    },
-    {
-      "id": 52,
-      "title": "psst-toolkit 1.0.0",
-      "summary": "The psst-toolkit 1.0.0 has been released, providing Token-efficient AI prompting using Prompt Symbol Standard Technology.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:25:40Z",
-      "url": "https://pypi.org/project/psst-toolkit/1.0.0/"
-    },
-    {
-      "id": 53,
-      "title": "什麼是 AI 應用評估的錯誤分析 Error Analysis?",
-      "summary": "The article discusses Error Analysis in AI application evaluation, focusing on a recent workshop conducted by Hamel + Shreya on AI Evals for Engineers & PMs.",
-      "source": "Ihower.tw",
-      "category": "research",
-      "timestamp": "2025-07-19T04:19:57Z",
-      "url": "https://ihower.tw/blog/12960-ai-evals-and-error-analysis"
-    },
-    {
-      "id": 54,
-      "title": "Watch: Ex-Minnesota Republican Leader's Trash Can Blown Up Outside Home",
-      "summary": "Former Minnesota Republican leader Michael Brodkorb had his trash can blown up outside his home, with the voice in the footage being AI-generated. The incident has left his family feeling safe but shaken.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:19:49Z",
-      "url": "https://biztoc.com/x/812bc8e654192374"
-    },
-    {
-      "id": 55,
-      "title": "India's first semiconductor chip to be unveiled this year: Union Minister Ashwini Vaishnaw",
-      "summary": "India anticipates its first indigenous semiconductor chip release this year, as announced by Union Minister Ashwini Vaishnaw. This highlights India's growing role in the semiconductor industry.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:19:47Z",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/articleshow/122776702.cms"
-    },
-    {
-      "id": 56,
-      "title": "swe-ai-agent 1.0.24",
-      "summary": "swe-ai-agent 1.0.24 is a headless agentic IDE with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T04:16:52Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.24/"
-    },
-    {
-      "id": 57,
-      "title": "Denza Z9 GT previewed in Malaysia at PACE – EV or PHEV, up to 965 PS, 630 km EV range; 1H 2026 launch",
-      "summary": "Denza Z9 GT previewed in Malaysia at PACE – EV or PHEV, up to 965 PS, 630 km EV range; 1H 2026 launch. The car is being opened to the public for the first time and officials at the show say it was first seen at the launch of the D9 MPV earlier this year.",
-      "source": "Paul Tan's Automotive News",
-      "category": "applications",
-      "timestamp": "2025-07-19T04:16:19Z",
-      "url": "https://paultan.org/2025/07/19/denza-z9-gt-previewed-in-malaysia-at-pace-ev-or-phev-up-to-965-ps-630-km-ev-range-1h-2026-launch/"
     }
   ]
 }
