@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-20T19:26:50.152Z",
+  "lastUpdate": "2025-07-20T19:37:47.750Z",
   "items": [
+    {
+      "id": 51,
+      "title": " Vasco and Grêmio line up for Brasileirão showdown",
+      "summary": "Vasco and Grêmio will face off in a tense match on Saturday, playing at São Januário in the 15th round of Brasileirão.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:37:00Z",
+      "url": "https://onefootball.com/en/news/vasco-and-gremio-line-up-for-brasileirao-showdown-41397803"
+    },
+    {
+      "id": 52,
+      "title": "Andy Byron Resigns as Astronomer CEO Following Coldplay Concert 'Affair' Scandal",
+      "summary": "Andy Byron resigns as Astronomer CEO following scandal involving cozy behavior with another executive at a Coldplay concert.",
+      "source": "Just Jared",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:36:19Z",
+      "url": "https://www.justjared.com/2025/07/19/andy-byron-resigns-as-astronomer-ceo-following-coldplay-concert-affair-scandal/"
+    },
+    {
+      "id": 53,
+      "title": "Google Pixel Watch 4 vs. Pixel Watch 3: Finally in true flagship territory?",
+      "summary": "Google Pixel Watch 4 vs. Pixel Watch 3: Will the upcoming Pixel Watch 4 improve upon the shortcomings of the Pixel Watch 3 in the Wear OS smartwatch market?",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:35:02Z",
+      "url": "https://www.androidcentral.com/wearables/google-pixel-watch/google-pixel-watch-4-vs-pixel-watch-3"
+    },
+    {
+      "id": 54,
+      "title": "The Collapse of AI",
+      "summary": "AI has real potential, similar to the internet in the '90s, but there are concerns about a potential collapse similar to the dot-com crash.",
+      "source": "The Portland Mercury",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:35:00Z",
+      "url": "https://www.portlandmercury.com/i-anonymous/2025/07/19/47932057/the-collapse-of-ai"
+    },
+    {
+      "id": 55,
+      "title": "Astronomer CEO Andy Byron resigns after viral Coldplay kiss-cam controversy",
+      "summary": "Astronomer CEO Andy Byron resigns following a viral Coldplay kiss-cam controversy, one day after being placed on leave by the company.",
+      "source": "CNBC",
+      "category": "startups",
+      "timestamp": "2025-07-19T19:34:40Z",
+      "url": "https://www.cnbc.com/2025/07/19/astronomer-ceo-andy-byron-resigns-after-viral-coldplay-kiss-cam-controversy.html"
+    },
+    {
+      "id": 56,
+      "title": " France v Germany: bizarre red card shown to the German team ",
+      "summary": "France v Germany: bizarre red card shown to the German team - Marc Cucurella approves this decision during the Euro quarter-finals match.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:34:00Z",
+      "url": "https://onefootball.com/en/news/france-v-germany-bizarre-red-card-shown-to-the-german-team-41397785"
+    },
+    {
+      "id": 57,
+      "title": "CEO Andy Byron from viral Coldplay concert video resigns from role at company",
+      "summary": "CEO Andy Byron from viral Coldplay concert video resigns from role at company - Andy Byron, the CEO who went viral this week for being seen with 'another woman' at a Coldplay concert, has resigned from his role at Astronomer",
+      "source": "LADbible",
+      "category": "startups",
+      "timestamp": "2025-07-19T19:32:02Z",
+      "url": "https://www.ladbible.com/news/us-news/andy-byron-coldplay-video-astronomer-ceo-resigns-876609-20250719"
+    },
+    {
+      "id": 58,
+      "title": "Eureka J15 Pro Ultra robot review: Ramp climbing master of vacuum and mopping",
+      "summary": "Eureka J15 Pro Ultra robot is a high-end vacuum and mopping robot that offers premium features at a competitive price, making it a strong competitor in the market.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:30:01Z",
+      "url": "https://www.neowin.net/reviews/eureka-j15-pro-ultra-robot-review-ramp-climbing-master-of-vacuum-and-mopping/"
+    },
+    {
+      "id": 59,
+      "title": "AIXA Miner, Cloud Mining Platform Emerges as Key Trend Amid 2025 Blockchain Infrastructure Investments",
+      "summary": "AIXA Miner, Cloud Mining Platform Emerges as Key Trend Amid 2025 Blockchain Infrastructure Investments",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118278/0/en/AIXA-Miner-Cloud-Mining-Platform-Emerges-as-Key-Trend-Amid-2025-Blockchain-Infrastructure-Investments.html"
+    },
+    {
+      "id": 60,
+      "title": "Is the iPhone 17 Pro Going to Be Big and Orange? We Rounded Up the Rumors",
+      "summary": "The iPhone 17 Pro rumors suggest it may have an upgraded display and better camera, potentially leading to innovation in smartphone technology.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:27:00Z",
+      "url": "https://www.cnet.com/tech/mobile/is-the-iphone-17-pro-going-to-be-big-and-orange-we-rounded-up-the-rumors/"
+    },
     {
       "id": 51,
       "title": "Justice League Unlimited #9 Preview: Apocalypse or Apokolips?",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T18:22:27Z",
       "url": "https://snackprompt.com"
-    },
-    {
-      "id": 64,
-      "title": "Invesco (IVZ) Climbs on 3rd Day on Expected Multi-Million Dollar Profit from ETF",
-      "summary": "Invesco (IVZ) climbs on 3rd day on expected multi-million dollar profit from ETF.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T18:22:16Z",
-      "url": "https://finance.yahoo.com/news/invesco-ivz-climbs-3rd-day-182216656.html"
-    },
-    {
-      "id": 51,
-      "title": "wyrmx-cli 1.0.79",
-      "summary": "wyrmx-cli 1.0.79 is the official command-line interface for Wyrmx, a fast AI-enhanced web framework built on FastAPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T18:16:54Z",
-      "url": "https://pypi.org/project/wyrmx-cli/1.0.79/"
-    },
-    {
-      "id": 52,
-      "title": "Psychiatric Researchers Warn of Grim Psychological Risks for AI Users",
-      "summary": "Psychiatric researchers warn of grim psychological risks for AI users due to the impact of artificial intelligence on the human brain.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-19T18:15:54Z",
-      "url": "https://futurism.com/pyschiatric-researchers-risk-ai"
-    },
-    {
-      "id": 53,
-      "title": "MCP Security Vulnerabilities and Attack Vectors",
-      "summary": "MCP Security Vulnerabilities and Attack Vectors - Found some concerning security patterns in MCP implementations. Here's what I've been seeing and why you should care.",
-      "source": "Forgecode.dev",
-      "category": "research",
-      "timestamp": "2025-07-19T18:14:19Z",
-      "url": "https://forgecode.dev/blog/prevent-attacks-on-mcp"
-    },
-    {
-      "id": 54,
-      "title": "SharpLink (SBET) Soars 33.86% on ETH Leadership",
-      "summary": "SharpLink (SBET) Soars 33.86% on ETH Leadership, making it one of the biggest players this week.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T18:14:09Z",
-      "url": "https://finance.yahoo.com/news/sharplink-sbet-soars-33-86-181409747.html"
-    },
-    {
-      "id": 55,
-      "title": "Astronomer CEO Andy Byron-HR Head Kristin Cabot Coldplay concert cheating row: Here's how Facebook, Instagram, X are playing gigantic surveillance system",
-      "summary": "Facebook, Instagram, and X implicated in surveillance scandal involving cheating at Coldplay concert",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T18:12:36Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-ceo-andy-byron-hr-head-kristin-cabot-coldplay-concert-cheating-row-heres-how-facebook-instagram-x-are-playing-gigantic-surveillance-system/articleshow/122786696.cms"
-    },
-    {
-      "id": 56,
-      "title": "NuScale (SMR) Surges 34% W/W on Fuel Cell, AI Boom",
-      "summary": "NuScale (SMR) surges 34% week over week on fuel cell, AI boom, making it one of the biggest players this week.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-19T18:11:14Z",
-      "url": "https://finance.yahoo.com/news/nuscale-smr-surges-34-w-181114686.html"
-    },
-    {
-      "id": 57,
-      "title": "Analysts Compare BlockDAG’s Current Trajectory to Solana’s Early Growth Cycle",
-      "summary": "Analysts compare BlockDAG’s trajectory to Solana's early growth cycle, emphasizing the importance of delivering speed, low fees, and a developer-friendly setup at scale. Investors who recognized Solana's potential early on benefitted significantly. In 2025, BlockDAG may follow a similar path of growth.",
-      "source": "ZyCrypto",
-      "category": "startups",
-      "timestamp": "2025-07-19T18:09:20Z",
-      "url": "https://zycrypto.com/analysts-compare-blockdags-current-trajectory-to-solanas-early-growth-cycle/"
-    },
-    {
-      "id": 58,
-      "title": "Luminar Neo 1.24.6",
-      "summary": "Luminar Neo 1.24.6 is an AI-driven creative image editor that simplifies the process of bringing ideas to life through innovative image editing powered by AI technologies.",
-      "source": "Rlsbb.cc",
-      "category": "applications",
-      "timestamp": "2025-07-19T18:08:04Z",
-      "url": "https://post.rlsbb.cc/luminar-neo-1-24-6/"
-    },
-    {
-      "id": 59,
-      "title": "The Repurposing Playbook: 5 Anchor Formats That Fuel 50+ Pieces of Content | Your Digital Marketing Coach with Neal Schaffer",
-      "summary": "The Repurposing Playbook provides a framework for creating 50+ pieces of content from 5 anchor formats, emphasizing the importance of repurposing content for increased value and reach in digital marketing.",
-      "source": "Nealschaffer.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T18:05:45Z",
-      "url": "https://podcast.nealschaffer.com/episode/the-repurposing-playbook-5-anchor-formats-that-fuel-50-pieces-of-content?ref=quuu"
     }
   ]
 }
