@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-20T19:49:09.407Z",
+  "lastUpdate": "2025-07-20T20:17:15.463Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The CEO caught hugging his HR chief at a Coldplay show has resigned after being placed on leave amid an investigation",
+      "summary": "The CEO resigns after being caught hugging the HR chief at a Coldplay show, following an investigation. Interim CEO will lead while the board searches for a new Chief Executive.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-19T20:14:54Z",
+      "url": "https://fortune.com/2025/07/19/astronomer-ceo-hugging-coldplay/"
+    },
+    {
+      "id": 52,
+      "title": "I asked Alexa Plus to tackle my to-do list — it mostly failed",
+      "summary": "Amazon's new Alexa Plus is making it easier for users to add items to their to-do list using natural language, eliminating the need for precise phrasing. Despite some failures, the voice assistant has shown potential in understanding various speech patterns.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-19T20:13:50Z",
+      "url": "https://www.theverge.com/hands-on/710035/amazon-alexa-plus-ai-agent-features-hands-on"
+    },
+    {
+      "id": 53,
+      "title": "Astronomer CEO Andy Byron Resigns After Coldplay 'Kiss Cam' Scandal",
+      "summary": "Astronomer CEO Andy Byron resigns after scandal involving physical contact with colleague at Coldplay concert.",
+      "source": "Breitbart News",
+      "category": "ethics",
+      "timestamp": "2025-07-19T20:13:34Z",
+      "url": "https://www.breitbart.com/entertainment/2025/07/19/astronomer-ceo-andy-byron-resigns-after-coldplay-kiss-cam-scandal/"
+    },
+    {
+      "id": 54,
+      "title": "AI in health care could save lives and money — but not yet",
+      "summary": "AI in health care could save lives and money, but its growth will be gradual due to technical limitations and ethical concerns. The widespread adoption of AI by the medical industry may take some time.",
+      "source": "PBS",
+      "category": "innovation",
+      "timestamp": "2025-07-19T20:13:32Z",
+      "url": "https://www.pbs.org/newshour/science/ai-in-health-care-could-save-lives-and-money-but-not-yet"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: Chimera-QxD-BMM-Qwen2-l22_28-alphaqd-1.5B-f16",
+      "summary": "The article showcases a new AI model called Chimera-QxD-BMM-Qwen2-l22_28-alphaqd-1.5B-f16 and provides details on its architecture and capabilities. The model has gained some traction with 2 points on Hacker News but has not yet received any comments.",
+      "source": "Huggingface.co",
+      "category": "research",
+      "timestamp": "2025-07-19T20:06:29Z",
+      "url": "https://huggingface.co/daedalus2027/Chimera-QxD-BMM-Qwen2-l22_28-alphaqd-1.5b-f16"
+    },
+    {
+      "id": 56,
+      "title": "Meta Launches Oakley AI Glasses With 3K Video Recording",
+      "summary": "Meta Platforms Inc. is launching new Oakley AI glasses aimed at athletes, featuring improved video recording capabilities and based on Oakley’s HSTN design.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T20:04:34Z",
+      "url": "https://biztoc.com/x/3636828f451ed649"
+    },
+    {
+      "id": 57,
+      "title": "Meta Launches Oakley AI Glasses With 3K Video Recording",
+      "summary": "Meta Platforms Inc. launches Oakley AI Glasses with 3K video recording, targeting athletes and including improved video recording capabilities.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T20:04:34Z",
+      "url": "https://biztoc.com/x/3636828f451ed649"
+    },
+    {
+      "id": 58,
+      "title": "crystalyse-ai 1.0.1",
+      "summary": "CrystaLyse.AI has released version 1.0.1, focusing on autonomous AI agents for accelerated inorganic materials design using natural language interfaces.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T20:01:51Z",
+      "url": "https://pypi.org/project/crystalyse-ai/1.0.1/"
+    },
+    {
+      "id": 59,
+      "title": "aiwand 0.4.12",
+      "summary": "aiwand 0.4.12 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T20:01:37Z",
+      "url": "https://pypi.org/project/aiwand/0.4.12/"
+    },
+    {
+      "id": 60,
+      "title": "Females twerking atop police car caught in the act with cruiser's dashcam. Now all 3 are ID'd — with a little help from AI.",
+      "summary": "Females caught twerking on top of a police car were identified with the help of AI analysis of the cruiser's dashcam footage.",
+      "source": "TheBlaze",
+      "category": "applications",
+      "timestamp": "2025-07-19T20:00:00Z",
+      "url": "https://www.theblaze.com/news/females-twerking-atop-police-car-caught-in-the-act-with-cruisers-dashcam-now-all-3-are-idd-with-a-little-help-from-ai"
+    },
+    {
+      "id": 61,
+      "title": "swe-ai-agent 1.0.32",
+      "summary": "The news is about the release of swe-ai-agent 1.0.32, a Headless Agentic IDE with comprehensive tool support for AI-related tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:58:09Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.32/"
+    },
+    {
+      "id": 62,
+      "title": "AMD RDNA 5 / UDNA GPUs Could Feature Up To 96 Compute Units (50% More Than Top RDNA 4) With 384-Bit Memory Bus, 64 & 32 CU Variants Also Mentioned",
+      "summary": "AMD's upcoming RDNA 5 / UDNA GPUs may feature up to 96 compute units, a significant increase from the top RDNA 4 GPUs. Rumors suggest that AMD is working on GPUs with 64 and 32 compute unit variants as well.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:55:21Z",
+      "url": "https://wccftech.com/amd-rdna-5-udna-gpus-up-to-96-compute-units-384-bit-memory-bus-64-32-cu-variants/"
+    },
+    {
+      "id": 63,
+      "title": "AMD RDNA 5 / UDNA GPUs Could Feature Up To 96 Compute Units (50% More Than Top RDNA 4) With 256-Bit Memory Bus, 64 & 32 CU Variants Also Mentioned",
+      "summary": "AMD's upcoming RDNA 5 / UDNA GPUs could potentially feature up to 96 compute units, a significant increase from RDNA 4, according to leaked information from Kepler_L2.",
+      "source": "Wccftech",
+      "category": "research",
+      "timestamp": "2025-07-19T19:55:21Z",
+      "url": "https://wccftech.com/amd-rdna-5-udna-gpus-up-to-96-compute-units-256-bit-memory-bus-64-32-cu-variants/"
+    },
+    {
+      "id": 64,
+      "title": "Astronomer CEO caught cuddling on concert Jumbotron with HR head resigns - Fox Business",
+      "summary": "Astronomer CEO resigns after being caught cuddling with HR head at Coldplay concert, raising ethical concerns.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:52:29Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178419426"
+    },
+    {
+      "id": 65,
+      "title": "crystalyse-ai added to PyPI",
+      "summary": "CrystaLyse.AI, an autonomous AI agent for accelerated inorganic materials design, has been added to PyPI. The platform allows for materials design through natural language interfaces.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T19:51:56Z",
+      "url": "https://pypi.org/project/crystalyse-ai/"
+    },
+    {
+      "id": 66,
+      "title": "crystalyse-ai 1.0.0",
+      "summary": "CrystaLyse.AI has developed autonomous AI agents for accelerating inorganic materials design using natural language interfaces.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:51:56Z",
+      "url": "https://pypi.org/project/crystalyse-ai/1.0.0/"
+    },
+    {
+      "id": 67,
+      "title": "aiwand 0.4.11",
+      "summary": "aiwand 0.4.11 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:50:49Z",
+      "url": "https://pypi.org/project/aiwand/0.4.11/"
+    },
     {
       "id": 51,
       "title": "RI Mining Unveils Free Cloud Mining Contracts, Riding the Momentum of the U.S. Genius Act",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T19:06:05Z",
       "url": "https://pypi.org/project/fleetfluid/0.1.1/"
-    },
-    {
-      "id": 59,
-      "title": "Astronomer CEO resigns after viral 'kiss cam' incident at Coldplay concert",
-      "summary": "Astronomer CEO resigns after viral 'kiss cam' incident at Coldplay concert, highlighting ethical concerns",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-19T19:04:47Z",
-      "url": "https://www.businessinsider.com/astronomer-ceo-andy-byron-resigns-viral-kiss-cam-incident-coldplay-2025-7"
-    },
-    {
-      "id": 60,
-      "title": "Quantum computing is so fire — No, seriously. BofA says it could be humanity’s biggest breakthrough since the discovery of fire",
-      "summary": "Bank of America predicts that quantum computing could be humanity's biggest breakthrough since the discovery of fire, allowing for endless complex calculations to be performed in zero-time and speeding up human knowledge and development.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-19T19:04:20Z",
-      "url": "https://finance.yahoo.com/news/quantum-computing-fire-no-seriously-190420811.html"
-    },
-    {
-      "id": 61,
-      "title": "Quantum computing is so fire — No, seriously. BofA says it could be humanity’s biggest breakthrough since the discovery of fire",
-      "summary": "Quantum computing could be humanity's biggest breakthrough since the discovery of fire, according to BofA, with the potential to warp-speed human knowledge and development by performing endless complex calculations in zero-time.",
-      "source": "Fortune",
-      "category": "innovation",
-      "timestamp": "2025-07-19T19:04:20Z",
-      "url": "https://fortune.com/2025/07/19/quantum-computing-discovery-fire-tech-breakthrough-humanity-revolution/"
-    },
-    {
-      "id": 62,
-      "title": "Civitai Blocking Access to the United Kingdom",
-      "summary": "Thanks to the Online Safety Act, UK is blocking access to Civitai, one of the world's largest AI resources, hindering the government's goal of becoming a software powerhouse.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-19T19:04:04Z",
-      "url": "https://slashdot.org/submission/17338042/civitai-blocking-access-to-the-united-kingdom"
-    },
-    {
-      "id": 63,
-      "title": "Astronomer CEO Andy Byron Resigns After Kiss Cam Affair Rumors",
-      "summary": "Astronomer CEO Andy Byron resigns following rumors of affair with employee, raising ethical concerns.",
-      "source": "Us Weekly",
-      "category": "ethics",
-      "timestamp": "2025-07-19T19:00:58Z",
-      "url": "https://www.usmagazine.com/celebrity-news/news/andy-byron-resigns-as-astronomer-ceo-amid-kiss-cam-affair-scandal/#article"
-    },
-    {
-      "id": 64,
-      "title": "Elon Musk’s latest blending of his business interests puts the Grok AI chatbot in all new Teslas—and raises questions around data and privacy",
-      "summary": "Elon Musk integrates Grok AI chatbot in new Teslas, sparking concerns about data privacy and potential use of vehicle data for training language models.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-19T19:00:47Z",
-      "url": "https://fortune.com/2025/07/19/elon-musk-tesla-xai-grok-mixes-business-interests-llm-training-data-privacy-questions/"
-    },
-    {
-      "id": 65,
-      "title": "Can your Apple Watch detect pregnancy?",
-      "summary": "Apple Watch and iPhone can detect pregnancy through AI analysis of movement patterns, sleep habits, and heart rate with remarkable accuracy.",
-      "source": "Fox News",
-      "category": "innovation",
-      "timestamp": "2025-07-19T19:00:35Z",
-      "url": "https://www.foxnews.com/tech/can-your-apple-watch-detect-pregnancy"
-    },
-    {
-      "id": 66,
-      "title": "Is the Harymor Q8 Smart Bird Feeder worth it? My mobile birdwatching experience",
-      "summary": "If you're stuck in your office all day, but want to admire nature as it comes in and out of your yard, check out the Harymor Q8 Smart Bird Feeder so you can watch your feathered friends from anywhere.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-19T19:00:01Z",
-      "url": "https://www.neowin.net/reviews/is-the-harymor-q8-smart-bird-feeder-worth-it-my-mobile-birdwatching-experience/"
-    },
-    {
-      "id": 67,
-      "title": "Alien: Isolation’s Xenomorph Is the Scariest Video Game Monster of All Time (And It’s Not Even Close)",
-      "summary": "The Xenomorph from Alien: Isolation is considered the scariest video game monster of all time, surpassing others in horror games. Despite playing numerous horror games, the xenomorph still stands out as the most terrifying monster encountered by the player.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T19:00:00Z",
-      "url": "http://comicbook.com/gaming/news/alien-isolation-xenomorph-scariest-video-game-monster/"
-    },
-    {
-      "id": 51,
-      "title": "Hits New All-Time High on 8th Day on Nuclear, AI Boom",
-      "summary": "NuScale Power Corporation (NYSE:SMR) hits new all-time high on 8th day in nuclear and AI boom, leading gains among top performers this week.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T18:45:37Z",
-      "url": "https://biztoc.com/x/2024b3106ac85152"
-    },
-    {
-      "id": 52,
-      "title": "swe-ai-agent 1.0.27",
-      "summary": "The release of SWE-AI-Agent 1.0.27 introduces a headless agentic IDE with comprehensive tool support for AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T18:43:59Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.27/"
-    },
-    {
-      "id": 53,
-      "title": "wyrmx-cli 1.0.80",
-      "summary": "wyrmx-cli 1.0.80 is the official command-line interface for Wyrmx, a AI-enhanced web framework built on FastAPI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T18:40:04Z",
-      "url": "https://pypi.org/project/wyrmx-cli/1.0.80/"
-    },
-    {
-      "id": 54,
-      "title": "Show HN: Daily Top 10 Installed Remote MCP Servers/AI Connectors",
-      "summary": "The article highlights the daily top 10 installed remote MCP servers and AI connectors, providing a list of popular choices for users. The news allows readers to easily access and install these tools for their AI-related projects.",
-      "source": "Remote-mcp.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T18:34:14Z",
-      "url": "https://www.remote-mcp.com/top-10-ai-connectors"
-    },
-    {
-      "id": 55,
-      "title": "Surges 34% W/W on Fuel Cell, AI Boom",
-      "summary": "NuScale Power Corporation saw its share prices surge by 34.07 percent week-on-week, ending Friday’s trading at a high due to the fuel cell and AI boom.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T18:33:53Z",
-      "url": "https://biztoc.com/x/ae0f822b10137be7"
-    },
-    {
-      "id": 56,
-      "title": "proctor-ai 0.1.4",
-      "summary": "proctor-ai 0.1.4 is a Python package designed for structured prompt engineering in the field of AI. It provides a comprehensive set of tools for creating prompts for AI models. This latest version aims to enhance prompt engineering techniques for improved AI performance.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T18:33:02Z",
-      "url": "https://pypi.org/project/proctor-ai/0.1.4/"
-    },
-    {
-      "id": 57,
-      "title": "Quoted Tech Extreme pre-built PC review: Compelling and Canadian-made",
-      "summary": "Quoted Tech, a PC building company, contacted the reviewer to review a machine with an RTX 5070 graphics card. The offer was intriguing due to the compelling features of the Canadian-made computer.",
-      "source": "MobileSyrup",
-      "category": "startups",
-      "timestamp": "2025-07-19T18:32:50Z",
-      "url": "https://mobilesyrup.com/2025/07/19/quoted-tech-extreme-pre-built-pc-review-canadian-made/"
-    },
-    {
-      "id": 58,
-      "title": "Futu (FUTU) Holdings Jumps 7% on Bullish Rating, Price Target Upgrade",
-      "summary": "Futu Holdings Limited (NASDAQ:FUTU) jumped 7% after receiving a bullish rating and price target upgrade. This highlights the innovation in AI-related technologies within the stock market.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-19T18:32:47Z",
-      "url": "https://finance.yahoo.com/news/futu-futu-holdings-jumps-7-183247804.html"
     }
   ]
 }
