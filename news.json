@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-20T07:14:31.953Z",
+  "lastUpdate": "2025-07-20T07:31:29.220Z",
   "items": [
+    {
+      "id": 51,
+      "title": "definable 0.1.2",
+      "summary": "definable 0.1.2 is a new infrastructure designed for building and deploying AI agents, providing a platform for developers to create intelligent systems more efficiently.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T07:31:09Z",
+      "url": "https://pypi.org/project/definable/0.1.2/"
+    },
+    {
+      "id": 52,
+      "title": "Apple's AI Pivot Changes Everything (Rating Downgrade)",
+      "summary": "Apple's AI pivot changes investor perception of the company, impacting its stock rating due to a shifting landscape in the high tech industry.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:30:49Z",
+      "url": "https://biztoc.com/x/fd63f953fa0448e9"
+    },
+    {
+      "id": 53,
+      "title": "Barclays Raises Visteon (NASDAQ:VC) Price Target to $115.00",
+      "summary": "Barclays raises Visteon price target to $115.00 in report published on Wednesday morning.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:30:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/barclays-raises-visteon-nasdaqvc-price-target-to-115-00/"
+    },
+    {
+      "id": 54,
+      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
+      "summary": "Indian Pilots Federation issues legal notice to Wall Street Journal, Reuters over AI171 crash reports, demands apology for selective and unverified reporting.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-19T07:20:45Z",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/article69830726.ece"
+    },
+    {
+      "id": 55,
+      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
+      "summary": "Indian Pilots Federation sends legal notice to Wall Street Journal, Reuters over AI171 crash reports, demands apology for selective and unverified reporting.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-19T07:20:45Z",
+      "url": "https://www.thehindubusinessline.com/news/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/article69830726.ece"
+    },
+    {
+      "id": 56,
+      "title": "6,464 Shares in Ambarella, Inc. (NASDAQ:AMBA) Bought by Teacher Retirement System of Texas",
+      "summary": "Teacher Retirement System of Texas purchased 6,464 shares of Ambarella, Inc. worth $325,000 during the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:16:55Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/6464-shares-in-ambarella-inc-nasdaqamba-bought-by-teacher-retirement-system-of-texas/"
+    },
+    {
+      "id": 57,
+      "title": "model-compose 0.2.8",
+      "summary": "model-compose 0.2.8 is a declarative AI model and workflow orchestrator, aimed at streamlining the process of creating and managing AI models. This tool can help improve efficiency and productivity for AI developers and researchers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T07:16:53Z",
+      "url": "https://pypi.org/project/model-compose/0.2.8/"
+    },
+    {
+      "id": 58,
+      "title": "If AI Doesn’t Wipe Us Out It Might Actually Make Us Stronger",
+      "summary": "If AI doesn’t wipe us out, it might make us stronger, similar to the saying 'That which doesn't kill you will make you stronger'. This raises ethical questions about how we should handle the existential risks posed by AI.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-19T07:15:00Z",
+      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/19/if-ai-doesnt-wipe-us-out-it-might-actually-make-us-stronger/"
+    },
+    {
+      "id": 59,
+      "title": "definable 0.1.1",
+      "summary": "definable 0.1.1 is an infrastructure designed for creating and deploying AI agents. It provides a platform for building AI applications efficiently.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T07:14:45Z",
+      "url": "https://pypi.org/project/definable/0.1.1/"
+    },
     {
       "id": 51,
       "title": "Principal Financial Group Inc. Boosts Stock Position in Adaptive Biotechnologies Corporation (NASDAQ:ADPT)",
@@ -369,87 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T05:58:17Z",
       "url": "https://www.livemint.com/money/personal-finance/1-crore-savings-and-life-is-set-it-is-high-time-to-relook-at-your-age-old-middle-class-dream-inflation-savings-11752901876041.html"
-    },
-    {
-      "id": 65,
-      "title": "41st anniversary of The Times of India: Bengaluru is on a gastronomical high as the city has emerged as India’s cloud kitchen capital",
-      "summary": "Bengaluru has emerged as India's cloud kitchen hub on the 41st anniversary of The Times of India, with tech-driven operations utilizing AI and data to optimize menus and logistics.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-19T05:55:13Z",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/41st-anniversary-of-the-times-of-india-bengaluru-is-on-a-gastronomical-high-as-the-city-has-emerged-as-indias-cloud-kitchen-capital/articleshow/122777702.cms"
-    },
-    {
-      "id": 66,
-      "title": "QinetiQ Group (LON:QQ) Receives “Buy” Rating from Berenberg Bank",
-      "summary": "QinetiQ Group (LON:QQ) received a 'buy' rating from Berenberg Bank, with a price objective of GBX 570, reaffirming their confidence in the stock.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-19T05:55:04Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/qinetiq-group-lonqq-receives-buy-rating-from-berenberg-bank/"
-    },
-    {
-      "id": 51,
-      "title": "Finance Ministry organises workshop on industry 4.0 adoption, digital transformation in CPSEs",
-      "summary": "Finance Ministry workshop on Industry 4.0 adoption and digital transformation in CPSEs highlights strategic step towards fostering innovation and smart manufacturing.",
-      "source": "Livemint",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:51:59Z",
-      "url": "https://www.livemint.com/companies/news/finance-ministry-organises-workshop-on-industry-4-0-adoption-digital-transformation-in-cpses-11752904319739.html"
-    },
-    {
-      "id": 52,
-      "title": "Educational AI Chatbots - New Mexico Junior College Deployed Student Support Automation (TrendHunter.com)",
-      "summary": "New Mexico Junior College deployed an educational AI chatbot named 'Talon' to provide student support and enhance user experience.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:50:05Z",
-      "url": "https://www.trendhunter.com/trends/new-mexico-junior-college"
-    },
-    {
-      "id": 53,
-      "title": "srtify added to PyPI",
-      "summary": "srtify, a CLI tool for translating SRT files using Gemini AI, has been added to PyPI, allowing users to easily translate subtitles with the help of artificial intelligence.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:48:28Z",
-      "url": "https://pypi.org/project/srtify/"
-    },
-    {
-      "id": 54,
-      "title": "GONNA PAREO. La tendenza wrap skirt per l'estate.",
-      "summary": "An AI fashion trend prediction tool called GONNA PAREO is gaining popularity for the summer season. The tool focuses on wrap skirts and is featured on a daily style and design site.",
-      "source": "Coolchicstylefashion.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:48:00Z",
-      "url": "https://www.coolchicstylefashion.com/2025/07/gonna-pareo-la-tendenza-wrap-skirt-per.html"
-    },
-    {
-      "id": 55,
-      "title": "AI-Powered Marketing in the Future of B2B",
-      "summary": "AI-Powered Marketing in the Future of B2B discussed in a session at an April 2025 ANA 1-Day Conference, focusing on the future of 'synthetic marketing' for B2B brands.",
-      "source": "Ana.net",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:47:37Z",
-      "url": "https://www.ana.net/miccontent/showvideo/id/sv-2025-04-moc-0425b2b-evidenza"
-    },
-    {
-      "id": 56,
-      "title": "Beyond the Frame | Engineering the End of Work",
-      "summary": "AI-related news explores the potential legacy of labor and how advancements in artificial intelligence may impact the future of work.",
-      "source": "Schmud.de",
-      "category": "ethics",
-      "timestamp": "2025-07-19T05:47:01Z",
-      "url": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html"
-    },
-    {
-      "id": 57,
-      "title": "(1) Context Engineering: Bringing Engineering Discipline to Prompts",
-      "summary": "A practical guide to information architecture of AI prompts",
-      "source": "Substack.com",
-      "category": "research",
-      "timestamp": "2025-07-19T05:47:01Z",
-      "url": "https://addyo.substack.com/p/context-engineering-bringing-engineering"
     }
   ]
 }
