@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-20T15:34:05.711Z",
+  "lastUpdate": "2025-07-20T15:51:45.466Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Will Oil Demand Hit 123 Million Barrels Per Day By 2050 As OPEC Says?",
+      "summary": "OPEC predicts oil demand will reach 123 million barrels per day by 2050, but many experts believe otherwise.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-19T15:51:18Z",
+      "url": "https://www.forbes.com/sites/gauravsharma/2025/07/19/will-oil-demand-hit-123-million-barrels-per-day-by-2050-as-opec-says/"
+    },
+    {
+      "id": 52,
+      "title": "How much money you would have made if you invested £1,000 in Apple 10 years ago",
+      "summary": "Apple stock has increased significantly over the past 10 years, showing a potential return on investment if £1,000 was invested in the company a decade ago.",
+      "source": "LADbible",
+      "category": "economy",
+      "timestamp": "2025-07-19T15:50:09Z",
+      "url": "https://www.ladbible.com/news/technology/apple-stock-invested-2015-worth-647105-20250719"
+    },
+    {
+      "id": 53,
+      "title": "Motogp: Gp Brno, Marquez vince un'altra Sprint",
+      "summary": "Ducati Lenovo Team rider Marc Marquez of Spain wins the Sprint race at the Motorcycling Grand Prix of the Czech Republic using AI technology. The race took place at Masaryk circuit in Brno, Czech Republic.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:50:06Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/motogp-gp-brno-marquez-vince-unaltra-sprint_759a9ab7-6630-48e6-8c69-fcfbd66eb037.html"
+    },
+    {
+      "id": 54,
+      "title": "Nordea Open: Jesper de Jong esulta per la vittoria",
+      "summary": "Jesper de Jong of the Netherlands wins the semifinal match at the Nordea Open tennis tournament in Sweden.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:50:06Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/nordea-open-jesper-de-jong-esulta-per-la-vittoria_1a0bff22-3ec3-4964-ba97-7f82a6d3a5d5.html"
+    },
+    {
+      "id": 55,
+      "title": "selenium-mcp-server 1.0.1",
+      "summary": "selenium-mcp-server 1.0.1 allows for the integration of Selenium WebDriver automation with AI assistants through a Model Context Protocol (MCP) server.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:46:15Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.0.1/"
+    },
+    {
+      "id": 56,
+      "title": "Nobody Knows How to Build with AI Yet",
+      "summary": "Nobody Knows How to Build with AI Yet - The future of software development might just be jazz. Everyone improvising. Nobody following the sheet music.",
+      "source": "Substack.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:45:01Z",
+      "url": "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai"
+    },
+    {
+      "id": 57,
+      "title": "Ottawa weighs plans on AI, copyright as OpenAI fights Ontario court jurisdiction",
+      "summary": "Ottawa is considering its regulatory approach to AI as OpenAI challenges Ontario court jurisdiction, prompting the artificial intelligence minister to monitor court cases in Canada and the U.S.",
+      "source": "CBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-19T15:40:36Z",
+      "url": "https://www.cbc.ca/news/politics/ottawa-weighs-plans-on-ai-copyright-as-openai-fights-ontario-court-jurisdiction-1.7589354"
+    },
+    {
+      "id": 58,
+      "title": "OpenAI Debuts Record Mode for ChatGPT Plus",
+      "summary": "OpenAI debuts Record Mode for ChatGPT Plus, allowing subscribers to use the new function for macOS. Users can capture system and mic audio during calls through the desktop app.",
+      "source": "iLounge",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:36:19Z",
+      "url": "https://www.ilounge.com/news/apple/openai-debuts-record-mode-for-chatgpt-plus"
+    },
+    {
+      "id": 59,
+      "title": "Time to Mine Bitcoin on Mobile: PFMCrypto Launches App-Based BTC Cloud Mining with Daily Payouts",
+      "summary": "PFMCrypto launches app-based BTC cloud mining platform, allowing users to mine Bitcoin on their mobile phones with daily payouts and no need for hardware or technical setup.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:35:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118269/0/en/Time-to-Mine-Bitcoin-on-Mobile-PFMCrypto-Launches-App-Based-BTC-Cloud-Mining-with-Daily-Payouts.html"
+    },
+    {
+      "id": 60,
+      "title": "OpenAI CEO Says Meta Tried Poaching ChatGPT Engineers With $100M Bonuses",
+      "summary": "OpenAI CEO reveals Meta attempted to poach ChatGPT engineers with $100M bonuses",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-19T15:34:00Z",
+      "url": "https://tech.slashdot.org/story/25/07/19/0612203/openai-ceo-says-meta-tried-poaching-chatgpt-engineers-with-100m-bonuses"
+    },
     {
       "id": 51,
       "title": "KeyBanc Raises Alphabet (GOOGL) Price Target to $215, Reaffirms ‘Overweight’",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T14:43:42Z",
       "url": "http://www.denofgeek.com/movies/ari-aster-eddington-covid-period-piece-moment-unable-metabolize/"
-    },
-    {
-      "id": 56,
-      "title": "Google Pixel 10 Pro: Best View Yet Of New Design Shown In Latest Leaks",
-      "summary": "Leaked images of a Pixel 10 Pro prototype reveal a refined design with a slimmer camera bar and symmetrical bezels ahead of Google’s August 20 launch event.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:41:01Z",
-      "url": "https://www.forbes.com/sites/ewanspence/2025/07/19/google-pixel-10-pro-upgrade-design-pictures-leaks-new-pixel/"
-    },
-    {
-      "id": 57,
-      "title": "Mizuho Raises Microsoft (MSFT) Price Target to $540, Reiterates Outperform on AI Strength",
-      "summary": "Mizuho raises Microsoft (MSFT) price target to $540 and reiterates outperform rating based on AI strength.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:37:58Z",
-      "url": "https://biztoc.com/x/706edde1670b1f5d"
-    },
-    {
-      "id": 58,
-      "title": "Cantor Fitzgerald Stays Bullish on Amazon (AMZN), Lifts Target to $260 on Retail and AWS Growth",
-      "summary": "Cantor Fitzgerald analyst raises price target on Amazon.com, Inc. to $260 citing growth in retail and AWS, making it one of the AI Stocks Investors Are Watching Closely.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:37:57Z",
-      "url": "https://biztoc.com/x/4c86c83a468ca8d2"
-    },
-    {
-      "id": 59,
-      "title": "Cantor Fitzgerald Lifts Meta to $828 Price Target on AI Talent, Ad Gains",
-      "summary": "Cantor Fitzgerald raises Meta's price target on AI talent and ad gains to $828, highlighting the company as one of the AI stocks investors are watching closely.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:37:54Z",
-      "url": "https://biztoc.com/x/e21adb67f45da6e0"
-    },
-    {
-      "id": 60,
-      "title": "Stock Downgraded: HSBC Flags Liquidity Strains, Heavy Capex Ahead",
-      "summary": "CoreWeave, Inc. was downgraded by HSBC due to liquidity strains and heavy capex ahead. The firm initiated the stock as 'Reduce' with a $32 price target.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T14:37:48Z",
-      "url": "https://biztoc.com/x/1712ab513952c593"
-    },
-    {
-      "id": 61,
-      "title": "IBM Seen as ‘Stable Compounder’ — Stifel Lifts Price Target Ahead of Q2",
-      "summary": "IBM's stock is considered a stable compounder and is closely watched in the AI sector. Stifel analyst increased the price target ahead of Q2 earnings.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:37:39Z",
-      "url": "https://biztoc.com/x/14ea06b98299467e"
-    },
-    {
-      "id": 62,
-      "title": "Analysts Raise AMD Target on Renewed China AI Chip Opportunities",
-      "summary": "Analysts raised Advanced Micro Devices, Inc. target price on renewed China AI chip opportunities, indicating growing interest in AI technology within the semiconductor industry.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:37:39Z",
-      "url": "https://biztoc.com/x/d6a970c67dfe72c9"
-    },
-    {
-      "id": 63,
-      "title": "Needham Sticks With Buy on Nvidia (NVDA), Lifts Target to $200",
-      "summary": "Needham analyst raised price target on NVIDIA to $200, citing its position as one of the AI Stocks Investors Are Watching Closely.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:37:28Z",
-      "url": "https://biztoc.com/x/847802d029db867c"
-    },
-    {
-      "id": 64,
-      "title": "Death by AI",
-      "summary": "One man shares his struggle with the idea of mortality in the age of AI.",
-      "source": "Substack.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T14:35:11Z",
-      "url": "https://davebarry.substack.com/p/death-by-ai"
-    },
-    {
-      "id": 51,
-      "title": " Reports: Next superstar for Flick as Barça sign top Premier League player",
-      "summary": "Reports confirm that Manchester United star Marcus Rashford is moving to Barcelona to join Hansi Flick, following numerous rumors. This transfer is a significant move in the world of football and highlights the increasing use of AI in player recruitment and team strategies.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:30:00Z",
-      "url": "https://onefootball.com/en/news/reports-next-superstar-for-flick-as-barca-sign-top-premier-league-player-41396690"
     }
   ]
 }
