@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-20T15:15:04.867Z",
+  "lastUpdate": "2025-07-20T15:34:05.711Z",
   "items": [
+    {
+      "id": 51,
+      "title": "KeyBanc Raises Alphabet (GOOGL) Price Target to $215, Reaffirms ‘Overweight’",
+      "summary": "KeyBanc analyst raises Alphabet (GOOGL) price target to $215, reaffirms 'Overweight' rating as Alphabet Inc. is one of the AI Stocks on Wall Street's radar.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-19T15:33:33Z",
+      "url": "https://biztoc.com/x/47c22c10b33edc91"
+    },
+    {
+      "id": 52,
+      "title": "Why cheaper power looks unlikely as Trump’s big budget law reshuffles the U.S. energy landscape",
+      "summary": "President Trump's new budget law may lead to higher power costs, impacting the U.S. energy landscape and potentially affecting the growth of artificial intelligence.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T15:33:24Z",
+      "url": "https://biztoc.com/x/cdf89b9aad3019ea"
+    },
+    {
+      "id": 53,
+      "title": "How OpenAI’s red team made ChatGPT agent into an AI fortress",
+      "summary": "OpenAI's red team improved ChatGPT's security features, making it into an AI fortress with powerful new capabilities.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-19T15:33:11Z",
+      "url": "https://biztoc.com/x/3e45469d13c1eb1a"
+    },
+    {
+      "id": 54,
+      "title": "selenium-mcp-server added to PyPI",
+      "summary": "selenium-mcp-server added to PyPI - A powerful Model Context Protocol (MCP) server that brings Selenium WebDriver automation to AI assistants",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:33:03Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/"
+    },
+    {
+      "id": 55,
+      "title": "selenium-mcp-server 1.0.0",
+      "summary": "selenium-mcp-server 1.0.0 is a powerful Model Context Protocol (MCP) server that enables AI assistants to perform Selenium WebDriver automation.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:33:03Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.0.0/"
+    },
+    {
+      "id": 56,
+      "title": "Maix4 doubles as Raspberry Pi 5 expansion module and stand-alone development board",
+      "summary": "Maix4 doubles as Raspberry Pi 5 expansion module and stand-alone development board - A new developer board aims to impress with its high AI performance and versatility as an independent development board and as an expansion board for the Raspberry Pi. The local acceleration of AI models can reduce dependence on cloud systems.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:33:00Z",
+      "url": "https://www.notebookcheck.net/Maix4-doubles-as-Raspberry-Pi-5-expansion-module-and-stand-alone-development-board.1061825.0.html"
+    },
+    {
+      "id": 57,
+      "title": "aistudio-to-webserver added to PyPI",
+      "summary": "aistudio-to-webserver added to PyPI - A web server that provides AI Studio capabilities, likely for web automation and clipboard interaction.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:31:18Z",
+      "url": "https://pypi.org/project/aistudio-to-webserver/"
+    },
+    {
+      "id": 58,
+      "title": "Jasper Review: The AI Writer for Marketing Masters?",
+      "summary": "Jasper Review: Is Jasper the ultimate AI content platform for marketing? This article examines its features, pricing, target audience, and reasons why you might want to reconsider using it.",
+      "source": "Aitoolcritic.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:30:50Z",
+      "url": "https://aitoolcritic.com/directory-directory/listing/jasper-ai/"
+    },
+    {
+      "id": 59,
+      "title": "In The AI Age, Star Trek’s Still Alive",
+      "summary": "The Star Trek Set Tour utilizes AI to keep the magic of analog-age TV alive in the AI Age.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:30:05Z",
+      "url": "https://www.forbes.com/sites/johnwerner/2025/07/19/in-the-ai-age-star-treks-still-alive/"
+    },
+    {
+      "id": 60,
+      "title": "The latest Google Pixel Watch 4 leaks point to a price freeze – and a new strength training feature",
+      "summary": "The latest leaks about the Google Pixel Watch 4 indicate that it will offer a new strength training feature and maintain the same price as its predecessor, the Pixel Watch 3.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:30:00Z",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/the-latest-google-pixel-watch-4-leaks-point-to-a-price-freeze-and-a-new-strength-training-feature"
+    },
+    {
+      "id": 61,
+      "title": "arshai 0.5.1",
+      "summary": "arshai 0.5.1 is a powerful agent framework designed for creating conversational AI systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:28:12Z",
+      "url": "https://pypi.org/project/arshai/0.5.1/"
+    },
+    {
+      "id": 62,
+      "title": "Sequential Coherence: A Bottleneck in Automation",
+      "summary": "One way of investigating why AI hasn't automated more professions is to compare the skills that real jobs require with current AI systems' capabilities.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-19T15:27:13Z",
+      "url": "https://www.lesswrong.com/posts/QjHMqLFpX3hzYKh2W/sequential-coherence-a-bottleneck-in-automation"
+    },
+    {
+      "id": 63,
+      "title": "workspacex 0.1.22",
+      "summary": "workspacex 0.1.22 is a Python library for managing AIGC artifacts, providing a collaborative workspace environment for handling multiple artifacts with features like version control, update notifications, and artifact management.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:26:51Z",
+      "url": "https://pypi.org/project/workspacex/0.1.22/"
+    },
+    {
+      "id": 64,
+      "title": "AI Magazine - July 2025",
+      "summary": "AI Magazine is a trusted and leading voice in artificial intelligence, catering to a global audience of top executives. The magazine provides insights and updates on AI developments and technologies.",
+      "source": "Rlsbb.cc",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:22:56Z",
+      "url": "https://post.rlsbb.cc/ai-magazine-july-2025/"
+    },
+    {
+      "id": 65,
+      "title": "\"Any Lawyer Unaware That [Generative AI Research] Is Playing with Fire Is Living in a Cloud\"",
+      "summary": "Lawyers who are unaware of the risks associated with generative AI research are taking unnecessary risks, as highlighted by a recent case decided by Bankruptcy Judge Michael Slade.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T15:22:18Z",
+      "url": "https://biztoc.com/x/589300090e9ffbc3"
+    },
+    {
+      "id": 66,
+      "title": "\"Any Lawyer Unaware That [Generative AI Research] Is Playing with Fire Is Living in a Cloud\"",
+      "summary": "Lawyers warned about the dangers of not being aware of generative AI research in a recent bankruptcy case.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T15:22:18Z",
+      "url": "https://biztoc.com/x/589300090e9ffbc3"
+    },
+    {
+      "id": 67,
+      "title": "Barclays Reiterates $275 Price Target, Calls Earnings Setup ‘Confusing’",
+      "summary": "Barclays reiterates $275 price target for Tesla, calling earnings setup 'confusing' as it remains equal weight on AI stock.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T15:22:16Z",
+      "url": "https://biztoc.com/x/7c6df936010b73a1"
+    },
+    {
+      "id": 68,
+      "title": "JPMorgan Bumps Apple (AAPL) PT to $250, Keeps ‘Overweight’",
+      "summary": "JPMorgan raised Apple's price target to $250 per share, citing the company as one of the AI Stocks on Wall Street's radar.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T15:22:16Z",
+      "url": "https://biztoc.com/x/e8dee6a837f4960a"
+    },
     {
       "id": 51,
       "title": "catt-tashkeel 1.0.2",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T14:30:00Z",
       "url": "https://onefootball.com/en/news/reports-next-superstar-for-flick-as-barca-sign-top-premier-league-player-41396690"
-    },
-    {
-      "id": 52,
-      "title": "CoreWeave (CRWV) Stock Downgraded: HSBC Flags Liquidity Strains, Heavy Capex Ahead",
-      "summary": "CoreWeave (CRWV) Stock Downgraded by HSBC due to liquidity strains and heavy capital expenditures, impacting its position among AI Stocks on Wall Street",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:27:25Z",
-      "url": "https://finance.yahoo.com/news/coreweave-crwv-stock-downgraded-hsbc-142725198.html"
-    },
-    {
-      "id": 53,
-      "title": "Nvidia's China restart faces production obstacles: The Information report",
-      "summary": "Nvidia's production restart in China faces obstacles as limited H20 chip availability is informed to Chinese clients due to US government's April ban, leading to order cancellations and manufacturing capacity being cancelled at Taiwan Semiconductor Manufacturing.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:24:38Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-china-restart-faces-production-obstacles-the-information-reports/articleshow/122784290.cms"
-    },
-    {
-      "id": 54,
-      "title": "Dow Jones, S&P 500, Nasdaq Composite: Wall Street Strategist Peter Berezin decodes the blind side of US markets",
-      "summary": "Wall Street strategist Peter Berezin decodes the blind side of US markets and discusses the risks posed by the debt market and high fiscal deficit on the US economy.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:24:25Z",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/dow-jones-sp-500-nasdaq-composite-wall-street-strategist-peter-berezin-decodes-the-blind-side-of-us-markets/article69828428.ece"
-    },
-    {
-      "id": 55,
-      "title": "Cantor Fitzgerald Stays Bullish on Amazon (AMZN), Lifts Target to $260 on Retail and AWS Growth",
-      "summary": "Cantor Fitzgerald raises target on Amazon due to growth in retail and AWS, highlighting it as an AI stock to watch.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:17:36Z",
-      "url": "https://finance.yahoo.com/news/cantor-fitzgerald-stays-bullish-amazon-141736890.html"
-    },
-    {
-      "id": 56,
-      "title": "Cantor Fitzgerald Lifts Meta to $828 Price Target on AI Talent, Ad Gains",
-      "summary": "Cantor Fitzgerald raises Meta price target to $828 due to AI talent and ad gains, making it one of the AI stocks investors are closely monitoring.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:17:17Z",
-      "url": "https://finance.yahoo.com/news/cantor-fitzgerald-lifts-meta-828-141717392.html"
-    },
-    {
-      "id": 57,
-      "title": "Needham Sticks With Buy on Nvidia (NVDA), Lifts Target to $200",
-      "summary": "NVIDIA Corporation (NASDAQ: NVDA) is one of the AI Stocks Investors Are Watching Closely. Needham analyst Rajvindra Gill raised the price target to $200 on July 16.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:17:11Z",
-      "url": "https://finance.yahoo.com/news/needham-sticks-buy-nvidia-nvda-141711540.html"
-    },
-    {
-      "id": 58,
-      "title": "IBM Seen as ‘Stable Compounder’ — Stifel Lifts Price Target Ahead of Q2",
-      "summary": "IBM, an AI stock that investors are closely monitoring, had its price target increased by Stifel analyst David Grossman ahead of Q2 earnings.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:16:34Z",
-      "url": "https://finance.yahoo.com/news/ibm-seen-stable-compounder-stifel-141634387.html"
-    },
-    {
-      "id": 59,
-      "title": "arshai 0.5.0",
-      "summary": "arshai 0.5.0 is a powerful agent framework for building conversational AI systems.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:16:32Z",
-      "url": "https://pypi.org/project/arshai/0.5.0/"
-    },
-    {
-      "id": 60,
-      "title": "Unleashing AI: Trump’s Vision For American Tech Dominance",
-      "summary": "Trump to unveil AI Action Plan prioritizing innovation, infrastructure, and light regulation to boost U.S. global AI leadership and economic competitiveness.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:15:34Z",
-      "url": "https://www.forbes.com/sites/paulocarvao/2025/07/19/unleashing-ai-trumps-vision-for-american-tech-dominance/"
-    },
-    {
-      "id": 61,
-      "title": "Wins Analyst Confidence With AI Advances and Price Hike Potential",
-      "summary": "Salesforce, Inc. wins analyst confidence with AI advances and potential price hike. Analyst reiterates 'Market Outperform' rating with $430.00 price target, showing optimism towards the firm's AI advancements.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:15:26Z",
-      "url": "https://biztoc.com/x/b24b798b8bc5adb2"
-    },
-    {
-      "id": 51,
-      "title": "TSMC Eager to Build an Independent Chip Supply Chain in the U.S. Alongside Taiwan, Plans to Produce Over 30% of 2nm and Advanced Chips in Arizona",
-      "summary": "TSMC has massive plans to build an independent chip supply chain in the U.S., including producing over 30% of advanced chips in Arizona, which would create self-reliance and boost the American chip market.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:10:22Z",
-      "url": "https://wccftech.com/tsmc-eager-to-build-an-independent-chip-supply-chain-in-the-us/"
-    },
-    {
-      "id": 52,
-      "title": "After 36% rise since listing, is ITC Hotels still a buy?",
-      "summary": "After a 36% rise since listing, investors may want to be cautious with new investments in ITC Hotels, India's second-largest hospitality company, due to its high valuation.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:07:30Z",
-      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/after-36-rise-since-listing-is-itc-hotels-still-a-buy/article69826867.ece"
-    },
-    {
-      "id": 53,
-      "title": "FCC to bar Chinese telecom equipment in submarine cables",
-      "summary": "FCC to ban Chinese telecom equipment in submarine cables to protect against foreign interference, with trusted suppliers receiving fast-track licenses and gear from Huawei and ZTE facing denials and extra security requirements.",
-      "source": "Notebookcheck.net",
-      "category": "ethics",
-      "timestamp": "2025-07-19T14:06:00Z",
-      "url": "https://www.notebookcheck.net/FCC-to-bar-Chinese-telecom-equipment-in-submarine-cables.1061612.0.html"
-    },
-    {
-      "id": 54,
-      "title": "Google Pixel Watch 4: Numerous new fitness features on board",
-      "summary": "Google Pixel Watch 4 is unveiling numerous new fitness features, including SOS functions, after initial disappointments with design leaks.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:04:00Z",
-      "url": "https://www.notebookcheck.net/Google-Pixel-Watch-4-Numerous-new-fitness-features-on-board.1061823.0.html"
-    },
-    {
-      "id": 55,
-      "title": "Lilo & Stitch Gets New Digital Release Date – How To Watch",
-      "summary": "Lilo & Stitch, a popular animated film, is set to be released digitally this month after its successful run in theaters, showcasing the application of AI in entertainment distribution.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:03:37Z",
-      "url": "https://biztoc.com/x/a2a77035f7458ca1"
-    },
-    {
-      "id": 56,
-      "title": "Crypto Earning Platform - AIXA Miner Pilots Predictive AI Monitoring for Security Optimisation",
-      "summary": "AIXA Miner is piloting predictive AI monitoring for security optimization in the crypto earning platform.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:02:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118254/0/en/Crypto-Earning-Platform-AIXA-Miner-Pilots-Predictive-AI-Monitoring-for-Security-Optimisation.html"
-    },
-    {
-      "id": 57,
-      "title": "Base 44 : Build an AI Video App in 10 Minutes (No Coding)",
-      "summary": "Base 44 allows users to build an AI video app in just 10 minutes with no coding required, marking a significant innovation in the field of AI technology.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-19T14:02:00Z",
-      "url": "https://www.geeky-gadgets.com/ai-video-app-creation-guide/"
-    },
-    {
-      "id": 58,
-      "title": "Crypto Founder Ken DiCross on How He Uses AI: ‘I Don’t Trust AI,’ but ‘I Use It for Everything’",
-      "summary": "Crypto Founder Ken DiCross uses AI to save time daily but cautions against blindly trusting it.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:00:53Z",
-      "url": "https://gizmodo.com/crypto-founder-ken-dicross-on-how-he-uses-ai-i-dont-trust-ai-but-i-use-it-for-everything-2000631323"
     }
   ]
 }
