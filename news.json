@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-20T16:46:36.283Z",
+  "lastUpdate": "2025-07-20T17:13:32.687Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Guest post: Employer Liability for Rogue AI Harassment: Will you Need to Fire your Large Language Model?",
+      "summary": "Employer liability for rogue AI harassment and the implications of firing large language models like Grok.",
+      "source": "Blogs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T17:12:50Z",
+      "url": "https://prawfsblawg.blogs.com/prawfsblawg/2025/07/guest-post-employer-liability-for-rogue-ai-harassment-will-you-need-to-fire-your-large-language-mode.html"
+    },
+    {
+      "id": 52,
+      "title": "Apple’s M4 Max Barely Has A Better ‘Performance Per Watt’ Metric Compared To The Laptop RTX 5090 When Running Cyberpunk 2077: Ultimate Edition On Battery; NVIDIA’s Top-End Mobile GPU Is 43.7 Percent Faster",
+      "summary": "Apple’s M4 Max Barely Has A Better ‘Performance Per Watt’ Metric Compared To The Laptop RTX 5090 When Running Cyberpunk 2077: Ultimate Edition On Battery; NVIDIA’s Top-End Mobile GPU Is 43.7 Percent Faster - The laptop version of the RTX 5090 is currently the fastest mobile graphics processor on the market right now, whereas Apple’s M4 Max is marketed to feature the fastest internal GPU that can be found in a portable computer.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:12:47Z",
+      "url": "https://wccftech.com/m4-max-vs-laptop-rtx-5090-in-cyberpunk-2077-at-maximum-settings/"
+    },
+    {
+      "id": 53,
+      "title": "Giving Up on Element and Matrix.org",
+      "summary": "The Matrix.org network has great potential, but after years of dealing with glitches, slow performance, poor UX, and one too many failures, the user is giving up on it.",
+      "source": "Xn--gckvb8fzb.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:12:45Z",
+      "url": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"
+    },
+    {
+      "id": 54,
+      "title": "What is Yellowstone Park’s supervolcano, and is it on the verge of erupting? Rumors swirl as fears explode online",
+      "summary": "Yellowstone National Park supervolcano eruption rumors debunked as fake or misleading, sparking fears online.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T17:11:41Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-yellowstone-parks-supervolcano-and-is-it-on-the-verge-of-erupting-rumors-swirl-as-fears-explode-online/articleshow/122785320.cms"
+    },
+    {
+      "id": 55,
+      "title": "selenium-mcp-server 1.1.2",
+      "summary": "selenium-mcp-server 1.1.2 is a powerful Model Context Protocol (MCP) server that enables Selenium WebDriver automation for AI assistants.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:06:22Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.1.2/"
+    },
+    {
+      "id": 56,
+      "title": "selenium-mcp-server 1.1.1",
+      "summary": "selenium-mcp-server 1.1.1 is a powerful Model Context Protocol (MCP) server that enables Selenium WebDriver automation for AI assistants.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:04:04Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.1.1/"
+    },
+    {
+      "id": 57,
+      "title": "Could This Under-the-Radar Artificial Intelligence (AI) Defense Company Be the Next Palantir?",
+      "summary": "An under-the-radar AI defense company is being compared to Palantir, known for its AI operating systems used by the U.S. military. Recent budget changes at the Department of Defense indicate increased investment in AI.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-19T17:03:51Z",
+      "url": "https://biztoc.com/x/14b9e03e7fc4318d"
+    },
+    {
+      "id": 58,
+      "title": "Nvidia's China chip restart said to be slowed by US rules",
+      "summary": "Nvidia's China chip restart has been slowed down by US rules, leading to tight supply of H20 AI chips for Chinese buyers.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:03:37Z",
+      "url": "https://biztoc.com/x/bd31f6346d9163ec"
+    },
+    {
+      "id": 59,
+      "title": "Ice Cream Recall Update as FDA Issues Risk Warning",
+      "summary": "An Ohio creamery is recalling several ice cream flavors due to undeclared allergens as FDA issues a risk warning. Turkeyfoot Creek Creamery in Wauseon issued a voluntary recall for several pint-size products.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:03:24Z",
+      "url": "https://biztoc.com/x/cbf3accb7e46b47a"
+    },
+    {
+      "id": 60,
+      "title": "ipulse-shared-core-ftredge 24.1.1",
+      "summary": "ipulse-shared-core-ftredge 24.1.1 introduces Shared Core models and Logger util for the Pulse platform project, utilizing AI for financial advisory and investment management.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:02:27Z",
+      "url": "https://pypi.org/project/ipulse-shared-core-ftredge/24.1.1/"
+    },
+    {
+      "id": 61,
+      "title": "I Asked AI To Make Me As Much Money As Possible: Here’s What Happened, According to Codie Sanchez",
+      "summary": "Codie Sanchez tested whether AI could help build wealth by asking it to make her as much money as possible. The results of the experiment show what strategies worked and what didn't in the pursuit of money-making.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:02:14Z",
+      "url": "https://finance.yahoo.com/news/asked-ai-much-money-possible-170214239.html"
+    },
+    {
+      "id": 62,
+      "title": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares",
+      "summary": "Nvidia CEO Jensen Huang sells $12.94 million worth of shares as part of a pre-planned arrangement, driven by surging AI demand.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:02:10Z",
+      "url": "https://www.cnbc.com/2025/07/19/nvidia-ceo-jensen-huang-sells-shares.html"
+    },
+    {
+      "id": 63,
+      "title": "agentrun-plus 0.2.12",
+      "summary": "agentrun-plus 0.2.12 is a tool for running AI or user generated python code safely in a docker container, with added customization options. It is a fork of the original AgentRun repo.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:01:02Z",
+      "url": "https://pypi.org/project/agentrun-plus/0.2.12/"
+    },
+    {
+      "id": 64,
+      "title": "From Administrators To Innovators: How L&D Teams Evolve With Citizen Development",
+      "summary": "How L&D teams are evolving from administrators to innovators through citizen development for faster, personalized, and impactful learning experiences.",
+      "source": "Elearningindustry.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:00:53Z",
+      "url": "https://elearningindustry.com/from-administrators-to-innovators-how-ld-teams-evolve-with-citizen-development"
+    },
+    {
+      "id": 65,
+      "title": "Marshmallow concrete improves chances of surviving crash landing",
+      "summary": "Marshmallow concrete improves chances of surviving crash landing by providing an affordable runway safety solution using ultra-light foam concrete with microscopic bubbles.",
+      "source": "Fox News",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:00:40Z",
+      "url": "https://www.foxnews.com/tech/marshmallow-concrete-improves-chances-surviving-crash-landing"
+    },
+    {
+      "id": 66,
+      "title": "Why enterprise risk management is key to value-based health care success",
+      "summary": "The evolving contemporary era of value-based health care demands new risk leadership, emphasizing quality, outcomes, safety, equity, and stakeholder satisfaction. With these goals come complex, cross-cutting risks that enterprise risk management is key to addressing.",
+      "source": "Kevinmd.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:00:27Z",
+      "url": "https://kevinmd.com/2025/07/why-enterprise-risk-management-is-key-to-value-based-health-care-success.html"
+    },
+    {
+      "id": 67,
+      "title": "3 Software Stocks to Buy Now If You’re Worried About Tariffs",
+      "summary": "3 Software Stocks to Buy Now If You’re Worried About Tariffs - Trade tensions are escalating again and could drag the market down once more. These stocks are insulated.",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:00:02Z",
+      "url": "https://www.barchart.com/story/news/33515437/3-software-stocks-to-buy-now-if-youre-worried-about-tariffs"
+    },
+    {
+      "id": 68,
+      "title": "7 Notion tips to help you organize your life",
+      "summary": "7 Notion tips to help you organize your life using the powerful, freeform note-taking tool.",
+      "source": "Popular Science",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:00:00Z",
+      "url": "https://www.popsci.com/diy/notion-tips/"
+    },
+    {
+      "id": 69,
+      "title": "On The Up: Taupō couple race Siberian huskies, share passion for sled dogs",
+      "summary": "A Taupō couple is racing Siberian huskies, highlighting the working nature of the breed. The couple emphasizes the need for the dogs to run and have a purpose, showcasing the practical applications of sled dogs.",
+      "source": "New Zealand Herald",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:00:00Z",
+      "url": "https://www.nzherald.co.nz/the-country/news/on-the-up-taupo-couple-race-siberian-huskies-share-passion-for-sled-dogs/LDZ6Z7MMSJBAVM5X524NLPNT3Y/"
+    },
     {
       "id": 51,
       "title": "The Emotional Cost of Working With Machines",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-19T16:00:00Z",
       "url": "https://nypost.com/2025/07/19/opinion/the-biden-administration-secretly-stole-your-data-to-engineer-elections-and-silence-speech/"
-    },
-    {
-      "id": 66,
-      "title": "Hooked on autoplay, infinite scrolling and dopamine hits",
-      "summary": "Social media platforms use autoplay, infinite scrolling, and dopamine hits to keep users hooked, prioritizing business goals over user wellness.",
-      "source": "The Star Online",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.thestar.com.my/news/nation/2025/07/20/hooked-on-autoplay-infinite-scrolling-and-dopamine-hits"
-    },
-    {
-      "id": 67,
-      "title": "Polish programmer beats OpenAI's custom AI in 10-hour marathon, wins World Coding Championship — possibly the last human winner",
-      "summary": "Polish programmer beats OpenAI's custom AI in 10-hour marathon, wins World Coding Championship — possibly the last human winner - Przemysław “Psyho” Dębiak, a Polish programmer and former OpenAI engineer, defeated the company’s own advanced AI model in the 2025 AtCoder World Tour Finals.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/polish-programmer-beats-openais-custom-ai-in-10-hour-marathon-wins-world-coding-championship-possibly-the-last-human-winner"
-    },
-    {
-      "id": 68,
-      "title": "Today's news and jokes",
-      "summary": "Tonight's baseball contest delayed due to incident, gallons of water sprayed after ball hits pickup truck, creating unexpected outcome.",
-      "source": "Superpunch.net",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.superpunch.net/2025/07/todays-news-and-jokes_01945816382.html"
-    },
-    {
-      "id": 69,
-      "title": "selenium-mcp-server 1.0.4",
-      "summary": "selenium-mcp-server 1.0.4 is a powerful MCP server enabling AI assistants to utilize Selenium WebDriver automation",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:59:42Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.0.4/"
-    },
-    {
-      "id": 70,
-      "title": "Indian AI engineer working for top tech company shares advice for techies who want to make a career in AI",
-      "summary": "Indian AI engineer provides career advice for techies interested in AI, sharing her journey from Bikaner to a leading U.S. tech firm where she works on foundational machine learning infrastructure.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-19T15:59:35Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/indian-ai-engineer-working-for-top-tech-company-shares-advice-for-techies-who-want-to-make-a-career-in-ai/articleshow/122785044.cms"
-    },
-    {
-      "id": 51,
-      "title": "Will Oil Demand Hit 123 Million Barrels Per Day By 2050 As OPEC Says?",
-      "summary": "OPEC predicts oil demand will reach 123 million barrels per day by 2050, but many experts believe otherwise.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:51:18Z",
-      "url": "https://www.forbes.com/sites/gauravsharma/2025/07/19/will-oil-demand-hit-123-million-barrels-per-day-by-2050-as-opec-says/"
-    },
-    {
-      "id": 52,
-      "title": "How much money you would have made if you invested £1,000 in Apple 10 years ago",
-      "summary": "Apple stock has increased significantly over the past 10 years, showing a potential return on investment if £1,000 was invested in the company a decade ago.",
-      "source": "LADbible",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:50:09Z",
-      "url": "https://www.ladbible.com/news/technology/apple-stock-invested-2015-worth-647105-20250719"
-    },
-    {
-      "id": 53,
-      "title": "Motogp: Gp Brno, Marquez vince un'altra Sprint",
-      "summary": "Ducati Lenovo Team rider Marc Marquez of Spain wins the Sprint race at the Motorcycling Grand Prix of the Czech Republic using AI technology. The race took place at Masaryk circuit in Brno, Czech Republic.",
-      "source": "ANSA.it",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:50:06Z",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/motogp-gp-brno-marquez-vince-unaltra-sprint_759a9ab7-6630-48e6-8c69-fcfbd66eb037.html"
-    },
-    {
-      "id": 54,
-      "title": "Nordea Open: Jesper de Jong esulta per la vittoria",
-      "summary": "Jesper de Jong of the Netherlands wins the semifinal match at the Nordea Open tennis tournament in Sweden.",
-      "source": "ANSA.it",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:50:06Z",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/nordea-open-jesper-de-jong-esulta-per-la-vittoria_1a0bff22-3ec3-4964-ba97-7f82a6d3a5d5.html"
-    },
-    {
-      "id": 55,
-      "title": "selenium-mcp-server 1.0.1",
-      "summary": "selenium-mcp-server 1.0.1 allows for the integration of Selenium WebDriver automation with AI assistants through a Model Context Protocol (MCP) server.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:46:15Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.0.1/"
-    },
-    {
-      "id": 56,
-      "title": "Nobody Knows How to Build with AI Yet",
-      "summary": "Nobody Knows How to Build with AI Yet - The future of software development might just be jazz. Everyone improvising. Nobody following the sheet music.",
-      "source": "Substack.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T15:45:01Z",
-      "url": "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai"
-    },
-    {
-      "id": 57,
-      "title": "Ottawa weighs plans on AI, copyright as OpenAI fights Ontario court jurisdiction",
-      "summary": "Ottawa is considering its regulatory approach to AI as OpenAI challenges Ontario court jurisdiction, prompting the artificial intelligence minister to monitor court cases in Canada and the U.S.",
-      "source": "CBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-19T15:40:36Z",
-      "url": "https://www.cbc.ca/news/politics/ottawa-weighs-plans-on-ai-copyright-as-openai-fights-ontario-court-jurisdiction-1.7589354"
-    },
-    {
-      "id": 58,
-      "title": "OpenAI Debuts Record Mode for ChatGPT Plus",
-      "summary": "OpenAI debuts Record Mode for ChatGPT Plus, allowing subscribers to use the new function for macOS. Users can capture system and mic audio during calls through the desktop app.",
-      "source": "iLounge",
-      "category": "innovation",
-      "timestamp": "2025-07-19T15:36:19Z",
-      "url": "https://www.ilounge.com/news/apple/openai-debuts-record-mode-for-chatgpt-plus"
-    },
-    {
-      "id": 59,
-      "title": "Time to Mine Bitcoin on Mobile: PFMCrypto Launches App-Based BTC Cloud Mining with Daily Payouts",
-      "summary": "PFMCrypto launches app-based BTC cloud mining platform, allowing users to mine Bitcoin on their mobile phones with daily payouts and no need for hardware or technical setup.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:35:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118269/0/en/Time-to-Mine-Bitcoin-on-Mobile-PFMCrypto-Launches-App-Based-BTC-Cloud-Mining-with-Daily-Payouts.html"
-    },
-    {
-      "id": 60,
-      "title": "OpenAI CEO Says Meta Tried Poaching ChatGPT Engineers With $100M Bonuses",
-      "summary": "OpenAI CEO reveals Meta attempted to poach ChatGPT engineers with $100M bonuses",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-19T15:34:00Z",
-      "url": "https://tech.slashdot.org/story/25/07/19/0612203/openai-ceo-says-meta-tried-poaching-chatgpt-engineers-with-100m-bonuses"
-    },
-    {
-      "id": 51,
-      "title": "KeyBanc Raises Alphabet (GOOGL) Price Target to $215, Reaffirms ‘Overweight’",
-      "summary": "KeyBanc analyst raises Alphabet (GOOGL) price target to $215, reaffirms 'Overweight' rating as Alphabet Inc. is one of the AI Stocks on Wall Street's radar.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-19T15:33:33Z",
-      "url": "https://biztoc.com/x/47c22c10b33edc91"
-    },
-    {
-      "id": 52,
-      "title": "Why cheaper power looks unlikely as Trump’s big budget law reshuffles the U.S. energy landscape",
-      "summary": "President Trump's new budget law may lead to higher power costs, impacting the U.S. energy landscape and potentially affecting the growth of artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:33:24Z",
-      "url": "https://biztoc.com/x/cdf89b9aad3019ea"
-    },
-    {
-      "id": 53,
-      "title": "How OpenAI’s red team made ChatGPT agent into an AI fortress",
-      "summary": "OpenAI's red team improved ChatGPT's security features, making it into an AI fortress with powerful new capabilities.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-19T15:33:11Z",
-      "url": "https://biztoc.com/x/3e45469d13c1eb1a"
-    },
-    {
-      "id": 54,
-      "title": "selenium-mcp-server added to PyPI",
-      "summary": "selenium-mcp-server added to PyPI - A powerful Model Context Protocol (MCP) server that brings Selenium WebDriver automation to AI assistants",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:33:03Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/"
     }
   ]
 }
