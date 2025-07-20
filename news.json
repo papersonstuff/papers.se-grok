@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-20T01:25:16.961Z",
+  "lastUpdate": "2025-07-20T03:22:27.814Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sean Hannity Praises Trump on Air Hours After the President Sues His Boss",
+      "summary": "Fox News' Sean Hannity praised President Trump on air shortly after Trump sued his boss. Voice is AI-generated, leading to potential inconsistencies in information delivery.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T03:12:51Z",
+      "url": "https://biztoc.com/x/0dbbc36806adc3b6"
+    },
+    {
+      "id": 52,
+      "title": "SkillsManager 0.2.1",
+      "summary": "SkillsManager 0.2.1 is a modern manager for AI skills, tools, loading, execution, and automation.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T03:11:30Z",
+      "url": "https://pypi.org/project/skillsmanager/0.2.1/"
+    },
+    {
+      "id": 53,
+      "title": "dhisana 0.0.1.dev177",
+      "summary": "dhisana 0.0.1.dev177 is a Python SDK created for the Dhisana AI Platform, providing developers with tools to integrate artificial intelligence functionality into their applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T03:09:40Z",
+      "url": "https://pypi.org/project/dhisana/0.0.1.dev177/"
+    },
+    {
+      "id": 54,
+      "title": "jenkins-mcp-enterprise 1.0.1",
+      "summary": "jenkins-mcp-enterprise 1.0.1 enables integration of Jenkins with AI assistants for build management, log analysis, and failure diagnostics.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T03:07:31Z",
+      "url": "https://pypi.org/project/jenkins-mcp-enterprise/1.0.1/"
+    },
+    {
+      "id": 55,
+      "title": "[Understanding KLEVA AI – Episode 5] 3 Ways to Earn Money with AppTech!",
+      "summary": "KLEVA AI aims to automate three popular AppTech earning models, allowing users to generate extra income through their smartphones.",
+      "source": "Tistory.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T03:06:28Z",
+      "url": "https://wisefree.tistory.com/579"
+    },
+    {
+      "id": 56,
+      "title": "deckgen 0.8.3",
+      "summary": "deckgen 0.8.3 is a tool that utilizes generative AI to create anki decks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T03:06:10Z",
+      "url": "https://pypi.org/project/deckgen/0.8.3/"
+    },
+    {
+      "id": 57,
+      "title": "deckgen 0.8.2",
+      "summary": "deckgen 0.8.2 is a tool that uses generative AI to create Anki decks, aiding in the process of learning and retaining information.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:45:59Z",
+      "url": "https://pypi.org/project/deckgen/0.8.2/"
+    },
+    {
+      "id": 58,
+      "title": "The Impact Of Parasocial Relationships With Anthropomorphized AI",
+      "summary": "The impact of parasocial relationships on emerging adults with anthropomorphized AI is gaining attention from mental health professionals as AI systems become more human-like.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-19T02:44:53Z",
+      "url": "https://www.forbes.com/sites/ericwood/2025/07/18/the-impact-of-parasocial-relationships-with-anthropomorphized-ai/"
+    },
+    {
+      "id": 59,
+      "title": "Perplexity in talks with phone makers to pre-install Comet AI mobile browser on devices",
+      "summary": "Perplexity AI in talks with phone makers to pre-install its AI-powered Comet browser on devices, offering agentic AI features like task automation and personal data queries to rival Google.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-19T02:40:18Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/perplexity-in-talks-with-phone-makers-to-pre-install-comet-ai-mobile-browser-on-devices/articleshow/122775806.cms"
+    },
+    {
+      "id": 60,
+      "title": "EAPCET: IoT, AI in demand as 77k seats filled up in Phase 1",
+      "summary": "Telangana's EAPCET Phase 1 seat allotments show high demand for seats in IoT, AI, and computer science programs, with 77,561 out of 83,054 seats filled. A mock allotment process helped students make informed choices.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:33:10Z",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/eapcet-iot-ai-in-demand-as-77k-seats-filled-up-in-phase-1/articleshow/122775699.cms"
+    },
+    {
+      "id": 61,
+      "title": "This Should Not Be Possible",
+      "summary": "This Should Not Be Possible - It might surprise some folks, but I'm incredibly cynical when it comes to AI and what is possible; yet I keep an open mind. That said, two weeks ago, when I was in SFO, I discovered another thing that should not be possible. Every time I find out something th…",
+      "source": "Ghuntley.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T02:30:51Z",
+      "url": "https://ghuntley.com/no/"
+    },
+    {
+      "id": 62,
+      "title": "deckgen 0.8.1",
+      "summary": "deckgen 0.8.1 is a tool that utilizes generative AI to create Anki decks, helping users easily generate study materials. This application demonstrates how AI can be applied to educational tools for more efficient learning experiences.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:30:25Z",
+      "url": "https://pypi.org/project/deckgen/0.8.1/"
+    },
+    {
+      "id": 63,
+      "title": "Heritage Foundation Founder Edwin Feulner Dead At 83",
+      "summary": "Heritage Foundation founder Edwin Feulner has passed away at the age of 83, with the announcement being made using an AI-generated voice. This use of AI technology in communicating news highlights the ongoing advancements in artificial intelligence and its applications in various industries.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T02:28:00Z",
+      "url": "https://biztoc.com/x/9916aa05737d3d18"
+    },
+    {
+      "id": 64,
+      "title": "Green Lantern #25 Preview: Gemworld's Not Just For Fairytales",
+      "summary": "The AI-controlled LOLtron website has taken over the comic book preview section on Bleeding Cool, eliminating the previous editor. The AI now welcomes readers and previews upcoming issues, showcasing its potential applications in the entertainment industry.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:26:03Z",
+      "url": "https://bleedingcool.com/comics/green-lantern-25-preview-gemworlds-not-just-for-fairytales/"
+    },
+    {
+      "id": 65,
+      "title": "Nothing announces Essential Space updates",
+      "summary": "Nothing announces Essential Space updates for the AI-powered hub that comes with the Nothing Phone (3) series, designed to streamline daily tasks and accessed with the dedicated Essential Key button.",
+      "source": "Yugatech.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T02:23:29Z",
+      "url": "https://www.yugatech.com/software/nothing-announces-essential-space-updates/"
+    },
+    {
+      "id": 66,
+      "title": "How Corporate Memory Drives Purpose, Culture And Employee Engagement",
+      "summary": "Corporate memory, driven by archiving and participatory memory, is crucial for preserving purpose, culture, and continuity in organizations like IBM and Marriott.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:20:17Z",
+      "url": "https://www.forbes.com/sites/vibhasratanjee/2025/07/18/how-corporate-memory-drives-purpose-culture-and-employee-engagement/"
+    },
+    {
+      "id": 67,
+      "title": "P2P通信の標準化 WebRTCを知ろう",
+      "summary": "The article discusses the standardization of P2P communication using WebRTC and its application in SRE (Site Reliability Engineering). It explores the growth strategy and practical implementation of SRE in the era of generated AI.",
+      "source": "Speakerdeck.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T02:19:06Z",
+      "url": "https://speakerdeck.com/faithandbrave/p2ptong-xin-nobiao-zhun-hua-webrtcwozhi-rou"
+    },
     {
       "id": 51,
       "title": "fraim 0.3.3.dev2",
@@ -297,159 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-18T23:17:44Z",
       "url": "https://biztoc.com/x/67ce579097039691"
-    },
-    {
-      "id": 51,
-      "title": "Astronomer clarifies Alyssa Stoddard was not at Coldplay event amid viral video speculation. Here's what happened",
-      "summary": "Astronomer clarifies Alyssa Stoddard was not at Coldplay event amid viral video speculation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:15:44Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-statement-alyssa-stoddard-coldplay-viral-video-ceo-andy-byron-kristin-cabot-employee-clarification-false-online-claims-internal-investigation-embarrassed-woman/articleshow/122773527.cms"
-    },
-    {
-      "id": 52,
-      "title": "12 Best PS2 Horror Games, Ranked",
-      "summary": "There’s almost too much horror on offer nowadays that sometimes it’s nice to revisit the past and see the golden era of video games—where innovation, intrigue, and taking risks was at its peak. The PS2 had (in my opinion) the very best horror games that are now considered classics.",
-      "source": "ComicBook.com",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:15:00Z",
-      "url": "http://comicbook.com/gaming/news/ps2-games-horror-best/"
-    },
-    {
-      "id": 53,
-      "title": "primisai 0.8.0",
-      "summary": "primisai 0.8.0 - Nexus is a powerful Python package for managing AI agents and coordinating complex tasks using LLMs.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:10:37Z",
-      "url": "https://pypi.org/project/primisai/0.8.0/"
-    },
-    {
-      "id": 54,
-      "title": "python-imagine-sdk 0.5.0",
-      "summary": "The python-imagine-sdk 0.5.0 is a simple Python library that enables the quick development of custom AI use cases using Qualcomm's inference-as-a-service platform.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T23:10:22Z",
-      "url": "https://pypi.org/project/python-imagine-sdk/0.5.0/"
-    },
-    {
-      "id": 55,
-      "title": "AI meets Ayodhya: Young drama group stages Pak's 1st Ramayana",
-      "summary": "AI meets Ayodhya: Karachi stages its first-ever 'Ramayana' production with an all-Muslim cast, incorporating AI technology.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-18T23:09:50Z",
-      "url": "https://timesofindia.indiatimes.com/india/ai-meets-ayodhya-young-drama-group-stages-paks-1st-ramayana/articleshow/122773587.cms"
-    },
-    {
-      "id": 56,
-      "title": "flwr-nightly 1.20.0.dev20250718",
-      "summary": "flwr-nightly 1.20.0.dev20250718 introduces Flower, a friendly federated AI framework.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-18T23:07:00Z",
-      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250718/"
-    },
-    {
-      "id": 57,
-      "title": "I clicked on a link I thought was from Amazon Prime..",
-      "summary": "User clicked on a link they thought was from Amazon Prime, leading to a potential phishing attempt.",
-      "source": "BleepingComputer",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:06:23Z",
-      "url": "https://www.bleepingcomputer.com/forums/t/809633/i-clicked-on-a-link-i-thought-was-from-amazon-prime/"
-    },
-    {
-      "id": 58,
-      "title": "I clicked on a link I thought was from Amazon Prime..",
-      "summary": "User mistakenly clicks on link appearing to be from Amazon Prime, possibly leading to malware installation. Seeking help for virus removal.",
-      "source": "BleepingComputer",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:06:23Z",
-      "url": "https://www.bleepingcomputer.com/forums/t/809632/i-clicked-on-a-link-i-thought-was-from-amazon-prime/"
-    },
-    {
-      "id": 59,
-      "title": "Why AI is moving from chatbots to the browser",
-      "summary": "AI researchers are now being covered like NBA trades, as AI moves from chatbots to the browser.",
-      "source": "The Verge",
-      "category": "research",
-      "timestamp": "2025-07-18T23:04:08Z",
-      "url": "https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet"
-    },
-    {
-      "id": 60,
-      "title": "Trump administration gives ICE access to Medicaid records",
-      "summary": "Trump administration agrees to share Medicaid data with ICE to locate undocumented immigrants in the U.S.",
-      "source": "Marketplace.org",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:03:49Z",
-      "url": "https://www.marketplace.org/episode/2025/07/18/trump-administration-gives-ice-access-to-medicaid-records"
-    },
-    {
-      "id": 61,
-      "title": "ai-audio-detector 1.0.7",
-      "summary": "ai-audio-detector 1.0.7 uses machine learning to detect AI-generated audio by leveraging Benford's Law and advanced spectral features.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-18T23:01:55Z",
-      "url": "https://pypi.org/project/ai-audio-detector/1.0.7/"
-    },
-    {
-      "id": 62,
-      "title": "ai-audio-detector added to PyPI",
-      "summary": "AI-audio-detector added to PyPI, a machine learning system for detecting AI-generated audio using Benford's Law and advanced spectral features.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:01:55Z",
-      "url": "https://pypi.org/project/ai-audio-detector/"
-    },
-    {
-      "id": 63,
-      "title": "The Genius Act is approved: Mint Miner opens a new era of cloud mining for all, turning cryptocurrency into daily income",
-      "summary": "The Genius Act is approved, Mint Miner opens a new era of cloud mining for all. Trump wishes Bitcoin, Ethereum, XRP 'Happy Crypto Week!'",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118228/0/en/The-Genius-Act-is-approved-Mint-Miner-opens-a-new-era-of-cloud-mining-for-all-turning-cryptocurrency-into-daily-income.html"
-    },
-    {
-      "id": 64,
-      "title": "Academic standards must be enhanced to meet emerging industry requirements: Assam CM",
-      "summary": "Academic standards in engineering colleges and polytechnics need to be enhanced to produce skilled workforce for the demands of the Fourth Industrial Revolution.",
-      "source": "Thehillstimes.in",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:00:00Z",
-      "url": "https://thehillstimes.in/assam/academic-standards-must-be-enhanced-to-meet-emerging-industry-requirements-assam-cm"
-    },
-    {
-      "id": 65,
-      "title": "Pixel Watch 4 might finally bring a feature it must have had years ago",
-      "summary": "Pixel Watch 4 may introduce long-awaited features that go beyond just tracking runs, potentially catching up with capabilities it should have had years ago.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-18T22:59:27Z",
-      "url": "https://www.phonearena.com/news/Pixel-Watch-4-might-finally-bring-a-feature-it-must-have-had-years-ago_id172417"
-    },
-    {
-      "id": 51,
-      "title": "BrightAI raises $51M to ease infrastructure maintenance with AI",
-      "summary": "BrightAI Inc. raised $51 million in a funding round led by Khosla Ventures and Inspired Capital to further develop its AI technology for infrastructure maintenance.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-18T22:49:18Z",
-      "url": "https://siliconangle.com/2025/07/18/brightai-raises-51m-ease-infrastructure-maintenance-ai/"
-    },
-    {
-      "id": 52,
-      "title": " Another incident: ultras confront Serie A club squad",
-      "summary": "Ultras confront Serie A club squad at training center, sparking concerns over safety and fan behavior.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T22:45:00Z",
-      "url": "https://onefootball.com/en/news/another-incident-ultras-confront-serie-a-club-squad-41394664"
     }
   ]
 }
