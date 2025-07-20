@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-20T14:34:48.784Z",
+  "lastUpdate": "2025-07-20T14:51:02.884Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AppLovin Corporation (APP) Is A “Cash Flow Machine,” Says Jim Cramer",
+      "summary": "AppLovin Corporation (APP) Is A “Cash Flow Machine,” Says Jim Cramer. Recently discussed as part of an AI-Led 'American Renaissance'.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-19T14:49:32Z",
+      "url": "https://finance.yahoo.com/news/applovin-corporation-app-cash-flow-144932271.html"
+    },
+    {
+      "id": 52,
+      "title": "Trump Slams 'Troublemakers' After Grand Jury Order To Unseal Epstein Files",
+      "summary": "President Donald Trump has requested testimony to be unsealed in relation to the Jeffrey Epstein case, potentially revealing new information. This action raises ethical questions about transparency and accountability in high-profile legal cases involving powerful individuals.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T14:48:23Z",
+      "url": "https://biztoc.com/x/1554874aa6ae3a7a"
+    },
+    {
+      "id": 53,
+      "title": "CrowdStrike (CRWD) Initiated at ‘Neutral’ by Macquarie on Valuation Concerns",
+      "summary": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) was initiated at 'Neutral' by Macquarie analyst Steve Koenig on July 17 due to valuation concerns, with the company being one of the AI Stocks on Wall Street's Radar.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:46:14Z",
+      "url": "https://finance.yahoo.com/news/crowdstrike-crwd-initiated-neutral-macquarie-144614050.html"
+    },
+    {
+      "id": 54,
+      "title": "How Higher Ed Can Secure Funding To Align With An AI-Powered Workforce",
+      "summary": "Higher education has secured significant funding to align with the AI-powered workforce, showcasing its impact on the economy.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:43:56Z",
+      "url": "https://www.forbes.com/sites/avivalegatt/2025/07/19/how-higher-ed-can-secure-funding-to-align-with-an-ai-powered-workforce/"
+    },
+    {
+      "id": 55,
+      "title": "Ari Aster: Eddington Is a COVID Period Piece About a Moment We’re ‘Unable to Metabolize’",
+      "summary": "Ari Aster started writing the film that would become Eddington during the COVID-19 pandemic, highlighting the current global situation. The film explores a moment that people are struggling to understand and cope with.",
+      "source": "Den of Geek US",
+      "category": "applications",
+      "timestamp": "2025-07-19T14:43:42Z",
+      "url": "http://www.denofgeek.com/movies/ari-aster-eddington-covid-period-piece-moment-unable-metabolize/"
+    },
+    {
+      "id": 56,
+      "title": "Google Pixel 10 Pro: Best View Yet Of New Design Shown In Latest Leaks",
+      "summary": "Leaked images of a Pixel 10 Pro prototype reveal a refined design with a slimmer camera bar and symmetrical bezels ahead of Google’s August 20 launch event.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:41:01Z",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/19/google-pixel-10-pro-upgrade-design-pictures-leaks-new-pixel/"
+    },
+    {
+      "id": 57,
+      "title": "Mizuho Raises Microsoft (MSFT) Price Target to $540, Reiterates Outperform on AI Strength",
+      "summary": "Mizuho raises Microsoft (MSFT) price target to $540 and reiterates outperform rating based on AI strength.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:37:58Z",
+      "url": "https://biztoc.com/x/706edde1670b1f5d"
+    },
+    {
+      "id": 58,
+      "title": "Cantor Fitzgerald Stays Bullish on Amazon (AMZN), Lifts Target to $260 on Retail and AWS Growth",
+      "summary": "Cantor Fitzgerald analyst raises price target on Amazon.com, Inc. to $260 citing growth in retail and AWS, making it one of the AI Stocks Investors Are Watching Closely.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:37:57Z",
+      "url": "https://biztoc.com/x/4c86c83a468ca8d2"
+    },
+    {
+      "id": 59,
+      "title": "Cantor Fitzgerald Lifts Meta to $828 Price Target on AI Talent, Ad Gains",
+      "summary": "Cantor Fitzgerald raises Meta's price target on AI talent and ad gains to $828, highlighting the company as one of the AI stocks investors are watching closely.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:37:54Z",
+      "url": "https://biztoc.com/x/e21adb67f45da6e0"
+    },
+    {
+      "id": 60,
+      "title": "Stock Downgraded: HSBC Flags Liquidity Strains, Heavy Capex Ahead",
+      "summary": "CoreWeave, Inc. was downgraded by HSBC due to liquidity strains and heavy capex ahead. The firm initiated the stock as 'Reduce' with a $32 price target.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-19T14:37:48Z",
+      "url": "https://biztoc.com/x/1712ab513952c593"
+    },
+    {
+      "id": 61,
+      "title": "IBM Seen as ‘Stable Compounder’ — Stifel Lifts Price Target Ahead of Q2",
+      "summary": "IBM's stock is considered a stable compounder and is closely watched in the AI sector. Stifel analyst increased the price target ahead of Q2 earnings.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:37:39Z",
+      "url": "https://biztoc.com/x/14ea06b98299467e"
+    },
+    {
+      "id": 62,
+      "title": "Analysts Raise AMD Target on Renewed China AI Chip Opportunities",
+      "summary": "Analysts raised Advanced Micro Devices, Inc. target price on renewed China AI chip opportunities, indicating growing interest in AI technology within the semiconductor industry.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:37:39Z",
+      "url": "https://biztoc.com/x/d6a970c67dfe72c9"
+    },
+    {
+      "id": 63,
+      "title": "Needham Sticks With Buy on Nvidia (NVDA), Lifts Target to $200",
+      "summary": "Needham analyst raised price target on NVIDIA to $200, citing its position as one of the AI Stocks Investors Are Watching Closely.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:37:28Z",
+      "url": "https://biztoc.com/x/847802d029db867c"
+    },
+    {
+      "id": 64,
+      "title": "Death by AI",
+      "summary": "One man shares his struggle with the idea of mortality in the age of AI.",
+      "source": "Substack.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T14:35:11Z",
+      "url": "https://davebarry.substack.com/p/death-by-ai"
+    },
     {
       "id": 51,
       "title": " Reports: Next superstar for Flick as Barça sign top Premier League player",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T13:35:05Z",
       "url": "https://finance.yahoo.com/news/nvidias-china-restart-faces-production-133505741.html"
-    },
-    {
-      "id": 56,
-      "title": " KDB: Napoli top pick, Maradona’s 10 surprises, Conte, CL, my role ",
-      "summary": "Napoli will officially present Kevin De Bruyne as their first signing of the summer session during a press conference on the third day of the retreat in Dimaro.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:35:00Z",
-      "url": "https://onefootball.com/en/news/kdb-napoli-top-pick-maradonas-10-surprises-conte-cl-my-role-41396464"
-    },
-    {
-      "id": 57,
-      "title": "Hypersonic SABRE engine reignited in Invictus Mach 5 spaceplane",
-      "summary": "Hypersonic SABRE engine reignited in Invictus Mach 5 spaceplane, proving the resilience of technology with a new program announced by a British-led consortium.",
-      "source": "New Atlas",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:33:00Z",
-      "url": "https://newatlas.com/space/reaction-engines-hypersonic-tech-invictus-program/"
-    },
-    {
-      "id": 58,
-      "title": "Wirtz-Salah, Anfield’s new partnership",
-      "summary": "Wirtz-Salah partnership at Anfield working on an AI project for Liverpool, with one player being the best on the team last season and the other a significant signing in the market.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:29:00Z",
-      "url": "https://onefootball.com/en/news/wirtz-salah-anfields-new-partnership-41396512"
-    },
-    {
-      "id": 59,
-      "title": "kashima 1.0.8.0",
-      "summary": "kashima 1.0.8.0 is a machine learning tool developed for geotechnical earthquake engineering, providing advanced capabilities for analyzing earthquake-related data and improving seismic risk assessment.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-19T13:28:33Z",
-      "url": "https://pypi.org/project/kashima/1.0.8.0/"
-    },
-    {
-      "id": 60,
-      "title": "Does he deserve a call-up? Kaio Jorge chasing scoring record",
-      "summary": "Kaio Jorge is chasing the scoring record in the Brazilian Championship, looking to surpass the 15 goals scored by Alejandro and Yuri Alberto. He is considered one of the highlights of Cruzeiro and is on track to break the record soon.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:28:00Z",
-      "url": "https://onefootball.com/en/news/does-he-deserve-a-call-up-kaio-jorge-chasing-scoring-record-41396510"
-    },
-    {
-      "id": 61,
-      "title": "NVIDIA CEO Jensen Huang Says He’d Ditch CS Over Physical Sciences If He Were 20; Getting a Head Start on the “Physical AI” Hype Train",
-      "summary": "NVIDIA CEO Jensen Huang recommends studying physical sciences over computer science and predicts the next 'gold rush' in AI will focus on physical AI.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:27:36Z",
-      "url": "https://wccftech.com/nvidia-ceo-says-hed-choose-physical-sciences-over-cs-if-he-were-20/"
-    },
-    {
-      "id": 62,
-      "title": "Mondiali pallanuoto: la nazionale femminile italiana",
-      "summary": "The Italian women's national water polo team competed in the World Aquatics Championships in Singapore, where they sang the national anthem before their match against Hungary. The event took place in July 2025.",
-      "source": "ANSA.it",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:26:22Z",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/mondiali-pallanuoto-la-nazionale-femminile-italiana_00704990-2b29-416c-95a8-4e72834cbe2b.html"
-    },
-    {
-      "id": 63,
-      "title": "diffscribe 0.1.2",
-      "summary": "diffscribe 0.1.2 is an AI-powered Git commit message generator that uses Groq & Gemini for improved efficiency in version control.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:24:30Z",
-      "url": "https://pypi.org/project/diffscribe/0.1.2/"
-    },
-    {
-      "id": 64,
-      "title": "KeyCorp (NYSE:KEY) Is Due To Pay A Dividend Of $0.205",
-      "summary": "KeyCorp (NYSE:KEY) is due to pay a dividend of $0.205 on September 15th.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T13:23:04Z",
-      "url": "https://finance.yahoo.com/news/keycorp-nyse-key-due-pay-132304208.html"
-    },
-    {
-      "id": 65,
-      "title": "The AI Ghost in the Machine Fired Him. Then It Gave Him a New Life",
-      "summary": "After an algorithm ended his career, Mark Quinn, 45, hired it to start a new one.",
-      "source": "Gizmodo.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T13:20:24Z",
-      "url": "https://gizmodo.com/the-ai-ghost-in-the-machine-fired-him-then-it-gave-him-a-new-life-2000631675"
-    },
-    {
-      "id": 66,
-      "title": "1 No-Brainer Artificial Intelligence Index Fund to Buy Right Now for Less Than $1,000",
-      "summary": "The article discusses a no-brainer artificial intelligence index fund that tracks the Nasdaq-100 and includes exposure to many large AI players. The fund is relatively inexpensive and has historically been a great long-term investment, making it an attractive option for investors looking to capitalize on the AI market.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T13:19:09Z",
-      "url": "https://biztoc.com/x/05f47695dd38e777"
-    },
-    {
-      "id": 67,
-      "title": "Meta’s AI Innovations Drive $850 Price Target as Analysts See Strong Q2 Ahead",
-      "summary": "Meta Platforms, Inc. receives a price target raise to $850 as analysts predict strong Q2 performance. Canaccord Genuity maintains a 'Buy' rating on the stock.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T13:18:58Z",
-      "url": "https://biztoc.com/x/048885d6f9fe24e4"
-    },
-    {
-      "id": 51,
-      "title": "TSMC posts 60.7% y-o-y jump in Q2 profit, CEO calls H20 chip resumption a positive sign",
-      "summary": "TSMC reported strong second-quarter results, with revenue up 38.6% year-on-year to NT$933.79 billion ($29.1 billion) and net profit increasing by 60.7% year-on-year to NT$398.27 billion ($12.4 billion) driven by robust demand for AI.",
-      "source": "TechNode",
-      "category": "economy",
-      "timestamp": "2025-07-19T13:08:40Z",
-      "url": "http://technode.com/2025/07/19/tsmc-posts-60-7-y-o-y-jump-in-q2-profit-ceo-calls-h20-chip-resumption-a-positive-sign/"
-    },
-    {
-      "id": 52,
-      "title": "Family Medicine specialist given a second chance at life | Berea Mail",
-      "summary": "College of Health Sciences partners with DKMS to recruit 1000 stem cell donors, launching campaign attended by UKZN staff and students.",
-      "source": "Auburn Citizen",
-      "category": "research",
-      "timestamp": "2025-07-19T13:05:43Z",
-      "url": "https://www.citizen.co.za/berea-mail/news-headlines/2025/07/19/family-medicine-specialist-given-a-second-chance-at-life/"
     }
   ]
 }
