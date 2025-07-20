@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-20T18:48:47.947Z",
+  "lastUpdate": "2025-07-20T19:22:14.427Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Astronomer CEO resigns after Coldplay Jumbotron incident with HR head",
+      "summary": "Astronomer CEO resigns after incident with HR head at Coldplay concert, with co-founder stepping in as interim CEO.",
+      "source": "Fox Business",
+      "category": "startups",
+      "timestamp": "2025-07-19T19:09:46Z",
+      "url": "https://www.foxbusiness.com/entertainment/astronomer-ceo-caught-cuddling-concert-jumbotron-hr-head-resigns"
+    },
+    {
+      "id": 52,
+      "title": "Tech company CEO resigns after Coldplay concert video fallout",
+      "summary": "Tech company CEO resigns after inappropriate behavior at Coldplay concert",
+      "source": "WCVB Boston",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:08:29Z",
+      "url": "https://www.wcvb.com/article/gillette-stadium-coldplay-concert-kiss-cam-viral-video-astronomer-ceo-resigns/65454732"
+    },
+    {
+      "id": 53,
+      "title": "NCAA Championships, Iran Museums, NotebookLM, More: Saturday Afternoon ResearchBuzz, July 19, 2025",
+      "summary": "New NCAA historical database provides wealth of information on championships",
+      "source": "Researchbuzz.me",
+      "category": "research",
+      "timestamp": "2025-07-19T19:08:16Z",
+      "url": "https://researchbuzz.me/2025/07/19/ncaa-championships-iran-museums-notebooklm-more-saturday-afternoon-researchbuzz-july-19-2025/"
+    },
+    {
+      "id": 54,
+      "title": "Elon Musk’s latest blending of his business interests puts the Grok AI chatbot in all new Teslas—and raises questions around data and privacy",
+      "summary": "Elon Musk's Grok AI chatbot has been installed in all new Teslas, raising questions about data and privacy in AI applications.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:07:42Z",
+      "url": "https://biztoc.com/x/8912f47453fb6605"
+    },
+    {
+      "id": 55,
+      "title": "Alien: Earth Key Art/Character Posters: Looks Like Earth's On The Menu",
+      "summary": "Alien: Earth key art poster for FX Networks' new series suggests that Earth is on the Xenomorph's menu.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:07:04Z",
+      "url": "https://bleedingcool.com/tv/alien-earth-key-art-character-posters-looks-like-earths-on-the-menu/"
+    },
+    {
+      "id": 56,
+      "title": "Moros Protocol launches September 4",
+      "summary": "Moros Protocol, a science-fiction roguelite first-person shooter, will launch for PC via Steam on September 4.",
+      "source": "Gematsu",
+      "category": "startups",
+      "timestamp": "2025-07-19T19:06:40Z",
+      "url": "https://www.gematsu.com/2025/07/moros-protocol-launches-september-4"
+    },
+    {
+      "id": 57,
+      "title": "fleetfluid added to PyPI",
+      "summary": "fleetfluid, an AI-related tool, has been added to PyPI to provide AI Agent functions for ETL processing.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:06:05Z",
+      "url": "https://pypi.org/project/fleetfluid/"
+    },
+    {
+      "id": 58,
+      "title": "fleetfluid 0.1.1",
+      "summary": "fleetfluid 0.1.1 is an AI agent designed to assist with ETL processing tasks, providing functionality for data extraction, transformation, and loading.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:06:05Z",
+      "url": "https://pypi.org/project/fleetfluid/0.1.1/"
+    },
+    {
+      "id": 59,
+      "title": "Astronomer CEO resigns after viral 'kiss cam' incident at Coldplay concert",
+      "summary": "Astronomer CEO resigns after viral 'kiss cam' incident at Coldplay concert, highlighting ethical concerns",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:04:47Z",
+      "url": "https://www.businessinsider.com/astronomer-ceo-andy-byron-resigns-viral-kiss-cam-incident-coldplay-2025-7"
+    },
+    {
+      "id": 60,
+      "title": "Quantum computing is so fire — No, seriously. BofA says it could be humanity’s biggest breakthrough since the discovery of fire",
+      "summary": "Bank of America predicts that quantum computing could be humanity's biggest breakthrough since the discovery of fire, allowing for endless complex calculations to be performed in zero-time and speeding up human knowledge and development.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:04:20Z",
+      "url": "https://finance.yahoo.com/news/quantum-computing-fire-no-seriously-190420811.html"
+    },
+    {
+      "id": 61,
+      "title": "Quantum computing is so fire — No, seriously. BofA says it could be humanity’s biggest breakthrough since the discovery of fire",
+      "summary": "Quantum computing could be humanity's biggest breakthrough since the discovery of fire, according to BofA, with the potential to warp-speed human knowledge and development by performing endless complex calculations in zero-time.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:04:20Z",
+      "url": "https://fortune.com/2025/07/19/quantum-computing-discovery-fire-tech-breakthrough-humanity-revolution/"
+    },
+    {
+      "id": 62,
+      "title": "Civitai Blocking Access to the United Kingdom",
+      "summary": "Thanks to the Online Safety Act, UK is blocking access to Civitai, one of the world's largest AI resources, hindering the government's goal of becoming a software powerhouse.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-19T19:04:04Z",
+      "url": "https://slashdot.org/submission/17338042/civitai-blocking-access-to-the-united-kingdom"
+    },
+    {
+      "id": 63,
+      "title": "Astronomer CEO Andy Byron Resigns After Kiss Cam Affair Rumors",
+      "summary": "Astronomer CEO Andy Byron resigns following rumors of affair with employee, raising ethical concerns.",
+      "source": "Us Weekly",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:00:58Z",
+      "url": "https://www.usmagazine.com/celebrity-news/news/andy-byron-resigns-as-astronomer-ceo-amid-kiss-cam-affair-scandal/#article"
+    },
+    {
+      "id": 64,
+      "title": "Elon Musk’s latest blending of his business interests puts the Grok AI chatbot in all new Teslas—and raises questions around data and privacy",
+      "summary": "Elon Musk integrates Grok AI chatbot in new Teslas, sparking concerns about data privacy and potential use of vehicle data for training language models.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-19T19:00:47Z",
+      "url": "https://fortune.com/2025/07/19/elon-musk-tesla-xai-grok-mixes-business-interests-llm-training-data-privacy-questions/"
+    },
+    {
+      "id": 65,
+      "title": "Can your Apple Watch detect pregnancy?",
+      "summary": "Apple Watch and iPhone can detect pregnancy through AI analysis of movement patterns, sleep habits, and heart rate with remarkable accuracy.",
+      "source": "Fox News",
+      "category": "innovation",
+      "timestamp": "2025-07-19T19:00:35Z",
+      "url": "https://www.foxnews.com/tech/can-your-apple-watch-detect-pregnancy"
+    },
+    {
+      "id": 66,
+      "title": "Is the Harymor Q8 Smart Bird Feeder worth it? My mobile birdwatching experience",
+      "summary": "If you're stuck in your office all day, but want to admire nature as it comes in and out of your yard, check out the Harymor Q8 Smart Bird Feeder so you can watch your feathered friends from anywhere.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:00:01Z",
+      "url": "https://www.neowin.net/reviews/is-the-harymor-q8-smart-bird-feeder-worth-it-my-mobile-birdwatching-experience/"
+    },
+    {
+      "id": 67,
+      "title": "Alien: Isolation’s Xenomorph Is the Scariest Video Game Monster of All Time (And It’s Not Even Close)",
+      "summary": "The Xenomorph from Alien: Isolation is considered the scariest video game monster of all time, surpassing others in horror games. Despite playing numerous horror games, the xenomorph still stands out as the most terrifying monster encountered by the player.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T19:00:00Z",
+      "url": "http://comicbook.com/gaming/news/alien-isolation-xenomorph-scariest-video-game-monster/"
+    },
     {
       "id": 51,
       "title": "Hits New All-Time High on 8th Day on Nuclear, AI Boom",
@@ -297,159 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-19T17:56:58Z",
       "url": "https://finance.yahoo.com/news/rigetti-computing-rgti-surges-40-175658958.html"
-    },
-    {
-      "id": 51,
-      "title": "Energy Fuels (UUUU) Jumps 41.8% on Rare Earth Boom Ride",
-      "summary": "Energy Fuels (UUUU) Jumps 41.8% on Rare Earth Boom Ride",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:50:49Z",
-      "url": "https://finance.yahoo.com/news/energy-fuels-uuuu-jumps-41-175049359.html"
-    },
-    {
-      "id": 52,
-      "title": "Perplexity AI’s Valuation Soars to $18B as Investors Rush for the AI Boom",
-      "summary": "Perplexity AI's valuation has reached $18B as investors show strong interest in the AI sector.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:48:56Z",
-      "url": "https://biztoc.com/x/19634461103aa27b"
-    },
-    {
-      "id": 53,
-      "title": "Two Hospitalized in Illinois Train Derailment",
-      "summary": "A train derailment in Illinois caused a chemical leak and sent two rail workers to the hospital. Norfolk Southern reported that 24 cars derailed, with two of them damaged.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:48:51Z",
-      "url": "https://biztoc.com/x/08c6887dfe4c59a8"
-    },
-    {
-      "id": 54,
-      "title": "aiwand 0.4.8",
-      "summary": "aiwand 0.4.8 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T17:47:17Z",
-      "url": "https://pypi.org/project/aiwand/0.4.8/"
-    },
-    {
-      "id": 55,
-      "title": "Joby Aviation (JOBY) Soars 48% on Aggressive Expansion",
-      "summary": "Joby Aviation (JOBY) Soars 48% on Aggressive Expansion",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:36:16Z",
-      "url": "https://finance.yahoo.com/news/joby-aviation-joby-soars-48-173616652.html"
-    },
-    {
-      "id": 56,
-      "title": "Pavlo Rudy: Clear Linux - In Memoriam",
-      "summary": "Intel closed another open source project, Clear Linux OS, which raises concerns about big corporations getting rid of open source initiatives.",
-      "source": "Nixsanctuary.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T17:35:47Z",
-      "url": "https://nixsanctuary.com/clear-linux-in-memoriam/"
-    },
-    {
-      "id": 51,
-      "title": "Nearly 2 million people watched this spellbinding video of a mini PC being built from a slab of aluminium to a complete computer",
-      "summary": "Nearly 2 million people watched a mesmerizing video of a mini PC being built from an aluminum slab to a complete computer, showcasing the entire manufacturing process. The video demonstrates the innovation and efficiency in production techniques, highlighting the advancements in technology.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:33:00Z",
-      "url": "https://www.techradar.com/pro/nearly-2-million-people-watched-this-spellbinding-video-of-a-mini-pc-being-built-from-a-slab-of-aluminium-to-a-complete-computer"
-    },
-    {
-      "id": 52,
-      "title": "I Never Lost A Job to Technology. I Have Gained Multiple Careers, Though.",
-      "summary": "AI is viewed as a threat to many jobs, but it has actually led to individuals gaining multiple careers through adaptation and advancement.",
-      "source": "Martech.zone",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:31:40Z",
-      "url": "https://martech.zone/my-ai-journey/"
-    },
-    {
-      "id": 53,
-      "title": "The Catholic Church Reportedly Called in an Exorcist to Deal With \"Yeti Cult\" Running Bizarre Blood Rituals at Archdiocese of Denver",
-      "summary": "The Catholic Church reportedly called in an exorcist to deal with a 'Yeti Cult' running bizarre blood rituals at the Archdiocese of Denver, involving seminarians from the St. John Vianney Theological Seminary in 2024.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-19T17:30:52Z",
-      "url": "https://futurism.com/satanic-yeti-cult-archdiocese"
-    },
-    {
-      "id": 54,
-      "title": "This summer of ’25, London is peak Instagram theatre, starring new-age desi babalogs",
-      "summary": "This summer of ’25, London is peak Instagram theatre, starring new-age desi babalogs - London has become the new hotspot for wealthy Indian travelers, showcasing their experiences on Instagram with aperitifs, garden pubs, and Michelin-starred Indian cuisine.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:30:28Z",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/this-summer-of-25-london-is-peak-instagram-theatre-starring-new-age-desi-babalogs/articleshow/122785862.cms"
-    },
-    {
-      "id": 55,
-      "title": "howie-ai-script added to PyPI",
-      "summary": "howie-ai-script, a new AI-related tool, has been added to PyPI for easier accessibility and usage in Python programming.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:30:06Z",
-      "url": "https://pypi.org/project/howie-ai-script/"
-    },
-    {
-      "id": 56,
-      "title": "Snap judgement? In a world of scrolls and swipes, your DP is a deal-maker or breaker, here’s why",
-      "summary": "In 2025, online profile pictures serve as crucial first impressions, signaling competence and personality. Choices like black and white, pet photos, or luxury items convey specific messages, while frequency of changes reflects engagement levels.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-19T17:30:00Z",
-      "url": "https://economictimes.indiatimes.com/news/india/snap-judgement-in-a-world-of-scrolls-and-swipes-your-dp-is-a-deal-maker-or-breaker-heres-why/articleshow/122785043.cms"
-    },
-    {
-      "id": 57,
-      "title": "Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal",
-      "summary": "Windsurf CEO shares details about the 'very bleak' mood before acquisition deal with Cognition. The AI coding startup faced drama and uncertainty leading up to the acquisition announcement.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:25:58Z",
-      "url": "https://biztoc.com/x/5bb680c6d6815b41"
-    },
-    {
-      "id": 58,
-      "title": "Beyond GPUs: Why Neuromorphic Chips Could Power the Future of AI",
-      "summary": "Beyond GPUs: Why Neuromorphic Chips Could Power the Future of AI",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:25:55Z",
-      "url": "https://biztoc.com/x/b148d2bf73809616"
-    },
-    {
-      "id": 59,
-      "title": "ETH Could Be Worth $15K Medium Term, $4K Target in the Short Term: Fundstrat's Tom Lee",
-      "summary": "Fundstrat's Tom Lee predicts Ethereum could reach $15,000 in the medium term, with a short-term target of $4,000 as tokenization and stablecoin growth accelerate.",
-      "source": "CoinDesk",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:22:46Z",
-      "url": "https://www.coindesk.com/markets/2025/07/19/eth-could-be-worth-usd15k-says-fundstrat-s-tom-lee-with-usd4k-target-in-the-short-term"
-    },
-    {
-      "id": 60,
-      "title": "Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal | TechCrunch",
-      "summary": "Windsurf CEO discusses 'very bleak' mood before acquisition by Cognition",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:21:21Z",
-      "url": "https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/"
-    },
-    {
-      "id": 61,
-      "title": "Mike Rowe warns of massive trade-job vacancies: 'AI is coming for the coders'",
-      "summary": "Mike Rowe warns of massive trade-job vacancies due to AI, stating that 'AI is coming for the coders' and highlighting the deficit of trades workers in the United States.",
-      "source": "Freerepublic.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:19:32Z",
-      "url": "https://freerepublic.com/focus/f-news/4329593/posts"
     }
   ]
 }
