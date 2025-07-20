@@ -5,7 +5,7 @@ import NextAuth from 'next-auth';
 import EmailProvider from 'next-auth/providers/email';
 import { SupabaseAdapter } from '@auth/supabase-adapter';
 
-export const authOptions = {
+export const authOptions = () => ({
   adapter: SupabaseAdapter({
     supabaseUrl: process.env.NEXT_PUBLIC_SUPABASE_URL,
     supabaseKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
@@ -36,7 +36,7 @@ export const authOptions = {
     },
   },
   debug: true,  // Enables detailed logs in Vercel - check for errors
-};
+});
 
 const handler = NextAuth(authOptions);
 
