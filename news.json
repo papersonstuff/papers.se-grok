@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-20T17:13:32.687Z",
+  "lastUpdate": "2025-07-20T17:33:31.398Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nearly 2 million people watched this spellbinding video of a mini PC being built from a slab of aluminium to a complete computer",
+      "summary": "Nearly 2 million people watched a mesmerizing video of a mini PC being built from an aluminum slab to a complete computer, showcasing the entire manufacturing process. The video demonstrates the innovation and efficiency in production techniques, highlighting the advancements in technology.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:33:00Z",
+      "url": "https://www.techradar.com/pro/nearly-2-million-people-watched-this-spellbinding-video-of-a-mini-pc-being-built-from-a-slab-of-aluminium-to-a-complete-computer"
+    },
+    {
+      "id": 52,
+      "title": "I Never Lost A Job to Technology. I Have Gained Multiple Careers, Though.",
+      "summary": "AI is viewed as a threat to many jobs, but it has actually led to individuals gaining multiple careers through adaptation and advancement.",
+      "source": "Martech.zone",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:31:40Z",
+      "url": "https://martech.zone/my-ai-journey/"
+    },
+    {
+      "id": 53,
+      "title": "The Catholic Church Reportedly Called in an Exorcist to Deal With \"Yeti Cult\" Running Bizarre Blood Rituals at Archdiocese of Denver",
+      "summary": "The Catholic Church reportedly called in an exorcist to deal with a 'Yeti Cult' running bizarre blood rituals at the Archdiocese of Denver, involving seminarians from the St. John Vianney Theological Seminary in 2024.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-19T17:30:52Z",
+      "url": "https://futurism.com/satanic-yeti-cult-archdiocese"
+    },
+    {
+      "id": 54,
+      "title": "This summer of ’25, London is peak Instagram theatre, starring new-age desi babalogs",
+      "summary": "This summer of ’25, London is peak Instagram theatre, starring new-age desi babalogs - London has become the new hotspot for wealthy Indian travelers, showcasing their experiences on Instagram with aperitifs, garden pubs, and Michelin-starred Indian cuisine.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:30:28Z",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/this-summer-of-25-london-is-peak-instagram-theatre-starring-new-age-desi-babalogs/articleshow/122785862.cms"
+    },
+    {
+      "id": 55,
+      "title": "howie-ai-script added to PyPI",
+      "summary": "howie-ai-script, a new AI-related tool, has been added to PyPI for easier accessibility and usage in Python programming.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:30:06Z",
+      "url": "https://pypi.org/project/howie-ai-script/"
+    },
+    {
+      "id": 56,
+      "title": "Snap judgement? In a world of scrolls and swipes, your DP is a deal-maker or breaker, here’s why",
+      "summary": "In 2025, online profile pictures serve as crucial first impressions, signaling competence and personality. Choices like black and white, pet photos, or luxury items convey specific messages, while frequency of changes reflects engagement levels.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-19T17:30:00Z",
+      "url": "https://economictimes.indiatimes.com/news/india/snap-judgement-in-a-world-of-scrolls-and-swipes-your-dp-is-a-deal-maker-or-breaker-heres-why/articleshow/122785043.cms"
+    },
+    {
+      "id": 57,
+      "title": "Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal",
+      "summary": "Windsurf CEO shares details about the 'very bleak' mood before acquisition deal with Cognition. The AI coding startup faced drama and uncertainty leading up to the acquisition announcement.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-19T17:25:58Z",
+      "url": "https://biztoc.com/x/5bb680c6d6815b41"
+    },
+    {
+      "id": 58,
+      "title": "Beyond GPUs: Why Neuromorphic Chips Could Power the Future of AI",
+      "summary": "Beyond GPUs: Why Neuromorphic Chips Could Power the Future of AI",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:25:55Z",
+      "url": "https://biztoc.com/x/b148d2bf73809616"
+    },
+    {
+      "id": 59,
+      "title": "ETH Could Be Worth $15K Medium Term, $4K Target in the Short Term: Fundstrat's Tom Lee",
+      "summary": "Fundstrat's Tom Lee predicts Ethereum could reach $15,000 in the medium term, with a short-term target of $4,000 as tokenization and stablecoin growth accelerate.",
+      "source": "CoinDesk",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:22:46Z",
+      "url": "https://www.coindesk.com/markets/2025/07/19/eth-could-be-worth-usd15k-says-fundstrat-s-tom-lee-with-usd4k-target-in-the-short-term"
+    },
+    {
+      "id": 60,
+      "title": "Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal | TechCrunch",
+      "summary": "Windsurf CEO discusses 'very bleak' mood before acquisition by Cognition",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-19T17:21:21Z",
+      "url": "https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/"
+    },
+    {
+      "id": 61,
+      "title": "Mike Rowe warns of massive trade-job vacancies: 'AI is coming for the coders'",
+      "summary": "Mike Rowe warns of massive trade-job vacancies due to AI, stating that 'AI is coming for the coders' and highlighting the deficit of trades workers in the United States.",
+      "source": "Freerepublic.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:19:32Z",
+      "url": "https://freerepublic.com/focus/f-news/4329593/posts"
+    },
+    {
+      "id": 62,
+      "title": "Scientists can finally make 'living' concrete that fixes its own cracks",
+      "summary": "Scientists have developed 'living' concrete that can self-repair its own cracks.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-19T17:16:01Z",
+      "url": "https://www.neowin.net/news/scientists-can-finally-make-living-concrete-that-fixes-its-own-cracks/"
+    },
+    {
+      "id": 63,
+      "title": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares",
+      "summary": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares by selling 75,000 shares on Friday, as part of a previously adopted plan to sell up to 6 million shares.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T17:14:37Z",
+      "url": "https://biztoc.com/x/0a6b6089b532085b"
+    },
     {
       "id": 51,
       "title": "Guest post: Employer Liability for Rogue AI Harassment: Will you Need to Fire your Large Language Model?",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T16:10:21Z",
       "url": "https://screenrant.com/dune-awakening-endgame-content-problem/"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Am-I-vibing, detect agentic coding environments",
-      "summary": "Am-I-vibing is a tool that detects agentic coding environments. It has received 2 points on Hacker News and has yet to receive any comments.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T16:07:41Z",
-      "url": "https://github.com/ascorbic/am-i-vibing"
-    },
-    {
-      "id": 54,
-      "title": "selenium-mcp-server 1.0.5",
-      "summary": "selenium-mcp-server 1.0.5 is a powerful MCP server that enables AI assistants to utilize Selenium WebDriver automation",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:04:29Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.0.5/"
-    },
-    {
-      "id": 55,
-      "title": "Silicon Valley's AI boom turns into a battle for brains – and billions",
-      "summary": "Silicon Valley's AI boom is leading to competition among AI companies for talent and funding, with Windsurf facing a power struggle despite being considered a rising star.",
-      "source": "TechSpot",
-      "category": "startups",
-      "timestamp": "2025-07-19T16:02:00Z",
-      "url": "https://www.techspot.com/news/108733-silicon-valley-ai-boom-turns-battle-brains-ndash.html"
-    },
-    {
-      "id": 56,
-      "title": "Woman loses £25,000 after posting video of her dogs to Instagram",
-      "summary": "Woman loses £25,000 after posting video of her dogs to Instagram, Meta reportedly suspended her accounts",
-      "source": "LADbible",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:01:46Z",
-      "url": "https://www.ladbible.com/news/world-news/business-owner-account-disabled-meta-dog-video-052130-20250719"
-    },
-    {
-      "id": 57,
-      "title": "AI Data Centers Accused of Creating Major Problems for Local Water Systems",
-      "summary": "AI Data Centers accused of causing water scarcity for local residents in Newton County, Georgia, as Meta builds a massive data center nearby.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:00:43Z",
-      "url": "https://futurism.com/ai-data-center-water"
-    },
-    {
-      "id": 58,
-      "title": "Govee Table Lamp 2 Pro x Sound by JBL review: A great lamp with an undercooked collab",
-      "summary": "The Govee Table Lamp 2 Pro x Sound by JBL is a smart light that combines with JBL sound, but the collaboration is undercooked.",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:00:10Z",
-      "url": "https://www.androidpolice.com/govee-table-lamp-2-pro-x-sound-by-jbl-review/"
-    },
-    {
-      "id": 59,
-      "title": "Notepad is losing its focus",
-      "summary": "Notepad is shifting focus towards becoming an ad platform for Copilot, moving away from its original purpose as a simple note-taking app.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-19T16:00:01Z",
-      "url": "https://www.neowin.net/editorials/notepad-is-losing-its-focus/"
-    },
-    {
-      "id": 60,
-      "title": "MSI Raider 18 HX AI",
-      "summary": "MSI Raider 18 HX AI is a powerful gaming laptop that prioritizes performance over portability, with a starting price of $3,999.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://uk.pcmag.com/laptops/159212/msi-raider-18-hx-ai"
-    },
-    {
-      "id": 61,
-      "title": "How To Use Claude AI For Crypto Management: A Practical Guide For 2025",
-      "summary": "How To Use Claude AI For Crypto Management: A Practical Guide For 2025 - Learn how to leverage AI for smarter investing and market understanding.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.forbes.com/sites/digital-assets/article/how-to-use-claude-ai-crypto-management/"
-    },
-    {
-      "id": 62,
-      "title": "UM top surgeon drives reform",
-      "summary": "UM top surgeon driving reform for positive change",
-      "source": "The Star Online",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.thestar.com.my/news/education/2025/07/20/um-top-surgeon-drives-reform"
-    },
-    {
-      "id": 63,
-      "title": "Malaysia, Indonesia boost edu ties",
-      "summary": "Malaysia and Indonesia are enhancing educational ties in strategic fields such as AI, renewable energy technology, and aerospace for collaboration between lecturers and students.",
-      "source": "The Star Online",
-      "category": "research",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://www.thestar.com.my/news/education/2025/07/20/malaysia-indonesia-boost-edu-ties"
-    },
-    {
-      "id": 64,
-      "title": "MSI Raider 18 HX AI",
-      "summary": "MSI Raider 18 HX AI is a powerful gaming mega-laptop focused on performance, priced at $3,999.",
-      "source": "PCMag.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://me.pcmag.com/en/laptops/31052/msi-raider-18-hx-ai"
-    },
-    {
-      "id": 65,
-      "title": "The Biden administration secretly stole your data to engineer elections and silence speech",
-      "summary": "The Biden administration secretly stole your data to engineer elections and silence speech. The Department of Government Efficiency traces the flow of dollars between government and partisan activists, but the flow of data may reveal an even deeper menace. The real story of government weaponization can only be told once we reckon with the shadowy...",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-19T16:00:00Z",
-      "url": "https://nypost.com/2025/07/19/opinion/the-biden-administration-secretly-stole-your-data-to-engineer-elections-and-silence-speech/"
     }
   ]
 }
