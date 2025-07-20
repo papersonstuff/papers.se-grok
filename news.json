@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-20T11:13:12.575Z",
+  "lastUpdate": "2025-07-20T11:28:31.602Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Vehicle Crashes Into Los Angeles Crowd, Injuring More Than 30",
+      "summary": "At least 31 people have been injured after a vehicle crashed into a crowd of people in Los Angeles on Saturday morning. The vehicle collided with pedestrians at around 2 a.m. on Santa Monica Boulevard in East.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T11:26:27Z",
+      "url": "https://biztoc.com/x/9ec172dbbf4eda20"
+    },
+    {
+      "id": 52,
+      "title": "Streets Of Rogue Collectors Edition v99h-DINOByTES",
+      "summary": "Streets Of Rogue Collectors Edition v99h-DINOByTES is a rogue-lite game about player choice and anarchic fun, inspired by fast-paced top-down rogue-lites like Binding of Isaac and Nuclear Throne.",
+      "source": "Rlsbb.ru",
+      "category": "applications",
+      "timestamp": "2025-07-19T11:24:28Z",
+      "url": "https://post.rlsbb.ru/streets-of-rogue-collectors-edition-v99h-dinobytes/"
+    },
+    {
+      "id": 53,
+      "title": "Reliving Esalen in the 1960s with AI – Ari Kuschnir arikuschnir",
+      "summary": "Reliving the golden days of Esalen in the 1960s using AI with Ari Kuschnir.",
+      "source": "Dailypsychedelicvideo.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T11:24:22Z",
+      "url": "https://dailypsychedelicvideo.com/2025/07/19/reliving-esalen-in-the-1960s-with-ai-ari-kuschnir-arikuschnir/"
+    },
+    {
+      "id": 54,
+      "title": "Jefferies Lifts Amazon (AMZN) Price Target to $265, Sees Revenue and Margin Upside",
+      "summary": "Jefferies raised Amazon's price target to $265, predicting revenue and margin increase. Amazon is considered a trending AI stock with a 'Buy' rating by Jefferies.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T11:16:49Z",
+      "url": "https://finance.yahoo.com/news/jefferies-lifts-amazon-amzn-price-111649725.html"
+    },
+    {
+      "id": 55,
+      "title": "Uttar Pradesh state assembly to be first with AI review of legislative performance",
+      "summary": "Uttar Pradesh state assembly will be the first to implement AI cameras for legislative performance review, starting as a pilot project in the monsoon session and fully implemented in the winter session.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-19T11:15:42Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uttar-pradesh-state-assembly-to-be-first-with-ai-review-of-legislative-performance/articleshow/122782235.cms"
+    },
     {
       "id": 51,
       "title": "Meta’s AI Innovations Drive $850 Price Target as Analysts See Strong Q2 Ahead",
@@ -405,51 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T10:07:29Z",
       "url": "https://biztoc.com/x/273e9b426362fc8e"
-    },
-    {
-      "id": 58,
-      "title": "Sally Susman helped steer Pfizer through COVID-19. Her advice for leaders? Learn to write — and listen.",
-      "summary": "Sally Susman from Pfizer emphasizes the importance of writing and listening for leaders in the field. She does not see communication as a 'soft skill' and highlights the dynamic nature of her work in the industry.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:05:01Z",
-      "url": "https://www.businessinsider.com/pfizer-sally-susman-communications-advice-writing-2025-7"
-    },
-    {
-      "id": 59,
-      "title": "Human vs ChatGPT : The Epic Battle at the 2025 AtCoder World Finals",
-      "summary": "At the 2025 AtCoder World Finals, OpenAI’s secret internal AI model came astonishingly close to claiming victory in one of the most prestigious coding competitions on the planet.",
-      "source": "Geeky Gadgets",
-      "category": "research",
-      "timestamp": "2025-07-19T10:02:41Z",
-      "url": "https://www.geeky-gadgets.com/openai-ai-vs-human-coding-competition/"
-    },
-    {
-      "id": 60,
-      "title": "AI 171 crash: Now, US NTSB terms western media reports ‘speculative’ as fresh leaks continue unabated",
-      "summary": "US NTSB refutes speculative western media reports blaming the AI 171 captain for the crash, citing fresh leaks; maintaining integrity and accuracy in reporting on such incidents is crucial in ensuring accountability and preventing misinformation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T10:02:05Z",
-      "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-now-us-ntsb-terms-western-media-reports-speculative-as-fresh-leaks-continue-unabated/articleshow/122781011.cms"
-    },
-    {
-      "id": 61,
-      "title": "fmtr.tools 1.3.39",
-      "summary": "fmtr.tools 1.3.39 is a collection of high-level tools designed to simplify everyday development tasks, particularly in the field of AI/ML.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:01:51Z",
-      "url": "https://pypi.org/project/fmtr-tools/1.3.39/"
-    },
-    {
-      "id": 62,
-      "title": "Amazon Warns 220 Million Customers Of Prime Account Attacks",
-      "summary": "Amazon warns 220 million customers of Prime account attacks, highlighting the security risks faced by Amazon Prime subscribers.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:01:33Z",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/07/19/amazon-warns-220-million-customers-of-prime-account-attacks/"
     }
   ]
 }
