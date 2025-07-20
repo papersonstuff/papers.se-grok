@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-20T18:20:58.961Z",
+  "lastUpdate": "2025-07-20T18:48:47.947Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Hits New All-Time High on 8th Day on Nuclear, AI Boom",
+      "summary": "NuScale Power Corporation (NYSE:SMR) hits new all-time high on 8th day in nuclear and AI boom, leading gains among top performers this week.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T18:45:37Z",
+      "url": "https://biztoc.com/x/2024b3106ac85152"
+    },
+    {
+      "id": 52,
+      "title": "swe-ai-agent 1.0.27",
+      "summary": "The release of SWE-AI-Agent 1.0.27 introduces a headless agentic IDE with comprehensive tool support for AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T18:43:59Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.27/"
+    },
+    {
+      "id": 53,
+      "title": "wyrmx-cli 1.0.80",
+      "summary": "wyrmx-cli 1.0.80 is the official command-line interface for Wyrmx, a AI-enhanced web framework built on FastAPI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T18:40:04Z",
+      "url": "https://pypi.org/project/wyrmx-cli/1.0.80/"
+    },
+    {
+      "id": 54,
+      "title": "Show HN: Daily Top 10 Installed Remote MCP Servers/AI Connectors",
+      "summary": "The article highlights the daily top 10 installed remote MCP servers and AI connectors, providing a list of popular choices for users. The news allows readers to easily access and install these tools for their AI-related projects.",
+      "source": "Remote-mcp.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T18:34:14Z",
+      "url": "https://www.remote-mcp.com/top-10-ai-connectors"
+    },
+    {
+      "id": 55,
+      "title": "Surges 34% W/W on Fuel Cell, AI Boom",
+      "summary": "NuScale Power Corporation saw its share prices surge by 34.07 percent week-on-week, ending Friday’s trading at a high due to the fuel cell and AI boom.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T18:33:53Z",
+      "url": "https://biztoc.com/x/ae0f822b10137be7"
+    },
+    {
+      "id": 56,
+      "title": "proctor-ai 0.1.4",
+      "summary": "proctor-ai 0.1.4 is a Python package designed for structured prompt engineering in the field of AI. It provides a comprehensive set of tools for creating prompts for AI models. This latest version aims to enhance prompt engineering techniques for improved AI performance.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T18:33:02Z",
+      "url": "https://pypi.org/project/proctor-ai/0.1.4/"
+    },
+    {
+      "id": 57,
+      "title": "Quoted Tech Extreme pre-built PC review: Compelling and Canadian-made",
+      "summary": "Quoted Tech, a PC building company, contacted the reviewer to review a machine with an RTX 5070 graphics card. The offer was intriguing due to the compelling features of the Canadian-made computer.",
+      "source": "MobileSyrup",
+      "category": "startups",
+      "timestamp": "2025-07-19T18:32:50Z",
+      "url": "https://mobilesyrup.com/2025/07/19/quoted-tech-extreme-pre-built-pc-review-canadian-made/"
+    },
+    {
+      "id": 58,
+      "title": "Futu (FUTU) Holdings Jumps 7% on Bullish Rating, Price Target Upgrade",
+      "summary": "Futu Holdings Limited (NASDAQ:FUTU) jumped 7% after receiving a bullish rating and price target upgrade. This highlights the innovation in AI-related technologies within the stock market.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T18:32:47Z",
+      "url": "https://finance.yahoo.com/news/futu-futu-holdings-jumps-7-183247804.html"
+    },
+    {
+      "id": 59,
+      "title": "The human element in warfare and how tech won’t be doing the fighting",
+      "summary": "The human element in warfare and how tech won’t be doing the fighting - 'The current excitement surrounding drones and AI should not blind us to the enduring truths of conflict'",
+      "source": "Wnd.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T18:30:47Z",
+      "url": "https://www.wnd.com/2025/07/human-element-warfare-how-tech-wont-be-doing/"
+    },
+    {
+      "id": 60,
+      "title": "nautex 0.1.12",
+      "summary": "Nautex AI MCP server 0.1.12 serves as a Product and Project manager for coding agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T18:29:48Z",
+      "url": "https://pypi.org/project/nautex/0.1.12/"
+    },
+    {
+      "id": 61,
+      "title": "Applied Digital (APLD) Soars 9.3% as Earnings Near",
+      "summary": "Applied Digital (APLD) saw a 9.3% increase as earnings approach, making it one of the top stocks leading gains this week.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T18:29:06Z",
+      "url": "https://finance.yahoo.com/news/applied-digital-apld-soars-9-182906621.html"
+    },
+    {
+      "id": 62,
+      "title": "Google Slashes Pixel 8 Pro Price Ahead Of Pixel 10 Launch",
+      "summary": "Google has decreased the price of the Pixel 8 Pro as they prepare to launch the Pixel 10.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-19T18:24:25Z",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2025/07/19/google-pixel-8-pro-trade-in-deal-google-store-pixel-10/"
+    },
+    {
+      "id": 63,
+      "title": "Snack Prompt – Discover the Best ChatGPT Prompts",
+      "summary": "Discover and share the best AI prompts for ChatGPT & Gemini with Snack Prompt, a community-driven platform. Connect with expert prompters to unlock AI's full potential.",
+      "source": "Snackprompt.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T18:22:27Z",
+      "url": "https://snackprompt.com"
+    },
+    {
+      "id": 64,
+      "title": "Invesco (IVZ) Climbs on 3rd Day on Expected Multi-Million Dollar Profit from ETF",
+      "summary": "Invesco (IVZ) climbs on 3rd day on expected multi-million dollar profit from ETF.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T18:22:16Z",
+      "url": "https://finance.yahoo.com/news/invesco-ivz-climbs-3rd-day-182216656.html"
+    },
     {
       "id": 51,
       "title": "wyrmx-cli 1.0.79",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T17:19:32Z",
       "url": "https://freerepublic.com/focus/f-news/4329593/posts"
-    },
-    {
-      "id": 62,
-      "title": "Scientists can finally make 'living' concrete that fixes its own cracks",
-      "summary": "Scientists have developed 'living' concrete that can self-repair its own cracks.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:16:01Z",
-      "url": "https://www.neowin.net/news/scientists-can-finally-make-living-concrete-that-fixes-its-own-cracks/"
-    },
-    {
-      "id": 63,
-      "title": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares",
-      "summary": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares by selling 75,000 shares on Friday, as part of a previously adopted plan to sell up to 6 million shares.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:14:37Z",
-      "url": "https://biztoc.com/x/0a6b6089b532085b"
-    },
-    {
-      "id": 51,
-      "title": "Guest post: Employer Liability for Rogue AI Harassment: Will you Need to Fire your Large Language Model?",
-      "summary": "Employer liability for rogue AI harassment and the implications of firing large language models like Grok.",
-      "source": "Blogs.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T17:12:50Z",
-      "url": "https://prawfsblawg.blogs.com/prawfsblawg/2025/07/guest-post-employer-liability-for-rogue-ai-harassment-will-you-need-to-fire-your-large-language-mode.html"
-    },
-    {
-      "id": 52,
-      "title": "Apple’s M4 Max Barely Has A Better ‘Performance Per Watt’ Metric Compared To The Laptop RTX 5090 When Running Cyberpunk 2077: Ultimate Edition On Battery; NVIDIA’s Top-End Mobile GPU Is 43.7 Percent Faster",
-      "summary": "Apple’s M4 Max Barely Has A Better ‘Performance Per Watt’ Metric Compared To The Laptop RTX 5090 When Running Cyberpunk 2077: Ultimate Edition On Battery; NVIDIA’s Top-End Mobile GPU Is 43.7 Percent Faster - The laptop version of the RTX 5090 is currently the fastest mobile graphics processor on the market right now, whereas Apple’s M4 Max is marketed to feature the fastest internal GPU that can be found in a portable computer.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:12:47Z",
-      "url": "https://wccftech.com/m4-max-vs-laptop-rtx-5090-in-cyberpunk-2077-at-maximum-settings/"
-    },
-    {
-      "id": 53,
-      "title": "Giving Up on Element and Matrix.org",
-      "summary": "The Matrix.org network has great potential, but after years of dealing with glitches, slow performance, poor UX, and one too many failures, the user is giving up on it.",
-      "source": "Xn--gckvb8fzb.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T17:12:45Z",
-      "url": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"
-    },
-    {
-      "id": 54,
-      "title": "What is Yellowstone Park’s supervolcano, and is it on the verge of erupting? Rumors swirl as fears explode online",
-      "summary": "Yellowstone National Park supervolcano eruption rumors debunked as fake or misleading, sparking fears online.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T17:11:41Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-yellowstone-parks-supervolcano-and-is-it-on-the-verge-of-erupting-rumors-swirl-as-fears-explode-online/articleshow/122785320.cms"
-    },
-    {
-      "id": 55,
-      "title": "selenium-mcp-server 1.1.2",
-      "summary": "selenium-mcp-server 1.1.2 is a powerful Model Context Protocol (MCP) server that enables Selenium WebDriver automation for AI assistants.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:06:22Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.1.2/"
-    },
-    {
-      "id": 56,
-      "title": "selenium-mcp-server 1.1.1",
-      "summary": "selenium-mcp-server 1.1.1 is a powerful Model Context Protocol (MCP) server that enables Selenium WebDriver automation for AI assistants.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:04:04Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.1.1/"
-    },
-    {
-      "id": 57,
-      "title": "Could This Under-the-Radar Artificial Intelligence (AI) Defense Company Be the Next Palantir?",
-      "summary": "An under-the-radar AI defense company is being compared to Palantir, known for its AI operating systems used by the U.S. military. Recent budget changes at the Department of Defense indicate increased investment in AI.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T17:03:51Z",
-      "url": "https://biztoc.com/x/14b9e03e7fc4318d"
-    },
-    {
-      "id": 58,
-      "title": "Nvidia's China chip restart said to be slowed by US rules",
-      "summary": "Nvidia's China chip restart has been slowed down by US rules, leading to tight supply of H20 AI chips for Chinese buyers.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:03:37Z",
-      "url": "https://biztoc.com/x/bd31f6346d9163ec"
-    },
-    {
-      "id": 59,
-      "title": "Ice Cream Recall Update as FDA Issues Risk Warning",
-      "summary": "An Ohio creamery is recalling several ice cream flavors due to undeclared allergens as FDA issues a risk warning. Turkeyfoot Creek Creamery in Wauseon issued a voluntary recall for several pint-size products.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T17:03:24Z",
-      "url": "https://biztoc.com/x/cbf3accb7e46b47a"
-    },
-    {
-      "id": 60,
-      "title": "ipulse-shared-core-ftredge 24.1.1",
-      "summary": "ipulse-shared-core-ftredge 24.1.1 introduces Shared Core models and Logger util for the Pulse platform project, utilizing AI for financial advisory and investment management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T17:02:27Z",
-      "url": "https://pypi.org/project/ipulse-shared-core-ftredge/24.1.1/"
-    },
-    {
-      "id": 61,
-      "title": "I Asked AI To Make Me As Much Money As Possible: Here’s What Happened, According to Codie Sanchez",
-      "summary": "Codie Sanchez tested whether AI could help build wealth by asking it to make her as much money as possible. The results of the experiment show what strategies worked and what didn't in the pursuit of money-making.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-19T17:02:14Z",
-      "url": "https://finance.yahoo.com/news/asked-ai-much-money-possible-170214239.html"
-    },
-    {
-      "id": 62,
-      "title": "Nvidia CEO Jensen Huang sells an additional $12.94 million worth of shares",
-      "summary": "Nvidia CEO Jensen Huang sells $12.94 million worth of shares as part of a pre-planned arrangement, driven by surging AI demand.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-19T17:02:10Z",
-      "url": "https://www.cnbc.com/2025/07/19/nvidia-ceo-jensen-huang-sells-shares.html"
     }
   ]
 }
