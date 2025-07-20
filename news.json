@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-20T12:30:01.818Z",
+  "lastUpdate": "2025-07-20T13:09:17.773Z",
   "items": [
+    {
+      "id": 51,
+      "title": "TSMC posts 60.7% y-o-y jump in Q2 profit, CEO calls H20 chip resumption a positive sign",
+      "summary": "TSMC reported strong second-quarter results, with revenue up 38.6% year-on-year to NT$933.79 billion ($29.1 billion) and net profit increasing by 60.7% year-on-year to NT$398.27 billion ($12.4 billion) driven by robust demand for AI.",
+      "source": "TechNode",
+      "category": "economy",
+      "timestamp": "2025-07-19T13:08:40Z",
+      "url": "http://technode.com/2025/07/19/tsmc-posts-60-7-y-o-y-jump-in-q2-profit-ceo-calls-h20-chip-resumption-a-positive-sign/"
+    },
+    {
+      "id": 52,
+      "title": "Family Medicine specialist given a second chance at life | Berea Mail",
+      "summary": "College of Health Sciences partners with DKMS to recruit 1000 stem cell donors, launching campaign attended by UKZN staff and students.",
+      "source": "Auburn Citizen",
+      "category": "research",
+      "timestamp": "2025-07-19T13:05:43Z",
+      "url": "https://www.citizen.co.za/berea-mail/news-headlines/2025/07/19/family-medicine-specialist-given-a-second-chance-at-life/"
+    },
+    {
+      "id": 53,
+      "title": "diffscribe 0.1.1",
+      "summary": "diffscribe 0.1.1 is an AI-powered Git commit message generator using Groq & Gemini.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T13:00:44Z",
+      "url": "https://pypi.org/project/diffscribe/0.1.1/"
+    },
+    {
+      "id": 54,
+      "title": "C21Media.net enhances editorial offer to help readers define their future in The New Content Economy",
+      "summary": "C21Media.net enhances editorial offer to help readers define their future in The New Content Economy by adding new channels and focus to their editorial mission.",
+      "source": "C21media.net",
+      "category": "innovation",
+      "timestamp": "2025-07-19T13:00:38Z",
+      "url": "https://www.c21media.net/news/c21media-net-enhances-editorial-offer-to-help-readers-define-their-future-in-the-new-content-economy/"
+    },
+    {
+      "id": 55,
+      "title": "I’m using Samsung’s Voice Recorder to avoid this app’s premium plan",
+      "summary": "Samsung Voice Recorder is being used as an alternative to Day One's premium plan as it offers similar features for free.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-19T13:00:35Z",
+      "url": "https://www.androidauthority.com/samsung-voice-recorder-day-one-journal-3577377/"
+    },
+    {
+      "id": 56,
+      "title": "'Utopian' City 'California Forever' Announces Huge Tech Manufacturing Park",
+      "summary": "California Forever announced plans to build a massive manufacturing park in its 'utopian' city, backed by Silicon Valley billionaires.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://tech.slashdot.org/story/25/07/19/0022209/utopian-city-california-forever-announces-huge-tech-manufacturing-park"
+    },
+    {
+      "id": 57,
+      "title": "BAY Miner Launches Groundbreaking Zero-Fee Cloud Mining Platform: A New Chapter in Direct Crypto Wealth Building",
+      "summary": "BAY Miner launches a zero-fee cloud mining platform powered by AI, allowing users to earn passive crypto income on their mobile devices.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118246/0/en/BAY-Miner-Launches-Groundbreaking-Zero-Fee-Cloud-Mining-Platform-A-New-Chapter-in-Direct-Crypto-Wealth-Building.html"
+    },
+    {
+      "id": 58,
+      "title": "Trump once called Epstein 'terrific guy' who likes women 'on the younger side'?",
+      "summary": "In 2002, Donald Trump praised Jeffrey Epstein as a 'fun' and 'terrific guy' who likes women 'on the younger side', raising ethical concerns regarding his association with the convicted sex offender.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.snopes.com//fact-check/trump-epstein-terrific-guy-quote/"
+    },
+    {
+      "id": 59,
+      "title": "Ja Mining Completes Security Audit Amid Industry Scrutiny",
+      "summary": "Ja Mining completes a security audit as regulators and institutional players scrutinize the cryptocurrency mining industry.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118247/0/en/Ja-Mining-Completes-Security-Audit-Amid-Industry-Scrutiny.html"
+    },
+    {
+      "id": 60,
+      "title": "The United States of Impunity",
+      "summary": "AI is seen as a way to cover up moral decay in the United States of Impunity, with discussions on Bastille Day drawing parallels to the French Revolution. The article suggests that AI is being used to mask unethical behavior.",
+      "source": "Activistpost.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.activistpost.com/the-united-states-of-impunity/"
+    },
+    {
+      "id": 61,
+      "title": "Pay just $50 once, save on flights and hotels forever",
+      "summary": "Pay $50 once to use OneAir's AI and never overpay for travel again, saving on flights and hotels forever.",
+      "source": "Popular Science",
+      "category": "applications",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.popsci.com/sponsored-content/oneair-elite-lifetime-subscription-save-money-on-your-existing-hotel-and-flight-bookings-sponsored-deal/"
+    },
+    {
+      "id": 62,
+      "title": "Top 5 iPhone and Android apps & games you need to try this week - Subnautica, Oceanhorn, and More!",
+      "summary": "Top 5 apps and games to try out on Android and iPhone including Subnautica and Oceanhorn. Check out the latest selections on the Google Play Store and Apple App Store.",
+      "source": "Nextpit.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.nextpit.com/news/apps-of-the-week-29-2025"
+    },
+    {
+      "id": 63,
+      "title": "Top Stories: iPhone 17 Colors, iOS 26 Public Beta Incoming, and More",
+      "summary": "We're less than two months away from the official unveiling of the iPhone 17 family, with rumors about color options starting to firm up. The iOS 26 public beta is also rapidly approaching.",
+      "source": "MacRumors",
+      "category": "innovation",
+      "timestamp": "2025-07-19T13:00:00Z",
+      "url": "https://www.macrumors.com/2025/07/19/top-stories-iphone-17-colors/"
+    },
+    {
+      "id": 64,
+      "title": "mimicx 0.1.23",
+      "summary": "mimicx 0.1.23 offers a human-like AI solution that includes vision, text, voice, and more in one convenient package for all users.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T12:56:49Z",
+      "url": "https://pypi.org/project/mimicx/0.1.23/"
+    },
+    {
+      "id": 65,
+      "title": "Mondiali nuoto artistico: la performance di Moe Higa",
+      "summary": "Moe Higa of Japan competes in the Women's Solo Technical Finals of artistic swimming at the World Aquatics Championships Singapore 2025 with the help of AI technology.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T12:56:32Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/mondiali-nuoto-artistico-la-performance-di-moe-higa_bf86eaaa-0386-49a9-b201-a3aa09d809f4.html"
+    },
     {
       "id": 51,
       "title": "Trump Signs GENIUS Act, Establishing First U.S. Crypto Law, Strengthening Dollar",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T11:11:09Z",
       "url": "https://finance.yahoo.com/news/meta-ai-innovations-drive-850-111109598.html"
-    },
-    {
-      "id": 52,
-      "title": "AI Cardiac Monitoring Tools - Octagos Health Specializes in AI-Driven Cardiac Remote Monitoring (TrendHunter.com)",
-      "summary": "AI Cardiac Monitoring Tools - Octagos Health specializes in AI-driven cardiac remote monitoring and has been selected for the Microsoft for Startups Pegasus Program, highlighting its emergence as a key innovator in the field.",
-      "source": "Trendhunter.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T11:11:06Z",
-      "url": "https://www.trendhunter.com/trends/cardiac-remote-monitoring"
-    },
-    {
-      "id": 53,
-      "title": "X5 Evo: Affordable wireless earbuds come with real-time AI-powered translation support for 21 languages",
-      "summary": "X5 Evo wireless earbuds by Edifier offer real-time AI-powered translation for 21 languages along with powerful ANC and multiple microphones, making them suitable for simultaneous interpretation between languages.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-19T11:10:00Z",
-      "url": "https://www.notebookcheck.net/X5-Evo-Affordable-wireless-earbuds-come-with-real-time-AI-powered-translation-support-for-21-languages.1061629.0.html"
-    },
-    {
-      "id": 54,
-      "title": "Nvidia’s (NVDA) China Opportunity Reopens — Price Target Raised to $192 by Mizuho",
-      "summary": "NVIDIA Corporation is one of the Trending AI Stocks in Focus This Week, with Mizuho raising their price target to $192 for the company in light of opportunities in China.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T11:06:10Z",
-      "url": "https://finance.yahoo.com/news/nvidia-nvda-china-opportunity-reopens-110610498.html"
-    },
-    {
-      "id": 55,
-      "title": "The same techbros that brought you such hits as offshoring, outsourcing, and replacing human workers with AI, have made a promise to bring 40K jobs to a farm community outside San Francisco. Pinky swear this time [Asinine]",
-      "summary": "Techbros promise to bring 40K jobs to a farm community outside San Francisco, despite past actions of offshoring and replacing workers with AI.",
-      "source": "Fark.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T11:05:27Z",
-      "url": "https://www.fark.com/comments/13746368/The-same-techbros-that-brought-you-such-hits-as-offshoring-outsourcing-replacing-human-workers-with-AI-have-made-a-promise-to-bring-40K-jobs-to-a-farm-community-outside-San-Francisco-Pinky-swear-this-time"
-    },
-    {
-      "id": 56,
-      "title": "Emerald AI Has a New Approach to Meeting AI's Energy Demand",
-      "summary": "Emerald AI has a new approach to meeting AI's energy demand with AI-generated voice technology, despite the possibility of inconsistencies. President Trump and his cabinet discussed the surging energy demand for AI growth at an event in Pennsylvania.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T11:04:14Z",
-      "url": "https://biztoc.com/x/308817b84f42f614"
-    },
-    {
-      "id": 57,
-      "title": "Valve boss and superyacht enthusiast Gabe Newell says pitching VCs is a \"deeply distracted\" way to make money: \"If you're creating value for people, the capital will come your way\"",
-      "summary": "Valve boss Gabe Newell emphasizes creating value for customers, partners, and employees over pitching VCs for funding.",
-      "source": "GamesRadar+",
-      "category": "startups",
-      "timestamp": "2025-07-19T11:03:59Z",
-      "url": "https://www.gamesradar.com/games/valve-boss-and-superyacht-enthusiast-gabe-newell-says-pitching-vcs-is-a-deeply-distracted-way-to-make-money-if-youre-creating-value-for-people-the-capital-will-come-your-way/"
-    },
-    {
-      "id": 58,
-      "title": "Astronomer CEO, HR chief put on leave after Coldplay concert scandal",
-      "summary": "Astronomer's CEO and HR chief are placed on leave after allegedly having an affair at a Coldplay concert, damaging the company's reputation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T11:02:02Z",
-      "url": "https://economictimes.indiatimes.com/tech/startups/astronomer-ceo-hr-chief-put-on-leave-after-coldplay-concert-scandal/articleshow/122781541.cms"
-    },
-    {
-      "id": 59,
-      "title": "Salesforce (CRM) Wins Analyst Confidence With AI Advances and Price Hike Potential",
-      "summary": "Salesforce (CRM) is gaining analyst confidence with advancements in AI technology and the potential for price hikes. It is considered one of the trending AI stocks to watch this week.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-19T11:01:20Z",
-      "url": "https://finance.yahoo.com/news/salesforce-crm-wins-analyst-confidence-110120453.html"
-    },
-    {
-      "id": 60,
-      "title": "Emerald AI Has a New Approach to Meeting AI's Energy Demand",
-      "summary": "Emerald AI has developed a new platform that shifts energy demand for AI, potentially alleviating strain on regional power suppliers and turning data centers into 'grid allies.'",
-      "source": "Newsweek",
-      "category": "innovation",
-      "timestamp": "2025-07-19T11:01:01Z",
-      "url": "https://www.newsweek.com/emerald-ai-has-new-approach-meeting-ais-energy-demand-2101058"
-    },
-    {
-      "id": 61,
-      "title": "New Coalition Seeks To Make AI Trustworthy, One Standard At A Time",
-      "summary": "Standards for watermarking, digital verification, and traceability are being developed to ensure the trustworthiness of AI by distinguishing real content from digital fakery.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-19T11:00:00Z",
-      "url": "https://www.forbes.com/sites/joemckendrick/2025/07/19/new-coalition-seeks-to-make-ai-trustworthy-one-standard-at-a-time/"
-    },
-    {
-      "id": 62,
-      "title": "Links 7/19/2025",
-      "summary": "Various AI-related news including Israel strikes, NATO threat, and NYPD spying",
-      "source": "Nakedcapitalism.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:55:22Z",
-      "url": "https://www.nakedcapitalism.com/2025/07/links-7-19-2025.html"
-    },
-    {
-      "id": 51,
-      "title": "promptify-ai 0.1.0",
-      "summary": "The promptify-ai 0.1.0 tool has been released, allowing users to gather files into a single prompt for easier consumption by LLM. This innovation streamlines the process of using large language models for various tasks.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:54:21Z",
-      "url": "https://pypi.org/project/promptify-ai/0.1.0/"
-    },
-    {
-      "id": 52,
-      "title": "promptify-ai added to PyPI",
-      "summary": "promptify-ai has been added to PyPI, allowing users to gather files into a single prompt for Language Model consumption.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:54:21Z",
-      "url": "https://pypi.org/project/promptify-ai/"
-    },
-    {
-      "id": 53,
-      "title": "Uttar Pradesh will soon become first state assembly to implement AI-powered monitoring system",
-      "summary": "Uttar Pradesh will soon implement an AI-powered monitoring system in the state assembly to track the attendance and activities of MLAs, including topics discussed and duration of speeches.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:52:12Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/uttar-pradesh-will-soon-become-first-state-assembly-to-implement-ai-powered-monitoring-system/article69831147.ece"
-    },
-    {
-      "id": 54,
-      "title": "I avoid using LLMs as a publisher and writer",
-      "summary": "A book publisher discusses the use of LLM chatbots in publishing and testing machine translation for their company's work.",
-      "source": "Lifehacky.net",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:51:59Z",
-      "url": "https://lifehacky.net/prompt-0b953c089b44"
     }
   ]
 }
