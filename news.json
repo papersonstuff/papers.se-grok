@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-20T05:31:03.327Z",
+  "lastUpdate": "2025-07-20T05:53:56.336Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Finance Ministry organises workshop on industry 4.0 adoption, digital transformation in CPSEs",
+      "summary": "Finance Ministry workshop on Industry 4.0 adoption and digital transformation in CPSEs highlights strategic step towards fostering innovation and smart manufacturing.",
+      "source": "Livemint",
+      "category": "innovation",
+      "timestamp": "2025-07-19T05:51:59Z",
+      "url": "https://www.livemint.com/companies/news/finance-ministry-organises-workshop-on-industry-4-0-adoption-digital-transformation-in-cpses-11752904319739.html"
+    },
+    {
+      "id": 52,
+      "title": "Educational AI Chatbots - New Mexico Junior College Deployed Student Support Automation (TrendHunter.com)",
+      "summary": "New Mexico Junior College deployed an educational AI chatbot named 'Talon' to provide student support and enhance user experience.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T05:50:05Z",
+      "url": "https://www.trendhunter.com/trends/new-mexico-junior-college"
+    },
+    {
+      "id": 53,
+      "title": "srtify added to PyPI",
+      "summary": "srtify, a CLI tool for translating SRT files using Gemini AI, has been added to PyPI, allowing users to easily translate subtitles with the help of artificial intelligence.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T05:48:28Z",
+      "url": "https://pypi.org/project/srtify/"
+    },
+    {
+      "id": 54,
+      "title": "GONNA PAREO. La tendenza wrap skirt per l'estate.",
+      "summary": "An AI fashion trend prediction tool called GONNA PAREO is gaining popularity for the summer season. The tool focuses on wrap skirts and is featured on a daily style and design site.",
+      "source": "Coolchicstylefashion.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T05:48:00Z",
+      "url": "https://www.coolchicstylefashion.com/2025/07/gonna-pareo-la-tendenza-wrap-skirt-per.html"
+    },
+    {
+      "id": 55,
+      "title": "AI-Powered Marketing in the Future of B2B",
+      "summary": "AI-Powered Marketing in the Future of B2B discussed in a session at an April 2025 ANA 1-Day Conference, focusing on the future of 'synthetic marketing' for B2B brands.",
+      "source": "Ana.net",
+      "category": "applications",
+      "timestamp": "2025-07-19T05:47:37Z",
+      "url": "https://www.ana.net/miccontent/showvideo/id/sv-2025-04-moc-0425b2b-evidenza"
+    },
+    {
+      "id": 56,
+      "title": "Beyond the Frame | Engineering the End of Work",
+      "summary": "AI-related news explores the potential legacy of labor and how advancements in artificial intelligence may impact the future of work.",
+      "source": "Schmud.de",
+      "category": "ethics",
+      "timestamp": "2025-07-19T05:47:01Z",
+      "url": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html"
+    },
+    {
+      "id": 57,
+      "title": "(1) Context Engineering: Bringing Engineering Discipline to Prompts",
+      "summary": "A practical guide to information architecture of AI prompts",
+      "source": "Substack.com",
+      "category": "research",
+      "timestamp": "2025-07-19T05:47:01Z",
+      "url": "https://addyo.substack.com/p/context-engineering-bringing-engineering"
+    },
+    {
+      "id": 58,
+      "title": "Beware of the Google AI salesman and its cronies",
+      "summary": "Beware of the Google AI salesman and its cronies pushing overly salesy AI Overviews to sell bad products",
+      "source": "Housefresh.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T05:47:01Z",
+      "url": "https://housefresh.com/beware-of-the-google-ai-salesman/"
+    },
+    {
+      "id": 59,
+      "title": "How Did Elon Musk Turn Grok Into MechaHitler?",
+      "summary": "Elon Musk's AI model keeps reminding him that there is a statistical similarity between his actions and being a Nazi, despite his insistence otherwise.",
+      "source": "The American Prospect",
+      "category": "ethics",
+      "timestamp": "2025-07-19T05:47:01Z",
+      "url": "https://prospect.org/power/2025-07-17-how-did-elon-musk-turn-grok-into-mechahitler/"
+    },
+    {
+      "id": 60,
+      "title": "AI & Marketing: Smart AI & Marketing Solutions for MSME's",
+      "summary": "Smart AI & Marketing Solutions being developed for MSME's to improve marketing strategies.",
+      "source": "YouTube",
+      "category": "applications",
+      "timestamp": "2025-07-19T05:45:01Z",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK5LpMQKA92c"
+    },
+    {
+      "id": 61,
+      "title": "GE HealthCare Technologies (GEHC) & Its Competitors Head to Head Survey",
+      "summary": "GE HealthCare Technologies (NASDAQ:GEHC) is competing against 143 other public companies in the 'MED PRODUCTS' industry to determine its strength compared to its peers.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T05:43:07Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/ge-healthcare-technologies-gehc-its-competitors-head-to-head-survey/"
+    },
+    {
+      "id": 62,
+      "title": "Analysts Set Fluence Energy, Inc. (NASDAQ:FLNC) Price Target at $7.58",
+      "summary": "Analysts have set a price target for Fluence Energy, Inc. and given a consensus recommendation of 'Hold' by twenty-four brokerages.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T05:43:05Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/analysts-set-fluence-energy-inc-nasdaqflnc-price-target-at-7-58/"
+    },
+    {
+      "id": 63,
+      "title": "Analysts Set CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS) Price Target at $12.06",
+      "summary": "Analysts have set a price target of $12.06 for CCC Intelligent Solutions Holdings Inc (NYSE:CCCS), which has a consensus rating of 'Moderate Buy'.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T05:43:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/analysts-set-ccc-intelligent-solutions-holdings-inc-nysecccs-price-target-at-12-06/"
+    },
+    {
+      "id": 64,
+      "title": "gitagent-ai 1.0.5",
+      "summary": "gitagent-ai 1.0.5 is an AI-powered Git assistant with persistent context management.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T05:41:30Z",
+      "url": "https://pypi.org/project/gitagent-ai/1.0.5/"
+    },
+    {
+      "id": 65,
+      "title": "International Business Machines (NYSE:IBM) Trading 1.5% Higher After Analyst Upgrade",
+      "summary": "IBM shares rose 1.5% after an analyst upgrade, with BMO Capital Markets increasing their price target on the stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T05:40:45Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/international-business-machines-nyseibm-trading-1-5-higher-after-analyst-upgrade/"
+    },
     {
       "id": 51,
       "title": "Brokerages Set Hut 8 Corp. (NASDAQ:HUT) PT at $26.12",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T04:16:19Z",
       "url": "https://paultan.org/2025/07/19/denza-z9-gt-previewed-in-malaysia-at-pace-ev-or-phev-up-to-965-ps-630-km-ev-range-1h-2026-launch/"
-    },
-    {
-      "id": 58,
-      "title": "India's first semiconductor chip to be unveiled in 2025: Union Minister Ashwini Vaishnaw",
-      "summary": "India is set to unveil its first semiconductor chip in 2025 as part of efforts to manufacture chips domestically, with six approved plants currently under construction.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:16:02Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/article69830437.ece"
-    },
-    {
-      "id": 59,
-      "title": "India's first semiconductor chip to be unveiled in 2025: Union Minister Ashwini Vaishnaw",
-      "summary": "India plans to unveil its first semiconductor chip in 2025, as part of efforts to start manufacturing chips with six approved plants under construction.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:16:02Z",
-      "url": "https://www.thehindubusinessline.com/news/national/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/article69830437.ece"
-    },
-    {
-      "id": 60,
-      "title": "InsideForest 0.2.17",
-      "summary": "InsideForest 0.2.17 is a comprehensive library for describing and analyzing data insights using AI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:15:39Z",
-      "url": "https://pypi.org/project/insideforest/0.2.17/"
-    },
-    {
-      "id": 61,
-      "title": "Talen Energy Stock Soars Over 20% on Purchase of 2 Plants in AI Power Move",
-      "summary": "Talen Energy stock surged over 20% after purchasing two plants to support AI data centers for $3.5 billion",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T04:08:57Z",
-      "url": "https://biztoc.com/x/f8542a9016e785f8"
-    },
-    {
-      "id": 62,
-      "title": "swe-ai-agent 1.0.23",
-      "summary": "SWE AI Agent 1.0.23 is a headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T04:06:34Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.23/"
-    },
-    {
-      "id": 63,
-      "title": "Introducing XMLUI",
-      "summary": "Introducing XMLUI - In the mid-1990s you could create useful software without being an ace coder. You had Visual Basic, you had a rich ecosystem of components, you could wire them together to create apps, standing on the shoulders of the coders who built those components.",
-      "source": "Jonudell.net",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:06:20Z",
-      "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
-    },
-    {
-      "id": 64,
-      "title": "Turkey becomes the First to Censor Musk’s AI Chatbot Grok",
-      "summary": "Turkey becomes the first to censor Elon Musk's AI chatbot Grok, blocking access to some of its content.",
-      "source": "Juancole.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:06:05Z",
-      "url": "https://www.juancole.com/2025/07/turkey-becomes-chatbot.html"
-    },
-    {
-      "id": 65,
-      "title": "Start with $100 and Earn Daily: How AIXA Miner Opens Crypto Income to All",
-      "summary": "AIXA Miner is a preferred platform for reliable, AI-powered crypto income, allowing users to start with $100 and earn daily. This startup is opening up cryptocurrency income opportunities to a wider audience as the market moves into its next phase of institutional adoption and decentralized expansion.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-19T04:02:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118240/0/en/Start-with-100-and-Earn-Daily-How-AIXA-Miner-Opens-Crypto-Income-to-All.html"
-    },
-    {
-      "id": 66,
-      "title": "Even Zohran Mamdani’s alleged ‘capitalism’ is a communist front",
-      "summary": "Allegations arise that Zohran Mamdani's 'capitalism' is actually a communist front, as AOC hosts a 'coming out' party for him in New York City.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/even_zohran_mamdani_s_alleged_capitalism_is_a_communist_front.html"
-    },
-    {
-      "id": 67,
-      "title": "Tweaking immigration: No path to citizenship for illegals, ever",
-      "summary": "Tweaking immigration: No path to citizenship for illegals, ever - American patriots understand how blessed we are to be citizens of a nation governed by the concept of We the People, free to speak our minds and our hearts, knowing we can be and do better as we move forward.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/tweaking_immigration_no_path_to_citizenship_for_illegals_ever.html"
-    },
-    {
-      "id": 68,
-      "title": "Babylon Bee savages those leftists who keep likening Trump and MAGA to Hitler",
-      "summary": "Babylon Bee criticizes leftists for comparing Trump and MAGA to Hitler, highlighting the ethical implications of such comparisons.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/babylon_bee_savages_those_leftists_who_keep_likening_trump_and_maga_to_hitler.html"
-    },
-    {
-      "id": 69,
-      "title": "Perplexity in talks with phone makers to pre-install Comet AI mobile browser on devices",
-      "summary": "Perplexity is in talks with phone makers to pre-install its Comet AI mobile browser in order to capitalize on browser 'stickiness' and potentially drive habitual use of the company's AI tools.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-19T03:57:50Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/perplexity-in-talks-with-phone-makers-to-pre-install-comet-ai-mobile-browser-on-devices/article69830422.ece"
-    },
-    {
-      "id": 51,
-      "title": "Sean Hannity Praises Trump on Air Hours After the President Sues His Boss",
-      "summary": "Fox News' Sean Hannity praised President Trump on air shortly after Trump sued his boss. Voice is AI-generated, leading to potential inconsistencies in information delivery.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T03:12:51Z",
-      "url": "https://biztoc.com/x/0dbbc36806adc3b6"
-    },
-    {
-      "id": 52,
-      "title": "SkillsManager 0.2.1",
-      "summary": "SkillsManager 0.2.1 is a modern manager for AI skills, tools, loading, execution, and automation.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T03:11:30Z",
-      "url": "https://pypi.org/project/skillsmanager/0.2.1/"
-    },
-    {
-      "id": 53,
-      "title": "dhisana 0.0.1.dev177",
-      "summary": "dhisana 0.0.1.dev177 is a Python SDK created for the Dhisana AI Platform, providing developers with tools to integrate artificial intelligence functionality into their applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T03:09:40Z",
-      "url": "https://pypi.org/project/dhisana/0.0.1.dev177/"
     }
   ]
 }
