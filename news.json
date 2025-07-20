@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-20T08:19:29.404Z",
+  "lastUpdate": "2025-07-20T08:46:45.060Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Meta Declines European Union’s AI Pact, Claiming That The Proposed Agreement Overreaches Regulations, Threatens Innovation, And Forces Premature Changes That Could Slow Growth In The Tech Industry",
+      "summary": "Meta declines European Union’s AI Pact, claiming that the proposed agreement overreaches regulations, threatens innovation, and forces premature changes that could slow growth in the tech industry.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:45:50Z",
+      "url": "https://wccftech.com/meta-refuses-to-sign-eu-ai-pact-says-it-stifles-growth-and-innovation/"
+    },
+    {
+      "id": 52,
+      "title": "The seductions of AI for the writer's mind",
+      "summary": "The author discusses how AI tools like ChatGPT are changing writing and creativity, raising concerns about originality and human expression.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T08:45:37Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-seductions-of-ai-for-the-writers-mind/articleshow/122780144.cms"
+    },
+    {
+      "id": 53,
+      "title": "I took a walk with Meta's new Oakley smart glasses - they beat my Ray-Bans in every way",
+      "summary": "Meta's new Oakley smart glasses outperform traditional Ray-Bans with features like eight hours of battery life, 3K video capture, and a stylish design.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:45:12Z",
+      "url": "https://www.zdnet.com/article/i-took-a-walk-with-metas-new-oakley-smart-glasses-they-beat-my-ray-bans-in-every-way/"
+    },
+    {
+      "id": 54,
+      "title": "The Future Folds Here: Pre-Book the Galaxy Z Fold7 and Z Flip7 Now and Get Benefits Worth Rs. 12,000",
+      "summary": "Samsung launches pre-booking for the Galaxy Z Fold7 and Z Flip7 with benefits worth Rs. 12,000, showcasing innovation in the field of AI technology.",
+      "source": "Gadgets360.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:41:13Z",
+      "url": "https://www.gadgets360.com/mobiles/sponsored/the-future-folds-here-pre-book-the-galaxy-z-fold7-and-z-flip7-now-and-get-benefits-worth-rs-12000-8906012"
+    },
+    {
+      "id": 55,
+      "title": "Cerity Partners LLC Has $3.40 Million Stock Position in Adaptive Biotechnologies Corporation (NASDAQ:ADPT)",
+      "summary": "Cerity Partners LLC reduced its stock position in Adaptive Biotechnologies Corporation by 4.5% during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T08:40:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/cerity-partners-llc-has-3-40-million-stock-position-in-adaptive-biotechnologies-corporation-nasdaqadpt/"
+    },
+    {
+      "id": 56,
+      "title": "Satoshi-Era Bitcoin Now For Sale: Galaxy Digital Sends 1,500 BTC To Binance",
+      "summary": "Satoshi-Era Bitcoin is currently for sale, with Galaxy Digital sending 1,500 BTC to Binance. Bitcoin's price is consolidating between $115,000 and $123,000, causing uncertainty among both bulls and bears.",
+      "source": "newsBTC",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:30:06Z",
+      "url": "http://www.newsbtc.com/bitcoin-news/satoshi-era-bitcoin-now-for-sale-galaxy-digital-sends-1500-btc-to-binance/"
+    },
+    {
+      "id": 57,
+      "title": "EY partner in talks to become boss of new football regulator",
+      "summary": "An EY partner specializing in financial regulation is in discussions to lead English football's new regulatory body, showcasing the application of expertise from the accounting industry to the sports sector.",
+      "source": "Sky.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:28:00Z",
+      "url": "https://news.sky.com/story/ey-partner-in-talks-to-become-boss-of-new-football-regulator-13398734"
+    },
+    {
+      "id": 58,
+      "title": "Sdang ka Behdeinkhlam Tuber, khot wer sngewbha ka Seinraij Tuber ia baroh",
+      "summary": "The University President and the Dean of the School of Technology at Seinraij University are collaborating on an AI project related to the Behdeinkhlam festival. The project involves using AI to analyze various aspects of the festival from the 19th to the 22nd of June.",
+      "source": "Syllad.com",
+      "category": "research",
+      "timestamp": "2025-07-19T08:24:26Z",
+      "url": "https://www.syllad.com/sdang-ka-behdeinkhlam-tuber-khot-wer-sngewbha-ka-seinraij-tuber-ia-baroh/"
+    },
+    {
+      "id": 59,
+      "title": "ETBWS 2025: A new VUCA mindset to lead marketing in age of uncertainty, ETBrandEquity",
+      "summary": "Traditional marketing funnels are collapsing as consumer behaviour becomes unpredictable, leading marketers to change their playbook in a VUCA world. At ET BWS 2025, leading CMOs discussed strategies to adapt and thrive in this uncertain environment.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:22:53Z",
+      "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/etbws-2025-a-new-vuca-mindset-to-lead-marketing-in-age-of-uncertainty/122778006"
+    },
+    {
+      "id": 60,
+      "title": "Mondiali nuoto: il team greco nella ginnastica artistica",
+      "summary": "Team Greece competes in the Team Free preliminaries of artistic swimming at the World Aquatics Championships in Singapore, utilizing AI technology to enhance their performance.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:22:06Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/mondiali-nuoto-il-team-greco-nella-ginnastica-artistica_0d120753-ef5d-4b14-9137-f8dc282aa6ed.html"
+    },
+    {
+      "id": 61,
+      "title": "Aleksandr Maltsev ai mondiali di nuoto a Singapore",
+      "summary": "Aleksandr Maltsev of Russia competes in the Men's Solo Technical Finals of artistic swimming at the World Aquatics Championships Singapore 2025, showcasing the application of AI in sports analytics.",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:21:49Z",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2025/07/19/aleksandr-maltsev-ai-mondiali-di-nuoto-a-singapore_59896459-a73e-42d5-8c70-8428a7ae695f.html"
+    },
+    {
+      "id": 62,
+      "title": "Xponance Inc. Has $318,000 Position in SentinelOne, Inc. (NYSE:S)",
+      "summary": "Xponance Inc. increased its position in SentinelOne, Inc. by 8.8% in the first quarter, with a $318,000 investment.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:20:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/xponance-inc-has-318000-position-in-sentinelone-inc-nyses/"
+    },
+    {
+      "id": 63,
+      "title": "M&T Bank Corp Buys New Holdings in Zeta Global Holdings Corp. (NYSE:ZETA)",
+      "summary": "M&T Bank Corp bought a new stake in Zeta Global Holdings Corp. (NYSE:ZETA) during the first quarter, acquiring 16,127 shares valued at approximately $219,000.",
+      "source": "ETF Daily News",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:20:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/mt-bank-corp-buys-new-holdings-in-zeta-global-holdings-corp-nysezeta/"
+    },
     {
       "id": 51,
       "title": "Mutual of America Capital Management LLC Sells 999 Shares of Science Applications International Co. (NYSE:SAIC)",
@@ -333,123 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-19T07:09:00Z",
       "url": "https://www.etfdailynews.com/2025/07/19/teacher-retirement-system-of-texas-buys-shares-of-16504-c3-ai-inc-nyseai/"
-    },
-    {
-      "id": 53,
-      "title": "IMAX Corporation (NYSE:IMAX) Shares Bought by Principal Financial Group Inc.",
-      "summary": "Principal Financial Group Inc. increased its holdings in IMAX Corporation during the first quarter by 4.4%, owning 108,550 shares after purchasing an additional 4,60.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:08:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/imax-corporation-nyseimax-shares-bought-by-principal-financial-group-inc/"
-    },
-    {
-      "id": 54,
-      "title": "Sify Technologies Ltd (SIFY) Q1 2026 Earnings Call Highlights: Revenue Growth Amidst Financial ...",
-      "summary": "Sify Technologies Ltd (SIFY) reports a 14% revenue increase and strategic investments in data centers, despite facing profitability hurdles.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T07:06:11Z",
-      "url": "https://finance.yahoo.com/news/sify-technologies-ltd-sify-q1-070611000.html"
-    },
-    {
-      "id": 55,
-      "title": "Cambridge Conference On Legal Perspectives On The Development And Enactment Of Tax Policy",
-      "summary": "Cambridge Conference On Legal Perspectives On The Development And Enactment Of Tax Policy - U.S. Tax Prof presentations at last week's conference on Perspectives On The Development And Enactment Of Tax Policy at the Centre for Tax Law at the University of Cambridge.",
-      "source": "Typepad.com",
-      "category": "research",
-      "timestamp": "2025-07-19T07:05:00Z",
-      "url": "https://taxprof.typepad.com/taxprof_blog/2025/07/cambridge-conference-on-legal-perspectives-on-the-development-and-enactment-of-tax-policy.html"
-    },
-    {
-      "id": 56,
-      "title": "mimicx 0.1.17",
-      "summary": "mimicx 0.1.17 offers a human-like AI package for vision, text, voice, and more that is accessible to everyone.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:03:00Z",
-      "url": "https://pypi.org/project/mimicx/0.1.17/"
-    },
-    {
-      "id": 57,
-      "title": "Best Of: Stacey Abrams / Raphael Saadiq",
-      "summary": "Stacey Abrams, known for her work in voting rights activism and politics, is also a bestselling author with a new thriller novel centered around a former Supreme Court clerk investigating a murder.",
-      "source": "NPR",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:00:59Z",
-      "url": "https://www.npr.org/2025/07/19/1255937782/best-of-stacey-abrams-raphael-saadiq"
-    },
-    {
-      "id": 58,
-      "title": "definable added to PyPI",
-      "summary": "A new software tool called definable has been added to PyPI, providing infrastructure for creating and deploying AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:00:41Z",
-      "url": "https://pypi.org/project/definable/"
-    },
-    {
-      "id": 59,
-      "title": "definable 0.1.0",
-      "summary": "definable 0.1.0 is a new infrastructure designed for building and deploying AI agents.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T07:00:41Z",
-      "url": "https://pypi.org/project/definable/0.1.0/"
-    },
-    {
-      "id": 60,
-      "title": "This HP EliteBook I tested is one of the most versatile work laptops of 2025 - and it's on sale",
-      "summary": "HP's versatile EliteBook Ultra G1i is on sale, offering impressive lightweight design, reliable power, and long battery life.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-19T07:00:15Z",
-      "url": "https://www.zdnet.com/article/this-hp-elitebook-i-tested-is-one-of-the-most-versatile-work-laptops-of-2025-and-its-on-sale/"
-    },
-    {
-      "id": 61,
-      "title": "Review of Parmy Olson's Supremacy — and the futility of chasing non-capitalist dreams",
-      "summary": "Review of Parmy Olson's Supremacy: AI, ChatGPT, and the Race That Will Change the World, focusing on the sellout aspect of AI entrepreneurs to big tech for funding.",
-      "source": "Idratherbewriting.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T07:00:00Z",
-      "url": "https://idratherbewriting.com/blog/olson-supremacy-dreams-capitalism"
-    },
-    {
-      "id": 62,
-      "title": "Wipro ordered to pay Rs 2 lakh compensation for defamatory remarks in employee’s relieving letter",
-      "summary": "Wipro was ordered by the Delhi High Court to pay Rs 2 lakh in damages to a former employee for defamatory remarks in his relieving letter, harming his professional reputation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T06:55:44Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/wipro-ordered-to-pay-rs-2-lakh-compensation-for-defamatory-remarks-in-employees-relieving-letter/articleshow/122778394.cms"
-    },
-    {
-      "id": 51,
-      "title": "On the deep (uncurable?) vulnerability of MCPs",
-      "summary": "A recent study in AI security has revealed a deep vulnerability in common AI-assisted developer setups, allowing for prompt injection and leakage of private information.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-19T06:47:32Z",
-      "url": "https://www.lesswrong.com/posts/ZhAwdHKYmrXnoNvec/on-the-deep-uncurable-vulnerability-of-mcps"
-    },
-    {
-      "id": 52,
-      "title": "How Your Words Shape ChatGPT’s Recommendations",
-      "summary": "ChatGPT's recommendations are influenced by users' language patterns, leading to varying levels of understanding on certain days.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-19T06:40:41Z",
-      "url": "https://www.forbes.com/sites/corneliawalther/2025/07/19/how-your-words-shape-chatgpts-recommendations/"
-    },
-    {
-      "id": 53,
-      "title": "Quantum Computing Stocks To Watch Today – July 17th",
-      "summary": "Quantum computing stocks, including D-Wave Quantum and Rigetti Computing, are being highlighted as ones to watch today, indicating growing interest and investment in the field.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:38:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/quantum-computing-stocks-to-watch-today-july-17th/"
     }
   ]
 }
