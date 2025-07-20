@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-20T06:21:54.730Z",
+  "lastUpdate": "2025-07-20T06:50:06.291Z",
   "items": [
+    {
+      "id": 51,
+      "title": "On the deep (uncurable?) vulnerability of MCPs",
+      "summary": "A recent study in AI security has revealed a deep vulnerability in common AI-assisted developer setups, allowing for prompt injection and leakage of private information.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-19T06:47:32Z",
+      "url": "https://www.lesswrong.com/posts/ZhAwdHKYmrXnoNvec/on-the-deep-uncurable-vulnerability-of-mcps"
+    },
+    {
+      "id": 52,
+      "title": "How Your Words Shape ChatGPT’s Recommendations",
+      "summary": "ChatGPT's recommendations are influenced by users' language patterns, leading to varying levels of understanding on certain days.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-19T06:40:41Z",
+      "url": "https://www.forbes.com/sites/corneliawalther/2025/07/19/how-your-words-shape-chatgpts-recommendations/"
+    },
+    {
+      "id": 53,
+      "title": "Quantum Computing Stocks To Watch Today – July 17th",
+      "summary": "Quantum computing stocks, including D-Wave Quantum and Rigetti Computing, are being highlighted as ones to watch today, indicating growing interest and investment in the field.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:38:55Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/quantum-computing-stocks-to-watch-today-july-17th/"
+    },
+    {
+      "id": 54,
+      "title": "Promising Oil Stocks To Follow Today – July 17th",
+      "summary": "ServiceNow, Caterpillar, and Chevron are the three Oil stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:38:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/promising-oil-stocks-to-follow-today-july-17th/"
+    },
+    {
+      "id": 55,
+      "title": "Top Metaverse Stocks To Watch Today – July 17th",
+      "summary": "Top Metaverse Stocks To Watch Today – July 17th - NVIDIA, Accenture, Globant, SK Telecom, and Future FinTech Group are the five Metaverse stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:38:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/top-metaverse-stocks-to-watch-today-july-17th/"
+    },
+    {
+      "id": 56,
+      "title": "Top Artificial Intelligence Stocks To Research – July 17th",
+      "summary": "Top Artificial Intelligence Stocks To Research – July 17th - BigBear.ai, Super Micro Computer, and Salesforce are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-19T06:38:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/top-artificial-intelligence-stocks-to-research-july-17th/"
+    },
+    {
+      "id": 57,
+      "title": "Digital Media Stocks To Watch Today – July 17th",
+      "summary": "Digital media stocks including Alibaba Group, Adobe, Rocket Companies, and others are highlighted as stocks to watch today, indicating continued economic interest and activity in the digital media sector.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:38:49Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/digital-media-stocks-to-watch-today-july-17th/"
+    },
+    {
+      "id": 58,
+      "title": "KeyBanc Downgrades Simulations Plus (SLP) Stock to Sector Weight",
+      "summary": "KeyBanc downgrades Simulations Plus stock to Sector Weight, but it is considered one of the Best Beaten Down Stocks to Buy Now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:38:02Z",
+      "url": "https://finance.yahoo.com/news/keybanc-downgrades-simulations-plus-slp-063802637.html"
+    },
+    {
+      "id": 59,
+      "title": "JPMorgan Downgrades Enphase Energy (ENPH) Stock to Neutral",
+      "summary": "JPMorgan downgraded Enphase Energy (ENPH) stock to 'Neutral' from 'Overweight', despite being considered one of the Best Beaten Down Stocks to Buy Now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:37:43Z",
+      "url": "https://finance.yahoo.com/news/jpmorgan-downgrades-enphase-energy-enph-063743066.html"
+    },
+    {
+      "id": 60,
+      "title": "How YouTube quietly dethrones Hollywood, becomes America’s top TV network",
+      "summary": "YouTube has become America's top TV network, dethroning Hollywood as a growing number of viewers transition from watching content on tablets and phones to TVs.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-19T06:36:56Z",
+      "url": "https://www.livemint.com/companies/news/how-youtube-won-the-battle-for-tv-viewers-11752906707139.html"
+    },
+    {
+      "id": 61,
+      "title": "Fans say 'Simpsons predicted' CEO Andy Byron and Kristin Cabo's 'kiss cam' moment at Coldplay concert. But did it?",
+      "summary": "A Coldplay concert kiss cam captured Astronomer CEO Andy Byron and Chief People Officer Kristin Cabot in a compromising position, sparking internet frenzy. Social media users falsely claimed a Simpsons episode predicted the event.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:36:32Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/ceo-andy-byron-and-kristin-cabo-kiss-cam-moment-at-coldplay-concert-has-fans-screaming-simpsons-predicted-it-but-did-it/articleshow/122777506.cms"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI, Anthropic, Google may disrupt education market with new AI tools",
+      "summary": "AI companies such as OpenAI, Anthropic, and Google are introducing new AI tools that could potentially disrupt the education market by offering advanced learning options for students.",
+      "source": "BleepingComputer",
+      "category": "applications",
+      "timestamp": "2025-07-19T06:30:27Z",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/"
+    },
+    {
+      "id": 63,
+      "title": "ai-edge-litert-sdk-mediatek-nightly 0.2.0.dev20250718",
+      "summary": "MediaTek has released version 0.2.0.dev20250718 of its NeuroPilot SDK for AI Edge LiteRT, aimed at providing developers with tools for AI applications on edge devices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T06:30:26Z",
+      "url": "https://pypi.org/project/ai-edge-litert-sdk-mediatek-nightly/0.2.0.dev20250718/"
+    },
+    {
+      "id": 64,
+      "title": "ai-edge-litert-sdk-qualcomm-nightly 0.2.0.dev20250718",
+      "summary": "Qualcomm releases SDK for AI Edge LiteRT, aiming to enable developers to implement artificial intelligence at the edge.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T06:30:24Z",
+      "url": "https://pypi.org/project/ai-edge-litert-sdk-qualcomm-nightly/0.2.0.dev20250718/"
+    },
+    {
+      "id": 65,
+      "title": "mimicx 0.1.16",
+      "summary": "mimicx 0.1.16 offers human-like AI capabilities such as vision, text, voice, and more in a user-friendly package for everyone to use.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T06:28:31Z",
+      "url": "https://pypi.org/project/mimicx/0.1.16/"
+    },
     {
       "id": 51,
       "title": "Financial Survey: Guardforce AI (NASDAQ:GFAI) and Rectitude (NASDAQ:RECT)",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T05:22:47Z",
       "url": "https://www.etfdailynews.com/2025/07/19/c3-ai-sees-unusually-large-options-volume-nyseai-2/"
-    },
-    {
-      "id": 55,
-      "title": "SoundHound AI Target of Unusually High Options Trading (NASDAQ:SOUN)",
-      "summary": "SoundHound AI, Inc. saw unusually high options trading on Thursday, with stock investors buying 123,031 call options on the stock, representing a 41% increase compared to average daily volume.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:22:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/soundhound-ai-target-of-unusually-high-options-trading-nasdaqsoun/"
-    },
-    {
-      "id": 56,
-      "title": "CARLSMED, INC. Plans $100 Million IPO for July 23rd (CARL)",
-      "summary": "CARLSMED, INC. (CARL) plans to raise $100 million in an IPO on July 23rd, with the company issuing 6,700,000 shares. In the last 12 months, CARLSMED, INC. generated $32.3 million in revenue.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-19T05:20:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/carlsmed-inc-plans-100-million-ipo-for-july-23rd-carl/"
-    },
-    {
-      "id": 57,
-      "title": "realme Buds T200 now official",
-      "summary": "realme Buds T200, entry-level wireless earbuds with ANC, set to launch alongside realme 15 smartphone line on July 24, 2025.",
-      "source": "Yugatech.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:19:56Z",
-      "url": "https://www.yugatech.com/news/realme-buds-t200-now-official/"
-    },
-    {
-      "id": 58,
-      "title": "Bitcoin ‘pausing here for air’ likely, but another July ATH still possible",
-      "summary": "Bitcoin price may pause but still has potential for another all-time high in July, according to head of franchise trading at Galaxy Digital.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:16:36Z",
-      "url": "https://cointelegraph.com/news/bitcoin-price-consolidation-phase-possible-july-highs-forecast-trader"
-    },
-    {
-      "id": 59,
-      "title": "Analyzing ZIM (OTCMKTS:ZIMCF) and Salesforce (NYSE:CRM)",
-      "summary": "Analyzing the comparison between AI-related companies ZIM and Salesforce in terms of dividends, earnings, and institutional strength.",
-      "source": "ETF Daily News",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:14:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/analyzing-zim-otcmktszimcf-and-salesforce-nysecrm/"
-    },
-    {
-      "id": 60,
-      "title": "repo-to-text-ai 0.1.0",
-      "summary": "repo-to-text-ai 0.1.0 is a tool that converts a Git repository into a single text file for AI analysis.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:08:21Z",
-      "url": "https://pypi.org/project/repo-to-text-ai/0.1.0/"
-    },
-    {
-      "id": 61,
-      "title": "repo-to-text-ai added to PyPI",
-      "summary": "repo-to-text-ai, a tool added to PyPI, can convert an entire Git repository into a single organized text file for AI analysis.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:08:21Z",
-      "url": "https://pypi.org/project/repo-to-text-ai/"
-    },
-    {
-      "id": 62,
-      "title": "psst-toolkit 1.2.0",
-      "summary": "The psst-toolkit 1.2.0 introduces Prompt Symbol Standard Technology for token-efficient AI prompting during conversation sessions.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:07:08Z",
-      "url": "https://pypi.org/project/psst-toolkit/1.2.0/"
-    },
-    {
-      "id": 63,
-      "title": "OpenAI ChatGPT agent launched",
-      "summary": "OpenAI has launched ChatGPT agent, enabling the platform to leverage a toolbox of agentic skills to help users complete tasks. It combines features from Operator, like its ability to interact with websites with ChatGPT’s conversational fluidity.",
-      "source": "Yugatech.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:05:17Z",
-      "url": "https://www.yugatech.com/news/openai-chatgpt-agent-launched/"
-    },
-    {
-      "id": 64,
-      "title": "Delta plans to set prices as high as possible using AI",
-      "summary": "Delta plans to use AI to set prices based on what each customer is willing to pay for tickets, similar to how Ticketmaster operates.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:05:04Z",
-      "url": "https://biztoc.com/x/62ccda0f53db3ba8"
-    },
-    {
-      "id": 65,
-      "title": "Is it time for a new kind of CEO at Apple?",
-      "summary": "Under Tim Cook's leadership, Apple's market value has significantly increased to $3.1tn, but some believe a CEO who is more focused on innovation rather than perfecting existing products may be needed.",
-      "source": "The Irish Times",
-      "category": "innovation",
-      "timestamp": "2025-07-19T05:00:00Z",
-      "url": "https://www.irishtimes.com/your-money/2025/07/19/is-it-time-for-a-new-kind-of-ceo-at-apple/"
-    },
-    {
-      "id": 66,
-      "title": "CoSpaceGPT – All your favourite GenAI models in one workspace",
-      "summary": "CoSpaceGPT is a workspace that brings together various GenAI models in one place, providing easy access for users. This innovation aims to streamline AI model usage and improve efficiency in applications that utilize AI technologies.",
-      "source": "Betalist.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:00:00Z",
-      "url": "https://betalist.com/startups/cospacegpt"
-    },
-    {
-      "id": 51,
-      "title": "Taser knife fighting competition",
-      "summary": "An AI-related news involving a Taser knife fighting competition, where a founder and AI teacher participates in Muay Thai and MMA as hobbies.",
-      "source": "Superpunch.net",
-      "category": "innovation",
-      "timestamp": "2025-07-19T04:58:00Z",
-      "url": "https://www.superpunch.net/2025/07/taser-knife-fighting-competition.html"
-    },
-    {
-      "id": 52,
-      "title": "Redwire Aims Higher: Analyst Backs Space Firm’s Defense Expansion",
-      "summary": "Redwire Corporation is recommended as one of the top space stocks to buy by hedge funds, with plans to expand its defense capabilities. Canaccord analyst Austin Moeller reiterated a Buy rating for the company on July 16.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T04:56:10Z",
-      "url": "https://finance.yahoo.com/news/redwire-aims-higher-analyst-backs-045610239.html"
-    },
-    {
-      "id": 53,
-      "title": "Drones, Hypersonics, and Airbus: Kratos Becomes the Defense Market’s Dark Horse",
-      "summary": "Kratos Defense & Security Solutions becoming a dark horse in the defense market, identified as one of the best space stocks to buy according to hedge funds.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T04:56:07Z",
-      "url": "https://finance.yahoo.com/news/drones-hypersonics-airbus-kratos-becomes-045607206.html"
     }
   ]
 }
