@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-20T10:55:15.156Z",
+  "lastUpdate": "2025-07-20T11:13:12.575Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Meta’s AI Innovations Drive $850 Price Target as Analysts See Strong Q2 Ahead",
+      "summary": "Meta Platforms, Inc. is seeing a rise in stock value due to their AI innovations, with analysts predicting a strong Q2. Canaccord Genuity analyst Maria Ripps raised Meta's price target to $850 on July 16.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:11:09Z",
+      "url": "https://finance.yahoo.com/news/meta-ai-innovations-drive-850-111109598.html"
+    },
+    {
+      "id": 52,
+      "title": "AI Cardiac Monitoring Tools - Octagos Health Specializes in AI-Driven Cardiac Remote Monitoring (TrendHunter.com)",
+      "summary": "AI Cardiac Monitoring Tools - Octagos Health specializes in AI-driven cardiac remote monitoring and has been selected for the Microsoft for Startups Pegasus Program, highlighting its emergence as a key innovator in the field.",
+      "source": "Trendhunter.com",
+      "category": "startups",
+      "timestamp": "2025-07-19T11:11:06Z",
+      "url": "https://www.trendhunter.com/trends/cardiac-remote-monitoring"
+    },
+    {
+      "id": 53,
+      "title": "X5 Evo: Affordable wireless earbuds come with real-time AI-powered translation support for 21 languages",
+      "summary": "X5 Evo wireless earbuds by Edifier offer real-time AI-powered translation for 21 languages along with powerful ANC and multiple microphones, making them suitable for simultaneous interpretation between languages.",
+      "source": "Notebookcheck.net",
+      "category": "applications",
+      "timestamp": "2025-07-19T11:10:00Z",
+      "url": "https://www.notebookcheck.net/X5-Evo-Affordable-wireless-earbuds-come-with-real-time-AI-powered-translation-support-for-21-languages.1061629.0.html"
+    },
+    {
+      "id": 54,
+      "title": "Nvidia’s (NVDA) China Opportunity Reopens — Price Target Raised to $192 by Mizuho",
+      "summary": "NVIDIA Corporation is one of the Trending AI Stocks in Focus This Week, with Mizuho raising their price target to $192 for the company in light of opportunities in China.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T11:06:10Z",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-china-opportunity-reopens-110610498.html"
+    },
+    {
+      "id": 55,
+      "title": "The same techbros that brought you such hits as offshoring, outsourcing, and replacing human workers with AI, have made a promise to bring 40K jobs to a farm community outside San Francisco. Pinky swear this time [Asinine]",
+      "summary": "Techbros promise to bring 40K jobs to a farm community outside San Francisco, despite past actions of offshoring and replacing workers with AI.",
+      "source": "Fark.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T11:05:27Z",
+      "url": "https://www.fark.com/comments/13746368/The-same-techbros-that-brought-you-such-hits-as-offshoring-outsourcing-replacing-human-workers-with-AI-have-made-a-promise-to-bring-40K-jobs-to-a-farm-community-outside-San-Francisco-Pinky-swear-this-time"
+    },
+    {
+      "id": 56,
+      "title": "Emerald AI Has a New Approach to Meeting AI's Energy Demand",
+      "summary": "Emerald AI has a new approach to meeting AI's energy demand with AI-generated voice technology, despite the possibility of inconsistencies. President Trump and his cabinet discussed the surging energy demand for AI growth at an event in Pennsylvania.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:04:14Z",
+      "url": "https://biztoc.com/x/308817b84f42f614"
+    },
+    {
+      "id": 57,
+      "title": "Valve boss and superyacht enthusiast Gabe Newell says pitching VCs is a \"deeply distracted\" way to make money: \"If you're creating value for people, the capital will come your way\"",
+      "summary": "Valve boss Gabe Newell emphasizes creating value for customers, partners, and employees over pitching VCs for funding.",
+      "source": "GamesRadar+",
+      "category": "startups",
+      "timestamp": "2025-07-19T11:03:59Z",
+      "url": "https://www.gamesradar.com/games/valve-boss-and-superyacht-enthusiast-gabe-newell-says-pitching-vcs-is-a-deeply-distracted-way-to-make-money-if-youre-creating-value-for-people-the-capital-will-come-your-way/"
+    },
+    {
+      "id": 58,
+      "title": "Astronomer CEO, HR chief put on leave after Coldplay concert scandal",
+      "summary": "Astronomer's CEO and HR chief are placed on leave after allegedly having an affair at a Coldplay concert, damaging the company's reputation.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T11:02:02Z",
+      "url": "https://economictimes.indiatimes.com/tech/startups/astronomer-ceo-hr-chief-put-on-leave-after-coldplay-concert-scandal/articleshow/122781541.cms"
+    },
+    {
+      "id": 59,
+      "title": "Salesforce (CRM) Wins Analyst Confidence With AI Advances and Price Hike Potential",
+      "summary": "Salesforce (CRM) is gaining analyst confidence with advancements in AI technology and the potential for price hikes. It is considered one of the trending AI stocks to watch this week.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:01:20Z",
+      "url": "https://finance.yahoo.com/news/salesforce-crm-wins-analyst-confidence-110120453.html"
+    },
+    {
+      "id": 60,
+      "title": "Emerald AI Has a New Approach to Meeting AI's Energy Demand",
+      "summary": "Emerald AI has developed a new platform that shifts energy demand for AI, potentially alleviating strain on regional power suppliers and turning data centers into 'grid allies.'",
+      "source": "Newsweek",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:01:01Z",
+      "url": "https://www.newsweek.com/emerald-ai-has-new-approach-meeting-ais-energy-demand-2101058"
+    },
+    {
+      "id": 61,
+      "title": "New Coalition Seeks To Make AI Trustworthy, One Standard At A Time",
+      "summary": "Standards for watermarking, digital verification, and traceability are being developed to ensure the trustworthiness of AI by distinguishing real content from digital fakery.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-19T11:00:00Z",
+      "url": "https://www.forbes.com/sites/joemckendrick/2025/07/19/new-coalition-seeks-to-make-ai-trustworthy-one-standard-at-a-time/"
+    },
+    {
+      "id": 62,
+      "title": "Links 7/19/2025",
+      "summary": "Various AI-related news including Israel strikes, NATO threat, and NYPD spying",
+      "source": "Nakedcapitalism.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T10:55:22Z",
+      "url": "https://www.nakedcapitalism.com/2025/07/links-7-19-2025.html"
+    },
     {
       "id": 51,
       "title": "promptify-ai 0.1.0",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T10:01:33Z",
       "url": "https://www.forbes.com/sites/daveywinder/2025/07/19/amazon-warns-220-million-customers-of-prime-account-attacks/"
-    },
-    {
-      "id": 63,
-      "title": "Muddy boots and AI are helping this threatened frog to make a comeback",
-      "summary": "Muddy boots and AI are being used to monitor the populations of the threatened California red-legged frog, helping them make a comeback.",
-      "source": "NPR",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:01:00Z",
-      "url": "https://www.npr.org/2025/07/19/g-s1-78230/ai-california-frog-science-conservation-threatened-species"
-    },
-    {
-      "id": 64,
-      "title": "Is Climate Change an Existential Threat?",
-      "summary": "Climate change presents existential threat, raising ethical questions about our impact on the planet and future generations.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T10:00:29Z",
-      "url": "https://gizmodo.com/is-climate-change-an-existential-threat-2000629702"
-    },
-    {
-      "id": 65,
-      "title": "Robinhood stock is telling the story of the market's march to record highs",
-      "summary": "Robinhood stock reaching all-time high driven by crypto and AI hype reflects the market's march to record levels",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T10:00:23Z",
-      "url": "https://finance.yahoo.com/news/robinhood-stock-is-telling-the-story-of-the-markets-march-to-record-highs-100023083.html"
-    },
-    {
-      "id": 66,
-      "title": "AI robot performs gallbladder surgery autonomously",
-      "summary": "AI robot performs gallbladder surgery autonomously, potentially transforming healthcare access.",
-      "source": "Fox News",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:00:20Z",
-      "url": "https://www.foxnews.com/tech/ai-robot-performs-gallbladder-surgery-autonomously"
-    },
-    {
-      "id": 67,
-      "title": "These Are CNET's Favorite and Most-Used Emoji. Did Yours Make the List?",
-      "summary": "CNET's favorite and most-used emojis were revealed, with smileys, prayer hands, and the troll emoji making the list.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-19T10:00:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/these-are-cnets-favorite-and-most-used-emoji-did-yours-make-the-list/"
-    },
-    {
-      "id": 68,
-      "title": "Gear News of the Week: Chrome OS Will Merge With Android and Sony Surprises With a New Camera",
-      "summary": "Chrome OS set to merge with Android, Sony releases new camera, Omega launches summery Seamaster, EcoFlow introduces whole-home energy backup system, and Viture unveils new smart glasses.",
-      "source": "Wired",
-      "category": "innovation",
-      "timestamp": "2025-07-19T10:00:00Z",
-      "url": "https://www.wired.com/story/chrome-os-will-merge-with-android-and-sony-surprises-with-a-new-camera/"
-    },
-    {
-      "id": 51,
-      "title": "Samsung Galaxy F36 5G launched in India",
-      "summary": "Samsung Galaxy F36 5G launched in India, with a low-key unveiling. The phone features a 5,000 mAh battery and dimensions of 164.4 x 77.9 x 7.7 mm.",
-      "source": "GSMArena.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T09:46:02Z",
-      "url": "https://www.gsmarena.com/samsung_galaxy_f36_5g_launched_in_india-news-68695.php"
-    },
-    {
-      "id": 52,
-      "title": "semanticpen added to PyPI",
-      "summary": "SemanticPen, a new professional Python library, has been added to PyPI for automated content creation, AI-powered article generation, and SEO blog writing.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T09:40:49Z",
-      "url": "https://pypi.org/project/semanticpen/"
-    },
-    {
-      "id": 53,
-      "title": "definable 0.1.5",
-      "summary": "definable 0.1.5 is an infrastructure designed for building and deploying AI agents.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T09:36:32Z",
-      "url": "https://pypi.org/project/definable/0.1.5/"
-    },
-    {
-      "id": 54,
-      "title": "Facebook Deletes 10 Million Accounts And Warns The Purge Will Go On",
-      "summary": "Facebook has deleted 10 million accounts and announced that the purge will continue, affecting more users. This move raises concerns about data privacy and the ethical implications of mass deletions on social media platforms.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-19T09:35:50Z",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/07/19/facebook-deletes-10-million-accounts-and-warns-the-purge-will-go-on/"
-    },
-    {
-      "id": 55,
-      "title": "Markifact Launches: AI Marketing Automation Platform Disrupting Reporting, Campaign Analysis, and Creative Generation",
-      "summary": "Markifact has launched an AI marketing automation platform that is disrupting reporting, campaign analysis, and creative generation in the marketing industry.",
-      "source": "Newschannelnebraska.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T09:35:49Z",
-      "url": "https://southeast.newschannelnebraska.com/story/52932983/markifact-launches-ai-marketing-automation-platform-disrupting-reporting-campaign-analysis-and-creative-generation"
-    },
-    {
-      "id": 51,
-      "title": "THE NEW ADAM (1)",
-      "summary": "A village is disappearing one house at a time due to the impact of AI.",
-      "source": "Hilobrow.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T09:32:31Z",
-      "url": "https://www.hilobrow.com/2025/07/19/the-new-adam-1/"
     }
   ]
 }
