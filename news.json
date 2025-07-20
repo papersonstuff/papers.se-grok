@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-20T10:16:08.366Z",
+  "lastUpdate": "2025-07-20T10:45:10.591Z",
   "items": [
+    {
+      "id": 51,
+      "title": "I'm an avid traveler and finally found a useful way to use ChatGPT to plan my trips that saves me hours",
+      "summary": "ChatGPT helped traveler plan a trip to Door County, Wisconsin, saving hours of research.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T10:41:20Z",
+      "url": "https://biztoc.com/x/d1342c83bf353d64"
+    },
+    {
+      "id": 52,
+      "title": "Amazon Deals: Samsung Q990F Q900F Q800F 2025 Dolby Atmos soundbars with wireless subwoofers",
+      "summary": "Amazon is offering deals on Samsung Q series soundbar systems, including the Q990F, Q900F, and Q800F, along with other brands, at their lowest prices.",
+      "source": "Neowin",
+      "category": "economy",
+      "timestamp": "2025-07-19T10:38:01Z",
+      "url": "https://www.neowin.net/deals/amazon-deals-samsung-q990f-q900f-q800f-2025-dolby-atmos-soundbars-with-wireless-subwoofers/"
+    },
+    {
+      "id": 53,
+      "title": "Did Andy Byron’s ‘daughter Marina Byron’ react to the Coldplay scandal? Here’s the truth about the new video",
+      "summary": "Megan Kerrigan appears to have responded quietly to the Coldplay scandal by removing 'Byron' from her surname on her Facebook profile, raising questions about the state of her relationship with Andy Byron.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T10:37:53Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/coldplay-cheaters-kiss-cam-scandal-andy-byron-daughter-marian-byron-video-truth-fact-check/articleshow/122781660.cms"
+    },
+    {
+      "id": 54,
+      "title": "I Asked ChatGPT What the Stock Market Will Look Like in 100 Days — Here’s What It Said",
+      "summary": "GOBankingRates tested ChatGPT by asking about the future of the stock market in 100 days, yielding enlightening and sobering results.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-19T10:37:48Z",
+      "url": "https://finance.yahoo.com/news/asked-chatgpt-stock-market-look-103748456.html"
+    },
+    {
+      "id": 55,
+      "title": "Digital design firm agrees to block 3D guns, following letter from Manhattan DA",
+      "summary": "Digital design firm agrees to block 3D guns after letter from Manhattan DA, showing ethical concerns about the potential misuse of AI technology for creating weapons.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-19T10:35:02Z",
+      "url": "https://abcnews.go.com/US/digital-design-firm-agrees-block-3d-guns-letter/story?id=123876632"
+    },
+    {
+      "id": 56,
+      "title": "Comedian Eric Idle says performers ‘ought to protect ourselves’ from AI fakes",
+      "summary": "Comedian Eric Idle warns performers about protecting themselves from AI fakes, as he prepares for a solo tour in the UK in September.",
+      "source": "The-independent.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T10:34:13Z",
+      "url": "https://www.the-independent.com/tech/eric-idle-openai-scarlett-johansson-chatgpt-monty-python-b2792129.html"
+    },
+    {
+      "id": 57,
+      "title": "[FREE EBOOKS] Building Agentic AI Systems, Mastering Embedded Linux Development & Four More Best Selling Titles",
+      "summary": "FREE EBOOKS on Building Agentic AI Systems and Mastering Embedded Linux Development available on Information Technology Research Library.",
+      "source": "Javacodegeeks.com",
+      "category": "research",
+      "timestamp": "2025-07-19T10:30:30Z",
+      "url": "https://www.javacodegeeks.com/2025/07/free-ebooks-building-agentic-ai-systems-mastering-embedded-linux-development-four-more-best-selling-titles.html"
+    },
+    {
+      "id": 58,
+      "title": "Atlassian stock: Should you own it into the print, or wait to buy a dip after?",
+      "summary": "Investors are split on Atlassian (NASDAQ:TEAM) ahead of its fiscal fourth-quarter earnings",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T10:30:08Z",
+      "url": "https://finance.yahoo.com/news/atlassian-stock-own-print-wait-103008077.html"
+    },
+    {
+      "id": 59,
+      "title": "Automakers Are Canceling Plans for New EVs. Here’s a List of What’s Been Killed So Far",
+      "summary": "Shifts in economic policy and manufacturing have led major automakers to cancel upcoming electric vehicle launches in the US.",
+      "source": "Wired",
+      "category": "economy",
+      "timestamp": "2025-07-19T10:30:00Z",
+      "url": "https://www.wired.com/story/list-of-new-evs-canceled-by-automakers/"
+    },
+    {
+      "id": 60,
+      "title": "How a Christian Nationalist Group is Getting the Ten Commandments into Classrooms",
+      "summary": "A Christian Nationalist Group is finding ways to get the Ten Commandments into classrooms, raising questions about the separation of church and state in education.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-19T10:30:00Z",
+      "url": "https://www.yahoo.com/news/christian-nationalist-group-getting-ten-103000782.html"
+    },
+    {
+      "id": 61,
+      "title": "China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year",
+      "summary": "China's Salt Typhoon Hackers breached the US National Guard for nearly a year, highlighting the ethical concerns of cyber attacks between nations.",
+      "source": "Wired",
+      "category": "ethics",
+      "timestamp": "2025-07-19T10:30:00Z",
+      "url": "https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/"
+    },
+    {
+      "id": 62,
+      "title": "I'm an avid traveler and finally found a useful way to use ChatGPT to plan my trips that saves me hours",
+      "summary": "A traveler found a useful way to use ChatGPT to plan trips, saving hours in background reading. ChatGPT was used to help plan a trip to Door County, Wisconsin.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-19T10:28:02Z",
+      "url": "https://www.businessinsider.com/travel-chatgpt-use-case-plan-trips-saves-hours-2025-7"
+    },
+    {
+      "id": 63,
+      "title": "NVIDIA’s CUDA Now Supports RISC-V Processors in AI Systems, Marking a Major Development & Posing a Threat to the x86 and ARM Duopoly",
+      "summary": "NVIDIA's CUDA now supports RISC-V processors in AI systems, expanding the platform's capabilities and posing a threat to the x86 and ARM duopoly.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-19T10:27:37Z",
+      "url": "https://wccftech.com/nvidias-cuda-now-supports-risc-v-processors-in-ai-systems/"
+    },
+    {
+      "id": 64,
+      "title": "Breaking up cybercrime gangs is helping save the planet, incredibly",
+      "summary": "Breaking up cybercrime gangs has resulted in the removal of up to 10k tCO₂e in emissions, which is helping save the planet according to a report.",
+      "source": "TechRadar",
+      "category": "research",
+      "timestamp": "2025-07-19T10:25:00Z",
+      "url": "https://www.techradar.com/pro/security/breaking-up-cybercrime-gangs-is-helping-save-the-planet-incredibly"
+    },
+    {
+      "id": 65,
+      "title": "evolvishub-alerting added to PyPI",
+      "summary": "evolvishub-alerting added to PyPI - A comprehensive, professional asynchronous multi-channel alerting library for Python applications",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T10:22:18Z",
+      "url": "https://pypi.org/project/evolvishub-alerting/"
+    },
     {
       "id": 51,
       "title": "MotoGP Czech GP: Bagnaia shocks to take first pole of 2025",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T09:03:01Z",
       "url": "https://www.businessinsider.com/ai-white-collar-jobs-outlook-dario-amodei-response-tech-leaders-2025-7"
-    },
-    {
-      "id": 55,
-      "title": "Exclusive: Trade partners have realized America is ‘simply not reliable’ after Trump’s tariff regime, says Elizabeth Warren—believing impact will be felt for generations to come",
-      "summary": "Trade partners consider America unreliable after Trump's tariffs, impacting generations. White House sees tariffs as beneficial, but Sen. Warren states they raise costs, slow manufacturing, and keep interest rates high.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-19T09:02:00Z",
-      "url": "https://fortune.com/2025/07/19/elizabeth-warren-trade-tariff-trump/"
-    },
-    {
-      "id": 56,
-      "title": "Donald Trump Is Most Successful President After Six Months Since FDR",
-      "summary": "An analysis conducted by Newsweek using AI concluded that the first six months of Donald Trump's second presidency have been the most successful of any American president since Franklin D. Roosevelt.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-19T09:01:00Z",
-      "url": "https://biztoc.com/x/ca6b2582d19c1db6"
-    },
-    {
-      "id": 57,
-      "title": "Donald Trump's Approval Rating Plunges with America's Richest",
-      "summary": "President Donald Trump is experiencing a sharp decline in support among high-income Americans, according to new polling.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T09:00:58Z",
-      "url": "https://biztoc.com/x/82ce09036e140856"
-    },
-    {
-      "id": 58,
-      "title": "Ozempic Could Change Births in America",
-      "summary": "Ozempic could potentially increase births in America due to its impact on fertility, with reports of 'Ozempic babies'. The AI-generated Voice in the news article may lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T09:00:53Z",
-      "url": "https://biztoc.com/x/3fb52185275e52aa"
-    },
-    {
-      "id": 59,
-      "title": "Cat Owners Are Revealing Nicknames for Their Pets—and Internet Can't Cope",
-      "summary": "A Reddit post asking users to share nicknames for their cats has gone viral, with an AI-generated voice. The response has sparked amusement and thousands of responses.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T09:00:50Z",
-      "url": "https://biztoc.com/x/607e4f495d2ec53e"
-    },
-    {
-      "id": 60,
-      "title": "Iran Pivots From Russia to China in Quest for New Weapons After Israel War",
-      "summary": "Iran pivots from Russia to China for new weapons after war with Israel, seeking advanced weaponry to reestablish its military",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T09:00:48Z",
-      "url": "https://biztoc.com/x/830ee5b48958bf48"
-    },
-    {
-      "id": 61,
-      "title": "What Would a 'Drone Wall' to Shield Europe's Borders Look Like?",
-      "summary": "It is still an 'unanswered question' whether countries running along NATO's eastern flank are prepared to defend against drone attacks, according to the European Commission's defense and space chief.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T09:00:44Z",
-      "url": "https://biztoc.com/x/22ad52697b303e75"
-    },
-    {
-      "id": 62,
-      "title": "Ro Khanna on Democrats' Path to Victory in Pro-Trump Districts",
-      "summary": "U.S. Representative Ro Khanna discusses Democrats' strategy for competing in pro-Trump districts in upcoming midterms.",
-      "source": "Biztoc.com",
-      "category": "politics",
-      "timestamp": "2025-07-19T09:00:41Z",
-      "url": "https://biztoc.com/x/85cc3fdc3a5c1770"
-    },
-    {
-      "id": 63,
-      "title": "Millennials Are Reviving This Midwest City",
-      "summary": "Des Moines, a city in the Midwest, is thriving thanks to the influx of young people, despite the region's population decline.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T09:00:36Z",
-      "url": "https://biztoc.com/x/262f3760bed645be"
-    },
-    {
-      "id": 64,
-      "title": "Alligator Alcatraz Detainees Reveal Chaotic Conditions",
-      "summary": "Allegations of medical neglect and verbal abuse are mounting about life inside Alligator Alcatraz, the Florida immigrant detention center.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T09:00:31Z",
-      "url": "https://biztoc.com/x/c3d62ca81947b91e"
-    },
-    {
-      "id": 65,
-      "title": "Donald Trump Is Most Successful President After Six Months Since FDR",
-      "summary": "Donald Trump's second term has been deemed the most successful since FDR in terms of legislative achievements, according to AI analysis.",
-      "source": "Newsweek",
-      "category": "innovation",
-      "timestamp": "2025-07-19T09:00:03Z",
-      "url": "https://www.newsweek.com/donald-trump-most-successful-president-after-six-months-since-fdr-2101113"
-    },
-    {
-      "id": 66,
-      "title": "Exclusive: Ro Khanna on Democrats' Path to Victory in Pro-Trump Districts",
-      "summary": "Ro Khanna discusses the Democrats' path to victory in Pro-Trump districts by promoting 'a new economic patriotism' during an interview with Newsweek.",
-      "source": "Newsweek",
-      "category": "economy",
-      "timestamp": "2025-07-19T09:00:02Z",
-      "url": "https://www.newsweek.com/ro-khanna-democrats-path-victory-pro-trump-districts-2101019"
-    },
-    {
-      "id": 67,
-      "title": "How AI can improve dementia detection",
-      "summary": "Researchers from NCHA have developed a method for improving dementia detection in hospitals by combining traditional methods with AI.",
-      "source": "Starcommunity.com.au",
-      "category": "research",
-      "timestamp": "2025-07-19T09:00:02Z",
-      "url": "https://berwicknews.starcommunity.com.au/news/2025-07-19/how-ai-can-improve-dementia-detection/"
-    },
-    {
-      "id": 68,
-      "title": "Amazfit Helio smart ring review — Accurate sleep tracking without breaking the bank",
-      "summary": "The Amazfit Helio smart ring offers accurate sleep tracking at an affordable price, competing with the Oura Ring. However, users need to consider its short battery life and limited range of sizes.",
-      "source": "Live Science",
-      "category": "applications",
-      "timestamp": "2025-07-19T09:00:00Z",
-      "url": "https://www.livescience.com/health/amazfit-helio-smart-ring-review"
-    },
-    {
-      "id": 69,
-      "title": "New York State Common Retirement Fund Purchases 106,953 Shares of RadNet, Inc. (NASDAQ:RDNT)",
-      "summary": "New York State Common Retirement Fund raised its position in RadNet, Inc. by 92.5% in the 1st quarter, according to the company's filing with the Securities & Exchange Commission.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T08:58:22Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/new-york-state-common-retirement-fund-purchases-106953-shares-of-radnet-inc-nasdaqrdnt/"
     }
   ]
 }
