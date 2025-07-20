@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-20T22:37:54.775Z",
+  "lastUpdate": "2025-07-20T22:52:28.250Z",
   "items": [
+    {
+      "id": 51,
+      "title": "canoaicli 0.1.1",
+      "summary": "Canoaicli 0.1.1 is a new command-line AI assistant that uses Gemini technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T22:52:01Z",
+      "url": "https://pypi.org/project/canoaicli/0.1.1/"
+    },
+    {
+      "id": 52,
+      "title": "Show HN: I built a video meet app integrated with AI voice and avatar agents",
+      "summary": "Video meeting app for voice ai developers to demo their voice agents to clients, integrated with AI voice and avatar agents.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T22:47:32Z",
+      "url": "https://github.com/kylecampbell/livekit-meet-agents"
+    },
+    {
+      "id": 53,
+      "title": "crystalyse-ai 1.0.10",
+      "summary": "CrystaLyse.AI has released version 1.0.10, which offers autonomous AI agents for speeding up the design of inorganic materials using natural language interfaces.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T22:45:16Z",
+      "url": "https://pypi.org/project/crystalyse-ai/1.0.10/"
+    },
+    {
+      "id": 54,
+      "title": "SynLrn 0.0.5",
+      "summary": "SynLrn 0.0.5 introduces a new approach for AI to learn from each interaction, offering a modern solution for enhancing learning capabilities.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T22:42:40Z",
+      "url": "https://pypi.org/project/synlrn/0.0.5/"
+    },
+    {
+      "id": 55,
+      "title": "nntool 1.8.0",
+      "summary": "NNTool 1.8.0 is a package built on top of submitit for conducting machine learning research on Slurm, providing simple abstractions for experiments.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T22:42:22Z",
+      "url": "https://pypi.org/project/nntool/1.8.0/"
+    },
+    {
+      "id": 56,
+      "title": " Confirmed Verdolaga line-up: Atlético Nacional’s XI to face La Equidad",
+      "summary": "Confirmed Verdolaga line-up: Atlético Nacional’s XI to face La Equidad - On matchday 2 of the Liga Betplay 2025-II, Atlético Nacional hosts La Equidad at the Atanasio Girardot, in the debut of Javier Gandolfi's team at home and in front of their fans.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T22:42:00Z",
+      "url": "https://onefootball.com/en/news/confirmed-verdolaga-line-up-atletico-nacionals-xi-to-face-la-equidad-41398251"
+    },
+    {
+      "id": 57,
+      "title": " Vasco dominate but Grêmio snatch a point at São Januário",
+      "summary": "Vasco and Grêmio played to a draw in a tense match in the Brasileirão, with both teams struggling. The game ended with no winner at São Januário.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T22:41:00Z",
+      "url": "https://onefootball.com/en/news/vasco-dominate-but-gremio-snatch-a-point-at-sao-januario-41398240"
+    },
+    {
+      "id": 58,
+      "title": "swe-ai-agent 1.0.36",
+      "summary": "swe-ai-agent 1.0.36 is a headless agentic IDE with comprehensive tool support for software engineers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T22:40:56Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.36/"
+    },
+    {
+      "id": 59,
+      "title": "mltracker 0.2.3",
+      "summary": "mltracker 0.2.3 is a tool designed for tracking machine learning aggregates and storing their data, providing a simple solution for monitoring machine learning projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T22:39:30Z",
+      "url": "https://pypi.org/project/mltracker/0.2.3/"
+    },
+    {
+      "id": 60,
+      "title": "crystalyse-ai 1.0.9",
+      "summary": "CrystaLyse.AI has released version 1.0.9 of their autonomous AI agents designed for inorganic materials design using natural language interfaces.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T22:39:17Z",
+      "url": "https://pypi.org/project/crystalyse-ai/1.0.9/"
+    },
     {
       "id": 51,
       "title": "alloy-lang 0.1.0",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T21:26:19Z",
       "url": "https://github.com/swampus/FishSonar"
-    },
-    {
-      "id": 53,
-      "title": "Tech company CEO resigns after controversy over video captured at Coldplay concert",
-      "summary": "Tech company CEO resigns after controversy over video captured at Coldplay concert.",
-      "source": "WSB Atlanta",
-      "category": "ethics",
-      "timestamp": "2025-07-19T21:26:14Z",
-      "url": "https://www.wsbtv.com/news/tech-company-ceo/P2IPWZ4DD5ETRIZGO3OFZCWGEA/"
-    },
-    {
-      "id": 54,
-      "title": "7 Deadly Job Interview Mistakes To Avoid, Recruiters Say",
-      "summary": "Recruiters warn job seekers, especially Gen Z, to avoid common job interview mistakes to increase chances of landing their dream job.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-19T21:26:03Z",
-      "url": "https://www.forbes.com/sites/bryanrobinson/2025/07/19/7-deadly-job-interview-mistakes-to-avoid-recruiters-say/"
-    },
-    {
-      "id": 55,
-      "title": "Astronomer HR Head Kristine Cabot is yet to resign even though Coldplay concert cheating scandal costs CEO Andy Byron his job",
-      "summary": "Astronomer CEO resigns due to Coldplay concert cheating scandal, but HR Chief Kristine Cabot remains in position without announcing resignation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T21:25:30Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/astronomer-hr-head-kristine-cabot-is-yet-to-resign-even-though-coldplay-concert-cheating-scandal-costs-andy-byron-his-job/articleshow/122790143.cms"
-    },
-    {
-      "id": 56,
-      "title": "Mahomes, Chiefs haters launch their own meme of Astronomer CEO Andy Byron's Kiss cam",
-      "summary": "A meme involving Patrick Mahomes and the Andy Byron Kiss incident cam has gone viral on social media, with millions of users interacting with the post.",
-      "source": "Marca",
-      "category": "applications",
-      "timestamp": "2025-07-19T21:24:43Z",
-      "url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2025/07/19/687bd03222601dad5a8b45eb.html"
-    },
-    {
-      "id": 57,
-      "title": "Palantir Just Hit a Record High. What's the Smart Move Now?",
-      "summary": "Palantir hits record high with accelerated revenue growth in Q1, seeing explosive growth in its commercial business in the U.S., but its wild valuation leaves no room for error.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T21:23:40Z",
-      "url": "https://biztoc.com/x/a67c39431ea1b45b"
-    },
-    {
-      "id": 58,
-      "title": "Tech CEO resigns after controversy over video captured at Coldplay concert",
-      "summary": "Tech CEO resigns after controversy over video captured at Coldplay concert",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-19T21:14:44Z",
-      "url": "https://www.channelnewsasia.com/world/tech-ceo-resigns-after-controversy-over-video-captured-coldplay-concert-5247711"
-    },
-    {
-      "id": 51,
-      "title": "Astronomer CEO Andy Byron resigns after controversy over Coldplay concert video",
-      "summary": "Astronomer CEO Andy Byron resigns after controversy over Coldplay concert video, showing him embracing an employee.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-19T21:14:00Z",
-      "url": "https://www.channelnewsasia.com/world/astronomer-ceo-andy-byron-steps-down-coldplay-concert-video-hug-5247711"
-    },
-    {
-      "id": 52,
-      "title": "Astronomer CEO Andy Byron resigns after controversy over Coldplay concert video",
-      "summary": "Astronomer CEO Andy Byron resigns following controversy over Coldplay concert video showing him embracing an employee.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-19T21:14:00Z",
-      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/astronomer-ceo-andy-byron-steps-down-coldplay-concert-video-hug-468231"
-    },
-    {
-      "id": 53,
-      "title": "Andy Byron resigns: Astronomer CEO resigns after viral Coldplay ‘Kiss Cam’ video",
-      "summary": "Andy Byron resigns as CEO of Astronomer after viral video, cofounder Pete DeJoy named interim CEO, board to search for new CEO.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-19T21:13:56Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-resigns-astronomer-ceo-resigns-after-viral-coldplay-kiss-cam-video/articleshow/122790134.cms"
-    },
-    {
-      "id": 54,
-      "title": "mltracker 0.2.1",
-      "summary": "mltracker 0.2.1 is a tool designed for tracking machine learning aggregates and storing their data in a simple manner.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-19T21:07:37Z",
-      "url": "https://pypi.org/project/mltracker/0.2.1/"
     }
   ]
 }
