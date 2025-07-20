@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import NextAuth from 'next-auth';
 import EmailProvider from 'next-auth/providers/email';
 import { SupabaseAdapter } from '@auth/supabase-adapter';
