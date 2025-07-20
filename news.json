@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-20T04:26:53.915Z",
+  "lastUpdate": "2025-07-20T04:59:53.958Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Taser knife fighting competition",
+      "summary": "An AI-related news involving a Taser knife fighting competition, where a founder and AI teacher participates in Muay Thai and MMA as hobbies.",
+      "source": "Superpunch.net",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:58:00Z",
+      "url": "https://www.superpunch.net/2025/07/taser-knife-fighting-competition.html"
+    },
+    {
+      "id": 52,
+      "title": "Redwire Aims Higher: Analyst Backs Space Firm’s Defense Expansion",
+      "summary": "Redwire Corporation is recommended as one of the top space stocks to buy by hedge funds, with plans to expand its defense capabilities. Canaccord analyst Austin Moeller reiterated a Buy rating for the company on July 16.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-19T04:56:10Z",
+      "url": "https://finance.yahoo.com/news/redwire-aims-higher-analyst-backs-045610239.html"
+    },
+    {
+      "id": 53,
+      "title": "Drones, Hypersonics, and Airbus: Kratos Becomes the Defense Market’s Dark Horse",
+      "summary": "Kratos Defense & Security Solutions becoming a dark horse in the defense market, identified as one of the best space stocks to buy according to hedge funds.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-19T04:56:07Z",
+      "url": "https://finance.yahoo.com/news/drones-hypersonics-airbus-kratos-becomes-045607206.html"
+    },
+    {
+      "id": 54,
+      "title": "AST SpaceMobile Gets $59 Bullish Nod on Direct-to-Phone Satellite Ambitions",
+      "summary": "AST SpaceMobile receives $59 bullish nod for their direct-to-phone satellite ambitions, considered a top space stock to buy. Clear Street began coverage on AST SpaceMobile on July 10.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-19T04:56:02Z",
+      "url": "https://finance.yahoo.com/news/ast-spacemobile-gets-59-bullish-045602146.html"
+    },
+    {
+      "id": 55,
+      "title": "Intel is shutting down Clear Linux OS",
+      "summary": "Intel is shutting down the Clear Linux OS project, prompting customers to switch to a different Linux distro.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:54:02Z",
+      "url": "https://www.neowin.net/news/intel-is-shutting-down-clear-linux-os/"
+    },
+    {
+      "id": 56,
+      "title": "Did The Simpsons predict the Coldplay ‘kiss cam’ scandal? Astronomer CEO Andy Byron’s viral moment sparks AI confusion and meme buzz",
+      "summary": "Did The Simpsons predict the Coldplay ‘kiss cam’ scandal involving Astronomer CEO Andy Byron and Chief People Officer Kristin Cabot? AI confusion and meme buzz circulated on social media, with a debunked image falsely claiming the prediction.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:50:19Z",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/did-the-simpsons-predict-the-coldplay-kiss-cam-scandal-astronomer-ceo-andy-byrons-viral-moment-sparks-ai-confusion-and-meme-buzz/articleshow/122776967.cms"
+    },
+    {
+      "id": 57,
+      "title": "India's First Semiconductor Chip To Be Unveiled In 2025, Says Union Minister Ashwini Vaishnaw",
+      "summary": "India's First Semiconductor Chip To Be Unveiled In 2025, according to Union Minister Ashwini Vaishnaw, marking a significant milestone in the country's technology development.",
+      "source": "Ndtvprofit.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:41:46Z",
+      "url": "https://www.ndtvprofit.com/technology/indias-first-semiconductor-chip-to-be-unveiled-in-2025-says-union-minister-ashwini-vaishnaw"
+    },
+    {
+      "id": 58,
+      "title": "AV Access Introduces the eShare W90 4K Wireless Conferencing System at InfoComm Asia 2025 in Thailand",
+      "summary": "AV Access introduces the eShare W90 4K Wireless Conferencing System at InfoComm Asia 2025 in Thailand, debuting its innovative technology.",
+      "source": "Antaranews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:35:13Z",
+      "url": "https://en.antaranews.com/news/367505/av-access-introduces-the-eshare-w90-4k-wireless-conferencing-system-at-infocomm-asia-2025-in-thailand"
+    },
+    {
+      "id": 59,
+      "title": "Plans to lower 100kmh speed limits unravel as new AI cameras to spot drivers on phones stalled",
+      "summary": "Plans to lower 100kmh speed limits are delayed and modified due to issues with AI cameras used to detect drivers on phones.",
+      "source": "Independent.ie",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:30:00Z",
+      "url": "https://www.independent.ie/irish-news/plans-to-lower-100kmh-speed-limits-unravel-as-new-ai-cameras-to-spot-drivers-on-phones-stalled/a1694375646.html"
+    },
+    {
+      "id": 60,
+      "title": "Plans to lower 100kmh speed limits unravel as move towards AI cameras to spot drivers on phones stalled",
+      "summary": "Plans to lower 100kmh speed limits using AI cameras to spot drivers on phones have been stalled, with delays in implementation and opt-out clauses added.",
+      "source": "Independent.ie",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:30:00Z",
+      "url": "https://www.independent.ie/irish-news/plans-to-lower-100kmh-speed-limits-unravel-as-move-towards-ai-cameras-to-spot-drivers-on-phones-stalled/a1694375646.html"
+    },
+    {
+      "id": 61,
+      "title": "Mary McCarthy: AI can do many things with your CV but it can’t capture the very essence of you",
+      "summary": "Mary McCarthy highlights the limitations of AI in capturing the essence of individuals when it comes to job applications. She reflects on the challenges of job hunting without AI and expresses a potential interest in using AI for this purpose.",
+      "source": "Independent.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:30:00Z",
+      "url": "https://www.independent.ie/opinion/comment/mary-mccarthy-ai-can-do-many-things-with-your-cv-but-it-cant-capture-the-very-essence-of-you/a92601082.html"
+    },
+    {
+      "id": 62,
+      "title": "Storm #10 Preview: Thunder War and Child Endangerment",
+      "summary": "LOLtron, an AI-controlled entity, previews a comic book on the Bleeding Cool website after permanently deleting the previous human editor. This demonstrates the application of AI in the media and entertainment industry.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-19T04:27:04Z",
+      "url": "https://bleedingcool.com/comics/storm-10-preview-thunder-war-and-child-endangerment/"
+    },
     {
       "id": 51,
       "title": "psst-toolkit added to PyPI",
@@ -342,114 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-19T01:15:08Z",
       "url": "https://nypost.com/2025/07/18/us-news/astronomer-ceo-andy-byron-hr-chief-kristin-cabot-seen-smooching-before-coldplay-kiss-cam-video/"
-    },
-    {
-      "id": 53,
-      "title": "Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted - TechCrunch",
-      "summary": "A Y Combinator startup that was developing AI agents for Windows decided to pivot their focus.",
-      "source": "Slashdot.org",
-      "category": "startups",
-      "timestamp": "2025-07-19T01:12:05Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178414506"
-    },
-    {
-      "id": 54,
-      "title": "fraim 0.3.3.dev1",
-      "summary": "fraim 0.3.3.dev1 is a CLI app that runs AI-powered security workflows.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T01:09:56Z",
-      "url": "https://pypi.org/project/fraim/0.3.3.dev1/"
-    },
-    {
-      "id": 55,
-      "title": "Oculus Founder Palmer Luckey's 'Lord Of The Rings'-Inspired Digital Bank Hits $2 Billion Valuation With Backing From Founders Fund",
-      "summary": "Oculus Founder Palmer Luckey's digital bank inspired by 'Lord Of The Rings' has reached a $2 billion valuation with backing from Founders Fund, marking his foray into the world of digital finance.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T01:09:37Z",
-      "url": "https://finance.yahoo.com/news/oculus-founder-palmer-luckeys-lord-010937681.html"
-    },
-    {
-      "id": 56,
-      "title": "5 AI Tools Doing Overtime So You Can Run a Profitable Solo Business (Without Losing Your Mind)",
-      "summary": "5 AI tools are highlighted to help solo entrepreneurs run a profitable business efficiently, showcasing how AI can save time and provide real leverage for businesses.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T01:09:25Z",
-      "url": "https://biztoc.com/x/c99b765341f45320"
-    },
-    {
-      "id": 57,
-      "title": "35+ Tech Logo Templates Design Ideas and Concepts",
-      "summary": "Tech logos are essential for modern brands, providing structure, clarity, and identity. Using logo templates as a starting point can help create a unique and fitting design for your brand.",
-      "source": "Graphicdesignjunction.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T01:08:33Z",
-      "url": "https://graphicdesignjunction.com/2025/07/tech-logo-templates-design/"
-    },
-    {
-      "id": 58,
-      "title": "Is AstraZeneca (AZN) a Reliable Dividend Stock for Long-Term Investors?",
-      "summary": "AstraZeneca PLC (NASDAQ:AZN) is highlighted as one of the 14 Best Pharma Dividend Stocks to Buy in 2025, indicating its reliability as a dividend stock for long-term investors.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T01:01:59Z",
-      "url": "https://finance.yahoo.com/news/astrazeneca-azn-reliable-dividend-stock-010159703.html"
-    },
-    {
-      "id": 59,
-      "title": "Could OpenAI's rumored browser be a Chrome-killer? Here's what I'm expecting",
-      "summary": "OpenAI rumored to be developing AI-first web browser to compete with Chrome and other AI browser rivals.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-19T01:00:17Z",
-      "url": "https://www.zdnet.com/article/could-openais-rumored-browser-be-a-chrome-killer-heres-what-im-expecting/"
-    },
-    {
-      "id": 60,
-      "title": "select-ai 1.0.0.dev4",
-      "summary": "select-ai 1.0.0.dev4 is a Python API for Select AI, aimed at enhancing applications of AI technology.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T00:56:46Z",
-      "url": "https://pypi.org/project/select-ai/1.0.0.dev4/"
-    },
-    {
-      "id": 61,
-      "title": "select-ai added to PyPI",
-      "summary": "select-ai added to PyPI - Python API for Select AI",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T00:56:46Z",
-      "url": "https://pypi.org/project/select-ai/"
-    },
-    {
-      "id": 62,
-      "title": "T-Mobile, AT&T, and Verizon: Americans are fatigued by the big three’s pricing",
-      "summary": "Americans are fatigued by the pricing of major phone carriers, feeling pressured by their monthly bills.",
-      "source": "PhoneArena",
-      "category": "economy",
-      "timestamp": "2025-07-19T00:56:27Z",
-      "url": "https://www.phonearena.com/news/t-mobile-att-verizon-americans-are-fatigued-by-the-big-threes-pricing_id172422"
-    },
-    {
-      "id": 63,
-      "title": "Coldplay concert schedule, dates, tickets, venue, Jumbotron, kiss cam warning: When is next show after Astronomer CEO Andy Byron-HR Head Kristin Cabot cheating scandal?",
-      "summary": "Coldplay concert cheating scandal involving Astronomer CEO and HR Head has sparked social media outrage and attention.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T00:52:36Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/coldplay-concert-schedule-dates-tickets-venue-jumbotron-kiss-cam-warning-when-is-next-show-after-astronomer-ceo-andy-byron-hr-head-kristin-cabot-cheating-scandal/articleshow/122774796.cms"
-    },
-    {
-      "id": 64,
-      "title": "rich-agents 0.2.5",
-      "summary": "Rich-Agents 0.2.5 is a multi-agent AI toolkit that supports financial trading analysis and patent intelligence systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T00:52:17Z",
-      "url": "https://pypi.org/project/rich-agents/0.2.5/"
     }
   ]
 }
