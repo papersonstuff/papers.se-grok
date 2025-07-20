@@ -1,4 +1,5 @@
 export const dynamic = 'force-dynamic';
+export const revalidate = false;
 
 import NextAuth from 'next-auth';
 import EmailProvider from 'next-auth/providers/email';
@@ -8,7 +9,7 @@ export const authOptions = {
   adapter: SupabaseAdapter({
     supabaseUrl: process.env.NEXT_PUBLIC_SUPABASE_URL,
     supabaseKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
-    schema: 'next_auth',  // Keep this as it fixes the earlier schema error
+    schema: 'next_auth',  // Explicitly set to use the new schema
   }),
   providers: [
     EmailProvider({
