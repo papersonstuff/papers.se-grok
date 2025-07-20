@@ -1,6 +1,33 @@
 {
-  "lastUpdate": "2025-07-20T13:42:59.274Z",
+  "lastUpdate": "2025-07-20T13:54:37.744Z",
   "items": [
+    {
+      "id": 51,
+      "title": "jarvis-ai-assistant 0.1.222",
+      "summary": "Jarvis is an AI assistant that uses tools to interact with the system, such as version 0.1.222 which showcases its capabilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T13:52:27Z",
+      "url": "https://pypi.org/project/jarvis-ai-assistant/0.1.222/"
+    },
+    {
+      "id": 52,
+      "title": "L0 is not a neutral hyperparameter",
+      "summary": "L0 is not a neutral hyperparameter when training Sparse Autoencoders (SAEs), as the sparsity of the SAE is considered an arbitrary design choice. All SAE architectures include plots of L0 vs reconstruct.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-19T13:51:32Z",
+      "url": "https://www.lesswrong.com/posts/wjLmMoamcfdDwQB2y/l0-is-not-a-neutral-hyperparameter"
+    },
+    {
+      "id": 53,
+      "title": "Leaked Document Reveals Troubling Details About How AI Is Really Being Trained",
+      "summary": "Leaked document highlights troubling details about how AI is being trained, specifically focusing on data labeling in machine learning.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-19T13:45:40Z",
+      "url": "https://futurism.com/documents-ai-training-surge"
+    },
     {
       "id": 51,
       "title": "Meta Won't Sign EU's Code Of Practice For Generative AI, Says Executive",
@@ -423,33 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T12:14:21Z",
       "url": "https://pypi.org/project/langchain-openailike-llms-adapters/"
-    },
-    {
-      "id": 66,
-      "title": "What is Astronomer, the company led by Andy Byron at the center of Coldplay concert controversy?",
-      "summary": "Astronomer, led by Andy Byron, is a New York-based company providing software solutions for data management. The company serves major clients like Apple and Uber.",
-      "source": "Livemint",
-      "category": "startups",
-      "timestamp": "2025-07-19T12:13:23Z",
-      "url": "https://www.livemint.com/companies/what-is-astronomer-the-company-led-by-andy-byron-at-the-center-of-coldplay-concert-controversy-11752914729362.html"
-    },
-    {
-      "id": 67,
-      "title": "Mizuho Turns Bullish on Broadcom (AVGO) as AI Opportunities Expand in China",
-      "summary": "Mizuho analyst raises price target on Broadcom as AI opportunities expand in China, highlighting the company as one of the AI stocks to watch closely.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T12:11:56Z",
-      "url": "https://biztoc.com/x/12f723206d77dce1"
-    },
-    {
-      "id": 68,
-      "title": "Gets $196 PT From Cantor Fitzgerald, Neutral Rating Reaffirmed",
-      "summary": "Alphabet Inc. receives a price target of $196 from Cantor Fitzgerald, with a reaffirmed 'Neutral' rating. This news is related to the economy as investors are closely monitoring AI stocks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T12:11:36Z",
-      "url": "https://biztoc.com/x/f8169f36a2e5dac2"
     }
   ]
 }
