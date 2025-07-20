@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-20T15:51:45.466Z",
+  "lastUpdate": "2025-07-20T16:18:13.911Z",
   "items": [
+    {
+      "id": 51,
+      "title": "A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips",
+      "summary": "A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips - This is the DIY project to end all DIY projects.",
+      "source": "PC Gamer",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:14:03Z",
+      "url": "https://www.pcgamer.com/hardware/a-diy-mad-scientist-from-poland-built-his-own-cpu-out-of-dozens-of-ancient-memory-chips/"
+    },
+    {
+      "id": 52,
+      "title": "Despite \"Very Positive\" Steam Reviews, This Open-World Game Has One Glaring Problem Players Can't Ignore",
+      "summary": "Despite positive reviews, an open-world game is facing criticism for its endgame grind, reflecting challenges in game design and player engagement.",
+      "source": "Screen Rant",
+      "category": "applications",
+      "timestamp": "2025-07-19T16:10:21Z",
+      "url": "https://screenrant.com/dune-awakening-endgame-content-problem/"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: Am-I-vibing, detect agentic coding environments",
+      "summary": "Am-I-vibing is a tool that detects agentic coding environments. It has received 2 points on Hacker News and has yet to receive any comments.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T16:07:41Z",
+      "url": "https://github.com/ascorbic/am-i-vibing"
+    },
+    {
+      "id": 54,
+      "title": "selenium-mcp-server 1.0.5",
+      "summary": "selenium-mcp-server 1.0.5 is a powerful MCP server that enables AI assistants to utilize Selenium WebDriver automation",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:04:29Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.0.5/"
+    },
+    {
+      "id": 55,
+      "title": "Silicon Valley's AI boom turns into a battle for brains – and billions",
+      "summary": "Silicon Valley's AI boom is leading to competition among AI companies for talent and funding, with Windsurf facing a power struggle despite being considered a rising star.",
+      "source": "TechSpot",
+      "category": "startups",
+      "timestamp": "2025-07-19T16:02:00Z",
+      "url": "https://www.techspot.com/news/108733-silicon-valley-ai-boom-turns-battle-brains-ndash.html"
+    },
+    {
+      "id": 56,
+      "title": "Woman loses £25,000 after posting video of her dogs to Instagram",
+      "summary": "Woman loses £25,000 after posting video of her dogs to Instagram, Meta reportedly suspended her accounts",
+      "source": "LADbible",
+      "category": "ethics",
+      "timestamp": "2025-07-19T16:01:46Z",
+      "url": "https://www.ladbible.com/news/world-news/business-owner-account-disabled-meta-dog-video-052130-20250719"
+    },
+    {
+      "id": 57,
+      "title": "AI Data Centers Accused of Creating Major Problems for Local Water Systems",
+      "summary": "AI Data Centers accused of causing water scarcity for local residents in Newton County, Georgia, as Meta builds a massive data center nearby.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-19T16:00:43Z",
+      "url": "https://futurism.com/ai-data-center-water"
+    },
+    {
+      "id": 58,
+      "title": "Govee Table Lamp 2 Pro x Sound by JBL review: A great lamp with an undercooked collab",
+      "summary": "The Govee Table Lamp 2 Pro x Sound by JBL is a smart light that combines with JBL sound, but the collaboration is undercooked.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:00:10Z",
+      "url": "https://www.androidpolice.com/govee-table-lamp-2-pro-x-sound-by-jbl-review/"
+    },
+    {
+      "id": 59,
+      "title": "Notepad is losing its focus",
+      "summary": "Notepad is shifting focus towards becoming an ad platform for Copilot, moving away from its original purpose as a simple note-taking app.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-19T16:00:01Z",
+      "url": "https://www.neowin.net/editorials/notepad-is-losing-its-focus/"
+    },
+    {
+      "id": 60,
+      "title": "MSI Raider 18 HX AI",
+      "summary": "MSI Raider 18 HX AI is a powerful gaming laptop that prioritizes performance over portability, with a starting price of $3,999.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://uk.pcmag.com/laptops/159212/msi-raider-18-hx-ai"
+    },
+    {
+      "id": 61,
+      "title": "How To Use Claude AI For Crypto Management: A Practical Guide For 2025",
+      "summary": "How To Use Claude AI For Crypto Management: A Practical Guide For 2025 - Learn how to leverage AI for smarter investing and market understanding.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.forbes.com/sites/digital-assets/article/how-to-use-claude-ai-crypto-management/"
+    },
+    {
+      "id": 62,
+      "title": "UM top surgeon drives reform",
+      "summary": "UM top surgeon driving reform for positive change",
+      "source": "The Star Online",
+      "category": "ethics",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.thestar.com.my/news/education/2025/07/20/um-top-surgeon-drives-reform"
+    },
+    {
+      "id": 63,
+      "title": "Malaysia, Indonesia boost edu ties",
+      "summary": "Malaysia and Indonesia are enhancing educational ties in strategic fields such as AI, renewable energy technology, and aerospace for collaboration between lecturers and students.",
+      "source": "The Star Online",
+      "category": "research",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.thestar.com.my/news/education/2025/07/20/malaysia-indonesia-boost-edu-ties"
+    },
+    {
+      "id": 64,
+      "title": "MSI Raider 18 HX AI",
+      "summary": "MSI Raider 18 HX AI is a powerful gaming mega-laptop focused on performance, priced at $3,999.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://me.pcmag.com/en/laptops/31052/msi-raider-18-hx-ai"
+    },
+    {
+      "id": 65,
+      "title": "The Biden administration secretly stole your data to engineer elections and silence speech",
+      "summary": "The Biden administration secretly stole your data to engineer elections and silence speech. The Department of Government Efficiency traces the flow of dollars between government and partisan activists, but the flow of data may reveal an even deeper menace. The real story of government weaponization can only be told once we reckon with the shadowy...",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://nypost.com/2025/07/19/opinion/the-biden-administration-secretly-stole-your-data-to-engineer-elections-and-silence-speech/"
+    },
+    {
+      "id": 66,
+      "title": "Hooked on autoplay, infinite scrolling and dopamine hits",
+      "summary": "Social media platforms use autoplay, infinite scrolling, and dopamine hits to keep users hooked, prioritizing business goals over user wellness.",
+      "source": "The Star Online",
+      "category": "ethics",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/20/hooked-on-autoplay-infinite-scrolling-and-dopamine-hits"
+    },
+    {
+      "id": 67,
+      "title": "Polish programmer beats OpenAI's custom AI in 10-hour marathon, wins World Coding Championship — possibly the last human winner",
+      "summary": "Polish programmer beats OpenAI's custom AI in 10-hour marathon, wins World Coding Championship — possibly the last human winner - Przemysław “Psyho” Dębiak, a Polish programmer and former OpenAI engineer, defeated the company’s own advanced AI model in the 2025 AtCoder World Tour Finals.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/polish-programmer-beats-openais-custom-ai-in-10-hour-marathon-wins-world-coding-championship-possibly-the-last-human-winner"
+    },
+    {
+      "id": 68,
+      "title": "Today's news and jokes",
+      "summary": "Tonight's baseball contest delayed due to incident, gallons of water sprayed after ball hits pickup truck, creating unexpected outcome.",
+      "source": "Superpunch.net",
+      "category": "innovation",
+      "timestamp": "2025-07-19T16:00:00Z",
+      "url": "https://www.superpunch.net/2025/07/todays-news-and-jokes_01945816382.html"
+    },
+    {
+      "id": 69,
+      "title": "selenium-mcp-server 1.0.4",
+      "summary": "selenium-mcp-server 1.0.4 is a powerful MCP server enabling AI assistants to utilize Selenium WebDriver automation",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T15:59:42Z",
+      "url": "https://pypi.org/project/selenium-mcp-server/1.0.4/"
+    },
+    {
+      "id": 70,
+      "title": "Indian AI engineer working for top tech company shares advice for techies who want to make a career in AI",
+      "summary": "Indian AI engineer provides career advice for techies interested in AI, sharing her journey from Bikaner to a leading U.S. tech firm where she works on foundational machine learning infrastructure.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-19T15:59:35Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/indian-ai-engineer-working-for-top-tech-company-shares-advice-for-techies-who-want-to-make-a-career-in-ai/articleshow/122785044.cms"
+    },
     {
       "id": 51,
       "title": "Will Oil Demand Hit 123 Million Barrels Per Day By 2050 As OPEC Says?",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T15:14:04Z",
       "url": "https://biztoc.com/x/393248939cb9fb72"
-    },
-    {
-      "id": 53,
-      "title": "mimicx 0.1.26",
-      "summary": "mimicx 0.1.26 introduces a human-like AI package that includes vision, text, voice, and more in a user-friendly format.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T15:13:00Z",
-      "url": "https://pypi.org/project/mimicx/0.1.26/"
-    },
-    {
-      "id": 54,
-      "title": "China Real-Time Marketing Software Market: Key Research Trends Fueling Business Success",
-      "summary": "The China Real-Time Marketing Software Market revenue was valued at USD 10.25 Billion in 2054 and is estimated to reach USD 25 billion, indicating significant growth in the industry.",
-      "source": "Linkedin.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:12:38Z",
-      "url": "https://www.linkedin.com/pulse/china-real-time-marketing-software-market-key-celcc"
-    },
-    {
-      "id": 55,
-      "title": "KeyBanc Raises Alphabet (GOOGL) Price Target to $215, Reaffirms ‘Overweight’",
-      "summary": "KeyBanc raises Alphabet (GOOGL) price target to $215, reaffirms 'Overweight' as Alphabet Inc. is one of the AI stocks on Wall Street's radar.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-19T15:11:43Z",
-      "url": "https://finance.yahoo.com/news/keybanc-raises-alphabet-googl-price-151143710.html"
-    },
-    {
-      "id": 56,
-      "title": "AppLovin Corporation (APP) Is A “Cash Flow Machine,” Says Jim Cramer",
-      "summary": "AppLovin Corporation (APP) is highlighted as a 'cash flow machine' by Jim Cramer amid discussions on AI-led 'American Renaissance'. It is one of the fresh stocks recently talked about, showcasing its potential in the market.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T15:11:25Z",
-      "url": "https://biztoc.com/x/8f5c4dbe6150f86f"
-    },
-    {
-      "id": 57,
-      "title": "Nvidia's China restart faces production obstacles, The Information reports",
-      "summary": "Nvidia faces production obstacles in China with limited supplies of H20 chips, affecting its customers under U.S. export restrictions.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:11:13Z",
-      "url": "https://biztoc.com/x/f96672129370bd1d"
-    },
-    {
-      "id": 58,
-      "title": "Shelter Kitten Watched Siblings Get Adopted—Days Later, Everything Changed",
-      "summary": "After adopting two kittens, a couple used AI-generated voice technology to share the heartwarming story of reuniting with the sibling left behind at a local rescue.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T15:11:04Z",
-      "url": "https://biztoc.com/x/e9f6fe25d4846143"
-    },
-    {
-      "id": 59,
-      "title": "Surge AI Quietly Hit $1B Without Outside Money — Now Even VCs Want In",
-      "summary": "Surge AI stayed under the radar until this summer, when news broke that the company crossed $1 billion in annual revenue without raising any outside capital.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-19T15:11:02Z",
-      "url": "https://biztoc.com/x/f89e35827817630c"
-    },
-    {
-      "id": 60,
-      "title": "Gets EUR700 Price Target From Deutsche Bank — Analysts Stick With ‘Buy’ Despite Headwinds",
-      "summary": "ASML Holding N.V. receives EUR700 price target from Deutsche Bank analysts despite headwinds, sticking with 'Buy' rating.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:10:54Z",
-      "url": "https://biztoc.com/x/afa868f42ed4aabe"
-    },
-    {
-      "id": 61,
-      "title": "Leading Contenders To Replace Jerome Powell as Fed Chair",
-      "summary": "Kevin Warsh is the favorite to be the next chair of the Federal Reserve if President Donald Trump appoints a successor to Jerome Powell before the end of 2025, according to a leading bookmaker.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:10:49Z",
-      "url": "https://biztoc.com/x/eb76d4e93140edbd"
-    },
-    {
-      "id": 62,
-      "title": "This Lenovo Laptop (Intel i7, 40GB RAM, 1TB SSD) Is Nearly Free, Amazon Slashes 73% Off to Clear It Out",
-      "summary": "Amazon is offering a Lenovo laptop with high specs at a significant discount of 73% to clear out inventory, making it nearly free for customers.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T15:10:07Z",
-      "url": "https://gizmodo.com/this-lenovo-laptop-intel-i7-40gb-ram-1tb-ssd-is-nearly-free-amazon-slashes-73-off-to-clear-it-out-2000631747"
-    },
-    {
-      "id": 63,
-      "title": "\"Any Lawyer Unaware That [Generative AI Research] Is Playing with Fire Is Living in a Cloud\"",
-      "summary": "Bankruptcy Judge Michael Slade warns that lawyers unaware of the risks involved in generative AI research are 'playing with fire' in the case of In re Martin.",
-      "source": "Reason",
-      "category": "ethics",
-      "timestamp": "2025-07-19T15:10:06Z",
-      "url": "https://reason.com/volokh/2025/07/19/any-lawyer-unaware-that-generative-ai-research-is-playing-with-fire-is-living-in-a-cloud/"
-    },
-    {
-      "id": 64,
-      "title": "Baseus Nomos NU1 Air Spacemate 12-in-1 docking station review",
-      "summary": "Review of the Baseus Nomos NU1 Air Spacemate 12-in-1 docking station, highlighting its compact design and versatility for use both in the field and in the office.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-19T15:09:05Z",
-      "url": "https://www.techradar.com/computing/baseus-nomos-nu1-air-spacemate-12-in-1-docking-station-review"
-    },
-    {
-      "id": 65,
-      "title": "Stephen Colbert's Cancellation Has the WGA Ready for War",
-      "summary": "Stephen Colbert's cancellation by The Late Show has sparked support from the Writers Guild of America, who are demanding an investigation into the reasons behind the decision.",
-      "source": "Pajiba.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T15:09:01Z",
-      "url": "https://www.pajiba.com/pajiba_love/stephen-colberts-cancellation-has-the-wga-ready-for-war.php"
-    },
-    {
-      "id": 66,
-      "title": "Banks need to build resilience against cyber threat: DFS Secretary",
-      "summary": "Financial Services Secretary urges banks to strengthen cybersecurity measures amidst rising threats and collaborates with IBA, IIT Kanpur, and PNB for a hackathon to develop endpoint security solutions.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-19T15:08:32Z",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-need-to-build-resilience-against-cyber-threat-dfs-secretary/articleshow/122784726.cms"
-    },
-    {
-      "id": 67,
-      "title": "I asked AI tools philosophical questions",
-      "summary": "Exploring the implications of asking AI philosophical questions and treating it as a thinking partner can raise important ethical considerations in the development and use of AI technology.",
-      "source": "TechRadar",
-      "category": "ethics",
-      "timestamp": "2025-07-19T15:06:44Z",
-      "url": "https://www.techradar.com/computing/artificial-intelligence/i-asked-ai-tools-philosophical-questions-heres-what-their-answers-revealed-about-how-they-think-and-how-we-do-too"
-    },
-    {
-      "id": 51,
-      "title": "AppLovin Corporation (APP) Is A “Cash Flow Machine,” Says Jim Cramer",
-      "summary": "AppLovin Corporation (APP) Is A “Cash Flow Machine,” Says Jim Cramer. Recently discussed as part of an AI-Led 'American Renaissance'.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T14:49:32Z",
-      "url": "https://finance.yahoo.com/news/applovin-corporation-app-cash-flow-144932271.html"
-    },
-    {
-      "id": 52,
-      "title": "Trump Slams 'Troublemakers' After Grand Jury Order To Unseal Epstein Files",
-      "summary": "President Donald Trump has requested testimony to be unsealed in relation to the Jeffrey Epstein case, potentially revealing new information. This action raises ethical questions about transparency and accountability in high-profile legal cases involving powerful individuals.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T14:48:23Z",
-      "url": "https://biztoc.com/x/1554874aa6ae3a7a"
-    },
-    {
-      "id": 53,
-      "title": "CrowdStrike (CRWD) Initiated at ‘Neutral’ by Macquarie on Valuation Concerns",
-      "summary": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) was initiated at 'Neutral' by Macquarie analyst Steve Koenig on July 17 due to valuation concerns, with the company being one of the AI Stocks on Wall Street's Radar.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:46:14Z",
-      "url": "https://finance.yahoo.com/news/crowdstrike-crwd-initiated-neutral-macquarie-144614050.html"
-    },
-    {
-      "id": 54,
-      "title": "How Higher Ed Can Secure Funding To Align With An AI-Powered Workforce",
-      "summary": "Higher education has secured significant funding to align with the AI-powered workforce, showcasing its impact on the economy.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-19T14:43:56Z",
-      "url": "https://www.forbes.com/sites/avivalegatt/2025/07/19/how-higher-ed-can-secure-funding-to-align-with-an-ai-powered-workforce/"
-    },
-    {
-      "id": 55,
-      "title": "Ari Aster: Eddington Is a COVID Period Piece About a Moment We’re ‘Unable to Metabolize’",
-      "summary": "Ari Aster started writing the film that would become Eddington during the COVID-19 pandemic, highlighting the current global situation. The film explores a moment that people are struggling to understand and cope with.",
-      "source": "Den of Geek US",
-      "category": "applications",
-      "timestamp": "2025-07-19T14:43:42Z",
-      "url": "http://www.denofgeek.com/movies/ari-aster-eddington-covid-period-piece-moment-unable-metabolize/"
     }
   ]
 }
