@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-20T09:15:34.946Z",
+  "lastUpdate": "2025-07-20T09:34:07.378Z",
   "items": [
+    {
+      "id": 51,
+      "title": "THE NEW ADAM (1)",
+      "summary": "A village is disappearing one house at a time due to the impact of AI.",
+      "source": "Hilobrow.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T09:32:31Z",
+      "url": "https://www.hilobrow.com/2025/07/19/the-new-adam-1/"
+    },
+    {
+      "id": 52,
+      "title": "Weekend PC Game Deals: Automation fests, Civilization for free, charity specials, and more",
+      "summary": "This weekend's PC game deals include a massive Civilization VI Platinum giveaway, a Devil May Cry bundle for action fans, charity sales, and more.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-19T09:30:01Z",
+      "url": "https://www.neowin.net/news/weekend-pc-game-deals-automation-fests-civilization-for-free-charity-specials-and-more/"
+    },
+    {
+      "id": 53,
+      "title": "Indian Railways to double train capacity in Hyderabad region: Vaishnaw",
+      "summary": "Indian Railways plans to double train capacity in Hyderabad-Secunderabad zone from 600 to 1,200 trains per day.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:27:23Z",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/indian-railways-to-double-train-capacity-in-hyderabad-region-vaishnaw/article69830967.ece"
+    },
+    {
+      "id": 54,
+      "title": " Lookman, Atalanta tease Inter  Double twist involving N. Gonzalez",
+      "summary": "Inter is targeting Ademola Lookman, but Atalanta has made a surprising proposal in response. The two clubs are in negotiations while awaiting a reply to Inter's official offer.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:27:00Z",
+      "url": "https://onefootball.com/en/news/lookman-atalanta-tease-inter-double-twist-involving-n-gonzalez-41395666"
+    },
+    {
+      "id": 55,
+      "title": "No computer science degree needed only to learn coding: Google's head of Android",
+      "summary": "No computer science degree needed to learn coding, says Google's head of Android. Sameer Samat emphasizes the importance of problem-solving skills in computer science and how coding helps understand machines at a deeper level.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-19T09:19:42Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/no-computer-science-degree-needed-only-to-learn-coding-googles-head-of-android/articleshow/122780519.cms"
+    },
+    {
+      "id": 56,
+      "title": "Chinese foreign ministry urges US to abide by market economy rules after graphite tariff ruling",
+      "summary": "Chinese foreign ministry urges US to abide by market economy rules after graphite tariff ruling",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-19T09:17:36Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/07/china-250718-globaltimes04.htm"
+    },
+    {
+      "id": 57,
+      "title": "Taiwan VP Hsiao reaffirms security focus amid Chinese threats",
+      "summary": "Taiwan VP Hsiao reaffirms security focus amid Chinese threats to strengthen national security and maintain status quo across Taiwan Strait.",
+      "source": "Globalsecurity.org",
+      "category": "ethics",
+      "timestamp": "2025-07-19T09:17:05Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250718-cna03.htm"
+    },
+    {
+      "id": 58,
+      "title": "collatable 0.6.0",
+      "summary": "collatable 0.6.0 released, allowing for the construction of batched tensors for various machine learning tasks.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-19T09:16:53Z",
+      "url": "https://pypi.org/project/collatable/0.6.0/"
+    },
     {
       "id": 51,
       "title": "Here's what the biggest names in tech and business think AI means for white-collar jobs",
@@ -378,78 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T08:07:10Z",
       "url": "https://www.smashingapps.com/alternatives-of-adobe-photoshop-express/"
-    },
-    {
-      "id": 60,
-      "title": "Fluence Energy (NASDAQ:FLNC) Given New $9.00 Price Target at Barclays",
-      "summary": "Fluence Energy (NASDAQ:FLNC) had its target price boosted by Barclays analysts from $5.00 to $9.00, with an 'equal weight' rating on the stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T08:06:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/fluence-energy-nasdaqflnc-given-new-9-00-price-target-at-barclays/"
-    },
-    {
-      "id": 61,
-      "title": "Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days",
-      "summary": "Former IDF cyber chief expresses concern over social engineering tactics used by Iranian government-backed cyber units",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T08:02:12Z",
-      "url": "https://www.theregister.com/2025/07/19/idf_cyber_chief_iran/"
-    },
-    {
-      "id": 62,
-      "title": "An American who helped North Korean IT workers rake in $17.1 million faces sentencing in scheme that tricked hundreds of Fortune 500 companies",
-      "summary": "An American helped North Korean IT workers scam Fortune 500 companies out of $17.1 million, facing sentencing for overseeing laptops shipped to various countries.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-19T08:02:00Z",
-      "url": "https://fortune.com/2025/07/19/north-korea-it-worker-laptop-farm-arizona-woman-sentencing/"
-    },
-    {
-      "id": 63,
-      "title": "Vivo X200 FE Review: A Feature‑Rich Small Flagship",
-      "summary": "Vivo X200 FE Review: A Feature‑Rich Small Flagship - A nod towards what Vivo does, showcasing its features.",
-      "source": "Gizchina.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T08:00:54Z",
-      "url": "https://www.gizchina.com/2025/07/19/vivo-x200-fe-review-a-feature‑rich-small-flagship/"
-    },
-    {
-      "id": 64,
-      "title": "WisdomTree U.S. AI Enhanced Value Fund (NYSEARCA:AIVL) Trading Down 0.2% – Here’s Why",
-      "summary": "Shares of WisdomTree U.S. AI Enhanced Value Fund (NYSEARCA:AIVL) dropped 0.2% during mid-day trading, with approximately 3,508 shares traded.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T08:00:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/wisdomtree-u-s-ai-enhanced-value-fund-nysearcaaivl-trading-down-0-2-heres-why/"
-    },
-    {
-      "id": 65,
-      "title": "MIT Student Invents Breakthrough Art Restoration Technique",
-      "summary": "MIT student invents breakthrough AI art restoration technique, drawing on childhood fascination with paintings and visual art.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T08:00:51Z",
-      "url": "http://www.pymnts.com/the-weekender/2025/mit-student-invents-breakthrough-art-restoration-technique/"
-    },
-    {
-      "id": 66,
-      "title": "atypica.AI: Marketing & Growth | Data Analytics & BI | AI Agent Review - AgentWise",
-      "summary": "Atypica.AI has launched a new AI agent review tool called AgentWise, aimed at marketing, growth, data analytics, and business intelligence. The tool offers a platform for evaluating AI agents in various domains.",
-      "source": "Agentwise.org",
-      "category": "startups",
-      "timestamp": "2025-07-19T08:00:42Z",
-      "url": "https://agentwise.org/agent/atypicaai"
-    },
-    {
-      "id": 67,
-      "title": "I spoke with an AI version of myself, thanks to Hume's free tool - how to try it",
-      "summary": "Speaking with an AI version of oneself through Hume's tool is possible, while EVI 3's voice cloning has some limitations but overall impressive qualities.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-19T08:00:20Z",
-      "url": "https://www.zdnet.com/article/i-spoke-with-an-ai-version-of-myself-thanks-to-humes-free-tool-how-to-try-it/"
     }
   ]
 }
