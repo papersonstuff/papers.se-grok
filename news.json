@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-20T03:22:27.814Z",
+  "lastUpdate": "2025-07-20T04:26:53.915Z",
   "items": [
+    {
+      "id": 51,
+      "title": "psst-toolkit added to PyPI",
+      "summary": "psst-toolkit, a Token-efficient AI prompting technology, has been added to PyPI, enabling more efficient AI prompts in various applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:25:40Z",
+      "url": "https://pypi.org/project/psst-toolkit/"
+    },
+    {
+      "id": 52,
+      "title": "psst-toolkit 1.0.0",
+      "summary": "The psst-toolkit 1.0.0 has been released, providing Token-efficient AI prompting using Prompt Symbol Standard Technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:25:40Z",
+      "url": "https://pypi.org/project/psst-toolkit/1.0.0/"
+    },
+    {
+      "id": 53,
+      "title": "什麼是 AI 應用評估的錯誤分析 Error Analysis?",
+      "summary": "The article discusses Error Analysis in AI application evaluation, focusing on a recent workshop conducted by Hamel + Shreya on AI Evals for Engineers & PMs.",
+      "source": "Ihower.tw",
+      "category": "research",
+      "timestamp": "2025-07-19T04:19:57Z",
+      "url": "https://ihower.tw/blog/12960-ai-evals-and-error-analysis"
+    },
+    {
+      "id": 54,
+      "title": "Watch: Ex-Minnesota Republican Leader's Trash Can Blown Up Outside Home",
+      "summary": "Former Minnesota Republican leader Michael Brodkorb had his trash can blown up outside his home, with the voice in the footage being AI-generated. The incident has left his family feeling safe but shaken.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:19:49Z",
+      "url": "https://biztoc.com/x/812bc8e654192374"
+    },
+    {
+      "id": 55,
+      "title": "India's first semiconductor chip to be unveiled this year: Union Minister Ashwini Vaishnaw",
+      "summary": "India anticipates its first indigenous semiconductor chip release this year, as announced by Union Minister Ashwini Vaishnaw. This highlights India's growing role in the semiconductor industry.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:19:47Z",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/articleshow/122776702.cms"
+    },
+    {
+      "id": 56,
+      "title": "swe-ai-agent 1.0.24",
+      "summary": "swe-ai-agent 1.0.24 is a headless agentic IDE with comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T04:16:52Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.24/"
+    },
+    {
+      "id": 57,
+      "title": "Denza Z9 GT previewed in Malaysia at PACE – EV or PHEV, up to 965 PS, 630 km EV range; 1H 2026 launch",
+      "summary": "Denza Z9 GT previewed in Malaysia at PACE – EV or PHEV, up to 965 PS, 630 km EV range; 1H 2026 launch. The car is being opened to the public for the first time and officials at the show say it was first seen at the launch of the D9 MPV earlier this year.",
+      "source": "Paul Tan's Automotive News",
+      "category": "applications",
+      "timestamp": "2025-07-19T04:16:19Z",
+      "url": "https://paultan.org/2025/07/19/denza-z9-gt-previewed-in-malaysia-at-pace-ev-or-phev-up-to-965-ps-630-km-ev-range-1h-2026-launch/"
+    },
+    {
+      "id": 58,
+      "title": "India's first semiconductor chip to be unveiled in 2025: Union Minister Ashwini Vaishnaw",
+      "summary": "India is set to unveil its first semiconductor chip in 2025 as part of efforts to manufacture chips domestically, with six approved plants currently under construction.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:16:02Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/article69830437.ece"
+    },
+    {
+      "id": 59,
+      "title": "India's first semiconductor chip to be unveiled in 2025: Union Minister Ashwini Vaishnaw",
+      "summary": "India plans to unveil its first semiconductor chip in 2025, as part of efforts to start manufacturing chips with six approved plants under construction.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:16:02Z",
+      "url": "https://www.thehindubusinessline.com/news/national/indias-first-semiconductor-chip-to-be-unveiled-in-2025-union-minister-ashwini-vaishnaw/article69830437.ece"
+    },
+    {
+      "id": 60,
+      "title": "InsideForest 0.2.17",
+      "summary": "InsideForest 0.2.17 is a comprehensive library for describing and analyzing data insights using AI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:15:39Z",
+      "url": "https://pypi.org/project/insideforest/0.2.17/"
+    },
+    {
+      "id": 61,
+      "title": "Talen Energy Stock Soars Over 20% on Purchase of 2 Plants in AI Power Move",
+      "summary": "Talen Energy stock surged over 20% after purchasing two plants to support AI data centers for $3.5 billion",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-19T04:08:57Z",
+      "url": "https://biztoc.com/x/f8542a9016e785f8"
+    },
+    {
+      "id": 62,
+      "title": "swe-ai-agent 1.0.23",
+      "summary": "SWE AI Agent 1.0.23 is a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T04:06:34Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.23/"
+    },
+    {
+      "id": 63,
+      "title": "Introducing XMLUI",
+      "summary": "Introducing XMLUI - In the mid-1990s you could create useful software without being an ace coder. You had Visual Basic, you had a rich ecosystem of components, you could wire them together to create apps, standing on the shoulders of the coders who built those components.",
+      "source": "Jonudell.net",
+      "category": "innovation",
+      "timestamp": "2025-07-19T04:06:20Z",
+      "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
+    },
+    {
+      "id": 64,
+      "title": "Turkey becomes the First to Censor Musk’s AI Chatbot Grok",
+      "summary": "Turkey becomes the first to censor Elon Musk's AI chatbot Grok, blocking access to some of its content.",
+      "source": "Juancole.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:06:05Z",
+      "url": "https://www.juancole.com/2025/07/turkey-becomes-chatbot.html"
+    },
+    {
+      "id": 65,
+      "title": "Start with $100 and Earn Daily: How AIXA Miner Opens Crypto Income to All",
+      "summary": "AIXA Miner is a preferred platform for reliable, AI-powered crypto income, allowing users to start with $100 and earn daily. This startup is opening up cryptocurrency income opportunities to a wider audience as the market moves into its next phase of institutional adoption and decentralized expansion.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-19T04:02:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118240/0/en/Start-with-100-and-Earn-Daily-How-AIXA-Miner-Opens-Crypto-Income-to-All.html"
+    },
+    {
+      "id": 66,
+      "title": "Even Zohran Mamdani’s alleged ‘capitalism’ is a communist front",
+      "summary": "Allegations arise that Zohran Mamdani's 'capitalism' is actually a communist front, as AOC hosts a 'coming out' party for him in New York City.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/even_zohran_mamdani_s_alleged_capitalism_is_a_communist_front.html"
+    },
+    {
+      "id": 67,
+      "title": "Tweaking immigration: No path to citizenship for illegals, ever",
+      "summary": "Tweaking immigration: No path to citizenship for illegals, ever - American patriots understand how blessed we are to be citizens of a nation governed by the concept of We the People, free to speak our minds and our hearts, knowing we can be and do better as we move forward.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/tweaking_immigration_no_path_to_citizenship_for_illegals_ever.html"
+    },
+    {
+      "id": 68,
+      "title": "Babylon Bee savages those leftists who keep likening Trump and MAGA to Hitler",
+      "summary": "Babylon Bee criticizes leftists for comparing Trump and MAGA to Hitler, highlighting the ethical implications of such comparisons.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/babylon_bee_savages_those_leftists_who_keep_likening_trump_and_maga_to_hitler.html"
+    },
+    {
+      "id": 69,
+      "title": "Perplexity in talks with phone makers to pre-install Comet AI mobile browser on devices",
+      "summary": "Perplexity is in talks with phone makers to pre-install its Comet AI mobile browser in order to capitalize on browser 'stickiness' and potentially drive habitual use of the company's AI tools.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-19T03:57:50Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/perplexity-in-talks-with-phone-makers-to-pre-install-comet-ai-mobile-browser-on-devices/article69830422.ece"
+    },
     {
       "id": 51,
       "title": "Sean Hannity Praises Trump on Air Hours After the President Sues His Boss",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-19T00:52:17Z",
       "url": "https://pypi.org/project/rich-agents/0.2.5/"
-    },
-    {
-      "id": 65,
-      "title": "Windows 11 Insider Preview Build 26200.5710(KB5062676)がリリース - Devチャンネル向け、PCが遅くなったときに自動的にログを収集する機能が追加",
-      "summary": "Windows 11 Insider Preview Build 26200.5710(KB5062676) released for Dev Channel, adding automatic log collection feature for when PC slows down - Microsoft released the latest build for Windows Insider Program's Dev Channel on July 18th.",
-      "source": "Softantenna.com",
-      "category": "innovation",
-      "timestamp": "2025-07-19T00:51:19Z",
-      "url": "https://softantenna.com/blog/windows-11-insider-preview-build-26200-5710/"
-    },
-    {
-      "id": 66,
-      "title": "The slim Alienware x16 R2 gaming laptop with RTX 4080 GPU is at its lowest sale price yet",
-      "summary": "The slim Alienware x16 R2 gaming laptop with RTX 4080 GPU is at its lowest sale price yet, offering high-performance gaming in a portable package. At a $1,800 sale price, the 16-inch Alienware laptop features stable, high-refresh rate gaming.",
-      "source": "Notebookcheck.net",
-      "category": "economy",
-      "timestamp": "2025-07-19T00:51:00Z",
-      "url": "https://www.notebookcheck.net/The-slim-Alienware-x16-R2-gaming-laptop-with-RTX-4080-GPU-is-at-its-lowest-sale-price-yet.1061436.0.html"
-    },
-    {
-      "id": 67,
-      "title": "Reporter's Notebook: The debate over how AI will change work",
-      "summary": "The debate over how AI will change work is surrounded by fear of job loss or increased productivity as the technology continues to advance.",
-      "source": "CBS News",
-      "category": "ethics",
-      "timestamp": "2025-07-19T00:46:00Z",
-      "url": "https://www.cbsnews.com/video/reporters-notebook-debate-over-ai-will-change-work/"
-    },
-    {
-      "id": 51,
-      "title": "swe-ai-agent 1.0.22",
-      "summary": "swe-ai-agent 1.0.22 is a headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T23:52:58Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.22/"
-    },
-    {
-      "id": 52,
-      "title": "rich-agents 0.2.1",
-      "summary": "The rich-agents 0.2.1 toolkit offers support for financial trading analysis and patent intelligence systems, providing a unified multi-agent AI solution.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-18T23:52:52Z",
-      "url": "https://pypi.org/project/rich-agents/0.2.1/"
-    },
-    {
-      "id": 53,
-      "title": "Republican calls out Trump admin's decision to resume GPU sales to China",
-      "summary": "Republican chair questions the ethics of Trump administration's decision to resume GPU sales to China",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:52:23Z",
-      "url": "https://www.theregister.com/2025/07/18/trump_gpu_china/"
-    },
-    {
-      "id": 54,
-      "title": "CRMOne: Boost Sales With This Sales-Driven AI-First CRM",
-      "summary": "CRMOne is a sales-driven AI-first CRM aimed at helping startups and growing businesses manage customer relationships, track sales, and scale marketing efforts more efficiently. It addresses challenges such as disconnected tools, limited automation, and high subscription costs that hinder progress in sales and marketing for companies in their early stages.",
-      "source": "Martech.zone",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:51:18Z",
-      "url": "https://martech.zone/crmone-ai-powered-crm-for-startups-and-growing-businesses/"
-    },
-    {
-      "id": 55,
-      "title": "Best VPS & VDS Hosting 2025: The Only Guide You’ll Need for Smart, Scalable Projects | HackerNoon",
-      "summary": "Choosing the right virtual server is crucial for businesses to run smoothly, handle traffic spikes, and avoid costly downtime in 2025.",
-      "source": "hackernoon.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T23:47:34Z",
-      "url": "https://hackernoon.com/best-vps-and-vds-hosting-2025-the-only-guide-youll-need-for-smart-scalable-projects"
-    },
-    {
-      "id": 51,
-      "title": "avalan 1.2.11",
-      "summary": "avalan 1.2.11 is a multi-backend, multi-modal framework designed for seamless AI agent development, orchestration, and deployment.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:33:58Z",
-      "url": "https://pypi.org/project/avalan/1.2.11/"
-    },
-    {
-      "id": 52,
-      "title": "resume limiting",
-      "summary": "In America, job seekers often send out hundreds of resumes, leading to companies receiving too many applications. This has prompted companies to implement resume limiting measures to manage the influx.",
-      "source": "Lesswrong.com",
-      "category": "applications",
-      "timestamp": "2025-07-18T23:31:37Z",
-      "url": "https://www.lesswrong.com/posts/jGWDx6RyzKabs68eS/resume-limiting"
-    },
-    {
-      "id": 53,
-      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
-      "summary": "Benchmark is reportedly in talks to lead a Series A funding round for Greptile, an AI-powered code review startup, at a valuation of $180 million. The deal, led by Benchmark partner Eric Vishria, is said to be worth $30 million.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:29:06Z",
-      "url": "https://biztoc.com/x/ca072cf274b6839d"
-    },
-    {
-      "id": 54,
-      "title": "One Big Beautiful Bill, Wine Tariffs, Wearable Technology, Monetary Policy & AI | Wall Street Week",
-      "summary": "Former Treasury Secretary Lawrence H. Summers discusses how President Trump's One Big Beautiful Bill may impact many Americans' financial situation.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-18T23:26:01Z",
-      "url": "https://biztoc.com/x/b5c74aee44f2d557"
-    },
-    {
-      "id": 55,
-      "title": "Apple Loop: iPhone 17 Pro Release Date, iPhone Fold Design Leaks, MacBook Pro Disappointment",
-      "summary": "Apple Loop highlights various upcoming Apple products like the iPhone 17 Pro and iPhone Fold, as well as a delayed MacBook Pro release. It also mentions the possibility of Cyberpunk 2077 coming to macOS and Apple's plans for baseball.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:24:50Z",
-      "url": "https://www.forbes.com/sites/ewanspence/2025/07/18/apple-news-headlines-iphone-17-pro-iphone-fold-macbook-pro-cyberpunk-2077/"
-    },
-    {
-      "id": 56,
-      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
-      "summary": "Benchmark is in discussion to lead the Series A funding for Greptile, which is an AI-code reviewer, at a valuation of $180M according to sources.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:22:36Z",
-      "url": "https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/"
-    },
-    {
-      "id": 57,
-      "title": "Android Circuit: Galaxy S26 Ultra Leaks, OnePlus’s New AI Launch, Pixel 10 Pro Fold Specs",
-      "summary": "This week's Android headlines include leaks about the Galaxy S26 Ultra and Pixel 10 Pro Fold specs, as well as OnePlus launching their new AI program PlusMind. The news also mentions the Galaxy Z Trifold and the innovative features such as thin design or wireless charging.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:22:25Z",
-      "url": "https://www.forbes.com/sites/ewanspence/2025/07/18/android-news-headline-galaxy-s26-ultra-oneplus-plusmind-pixel-10-pro-fold/"
-    },
-    {
-      "id": 58,
-      "title": "Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say",
-      "summary": "Benchmark is in discussions to lead the Series A funding round for Greptile, a startup specializing in AI-code review, potentially valuing the company at $180 million. The Y Combinator alum has raised $30 million in its Series A round.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:21:29Z",
-      "url": "https://finance.yahoo.com/news/benchmark-talks-lead-series-greptile-232129611.html"
-    },
-    {
-      "id": 59,
-      "title": "What Will Stephen Colbert Do After 'Late Show' Ends?",
-      "summary": "Stephen Colbert's future after 'Late Show' discussed in light of CBS admitting issues in late-night format.",
-      "source": "Hollywood Reporter",
-      "category": "innovation",
-      "timestamp": "2025-07-18T23:21:11Z",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-late-show-ends-future-1236319676/"
-    },
-    {
-      "id": 60,
-      "title": "AI Arms Race Heats Up As Startups Borrow Billions To Buy Nvidia GPUs",
-      "summary": "AI startups are borrowing billions to buy Nvidia GPUs in the midst of an AI arms race, with companies like Crusoe Energy Systems securing large credit lines to expand their data centers.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-18T23:18:00Z",
-      "url": "https://biztoc.com/x/d188a5d9118c31d2"
-    },
-    {
-      "id": 61,
-      "title": "Meta says it won't sign the EU's AI code of practice",
-      "summary": "Meta refuses to sign EU's AI code of practice, which provides guidelines for the AI Act regulating companies in the EU.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-18T23:17:44Z",
-      "url": "https://biztoc.com/x/67ce579097039691"
     }
   ]
 }
