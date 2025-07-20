@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-20T07:50:09.803Z",
+  "lastUpdate": "2025-07-20T08:19:29.404Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Mutual of America Capital Management LLC Sells 999 Shares of Science Applications International Co. (NYSE:SAIC)",
+      "summary": "Mutual of America Capital Management LLC sold 999 shares of Science Applications International Co., reducing its position by 3.8% in the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:17:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/mutual-of-america-capital-management-llc-sells-999-shares-of-science-applications-international-co-nysesaic/"
+    },
+    {
+      "id": 52,
+      "title": "Dave Girouard Sells 41,667 Shares of Upstart Holdings, Inc. (NASDAQ:UPST) Stock",
+      "summary": "Dave Girouard, CEO of Upstart Holdings, Inc., sold 41,667 shares of the firm's stock in a transaction, totaling over $3.1 million.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-19T08:16:59Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/dave-girouard-sells-41667-shares-of-upstart-holdings-inc-nasdaqupst-stock-2/"
+    },
+    {
+      "id": 53,
+      "title": "Insider Selling: MicroStrategy Incorporated (NASDAQ:MSTR) EVP Sells $4,892,901.00 in Stock",
+      "summary": "MicroStrategy Incorporated's EVP sold $4,892,901.00 worth of stock, indicating a significant financial transaction in the company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:14:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/insider-selling-microstrategy-incorporated-nasdaqmstr-evp-sells-4892901-00-in-stock/"
+    },
+    {
+      "id": 54,
+      "title": "Xponance Inc. Boosts Stock Position in InterDigital, Inc. (NASDAQ:IDCC)",
+      "summary": "Xponance Inc. increased its stock position in InterDigital, Inc. by 5.5% in the first quarter",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:13:17Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/xponance-inc-boosts-stock-position-in-interdigital-inc-nasdaqidcc/"
+    },
+    {
+      "id": 55,
+      "title": "Xponance Inc. Acquires 94 Shares of Insight Enterprises, Inc. (NASDAQ:NSIT)",
+      "summary": "Xponance Inc. increases its holdings in Insight Enterprises, Inc. by 4.3% in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:13:13Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/xponance-inc-acquires-94-shares-of-insight-enterprises-inc-nasdaqnsit/"
+    },
+    {
+      "id": 56,
+      "title": "Financial Contrast: Mitek Systems (NASDAQ:MITK) and Veritec (OTCMKTS:VRTC)",
+      "summary": "Mitek Systems and Veritec, both computer and technology companies, are being compared for investment opportunities based on risk, valuation, and analysis.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:10:59Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/financial-contrast-mitek-systems-nasdaqmitk-and-veritec-otcmktsvrtc/"
+    },
+    {
+      "id": 57,
+      "title": "A recent Gen Z grad with $25,000 in student debt says his job search has made him accept he may never work in his dream field: 'I know that life isn't fair'",
+      "summary": "A recent Gen Z college grad with $25,000 in student debt is struggling to find work in his dream field, leading him to consider a career pivot. He acknowledges the realities of life and the challenges of the job market.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:10:01Z",
+      "url": "https://www.businessinsider.com/gen-z-grad-struggles-job-hunt-student-debt-career-pivot-2025-7"
+    },
+    {
+      "id": 58,
+      "title": "CEO facing cheating allegations after viral Coldplay moment placed on leave",
+      "summary": "CEO facing cheating allegations placed on leave after AI technology picks up on Coldplay frontman's comment",
+      "source": "TheJournal.ie",
+      "category": "ethics",
+      "timestamp": "2025-07-19T08:10:00Z",
+      "url": "https://www.thejournal.ie/coldplay-ceo-on-leave-6767455-Jul2025/"
+    },
+    {
+      "id": 59,
+      "title": "Alternatives of Adobe Photoshop Express: 7 Best Free Browser‑Based Photo Editors",
+      "summary": "Explore the top free online alternatives of Adobe Photoshop Express for powerful browser‐based photo editing—no installs, no fees.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:07:10Z",
+      "url": "https://www.smashingapps.com/alternatives-of-adobe-photoshop-express/"
+    },
+    {
+      "id": 60,
+      "title": "Fluence Energy (NASDAQ:FLNC) Given New $9.00 Price Target at Barclays",
+      "summary": "Fluence Energy (NASDAQ:FLNC) had its target price boosted by Barclays analysts from $5.00 to $9.00, with an 'equal weight' rating on the stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:06:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/fluence-energy-nasdaqflnc-given-new-9-00-price-target-at-barclays/"
+    },
+    {
+      "id": 61,
+      "title": "Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days",
+      "summary": "Former IDF cyber chief expresses concern over social engineering tactics used by Iranian government-backed cyber units",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-19T08:02:12Z",
+      "url": "https://www.theregister.com/2025/07/19/idf_cyber_chief_iran/"
+    },
+    {
+      "id": 62,
+      "title": "An American who helped North Korean IT workers rake in $17.1 million faces sentencing in scheme that tricked hundreds of Fortune 500 companies",
+      "summary": "An American helped North Korean IT workers scam Fortune 500 companies out of $17.1 million, facing sentencing for overseeing laptops shipped to various countries.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-19T08:02:00Z",
+      "url": "https://fortune.com/2025/07/19/north-korea-it-worker-laptop-farm-arizona-woman-sentencing/"
+    },
+    {
+      "id": 63,
+      "title": "Vivo X200 FE Review: A Feature‑Rich Small Flagship",
+      "summary": "Vivo X200 FE Review: A Feature‑Rich Small Flagship - A nod towards what Vivo does, showcasing its features.",
+      "source": "Gizchina.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:00:54Z",
+      "url": "https://www.gizchina.com/2025/07/19/vivo-x200-fe-review-a-feature‑rich-small-flagship/"
+    },
+    {
+      "id": 64,
+      "title": "WisdomTree U.S. AI Enhanced Value Fund (NYSEARCA:AIVL) Trading Down 0.2% – Here’s Why",
+      "summary": "Shares of WisdomTree U.S. AI Enhanced Value Fund (NYSEARCA:AIVL) dropped 0.2% during mid-day trading, with approximately 3,508 shares traded.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:00:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/wisdomtree-u-s-ai-enhanced-value-fund-nysearcaaivl-trading-down-0-2-heres-why/"
+    },
+    {
+      "id": 65,
+      "title": "MIT Student Invents Breakthrough Art Restoration Technique",
+      "summary": "MIT student invents breakthrough AI art restoration technique, drawing on childhood fascination with paintings and visual art.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T08:00:51Z",
+      "url": "http://www.pymnts.com/the-weekender/2025/mit-student-invents-breakthrough-art-restoration-technique/"
+    },
+    {
+      "id": 66,
+      "title": "atypica.AI: Marketing & Growth | Data Analytics & BI | AI Agent Review - AgentWise",
+      "summary": "Atypica.AI has launched a new AI agent review tool called AgentWise, aimed at marketing, growth, data analytics, and business intelligence. The tool offers a platform for evaluating AI agents in various domains.",
+      "source": "Agentwise.org",
+      "category": "startups",
+      "timestamp": "2025-07-19T08:00:42Z",
+      "url": "https://agentwise.org/agent/atypicaai"
+    },
+    {
+      "id": 67,
+      "title": "I spoke with an AI version of myself, thanks to Hume's free tool - how to try it",
+      "summary": "Speaking with an AI version of oneself through Hume's tool is possible, while EVI 3's voice cloning has some limitations but overall impressive qualities.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-19T08:00:20Z",
+      "url": "https://www.zdnet.com/article/i-spoke-with-an-ai-version-of-myself-thanks-to-humes-free-tool-how-to-try-it/"
+    },
+    {
+      "id": 68,
+      "title": "Last chance to get Windows 11 Pro for $9.97 before the price goes up",
+      "summary": "Last chance to get Windows 11 Pro for $9.97 before the price goes up - TL;DR: Windows 11 Pro keys are at an all-time-low price right now through July 20 with this 94% discount.",
+      "source": "PCWorld",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:00:00Z",
+      "url": "https://www.pcworld.com/article/2849202/last-chance-to-get-windows-11-pro-for-9-97-before-the-price-goes-up.html"
+    },
+    {
+      "id": 69,
+      "title": "Windows 11 Pro for under $10? Yes, it’s a deal so good you might not believe it",
+      "summary": "Windows 11 Pro available for under $10 is a great deal for users needing access to Windows for various purposes.",
+      "source": "Macworld",
+      "category": "economy",
+      "timestamp": "2025-07-19T08:00:00Z",
+      "url": "https://www.macworld.com/article/2849211/windows-11-pro-for-under-10-yes-its-a-deal-so-good-you-might-not-believe-it.html"
+    },
+    {
+      "id": 70,
+      "title": " Real Sociedad kick off pre-season with a win",
+      "summary": "Real Sociedad starts pre-season with a 2-0 win under new coach Sergio Francisco, who focused on set pieces in the victory over Pau FC.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T07:55:00Z",
+      "url": "https://onefootball.com/en/news/real-sociedad-kick-off-pre-season-with-a-win-41395393"
+    },
     {
       "id": 51,
       "title": "Nahuel Molina set for a summer exit",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-19T06:38:55Z",
       "url": "https://www.etfdailynews.com/2025/07/19/quantum-computing-stocks-to-watch-today-july-17th/"
-    },
-    {
-      "id": 54,
-      "title": "Promising Oil Stocks To Follow Today – July 17th",
-      "summary": "ServiceNow, Caterpillar, and Chevron are the three Oil stocks to watch today, according to MarketBeat’s stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:38:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/promising-oil-stocks-to-follow-today-july-17th/"
-    },
-    {
-      "id": 55,
-      "title": "Top Metaverse Stocks To Watch Today – July 17th",
-      "summary": "Top Metaverse Stocks To Watch Today – July 17th - NVIDIA, Accenture, Globant, SK Telecom, and Future FinTech Group are the five Metaverse stocks to watch today, according to MarketBeat’s stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:38:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/top-metaverse-stocks-to-watch-today-july-17th/"
-    },
-    {
-      "id": 56,
-      "title": "Top Artificial Intelligence Stocks To Research – July 17th",
-      "summary": "Top Artificial Intelligence Stocks To Research – July 17th - BigBear.ai, Super Micro Computer, and Salesforce are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-19T06:38:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/top-artificial-intelligence-stocks-to-research-july-17th/"
-    },
-    {
-      "id": 57,
-      "title": "Digital Media Stocks To Watch Today – July 17th",
-      "summary": "Digital media stocks including Alibaba Group, Adobe, Rocket Companies, and others are highlighted as stocks to watch today, indicating continued economic interest and activity in the digital media sector.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:38:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/digital-media-stocks-to-watch-today-july-17th/"
-    },
-    {
-      "id": 58,
-      "title": "KeyBanc Downgrades Simulations Plus (SLP) Stock to Sector Weight",
-      "summary": "KeyBanc downgrades Simulations Plus stock to Sector Weight, but it is considered one of the Best Beaten Down Stocks to Buy Now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:38:02Z",
-      "url": "https://finance.yahoo.com/news/keybanc-downgrades-simulations-plus-slp-063802637.html"
-    },
-    {
-      "id": 59,
-      "title": "JPMorgan Downgrades Enphase Energy (ENPH) Stock to Neutral",
-      "summary": "JPMorgan downgraded Enphase Energy (ENPH) stock to 'Neutral' from 'Overweight', despite being considered one of the Best Beaten Down Stocks to Buy Now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:37:43Z",
-      "url": "https://finance.yahoo.com/news/jpmorgan-downgrades-enphase-energy-enph-063743066.html"
-    },
-    {
-      "id": 60,
-      "title": "How YouTube quietly dethrones Hollywood, becomes America’s top TV network",
-      "summary": "YouTube has become America's top TV network, dethroning Hollywood as a growing number of viewers transition from watching content on tablets and phones to TVs.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:36:56Z",
-      "url": "https://www.livemint.com/companies/news/how-youtube-won-the-battle-for-tv-viewers-11752906707139.html"
-    },
-    {
-      "id": 61,
-      "title": "Fans say 'Simpsons predicted' CEO Andy Byron and Kristin Cabo's 'kiss cam' moment at Coldplay concert. But did it?",
-      "summary": "A Coldplay concert kiss cam captured Astronomer CEO Andy Byron and Chief People Officer Kristin Cabot in a compromising position, sparking internet frenzy. Social media users falsely claimed a Simpsons episode predicted the event.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T06:36:32Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/ceo-andy-byron-and-kristin-cabo-kiss-cam-moment-at-coldplay-concert-has-fans-screaming-simpsons-predicted-it-but-did-it/articleshow/122777506.cms"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI, Anthropic, Google may disrupt education market with new AI tools",
-      "summary": "AI companies such as OpenAI, Anthropic, and Google are introducing new AI tools that could potentially disrupt the education market by offering advanced learning options for students.",
-      "source": "BleepingComputer",
-      "category": "applications",
-      "timestamp": "2025-07-19T06:30:27Z",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/"
-    },
-    {
-      "id": 63,
-      "title": "ai-edge-litert-sdk-mediatek-nightly 0.2.0.dev20250718",
-      "summary": "MediaTek has released version 0.2.0.dev20250718 of its NeuroPilot SDK for AI Edge LiteRT, aimed at providing developers with tools for AI applications on edge devices.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T06:30:26Z",
-      "url": "https://pypi.org/project/ai-edge-litert-sdk-mediatek-nightly/0.2.0.dev20250718/"
-    },
-    {
-      "id": 64,
-      "title": "ai-edge-litert-sdk-qualcomm-nightly 0.2.0.dev20250718",
-      "summary": "Qualcomm releases SDK for AI Edge LiteRT, aiming to enable developers to implement artificial intelligence at the edge.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T06:30:24Z",
-      "url": "https://pypi.org/project/ai-edge-litert-sdk-qualcomm-nightly/0.2.0.dev20250718/"
-    },
-    {
-      "id": 65,
-      "title": "mimicx 0.1.16",
-      "summary": "mimicx 0.1.16 offers human-like AI capabilities such as vision, text, voice, and more in a user-friendly package for everyone to use.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T06:28:31Z",
-      "url": "https://pypi.org/project/mimicx/0.1.16/"
-    },
-    {
-      "id": 51,
-      "title": "Financial Survey: Guardforce AI (NASDAQ:GFAI) and Rectitude (NASDAQ:RECT)",
-      "summary": "Financial survey comparing Guardforce AI and Rectitude to determine the superior stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T06:16:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/financial-survey-guardforce-ai-nasdaqgfai-and-rectitude-nasdaqrect/"
-    },
-    {
-      "id": 52,
-      "title": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
-      "summary": "Indian Pilots Federation initiates legal notice to Wall Street Journal, Reuters over AI171 crash reports, seeks apology",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-19T06:12:15Z",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indian-pilots-federation-initiates-legal-notice-to-wall-street-journal-reuters-over-ai171-crash-reports-seeks-apology/articleshow/122778049.cms"
-    },
-    {
-      "id": 53,
-      "title": "ai-edge-litert-nightly 1.4.0.dev20250718",
-      "summary": "AI-edge-liteRT-nightly 1.4.0.dev20250718 is a software tool designed for mobile and embedded devices, focusing on enhancing AI capabilities in these platforms.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-19T06:12:14Z",
-      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250718/"
-    },
-    {
-      "id": 54,
-      "title": "Mafia deals & fake granny deaths: Conman’s 13-year pro career",
-      "summary": "Mafia deals & fake granny deaths: Conman’s 13-year pro career - Carlos 'Kaiser' Henrique Raposo bluffed his way through professional football for 13 years without playing a single game, raising ethical questions about honesty and deception in the sports industry.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T06:06:00Z",
-      "url": "https://onefootball.com/en/news/mafia-deals-fake-granny-deaths-conmans-13-year-pro-career-41395120"
-    },
-    {
-      "id": 55,
-      "title": "National AI roadmap 2026-2030 to launch by Q3, says Gobind",
-      "summary": "A National Artificial Intelligence Roadmap outlining a five-year plan is expected to be launched by the third quarter of this year, said Digital Minister Gobind Singh Deo.",
-      "source": "The Star Online",
-      "category": "innovation",
-      "timestamp": "2025-07-19T06:04:00Z",
-      "url": "https://www.thestar.com.my/news/nation/2025/07/19/national-ai-roadmap-2026-2030-to-launch-by-q3-says-gobind"
-    },
-    {
-      "id": 56,
-      "title": "13 Claude Code Tips & Tricks to Skyrocket Your AI Coding",
-      "summary": "13 Claude Code Tips & Tricks to improve AI coding efficiency and project management for developers and project managers.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-19T06:01:30Z",
-      "url": "https://www.geeky-gadgets.com/claude-code-ai-tips/"
-    },
-    {
-      "id": 57,
-      "title": "Safe Pro Group (NASDAQ:SPAI) Upgraded by Litchfield Hills Research to Strong-Buy Rating",
-      "summary": "Safe Pro Group (NASDAQ:SPAI) was upgraded to a strong-buy rating by Litchfield Hills Research, with a $8.00 price objective.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-19T06:00:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/safe-pro-group-nasdaqspai-upgraded-by-litchfield-hills-research-to-strong-buy-rating/"
-    },
-    {
-      "id": 58,
-      "title": "Sodium benzoate in personal care products: A threat to consumer health",
-      "summary": "Sodium benzoate, commonly used in personal care products, is now under scrutiny for health risks due to its production of benzene when mixed with vitamin C",
-      "source": "Naturalnews.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T06:00:00Z",
-      "url": "https://www.naturalnews.com/2025-07-19-sodium-benzoate-personal-care-products-health-threat.html"
     }
   ]
 }
