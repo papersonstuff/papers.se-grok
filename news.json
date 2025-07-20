@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-20T06:50:06.291Z",
+  "lastUpdate": "2025-07-20T07:14:31.953Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Principal Financial Group Inc. Boosts Stock Position in Adaptive Biotechnologies Corporation (NASDAQ:ADPT)",
+      "summary": "Principal Financial Group Inc. raised its position in shares of Adaptive Biotechnologies Corporation by 98.8% during the 1st quarter, according to the company's recent filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:12:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/principal-financial-group-inc-boosts-stock-position-in-adaptive-biotechnologies-corporation-nasdaqadpt/"
+    },
+    {
+      "id": 52,
+      "title": "Teacher Retirement System of Texas Buys Shares of 16,504 C3.ai, Inc. (NYSE:AI)",
+      "summary": "Teacher Retirement System of Texas purchased shares of AI startup C3.ai, Inc., adding to their investment portfolio in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-19T07:09:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/teacher-retirement-system-of-texas-buys-shares-of-16504-c3-ai-inc-nyseai/"
+    },
+    {
+      "id": 53,
+      "title": "IMAX Corporation (NYSE:IMAX) Shares Bought by Principal Financial Group Inc.",
+      "summary": "Principal Financial Group Inc. increased its holdings in IMAX Corporation during the first quarter by 4.4%, owning 108,550 shares after purchasing an additional 4,60.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:08:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/19/imax-corporation-nyseimax-shares-bought-by-principal-financial-group-inc/"
+    },
+    {
+      "id": 54,
+      "title": "Sify Technologies Ltd (SIFY) Q1 2026 Earnings Call Highlights: Revenue Growth Amidst Financial ...",
+      "summary": "Sify Technologies Ltd (SIFY) reports a 14% revenue increase and strategic investments in data centers, despite facing profitability hurdles.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T07:06:11Z",
+      "url": "https://finance.yahoo.com/news/sify-technologies-ltd-sify-q1-070611000.html"
+    },
+    {
+      "id": 55,
+      "title": "Cambridge Conference On Legal Perspectives On The Development And Enactment Of Tax Policy",
+      "summary": "Cambridge Conference On Legal Perspectives On The Development And Enactment Of Tax Policy - U.S. Tax Prof presentations at last week's conference on Perspectives On The Development And Enactment Of Tax Policy at the Centre for Tax Law at the University of Cambridge.",
+      "source": "Typepad.com",
+      "category": "research",
+      "timestamp": "2025-07-19T07:05:00Z",
+      "url": "https://taxprof.typepad.com/taxprof_blog/2025/07/cambridge-conference-on-legal-perspectives-on-the-development-and-enactment-of-tax-policy.html"
+    },
+    {
+      "id": 56,
+      "title": "mimicx 0.1.17",
+      "summary": "mimicx 0.1.17 offers a human-like AI package for vision, text, voice, and more that is accessible to everyone.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T07:03:00Z",
+      "url": "https://pypi.org/project/mimicx/0.1.17/"
+    },
+    {
+      "id": 57,
+      "title": "Best Of: Stacey Abrams / Raphael Saadiq",
+      "summary": "Stacey Abrams, known for her work in voting rights activism and politics, is also a bestselling author with a new thriller novel centered around a former Supreme Court clerk investigating a murder.",
+      "source": "NPR",
+      "category": "applications",
+      "timestamp": "2025-07-19T07:00:59Z",
+      "url": "https://www.npr.org/2025/07/19/1255937782/best-of-stacey-abrams-raphael-saadiq"
+    },
+    {
+      "id": 58,
+      "title": "definable added to PyPI",
+      "summary": "A new software tool called definable has been added to PyPI, providing infrastructure for creating and deploying AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-19T07:00:41Z",
+      "url": "https://pypi.org/project/definable/"
+    },
+    {
+      "id": 59,
+      "title": "definable 0.1.0",
+      "summary": "definable 0.1.0 is a new infrastructure designed for building and deploying AI agents.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T07:00:41Z",
+      "url": "https://pypi.org/project/definable/0.1.0/"
+    },
+    {
+      "id": 60,
+      "title": "This HP EliteBook I tested is one of the most versatile work laptops of 2025 - and it's on sale",
+      "summary": "HP's versatile EliteBook Ultra G1i is on sale, offering impressive lightweight design, reliable power, and long battery life.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-19T07:00:15Z",
+      "url": "https://www.zdnet.com/article/this-hp-elitebook-i-tested-is-one-of-the-most-versatile-work-laptops-of-2025-and-its-on-sale/"
+    },
+    {
+      "id": 61,
+      "title": "Review of Parmy Olson's Supremacy — and the futility of chasing non-capitalist dreams",
+      "summary": "Review of Parmy Olson's Supremacy: AI, ChatGPT, and the Race That Will Change the World, focusing on the sellout aspect of AI entrepreneurs to big tech for funding.",
+      "source": "Idratherbewriting.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T07:00:00Z",
+      "url": "https://idratherbewriting.com/blog/olson-supremacy-dreams-capitalism"
+    },
+    {
+      "id": 62,
+      "title": "Wipro ordered to pay Rs 2 lakh compensation for defamatory remarks in employee’s relieving letter",
+      "summary": "Wipro was ordered by the Delhi High Court to pay Rs 2 lakh in damages to a former employee for defamatory remarks in his relieving letter, harming his professional reputation.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-19T06:55:44Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/wipro-ordered-to-pay-rs-2-lakh-compensation-for-defamatory-remarks-in-employees-relieving-letter/articleshow/122778394.cms"
+    },
     {
       "id": 51,
       "title": "On the deep (uncurable?) vulnerability of MCPs",
@@ -342,114 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-19T05:47:01Z",
       "url": "https://addyo.substack.com/p/context-engineering-bringing-engineering"
-    },
-    {
-      "id": 58,
-      "title": "Beware of the Google AI salesman and its cronies",
-      "summary": "Beware of the Google AI salesman and its cronies pushing overly salesy AI Overviews to sell bad products",
-      "source": "Housefresh.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T05:47:01Z",
-      "url": "https://housefresh.com/beware-of-the-google-ai-salesman/"
-    },
-    {
-      "id": 59,
-      "title": "How Did Elon Musk Turn Grok Into MechaHitler?",
-      "summary": "Elon Musk's AI model keeps reminding him that there is a statistical similarity between his actions and being a Nazi, despite his insistence otherwise.",
-      "source": "The American Prospect",
-      "category": "ethics",
-      "timestamp": "2025-07-19T05:47:01Z",
-      "url": "https://prospect.org/power/2025-07-17-how-did-elon-musk-turn-grok-into-mechahitler/"
-    },
-    {
-      "id": 60,
-      "title": "AI & Marketing: Smart AI & Marketing Solutions for MSME's",
-      "summary": "Smart AI & Marketing Solutions being developed for MSME's to improve marketing strategies.",
-      "source": "YouTube",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:45:01Z",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK5LpMQKA92c"
-    },
-    {
-      "id": 61,
-      "title": "GE HealthCare Technologies (GEHC) & Its Competitors Head to Head Survey",
-      "summary": "GE HealthCare Technologies (NASDAQ:GEHC) is competing against 143 other public companies in the 'MED PRODUCTS' industry to determine its strength compared to its peers.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-19T05:43:07Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/ge-healthcare-technologies-gehc-its-competitors-head-to-head-survey/"
-    },
-    {
-      "id": 62,
-      "title": "Analysts Set Fluence Energy, Inc. (NASDAQ:FLNC) Price Target at $7.58",
-      "summary": "Analysts have set a price target for Fluence Energy, Inc. and given a consensus recommendation of 'Hold' by twenty-four brokerages.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:43:05Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/analysts-set-fluence-energy-inc-nasdaqflnc-price-target-at-7-58/"
-    },
-    {
-      "id": 63,
-      "title": "Analysts Set CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS) Price Target at $12.06",
-      "summary": "Analysts have set a price target of $12.06 for CCC Intelligent Solutions Holdings Inc (NYSE:CCCS), which has a consensus rating of 'Moderate Buy'.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:43:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/analysts-set-ccc-intelligent-solutions-holdings-inc-nysecccs-price-target-at-12-06/"
-    },
-    {
-      "id": 64,
-      "title": "gitagent-ai 1.0.5",
-      "summary": "gitagent-ai 1.0.5 is an AI-powered Git assistant with persistent context management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T05:41:30Z",
-      "url": "https://pypi.org/project/gitagent-ai/1.0.5/"
-    },
-    {
-      "id": 65,
-      "title": "International Business Machines (NYSE:IBM) Trading 1.5% Higher After Analyst Upgrade",
-      "summary": "IBM shares rose 1.5% after an analyst upgrade, with BMO Capital Markets increasing their price target on the stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:40:45Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/international-business-machines-nyseibm-trading-1-5-higher-after-analyst-upgrade/"
-    },
-    {
-      "id": 51,
-      "title": "Brokerages Set Hut 8 Corp. (NASDAQ:HUT) PT at $26.12",
-      "summary": "Brokerages set Hut 8 Corp. (NASDAQ:HUT) PT at $26.12, with a consensus rating of 'Buy' by nineteen ratings firms covering the company.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-19T05:28:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/brokerages-set-hut-8-corp-nasdaqhut-pt-at-26-12/"
-    },
-    {
-      "id": 52,
-      "title": "Nebius Group (NASDAQ:NBIS) Downgraded by Wall Street Zen to Sell",
-      "summary": "Nebius Group (NASDAQ:NBIS) downgraded to sell by Wall Street Zen in research report.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:27:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/nebius-group-nasdaqnbis-downgraded-by-wall-street-zen-to-sell/"
-    },
-    {
-      "id": 53,
-      "title": "Applied Digital Target of Unusually High Options Trading (NASDAQ:APLD)",
-      "summary": "Applied Digital Corporation (NASDAQ:APLD) saw unusually high options trading activity on Thursday, with traders buying 129,034 call options on the stock, a 38% increase from the typical daily volume.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:22:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/applied-digital-target-of-unusually-high-options-trading-nasdaqapld/"
-    },
-    {
-      "id": 54,
-      "title": "C3.ai Sees Unusually Large Options Volume (NYSE:AI)",
-      "summary": "C3.ai, Inc. (NYSE:AI) saw unusually large options volume on Thursday, with an increase of approximately 78% compared to average daily volume, indicating heightened investor interest in the stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-19T05:22:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/19/c3-ai-sees-unusually-large-options-volume-nyseai-2/"
     }
   ]
 }
