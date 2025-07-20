@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-20T14:13:59.996Z",
+  "lastUpdate": "2025-07-20T14:34:48.784Z",
   "items": [
+    {
+      "id": 51,
+      "title": " Reports: Next superstar for Flick as Barça sign top Premier League player",
+      "summary": "Reports confirm that Manchester United star Marcus Rashford is moving to Barcelona to join Hansi Flick, following numerous rumors. This transfer is a significant move in the world of football and highlights the increasing use of AI in player recruitment and team strategies.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-19T14:30:00Z",
+      "url": "https://onefootball.com/en/news/reports-next-superstar-for-flick-as-barca-sign-top-premier-league-player-41396690"
+    },
+    {
+      "id": 52,
+      "title": "CoreWeave (CRWV) Stock Downgraded: HSBC Flags Liquidity Strains, Heavy Capex Ahead",
+      "summary": "CoreWeave (CRWV) Stock Downgraded by HSBC due to liquidity strains and heavy capital expenditures, impacting its position among AI Stocks on Wall Street",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:27:25Z",
+      "url": "https://finance.yahoo.com/news/coreweave-crwv-stock-downgraded-hsbc-142725198.html"
+    },
+    {
+      "id": 53,
+      "title": "Nvidia's China restart faces production obstacles: The Information report",
+      "summary": "Nvidia's production restart in China faces obstacles as limited H20 chip availability is informed to Chinese clients due to US government's April ban, leading to order cancellations and manufacturing capacity being cancelled at Taiwan Semiconductor Manufacturing.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:24:38Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-china-restart-faces-production-obstacles-the-information-reports/articleshow/122784290.cms"
+    },
+    {
+      "id": 54,
+      "title": "Dow Jones, S&P 500, Nasdaq Composite: Wall Street Strategist Peter Berezin decodes the blind side of US markets",
+      "summary": "Wall Street strategist Peter Berezin decodes the blind side of US markets and discusses the risks posed by the debt market and high fiscal deficit on the US economy.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:24:25Z",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/dow-jones-sp-500-nasdaq-composite-wall-street-strategist-peter-berezin-decodes-the-blind-side-of-us-markets/article69828428.ece"
+    },
+    {
+      "id": 55,
+      "title": "Cantor Fitzgerald Stays Bullish on Amazon (AMZN), Lifts Target to $260 on Retail and AWS Growth",
+      "summary": "Cantor Fitzgerald raises target on Amazon due to growth in retail and AWS, highlighting it as an AI stock to watch.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:17:36Z",
+      "url": "https://finance.yahoo.com/news/cantor-fitzgerald-stays-bullish-amazon-141736890.html"
+    },
+    {
+      "id": 56,
+      "title": "Cantor Fitzgerald Lifts Meta to $828 Price Target on AI Talent, Ad Gains",
+      "summary": "Cantor Fitzgerald raises Meta price target to $828 due to AI talent and ad gains, making it one of the AI stocks investors are closely monitoring.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:17:17Z",
+      "url": "https://finance.yahoo.com/news/cantor-fitzgerald-lifts-meta-828-141717392.html"
+    },
+    {
+      "id": 57,
+      "title": "Needham Sticks With Buy on Nvidia (NVDA), Lifts Target to $200",
+      "summary": "NVIDIA Corporation (NASDAQ: NVDA) is one of the AI Stocks Investors Are Watching Closely. Needham analyst Rajvindra Gill raised the price target to $200 on July 16.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:17:11Z",
+      "url": "https://finance.yahoo.com/news/needham-sticks-buy-nvidia-nvda-141711540.html"
+    },
+    {
+      "id": 58,
+      "title": "IBM Seen as ‘Stable Compounder’ — Stifel Lifts Price Target Ahead of Q2",
+      "summary": "IBM, an AI stock that investors are closely monitoring, had its price target increased by Stifel analyst David Grossman ahead of Q2 earnings.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-19T14:16:34Z",
+      "url": "https://finance.yahoo.com/news/ibm-seen-stable-compounder-stifel-141634387.html"
+    },
+    {
+      "id": 59,
+      "title": "arshai 0.5.0",
+      "summary": "arshai 0.5.0 is a powerful agent framework for building conversational AI systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:16:32Z",
+      "url": "https://pypi.org/project/arshai/0.5.0/"
+    },
+    {
+      "id": 60,
+      "title": "Unleashing AI: Trump’s Vision For American Tech Dominance",
+      "summary": "Trump to unveil AI Action Plan prioritizing innovation, infrastructure, and light regulation to boost U.S. global AI leadership and economic competitiveness.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-19T14:15:34Z",
+      "url": "https://www.forbes.com/sites/paulocarvao/2025/07/19/unleashing-ai-trumps-vision-for-american-tech-dominance/"
+    },
+    {
+      "id": 61,
+      "title": "Wins Analyst Confidence With AI Advances and Price Hike Potential",
+      "summary": "Salesforce, Inc. wins analyst confidence with AI advances and potential price hike. Analyst reiterates 'Market Outperform' rating with $430.00 price target, showing optimism towards the firm's AI advancements.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-19T14:15:26Z",
+      "url": "https://biztoc.com/x/b24b798b8bc5adb2"
+    },
     {
       "id": 51,
       "title": "TSMC Eager to Build an Independent Chip Supply Chain in the U.S. Alongside Taiwan, Plans to Produce Over 30% of 2nm and Advanced Chips in Arizona",
@@ -351,105 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-19T13:05:43Z",
       "url": "https://www.citizen.co.za/berea-mail/news-headlines/2025/07/19/family-medicine-specialist-given-a-second-chance-at-life/"
-    },
-    {
-      "id": 53,
-      "title": "diffscribe 0.1.1",
-      "summary": "diffscribe 0.1.1 is an AI-powered Git commit message generator using Groq & Gemini.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:00:44Z",
-      "url": "https://pypi.org/project/diffscribe/0.1.1/"
-    },
-    {
-      "id": 54,
-      "title": "C21Media.net enhances editorial offer to help readers define their future in The New Content Economy",
-      "summary": "C21Media.net enhances editorial offer to help readers define their future in The New Content Economy by adding new channels and focus to their editorial mission.",
-      "source": "C21media.net",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:00:38Z",
-      "url": "https://www.c21media.net/news/c21media-net-enhances-editorial-offer-to-help-readers-define-their-future-in-the-new-content-economy/"
-    },
-    {
-      "id": 55,
-      "title": "I’m using Samsung’s Voice Recorder to avoid this app’s premium plan",
-      "summary": "Samsung Voice Recorder is being used as an alternative to Day One's premium plan as it offers similar features for free.",
-      "source": "Android Authority",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:00:35Z",
-      "url": "https://www.androidauthority.com/samsung-voice-recorder-day-one-journal-3577377/"
-    },
-    {
-      "id": 56,
-      "title": "'Utopian' City 'California Forever' Announces Huge Tech Manufacturing Park",
-      "summary": "California Forever announced plans to build a massive manufacturing park in its 'utopian' city, backed by Silicon Valley billionaires.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://tech.slashdot.org/story/25/07/19/0022209/utopian-city-california-forever-announces-huge-tech-manufacturing-park"
-    },
-    {
-      "id": 57,
-      "title": "BAY Miner Launches Groundbreaking Zero-Fee Cloud Mining Platform: A New Chapter in Direct Crypto Wealth Building",
-      "summary": "BAY Miner launches a zero-fee cloud mining platform powered by AI, allowing users to earn passive crypto income on their mobile devices.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118246/0/en/BAY-Miner-Launches-Groundbreaking-Zero-Fee-Cloud-Mining-Platform-A-New-Chapter-in-Direct-Crypto-Wealth-Building.html"
-    },
-    {
-      "id": 58,
-      "title": "Trump once called Epstein 'terrific guy' who likes women 'on the younger side'?",
-      "summary": "In 2002, Donald Trump praised Jeffrey Epstein as a 'fun' and 'terrific guy' who likes women 'on the younger side', raising ethical concerns regarding his association with the convicted sex offender.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.snopes.com//fact-check/trump-epstein-terrific-guy-quote/"
-    },
-    {
-      "id": 59,
-      "title": "Ja Mining Completes Security Audit Amid Industry Scrutiny",
-      "summary": "Ja Mining completes a security audit as regulators and institutional players scrutinize the cryptocurrency mining industry.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/19/3118247/0/en/Ja-Mining-Completes-Security-Audit-Amid-Industry-Scrutiny.html"
-    },
-    {
-      "id": 60,
-      "title": "The United States of Impunity",
-      "summary": "AI is seen as a way to cover up moral decay in the United States of Impunity, with discussions on Bastille Day drawing parallels to the French Revolution. The article suggests that AI is being used to mask unethical behavior.",
-      "source": "Activistpost.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.activistpost.com/the-united-states-of-impunity/"
-    },
-    {
-      "id": 61,
-      "title": "Pay just $50 once, save on flights and hotels forever",
-      "summary": "Pay $50 once to use OneAir's AI and never overpay for travel again, saving on flights and hotels forever.",
-      "source": "Popular Science",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.popsci.com/sponsored-content/oneair-elite-lifetime-subscription-save-money-on-your-existing-hotel-and-flight-bookings-sponsored-deal/"
-    },
-    {
-      "id": 62,
-      "title": "Top 5 iPhone and Android apps & games you need to try this week - Subnautica, Oceanhorn, and More!",
-      "summary": "Top 5 apps and games to try out on Android and iPhone including Subnautica and Oceanhorn. Check out the latest selections on the Google Play Store and Apple App Store.",
-      "source": "Nextpit.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.nextpit.com/news/apps-of-the-week-29-2025"
-    },
-    {
-      "id": 63,
-      "title": "Top Stories: iPhone 17 Colors, iOS 26 Public Beta Incoming, and More",
-      "summary": "We're less than two months away from the official unveiling of the iPhone 17 family, with rumors about color options starting to firm up. The iOS 26 public beta is also rapidly approaching.",
-      "source": "MacRumors",
-      "category": "innovation",
-      "timestamp": "2025-07-19T13:00:00Z",
-      "url": "https://www.macrumors.com/2025/07/19/top-stories-iphone-17-colors/"
     }
   ]
 }
