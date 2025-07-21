@@ -1,39 +1,34 @@
-import { NextResponse } from 'next/server';
+import { createClient } from '@supabase/supabase-js';
 import Stripe from 'stripe';
-import { supabase } from '../../../utils/supabaseClient';  // Adjust path if needed
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+const supabaseAdmin = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL,
+  process.env.SUPABASE_SERVICE_ROLE_KEY
+);
 
-export async function POST(req) {
-  const body = await req.text();
-  const sig = req.headers.get('stripe-signature');
+export async function POST(request) {
+  const signature = request.headers.get('stripe-signature');
+  const body = await request.text();
 
   let event;
   try {
-    event = stripe.webhooks.constructEvent(body, sig, process.env.STRIPE_WEBHOOK_SECRET);
+    event = stripe.webhooks.constructEvent(body, signature, process.env.STRIPE_WEBHOOK_SECRET);
   } catch (err) {
-    console.error('Webhook Error:', err.message);
-    return NextResponse.json({ error: 'Webhook Error' }, { status: 400 });
+    return new Response(`Webhook Error: ${err.message}`, { status: 400 });
   }
 
   if (event.type === 'checkout.session.completed') {
     const session = event.data.object;
-    // Update Supabase with subscription status (use email or metadata to find user)
-    await supabase
-      .from('subscriptions')
-      .upsert({
-        user_email: session.customer_email,  // Or use user ID if passed in metadata
-        stripe_id: session.subscription,
-        status: 'active',
-      });
-  } else if (event.type === 'customer.subscription.updated') {
-    const subscription = event.data.object;
-    // Update status if canceled or failed
-    await supabase
-      .from('subscriptions')
-      .update({ status: subscription.status })
-      .eq('stripe_id', subscription.id);
+    const userId = session.metadata.user_id; // Add user ID to metadata in checkout
+    await supabaseAdmin.from('subscriptions').insert({
+      user_id: userId,
+      stripe_id: session.id,
+      status: 'active',
+    });
   }
 
-  return NextResponse.json({ received: true });
+  // Handle other events (e.g., cancel)
+
+  return new Response('Success', { status: 200 });
 }
