@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-21T06:31:14.214Z",
+  "lastUpdate": "2025-07-21T06:59:58.333Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Ringcentral, Inc. (NYSE:RNG) Given Consensus Rating of “Hold” by Brokerages",
+      "summary": "Ringcentral, Inc. received a consensus rating of Hold from fourteen brokerages covering the company.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T06:56:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/ringcentral-inc-nyserng-given-consensus-rating-of-hold-by-brokerages/"
+    },
+    {
+      "id": 52,
+      "title": "The Big LLM Architecture Comparison",
+      "summary": "Comparative analysis of various modern LLM architecture designs, including DeepSeek-V3 and Kimi K2, provides valuable insights into the advancements in AI research.",
+      "source": "Sebastianraschka.com",
+      "category": "research",
+      "timestamp": "2025-07-20T06:56:01Z",
+      "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison"
+    },
+    {
+      "id": 53,
+      "title": "Analysts Are Updating Their ABB Ltd (VTX:ABBN) Estimates After Its Second-Quarter Results",
+      "summary": "Analysts updating estimates for ABB Ltd after second-quarter results, resulting in a 9.9% increase in shares.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:55:57Z",
+      "url": "https://finance.yahoo.com/news/analysts-updating-abb-ltd-vtx-065557029.html"
+    },
+    {
+      "id": 54,
+      "title": "GSI plans to use AI to develop robust landslide forecasting model: DG",
+      "summary": "GSI plans to use AI to develop a more robust landslide forecasting model and expert system, according to GSI Director General Asit Saha.",
+      "source": "BusinessLine",
+      "category": "research",
+      "timestamp": "2025-07-20T06:55:12Z",
+      "url": "https://www.thehindubusinessline.com/news/national/gsi-plans-to-use-ai-to-develop-robust-landslide-forecasting-model-dg/article69834024.ece"
+    },
+    {
+      "id": 55,
+      "title": "Open Text Corporation (NASDAQ:OTEX) Given Average Rating of “Hold” by Brokerages",
+      "summary": "Open Text Corporation has received an average rating of 'Hold' from eleven ratings firms.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:54:44Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/open-text-corporation-nasdaqotex-given-average-rating-of-hold-by-brokerages/"
+    },
+    {
+      "id": 56,
+      "title": "Brokerages Set Intel Corporation (NASDAQ:INTC) Target Price at $21.95",
+      "summary": "Intel Corporation has been given an average rating of 'Reduce' by thirty-one ratings firms, with a target price of $21.95. Five analysts have rated the stock.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T06:54:43Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/brokerages-set-intel-corporation-nasdaqintc-target-price-at-21-95/"
+    },
+    {
+      "id": 57,
+      "title": "Brokerages Set Salesforce Inc. (NYSE:CRM) Price Target at $348.16",
+      "summary": "Brokerages set price target for Salesforce Inc. at $348.16 with a consensus rating of 'Moderate Buy' from analysts covering the company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:54:43Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/brokerages-set-salesforce-inc-nysecrm-price-target-at-348-16/"
+    },
+    {
+      "id": 58,
+      "title": "AI tools not for decision making: Kerala HC guidelines to district judiciary on AI usage",
+      "summary": "The Kerala High Court has issued guidelines for the responsible and restricted use of AI tools in the district judiciary to avoid decision making.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T06:51:10Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-tools-not-for-decision-making-kerala-hc-guidelines-to-district-judiciary-on-ai-usage/articleshow/122794562.cms"
+    },
+    {
+      "id": 59,
+      "title": "Monsoon Session: AAP to raise key issues in Parliament, including Trump's ceasefire claims",
+      "summary": "AAP to raise key issues in Parliament, including Trump's ceasefire claims and concerns about bulldozer actions in Delhi",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T06:50:41Z",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/monsoon-session-aap-to-raise-key-issues-in-parliament-including-trumps-ceasefire-claims/articleshow/122794561.cms"
+    },
+    {
+      "id": 60,
+      "title": "Webus International (NASDAQ:WETO) Stock Rating Upgraded by Wall Street Zen",
+      "summary": "Webus International (NASDAQ:WETO) Stock Rating Upgraded by Wall Street Zen to 'hold'. Shares of WETO stock increased by 3.3% on Friday.",
+      "source": "ETF Daily News",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:48:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/webus-international-nasdaqweto-stock-rating-upgraded-by-wall-street-zen/"
+    },
+    {
+      "id": 61,
+      "title": "Google Just Made Gmail Better—But You Need A New Email Address",
+      "summary": "Google has improved Gmail by introducing new features, but users will need a new email address on their account to access these updates.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:39:30Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/20/google-just-made-gmail-better-but-you-need-a-different-address/"
+    },
+    {
+      "id": 62,
+      "title": "Head-To-Head Contrast: Lenovo Group (OTCMKTS:LNVGY) vs. Dell Technologies (NYSE:DELL)",
+      "summary": "Lenovo Group and Dell Technologies, both large-cap computer and technology companies, are being compared to determine which is the superior investment.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:38:55Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/head-to-head-contrast-lenovo-group-otcmktslnvgy-vs-dell-technologies-nysedell/"
+    },
+    {
+      "id": 63,
+      "title": "Man credits ChatGPT for his 27 kg weight loss in 6 months but learnt a bigger lesson for life",
+      "summary": "Man credits ChatGPT for his 27 kg weight loss in 6 months with the help of his AI assistant Arthur, who provided meal planning, exercise routines, and content calendar management.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T06:36:57Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/man-credits-chatgpt-for-his-27-kg-weight-loss-in-6-months-but-learnt-a-bigger-lesson-for-life/articleshow/122794404.cms"
+    },
+    {
+      "id": 64,
+      "title": "Public companies account for 29% of Bertrandt Aktiengesellschaft's (ETR:BDT) ownership, while private companies account for 25%",
+      "summary": "Public companies own 29% of Bertrandt Aktiengesellschaft, while private companies own 25%. Ownership by public companies suggests a significant influence on the company's economic activities.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:34:52Z",
+      "url": "https://finance.yahoo.com/news/public-companies-account-29-bertrandt-063452577.html"
+    },
+    {
+      "id": 65,
+      "title": "EU-China summit, Shanghai AI conference, Taiwan recall votes",
+      "summary": "EU-China summit, Shanghai AI conference, Taiwan recall votes - Welcome to Your Week in Asia.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:32:40Z",
+      "url": "https://biztoc.com/x/f82ec9387c8df8e8"
+    },
+    {
+      "id": 66,
+      "title": " Messi and friends put on a show as Inter Miami thrash New York",
+      "summary": "Messi and Inter Miami reunite for a victory in the MLS by thrashing the New York Red Bulls.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T06:31:00Z",
+      "url": "https://onefootball.com/en/news/messi-and-friends-put-on-a-show-as-inter-miami-thrash-new-york-41399012"
+    },
     {
       "id": 51,
       "title": "Benchmark Forecasts Strong Price Appreciation for Pagaya Technologies (NASDAQ:PGY) Stock",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T05:17:02Z",
       "url": "https://www.etfdailynews.com/2025/07/20/snowflake-nysesnow-stock-price-up-1-8-after-analyst-upgrade/"
-    },
-    {
-      "id": 56,
-      "title": "Pagaya Technologies (NASDAQ:PGY) Shares Up 7.3% Following Analyst Upgrade",
-      "summary": "Pagaya Technologies' shares rose 7.3% after being upgraded by Wall Street Zen from hold to buy, indicating a positive outlook for the company.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-20T05:17:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/pagaya-technologies-nasdaqpgy-shares-up-7-3-following-analyst-upgrade/"
-    },
-    {
-      "id": 57,
-      "title": "Napoli move for Lookman: he wants Inter, Atalanta’s stance",
-      "summary": "The competition for Atalanta striker Ademola Lookman has intensified with interest from Napoli and Inter. The summer transfer market in the Milan-Naples axis is heating up as Lookman seeks a move to Inter while Atalanta's stance remains uncertain.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T05:17:00Z",
-      "url": "https://onefootball.com/en/news/napoli-move-for-lookman-he-wants-inter-atalantas-stance-41398913"
-    },
-    {
-      "id": 58,
-      "title": "Diginex (NASDAQ:DGNX) Shares to Split on Friday, August 1st",
-      "summary": "Diginex Limited shares (NASDAQ:DGNX) are set to split before the market opens on Friday, August 1st with an 8-1 split announced on July 7th. The newly issued shares will be distributed to shareholders after the market closes on Thursday, July 31st.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T05:14:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/diginex-nasdaqdgnx-shares-to-split-on-friday-august-1st/"
-    },
-    {
-      "id": 59,
-      "title": "Markets in everything",
-      "summary": "At Cloudflare, content creators are provided control over who accesses their work, including the ability to block AI crawlers. This allows creators to have more control over their content and protect their work.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T05:14:29Z",
-      "url": "https://biztoc.com/x/a4577c017e9f1d5e"
-    },
-    {
-      "id": 60,
-      "title": "Contrasting Hayden Hall (OTCMKTS:HYDN) & Ondas (NASDAQ:ONDS)",
-      "summary": "Hayden Hall (OTCMKTS:HYDN) and Ondas (NASDAQ:ONDS) are compared based on the strength of their earnings and analyst recommendations in order to determine which is the superior stock.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-20T05:12:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/contrasting-hayden-hall-otcmktshydn-ondas-nasdaqonds/"
-    },
-    {
-      "id": 61,
-      "title": "FiscalNote Holdings, Inc. (NYSE:NOTE) Receives $2.63 Consensus Target Price from Analysts",
-      "summary": "FiscalNote Holdings, Inc. (NYSE:NOTE) has received a consensus target price of $2.63 from analysts, with a 'Buy' recommendation from seven ratings firms. One research analyst has rated the stock with a hold recommendation.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T05:12:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/fiscalnote-holdings-inc-nysenote-receives-2-63-consensus-target-price-from-analysts/"
-    },
-    {
-      "id": 62,
-      "title": " Was it a red? Shocking tackle on José Castillo in León v Chivas",
-      "summary": "Controversy arises over a potentially red-card worthy tackle on José Castillo during the León v Chivas match, sparking debate among fans on social media.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T05:10:00Z",
-      "url": "https://onefootball.com/en/news/was-it-a-red-shocking-tackle-on-jose-castillo-in-leon-v-chivas-41398903"
-    },
-    {
-      "id": 63,
-      "title": "Cybersecurity Stocks To Consider – July 18th",
-      "summary": "Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, and Fortinet are recommended cybersecurity stocks to consider according to MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T05:09:07Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/cybersecurity-stocks-to-consider-july-18th/"
-    },
-    {
-      "id": 64,
-      "title": "Entertainment Stocks Worth Watching – July 18th",
-      "summary": "Entertainment stocks worth watching on July 18th include Alibaba Group, Warner Bros. Discovery, BigBear.ai, Roblox, and Walt Disney according to MarketBeat's stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T05:09:06Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/entertainment-stocks-worth-watching-july-18th/"
-    },
-    {
-      "id": 65,
-      "title": "Esports Stocks To Add to Your Watchlist – July 18th",
-      "summary": "GameSquare, PENN Entertainment, Sphere Entertainment, Madison Square Garden, Insight Enterprises, DouYu International, and Allied Gaming & Entertainment are seven Esports stocks to watch according to MarketBeat's stock screener tool on July 18th.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T05:09:01Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/esports-stocks-to-add-to-your-watchlist-july-18th/"
-    },
-    {
-      "id": 66,
-      "title": "Shashi Tharoor launches Muthoot Business School in Kochi",
-      "summary": "Shashi Tharoor launches Muthoot Business School in Kochi, praising the Muthoot Group's move into education and emphasizing the importance of ethical, empathetic, and globally minded business leaders.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-20T05:07:36Z",
-      "url": "https://www.thehindubusinessline.com/news/education/shashi-tharoor-launches-muthoot-business-school-in-kochi/article69833853.ece"
-    },
-    {
-      "id": 67,
-      "title": "ai-resume-screening added to PyPI",
-      "summary": "AI-powered resume screening tool with LLM evaluation added to PyPI for easier access and use.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T05:05:52Z",
-      "url": "https://pypi.org/project/ai-resume-screening/"
-    },
-    {
-      "id": 68,
-      "title": "JPMorgan Chase & Co. Initiates Coverage on Hewlett Packard Enterprise (NYSE:HPE)",
-      "summary": "JPMorgan Chase & Co. initiated coverage on Hewlett Packard Enterprise with an overweight rating and $30.00 target price in a research note published on Thursday.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-20T05:04:44Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/jpmorgan-chase-co-initiates-coverage-on-hewlett-packard-enterprise-nysehpe/"
-    },
-    {
-      "id": 69,
-      "title": "claude-multiagent-pm 1.2.3",
-      "summary": "The claude-multiagent-pm 1.2.3 update introduces the Claude Multi-Agent Project Management Framework for AI-driven orchestration, aimed at improving project management through the use of AI. This innovation is a step towards more efficient and automated project management processes.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T05:04:24Z",
-      "url": "https://pypi.org/project/claude-multiagent-pm/1.2.3/"
-    },
-    {
-      "id": 51,
-      "title": "Image Mate – AI That Renames, Tags & Describes Your Photos",
-      "summary": "Image Mate is an AI tool that automatically renames, tags, and describes photos, simplifying the organization of large photo libraries.",
-      "source": "Betalist.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T05:00:00Z",
-      "url": "https://betalist.com/startups/image-mate"
-    },
-    {
-      "id": 52,
-      "title": "ml-modelguard 0.2.1",
-      "summary": "ml-modelguard 0.2.1 is a seat-belt library for machine-learning model files that prevents hidden malware and verifies provenance.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:53:41Z",
-      "url": "https://pypi.org/project/ml-modelguard/0.2.1/"
     }
   ]
 }
