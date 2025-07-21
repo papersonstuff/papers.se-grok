@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T09:49:24.764Z",
+  "lastUpdate": "2025-07-21T10:18:40.379Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Elon Musk Admits He Previously Resisted AI, But Now He’s All In; Signaling Fiercer Competition Ahead with His AI Firm xAI",
+      "summary": "Elon Musk reveals that he's all in with AI, and that with the AI firm xAI, he has apparently set up massive plans ahead, becoming a top contender in the segment.",
+      "source": "Wccftech",
+      "category": "startups",
+      "timestamp": "2025-07-20T10:14:15Z",
+      "url": "https://wccftech.com/elon-musk-admits-he-previously-resisted-ai-but-now-he-is-all-in/"
+    },
+    {
+      "id": 52,
+      "title": "️ Messi tops CR7: more non-penalty goals, 6th brace in 7 games ",
+      "summary": "Messi tops CR7 in non-penalty goals and scores 6th brace in 7 games, continuing their rivalry across different championships",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:10:00Z",
+      "url": "https://onefootball.com/en/news/messi-tops-cr7-more-non-penalty-goals-6th-brace-in-7-games-41399605"
+    },
+    {
+      "id": 53,
+      "title": "Maori visitors with face tattoos hesitant to travel to Hawaii | Honolulu Star-Advertiser",
+      "summary": "Maori visitors with face tattoos are hesitant to travel to Hawaii due to concerns about discrimination and respect for their cultural practices.",
+      "source": "Honolulu Star-Advertiser",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:09:00Z",
+      "url": "https://www.staradvertiser.com/2025/07/20/hawaii-news/maori-visitors-with-face-tattoos-hesitant-to-travel-to-hawaii/"
+    },
+    {
+      "id": 54,
+      "title": "America's Hot Garbage Summer Bites",
+      "summary": "Millions of residents across the U.S. facing mounting piles of uncollected trash due to a strike by waste workers, impacting waste management services and potentially leading to economic repercussions.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T10:05:25Z",
+      "url": "https://biztoc.com/x/c5c394b55f8be944"
+    },
+    {
+      "id": 55,
+      "title": "Americans Are Using AI To Diagnose Their Health Issues",
+      "summary": "Americans are using AI to diagnose health issues through AI-generated voice technology, but inconsistencies may arise. Clinicians and patients are increasingly utilizing AI for diagnosis, though the technology's adoption is seen as both beneficial and problematic in the health care industry.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:05:05Z",
+      "url": "https://biztoc.com/x/281558e1077450bc"
+    },
+    {
+      "id": 56,
+      "title": "Mom Drops Son at Daycare, Hours Later Gets Email That Has Her 'Scared'",
+      "summary": "When a mom received an email from her son's daycare that was AI-generated, she became scared due to potential inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:05:05Z",
+      "url": "https://biztoc.com/x/1312380a0b748e27"
+    },
+    {
+      "id": 57,
+      "title": "Priscilla Chan's recruiting pitch? We can't pay as well as tech companies, but we've got GPUs",
+      "summary": "Priscilla Chan of the Chan Zuckerberg Initiative highlights the importance of GPUs in recruiting for their philanthropic organization.",
+      "source": "Business Insider",
+      "category": "research",
+      "timestamp": "2025-07-20T10:05:01Z",
+      "url": "https://www.businessinsider.com/mark-zuckerberg-priscilla-chan-gpus-recruitment-tool-chan-zuckerberg-initiative-2025-7"
+    },
+    {
+      "id": 58,
+      "title": "World's Largest Power Station Could Provide Energy for Half of US Homes",
+      "summary": "World's largest power station, the Grand Inga Hydropower Project, aims to provide energy for half of US homes using AI-generated voice technology.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:04:37Z",
+      "url": "https://biztoc.com/x/0c7c9c6e506ad572"
+    },
+    {
+      "id": 59,
+      "title": "How AI, robotics and late artist Morrisseau are helping fight art fraud",
+      "summary": "Famed Indigenous artist Norval Morrisseau's work is being protected from art fraud using AI and robotics, after a painting falsely attributed to him was discovered in a gallery.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:01:51Z",
+      "url": "https://financialpost.com/pmn/how-ai-robotics-and-late-artist-morrisseau-are-helping-fight-art-fraud"
+    },
+    {
+      "id": 60,
+      "title": "ChatGPT Agent : The Future of Productivity from OpenAI",
+      "summary": "With the rise of generative AI, tools can now think, adapt, and create alongside users, as seen with OpenAI's ChatGPT Agent. This innovation is revolutionizing productivity by allowing for real-time collaboration between humans and AI.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:01:23Z",
+      "url": "https://www.geeky-gadgets.com/openai-chatgpt-agent-july-2025/"
+    },
+    {
+      "id": 61,
+      "title": "‘Superman’ director calls his hero an immigrant. Critics call him ‘Superwoke’",
+      "summary": "Director James Gunn faced criticism for referring to Superman as an immigrant, with some labeling him as 'Superwoke.'",
+      "source": "CNN",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:00:46Z",
+      "url": "https://www.cnn.com/2025/07/20/entertainment/superman-immigrant-superwoke-debate-cec"
+    },
+    {
+      "id": 62,
+      "title": "Elmo hack exposes serious social media cybersecurity threats",
+      "summary": "Elmo hack exposes serious social media cybersecurity threats, highlighting the importance of securing online presence.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:00:45Z",
+      "url": "https://www.foxnews.com/tech/elmo-hack-exposes-serious-social-media-cybersecurity-threats"
+    },
+    {
+      "id": 63,
+      "title": "The Galaxy Z Fold 7 is my first foldable phone, and it totally caught me off guard",
+      "summary": "A first-time user shares their experience with the Galaxy Z Fold 7, highlighting the seamless transition from traditional slab phones to a foldable device.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:00:10Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-newbie-experience-3578294/"
+    },
+    {
+      "id": 64,
+      "title": "What Makes Cheap Earbuds a Real Value? Here's How I Find the Hidden Gems",
+      "summary": "You can find surprisingly decent earbuds under $100, but the challenge is identifying the hidden gems that are considered under-the-radar keepers.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:00:07Z",
+      "url": "https://www.cnet.com/tech/mobile/features/what-makes-cheap-earbuds-a-real-value-heres-how-i-find-the-hidden-gems/"
+    },
+    {
+      "id": 65,
+      "title": "Americans Are Using AI To Diagnose Their Health Issues",
+      "summary": "Americans are increasingly using AI to self-diagnose health issues, however, the health care industry is struggling to keep up with the pace of technology advancements.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:00:02Z",
+      "url": "https://www.newsweek.com/ai-healthcare-diagnosis-chatgpt-doctor-2100091"
+    },
+    {
+      "id": 66,
+      "title": "The Digital Future in Our Hands: Open Source and AI as an Opportunity",
+      "summary": "In a world where core digital infrastructures are controlled by a few large tech corporations, digital sovereignty has become a major topic. In this context, open source is not just a technical alternative to Big Tech – it represents hope for a democratic",
+      "source": "Joomla.org",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:00:00Z",
+      "url": "https://magazine.joomla.org/all-issues/july-2025/the-digital-future-in-our-hands-open-source-and-ai-as-an-opportunity"
+    },
+    {
+      "id": 67,
+      "title": "The Sunday Papers",
+      "summary": "The Sunday Papers writer is leaving RPS after 12 years with the site and 8 years with Gamer Network websites.",
+      "source": "Rock Paper Shotgun",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:00:00Z",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-768"
+    },
+    {
+      "id": 68,
+      "title": "Odekake Kozame Anime Film Reveals Theme Song, More Cast in 2nd Trailer",
+      "summary": "The AI-related news discusses the upcoming Odekake Kozame anime film, which will feature a theme song by Lozareena. Additional cast members Ai Furihata and Sayaka Kikuchi have been announced for the film, set to open on August 22.",
+      "source": "Anime News Network",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:00:00Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-20/odekake-kozame-anime-film-reveals-theme-song-more-cast-in-2nd-trailer/.226835"
+    },
+    {
+      "id": 69,
+      "title": "NASA's Roman Space Telescope could discover 100,000 new cosmic explosions: 'We're definitely expecting the unexpected'",
+      "summary": "NASA's Roman Space Telescope could discover 100,000 new cosmic explosions, including supernovas, kilonovas, and gamma-ray bursts.",
+      "source": "Space.com",
+      "category": "research",
+      "timestamp": "2025-07-20T10:00:00Z",
+      "url": "https://www.space.com/astronomy/nasas-roman-space-telescope-could-discover-100-000-new-cosmic-explosions-were-definitely-expecting-the-unexpected"
+    },
+    {
+      "id": 70,
+      "title": "Analysis Of Grok’s Epstein Comments Show How This AI Chatbot Is Learning",
+      "summary": "Analysis of Grok's Epstein comments showcases how this AI chatbot is learning and handling the Epstein mania, shedding light on Elon Musk's AI.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:00:00Z",
+      "url": "https://www.forbes.com/sites/johnhyatt/2025/07/20/analysis-of-groks-epstein-comments-show-how-ai-chatbot-is-learning/"
+    },
     {
       "id": 51,
       "title": "ICC to offer AI-enabled platform to help microbreweries with state-wise compliance",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T08:59:19Z",
       "url": "https://utkarshkanwat.com/writing/betting-against-agents/"
-    },
-    {
-      "id": 51,
-      "title": "Elon Musk unveils raunchy Grok companions, teases ‘Valentine’ bot for X users",
-      "summary": "Elon Musk introduces raunchy AI companions to Grok chatbot, sparking debate about AI's role in adult content and digital companions.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T08:51:30Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/elon-musk-unveils-raunchy-grok-companions-teases-valentine-bot-for-x-users/articleshow/122795511.cms"
-    },
-    {
-      "id": 52,
-      "title": "Google’s Playing With the Chrome Search Bar Again—But This Time, It’s About AI",
-      "summary": "Google is making changes to the Chrome search bar on Android, focusing on AI integration rather than aesthetics.",
-      "source": "Gizchina.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T08:48:13Z",
-      "url": "https://www.gizchina.com/2025/07/20/googles-playing-with-the-chrome-search-bar-again-but-this-time-its-about-ai/"
-    },
-    {
-      "id": 53,
-      "title": "Extreme Networks, Inc. (NASDAQ:EXTR) Shares Sold by M&T Bank Corp",
-      "summary": "M&T Bank Corp reduced its stake in Extreme Networks, Inc. during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:44:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/extreme-networks-inc-nasdaqextr-shares-sold-by-mt-bank-corp/"
-    },
-    {
-      "id": 54,
-      "title": "Pixel Watch 4 Might Finally Be Useful for Strength Training—And That’s Long Overdue",
-      "summary": "Pixel Watch 4 is now more useful for strength training, catering to people hitting the gym instead of just running or cycling.",
-      "source": "Gizchina.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T08:38:16Z",
-      "url": "https://www.gizchina.com/2025/07/20/pixel-watch-4-might-finally-be-useful-for-strength-training-and-thats-long-overdue/"
-    },
-    {
-      "id": 55,
-      "title": "Ghostbuster in NZ? AI, horror stories and more, unraveled in real life cybersecurity threat",
-      "summary": "In an alarming turn of events, a New Zealand website has been caught spreading misinformation about the Department of Conservation through AI-generated horror stories, raising concerns about the ethical implications of using AI in creating misleading narratives.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T08:36:41Z",
-      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/ghostbuster-in-nz-ai-horror-stories-and-more-unraveled-in-real-life-cybersecurity-threat/articleshow/122795383.cms"
-    },
-    {
-      "id": 56,
-      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
-      "summary": "The last trading week saw a slight price decline in Bitcoin market but significant price rallies in major altcoins, hinting at the possibility of altseason. A popular market analyst identified 3 signals investors should watch for during this period.",
-      "source": "newsBTC",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:30:47Z",
-      "url": "http://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/"
-    },
-    {
-      "id": 57,
-      "title": "Expense Management Flipping Sucks, But Fintech Is Revolutionizing The Game with Nate Meadows: An EOFire Classic from 2022",
-      "summary": "Expense Management Flipping Sucks, But Fintech Is Revolutionizing The Game with Nate Meadows: An EOFire Classic from 2022 - From the archive - This episode was originally recorded and published in 2022.",
-      "source": "Libsyn.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T08:30:00Z",
-      "url": "https://sites.libsyn.com/37432/expense-management-flipping-sucks-but-fintech-is-revolutionizing-the-game-with-nate-meadows-an-eofire-classic-from2022"
-    },
-    {
-      "id": 58,
-      "title": "Studying a galaxy far, far away could become easier with help from AI, says researcher",
-      "summary": "Studying a galaxy far, far away could become easier with help from AI, as recent research by Memorial University graduate Youssef Zaazou demonstrates the potential to make astronomical research more efficient through artificial intelligence.",
-      "source": "CBC News",
-      "category": "applications",
-      "timestamp": "2025-07-20T08:30:00Z",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/min-zaazou-astronomy-ai-1.7583295"
-    },
-    {
-      "id": 59,
-      "title": "ai-resume-screener added to PyPI",
-      "summary": "AI-powered resume screening tool using LLMs and Streamlit added to PyPI for easier access.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T08:27:53Z",
-      "url": "https://pypi.org/project/ai-resume-screener/"
-    },
-    {
-      "id": 60,
-      "title": "Humanoid robot says not aiming to 'replace human artists'",
-      "summary": "Humanoid robot Ai-Da insists it is not aiming to replace human artists as it unveils a new portrait of King Charles, describing the inspiration behind the complex piece.",
-      "source": "Space Daily",
-      "category": "innovation",
-      "timestamp": "2025-07-20T08:27:34Z",
-      "url": "https://www.spacedaily.com/reports/Humanoid_robot_says_not_aiming_to_replace_human_artists_999.html"
-    },
-    {
-      "id": 61,
-      "title": "Edgestream Partners L.P. Takes $902,000 Position in Globant S.A. (NYSE:GLOB)",
-      "summary": "Edgestream Partners L.P. takes $902,000 position in Globant S.A.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:26:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/edgestream-partners-l-p-takes-902000-position-in-globant-s-a-nyseglob/"
-    },
-    {
-      "id": 62,
-      "title": "Edgestream Partners L.P. Decreases Stake in Salesforce Inc. (NYSE:CRM)",
-      "summary": "Edgestream Partners L.P. reduced its stake in Salesforce Inc. by 52.7% in the first quarter, according to a recent filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:26:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/edgestream-partners-l-p-decreases-stake-in-salesforce-inc-nysecrm/"
-    },
-    {
-      "id": 63,
-      "title": "Science Applications International Co. (NYSE:SAIC) Shares Sold by Edgestream Partners L.P.",
-      "summary": "Edgestream Partners L.P. sold a large portion of its stake in Science Applications International Co., decreasing its ownership by 81.9% in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:26:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/science-applications-international-co-nysesaic-shares-sold-by-edgestream-partners-l-p/"
-    },
-    {
-      "id": 64,
-      "title": "Edgestream Partners L.P. Decreases Stock Position in Intel Corporation (NASDAQ:INTC)",
-      "summary": "Edgestream Partners L.P. decreased its stock position in Intel Corporation by 87.4% during the 1st quarter according to its recent filing with the Securities & Exchange Commission.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:25:06Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/edgestream-partners-l-p-decreases-stock-position-in-intel-corporation-nasdaqintc/"
-    },
-    {
-      "id": 51,
-      "title": "Applied Digital (NASDAQ:APLD) Shares Gap Up – Time to Buy?",
-      "summary": "Applied Digital Corporation (NASDAQ:APLD) shares gapped up prior to trading on Friday, opening at $11.47. The stock last traded at $11.61 with a high volume of shares being traded.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:23:05Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/applied-digital-nasdaqapld-shares-gap-up-time-to-buy/"
-    },
-    {
-      "id": 52,
-      "title": "Contrasting Surgery Partners (NASDAQ:SGRY) and Wellness Center Usa (OTCMKTS:WCUI)",
-      "summary": "Surgery Partners and Wellness Center Usa, both medical companies, are being compared based on the strength of their risk and institutional ownership, in order to determine which is the superior business.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-20T08:21:41Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/contrasting-surgery-partners-nasdaqsgry-and-wellness-center-usa-otcmktswcui/"
-    },
-    {
-      "id": 53,
-      "title": "BMO Capital Markets Forecasts Strong Price Appreciation for International Business Machines (NYSE:IBM) Stock",
-      "summary": "BMO Capital Markets forecasts strong price appreciation for IBM stock with a target price increase from $260.00 to $300.00.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-20T08:21:34Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/bmo-capital-markets-forecasts-strong-price-appreciation-for-international-business-machines-nyseibm-stock/"
-    },
-    {
-      "id": 54,
-      "title": "api-mocker 0.2.0",
-      "summary": "api-mocker 0.2.0 is a production-ready FastAPI mock server with AI-powered features like generation, analytics, testing framework, and real-time dashboard, which has garnered over 3000 downloads for accelerated API development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T08:21:22Z",
-      "url": "https://pypi.org/project/api-mocker/0.2.0/"
-    },
-    {
-      "id": 55,
-      "title": "ollamabench added to PyPI",
-      "summary": "ollamabench, a benchmark tool for consumer hardware for AI inference using llm models, is now available on PyPI. It includes features such as version and quantization detection.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T08:18:10Z",
-      "url": "https://pypi.org/project/ollamabench/"
-    },
-    {
-      "id": 56,
-      "title": "Cwm LLC Has $1.61 Million Stock Position in Digital Realty Trust, Inc. (NYSE:DLR)",
-      "summary": "Cwm LLC reduced its holdings in Digital Realty Trust, Inc. by 1.7% during the 1st quarter, holding $1.61 million in stock position.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T08:16:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/cwm-llc-has-1-61-million-stock-position-in-digital-realty-trust-inc-nysedlr/"
     }
   ]
 }
