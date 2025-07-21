@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-21T19:15:14.921Z",
+  "lastUpdate": "2025-07-21T19:31:24.890Z",
   "items": [
+    {
+      "id": 51,
+      "title": "FICO To Roll Out New Scores to Reflect Your \"Buy Now, Pay Later\" Habits, Impacting Millions of Americans' Credit",
+      "summary": "FICO is introducing new credit scores to reflect 'Buy Now, Pay Later' habits, potentially impacting millions of Americans' credit and financial health.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T19:30:29Z",
+      "url": "https://finance.yahoo.com/news/fico-roll-scores-reflect-buy-193029153.html"
+    },
+    {
+      "id": 52,
+      "title": "What Happens to Companies That Don’t Think Big Enough with AI?",
+      "summary": "Companies that don't think big enough with AI risk falling behind in the rapidly changing world of work, according to a discussion on the Practically Tomorrow podcast featuring GoTo CMO Peter Mahoney.",
+      "source": "Briansolis.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:27:51Z",
+      "url": "https://briansolis.com/2025/07/what-happens-to-companies-that-dont-think-big-enough-with-ai/"
+    },
+    {
+      "id": 53,
+      "title": "Trump to AI Companies: Want Federal Funds? Your Chatbot Can't Be 'Woke'",
+      "summary": "Trump warns AI companies that in order to receive federal funds, their chatbots must not promote 'woke' messaging. Companies like Anthropic, Google, OpenAI, and xAI could lose up to $200 million in Defense Department contracts if they do not comply.",
+      "source": "PCMag.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:26:53Z",
+      "url": "https://uk.pcmag.com/ai/159217/trump-to-ai-companies-want-federal-funds-your-chatbot-cant-be-woke"
+    },
+    {
+      "id": 54,
+      "title": "Trump to AI Companies: Want Federal Funds? Your Chatbot Can't Be 'Woke'",
+      "summary": "Trump warns AI companies that their chatbots cannot be 'woke' if they want to receive federal funds, potentially putting defense department contracts with Anthropic, Google, OpenAI, and xAI at risk.",
+      "source": "PCMag.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:26:53Z",
+      "url": "https://me.pcmag.com/en/ai/31057/trump-to-ai-companies-want-federal-funds-your-chatbot-cant-be-woke"
+    },
+    {
+      "id": 55,
+      "title": "metis-agent 0.1.7",
+      "summary": "metis-agent 0.1.7 is a framework for building powerful AI agents with minimal boilerplate code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:26:14Z",
+      "url": "https://pypi.org/project/metis-agent/0.1.7/"
+    },
+    {
+      "id": 56,
+      "title": "Grappling With Existential Panic Over AI",
+      "summary": "Author Mark Jeftovic reflects on his existential panic over the implications of AI during the Christmas holidays.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:24:10Z",
+      "url": "https://biztoc.com/x/410207e8ffe560ac"
+    },
     {
       "id": 51,
       "title": "metis-agent 0.1.6",
@@ -396,60 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T17:17:11Z",
       "url": "https://pypi.org/project/swe-ai-agent/1.0.53/"
-    },
-    {
-      "id": 51,
-      "title": "MCP security vulnerabilities expose marketing technology platforms",
-      "summary": "MCP security vulnerabilities have been discovered that expose marketing technology platforms to critical tool poisoning attacks, targeting Model Context Protocol implementations.",
-      "source": "Ppc.land",
-      "category": "research",
-      "timestamp": "2025-07-20T17:15:35Z",
-      "url": "https://ppc.land/mcp-security-vulnerabilities-expose-marketing-technology-platforms/"
-    },
-    {
-      "id": 52,
-      "title": "China’s rare earth magnet exports to US surge 660% after breakthrough trade deal",
-      "summary": "China's rare earth magnet exports to US surged 660% after trade deal, due to China's decision to restrict exports in retaliation for US tariffs.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-20T17:14:19Z",
-      "url": "https://nypost.com/2025/07/20/world-news/chinas-rare-earth-magnet-exports-to-us-surge-660-after-trade-deal/"
-    },
-    {
-      "id": 53,
-      "title": "Map Shows Donald Trump's Approval Rating in Each State After Six Months",
-      "summary": "President Donald Trump's approval rating is negative in the majority of states in America after six months in office, according to polling data from Civiqs.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-20T17:09:36Z",
-      "url": "https://biztoc.com/x/0d1f729f80b23ffd"
-    },
-    {
-      "id": 54,
-      "title": "Former Astronomer CEO Would Have Been Safe In God's Country, Morgan Wallen Claims",
-      "summary": "Former Astronomer CEO, Andy Byron, has resigned from the tech company but his legacy continues. He would have been safe in God's Country, according to Morgan Wallen.",
-      "source": "Vanity Fair",
-      "category": "startups",
-      "timestamp": "2025-07-20T17:08:38Z",
-      "url": "https://www.vanityfair.com/style/story/astronomer-ceo-resigns-coldplay-kiss-cam"
-    },
-    {
-      "id": 55,
-      "title": "swe-ai-agent 1.0.52",
-      "summary": "The swe-ai-agent 1.0.52 is an Headless Agentic IDE with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T17:08:34Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.52/"
-    },
-    {
-      "id": 56,
-      "title": "Why Cartken pivoted its focus from last-mile delivery to industrial robots | TechCrunch",
-      "summary": "Cartken pivoted its focus from last-mile delivery to industrial robots due to increased demand from industrial customers.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-20T17:01:33Z",
-      "url": "https://techcrunch.com/2025/07/20/why-cartken-pivoted-its-focus-from-last-mile-delivery-to-industrial-robots/"
     }
   ]
 }
