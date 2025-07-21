@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-21T14:18:26.769Z",
+  "lastUpdate": "2025-07-21T14:48:05.138Z",
   "items": [
+    {
+      "id": 51,
+      "title": "chunkhound 2.8.1",
+      "summary": "Chunkhound 2.8.1 is a local-first semantic code search tool with vector and regex capabilities that can be used by AI assistants through the MCP platform.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:47:20Z",
+      "url": "https://pypi.org/project/chunkhound/2.8.1/"
+    },
+    {
+      "id": 52,
+      "title": "New Era for Ripple's XRP: PFMCrypto Launches Zero-Hardware XRP Cloud Mining with Daily Payouts",
+      "summary": "New Era for Ripple's XRP: PFMCrypto Launches Zero-Hardware XRP Cloud Mining with Daily Payouts - AI-Powered XRP Mining Contracts Deliver Seamless Access to Daily Crypto Earnings—No Equipment, No Experience Needed.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T14:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118339/0/en/New-Era-for-Ripple-s-XRP-PFMCrypto-Launches-Zero-Hardware-XRP-Cloud-Mining-with-Daily-Payouts.html"
+    },
+    {
+      "id": 53,
+      "title": "skypilot-nightly 1.0.0.dev20250720",
+      "summary": "skypilot-nightly 1.0.0.dev20250720 is a new tool that allows AI to be run on any infrastructure in a unified, faster, and more cost-effective manner.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:44:02Z",
+      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250720/"
+    },
+    {
+      "id": 54,
+      "title": "Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels",
+      "summary": "Trump administration and energy industry pushing to power AI with fossil fuels, despite better renewable options available for tech companies.",
+      "source": "Werd.io",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:43:38Z",
+      "url": "https://werd.io/trump-and-the-energy-industry-are-eager-to-power-ai-with-fossil-fuels/"
+    },
+    {
+      "id": 55,
+      "title": "AICodingHorrors – The price of AI-assisted coding",
+      "summary": "AI Coding Horrors showcases real-world disasters caused by AI-assisted coding tools, highlighting ethical concerns such as sky-high bills, leaked secrets, and broken apps.",
+      "source": "Aicodinghorrors.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:43:37Z",
+      "url": "https://aicodinghorrors.com/"
+    },
+    {
+      "id": 56,
+      "title": "On the Precipice: Humanity’s Dystopian Crossroads",
+      "summary": "On the Precipice: Humanity’s Dystopian Crossroads discusses the potential future where medical breakthroughs have conquered diseases and the possibilities that lie ahead for humanity.",
+      "source": "Globalresearch.ca",
+      "category": "innovation",
+      "timestamp": "2025-07-20T14:43:25Z",
+      "url": "https://www.globalresearch.ca/precipice-humanity-dystopian-crossroads/5895486"
+    },
+    {
+      "id": 57,
+      "title": "In recent layoffs, AI's role may be bigger than companies are letting on",
+      "summary": "Companies may be downplaying the role of AI in recent layoffs, using terms like reorganization to obscure the impact of AI-driven job cuts.",
+      "source": "CNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:41:04Z",
+      "url": "https://www.cnbc.com/2025/07/20/in-job-losses-ais-role-may-be-bigger-than-companies-say.html"
+    },
+    {
+      "id": 58,
+      "title": "Trump, Xi tipped to meet ahead of or during APEC summit in South Korea, SCMP reports",
+      "summary": "Trump and Xi are expected to meet before or during the APEC summit in South Korea, with the possibility of a visit to China before the event.",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-20T14:40:00Z",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/07/20/trump-xi-tipped-to-meet-ahead-of-or-during-apec-summit-in-south-korea-scmp-reports"
+    },
+    {
+      "id": 59,
+      "title": "genstack added to PyPI",
+      "summary": "genstack added to PyPI - Universal AI SDK from Genstack",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T14:39:33Z",
+      "url": "https://pypi.org/project/genstack/"
+    },
+    {
+      "id": 60,
+      "title": "The AI boom is more overhyped than the 1990s dot-com bubble, says top economist",
+      "summary": "Top economist claims the AI boom is more overhyped than the 1990s dot-com bubble, suggesting that the stock market currently overvalues certain tech giants, including Nvidia and Microsoft.",
+      "source": "TechSpot",
+      "category": "economy",
+      "timestamp": "2025-07-20T14:35:00Z",
+      "url": "https://www.techspot.com/news/108730-ai-boom-more-overhyped-than-1990s-dot-com.html"
+    },
+    {
+      "id": 61,
+      "title": "UP govt to use AI, social media monitoring, implement strict security for RO/ARO exam",
+      "summary": "UP govt to use AI, social media monitoring, and strict security measures for RO/ARO exam to ensure fairness and confidentiality.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:34:50Z",
+      "url": "https://economictimes.indiatimes.com/news/india/up-govt-to-use-ai-social-media-monitoring-implement-strict-security-for-ro/aro-exam/articleshow/122798520.cms"
+    },
+    {
+      "id": 62,
+      "title": "Morgan Wallen tells fans they’re ‘safe’ with their ‘side chick’ at his show following Andy Byron scandal",
+      "summary": "Country music star Morgan Wallen makes controversial statement during concert, reassuring fans they are 'safe' with their 'side chick' after scandal involving Andy Byron.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:33:45Z",
+      "url": "https://pagesix.com/2025/07/20/celebrity-news/morgan-wallen-tells-fans-theyre-safe-with-their-side-chick-at-his-show-following-andy-byron-kiss-cam-scandal/"
+    },
+    {
+      "id": 63,
+      "title": "The Rise Of 'Superfakes': Why Ultra-Realistic Designer Knockoffs Are Disrupting The Luxury Industry",
+      "summary": "The Rise Of 'Superfakes': Ultra-realistic designer knockoffs are disrupting the luxury industry, raising ethical concerns about the authenticity of products and the impact on the original brands.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:30:41Z",
+      "url": "https://finance.yahoo.com/news/rise-superfakes-why-ultra-realistic-143041178.html"
+    },
+    {
+      "id": 64,
+      "title": "$48,000,000,000 Wealth Management Firm Sees S&P 500 Heading to Massive Price Target Triggered by AI Adoption, Disinflation and More",
+      "summary": "$48 billion wealth management firm predicts S&P 500 will reach new highs by the end of the year, citing AI adoption and other factors.",
+      "source": "The Daily Hodl",
+      "category": "economy",
+      "timestamp": "2025-07-20T14:30:22Z",
+      "url": "https://dailyhodl.com/2025/07/20/48000000000-wealth-management-firm-sees-sp-500-heading-to-massive-price-target-triggered-by-ai-adoption-disinflation-and-more/"
+    },
+    {
+      "id": 65,
+      "title": "Xbox's Next-Gen Console Is Perfect For A Remake Of The Most Underrated Elder Scrolls Game",
+      "summary": "With Xbox focusing on AI in their next-gen console, a perfect opportunity arises to remake a lesser-known Elder Scrolls game using this technology.",
+      "source": "Screen Rant",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:30:19Z",
+      "url": "https://screenrant.com/elder-scrolls-daggerfall-remake-xbox-next-gen-console/"
+    },
     {
       "id": 51,
       "title": "Monday Morning Update 7/21/25",
@@ -315,141 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-20T13:22:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/20/3118325/0/en/Topnotch-Crypto-launches-innovative-cloud-mining-app-to-help-users-easily-increase-the-value-of-digital-assets.html"
-    },
-    {
-      "id": 53,
-      "title": "Chinese Groups Launder $580M in India Using Fake Apps and Mule Accounts",
-      "summary": "Chinese cyber syndicates are laundering over $600 million annually in India through fake apps and mule accounts, according to a report by CloudSEK.",
-      "source": "HackRead",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:13:49Z",
-      "url": "https://hackread.com/chinese-groups-launder-india-fake-apps-mule-accounts/"
-    },
-    {
-      "id": 54,
-      "title": "Sam Altman steps into political power vacuum after Musk breaks with Trump",
-      "summary": "Sam Altman steps into political power vacuum after Musk breaks with Trump, meeting with him at Trump's golf course.",
-      "source": "TechSpot",
-      "category": "startups",
-      "timestamp": "2025-07-20T13:13:00Z",
-      "url": "https://www.techspot.com/news/108731-sam-altman-steps-political-power-vacuum-after-musk.html"
-    },
-    {
-      "id": 55,
-      "title": "Ore Oduba says he is ‘ashamed and embarrassed’ after falling for elaborate hoax",
-      "summary": "Ore Oduba expresses shame and embarrassment after falling for elaborate hoax, admitting he was easily hooked at 39 years old.",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:12:47Z",
-      "url": "https://www.the-independent.com/life-style/ore-oduba-mel-robbins-scam-let-them-theory-b2792430.html"
-    },
-    {
-      "id": 56,
-      "title": "10 Things Startups Get Wrong Selling to Developers and Engineers (from the CRO Who Scaled Databricks from",
-      "summary": "Lessons from Ron Gabrisco, CRO at Databricks, on the mistakes startups make when selling to developers and engineers, highlighting the unique nature of this type of buyer.",
-      "source": "Saastr.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T13:12:29Z",
-      "url": "https://www.saastr.com/10-things-startups-get-wrong-selling-to-developers-and-engineers-from-the-cro-who-scaled-databricks-from/"
-    },
-    {
-      "id": 57,
-      "title": "Chris Martin courts scandal again at first show since Astronomer kiss-cam controversy — but issues a cheeky warning",
-      "summary": "Chris Martin courted scandal again at his first show since the Astronomer kiss-cam controversy, just days after a millionaire CEO and his HR executive sparked controversy by dodging the cam caught canoodling at a Coldplay show.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:11:39Z",
-      "url": "https://nypost.com/2025/07/20/us-news/chris-martin-courts-scandal-again-at-first-show-since-astronomer-kiss-cam-controversy-but-issues-a-cheeky-warning/"
-    },
-    {
-      "id": 58,
-      "title": "israeli-law-amender 1.0.1",
-      "summary": "Israeli-law-amender 1.0.1 is a Python package that uses AI for processing and amending Israeli laws.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T13:09:05Z",
-      "url": "https://pypi.org/project/israeli-law-amender/1.0.1/"
-    },
-    {
-      "id": 59,
-      "title": "Chris Martin playfully issues warning to crowd before kiss cam days after Astronomer CEO ‘affair’ outing",
-      "summary": "Chris Martin unintentionally captures CEO allegedly cheating on his wife with HR chief during kiss cam prank.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:04:23Z",
-      "url": "https://pagesix.com/2025/07/20/celebrity-news/chris-martin-playfully-issues-warning-to-crowd-before-kiss-cam-days-after-astronomer-ceo-scandal/"
-    },
-    {
-      "id": 60,
-      "title": "\"No easy year\": What Kroos didn’t want to hear after leaving Real",
-      "summary": "Real Madrid finished the season without Toni Kroos, who expressed disappointment at the team's lack of titles. In an interview with 'El Pais,' Kroos looked back on the season and revealed his feelings about the outcome.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:03:00Z",
-      "url": "https://onefootball.com/en/news/no-easy-year-what-kroos-didnt-want-to-hear-after-leaving-real-41400193"
-    },
-    {
-      "id": 61,
-      "title": "workspacex 0.1.26",
-      "summary": "workspacex 0.1.26 is a Python library for managing AI-Generated Content artifacts, providing a collaborative workspace environment with features like version control and artifact management.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:02:51Z",
-      "url": "https://pypi.org/project/workspacex/0.1.26/"
-    },
-    {
-      "id": 62,
-      "title": "Think smartphone cameras have peaked? Here’s what’s still to come",
-      "summary": "Smartphone cameras continue to improve with advancements such as smarter sensors, AI-powered zoom, and next-gen HDR, ensuring that the best is yet to come.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:00:54Z",
-      "url": "https://www.androidauthority.com/smartphone-camera-tech-2026-3578479/"
-    },
-    {
-      "id": 63,
-      "title": "High yields, hidden hazards? The truth about staking in crypto",
-      "summary": "Staking in crypto has become popular for its easy rewards, with over 35 million ETH staked on Ethereum. Despite its promise of high yields, there are hidden hazards that users should be aware of.",
-      "source": "CryptoSlate",
-      "category": "applications",
-      "timestamp": "2025-07-20T13:00:51Z",
-      "url": "https://cryptoslate.com/high-yields-hidden-hazards-the-truth-about-staking-in-crypto/"
-    },
-    {
-      "id": 64,
-      "title": "OpenAI's New AI Agent Takes One Hour to Order Food and Recommends Visiting a Baseball Stadium in the Middle of the Ocean",
-      "summary": "OpenAI's new AI agent, ChatGPT Agent, takes one hour to order food and recommends visiting a baseball stadium in the middle of the ocean. The tool utilizes its own 'virtual computer' to perform tasks.",
-      "source": "Futurism",
-      "category": "applications",
-      "timestamp": "2025-07-20T13:00:09Z",
-      "url": "https://futurism.com/openai-new-ai-agent-food-stadium"
-    },
-    {
-      "id": 65,
-      "title": "A look at the Dor Brothers, a video production studio that has gained over 100M views across platforms by creating viral subversive videos using only AI tools (Stuart A. Thompson/New York Times)",
-      "summary": "The Dor Brothers, a video production studio, have achieved over 100M views by creating viral subversive videos using only AI tools.",
-      "source": "Mediagazer.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T13:00:05Z",
-      "url": "https://mediagazer.com/250720/p2"
-    },
-    {
-      "id": 66,
-      "title": "It’s Never ‘Happened in the History of Tech to Any Company Before’: OpenAI’s Sam Altman Says ChatGPT is Growing at an Unprecedented Rate",
-      "summary": "OpenAI's Sam Altman discusses the rapid growth of ChatGPT and the infrastructure challenges it presents, highlighting unprecedented adoption of AI technology.",
-      "source": "Barchart.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:00:02Z",
-      "url": "https://www.barchart.com/story/news/33520272/its-never-happened-in-the-history-of-tech-to-any-company-before-openais-sam-altman-says-chatgpt-is-growing-at-an-unprecedented-rate"
-    },
-    {
-      "id": 67,
-      "title": "Trump and the energy industry are eager to power AI with fossil fuels",
-      "summary": "Trump administration and energy industry seek to fuel AI with fossil fuels at Pittsburgh summit.",
-      "source": "Grist",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:00:00Z",
-      "url": "http://grist.org/energy/trump-and-the-energy-industry-are-eager-to-power-ai-with-fossil-fuels/"
     }
   ]
 }
