@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-21T20:55:52.190Z",
+  "lastUpdate": "2025-07-21T21:40:42.672Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Chris Martin warns Coldplay audience at first concert after ‘kiss cam’ scandal",
+      "summary": "Chris Martin warns Coldplay audience at first concert after ‘kiss cam’ scandal - Astronomer’s CEO Andy Bryon resigned after viral moment at band’s show",
+      "source": "The-independent.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T21:32:31Z",
+      "url": "https://www.the-independent.com/life-style/chris-martin-coldplay-andy-byron-kiss-cam-b2792561.html"
+    },
+    {
+      "id": 52,
+      "title": "Block Joins S&P 500 as Crypto’s Mainstreaming Marches On",
+      "summary": "Block, owner of Square and Cash App, is preparing to join the S&P 500, marking a milestone for the company and showcasing the growing mainstreaming of digital payments.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T21:32:24Z",
+      "url": "http://www.pymnts.com/news/fintech-investments/2025/block-joins-sp-500-as-cryptos-mainstreaming-marches-on/"
+    },
+    {
+      "id": 53,
+      "title": "AI-Oriented Investments",
+      "summary": "Investor is focusing on AI-oriented investments, with larger positions in companies such as MU due to AI's memory requirements.",
+      "source": "Lesswrong.com",
+      "category": "investments",
+      "timestamp": "2025-07-20T21:31:11Z",
+      "url": "https://www.lesswrong.com/posts/prtWnwhGx44CgJoWw/ai-oriented-investments"
+    },
+    {
+      "id": 54,
+      "title": "Fundamental lethality shift for British Army spearheaded by novel targeting tech 'ASGARD'",
+      "summary": "Fundamental lethality shift for British Army spearheaded by novel targeting tech 'ASGARD' - British Army showcase new technology that improves the accuracy of targeting enemies and reduces decision-making time for strikes.",
+      "source": "Www.gov.uk",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:31:06Z",
+      "url": "https://www.gov.uk/government/news/fundamental-lethality-shift-for-british-army-spearheaded-by-novel-targeting-tech-asgard"
+    },
+    {
+      "id": 55,
+      "title": "【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開 - Qiita",
+      "summary": "A developer has shared 24 types of documents and functional requirements they prepared when developing a personal project, including project requirements, technical design documents, and more. The documents cover various aspects of the project development process and may be helpful for individuals working on their own projects.",
+      "source": "Qiita.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:30:16Z",
+      "url": "https://qiita.com/tomada/items/e27292b65f723c4633d9"
+    },
+    {
+      "id": 56,
+      "title": "Crash Site - Starring Steven Yeun and Sam Richardson",
+      "summary": "Crash Site is a short film starring Steven Yeun and Sam Richardson that explores the idea of finding something extraterrestrial while on a hiking trip and trying to learn more about it. It delves into the application of AI in the context of discovering unknown objects.",
+      "source": "Kuriositas.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:24:00Z",
+      "url": "https://www.kuriositas.com/2025/07/crash-site-starring-steven-yeun-and-sam.html"
+    },
+    {
+      "id": 57,
+      "title": "Nightmare polls for Ley’s Coalition as Parliament finally returns",
+      "summary": "New polling shows a decline in public support for Ley's Coalition, following their poor performance in the May election. The Jeffrey Epstein story also continues to cause issues for Donald Trump.",
+      "source": "Crikey",
+      "category": "economy",
+      "timestamp": "2025-07-20T21:19:38Z",
+      "url": "http://www.crikey.com.au/2025/07/21/nightmare-polls-coalition-parliament-donald-trump-jeffrey-epstein/"
+    },
+    {
+      "id": 58,
+      "title": "Perplexity CEO Gives A Key Lesson On Leadership, Competition, And Fear",
+      "summary": "Perplexity CEO Aravind Srinivas shares the benefits of healthy paranoia in leadership, highlighting how it can give leaders a competitive edge in fast-moving environments.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-20T21:15:05Z",
+      "url": "https://www.forbes.com/sites/julianhayesii/2025/07/20/perplexity-ceo-gives-a-key-lesson-on-leadership-competition-and-fear/"
+    },
+    {
+      "id": 59,
+      "title": "On The Shoulders Of Substrates—how one phenomenon lays the foundation for the next",
+      "summary": "On The Shoulders Of Substrates—how one phenomenon lays the foundation for the next - Published on July 20, 2025 9:11 PM GMT If you’ll cast your mind back to Emergence Vs Entropy, we found, in order to overcome entropy, an emergent system, like our planet, benefits from a consistent stream of energy from the sun — creating a substrate for lif…",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-20T21:11:40Z",
+      "url": "https://www.lesswrong.com/posts/whY43WwdPhwQswKAY/on-the-shoulders-of-substrates-how-one-phenomenon-lays-the"
+    },
+    {
+      "id": 60,
+      "title": "How CIS Credentials Can Launch Your AI Development Career",
+      "summary": "CIS graduates have a strong foundation to build successful careers in artificial intelligence.",
+      "source": "Smartdatacollective.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:11:37Z",
+      "url": "https://www.smartdatacollective.com/how-cis-credentials-can-launch-your-ai-development-career/"
+    },
+    {
+      "id": 61,
+      "title": "freegpt 1.30.3",
+      "summary": "freegpt 1.30.3 is a new library that allows users to interact with multiple AI APIs, enhancing capabilities for developers and researchers in the field of artificial intelligence.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:10:28Z",
+      "url": "https://pypi.org/project/freegpt/1.30.3/"
+    },
+    {
+      "id": 62,
+      "title": "Apple CEO Tim Cook’s dream for the future of the iPhone is very unlikely to come to fruition",
+      "summary": "Apple CEO Tim Cook's ambition to release smart AR glasses before Meta is unlikely to happen.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:03:07Z",
+      "url": "https://www.phonearena.com/news/apple-ceo-tim-cooks-dream-for-future-of-iphone-unlikely_id172439"
+    },
+    {
+      "id": 63,
+      "title": "Your Photography Skills Are Already Obsolete (You Just Don't Know It Yet)",
+      "summary": "The photographer who believes their education ended with their last workshop or tutorial is already obsolete. In an industry where technological shifts can render entire skill sets worthless within months and where client expectations are constantly evolving, staying current is crucial.",
+      "source": "Fstoppers",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:03:01Z",
+      "url": "https://fstoppers.com/education/your-photography-skills-are-already-obsolete-just-dont-know-it-yet-706788"
+    },
+    {
+      "id": 64,
+      "title": "Blackstone Backs Off From TikTok Ownership Plans",
+      "summary": "Private equity group Blackstone has withdrawn from plans to invest in TikTok US, according to a report by Reuters. This change is happening amid mounting scrutiny over TikTok's ownership.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T21:02:38Z",
+      "url": "http://www.pymnts.com/news/social-commerce/2025/blackstone-backs-off-from-tiktok-ownership-plans/"
+    },
+    {
+      "id": 65,
+      "title": "largefile 0.1.1",
+      "summary": "largefile 0.1.1 is an MCP server designed to help AI assistants manage large files that exceed context limits.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:02:01Z",
+      "url": "https://pypi.org/project/largefile/0.1.1/"
+    },
+    {
+      "id": 66,
+      "title": "Show HN: Sifaka – Simple AI text improvement through research-backed critique",
+      "summary": "Sifaka is an open-source framework that adds reflection and reliability to large language model (LLM) applications, allowing for simple AI text improvement through research-backed critique.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:01:55Z",
+      "url": "https://github.com/sifaka-ai/sifaka"
+    },
+    {
+      "id": 67,
+      "title": "MOTOGP: Marc Marquez set new record with dominant victory in Brno, Acosta secures first podium ...",
+      "summary": "Six-time MotoGP champion Marc Marquez sets a new record with a dominant victory in Brno, with Marco Bezzecchi and Pedro Acosta also securing podium spots. F1Technical's senior writer Balazs Szabo covers the Brno round.",
+      "source": "F1technical.net",
+      "category": "applications",
+      "timestamp": "2025-07-20T20:57:52Z",
+      "url": "https://www.f1technical.net/news/27396"
+    },
     {
       "id": 51,
       "title": "Texas Governor Says He'll Introduce Flood Items at Special Session",
@@ -297,159 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-20T20:16:00Z",
       "url": "https://www.itnews.com.au/news/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules-618905?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+"
-    },
-    {
-      "id": 54,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks are given guidance on complying with EU AI rules, which will be mandatory starting August 2.",
-      "source": "iTnews",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:16:00Z",
-      "url": "https://www.itnews.com.au/news/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules-618905?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed"
-    },
-    {
-      "id": 55,
-      "title": "AI 171 crash: Aviation minister rebuts foreign media claims",
-      "summary": "Union Aviation Minister defends AAIB's investigation of AI 171 crash and criticizes western media for speculation.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:11:26Z",
-      "url": "https://timesofindia.indiatimes.com/india/ai-171-crash-aviation-minister-rebuts-foreign-media-claims/articleshow/122801554.cms"
-    },
-    {
-      "id": 56,
-      "title": "AI Will Replace Recruiters and Assistants in Six Months, Says CEO Behind ChatGPT Rival",
-      "summary": "Perplexity's CEO predicts that AI will replace recruiters and assistants within six months, automating entire white-collar roles and condensing a week's worth of work into a single prompt.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:10:44Z",
-      "url": "https://gizmodo.com/ai-will-replace-recruiters-and-assistants-in-six-months-says-ceo-behind-chatgpt-rival-2000631871"
-    },
-    {
-      "id": 57,
-      "title": "Engineers turn to quantum tech to replace GPS in flight navigation",
-      "summary": "Engineers are using quantum technology to replace GPS in flight navigation, with Airbus partnering with SandboxAQ to field-test the MagNav system, which focuses on quantum-sensing devices.",
-      "source": "TechSpot",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:07:00Z",
-      "url": "https://www.techspot.com/news/108735-engineers-turn-quantum-tech-replace-gps-flight-navigation.html"
-    },
-    {
-      "id": 58,
-      "title": "XRP and ETH surge, and a large number of cryptocurrency enthusiasts join RDG Mining's newly launched one-day cloud mining contract to share the $1.5 million prize in a single day",
-      "summary": "XRP and ETH surge, with cryptocurrency enthusiasts joining RDG Mining's one-day cloud mining contract to share a $1.5 million prize in a single day. Users of major exchanges have seen daily growth and stable returns from XRP-activated cloud mining on RDG Mining.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118386/0/en/XRP-and-ETH-surge-and-a-large-number-of-cryptocurrency-enthusiasts-join-RDG-Mining-s-newly-launched-one-day-cloud-mining-contract-to-share-the-1-5-million-prize-in-a-single-day.html"
-    },
-    {
-      "id": 59,
-      "title": "Alan Patrick leads Internacional to victory over Ceará",
-      "summary": "Alan Patrick leads Internacional to victory over Ceará in a Brazilian Championship match, showcasing his skills as a midfielder.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:04:00Z",
-      "url": "https://onefootball.com/en/news/alan-patrick-leads-internacional-to-victory-over-ceara-41400907"
-    },
-    {
-      "id": 60,
-      "title": "10 Pros And Cons Of Using AI For Your Job Application",
-      "summary": "Discover the pros and cons of using AI for job applications, and find out about the top tools available for incorporating artificial intelligence into your job search.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:02:22Z",
-      "url": "https://www.forbes.com/sites/carolinecastrillon/2025/07/20/ai-job-application-pros-cons/"
-    },
-    {
-      "id": 61,
-      "title": "Remember These? 10 Devices Your Smartphone Replaced Forever",
-      "summary": "Smartphones have replaced various devices, signaling a shift towards more advanced technology in everyday life.",
-      "source": "MakeUseOf",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:00:17Z",
-      "url": "https://www.makeuseof.com/old-devices-your-smartphone-replaced/"
-    },
-    {
-      "id": 62,
-      "title": "Branding Cat – Track brand mentions and respond faster with AI-powered social listening",
-      "summary": "Branding Cat offers an AI-powered social listening tool to track brand mentions and respond faster, helping businesses improve their online presence and customer engagement.",
-      "source": "Betalist.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:00:00Z",
-      "url": "https://betalist.com/startups/branding-cat"
-    },
-    {
-      "id": 63,
-      "title": "DV INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that DoubleVerify Holdings, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
-      "summary": "Bronstein, Gewirtz & Grossman LLC announces a class action lawsuit filed against DoubleVerify Holdings, Inc. for investors with substantial losses.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T20:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118384/9788/en/DV-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-DoubleVerify-Holdings-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html"
-    },
-    {
-      "id": 64,
-      "title": "Early Signups, Bigger Profits: Cloud Mining Platform, AIXA Miner Expands Its Contracts",
-      "summary": "Cloud mining platform AIXA Miner expands contracts as cryptocurrency prices rise, attracting new users and potentially increasing profits.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118382/0/en/Early-Signups-Bigger-Profits-Cloud-Mining-Platform-AIXA-Miner-Expands-Its-Contracts.html"
-    },
-    {
-      "id": 65,
-      "title": "Musk Hints at Kid-Friendly Version of AI Chatbot Grok",
-      "summary": "Elon Musk hints at creating a kid-friendly version of his AI chatbot, Grok, called Baby Grok, focused on delivering content suitable for children.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T19:55:32Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/musk-hints-at-kid-friendly-version-of-ai-chatbot-grok/"
-    },
-    {
-      "id": 66,
-      "title": "A Prez Question: Can AI do it? Can you? Can I?",
-      "summary": "A question is posed regarding whether AI or humans can successfully identify the nominees for Prez and VP since 1976. This raises the topic of the capabilities and limitations of AI when it comes to historical data analysis.",
-      "source": "Computationalcomplexity.org",
-      "category": "research",
-      "timestamp": "2025-07-20T19:53:00Z",
-      "url": "https://blog.computationalcomplexity.org/2025/07/a-prez-question-can-ai-do-it-can-you.html"
-    },
-    {
-      "id": 67,
-      "title": "Town sick of unreliable BOM forecasts installs own weather station",
-      "summary": "Town installs own weather station to improve accuracy of forecasts",
-      "source": "ABC News (AU)",
-      "category": "innovation",
-      "timestamp": "2025-07-20T19:51:51Z",
-      "url": "https://www.abc.net.au/news/2025-07-21/mansfield-installs-local-weather-station/105534874"
-    },
-    {
-      "id": 68,
-      "title": "Sofia Richie Grainge and Elliot Grainge Reenact Coldplay Kiss Cam Drama",
-      "summary": "Sofia Richie Grainge and Elliot Grainge reenact Coldplay kiss cam drama at a concert, poking fun at the viral scandal with a TikTok video.",
-      "source": "Us Weekly",
-      "category": "applications",
-      "timestamp": "2025-07-20T19:48:48Z",
-      "url": "https://www.usmagazine.com/celebrity-news/news/sofia-richie-and-elliot-grainge-reenact-coldplay-kiss-cam-moment/#article"
-    },
-    {
-      "id": 51,
-      "title": "The Latest 20VC + SaaStr: Windsurf’s Resurrection, The Orchestration Tax, and What 80 Hours of Vibe Coding Reveals About the AI Coding Wars",
-      "summary": "A deep dive into the most complex AI acquisition saga of 2025, featuring deceleration, empty husks, and the deal of the year, highlighting why founders are choosing safety over upside.",
-      "source": "Saastr.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T19:48:11Z",
-      "url": "https://www.saastr.com/the-latest-20vc-saastr-windsurfs-resurrection-the-orchestration-tax-and-what-80-hours-of-vibe-coding-reveals-about-the-ai-coding-wars/"
-    },
-    {
-      "id": 52,
-      "title": "Don’t Just Hold, PFMCrypto Debuts First-Ever XRP Cloud Mining Platform with AI-Enhanced Daily Payouts",
-      "summary": "PFMCrypto has introduced the first-ever XRP cloud mining platform with AI-enhanced daily payouts, allowing users to mine Ripple's XRP without the need for hardware. The platform offers smart and accessible contracts across web and mobile devices.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T19:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118381/0/en/Don-t-Just-Hold-PFMCrypto-Debuts-First-Ever-XRP-Cloud-Mining-Platform-with-AI-Enhanced-Daily-Payouts.html"
     }
   ]
 }
