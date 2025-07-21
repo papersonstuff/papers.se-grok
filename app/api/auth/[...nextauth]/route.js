@@ -1,15 +1,15 @@
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-dynamic'; // Ensures runtime execution
 export const revalidate = false;
 
-import NextAuth from 'next-auth';
-import EmailProvider from 'next-auth/providers/email';
-import { SupabaseAdapter } from '@auth/supabase-adapter';
+import { NextAuth } from "next-auth";
+import { SupabaseAdapter } from "@auth/supabase-adapter";
+import EmailProvider from "next-auth/providers/email";
 
-export const authOptions = {
+export const { handlers, auth, signIn, signOut } = NextAuth({
   adapter: SupabaseAdapter({
     supabaseUrl: process.env.SUPABASE_URL,
     supabaseKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
-    schema: 'next_auth',  // Explicitly set to use the new schema
+    schema: 'next_auth',
   }),
   providers: [
     EmailProvider({
@@ -35,9 +35,7 @@ export const authOptions = {
       return session;
     },
   },
-  debug: true,  // Enables detailed logs in Vercel - check for errors
-};
+  debug: true,
+});
 
-const handler = NextAuth(authOptions);
-
-export { handler as GET, handler as POST };
+export const { GET, POST } = handlers;
