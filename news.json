@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-21T13:26:11.347Z",
+  "lastUpdate": "2025-07-21T13:55:29.467Z",
   "items": [
+    {
+      "id": 51,
+      "title": "gut-ai added to PyPI",
+      "summary": "Gut-ai, an AI library for gut microbiome analysis, has been added to PyPI, making it easier for researchers to access and use in their studies.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T13:53:45Z",
+      "url": "https://pypi.org/project/gut-ai/"
+    },
+    {
+      "id": 52,
+      "title": "You Fucking Moron: How to Collaborate with AI Without Losing the Plot",
+      "summary": "Successful AI collaboration is about harsh constraint to prevent AI from overstepping. Building the backend of Ooloi with Claude has taught the importance of maintaining control in AI collaboration.",
+      "source": "Ooloi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T13:53:18Z",
+      "url": "https://www.ooloi.org/home/you-fucking-moron-how-to-collaborate-with-ai-without-losing-the-plot"
+    },
+    {
+      "id": 53,
+      "title": "Tata Communications renews private 5G push",
+      "summary": "Tata Communications is renewing its push for private 5G, with CEO Amur Lakshminarayanan stating that any decision on spectrum purchase will depend on pricing and conditions set by the government.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:52:21Z",
+      "url": "https://www.livemint.com/companies/tata-communications-private-5g-push-spectrum-allotment-global-uncertainty-trump-tariffs-amur-lakshminarayanan-telecom-11753001972457.html"
+    },
+    {
+      "id": 54,
+      "title": "LGI Homes (NASDAQ:LGIH) sheds US$96m, company earnings and investor returns have been trending downwards for past five years",
+      "summary": "LGI Homes has lost US$96m, with decreasing company earnings and investor returns over the past five years, highlighting the risks of long-term investing in companies that do not succeed.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:51:53Z",
+      "url": "https://finance.yahoo.com/news/lgi-homes-nasdaq-lgih-sheds-135153017.html"
+    },
+    {
+      "id": 55,
+      "title": "Why I love flip phones and how buying a Galaxy Z Flip 7 will change your life",
+      "summary": "I was excited for what the future would bring when Samsung unveiled its first Galaxy Fold back in 2019 but I wasn't completely sold on the form factor. I enjoyed playing around with it but I didn't feel it would serve me well as a daily driver.",
+      "source": "SamMobile",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:50:09Z",
+      "url": "https://www.sammobile.com/news/got-one-of-these-iphones-theyll-get-you-a-cheaper-galaxy-z-flip-7/"
+    },
+    {
+      "id": 56,
+      "title": "AMD's quiet move may shock gaming GPU market",
+      "summary": "AMD's move in the gaming GPU market may surprise consumers after years of high prices due to crypto and the emergence of AI technologies.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:48:26Z",
+      "url": "https://biztoc.com/x/9a81a41e1752058a"
+    },
+    {
+      "id": 57,
+      "title": "UK health service AI tool generated a set of false diagnoses for one patient that led to him being wrongly invited to a diabetes screening appointment",
+      "summary": "UK health service AI tool generated false diagnoses for a patient, leading to a mistaken invitation for a diabetes screening appointment due to fabricated medical details.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T13:48:13Z",
+      "url": "https://biztoc.com/x/27c8c9d2ba501190"
+    },
+    {
+      "id": 58,
+      "title": " Mbangula to Bundesliga, Insigne-Lazio, Theo’s replacement: today ",
+      "summary": "Serie A clubs are actively participating in the transfer market to strengthen their squads for the upcoming season.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:46:00Z",
+      "url": "https://onefootball.com/en/news/mbangula-to-bundesliga-insigne-lazio-theos-replacement-today-41400352"
+    },
+    {
+      "id": 59,
+      "title": "Debunking the “wealth shock” illusion: A strategic rebuttal of five myths undermining China’s true economic fragility.",
+      "summary": "Debunking the 'wealth shock' illusion: A strategic rebuttal of five myths undermining China’s true economic fragility. This is a Gateway Hispanic article.",
+      "source": "Gatewayhispanic.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:45:00Z",
+      "url": "https://gatewayhispanic.com/2025/07/debunking-wealth-shock-illusion-strategic-rebuttal-five-myths/"
+    },
+    {
+      "id": 60,
+      "title": "Solid-State Batteries Still Face Hurdles But The Prize Is Huge For EVs",
+      "summary": "Solid-state batteries could revolutionize the electric vehicle industry by reducing prices, weight, and potentially doubling range. However, experts are divided on the potential hurdles the technology may face.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:43:05Z",
+      "url": "https://www.forbes.com/sites/neilwinton/2025/07/20/solid-state-batteries-still-face-hurdles-but-the-prize-is-huge-for-evs/"
+    },
+    {
+      "id": 61,
+      "title": "UK health service AI tool generated a set of false diagnoses for one patient that led to him being wrongly invited to a diabetes screening appointment",
+      "summary": "UK health service AI tool generates false diagnoses leading to patient being wrongly invited to diabetes screening appointment, raising concerns about regulation and usage of AI in healthcare.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-20T13:41:56Z",
+      "url": "https://fortune.com/2025/07/20/uk-health-service-ai-tool-false-diagnoses-patient-screening-nhs-anima-health-annie/"
+    },
+    {
+      "id": 62,
+      "title": "flow-gpu added to PyPI",
+      "summary": "flow-gpu added to PyPI - Simplified SDK for Foundry Compute Platform - GPU compute made simple",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:41:46Z",
+      "url": "https://pypi.org/project/flow-gpu/"
+    },
+    {
+      "id": 63,
+      "title": "flow-compute added to PyPI",
+      "summary": "flow-compute added to PyPI, simplifying SDK for Foundry Compute Platform and making GPU compute simple",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:40:55Z",
+      "url": "https://pypi.org/project/flow-compute/"
+    },
+    {
+      "id": 64,
+      "title": "Hassidic group bans use of AI",
+      "summary": "A Hassidic group has banned the use of AI for teens, as per guidelines from the Hasidic Committee for Media Guidance and Advice.",
+      "source": "Israelnationalnews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T13:40:48Z",
+      "url": "https://www.israelnationalnews.com/news/411962"
+    },
+    {
+      "id": 65,
+      "title": "Musk announces plans to create kid-friendly AI app",
+      "summary": "Musk plans to create a kid-friendly AI app as part of the Grok chatbot developed by his xAI project.",
+      "source": "RT",
+      "category": "applications",
+      "timestamp": "2025-07-20T13:38:29Z",
+      "url": "https://www.rt.com/news/621724-musk-kid-ai-baby-grok/"
+    },
+    {
+      "id": 66,
+      "title": "flow-acc added to PyPI",
+      "summary": "flow-acc added to PyPI - Simplified SDK for Foundry Compute Platform - GPU compute made simple",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:37:51Z",
+      "url": "https://pypi.org/project/flow-acc/"
+    },
+    {
+      "id": 67,
+      "title": "Nvidia Will Continue Controlling The AI Board",
+      "summary": "Nvidia will continue to dominate the AI board, according to an investment thesis. The author compares the role of Nvidia in the AI ecosystem to that of a queen in a chess match.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-20T13:37:20Z",
+      "url": "https://biztoc.com/x/14d9cd504c1a6fc0"
+    },
+    {
+      "id": 68,
+      "title": "Tech News (July 14–July 18): China Cuts US Debt, Fed Signals Rate Shift, Netflix And TSMC Lead Earnings Beat; Meta-AWS Push AI",
+      "summary": "China cuts US debt, Fed signals rate shift, Meta-AWS push AI, and blockbuster earnings reshape industry outlook.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:37:19Z",
+      "url": "https://biztoc.com/x/8881387e265e0886"
+    },
+    {
+      "id": 69,
+      "title": "mithril-ai added to PyPI",
+      "summary": "mithril-ai added a simplified SDK for Foundry Compute Platform to PyPI, making GPU compute simple.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T13:36:33Z",
+      "url": "https://pypi.org/project/mithril-ai/"
+    },
     {
       "id": 51,
       "title": "'Should I Replace The Car Before I Retire?' Soon-To-Retire Driver Debates Trading In 2016 Buick To Avoid Repairs On A Fixed Income",
@@ -279,177 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-20T12:05:33Z",
       "url": "https://www.forbes.com/sites/tarungalagali/2025/07/20/building-the-anti-fragile-startup/"
-    },
-    {
-      "id": 63,
-      "title": "Crowdsourced Art Scholarship, cURL, WordPress, More: Sunday ResearchBuzz, July 20, 2025",
-      "summary": "New online forum, Trois Crayons Museum Forum, launched to facilitate discussion and identification of premodern drawings in public collections.",
-      "source": "Researchbuzz.me",
-      "category": "research",
-      "timestamp": "2025-07-20T12:01:34Z",
-      "url": "https://researchbuzz.me/2025/07/20/crowdsourced-art-scholarship-curl-wordpress-more-sunday-researchbuzz-july-20-2025/"
-    },
-    {
-      "id": 64,
-      "title": "How did Lucy Guo dethrone Taylor Swift as the youngest self-made female billionaire? ‘Act broke, stay rich’",
-      "summary": "Tech entrepreneur and Passes founder Lucy Guo dethroned Taylor Swift as the youngest self-made female billionaire by following the motto 'act broke, stay rich'. She works hard, exercises regularly, and pursues her passion for music as an aspiring DJ.",
-      "source": "New York Post",
-      "category": "startups",
-      "timestamp": "2025-07-20T12:00:00Z",
-      "url": "https://nypost.com/2025/07/20/business/lucy-guos-advice-to-other-billionaires-act-broke-stay-rich/"
-    },
-    {
-      "id": 65,
-      "title": "I'm stunned by the amount of AI in video games",
-      "summary": "The increasing presence of AI in video games is surprising, but the applications are not always as expected.",
-      "source": "Creative Bloq",
-      "category": "applications",
-      "timestamp": "2025-07-20T12:00:00Z",
-      "url": "https://www.creativebloq.com/3d/video-game-design/im-stunned-by-the-number-of-games-already-using-ai"
-    },
-    {
-      "id": 66,
-      "title": "Our Graduates’ Successes: What the Data Tells Us About the Value of Cultural and Gender Studies Degrees",
-      "summary": "Claims that degrees in fields like gender studies are 'useless' directly conflict with the government data collected on our graduates.",
-      "source": "Ms. Magazine",
-      "category": "research",
-      "timestamp": "2025-07-20T12:00:00Z",
-      "url": "https://msmagazine.com/2025/07/20/college-degrees-womens-gender-sexuality-ethnic-africana-indigenous-disability-studies-graduates/"
-    },
-    {
-      "id": 67,
-      "title": "I don't understand why I didn't switch to the Motorola Razr Plus 2025 sooner",
-      "summary": "The Motorola Razr Plus 2025 is a top foldable phone with great software, build quality, and a standout cover display.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-20T12:00:00Z",
-      "url": "https://www.androidcentral.com/phones/motorola/motorola-razr-plus-2025-review"
-    },
-    {
-      "id": 51,
-      "title": "Tech's top venture firm tried to stay above politics, then a partner created a furor",
-      "summary": "Sequoia Capital's managing partner faced questions about a colleague's controversial statements, causing a political uproar within the firm",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T11:50:35Z",
-      "url": "https://economictimes.indiatimes.com/tech/funding/techs-top-venture-firm-tried-to-stay-above-politics-then-a-partner-created-a-furor/articleshow/122797118.cms"
-    },
-    {
-      "id": 52,
-      "title": "Jensen Huang, AI visionary in a leather jacket",
-      "summary": "Jensen Huang, previously unknown to the general public, has become a powerful entrepreneur leading chip giant Nvidia, with their essential GPUs used in AI applications.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:47:18Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huang-ai-visionary-in-a-leather-jacket/articleshow/122797090.cms"
-    },
-    {
-      "id": 53,
-      "title": "aiwand 0.4.15",
-      "summary": "aiwand 0.4.15 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T11:46:25Z",
-      "url": "https://pypi.org/project/aiwand/0.4.15/"
-    },
-    {
-      "id": 54,
-      "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer",
-      "summary": "Experienced software developers found that AI tools did not save them time in one experiment, with tasks taking 20% longer to complete. A new study from Model Evaluation and Threat Research showed that developers took longer to perform tasks using AI tools compared to when they were not using the technology.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-20T11:45:27Z",
-      "url": "https://biztoc.com/x/9f1625cff1acd421"
-    },
-    {
-      "id": 55,
-      "title": "Nvidia's Jensen Huang Charms China With AI Diplomacy as Tariff Tensions Linger",
-      "summary": "Nvidia's CEO Jensen Huang promoted cooperation in AI at China International Supply Chain Expo amidst ongoing trade tensions between US and China.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T11:45:26Z",
-      "url": "https://biztoc.com/x/5c12994c77c0497b"
-    },
-    {
-      "id": 56,
-      "title": "Nvidia's CUDA platform now supports RISC-V — support brings open source instruction set to AI platforms, joining x86 and Arm",
-      "summary": "Nvidia's CUDA platform now supports RISC-V, bringing the open source instruction set to AI platforms and potentially positioning it as a host processor for future AI and HPC systems.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:45:00Z",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-platform-now-supports-risc-v-support-brings-open-source-instruction-set-to-ai-platforms-joining-x86-and-arm"
-    },
-    {
-      "id": 57,
-      "title": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method",
-      "summary": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method aims to streamline the design process by using AI to handle repetitive tasks, allowing designers to focus more on creative aspects. This innovation addresses the paradox of design careers that involve a significant amount of non-creative work.",
-      "source": "Weandthecolor.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:44:14Z",
-      "url": "https://weandthecolor.com/automate-your-design-workflow-the-ai-powered-creative-cloud-pro-method/204650"
-    },
-    {
-      "id": 58,
-      "title": "Nvidia Will Continue Controlling The AI Board",
-      "summary": "Nvidia maintains control over the AI board, leading the ecosystem with strong growth and dominance in hardware, software, and systems, making NVDA stock a buy.",
-      "source": "Seeking Alpha",
-      "category": "economy",
-      "timestamp": "2025-07-20T11:43:13Z",
-      "url": "https://seekingalpha.com/article/4802502-nvidia-will-continue-controlling-the-ai-board"
-    },
-    {
-      "id": 59,
-      "title": "AI might be the best thing to happen to design communication",
-      "summary": "AI might be the best thing to happen to design communication, as its value has often been measured by what can be seen, not necessarily explained. The right layout, contrast ratio, and balance of form and whitespace are crucial.",
-      "source": "Uxdesign.cc",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:42:53Z",
-      "url": "https://uxdesign.cc/ai-might-be-the-best-thing-to-happen-to-design-communication-61797a00c32e"
-    },
-    {
-      "id": 60,
-      "title": "What’s next for Laurienté after collapsed Sunderland transfer?",
-      "summary": "Armand Laurienté's proposed Sunderland transfer has collapsed, but the French winger is unlikely to remain at Sassuolo as he wants a new challenge.",
-      "source": "Football Italia",
-      "category": "startups",
-      "timestamp": "2025-07-20T11:42:12Z",
-      "url": "https://football-italia.net/what-next-lauriente-sunderland-collapsed/"
-    },
-    {
-      "id": 61,
-      "title": "ai-doc-generator added to PyPI",
-      "summary": "ai-doc-generator, an AI-powered documentation generator for Python projects using OpenAI, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T11:41:19Z",
-      "url": "https://pypi.org/project/ai-doc-generator/"
-    },
-    {
-      "id": 62,
-      "title": "Designing products is easy. Designing peace of mind is hard.",
-      "summary": "Designing products is easy. Designing peace of mind is hard. - Last week, I had lunch with a man who once managed over 1,000 designers across multiple continents.",
-      "source": "Uxdesign.cc",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:40:57Z",
-      "url": "https://uxdesign.cc/designing-products-is-easy-designing-peace-of-mind-is-hard-416067dac846"
-    },
-    {
-      "id": 63,
-      "title": "A MAGA bot network on X is divided over the Trump-Epstein backlash",
-      "summary": "A network of AI-powered bots on X is being used to reply to conservatives with positive messages about people in the Trump administration, which raises concerns about the ethical implications of using AI to manipulate public opinion.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T11:34:32Z",
-      "url": "https://biztoc.com/x/2e7e7d2c34978454"
-    },
-    {
-      "id": 64,
-      "title": "How Distillation Makes AI Models Smaller and Cheaper",
-      "summary": "The Chinese AI company DeepSeek released a chatbot called R1 with impressive performance, drawing significant attention. The company's use of distillation techniques to make AI models smaller and cheaper was a key focus in discussions around the chatbot's capabilities.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T11:34:18Z",
-      "url": "https://biztoc.com/x/976ad17c25f3c185"
     }
   ]
 }
