@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-21T20:44:18.303Z",
+  "lastUpdate": "2025-07-21T20:55:52.190Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Texas Governor Says He'll Introduce Flood Items at Special Session",
+      "summary": "Texas Governor Greg Abbott prioritizes flood-related legislation at upcoming Legislative Special Session, with four preparedness items added.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T20:53:36Z",
+      "url": "https://biztoc.com/x/69cb1759d49d1b17"
+    },
+    {
+      "id": 52,
+      "title": "National Hurricane Center Tracks New Disturbance in Atlantic: What to Know",
+      "summary": "A new disturbance has formed in the central tropical Atlantic, the National Hurricane Center (NHC) in Miami reported on Sunday. The system, known as a tropical wave, is located about 1,000 miles east-southeast...",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-20T20:53:15Z",
+      "url": "https://biztoc.com/x/a59d73d34da76b68"
+    },
+    {
+      "id": 53,
+      "title": "Analyst Says Amazon.com (AMZN) Cloud Business Needs to Show ‘Acceleration’ for Stock Outperformance",
+      "summary": "Analyst Mark Mahaney believes Amazon.com's stock performance is closely tied to the growth of its AWS cloud business in the AI sector.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T20:53:07Z",
+      "url": "https://biztoc.com/x/ad99cb3375e6632f"
+    },
+    {
+      "id": 54,
+      "title": "Why Machines Aren’t Intelligent",
+      "summary": "OpenAI's LLM has achieved gold‑medal level performance at the 2025 IMO, challenging the perception of machine intelligence.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-20T20:52:58Z",
+      "url": "https://www.forbes.com/sites/hamiltonmann/2025/07/20/why-machines-arent-intelligent/"
+    },
+    {
+      "id": 55,
+      "title": "The Corruption of Scientific Journals Continues Apace",
+      "summary": "The Corruption of Scientific Journals Continues Apace - Nature used to be a prestigious journal, and deservedly so. Now it is, as with so many elite institutions, still prestigious, but undeservedly so.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T20:51:42Z",
+      "url": "https://freerepublic.com/focus/f-news/4329786/posts"
+    },
+    {
+      "id": 56,
+      "title": "Leaked Insta360 drone “Antigravity” pictures",
+      "summary": "Leaked pictures of Insta360 drone 'Antigravity' suggest new drone models in the works, Insta360 responds to GoPro's patent infringement allegations.",
+      "source": "Photorumors.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T20:49:47Z",
+      "url": "https://photorumors.com/2025/07/20/leaked-insta360-drone-antigravity-pictures/"
+    },
+    {
+      "id": 57,
+      "title": "Show HN: Browse the Web with Superpowers",
+      "summary": "Superpowers is an open-source Chrome extension that adds AI browser capabilities, allowing users to browse the web with advanced features. Users can try it out without needing to create an account, join a waiting list, or pay for a subscription, and their data remains on their machine.",
+      "source": "Usesuperpowers.app",
+      "category": "applications",
+      "timestamp": "2025-07-20T20:48:39Z",
+      "url": "https://usesuperpowers.app/"
+    },
+    {
+      "id": 58,
+      "title": "CVE-2025-53770: Frequently Asked Questions About Zero-Day SharePoint Vulnerability Exploitation",
+      "summary": "Successful exploitation of CVE-2025-53770 could expose MachineKey configuration details from a vulnerable SharePoint Server, enabling unauthenticated remote code execution. Tenable’s Research Special Operations (RSO) team has compiled FAQs about the zero-day vulnerability.",
+      "source": "Tenable.com",
+      "category": "research",
+      "timestamp": "2025-07-20T20:45:05Z",
+      "url": "https://www.tenable.com/blog/cve-2025-53770-frequently-asked-questions-about-zero-day-sharepoint-vulnerability-exploitation"
+    },
+    {
+      "id": 59,
+      "title": "sqrtspace-spacetime added to PyPI",
+      "summary": "sqrtspace-spacetime added to PyPI, enabling memory-efficient algorithms and data structures using Williams' √n space-time tradeoffs.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T20:44:53Z",
+      "url": "https://pypi.org/project/sqrtspace-spacetime/"
+    },
+    {
+      "id": 60,
+      "title": "tomldiary added to PyPI",
+      "summary": "tomldiary, a lightweight TOML-based memory system for AI agents, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T20:44:18Z",
+      "url": "https://pypi.org/project/tomldiary/"
+    },
+    {
+      "id": 61,
+      "title": "tomldiary 0.0.1",
+      "summary": "tomldiary 0.0.1 is a lightweight memory system based on TOML designed for AI agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T20:44:18Z",
+      "url": "https://pypi.org/project/tomldiary/0.0.1/"
+    },
     {
       "id": 51,
       "title": "How Did Amazon Spin This Year's Prime Day Sales?",
@@ -351,105 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-20T19:47:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/20/3118381/0/en/Don-t-Just-Hold-PFMCrypto-Debuts-First-Ever-XRP-Cloud-Mining-Platform-with-AI-Enhanced-Daily-Payouts.html"
-    },
-    {
-      "id": 53,
-      "title": "Yahoo Japan wants all its 11,000 employees to use Gen AI to double their productivity by 2028 — a sign of things to come?",
-      "summary": "Yahoo Japan mandates AI for all staff to double productivity by 2028, reflecting a growing trend of tech-driven workplace restructuring and automation.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-20T19:47:00Z",
-      "url": "https://www.techradar.com/pro/yahoo-japan-wants-all-its-11-000-employees-to-use-gen-ai-to-double-their-productivity-by-2028-is-it-a-sign-of-things-to-come"
-    },
-    {
-      "id": 54,
-      "title": "Here are the cities where college graduates have the best chance of landing a job — and NYC is not one of them",
-      "summary": "Cities where college graduates have the best chance of landing jobs have been identified, with NYC not making the list. Some of the cities on the list may be surprising.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-20T19:45:05Z",
-      "url": "https://nypost.com/2025/07/20/lifestyle/here-are-the-cities-where-college-graduates-have-the-best-chance-of-landing-a-job/"
-    },
-    {
-      "id": 55,
-      "title": "High Growth Tech Stocks in Australia Featuring Life360 and Two Others",
-      "summary": "High growth tech stocks in Australia, including Life360, are contributing to a bullish trend in the ASX, driven by positive sentiment from Wall Street.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T19:35:37Z",
-      "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-australia-193537431.html"
-    },
-    {
-      "id": 56,
-      "title": "I've used NotebookLM, and it's the clearest vision of AI's future",
-      "summary": "NotebookLM provides a clear vision of AI's future, making it easier to understand the potential of AI technology.",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-20T19:35:10Z",
-      "url": "https://www.androidpolice.com/notebooklm-clearest-vision-of-ais-future/"
-    },
-    {
-      "id": 57,
-      "title": "swe-ai-agent 1.0.56",
-      "summary": "SWE AI Agent 1.0.56 is a headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T19:33:59Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.56/"
-    },
-    {
-      "id": 51,
-      "title": "FICO To Roll Out New Scores to Reflect Your \"Buy Now, Pay Later\" Habits, Impacting Millions of Americans' Credit",
-      "summary": "FICO is introducing new credit scores to reflect 'Buy Now, Pay Later' habits, potentially impacting millions of Americans' credit and financial health.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T19:30:29Z",
-      "url": "https://finance.yahoo.com/news/fico-roll-scores-reflect-buy-193029153.html"
-    },
-    {
-      "id": 52,
-      "title": "What Happens to Companies That Don’t Think Big Enough with AI?",
-      "summary": "Companies that don't think big enough with AI risk falling behind in the rapidly changing world of work, according to a discussion on the Practically Tomorrow podcast featuring GoTo CMO Peter Mahoney.",
-      "source": "Briansolis.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T19:27:51Z",
-      "url": "https://briansolis.com/2025/07/what-happens-to-companies-that-dont-think-big-enough-with-ai/"
-    },
-    {
-      "id": 53,
-      "title": "Trump to AI Companies: Want Federal Funds? Your Chatbot Can't Be 'Woke'",
-      "summary": "Trump warns AI companies that in order to receive federal funds, their chatbots must not promote 'woke' messaging. Companies like Anthropic, Google, OpenAI, and xAI could lose up to $200 million in Defense Department contracts if they do not comply.",
-      "source": "PCMag.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T19:26:53Z",
-      "url": "https://uk.pcmag.com/ai/159217/trump-to-ai-companies-want-federal-funds-your-chatbot-cant-be-woke"
-    },
-    {
-      "id": 54,
-      "title": "Trump to AI Companies: Want Federal Funds? Your Chatbot Can't Be 'Woke'",
-      "summary": "Trump warns AI companies that their chatbots cannot be 'woke' if they want to receive federal funds, potentially putting defense department contracts with Anthropic, Google, OpenAI, and xAI at risk.",
-      "source": "PCMag.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T19:26:53Z",
-      "url": "https://me.pcmag.com/en/ai/31057/trump-to-ai-companies-want-federal-funds-your-chatbot-cant-be-woke"
-    },
-    {
-      "id": 55,
-      "title": "metis-agent 0.1.7",
-      "summary": "metis-agent 0.1.7 is a framework for building powerful AI agents with minimal boilerplate code.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T19:26:14Z",
-      "url": "https://pypi.org/project/metis-agent/0.1.7/"
-    },
-    {
-      "id": 56,
-      "title": "Grappling With Existential Panic Over AI",
-      "summary": "Author Mark Jeftovic reflects on his existential panic over the implications of AI during the Christmas holidays.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T19:24:10Z",
-      "url": "https://biztoc.com/x/410207e8ffe560ac"
     }
   ]
 }
