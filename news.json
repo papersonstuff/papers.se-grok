@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-21T10:18:40.379Z",
+  "lastUpdate": "2025-07-21T10:48:50.427Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Elon Musk Humiliated by Top Scientific Organization",
+      "summary": "Elon Musk faces criticism for overseeing massive spending cuts as head of Department of Government Efficiency, causing concern within scientific community. He continues to support president Donald Trump, a climate change denier.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-20T10:45:10Z",
+      "url": "https://futurism.com/elon-musk-humiliated-scientific-organization"
+    },
+    {
+      "id": 52,
+      "title": "bot-auth 0.2.2",
+      "summary": "bot-auth 0.2.2 is a library that allows for AI Bot Authentication using the latest HTTP header Signature.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:42:59Z",
+      "url": "https://pypi.org/project/bot-auth/0.2.2/"
+    },
+    {
+      "id": 53,
+      "title": "From Turkey: Saúl set to leave Atlético",
+      "summary": "Saúl Ñíguez has terminated his contract with Atlético Madrid and will sign with Trabzonspor as a free agent in Turkey.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:42:00Z",
+      "url": "https://onefootball.com/en/news/from-turkey-saul-set-to-leave-atletico-41399761"
+    },
+    {
+      "id": 54,
+      "title": "Need a promotion at Amazon? Show your AI skills first",
+      "summary": "Need a promotion at Amazon? Employees must showcase their AI skills by attaching specific AI projects and measurable outcomes. Managers must report on how AI tools were used to increase productivity at scale.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:40:15Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/need-a-promotion-at-amazon-show-your-ai-skills-first/articleshow/122796417.cms"
+    },
+    {
+      "id": 55,
+      "title": "The most powerful supercomputer in Central Asia launches in kazakhstanin bid for AI boost",
+      "summary": "The most powerful supercomputer in Central Asia has launched in Kazakhstan with a focus on boosting AI capabilities. Experts and politicians in Kazakhstan believe that having localized solutions and infrastructure is crucial for future success and independence.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:38:25Z",
+      "url": "https://biztoc.com/x/6f0c7ee8b0a7e903"
+    },
+    {
+      "id": 56,
+      "title": "bot-auth added to PyPI",
+      "summary": "PyPI has introduced bot-auth for AI Bot Authentication using the latest HTTP header Signature.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T10:37:42Z",
+      "url": "https://pypi.org/project/bot-auth/"
+    },
+    {
+      "id": 57,
+      "title": "Forewarned is fore-armed: Adopt AI for better climate forecasting",
+      "summary": "India is urged to adopt AI for better climate forecasting as a way to improve its advanced satellite infrastructure. AI tools can fill in gaps in traditional modelling for more accurate climate risk assessment.",
+      "source": "Livemint",
+      "category": "applications",
+      "timestamp": "2025-07-20T10:30:13Z",
+      "url": "https://www.livemint.com/opinion/online-views/india-climate-forecasting-satellite-isro-nasa-nisar-earth-observation-heatwaves-ai-modelling-deepmind-nvidia-imd-weather-11752839526782.html"
+    },
+    {
+      "id": 58,
+      "title": "Student Debt Or Paycheck? The Case For Trade School Over College",
+      "summary": "With workforce changes, rising college costs and student debt, families are urged to consider trade and vocation school over four year colleges.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-20T10:30:00Z",
+      "url": "https://www.forbes.com/sites/robertfarrington/2025/07/20/student-debt-or-paycheck-the-case-for-trade-school-over-college/"
+    },
+    {
+      "id": 59,
+      "title": "Go Deh: All Truth in Truthtables!",
+      "summary": "The news discusses the concept of truth tables in AI and references RosettaCode tasks. It highlights the importance of displaying information accurately.",
+      "source": "Blogspot.com",
+      "category": "research",
+      "timestamp": "2025-07-20T10:28:05Z",
+      "url": "http://paddy3118.blogspot.com/2025/07/all-truth-in-truthtables.html"
+    },
+    {
+      "id": 60,
+      "title": "Show HN: Emporium – An Open Source Shopify Alternative for Creators",
+      "summary": "Emporium is an open source Shopify alternative for creators, designed for independent sellers who want to run their own store without monthly fees or vendor lock-in.",
+      "source": "Hacker News",
+      "category": "startups",
+      "timestamp": "2025-07-20T10:25:36Z",
+      "url": "https://news.ycombinator.com/item?id=44623684"
+    },
+    {
+      "id": 61,
+      "title": "Becker attracting suitors, future uncertain at Donosti",
+      "summary": "Becker attracting suitors, future uncertain at Donosti - Sheraldo Becker's future with Real Sociedad is uncertain as he attracts interest from other clubs. The Dutch attacker, signed in January 2024, is not in the plans of the team.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-20T10:24:00Z",
+      "url": "https://onefootball.com/en/news/becker-attracting-suitors-future-uncertain-at-donosti-41399689"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI says its experimental model achieved ‘gold medal’ performance at International Mathematical Olympiad",
+      "summary": "OpenAI's experimental model excelled at International Mathematical Olympiad, showcasing progress in complex reasoning and problem solving abilities.",
+      "source": "BusinessLine",
+      "category": "research",
+      "timestamp": "2025-07-20T10:22:57Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-experimental-model-achieved-gold-medal-performance-at-international-mathematical-olympiad/article69834305.ece"
+    },
     {
       "id": 51,
       "title": "Elon Musk Admits He Previously Resisted AI, But Now He’s All In; Signaling Fiercer Competition Ahead with His AI Firm xAI",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T09:09:29Z",
       "url": "https://biztoc.com/x/3d5fc51444bed4ce"
-    },
-    {
-      "id": 59,
-      "title": "China Leads List of Foreign Citizens Buying US Property",
-      "summary": "Chinese nationals dominated foreign purchases of U.S. homes, with their expenses increasing by 83 percent.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:09:24Z",
-      "url": "https://biztoc.com/x/d2f92452066980c0"
-    },
-    {
-      "id": 60,
-      "title": "Saudi Arabia Seeks Answers on World's Biggest Construction Site",
-      "summary": "Saudi Arabia seeks answers on world's biggest construction site, The Line, through AI-generated voice technology.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T09:09:14Z",
-      "url": "https://biztoc.com/x/b983859f494baf02"
-    },
-    {
-      "id": 61,
-      "title": "The Only US City Where a Starter Home Costs Less Than Renting",
-      "summary": "Pittsburgh is the only major U.S. metropolitan area where a starter home still costs less than renting, according to a new study by Realtor.com.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:09:05Z",
-      "url": "https://biztoc.com/x/f4ecaf090df3c367"
-    },
-    {
-      "id": 62,
-      "title": "Edgestream Partners L.P. Makes New $798,000 Investment in CrowdStrike (NASDAQ:CRWD)",
-      "summary": "Edgestream Partners L.P. made a new investment of $798,000 in CrowdStrike, purchasing 2,264 shares of the company's stock in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:06:34Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/edgestream-partners-l-p-makes-new-798000-investment-in-crowdstrike-nasdaqcrwd/"
-    },
-    {
-      "id": 63,
-      "title": "Gas prices declined from last week: See how much here",
-      "summary": "Gas prices in the Lower Atlantic region declined from last week, with a comparison to the week prior highlighting the change in prices.",
-      "source": "Gaston Gazette",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:06:29Z",
-      "url": "https://www.gastongazette.com/story/news/local/2025/07/20/lower-atlantic-region-gas-prices-declined-from-last-week-see-how-much-here/85250976007/"
-    },
-    {
-      "id": 64,
-      "title": "The hidden power of applying quickly to your dream job",
-      "summary": "Jumping on job postings quickly can increase chances of landing an interview and getting hired.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:06:01Z",
-      "url": "https://www.businessinsider.com/job-opening-apply-fast-linkedin-indeed-2025-7"
-    },
-    {
-      "id": 65,
-      "title": "Exclusive: Eros clears stand on Raanjhanaa’s AI-altered re-release",
-      "summary": "Eros International defends the AI-generated ending of Raanjhanaa amidst controversy with director Aanand L Rai over legal matters and creative integrity.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T09:05:39Z",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/eros-responds-to-aanand-l-rais-criticism-of-ai-enhanced-raanjhanaa-re-release/articleshow/122795638.cms"
-    },
-    {
-      "id": 66,
-      "title": "Forget 4 a.m. wakeups—sleep is the new status symbol as CEOs adopt Gen Z ‘sleepmaxxing’ mindset",
-      "summary": "CEOs are prioritizing sleep as a status symbol and performance-enhancing tool, adopting a 'sleepmaxxing' mindset. This shift challenges the glorified hustle culture and highlights the importance of rest for productivity.",
-      "source": "Fortune",
-      "category": "innovation",
-      "timestamp": "2025-07-20T09:05:00Z",
-      "url": "https://fortune.com/2025/07/20/sleep-status-symbol-ceos-hustle-multi-billion-dollar-industry/"
-    },
-    {
-      "id": 67,
-      "title": "Your Recession FAQs Answered: 5 Tips to Help You Prepare, Not Panic",
-      "summary": "Even with tariffs on pause, the economy is still brittle. Make these money moves before the next downturn hits.",
-      "source": "CNET",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:00:00Z",
-      "url": "https://www.cnet.com/personal-finance/banking/your-recession-faqs-answered-5-tips-to-help-you-prepare-not-panic/"
-    },
-    {
-      "id": 68,
-      "title": "The most successful people are not the smartest—instead, they’re both ambitious and lazy, career coach to the Fortune 500 says",
-      "summary": "The most successful people are not necessarily the smartest, but are ambitious and lazy according to a career coach. Knowing when to cut corners is crucial for powerful billionaires and CEOs.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-20T09:00:00Z",
-      "url": "https://fortune.com/2025/07/20/most-successful-billionaires-ceos-politiciansnot-smartest-ambitious-and-lazy-career-coach/"
-    },
-    {
-      "id": 69,
-      "title": "Wix Adds Chaos to CI/CD Pipelines with AI and Improves Reliability",
-      "summary": "Cloud-based web development service Wix integrates artificial intelligence into CI/CD pipelines to improve reliability, using probabilistic AI to coexist with deterministic systems.",
-      "source": "InfoQ.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T09:00:00Z",
-      "url": "https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/"
-    },
-    {
-      "id": 70,
-      "title": "Why I'm Betting Against AI Agents in 2025 (Despite Building Them)",
-      "summary": "The author has built multiple AI agent systems, but believes that the current hype around autonomous agents is mathematically impossible. They discuss what actually works in production and why they are betting against AI agents in 2025.",
-      "source": "Utkarshkanwat.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T08:59:19Z",
-      "url": "https://utkarshkanwat.com/writing/betting-against-agents/"
     }
   ]
 }
