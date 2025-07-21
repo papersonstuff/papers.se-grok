@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-21T18:53:41.658Z",
+  "lastUpdate": "2025-07-21T19:15:14.921Z",
   "items": [
+    {
+      "id": 51,
+      "title": "metis-agent 0.1.6",
+      "summary": "metis-agent 0.1.6 is a framework designed to simplify the process of creating AI agents by reducing the need for boilerplate code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:14:31Z",
+      "url": "https://pypi.org/project/metis-agent/0.1.6/"
+    },
+    {
+      "id": 52,
+      "title": "Tale of Genji, Armenia Cultural Heritage, Investigative Journalism, More: Sunday Afternoon ResearchBuzz, July 20, 2025",
+      "summary": "College students digitized 795 poems from the world’s oldest novel, The Tale of Genji, creating a first-of-its-kind repository for hundreds of poems.",
+      "source": "Researchbuzz.me",
+      "category": "research",
+      "timestamp": "2025-07-20T19:07:39Z",
+      "url": "https://researchbuzz.me/2025/07/20/tale-of-genji-armenia-cultural-heritage-investigative-journalism-more-sunday-afternoon-researchbuzz-july-20-2025/"
+    },
+    {
+      "id": 53,
+      "title": "From Smartphone to Crypto Yield: How Quid Miner Is Simplifying Cloud Mining for BTC and DOGE in 2025",
+      "summary": "From Smartphone to Crypto Yield: How Quid Miner Is Simplifying Cloud Mining for BTC and DOGE in 2025 - London, UK, July 20, 2025 (GLOBE NEWSWIRE) -- Quid Mine is addressing the demand from new wave investors seeking steady returns in cryptocurrency by simplifying cloud mining for BTC and DOGE, providing an alternative to day trading.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T19:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118378/0/en/From-Smartphone-to-Crypto-Yield-How-Quid-Miner-Is-Simplifying-Cloud-Mining-for-BTC-and-DOGE-in-2025.html"
+    },
+    {
+      "id": 54,
+      "title": "Stephen Miller 'coup' claim belittled by Musk's chatbot for exploiting 'paranoia'",
+      "summary": "White House deputy chief of staff Stephen Miller's conspiracy theory about former President Barack Obama was criticized by Elon Musk's AI-powered chatbot for exploiting 'paranoia'.",
+      "source": "Raw Story",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:06:21Z",
+      "url": "https://www.rawstory.com/stephen-miller-2673532519/"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: SuppFlow – AI assistant that replies to your customer support emails",
+      "summary": "SuppFlow.com is an AI assistant that helps manage and respond to customer support emails automatically, saving time for solo founders and small teams.",
+      "source": "Hacker News",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:04:38Z",
+      "url": "https://news.ycombinator.com/item?id=44628286"
+    },
+    {
+      "id": 56,
+      "title": "New Study: AI Cuts Costs, Adds 13 Hours For SMB Marketers",
+      "summary": "AI-powered marketing systems are saving SMBs almost $5,000 a month and adding 13 extra hours per week for marketers.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-20T19:04:08Z",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2025/07/20/new-study-ai-cuts-costs-adds-13-hours-for-smb-marketers/"
+    },
+    {
+      "id": 57,
+      "title": "Air India: Captain Discloses Private Information about Late Pilot's Health Condition and Marriage",
+      "summary": "Air India captain disclosed private information about the health condition and marriage of late pilot, Captain Sumeet Sabharwal.",
+      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:03:59Z",
+      "url": "https://www.legit.ng/people/1665190-air-india-captain-discloses-private-information-late-pilots-health-condition-marriage/"
+    },
+    {
+      "id": 58,
+      "title": "An Amazing Way to Share Your Photos: The PixStar Lux 17” Wi-Fi Digital Photo Frame",
+      "summary": "A wireless digital photo frame with free cloud storage is introduced, offering a solution for easily sharing photos without the need for social media or physical prints.",
+      "source": "Fstoppers",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:03:01Z",
+      "url": "https://fstoppers.com/reviews/amazing-way-share-your-photos-pixstar-lux-17-wi-fi-digital-photo-frame-705792"
+    },
+    {
+      "id": 59,
+      "title": "WNBA All-Star Weekend: The 8 Best, Most Hilarious Moments You May Not Have Seen on TV",
+      "summary": "During WNBA All-Star Weekend, there were several entertaining and notable moments that may have been overlooked, such as the viral Stud Budz clips and the impactful message conveyed by the players wearing 'Pay Us What You Owe Us' t-shirts.",
+      "source": "Glamour",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:02:21Z",
+      "url": "https://www.glamour.com/story/wnba-all-star-weekend-best-moments"
+    },
+    {
+      "id": 60,
+      "title": "Donald Trump's Immigration Approval Slips: Poll",
+      "summary": "President Donald Trump is losing support on immigration, a key issue for him, according to a new poll. The article also states that voice is AI-generated, which may lead to inconsistencies in the news.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T19:01:31Z",
+      "url": "https://biztoc.com/x/cf460737be0022ae"
+    },
+    {
+      "id": 61,
+      "title": "Netflix Uses Generative AI in TV Show for First Time",
+      "summary": "Netflix's new show 'The Eternaut' is the first to use generative AI, marking a significant application of AI technology in the entertainment industry.",
+      "source": "Decrypt",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:01:03Z",
+      "url": "https://decrypt.co/330942/netflix-uses-generative-ai-tv-show-first-time"
+    },
+    {
+      "id": 62,
+      "title": "Amazon’s AI wants to own online shopping data",
+      "summary": "Amazon's AI project Starfish aims to own online shopping data by using generative AI to improve product listings with data gathered from the web, benefiting shoppers and third-party sellers.",
+      "source": "Fox News",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:00:29Z",
+      "url": "https://www.foxnews.com/tech/amazons-ai-wants-own-online-shopping-data"
+    },
+    {
+      "id": 63,
+      "title": "I'm going back to a 6-core CPU for my next build",
+      "summary": "A decision to switch back to a 6-core CPU for the next PC build due to the advanced capabilities offered by modern CPUs.",
+      "source": "XDA Developers",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:00:20Z",
+      "url": "https://www.xda-developers.com/going-back-to-6-core-cpu-for-next-build/"
+    },
+    {
+      "id": 64,
+      "title": "Kevin Feige on Marvel Studios’ Future, Focusing on Lower Budgets, Less TV and More Robert Downey Jr.: ‘Look at “Superman,” It’s Clearly Not Superhero Fatigue’",
+      "summary": "Kevin Feige of Marvel Studios teases future plans, focusing on lower budgets and less TV while emphasizing the importance of iconic actors like Robert Downey Jr. Feige's comments showcase innovation in the superhero genre and in the entertainment industry as a whole.",
+      "source": "Variety",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:00:00Z",
+      "url": "https://variety.com/2025/film/news/marvel-kevin-feige-robert-downey-jr-miles-morales-1236465488/"
+    },
+    {
+      "id": 65,
+      "title": "10 Worst CGI Moments in Otherwise Great Shows",
+      "summary": "Some of the best TV shows have had less than perfect CGI moments, which can detract from the overall quality of the series and impact viewers emotionally.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:00:00Z",
+      "url": "http://comicbook.com/tv-shows/news/worst-cgi-visual-effects-in-great-shows-walking-dead-house-dragon/"
+    },
+    {
+      "id": 66,
+      "title": "AI Coding Tools Underperform in Field Study with Experienced Developers",
+      "summary": "AI Coding Tools Underperform in Field Study with Experienced Developers - Recent research reveals a surprising 19% increase in task completion time among developers using AI tools like Claude 3.5.",
+      "source": "InfoQ.com",
+      "category": "research",
+      "timestamp": "2025-07-20T19:00:00Z",
+      "url": "https://www.infoq.com/news/2025/07/ai-productivity/"
+    },
+    {
+      "id": 67,
+      "title": "AI Coding Tools Underperform in Field Study with Experienced Developers",
+      "summary": "AI Coding Tools Underperform in Field Study with Experienced Developers - Recent research reveals a surprising 19% increase in task completion time among developers using AI tools like Claude 3.5.",
+      "source": "InfoQ.com",
+      "category": "research",
+      "timestamp": "2025-07-20T19:00:00Z",
+      "url": "https://www.infoq.com/news/2025/07/ai-productivity/"
+    },
     {
       "id": 51,
       "title": "This is probably the best-looking mini PC with AMD's fastest AI CPU, and I wonder what THAT mysterious red rocket button will do",
@@ -297,159 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-20T17:01:33Z",
       "url": "https://techcrunch.com/2025/07/20/why-cartken-pivoted-its-focus-from-last-mile-delivery-to-industrial-robots/"
-    },
-    {
-      "id": 57,
-      "title": "Ethereum's ETH Breaks $3,800 Amid Massive Whale Buy, Large Capital Inflow",
-      "summary": "Ethereum's ETH breaks $3,800 due to massive whale buy and large capital inflow, with some analysts predicting prices to reach up to $15,000.",
-      "source": "CoinDesk",
-      "category": "economy",
-      "timestamp": "2025-07-20T17:01:14Z",
-      "url": "https://www.coindesk.com/markets/2025/07/20/ethereums-eth-breaks-3800-amid-massive-whale-buy-large-capital-inflow"
-    },
-    {
-      "id": 58,
-      "title": "8 simple steps to ditch cable and save money with streaming",
-      "summary": "Eight practical tips for replacing cable TV with affordable streaming options, including free services like Pluto TV and Tubi, while maintaining access to local channels.",
-      "source": "Fox News",
-      "category": "economy",
-      "timestamp": "2025-07-20T17:00:08Z",
-      "url": "https://www.foxnews.com/tech/8-simple-steps-ditch-cable-save-money-streaming"
-    },
-    {
-      "id": 59,
-      "title": "Save even more on a lifetime subscription to BitMar All-in-One Streaming Platform",
-      "summary": "BitMar All-in-One Streaming Platform offers a lifetime subscription to connect users with millions of on-demand movies, TV shows, channels, videos, and songs from various sources on the Web.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-20T17:00:01Z",
-      "url": "https://www.neowin.net/deals/save-even-more-on-a-lifetime-subscription-to-bitmar-all-in-one-streaming-platform/"
-    },
-    {
-      "id": 60,
-      "title": "AI adoption low among NZ SMEs despite positive impacts, survey reveals",
-      "summary": "AI adoption remains low among New Zealand SMEs despite positive impacts. Gen Z leads in AI adoption with 93% using tools, compared to only 17% of Boomers.",
-      "source": "New Zealand Herald",
-      "category": "applications",
-      "timestamp": "2025-07-20T17:00:00Z",
-      "url": "https://www.nzherald.co.nz/business/companies/manufacturing/ai-adoption-low-among-nz-smes-despite-positive-impacts-survey-reveals/AVWS4LBO6ZEKHN7SZHNF5MH2DQ/"
-    },
-    {
-      "id": 61,
-      "title": "‘Payments can be substantial’: Millie Elder-Holmes pays $5000 fine for online gambling promotion",
-      "summary": "Millie Elder-Holmes fined $5000 for online gambling promotion, while Pātea aims to address gambling harm in communities.",
-      "source": "New Zealand Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-20T17:00:00Z",
-      "url": "https://www.nzherald.co.nz/kahu/payments-can-be-substantial-millie-elder-holmes-pays-5000-fine-for-online-gambling-promotion/4GYDSPWCMFDIPPN2ZDLVQ5ZKNA/"
-    },
-    {
-      "id": 62,
-      "title": "Sunday assorted links",
-      "summary": "Entry-level tech hiring appears to have reversed in recent months, with recent grads securing coding jobs at the same rate as before the generative AI era.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:58:35Z",
-      "url": "https://biztoc.com/x/73be05fac872b861"
-    },
-    {
-      "id": 63,
-      "title": "swe-ai-agent 1.0.51",
-      "summary": "SWE Agent 1.0.51 is a headless agentic IDE with comprehensive tool support for AI, aimed at assisting developers in building and testing AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:58:24Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.51/"
-    },
-    {
-      "id": 64,
-      "title": "JP Morgan Chase Have A Point, But The Whole Economy Needs Data To Flow",
-      "summary": "JP Morgan Chase stresses the importance of open data flow in the US economy, advocating for a level playing field for competition in financial products and services.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:56:46Z",
-      "url": "https://www.forbes.com/sites/davidbirch/2025/07/20/jp-morgan-chase-have-a-point-but-the-whole-economy-needs-data-to-flow/"
-    },
-    {
-      "id": 65,
-      "title": "mypromptgen 0.2.0",
-      "summary": "mypromptgen 0.2.0 is a new package designed for generating AI prompts and answers.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T16:54:07Z",
-      "url": "https://pypi.org/project/mypromptgen/0.2.0/"
-    },
-    {
-      "id": 66,
-      "title": "mypromptgen added to PyPI",
-      "summary": "mypromptgen has been added to PyPI, providing a package for generating AI prompts and answers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:54:06Z",
-      "url": "https://pypi.org/project/mypromptgen/"
-    },
-    {
-      "id": 67,
-      "title": "mypromptgen 0.1.0",
-      "summary": "mypromptgen 0.1.0 is a new package designed for generating AI prompts and answers, aimed at advancing AI capabilities. This tool has potential applications in various industries and domains requiring AI-generated content.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:54:06Z",
-      "url": "https://pypi.org/project/mypromptgen/0.1.0/"
-    },
-    {
-      "id": 51,
-      "title": "Tulsi Gabbard Expands Power of DNI Office – Now Comes the Counter Attack, Likely from Senator Tom Cotton",
-      "summary": "Tulsi Gabbard expanding power of DNI office raises questions about previous administrations' lack of discovery and exposure of activities",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T16:47:26Z",
-      "url": "https://freerepublic.com/focus/f-bloggers/4329750/posts"
-    },
-    {
-      "id": 52,
-      "title": "Match Q2 Preview: Loving The Contrarian View (Upgrade)",
-      "summary": "Match Group is seen as a contrarian buy due to new management, cost savings, AI integration, and Gen Z focus, signaling potential growth and a 15-17% upside.",
-      "source": "Seeking Alpha",
-      "category": "startups",
-      "timestamp": "2025-07-20T16:44:59Z",
-      "url": "https://seekingalpha.com/article/4802533-match-q2-preview-loving-the-contrarian-view-upgrade"
-    },
-    {
-      "id": 53,
-      "title": "Apple’s Q3 earnings and Google’s Pixel 10 event set the stage for fall phone wars",
-      "summary": "Apple's Q3 earnings and Google's Pixel 10 event signal the beginning of the fall phone wars, as both companies ramp up their hardware and AI strategies.",
-      "source": "PhoneArena",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:43:00Z",
-      "url": "https://www.phonearena.com/news/apples-q3-earnings-and-googles-pixel-10-event-set-the-stage-for-fall-phone-wars_id172436"
-    },
-    {
-      "id": 54,
-      "title": "Woman Leaves Husband Sunbathing, Horror at Where She Finds Him 3 Hours Later",
-      "summary": "A viral TikTok video showcases a woman finding her husband sunbathing on the beach in an incredibly deep nap, leading to disbelief and laughter online. The voice in the video is AI-generated, causing potential inaccuracies in the storytelling.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:36:07Z",
-      "url": "https://biztoc.com/x/f5f0eff1f1001f64"
-    },
-    {
-      "id": 55,
-      "title": "Are We in a Quantum Computing Bubble?",
-      "summary": "Quantum computing stocks have been surging despite the technology being in its early stages, raising concerns of a potential bubble. These stocks, unlike the broader AI theme, are mostly small companies, leading to speculation about their valuations.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:35:53Z",
-      "url": "https://biztoc.com/x/98004970c30d87aa"
-    },
-    {
-      "id": 56,
-      "title": "Grab Microsoft Office and Windows 11 Pro for $54 (Reg. $419)",
-      "summary": "Until July 20, you can get Microsoft Office 2021 and Windows 11 Pro together for just $54.97, a significant discount from their regular price of $419. This deal provides lifetime licenses for both powerful tools.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:35:53Z",
-      "url": "http://9to5toys.com/2025/07/20/grab-microsoft-office-and-windows-11-pro-for-54-reg-419/"
     }
   ]
 }
