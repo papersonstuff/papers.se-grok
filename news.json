@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-21T11:31:52.757Z",
+  "lastUpdate": "2025-07-21T11:52:16.157Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Tech's top venture firm tried to stay above politics, then a partner created a furor",
+      "summary": "Sequoia Capital's managing partner faced questions about a colleague's controversial statements, causing a political uproar within the firm",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:50:35Z",
+      "url": "https://economictimes.indiatimes.com/tech/funding/techs-top-venture-firm-tried-to-stay-above-politics-then-a-partner-created-a-furor/articleshow/122797118.cms"
+    },
+    {
+      "id": 52,
+      "title": "Jensen Huang, AI visionary in a leather jacket",
+      "summary": "Jensen Huang, previously unknown to the general public, has become a powerful entrepreneur leading chip giant Nvidia, with their essential GPUs used in AI applications.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:47:18Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huang-ai-visionary-in-a-leather-jacket/articleshow/122797090.cms"
+    },
+    {
+      "id": 53,
+      "title": "aiwand 0.4.15",
+      "summary": "aiwand 0.4.15 is a simple AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:46:25Z",
+      "url": "https://pypi.org/project/aiwand/0.4.15/"
+    },
+    {
+      "id": 54,
+      "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer",
+      "summary": "Experienced software developers found that AI tools did not save them time in one experiment, with tasks taking 20% longer to complete. A new study from Model Evaluation and Threat Research showed that developers took longer to perform tasks using AI tools compared to when they were not using the technology.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-20T11:45:27Z",
+      "url": "https://biztoc.com/x/9f1625cff1acd421"
+    },
+    {
+      "id": 55,
+      "title": "Nvidia's Jensen Huang Charms China With AI Diplomacy as Tariff Tensions Linger",
+      "summary": "Nvidia's CEO Jensen Huang promoted cooperation in AI at China International Supply Chain Expo amidst ongoing trade tensions between US and China.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:45:26Z",
+      "url": "https://biztoc.com/x/5c12994c77c0497b"
+    },
+    {
+      "id": 56,
+      "title": "Nvidia's CUDA platform now supports RISC-V — support brings open source instruction set to AI platforms, joining x86 and Arm",
+      "summary": "Nvidia's CUDA platform now supports RISC-V, bringing the open source instruction set to AI platforms and potentially positioning it as a host processor for future AI and HPC systems.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:45:00Z",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-platform-now-supports-risc-v-support-brings-open-source-instruction-set-to-ai-platforms-joining-x86-and-arm"
+    },
+    {
+      "id": 57,
+      "title": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method",
+      "summary": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method aims to streamline the design process by using AI to handle repetitive tasks, allowing designers to focus more on creative aspects. This innovation addresses the paradox of design careers that involve a significant amount of non-creative work.",
+      "source": "Weandthecolor.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:44:14Z",
+      "url": "https://weandthecolor.com/automate-your-design-workflow-the-ai-powered-creative-cloud-pro-method/204650"
+    },
+    {
+      "id": 58,
+      "title": "Nvidia Will Continue Controlling The AI Board",
+      "summary": "Nvidia maintains control over the AI board, leading the ecosystem with strong growth and dominance in hardware, software, and systems, making NVDA stock a buy.",
+      "source": "Seeking Alpha",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:43:13Z",
+      "url": "https://seekingalpha.com/article/4802502-nvidia-will-continue-controlling-the-ai-board"
+    },
+    {
+      "id": 59,
+      "title": "AI might be the best thing to happen to design communication",
+      "summary": "AI might be the best thing to happen to design communication, as its value has often been measured by what can be seen, not necessarily explained. The right layout, contrast ratio, and balance of form and whitespace are crucial.",
+      "source": "Uxdesign.cc",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:42:53Z",
+      "url": "https://uxdesign.cc/ai-might-be-the-best-thing-to-happen-to-design-communication-61797a00c32e"
+    },
+    {
+      "id": 60,
+      "title": "What’s next for Laurienté after collapsed Sunderland transfer?",
+      "summary": "Armand Laurienté's proposed Sunderland transfer has collapsed, but the French winger is unlikely to remain at Sassuolo as he wants a new challenge.",
+      "source": "Football Italia",
+      "category": "startups",
+      "timestamp": "2025-07-20T11:42:12Z",
+      "url": "https://football-italia.net/what-next-lauriente-sunderland-collapsed/"
+    },
+    {
+      "id": 61,
+      "title": "ai-doc-generator added to PyPI",
+      "summary": "ai-doc-generator, an AI-powered documentation generator for Python projects using OpenAI, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:41:19Z",
+      "url": "https://pypi.org/project/ai-doc-generator/"
+    },
+    {
+      "id": 62,
+      "title": "Designing products is easy. Designing peace of mind is hard.",
+      "summary": "Designing products is easy. Designing peace of mind is hard. - Last week, I had lunch with a man who once managed over 1,000 designers across multiple continents.",
+      "source": "Uxdesign.cc",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:40:57Z",
+      "url": "https://uxdesign.cc/designing-products-is-easy-designing-peace-of-mind-is-hard-416067dac846"
+    },
+    {
+      "id": 63,
+      "title": "A MAGA bot network on X is divided over the Trump-Epstein backlash",
+      "summary": "A network of AI-powered bots on X is being used to reply to conservatives with positive messages about people in the Trump administration, which raises concerns about the ethical implications of using AI to manipulate public opinion.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:34:32Z",
+      "url": "https://biztoc.com/x/2e7e7d2c34978454"
+    },
+    {
+      "id": 64,
+      "title": "How Distillation Makes AI Models Smaller and Cheaper",
+      "summary": "The Chinese AI company DeepSeek released a chatbot called R1 with impressive performance, drawing significant attention. The company's use of distillation techniques to make AI models smaller and cheaper was a key focus in discussions around the chatbot's capabilities.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:34:18Z",
+      "url": "https://biztoc.com/x/976ad17c25f3c185"
+    },
+    {
+      "id": 65,
+      "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer",
+      "summary": "Experienced software developers found that tasks took 20% longer with AI, contradicting assumptions that it would save time. A new study highlights how AI doesn't always deliver promised boosts in productivity.",
+      "source": "Fortune",
+      "category": "research",
+      "timestamp": "2025-07-20T11:33:00Z",
+      "url": "https://fortune.com/2025/07/20/ai-hampers-productivity-software-developers-productivity-study/"
+    },
+    {
+      "id": 66,
+      "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer",
+      "summary": "Experienced software developers found that AI did not save them time in one experiment, with tasks actually taking 20% longer. This adds to evidence that AI may not always boost productivity as promised.",
+      "source": "Yahoo Entertainment",
+      "category": "research",
+      "timestamp": "2025-07-20T11:33:00Z",
+      "url": "https://www.yahoo.com/news/experienced-software-developers-assumed-ai-113300764.html"
+    },
+    {
+      "id": 67,
+      "title": "Google launches Gemini Drops to keep you on top of the latest AI features - Android Police",
+      "summary": "Google launches Gemini Drops to keep you on top of the latest AI features for Workspace apps, providing a quick and easy assist.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:32:25Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178423356"
+    },
+    {
+      "id": 68,
+      "title": "Top Wall Street analysts are confident about the potential of these 3 stocks",
+      "summary": "Top Wall Street analysts are confident about the potential of three stocks, including Uber Technologies and Alphabet, favored by Wall Street.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:32:13Z",
+      "url": "https://www.cnbc.com/2025/07/20/top-wall-street-analysts-are-confident-about-the-potential-of-these-3-stocks.html"
+    },
     {
       "id": 51,
       "title": "How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether",
@@ -288,168 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-20T10:45:10Z",
       "url": "https://futurism.com/elon-musk-humiliated-scientific-organization"
-    },
-    {
-      "id": 52,
-      "title": "bot-auth 0.2.2",
-      "summary": "bot-auth 0.2.2 is a library that allows for AI Bot Authentication using the latest HTTP header Signature.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:42:59Z",
-      "url": "https://pypi.org/project/bot-auth/0.2.2/"
-    },
-    {
-      "id": 53,
-      "title": "From Turkey: Saúl set to leave Atlético",
-      "summary": "Saúl Ñíguez has terminated his contract with Atlético Madrid and will sign with Trabzonspor as a free agent in Turkey.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:42:00Z",
-      "url": "https://onefootball.com/en/news/from-turkey-saul-set-to-leave-atletico-41399761"
-    },
-    {
-      "id": 54,
-      "title": "Need a promotion at Amazon? Show your AI skills first",
-      "summary": "Need a promotion at Amazon? Employees must showcase their AI skills by attaching specific AI projects and measurable outcomes. Managers must report on how AI tools were used to increase productivity at scale.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:40:15Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/need-a-promotion-at-amazon-show-your-ai-skills-first/articleshow/122796417.cms"
-    },
-    {
-      "id": 55,
-      "title": "The most powerful supercomputer in Central Asia launches in kazakhstanin bid for AI boost",
-      "summary": "The most powerful supercomputer in Central Asia has launched in Kazakhstan with a focus on boosting AI capabilities. Experts and politicians in Kazakhstan believe that having localized solutions and infrastructure is crucial for future success and independence.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:38:25Z",
-      "url": "https://biztoc.com/x/6f0c7ee8b0a7e903"
-    },
-    {
-      "id": 56,
-      "title": "bot-auth added to PyPI",
-      "summary": "PyPI has introduced bot-auth for AI Bot Authentication using the latest HTTP header Signature.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:37:42Z",
-      "url": "https://pypi.org/project/bot-auth/"
-    },
-    {
-      "id": 57,
-      "title": "Forewarned is fore-armed: Adopt AI for better climate forecasting",
-      "summary": "India is urged to adopt AI for better climate forecasting as a way to improve its advanced satellite infrastructure. AI tools can fill in gaps in traditional modelling for more accurate climate risk assessment.",
-      "source": "Livemint",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:30:13Z",
-      "url": "https://www.livemint.com/opinion/online-views/india-climate-forecasting-satellite-isro-nasa-nisar-earth-observation-heatwaves-ai-modelling-deepmind-nvidia-imd-weather-11752839526782.html"
-    },
-    {
-      "id": 58,
-      "title": "Student Debt Or Paycheck? The Case For Trade School Over College",
-      "summary": "With workforce changes, rising college costs and student debt, families are urged to consider trade and vocation school over four year colleges.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-20T10:30:00Z",
-      "url": "https://www.forbes.com/sites/robertfarrington/2025/07/20/student-debt-or-paycheck-the-case-for-trade-school-over-college/"
-    },
-    {
-      "id": 59,
-      "title": "Go Deh: All Truth in Truthtables!",
-      "summary": "The news discusses the concept of truth tables in AI and references RosettaCode tasks. It highlights the importance of displaying information accurately.",
-      "source": "Blogspot.com",
-      "category": "research",
-      "timestamp": "2025-07-20T10:28:05Z",
-      "url": "http://paddy3118.blogspot.com/2025/07/all-truth-in-truthtables.html"
-    },
-    {
-      "id": 60,
-      "title": "Show HN: Emporium – An Open Source Shopify Alternative for Creators",
-      "summary": "Emporium is an open source Shopify alternative for creators, designed for independent sellers who want to run their own store without monthly fees or vendor lock-in.",
-      "source": "Hacker News",
-      "category": "startups",
-      "timestamp": "2025-07-20T10:25:36Z",
-      "url": "https://news.ycombinator.com/item?id=44623684"
-    },
-    {
-      "id": 61,
-      "title": "Becker attracting suitors, future uncertain at Donosti",
-      "summary": "Becker attracting suitors, future uncertain at Donosti - Sheraldo Becker's future with Real Sociedad is uncertain as he attracts interest from other clubs. The Dutch attacker, signed in January 2024, is not in the plans of the team.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T10:24:00Z",
-      "url": "https://onefootball.com/en/news/becker-attracting-suitors-future-uncertain-at-donosti-41399689"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI says its experimental model achieved ‘gold medal’ performance at International Mathematical Olympiad",
-      "summary": "OpenAI's experimental model excelled at International Mathematical Olympiad, showcasing progress in complex reasoning and problem solving abilities.",
-      "source": "BusinessLine",
-      "category": "research",
-      "timestamp": "2025-07-20T10:22:57Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-experimental-model-achieved-gold-medal-performance-at-international-mathematical-olympiad/article69834305.ece"
-    },
-    {
-      "id": 51,
-      "title": "Elon Musk Admits He Previously Resisted AI, But Now He’s All In; Signaling Fiercer Competition Ahead with His AI Firm xAI",
-      "summary": "Elon Musk reveals that he's all in with AI, and that with the AI firm xAI, he has apparently set up massive plans ahead, becoming a top contender in the segment.",
-      "source": "Wccftech",
-      "category": "startups",
-      "timestamp": "2025-07-20T10:14:15Z",
-      "url": "https://wccftech.com/elon-musk-admits-he-previously-resisted-ai-but-now-he-is-all-in/"
-    },
-    {
-      "id": 52,
-      "title": "️ Messi tops CR7: more non-penalty goals, 6th brace in 7 games ",
-      "summary": "Messi tops CR7 in non-penalty goals and scores 6th brace in 7 games, continuing their rivalry across different championships",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:10:00Z",
-      "url": "https://onefootball.com/en/news/messi-tops-cr7-more-non-penalty-goals-6th-brace-in-7-games-41399605"
-    },
-    {
-      "id": 53,
-      "title": "Maori visitors with face tattoos hesitant to travel to Hawaii | Honolulu Star-Advertiser",
-      "summary": "Maori visitors with face tattoos are hesitant to travel to Hawaii due to concerns about discrimination and respect for their cultural practices.",
-      "source": "Honolulu Star-Advertiser",
-      "category": "ethics",
-      "timestamp": "2025-07-20T10:09:00Z",
-      "url": "https://www.staradvertiser.com/2025/07/20/hawaii-news/maori-visitors-with-face-tattoos-hesitant-to-travel-to-hawaii/"
-    },
-    {
-      "id": 54,
-      "title": "America's Hot Garbage Summer Bites",
-      "summary": "Millions of residents across the U.S. facing mounting piles of uncollected trash due to a strike by waste workers, impacting waste management services and potentially leading to economic repercussions.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T10:05:25Z",
-      "url": "https://biztoc.com/x/c5c394b55f8be944"
-    },
-    {
-      "id": 55,
-      "title": "Americans Are Using AI To Diagnose Their Health Issues",
-      "summary": "Americans are using AI to diagnose health issues through AI-generated voice technology, but inconsistencies may arise. Clinicians and patients are increasingly utilizing AI for diagnosis, though the technology's adoption is seen as both beneficial and problematic in the health care industry.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:05:05Z",
-      "url": "https://biztoc.com/x/281558e1077450bc"
-    },
-    {
-      "id": 56,
-      "title": "Mom Drops Son at Daycare, Hours Later Gets Email That Has Her 'Scared'",
-      "summary": "When a mom received an email from her son's daycare that was AI-generated, she became scared due to potential inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:05:05Z",
-      "url": "https://biztoc.com/x/1312380a0b748e27"
-    },
-    {
-      "id": 57,
-      "title": "Priscilla Chan's recruiting pitch? We can't pay as well as tech companies, but we've got GPUs",
-      "summary": "Priscilla Chan of the Chan Zuckerberg Initiative highlights the importance of GPUs in recruiting for their philanthropic organization.",
-      "source": "Business Insider",
-      "category": "research",
-      "timestamp": "2025-07-20T10:05:01Z",
-      "url": "https://www.businessinsider.com/mark-zuckerberg-priscilla-chan-gpus-recruitment-tool-chan-zuckerberg-initiative-2025-7"
     }
   ]
 }
