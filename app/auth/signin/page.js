@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { supabaseClient } from '../../../utils/supabase/client'; // Adjust path
+import { supabaseClient } from '../../../utils/supabase/client';
 
 export default function SignIn() {
   const [email, setEmail] = useState('');
@@ -14,7 +14,7 @@ export default function SignIn() {
     const { error } = await supabaseClient.auth.signInWithOtp({
       email,
       options: {
-        emailRedirectTo: `${window.location.origin}/auth/confirm`, // Callback URL
+        emailRedirectTo: `${window.location.origin}/auth/confirm`,
       },
     });
     if (error) {
@@ -26,18 +26,21 @@ export default function SignIn() {
   };
 
   return (
-    <form onSubmit={handleSignIn}>
-      <input
-        type="email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-        placeholder="Enter your email"
-        required
-      />
-      <button type="submit" disabled={loading}>
-        {loading ? 'Sending...' : 'Send Magic Link'}
-      </button>
-      {message && <p>{message}</p>}
-    </form>
+    <div>
+      <h1>Sign In</h1>
+      <form onSubmit={handleSignIn}>
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          placeholder="Enter your email"
+          required
+        />
+        <button type="submit" disabled={loading}>
+          {loading ? 'Sending...' : 'Send Magic Link'}
+        </button>
+        {message && <p>{message}</p>}
+      </form>
+    </div>
   );
 }
