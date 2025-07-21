@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-21T05:43:48.753Z",
+  "lastUpdate": "2025-07-21T05:57:05.090Z",
   "items": [
+    {
+      "id": 51,
+      "title": "FY2025 EPS Estimate for Simulations Plus Lifted by Analyst",
+      "summary": "FY2025 EPS Estimate for Simulations Plus lifted by analyst, raising potential for increased earnings for the company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T05:54:45Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/fy2025-eps-estimate-for-simulations-plus-lifted-by-analyst/"
+    },
+    {
+      "id": 52,
+      "title": "Telus Digital (NYSE:TIXT) Downgraded to Hold Rating by Wall Street Zen",
+      "summary": "Telus Digital (NYSE:TIXT) was downgraded from a 'buy' rating to a 'hold' rating by Wall Street Zen analysts.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T05:50:43Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/telus-digital-nysetixt-downgraded-to-hold-rating-by-wall-street-zen/"
+    },
+    {
+      "id": 53,
+      "title": "rival-ai 0.1.2",
+      "summary": "Rival-ai 0.1.2 is a new library designed for testing and safeguarding the safety of AI agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T05:48:42Z",
+      "url": "https://pypi.org/project/rival-ai/0.1.2/"
+    },
+    {
+      "id": 54,
+      "title": "Getting off US tech: a guide - by Paris Marx - Disconnect",
+      "summary": "In his article 'Getting off US tech: a guide,' Paris Marx discusses his process of dropping US tech services and provides options for others to consider. This touches on the ethical considerations of relying on US tech companies for services.",
+      "source": "Disconnect.blog",
+      "category": "ethics",
+      "timestamp": "2025-07-20T05:47:01Z",
+      "url": "https://www.disconnect.blog/p/getting-off-us-tech-a-guide"
+    },
+    {
+      "id": 55,
+      "title": "The Oligarchs' Coup Against the Free Press Is Happening Now",
+      "summary": "The American information space is under attack by Silicon Valley oligarchs, leading to a hostile takeover and a coup against the free press.",
+      "source": "Thedissident.news",
+      "category": "ethics",
+      "timestamp": "2025-07-20T05:47:01Z",
+      "url": "https://www.thedissident.news/the-oligarchs-coup-against-the-free-press-is-happening-now/"
+    },
+    {
+      "id": 56,
+      "title": "Every",
+      "summary": "Every - A daily newsletter on what comes next in tech. 100K+ readers.",
+      "source": "Every.to",
+      "category": "innovation",
+      "timestamp": "2025-07-20T05:47:01Z",
+      "url": "https://every.to/"
+    },
+    {
+      "id": 57,
+      "title": "Confidence in AI Results (CAIR)",
+      "summary": "Confidence in AI Results (CAIR) - Co-authored by Assaf Elovic and Harrison Chase, explores reasons behind varying levels of adoption for AI products after a decade of observing the industry.",
+      "source": "Langchain.com",
+      "category": "research",
+      "timestamp": "2025-07-20T05:47:01Z",
+      "url": "https://blog.langchain.com/the-hidden-metric-that-determines-ai-product-success/"
+    },
+    {
+      "id": 58,
+      "title": "Critical Survey: Victory Square Technologies (VSQTF) vs. Its Rivals",
+      "summary": "Victory Square Technologies has a higher volatility compared to its competitors in the AI sector, as indicated by its beta of 1.17.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T05:45:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/critical-survey-victory-square-technologies-vsqtf-vs-its-rivals/"
+    },
+    {
+      "id": 59,
+      "title": "Critical Review: Ciber (OTCMKTS:CBRI) & Innodata (NASDAQ:INOD)",
+      "summary": "Comparing the stock performance of technology companies Ciber and Innodata based on analyst recommendations and risk factors.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T05:44:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/critical-review-ciber-otcmktscbri-innodata-nasdaqinod/"
+    },
     {
       "id": 51,
       "title": "Promising Blockchain Stocks To Follow Now – July 18th",
@@ -369,87 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T04:15:21Z",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/musk-says-xai-will-make-kid-friendly-app-baby-grok/articleshow/122793343.cms"
-    },
-    {
-      "id": 53,
-      "title": "Musk says xAI will make kid-friendly app called Baby Grok",
-      "summary": "Elon Musk's AI startup will launch a kid-friendly app called Baby Grok after controversy over chatbot's antisemitic comments.",
-      "source": "Bloomberg",
-      "category": "startups",
-      "timestamp": "2025-07-20T04:00:21Z",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-20/musk-says-xai-will-make-kid-friendly-app-called-baby-grok"
-    },
-    {
-      "id": 54,
-      "title": "Obama and his team, to destroy Trump’s presidency, effectuated Putin’s election interference goals",
-      "summary": "Obama and his team, to destroy Trump’s presidency, effectuated Putin’s election interference goals - When you read as much news as I do, it’s often very tempting to rely solely on other people’s summaries and analyses of the information that’s out there.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/obama_and_his_team_to_destroy_trump_s_presidency_effectuated_putin_s_election_interference_goals.html"
-    },
-    {
-      "id": 55,
-      "title": "Elon Musk says xAI is building Baby Grok to offer kid-friendly content",
-      "summary": "Elon Musk says xAI is building Baby Grok to offer kid-friendly content - xAI's focus on kid-friendly content could reshape educational tools, but raises concerns about AI's role in children's digital experiences.",
-      "source": "Crypto Briefing",
-      "category": "ethics",
-      "timestamp": "2025-07-20T03:59:05Z",
-      "url": "https://cryptobriefing.com/baby-grok-app-xai/"
-    },
-    {
-      "id": 56,
-      "title": "map-locations added to PyPI",
-      "summary": "map-locations added to PyPI - A Python library for mapping locations with interactive filtering and visualization capabilities",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T03:56:33Z",
-      "url": "https://pypi.org/project/map-locations/"
-    },
-    {
-      "id": 57,
-      "title": "James Gunn Explains Jor-El's Message In Superman: Whether It's Real And What It Means For The DC Universe",
-      "summary": "James Gunn explains the significance of Jor-El's message in Superman and questions whether the motives of Superman's birth parents are truly as they seemed.",
-      "source": "Screen Rant",
-      "category": "ethics",
-      "timestamp": "2025-07-20T03:52:50Z",
-      "url": "https://screenrant.com/superman-james-gunn-jor-el-message-real-confirmed/"
-    },
-    {
-      "id": 58,
-      "title": "Mind your posture: Doctors cite long hours in front of screen for increasing lifestyle diseases",
-      "summary": "Young professionals are experiencing a 30-40% increase in lifestyle diseases due to prolonged screen time, with the pressure to excel in  AI-driven workplaces exacerbating the issue.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-20T03:45:54Z",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/mind-your-posture-doctors-cite-long-hours-in-front-of-screen-for-increasing-lifestyle-diseases/articleshow/122793157.cms"
-    },
-    {
-      "id": 59,
-      "title": "DICT threatens suspension of Facebook citing platform toxicity",
-      "summary": "DICT threatens suspension of Facebook in the Philippines due to platform toxicity, urging Meta to regulate harmful content including fake news and deepfakes.",
-      "source": "Yugatech.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T03:45:07Z",
-      "url": "https://www.yugatech.com/news/dict-threatens-suspension-of-facebook-citing-platform-toxicity/"
-    },
-    {
-      "id": 60,
-      "title": " Gignac returns as Tigres see off Juárez",
-      "summary": "Tigres defeated Juárez in the Apertura 2025 with the return of André Pierre-Gignac and the debut of Ángel Correa.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T03:42:00Z",
-      "url": "https://onefootball.com/en/news/gignac-returns-as-tigres-see-off-juarez-41398775"
-    },
-    {
-      "id": 61,
-      "title": "Perplexity in talks with phone makers to pre-install Comet AI mobile browser on devices - Reuters",
-      "summary": "Perplexity is in discussions with phone manufacturers to pre-install Comet AI mobile browser on devices.",
-      "source": "Slashdot.org",
-      "category": "startups",
-      "timestamp": "2025-07-20T03:35:01Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178421354"
     }
   ]
 }
