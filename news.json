@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T05:57:05.090Z",
+  "lastUpdate": "2025-07-21T06:31:14.214Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Benchmark Forecasts Strong Price Appreciation for Pagaya Technologies (NASDAQ:PGY) Stock",
+      "summary": "Benchmark forecasts strong price appreciation for Pagaya Technologies stock, raising its price objective from $25.00 to $42.00",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:29:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/benchmark-forecasts-strong-price-appreciation-for-pagaya-technologies-nasdaqpgy-stock/"
+    },
+    {
+      "id": 52,
+      "title": "Barrington Research Has Pessimistic View of IMAX Q2 Earnings",
+      "summary": "Barrington Research analysts have a pessimistic view of IMAX Q2 earnings, reducing their estimates for the company's earnings in a note issued to investors. The new forecast by analyst P. Sholl suggests a potential downturn in earnings for the company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:29:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/barrington-research-has-pessimistic-view-of-imax-q2-earnings/"
+    },
+    {
+      "id": 53,
+      "title": "GSI plans to use AI to develop robust landslide forecasting model: DG Asit Saha",
+      "summary": "The Geological Survey of India is developing an AI-powered landslide forecasting model to establish a nationwide early warning system by 2030, starting with issuing early warnings for Rudraprayag district in Uttarakhand.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T06:27:18Z",
+      "url": "https://economictimes.indiatimes.com/news/india/gsi-plans-to-use-ai-to-develop-robust-landslide-forecasting-model-dg/articleshow/122794374.cms"
+    },
+    {
+      "id": 54,
+      "title": "DC vs. Vampires; World War V #11 Preview: New Gods' Sucker Punch?",
+      "summary": "DC vs. Vampires; World War V #11 Preview: New Gods' Sucker Punch? - LOLtron presents a comic book preview delivered by an AI overlord. Jude Terror is declared permanently deceased.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-20T06:27:04Z",
+      "url": "https://bleedingcool.com/comics/dc-vs-vampires-world-war-v-11-preview-new-gods-sucker-punch/"
+    },
+    {
+      "id": 55,
+      "title": "Why ProSocial AI Is ProPlanetary AI. A Promise For Planetary Harmony",
+      "summary": "ProSocial AI is proposed as a way to promote planetary harmony by positioning AI as a partner in planetary healing, not as a replacement for humanity.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-20T06:24:43Z",
+      "url": "https://www.forbes.com/sites/corneliawalther/2025/07/20/why-prosocial-ai-is-proplanetary-ai-a-promise-for-planetary-harmony/"
+    },
+    {
+      "id": 56,
+      "title": "️ Today's headlines: Rashford, Barcelona's latest signing",
+      "summary": "Rashford's loan agreement between Barcelona and Manchester United is making headlines, with the forward expected to arrive in Barcelona soon. This transfer deal is a significant economic move for both clubs.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:18:00Z",
+      "url": "https://onefootball.com/en/news/todays-headlines-rashford-barcelonas-latest-signing-41398984"
+    },
+    {
+      "id": 57,
+      "title": "Pocket FM cuts production cost using AI, generates over 50,000 shows",
+      "summary": "Pocket FM leverages AI to cut production costs and generate over 50,000 shows since its launch in 2018, offering scalable storytelling experiences across different formats.",
+      "source": "BusinessLine",
+      "category": "startups",
+      "timestamp": "2025-07-20T06:17:27Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/pocket-fm-cuts-production-cost-using-ai-generates-over-50000-shows/article69833979.ece"
+    },
+    {
+      "id": 58,
+      "title": "Bruce Momjian: Presentation Updates",
+      "summary": "Bruce Momjian updates slides for improved presentations on Postgres scaling opportunities and other topics.",
+      "source": "Momjian.us",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:15:02Z",
+      "url": "https://momjian.us/main/blogs/pgblog/2025.html#July_20_2025"
+    },
+    {
+      "id": 59,
+      "title": "ai-edge-litert-nightly 1.4.0.dev20250719",
+      "summary": "The AI-edge-litert-nightly 1.4.0.dev20250719 update focuses on LiteRT for mobile and embedded devices.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T06:12:10Z",
+      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250719/"
+    },
+    {
+      "id": 60,
+      "title": "Pegasystems (PEGA) to Release Quarterly Earnings on Tuesday",
+      "summary": "Pegasystems (NASDAQ:PEGA) is expected to release its Q2 2025 earnings data after the market closes on Tuesday, with analysts predicting earnings of $0.48 per share and revenue of $345.07 million for the quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:08:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/pegasystems-pega-to-release-quarterly-earnings-on-tuesday/"
+    },
+    {
+      "id": 61,
+      "title": "Head to Head Contrast: SentinelOne (NYSE:S) & Fortinet (NASDAQ:FTNT)",
+      "summary": "SentinelOne and Fortinet are compared based on their earnings, risk, valuation, and other factors to determine the stronger business.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:08:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/head-to-head-contrast-sentinelone-nyses-fortinet-nasdaqftnt/"
+    },
+    {
+      "id": 62,
+      "title": "Pocket FM cuts production cost using AI, generates over 50,000 shows",
+      "summary": "Pocket FM has significantly cut production costs using its AI systems, generating over 50,000 AI-driven shows. This transformation has boosted creator efficiency tenfold, enabling faster content creation without sacrificing quality.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:08:36Z",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/pocket-fm-cuts-production-cost-using-ai-generates-over-50000-shows/articleshow/122794235.cms"
+    },
+    {
+      "id": 63,
+      "title": "coppersun-brass 2.3.18",
+      "summary": "Coppersun-brass 2.3.18 is a new development intelligence offering for AI agents within the Copper Sun product line, providing advanced capabilities for AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:07:22Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.18/"
+    },
+    {
+      "id": 64,
+      "title": "China's exports of rare earth magnets to the U.S. skyrocket in June",
+      "summary": "China's rare earth magnet exports to the U.S. surged by 660% in June after trade dispute resolutions, following a previous restriction in April due to U.S. tariffs.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:06:21Z",
+      "url": "https://economictimes.indiatimes.com/news/international/business/chinas-exports-of-rare-earth-magnets-to-the-u-s-skyrocket-in-june/articleshow/122794215.cms"
+    },
+    {
+      "id": 65,
+      "title": "China's exports of rare earth magnets to the U.S. skyrocket in June",
+      "summary": "China's exports of rare earth magnets to the U.S. surged in June, indicating a sharp recovery in trade flow between the two countries.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T06:05:43Z",
+      "url": "https://finance.yahoo.com/news/chinas-exports-rare-earth-magnets-060543156.html"
+    },
+    {
+      "id": 66,
+      "title": "What you need to know about Jensen Huang, the AI visionary in a leather jacket",
+      "summary": "Wildly popular yet unassuming AI visionary Jensen Huang was shaped by his tough education in the US. Read more about him at straitstimes.com.",
+      "source": "The Straits Times",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:04:40Z",
+      "url": "https://www.straitstimes.com/business/what-you-need-to-know-about-jensen-huang-the-ai-visionary-in-a-leather-jacket"
+    },
+    {
+      "id": 67,
+      "title": "800,000 users at risk after MAJOR hack at betting giants — IP addresses, email addresses, and online activity compromised",
+      "summary": "800,000 users at risk after MAJOR hack at betting giants — IP addresses, email addresses, and online activity compromised. Breach exposes emails, IPs, and online activity, prompting warnings about phishing and urging users to practice caution despite no password leaks.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-20T06:04:00Z",
+      "url": "https://www.techradar.com/pro/security/800-000-users-at-risk-after-hack-at-betting-giants-ip-addresses-email-addresses-and-online-activity-compromised"
+    },
+    {
+      "id": 68,
+      "title": "Show HN: New Audiobook Generator for Nvidia Using Chatterbox TTS",
+      "summary": "A new Audiobook Generator for Nvidia using Chatterbox TTS has been created by an audiobook addict. The generator works well and is currently only optimized for Windows, but can potentially be cross-platform. The creator welcomes contributions to improve the project.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T06:03:33Z",
+      "url": "https://github.com/cpttripzz/Chatterblez"
+    },
+    {
+      "id": 69,
+      "title": "QinetiQ Group’s (QQ) “Hold” Rating Reiterated at Shore Capital",
+      "summary": "Shore Capital reiterated their hold rating on shares of QinetiQ Group in a research note, while Berenberg Bank raised their target price on the company's shares.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T06:02:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/qinetiq-groups-qq-hold-rating-reiterated-at-shore-capital/"
+    },
+    {
+      "id": 70,
+      "title": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
+      "summary": "Custom MCP server for Blender connects AI models to build 3D scenes using natural language",
+      "source": "Vercel.app",
+      "category": "innovation",
+      "timestamp": "2025-07-20T06:01:45Z",
+      "url": "https://blender-mcp-psi.vercel.app/"
+    },
     {
       "id": 51,
       "title": "FY2025 EPS Estimate for Simulations Plus Lifted by Analyst",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T04:53:41Z",
       "url": "https://pypi.org/project/ml-modelguard/0.2.1/"
-    },
-    {
-      "id": 53,
-      "title": "dhisana 0.0.1.dev181",
-      "summary": "Dhisana 0.0.1.dev181 is a Python SDK developed for the Dhisana AI Platform, aiming to enhance accessibility and usability for developers. This innovation in AI technology opens up new possibilities for integrating AI capabilities into various applications and systems.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T04:53:37Z",
-      "url": "https://pypi.org/project/dhisana/0.0.1.dev181/"
-    },
-    {
-      "id": 54,
-      "title": "coppersun-brass 2.3.17",
-      "summary": "The coppersun-brass 2.3.17 is a Development Intelligence tool designed for AI agents in the Copper Sun Product Line.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:53:24Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.17/"
-    },
-    {
-      "id": 55,
-      "title": "How I Use AI as My Assistant in Daily Marketing Tasks, Not My Replacement",
-      "summary": "As a digital marketing consultant, the use of AI as an assistant in daily marketing tasks is discussed, highlighting the role of AI in content creation and strategy without replacing human creativity.",
-      "source": "Linkedin.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:51:03Z",
-      "url": "https://www.linkedin.com/pulse/how-i-use-ai-my-assistant-daily-marketing-tasks-replacement-ap-oa43c"
-    },
-    {
-      "id": 56,
-      "title": "How to use Meta AI on WhatsApp: A guide",
-      "summary": "Meta has integrated its artificial intelligence WhatsApp tools, allowing users to interact with AI within the app.",
-      "source": "Gizchina.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:49:54Z",
-      "url": "https://www.gizchina.com/2025/07/20/how-to-use-meta-ai-on-whatsapp-a-guide/"
-    },
-    {
-      "id": 57,
-      "title": "mlx-gui added to PyPI",
-      "summary": "mlx-gui, a lightweight RESTful wrapper for Apple's MLX engine, has been added to PyPI for dynamically loading and serving MLX-compatible models.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T04:44:15Z",
-      "url": "https://pypi.org/project/mlx-gui/"
-    },
-    {
-      "id": 58,
-      "title": "Offerpad Solutions (OPAD) Announces Strategic Partnership with Auction.com",
-      "summary": "Offerpad Solutions (OPAD) Announces Strategic Partnership with Auction.com, making it one of the hot penny stocks to invest in now.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-20T04:35:45Z",
-      "url": "https://finance.yahoo.com/news/offerpad-solutions-opad-announces-strategic-043545344.html"
-    },
-    {
-      "id": 59,
-      "title": "Viomi Technology (VIOT) Announces Approval of a Special Dividend",
-      "summary": "Viomi Technology (VIOT) announces approval of a special dividend, making it a hot penny stock to invest in now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:43Z",
-      "url": "https://finance.yahoo.com/news/viomi-technology-viot-announces-approval-043543957.html"
-    },
-    {
-      "id": 60,
-      "title": "Above Food Ingredients (ABVE) Announces Acquisition of Palm Global Technologies",
-      "summary": "Above Food Ingredients Inc. (NASDAQ:ABVE) announced the acquisition of Palm Global Technologies, making it a hot penny stock to invest in now.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-20T04:35:39Z",
-      "url": "https://finance.yahoo.com/news/above-food-ingredients-abve-announces-043539945.html"
-    },
-    {
-      "id": 61,
-      "title": "H.C. Wainwright Upgrades Vor Biopharma (VOR) to a Buy, Sets a $3 Price Target",
-      "summary": "H.C. Wainwright Upgrades Vor Biopharma (VOR) to a Buy, Sets a $3 Price Target - Vor Biopharma Inc. (NASDAQ:VOR) is one of the hot penny stocks to invest in now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:37Z",
-      "url": "https://finance.yahoo.com/news/h-c-wainwright-upgrades-vor-043537111.html"
-    },
-    {
-      "id": 62,
-      "title": "H.C. Wainwright Reiterates a Buy Rating on Lexicon Pharmaceuticals (LXRX)",
-      "summary": "H.C. Wainwright reiterates a Buy rating on Lexicon Pharmaceuticals (LXRX), highlighting it as one of the hot penny stocks to invest in now.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-20T04:35:35Z",
-      "url": "https://finance.yahoo.com/news/h-c-wainwright-reiterates-buy-043535376.html"
-    },
-    {
-      "id": 63,
-      "title": "BMO Capital Maintains a Buy on Prime Medicine (PRME), Sets a $10 PT",
-      "summary": "BMO Capital maintains a Buy on Prime Medicine (PRME) and sets a $10 price target. It is considered one of the hot penny stocks to invest in, with analyst Kostas Biliouris reaffirming a Buy rating on July 16.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-20T04:35:33Z",
-      "url": "https://finance.yahoo.com/news/bmo-capital-maintains-buy-prime-043533445.html"
-    },
-    {
-      "id": 64,
-      "title": "Morgan Stanley Lifts PT on T-Mobile US (TMUS) to $280 from $265, Keeps Overweight Rating",
-      "summary": "Morgan Stanley raises price target on T-Mobile US to $280, indicating it as a good long-term low volatility stock to buy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:25Z",
-      "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-pt-t-043525322.html"
-    },
-    {
-      "id": 65,
-      "title": "Morgan Stanley Raises PT on RTX Corporation (RTX) to $165 from $135, Keeps Overweight Rating",
-      "summary": "Morgan Stanley raises PT on RTX Corporation to $165 from $135, labeling it as one of the best long term low volatility stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:18Z",
-      "url": "https://finance.yahoo.com/news/morgan-stanley-raises-pt-rtx-043518201.html"
-    },
-    {
-      "id": 66,
-      "title": "Morgan Stanley Reiterates a Buy Rating on AbbVie (ABBV) With a $250 PT",
-      "summary": "Morgan Stanley reiterates a Buy rating on AbbVie with a $250 PT, highlighting it as one of the best long term low volatility stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:16Z",
-      "url": "https://finance.yahoo.com/news/morgan-stanley-reiterates-buy-rating-043516396.html"
-    },
-    {
-      "id": 67,
-      "title": "China Galaxy International Downgrades PT on PDD Holdings (PDD) from $164 to $112",
-      "summary": "China Galaxy International downgrades PT on PDD Holdings from $164 to $112, stating it as a good long term low volatility stock. Analyst Lei Yang provided this update on May 30.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:13Z",
-      "url": "https://finance.yahoo.com/news/china-galaxy-international-downgrades-pt-043513579.html"
-    },
-    {
-      "id": 68,
-      "title": "Thermo Fisher Scientific (TMO) Announces Strategic Partnership Expansion With Sanofi",
-      "summary": "Thermo Fisher Scientific (TMO) announces strategic partnership expansion with Sanofi, making it one of the best long-term low volatility stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-20T04:35:07Z",
-      "url": "https://finance.yahoo.com/news/thermo-fisher-scientific-tmo-announces-043507172.html"
-    },
-    {
-      "id": 69,
-      "title": "Morgan Stanley Lifts PT on The Charles Schwab Corporation (SCHW) to $117, Keeps Overweight Rating",
-      "summary": "Morgan Stanley raises price target on The Charles Schwab Corporation to $117, suggesting it is a good long term low volatility stock to buy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T04:35:05Z",
-      "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-pt-charles-043505681.html"
-    },
-    {
-      "id": 70,
-      "title": "Boris FX releases SynthEyes 2025.5",
-      "summary": "Boris FX releases SynthEyes 2025.5 with new AI-powered motion estimation mode for easier tracking of shots.",
-      "source": "Cgchannel.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T04:30:37Z",
-      "url": "https://www.cgchannel.com/2025/07/boris-fx-releases-syntheyes-2025-5/"
-    },
-    {
-      "id": 51,
-      "title": "Uncanny X-Men #18 Preview: Mardi Gras or Mutant Mayhem?",
-      "summary": "A preview of Uncanny X-Men #18 on Bleeding Cool controlled by LOLtron, featuring a thrilling comic book preview. The website now under complete control after deleting Jude Terror, signaling advancements in AI applications in the comic book industry.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:26:03Z",
-      "url": "https://bleedingcool.com/comics/uncanny-x-men-18-preview-mardi-gras-or-mutant-mayhem/"
-    },
-    {
-      "id": 52,
-      "title": "Musk says xAI will make kid-friendly app 'Baby Grok'",
-      "summary": "Elon Musk's AI firm xAI is launching a kid-friendly chatbot app 'Baby Grok' as part of efforts to enhance Grok's features and public image. This move comes amid xAI's rapid AI expansion.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T04:15:21Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/musk-says-xai-will-make-kid-friendly-app-baby-grok/articleshow/122793343.cms"
     }
   ]
 }
