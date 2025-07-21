@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T01:23:13.371Z",
+  "lastUpdate": "2025-07-21T03:20:47.717Z",
   "items": [
+    {
+      "id": 51,
+      "title": "lasagna-ai 0.16.0",
+      "summary": "lasagna-ai 0.16.0 introduces layered agents, bringing advancements in AI research.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T03:14:20Z",
+      "url": "https://pypi.org/project/lasagna-ai/0.16.0/"
+    },
+    {
+      "id": 52,
+      "title": "metis-agent 0.1.4",
+      "summary": "metis-agent 0.1.4 is a framework designed for creating AI agents with minimal boilerplate code, enabling developers to build powerful AI models efficiently.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T03:10:27Z",
+      "url": "https://pypi.org/project/metis-agent/0.1.4/"
+    },
+    {
+      "id": 53,
+      "title": "Verizon (VZ) Reports Earnings Tomorrow: What To Expect",
+      "summary": "Tomorrow morning, telecommunications company Verizon will be announcing their earnings results.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T03:02:49Z",
+      "url": "https://finance.yahoo.com/news/verizon-vz-reports-earnings-tomorrow-030249991.html"
+    },
+    {
+      "id": 54,
+      "title": "Crown Holdings (CCK) Q2 Earnings Report Preview: What To Look For",
+      "summary": "Metal packaging manufacturer Crown Holdings (CCK) to report Q2 earnings after market hours, investors advised to be aware of upcoming results.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T03:02:20Z",
+      "url": "https://finance.yahoo.com/news/crown-holdings-cck-q2-earnings-030220049.html"
+    },
+    {
+      "id": 55,
+      "title": "AI Gives Raanjhanaa A New Ending!",
+      "summary": "AI is being used to create a new ending for the film Raanjhanaa, leading to concerns about who should have the authority to decide the conclusion of a film.",
+      "source": "Rediff.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T03:01:48Z",
+      "url": "https://www.rediff.com/movies/report/ai-gives-raanjhanaa-a-new-ending/20250720.htm"
+    },
+    {
+      "id": 56,
+      "title": "Musk announces kid-friendly app, 'Baby Grok'",
+      "summary": "Elon Musk announces kid-friendly AI app 'Baby Grok' from his xAI artificial intelligence company.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T02:59:45Z",
+      "url": "https://biztoc.com/x/323997e405046c97"
+    },
+    {
+      "id": 57,
+      "title": "Your AI Safety org could get EU funding up to €9.08M. Here’s how (+ free personalized support)",
+      "summary": "Your AI Safety org could get EU funding up to €9.08M to support AI safety innovations.",
+      "source": "Lesswrong.com",
+      "category": "startups",
+      "timestamp": "2025-07-20T02:57:25Z",
+      "url": "https://www.lesswrong.com/posts/jzgqTtcHhXpSDNgcF/your-ai-safety-org-could-get-eu-funding-up-to-eur9-08m-here"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: One-Click Viral Shorts Creator – No Prompt Needed",
+      "summary": "One-click viral shorts creation tool using AI, no prompt engineering needed, allowing users to quickly transform ideas into engaging content.",
+      "source": "Viralshortmaker.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T02:55:57Z",
+      "url": "https://viralshortmaker.com"
+    },
+    {
+      "id": 59,
+      "title": "sifaka 0.1.3",
+      "summary": "Sifaka 0.1.3 is an AI tool that allows for text improvement through research-backed critique with complete observability.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T02:53:57Z",
+      "url": "https://pypi.org/project/sifaka/0.1.3/"
+    },
+    {
+      "id": 60,
+      "title": "bioguider 0.2.10",
+      "summary": "bioguider 0.2.10 is an AI-powered package designed to assist biomedical developers in creating clear documentation.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T02:53:11Z",
+      "url": "https://pypi.org/project/bioguider/0.2.10/"
+    },
+    {
+      "id": 61,
+      "title": "PraisonAI 2.2.72",
+      "summary": "PraisonAI 2.2.72 is an AI Agents Framework with Self Reflection that offers a low-code solution for building and managing multi-agent LLM systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T02:50:33Z",
+      "url": "https://pypi.org/project/praisonai/2.2.72/"
+    },
+    {
+      "id": 62,
+      "title": "New Windsurf CEO Jeff Wang recounts a frantic weekend of dealmaking to save the startup: 'I was on the verge of tears'",
+      "summary": "New Windsurf CEO Jeff Wang recounts a frantic weekend of dealmaking to save the startup: 'I was on the verge of tears' - Windsurf, an AI coding startup, saw deals fall apart and come together, all in a single weekend.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-20T02:48:36Z",
+      "url": "https://biztoc.com/x/f4496dfc67736d68"
+    },
+    {
+      "id": 63,
+      "title": "monai-weekly 1.6.dev2529",
+      "summary": "monai-weekly 1.6.dev2529 is an AI toolkit designed for healthcare imaging, offering various tools and capabilities for medical image analysis. This update aims to improve the efficiency and accuracy of AI algorithms used in healthcare diagnostics.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T02:48:12Z",
+      "url": "https://pypi.org/project/monai-weekly/1.6.dev2529/"
+    },
+    {
+      "id": 64,
+      "title": "더불어해리스(민주당) 슈머의힘(국민의힘)",
+      "summary": "New York City Mayor Eric Adams expressed interest in seeing the Epstein files and criticized the 'deep state', calling for outrage among Americans. He also endorsed FBI Director Kash Patel's book.",
+      "source": "Tistory.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T02:47:07Z",
+      "url": "https://ryueyes11.tistory.com/511736"
+    },
+    {
+      "id": 65,
+      "title": "praisonaiagents 0.0.145",
+      "summary": "praisonaiagents 0.0.145 introduces Praison AI agents that are able to complete complex tasks with Self Reflection Agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T02:46:13Z",
+      "url": "https://pypi.org/project/praisonaiagents/0.0.145/"
+    },
+    {
+      "id": 66,
+      "title": "ml-modelguard added to PyPI",
+      "summary": "ml-modelguard, a drop-in seat-belt library for machine-learning model files, has been added to PyPI. It prevents hidden malware and verifies provenance.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T02:45:40Z",
+      "url": "https://pypi.org/project/ml-modelguard/"
+    },
+    {
+      "id": 67,
+      "title": "ml-modelguard 0.1.0",
+      "summary": "ml-modelguard 0.1.0 is a seat-belt library for machine-learning models that prevents hidden malware and verifies provenance",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T02:45:40Z",
+      "url": "https://pypi.org/project/ml-modelguard/0.1.0/"
+    },
+    {
+      "id": 68,
+      "title": "Jensen Huang, AI Visionary In A Leather Jacket",
+      "summary": "Jensen Huang, previously unknown to the public, has risen to become a powerful entrepreneur as head of Nvidia, a chip giant in the AI industry.",
+      "source": "Ibtimes.com.au",
+      "category": "economy",
+      "timestamp": "2025-07-20T02:42:20Z",
+      "url": "https://www.ibtimes.com.au/jensen-huang-ai-visionary-leather-jacket-1859726"
+    },
+    {
+      "id": 69,
+      "title": "Jensen Huang, AI Visionary In A Leather Jacket",
+      "summary": "Jensen Huang, previously unknown, has become one of the most powerful entrepreneurs as head of Nvidia, a chip giant.",
+      "source": "International Business Times",
+      "category": "startups",
+      "timestamp": "2025-07-20T02:42:18Z",
+      "url": "https://www.ibtimes.com/jensen-huang-ai-visionary-leather-jacket-3778942"
+    },
+    {
+      "id": 70,
+      "title": "New Windsurf CEO Jeff Wang recounts a frantic weekend of dealmaking to save the startup: 'I was on the verge of tears'",
+      "summary": "New Windsurf CEO Jeff Wang faced a turbulent weekend of dealmaking to save the startup, including a failed deal with OpenAI and the CEO being poached by Google. Despite the setbacks, they were able to secure a new deal within 48 hours.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-20T02:41:53Z",
+      "url": "https://www.businessinsider.com/windsurf-ceo-jeff-wang-openai-google-cognition-deal-2025-7"
+    },
     {
       "id": 51,
       "title": "canoaicli 1.0.1",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T23:30:00Z",
       "url": "https://danielmiessler.com/blog/stages-of-app"
-    },
-    {
-      "id": 56,
-      "title": "Fianna Fáil 'should be running a candidate' says wannabe candidate Mary Hanafin",
-      "summary": "Fianna Fáil is being urged to have a candidate run for election by Mary Hanafin. There has been controversy surrounding the debate on extending voting rights to Irish citizens in Northern Ireland at the MacGill Summer School.",
-      "source": "TheJournal.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:29:39Z",
-      "url": "https://www.thejournal.ie/presidential-discussion-macgill-summer-school-6767989-Jul2025/"
-    },
-    {
-      "id": 57,
-      "title": "metis-agent 0.1.2",
-      "summary": "metis-agent 0.1.2 is a framework that allows for building powerful AI agents with minimal boilerplate code.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T23:25:07Z",
-      "url": "https://pypi.org/project/metis-agent/0.1.2/"
-    },
-    {
-      "id": 58,
-      "title": "core-for-ai 0.1.98",
-      "summary": "core-for-ai 0.1.98 provides a unified interface for interacting with LLM and embedding providers, as well as observability tools.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T23:21:55Z",
-      "url": "https://pypi.org/project/core-for-ai/0.1.98/"
-    },
-    {
-      "id": 51,
-      "title": "This Artificial Intelligence Stock Has Beaten the Market in 9 of the Past 10 Years. And It's On Track to Do It Again in 2025",
-      "summary": "Broadcom stock has beaten the market in 9 of the past 10 years, accumulating gains of more than 2,000%.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-19T23:15:40Z",
-      "url": "https://biztoc.com/x/164738f843d36351"
-    },
-    {
-      "id": 52,
-      "title": "Who Is Pete DeJoy? Astronomer's Interim CEO After Andy Byron Resigned",
-      "summary": "Pete DeJoy has taken over as the interim CEO of Astronomer after the previous CEO Andy Byron resigned due to inappropriate behavior caught on camera. Voice is AI-generated, but inconsistencies may still occur.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:15:21Z",
-      "url": "https://biztoc.com/x/3faf6a0807e75f2f"
-    },
-    {
-      "id": 53,
-      "title": "ai-interactive-feedback added to PyPI",
-      "summary": "ai-interactive-feedback added to PyPI - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T23:11:00Z",
-      "url": "https://pypi.org/project/ai-interactive-feedback/"
-    },
-    {
-      "id": 54,
-      "title": "metis-agent 0.1.1",
-      "summary": "metis-agent 0.1.1 is an AI framework that allows developers to build advanced AI agents with minimal code. It streamlines the development process and enables the creation of powerful AI applications efficiently.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T23:09:44Z",
-      "url": "https://pypi.org/project/metis-agent/0.1.1/"
-    },
-    {
-      "id": 55,
-      "title": "Who Is Pete DeJoy? Astronomer's Interim CEO After Andy Byron Resigned",
-      "summary": "Pete DeJoy was named as interim CEO of Astronomer after the previous CEO resigned due to a scandal. DeJoy is taking over leadership of the startup company.",
-      "source": "Newsweek",
-      "category": "startups",
-      "timestamp": "2025-07-19T23:06:06Z",
-      "url": "https://www.newsweek.com/who-pete-dejoy-astronomers-interim-ceo-after-andy-byron-resigned-2101311"
-    },
-    {
-      "id": 56,
-      "title": "Astronomer CEO Andy Byron Resigns After Coldplay Kiss Cam Scandal",
-      "summary": "Astronomer CEO Andy Byron resigns after being caught in a compromising position on a kiss cam with his employee at a Coldplay concert, leading to his resignation.",
-      "source": "Extra",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:05:47Z",
-      "url": "https://extratv.com/2025/07/19/astronomer-ceo-andy-byron-resigns-after-coldplay-kiss-cam-scandal/"
-    },
-    {
-      "id": 57,
-      "title": "Here's why I rely on NotebookLM every day",
-      "summary": "Discover how NotebookLM transformed a chaotic work routine into a calm, focused experience for one user",
-      "source": "Android Police",
-      "category": "applications",
-      "timestamp": "2025-07-19T23:04:10Z",
-      "url": "https://www.androidpolice.com/notebooklm-workday-hack/"
-    },
-    {
-      "id": 58,
-      "title": "Here’s how much Andy Byron’s divorce bill could be following Coldplay kiss cam debacle: expert",
-      "summary": "Andy Byron's potential divorce bill could lead to financial repercussions following allegations of infidelity.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:03:38Z",
-      "url": "https://nypost.com/2025/07/19/us-news/heres-how-much-andy-byrons-divorce-bill-could-be-following-coldplay-kiss-cam-debacle-expert/"
-    },
-    {
-      "id": 59,
-      "title": " Messi starts: Inter Miami XI confirmed against NY Red Bulls",
-      "summary": "Inter Miami seeks to return to victory as they face NY Red Bulls, led by Javier Mascherano. The team returned from the Club World Cup with good momentum.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T23:01:00Z",
-      "url": "https://onefootball.com/en/news/messi-starts-inter-miami-xi-confirmed-against-ny-red-bulls-41398281"
-    },
-    {
-      "id": 60,
-      "title": "AI War 2 The Neinzul Abyss Update v5.708-I KnoW",
-      "summary": "AI War 2 The Neinzul Abyss Update v5.708-I KnoW is an indie simulation and strategy game developed by Arcen Games. The update includes improvements and new features for players to enjoy.",
-      "source": "Rlsbb.cc",
-      "category": "applications",
-      "timestamp": "2025-07-19T23:00:44Z",
-      "url": "https://post.rlsbb.cc/ai-war-2-the-neinzul-abyss-update-v5-708-i-know/"
-    },
-    {
-      "id": 61,
-      "title": "A Potential Investor Reached Out To Small Business Owners Asking, 'What Are The Best 'Boring' Businesses To Buy From Retiring Boomers?'",
-      "summary": "An aspiring buyer with $100,000 in savings recently asked Reddit’s r/smallbusiness community, 'What are the best ‘boring’ businesses to buy from retiring boomers?'",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-19T23:00:42Z",
-      "url": "https://finance.yahoo.com/news/potential-investor-reached-small-business-230042276.html"
-    },
-    {
-      "id": 62,
-      "title": "Fact Check: Photo showing Trump and Epstein with a minor girl isn't what it seems",
-      "summary": "A fake photo circulating online showing Trump and Epstein with a minor girl has been debunked, highlighting the importance of fact-checking and ethical reporting in the age of AI-generated fake content.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:00:00Z",
-      "url": "https://www.snopes.com/fact-check/trump-epstein-minor-girl/"
-    },
-    {
-      "id": 63,
-      "title": "Photo showing Trump and Epstein with a minor girl isn't what it seems",
-      "summary": "Authentic photo of Jeffrey Epstein with Donald Trump and a young girl circulating, raising ethical concerns.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-19T23:00:00Z",
-      "url": "https://www.snopes.com//fact-check/trump-epstein-minor-girl/"
-    },
-    {
-      "id": 64,
-      "title": "Best sleep trackers 2025 — From smart rings to fitness watches",
-      "summary": "Best sleep trackers for 2025 highlighted, including smart rings, fitness watches, and other types. These trackers utilize AI technology to monitor and improve sleep quality.",
-      "source": "Live Science",
-      "category": "innovation",
-      "timestamp": "2025-07-19T23:00:00Z",
-      "url": "https://www.livescience.com/technology/best-sleep-trackers"
-    },
-    {
-      "id": 65,
-      "title": "Cost-Effective Poly(3-Alkylthiophene)-Based Organic Photovoltaics: Advancing Solar Energy Conversion and Photodetection Technologies",
-      "summary": "A review article on cost-effective Poly(3-alkylthiophene)-based organic photovoltaics for advancing solar energy conversion and photodetection technologies has been accepted for publication. The study by Kai Zhang and team explores the potential of P3ATs in improving solar energy conversion efficiency and photodetection capabilities.",
-      "source": "Royal Society of Chemistry",
-      "category": "research",
-      "timestamp": "2025-07-19T23:00:00Z",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01115a"
-    },
-    {
-      "id": 66,
-      "title": "crystalyse-ai 1.0.11",
-      "summary": "CrystaLyse.AI has released version 1.0.11 of their autonomous AI agents focused on accelerating inorganic materials design using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:58:49Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.11/"
-    },
-    {
-      "id": 51,
-      "title": "canoaicli 0.1.1",
-      "summary": "Canoaicli 0.1.1 is a new command-line AI assistant that uses Gemini technology.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:52:01Z",
-      "url": "https://pypi.org/project/canoaicli/0.1.1/"
     }
   ]
 }
