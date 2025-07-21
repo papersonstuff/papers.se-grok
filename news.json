@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-21T17:55:54.580Z",
+  "lastUpdate": "2025-07-21T18:26:08.901Z",
   "items": [
+    {
+      "id": 51,
+      "title": "aivim 0.3.3.2",
+      "summary": "The AI-enhanced text editor aivim 0.3.3.2 offers code assistance and generation, making it more efficient for programmers to write and edit code.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T18:24:43Z",
+      "url": "https://pypi.org/project/aivim/0.3.3.2/"
+    },
+    {
+      "id": 52,
+      "title": "Google’s Android chief Sameer Samat says you don’t need a computer science degree anymore, here’s what will really matter in big tech.",
+      "summary": "Sameer Samat, Google's Android chief, believes future coders may not need to 'code' with AI handling routine tasks. He emphasizes the importance of understanding systems and solving real problems in the tech industry.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-20T18:18:47Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/googles-android-chief-sameer-samat-says-you-dont-need-a-computer-science-degree-anymore-heres-what-will-really-matter-in-big-tech-/articleshow/122800090.cms"
+    },
+    {
+      "id": 53,
+      "title": "This massive Samsung Smart TV is back to its lowest price",
+      "summary": "This big Samsung UHD Smart TV is once again back to selling at its lowest price, making it a good saving opportunity.",
+      "source": "Neowin",
+      "category": "economy",
+      "timestamp": "2025-07-20T18:14:01Z",
+      "url": "https://www.neowin.net/deals/this-massive-samsung-smart-tv-is-back-to-its-lowest-price/"
+    },
+    {
+      "id": 54,
+      "title": "Amazon's Emissions Climbed 6% in 2024 on Data Center Buildout",
+      "summary": "Amazon's emissions increased by 6% in 2024 due to data center expansions, contributing to concerns about sustainability and environmental impact.",
+      "source": "Bloomberg",
+      "category": "economy",
+      "timestamp": "2025-07-20T18:13:42Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-16/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout"
+    },
+    {
+      "id": 55,
+      "title": "What Eliezer got wrong about evolution",
+      "summary": "Eliezer's article discusses misconceptions about AI and evolution, focusing on the understanding of AI, how evolution works, stability of AI goals, and controllability of AI.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-20T18:12:24Z",
+      "url": "https://www.lesswrong.com/posts/DAvrAxusHdes9ZXxp/what-eliezer-got-wrong-about-evolution"
+    },
+    {
+      "id": 56,
+      "title": " Cruzeiro line up to defend top spot against Juventude",
+      "summary": "Cruzeiro prepares to defend their top spot in the Brasileirão against Juventude at Mineirão in the 14th round of the championship.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T18:02:00Z",
+      "url": "https://onefootball.com/en/news/cruzeiro-line-up-to-defend-top-spot-against-juventude-41401245"
+    },
+    {
+      "id": 57,
+      "title": "Atos Group publishes estimated 2025 half-year liquidity position reflecting limited cash consumption in the half",
+      "summary": "Atos Group announces its estimated 2025 half-year liquidity position, showing minimal cash consumption during that period.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-20T18:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118371/0/en/Atos-Group-publishes-estimated-2025-half-year-liquidity-position-reflecting-limited-cash-consumption-in-the-half.html"
+    },
+    {
+      "id": 58,
+      "title": "“I believe”: The Red String Theory binds TikTok with stories of fateful love",
+      "summary": "The 'Red String Theory' phenomenon on TikTok, which suggests soul mates are connected by an invisible thread, raises ethical questions about promoting unrealistic expectations or beliefs about romantic relationships.",
+      "source": "The Daily Dot",
+      "category": "ethics",
+      "timestamp": "2025-07-20T18:00:00Z",
+      "url": "https://www.dailydot.com/culture/red-string-theory-explained/"
+    },
     {
       "id": 51,
       "title": "SPACs Are Back - You Should Be Worried",
@@ -378,78 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T16:27:00Z",
       "url": "https://www.techradar.com/pro/amd-threadripper-pro-9995wx-could-sell-for-usd13-000-yes-its-over-2x-the-price-of-the-96-core-epyc-9655-and-i-just-wished-intel-had-a-direct-competitor"
-    },
-    {
-      "id": 63,
-      "title": "Spider-Verse vs. Venomverse #3 Preview: Betrayal Is the New Black",
-      "summary": "Spider-Verse vs. Venomverse #3 preview on Bleeding Cool, managed by superior artificial intelligence, focuses on betrayal in the storyline.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:26:04Z",
-      "url": "https://bleedingcool.com/comics/spider-verse-vs-venomverse-3-preview-betrayal-is-the-new-black/"
-    },
-    {
-      "id": 51,
-      "title": "Sun Jul 20 '25 Announcement from AI Car Genie",
-      "summary": "The AI Car Genie has been developed to provide car owners with a better understanding of their vehicles and give new drivers confidence in their car knowledge.",
-      "source": "Indiegogo.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T16:22:56Z",
-      "url": "https://www.indiegogo.com/projects/ai-car-genie"
-    },
-    {
-      "id": 52,
-      "title": "Veltrixa.io unveils AI-powered financial ecosystem",
-      "summary": "Veltrixa.io unveils AI-powered financial ecosystem, democratizing financial access and empowering users in decentralized wealth creation.",
-      "source": "Crypto Briefing",
-      "category": "startups",
-      "timestamp": "2025-07-20T16:16:26Z",
-      "url": "https://cryptobriefing.com/ai-financial-ecosystem-velt-token/"
-    },
-    {
-      "id": 53,
-      "title": "Hawley Says Congress Must Step in to Fix AI Companies’ Mass Theft of Copyrighted Works",
-      "summary": "Congress is looking into the mass ingestion of copyrighted works by AI companies, with concerns over copyright infringement and the need for regulation to address these issues.",
-      "source": "IPWatchdog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T16:15:19Z",
-      "url": "https://ipwatchdog.com/2025/07/20/hawley-says-congress-must-step-in-to-fix-ai-companies-mass-theft-of-copyrighted-works/id=190469/"
-    },
-    {
-      "id": 54,
-      "title": "No One Knows Anything About AI",
-      "summary": "Two different narratives about using AI to automate computer programming are presented, highlighting the lack of knowledge and understanding about AI.",
-      "source": "Calnewport.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:13:51Z",
-      "url": "https://calnewport.com/no-one-knows-anything-about-ai/"
-    },
-    {
-      "id": 55,
-      "title": "EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware",
-      "summary": "EncryptHub is targeting Web3 developers with fake AI platforms to deploy malware, highlighting the ethical implications of deceptive tactics used by threat actors in the cyber realm.",
-      "source": "Internet",
-      "category": "ethics",
-      "timestamp": "2025-07-20T16:13:00Z",
-      "url": "https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html"
-    },
-    {
-      "id": 56,
-      "title": "Astronomer CEO Andy Byron Resigns Amid Coldplay Concert Controversy",
-      "summary": "Astronomer CEO Andy Byron resigns after being seen embracing an employee on large video screens during a Coldplay concert.",
-      "source": "Billboard",
-      "category": "ethics",
-      "timestamp": "2025-07-20T16:11:12Z",
-      "url": "http://www.billboard.com/music/music-news/astronomer-ceo-andy-byron-resigns-coldplay-concert-1236025439/"
-    },
-    {
-      "id": 57,
-      "title": "crystalyse-ai 1.0.12",
-      "summary": "CrystaLyse.AI has released version 1.0.12, which features autonomous AI agents for faster inorganic materials design using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:09:44Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.12/"
     }
   ]
 }
