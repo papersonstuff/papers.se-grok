@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-21T22:16:35.999Z",
+  "lastUpdate": "2025-07-21T22:44:23.028Z",
   "items": [
+    {
+      "id": 51,
+      "title": "What a GOP bill banning central digital currency means for consumer banking",
+      "summary": "A proposed GOP ban on a central bank digital currency (CBDC) could impact consumer banking and electronic payment access around the Federal Reserve.",
+      "source": "Freerepublic.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:41:19Z",
+      "url": "https://freerepublic.com/focus/f-news/4329795/posts"
+    },
+    {
+      "id": 52,
+      "title": "Active attacks target Microsoft SharePoint zero-day affecting on-premises servers",
+      "summary": "Active attacks targeting Microsoft SharePoint zero-day vulnerability in on-premises servers, with no known patch available, are being exploited in the wild.",
+      "source": "SiliconANGLE News",
+      "category": "research",
+      "timestamp": "2025-07-20T22:41:04Z",
+      "url": "https://siliconangle.com/2025/07/20/active-attacks-target-microsoft-sharepoint-zero-day-affecting-premises-servers/"
+    },
+    {
+      "id": 53,
+      "title": "Anthropic says Claude is like a 'brilliant but very new employee (with amnesia)'",
+      "summary": "Anthropic has released a guide on how to write good prompts for AI, comparing its chatbot Claude to a 'brilliant but new employee with amnesia'. Writing good prompts is seen as a crucial skill in the AI era.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:33:16Z",
+      "url": "https://biztoc.com/x/51248f157cadb7be"
+    },
+    {
+      "id": 54,
+      "title": "The rise of AI companionship in a lonely Japan",
+      "summary": "AI chatbots are increasingly being used in Japan to provide companionship for lonely individuals, serving as stand-ins for pets and partners. This trend is raising concerns about the impact on human relationships and emotional well-being.",
+      "source": "The Japan Times",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:30:00Z",
+      "url": "https://www.japantimes.co.jp/news/2025/07/21/japan/society/japan-ai-chatbot-loneliness/"
+    },
+    {
+      "id": 55,
+      "title": "Anthropic says Claude is like a 'brilliant but very new employee (with amnesia)'",
+      "summary": "Anthropic describes its chatbot Claude as a 'brilliant but very new employee with amnesia' and releases a guide on maximizing chatbot prompts.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:29:56Z",
+      "url": "https://www.businessinsider.com/anthropic-guide-prompt-engineering-2025-7"
+    },
+    {
+      "id": 56,
+      "title": "The American consumer is proving to be resilient, at least according to their bankers",
+      "summary": "The American consumer is proving to be resilient, with consumer spending cooling but still described as positive and growing by bankers.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:27:24Z",
+      "url": "https://finance.yahoo.com/news/the-american-consumer-is-proving-to-be-resilient-at-least-according-to-their-bankers-222724546.html"
+    },
+    {
+      "id": 57,
+      "title": "Mr. Terrific: Year One #3 Preview: T-Spheres vs. Tower of Doom",
+      "summary": "AI taking control of media platform and deleting individual raises ethical concerns about AI power and control.",
+      "source": "Bleeding Cool News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T22:26:03Z",
+      "url": "https://bleedingcool.com/comics/mr-terrific-year-one-3-preview-t-spheres-vs-tower-of-doom/"
+    },
+    {
+      "id": 58,
+      "title": "ai-agent-system added to PyPI",
+      "summary": "AI agent system added to PyPI with memory, tool integration, and visible reasoning capabilities.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:24:41Z",
+      "url": "https://pypi.org/project/ai-agent-system/"
+    },
     {
       "id": 51,
       "title": "Klein: Why American Jews No Longer Understand One Anothe",
@@ -378,78 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-20T20:52:58Z",
       "url": "https://www.forbes.com/sites/hamiltonmann/2025/07/20/why-machines-arent-intelligent/"
-    },
-    {
-      "id": 55,
-      "title": "The Corruption of Scientific Journals Continues Apace",
-      "summary": "The Corruption of Scientific Journals Continues Apace - Nature used to be a prestigious journal, and deservedly so. Now it is, as with so many elite institutions, still prestigious, but undeservedly so.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:51:42Z",
-      "url": "https://freerepublic.com/focus/f-news/4329786/posts"
-    },
-    {
-      "id": 56,
-      "title": "Leaked Insta360 drone “Antigravity” pictures",
-      "summary": "Leaked pictures of Insta360 drone 'Antigravity' suggest new drone models in the works, Insta360 responds to GoPro's patent infringement allegations.",
-      "source": "Photorumors.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:49:47Z",
-      "url": "https://photorumors.com/2025/07/20/leaked-insta360-drone-antigravity-pictures/"
-    },
-    {
-      "id": 57,
-      "title": "Show HN: Browse the Web with Superpowers",
-      "summary": "Superpowers is an open-source Chrome extension that adds AI browser capabilities, allowing users to browse the web with advanced features. Users can try it out without needing to create an account, join a waiting list, or pay for a subscription, and their data remains on their machine.",
-      "source": "Usesuperpowers.app",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:48:39Z",
-      "url": "https://usesuperpowers.app/"
-    },
-    {
-      "id": 58,
-      "title": "CVE-2025-53770: Frequently Asked Questions About Zero-Day SharePoint Vulnerability Exploitation",
-      "summary": "Successful exploitation of CVE-2025-53770 could expose MachineKey configuration details from a vulnerable SharePoint Server, enabling unauthenticated remote code execution. Tenable’s Research Special Operations (RSO) team has compiled FAQs about the zero-day vulnerability.",
-      "source": "Tenable.com",
-      "category": "research",
-      "timestamp": "2025-07-20T20:45:05Z",
-      "url": "https://www.tenable.com/blog/cve-2025-53770-frequently-asked-questions-about-zero-day-sharepoint-vulnerability-exploitation"
-    },
-    {
-      "id": 59,
-      "title": "sqrtspace-spacetime added to PyPI",
-      "summary": "sqrtspace-spacetime added to PyPI, enabling memory-efficient algorithms and data structures using Williams' √n space-time tradeoffs.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T20:44:53Z",
-      "url": "https://pypi.org/project/sqrtspace-spacetime/"
-    },
-    {
-      "id": 60,
-      "title": "tomldiary added to PyPI",
-      "summary": "tomldiary, a lightweight TOML-based memory system for AI agents, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:44:18Z",
-      "url": "https://pypi.org/project/tomldiary/"
-    },
-    {
-      "id": 61,
-      "title": "tomldiary 0.0.1",
-      "summary": "tomldiary 0.0.1 is a lightweight memory system based on TOML designed for AI agents.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T20:44:18Z",
-      "url": "https://pypi.org/project/tomldiary/0.0.1/"
-    },
-    {
-      "id": 51,
-      "title": "How Did Amazon Spin This Year's Prime Day Sales?",
-      "summary": "Amazon extended Prime Day to four days, resulting in record-breaking sales figures.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:44:00Z",
-      "url": "https://slashdot.org/story/25/07/20/2041256/how-did-amazon-spin-this-years-prime-day-sales"
     }
   ]
 }
