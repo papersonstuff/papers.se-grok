@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-21T14:48:05.138Z",
+  "lastUpdate": "2025-07-21T15:17:51.525Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Middle-class salary a scam? CoinSwitch founder calls out the illusion behind flights, phones, and quiet financial stress",
+      "summary": "Middle-class salaries in India are not keeping up with rising food prices, leading to a decline in purchasing power according to CoinSwitch founder Ashish Singhal.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:16:39Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/middle-class-salary-a-scam-coinswitch-founder-calls-out-the-illusion-behind-flights-phones-and-quiet-financial-stress/articleshow/122798604.cms"
+    },
+    {
+      "id": 52,
+      "title": "Bragar Eagel & Squire, P.C. Urges Investors in UnitedHealth, Bitfarms, or Reddit to Inquire About Their Rights in Class Action Lawsuits",
+      "summary": "Bragar Eagel & Squire, P.C. urges investors in UnitedHealth, Bitfarms, or Reddit to inquire about their rights in class action lawsuits. Litigation Partner Brandon Walker encourages investors who suffered losses in UnitedHealth, Bitfarms, or Reddit to contact him directly to discuss their options.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118347/0/en/Bragar-Eagel-Squire-P-C-Urges-Investors-in-UnitedHealth-Bitfarms-or-Reddit-to-Inquire-About-Their-Rights-in-Class-Action-Lawsuits.html"
+    },
+    {
+      "id": 53,
+      "title": "AMD's FSR 4 gets a big boost in compatibility as OptiScaler now supports upconverting any modern upscaler to FSR 4 with frame-gen, as long as the game isn't Vulkan-based or has anti-cheat",
+      "summary": "AMD's FSR 4 gains compatibility boost with OptiScaler, allowing for upconversion of modern upscalers to FSR 4 with frame-gen. The mod now supports any game with DLSS 2+ or FSR 2+ as long as it doesn't require Vulkan or an anti-cheat, requiring an RX 9000-series GPU and patience.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-20T15:14:23Z",
+      "url": "https://www.tomshardware.com/pc-components/gpus/amds-fsr-4-gets-a-big-boost-in-compatibility-as-optiscaler-now-supports-upconverting-any-modern-upscaler-to-fsr-4-with-frame-gen-as-long-as-the-game-isnt-vulkan-based-or-has-anti-cheat"
+    },
+    {
+      "id": 54,
+      "title": "Are Central Banks Ready for AI to Rewrite the Rules of the Economy?",
+      "summary": "Central banks are considering how artificial intelligence will shape the global economy, central banking, and financial forecasting with insight from Larry Summers.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:10:34Z",
+      "url": "https://biztoc.com/x/0cadf5f41224131c"
+    },
+    {
+      "id": 55,
+      "title": "Fiendish New Mexico sheriff’s deputy fatally throws helpless baby rabbit against side of car: video shows",
+      "summary": "A New Mexico sheriff's deputy has been placed on leave after a video showed him fatally throwing a baby rabbit against the side of his car. The deputy was smiling in the video, sparking concerns about ethical behavior and animal cruelty.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T15:09:39Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329738/posts"
+    },
+    {
+      "id": 56,
+      "title": "When is it the best time to post on Show HN?",
+      "summary": "Myriade offers an AI copilot that can transform data into answers and go beyond traditional NL2SQL methods. Users can install and try it for free to enhance their data analysis capabilities.",
+      "source": "Myriade.ai",
+      "category": "applications",
+      "timestamp": "2025-07-20T15:08:02Z",
+      "url": "https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn"
+    },
+    {
+      "id": 57,
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Vestis, Reckitt, and Tempus and Encourages Investors to Contact the Firm",
+      "summary": "Bragar Eagel & Squire, P.C. is reminding investors of class action lawsuits filed against Vestis, Reckitt, and Tempus, encouraging affected investors to reach out to discuss their options with Litigation Partner Brandon Walker.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-20T15:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118343/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-Vestis-Reckitt-and-Tempus-and-Encourages-Investors-to-Contact-the-Firm.html"
+    },
+    {
+      "id": 58,
+      "title": "Donald Trump Touts 'Record' Polls Following Epstein Files Controversy",
+      "summary": "President Donald Trump touts 'record' poll numbers on Truth Social, claiming to have reached as high as 95 percent in some polls.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:06:59Z",
+      "url": "https://biztoc.com/x/b94f00fc66e59671"
+    },
+    {
+      "id": 59,
+      "title": "Map Shows 10 Wealthiest Suburbs In America",
+      "summary": "Map created by Newsweek shows the 10 wealthiest suburbs in America based on data provided by GOBankingRates for 2025.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:06:52Z",
+      "url": "https://biztoc.com/x/ba5652211fd5e087"
+    },
+    {
+      "id": 60,
+      "title": "DAVID BLACKMON: Trump’s Big, Beautiful Bill Spells Bad News For Renewables",
+      "summary": "David Blackmon discusses the potential implications of Trump's bill on renewables, highlighting the challenges faced in the energy sector as a balancing act.",
+      "source": "The Daily Caller",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:06:34Z",
+      "url": "https://dailycaller.com/2025/07/20/opinion-study-finds-wind-solar-hard-hit-by-trumps-obbba-enverus-david-blackmon/"
+    },
+    {
+      "id": 61,
+      "title": "Show HN: Myriade – Ask your database questions in plain English",
+      "summary": "Myriade is a tool that allows users to ask questions to their database in plain English, making it easier to retrieve information. The creator was frustrated with the effort required to answer simple questions using SQL, prompting him to develop this solution.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T15:05:16Z",
+      "url": "https://github.com/myriade-ai/myriade"
+    },
+    {
+      "id": 62,
+      "title": "Robots on the Jobsite: Why Construction Automation Is About Safety, Not Pink Slips",
+      "summary": "Bedrock Robotics raised $80 million to retrofit construction equipment with AI for safety and to address labor shortages, not to eliminate jobs.",
+      "source": "Decrypt",
+      "category": "startups",
+      "timestamp": "2025-07-20T15:01:03Z",
+      "url": "https://decrypt.co/330817/robots-jobsite-why-construction-automation-about-safety-not-pink-slips"
+    },
+    {
+      "id": 63,
+      "title": "The many faces of crypto crime and the relentless cat-and-mouse chase",
+      "summary": "Crypto crime is on the rise, leading to a cat-and-mouse chase between criminals and authorities. The article explores the different facets of crypto crime and the challenges faced in addressing this issue.",
+      "source": "CryptoSlate",
+      "category": "ethics",
+      "timestamp": "2025-07-20T15:00:36Z",
+      "url": "https://cryptoslate.com/the-many-faces-of-crypto-crime-and-the-relentless-cat-and-mouse-chase/"
+    },
+    {
+      "id": 64,
+      "title": "Embedding human rights into crypto isn’t optional, it’s foundational",
+      "summary": "Embedding human rights into crypto systems is a necessity for digital freedom. Self-custody, privacy-by-default, and censorship-resistant personhood must be core design principles.",
+      "source": "Cointelegraph",
+      "category": "ethics",
+      "timestamp": "2025-07-20T15:00:00Z",
+      "url": "https://cointelegraph.com/news/human-rights-crypto"
+    },
+    {
+      "id": 65,
+      "title": "July 20 editorial cartoons",
+      "summary": "Several political cartoons on July 20 touched on various ethical issues, such as the potential consequences of AI replacing human workers and attempts to distract from important news stories.",
+      "source": "The Week Magazine",
+      "category": "ethics",
+      "timestamp": "2025-07-20T15:00:00Z",
+      "url": "https://theweek.com/cartoons/july-20-2025-editorial-cartoons"
+    },
+    {
+      "id": 66,
+      "title": "3 Misleading AI Metaphors And One To Make It Right",
+      "summary": "The article highlights three misleading AI metaphors and provides a better alternative to improve understanding of artificial intelligence. The focus is on how these metaphors can impact our perception of AI and its implications.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:57:31Z",
+      "url": "https://www.forbes.com/sites/pialauritzen/2025/07/20/3-misleading-ai-metaphors-and-one-to-make-it-right/"
+    },
+    {
+      "id": 67,
+      "title": "How old was your burglar? Hebrew University researchers can tell",
+      "summary": "Hebrew University researchers have developed a method to accurately determine a person's age from small DNA samples, which could be helpful in forensic investigations. This innovation could revolutionize the field of DNA analysis and law enforcement.",
+      "source": "Haaretz",
+      "category": "research",
+      "timestamp": "2025-07-20T14:56:26Z",
+      "url": "https://www.haaretz.com/science-and-health/2025-07-20/ty-article/how-old-was-your-burglar-hebrew-university-researchers-can-tell/00000198-283e-dc83-a1f9-79ff4fed0000"
+    },
+    {
+      "id": 68,
+      "title": "In recent layoffs, AI's role may be bigger than companies are letting on",
+      "summary": "In recent layoffs, companies may be downplaying the role of AI as a factor in job cuts by using terms like reorganization and restructuring. This raises ethical concerns about transparency and workers' understanding of the impact of automation on their jobs.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:55:22Z",
+      "url": "https://biztoc.com/x/f9c6f9de56cd23da"
+    },
     {
       "id": 51,
       "title": "chunkhound 2.8.1",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T13:52:21Z",
       "url": "https://www.livemint.com/companies/tata-communications-private-5g-push-spectrum-allotment-global-uncertainty-trump-tariffs-amur-lakshminarayanan-telecom-11753001972457.html"
-    },
-    {
-      "id": 54,
-      "title": "LGI Homes (NASDAQ:LGIH) sheds US$96m, company earnings and investor returns have been trending downwards for past five years",
-      "summary": "LGI Homes has lost US$96m, with decreasing company earnings and investor returns over the past five years, highlighting the risks of long-term investing in companies that do not succeed.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:51:53Z",
-      "url": "https://finance.yahoo.com/news/lgi-homes-nasdaq-lgih-sheds-135153017.html"
-    },
-    {
-      "id": 55,
-      "title": "Why I love flip phones and how buying a Galaxy Z Flip 7 will change your life",
-      "summary": "I was excited for what the future would bring when Samsung unveiled its first Galaxy Fold back in 2019 but I wasn't completely sold on the form factor. I enjoyed playing around with it but I didn't feel it would serve me well as a daily driver.",
-      "source": "SamMobile",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:50:09Z",
-      "url": "https://www.sammobile.com/news/got-one-of-these-iphones-theyll-get-you-a-cheaper-galaxy-z-flip-7/"
-    },
-    {
-      "id": 56,
-      "title": "AMD's quiet move may shock gaming GPU market",
-      "summary": "AMD's move in the gaming GPU market may surprise consumers after years of high prices due to crypto and the emergence of AI technologies.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:48:26Z",
-      "url": "https://biztoc.com/x/9a81a41e1752058a"
-    },
-    {
-      "id": 57,
-      "title": "UK health service AI tool generated a set of false diagnoses for one patient that led to him being wrongly invited to a diabetes screening appointment",
-      "summary": "UK health service AI tool generated false diagnoses for a patient, leading to a mistaken invitation for a diabetes screening appointment due to fabricated medical details.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:48:13Z",
-      "url": "https://biztoc.com/x/27c8c9d2ba501190"
-    },
-    {
-      "id": 58,
-      "title": " Mbangula to Bundesliga, Insigne-Lazio, Theo’s replacement: today ",
-      "summary": "Serie A clubs are actively participating in the transfer market to strengthen their squads for the upcoming season.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:46:00Z",
-      "url": "https://onefootball.com/en/news/mbangula-to-bundesliga-insigne-lazio-theos-replacement-today-41400352"
-    },
-    {
-      "id": 59,
-      "title": "Debunking the “wealth shock” illusion: A strategic rebuttal of five myths undermining China’s true economic fragility.",
-      "summary": "Debunking the 'wealth shock' illusion: A strategic rebuttal of five myths undermining China’s true economic fragility. This is a Gateway Hispanic article.",
-      "source": "Gatewayhispanic.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:45:00Z",
-      "url": "https://gatewayhispanic.com/2025/07/debunking-wealth-shock-illusion-strategic-rebuttal-five-myths/"
-    },
-    {
-      "id": 60,
-      "title": "Solid-State Batteries Still Face Hurdles But The Prize Is Huge For EVs",
-      "summary": "Solid-state batteries could revolutionize the electric vehicle industry by reducing prices, weight, and potentially doubling range. However, experts are divided on the potential hurdles the technology may face.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:43:05Z",
-      "url": "https://www.forbes.com/sites/neilwinton/2025/07/20/solid-state-batteries-still-face-hurdles-but-the-prize-is-huge-for-evs/"
-    },
-    {
-      "id": 61,
-      "title": "UK health service AI tool generated a set of false diagnoses for one patient that led to him being wrongly invited to a diabetes screening appointment",
-      "summary": "UK health service AI tool generates false diagnoses leading to patient being wrongly invited to diabetes screening appointment, raising concerns about regulation and usage of AI in healthcare.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:41:56Z",
-      "url": "https://fortune.com/2025/07/20/uk-health-service-ai-tool-false-diagnoses-patient-screening-nhs-anima-health-annie/"
-    },
-    {
-      "id": 62,
-      "title": "flow-gpu added to PyPI",
-      "summary": "flow-gpu added to PyPI - Simplified SDK for Foundry Compute Platform - GPU compute made simple",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:41:46Z",
-      "url": "https://pypi.org/project/flow-gpu/"
-    },
-    {
-      "id": 63,
-      "title": "flow-compute added to PyPI",
-      "summary": "flow-compute added to PyPI, simplifying SDK for Foundry Compute Platform and making GPU compute simple",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:40:55Z",
-      "url": "https://pypi.org/project/flow-compute/"
-    },
-    {
-      "id": 64,
-      "title": "Hassidic group bans use of AI",
-      "summary": "A Hassidic group has banned the use of AI for teens, as per guidelines from the Hasidic Committee for Media Guidance and Advice.",
-      "source": "Israelnationalnews.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:40:48Z",
-      "url": "https://www.israelnationalnews.com/news/411962"
-    },
-    {
-      "id": 65,
-      "title": "Musk announces plans to create kid-friendly AI app",
-      "summary": "Musk plans to create a kid-friendly AI app as part of the Grok chatbot developed by his xAI project.",
-      "source": "RT",
-      "category": "applications",
-      "timestamp": "2025-07-20T13:38:29Z",
-      "url": "https://www.rt.com/news/621724-musk-kid-ai-baby-grok/"
-    },
-    {
-      "id": 66,
-      "title": "flow-acc added to PyPI",
-      "summary": "flow-acc added to PyPI - Simplified SDK for Foundry Compute Platform - GPU compute made simple",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:37:51Z",
-      "url": "https://pypi.org/project/flow-acc/"
-    },
-    {
-      "id": 67,
-      "title": "Nvidia Will Continue Controlling The AI Board",
-      "summary": "Nvidia will continue to dominate the AI board, according to an investment thesis. The author compares the role of Nvidia in the AI ecosystem to that of a queen in a chess match.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-20T13:37:20Z",
-      "url": "https://biztoc.com/x/14d9cd504c1a6fc0"
-    },
-    {
-      "id": 68,
-      "title": "Tech News (July 14–July 18): China Cuts US Debt, Fed Signals Rate Shift, Netflix And TSMC Lead Earnings Beat; Meta-AWS Push AI",
-      "summary": "China cuts US debt, Fed signals rate shift, Meta-AWS push AI, and blockbuster earnings reshape industry outlook.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:37:19Z",
-      "url": "https://biztoc.com/x/8881387e265e0886"
-    },
-    {
-      "id": 69,
-      "title": "mithril-ai added to PyPI",
-      "summary": "mithril-ai added a simplified SDK for Foundry Compute Platform to PyPI, making GPU compute simple.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T13:36:33Z",
-      "url": "https://pypi.org/project/mithril-ai/"
-    },
-    {
-      "id": 51,
-      "title": "'Should I Replace The Car Before I Retire?' Soon-To-Retire Driver Debates Trading In 2016 Buick To Avoid Repairs On A Fixed Income",
-      "summary": "As retirement approaches, many people take stock of their financial needs — including whether or not their car will last the next chapter of life. One soon-to-retire driver is debating trading in their 2016 Buick to avoid costly repairs on a fixed income.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T13:22:41Z",
-      "url": "https://finance.yahoo.com/news/replace-car-retire-soon-retire-132241254.html"
-    },
-    {
-      "id": 52,
-      "title": "Topnotch Crypto launches innovative cloud mining app to help users easily increase the value of digital assets",
-      "summary": "Topnotch Crypto launches innovative cloud mining app to help users easily increase the value of digital assets",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T13:22:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118325/0/en/Topnotch-Crypto-launches-innovative-cloud-mining-app-to-help-users-easily-increase-the-value-of-digital-assets.html"
     }
   ]
 }
