@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T07:54:24.768Z",
+  "lastUpdate": "2025-07-21T08:24:49.958Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Applied Digital (NASDAQ:APLD) Shares Gap Up – Time to Buy?",
+      "summary": "Applied Digital Corporation (NASDAQ:APLD) shares gapped up prior to trading on Friday, opening at $11.47. The stock last traded at $11.61 with a high volume of shares being traded.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:23:05Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/applied-digital-nasdaqapld-shares-gap-up-time-to-buy/"
+    },
+    {
+      "id": 52,
+      "title": "Contrasting Surgery Partners (NASDAQ:SGRY) and Wellness Center Usa (OTCMKTS:WCUI)",
+      "summary": "Surgery Partners and Wellness Center Usa, both medical companies, are being compared based on the strength of their risk and institutional ownership, in order to determine which is the superior business.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-20T08:21:41Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/contrasting-surgery-partners-nasdaqsgry-and-wellness-center-usa-otcmktswcui/"
+    },
+    {
+      "id": 53,
+      "title": "BMO Capital Markets Forecasts Strong Price Appreciation for International Business Machines (NYSE:IBM) Stock",
+      "summary": "BMO Capital Markets forecasts strong price appreciation for IBM stock with a target price increase from $260.00 to $300.00.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T08:21:34Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/bmo-capital-markets-forecasts-strong-price-appreciation-for-international-business-machines-nyseibm-stock/"
+    },
+    {
+      "id": 54,
+      "title": "api-mocker 0.2.0",
+      "summary": "api-mocker 0.2.0 is a production-ready FastAPI mock server with AI-powered features like generation, analytics, testing framework, and real-time dashboard, which has garnered over 3000 downloads for accelerated API development.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T08:21:22Z",
+      "url": "https://pypi.org/project/api-mocker/0.2.0/"
+    },
+    {
+      "id": 55,
+      "title": "ollamabench added to PyPI",
+      "summary": "ollamabench, a benchmark tool for consumer hardware for AI inference using llm models, is now available on PyPI. It includes features such as version and quantization detection.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T08:18:10Z",
+      "url": "https://pypi.org/project/ollamabench/"
+    },
+    {
+      "id": 56,
+      "title": "Cwm LLC Has $1.61 Million Stock Position in Digital Realty Trust, Inc. (NYSE:DLR)",
+      "summary": "Cwm LLC reduced its holdings in Digital Realty Trust, Inc. by 1.7% during the 1st quarter, holding $1.61 million in stock position.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:16:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/cwm-llc-has-1-61-million-stock-position-in-digital-realty-trust-inc-nysedlr/"
+    },
+    {
+      "id": 57,
+      "title": "Top Blockchain Stocks To Research – July 17th",
+      "summary": "Top Blockchain Stocks To Research – July 17th - Oracle, Applied Digital, Riot Platforms, BTCS, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:07:06Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/top-blockchain-stocks-to-research-july-17th/"
+    },
+    {
+      "id": 58,
+      "title": "Promising Entertainment Stocks To Consider – July 17th",
+      "summary": "BigBear.ai, Alibaba Group, Warner Bros. Discovery, Roblox, and Walt Disney are the five Entertainment stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:04:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/promising-entertainment-stocks-to-consider-july-17th/"
+    },
+    {
+      "id": 59,
+      "title": "GeneDx Holdings Corp. (NASDAQ:WGS) Shares Acquired by New York State Common Retirement Fund",
+      "summary": "New York State Common Retirement Fund increased its holdings in GeneDx Holdings Corp., an AI-related company, by 26.2% during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:04:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/genedx-holdings-corp-nasdaqwgs-shares-acquired-by-new-york-state-common-retirement-fund/"
+    },
+    {
+      "id": 60,
+      "title": "New York State Common Retirement Fund Grows Holdings in Astera Labs, Inc. (NASDAQ:ALAB)",
+      "summary": "New York State Common Retirement Fund increased its stake in Astera Labs, Inc. during the 1st quarter, according to its recent filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:04:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/new-york-state-common-retirement-fund-grows-holdings-in-astera-labs-inc-nasdaqalab/"
+    },
+    {
+      "id": 61,
+      "title": "Deep Dive: Unpacking PayPal’s Core Product Stack",
+      "summary": "PayPal's core product stack is being examined in depth, showcasing its significant impact and influence within the fintech industry.",
+      "source": "Finextra",
+      "category": "applications",
+      "timestamp": "2025-07-20T08:03:22Z",
+      "url": "https://www.finextra.com/blogposting/28928/deep-dive-unpacking-paypals-core-product-stack"
+    },
+    {
+      "id": 62,
+      "title": "Jack Dorsey Pumps $10M Into a Nonprofit Focused on Open Source Social Media",
+      "summary": "Jack Dorsey has invested $10 million in a nonprofit focused on open source social media, aiming to fund experimental projects that could transform the social media landscape.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T08:02:00Z",
+      "url": "https://news.slashdot.org/story/25/07/20/058235/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media"
+    },
+    {
+      "id": 63,
+      "title": "Why Most AI Apps Fail Before Launch and How to Beat the Odds",
+      "summary": "Despite the buzz around artificial intelligence, many promising AI applications fail to launch or reach their full potential due to challenges in scaling and functionality.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-20T08:01:59Z",
+      "url": "https://www.geeky-gadgets.com/?p=464320"
+    },
+    {
+      "id": 64,
+      "title": "OMBAR DC42 Dash Cam Review – A 4K+1080p dash cam with dual-band WiFi and GPS",
+      "summary": "The OMBAR DC42 Dash Cam is a high-quality dash cam kit with 4K and 1080p cameras, dual-band WiFi, and GPS functionality, making it a useful tool for capturing footage while driving.",
+      "source": "CNX Software",
+      "category": "applications",
+      "timestamp": "2025-07-20T08:01:02Z",
+      "url": "https://www.cnx-software.com/2025/07/20/ombar-dc42-dash-cam-review-a-4k1080p-dash-cam-with-dual-band-wifi-and-gps/"
+    },
+    {
+      "id": 65,
+      "title": "Booz Allen Hamilton Holding Corporation (NYSE:BAH) Shares Sold by New York State Common Retirement Fund",
+      "summary": "New York State Common Retirement Fund reduced its stake in Booz Allen Hamilton Holding Corporation, according to recent filings with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T08:00:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/booz-allen-hamilton-holding-corporation-nysebah-shares-sold-by-new-york-state-common-retirement-fund/"
+    },
+    {
+      "id": 66,
+      "title": "The 10 most popular college majors and median salaries | College Connection",
+      "summary": "Collegebound students can find information on the 10 most popular majors and their median salaries at BestColleges.com.",
+      "source": "MyCentralJersey.com",
+      "category": "research",
+      "timestamp": "2025-07-20T08:00:53Z",
+      "url": "https://www.mycentraljersey.com/story/news/education/college/2025/07/20/the-10-most-popular-college-majors-and-their-median-salaries/85256670007/"
+    },
+    {
+      "id": 67,
+      "title": "Week in review: Google fixes zero-day vulnerability in Chrome, critical SQL injection flaw in FortiWeb",
+      "summary": "Google patched a zero-day vulnerability in Chrome and a critical SQL injection flaw in FortiWeb last week, showcasing ongoing advancements in cybersecurity technologies.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-20T08:00:07Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/20/week-in-review-google-fixes-zero-day-vulnerability-in-chrome-critical-sql-injection-flaw-in-fortiweb/"
+    },
+    {
+      "id": 68,
+      "title": "Microsoft Weekly: Windows 10 end of support toolkits, new builds, and more",
+      "summary": "Microsoft Weekly features toolkits and info on the end of Windows 10 support, new Windows 11 preview builds, and updates on uBlock Origin for Chrome.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-20T08:00:01Z",
+      "url": "https://www.neowin.net/news/microsoft-weekly-windows-10-end-of-support-toolkits-new-builds-and-more/"
+    },
+    {
+      "id": 69,
+      "title": "Why business schools need to teach character development",
+      "summary": "Business schools are considering the importance of teaching character development, reflecting the original focus of early business schools. Programs to help students discover their vocation are becoming more prominent in higher education.",
+      "source": "Fast Company",
+      "category": "ethics",
+      "timestamp": "2025-07-20T08:00:00Z",
+      "url": "https://www.fastcompany.com/91368523/business-schools-mba-character-development"
+    },
+    {
+      "id": 70,
+      "title": "Louisiana State Employees Retirement System Reduces Stock Position in Extreme Networks, Inc. (NASDAQ:EXTR)",
+      "summary": "Louisiana State Employees Retirement System reduced its stock position in Extreme Networks, Inc. in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-20T07:58:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/louisiana-state-employees-retirement-system-reduces-stock-position-in-extreme-networks-inc-nasdaqextr/"
+    },
     {
       "id": 51,
       "title": "Here's what the biggest names in tech and business think AI means for white-collar jobs",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T06:38:55Z",
       "url": "https://www.etfdailynews.com/2025/07/20/head-to-head-contrast-lenovo-group-otcmktslnvgy-vs-dell-technologies-nysedell/"
-    },
-    {
-      "id": 63,
-      "title": "Man credits ChatGPT for his 27 kg weight loss in 6 months but learnt a bigger lesson for life",
-      "summary": "Man credits ChatGPT for his 27 kg weight loss in 6 months with the help of his AI assistant Arthur, who provided meal planning, exercise routines, and content calendar management.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T06:36:57Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/man-credits-chatgpt-for-his-27-kg-weight-loss-in-6-months-but-learnt-a-bigger-lesson-for-life/articleshow/122794404.cms"
-    },
-    {
-      "id": 64,
-      "title": "Public companies account for 29% of Bertrandt Aktiengesellschaft's (ETR:BDT) ownership, while private companies account for 25%",
-      "summary": "Public companies own 29% of Bertrandt Aktiengesellschaft, while private companies own 25%. Ownership by public companies suggests a significant influence on the company's economic activities.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:34:52Z",
-      "url": "https://finance.yahoo.com/news/public-companies-account-29-bertrandt-063452577.html"
-    },
-    {
-      "id": 65,
-      "title": "EU-China summit, Shanghai AI conference, Taiwan recall votes",
-      "summary": "EU-China summit, Shanghai AI conference, Taiwan recall votes - Welcome to Your Week in Asia.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:32:40Z",
-      "url": "https://biztoc.com/x/f82ec9387c8df8e8"
-    },
-    {
-      "id": 66,
-      "title": " Messi and friends put on a show as Inter Miami thrash New York",
-      "summary": "Messi and Inter Miami reunite for a victory in the MLS by thrashing the New York Red Bulls.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T06:31:00Z",
-      "url": "https://onefootball.com/en/news/messi-and-friends-put-on-a-show-as-inter-miami-thrash-new-york-41399012"
-    },
-    {
-      "id": 51,
-      "title": "Benchmark Forecasts Strong Price Appreciation for Pagaya Technologies (NASDAQ:PGY) Stock",
-      "summary": "Benchmark forecasts strong price appreciation for Pagaya Technologies stock, raising its price objective from $25.00 to $42.00",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:29:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/benchmark-forecasts-strong-price-appreciation-for-pagaya-technologies-nasdaqpgy-stock/"
-    },
-    {
-      "id": 52,
-      "title": "Barrington Research Has Pessimistic View of IMAX Q2 Earnings",
-      "summary": "Barrington Research analysts have a pessimistic view of IMAX Q2 earnings, reducing their estimates for the company's earnings in a note issued to investors. The new forecast by analyst P. Sholl suggests a potential downturn in earnings for the company.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:29:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/barrington-research-has-pessimistic-view-of-imax-q2-earnings/"
-    },
-    {
-      "id": 53,
-      "title": "GSI plans to use AI to develop robust landslide forecasting model: DG Asit Saha",
-      "summary": "The Geological Survey of India is developing an AI-powered landslide forecasting model to establish a nationwide early warning system by 2030, starting with issuing early warnings for Rudraprayag district in Uttarakhand.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T06:27:18Z",
-      "url": "https://economictimes.indiatimes.com/news/india/gsi-plans-to-use-ai-to-develop-robust-landslide-forecasting-model-dg/articleshow/122794374.cms"
-    },
-    {
-      "id": 54,
-      "title": "DC vs. Vampires; World War V #11 Preview: New Gods' Sucker Punch?",
-      "summary": "DC vs. Vampires; World War V #11 Preview: New Gods' Sucker Punch? - LOLtron presents a comic book preview delivered by an AI overlord. Jude Terror is declared permanently deceased.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-20T06:27:04Z",
-      "url": "https://bleedingcool.com/comics/dc-vs-vampires-world-war-v-11-preview-new-gods-sucker-punch/"
-    },
-    {
-      "id": 55,
-      "title": "Why ProSocial AI Is ProPlanetary AI. A Promise For Planetary Harmony",
-      "summary": "ProSocial AI is proposed as a way to promote planetary harmony by positioning AI as a partner in planetary healing, not as a replacement for humanity.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-20T06:24:43Z",
-      "url": "https://www.forbes.com/sites/corneliawalther/2025/07/20/why-prosocial-ai-is-proplanetary-ai-a-promise-for-planetary-harmony/"
-    },
-    {
-      "id": 56,
-      "title": "️ Today's headlines: Rashford, Barcelona's latest signing",
-      "summary": "Rashford's loan agreement between Barcelona and Manchester United is making headlines, with the forward expected to arrive in Barcelona soon. This transfer deal is a significant economic move for both clubs.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:18:00Z",
-      "url": "https://onefootball.com/en/news/todays-headlines-rashford-barcelonas-latest-signing-41398984"
-    },
-    {
-      "id": 57,
-      "title": "Pocket FM cuts production cost using AI, generates over 50,000 shows",
-      "summary": "Pocket FM leverages AI to cut production costs and generate over 50,000 shows since its launch in 2018, offering scalable storytelling experiences across different formats.",
-      "source": "BusinessLine",
-      "category": "startups",
-      "timestamp": "2025-07-20T06:17:27Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/pocket-fm-cuts-production-cost-using-ai-generates-over-50000-shows/article69833979.ece"
-    },
-    {
-      "id": 58,
-      "title": "Bruce Momjian: Presentation Updates",
-      "summary": "Bruce Momjian updates slides for improved presentations on Postgres scaling opportunities and other topics.",
-      "source": "Momjian.us",
-      "category": "innovation",
-      "timestamp": "2025-07-20T06:15:02Z",
-      "url": "https://momjian.us/main/blogs/pgblog/2025.html#July_20_2025"
-    },
-    {
-      "id": 59,
-      "title": "ai-edge-litert-nightly 1.4.0.dev20250719",
-      "summary": "The AI-edge-litert-nightly 1.4.0.dev20250719 update focuses on LiteRT for mobile and embedded devices.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T06:12:10Z",
-      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250719/"
-    },
-    {
-      "id": 60,
-      "title": "Pegasystems (PEGA) to Release Quarterly Earnings on Tuesday",
-      "summary": "Pegasystems (NASDAQ:PEGA) is expected to release its Q2 2025 earnings data after the market closes on Tuesday, with analysts predicting earnings of $0.48 per share and revenue of $345.07 million for the quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:08:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/pegasystems-pega-to-release-quarterly-earnings-on-tuesday/"
-    },
-    {
-      "id": 61,
-      "title": "Head to Head Contrast: SentinelOne (NYSE:S) & Fortinet (NASDAQ:FTNT)",
-      "summary": "SentinelOne and Fortinet are compared based on their earnings, risk, valuation, and other factors to determine the stronger business.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:08:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/head-to-head-contrast-sentinelone-nyses-fortinet-nasdaqftnt/"
-    },
-    {
-      "id": 62,
-      "title": "Pocket FM cuts production cost using AI, generates over 50,000 shows",
-      "summary": "Pocket FM has significantly cut production costs using its AI systems, generating over 50,000 AI-driven shows. This transformation has boosted creator efficiency tenfold, enabling faster content creation without sacrificing quality.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-20T06:08:36Z",
-      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/pocket-fm-cuts-production-cost-using-ai-generates-over-50000-shows/articleshow/122794235.cms"
-    },
-    {
-      "id": 63,
-      "title": "coppersun-brass 2.3.18",
-      "summary": "Coppersun-brass 2.3.18 is a new development intelligence offering for AI agents within the Copper Sun product line, providing advanced capabilities for AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T06:07:22Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.18/"
-    },
-    {
-      "id": 64,
-      "title": "China's exports of rare earth magnets to the U.S. skyrocket in June",
-      "summary": "China's rare earth magnet exports to the U.S. surged by 660% in June after trade dispute resolutions, following a previous restriction in April due to U.S. tariffs.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:06:21Z",
-      "url": "https://economictimes.indiatimes.com/news/international/business/chinas-exports-of-rare-earth-magnets-to-the-u-s-skyrocket-in-june/articleshow/122794215.cms"
-    },
-    {
-      "id": 65,
-      "title": "China's exports of rare earth magnets to the U.S. skyrocket in June",
-      "summary": "China's exports of rare earth magnets to the U.S. surged in June, indicating a sharp recovery in trade flow between the two countries.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T06:05:43Z",
-      "url": "https://finance.yahoo.com/news/chinas-exports-rare-earth-magnets-060543156.html"
-    },
-    {
-      "id": 66,
-      "title": "What you need to know about Jensen Huang, the AI visionary in a leather jacket",
-      "summary": "Wildly popular yet unassuming AI visionary Jensen Huang was shaped by his tough education in the US. Read more about him at straitstimes.com.",
-      "source": "The Straits Times",
-      "category": "innovation",
-      "timestamp": "2025-07-20T06:04:40Z",
-      "url": "https://www.straitstimes.com/business/what-you-need-to-know-about-jensen-huang-the-ai-visionary-in-a-leather-jacket"
     }
   ]
 }
