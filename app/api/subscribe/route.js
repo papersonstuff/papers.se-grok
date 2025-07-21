@@ -15,7 +15,7 @@ export async function POST() {
     payment_method_types: ['card'],
     line_items: [
       {
-        price: 'price_12345', // Replace with your Stripe Price ID
+        price: 'price_1RmaN8CAVp7xmAFpmiDR1xT4', // Replace with your Stripe Price ID
         quantity: 1,
       },
     ],
