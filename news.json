@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-21T21:40:42.672Z",
+  "lastUpdate": "2025-07-21T21:51:10.085Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ghost-brain 0.1.1",
+      "summary": "Ghost-brain 0.1.1 offers advanced memory management and RAG capabilities for AI assistants, with CLI and environment variable configuration.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T21:47:43Z",
+      "url": "https://pypi.org/project/ghost-brain/0.1.1/"
+    },
+    {
+      "id": 52,
+      "title": "freegpt 1.30.9",
+      "summary": "freegpt 1.30.9 is a library that allows users to interact with multiple AI APIs, making it easier to access and utilize different AI services. This innovation has the potential to streamline AI development and improve efficiency in AI-related projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:44:27Z",
+      "url": "https://pypi.org/project/freegpt/1.30.9/"
+    },
+    {
+      "id": 53,
+      "title": " Line-ups confirmed: Belgrano and Racing face off in Córdoba",
+      "summary": "Belgrano and Racing are set to face off in Córdoba as Racing looks to secure its first points in the Clausura Tournament of the Argentinian soccer league.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:44:00Z",
+      "url": "https://onefootball.com/en/news/line-ups-confirmed-belgrano-and-racing-face-off-in-cordoba-41401958"
+    },
+    {
+      "id": 54,
+      "title": "Show HN: Kara Auto Translate – Free English to ASL Translation, Open Beta",
+      "summary": "Kara Auto Translate (KAT), an AI tool that translates English into American Sign Language (ASL) video, is launching a public beta to gather feedback from the Deaf community and beyond. It is free to try and aims to provide a valuable tool for the Deaf community.",
+      "source": "Kara.tech",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:42:30Z",
+      "url": "https://www.kara.tech"
+    },
+    {
+      "id": 55,
+      "title": "e3md 0.2.0",
+      "summary": "e3md 0.2.0 is a library designed for machine learning on physical tensors.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T21:42:21Z",
+      "url": "https://pypi.org/project/e3md/0.2.0/"
+    },
+    {
+      "id": 56,
+      "title": "batchata 0.3.5",
+      "summary": "Batchata 0.3.5 introduces batch processing for AI models with cost tracking and state persistence.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:42:04Z",
+      "url": "https://pypi.org/project/batchata/0.3.5/"
+    },
+    {
+      "id": 57,
+      "title": "US Stock market prediction: Will Wall Street perform in green on Monday?",
+      "summary": "Traders are hoping for a positive performance on Monday for the US stock market indexes S&P 500, Dow Jones, and Nasdaq.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-20T21:41:09Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-will-wall-street-perform-in-green-on-monday/articleshow/122801683.cms"
+    },
     {
       "id": 51,
       "title": "Chris Martin warns Coldplay audience at first concert after ‘kiss cam’ scandal",
@@ -387,69 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T20:26:27Z",
       "url": "https://pypi.org/project/tensorial/0.4.4/"
-    },
-    {
-      "id": 66,
-      "title": "Fantastic Four: Fanfare #3 Preview: Ben Grimm's Great Escape",
-      "summary": "Fantastic Four: Fanfare #3 Preview on the Bleeding Cool website controlled by LOLtron, featuring Ben Grimm's great escape",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:26:03Z",
-      "url": "https://bleedingcool.com/comics/fantastic-four-fanfare-3-preview-ben-grimms-great-escape/"
-    },
-    {
-      "id": 67,
-      "title": "Burgeoning Hedge Strategy Amplifies Commercial Technology In Defense",
-      "summary": "Defense spending emphasizes new capabilities like unmanned systems, AI, and space-based sensors led by commercial companies.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:25:50Z",
-      "url": "https://www.forbes.com/sites/mikebrown/2025/07/20/burgeoning-hedge-strategy-amplifies-commercial-technology-in-defense/"
-    },
-    {
-      "id": 68,
-      "title": "After Kiss Cam Humiliation, Betrayed CEO’s Wife And HR Chief’s Husband Fuel Divorce Rumors",
-      "summary": "CEO resigns after a scandal involving his wife and HR chief's husband, fueling divorce rumors",
-      "source": "Boredpanda.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:22:46Z",
-      "url": "https://www.boredpanda.com/after-kiss-cam-humilliation-betrayed-ceos-wife-and-hr-chiefs-husband-take-action/"
-    },
-    {
-      "id": 69,
-      "title": "Is 51 too old for the job market? New data reveals ageism is on the rise",
-      "summary": "New data shows ageism in the job market is on the rise, with a quarter of HR professionals considering workers aged 51-55 as \"older\".",
-      "source": "ABC News (AU)",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:18:34Z",
-      "url": "https://www.abc.net.au/news/2025-07-21/ageism-work-employers-age-bias-hiring/105543944"
-    },
-    {
-      "id": 51,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks given pointers on how to comply with EU AI rules, which will apply to these models from August 2.",
-      "source": "iTnews",
-      "category": "research",
-      "timestamp": "2025-07-20T20:16:00Z",
-      "url": "https://www.itnews.com.au/news/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules-618905?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed"
-    },
-    {
-      "id": 52,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks provided guidance on complying with EU AI rules before they become applicable on August 2.",
-      "source": "iTnews",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:16:00Z",
-      "url": "https://www.itnews.com.au/news/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules-618905?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed"
-    },
-    {
-      "id": 53,
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules",
-      "summary": "AI models with systemic risks given pointers on how to comply with EU AI rules, law will apply to these models from August 2.",
-      "source": "iTnews",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:16:00Z",
-      "url": "https://www.itnews.com.au/news/ai-models-with-systemic-risks-given-pointers-on-how-to-comply-with-eu-ai-rules-618905?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+"
     }
   ]
 }
