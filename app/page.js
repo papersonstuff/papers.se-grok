@@ -1,4 +1,4 @@
-import { createSupabaseServerClient } from '../utils/supabase/server'; // Adjust path
+import { createSupabaseServerClient } from '../utils/supabase/server';
 import { redirect } from 'next/navigation';
 
 export default async function Home() {
@@ -9,7 +9,6 @@ export default async function Home() {
     redirect('/auth/signin');
   }
 
-  // Check subscription
   const { data: subscription } = await supabase
     .from('subscriptions')
     .select('*')
@@ -18,10 +17,16 @@ export default async function Home() {
     .single();
 
   if (!subscription) {
-    // Redirect to Stripe checkout (your existing code)
     redirect('/subscribe');
   }
 
-  // Show news content
-  return <div>AI News Content Here (from news.json)</div>;
+  // Fetch news from news.json (or your API)
+  // Example: Read news.json or fetch from Supabase
+  return (
+    <div>
+      <h1>AI News</h1>
+      {/* Render news from news.json */}
+      <p>News content goes here</p>
+    </div>
+  );
 }
