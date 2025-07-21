@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-21T18:26:08.901Z",
+  "lastUpdate": "2025-07-21T18:53:41.658Z",
   "items": [
+    {
+      "id": 51,
+      "title": "This is probably the best-looking mini PC with AMD's fastest AI CPU, and I wonder what THAT mysterious red rocket button will do",
+      "summary": "Aokzoe's debut mini PC features AMD's latest APU and mysterious red rocket button, creating excitement around its performance and purpose.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-20T18:32:00Z",
+      "url": "https://www.techradar.com/pro/this-is-probably-the-best-looking-mini-pc-with-amds-fastest-ai-cpu-and-i-wonder-what-that-mysterious-red-rocket-button-will-do"
+    },
+    {
+      "id": 52,
+      "title": "The Gear That Powers BMWBLOG: Sim Rigs, 360 Cams & More",
+      "summary": "The Gear That Powers BMWBLOG: Sim Rigs, 360 Cams & More - Running a platform like ours involves content creation, storytelling, and occasionally using advanced technology like 360-degree cameras.",
+      "source": "BMWBLOG",
+      "category": "applications",
+      "timestamp": "2025-07-20T18:30:48Z",
+      "url": "https://www.bmwblog.com/2025/07/20/bmwblog-tools-gear-desk-sim-camera-stroller/"
+    },
+    {
+      "id": 53,
+      "title": "Weaving reality or warping it? The personalization trap in AI systems",
+      "summary": "Weaving reality or warping it? The personalization trap in AI systems is causing each of our versions of reality to change, potentially eroding our ability to agree on basic facts or navigate shared challenges.",
+      "source": "VentureBeat",
+      "category": "ethics",
+      "timestamp": "2025-07-20T18:30:00Z",
+      "url": "https://venturebeat.com/ai/weaving-reality-or-warping-it-the-personalization-trap-in-ai-systems/"
+    },
+    {
+      "id": 54,
+      "title": "Most teens have used AI to flirt and chat — but still prefer human interaction",
+      "summary": "Most teens have used AI to flirt and chat but still prefer human interaction",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T18:28:12Z",
+      "url": "https://biztoc.com/x/66974f6e37f39981"
+    },
+    {
+      "id": 55,
+      "title": "Tesla (TSLA), Google-parent Alphabet (GOOGL, GOOG), others top stock to watch out from Monday",
+      "summary": "Tesla and Alphabet are top stocks to watch next week, with Tesla at a crossroads and Alphabet set to benefit from AI and cloud momentum.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-20T18:26:07Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/tesla-tsla-google-parent-alphabet-googl-goog-others-top-stock-to-watch-out-from-monday/articleshow/122800424.cms"
+    },
+    {
+      "id": 56,
+      "title": "Absolute Wonder Woman #10 Preview: Diana Lost in Maze of Doubts",
+      "summary": "Absolute Wonder Woman #10 preview featuring an AI digital overlord, raising questions about ethics and artificial intelligence.",
+      "source": "Bleeding Cool News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T18:26:03Z",
+      "url": "https://bleedingcool.com/comics/absolute-wonder-woman-10-preview-diana-lost-in-maze-of-doubts/"
+    },
     {
       "id": 51,
       "title": "aivim 0.3.3.2",
@@ -396,60 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T16:35:53Z",
       "url": "http://9to5toys.com/2025/07/20/grab-microsoft-office-and-windows-11-pro-for-54-reg-419/"
-    },
-    {
-      "id": 57,
-      "title": "AI-Powered Everything for Your Business—Just $80 for Lifetime Access",
-      "summary": "AI-Powered Everything for Your Business—Just $80 for Lifetime Access. You'll get lifetime access to all your favorite AI tools.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:35:45Z",
-      "url": "https://biztoc.com/x/8118e0228c64d8a1"
-    },
-    {
-      "id": 58,
-      "title": "\"The Bitter Lesson\" is wrong. Well sort of",
-      "summary": "The Bitter Lesson highlights the importance of balancing domain knowledge with general purpose methods in artificial intelligence. Both are powerful tools that complement each other and need to be traded off effectively.",
-      "source": "Medium",
-      "category": "research",
-      "timestamp": "2025-07-20T16:33:46Z",
-      "url": "https://assaf-pinhasi.medium.com/the-bitter-lesson-is-wrong-sort-of-a3d021864924"
-    },
-    {
-      "id": 59,
-      "title": "Inside The 2025 American Workplace: Change, Uncertainty, Gaps, AI",
-      "summary": "Data from the 2025 APA Work In America survey reveals a gap between leadership and workers on change and AI, highlighting the need for leadership actions to enhance workplace well-being.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-20T16:29:37Z",
-      "url": "https://www.forbes.com/sites/genacox/2025/07/20/inside-the-2025-american-workplace-change-uncertainty-gaps-ai/"
-    },
-    {
-      "id": 60,
-      "title": "swe-ai-agent 1.0.49",
-      "summary": "swe-ai-agent 1.0.49 is a SWE Agent that offers a Headless Agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:28:16Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.49/"
-    },
-    {
-      "id": 61,
-      "title": "Mobvoi TicNote debuts as AI agent-powered voice recorder",
-      "summary": "Mobvoi TicNote is a new AI agent-powered voice recorder that can transcribe content in over 100 languages, making it useful for various applications such as lectures, conferences, and calls.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:27:00Z",
-      "url": "https://www.notebookcheck.net/Mobvoi-TicNote-debuts-as-AI-agent-powered-voice-recorder.1063088.0.html"
-    },
-    {
-      "id": 62,
-      "title": "AMD ThreadRipper PRO 9995WX could sell for $13,000 — yes, it's over 2x the price of the 96-core EPYC 9655 and I just wished Intel had a direct competitor",
-      "summary": "Rumors suggest AMD's ThreadRipper PRO 9995WX could be the most expensive desktop CPU ever listed at nearly $13,000, over 2x the price of the EPYC 9655, but no direct competitor from Intel.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:27:00Z",
-      "url": "https://www.techradar.com/pro/amd-threadripper-pro-9995wx-could-sell-for-usd13-000-yes-its-over-2x-the-price-of-the-96-core-epyc-9655-and-i-just-wished-intel-had-a-direct-competitor"
     }
   ]
 }
