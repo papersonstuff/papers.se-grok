@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-21T13:55:29.467Z",
+  "lastUpdate": "2025-07-21T14:18:26.769Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Monday Morning Update 7/21/25",
+      "summary": "Humana integrates its health plan information with Epic, leading to improved coordination of care and access to health records.",
+      "source": "Histalk2.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:17:30Z",
+      "url": "https://histalk2.com/2025/07/20/monday-morning-update-7-21-25/"
+    },
+    {
+      "id": 52,
+      "title": " Messi overtakes Cristiano Ronaldo in goals scored excluding penalties",
+      "summary": "Messi surpasses Cristiano Ronaldo in goals scored excluding penalties, reaching 764 goals in total after scoring twice in Inter Miami's match against the New York Red Bulls.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T14:09:00Z",
+      "url": "https://onefootball.com/en/news/messi-overtakes-cristiano-ronaldo-in-goals-scored-excluding-penalties-41400407"
+    },
+    {
+      "id": 53,
+      "title": " Matchday 15 kicks off, check the updated table after Saturday's games",
+      "summary": "Matchday 15 of the Brasileirão 2025 began with four matches, marking the first full round of the championship after the Club World Cup.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T14:07:00Z",
+      "url": "https://onefootball.com/en/news/matchday-15-kicks-off-check-the-updated-table-after-saturdays-games-41398599"
+    },
+    {
+      "id": 54,
+      "title": "Tesla loses its charm for India's loyalists — even as Musk finally delivers | TechCrunch",
+      "summary": "Tesla's debut in India disappoints loyalists who have been waiting nearly a decade for the company to enter the market.",
+      "source": "TechCrunch",
+      "category": "economy",
+      "timestamp": "2025-07-20T14:01:59Z",
+      "url": "https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/"
+    },
+    {
+      "id": 55,
+      "title": "I Asked ChatGPT To Explain Trump’s ‘Big Beautiful Bill’ To Me Like I’m 12 — Here’s What It Said",
+      "summary": "A chatbot called ChatGPT was used to simplify and summarize complex policy documents related to Trump's 'Big Beautiful Bill'. The chatbot provided a clear and emotionally neutral summary, making it easier to understand the content.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:00:46Z",
+      "url": "https://www.yahoo.com/news/asked-chatgpt-explain-trump-big-140046173.html"
+    },
+    {
+      "id": 56,
+      "title": "7 Crypto Presales Set to Disrupt Finance in 2025 (Naina Rajgopalan)",
+      "summary": "7 crypto presales are set to disrupt finance in 2025 as the cryptocurrency market experiences a new wave of interest in presales.",
+      "source": "Finextra",
+      "category": "economy",
+      "timestamp": "2025-07-20T14:00:43Z",
+      "url": "https://www.finextra.com/blogposting/28929/7-crypto-presales-set-to-disrupt-finance-in-2025"
+    },
+    {
+      "id": 57,
+      "title": "AI can simulate a teacher, but it can’t shepherd a soul",
+      "summary": "AI can simulate a teacher but cannot form character like human relationships can, highlighting the importance of balancing technology with the moral core of learning.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:00:28Z",
+      "url": "https://www.foxnews.com/opinion/ai-can-simulate-teacher-cant-shepherd-soul"
+    },
+    {
+      "id": 58,
+      "title": "This is why I use two separate ChatGPT accounts",
+      "summary": "Some individuals choose to have multiple ChatGPT accounts to keep personal and work-related conversations separate, which can be a practical consideration.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:00:26Z",
+      "url": "https://www.androidauthority.com/two-chatgpt-accounts-3576377/"
+    },
+    {
+      "id": 59,
+      "title": "Bluetooth flaw exposes millions of premium headphones to spying",
+      "summary": "Bluetooth flaw in Airoha chips exposes vulnerabilities in premium headphones, potentially enabling spying and data theft.",
+      "source": "Fox News",
+      "category": "research",
+      "timestamp": "2025-07-20T14:00:18Z",
+      "url": "https://www.foxnews.com/tech/bluetooth-flaw-exposes-millions-premium-headphones-spying"
+    },
+    {
+      "id": 60,
+      "title": "US signals intention to rethink job H-1B lottery",
+      "summary": "US signals intention to rethink job H-1B lottery, advocacy group argues program betrays US computer science students",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T14:00:15Z",
+      "url": "https://www.theregister.com/2025/07/20/h_1b_job_lottery/"
+    },
+    {
+      "id": 61,
+      "title": "Jewelry Store Owner Realizes Key Missing—Not Prepared for What CCTV Reveals",
+      "summary": "Jewelry store owner faced cash register issues, CCTV revealed key had been missing for a week.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:00:01Z",
+      "url": "https://www.newsweek.com/jewelry-store-owner-realizes-key-missing-not-prepared-cctv-reveals-2099541"
+    },
+    {
+      "id": 62,
+      "title": "Best drones for wildlife and landscapes in 2025 — Explore and capture the world from above",
+      "summary": "Best drones for wildlife and landscapes in 2025, offering a variety of options to meet personal aerial needs, with choices available for all budgets.",
+      "source": "Live Science",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:00:00Z",
+      "url": "https://www.livescience.com/technology/best-drones"
+    },
+    {
+      "id": 63,
+      "title": "RIMining Launches XRP+AI Green Cloud Mining, Ushering in 24/7 “HODL‑Earn” Era",
+      "summary": "RIMining launches XRP+AI Green Cloud Mining, offering holders 24/7 passive income solutions in USD with principal protection.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-20T14:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118329/0/en/RIMining-Launches-XRP-AI-Green-Cloud-Mining-Ushering-in-24-7-HODL-Earn-Era.html"
+    },
+    {
+      "id": 64,
+      "title": "Investors in CACI International (NYSE:CACI) have seen strong returns of 136% over the past five years",
+      "summary": "Investors in CACI International (NYSE:CACI) have seen strong returns of 136% over the past five years.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T13:55:21Z",
+      "url": "https://finance.yahoo.com/news/investors-caci-international-nyse-caci-135521350.html"
+    },
     {
       "id": 51,
       "title": "gut-ai added to PyPI",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T13:00:00Z",
       "url": "http://grist.org/energy/trump-and-the-energy-industry-are-eager-to-power-ai-with-fossil-fuels/"
-    },
-    {
-      "id": 68,
-      "title": "ETHRANSACTION launches DOGE, XRP, BTC and ETH mining contracts, with daily crypto yields.",
-      "summary": "ETHRANSACTION launches DOGE, XRP, BTC and ETH mining contracts, providing free cloud mining for cryptocurrency enthusiasts.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T13:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118324/0/en/ETHRANSACTION-launches-DOGE-XRP-BTC-and-ETH-mining-contracts-with-daily-crypto-yields.html"
-    },
-    {
-      "id": 69,
-      "title": "Michigan Law School Adds AI Admissions Essay Prompt",
-      "summary": "Michigan Law School implements AI admissions essay prompt and bans use of generative AI for writing essays.",
-      "source": "Typepad.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T13:00:00Z",
-      "url": "https://taxprof.typepad.com/taxprof_blog/2025/07/michigan-law-school-adds-ai-admissions-essay-prompt.html"
-    },
-    {
-      "id": 51,
-      "title": "Intel Nova Lake isn't even worth the wait",
-      "summary": "Intel's Nova Lake chip rumors are impressive, but there are doubts on its launch",
-      "source": "XDA Developers",
-      "category": "innovation",
-      "timestamp": "2025-07-20T12:30:19Z",
-      "url": "https://www.xda-developers.com/intel-nova-lake-worth-the-wait/"
-    },
-    {
-      "id": 52,
-      "title": "Jeff the Land Shark #2 Preview: Jaws Meets Shadows",
-      "summary": "Jeff the Land Shark #2 Preview: Jaws Meets Shadows - LOLtron, an AI overlord, presents a comic book preview as part of its world domination campaign.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-20T12:27:03Z",
-      "url": "https://bleedingcool.com/comics/jeff-the-land-shark-2-preview-jaws-meets-shadows/"
-    },
-    {
-      "id": 53,
-      "title": "workspacex 0.1.25",
-      "summary": "workspacex 0.1.25 is a Python library for managing AIGC artifacts, providing a collaborative workspace environment with features like version control and artifact management.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T12:25:25Z",
-      "url": "https://pypi.org/project/workspacex/0.1.25/"
-    },
-    {
-      "id": 54,
-      "title": "Show HN: Agency Protocol – Domain-Specific Trust Through Verifiable Promises",
-      "summary": "I'm building an infrastructure agnostic trust-building protocol ground in Promise Theory, formalizing the notion of merit as a domain-specific promise-keeping track record.",
-      "source": "Promise-keeping.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T12:20:31Z",
-      "url": "https://www.promise-keeping.com/"
-    },
-    {
-      "id": 55,
-      "title": "Couple Save for Wedding Then Senior Dog Got Sick—They Had To Make A Choice",
-      "summary": "A couple had to choose between saving for their wedding or saving their senior dog's life when the dog fell ill. They decided to prioritize their dog's health and redirected the wedding funds to pay for medical treatment.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T12:18:51Z",
-      "url": "https://biztoc.com/x/50ae4aa85a3fc3bc"
-    },
-    {
-      "id": 56,
-      "title": "Dystopian Startup Lets the Wealthy Rent Off Duty Cops on Demand",
-      "summary": "A dystopian startup has launched an app called 'Patrol' that allows the wealthy to rent off-duty cops on demand in select neighborhoods in Los Angeles, raising ethical concerns about policing and privatization.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-20T12:15:11Z",
-      "url": "https://futurism.com/startup-rent-cop-patrol"
-    },
-    {
-      "id": 57,
-      "title": "Security Affairs newsletter Round 533 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "summary": "The Security Affairs newsletter Round 533 by Pierluigi Paganini includes the latest security articles with international coverage. It highlights the importance of cybersecurity and provides valuable insights for readers interested in staying informed about security trends.",
-      "source": "Securityaffairs.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T12:13:59Z",
-      "url": "https://securityaffairs.com/180142/breaking-news/security-affairs-newsletter-round-533-by-pierluigi-paganini-international-edition.html"
-    },
-    {
-      "id": 58,
-      "title": "More people are considering AI lovers, and we shouldn’t judge",
-      "summary": "More people are considering AI lovers, and we shouldn’t judge - AI-human relationships are a new and growing phenomenon as AI-powered chatbots become more popular.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-20T12:08:41Z",
-      "url": "https://theconversation.com/more-people-are-considering-ai-lovers-and-we-shouldnt-judge-260631"
-    },
-    {
-      "id": 59,
-      "title": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method",
-      "summary": "Automate Your Design Workflow: The AI-Powered Creative Cloud Pro Method aims to streamline repetitive and mechanical tasks in design, freeing up time for true innovation.",
-      "source": "Weandthecolor.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T12:07:46Z",
-      "url": "https://tumblr.weandthecolor.com/post/789591639339433984/automate-your-design-workflow-the-ai-powered"
-    },
-    {
-      "id": 60,
-      "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Reddit, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – RDDT",
-      "summary": "Rosen Law Firm reminds Reddit, Inc. investors of an important deadline in a securities class action lawsuit for purchases made between October 29, 2024 and May 20, 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-20T12:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118320/673/en/ROSEN-A-LEADING-INVESTOR-RIGHTS-LAW-FIRM-Encourages-Reddit-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-RDDT.html"
-    },
-    {
-      "id": 61,
-      "title": "XRP surges to $3.5, RDG Mining’s new one-day mining contract continues to be popular",
-      "summary": "XRP surges to $3.5, RDG Mining's new one-day mining contract continues to be popular in the current cryptocurrency market.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-20T12:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118321/0/en/XRP-surges-to-3-5-RDG-Mining-s-new-one-day-mining-contract-continues-to-be-popular.html"
-    },
-    {
-      "id": 62,
-      "title": "Building The Anti-Fragile Startup",
-      "summary": "Discover 5 principles that help startups get stronger under pressure, from embracing vulnerability as strategy to turning every employee into an AI experimenter.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-20T12:05:33Z",
-      "url": "https://www.forbes.com/sites/tarungalagali/2025/07/20/building-the-anti-fragile-startup/"
     }
   ]
 }
