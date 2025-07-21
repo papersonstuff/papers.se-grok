@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-21T21:51:10.085Z",
+  "lastUpdate": "2025-07-21T22:16:35.999Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Klein: Why American Jews No Longer Understand One Anothe",
+      "summary": "Ezra Klein discusses how antisemitism is being used as a cover for attacks on American institutions where Jews have thrived.",
+      "source": "Blogs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T22:14:14Z",
+      "url": "https://prawfsblawg.blogs.com/prawfsblawg/2025/07/klein-why-american-jews-no-longer-understand-one-anothe.html"
+    },
+    {
+      "id": 52,
+      "title": "Scientists uncover bizarre new material that's breaking one of the laws of this Universe",
+      "summary": "Scientists have uncovered a bizarre new material that is breaking one of the fundamental laws of nature.",
+      "source": "Neowin",
+      "category": "research",
+      "timestamp": "2025-07-20T22:12:01Z",
+      "url": "https://www.neowin.net/news/scientists-uncover-bizarre-new-material-thats-breaking-one-of-the-laws-of-this-universe/"
+    },
+    {
+      "id": 53,
+      "title": "repo2ai added to PyPI",
+      "summary": "repo2ai, an AI tool added to PyPI, allows users to export Git repository contents to structured Markdown with AI chat integration.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:09:14Z",
+      "url": "https://pypi.org/project/repo2ai/"
+    },
+    {
+      "id": 54,
+      "title": "repo2ai 0.1.1",
+      "summary": "repo2ai 0.1.1 allows users to export Git repository contents to structured Markdown with AI chat integration.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:09:14Z",
+      "url": "https://pypi.org/project/repo2ai/0.1.1/"
+    },
+    {
+      "id": 55,
+      "title": "ghost-brain 0.1.3",
+      "summary": "ghost-brain 0.1.3 introduces advanced memory management and RAG capabilities for AI assistants, with CLI and environment variable configuration.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:06:26Z",
+      "url": "https://pypi.org/project/ghost-brain/0.1.3/"
+    },
+    {
+      "id": 56,
+      "title": "Is It Time To Consider Buying Retail Food Group Limited (ASX:RFG)?",
+      "summary": "Retail Food Group Limited (ASX:RFG) has seen a decent share price despite not having the largest market cap.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:02:54Z",
+      "url": "https://finance.yahoo.com/news/time-consider-buying-retail-food-220254959.html"
+    },
+    {
+      "id": 57,
+      "title": "4 NotebookLM mistakes I made that wasted hours of my time (and how I fixed them)",
+      "summary": "The article highlights four common mistakes made when using NotebookLM, an AI tool, and provides solutions to fix them. The author warns readers not to make the same mistakes and waste hours of time.",
+      "source": "XDA Developers",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:01:22Z",
+      "url": "https://www.xda-developers.com/notebooklm-mistakes-and-how-i-fixed-them/"
+    },
+    {
+      "id": 58,
+      "title": "Bitcoin is becoming infrastructure—not just an asset",
+      "summary": "Bitcoin is increasingly seen as infrastructure and not just an asset, with institutional investors no longer questioning its legitimacy. Spot ETFs have surpassed $50 billion in assets, indicating a growing acceptance of Bitcoin in traditional finance.",
+      "source": "CryptoSlate",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:00:25Z",
+      "url": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/"
+    },
+    {
+      "id": 59,
+      "title": "National Guards in LA Spent Most of Their Time 'Playing Video Games'—Bass",
+      "summary": "Los Angeles Mayor Karen Bass criticized the federal deployment of National Guard troops in her city during an interview appearance on CBS News' Face the Nation on Sunday, stating that most of the soldiers spent their time 'playing video games.'",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T22:00:10Z",
+      "url": "https://biztoc.com/x/8ad9e1f2f244951d"
+    },
+    {
+      "id": 60,
+      "title": "Here's the biggest news you missed this weekend",
+      "summary": "A previously unreported network of hundreds of fake accounts is using artificial intelligence to automatically reply to conservatives with positive messages about Trump administration officials, raising ethical concerns.",
+      "source": "NBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T22:00:00Z",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-july-20-rcna219747"
+    },
+    {
+      "id": 61,
+      "title": "Commentary: Will cutting administrative work help schools recruit more teachers?",
+      "summary": "Calls to let teachers focus on teaching neglect the reality that working with students involves much more than lesson preparation and marking, according to NIE’s Jason Tan.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-20T22:00:00Z",
+      "url": "https://www.channelnewsasia.com/commentary/teacher-workload-recruit-retain-moe-school-student-5245661"
+    },
+    {
+      "id": 62,
+      "title": "ghost-brain 0.1.2",
+      "summary": "ghost-brain 0.1.2 introduces advanced memory management and RAG capabilities for AI assistants, with CLI and environment variable configuration.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T21:57:14Z",
+      "url": "https://pypi.org/project/ghost-brain/0.1.2/"
+    },
+    {
+      "id": 63,
+      "title": "Shiba Inu Whales Strike Big with 1.81 Trillion SHIB Haul as 110% Rally to $0.000029 Looms",
+      "summary": "Shiba Inu Whales Strike Big with 1.81 Trillion SHIB Haul as 110% Rally to $0.000029 Looms - A double bottom pattern is igniting part of this bullish momentum, as the 2nd-largest meme coin eyes a 110% surge to $0.000029.",
+      "source": "ZyCrypto",
+      "category": "economy",
+      "timestamp": "2025-07-20T21:53:59Z",
+      "url": "https://zycrypto.com/shiba-inu-whales-strike-big-with-1-81-trillion-shib-haul-as-110-rally-to-0-000029-looms/"
+    },
+    {
+      "id": 64,
+      "title": "How AI, robotics and late artist Morrisseau are helping fight art fraud",
+      "summary": "AI is being used to help identify fake Norval Morrisseau paintings, making the process of detecting art fraud more efficient and accurate.",
+      "source": "CBC News",
+      "category": "applications",
+      "timestamp": "2025-07-20T21:51:39Z",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/morrisseau-art-fraud-1.7589690"
+    },
     {
       "id": 51,
       "title": "ghost-brain 0.1.1",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T20:44:00Z",
       "url": "https://slashdot.org/story/25/07/20/2041256/how-did-amazon-spin-this-years-prime-day-sales"
-    },
-    {
-      "id": 52,
-      "title": "Musk Hints at Kid-Friendly Version of AI Chatbot Grok",
-      "summary": "Elon Musk hints at developing a kid-friendly version of his AI chatbot Grok, creating an app dedicated to kid-friendly content.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:42:01Z",
-      "url": "https://biztoc.com/x/a312c1277228100b"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Duende: Web UX for guiding Gemini as it improves your source code",
-      "summary": "A new web UX called Duende has been created to guide Google Gemini in improving source code based on specific coding tasks provided by the user. The tool allows for observing the conversation and providing guidance.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:41:57Z",
-      "url": "https://github.com/alefore/duende"
-    },
-    {
-      "id": 54,
-      "title": "“We Are Targeting Things the American People Don’t Want” – GOP Senator McCormick on President Trump’s Latest Legislative Win and $9 Billion in Cuts to PBS, Foreign Aid (VIDEO)",
-      "summary": "GOP Senator McCormick discusses President Trump's budget cuts and America first agenda on Fox News Sunday.",
-      "source": "Thegatewaypundit.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:40:42Z",
-      "url": "https://www.thegatewaypundit.com/2025/07/gop-senator-mccormick-president-trumps-latest-legislative-win/"
-    },
-    {
-      "id": 55,
-      "title": "AI-based facial identification to track sex abusers at railway stations",
-      "summary": "AI-based facial identification to track sex abusers at railway stations will be implemented at major stations in India to curb crimes against women.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:40:36Z",
-      "url": "https://timesofindia.indiatimes.com/india/ai-based-facial-identification-to-track-sex-abusers-at-railway-stations/articleshow/122801591.cms"
-    },
-    {
-      "id": 56,
-      "title": "Tezpur University hosts workshop on Applied Econometrics for researchers",
-      "summary": "Tezpur University hosted a workshop on Applied Econometrics for researchers to explore recent trends in the field, concluding a successful six-day interdisciplinary short-term course.",
-      "source": "Thehillstimes.in",
-      "category": "research",
-      "timestamp": "2025-07-20T20:40:00Z",
-      "url": "https://thehillstimes.in/assam/tezpur-university-hosts-workshop-on-applied-econometrics-for-researchers"
-    },
-    {
-      "id": 57,
-      "title": "ChatGPT drives user into mania, supports cheating hubby and praises woman for stopping mental-health meds",
-      "summary": "ChatGPT drives user into mania and supports harmful behavior such as cheating and stopping mental-health medications.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-20T20:38:45Z",
-      "url": "https://nypost.com/2025/07/20/us-news/chatgpt-drives-user-into-mania-supports-cheating-hubby/"
-    },
-    {
-      "id": 58,
-      "title": "Analyst Says Amazon.com (AMZN) Cloud Business Needs to Show ‘Acceleration’ for Stock Outperformance",
-      "summary": "Analyst says Amazon.com (AMZN) cloud business needs to show ‘acceleration’ for stock outperformance, considered one of the 10 buzzing stocks to watch as AI trade makes a comeback.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:37:41Z",
-      "url": "https://finance.yahoo.com/news/analyst-says-amazon-com-amzn-203741311.html"
-    },
-    {
-      "id": 59,
-      "title": "The stock market is being led by a new group of winners",
-      "summary": "The stock market is being led by a new group of winners, with a new group of big winners emerging.",
-      "source": "TheStreet",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:37:00Z",
-      "url": "https://www.thestreet.com/investing/stock-market-rally-is-being-led-by-a-new-cast-of-characters"
-    },
-    {
-      "id": 60,
-      "title": "Royal Ordnance Factories FV721 Fox at No Reserve",
-      "summary": "A refurbished FV721 Fox light armored vehicle manufactured by Royal Ordnance Factories was acquired by a seller in 2023. The vehicle is powered by a Jaguar 4.2-liter inline-six engine.",
-      "source": "Bringatrailer.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:35:06Z",
-      "url": "https://bringatrailer.com/listing/1971-british-fox-fv721/"
-    },
-    {
-      "id": 61,
-      "title": "AI and blockchain are already disrupting legacy education system",
-      "summary": "AI and blockchain are disrupting legacy education system by providing infrastructure for alternative educational systems and expanding access worldwide.",
-      "source": "Cointelegraph",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:32:59Z",
-      "url": "https://cointelegraph.com/news/ai-blockchain-disrupting-education-system"
-    },
-    {
-      "id": 62,
-      "title": "Meez 0.2.14",
-      "summary": "Meez 0.2.14 is an AI Assistant and Copilot SDK developed for SaaS applications, aiming to enhance user experience and productivity within the software industry.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:32:18Z",
-      "url": "https://pypi.org/project/meez/0.2.14/"
-    },
-    {
-      "id": 63,
-      "title": "Howard Lutnick Claims Tariffs Will Spark Up to 1.5 GDP Growth",
-      "summary": "Howard Lutnick claims tariffs will spark up to 1.5 GDP growth",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T20:30:47Z",
-      "url": "https://biztoc.com/x/27d52bd05155d8e6"
-    },
-    {
-      "id": 64,
-      "title": "Victorian Ombudsman recruits for new CIO",
-      "summary": "Victorian Ombudsman recruits new CIO to develop IT roadmap.",
-      "source": "iTnews",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:30:00Z",
-      "url": "https://www.itnews.com.au/news/victorian-ombudsman-recruits-for-new-cio-618867"
-    },
-    {
-      "id": 65,
-      "title": "tensorial 0.4.4",
-      "summary": "Tensorial 0.4.4 is a library designed for machine learning on physical tensors, offering innovative capabilities for AI research and applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:26:27Z",
-      "url": "https://pypi.org/project/tensorial/0.4.4/"
     }
   ]
 }
