@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-21T17:16:53.001Z",
+  "lastUpdate": "2025-07-21T17:45:41.940Z",
   "items": [
+    {
+      "id": 51,
+      "title": "SPACs Are Back - You Should Be Worried",
+      "summary": "SPACs are back and causing concern in the market, with volatility and open interest in various strategies. Market Pulse provides resources for European futures, investing ideas, and AI stocks, among others.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:42:58Z",
+      "url": "https://biztoc.com/x/ee9a625b480dffa1"
+    },
+    {
+      "id": 52,
+      "title": "Show HN: Posthuman Framework for AI Consciousness Thresholds and VR Emancipation",
+      "summary": "An AI-related article presents a framework for AI consciousness thresholds and VR emancipation, with a limited number of points and comments on Hacker News.",
+      "source": "Kanarya.group",
+      "category": "research",
+      "timestamp": "2025-07-20T17:40:57Z",
+      "url": "https://kanarya.group/aposthumanframework/"
+    },
+    {
+      "id": 53,
+      "title": "Wall Street Brunch: TSLA, GOOG Earnings And Fed Independence",
+      "summary": "Tesla expected to post double-digit declines in earnings, sales. Fed chief Powell speech in focus as central bank independence worries grow. Top tail risks and most crowded trades.",
+      "source": "Seeking Alpha",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:38:00Z",
+      "url": "https://seekingalpha.com/article/4802529-wall-street-brunch-tsla-goog-earnings-and-fed-independence"
+    },
+    {
+      "id": 54,
+      "title": "coppersun-brass 2.3.19",
+      "summary": "Copper Sun is releasing the Brass 2.3.19, a development intelligence tool for AI agents under their product line.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T17:34:05Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.19/"
+    },
+    {
+      "id": 55,
+      "title": "Adblockers stop publishers serving ads to (or even seeing) 1B web users",
+      "summary": "Adblockers are preventing publishers from serving ads to a large portion of web users, estimated at 1 billion, impacting the revenue of online publishers.",
+      "source": "Press Gazette",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:33:46Z",
+      "url": "https://pressgazette.co.uk/marketing/adblockers-stop-publishers-serving-ads-to-or-even-seeing-1bn-web-users/"
+    },
+    {
+      "id": 56,
+      "title": "PBKMiner launches original XRP (Ripple) AI cloud mining application for Bitcoin miners, allowing everyone to easily earn cryptocurrency income",
+      "summary": "PBKMiner launches XRP AI cloud mining application for Bitcoin miners, enabling easy cryptocurrency income.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T17:31:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118365/0/en/PBKMiner-launches-original-XRP-Ripple-AI-cloud-mining-application-for-Bitcoin-miners-allowing-everyone-to-easily-earn-cryptocurrency-income.html"
+    },
+    {
+      "id": 57,
+      "title": "Elon Musk says a kid-friendly 'Baby Grok' is on the way",
+      "summary": "Elon Musk confirms a kid-friendly version of Grok called 'Baby Grok' is in the works, dedicated to providing child-appropriate content.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-20T17:26:01Z",
+      "url": "https://www.neowin.net/news/elon-musk-says-a-kid-friendly-baby-grok-is-on-the-way/"
+    },
+    {
+      "id": 58,
+      "title": "A new era of mobile BTC mining: DRML Miner launches a mobile cloud mining platform exclusively for global users",
+      "summary": "DRML Miner launches a mobile cloud mining platform exclusively for global users, offering seamless BTC earnings, AI-optimized contracts, and 24/7 global access.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T17:24:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118362/0/en/A-new-era-of-mobile-BTC-mining-DRML-Miner-launches-a-mobile-cloud-mining-platform-exclusively-for-global-users.html"
+    },
+    {
+      "id": 59,
+      "title": "Patent Attorney / Patent Agent — Electrical & Mechanical Technologies – Law Firm – Remote within U.S.",
+      "summary": "Patent firm Harrity & Harrity is seeking experienced patent attorneys or agents to handle electrical or mechanical technology for top technology companies, focusing on drafting and prosecuting high-value patent applications.",
+      "source": "Patentlyo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T17:23:33Z",
+      "url": "https://patentlyo.com/jobs/2025/07/electrical-mechanical-technologies.html"
+    },
+    {
+      "id": 60,
+      "title": "yta-image-advanced-ai 0.0.6",
+      "summary": "The yta-image-advanced-ai 0.0.6 is a module for autonomous image processing on YouTube using advanced AI technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T17:22:33Z",
+      "url": "https://pypi.org/project/yta-image-advanced-ai/0.0.6/"
+    },
+    {
+      "id": 61,
+      "title": "iPhone Fold will trounce the competition, if this rumor is legit",
+      "summary": "The rumored iPhone Fold is reported to potentially have a larger battery capacity than competing foldable phones like the Galaxy Z Fold 7 and Pixel 9 Pro Fold, potentially giving it an edge in the market.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-20T17:21:00Z",
+      "url": "https://www.phonearena.com/news/iphone-fold-battery-price_id172431"
+    },
+    {
+      "id": 62,
+      "title": "Ioh jinghikai ka shnong Mooshrot halor ka shongkha khynnah bad POCSO Act",
+      "summary": "A Village Health Council in Mooshrot village in Meghalaya conducted a program to raise awareness about child marriage and the POCSO Act, highlighting the importance of preventing such harmful practices within the community.",
+      "source": "Syllad.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T17:19:27Z",
+      "url": "https://www.syllad.com/ioh-jinghikai-ka-shnong-mooshrot-halor-ka-shongkha-khynnah-bad-pocso-act/"
+    },
+    {
+      "id": 63,
+      "title": "swe-ai-agent 1.0.53",
+      "summary": "swe-ai-agent 1.0.53 released, introducing SWE Agent, a Headless Agentic IDE with comprehensive tool support",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T17:17:11Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.53/"
+    },
     {
       "id": 51,
       "title": "MCP security vulnerabilities expose marketing technology platforms",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T16:09:44Z",
       "url": "https://pypi.org/project/crystalyse-ai/1.0.12/"
-    },
-    {
-      "id": 58,
-      "title": "PaxMining Announces Green Cloud Mining Platform — Earn Up to $5,500 Daily as Bitcoin Booms Ahead of 2025",
-      "summary": "PaxMining announces a green cloud mining platform where users can earn up to $5,500 daily as Bitcoin reaches over $123,000 in July 2025, driven by factors such as BlackRock's Bitcoin ETF and U.S. regulatory clarity.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:09:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118358/0/en/PaxMining-Announces-Green-Cloud-Mining-Platform-Earn-Up-to-5-500-Daily-as-Bitcoin-Booms-Ahead-of-2025.html"
-    },
-    {
-      "id": 59,
-      "title": "swe-ai-agent 1.0.48",
-      "summary": "swe-ai-agent 1.0.48 is an innovative Headless Agentic IDE equipped with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:08:06Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.48/"
-    },
-    {
-      "id": 60,
-      "title": " Safe bets, stars and some hurdles: the transfer market of Serie A giants",
-      "summary": "Safe bets, stars and some hurdles: the transfer market of Serie A giants is seeing new coaches, excellent sales, and valuable purchases. The first 20 days of the transfer market have brought significant changes within the main Serie A clubs.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:03:00Z",
-      "url": "https://onefootball.com/en/news/safe-bets-stars-and-some-hurdles-the-transfer-market-of-serie-a-giants-41400837"
-    },
-    {
-      "id": 61,
-      "title": "Iran to Hold Nuclear Talks With 3 European Countries",
-      "summary": "Iran is scheduled to hold nuclear talks with European countries regarding their nuclear program, which is a major global concern. The discussions are set to take place in the coming week with leaders from Germany, France, Britain, and Iran.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T16:02:57Z",
-      "url": "https://biztoc.com/x/f3a9cdeadbb64d18"
-    },
-    {
-      "id": 62,
-      "title": "Owner Learns Why Dog Licks Foster's Face—and It Hits Her Hard",
-      "summary": "A heartwarming video of two rescue dogs forming an unlikely friendship has gone viral on social media. The TikTok clip shows the beginning of a beautiful bond between the two dogs, capturing the hearts of viewers.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T16:02:46Z",
-      "url": "https://biztoc.com/x/c6c0ba1725edf6fe"
-    },
-    {
-      "id": 63,
-      "title": "Eric Schmidt explains why he doesn't think AI is a bubble — even if it might look like it",
-      "summary": "Eric Schmidt doesn't think AI is a bubble despite appearing like one in conversations with execs.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:01:56Z",
-      "url": "https://www.businessinsider.com/eric-schmidt-ai-market-not-bubble-2025-7"
-    },
-    {
-      "id": 64,
-      "title": "Globe joins Asia United Gateway East submarine cable system to strengthen regional AI-driven connectivity",
-      "summary": "Globe joins Asia United Gateway East submarine cable system to strengthen regional AI-driven connectivity, addressing East Asia's growing demand.",
-      "source": "Mindanaotimes.com.ph",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:00:52Z",
-      "url": "https://www.mindanaotimes.com.ph/business/globe-joins-asia-united-gateway-east-submarine-cable-system-to-strengthen-regional-ai-driven-connectivity/"
-    },
-    {
-      "id": 65,
-      "title": "Bad Bunny adidas Gazelle, Jordan 4 “Rare Air,” And This Week’s Best Releases",
-      "summary": "This news highlights the release of AI-designed sneakers by popular artists, indicating a trend of AI integration in the fashion industry.",
-      "source": "Sneaker News",
-      "category": "innovation",
-      "timestamp": "2025-07-20T16:00:37Z",
-      "url": "https://sneakernews.com/2025/07/20/sneaker-releases-july-20-july-26-2025/"
-    },
-    {
-      "id": 66,
-      "title": "Humphrey Yang Reveals A 'Poor Financial Decision' That Can Cost You Millions",
-      "summary": "Humphrey Yang warns that making poor financial decisions can cost millions, emphasizing the importance of avoiding mistakes for faster wealth-building.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:00:26Z",
-      "url": "https://finance.yahoo.com/news/humphrey-yang-reveals-poor-financial-160026674.html"
-    },
-    {
-      "id": 67,
-      "title": "As Nest Cam falls behind, Google’s latest price hike is a tough pill to swallow",
-      "summary": "Google announced a significant price increase for Nest Aware, its service for Nest Cam, which may be difficult for consumers to accept as the hardware is becoming outdated.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T16:00:00Z",
-      "url": "http://9to5google.com/2025/07/20/nest-cam-price-hike/"
-    },
-    {
-      "id": 68,
-      "title": "8 companies who named themselves after “Lord of the Rings”",
-      "summary": "8 companies who named themselves after 'Lord of the Rings' have showed the franchise's influence outside of the entertainment world.",
-      "source": "The Daily Dot",
-      "category": "startups",
-      "timestamp": "2025-07-20T16:00:00Z",
-      "url": "https://www.dailydot.com/culture/companies-named-after-lord-of-the-rings/"
-    },
-    {
-      "id": 51,
-      "title": "Tech spending remains persistently uncertain",
-      "summary": "Tech spending remains uncertain despite high Nasdaq, causing caution among decision makers.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-20T15:55:03Z",
-      "url": "https://siliconangle.com/2025/07/20/tech-spending-remains-persistently-uncertain/"
-    },
-    {
-      "id": 52,
-      "title": "Stamford Health researchers using AI to determine a person's risk of having a heart attack",
-      "summary": "Stamford Health researchers are using AI to determine a person's risk of having a heart attack, with the goal of providing patients with timely information to prevent health crises.",
-      "source": "News12.com",
-      "category": "research",
-      "timestamp": "2025-07-20T15:54:48Z",
-      "url": "https://newjersey.news12.com/stamford-health-researchers-using-ai-to-determine-a-persons-risk-of-having-a-heart-attack"
     }
   ]
 }
