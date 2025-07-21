@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-21T22:54:51.975Z",
+  "lastUpdate": "2025-07-21T23:15:46.486Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Vitor Roque steps up as Palmeiras beat Atlético-MG, Hulk scores a screamer",
+      "summary": "Vitor Roque steps up as Palmeiras beat Atlético-MG, Hulk scores a screamer in a 3-2 victory for Palmeiras in the 2025 Brasileirão. Best moments coming soon.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T23:14:00Z",
+      "url": "https://onefootball.com/en/news/vitor-roque-steps-up-as-palmeiras-beat-atletico-mg-hulk-scores-a-screamer-41402075"
+    },
+    {
+      "id": 52,
+      "title": "Neuro-Contextual Advertising: The Rise Of Neuroscience & Agentic AI in Marketing",
+      "summary": "Neuro-Contextual Advertising is on the rise, combining neuroscience and AI to personalize marketing efforts. The article explores the benefits of utilizing neuroscience in advertising strategies.",
+      "source": "B&T",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:11:14Z",
+      "url": "https://www.bandt.com.au/neuro-contextual-advertising-the-rise-of-neuroscience-agentic-ai-in-marketing/"
+    },
+    {
+      "id": 53,
+      "title": "Here’s how Apple Intelligence keeps privacy in mind versus the competition",
+      "summary": "Here’s how Apple Intelligence keeps privacy in mind versus the competition - Artificial intelligence has obviously been the industry craze for the past couple years. While large language models are incredibly capable, they’ve always come with a bit of a compromise: privacy.",
+      "source": "9to5Mac",
+      "category": "ethics",
+      "timestamp": "2025-07-20T23:10:43Z",
+      "url": "https://9to5mac.com/2025/07/20/heres-how-apple-intelligence-keeps-privacy-in-mind-versus-the-competition/"
+    },
+    {
+      "id": 54,
+      "title": "keywordsai-sdk 0.4.54",
+      "summary": "The latest version of Keywords AI SDK, 0.4.54, enables seamless interaction with the Keywords AI API, facilitating smooth integration for developers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:10:14Z",
+      "url": "https://pypi.org/project/keywordsai-sdk/0.4.54/"
+    },
+    {
+      "id": 55,
+      "title": "NASA-Funded Greenland Survey Reveals ‘Crazy’ Amounts Of Ocean Warming",
+      "summary": "NASA-funded undersea robotic vehicle is giving both astrobiologists and climate scientists a window onto Greenland’s previously hidden subsurface.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-20T23:09:28Z",
+      "url": "https://www.forbes.com/sites/brucedorminey/2025/07/20/nasa-funded-greenland-survey-reveals-crazy-amounts-of-ocean-warming/"
+    },
+    {
+      "id": 56,
+      "title": "Boost Martech ROI: How Remote and Offshore Teams Streamline Marketing Execution and Data Management",
+      "summary": "Boost Martech ROI: How Remote and Offshore Teams streamline marketing execution and data management.",
+      "source": "Martech.zone",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:08:46Z",
+      "url": "https://martech.zone/how-remote-and-offshore-teams-streamline-marketing-execution/"
+    },
+    {
+      "id": 57,
+      "title": "flwr-nightly 1.20.0.dev20250720",
+      "summary": "Flwr-nightly 1.20.0.dev20250720 introduces Flower, a federated AI framework designed to facilitate decentralized training across various devices and systems.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T23:06:57Z",
+      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250720/"
+    },
+    {
+      "id": 58,
+      "title": "code2docs-cli 1.3.2",
+      "summary": "An AI-powered CLI tool, code2docs-cli 1.3.2, has been released for generating code documentation, API references, and project READMEs from codebases.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:03:44Z",
+      "url": "https://pypi.org/project/code2docs-cli/1.3.2/"
+    },
+    {
+      "id": 59,
+      "title": "Groundbreaking AI tool could diagnose skin cancer early in remote areas",
+      "summary": "Groundbreaking AI tool developed to diagnose skin cancer early in remote areas by enabling early detection of skin conditions worldwide without direct access to dermatologists.",
+      "source": "The-independent.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:01:00Z",
+      "url": "https://www.the-independent.com/life-style/health-and-families/ai-tool-skin-cancer-study-b2792472.html"
+    },
+    {
+      "id": 60,
+      "title": "LexisNexis launches Protégé, a personalised AI assistant with agentic capabilities, to help UK lawyers to complete legal tasks more easily and efficiently",
+      "summary": "LexisNexis launches Protégé, a personalised AI assistant with agentic capabilities, to help UK lawyers complete legal tasks more easily and efficiently, accelerating drafting, summarisation, and legal research tasks.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:01:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118393/0/en/LexisNexis-launches-Prot%C3%A9g%C3%A9-a-personalised-AI-assistant-with-agentic-capabilities-to-help-UK-lawyers-to-complete-legal-tasks-more-easily-and-efficiently.html"
+    },
+    {
+      "id": 61,
+      "title": "Machine learning-assisted exploration of the interfacial valence electron fitting rule for MBene-based single-atom catalysts",
+      "summary": "Machine learning-assisted exploration of the interfacial valence electron fitting rule for MBene-based single-atom catalysts in J. Mater. Chem. A, 2025.",
+      "source": "Royal Society of Chemistry",
+      "category": "research",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta04324g"
+    },
+    {
+      "id": 62,
+      "title": "Photo shows Trump and Epstein together at Mar-a-Lago in 1997",
+      "summary": "A photo from 1997 has surfaced showing Donald Trump and financier Jeffrey Epstein together at Mar-a-Lago, raising ethical questions about their relationship and character.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "https://www.snopes.com//fact-check/trump-epstein-photo-1997/"
+    },
+    {
+      "id": 63,
+      "title": "An Upcoming MCU Release Is The Perfect Place to Revive This Forgotten Agents of SHIELD Storyline",
+      "summary": "An upcoming MCU release is the perfect place to revive a forgotten Agents of SHIELD storyline, making the Marvel Cinematic Universe series even more important. This move could help boost viewership and popularity.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "http://comicbook.com/tv-shows/news/vision-quest-mcu-release-agents-of-shield-storyline-revive-lmd/"
+    },
+    {
+      "id": 64,
+      "title": "Advanced SOC Services Transform Organisations’ Response to Cyber Threats",
+      "summary": "Advanced SOC services are transforming organisations' response to cyber threats in order to stay ahead and mitigate risk as threats continue to evolve.",
+      "source": "iTnews",
+      "category": "innovation",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "https://www.itnews.com.au/video/advanced-soc-services-transform-organisations-response-to-cyber-threats-617191"
+    },
+    {
+      "id": 65,
+      "title": "New Cloud Mining Plans to Launch as Crypto Platforms AIXA Miner Prepare for Increased Retail Participation",
+      "summary": "New Cloud Mining Plans to Launch as Crypto Platforms AIXA Miner Prepare for Increased Retail Participation - Denver, Colorado, July 20, 2025 (GLOBE NEWSWIRE) -- Several platforms are updating their contract models in response to stabilising cryptocurrency prices and mining infrastructure changes, particularly for new retail participation.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118392/0/en/New-Cloud-Mining-Plans-to-Launch-as-Crypto-Platforms-AIXA-Miner-Prepare-for-Increased-Retail-Participation.html"
+    },
+    {
+      "id": 66,
+      "title": "Breaking the poisoning paradigm: a high-throughput DFT screening of high-entropy alloys with a focus on phonon-induced uncertainty",
+      "summary": "Breaking the poisoning paradigm: a high-throughput DFT screening of high-entropy alloys with a focus on phonon-induced uncertainty - J. Mater. Chem. A, 2025, Advance ArticleDOI: 10.1039/D5TA03759J, PaperMohsen Tamtaji, William A. Goddard III, GuanHua ChenAlthough surface poisoning is typically thought to deactivate electrocatalysis, this work suggests its intentional application in promoti…",
+      "source": "Royal Society of Chemistry",
+      "category": "research",
+      "timestamp": "2025-07-20T23:00:00Z",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta03759j"
+    },
+    {
+      "id": 67,
+      "title": "keywordsai-sdk 0.4.53",
+      "summary": "Keywords AI SDK 0.4.53 enables seamless interaction with the Keywords AI API for smooth integration.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:59:44Z",
+      "url": "https://pypi.org/project/keywordsai-sdk/0.4.53/"
+    },
+    {
+      "id": 68,
+      "title": "Samsung reportedly cracks 1c DRAM yield hurdle, positions HBM4 for AI rebound",
+      "summary": "Samsung is making strides in the HBM market with its sixth-generation 1c DRAM, built for HBM4, after cracking the yield hurdle. This development positions Samsung for a potential rebound in the AI sector.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:57:15Z",
+      "url": "https://www.digitimes.com/news/a20250718PD213/samsung-dram-hbm4-hbm-sk-hynix.html"
+    },
     {
       "id": 51,
       "title": "Why Do Dog Breeds With Genetic Problems Become Popular?",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T21:51:39Z",
       "url": "https://www.cbc.ca/news/canada/british-columbia/morrisseau-art-fraud-1.7589690"
-    },
-    {
-      "id": 51,
-      "title": "ghost-brain 0.1.1",
-      "summary": "Ghost-brain 0.1.1 offers advanced memory management and RAG capabilities for AI assistants, with CLI and environment variable configuration.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T21:47:43Z",
-      "url": "https://pypi.org/project/ghost-brain/0.1.1/"
-    },
-    {
-      "id": 52,
-      "title": "freegpt 1.30.9",
-      "summary": "freegpt 1.30.9 is a library that allows users to interact with multiple AI APIs, making it easier to access and utilize different AI services. This innovation has the potential to streamline AI development and improve efficiency in AI-related projects.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:44:27Z",
-      "url": "https://pypi.org/project/freegpt/1.30.9/"
-    },
-    {
-      "id": 53,
-      "title": " Line-ups confirmed: Belgrano and Racing face off in Córdoba",
-      "summary": "Belgrano and Racing are set to face off in Córdoba as Racing looks to secure its first points in the Clausura Tournament of the Argentinian soccer league.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:44:00Z",
-      "url": "https://onefootball.com/en/news/line-ups-confirmed-belgrano-and-racing-face-off-in-cordoba-41401958"
-    },
-    {
-      "id": 54,
-      "title": "Show HN: Kara Auto Translate – Free English to ASL Translation, Open Beta",
-      "summary": "Kara Auto Translate (KAT), an AI tool that translates English into American Sign Language (ASL) video, is launching a public beta to gather feedback from the Deaf community and beyond. It is free to try and aims to provide a valuable tool for the Deaf community.",
-      "source": "Kara.tech",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:42:30Z",
-      "url": "https://www.kara.tech"
-    },
-    {
-      "id": 55,
-      "title": "e3md 0.2.0",
-      "summary": "e3md 0.2.0 is a library designed for machine learning on physical tensors.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T21:42:21Z",
-      "url": "https://pypi.org/project/e3md/0.2.0/"
-    },
-    {
-      "id": 56,
-      "title": "batchata 0.3.5",
-      "summary": "Batchata 0.3.5 introduces batch processing for AI models with cost tracking and state persistence.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:42:04Z",
-      "url": "https://pypi.org/project/batchata/0.3.5/"
-    },
-    {
-      "id": 57,
-      "title": "US Stock market prediction: Will Wall Street perform in green on Monday?",
-      "summary": "Traders are hoping for a positive performance on Monday for the US stock market indexes S&P 500, Dow Jones, and Nasdaq.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-20T21:41:09Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-will-wall-street-perform-in-green-on-monday/articleshow/122801683.cms"
-    },
-    {
-      "id": 51,
-      "title": "Chris Martin warns Coldplay audience at first concert after ‘kiss cam’ scandal",
-      "summary": "Chris Martin warns Coldplay audience at first concert after ‘kiss cam’ scandal - Astronomer’s CEO Andy Bryon resigned after viral moment at band’s show",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T21:32:31Z",
-      "url": "https://www.the-independent.com/life-style/chris-martin-coldplay-andy-byron-kiss-cam-b2792561.html"
-    },
-    {
-      "id": 52,
-      "title": "Block Joins S&P 500 as Crypto’s Mainstreaming Marches On",
-      "summary": "Block, owner of Square and Cash App, is preparing to join the S&P 500, marking a milestone for the company and showcasing the growing mainstreaming of digital payments.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T21:32:24Z",
-      "url": "http://www.pymnts.com/news/fintech-investments/2025/block-joins-sp-500-as-cryptos-mainstreaming-marches-on/"
-    },
-    {
-      "id": 53,
-      "title": "AI-Oriented Investments",
-      "summary": "Investor is focusing on AI-oriented investments, with larger positions in companies such as MU due to AI's memory requirements.",
-      "source": "Lesswrong.com",
-      "category": "investments",
-      "timestamp": "2025-07-20T21:31:11Z",
-      "url": "https://www.lesswrong.com/posts/prtWnwhGx44CgJoWw/ai-oriented-investments"
-    },
-    {
-      "id": 54,
-      "title": "Fundamental lethality shift for British Army spearheaded by novel targeting tech 'ASGARD'",
-      "summary": "Fundamental lethality shift for British Army spearheaded by novel targeting tech 'ASGARD' - British Army showcase new technology that improves the accuracy of targeting enemies and reduces decision-making time for strikes.",
-      "source": "Www.gov.uk",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:31:06Z",
-      "url": "https://www.gov.uk/government/news/fundamental-lethality-shift-for-british-army-spearheaded-by-novel-targeting-tech-asgard"
-    },
-    {
-      "id": 55,
-      "title": "【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開 - Qiita",
-      "summary": "A developer has shared 24 types of documents and functional requirements they prepared when developing a personal project, including project requirements, technical design documents, and more. The documents cover various aspects of the project development process and may be helpful for individuals working on their own projects.",
-      "source": "Qiita.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:30:16Z",
-      "url": "https://qiita.com/tomada/items/e27292b65f723c4633d9"
-    },
-    {
-      "id": 56,
-      "title": "Crash Site - Starring Steven Yeun and Sam Richardson",
-      "summary": "Crash Site is a short film starring Steven Yeun and Sam Richardson that explores the idea of finding something extraterrestrial while on a hiking trip and trying to learn more about it. It delves into the application of AI in the context of discovering unknown objects.",
-      "source": "Kuriositas.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:24:00Z",
-      "url": "https://www.kuriositas.com/2025/07/crash-site-starring-steven-yeun-and-sam.html"
-    },
-    {
-      "id": 57,
-      "title": "Nightmare polls for Ley’s Coalition as Parliament finally returns",
-      "summary": "New polling shows a decline in public support for Ley's Coalition, following their poor performance in the May election. The Jeffrey Epstein story also continues to cause issues for Donald Trump.",
-      "source": "Crikey",
-      "category": "economy",
-      "timestamp": "2025-07-20T21:19:38Z",
-      "url": "http://www.crikey.com.au/2025/07/21/nightmare-polls-coalition-parliament-donald-trump-jeffrey-epstein/"
-    },
-    {
-      "id": 58,
-      "title": "Perplexity CEO Gives A Key Lesson On Leadership, Competition, And Fear",
-      "summary": "Perplexity CEO Aravind Srinivas shares the benefits of healthy paranoia in leadership, highlighting how it can give leaders a competitive edge in fast-moving environments.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-20T21:15:05Z",
-      "url": "https://www.forbes.com/sites/julianhayesii/2025/07/20/perplexity-ceo-gives-a-key-lesson-on-leadership-competition-and-fear/"
-    },
-    {
-      "id": 59,
-      "title": "On The Shoulders Of Substrates—how one phenomenon lays the foundation for the next",
-      "summary": "On The Shoulders Of Substrates—how one phenomenon lays the foundation for the next - Published on July 20, 2025 9:11 PM GMT If you’ll cast your mind back to Emergence Vs Entropy, we found, in order to overcome entropy, an emergent system, like our planet, benefits from a consistent stream of energy from the sun — creating a substrate for lif…",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-20T21:11:40Z",
-      "url": "https://www.lesswrong.com/posts/whY43WwdPhwQswKAY/on-the-shoulders-of-substrates-how-one-phenomenon-lays-the"
-    },
-    {
-      "id": 60,
-      "title": "How CIS Credentials Can Launch Your AI Development Career",
-      "summary": "CIS graduates have a strong foundation to build successful careers in artificial intelligence.",
-      "source": "Smartdatacollective.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:11:37Z",
-      "url": "https://www.smartdatacollective.com/how-cis-credentials-can-launch-your-ai-development-career/"
-    },
-    {
-      "id": 61,
-      "title": "freegpt 1.30.3",
-      "summary": "freegpt 1.30.3 is a new library that allows users to interact with multiple AI APIs, enhancing capabilities for developers and researchers in the field of artificial intelligence.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:10:28Z",
-      "url": "https://pypi.org/project/freegpt/1.30.3/"
     }
   ]
 }
