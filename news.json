@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-21T11:14:13.882Z",
+  "lastUpdate": "2025-07-21T11:31:52.757Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether",
+      "summary": "How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether - You don’t have to accept the AI that Samsung offers you.",
+      "source": "Wired",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:30:00Z",
+      "url": "https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/"
+    },
+    {
+      "id": 52,
+      "title": "Cursor AI is not preserving the state when I restart the laptop",
+      "summary": "Cursor AI software installed on Ubuntu is not preserving the state, such as recently opened projects, after a laptop restart despite reinstalling the appimage from the Cursor website.",
+      "source": "Askubuntu.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:28:18Z",
+      "url": "https://askubuntu.com/questions/1553202/cursor-ai-is-not-preserving-the-state-when-i-restart-the-laptop"
+    },
+    {
+      "id": 53,
+      "title": "Digital vassals? French Government 'exposes citizens' data to US'",
+      "summary": "French Government's reliance on US tech giants raises concerns about digital sovereignty and exposes citizens' data to foreign jurisdictions.",
+      "source": "Brusselssignal.eu",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:26:09Z",
+      "url": "https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/"
+    },
+    {
+      "id": 54,
+      "title": "Indian-Origin Trapit Bansal, Hammad Syed Among 44 Picked For Meta’s Superintelligence Unit",
+      "summary": "Indian-Origin Trapit Bansal and Hammad Syed are among 44 individuals selected for Meta's Superintelligence Unit, demonstrating Meta's commitment to advancing AI technology by hiring talent from top organizations such as OpenAI and Google Deepmind.",
+      "source": "News18",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:25:50Z",
+      "url": "https://www.news18.com/business/indian-origin-trapit-bansal-hammad-syed-among-44-picked-for-metas-superintelligence-unit-ws-l-9452024.html"
+    },
+    {
+      "id": 55,
+      "title": "How to Spot a Deepfake Job Application",
+      "summary": "Research firm Gartner predicts that by 2028, 25 percent of job candidates will be fake, created largely by AI",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-20T11:23:17Z",
+      "url": "https://biztoc.com/x/14117eb4d91f408d"
+    },
+    {
+      "id": 56,
+      "title": "My interview was on March 21, 1977, day Emergency was revoked: Jaishankar recalls UPSC journey",
+      "summary": "External Affairs Minister S Jaishankar reflected on his UPSC interview held on the day Emergency was lifted, emphasizing the importance of effective communication under pressure. He compared the UPSC exam to a trial by fire, highlighting the ethical responsibilities of civil servants.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:20:58Z",
+      "url": "https://economictimes.indiatimes.com/news/india/my-interview-was-on-march-21-1977-day-emergency-was-revoked-jaishankar-recalls-upsc-journey/articleshow/122796818.cms"
+    },
+    {
+      "id": 57,
+      "title": "Parasite's Director Thinks This Steven Spielberg Sci-Fi Hit Is One Of This Century's Best Movies",
+      "summary": "Parasite director Bong Joon Ho includes a Steven Spielberg sci-fi movie in his picks for the best films of the 21st century.",
+      "source": "/FILM",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:20:00Z",
+      "url": "https://www.slashfilm.com/1908612/parasite-director-steven-spielberg-sci-fi-war-of-the-worlds-best-movies-century/"
+    },
+    {
+      "id": 58,
+      "title": "AAPL SECURITIES NEWS: Did Apple Inc. (NASDAQ:AAPL) Commit Securities Fraud? Contact BFA Law by August 19 Class Action Deadline",
+      "summary": "Apple Inc. investors are being notified to contact BFA Law before the August 19, 2025 securities fraud class action deadline, raising concerns about potential securities fraud committed by Apple Inc.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:19:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118316/0/en/AAPL-SECURITIES-NEWS-Did-Apple-Inc-NASDAQ-AAPL-Commit-Securities-Fraud-Contact-BFA-Law-by-August-19-Class-Action-Deadline.html"
+    },
+    {
+      "id": 59,
+      "title": "Former Google CEO Eric Schmidt warns of AI superintelligence outpacing Earth's energy limits: 'Chips will outrun power needs'",
+      "summary": "Former Google CEO Eric Schmidt warns of AI superintelligence potentially outpacing Earth's energy limits, as data centers fueling AI models consume record amounts of water and electricity. This raises concerns about an environmental crisis and the need to address the power requirements of advancing AI technology.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:17:52Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/former-google-ceo-eric-schmidt-warns-of-ai-superintelligence-outpacing-earths-energy-limits-chips-will-outrun-power-needs/articleshow/122796603.cms"
+    },
+    {
+      "id": 60,
+      "title": "'Baby Grok': Elon Musk stuns internet with kids-friendly AI app announcement after explicit avatar uproar",
+      "summary": "Elon Musk announced plans to release a kids-friendly AI app called Baby Grok, a version of the AI chatbot Grok, after facing criticism for an explicit avatar. The app will be dedicated to being kid-friendly.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:15:24Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-baby-grok-elon-musk-stuns-internet-with-kids-friendly-ai-app-announcement-after-explicit-avatar-uproar/articleshow/122796733.cms"
+    },
+    {
+      "id": 61,
+      "title": "A MAGA bot network on X is divided over the Trump-Epstein backlash",
+      "summary": "A bot network on X is using AI to reply to conservatives with positive messages about people in the Trump administration, sparking division over the Trump-Epstein backlash.",
+      "source": "NBC News",
+      "category": "research",
+      "timestamp": "2025-07-20T11:15:00Z",
+      "url": "https://www.nbcnews.com/tech/internet/maga-ai-bot-network-divided-trump-epstein-backlash-rcna219167"
+    },
     {
       "id": 51,
       "title": "Schlumberger: A Strong Buy For Value And Income Investors",
@@ -351,105 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-20T10:05:01Z",
       "url": "https://www.businessinsider.com/mark-zuckerberg-priscilla-chan-gpus-recruitment-tool-chan-zuckerberg-initiative-2025-7"
-    },
-    {
-      "id": 58,
-      "title": "World's Largest Power Station Could Provide Energy for Half of US Homes",
-      "summary": "World's largest power station, the Grand Inga Hydropower Project, aims to provide energy for half of US homes using AI-generated voice technology.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:04:37Z",
-      "url": "https://biztoc.com/x/0c7c9c6e506ad572"
-    },
-    {
-      "id": 59,
-      "title": "How AI, robotics and late artist Morrisseau are helping fight art fraud",
-      "summary": "Famed Indigenous artist Norval Morrisseau's work is being protected from art fraud using AI and robotics, after a painting falsely attributed to him was discovered in a gallery.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:01:51Z",
-      "url": "https://financialpost.com/pmn/how-ai-robotics-and-late-artist-morrisseau-are-helping-fight-art-fraud"
-    },
-    {
-      "id": 60,
-      "title": "ChatGPT Agent : The Future of Productivity from OpenAI",
-      "summary": "With the rise of generative AI, tools can now think, adapt, and create alongside users, as seen with OpenAI's ChatGPT Agent. This innovation is revolutionizing productivity by allowing for real-time collaboration between humans and AI.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:01:23Z",
-      "url": "https://www.geeky-gadgets.com/openai-chatgpt-agent-july-2025/"
-    },
-    {
-      "id": 61,
-      "title": "‘Superman’ director calls his hero an immigrant. Critics call him ‘Superwoke’",
-      "summary": "Director James Gunn faced criticism for referring to Superman as an immigrant, with some labeling him as 'Superwoke.'",
-      "source": "CNN",
-      "category": "ethics",
-      "timestamp": "2025-07-20T10:00:46Z",
-      "url": "https://www.cnn.com/2025/07/20/entertainment/superman-immigrant-superwoke-debate-cec"
-    },
-    {
-      "id": 62,
-      "title": "Elmo hack exposes serious social media cybersecurity threats",
-      "summary": "Elmo hack exposes serious social media cybersecurity threats, highlighting the importance of securing online presence.",
-      "source": "Fox News",
-      "category": "ethics",
-      "timestamp": "2025-07-20T10:00:45Z",
-      "url": "https://www.foxnews.com/tech/elmo-hack-exposes-serious-social-media-cybersecurity-threats"
-    },
-    {
-      "id": 63,
-      "title": "The Galaxy Z Fold 7 is my first foldable phone, and it totally caught me off guard",
-      "summary": "A first-time user shares their experience with the Galaxy Z Fold 7, highlighting the seamless transition from traditional slab phones to a foldable device.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:00:10Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-newbie-experience-3578294/"
-    },
-    {
-      "id": 64,
-      "title": "What Makes Cheap Earbuds a Real Value? Here's How I Find the Hidden Gems",
-      "summary": "You can find surprisingly decent earbuds under $100, but the challenge is identifying the hidden gems that are considered under-the-radar keepers.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-20T10:00:07Z",
-      "url": "https://www.cnet.com/tech/mobile/features/what-makes-cheap-earbuds-a-real-value-heres-how-i-find-the-hidden-gems/"
-    },
-    {
-      "id": 65,
-      "title": "Americans Are Using AI To Diagnose Their Health Issues",
-      "summary": "Americans are increasingly using AI to self-diagnose health issues, however, the health care industry is struggling to keep up with the pace of technology advancements.",
-      "source": "Newsweek",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:00:02Z",
-      "url": "https://www.newsweek.com/ai-healthcare-diagnosis-chatgpt-doctor-2100091"
-    },
-    {
-      "id": 66,
-      "title": "The Digital Future in Our Hands: Open Source and AI as an Opportunity",
-      "summary": "In a world where core digital infrastructures are controlled by a few large tech corporations, digital sovereignty has become a major topic. In this context, open source is not just a technical alternative to Big Tech – it represents hope for a democratic",
-      "source": "Joomla.org",
-      "category": "ethics",
-      "timestamp": "2025-07-20T10:00:00Z",
-      "url": "https://magazine.joomla.org/all-issues/july-2025/the-digital-future-in-our-hands-open-source-and-ai-as-an-opportunity"
-    },
-    {
-      "id": 67,
-      "title": "The Sunday Papers",
-      "summary": "The Sunday Papers writer is leaving RPS after 12 years with the site and 8 years with Gamer Network websites.",
-      "source": "Rock Paper Shotgun",
-      "category": "ethics",
-      "timestamp": "2025-07-20T10:00:00Z",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-768"
-    },
-    {
-      "id": 68,
-      "title": "Odekake Kozame Anime Film Reveals Theme Song, More Cast in 2nd Trailer",
-      "summary": "The AI-related news discusses the upcoming Odekake Kozame anime film, which will feature a theme song by Lozareena. Additional cast members Ai Furihata and Sayaka Kikuchi have been announced for the film, set to open on August 22.",
-      "source": "Anime News Network",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:00:00Z",
-      "url": "https://www.animenewsnetwork.com/news/2025-07-20/odekake-kozame-anime-film-reveals-theme-song-more-cast-in-2nd-trailer/.226835"
     }
   ]
 }
