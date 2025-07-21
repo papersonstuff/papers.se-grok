@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-21T15:44:28.357Z",
+  "lastUpdate": "2025-07-21T15:56:48.688Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Tech spending remains persistently uncertain",
+      "summary": "Tech spending remains uncertain despite high Nasdaq, causing caution among decision makers.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-20T15:55:03Z",
+      "url": "https://siliconangle.com/2025/07/20/tech-spending-remains-persistently-uncertain/"
+    },
+    {
+      "id": 52,
+      "title": "Stamford Health researchers using AI to determine a person's risk of having a heart attack",
+      "summary": "Stamford Health researchers are using AI to determine a person's risk of having a heart attack, with the goal of providing patients with timely information to prevent health crises.",
+      "source": "News12.com",
+      "category": "research",
+      "timestamp": "2025-07-20T15:54:48Z",
+      "url": "https://newjersey.news12.com/stamford-health-researchers-using-ai-to-determine-a-persons-risk-of-having-a-heart-attack"
+    },
+    {
+      "id": 53,
+      "title": "The Viral Fall of Andy Byron and Kristin Cabot",
+      "summary": "The viral fall of Andy Byron and Kristin Cabot highlights the ethical implications of power and privacy in the digital age, serving as a cautionary tale about the consequences of internet backlash.",
+      "source": "Gizmodo.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T15:51:28Z",
+      "url": "https://gizmodo.com/the-viral-fall-of-andy-byron-and-kristin-cabot-2000631846"
+    },
+    {
+      "id": 54,
+      "title": "CJB Crypto pioneered the use of artificial intelligence cloud computing to turn XRP cloud mining into a passive income engine of thousands of dollars a day",
+      "summary": "CJB Crypto pioneers using AI cloud computing for XRP cloud mining to generate thousands of dollars a day, offering a new era of passive income.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T15:51:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118356/0/en/CJB-Crypto-pioneered-the-use-of-artificial-intelligence-cloud-computing-to-turn-XRP-cloud-mining-into-a-passive-income-engine-of-thousands-of-dollars-a-day.html"
+    },
+    {
+      "id": 55,
+      "title": "Google Maps removes a crucial feature from its navigation experience",
+      "summary": "Google Maps removes media playback controls from navigation interface on Android",
+      "source": "Android Police",
+      "category": "applications",
+      "timestamp": "2025-07-20T15:49:16Z",
+      "url": "https://www.androidpolice.com/google-maps-android-media-playback-controls-navigation-gone/"
+    },
+    {
+      "id": 56,
+      "title": "Globant: AI Risk Appropriately Priced In",
+      "summary": "Globant's undervalued stock and robust AI solutions position it as a compelling opportunity in the digital transformation landscape.",
+      "source": "Seeking Alpha",
+      "category": "applications",
+      "timestamp": "2025-07-20T15:48:13Z",
+      "url": "https://seekingalpha.com/article/4802527-globant-ai-risk-appropriately-priced-in"
+    },
     {
       "id": 51,
       "title": "Meta poaches even more Apple AI talent ahead of smart glasses clash",
@@ -396,60 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T14:34:50Z",
       "url": "https://economictimes.indiatimes.com/news/india/up-govt-to-use-ai-social-media-monitoring-implement-strict-security-for-ro/aro-exam/articleshow/122798520.cms"
-    },
-    {
-      "id": 62,
-      "title": "Morgan Wallen tells fans they’re ‘safe’ with their ‘side chick’ at his show following Andy Byron scandal",
-      "summary": "Country music star Morgan Wallen makes controversial statement during concert, reassuring fans they are 'safe' with their 'side chick' after scandal involving Andy Byron.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-20T14:33:45Z",
-      "url": "https://pagesix.com/2025/07/20/celebrity-news/morgan-wallen-tells-fans-theyre-safe-with-their-side-chick-at-his-show-following-andy-byron-kiss-cam-scandal/"
-    },
-    {
-      "id": 63,
-      "title": "The Rise Of 'Superfakes': Why Ultra-Realistic Designer Knockoffs Are Disrupting The Luxury Industry",
-      "summary": "The Rise Of 'Superfakes': Ultra-realistic designer knockoffs are disrupting the luxury industry, raising ethical concerns about the authenticity of products and the impact on the original brands.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-20T14:30:41Z",
-      "url": "https://finance.yahoo.com/news/rise-superfakes-why-ultra-realistic-143041178.html"
-    },
-    {
-      "id": 64,
-      "title": "$48,000,000,000 Wealth Management Firm Sees S&P 500 Heading to Massive Price Target Triggered by AI Adoption, Disinflation and More",
-      "summary": "$48 billion wealth management firm predicts S&P 500 will reach new highs by the end of the year, citing AI adoption and other factors.",
-      "source": "The Daily Hodl",
-      "category": "economy",
-      "timestamp": "2025-07-20T14:30:22Z",
-      "url": "https://dailyhodl.com/2025/07/20/48000000000-wealth-management-firm-sees-sp-500-heading-to-massive-price-target-triggered-by-ai-adoption-disinflation-and-more/"
-    },
-    {
-      "id": 65,
-      "title": "Xbox's Next-Gen Console Is Perfect For A Remake Of The Most Underrated Elder Scrolls Game",
-      "summary": "With Xbox focusing on AI in their next-gen console, a perfect opportunity arises to remake a lesser-known Elder Scrolls game using this technology.",
-      "source": "Screen Rant",
-      "category": "applications",
-      "timestamp": "2025-07-20T14:30:19Z",
-      "url": "https://screenrant.com/elder-scrolls-daggerfall-remake-xbox-next-gen-console/"
-    },
-    {
-      "id": 51,
-      "title": "Monday Morning Update 7/21/25",
-      "summary": "Humana integrates its health plan information with Epic, leading to improved coordination of care and access to health records.",
-      "source": "Histalk2.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T14:17:30Z",
-      "url": "https://histalk2.com/2025/07/20/monday-morning-update-7-21-25/"
-    },
-    {
-      "id": 52,
-      "title": " Messi overtakes Cristiano Ronaldo in goals scored excluding penalties",
-      "summary": "Messi surpasses Cristiano Ronaldo in goals scored excluding penalties, reaching 764 goals in total after scoring twice in Inter Miami's match against the New York Red Bulls.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T14:09:00Z",
-      "url": "https://onefootball.com/en/news/messi-overtakes-cristiano-ronaldo-in-goals-scored-excluding-penalties-41400407"
     }
   ]
 }
