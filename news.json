@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T04:27:14.497Z",
+  "lastUpdate": "2025-07-21T05:01:17.707Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Image Mate – AI That Renames, Tags & Describes Your Photos",
+      "summary": "Image Mate is an AI tool that automatically renames, tags, and describes photos, simplifying the organization of large photo libraries.",
+      "source": "Betalist.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T05:00:00Z",
+      "url": "https://betalist.com/startups/image-mate"
+    },
+    {
+      "id": 52,
+      "title": "ml-modelguard 0.2.1",
+      "summary": "ml-modelguard 0.2.1 is a seat-belt library for machine-learning model files that prevents hidden malware and verifies provenance.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T04:53:41Z",
+      "url": "https://pypi.org/project/ml-modelguard/0.2.1/"
+    },
+    {
+      "id": 53,
+      "title": "dhisana 0.0.1.dev181",
+      "summary": "Dhisana 0.0.1.dev181 is a Python SDK developed for the Dhisana AI Platform, aiming to enhance accessibility and usability for developers. This innovation in AI technology opens up new possibilities for integrating AI capabilities into various applications and systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T04:53:37Z",
+      "url": "https://pypi.org/project/dhisana/0.0.1.dev181/"
+    },
+    {
+      "id": 54,
+      "title": "coppersun-brass 2.3.17",
+      "summary": "The coppersun-brass 2.3.17 is a Development Intelligence tool designed for AI agents in the Copper Sun Product Line.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T04:53:24Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.17/"
+    },
+    {
+      "id": 55,
+      "title": "How I Use AI as My Assistant in Daily Marketing Tasks, Not My Replacement",
+      "summary": "As a digital marketing consultant, the use of AI as an assistant in daily marketing tasks is discussed, highlighting the role of AI in content creation and strategy without replacing human creativity.",
+      "source": "Linkedin.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T04:51:03Z",
+      "url": "https://www.linkedin.com/pulse/how-i-use-ai-my-assistant-daily-marketing-tasks-replacement-ap-oa43c"
+    },
+    {
+      "id": 56,
+      "title": "How to use Meta AI on WhatsApp: A guide",
+      "summary": "Meta has integrated its artificial intelligence WhatsApp tools, allowing users to interact with AI within the app.",
+      "source": "Gizchina.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T04:49:54Z",
+      "url": "https://www.gizchina.com/2025/07/20/how-to-use-meta-ai-on-whatsapp-a-guide/"
+    },
+    {
+      "id": 57,
+      "title": "mlx-gui added to PyPI",
+      "summary": "mlx-gui, a lightweight RESTful wrapper for Apple's MLX engine, has been added to PyPI for dynamically loading and serving MLX-compatible models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T04:44:15Z",
+      "url": "https://pypi.org/project/mlx-gui/"
+    },
+    {
+      "id": 58,
+      "title": "Offerpad Solutions (OPAD) Announces Strategic Partnership with Auction.com",
+      "summary": "Offerpad Solutions (OPAD) Announces Strategic Partnership with Auction.com, making it one of the hot penny stocks to invest in now.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-20T04:35:45Z",
+      "url": "https://finance.yahoo.com/news/offerpad-solutions-opad-announces-strategic-043545344.html"
+    },
+    {
+      "id": 59,
+      "title": "Viomi Technology (VIOT) Announces Approval of a Special Dividend",
+      "summary": "Viomi Technology (VIOT) announces approval of a special dividend, making it a hot penny stock to invest in now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:43Z",
+      "url": "https://finance.yahoo.com/news/viomi-technology-viot-announces-approval-043543957.html"
+    },
+    {
+      "id": 60,
+      "title": "Above Food Ingredients (ABVE) Announces Acquisition of Palm Global Technologies",
+      "summary": "Above Food Ingredients Inc. (NASDAQ:ABVE) announced the acquisition of Palm Global Technologies, making it a hot penny stock to invest in now.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-20T04:35:39Z",
+      "url": "https://finance.yahoo.com/news/above-food-ingredients-abve-announces-043539945.html"
+    },
+    {
+      "id": 61,
+      "title": "H.C. Wainwright Upgrades Vor Biopharma (VOR) to a Buy, Sets a $3 Price Target",
+      "summary": "H.C. Wainwright Upgrades Vor Biopharma (VOR) to a Buy, Sets a $3 Price Target - Vor Biopharma Inc. (NASDAQ:VOR) is one of the hot penny stocks to invest in now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:37Z",
+      "url": "https://finance.yahoo.com/news/h-c-wainwright-upgrades-vor-043537111.html"
+    },
+    {
+      "id": 62,
+      "title": "H.C. Wainwright Reiterates a Buy Rating on Lexicon Pharmaceuticals (LXRX)",
+      "summary": "H.C. Wainwright reiterates a Buy rating on Lexicon Pharmaceuticals (LXRX), highlighting it as one of the hot penny stocks to invest in now.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-20T04:35:35Z",
+      "url": "https://finance.yahoo.com/news/h-c-wainwright-reiterates-buy-043535376.html"
+    },
+    {
+      "id": 63,
+      "title": "BMO Capital Maintains a Buy on Prime Medicine (PRME), Sets a $10 PT",
+      "summary": "BMO Capital maintains a Buy on Prime Medicine (PRME) and sets a $10 price target. It is considered one of the hot penny stocks to invest in, with analyst Kostas Biliouris reaffirming a Buy rating on July 16.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-20T04:35:33Z",
+      "url": "https://finance.yahoo.com/news/bmo-capital-maintains-buy-prime-043533445.html"
+    },
+    {
+      "id": 64,
+      "title": "Morgan Stanley Lifts PT on T-Mobile US (TMUS) to $280 from $265, Keeps Overweight Rating",
+      "summary": "Morgan Stanley raises price target on T-Mobile US to $280, indicating it as a good long-term low volatility stock to buy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:25Z",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-pt-t-043525322.html"
+    },
+    {
+      "id": 65,
+      "title": "Morgan Stanley Raises PT on RTX Corporation (RTX) to $165 from $135, Keeps Overweight Rating",
+      "summary": "Morgan Stanley raises PT on RTX Corporation to $165 from $135, labeling it as one of the best long term low volatility stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:18Z",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-raises-pt-rtx-043518201.html"
+    },
+    {
+      "id": 66,
+      "title": "Morgan Stanley Reiterates a Buy Rating on AbbVie (ABBV) With a $250 PT",
+      "summary": "Morgan Stanley reiterates a Buy rating on AbbVie with a $250 PT, highlighting it as one of the best long term low volatility stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:16Z",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-reiterates-buy-rating-043516396.html"
+    },
+    {
+      "id": 67,
+      "title": "China Galaxy International Downgrades PT on PDD Holdings (PDD) from $164 to $112",
+      "summary": "China Galaxy International downgrades PT on PDD Holdings from $164 to $112, stating it as a good long term low volatility stock. Analyst Lei Yang provided this update on May 30.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:13Z",
+      "url": "https://finance.yahoo.com/news/china-galaxy-international-downgrades-pt-043513579.html"
+    },
+    {
+      "id": 68,
+      "title": "Thermo Fisher Scientific (TMO) Announces Strategic Partnership Expansion With Sanofi",
+      "summary": "Thermo Fisher Scientific (TMO) announces strategic partnership expansion with Sanofi, making it one of the best long-term low volatility stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-20T04:35:07Z",
+      "url": "https://finance.yahoo.com/news/thermo-fisher-scientific-tmo-announces-043507172.html"
+    },
+    {
+      "id": 69,
+      "title": "Morgan Stanley Lifts PT on The Charles Schwab Corporation (SCHW) to $117, Keeps Overweight Rating",
+      "summary": "Morgan Stanley raises price target on The Charles Schwab Corporation to $117, suggesting it is a good long term low volatility stock to buy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T04:35:05Z",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-pt-charles-043505681.html"
+    },
+    {
+      "id": 70,
+      "title": "Boris FX releases SynthEyes 2025.5",
+      "summary": "Boris FX releases SynthEyes 2025.5 with new AI-powered motion estimation mode for easier tracking of shots.",
+      "source": "Cgchannel.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T04:30:37Z",
+      "url": "https://www.cgchannel.com/2025/07/boris-fx-releases-syntheyes-2025-5/"
+    },
     {
       "id": 51,
       "title": "Uncanny X-Men #18 Preview: Mardi Gras or Mutant Mayhem?",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T02:45:40Z",
       "url": "https://pypi.org/project/ml-modelguard/"
-    },
-    {
-      "id": 67,
-      "title": "ml-modelguard 0.1.0",
-      "summary": "ml-modelguard 0.1.0 is a seat-belt library for machine-learning models that prevents hidden malware and verifies provenance",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T02:45:40Z",
-      "url": "https://pypi.org/project/ml-modelguard/0.1.0/"
-    },
-    {
-      "id": 68,
-      "title": "Jensen Huang, AI Visionary In A Leather Jacket",
-      "summary": "Jensen Huang, previously unknown to the public, has risen to become a powerful entrepreneur as head of Nvidia, a chip giant in the AI industry.",
-      "source": "Ibtimes.com.au",
-      "category": "economy",
-      "timestamp": "2025-07-20T02:42:20Z",
-      "url": "https://www.ibtimes.com.au/jensen-huang-ai-visionary-leather-jacket-1859726"
-    },
-    {
-      "id": 69,
-      "title": "Jensen Huang, AI Visionary In A Leather Jacket",
-      "summary": "Jensen Huang, previously unknown, has become one of the most powerful entrepreneurs as head of Nvidia, a chip giant.",
-      "source": "International Business Times",
-      "category": "startups",
-      "timestamp": "2025-07-20T02:42:18Z",
-      "url": "https://www.ibtimes.com/jensen-huang-ai-visionary-leather-jacket-3778942"
-    },
-    {
-      "id": 70,
-      "title": "New Windsurf CEO Jeff Wang recounts a frantic weekend of dealmaking to save the startup: 'I was on the verge of tears'",
-      "summary": "New Windsurf CEO Jeff Wang faced a turbulent weekend of dealmaking to save the startup, including a failed deal with OpenAI and the CEO being poached by Google. Despite the setbacks, they were able to secure a new deal within 48 hours.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-20T02:41:53Z",
-      "url": "https://www.businessinsider.com/windsurf-ceo-jeff-wang-openai-google-cognition-deal-2025-7"
-    },
-    {
-      "id": 51,
-      "title": "canoaicli 1.0.1",
-      "summary": "Canoaicli 1.0.1 is a command-line AI assistant that uses Gemini technology to assist users in various tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T01:08:28Z",
-      "url": "https://pypi.org/project/canoaicli/1.0.1/"
-    },
-    {
-      "id": 52,
-      "title": "ai-interactive-feedback 2025.720.2",
-      "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development with dual interface support and intelligent environment detection.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T01:02:34Z",
-      "url": "https://pypi.org/project/ai-interactive-feedback/2025.720.2/"
-    },
-    {
-      "id": 53,
-      "title": "israeli-law-amender added to PyPI",
-      "summary": "Israeli-law-amender added to PyPI - A Python package for processing and amending Israeli laws using AI",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T01:00:20Z",
-      "url": "https://pypi.org/project/israeli-law-amender/"
-    },
-    {
-      "id": 54,
-      "title": "Stop Israel’s Dystopian ‘Humanitarian City’ Plan – Before It’s Too Late",
-      "summary": "The Israeli government's proposal for a 'Humanitarian City' has raised concerns of a genocidal scheme, prompting calls to stop it. Israeli Defense Minister Israel Katz is behind the controversial plan.",
-      "source": "Activistpost.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T01:00:00Z",
-      "url": "https://www.activistpost.com/stop-israels-dystopian-humanitarian-city-plan-before-its-too-late/"
-    },
-    {
-      "id": 55,
-      "title": "swe-ai-agent 1.0.42",
-      "summary": "SWE Agent 1.0.42 is an AI tool that serves as a headless agentic IDE with extensive tool support.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T00:58:23Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.42/"
-    },
-    {
-      "id": 56,
-      "title": "ivcap_ai_tool 0.7.12",
-      "summary": "IVCAP AI Tool 0.7.12 has been released, providing helper functions for building AI Tools as IVCAP services.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T00:55:02Z",
-      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.12/"
-    },
-    {
-      "id": 57,
-      "title": "swe-ai-agent 1.0.38",
-      "summary": "swe-ai-agent 1.0.38 is a headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T00:37:46Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.38/"
-    },
-    {
-      "id": 58,
-      "title": "tokencostauto 0.1.141",
-      "summary": "tokencostauto 0.1.141 is a tool used to calculate token and translated USD cost of string and message calls to OpenAI, particularly when used by AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T00:35:09Z",
-      "url": "https://pypi.org/project/tokencostauto/0.1.141/"
-    },
-    {
-      "id": 59,
-      "title": "Ignorance and Military Fantasy: General Donahue’s Proposed U.S-NATO Blitzkrieg Assault on Russia’s Kaliningrad Enclave. A Miscalculation Could Lead to a Thermonuclear Catastrophy. Drago Bosnic",
-      "summary": "Ignorance and Military Fantasy: General Donahue's proposed U.S-NATO Blitzkrieg Assault on Russia's Kaliningrad Enclave poses a threat of thermonuclear catastrophe. Threatening thermonuclear superpowers in Washington DC is becoming a concerning trend.",
-      "source": "Globalresearch.ca",
-      "category": "ethics",
-      "timestamp": "2025-07-20T00:32:51Z",
-      "url": "https://www.globalresearch.ca/ignorance-and-military-fantasy-general-donahues-proposed-u-s-nato-blitzkrieg-assault-on-russias-kaliningrad-enclave-if-implemented-could-lead-to-a-thermonuclear-catastrophy-drago-bosnic/5895474"
-    },
-    {
-      "id": 60,
-      "title": "Astronomer CEO resigns after Coldplay concert video",
-      "summary": "Astronomer CEO resigns after video surfaces showing him cozying up to a female colleague at a Coldplay concert.",
-      "source": "DW (English)",
-      "category": "ethics",
-      "timestamp": "2025-07-20T00:31:00Z",
-      "url": "https://www.dw.com/en/astronomer-ceo-resigns-after-coldplay-concert-video/a-73340531"
-    },
-    {
-      "id": 61,
-      "title": "US tech CEO resigns after Coldplay concert video",
-      "summary": "US tech CEO resigns from software firm Astronomer after video shows him cuddling a female colleague at a Coldplay concert.",
-      "source": "DW (English)",
-      "category": "ethics",
-      "timestamp": "2025-07-20T00:31:00Z",
-      "url": "https://www.dw.com/en/us-tech-ceo-resigns-after-coldplay-concert-video/a-73340531"
-    },
-    {
-      "id": 62,
-      "title": "Eight chipsets designed by IIT students sent to fabs: IT Minister Vaishnaw",
-      "summary": "Indian Institutes of Technology (IITs) students have designed 20 chipsets, with eight already sent for fabrication, showing progress in domestic semiconductor development. The first commercial-scale, made-in-India semiconductor chip is expected.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-20T00:30:00Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/eight-chipsets-designed-by-iit-students-sent-to-fabs-it-minister-vaishnaw/articleshow/122785560.cms"
-    },
-    {
-      "id": 63,
-      "title": "AIXA Miner Launches AI-Powered Cloud Mining Ecosystem Amid Surge in Blockchain Adoption",
-      "summary": "AIXA Miner launches AI-powered cloud mining platform in response to increasing demand for secure and scalable crypto mining solutions.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-20T00:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118295/0/en/AIXA-Miner-Launches-AI-Powered-Cloud-Mining-Ecosystem-Amid-Surge-in-Blockchain-Adoption.html"
-    },
-    {
-      "id": 64,
-      "title": "West Coast Avengers #9 Preview: Ultrons Are So Last Season",
-      "summary": "The news focuses on a comic book preview controlled by LOLtron on the Bleeding Cool website, following the removal of journalist Jude Terror. The use of AI in this context raises concerns about ethics and the influence of technology on media.",
-      "source": "Bleeding Cool News",
-      "category": "ethics",
-      "timestamp": "2025-07-20T00:26:03Z",
-      "url": "https://bleedingcool.com/comics/west-coast-avengers-9-preview-ultrons-are-so-last-season/"
-    },
-    {
-      "id": 65,
-      "title": "ai-edge-quantizer-nightly 0.3.0.dev20250720",
-      "summary": "The ai-edge-quantizer-nightly 0.3.0.dev20250720 is a quantizer tool designed for advanced developers to quantize converted AI Edge models.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T00:16:16Z",
-      "url": "https://pypi.org/project/ai-edge-quantizer-nightly/0.3.0.dev20250720/"
-    },
-    {
-      "id": 66,
-      "title": "DuckDuckGo Lets You Hide AI Images, More in Search Results",
-      "summary": "DuckDuckGo Search now gives users the option to hide AI-generated images in its search results.",
-      "source": "Thurrott.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T00:10:41Z",
-      "url": "https://www.thurrott.com/a-i/323555/duckduckgo-lets-you-hide-ai-images-more-in-search-results"
     }
   ]
 }
