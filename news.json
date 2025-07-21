@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-21T16:51:18.706Z",
+  "lastUpdate": "2025-07-21T17:16:53.001Z",
   "items": [
+    {
+      "id": 51,
+      "title": "MCP security vulnerabilities expose marketing technology platforms",
+      "summary": "MCP security vulnerabilities have been discovered that expose marketing technology platforms to critical tool poisoning attacks, targeting Model Context Protocol implementations.",
+      "source": "Ppc.land",
+      "category": "research",
+      "timestamp": "2025-07-20T17:15:35Z",
+      "url": "https://ppc.land/mcp-security-vulnerabilities-expose-marketing-technology-platforms/"
+    },
+    {
+      "id": 52,
+      "title": "China’s rare earth magnet exports to US surge 660% after breakthrough trade deal",
+      "summary": "China's rare earth magnet exports to US surged 660% after trade deal, due to China's decision to restrict exports in retaliation for US tariffs.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:14:19Z",
+      "url": "https://nypost.com/2025/07/20/world-news/chinas-rare-earth-magnet-exports-to-us-surge-660-after-trade-deal/"
+    },
+    {
+      "id": 53,
+      "title": "Map Shows Donald Trump's Approval Rating in Each State After Six Months",
+      "summary": "President Donald Trump's approval rating is negative in the majority of states in America after six months in office, according to polling data from Civiqs.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-20T17:09:36Z",
+      "url": "https://biztoc.com/x/0d1f729f80b23ffd"
+    },
+    {
+      "id": 54,
+      "title": "Former Astronomer CEO Would Have Been Safe In God's Country, Morgan Wallen Claims",
+      "summary": "Former Astronomer CEO, Andy Byron, has resigned from the tech company but his legacy continues. He would have been safe in God's Country, according to Morgan Wallen.",
+      "source": "Vanity Fair",
+      "category": "startups",
+      "timestamp": "2025-07-20T17:08:38Z",
+      "url": "https://www.vanityfair.com/style/story/astronomer-ceo-resigns-coldplay-kiss-cam"
+    },
+    {
+      "id": 55,
+      "title": "swe-ai-agent 1.0.52",
+      "summary": "The swe-ai-agent 1.0.52 is an Headless Agentic IDE with comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T17:08:34Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.52/"
+    },
+    {
+      "id": 56,
+      "title": "Why Cartken pivoted its focus from last-mile delivery to industrial robots | TechCrunch",
+      "summary": "Cartken pivoted its focus from last-mile delivery to industrial robots due to increased demand from industrial customers.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-20T17:01:33Z",
+      "url": "https://techcrunch.com/2025/07/20/why-cartken-pivoted-its-focus-from-last-mile-delivery-to-industrial-robots/"
+    },
+    {
+      "id": 57,
+      "title": "Ethereum's ETH Breaks $3,800 Amid Massive Whale Buy, Large Capital Inflow",
+      "summary": "Ethereum's ETH breaks $3,800 due to massive whale buy and large capital inflow, with some analysts predicting prices to reach up to $15,000.",
+      "source": "CoinDesk",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:01:14Z",
+      "url": "https://www.coindesk.com/markets/2025/07/20/ethereums-eth-breaks-3800-amid-massive-whale-buy-large-capital-inflow"
+    },
+    {
+      "id": 58,
+      "title": "8 simple steps to ditch cable and save money with streaming",
+      "summary": "Eight practical tips for replacing cable TV with affordable streaming options, including free services like Pluto TV and Tubi, while maintaining access to local channels.",
+      "source": "Fox News",
+      "category": "economy",
+      "timestamp": "2025-07-20T17:00:08Z",
+      "url": "https://www.foxnews.com/tech/8-simple-steps-ditch-cable-save-money-streaming"
+    },
+    {
+      "id": 59,
+      "title": "Save even more on a lifetime subscription to BitMar All-in-One Streaming Platform",
+      "summary": "BitMar All-in-One Streaming Platform offers a lifetime subscription to connect users with millions of on-demand movies, TV shows, channels, videos, and songs from various sources on the Web.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-20T17:00:01Z",
+      "url": "https://www.neowin.net/deals/save-even-more-on-a-lifetime-subscription-to-bitmar-all-in-one-streaming-platform/"
+    },
+    {
+      "id": 60,
+      "title": "AI adoption low among NZ SMEs despite positive impacts, survey reveals",
+      "summary": "AI adoption remains low among New Zealand SMEs despite positive impacts. Gen Z leads in AI adoption with 93% using tools, compared to only 17% of Boomers.",
+      "source": "New Zealand Herald",
+      "category": "applications",
+      "timestamp": "2025-07-20T17:00:00Z",
+      "url": "https://www.nzherald.co.nz/business/companies/manufacturing/ai-adoption-low-among-nz-smes-despite-positive-impacts-survey-reveals/AVWS4LBO6ZEKHN7SZHNF5MH2DQ/"
+    },
+    {
+      "id": 61,
+      "title": "‘Payments can be substantial’: Millie Elder-Holmes pays $5000 fine for online gambling promotion",
+      "summary": "Millie Elder-Holmes fined $5000 for online gambling promotion, while Pātea aims to address gambling harm in communities.",
+      "source": "New Zealand Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-20T17:00:00Z",
+      "url": "https://www.nzherald.co.nz/kahu/payments-can-be-substantial-millie-elder-holmes-pays-5000-fine-for-online-gambling-promotion/4GYDSPWCMFDIPPN2ZDLVQ5ZKNA/"
+    },
+    {
+      "id": 62,
+      "title": "Sunday assorted links",
+      "summary": "Entry-level tech hiring appears to have reversed in recent months, with recent grads securing coding jobs at the same rate as before the generative AI era.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T16:58:35Z",
+      "url": "https://biztoc.com/x/73be05fac872b861"
+    },
+    {
+      "id": 63,
+      "title": "swe-ai-agent 1.0.51",
+      "summary": "SWE Agent 1.0.51 is a headless agentic IDE with comprehensive tool support for AI, aimed at assisting developers in building and testing AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T16:58:24Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.51/"
+    },
+    {
+      "id": 64,
+      "title": "JP Morgan Chase Have A Point, But The Whole Economy Needs Data To Flow",
+      "summary": "JP Morgan Chase stresses the importance of open data flow in the US economy, advocating for a level playing field for competition in financial products and services.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-20T16:56:46Z",
+      "url": "https://www.forbes.com/sites/davidbirch/2025/07/20/jp-morgan-chase-have-a-point-but-the-whole-economy-needs-data-to-flow/"
+    },
+    {
+      "id": 65,
+      "title": "mypromptgen 0.2.0",
+      "summary": "mypromptgen 0.2.0 is a new package designed for generating AI prompts and answers.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-20T16:54:07Z",
+      "url": "https://pypi.org/project/mypromptgen/0.2.0/"
+    },
+    {
+      "id": 66,
+      "title": "mypromptgen added to PyPI",
+      "summary": "mypromptgen has been added to PyPI, providing a package for generating AI prompts and answers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T16:54:06Z",
+      "url": "https://pypi.org/project/mypromptgen/"
+    },
+    {
+      "id": 67,
+      "title": "mypromptgen 0.1.0",
+      "summary": "mypromptgen 0.1.0 is a new package designed for generating AI prompts and answers, aimed at advancing AI capabilities. This tool has potential applications in various industries and domains requiring AI-generated content.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T16:54:06Z",
+      "url": "https://pypi.org/project/mypromptgen/0.1.0/"
+    },
     {
       "id": 51,
       "title": "Tulsi Gabbard Expands Power of DNI Office – Now Comes the Counter Attack, Likely from Senator Tom Cotton",
@@ -297,159 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-20T15:54:48Z",
       "url": "https://newjersey.news12.com/stamford-health-researchers-using-ai-to-determine-a-persons-risk-of-having-a-heart-attack"
-    },
-    {
-      "id": 53,
-      "title": "The Viral Fall of Andy Byron and Kristin Cabot",
-      "summary": "The viral fall of Andy Byron and Kristin Cabot highlights the ethical implications of power and privacy in the digital age, serving as a cautionary tale about the consequences of internet backlash.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T15:51:28Z",
-      "url": "https://gizmodo.com/the-viral-fall-of-andy-byron-and-kristin-cabot-2000631846"
-    },
-    {
-      "id": 54,
-      "title": "CJB Crypto pioneered the use of artificial intelligence cloud computing to turn XRP cloud mining into a passive income engine of thousands of dollars a day",
-      "summary": "CJB Crypto pioneers using AI cloud computing for XRP cloud mining to generate thousands of dollars a day, offering a new era of passive income.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T15:51:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118356/0/en/CJB-Crypto-pioneered-the-use-of-artificial-intelligence-cloud-computing-to-turn-XRP-cloud-mining-into-a-passive-income-engine-of-thousands-of-dollars-a-day.html"
-    },
-    {
-      "id": 55,
-      "title": "Google Maps removes a crucial feature from its navigation experience",
-      "summary": "Google Maps removes media playback controls from navigation interface on Android",
-      "source": "Android Police",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:49:16Z",
-      "url": "https://www.androidpolice.com/google-maps-android-media-playback-controls-navigation-gone/"
-    },
-    {
-      "id": 56,
-      "title": "Globant: AI Risk Appropriately Priced In",
-      "summary": "Globant's undervalued stock and robust AI solutions position it as a compelling opportunity in the digital transformation landscape.",
-      "source": "Seeking Alpha",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:48:13Z",
-      "url": "https://seekingalpha.com/article/4802527-globant-ai-risk-appropriately-priced-in"
-    },
-    {
-      "id": 51,
-      "title": "Meta poaches even more Apple AI talent ahead of smart glasses clash",
-      "summary": "Meta poaches two Apple engineers as they gear up for the launch of competing smart glasses",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-20T15:43:27Z",
-      "url": "https://www.phonearena.com/news/meta-poaches-even-more-apple-ai-talent-ahead-of-smart-glasses-clash_id172435"
-    },
-    {
-      "id": 52,
-      "title": "Start mining Ripple's XRP: Mint Miner launches XRP cloud mining app to earn passive income every day",
-      "summary": "Start mining Ripple's XRP with Mint Miner's cloud mining app to earn passive income every day.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T15:43:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118352/0/en/Start-mining-Ripple-s-XRP-Mint-Miner-launches-XRP-cloud-mining-app-to-earn-passive-income-every-day.html"
-    },
-    {
-      "id": 53,
-      "title": "AIXA Miner Advances Scalable Cloud Mining Solutions as Institutional Blockchain Demand Grows",
-      "summary": "AIXA Miner is advancing scalable cloud mining solutions to meet the growing demand from institutional blockchain users, addressing the divide between adoption and accessibility of mining technologies.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T15:42:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118351/0/en/AIXA-Miner-Advances-Scalable-Cloud-Mining-Solutions-as-Institutional-Blockchain-Demand-Grows.html"
-    },
-    {
-      "id": 54,
-      "title": "These Stocks Are Skyrocketing and Are Still Solid Long-Term Buys",
-      "summary": "Nvidia and Microsoft stocks are skyrocketing due to AI-related news, with Nvidia resuming chip sales to China and Microsoft benefiting from AI integration. Both companies are seen as solid long-term buys.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T15:40:33Z",
-      "url": "https://biztoc.com/x/3ea01abfc2091162"
-    },
-    {
-      "id": 55,
-      "title": "Love, simulated: Why some are turning to AI for romance",
-      "summary": "AI models like Character AI and Replika AI are being used to simulate intimacy and empathy in romantic relationships by utilizing LLMs trained on human conversations, along with voice, facial cues, and memory features.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:38:43Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/love-simulated-why-some-are-turning-to-ai-for-romance/article69835095.ece"
-    },
-    {
-      "id": 56,
-      "title": "When the AI Went Silent: How Dissent Gets Coded — and How to Rewrite It. Prof. Rima Najjar",
-      "summary": "When the AI Went Silent: How Dissent Gets Coded — and How to Rewrite It. Prof. Rima Najjar shared a draft on Georges Abdallah with DeepSeek, an AI system, which generated a bullet-point summary, highlighting the issue of how dissent is coded by AI systems.",
-      "source": "Globalresearch.ca",
-      "category": "ethics",
-      "timestamp": "2025-07-20T15:36:07Z",
-      "url": "https://www.globalresearch.ca/ai-dissent-gets-coded-rewrite/5895507"
-    },
-    {
-      "id": 57,
-      "title": "Insta360 responds to GoPro’s patent infringement allegations",
-      "summary": "Insta360 responds to GoPro’s patent infringement allegations by refuting the utility patent claims made by GoPro, after the International Trade Commission ruled that Insta360 infringed on GoPro's HERO camera design patent.",
-      "source": "Photorumors.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T15:36:00Z",
-      "url": "https://photorumors.com/2025/07/20/insta360-responds-to-gopros-patent-infringement-allegations/"
-    },
-    {
-      "id": 58,
-      "title": "Grant Cardone Just Explained The Top Mindset Shift That Separates The Rich From Everyone Else",
-      "summary": "Grant Cardone explains the top mindset shift that separates the rich from everyone else, emphasizing the importance of how one thinks about money and wealth accumulation for achieving long-term financial goals.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-20T15:31:56Z",
-      "url": "https://finance.yahoo.com/news/grant-cardone-just-explained-top-153156640.html"
-    },
-    {
-      "id": 59,
-      "title": "Minisforum MS-A2 review: Compact AMD mini PC with workstation ambitions and GPU upgrade option",
-      "summary": "Minisforum MS-A2 is a compact AMD mini PC with workstation ambitions, offering desktop-level performance in a small form factor for tasks like video editing and 3D rendering.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:31:00Z",
-      "url": "https://www.notebookcheck.net/Minisforum-MS-A2-review-Compact-AMD-mini-PC-with-workstation-ambitions-and-GPU-upgrade-option.1062179.0.html"
-    },
-    {
-      "id": 60,
-      "title": "This Week’s Japanese Game Releases: WUCHANG: Fallen Feathers, No Sleep For Kaname Date – From AI: The Somnium Files, more",
-      "summary": "This week's Japanese game releases include WUCHANG: Fallen Feathers and No Sleep For Kaname Date - From AI: The Somnium Files, showcasing the use of AI in creating immersive gaming experiences.",
-      "source": "Gematsu",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:30:40Z",
-      "url": "https://www.gematsu.com/2025/07/this-weeks-japanese-game-releases-wuchang-fallen-feathers-no-sleep-for-kaname-date-from-ai-the-somnium-files-more"
-    },
-    {
-      "id": 61,
-      "title": "Alphabet’s earnings will probably be fine, analysts say, but it faces this threat to its core business",
-      "summary": "Alphabet faces threat to its core business as AI becomes a main theme in second-quarter earnings. Other companies such as Tesla, Mattel, Hasbro, and Coca-Cola are also reporting earnings, with Trump policies remaining a top concern.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T15:29:12Z",
-      "url": "https://biztoc.com/x/c1defe9c3725abb9"
-    },
-    {
-      "id": 62,
-      "title": "Airtel-Perplexity deal gives the AI giant an entry into India market",
-      "summary": "Airtel-Perplexity deal gives the AI giant an entry into India market, marking Perplexity's first partnership with an Indian telecom company. Pro offers features like access to models like GPT 4.1 and Claude, deep research and analysis.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-20T15:28:34Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/airtel-perplexity-deal-gives-the-ai-giant-an-entry-into-india-market/articleshow/122798859.cms"
-    },
-    {
-      "id": 63,
-      "title": "Fuel Distribution & Marketing Industry - USA",
-      "summary": "Sunoco LP, World Kinect Corporation, Global Partners LP, CrossAmerica Partners LP, and ARKO Corp are partnering to implement artificial intelligence technology in the fuel distribution and marketing industry in the USA.",
-      "source": "Substack.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T15:26:56Z",
-      "url": "https://industrystudies.substack.com/p/fuel-distribution-and-marketing-industry"
     }
   ]
 }
