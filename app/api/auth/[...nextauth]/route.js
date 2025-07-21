@@ -1,4 +1,4 @@
-export const dynamic = 'force-dynamic'; // Ensures runtime execution
+export const dynamic = 'force-dynamic';
 export const revalidate = false;
 
 import { NextAuth } from "next-auth";
@@ -7,9 +7,8 @@ import EmailProvider from "next-auth/providers/email";
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
   adapter: SupabaseAdapter({
-    supabaseUrl: process.env.SUPABASE_URL,
-    supabaseKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
-    schema: 'next_auth',
+    url: process.env.SUPABASE_URL,
+    secret: process.env.SUPABASE_SERVICE_ROLE_KEY,
   }),
   providers: [
     EmailProvider({
