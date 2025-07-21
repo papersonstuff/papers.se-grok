@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-21T10:48:50.427Z",
+  "lastUpdate": "2025-07-21T11:14:13.882Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Schlumberger: A Strong Buy For Value And Income Investors",
+      "summary": "Schlumberger's AI-driven digital initiatives are providing powerful tailwinds for sustained earnings expansion, making it a strong buy for value and income investors in the oil industry.",
+      "source": "Seeking Alpha",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:13:36Z",
+      "url": "https://seekingalpha.com/article/4802500-schlumberger-strong-buy-for-value-and-income-investors"
+    },
+    {
+      "id": 52,
+      "title": "projpack 1.0.0",
+      "summary": "projpack 1.0.0 allows users to bundle project files into a single text file for easier AI analysis.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:13:35Z",
+      "url": "https://pypi.org/project/projpack/1.0.0/"
+    },
+    {
+      "id": 53,
+      "title": "projpack added to PyPI",
+      "summary": "projpack has been added to PyPI, which allows users to bundle project files into a single text file for AI analysis.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:13:35Z",
+      "url": "https://pypi.org/project/projpack/"
+    },
+    {
+      "id": 54,
+      "title": "Why AI is moving from chatbots to the browser - The Verge",
+      "summary": "AI is transitioning from chatbots to the browser, signaling a shift in the web's business model to adapt to the AI age. This change is predicted to alter the internet as we know it, with advancements like Web 4.0 on the horizon.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:12:48Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178423266"
+    },
+    {
+      "id": 55,
+      "title": "If you think electric bikes are bad, there’s a much bigger menace hitting our roads",
+      "summary": "Electric bikes are seen as a menace on the roads due to their speed, quietness, and popularity among teenagers, raising ethical concerns about safety and regulation.",
+      "source": "Electrek",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:10:00Z",
+      "url": "http://electrek.co/2025/07/20/if-you-think-electric-bikes-are-bad-theres-a-much-bigger-menace-hitting-our-roads/"
+    },
+    {
+      "id": 56,
+      "title": "Show HN: Hybrid Knowledge Graph and RAG for Legal Documents (Learning Project)",
+      "summary": "Built a hybrid knowledge graph and RAG system for legal documents to address the limitations of traditional RAG in capturing interconnections between sections. The system combines both approaches on every query for better semantic understanding.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-20T11:09:38Z",
+      "url": "https://github.com/srijanshukla18/ita-kg"
+    },
+    {
+      "id": 57,
+      "title": "Show HN: Gix – A small CLI tool that adds AI to Git",
+      "summary": "Gix is a small CLI tool that adds AI to Git, helping split large diffs into smaller commits and suggesting conventional commit messages. It is written in Go, cross-platform, and fully local.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:08:35Z",
+      "url": "https://github.com/ademajagon/gix"
+    },
+    {
+      "id": 58,
+      "title": "RDDT SECURITIES NEWS: Did Reddit, Inc. (NYSE:RDDT) Commit Securities Fraud? Contact BFA Law by August 18 Class Action Deadline",
+      "summary": "Investors in Reddit, Inc. are notified to contact BFA Law before August 18 class action deadline for alleged securities fraud.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-20T11:08:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118312/0/en/RDDT-SECURITIES-NEWS-Did-Reddit-Inc-NYSE-RDDT-Commit-Securities-Fraud-Contact-BFA-Law-by-August-18-Class-Action-Deadline.html"
+    },
+    {
+      "id": 59,
+      "title": "White goods makers hope to make up for dull first half with festival season sales",
+      "summary": "White goods makers are looking to boost sales during the festival season to make up for a slow first half, with expectations of up to 40% growth. They plan to introduce new models and financing options to attract more customers.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:07:04Z",
+      "url": "https://www.thehindubusinessline.com/companies/white-goods-makers-hope-to-make-up-for-dull-first-half-with-festival-season-sales/article69834118.ece"
+    },
+    {
+      "id": 60,
+      "title": "How Can You Use VSCode Offline: A Comprehensive Guide",
+      "summary": "Learn how to use VSCode offline to code without internet interruptions and increase productivity while working from anywhere.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:06:34Z",
+      "url": "https://www.smashingapps.com/how-can-you-use-vscode-offline/"
+    },
+    {
+      "id": 61,
+      "title": "Focus on breeding and health in 1,350 ewe flock",
+      "summary": "The McFarlane family's focus on genetics, health, and nutrition has resulted in a scanning rate of over 214% in their 1,100 head Mule ewe flock.",
+      "source": "Farmersjournal.ie",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:05:35Z",
+      "url": "https://www.farmersjournal.ie/focus/sheep-breeding/focus-on-breeding-and-health-in-1-350-ewe-flock-876680"
+    },
+    {
+      "id": 62,
+      "title": "CBI-backed Interpol Red Notices doubled since 2023 with India's diplomatic, tech push",
+      "summary": "India has doubled the number of Interpol Red Notices since 2023 with the help of the Central Bureau of Investigation, showing a focus on actively pursuing fugitives abroad.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:04:35Z",
+      "url": "https://economictimes.indiatimes.com/news/india/cbi-backed-interpol-red-notices-doubled-since-2023-with-indias-diplomatic-tech-push/articleshow/122796659.cms"
+    },
+    {
+      "id": 63,
+      "title": "Sick of AI Slop? DuckDuckGo Now Lets You Block AI-Generated Images",
+      "summary": "DuckDuckGo now allows users to block AI-generated images in an attempt to reduce exposure to misleading or unsolicited visuals.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:04:29Z",
+      "url": "https://uk.pcmag.com/browsers/159214/sick-of-ai-slop-duckduckgo-now-lets-you-block-ai-generated-images"
+    },
+    {
+      "id": 64,
+      "title": "Sick of AI Slop? DuckDuckGo Now Lets You Block AI-Generated Images",
+      "summary": "DuckDuckGo now allows users to block AI-generated images to reduce exposure to misinformation and cyberscams.",
+      "source": "PCMag.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:04:29Z",
+      "url": "https://me.pcmag.com/en/browsers/31054/sick-of-ai-slop-duckduckgo-now-lets-you-block-ai-generated-images"
+    },
+    {
+      "id": 65,
+      "title": "Experts say ‘just a starting point’ as Crypto Week ends on a high note",
+      "summary": "Experts acknowledge progress in crypto regulation but emphasize the need for infrastructure and custody solutions for real-world integration.",
+      "source": "Cointelegraph",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:04:17Z",
+      "url": "https://cointelegraph.com/news/crypto-week-genius-act-foundation-real-world-integration"
+    },
+    {
+      "id": 66,
+      "title": "Mike Rowe reveals which American jobs will remain untouched by the coming AI revolution",
+      "summary": "Mike Rowe predicts AI will threaten white-collar jobs but suggests a bright future for trades, advising young Americans to consider alternative career paths.",
+      "source": "Fox News",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:00:50Z",
+      "url": "https://www.foxnews.com/media/mike-rowe-reveals-which-american-jobs-remain-untouched-coming-ai-revolution"
+    },
+    {
+      "id": 67,
+      "title": "China could counter US tech curbs by engaging Global South on AI, analysts say",
+      "summary": "China could counter US tech curbs by engaging Global South on AI, analysts say, emphasizing the need for cooperation and engagement to boost technological progress",
+      "source": "Post Magazine",
+      "category": "economy",
+      "timestamp": "2025-07-20T11:00:08Z",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3318837/china-could-counter-us-tech-curbs-engaging-global-south-ai-analysts-say"
+    },
+    {
+      "id": 68,
+      "title": "This AI gets into your head to help you write your story",
+      "summary": "An AI tool assists writers by helping them write and build full-length manuscripts or maintain multiple projects at once with a monthly credit allowance of 150,000 credits.",
+      "source": "Popular Science",
+      "category": "applications",
+      "timestamp": "2025-07-20T11:00:00Z",
+      "url": "https://www.popsci.com/sponsored-content/lifetime-subscription-youbooks-ai-non-fiction-book-generator-sponsored-deal/"
+    },
+    {
+      "id": 69,
+      "title": "This Week’s Business Technology News: OpenAI Goes For Microsoft’s Jugular",
+      "summary": "OpenAI aims to disrupt Microsoft Office, new software tool for construction efficiency, and innovative uses for Grok technology.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:00:00Z",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2025/07/20/this-weeks-business-technology-news-openai-goes-for-microsofts-jugular/"
+    },
+    {
+      "id": 70,
+      "title": "Lights Out",
+      "summary": "Lights Out - Concerns about global warming and the potential repercussions are driving innovation and action in AI technology.",
+      "source": "The New York Review of Books",
+      "category": "innovation",
+      "timestamp": "2025-07-20T11:00:00Z",
+      "url": "http://www.nybooks.com/online/2025/07/20/lights-out-trump-megabill-climate/"
+    },
     {
       "id": 51,
       "title": "Elon Musk Humiliated by Top Scientific Organization",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T10:00:00Z",
       "url": "https://www.animenewsnetwork.com/news/2025-07-20/odekake-kozame-anime-film-reveals-theme-song-more-cast-in-2nd-trailer/.226835"
-    },
-    {
-      "id": 69,
-      "title": "NASA's Roman Space Telescope could discover 100,000 new cosmic explosions: 'We're definitely expecting the unexpected'",
-      "summary": "NASA's Roman Space Telescope could discover 100,000 new cosmic explosions, including supernovas, kilonovas, and gamma-ray bursts.",
-      "source": "Space.com",
-      "category": "research",
-      "timestamp": "2025-07-20T10:00:00Z",
-      "url": "https://www.space.com/astronomy/nasas-roman-space-telescope-could-discover-100-000-new-cosmic-explosions-were-definitely-expecting-the-unexpected"
-    },
-    {
-      "id": 70,
-      "title": "Analysis Of Grok’s Epstein Comments Show How This AI Chatbot Is Learning",
-      "summary": "Analysis of Grok's Epstein comments showcases how this AI chatbot is learning and handling the Epstein mania, shedding light on Elon Musk's AI.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-20T10:00:00Z",
-      "url": "https://www.forbes.com/sites/johnhyatt/2025/07/20/analysis-of-groks-epstein-comments-show-how-ai-chatbot-is-learning/"
-    },
-    {
-      "id": 51,
-      "title": "ICC to offer AI-enabled platform to help microbreweries with state-wise compliance",
-      "summary": "ICC to offer AI-enabled platform to help microbreweries with state-wise compliance through an AI-powered compliance platform at Brewery Conclave 2025",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:48:37Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/icc-to-offer-ai-enabled-platform-to-help-microbreweries-with-state-wise-compliance/articleshow/122796002.cms"
-    },
-    {
-      "id": 52,
-      "title": "Social media in stitches over Amel Majri’s bizarre penalty ",
-      "summary": "Social media reacts to Amel Majri's penalty incident during Women's Euro quarterfinals, highlighting the ethical implications of sportsmanship and fair play in high-stakes competitions.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T09:48:00Z",
-      "url": "https://onefootball.com/en/news/social-media-in-stitches-over-amel-majris-bizarre-penalty-41399524"
-    },
-    {
-      "id": 53,
-      "title": "This Week in Gaming (Week 30)",
-      "summary": "This Week in Gaming (Week 30) features a packed week of new releases starting with an action RPG set in feudal China, followed by a kingdom builder, a space PvP shooter, and a bicycle race.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T09:44:37Z",
-      "url": "https://www.techpowerup.com/339088/this-week-in-gaming-week-30"
-    },
-    {
-      "id": 54,
-      "title": "Meta's Superintelligence team staffed by 50% Chinese talent, 40% ex-OpenAI",
-      "summary": "Meta's Superintelligence team is staffed by 50% Chinese talent and 40% ex-OpenAI members, highlighting the diverse background of employees in the lab.",
-      "source": "Neowin",
-      "category": "research",
-      "timestamp": "2025-07-20T09:44:01Z",
-      "url": "https://www.neowin.net/news/metas-superintelligence-team-staffed-by-50-chinese-talent-40-ex-openai/"
-    },
-    {
-      "id": 55,
-      "title": "Astronomer CEO quits after being caught in ‘affair’ on Coldplay kiss cam",
-      "summary": "Astronomer CEO resigns after being filmed in intimate situation with employee at Coldplay concert.",
-      "source": "Independent.ie",
-      "category": "ethics",
-      "timestamp": "2025-07-20T09:43:25Z",
-      "url": "https://www.independent.ie/world-news/north-america/astronomer-ceo-quits-after-being-caught-in-affair-on-coldplay-kiss-cam/a1896955380.html"
-    },
-    {
-      "id": 56,
-      "title": "AI Is Dividing the Fortunes of the Magnificent Seven",
-      "summary": "AI Is Dividing the Fortunes of the Magnificent Seven - The AI race is splintering big tech names, with investors pointing to a divergence in business approach and stock performance.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:42:26Z",
-      "url": "https://biztoc.com/x/35048384f45cf99b"
-    },
-    {
-      "id": 57,
-      "title": "Don't panic, but act fast: Perplexity CEO on skills needed not just to survive AI job crisis but also thrive in career",
-      "summary": "Perplexity AI CEO Aravind Srinivas has urged young professionals to shift their focus from social media to mastering artificial intelligence tools in order to not just survive but thrive in the job market.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:41:34Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/dont-panic-but-act-fast-perplexity-ceo-on-skills-needed-not-just-to-survive-ai-job-crisis-but-also-thrive-in-career/articleshow/122795801.cms"
-    },
-    {
-      "id": 58,
-      "title": "‘You can make really good stuff – fast’: new AI tools a gamechanger for film-makers",
-      "summary": "Instead of spending millions and taking years to complete, creative directors are producing high-grade work using new AI tools for film-making. Critics voice copyright concerns.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:31:41Z",
-      "url": "https://biztoc.com/x/9c9a02a9111436ae"
-    },
-    {
-      "id": 59,
-      "title": "Civil Service Bill: 43 MPs Demand Changes!  Will it Pass?",
-      "summary": "43 MPs are demanding changes to the Federal Civil Service Bill in Nepal, raising questions about its potential impact and whether it will pass.",
-      "source": "Nep123.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T09:28:49Z",
-      "url": "https://nep123.com/civil-service-bill-43-mps-demand-changes-%f0%9f%a4%af-will-it-pass/"
-    },
-    {
-      "id": 60,
-      "title": "Life after DOGE",
-      "summary": "Six former federal workers who lost their jobs after DOGE reflect on their experiences and share advice for others in similar situations.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:25:01Z",
-      "url": "https://www.businessinsider.com/doge-federal-workers-job-loss-six-months-advice-reflections-2025-7"
-    },
-    {
-      "id": 51,
-      "title": "2025 SkS Weekly Climate Change & Global Warming News Roundup #29",
-      "summary": "The weekly news roundup included articles related to climate policy and politics, with a focus on the potential dangers of AI in the context of climate change and global warming.",
-      "source": "Skepticalscience.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:21:01Z",
-      "url": "https://skepticalscience.com/2025-SkS-Weekly-News-Roundup_29.html"
-    },
-    {
-      "id": 52,
-      "title": "The energy and artificial intelligence summit broad bold predictions and billions in investments. What happens next?",
-      "summary": "The energy and artificial intelligence summit made bold predictions and attracted billions in investments, signaling a growing focus on AI in the energy sector. The future implications and applications of these investments remain to be seen.",
-      "source": "Pittsburgh Post-Gazette",
-      "category": "innovation",
-      "timestamp": "2025-07-20T09:20:45Z",
-      "url": "https://www.post-gazette.com/business/tech-news/2025/07/20/ai-energy-summit-pittsburgh-trump-energy/stories/202507200064"
-    },
-    {
-      "id": 53,
-      "title": "A Targeted Trade On TXO Partners",
-      "summary": "TXO Partners is offering a 16.3% yield on stock backed by low-decline assets, insider confidence, and growth through acquisition. This news highlights a potentially profitable investment opportunity in the current economy.",
-      "source": "Seeking Alpha",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:19:38Z",
-      "url": "https://seekingalpha.com/article/4802492-a-targeted-trade-on-txo-partners"
-    },
-    {
-      "id": 54,
-      "title": "marearts-road-objects added to PyPI",
-      "summary": "marearts-road-objects added to PyPI, offering high-performance road object detection for persons, vehicles, and 2-wheelers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:17:09Z",
-      "url": "https://pypi.org/project/marearts-road-objects/"
-    },
-    {
-      "id": 55,
-      "title": "Cybersecurity Stocks To Research – July 17th",
-      "summary": "Seven cybersecurity stocks, including Alphabet, CrowdStrike, and Palo Alto Networks, are recommended for research. These stocks may be of interest to investors looking to capitalize on the growing importance of cybersecurity in today's digital economy.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:14:06Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/cybersecurity-stocks-to-research-july-17th/"
-    },
-    {
-      "id": 56,
-      "title": "Dig deeper in Google Search with AI Overview and three buttons",
-      "summary": "Google now allows you to dig deeper into an AI Overview in Google Search using AI.",
-      "source": "PhoneArena",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:09:53Z",
-      "url": "https://www.phonearena.com/news/dig-deeper-with-ai-overview-on-google-search_id172428"
-    },
-    {
-      "id": 57,
-      "title": "Zelensky Makes Fresh Offer To Putin",
-      "summary": "Ukrainian President Zelensky has proposed a new round of negotiations with Russia using an AI-generated voice, potentially introducing inconsistencies into the communication process.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T09:09:34Z",
-      "url": "https://biztoc.com/x/943387bccb2041c7"
-    },
-    {
-      "id": 58,
-      "title": "Democrat on Bipartisan Push to Undo Part of 'Big Beautiful Bill'",
-      "summary": "Representative Dina Titus, a Nevada Democrat, has introduced legislation to restore the 100 percent deduction for gambling losses that Senate Republicans reduced to 90 percent in a recent bill.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T09:09:29Z",
-      "url": "https://biztoc.com/x/3d5fc51444bed4ce"
     }
   ]
 }
