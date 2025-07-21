@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-21T19:31:24.890Z",
+  "lastUpdate": "2025-07-21T19:48:47.205Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The Latest 20VC + SaaStr: Windsurf’s Resurrection, The Orchestration Tax, and What 80 Hours of Vibe Coding Reveals About the AI Coding Wars",
+      "summary": "A deep dive into the most complex AI acquisition saga of 2025, featuring deceleration, empty husks, and the deal of the year, highlighting why founders are choosing safety over upside.",
+      "source": "Saastr.com",
+      "category": "startups",
+      "timestamp": "2025-07-20T19:48:11Z",
+      "url": "https://www.saastr.com/the-latest-20vc-saastr-windsurfs-resurrection-the-orchestration-tax-and-what-80-hours-of-vibe-coding-reveals-about-the-ai-coding-wars/"
+    },
+    {
+      "id": 52,
+      "title": "Don’t Just Hold, PFMCrypto Debuts First-Ever XRP Cloud Mining Platform with AI-Enhanced Daily Payouts",
+      "summary": "PFMCrypto has introduced the first-ever XRP cloud mining platform with AI-enhanced daily payouts, allowing users to mine Ripple's XRP without the need for hardware. The platform offers smart and accessible contracts across web and mobile devices.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-20T19:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118381/0/en/Don-t-Just-Hold-PFMCrypto-Debuts-First-Ever-XRP-Cloud-Mining-Platform-with-AI-Enhanced-Daily-Payouts.html"
+    },
+    {
+      "id": 53,
+      "title": "Yahoo Japan wants all its 11,000 employees to use Gen AI to double their productivity by 2028 — a sign of things to come?",
+      "summary": "Yahoo Japan mandates AI for all staff to double productivity by 2028, reflecting a growing trend of tech-driven workplace restructuring and automation.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:47:00Z",
+      "url": "https://www.techradar.com/pro/yahoo-japan-wants-all-its-11-000-employees-to-use-gen-ai-to-double-their-productivity-by-2028-is-it-a-sign-of-things-to-come"
+    },
+    {
+      "id": 54,
+      "title": "Here are the cities where college graduates have the best chance of landing a job — and NYC is not one of them",
+      "summary": "Cities where college graduates have the best chance of landing jobs have been identified, with NYC not making the list. Some of the cities on the list may be surprising.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-20T19:45:05Z",
+      "url": "https://nypost.com/2025/07/20/lifestyle/here-are-the-cities-where-college-graduates-have-the-best-chance-of-landing-a-job/"
+    },
+    {
+      "id": 55,
+      "title": "High Growth Tech Stocks in Australia Featuring Life360 and Two Others",
+      "summary": "High growth tech stocks in Australia, including Life360, are contributing to a bullish trend in the ASX, driven by positive sentiment from Wall Street.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-20T19:35:37Z",
+      "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-australia-193537431.html"
+    },
+    {
+      "id": 56,
+      "title": "I've used NotebookLM, and it's the clearest vision of AI's future",
+      "summary": "NotebookLM provides a clear vision of AI's future, making it easier to understand the potential of AI technology.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-20T19:35:10Z",
+      "url": "https://www.androidpolice.com/notebooklm-clearest-vision-of-ais-future/"
+    },
+    {
+      "id": 57,
+      "title": "swe-ai-agent 1.0.56",
+      "summary": "SWE AI Agent 1.0.56 is a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T19:33:59Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.56/"
+    },
     {
       "id": 51,
       "title": "FICO To Roll Out New Scores to Reflect Your \"Buy Now, Pay Later\" Habits, Impacting Millions of Americans' Credit",
@@ -387,69 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-20T17:31:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/20/3118365/0/en/PBKMiner-launches-original-XRP-Ripple-AI-cloud-mining-application-for-Bitcoin-miners-allowing-everyone-to-easily-earn-cryptocurrency-income.html"
-    },
-    {
-      "id": 57,
-      "title": "Elon Musk says a kid-friendly 'Baby Grok' is on the way",
-      "summary": "Elon Musk confirms a kid-friendly version of Grok called 'Baby Grok' is in the works, dedicated to providing child-appropriate content.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-20T17:26:01Z",
-      "url": "https://www.neowin.net/news/elon-musk-says-a-kid-friendly-baby-grok-is-on-the-way/"
-    },
-    {
-      "id": 58,
-      "title": "A new era of mobile BTC mining: DRML Miner launches a mobile cloud mining platform exclusively for global users",
-      "summary": "DRML Miner launches a mobile cloud mining platform exclusively for global users, offering seamless BTC earnings, AI-optimized contracts, and 24/7 global access.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T17:24:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118362/0/en/A-new-era-of-mobile-BTC-mining-DRML-Miner-launches-a-mobile-cloud-mining-platform-exclusively-for-global-users.html"
-    },
-    {
-      "id": 59,
-      "title": "Patent Attorney / Patent Agent — Electrical & Mechanical Technologies – Law Firm – Remote within U.S.",
-      "summary": "Patent firm Harrity & Harrity is seeking experienced patent attorneys or agents to handle electrical or mechanical technology for top technology companies, focusing on drafting and prosecuting high-value patent applications.",
-      "source": "Patentlyo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T17:23:33Z",
-      "url": "https://patentlyo.com/jobs/2025/07/electrical-mechanical-technologies.html"
-    },
-    {
-      "id": 60,
-      "title": "yta-image-advanced-ai 0.0.6",
-      "summary": "The yta-image-advanced-ai 0.0.6 is a module for autonomous image processing on YouTube using advanced AI technology.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-20T17:22:33Z",
-      "url": "https://pypi.org/project/yta-image-advanced-ai/0.0.6/"
-    },
-    {
-      "id": 61,
-      "title": "iPhone Fold will trounce the competition, if this rumor is legit",
-      "summary": "The rumored iPhone Fold is reported to potentially have a larger battery capacity than competing foldable phones like the Galaxy Z Fold 7 and Pixel 9 Pro Fold, potentially giving it an edge in the market.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-20T17:21:00Z",
-      "url": "https://www.phonearena.com/news/iphone-fold-battery-price_id172431"
-    },
-    {
-      "id": 62,
-      "title": "Ioh jinghikai ka shnong Mooshrot halor ka shongkha khynnah bad POCSO Act",
-      "summary": "A Village Health Council in Mooshrot village in Meghalaya conducted a program to raise awareness about child marriage and the POCSO Act, highlighting the importance of preventing such harmful practices within the community.",
-      "source": "Syllad.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T17:19:27Z",
-      "url": "https://www.syllad.com/ioh-jinghikai-ka-shnong-mooshrot-halor-ka-shongkha-khynnah-bad-pocso-act/"
-    },
-    {
-      "id": 63,
-      "title": "swe-ai-agent 1.0.53",
-      "summary": "swe-ai-agent 1.0.53 released, introducing SWE Agent, a Headless Agentic IDE with comprehensive tool support",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T17:17:11Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.53/"
     }
   ]
 }
