@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-21T22:44:23.028Z",
+  "lastUpdate": "2025-07-21T22:54:51.975Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why Do Dog Breeds With Genetic Problems Become Popular?",
+      "summary": "Popular flat-faced dog breeds with genetic problems are preferred by the public and owners, but new research suggests that less extreme versions of these breeds are preferred.",
+      "source": "Psychology Today",
+      "category": "research",
+      "timestamp": "2025-07-20T22:53:48Z",
+      "url": "https://www.psychologytoday.com/us/blog/animals-and-us/202507/why-do-dog-breeds-with-genetic-problems-become-popular"
+    },
+    {
+      "id": 52,
+      "title": "Natural gas is America’s strategic advantage fueling the AI race",
+      "summary": "Natural gas is seen as America's strategic advantage in fueling the AI race, as the country has a history of rising to global competition through innovation, resilience, and strategic investment.",
+      "source": "Wnd.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:53:13Z",
+      "url": "https://www.wnd.com/2025/07/natural-gas-is-americas-strategic-advantage-fueling-ai/"
+    },
+    {
+      "id": 53,
+      "title": "Fighting through Setting up Microsoft Trusted Signing",
+      "summary": "Fighting through setting up Microsoft Trusted Signing for renewing Code Signing certificate.",
+      "source": "West-wind.com",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:52:05Z",
+      "url": "https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing"
+    },
+    {
+      "id": 54,
+      "title": "Amazon, Google drive HBM memory boom as custom AI chips threaten Nvidia’s lead",
+      "summary": "Amazon, Google drive HBM memory boom as custom AI chips threaten Nvidia’s lead - As demand for artificial intelligence (AI) accelerates, tech giants like Amazon, Google, and Meta are emerging as major players in the high-bandwidth memory (HBM) market.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-20T22:51:28Z",
+      "url": "https://www.digitimes.com/news/a20250718PD215/amazon-google-hbm-demand-nvidia-chips.html"
+    },
+    {
+      "id": 55,
+      "title": "Meet Khanmigo: the student tutor AI being tested in school districts | 60 Minutes",
+      "summary": "Khanmigo, an AI-powered online tutor, is being tested in school districts and has the potential to revolutionize teaching and learning. Created by Khan Academy, the technology is currently being piloted in 266 school districts.",
+      "source": "CBS News",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:50:25Z",
+      "url": "https://www.cbsnews.com/video/khanmigo-ai-tutor-60-minutes-video-2025-07-20/"
+    },
+    {
+      "id": 56,
+      "title": "ddn-metadata-bootstrap 1.0.16",
+      "summary": "ddn-metadata-bootstrap 1.0.16 is an AI-powered tool that enhances metadata for Hasura DDN schema files, making it easier for developers to work with the data structure.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:46:30Z",
+      "url": "https://pypi.org/project/ddn-metadata-bootstrap/1.0.16/"
+    },
+    {
+      "id": 57,
+      "title": "The fusion race heats up",
+      "summary": "The fusion race is heating up with experts warning that the U.S. and its allies must invest more heavily in fusion and critical adjacent technologies for the industrial base.",
+      "source": "Wnd.com",
+      "category": "research",
+      "timestamp": "2025-07-20T22:46:17Z",
+      "url": "https://www.wnd.com/2025/07/fusion-race-heats-up/"
+    },
+    {
+      "id": 58,
+      "title": "Perplexity Wants to Add Its Comet AI Browser to Smartphones",
+      "summary": "Perplexity AI is in talks with mobile device makers to preinstall its Comet AI browser on smartphones.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-20T22:45:23Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/perplexity-wants-to-add-its-comet-ai-browser-to-smartphones/"
+    },
+    {
+      "id": 59,
+      "title": "The Lucid-Uber Robotaxi Deal: How Nvidia Will Also Benefit",
+      "summary": "Uber plans to deploy 20,000 Lucid electric SUVs equipped with the Nuro Driver autonomous system in over a dozen global cities starting next year.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T22:44:59Z",
+      "url": "https://biztoc.com/x/0302aca56d1fc975"
+    },
+    {
+      "id": 60,
+      "title": "Could This Monster Nvidia-Backed Artificial Intelligence (AI) Data Center Stock Be the Best Bargain in the Market Right Now?",
+      "summary": "Nvidia-backed artificial intelligence data center stock may be considered as the best bargain in the market right now, with the company invested in various AI businesses.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T22:44:46Z",
+      "url": "https://biztoc.com/x/5a7fbb9592f432d8"
+    },
     {
       "id": 51,
       "title": "What a GOP bill banning central digital currency means for consumer banking",
@@ -360,96 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T21:10:28Z",
       "url": "https://pypi.org/project/freegpt/1.30.3/"
-    },
-    {
-      "id": 62,
-      "title": "Apple CEO Tim Cook’s dream for the future of the iPhone is very unlikely to come to fruition",
-      "summary": "Apple CEO Tim Cook's ambition to release smart AR glasses before Meta is unlikely to happen.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:03:07Z",
-      "url": "https://www.phonearena.com/news/apple-ceo-tim-cooks-dream-for-future-of-iphone-unlikely_id172439"
-    },
-    {
-      "id": 63,
-      "title": "Your Photography Skills Are Already Obsolete (You Just Don't Know It Yet)",
-      "summary": "The photographer who believes their education ended with their last workshop or tutorial is already obsolete. In an industry where technological shifts can render entire skill sets worthless within months and where client expectations are constantly evolving, staying current is crucial.",
-      "source": "Fstoppers",
-      "category": "innovation",
-      "timestamp": "2025-07-20T21:03:01Z",
-      "url": "https://fstoppers.com/education/your-photography-skills-are-already-obsolete-just-dont-know-it-yet-706788"
-    },
-    {
-      "id": 64,
-      "title": "Blackstone Backs Off From TikTok Ownership Plans",
-      "summary": "Private equity group Blackstone has withdrawn from plans to invest in TikTok US, according to a report by Reuters. This change is happening amid mounting scrutiny over TikTok's ownership.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T21:02:38Z",
-      "url": "http://www.pymnts.com/news/social-commerce/2025/blackstone-backs-off-from-tiktok-ownership-plans/"
-    },
-    {
-      "id": 65,
-      "title": "largefile 0.1.1",
-      "summary": "largefile 0.1.1 is an MCP server designed to help AI assistants manage large files that exceed context limits.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:02:01Z",
-      "url": "https://pypi.org/project/largefile/0.1.1/"
-    },
-    {
-      "id": 66,
-      "title": "Show HN: Sifaka – Simple AI text improvement through research-backed critique",
-      "summary": "Sifaka is an open-source framework that adds reflection and reliability to large language model (LLM) applications, allowing for simple AI text improvement through research-backed critique.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T21:01:55Z",
-      "url": "https://github.com/sifaka-ai/sifaka"
-    },
-    {
-      "id": 67,
-      "title": "MOTOGP: Marc Marquez set new record with dominant victory in Brno, Acosta secures first podium ...",
-      "summary": "Six-time MotoGP champion Marc Marquez sets a new record with a dominant victory in Brno, with Marco Bezzecchi and Pedro Acosta also securing podium spots. F1Technical's senior writer Balazs Szabo covers the Brno round.",
-      "source": "F1technical.net",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:57:52Z",
-      "url": "https://www.f1technical.net/news/27396"
-    },
-    {
-      "id": 51,
-      "title": "Texas Governor Says He'll Introduce Flood Items at Special Session",
-      "summary": "Texas Governor Greg Abbott prioritizes flood-related legislation at upcoming Legislative Special Session, with four preparedness items added.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T20:53:36Z",
-      "url": "https://biztoc.com/x/69cb1759d49d1b17"
-    },
-    {
-      "id": 52,
-      "title": "National Hurricane Center Tracks New Disturbance in Atlantic: What to Know",
-      "summary": "A new disturbance has formed in the central tropical Atlantic, the National Hurricane Center (NHC) in Miami reported on Sunday. The system, known as a tropical wave, is located about 1,000 miles east-southeast...",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-20T20:53:15Z",
-      "url": "https://biztoc.com/x/a59d73d34da76b68"
-    },
-    {
-      "id": 53,
-      "title": "Analyst Says Amazon.com (AMZN) Cloud Business Needs to Show ‘Acceleration’ for Stock Outperformance",
-      "summary": "Analyst Mark Mahaney believes Amazon.com's stock performance is closely tied to the growth of its AWS cloud business in the AI sector.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T20:53:07Z",
-      "url": "https://biztoc.com/x/ad99cb3375e6632f"
-    },
-    {
-      "id": 54,
-      "title": "Why Machines Aren’t Intelligent",
-      "summary": "OpenAI's LLM has achieved gold‑medal level performance at the 2025 IMO, challenging the perception of machine intelligence.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-20T20:52:58Z",
-      "url": "https://www.forbes.com/sites/hamiltonmann/2025/07/20/why-machines-arent-intelligent/"
     }
   ]
 }
