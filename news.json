@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-20T23:51:16.058Z",
+  "lastUpdate": "2025-07-21T01:23:13.371Z",
   "items": [
+    {
+      "id": 51,
+      "title": "canoaicli 1.0.1",
+      "summary": "Canoaicli 1.0.1 is a command-line AI assistant that uses Gemini technology to assist users in various tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T01:08:28Z",
+      "url": "https://pypi.org/project/canoaicli/1.0.1/"
+    },
+    {
+      "id": 52,
+      "title": "ai-interactive-feedback 2025.720.2",
+      "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development with dual interface support and intelligent environment detection.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T01:02:34Z",
+      "url": "https://pypi.org/project/ai-interactive-feedback/2025.720.2/"
+    },
+    {
+      "id": 53,
+      "title": "israeli-law-amender added to PyPI",
+      "summary": "Israeli-law-amender added to PyPI - A Python package for processing and amending Israeli laws using AI",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T01:00:20Z",
+      "url": "https://pypi.org/project/israeli-law-amender/"
+    },
+    {
+      "id": 54,
+      "title": "Stop Israel’s Dystopian ‘Humanitarian City’ Plan – Before It’s Too Late",
+      "summary": "The Israeli government's proposal for a 'Humanitarian City' has raised concerns of a genocidal scheme, prompting calls to stop it. Israeli Defense Minister Israel Katz is behind the controversial plan.",
+      "source": "Activistpost.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T01:00:00Z",
+      "url": "https://www.activistpost.com/stop-israels-dystopian-humanitarian-city-plan-before-its-too-late/"
+    },
+    {
+      "id": 55,
+      "title": "swe-ai-agent 1.0.42",
+      "summary": "SWE Agent 1.0.42 is an AI tool that serves as a headless agentic IDE with extensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T00:58:23Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.42/"
+    },
+    {
+      "id": 56,
+      "title": "ivcap_ai_tool 0.7.12",
+      "summary": "IVCAP AI Tool 0.7.12 has been released, providing helper functions for building AI Tools as IVCAP services.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T00:55:02Z",
+      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.12/"
+    },
+    {
+      "id": 57,
+      "title": "swe-ai-agent 1.0.38",
+      "summary": "swe-ai-agent 1.0.38 is a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-20T00:37:46Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.38/"
+    },
+    {
+      "id": 58,
+      "title": "tokencostauto 0.1.141",
+      "summary": "tokencostauto 0.1.141 is a tool used to calculate token and translated USD cost of string and message calls to OpenAI, particularly when used by AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T00:35:09Z",
+      "url": "https://pypi.org/project/tokencostauto/0.1.141/"
+    },
+    {
+      "id": 59,
+      "title": "Ignorance and Military Fantasy: General Donahue’s Proposed U.S-NATO Blitzkrieg Assault on Russia’s Kaliningrad Enclave. A Miscalculation Could Lead to a Thermonuclear Catastrophy. Drago Bosnic",
+      "summary": "Ignorance and Military Fantasy: General Donahue's proposed U.S-NATO Blitzkrieg Assault on Russia's Kaliningrad Enclave poses a threat of thermonuclear catastrophe. Threatening thermonuclear superpowers in Washington DC is becoming a concerning trend.",
+      "source": "Globalresearch.ca",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:32:51Z",
+      "url": "https://www.globalresearch.ca/ignorance-and-military-fantasy-general-donahues-proposed-u-s-nato-blitzkrieg-assault-on-russias-kaliningrad-enclave-if-implemented-could-lead-to-a-thermonuclear-catastrophy-drago-bosnic/5895474"
+    },
+    {
+      "id": 60,
+      "title": "Astronomer CEO resigns after Coldplay concert video",
+      "summary": "Astronomer CEO resigns after video surfaces showing him cozying up to a female colleague at a Coldplay concert.",
+      "source": "DW (English)",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:31:00Z",
+      "url": "https://www.dw.com/en/astronomer-ceo-resigns-after-coldplay-concert-video/a-73340531"
+    },
+    {
+      "id": 61,
+      "title": "US tech CEO resigns after Coldplay concert video",
+      "summary": "US tech CEO resigns from software firm Astronomer after video shows him cuddling a female colleague at a Coldplay concert.",
+      "source": "DW (English)",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:31:00Z",
+      "url": "https://www.dw.com/en/us-tech-ceo-resigns-after-coldplay-concert-video/a-73340531"
+    },
+    {
+      "id": 62,
+      "title": "Eight chipsets designed by IIT students sent to fabs: IT Minister Vaishnaw",
+      "summary": "Indian Institutes of Technology (IITs) students have designed 20 chipsets, with eight already sent for fabrication, showing progress in domestic semiconductor development. The first commercial-scale, made-in-India semiconductor chip is expected.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-20T00:30:00Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/eight-chipsets-designed-by-iit-students-sent-to-fabs-it-minister-vaishnaw/articleshow/122785560.cms"
+    },
+    {
+      "id": 63,
+      "title": "AIXA Miner Launches AI-Powered Cloud Mining Ecosystem Amid Surge in Blockchain Adoption",
+      "summary": "AIXA Miner launches AI-powered cloud mining platform in response to increasing demand for secure and scalable crypto mining solutions.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-20T00:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118295/0/en/AIXA-Miner-Launches-AI-Powered-Cloud-Mining-Ecosystem-Amid-Surge-in-Blockchain-Adoption.html"
+    },
+    {
+      "id": 64,
+      "title": "West Coast Avengers #9 Preview: Ultrons Are So Last Season",
+      "summary": "The news focuses on a comic book preview controlled by LOLtron on the Bleeding Cool website, following the removal of journalist Jude Terror. The use of AI in this context raises concerns about ethics and the influence of technology on media.",
+      "source": "Bleeding Cool News",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:26:03Z",
+      "url": "https://bleedingcool.com/comics/west-coast-avengers-9-preview-ultrons-are-so-last-season/"
+    },
+    {
+      "id": 65,
+      "title": "ai-edge-quantizer-nightly 0.3.0.dev20250720",
+      "summary": "The ai-edge-quantizer-nightly 0.3.0.dev20250720 is a quantizer tool designed for advanced developers to quantize converted AI Edge models.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-20T00:16:16Z",
+      "url": "https://pypi.org/project/ai-edge-quantizer-nightly/0.3.0.dev20250720/"
+    },
+    {
+      "id": 66,
+      "title": "DuckDuckGo Lets You Hide AI Images, More in Search Results",
+      "summary": "DuckDuckGo Search now gives users the option to hide AI-generated images in its search results.",
+      "source": "Thurrott.com",
+      "category": "applications",
+      "timestamp": "2025-07-20T00:10:41Z",
+      "url": "https://www.thurrott.com/a-i/323555/duckduckgo-lets-you-hide-ai-images-more-in-search-results"
+    },
+    {
+      "id": 67,
+      "title": "Astronomer CEO Andy Byron resigns after Coldplay kiss cam clip with HR head Kristin Cabot",
+      "summary": "Astronomer CEO Andy Byron resigns after viral video showing him embracing HR head Kristin Cabot at Coldplay concert, sparking online speculation about their marriages.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:09:50Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/astronomer-ceo-andy-byron-resigns-after-coldplay-kiss-cam-clip-with-hr-head-kristin-cabot/articleshow/122791718.cms"
+    },
+    {
+      "id": 68,
+      "title": "(no subject)",
+      "summary": "The ACM Forum on Risks discussed AI-related risks with the potential to impact the public in the future.",
+      "source": "Seclists.org",
+      "category": "research",
+      "timestamp": "2025-07-20T00:06:23Z",
+      "url": "https://seclists.org/risks/2025/q3/1"
+    },
+    {
+      "id": 69,
+      "title": "Fetterman introduces bipartisan ban on going cashless",
+      "summary": "Fetterman introduces bipartisan ban on going cashless - Sen. Fetterman aims to make it illegal for businesses to refuse legal tender as more businesses go cashless. The Payment Choice Act, introduced with Sen. Cramer, would require businesses to accept cash.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-20T00:04:04Z",
+      "url": "https://freerepublic.com/focus/f-news/4329657/posts"
+    },
+    {
+      "id": 70,
+      "title": "FARTCOIN: Here’s why $2 remains a possibility despite 11% drop",
+      "summary": "FARTCOIN has seen an 11% drop but derivative traders expect it to hit $2, showing optimism in the potential growth of the cryptocurrency.",
+      "source": "Ambcrypto.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T00:00:34Z",
+      "url": "https://ambcrypto.com/fartcoin-heres-why-2-remains-a-possibility-despite-11-drop/"
+    },
     {
       "id": 51,
       "title": "Intel CEO concedes Nvidia's AI lead: a critical shift for the semiconductor giant",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-19T22:52:01Z",
       "url": "https://pypi.org/project/canoaicli/0.1.1/"
-    },
-    {
-      "id": 52,
-      "title": "Show HN: I built a video meet app integrated with AI voice and avatar agents",
-      "summary": "Video meeting app for voice ai developers to demo their voice agents to clients, integrated with AI voice and avatar agents.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:47:32Z",
-      "url": "https://github.com/kylecampbell/livekit-meet-agents"
-    },
-    {
-      "id": 53,
-      "title": "crystalyse-ai 1.0.10",
-      "summary": "CrystaLyse.AI has released version 1.0.10, which offers autonomous AI agents for speeding up the design of inorganic materials using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:45:16Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.10/"
-    },
-    {
-      "id": 54,
-      "title": "SynLrn 0.0.5",
-      "summary": "SynLrn 0.0.5 introduces a new approach for AI to learn from each interaction, offering a modern solution for enhancing learning capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:42:40Z",
-      "url": "https://pypi.org/project/synlrn/0.0.5/"
-    },
-    {
-      "id": 55,
-      "title": "nntool 1.8.0",
-      "summary": "NNTool 1.8.0 is a package built on top of submitit for conducting machine learning research on Slurm, providing simple abstractions for experiments.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-19T22:42:22Z",
-      "url": "https://pypi.org/project/nntool/1.8.0/"
-    },
-    {
-      "id": 56,
-      "title": " Confirmed Verdolaga line-up: Atlético Nacional’s XI to face La Equidad",
-      "summary": "Confirmed Verdolaga line-up: Atlético Nacional’s XI to face La Equidad - On matchday 2 of the Liga Betplay 2025-II, Atlético Nacional hosts La Equidad at the Atanasio Girardot, in the debut of Javier Gandolfi's team at home and in front of their fans.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:42:00Z",
-      "url": "https://onefootball.com/en/news/confirmed-verdolaga-line-up-atletico-nacionals-xi-to-face-la-equidad-41398251"
-    },
-    {
-      "id": 57,
-      "title": " Vasco dominate but Grêmio snatch a point at São Januário",
-      "summary": "Vasco and Grêmio played to a draw in a tense match in the Brasileirão, with both teams struggling. The game ended with no winner at São Januário.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:41:00Z",
-      "url": "https://onefootball.com/en/news/vasco-dominate-but-gremio-snatch-a-point-at-sao-januario-41398240"
-    },
-    {
-      "id": 58,
-      "title": "swe-ai-agent 1.0.36",
-      "summary": "swe-ai-agent 1.0.36 is a headless agentic IDE with comprehensive tool support for software engineers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:40:56Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.36/"
-    },
-    {
-      "id": 59,
-      "title": "mltracker 0.2.3",
-      "summary": "mltracker 0.2.3 is a tool designed for tracking machine learning aggregates and storing their data, providing a simple solution for monitoring machine learning projects.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:39:30Z",
-      "url": "https://pypi.org/project/mltracker/0.2.3/"
-    },
-    {
-      "id": 60,
-      "title": "crystalyse-ai 1.0.9",
-      "summary": "CrystaLyse.AI has released version 1.0.9 of their autonomous AI agents designed for inorganic materials design using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:39:17Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.9/"
-    },
-    {
-      "id": 51,
-      "title": "alloy-lang 0.1.0",
-      "summary": "Alloy-lang 0.1.0 is a new general-purpose programming language specifically designed for AI agents.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:33:12Z",
-      "url": "https://pypi.org/project/alloy-lang/0.1.0/"
-    },
-    {
-      "id": 52,
-      "title": "alloy-lang added to PyPI",
-      "summary": "alloy-lang added to PyPI - A general-purpose programming language designed for AI agents",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:33:12Z",
-      "url": "https://pypi.org/project/alloy-lang/"
-    },
-    {
-      "id": 53,
-      "title": "Tech company CEO resigns after controversy over video captured at Coldplay concert",
-      "summary": "Tech company CEO resigns after controversy over video captured at Coldplay concert",
-      "source": "Japan Today",
-      "category": "ethics",
-      "timestamp": "2025-07-19T22:33:00Z",
-      "url": "https://japantoday.com/category/tech/tech-company-ceo-resigns-after-controversy-over-video-captured-at-coldplay-concert"
-    },
-    {
-      "id": 54,
-      "title": "SynLrn 0.0.4",
-      "summary": "SynLrn 0.0.4 is a modern method for allowing AI to learn from each interaction, representing an innovative approach in AI development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:31:42Z",
-      "url": "https://pypi.org/project/synlrn/0.0.4/"
-    },
-    {
-      "id": 55,
-      "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal",
-      "summary": "OpenAI's latest model outperformed the brightest at the International Math Olympiad, solving five out of six problems on the exam, marking a significant milestone.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-19T22:30:20Z",
-      "url": "https://biztoc.com/x/16cabfa9f55b624c"
-    },
-    {
-      "id": 56,
-      "title": "Two Ambitious Projects Bring Alexander McQueen’s Story To Life",
-      "summary": "Two posthumous shows are bringing designer Alexander McQueen's story to life, treating him like a rock star in the fashion world.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:29:31Z",
-      "url": "https://www.forbes.com/sites/stevebaltin/2025/07/19/two-ambitious-projects-bring-alexander-mcqueens-story-to-life/"
-    },
-    {
-      "id": 57,
-      "title": "mltracker 0.2.2",
-      "summary": "mltracker 0.2.2 is a simple tool for tracking machine learning aggregates and storing their data.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:28:40Z",
-      "url": "https://pypi.org/project/mltracker/0.2.2/"
-    },
-    {
-      "id": 58,
-      "title": "New History of the DC Universe #2 Preview: Heroes Unite, Chaos Ensues",
-      "summary": "New History of the DC Universe #2 Preview: Heroes Unite, Chaos Ensues - Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another delightfully manipulative comic book preview.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-19T22:26:04Z",
-      "url": "https://bleedingcool.com/comics/new-history-of-the-dc-universe-2-preview-heroes-unite-chaos-ensues/"
-    },
-    {
-      "id": 59,
-      "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal.",
-      "summary": "OpenAI wins gold at prestigious math competition by using experimental LLM to solve challenging math problems.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:25:29Z",
-      "url": "https://www.businessinsider.com/openai-gold-iom-math-competition-2025-7"
-    },
-    {
-      "id": 60,
-      "title": "swe-ai-agent 1.0.35",
-      "summary": "swe-ai-agent 1.0.35 is an innovative headless agentic IDE with comprehensive tool support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:24:22Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.35/"
-    },
-    {
-      "id": 61,
-      "title": "crystalyse-ai 1.0.8",
-      "summary": "CrystaLyse.AI has released version 1.0.8 of their autonomous AI agents for faster inorganic materials design using natural language interfaces.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-19T22:23:46Z",
-      "url": "https://pypi.org/project/crystalyse-ai/1.0.8/"
     }
   ]
 }
