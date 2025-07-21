@@ -1,6 +1,33 @@
 {
-  "lastUpdate": "2025-07-21T07:34:15.359Z",
+  "lastUpdate": "2025-07-21T07:54:24.768Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Here's what the biggest names in tech and business think AI means for white-collar jobs",
+      "summary": "The biggest names in tech have varying opinions on the impact of AI on white-collar jobs, with Anthropic CEO Dario Amodei warning that AI could eliminate 50% of entry-level office jobs while OpenAI CEO Sam Altman believes there is not a significant risk of this happening.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-20T07:50:54Z",
+      "url": "https://biztoc.com/x/3d212da2683a4242"
+    },
+    {
+      "id": 52,
+      "title": "Accenture (NYSE:ACN) Coverage Initiated at Deutsche Bank Aktiengesellschaft",
+      "summary": "Deutsche Bank Aktiengesellschaft initiated coverage on Accenture (NYSE:ACN) with a hold rating and a $290.00 price target in a research note.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-20T07:46:47Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/accenture-nyseacn-coverage-initiated-at-deutsche-bank-aktiengesellschaft/"
+    },
+    {
+      "id": 53,
+      "title": "Contrasting Evaxion A/S (NASDAQ:EVAX) and EUDA Health (NASDAQ:EUDA)",
+      "summary": "Evaxion A/S and EUDA Health, both small-cap medical companies, are compared to determine which is the better stock based on risk, analyst recommendations, and other factors.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-20T07:34:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/20/contrasting-evaxion-a-s-nasdaqevax-and-euda-health-nasdaqeuda/"
+    },
     {
       "id": 51,
       "title": "Bank of New York Mellon Corp Has $15.14 Million Stock Holdings in C3.ai, Inc. (NYSE:AI)",
@@ -423,33 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-20T06:04:40Z",
       "url": "https://www.straitstimes.com/business/what-you-need-to-know-about-jensen-huang-the-ai-visionary-in-a-leather-jacket"
-    },
-    {
-      "id": 67,
-      "title": "800,000 users at risk after MAJOR hack at betting giants — IP addresses, email addresses, and online activity compromised",
-      "summary": "800,000 users at risk after MAJOR hack at betting giants — IP addresses, email addresses, and online activity compromised. Breach exposes emails, IPs, and online activity, prompting warnings about phishing and urging users to practice caution despite no password leaks.",
-      "source": "TechRadar",
-      "category": "ethics",
-      "timestamp": "2025-07-20T06:04:00Z",
-      "url": "https://www.techradar.com/pro/security/800-000-users-at-risk-after-hack-at-betting-giants-ip-addresses-email-addresses-and-online-activity-compromised"
-    },
-    {
-      "id": 68,
-      "title": "Show HN: New Audiobook Generator for Nvidia Using Chatterbox TTS",
-      "summary": "A new Audiobook Generator for Nvidia using Chatterbox TTS has been created by an audiobook addict. The generator works well and is currently only optimized for Windows, but can potentially be cross-platform. The creator welcomes contributions to improve the project.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T06:03:33Z",
-      "url": "https://github.com/cpttripzz/Chatterblez"
-    },
-    {
-      "id": 69,
-      "title": "QinetiQ Group’s (QQ) “Hold” Rating Reiterated at Shore Capital",
-      "summary": "Shore Capital reiterated their hold rating on shares of QinetiQ Group in a research note, while Berenberg Bank raised their target price on the company's shares.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-20T06:02:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/20/qinetiq-groups-qq-hold-rating-reiterated-at-shore-capital/"
     }
   ]
 }
