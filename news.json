@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-22T05:21:24.707Z",
+  "lastUpdate": "2025-07-22T05:48:22.493Z",
   "items": [
+    {
+      "id": 51,
+      "title": "I’m Tired of Talking About AI",
+      "summary": "The author is tired of discussing AI, particularly large language models (LLMs), and no longer wants to talk about them.",
+      "source": "Carvers.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T05:47:01Z",
+      "url": "https://paddy.carvers.com/posts/2025/07/ai/"
+    },
+    {
+      "id": 52,
+      "title": "GitHub - czlonkowski/n8n-mcp: A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "summary": "A new GitHub project involves creating a tool to build n8n workflows using tools like Claude Desktop, Claude Code, Windsurf, and Cursor automatically",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:47:01Z",
+      "url": "https://github.com/czlonkowski/n8n-mcp"
+    },
+    {
+      "id": 53,
+      "title": "Analysts Set Riskified Ltd. (NYSE:RSKD) Price Target at $6.03",
+      "summary": "Analysts set a price target for Riskified Ltd. and recommend a 'Hold' for the stock, with one analyst rating it as a sell.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:45:06Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/analysts-set-riskified-ltd-nyserskd-price-target-at-6-03/"
+    },
+    {
+      "id": 54,
+      "title": "Head to Head Comparison: Insight Enterprises (NASDAQ:NSIT) and 1-800 FLOWERS.COM (NASDAQ:FLWS)",
+      "summary": "Insight Enterprises and 1-800 FLOWERS.COM are both retail/wholesale companies being compared for investment potential based on institutional strength.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:45:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/head-to-head-comparison-insight-enterprises-nasdaqnsit-and-1-800-flowers-com-nasdaqflws/"
+    },
+    {
+      "id": 55,
+      "title": " Osimhen to Galatasaray, deal done! Eye-watering fee and anti-Italy clause",
+      "summary": "Victor Osimhen leaves Napoli for Galatasaray in a deal worth 75 million euros, with bonuses and specific clauses included.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:43:00Z",
+      "url": "https://onefootball.com/en/news/osimhen-to-galatasaray-deal-done-eye-watering-fee-and-anti-italy-clause-41402603"
+    },
+    {
+      "id": 56,
+      "title": "Zilliz Cloud Expands Global Footprint with New Azure Region in Central India",
+      "summary": "Zilliz Cloud expands global footprint with new Azure region in Central India, offering access to the popular open-source vector database Milvus.",
+      "source": "Antaranews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:41:58Z",
+      "url": "https://en.antaranews.com/news/367733/zilliz-cloud-expands-global-footprint-with-new-azure-region-in-central-india"
+    },
+    {
+      "id": 57,
+      "title": "Apple iPhone 17 And Google Pixel 10 Comparison: Who Will Take The Crown?",
+      "summary": "Apple iPhone 17 And Google Pixel 10 comparison: the battle between the two leading smartphones is anticipated to be a major event this year, with the Pixel 10 set to launch on Aug. 20 and the iPhone 17's launch date still uncertain.",
+      "source": "Ndtvprofit.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:37:40Z",
+      "url": "https://www.ndtvprofit.com/technology/apple-iphone-17-and-google-pixel-10-comparison-of-specs-features-prices"
+    },
+    {
+      "id": 58,
+      "title": "TechIreland’s national AI contest all set to commence this August",
+      "summary": "TechIreland's national AI contest is scheduled to begin in August with around 250 participants already registered as the deadline for registration closes on 10 August.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T05:37:39Z",
+      "url": "https://biztoc.com/x/e24b3b65fef9d992"
+    },
+    {
+      "id": 59,
+      "title": "LeadingAgile is Now LiminalArc: Official Announcement",
+      "summary": "LeadingAgile rebrands as LiminalArc after 15 years of excellence in agile transformation space.",
+      "source": "Leadingagile.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:37:18Z",
+      "url": "https://www.leadingagile.com/2025/07/leadingagile-is-now-liminalarc-official-announcement/"
+    },
+    {
+      "id": 60,
+      "title": "Crafting an Effective Employee Onboarding Process for Long-Term Success",
+      "summary": "Crafting an Effective Employee Onboarding Process improves new hire retention and productivity. Personalized experiences lead to higher job satisfaction and integrating company culture fosters a sense of belonging.",
+      "source": "Solidsmack.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:34:03Z",
+      "url": "https://www.solidsmack.com/business/crafting-an-effective-employee-onboarding-process-for-long-term-success/"
+    },
+    {
+      "id": 61,
+      "title": "Malaysia sets sights on regional AI leadership with 2026-2030 action plan, says Gobind",
+      "summary": "Malaysia aims to become a leading regional AI hub with its 2026-2030 action plan, set by the National Artificial Intelligence Office (NAIO).",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:34:00Z",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/21/malaysia-sets-sights-on-regional-ai-leadership-with-2026-2030-action-plan-says-gobind"
+    },
+    {
+      "id": 62,
+      "title": "KGNCLOUD Unlocks Zero-Threshold Gold Mining Opportunities in a New Era of Cryptocurrency Profitability",
+      "summary": "KGNCLOUD is unlocking zero-threshold gold mining opportunities in the cryptocurrency industry, benefiting from global regulatory shifts and the increased value of Bitcoin.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:33:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118412/0/en/KGNCLOUD-Unlocks-Zero-Threshold-Gold-Mining-Opportunities-in-a-New-Era-of-Cryptocurrency-Profitability.html"
+    },
+    {
+      "id": 63,
+      "title": "TSMC Plans To Use Drones For Monitoring Its Arizona Factory, Says Report",
+      "summary": "TSMC plans to use drones for monitoring its Arizona factory, potentially improving operational efficiency and security.",
+      "source": "Wccftech",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:32:00Z",
+      "url": "https://wccftech.com/tsmc-plans-to-use-drones-for-monitoring-its-arizona-factory-says-report/"
+    },
+    {
+      "id": 64,
+      "title": "F5 expands AI-XOps automation & customisation controls",
+      "summary": "F5 expands AI-XOps automation & customisation controls with new tools to reduce complexity for XOps teams.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:30:58Z",
+      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/F5-expands-AI-XOps-automation-customisation-controls"
+    },
+    {
+      "id": 65,
+      "title": "Head-To-Head Analysis: Viasat (NASDAQ:VSAT) & AST SpaceMobile (NASDAQ:ASTS)",
+      "summary": "AST SpaceMobile (NASDAQ:ASTS) and Viasat (NASDAQ:VSAT) are being compared for investment potential based on earnings, risk, and profit performance.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:30:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/head-to-head-analysis-viasat-nasdaqvsat-ast-spacemobile-nasdaqasts/"
+    },
+    {
+      "id": 66,
+      "title": "GeneDx Holdings Corp. (NASDAQ:WGS) Receives $92.33 Consensus Price Target from Analysts",
+      "summary": "GeneDx Holdings Corp. receives $92.33 consensus price target from analysts and has earned an average recommendation of 'Moderate Buy' from the nine research firms covering the company.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-21T05:30:49Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/genedx-holdings-corp-nasdaqwgs-receives-92-33-consensus-price-target-from-analysts/"
+    },
     {
       "id": 51,
       "title": "Fujifilm increases back-end process materials investment to drive growth",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T04:00:00Z",
       "url": "https://finance.yahoo.com/news/ubs-raises-monster-mnst-price-040000240.html"
-    },
-    {
-      "id": 62,
-      "title": "Wolfe Raises Royal Caribbean (RCL) Price Target, Maintains Outperform Rating",
-      "summary": "Wolfe raises Royal Caribbean (RCL) price target, maintains outperform rating, making it one of the most profitable consumer stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T03:59:58Z",
-      "url": "https://finance.yahoo.com/news/wolfe-raises-royal-caribbean-rcl-035958440.html"
-    },
-    {
-      "id": 63,
-      "title": "Apple (AAPL) iPhone Production Soars as India Gains Prominence Amid Slowing U.S. Demand",
-      "summary": "Apple significantly ramped up iPhone production in the first half of 2025 in India, as the country gains prominence amid slowing U.S. demand, making Apple Inc. (NASDAQ:AAPL) one of the most profitable consumer stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T03:59:48Z",
-      "url": "https://finance.yahoo.com/news/apple-aapl-iphone-production-soars-035948543.html"
-    },
-    {
-      "id": 64,
-      "title": "[Fiction] Our Trial",
-      "summary": "A person experiences a simulation, prompting them to question their reality and existence.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T03:56:47Z",
-      "url": "https://www.lesswrong.com/posts/6DzFsRvEoD8vFPWPg/fiction-our-trial"
-    },
-    {
-      "id": 65,
-      "title": "Amazon's Blade Runner Show Is Exciting, But Apple TV+'s Upcoming Cyberpunk Series Could Change Sci-Fi TV Forever",
-      "summary": "As exciting as Prime Video Blade Runner TV show may seem, it will likely not be as groundbreaking as Apple TV+'s upcoming cyberpunk sci-fi series.",
-      "source": "Screen Rant",
-      "category": "innovation",
-      "timestamp": "2025-07-21T03:50:57Z",
-      "url": "https://screenrant.com/apple-tv-plus-neuromancer-change-cyberpunk-amazon-blade-runner-2099/"
-    },
-    {
-      "id": 51,
-      "title": "Q1 Results This Week: Infosys, IDFC First Bank, Bajaj Finance, Paytm Among 280+ Companies To Announce Earnings",
-      "summary": "Nearly 300 companies, including Infosys, IDFC First Bank, Bajaj Finance, and Paytm, are set to announce their financial results for the quarter ended June 2025 this week, following Board meetings.",
-      "source": "Ndtvprofit.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T03:05:20Z",
-      "url": "https://www.ndtvprofit.com/quarterly-earnings/q1-results-next-week-infosys-idfc-first-bank-bajaj-finance-paytm-among-280-companies-to-announce-earnings"
-    },
-    {
-      "id": 52,
-      "title": "Manhattan Associates (MANH) Reports Earnings Tomorrow: What To Expect",
-      "summary": "Supply chain software maker Manhattan Associates (MANH) set to report earnings after market hours, potential impact on financial markets.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T03:03:17Z",
-      "url": "https://finance.yahoo.com/news/manhattan-associates-manh-reports-earnings-030317960.html"
-    },
-    {
-      "id": 53,
-      "title": "Obama on knees, handcuffed, in jail: Trump posts AI video of Obama after Tulsi Gabbard’s claims of 'treasonous plot'",
-      "summary": "Donald Trump shares deepfake video of Barack Obama being arrested, following claims of 'treasonous plot' by Tulsi Gabbard. The use of AI technology to create misleading videos raises ethical concerns about the potential for misinformation and manipulation in political discourse.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T03:02:41Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/obama-on-knees-handcuffed-in-jail-trump-posts-ai-video-of-obama-after-tulsi-gabbards-claims-of-treasonous-plot/articleshow/122804911.cms"
-    },
-    {
-      "id": 54,
-      "title": "Hope Bancorp (HOPE) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "summary": "Regional banking company Hope Bancorp (NASDAQ:HOPE) is set to report earnings this Tuesday morning.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T03:02:36Z",
-      "url": "https://finance.yahoo.com/news/hope-bancorp-hope-reports-q2-030236757.html"
-    },
-    {
-      "id": 55,
-      "title": "7/20/2025: The Vatican's Orphan's; A Tutor for Every Student; The Mezcaleros",
-      "summary": "The Vatican's orphans are being supported by AI technology, Khanmigo, an AI tutor, is helping students, and mezcal producers are using traditional methods to meet growing demand.",
-      "source": "CBS News",
-      "category": "applications",
-      "timestamp": "2025-07-21T03:00:30Z",
-      "url": "https://www.cbsnews.com/video/60minutes-2025-07-20/"
-    },
-    {
-      "id": 56,
-      "title": "10 Best Sci-Fi Anime Worth Watching Now",
-      "summary": "10 Best Sci-Fi Anime Worth Watching Now - Production I.G. offers a list of sci-fi anime that may not be counted among the top ten anime, but still provide unique styles and themes in the science fiction genre.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T03:00:00Z",
-      "url": "http://comicbook.com/anime/news/best-sci-fi-anime-86-cyberpunk-edgerunners/"
-    },
-    {
-      "id": 57,
-      "title": "claude-multiagent-pm 1.4.0",
-      "summary": "claude-multiagent-pm 1.4.0 is a Multi-Agent Project Management Framework designed for AI-driven orchestration, allowing for advanced coordination and automation in project management processes.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T02:59:19Z",
-      "url": "https://pypi.org/project/claude-multiagent-pm/1.4.0/"
-    },
-    {
-      "id": 58,
-      "title": "Hong Kong leads stocks higher, yen gains as Ishiba vows to stay",
-      "summary": "Equities mostly rose Monday on optimism countries will reach US trade deals before an August 1 deadline, while the yen gained after Japanese Prime Minister Shigeru Ishiba said he would stay in office despite another election defeat.",
-      "source": "Digital Journal",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:57:32Z",
-      "url": "https://www.digitaljournal.com/world/hong-kong-leads-stocks-higher-yen-gains-as-ishiba-vows-to-stay/article"
-    },
-    {
-      "id": 59,
-      "title": "Hong Kong Leads Stocks Higher, Yen Gains As Ishiba Vows To Stay",
-      "summary": "Equities rose on optimism of US trade deals before August 1 deadline, while yen gained as Japanese Prime Minister Shigeru Ishiba vowed to stay in office despite election defeat.",
-      "source": "Ibtimes.com.au",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:57:17Z",
-      "url": "https://www.ibtimes.com.au/hong-kong-leads-stocks-higher-yen-gains-ishiba-vows-stay-1859736"
-    },
-    {
-      "id": 60,
-      "title": "Hong Kong Leads Stocks Higher, Yen Gains As Ishiba Vows To Stay",
-      "summary": "Equities rise on optimism of US trade deals, yen gains as Japanese PM vows to stay despite election defeat.",
-      "source": "International Business Times",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:57:15Z",
-      "url": "https://www.ibtimes.com/hong-kong-leads-stocks-higher-yen-gains-ishiba-vows-stay-3778990"
-    },
-    {
-      "id": 61,
-      "title": "株式会社Robot Consulting、スピリットアドバイザーズの全面支援によってナスダック上場を達成",
-      "summary": "Robot Consulting, with full support from Spirit Advisors LLC, achieves listing on NASDAQ.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-21T02:57:10Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000152133.html"
-    },
-    {
-      "id": 62,
-      "title": "ai-interactive-feedback 2025.721.1",
-      "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development with dual interface support and intelligent environment detection, promoting cross-platform compatibility.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T02:56:42Z",
-      "url": "https://pypi.org/project/ai-interactive-feedback/2025.721.1/"
     }
   ]
 }
