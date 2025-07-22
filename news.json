@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-22T22:38:13.353Z",
+  "lastUpdate": "2025-07-22T22:53:36.396Z",
   "items": [
+    {
+      "id": 51,
+      "title": "It’s way past time for Mayor Adams to lift the NYPD bans on facial-ID tech",
+      "summary": "New York City's bans on facial-recognition tech have been deemed unnecessary and unjust, as evidenced by dropped charges against Zuhdi Ahmed. It is time for Mayor Adams to lift these bans.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-21T22:51:13Z",
+      "url": "https://nypost.com/2025/07/21/opinion/its-way-past-time-for-mayor-adams-to-lift-the-nypd-bans-on-facial-id-tech/"
+    },
+    {
+      "id": 52,
+      "title": "New Google AI system wins gold medal in prestigious math competition",
+      "summary": "New Google AI system developed by DeepMind wins gold medal in prestigious math competition, marking a significant achievement in the field of artificial intelligence.",
+      "source": "SiliconANGLE News",
+      "category": "research",
+      "timestamp": "2025-07-21T22:48:30Z",
+      "url": "https://siliconangle.com/2025/07/21/new-google-ai-system-wins-gold-medal-prestigious-math-competition/"
+    },
+    {
+      "id": 53,
+      "title": "Markifact Launches: No-Code AI Marketing Platform Disrupting Reporting, Campaign Analysis, and Creative Generation",
+      "summary": "Markifact launches a no-code AI marketing platform disrupting reporting, campaign analysis, and creative generation in the startup space.",
+      "source": "Techbullion.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T22:48:07Z",
+      "url": "https://techbullion.com/markifact-launches-no-code-ai-marketing-platform-disrupting-reporting-campaign-analysis-and-creative-generation/"
+    },
+    {
+      "id": 54,
+      "title": "The Half A Trillion Dollar Stargate AI Venture Is Now Falling Victim To The Disagreements Between OpenAI And SoftBank",
+      "summary": "The Half A Trillion Dollar Stargate AI Venture Is Now Falling Victim To The Disagreements Between OpenAI And SoftBank",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-21T22:46:46Z",
+      "url": "https://wccftech.com/the-half-a-trillion-dollar-stargate-ai-venture-is-now-falling-victim-to-the-disagreements-between-openai-and-softbank/"
+    },
+    {
+      "id": 55,
+      "title": "Darktrace acquires Mira Security to boost encrypted traffic visibility",
+      "summary": "Darktrace acquires Mira Security to boost encrypted traffic visibility, enhancing their machine learning cybersecurity capabilities.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-21T22:43:36Z",
+      "url": "https://siliconangle.com/2025/07/21/darktrace-acquires-mira-security-boost-encrypted-traffic-visibility/"
+    },
+    {
+      "id": 56,
+      "title": "Morgan Stanley warns against ‘misguided’ idea of Apple acquiring an AI search engine",
+      "summary": "Morgan Stanley warns against ‘misguided’ idea of Apple acquiring an AI search engine as a solution to catch up in the AI race.",
+      "source": "9to5Mac",
+      "category": "innovation",
+      "timestamp": "2025-07-21T22:43:26Z",
+      "url": "https://9to5mac.com/2025/07/21/morgan-stanley-warns-against-misguided-idea-of-apple-acquiring-an-ai-search-engine/"
+    },
+    {
+      "id": 57,
+      "title": "Democrats Steamrolling Toward 'Civilized Civil War,' James Carville Warns",
+      "summary": "James Carville warns of Democratic party heading towards a 'civilized civil war' after 2024 election loss.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T22:43:25Z",
+      "url": "https://biztoc.com/x/c0f8888698194a3f"
+    },
+    {
+      "id": 58,
+      "title": "How SMBs Are Building DIY Back Offices Using AI",
+      "summary": "SMBs are using AI to build DIY back offices, filling the gap between enterprise and consumer tools.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T22:43:00Z",
+      "url": "https://biztoc.com/x/9ab8402625191bcf"
+    },
+    {
+      "id": 59,
+      "title": "opencode-ai 0.1.0a24",
+      "summary": "opencode-ai 0.1.0a24 is the official Python library for the opencode API, offering developers an easier way to interact with AI technologies for various applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T22:40:37Z",
+      "url": "https://pypi.org/project/opencode-ai/0.1.0a24/"
+    },
+    {
+      "id": 60,
+      "title": "Country Digital Acceleration: Shaping Spain’s digital future",
+      "summary": "Country Digital Acceleration is powering Spain’s digital future by building skills, innovation, and secure infrastructure for a more connected nation.",
+      "source": "Cisco.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T22:38:47Z",
+      "url": "https://blogs.cisco.com/digital/country-digital-acceleration-shaping-spains-digital-future"
+    },
     {
       "id": 51,
       "title": "Organon & Co. (OGN) Restructures, Expands in Women’s Health and Biosimilars",
@@ -360,96 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-21T21:49:54Z",
       "url": "https://japantoday.com/category/national/japanese-students%27-english-skills-improving-but-targets-unmet"
-    },
-    {
-      "id": 53,
-      "title": "Why Does Elon Musk Have Such a Straight View of Antiquity?",
-      "summary": "Musk and others ignore the contributions of queer soldiers in ancient military successes when praising Greek warriors.",
-      "source": "Hyperallergic",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:48:08Z",
-      "url": "http://hyperallergic.com/1029023/why-does-elon-musk-have-such-a-straight-view-of-antiquity/"
-    },
-    {
-      "id": 54,
-      "title": "SoundHound AI, Inc. (SOUN) Stock Drops Despite Market Gains: Important Facts to Note",
-      "summary": "SoundHound AI, Inc. (SOUN) stock dropped by 8.67% despite market gains, closing at $11.7 in the latest trading session.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:45:04Z",
-      "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-stock-214504040.html"
-    },
-    {
-      "id": 55,
-      "title": "Current Lancaster city data center plans won't require planning commission vote",
-      "summary": "Current Lancaster city data center plans won't require planning commission vote, limiting public input on the proposed development.",
-      "source": "LancasterOnline",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:45:00Z",
-      "url": "https://lancasteronline.com/news/local/current-lancaster-city-data-center-plans-wont-require-planning-commission-vote/article_a9c21bd3-1918-47fa-93ec-63ddace0e41c.html"
-    },
-    {
-      "id": 56,
-      "title": "arcade-ai 2.1.1",
-      "summary": "The arcade-ai 2.1.1 is an AI tool calling platform for agents provided by Arcade.dev.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T21:44:57Z",
-      "url": "https://pypi.org/project/arcade-ai/2.1.1/"
-    },
-    {
-      "id": 57,
-      "title": "[Sponsor] SafeBase by Drata",
-      "summary": "SafeBase by Drata allows security, GRC, and sales teams to share and automate access to security, compliance, and privacy information with its Trust Center Platform.",
-      "source": "Safebase.io",
-      "category": "applications",
-      "timestamp": "2025-07-21T21:44:46Z",
-      "url": "https://safebase.io/lp/why-safebase"
-    },
-    {
-      "id": 58,
-      "title": "X tells the French police 'non' to its request for algorithmic data",
-      "summary": "X, formerly known as Twitter, refuses to provide algorithmic data to French police, alleging it is a witch hunt by local lawmakers.",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:41:36Z",
-      "url": "https://www.theregister.com/2025/07/21/x_french_police/"
-    },
-    {
-      "id": 51,
-      "title": "Spotify Allowing AI-Generated Songs on Dead Artists’ Pages: Report",
-      "summary": "Spotify is facing criticism for allowing AI-generated songs to be added to the artist pages of deceased musicians, raising concerns about the ethics of using technology to create new content after an artist has passed away.",
-      "source": "Consequence.net",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:36:39Z",
-      "url": "https://consequence.net/2025/07/spotify-ai-generated-songs-dead-artists/"
-    },
-    {
-      "id": 52,
-      "title": "OpenAI and UK Government Partner on AI Infrastructure and Deployment",
-      "summary": "OpenAI and UK Government partner on AI infrastructure and deployment, focusing on AI applications and employment.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:36:09Z",
-      "url": "https://biztoc.com/x/4c01333c5e380ff0"
-    },
-    {
-      "id": 53,
-      "title": "Rezolve Says AI Commerce Platform Ready for Stablecoin Opportunity",
-      "summary": "Rezolve Ai is ready for the stablecoin opportunity with their AI commerce platform, expecting the GENIUS Act to bring regulated digital commerce and compliant crypto payments.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:36:02Z",
-      "url": "https://biztoc.com/x/4eb9ea8c7d20276b"
-    },
-    {
-      "id": 54,
-      "title": "Polymarket set to reenter US with $112M acquisition of QCEX derivitives exchange",
-      "summary": "Polymarket is poised to reenter the US market after acquiring QCEX for $112M, which includes a licensed derivatives exchange and clearinghouse based in Florida.",
-      "source": "Cointelegraph",
-      "category": "startups",
-      "timestamp": "2025-07-21T21:36:01Z",
-      "url": "https://cointelegraph.com/news/polymarket-reenter-us-acquisition-qcex-exchange"
     }
   ]
 }
