@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-22T07:42:46.001Z",
+  "lastUpdate": "2025-07-22T07:52:35.695Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Ace Investor Vinod Khosla Blasts Windsurf Founders For Abandoning Team After $3 Billion OpenAI Deal Fell Apart: 'I Would Not Work With The WeWork Founder Either'",
+      "summary": "Billionaire investor Vinod Khosla criticizes Windsurf founders for abandoning team after failed OpenAI deal.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T07:51:10Z",
+      "url": "https://biztoc.com/x/b7c85809d64bd27b"
+    },
+    {
+      "id": 52,
+      "title": "ESPEY MFG & ELECTRONICS (NYSE:ESP) and Aeluma (NASDAQ:ALMU) Head-To-Head Survey",
+      "summary": "ESPEY MFG & ELECTRONICS (NYSE:ESP) and Aeluma (NASDAQ:ALMU) are being compared as potential investments based on their earnings and risk factors.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:51:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/espey-mfg-electronics-nyseesp-and-aeluma-nasdaqalmu-head-to-head-survey/"
+    },
+    {
+      "id": 53,
+      "title": "ServiceNow (NYSE:NOW) Price Target Raised to $1,110.00",
+      "summary": "ServiceNow's price target was raised to $1,110.00 by Bank of America, indicating positive outlook on the company's performance in the information technology services sector.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:50:47Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/servicenow-nysenow-price-target-raised-to-1110-00/"
+    },
+    {
+      "id": 54,
+      "title": "A week in security (July 14 – July 20)",
+      "summary": "The week of July 14 to July 20, 2025, covered various topics in AI security, including new research findings and advancements in cybersecurity measures.",
+      "source": "Malwarebytes.com",
+      "category": "research",
+      "timestamp": "2025-07-21T07:49:57Z",
+      "url": "https://www.malwarebytes.com/blog/news/2025/07/a-week-in-security-july-14-july-20"
+    },
+    {
+      "id": 55,
+      "title": "Principal Financial Group Inc. Has $341,000 Holdings in Vimeo, Inc. (NASDAQ:VMEO)",
+      "summary": "Principal Financial Group Inc. increased its holdings in shares of Vimeo, Inc. by 4.3% during the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:49:03Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/principal-financial-group-inc-has-341000-holdings-in-vimeo-inc-nasdaqvmeo/"
+    },
+    {
+      "id": 56,
+      "title": "Foxconn subsidiary invests US$60 million in AI-centric Oceanus Growth Fund",
+      "summary": "Foxconn's subsidiary invests US$60 million in AI-centric Oceanus Growth Fund, a private equity fund",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:48:07Z",
+      "url": "https://www.digitimes.com/news/a20250721PD235/foxconn-investment-subsidiary-smart-healthcare.html"
+    },
+    {
+      "id": 57,
+      "title": "Topnotch Crypto Redefines XRP Accessibility with Zero-Threshold Mining Platform Backed by GENIUS Act Innovation",
+      "summary": "Topnotch Crypto and the GENIUS Act are collaborating to redefine XRP accessibility through a zero-threshold mining platform, making it easier for users to engage with the cryptocurrency.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T07:46:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118452/0/en/Topnotch-Crypto-Redefines-XRP-Accessibility-with-Zero-Threshold-Mining-Platform-Backed-by-GENIUS-Act-Innovation.html"
+    },
+    {
+      "id": 58,
+      "title": "Kimi K2 Agent Researcher for Deep Reasoning Research Tasks",
+      "summary": "A new Kimi K2 Agent Researcher AI system has been developed to handle complex research tasks and evolve with each challenge. It aims to redefine the way research is conducted by delegating tasks to a single-agent system.",
+      "source": "Geeky Gadgets",
+      "category": "research",
+      "timestamp": "2025-07-21T07:45:01Z",
+      "url": "https://www.geeky-gadgets.com/kimi-k2-ai-researcher/"
+    },
+    {
+      "id": 59,
+      "title": "AMD FSR 4 Now Available in Any DX11/12 Title via OptiScaler",
+      "summary": "AMD's AI-driven FSR 4 upscaler is now available in any DX11/12 title via OptiScaler, expanding beyond the limited number of titles released alongside the RX 9000 series.",
+      "source": "Techpowerup.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T07:43:31Z",
+      "url": "https://www.techpowerup.com/339103/amd-fsr-4-now-available-in-any-dx11-12-title-via-optiscaler"
+    },
     {
       "id": 51,
       "title": "ivcap_ai_tool 0.7.15",
@@ -369,87 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-21T06:22:56Z",
       "url": "https://www.etfdailynews.com/2025/07/21/stephens-begins-coverage-on-snowflake-nysesnow/"
-    },
-    {
-      "id": 52,
-      "title": "Zacks Research Issues Negative Outlook for Intel Earnings",
-      "summary": "Zacks Research issues negative outlook for Intel earnings, with decreased Q3 2026 EPS estimates for the chip maker.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T06:22:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/zacks-research-issues-negative-outlook-for-intel-earnings/"
-    },
-    {
-      "id": 53,
-      "title": "Wall Street Zen Downgrades ServiceNow (NYSE:NOW) to Hold",
-      "summary": "Wall Street Zen downgrades ServiceNow (NYSE:NOW) from a 'buy' to 'hold' rating in a research report issued to clients and investors on Monday.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T06:22:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/wall-street-zen-downgrades-servicenow-nysenow-to-hold/"
-    },
-    {
-      "id": 54,
-      "title": "Not using AI yet? Your career may already be falling behind, warns Perplexity CEO Aravind Srinivas",
-      "summary": "Not using AI yet may leave professionals behind in the rapidly evolving job market, warns Perplexity CEO Aravind Srinivas. Fluency in AI tools is emerging as a core employability factor, offering productivity gains and entrepreneurial opportunities.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T06:20:32Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/not-using-ai-yet-your-career-may-already-be-falling-behind-warns-perplexity-ceo-aravind-srinivas/articleshow/122807836.cms"
-    },
-    {
-      "id": 55,
-      "title": "From Hitler’s Bunker To AI Boardrooms: Why Moral Courage Matters",
-      "summary": "We can't delegate AI governance to technologists. Like German resistance couldn't delegate their moral choices to military hierarchy. human intelligence involves choices",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-21T06:19:03Z",
-      "url": "https://www.forbes.com/sites/corneliawalther/2025/07/21/from-hitlers-bunker-to-ai-boardrooms-why-moral-courage-matters/"
-    },
-    {
-      "id": 56,
-      "title": "AI Training Data Set Includes Millions of Personal Data Examples",
-      "summary": "One of the largest open-source AI training data sets contains millions of images of personal documents, raising concerns about privacy and security.",
-      "source": "Nextbigwhat.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T06:16:13Z",
-      "url": "https://nextbigwhat.com/ai-training-data-set-includes-millions-of-personal-data-examples/"
-    },
-    {
-      "id": 57,
-      "title": "Meta rejects EU’s AI code of practice, citing overreach",
-      "summary": "Meta rejects EU's AI code of practice, citing overreach and expressing concerns that it may hinder innovation and slow down AI development.",
-      "source": "Nextbigwhat.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T06:16:08Z",
-      "url": "https://nextbigwhat.com/meta-rejects-eus-ai-code-of-practice-citing-overreach/"
-    },
-    {
-      "id": 58,
-      "title": "DuckDuckGo Introduces Feature to Hide AI-Generated Images in Search Results",
-      "summary": "DuckDuckGo introduces feature to hide AI-generated images in search results to address concerns over inundation of such content on the internet.",
-      "source": "Nextbigwhat.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T06:16:01Z",
-      "url": "https://nextbigwhat.com/duckduckgo-introduces-feature-to-hide-ai-generated-images-in-search-results/"
-    },
-    {
-      "id": 59,
-      "title": "Man triumphs over AI in coding championship after grueling 10-hour marathon",
-      "summary": "Man triumphs over AI in coding championship after grueling 10-hour marathon - In a world coding championship, a man emerged victorious over an AI model after a challenging 10-hour coding marathon against OpenAI. Despite exhaustion, the human coder prevailed, showcasing the current limits of AI in real-time coding competitions.",
-      "source": "Nextbigwhat.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T06:15:50Z",
-      "url": "https://nextbigwhat.com/man-triumphs-over-ai-in-coding-championship-after-grueling-10-hour-marathon/"
-    },
-    {
-      "id": 60,
-      "title": "Windsurf CEO Shares Insights on Acquisition by Cognition Amid Uncertainty",
-      "summary": "Windsurf CEO, Jeff Wang, shares insights on the challenging time leading up to the acquisition by Cognition, an AI coding startup, shedding light on the drama and uncertainty surrounding the deal.",
-      "source": "Nextbigwhat.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T06:14:58Z",
-      "url": "https://nextbigwhat.com/windsurf-ceo-shares-insights-on-acquisition-by-cognition-amid-uncertainty/"
     }
   ]
 }
