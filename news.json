@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T19:15:12.698Z",
+  "lastUpdate": "2025-07-22T19:30:58.911Z",
   "items": [
+    {
+      "id": 51,
+      "title": "A fresh phone hell in the office",
+      "summary": "Younger workers are facing criticism for not saying hello when answering phone calls, highlighting a lack of basic manners in the workplace.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:30:29Z",
+      "url": "https://financialpost.com/financial-times/a-fresh-phone-hell-in-the-office"
+    },
+    {
+      "id": 52,
+      "title": "Scott Bessent turns up the heat on the Fed, demands probe as Powell’s future hangs in balance",
+      "summary": "Scott Bessent calls for probe into Federal Reserve's success as Chairman Powell's future uncertain.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:30:15Z",
+      "url": "https://fortune.com/2025/07/21/scott-bessent-federal-reserve-probe-jerome-powell/"
+    },
+    {
+      "id": 53,
+      "title": "Smart Security, Zero Subscriptions: Reolink launches Elite Floodlight",
+      "summary": "Reolink launches Elite Floodlight, a smart home product with zero subscriptions that provides smart security without the need for extra thought.",
+      "source": "New York Post",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:30:11Z",
+      "url": "https://nypost.com/2025/07/21/shopping/shop-the-reolink-elite-floodlight-wifi-camera-no-subscription-needed/"
+    },
+    {
+      "id": 54,
+      "title": "AIXA Miner Launches New BTC Cloud Mining Contracts Backed by Green Energy as Bitcoin Surges Past $123,000",
+      "summary": "AIXA Miner launches new BTC cloud mining contracts backed by green energy as Bitcoin surges past $123,000",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118992/0/en/AIXA-Miner-Launches-New-BTC-Cloud-Mining-Contracts-Backed-by-Green-Energy-as-Bitcoin-Surges-Past-123-000.html"
+    },
+    {
+      "id": 55,
+      "title": "Faraday Future is back with another wild EV that probably will never get made",
+      "summary": "Faraday Future, an EV startup known for overpromising and under-delivering, has unveiled a new electric car that is unlikely to be produced. The brand has faced criticism for its history of delays and unrealized promises in its 11-year existence.",
+      "source": "The Verge",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:29:48Z",
+      "url": "https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille"
+    },
+    {
+      "id": 56,
+      "title": "New Astronomer CEO Says It's Been a 'Surreal' Few Days",
+      "summary": "New Astronomer CEO Pete DeJoy describes the past few days as surreal after being named interim CEO following a kiss-cam scandal.",
+      "source": "Newser",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:26:53Z",
+      "url": "https://www.newser.com/story/372213/new-astronomer-ceo-says-its-been-a-surreal-few-days.html"
+    },
+    {
+      "id": 57,
+      "title": "micro-swe-agent added to PyPI",
+      "summary": "PyPI now includes Nano SWE Agent, a simple AI software engineering agent called micro-swe-agent.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:25:12Z",
+      "url": "https://pypi.org/project/micro-swe-agent/"
+    },
+    {
+      "id": 58,
+      "title": "Piers Morgan Uncensored 2025.07.21 1080p WEB H264-onX",
+      "summary": "Renowned author Robert Greene discusses the impact of artificial intelligence on our brains and society, raising concerns about the potential negative effects of AI technology.",
+      "source": "Rlsbb.cc",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:22:47Z",
+      "url": "https://post.rlsbb.cc/piers-morgan-uncensored-2025-07-21-1080p-web-h264-onx/"
+    },
+    {
+      "id": 59,
+      "title": "Veteran analyst drops surprise call on Tesla ahead of earnings",
+      "summary": "Analyst makes surprising call on Tesla ahead of earnings, highlighting CEO Elon Musk's eventful year in 2025 which has been focused on issues beyond electric vehicles.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:21:58Z",
+      "url": "https://biztoc.com/x/ae280fddb323773e"
+    },
+    {
+      "id": 60,
+      "title": "Britain and ChatGPT maker OpenAI sign new strategic partnership",
+      "summary": "Britain and ChatGPT maker OpenAI sign a new strategic partnership to deepen collaboration on AI security research and invest in British AI infrastructure.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:21:51Z",
+      "url": "https://biztoc.com/x/77a07c50d38621c7"
+    },
+    {
+      "id": 61,
+      "title": "Piers Morgan Uncensored 2025.07.21 1080p WEB H264-onX",
+      "summary": "Robert Greene discusses power, artificial intelligence, and Israel in the context of our brains potentially deteriorating due to technology.",
+      "source": "Rlsbb.ru",
+      "category": "research",
+      "timestamp": "2025-07-21T19:20:41Z",
+      "url": "https://post.rlsbb.ru/piers-morgan-uncensored-2025-07-21-1080p-web-h264-onx/"
+    },
+    {
+      "id": 62,
+      "title": "abstract-compiler added to PyPI",
+      "summary": "abstract-compiler, a natural language compiler, has been added to PyPI",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:20:20Z",
+      "url": "https://pypi.org/project/abstract-compiler/"
+    },
+    {
+      "id": 63,
+      "title": "Fake Trump-Epstein Letters Spread Online After Bombshell Report",
+      "summary": "Fake Trump-Epstein letters circulating online after report, raising concerns about misinformation and ethics in AI",
+      "source": "Gizmodo.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:20:17Z",
+      "url": "https://gizmodo.com/fake-trump-epstein-letters-spread-online-after-bombshell-report-2000631869"
+    },
+    {
+      "id": 64,
+      "title": "Beyond Ads: Why CX Leaders Should Care About Nano-Payments",
+      "summary": "Nano-payments provide a customer-centric solution to ads, improving customer experience and fostering loyalty.",
+      "source": "CMSWire",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:20:08Z",
+      "url": "https://www.cmswire.com/digital-experience/beyond-ads-why-cx-leaders-should-care-about-nano-payments/"
+    },
+    {
+      "id": 65,
+      "title": "7 best CRMs for pest control companies in 2025",
+      "summary": "7 best CRMs for pest control companies in 2025 - Managing a pest control business means juggling customer appointments, technician schedules, service plans, and follow-ups. A traditional spreadsheet or generic tool simply can't keep up. That’s why teams are turning to CRMs for pest control — built for these…",
+      "source": "Hubspot.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:19:37Z",
+      "url": "https://blog.hubspot.com/marketing/best-crm-for-pest-control#article"
+    },
+    {
+      "id": 66,
+      "title": "Crexi Co-Founder Launches AI Data Company to Help Brokers and Lenders Unlock $3 Trillion in Maturing CRE Debt",
+      "summary": "Crexi Co-Founder launches AI data company to help brokers and lenders unlock $3 trillion in maturing CRE debt, with support from Lerer Hippeau, Acorns and Betterment Co-Founders, Sway Ventures, and FJ Labs.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:19:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118990/0/en/Crexi-Co-Founder-Launches-AI-Data-Company-to-Help-Brokers-and-Lenders-Unlock-3-Trillion-in-Maturing-CRE-Debt.html"
+    },
+    {
+      "id": 67,
+      "title": "‘I can hear their breathing:’ Employers enraged over Gen Z’s rude phone etiquette",
+      "summary": "'I can hear their breathing:' Employers are upset about Gen Z's perceived rude phone etiquette, which includes breathing too loudly on calls. The debate centers around who owns the phone line and the expected level of politeness in phone interactions.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:18:06Z",
+      "url": "https://nypost.com/2025/07/21/lifestyle/shocking-gen-z-phone-habit-infuriates-employers/"
+    },
+    {
+      "id": 68,
+      "title": "Former Astronomer CEO's wife made statement about Coldplay kiss cam scandal?",
+      "summary": "Former Astronomer CEO's wife speaks out about Coldplay kiss cam scandal that allegedly exposed her husband having an affair.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:18:00Z",
+      "url": "https://www.snopes.com//fact-check/former-astronomer-ceo-wife-statement/"
+    },
+    {
+      "id": 69,
+      "title": "Astronomer's Interim CEO Addresses Attention After Coldplay Video",
+      "summary": "Astronomer's Interim CEO Pete DeJoy addresses the attention the startup has received after a viral video from Coldplay, highlighting the company's rise to fame.",
+      "source": "Eonline.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:17:51Z",
+      "url": "https://www.eonline.com/news/1420131/astronomers-interim-ceo-speaks-out-after-coldplay-video"
+    },
+    {
+      "id": 70,
+      "title": "akihiro 1.0.1",
+      "summary": "akihiro 1.0.1 is a Python package designed to improve the programming experience by incorporating AI LLM capabilities.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:16:04Z",
+      "url": "https://pypi.org/project/akihiro/1.0.1/"
+    },
     {
       "id": 51,
       "title": "AI Is Optimizing the Back Office, but What About the Physical Office?",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T18:45:51Z",
       "url": "https://pypi.org/project/ze-prompter/0.0.1a0/"
-    },
-    {
-      "id": 62,
-      "title": "Lithuania-based PR agency Wellstone PR launches Synapse, an AI tool that automatically drafts expert comment email responses to journalist queries (Rob Waugh/Press Gazette)",
-      "summary": "Lithuania-based PR agency Wellstone PR launches Synapse, an AI tool that automatically drafts expert comment email responses to journalist queries",
-      "source": "Mediagazer.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:45:00Z",
-      "url": "https://mediagazer.com/250721/p8"
-    },
-    {
-      "id": 63,
-      "title": "Will ask Centre to restart Goa-London AI flight: Sawant",
-      "summary": "Chief minister Pramod Sawant plans to ask the Centre to restart the Goa-London AI flight, which had been shifted to Manohar International Airport in Mopa. This move aims to boost the economy by increasing flight connectivity to and from Goa.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T18:44:20Z",
-      "url": "https://timesofindia.indiatimes.com/city/goa/will-ask-centre-to-restart-goa-london-ai-flight-sawant/articleshow/122821376.cms"
-    },
-    {
-      "id": 64,
-      "title": "The first traces of GPT-5 have appeared",
-      "summary": "The first traces of GPT-5, the successor to GPT-4, have been discovered in code from OpenAI.",
-      "source": "Computerworld",
-      "category": "research",
-      "timestamp": "2025-07-21T18:41:04Z",
-      "url": "https://www.computerworld.com/article/4025927/first-traces-of-gpt-5-have-appeared.html"
-    },
-    {
-      "id": 65,
-      "title": "Supposed Galaxy Buds 3 FE render shows up looking like the Pro",
-      "summary": "Supposed Galaxy Buds 3 FE render resembling the Pro model leaks on social media.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:38:19Z",
-      "url": "https://www.androidcentral.com/accessories/earbuds/alleged-galaxy-buds-3-fe-pro-like-mirror-render-leaked"
-    },
-    {
-      "id": 66,
-      "title": "The AI culture that is Faroe",
-      "summary": "The Faroe Islands tourist board is introducing an AI culture named Faroe for travellers seeking spontaneous and serendipitous experiences by letting go of control and decision-making during their trips.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:37:47Z",
-      "url": "https://biztoc.com/x/e54b5d0c5dc02ec7"
-    },
-    {
-      "id": 67,
-      "title": "Two AI jets in trouble; IndiGo aircraft makes emergency landing",
-      "summary": "Two AI jets experience trouble on Monday, with an Air India flight veering off the runway in Mumbai and an IndiGo aircraft making an emergency landing en route from Goa. All passengers and crew are safe.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:33:02Z",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/two-ai-jets-in-trouble-indigo-aircraft-makes-emergency-landing/articleshow/122821193.cms"
-    },
-    {
-      "id": 68,
-      "title": "Smarter phones, steeper prices: AI could push flagship costs up 15% in India",
-      "summary": "Smarter phones, steeper prices: AI could push flagship costs up 15% in India due to rising chipset and memory costs, potentially impacting consumers.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T18:32:44Z",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/smarter-phones-steeper-prices-ai-could-push-flagship-costs-up-15-in-india/articleshow/122821191.cms"
-    },
-    {
-      "id": 69,
-      "title": "Trump posts AI video of Obama being arrested in Oval Office in front of Trump",
-      "summary": "President Trump reposted a fake video showing former President Barack Obama being arrested in the Oval Office, sparking concerns about authoritarianism and misinformation.",
-      "source": "Lawyersgunsmoneyblog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:31:23Z",
-      "url": "https://www.lawyersgunsmoneyblog.com/2025/07/trump-posts-ai-video-of-obama-being-arrested-in-oval-office-in-front-of-trump"
-    },
-    {
-      "id": 51,
-      "title": "Detecting High-Stakes Interactions with Activation Probes",
-      "summary": "Researchers at LASR Labs developed a method for detecting high-stakes interactions with activation probes, supervised by Dmitrii Krasheninnikov and guided by Ekdeep Singh Lubana and others.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-21T18:22:43Z",
-      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
-    },
-    {
-      "id": 52,
-      "title": "Google continues to tease Gemini Deep Think with mathematics win",
-      "summary": "Google showcases gold-medal performance in mathematics competition as a teaser for upcoming Gemini Deep Think mode.",
-      "source": "9to5google.com",
-      "category": "research",
-      "timestamp": "2025-07-21T18:22:40Z",
-      "url": "http://9to5google.com/2025/07/21/gemini-deep-think-math-imo-2025/"
-    },
-    {
-      "id": 53,
-      "title": "GitHub - superagent-ai/grok-cli: An open-source AI agent that brings the power of Grok directly into your terminal.",
-      "summary": "An open-source AI agent called grok-cli brings the power of Grok directly into your terminal, allowing for easier accessibility and usability.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:22:32Z",
-      "url": "https://github.com/superagent-ai/grok-cli"
-    },
-    {
-      "id": 54,
-      "title": "Interest In Epstein Podcasts, Books, Documentaries Soar Amid Renewed Scrutiny Of Trump",
-      "summary": "Interest in Epstein-related content rises due to renewed scrutiny of Trump's relationship with Epstein, following reports of a suggestive birthday card gifted by Trump in 2003.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:22:28Z",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2025/07/21/interest-in-epstein-podcasts-books-documentaries-soar-amid-renewed-scrutiny-of-trump/"
-    },
-    {
-      "id": 55,
-      "title": "More than just a bad date: Navigating harms on LGBTQ+ dating apps",
-      "summary": "Queer and trans people can experience harm on LGBTQ+ dating apps, but there are steps they and the apps themselves can take to address these issues.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:20:42Z",
-      "url": "https://theconversation.com/more-than-just-a-bad-date-navigating-harms-on-lgbtq-dating-apps-252297"
-    },
-    {
-      "id": 56,
-      "title": "Zoner Studio photo editor review",
-      "summary": "Zoner Studio offers a variety of tools, including some AI assistance, to help users enhance their images.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:20:18Z",
-      "url": "https://www.techradar.com/pro/software-services/zoner-studio-photo-editor-review"
-    },
-    {
-      "id": 57,
-      "title": "As AI agents go mainstream, companies lean into confidential computing for data security",
-      "summary": "Companies are turning to confidential computing for data security as AI agents become more prevalent in IT environments.",
-      "source": "Computerworld",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:16:27Z",
-      "url": "https://www.computerworld.com/article/4025903/as-ai-agents-go-mainstream-companies-lean-into-confidential-computing-for-data-security.html"
-    },
-    {
-      "id": 58,
-      "title": "Show HN: Lotas – Cursor for RStudio",
-      "summary": "Hey HN! Jorge and Will from Lotas have built an AI coding assistant into RStudio, used by 2 million data scientists. They aim to fill the gap of coding assistant within the platform.",
-      "source": "Lotas.ai",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:16:10Z",
-      "url": "https://www.lotas.ai/"
-    },
-    {
-      "id": 59,
-      "title": "ChatGPT, AI chatbots may have a big problem on their hands",
-      "summary": "AI chatbots like ChatGPT are facing a potential problem as they become more advanced, offering a wide range of capabilities from answering questions to providing assistance with tasks like homework. These chatbots have the potential to revolutionize the way people interact with technology and each other.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:14:58Z",
-      "url": "https://biztoc.com/x/d931b89aadc6c07a"
-    },
-    {
-      "id": 60,
-      "title": "Donald Trump Has Request for Judge Ruling in Bryan Kohberger Case",
-      "summary": "President Donald Trump has made a request to District Judge Steven Hippler in the Bryan Kohberger case, where Kohberger pleaded guilty to four counts of murder and one count of burglary.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:14:56Z",
-      "url": "https://biztoc.com/x/ef38154eb0c41d63"
-    },
-    {
-      "id": 61,
-      "title": "AI and other future technologies will be necessary — but not sufficient — for enacting the UN’s Pact for the Future",
-      "summary": "AI and other future technologies are important but not enough for the success of the UN's Pact for the Future, which also requires focus on environmental and social justice, financial resources, and incorporation of new technologies.",
-      "source": "The Conversation Africa",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:13:22Z",
-      "url": "https://theconversation.com/ai-and-other-future-technologies-will-be-necessary-but-not-sufficient-for-enacting-the-uns-pact-for-the-future-247511"
-    },
-    {
-      "id": 62,
-      "title": "Andy Byron's Astronomer Salary Revealed After Resignation",
-      "summary": "Andy Byron's Astronomer salary revealed after resignation from the private data infrastructure startup with a valuation of $1.3 billion.",
-      "source": "Men's Journal",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:13:00Z",
-      "url": "https://www.mensjournal.com/news/andy-byron-salary-net-worth-wife-megan-astronomer-money"
     }
   ]
 }
