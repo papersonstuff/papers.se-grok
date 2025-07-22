@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-22T11:14:02.919Z",
+  "lastUpdate": "2025-07-22T11:31:33.403Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Huntington CFO on the strategic $1.9 billion deal to expand Texas footprint",
+      "summary": "Huntington CFO discusses the strategic $1.9 billion deal to expand Texas footprint, highlighting the attractiveness of strategic M&A despite uncertainty.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:30:49Z",
+      "url": "https://fortune.com/2025/07/21/huntington-cfo-strategic-1-9-billion-deal-to-expand-texas-footprint/"
+    },
+    {
+      "id": 52,
+      "title": "Ether Machine to launch $1.5B institutional ETH yield fund",
+      "summary": "Ether Machine to launch $1.5B institutional ETH yield fund, aiming to become one of the largest onchain ETH positions of any public entity by generating ETH-denominated returns through staking and DeFi participation.",
+      "source": "Cointelegraph",
+      "category": "startups",
+      "timestamp": "2025-07-21T11:30:09Z",
+      "url": "https://cointelegraph.com/news/the-ether-machine-largest-institutional-eth-yield-fund"
+    },
+    {
+      "id": 53,
+      "title": "Leak: the Google Pixel Watch 4 will have a brighter display, may have a new chipset after all",
+      "summary": "Leak reveals that the Google Pixel Watch 4 will have a brighter display and may feature a new chipset, improving efficiency.",
+      "source": "GSMArena.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:30:03Z",
+      "url": "https://www.gsmarena.com/leak_the_google_pixel_watch_4_will_have_a_brighter_display_may_have_a_new_chipset_after_all-news-68702.php"
+    },
+    {
+      "id": 54,
+      "title": "A $15 Billion Reason to Buy Nvidia Stock Here",
+      "summary": "The pending resumption of sales to China has emerged as a new driver for Nvidia's stock, making it a $15 billion reason to buy.",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:30:02Z",
+      "url": "https://www.barchart.com/story/news/33527747/a-15-billion-reason-to-buy-nvidia-stock-here"
+    },
+    {
+      "id": 55,
+      "title": "Sorry, Steam Deck, but my ASUS ROG Ally is stealing your hype — now under $500 for this surprisingly brilliant Windows 11 rival",
+      "summary": "Play games from various digital platforms on the ASUS ROG Ally, now available for $499.99, stealing hype from the Steam Deck.",
+      "source": "Windows Central",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:30:00Z",
+      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/asus-rog-ally-under-500-surprisingly-brilliant-windows-11-rival"
+    },
+    {
+      "id": 56,
+      "title": "Biogen Announces $2 Billion Manufacturing Investment in North Carolina’s Research Triangle Park in Conjunction with its 30th Anniversary",
+      "summary": "Biogen announces $2 billion manufacturing investment in North Carolina's Research Triangle Park",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118627/0/en/Biogen-Announces-2-Billion-Manufacturing-Investment-in-North-Carolina-s-Research-Triangle-Park-in-Conjunction-with-its-30th-Anniversary.html"
+    },
+    {
+      "id": 57,
+      "title": "NextGen Digital Announces Treasury Strategy to Incorporate Crypto Assets, Acquires $1.0 Million in Bitcoin",
+      "summary": "NextGen Digital Platforms Inc. announces treasury strategy to incorporate crypto assets and acquires $1.0 million in Bitcoin.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118631/0/en/NextGen-Digital-Announces-Treasury-Strategy-to-Incorporate-Crypto-Assets-Acquires-1-0-Million-in-Bitcoin.html"
+    },
+    {
+      "id": 58,
+      "title": "Nasdaq Verafin Announces Launch of its Agentic AI Workforce, Delivering a Step Change in AML Compliance Efficiency",
+      "summary": "Nasdaq Verafin announces launch of Agentic AI Workforce to improve AML compliance efficiency for banks",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118638/6948/en/Nasdaq-Verafin-Announces-Launch-of-its-Agentic-AI-Workforce-Delivering-a-Step-Change-in-AML-Compliance-Efficiency.html"
+    },
+    {
+      "id": 59,
+      "title": "Call for Nominations: ADWEEK’s Inaugural Disruptor Awards",
+      "summary": "Call for nominations for ADWEEK’s Inaugural Disruptor Awards, honoring marketing and tech executives breaking from industry norms and pioneering new ways of working.",
+      "source": "Adweek",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:29:38Z",
+      "url": "https://www.adweek.com/brand-marketing/call-for-nominations-adweeks-inaugural-disruptor-awards/"
+    },
+    {
+      "id": 60,
+      "title": "Ambiq Announces Launch of Initial Public Offering",
+      "summary": "Ambiq Micro, Inc. announced the launch of its IPO, marking a significant step for the technology leader in ultra-low-power semiconductor solutions for edge AI.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T11:29:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118630/0/en/Ambiq-Announces-Launch-of-Initial-Public-Offering.html"
+    },
+    {
+      "id": 61,
+      "title": "Digi Power X Announces $15 Million Registered Direct Offering of Common Stock",
+      "summary": "Digi Power X has announced a $15 million registered direct offering of common stock, which is designated as a news release connected to the Company's prospectus supplement. This move will have financial implications on the economy.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:29:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118626/0/en/Digi-Power-X-Announces-15-Million-Registered-Direct-Offering-of-Common-Stock.html"
+    },
+    {
+      "id": 62,
+      "title": "UK could be forced to step back on data surveillance demands",
+      "summary": "UK government might have to step back on plans to snoop on people's data due to objections from the Trump administration.",
+      "source": "Computerworld",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:27:29Z",
+      "url": "https://www.computerworld.com/article/4025653/uk-could-be-forced-to-step-back-on-data-surveillance-demands.html"
+    },
+    {
+      "id": 63,
+      "title": "“Arrow Lake Refresh”の変更点は周波数向上のみ？―NPUの改良はなし？",
+      "summary": "Refreshed Intel Arrow Lake-S CPUs will reportedly use the same NPU as predecessor, with no NPU changes for ARL-S and HX Refresh models.",
+      "source": "Fc2.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:27:03Z",
+      "url": "https://northwood.blog.fc2.com/blog-entry-12797.html"
+    },
+    {
+      "id": 64,
+      "title": "From Long Flu to Long COVID: A Brief History of Postviral Illness | Think Global Health",
+      "summary": "This article discusses the history of postviral illness, focusing on the transition from Long Flu to Long COVID. It highlights the lack of mainstream policy addressing long-term maladies after flu and other viruses.",
+      "source": "Thinkglobalhealth.org",
+      "category": "research",
+      "timestamp": "2025-07-21T11:27:00Z",
+      "url": "https://www.thinkglobalhealth.org/article/long-flu-long-covid-brief-history-postviral-illness"
+    },
+    {
+      "id": 65,
+      "title": "Firefox 141 brings AI-enhanced tab groups, memory optimizations, and more",
+      "summary": "Firefox 141 has been released by Mozilla with AI-enhanced tab groups, memory optimizations, and other features, showing innovation in web browsing technology.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:26:01Z",
+      "url": "https://www.neowin.net/news/firefox-141-brings-ai-enhanced-tab-groups-memory-optimizations-and-more/"
+    },
+    {
+      "id": 66,
+      "title": "Term Sheet Next: Lerer Hippeau makes its first senior venture hire with Ron Zori",
+      "summary": "Lerer Hippeau makes its first senior venture hire with Ron Zori, who transitioned from Israeli professional soccer to Public executive before joining the New York venture firm.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-21T11:25:16Z",
+      "url": "https://fortune.com/2025/07/21/term-sheet-next-lerer-hippeau-ron-zori-delivery-hero-public/"
+    },
+    {
+      "id": 67,
+      "title": "Assessing the Role of AI in Zero Trust",
+      "summary": "By 2025, Zero Trust has evolved from a conceptual framework into an essential pillar of modern security, becoming a requirement for organizations. A robust, defensible architecture built on Zero Trust principles is necessary.",
+      "source": "Internet",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:25:00Z",
+      "url": "https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html"
+    },
+    {
+      "id": 68,
+      "title": "Tech CEO resigns after Coldplay concert cheating video goes viral",
+      "summary": "Tech CEO resigns after Coldplay concert cheating video goes viral - CEO resigns after being caught cheating at a Coldplay concert, sparking ethical concerns within the tech community.",
+      "source": "Celebitchy.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:24:48Z",
+      "url": "https://www.celebitchy.com/931983/tech_ceo_resigns_after_coldplay_concert_cheating_video_goes_viral/"
+    },
     {
       "id": 51,
       "title": "Meta snubs the EU’s voluntary AI guidelines",
@@ -288,168 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T09:45:40Z",
       "url": "https://petapixel.com/2025/07/21/trump-shares-ai-video-of-obama-getting-arrested/"
-    },
-    {
-      "id": 52,
-      "title": "Clinical Decision Support Systems Market Opportunities and Strategies Report 2025-2034 | Market to See Highest Gains from Cloud-Based, Knowledge-Based, and Hospital Segments",
-      "summary": "The global clinical decision support systems market is set for robust growth, expanding from $3.14 billion in 2024 to $10.74 billion by 2034, fueled by a demand for AI-driven solutions and increasing adoption of EHRs.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118530/28124/en/Clinical-Decision-Support-Systems-Market-Opportunities-and-Strategies-Report-2025-2034-Market-to-See-Highest-Gains-from-Cloud-Based-Knowledge-Based-and-Hospital-Segments.html"
-    },
-    {
-      "id": 53,
-      "title": "Anthropic plans to sign EU's AI code of practice",
-      "summary": "Anthropic plans to sign EU's AI code of practice, a framework to help companies comply with the AI Act legal obligations.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T09:43:12Z",
-      "url": "https://biztoc.com/x/172ccdd5161051ea"
-    },
-    {
-      "id": 54,
-      "title": "US Government Worker Prevented From Leaving China: What We Know",
-      "summary": "A U.S. citizen was prevented from leaving China for not disclosing his U.S. government job on his visa application, raising ethical concerns about privacy and transparency.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T09:43:01Z",
-      "url": "https://biztoc.com/x/0414c8c53c73d746"
-    },
-    {
-      "id": 55,
-      "title": "Altman plans D.C. push to \"democratize\" AI economic benefits",
-      "summary": "Altman plans to push for democratizing AI economic benefits during his visit to Washington, highlighting AI's role in increasing American productivity and promising to keep AI accessible to as many people as possible.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:42:51Z",
-      "url": "https://biztoc.com/x/c9f17c70b5fa73eb"
-    },
-    {
-      "id": 56,
-      "title": "truffle-ai-music-creator-mcp added to PyPI",
-      "summary": "truffle-ai-music-creator-mcp added to PyPI - MCP server for music creation, editing, and audio processing using librosa, pydub, and music21",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:42:26Z",
-      "url": "https://pypi.org/project/truffle-ai-music-creator-mcp/"
-    },
-    {
-      "id": 57,
-      "title": "Using Google Veo 3 to Make Memes Go Viral : AI Video Generation Made Easy",
-      "summary": "Using Google Veo 3 to Make Memes Go Viral: AI Video Generation Made Easy. Creating stunning, professional-grade videos is now accessible with AI-powered tools like Veo 3, allowing users to simply type prompts or upload a single image.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:41:19Z",
-      "url": "https://www.geeky-gadgets.com/veo-3-ai-video-creation-guide-2025/"
-    },
-    {
-      "id": 58,
-      "title": "AI makes game-by-game predictions for the Philadelphia Eagles' 2025 season",
-      "summary": "AI is being used to make game-by-game predictions for the Philadelphia Eagles' 2025 season, showcasing the practical applications of AI technology in the sports industry.",
-      "source": "USA Today",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:40:31Z",
-      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/07/21/grok-ai-game-by-game-predictions-predictions-2025-eagles-schedule/85300717007/"
-    },
-    {
-      "id": 59,
-      "title": "Proactive Preparedness: What Financial Institutions Can Learn from Emergency Response Models (Priyanka Rao)",
-      "summary": "In the ever-evolving world of finance and technology, being prepared for the unexpected isn’t just important, it’s imperative. Financial institutions can learn from emergency response models to improve proactive preparedness.",
-      "source": "Finextra",
-      "category": "innovation",
-      "timestamp": "2025-07-21T09:40:05Z",
-      "url": "https://www.finextra.com/blogposting/28934/proactive-preparedness-what-financial-institutions-can-learn-from-emergency-response-models"
-    },
-    {
-      "id": 60,
-      "title": "Power Module Packaging Market Research and Forecasts Report 2024-2032 | Integration of AI in Packaging Design to Create Lucrative Opportunities",
-      "summary": "The global power module packaging market is expected to grow from USD 2.35 billion in 2023 to USD 4.93 billion by 2032, fueled by the rise of electric vehicles and high-efficiency power electronics.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118528/28124/en/Power-Module-Packaging-Market-Research-and-Forecasts-Report-2024-2032-Integration-of-AI-in-Packaging-Design-to-Create-Lucrative-Opportunities.html"
-    },
-    {
-      "id": 61,
-      "title": "Donald Trump Shares Utterly Unhinged AI Video Of Barack Obama Arrest In Oval Office",
-      "summary": "Donald Trump shared a disturbing AI video of Barack Obama being arrested in the Oval Office, raising ethical concerns about the use of AI technology to create and disseminate fake content.",
-      "source": "HuffPost",
-      "category": "ethics",
-      "timestamp": "2025-07-21T09:38:03Z",
-      "url": "https://www.huffpost.com/entry/donald-trump-barack-obama-ai-video_n_687dff31e4b0502d85e56715"
-    },
-    {
-      "id": 62,
-      "title": "IGBT Market Global Research and Forecasts 2024-2032 | Integration with AI and IoT Systems to Create Lucrative Opportunities",
-      "summary": "The global IGBT market is expected to reach USD 18.79 billion by 2032, with key drivers being the rising demand for electric vehicles and industrial automation.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:38:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118525/28124/en/IGBT-Market-Global-Research-and-Forecasts-2024-2032-Integration-with-AI-and-IoT-Systems-to-Create-Lucrative-Opportunities.html"
-    },
-    {
-      "id": 63,
-      "title": "AMD Ryzen Threadripper PRO 9995WX CPU Overclocked To 5 GHz Across All 96 “Zen 5” Cores, Scores Over 186K Points In Cinebench, And Consumes Up To 950W Power",
-      "summary": "AMD Ryzen Threadripper PRO 9995WX CPU has been overclocked to 5 GHz across all 96 cores, scoring over 186K points in Cinebench and consuming up to 950W power, showcasing cutting-edge technological advancements in processor performance.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-21T09:37:31Z",
-      "url": "https://wccftech.com/amd-ryzen-threadripper-pro-9995wx-cpu-overclocked-5-ghz-96-zen-5-cores-scores-186k-cinebench-950w-power/"
-    },
-    {
-      "id": 64,
-      "title": "Skill development top motivator for Indian workers pursuing mobility experience, finds EY survey",
-      "summary": "Skill development is the top motivator for Indian workers pursuing mobility experience according to an EY survey. Employee mobility is seen as crucial for closing skill gaps and building future-ready teams in India.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:36:27Z",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/skill-development-top-motivator-for-indian-workers-pursuing-mobility-experience-finds-ey-survey/articleshow/122812295.cms"
-    },
-    {
-      "id": 65,
-      "title": "Superbugs could kill millions and trigger $2 trillion economic meltdown by 2050",
-      "summary": "Superbugs could kill millions and trigger $2 trillion economic meltdown by 2050 due to antimicrobial resistance.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:36:26Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/superbugs-could-kill-millions-and-trigger-2-trillion-economic-meltdown-by-2050/articleshow/122812326.cms"
-    },
-    {
-      "id": 66,
-      "title": "Nvidia is powering the UK's fastest superocmputer yet - here's what it can do",
-      "summary": "Nvidia is powering the UK's fastest supercomputer with nearly 5,500 GH200 chips.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-21T09:35:39Z",
-      "url": "https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do"
-    },
-    {
-      "id": 67,
-      "title": "How the CEO of Ralph Lauren got the company through the ‘boiled frog phenomenon’ of going too wide, too cheap",
-      "summary": "The CEO of Ralph Lauren steered the company away from the 'boiled frog phenomenon' by focusing on higher quality products and not going too wide or cheap. Fortune provides all the latest news and watercooler chat.",
-      "source": "Fortune",
-      "category": "startups",
-      "timestamp": "2025-07-21T09:34:48Z",
-      "url": "https://fortune.com/2025/07/21/ceo-ralph-lauren-boiled-frog/"
-    },
-    {
-      "id": 68,
-      "title": "How To Watch South Park Season 27 Online And Stream New Episodes From Anywhere In The World",
-      "summary": "A guide on how to watch South Park Season 27 online from anywhere in the world is provided for fans of the Emmy-winning animation.",
-      "source": "CinemaBlend",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:33:10Z",
-      "url": "https://www.cinemablend.com/streaming-news/watch-south-park-season-27-online"
-    },
-    {
-      "id": 69,
-      "title": "Emerging Semiconductor Substrates Market Research and Forecast Report 2022-2032 | Advancements in AI and HPC Platforms are Expected to Create Lucrative Opportunities",
-      "summary": "Explore the booming global emerging semiconductor substrates market, predicted to soar from USD 65.87M in 2023 to USD 966.58M by 2032 at a 36.33% CAGR, driven by advancements in AI and HPC platforms. Key growth drivers include 5G demand and power electronics.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:31:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118520/28124/en/Emerging-Semiconductor-Substrates-Market-Research-and-Forecast-Report-2022-2032-Advancements-in-AI-and-HPC-Platforms-are-Expected-to-Create-Lucrative-Opportunities.html"
     }
   ]
 }
