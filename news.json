@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-22T21:40:55.154Z",
+  "lastUpdate": "2025-07-22T21:50:58.179Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Ripplecoin Mining launches XRP cloud mining contracts to help investors lock in daily crypto yields",
+      "summary": "Ripplecoin Mining launches XRP cloud mining contracts to help investors lock in daily crypto yields",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T21:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119103/0/en/Ripplecoin-Mining-launches-XRP-cloud-mining-contracts-to-help-investors-lock-in-daily-crypto-yields.html"
+    },
+    {
+      "id": 52,
+      "title": "Japanese students' English skills improving, but targets unmet",
+      "summary": "Japanese students' English skills are improving but further progress is needed to meet government targets, according to a recent education ministry survey.",
+      "source": "Japan Today",
+      "category": "research",
+      "timestamp": "2025-07-21T21:49:54Z",
+      "url": "https://japantoday.com/category/national/japanese-students%27-english-skills-improving-but-targets-unmet"
+    },
+    {
+      "id": 53,
+      "title": "Why Does Elon Musk Have Such a Straight View of Antiquity?",
+      "summary": "Musk and others ignore the contributions of queer soldiers in ancient military successes when praising Greek warriors.",
+      "source": "Hyperallergic",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:48:08Z",
+      "url": "http://hyperallergic.com/1029023/why-does-elon-musk-have-such-a-straight-view-of-antiquity/"
+    },
+    {
+      "id": 54,
+      "title": "SoundHound AI, Inc. (SOUN) Stock Drops Despite Market Gains: Important Facts to Note",
+      "summary": "SoundHound AI, Inc. (SOUN) stock dropped by 8.67% despite market gains, closing at $11.7 in the latest trading session.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T21:45:04Z",
+      "url": "https://finance.yahoo.com/news/soundhound-ai-inc-soun-stock-214504040.html"
+    },
+    {
+      "id": 55,
+      "title": "Current Lancaster city data center plans won't require planning commission vote",
+      "summary": "Current Lancaster city data center plans won't require planning commission vote, limiting public input on the proposed development.",
+      "source": "LancasterOnline",
+      "category": "economy",
+      "timestamp": "2025-07-21T21:45:00Z",
+      "url": "https://lancasteronline.com/news/local/current-lancaster-city-data-center-plans-wont-require-planning-commission-vote/article_a9c21bd3-1918-47fa-93ec-63ddace0e41c.html"
+    },
+    {
+      "id": 56,
+      "title": "arcade-ai 2.1.1",
+      "summary": "The arcade-ai 2.1.1 is an AI tool calling platform for agents provided by Arcade.dev.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:44:57Z",
+      "url": "https://pypi.org/project/arcade-ai/2.1.1/"
+    },
+    {
+      "id": 57,
+      "title": "[Sponsor] SafeBase by Drata",
+      "summary": "SafeBase by Drata allows security, GRC, and sales teams to share and automate access to security, compliance, and privacy information with its Trust Center Platform.",
+      "source": "Safebase.io",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:44:46Z",
+      "url": "https://safebase.io/lp/why-safebase"
+    },
+    {
+      "id": 58,
+      "title": "X tells the French police 'non' to its request for algorithmic data",
+      "summary": "X, formerly known as Twitter, refuses to provide algorithmic data to French police, alleging it is a witch hunt by local lawmakers.",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:41:36Z",
+      "url": "https://www.theregister.com/2025/07/21/x_french_police/"
+    },
     {
       "id": 51,
       "title": "Spotify Allowing AI-Generated Songs on Dead Artists’ Pages: Report",
@@ -378,78 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-21T20:49:40Z",
       "url": "https://www.jpost.com/israel-news/article-861785"
-    },
-    {
-      "id": 55,
-      "title": "One tap, one phrase, and suddenly you're not a tourist",
-      "summary": "AI-powered earbuds can help tourists navigate foreign countries by providing real-time translation and directions through one tap on the device.",
-      "source": "Android Police",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:49:10Z",
-      "url": "https://www.androidpolice.com/translate-with-pixel-buds/"
-    },
-    {
-      "id": 56,
-      "title": "3542 - Accountability for Gaza, Putin's End Game w/ Matt Duss and Candace Rondeaux",
-      "summary": "Tulsi Gabbard spreads a conspiracy theory about Obama, while Trump shares an AI-generated video of Obama being 'arrested' by FBI agents.",
-      "source": "Libsyn.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:49:00Z",
-      "url": "https://majorityfm.libsyn.com/3542-accountability-for-gaza-putins-end-game-w-matt-duss-and-candace-rondeaux"
-    },
-    {
-      "id": 57,
-      "title": "Senators Introduce Bill To Restrict AI Companies’ Unauthorized Use Of Copyrighted Works For Training Models",
-      "summary": "Senators introduce bill to restrict AI companies' unauthorized use of copyrighted works for training models",
-      "source": "Deadline",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:48:19Z",
-      "url": "http://deadline.com/2025/07/senate-bill-ai-copyright-1236463986/"
-    },
-    {
-      "id": 58,
-      "title": "Metallica Scholars Initiative Commits $3 Million to Workforce Education",
-      "summary": "Metallica Scholars Initiative donates $3 million to support workforce education, adding 15 new schools for a total of 75 participating institutions.",
-      "source": "Consequence.net",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:48:08Z",
-      "url": "https://consequence.net/2025/07/metallica-3-million-workforce-education/"
-    },
-    {
-      "id": 59,
-      "title": "Deportation fears impacting Texas border residents’ health",
-      "summary": "Deportation fears causing undocumented residents in Texas border region to neglect their health, impacting chronic health problems",
-      "source": "The Texas Tribune",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:47:53Z",
-      "url": "https://www.texastribune.org/2025/07/21/texas-deportation-fear-immigrants-rio-grande-valley-health-care/"
-    },
-    {
-      "id": 60,
-      "title": "The Truth About The “One Big Beautiful Bill”",
-      "summary": "The news discusses a shift in Al Gore's perspective on solving the climate crisis and the role of individuals in taking action. It raises ethical questions about the use of unlimited free energy and its implications on the environment.",
-      "source": "CleanTechnica",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:45:39Z",
-      "url": "https://cleantechnica.com/2025/07/21/the-truth-about-the-one-big-beautiful-bill/"
-    },
-    {
-      "id": 61,
-      "title": "Source: Netflix is using Runway AI's video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them (Rachel Metz/Bloomberg)",
-      "summary": "Netflix is using Runway AI's video generation tools for production; Disney is testing out the tools and discussing potential uses with Runway.",
-      "source": "Mediagazer.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:45:01Z",
-      "url": "https://mediagazer.com/250721/p12"
-    },
-    {
-      "id": 62,
-      "title": "New Regulations, Technology and More – Epi-3707",
-      "summary": "Today's episode covers a variety of topics including Stable Coins, Bitcoin, CBDCs, education, investing, gun regulations, trade deals, AI, and trading with your future self.",
-      "source": "Thesurvivalpodcast.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T20:44:40Z",
-      "url": "https://www.thesurvivalpodcast.com/feedback-72125"
     }
   ]
 }
