@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T18:23:17.855Z",
+  "lastUpdate": "2025-07-22T18:53:31.812Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How AI IS Unlocking The CFO’s True Purpose",
+      "summary": "After a century stuck inside a paradox, AI is transforming the CFO role from compliance enforcer to strategic partner, unlocking judgment, foresight, and leadership across the organization.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:53:00Z",
+      "url": "https://www.forbes.com/sites/alexanderpuutio/2025/07/21/how-ai-is-unlocking-the-cfos-true-purpose/"
+    },
+    {
+      "id": 52,
+      "title": "PayPal introduces AI-powered scam alerts",
+      "summary": "PayPal introduces AI-powered scam alerts to enhance protection for customers making Friends and Family payments on PayPal and Venmo.",
+      "source": "Finextra",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:51:33Z",
+      "url": "https://www.finextra.com/pressarticle/106417/paypal-introduces-ai-powered-scam-alerts"
+    },
+    {
+      "id": 53,
+      "title": "The Ultimate Guide to Mastering Google Gemini & AI Tools on Android",
+      "summary": "Artificial intelligence is becoming more prevalent, including on Android phones with Google's Gemini AI tools. A guide has been released to help users master these tools.",
+      "source": "Gizchina.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:51:11Z",
+      "url": "https://www.gizchina.com/2025/07/21/the-ultimate-guide-to-mastering-google-gemini-ai-tools-on-android/"
+    },
+    {
+      "id": 54,
+      "title": "AI-generated legal filings are making a mess of the judicial system",
+      "summary": "AI-generated legal filings are causing issues in the judicial system, with hallucinations potentially influencing judicial rulings.",
+      "source": "TechSpot",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:50:00Z",
+      "url": "https://www.techspot.com/news/108750-ai-generated-legal-filings-making-mess-judicial-system.html"
+    },
+    {
+      "id": 55,
+      "title": "Verizon Surges as Trump Tax Breaks, Fiber Gains, and EPS Beat Shock Wall Street",
+      "summary": "Verizon surges on a $2B cash windfall and broadband momentum, beating Wall Street's expectations.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T18:49:54Z",
+      "url": "https://finance.yahoo.com/news/verizon-surges-trump-tax-breaks-184954806.html"
+    },
+    {
+      "id": 56,
+      "title": "China’s Security Ministry Warns Foreign Chips, Software May Steal Data Using Secret Backdoors",
+      "summary": "China's Security Ministry warns that foreign chips and software may have secret backdoors to steal data.",
+      "source": "Sputnikglobe.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:49:47Z",
+      "url": "https://sputnikglobe.com/20250721/chinas-security-ministry-warns-foreign-chips-software-may-steal-data-using-secret-backdoors-1122469515.html"
+    },
+    {
+      "id": 57,
+      "title": "ICE Detention Centers Are Worse Than Bad",
+      "summary": "Detainees in ICE detention centers in Florida report being treated like animals according to a new report from Human Rights Watch.",
+      "source": "Jezebel",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:48:49Z",
+      "url": "https://www.jezebel.com/ice-detention-centers-are-worse-than-bad"
+    },
+    {
+      "id": 58,
+      "title": "WEX Taps AI For Faster FSA Reimbursements",
+      "summary": "WEX has introduced an AI-powered tool to expedite FSA reimbursements for users, reducing manual work and streamlining the process.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:48:30Z",
+      "url": "https://biztoc.com/x/42e932f889c4b029"
+    },
+    {
+      "id": 59,
+      "title": "AWS, Meta Unveil Startup Program as Zuckerberg Pushes AI",
+      "summary": "AWS and Meta partner to launch a new startup accelerator program to support early-stage companies in the adoption of open-source AI technology.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:48:28Z",
+      "url": "https://biztoc.com/x/be3efd6501d60d2d"
+    },
+    {
+      "id": 60,
+      "title": "ze-prompter added to PyPI",
+      "summary": "The ze-prompter library has been added to PyPI, making it easier to manage prompt templates with versioning and AI models. This innovation will benefit developers working with AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:45:51Z",
+      "url": "https://pypi.org/project/ze-prompter/"
+    },
+    {
+      "id": 61,
+      "title": "ze-prompter 0.0.1a0",
+      "summary": "Ze-prompter 0.0.1a0 is a library designed for managing prompt templates using versioning and AI models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:45:51Z",
+      "url": "https://pypi.org/project/ze-prompter/0.0.1a0/"
+    },
+    {
+      "id": 62,
+      "title": "Lithuania-based PR agency Wellstone PR launches Synapse, an AI tool that automatically drafts expert comment email responses to journalist queries (Rob Waugh/Press Gazette)",
+      "summary": "Lithuania-based PR agency Wellstone PR launches Synapse, an AI tool that automatically drafts expert comment email responses to journalist queries",
+      "source": "Mediagazer.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:45:00Z",
+      "url": "https://mediagazer.com/250721/p8"
+    },
+    {
+      "id": 63,
+      "title": "Will ask Centre to restart Goa-London AI flight: Sawant",
+      "summary": "Chief minister Pramod Sawant plans to ask the Centre to restart the Goa-London AI flight, which had been shifted to Manohar International Airport in Mopa. This move aims to boost the economy by increasing flight connectivity to and from Goa.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T18:44:20Z",
+      "url": "https://timesofindia.indiatimes.com/city/goa/will-ask-centre-to-restart-goa-london-ai-flight-sawant/articleshow/122821376.cms"
+    },
+    {
+      "id": 64,
+      "title": "The first traces of GPT-5 have appeared",
+      "summary": "The first traces of GPT-5, the successor to GPT-4, have been discovered in code from OpenAI.",
+      "source": "Computerworld",
+      "category": "research",
+      "timestamp": "2025-07-21T18:41:04Z",
+      "url": "https://www.computerworld.com/article/4025927/first-traces-of-gpt-5-have-appeared.html"
+    },
+    {
+      "id": 65,
+      "title": "Supposed Galaxy Buds 3 FE render shows up looking like the Pro",
+      "summary": "Supposed Galaxy Buds 3 FE render resembling the Pro model leaks on social media.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:38:19Z",
+      "url": "https://www.androidcentral.com/accessories/earbuds/alleged-galaxy-buds-3-fe-pro-like-mirror-render-leaked"
+    },
+    {
+      "id": 66,
+      "title": "The AI culture that is Faroe",
+      "summary": "The Faroe Islands tourist board is introducing an AI culture named Faroe for travellers seeking spontaneous and serendipitous experiences by letting go of control and decision-making during their trips.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:37:47Z",
+      "url": "https://biztoc.com/x/e54b5d0c5dc02ec7"
+    },
+    {
+      "id": 67,
+      "title": "Two AI jets in trouble; IndiGo aircraft makes emergency landing",
+      "summary": "Two AI jets experience trouble on Monday, with an Air India flight veering off the runway in Mumbai and an IndiGo aircraft making an emergency landing en route from Goa. All passengers and crew are safe.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:33:02Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/two-ai-jets-in-trouble-indigo-aircraft-makes-emergency-landing/articleshow/122821193.cms"
+    },
+    {
+      "id": 68,
+      "title": "Smarter phones, steeper prices: AI could push flagship costs up 15% in India",
+      "summary": "Smarter phones, steeper prices: AI could push flagship costs up 15% in India due to rising chipset and memory costs, potentially impacting consumers.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T18:32:44Z",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/smarter-phones-steeper-prices-ai-could-push-flagship-costs-up-15-in-india/articleshow/122821191.cms"
+    },
+    {
+      "id": 69,
+      "title": "Trump posts AI video of Obama being arrested in Oval Office in front of Trump",
+      "summary": "President Trump reposted a fake video showing former President Barack Obama being arrested in the Oval Office, sparking concerns about authoritarianism and misinformation.",
+      "source": "Lawyersgunsmoneyblog.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:31:23Z",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/07/trump-posts-ai-video-of-obama-being-arrested-in-oval-office-in-front-of-trump"
+    },
     {
       "id": 51,
       "title": "Detecting High-Stakes Interactions with Activation Probes",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T17:42:19Z",
       "url": "https://biztoc.com/x/9bf90cbe9821dd8d"
-    },
-    {
-      "id": 53,
-      "title": "Woman Rescues a 'Scary' German Shepherd—Then Notices a Shift in Strangers",
-      "summary": "After owning a dog, one woman had only ever experienced people nonstop asking to pet him, but when she rescued a German shepherd, she realized the 'scary' canine persona truly changes people's opinions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:42:04Z",
-      "url": "https://biztoc.com/x/8a1b0774771f9d03"
-    },
-    {
-      "id": 54,
-      "title": "Chip Gear Stocks Get Boost From AI Prospects",
-      "summary": "Semiconductor equipment firms are expected to benefit from the AI megatrend next year as chipmakers upgrade their gear, boosting chip gear stocks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T17:42:02Z",
-      "url": "https://biztoc.com/x/d2d7fedcc4083fdd"
-    },
-    {
-      "id": 55,
-      "title": "On theCUBE Pod: AWS’ agentic push, builder-first bet and the cloud wars to come",
-      "summary": "Agentic infrastructure is playing a key role in advancing artificial intelligence capabilities by enabling intelligence and orchestrating its functions at scale.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:41:38Z",
-      "url": "https://siliconangle.com/2025/07/21/aws-agentic-infrastructure-push-builder-first-bet-cloud-wars-thecubepod/"
-    },
-    {
-      "id": 56,
-      "title": "Child-friendly version of Grok: xAI announces baby Grok chatbot for young users",
-      "summary": "Child-friendly version of Grok: xAI announces baby Grok chatbot for young users, providing safe and child-friendly access to AI technology.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:38:00Z",
-      "url": "https://www.notebookcheck.net/Child-friendly-version-of-Grok-xAI-announces-baby-Grok-chatbot-for-young-users.1063515.0.html"
-    },
-    {
-      "id": 57,
-      "title": "its-compiler-cli 1.0.4",
-      "summary": "its-compiler-cli 1.0.4 is a command-line interface that converts ITS templates to AI prompts.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:36:43Z",
-      "url": "https://pypi.org/project/its-compiler-cli/1.0.4/"
-    },
-    {
-      "id": 58,
-      "title": "OpenAI says ChatGPT users send over 2.5 billion prompts every day",
-      "summary": "OpenAI's ChatGPT receives over 2.5 billion prompts daily, with 330 million from US users, indicating high usage and potential impact in various applications.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:36:37Z",
-      "url": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion"
-    },
-    {
-      "id": 59,
-      "title": "pygpt-net 2.5.57",
-      "summary": "pygpt-net 2.5.57 is a Desktop AI Assistant powered by various OpenAI models for chatbot, agents, completion, image generation, vision analysis, and other AI tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:36:15Z",
-      "url": "https://pypi.org/project/pygpt-net/2.5.57/"
-    },
-    {
-      "id": 60,
-      "title": "ai-agent-system 1.2.2",
-      "summary": "ai-agent-system 1.2.2 is a comprehensive AI agent framework with memory, tool integration, visible reasoning, and enhanced output formatting with colors, animations, and syntax highlighting.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:36:02Z",
-      "url": "https://pypi.org/project/ai-agent-system/1.2.2/"
-    },
-    {
-      "id": 61,
-      "title": "commitmessagegenerator 1.6.0",
-      "summary": "commitmessagegenerator 1.6.0 now allows users to generate commit messages automatically using AI (Google Gemini) by analyzing `git diff`.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:35:02Z",
-      "url": "https://pypi.org/project/commitmessagegenerator/1.6.0/"
-    },
-    {
-      "id": 62,
-      "title": "WNBA players stage protest, get ridiculed for outrageous demands",
-      "summary": "WNBA players protest for fair pay and get ridiculed for their demands during ongoing labor disputes with the league.",
-      "source": "TheBlaze",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:35:00Z",
-      "url": "https://www.theblaze.com/fearless/wnba-players-stage-protest-salary"
-    },
-    {
-      "id": 63,
-      "title": "OpenAI wins gold at prestigious math competition - why that matters more than you think",
-      "summary": "OpenAI's experimental reasoning model wins gold at a math competition despite not being fine-tuned for math problems, showing its potential as a general problem-solver.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:34:43Z",
-      "url": "https://www.zdnet.com/article/openai-wins-gold-at-prestigious-math-competition-why-that-matters-more-than-you-think/"
-    },
-    {
-      "id": 64,
-      "title": "opendistillery 2.1.0",
-      "summary": "opendistillery 2.1.0 introduces advanced compound AI systems for enterprise workflow transformation.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:34:25Z",
-      "url": "https://pypi.org/project/opendistillery/2.1.0/"
-    },
-    {
-      "id": 65,
-      "title": "Build an AI-powered automated summarization system with Amazon Bedrock and Amazon Transcribe using Terraform",
-      "summary": "Build an AI-powered automated summarization system with Amazon Bedrock and Amazon Transcribe using Terraform to transform audio recordings into concise summaries.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:34:21Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-automated-summarization-system-with-amazon-bedrock-and-amazon-transcribe-using-terraform/"
-    },
-    {
-      "id": 66,
-      "title": "Astronomer's New CEO Releases Statement Amid Coldplay Cheating Scandal",
-      "summary": "Astronomer's new interim CEO releases a statement addressing the Coldplay cheating scandal, reassuring the company will bounce back from this storm just like they have from others in the past.",
-      "source": "TMZ",
-      "category": "startups",
-      "timestamp": "2025-07-21T17:32:49Z",
-      "url": "https://www.tmz.com/2025/07/21/new-ceo-astronomer-statement-on-coldplay-affair/"
-    },
-    {
-      "id": 67,
-      "title": "New Astronomer CEO Gives 1st Statement After Stepping In Amid Coldplay Scandal",
-      "summary": "New Astronomer CEO Pete DeJoy gives first statement after taking over amid Coldplay scandal.",
-      "source": "TODAY",
-      "category": "startups",
-      "timestamp": "2025-07-21T17:32:25Z",
-      "url": "https://www.today.com/popculture/astronomer-new-ceo-pete-dejoy-first-statement-coldplay-scandal-rcna220044"
-    },
-    {
-      "id": 68,
-      "title": "Travel Warning Issued for Millions on West Coast",
-      "summary": "Travel warning issued for more than 3.3 million people on the West Coast due to potential road closures and travel complications caused by coastal flooding. The voice warning is AI-generated, which may lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:30:54Z",
-      "url": "https://biztoc.com/x/eaa2b4e50e967281"
-    },
-    {
-      "id": 69,
-      "title": "UK signs deal with OpenAI to boost AI investments",
-      "summary": "UK signs deal with OpenAI to boost AI investments, focusing on increasing research collaborations in artificial intelligence security.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-21T17:30:45Z",
-      "url": "https://biztoc.com/x/808a76f6b82ddd74"
-    },
-    {
-      "id": 70,
-      "title": "One in Four Gen Z Workers Regret Going to College",
-      "summary": "One in Four Gen Z Workers Regret Going to College - Voice is AI-generated. Inconsistencies may occur. As artificial intelligence transforms the workplace and student debt balloons, a significant portion of Generation Z now expresses regret over their college education.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T17:30:43Z",
-      "url": "https://biztoc.com/x/06df90f2a14a29ac"
-    },
-    {
-      "id": 51,
-      "title": "AI is slowly transforming the cold chain, the supply chain that handles your ice cream and deli meat",
-      "summary": "AI is transforming the cold chain supply chain with algorithms, agents, and digital twins to help manage operations and inventory.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:16:56Z",
-      "url": "https://www.businessinsider.com/ai-for-cold-chain-operations-safety-algorithms-agents-digital-twins-2025-7"
     }
   ]
 }
