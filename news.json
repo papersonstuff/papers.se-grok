@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-22T20:44:17.701Z",
+  "lastUpdate": "2025-07-22T20:55:33.524Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why One Wall Street Analyst Is Growing More Bullish on This Nvidia Partner's Stock",
+      "summary": "Arm shares rose as Wells Fargo analysts raised their price target for the chip designer's stock ahead of quarterly earnings.",
+      "source": "Investopedia",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:52:33Z",
+      "url": "https://www.investopedia.com/why-one-wall-street-analyst-is-growing-more-bullish-on-this-nvidia-partner-stock-11776216"
+    },
+    {
+      "id": 52,
+      "title": "AMD ROCm 6.4.2 Released With Official Support For The Radeon RX 7700 XT",
+      "summary": "AMD has released ROCm 6.4.2 with official support for the Radeon RX 7700 XT, expanding the supported Radeon consumer GPUs while awaiting the next major release of ROCm 7.0.",
+      "source": "Phoronix",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:50:16Z",
+      "url": "https://www.phoronix.com/news/AMD-ROCm-6.4.2"
+    },
+    {
+      "id": 53,
+      "title": "‘Other People’s Money’: How New OPM Chief Is Maximizing Efficiency at Executive HR Agency",
+      "summary": "The new director of the executive branch’s human resources department is focusing on maximizing efficiency to make the agency the most efficient in the government.",
+      "source": "Daily Signal",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:50:00Z",
+      "url": "https://www.dailysignal.com/2025/07/21/other-peoples-money-opms-new-director-maximizing-efficiency-executive-hr-agency/"
+    },
+    {
+      "id": 54,
+      "title": "Latin American ambassadors go behind-the-scenes in MDA's lifesaving efforts",
+      "summary": "Latin American ambassadors visit MDA to learn about its emergency response efforts and donate blood.",
+      "source": "The Jerusalem Post",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:49:40Z",
+      "url": "https://www.jpost.com/israel-news/article-861785"
+    },
+    {
+      "id": 55,
+      "title": "One tap, one phrase, and suddenly you're not a tourist",
+      "summary": "AI-powered earbuds can help tourists navigate foreign countries by providing real-time translation and directions through one tap on the device.",
+      "source": "Android Police",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:49:10Z",
+      "url": "https://www.androidpolice.com/translate-with-pixel-buds/"
+    },
+    {
+      "id": 56,
+      "title": "3542 - Accountability for Gaza, Putin's End Game w/ Matt Duss and Candace Rondeaux",
+      "summary": "Tulsi Gabbard spreads a conspiracy theory about Obama, while Trump shares an AI-generated video of Obama being 'arrested' by FBI agents.",
+      "source": "Libsyn.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:49:00Z",
+      "url": "https://majorityfm.libsyn.com/3542-accountability-for-gaza-putins-end-game-w-matt-duss-and-candace-rondeaux"
+    },
+    {
+      "id": 57,
+      "title": "Senators Introduce Bill To Restrict AI Companies’ Unauthorized Use Of Copyrighted Works For Training Models",
+      "summary": "Senators introduce bill to restrict AI companies' unauthorized use of copyrighted works for training models",
+      "source": "Deadline",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:48:19Z",
+      "url": "http://deadline.com/2025/07/senate-bill-ai-copyright-1236463986/"
+    },
+    {
+      "id": 58,
+      "title": "Metallica Scholars Initiative Commits $3 Million to Workforce Education",
+      "summary": "Metallica Scholars Initiative donates $3 million to support workforce education, adding 15 new schools for a total of 75 participating institutions.",
+      "source": "Consequence.net",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:48:08Z",
+      "url": "https://consequence.net/2025/07/metallica-3-million-workforce-education/"
+    },
+    {
+      "id": 59,
+      "title": "Deportation fears impacting Texas border residents’ health",
+      "summary": "Deportation fears causing undocumented residents in Texas border region to neglect their health, impacting chronic health problems",
+      "source": "The Texas Tribune",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:47:53Z",
+      "url": "https://www.texastribune.org/2025/07/21/texas-deportation-fear-immigrants-rio-grande-valley-health-care/"
+    },
+    {
+      "id": 60,
+      "title": "The Truth About The “One Big Beautiful Bill”",
+      "summary": "The news discusses a shift in Al Gore's perspective on solving the climate crisis and the role of individuals in taking action. It raises ethical questions about the use of unlimited free energy and its implications on the environment.",
+      "source": "CleanTechnica",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:45:39Z",
+      "url": "https://cleantechnica.com/2025/07/21/the-truth-about-the-one-big-beautiful-bill/"
+    },
+    {
+      "id": 61,
+      "title": "Source: Netflix is using Runway AI's video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them (Rachel Metz/Bloomberg)",
+      "summary": "Netflix is using Runway AI's video generation tools for production; Disney is testing out the tools and discussing potential uses with Runway.",
+      "source": "Mediagazer.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:45:01Z",
+      "url": "https://mediagazer.com/250721/p12"
+    },
+    {
+      "id": 62,
+      "title": "New Regulations, Technology and More – Epi-3707",
+      "summary": "Today's episode covers a variety of topics including Stable Coins, Bitcoin, CBDCs, education, investing, gun regulations, trade deals, AI, and trading with your future self.",
+      "source": "Thesurvivalpodcast.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:44:40Z",
+      "url": "https://www.thesurvivalpodcast.com/feedback-72125"
+    },
     {
       "id": 51,
       "title": "AI-Animated Vehicles - The Faraday FX Super One Replaces the Traditional Grille with an AI Agent (TrendHunter.com)",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T20:05:00Z",
       "url": "https://www.tenable.com/press-releases/tenable-named-a-leader-in-unified-vulnerability-management-solutions-by-independent"
-    },
-    {
-      "id": 51,
-      "title": "fast-select added to PyPI",
-      "summary": "fast-select, a Sci-Kit Learn compatible Numba and CUDA-accelerated implementation of feature selection algorithms, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:47:31Z",
-      "url": "https://pypi.org/project/fast-select/"
-    },
-    {
-      "id": 52,
-      "title": "Will XRP Fall Below $3.5? PFMCrypto Unveils Free XRP-Focused Mining Contracts, Drawing a Surge of XRP Holders",
-      "summary": "PFMCrypto unveils free XRP-focused mining contracts, leading to a surge of XRP holders as the cryptocurrency jumps to $3.5 for the first time in years.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118996/0/en/Will-XRP-Fall-Below-3-5-PFMCrypto-Unveils-Free-XRP-Focused-Mining-Contracts-Drawing-a-Surge-of-XRP-Holders.html"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Another GPT wrapper. A boring tool that writes your resignation letter",
-      "summary": "A new tool called ResignationDesk uses ChatGPT to generate resignation letters based on selected tones and recipients. This tool was created after noticing high search volume for resignation letter related terms.",
-      "source": "Resignationdesk.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:46:05Z",
-      "url": "https://resignationdesk.com/"
-    },
-    {
-      "id": 54,
-      "title": "The “Bubble” of Risk: Improving Assessments for Offensive Cybersecurity Agents",
-      "summary": "The article highlights the importance of improving assessments for offensive cybersecurity agents to account for adversaries adapting and modifying models.",
-      "source": "Princeton University",
-      "category": "research",
-      "timestamp": "2025-07-21T19:45:28Z",
-      "url": "https://blog.citp.princeton.edu/2025/07/21/the-bubble-of-risk-improving-assessments-for-offensive-cybersecurity-agents/"
-    },
-    {
-      "id": 55,
-      "title": "72% of U.S. teens have used AI companions, study finds",
-      "summary": "72% of U.S. teens have tried AI companions and 52% use them regularly, according to a study.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:44:12Z",
-      "url": "https://biztoc.com/x/41a3f095ccc166c0"
-    },
-    {
-      "id": 56,
-      "title": "New CEO Addresses Coldplay Affair Scandal To Astronomer Employees, Customers",
-      "summary": "The new CEO of the company addressed the scandal regarding the Coldplay affair to employees and customers, after the co-founder stepped into the interim role. The company had gone viral last week, prompting a change in leadership.",
-      "source": "HuffPost",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:43:57Z",
-      "url": "https://www.huffpost.com/entry/new-astronomer-ceo-coldplay-affair-scandal_n_687e7fcbe4b09c4b75eab9a8"
-    },
-    {
-      "id": 57,
-      "title": "72% of U.S. teens have used AI companions, study finds | TechCrunch",
-      "summary": "72% of U.S. teens have used AI companions, according to a recent study. This high usage rate among teens highlights the growing application of AI technology in everyday life.",
-      "source": "TechCrunch",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:43:27Z",
-      "url": "https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/"
-    },
-    {
-      "id": 58,
-      "title": "coppersun-brass 2.3.21",
-      "summary": "Coppersun-brass has announced the release of Development Intelligence for AI Agents as part of their Copper Sun Product Line.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:40:57Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.21/"
-    },
-    {
-      "id": 59,
-      "title": "S&P 500 And Nasdaq Set New Record Highs—Here’s Why Wall Street Expects Rally Could Climb Further",
-      "summary": "S&P 500 and Nasdaq reach new record highs, with Wall Street predicting potential for further rally due to intense investor FOMO and continued good news.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:39:29Z",
-      "url": "https://www.forbes.com/sites/tylerroush/2025/07/21/sp-500-and-nasdaq-set-new-record-highs-heres-why-wall-street-expects-rally-could-climb-further/"
-    },
-    {
-      "id": 60,
-      "title": "pyfound 0.1.2",
-      "summary": "pyfound 0.1.2 - Found! is an AI enabled tool for fast semantic search over your personal documents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:37:59Z",
-      "url": "https://pypi.org/project/pyfound/0.1.2/"
-    },
-    {
-      "id": 61,
-      "title": "This is the soundbar I recommend for deeply immersive audio - and now it's $600 off",
-      "summary": "LG's S95TR soundbar, recommended for immersive audio, is now $600 off. It offers impressive audio performance and useful features, making it a top pick this year.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:37:45Z",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/this-is-the-soundbar-i-recommend-for-deeply-immersive-audio-and-now-its-600-off/"
-    },
-    {
-      "id": 62,
-      "title": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'",
-      "summary": "A Florida man was arrested for threatening to kill everyone on what he believed was Jeffrey Epstein's client list, showing the ethical implications of online threats and harassment.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:37:44Z",
-      "url": "https://freerepublic.com/focus/f-news/4329952/posts"
     }
   ]
 }
