@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-22T06:54:21.773Z",
+  "lastUpdate": "2025-07-22T07:19:30.749Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Chiesa-Liverpool over, Italy return? Conte, Allegri, Juve options",
+      "summary": "Federico Chiesa's potential return to Italy and potential options with clubs like Juventus are being discussed after his unsuccessful season away from Liverpool",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T07:19:00Z",
+      "url": "https://onefootball.com/en/news/chiesa-liverpool-over-italy-return-conte-allegri-juve-options-41402831"
+    },
+    {
+      "id": 52,
+      "title": "Apple M3 Ultra vs NVIDIA RTX : Which Powers Local AI Better?",
+      "summary": "Apple M3 Ultra vs NVIDIA RTX : Which Powers Local AI Better? - The comparison between Apple M3 Ultra and NVIDIA RTX focuses on the ability to run advanced AI models directly on personal computers without the need for a server farm or cloud subscription. This brings innovation to AI applications by making it more accessible and efficient for Mac and Windows users.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-21T07:17:31Z",
+      "url": "https://www.geeky-gadgets.com/apple-m3-ultra-vs-nvidia-rtx-which-powers-local-ai-better/"
+    },
+    {
+      "id": 53,
+      "title": "U.S. firms scramble to secure rare-earth magnets — imports from China surge 660%",
+      "summary": "U.S. firms are rushing to secure rare-earth magnets as imports from China jumped 660% following successful trade talks between the two countries.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:17:00Z",
+      "url": "https://www.cnbc.com/2025/07/21/rare-earth-magnets-china-exports-surge.html"
+    },
+    {
+      "id": 54,
+      "title": "Stump The Geeks Live from Macstock 2025",
+      "summary": "Recorded LIVE at Macstock 2025, this episode of Mac Geek Gab features a 'Stump The Geeks' showdown where Dave, Pete, and Adam tackle real-time questions and Quick Tips. The episode includes discussions on how to enable iPhone Mirroring.",
+      "source": "Macgeekgab.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T07:15:12Z",
+      "url": "https://www.macgeekgab.com/episode/1099/"
+    },
+    {
+      "id": 55,
+      "title": "Ingeniously Using Psychology To Psych-Out AI To Do What You Want It To Do",
+      "summary": "New research shows how psychology can be used to manipulate generative AI and LLMs to do what you want.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-21T07:15:00Z",
+      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/21/ingeniously-using-psychology-to-psych-out-ai-to-do-what-you-want-it-to-do/"
+    },
+    {
+      "id": 56,
+      "title": "Teacher Retirement System of Texas Sells 5,123 Shares of GRAIL, Inc. (NASDAQ:GRAL)",
+      "summary": "Teacher Retirement System of Texas sells a portion of its shares in GRAIL, Inc., reducing its stake in the company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:14:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-sells-5123-shares-of-grail-inc-nasdaqgral/"
+    },
+    {
+      "id": 57,
+      "title": "Teacher Retirement System of Texas Invests $143,000 in Hut 8 Corp. (NASDAQ:HUT)",
+      "summary": "Teacher Retirement System of Texas invested $143,000 in Hut 8 Corp. (NASDAQ:HUT) during the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:14:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-invests-143000-in-hut-8-corp-nasdaqhut/"
+    },
+    {
+      "id": 58,
+      "title": "Teacher Retirement System of Texas Invests $137,000 in Viasat Inc. (NASDAQ:VSAT)",
+      "summary": "Teacher Retirement System of Texas invests $137,000 in Viasat Inc., acquiring 13,136 shares in the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:14:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-invests-137000-in-viasat-inc-nasdaqvsat/"
+    },
+    {
+      "id": 59,
+      "title": "Nvidia's China chip clearance spurs SK Hynix memory expansion plans",
+      "summary": "Nvidia's clearance to sell AI chips to China is prompting SK Hynix to plan expansion of memory semiconductor production.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:13:50Z",
+      "url": "https://www.digitimes.com/news/a20250721PD232/nvidia-sk-hynix-production-hbm3e-chips.html"
+    },
+    {
+      "id": 60,
+      "title": "Nvidia CEO's China charm offensive underscores rock star status in key market",
+      "summary": "Nvidia CEO Jensen Huang's charm offensive in China highlights his popularity in this key market, despite trade tensions impacting the company's business. Huang's visit included engaging with fans and participating in a supply chain expo.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:12:45Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceos-china-charm-offensive-underscores-rock-star-status-in-key-market/articleshow/122809085.cms"
+    },
+    {
+      "id": 61,
+      "title": "Quick commerce platforms focus shifts to revive profitability than aggressive expansion: Report",
+      "summary": "Quick commerce platforms in India are shifting focus towards profitability over aggressive expansion, with the market estimated to reach ₹64,000 crore in FY25, showing a significant CAGR of 142 per cent between FY22 and FY25.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:11:24Z",
+      "url": "https://www.thehindubusinessline.com/companies/quick-commerce-platforms-focus-shifts-to-revive-profitability-than-aggressive-expansion-report/article69837319.ece"
+    },
+    {
+      "id": 62,
+      "title": "ServiceNow (NOW) Expected to Announce Quarterly Earnings on Wednesday",
+      "summary": "ServiceNow is expected to announce its Q2 2025 earnings results, with analysts predicting earnings of $3.53 per share and revenue of $3.12 billion for the quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T07:10:59Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/servicenow-now-expected-to-announce-quarterly-earnings-on-wednesday/"
+    },
+    {
+      "id": 63,
+      "title": "Newsletter Publisher 6AM City Buys AI Startup Good Daily to Expand to 400+ Markets",
+      "summary": "Newsletter Publisher 6AM City buys AI startup Good Daily to expand to 400+ markets, using AI to enter seed markets before hiring human staff.",
+      "source": "Adweek",
+      "category": "startups",
+      "timestamp": "2025-07-21T07:10:48Z",
+      "url": "https://www.adweek.com/media/6am-city-ai-newsletter-good-daily/"
+    },
+    {
+      "id": 64,
+      "title": "Calls To Change Walt Disney's Face After Comparison To My Pillow's Mike Lindell",
+      "summary": "Calls for changing Walt Disney's face on Audio-Animatronic model after comparisons to My Pillow's Mike Lindell",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-21T07:10:27Z",
+      "url": "https://www.forbes.com/sites/carolinereid/2025/07/21/calls-to-change-walt-disneys-face-after-comparison-to-my-pillows-mike-lindell/"
+    },
+    {
+      "id": 65,
+      "title": "Senate Hearing Debates AI Training on Copyrighted Works [Publishers Weekly]",
+      "summary": "Senate hearing debates AI training on copyrighted works, with Senator Josh Hawley suggesting a need to change the law if tech companies collecting content for AI training is not considered copyright infringement.",
+      "source": "Publishers Weekly",
+      "category": "ethics",
+      "timestamp": "2025-07-21T07:10:06Z",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/98233-senate-hearing-debates-ai-training-on-copyrighted-works.html"
+    },
+    {
+      "id": 66,
+      "title": "The Institute for Coaching Innovation Announces Rebrand from Inc. 5000 CoachDiversity Institute",
+      "summary": "The Institute for Coaching Innovation rebrands from CoachDiversity Institute, focusing on executive coaching and inclusive leadership development.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T07:09:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118437/0/en/The-Institute-for-Coaching-Innovation-Announces-Rebrand-from-Inc-5000-CoachDiversity-Institute.html"
+    },
+    {
+      "id": 67,
+      "title": "Reviewing Nebius Group (NASDAQ:NBIS) & Donnelley Financial Solutions (NYSE:DFIN)",
+      "summary": "Nebius Group and Donnelley Financial Solutions, both computer and technology companies, are being compared for investment potential based on their profitability.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-21T07:08:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/reviewing-nebius-group-nasdaqnbis-donnelley-financial-solutions-nysedfin/"
+    },
     {
       "id": 51,
       "title": "Nothing Phone 3 vs. Phone 2: An expensive, hard-to-justify upgrade",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-21T05:34:03Z",
       "url": "https://www.solidsmack.com/business/crafting-an-effective-employee-onboarding-process-for-long-term-success/"
-    },
-    {
-      "id": 61,
-      "title": "Malaysia sets sights on regional AI leadership with 2026-2030 action plan, says Gobind",
-      "summary": "Malaysia aims to become a leading regional AI hub with its 2026-2030 action plan, set by the National Artificial Intelligence Office (NAIO).",
-      "source": "The Star Online",
-      "category": "economy",
-      "timestamp": "2025-07-21T05:34:00Z",
-      "url": "https://www.thestar.com.my/news/nation/2025/07/21/malaysia-sets-sights-on-regional-ai-leadership-with-2026-2030-action-plan-says-gobind"
-    },
-    {
-      "id": 62,
-      "title": "KGNCLOUD Unlocks Zero-Threshold Gold Mining Opportunities in a New Era of Cryptocurrency Profitability",
-      "summary": "KGNCLOUD is unlocking zero-threshold gold mining opportunities in the cryptocurrency industry, benefiting from global regulatory shifts and the increased value of Bitcoin.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T05:33:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118412/0/en/KGNCLOUD-Unlocks-Zero-Threshold-Gold-Mining-Opportunities-in-a-New-Era-of-Cryptocurrency-Profitability.html"
-    },
-    {
-      "id": 63,
-      "title": "TSMC Plans To Use Drones For Monitoring Its Arizona Factory, Says Report",
-      "summary": "TSMC plans to use drones for monitoring its Arizona factory, potentially improving operational efficiency and security.",
-      "source": "Wccftech",
-      "category": "applications",
-      "timestamp": "2025-07-21T05:32:00Z",
-      "url": "https://wccftech.com/tsmc-plans-to-use-drones-for-monitoring-its-arizona-factory-says-report/"
-    },
-    {
-      "id": 64,
-      "title": "F5 expands AI-XOps automation & customisation controls",
-      "summary": "F5 expands AI-XOps automation & customisation controls with new tools to reduce complexity for XOps teams.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T05:30:58Z",
-      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/F5-expands-AI-XOps-automation-customisation-controls"
-    },
-    {
-      "id": 65,
-      "title": "Head-To-Head Analysis: Viasat (NASDAQ:VSAT) & AST SpaceMobile (NASDAQ:ASTS)",
-      "summary": "AST SpaceMobile (NASDAQ:ASTS) and Viasat (NASDAQ:VSAT) are being compared for investment potential based on earnings, risk, and profit performance.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T05:30:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/head-to-head-analysis-viasat-nasdaqvsat-ast-spacemobile-nasdaqasts/"
-    },
-    {
-      "id": 66,
-      "title": "GeneDx Holdings Corp. (NASDAQ:WGS) Receives $92.33 Consensus Price Target from Analysts",
-      "summary": "GeneDx Holdings Corp. receives $92.33 consensus price target from analysts and has earned an average recommendation of 'Moderate Buy' from the nine research firms covering the company.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T05:30:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/genedx-holdings-corp-nasdaqwgs-receives-92-33-consensus-price-target-from-analysts/"
-    },
-    {
-      "id": 51,
-      "title": "Fujifilm increases back-end process materials investment to drive growth",
-      "summary": "Fujifilm increases back-end process materials investment to drive growth, aiming to capture market share in semiconductor materials driven by rapidly expanding demand.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-21T05:20:08Z",
-      "url": "https://www.digitimes.com/news/a20250721PD222/materials-fujifilm-2025-investment-business.html"
-    },
-    {
-      "id": 52,
-      "title": "Authors Suing Anthropic Can Band Together in Copyright Suit, Judge Rules",
-      "summary": "Authors suing Anthropic for copyright infringement can represent writers nationwide in a lawsuit to band together against the AI startup.",
-      "source": "Insurance Journal",
-      "category": "startups",
-      "timestamp": "2025-07-21T05:20:01Z",
-      "url": "https://www.insurancejournal.com/news/national/2025/07/21/832324.htm"
-    },
-    {
-      "id": 53,
-      "title": "coppersun-brass 2.3.20",
-      "summary": "Coppersun-brass 2.3.20 is introducing Development Intelligence for AI Agents in their Copper Sun Product Line.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T05:19:42Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.20/"
-    },
-    {
-      "id": 54,
-      "title": "Hide AI‑Generated Images in DuckDuckGo to Cut Through the ‘AI Slop’",
-      "summary": "Hide AI‑Generated Images in DuckDuckGo to cut through “AI slop” and find real photos fast.",
-      "source": "Smashingapps.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T05:19:40Z",
-      "url": "https://www.smashingapps.com/hide-ai-generated-images-in-duckduckgo/"
-    },
-    {
-      "id": 55,
-      "title": "CyberAgent (CYAGF) versus Its Rivals Head-To-Head Review",
-      "summary": "CyberAgent (CYAGF) is being compared to its rivals in the INTERNET SERVICES industry to determine how it stacks up against its peers in terms of dividends and institutional support.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T05:15:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/cyberagent-cyagf-versus-its-rivals-head-to-head-review/"
-    },
-    {
-      "id": 56,
-      "title": "DeNA (OTCMKTS:DNACF) and LivePerson (NASDAQ:LPSN) Critical Review",
-      "summary": "DeNA and LivePerson are being compared based on their profitability and institutional ownership in the context of small-cap computer and technology companies.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T05:14:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/dena-otcmktsdnacf-and-liveperson-nasdaqlpsn-critical-review/"
-    },
-    {
-      "id": 57,
-      "title": "Perplexity CEO Aravind Srinivas has advice for youngsters busy on social media watching reels",
-      "summary": "Perplexity CEO Aravind Srinivas advises youngsters to stop wasting time on social media and start mastering AI tools, as artificial intelligence is reshaping the future.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-21T05:13:47Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-ceo-aravind-srinivas-has-advice-for-youngsters-busy-on-social-media-watching-reels/articleshow/122806363.cms"
-    },
-    {
-      "id": 58,
-      "title": "inframe added to PyPI",
-      "summary": "inframe, a Screen Context Recording and Querying SDK, has been added to PyPI for developers to easily incorporate into their AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T05:10:39Z",
-      "url": "https://pypi.org/project/inframe/"
-    },
-    {
-      "id": 59,
-      "title": " Reliable signings and struggles for Serie A giants in the market",
-      "summary": "Reliable signings and struggles for Serie A giants in the market - New coaches, excellent sales, and just as many valuable signings. The first 20 (official) days of the transfer window have brought major changes to the top Serie A clubs.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T05:09:00Z",
-      "url": "https://onefootball.com/en/news/reliable-signings-and-struggles-for-serie-a-giants-in-the-market-41402560"
-    },
-    {
-      "id": 60,
-      "title": "Take nation into confidence: Mayawati calls on govt, opposition to have constructive debate in Parliament",
-      "summary": "Mayawati calls for government and opposition to prioritize national interests over party politics during Parliament sessions, advocating for constructive debates on critical issues such as unemployment, women's safety, and national security.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T05:07:22Z",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/take-nation-into-confidence-mayawati-calls-on-govt-opposition-to-have-constructive-debate-in-parliament/articleshow/122806714.cms"
-    },
-    {
-      "id": 61,
-      "title": "60 Minutes S57E50 1080p WEB h264-BAE",
-      "summary": "The news covers AI in the classroom, discussing how it is being utilized. It also mentions Mezcal, a handcrafted Mexican spirit.",
-      "source": "Rlsbb.cc",
-      "category": "applications",
-      "timestamp": "2025-07-21T05:05:16Z",
-      "url": "https://post.rlsbb.cc/60-minutes-s57e50-1080p-web-h264-bae/"
     }
   ]
 }
