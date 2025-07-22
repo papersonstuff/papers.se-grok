@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T21:15:58.365Z",
+  "lastUpdate": "2025-07-22T21:40:55.154Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Spotify Allowing AI-Generated Songs on Dead Artists’ Pages: Report",
+      "summary": "Spotify is facing criticism for allowing AI-generated songs to be added to the artist pages of deceased musicians, raising concerns about the ethics of using technology to create new content after an artist has passed away.",
+      "source": "Consequence.net",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:36:39Z",
+      "url": "https://consequence.net/2025/07/spotify-ai-generated-songs-dead-artists/"
+    },
+    {
+      "id": 52,
+      "title": "OpenAI and UK Government Partner on AI Infrastructure and Deployment",
+      "summary": "OpenAI and UK Government partner on AI infrastructure and deployment, focusing on AI applications and employment.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:36:09Z",
+      "url": "https://biztoc.com/x/4c01333c5e380ff0"
+    },
+    {
+      "id": 53,
+      "title": "Rezolve Says AI Commerce Platform Ready for Stablecoin Opportunity",
+      "summary": "Rezolve Ai is ready for the stablecoin opportunity with their AI commerce platform, expecting the GENIUS Act to bring regulated digital commerce and compliant crypto payments.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:36:02Z",
+      "url": "https://biztoc.com/x/4eb9ea8c7d20276b"
+    },
+    {
+      "id": 54,
+      "title": "Polymarket set to reenter US with $112M acquisition of QCEX derivitives exchange",
+      "summary": "Polymarket is poised to reenter the US market after acquiring QCEX for $112M, which includes a licensed derivatives exchange and clearinghouse based in Florida.",
+      "source": "Cointelegraph",
+      "category": "startups",
+      "timestamp": "2025-07-21T21:36:01Z",
+      "url": "https://cointelegraph.com/news/polymarket-reenter-us-acquisition-qcex-exchange"
+    },
+    {
+      "id": 55,
+      "title": "Donald Trump's Obama AI Arrest Video Is Mere 'Distraction': Legal Analysts",
+      "summary": "Legal analysts criticize Trump's reposting of AI-generated video showing arrest of Obama as mere distraction",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:35:52Z",
+      "url": "https://biztoc.com/x/6629245c095a40d9"
+    },
+    {
+      "id": 56,
+      "title": "New Champions League play-off kicks off this Tuesday, see the full path",
+      "summary": "New Champions League play-off kicks off this Tuesday, with the draw for the remaining matches of the third qualifying round of the playoffs for the league phase of the 2025/2026 Champions.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:34:00Z",
+      "url": "https://onefootball.com/en/news/new-champions-league-play-off-kicks-off-this-tuesday-see-the-full-path-41406622"
+    },
+    {
+      "id": 57,
+      "title": "agent-cli 0.18.0",
+      "summary": "agent-cli 0.18.0 is a suite of AI-powered command-line tools for text correction, audio transcription, and voice assistance.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:32:48Z",
+      "url": "https://pypi.org/project/agent-cli/0.18.0/"
+    },
+    {
+      "id": 58,
+      "title": "SoftBank and OpenAI's $500B AI project struggles to launch, WSJ reports",
+      "summary": "SoftBank and OpenAI's $500B AI project struggles to launch, according to WSJ report.",
+      "source": "Thefly.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T21:32:35Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4163393/SFTBY;ORCL;CRWV;$PRIVATE-SoftBank-and-OpenAIs-B-AI-project-struggles-to-launch-WSJ-reports"
+    },
+    {
+      "id": 59,
+      "title": "What Happened to Dave Barry?",
+      "summary": "Dave Barry's experience with his AI-generated death notice showcases the difference between Google's quick AI Overview responses and the more precise but slower AI answer engines.",
+      "source": "TidBITS",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:32:17Z",
+      "url": "https://tidbits.com/2025/07/21/what-happened-to-dave-barry/"
+    },
+    {
+      "id": 60,
+      "title": "Google and OpenAI Chatbots Claim Gold at International Math Olympiad",
+      "summary": "Google and OpenAI chatbots win gold at International Math Olympiad but there are doubts about their ability to compete in physical challenges.",
+      "source": "Gizmodo.com",
+      "category": "research",
+      "timestamp": "2025-07-21T21:30:37Z",
+      "url": "https://gizmodo.com/google-and-openai-chatbots-claim-gold-at-international-math-olympiad-2000632289"
+    },
+    {
+      "id": 61,
+      "title": "A ChatGPT ‘router’ that automatically selects the right OpenAI model for your job appears imminent",
+      "summary": "A new ChatGPT 'router' is being developed to automatically select the right OpenAI model for users, simplifying the process and avoiding choice overload.",
+      "source": "VentureBeat",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:26:57Z",
+      "url": "https://venturebeat.com/ai/a-chatgpt-router-that-automatically-selects-the-right-openai-model-for-your-job-appears-imminent/"
+    },
+    {
+      "id": 62,
+      "title": "EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office",
+      "summary": "EPA employees are left with uncertainty as the agency dismantles the Office of Research and Development without providing information on timelines and job losses.",
+      "source": "Wired",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:26:48Z",
+      "url": "https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/"
+    },
+    {
+      "id": 63,
+      "title": "things3-mcp 0.2.0",
+      "summary": "things3-mcp 0.2.0 is a server implementation that allows users to interact with the Things3 app on macOS through Claude AI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:26:45Z",
+      "url": "https://pypi.org/project/things3-mcp/0.2.0/"
+    },
+    {
+      "id": 64,
+      "title": "Intel announces end of Clear Linux OS project, archives GitHub repos",
+      "summary": "Intel announces end of Clear Linux OS project, marking the end of its 10-year existence in the open-source ecosystem.",
+      "source": "BleepingComputer",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:25:07Z",
+      "url": "https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/"
+    },
+    {
+      "id": 65,
+      "title": "Donald Trump's Obama AI Arrest Video Is Mere 'Distraction': Legal Analysts",
+      "summary": "Legal analysts criticize AI-generated video of Donald Trump showing federal law enforcement arresting former President Obama as a 'distraction'.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:24:53Z",
+      "url": "https://www.newsweek.com/donald-trump-obama-ai-video-distraction-legal-analysts-2101977"
+    },
+    {
+      "id": 66,
+      "title": "AOC Reacts After Bronx Campaign Office Vandalized with Red Paint",
+      "summary": "Democratic Rep. Alexandria Ocasio-Cortez responds after her Bronx campaign office was vandalized with a message accusing her of funding genocide in Gaza.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:24:52Z",
+      "url": "https://biztoc.com/x/30ef949481d44a13"
+    },
+    {
+      "id": 67,
+      "title": "Palantir: The all-seeing tech giant",
+      "summary": "Palantir's data-mining tools, initially used by spies and the military, may now be turning towards monitoring Americans, raising ethical concerns.",
+      "source": "The Week Magazine",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:24:47Z",
+      "url": "https://theweek.com/tech/palantir-all-seeing-tech-giant"
+    },
+    {
+      "id": 68,
+      "title": "Motorola Razr+ (2025)",
+      "summary": "Motorola Razr+ (2025) offers a decent flip phone that goes beyond the basics, positioned in the middle of the company's folding phone lineup with features like design and build quality.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:20:19Z",
+      "url": "https://me.pcmag.com/en/mobile-phones/31073/motorola-razr-2025"
+    },
+    {
+      "id": 69,
+      "title": "Motorola Razr+ (2025)",
+      "summary": "The $999.99 Motorola Razr+ is part of the company's 2025 lineup, offering a decent flip phone that goes beyond the basics with its design and build quality.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:20:19Z",
+      "url": "https://uk.pcmag.com/mobile-phones/159232/motorola-razr-2025"
+    },
     {
       "id": 51,
       "title": "OpenAI plans to open first D.C. office next year",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T20:44:40Z",
       "url": "https://www.thesurvivalpodcast.com/feedback-72125"
-    },
-    {
-      "id": 51,
-      "title": "AI-Animated Vehicles - The Faraday FX Super One Replaces the Traditional Grille with an AI Agent (TrendHunter.com)",
-      "summary": "Faraday Future's Faraday FX Super One is an AI-animated vehicle that showcases deep AI integration in future vehicles, featuring a large digital screen replacing the traditional grille.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T20:43:06Z",
-      "url": "https://www.trendhunter.com/trends/faraday-fx-super-one"
-    },
-    {
-      "id": 52,
-      "title": "Yahoo Japan Mandates AI Use to ‘Double’ Productivity by 2028",
-      "summary": "Yahoo Japan mandates the use of AI to double productivity by 2028, requiring all employees to use generative AI technology.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:40:09Z",
-      "url": "https://biztoc.com/x/a660afbcbd4629dd"
-    },
-    {
-      "id": 53,
-      "title": "Why AI Shouldn't Be the Future of Academia",
-      "summary": "Artificial intelligence in academia is not inevitable and should be deeply considered for its impact on research, teaching, and scholarship.",
-      "source": "Psychology Today",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:39:57Z",
-      "url": "https://www.psychologytoday.com/us/blog/how-to-do-academia/202507/why-ai-shouldnt-be-the-future-of-academia"
-    },
-    {
-      "id": 54,
-      "title": "NXP Semiconductors (NASDAQ:NXPI) Posts Better-Than-Expected Sales In Q2, Provides Encouraging Quarterly Revenue Guidance",
-      "summary": "NXP Semiconductors (NASDAQ:NXPI) exceeded sales expectations in Q2, but reported a 6.4% decrease in year-on-year sales. The company also provided positive revenue guidance for the upcoming quarter.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:38:38Z",
-      "url": "https://finance.yahoo.com/news/nxp-semiconductors-nasdaq-nxpi-posts-203838837.html"
-    },
-    {
-      "id": 55,
-      "title": "PayPal Adds Scam Detection to Friends and Family Payments",
-      "summary": "PayPal introduces scam prevention tool for Friends and Family payments to proactively alert customers to potential scams and prevent losses in real-time.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:37:12Z",
-      "url": "http://www.pymnts.com/fraud-prevention/2025/paypal-adds-scam-detection-to-friends-and-family-payments/"
-    },
-    {
-      "id": 56,
-      "title": "The King of Queens: Kevin James Can't See Reboot Without Jerry Stiller",
-      "summary": "Kevin James believes a reboot of 'The King of Queens' would not be right without the late Jerry Stiller, highlighting the importance of respecting the legacy and memory of deceased actors in potential reboots.",
-      "source": "Bleeding Cool News",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:37:03Z",
-      "url": "https://bleedingcool.com/tv/the-king-of-queens-kevin-james-cant-see-reboot-without-jerry-stiller/"
-    },
-    {
-      "id": 57,
-      "title": "Kubo takes a swipe at Real Sociedad’s transfer market",
-      "summary": "Real Sociedad's player Take Kubo discusses the team's need for reinforcements in the transfer market during their Asian tour debut against Nagasaki.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:35:00Z",
-      "url": "https://onefootball.com/en/news/kubo-takes-a-swipe-at-real-sociedads-transfer-market-41405605"
-    },
-    {
-      "id": 58,
-      "title": "Traders Rushing To Ruvi AI (RUVI), $2.5M Raised And 2400 Holders Might Trigger A Rally Soon",
-      "summary": "Traders are rushing to invest in Ruvi AI (RUVI) which has raised $2.5M and has 2400 holders, potentially triggering a rally soon. The company's unique use of artificial intelligence (AI) in combination with blockchain is setting it apart and analysts predict a potential 66x growth.",
-      "source": "ZyCrypto",
-      "category": "startups",
-      "timestamp": "2025-07-21T20:34:00Z",
-      "url": "https://zycrypto.com/traders-rushing-to-ruvi-ai-ruvi-2-5m-raised-and-2400-holders-might-trigger-a-rally-soon/"
-    },
-    {
-      "id": 59,
-      "title": "Show HN: I Made t0ggles – Faster and More Efficient Than Jira and ClickUp",
-      "summary": "As someone juggling multiple projects, the creator of t0ggles needed a faster and more efficient project/task management tool than existing options like Jira, ClickUp, and Trello. t0ggles aims to provide a clearer and more streamlined way to manage multiple projects on the same board.",
-      "source": "T0ggles.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T20:33:42Z",
-      "url": "https://t0ggles.com/hn"
-    },
-    {
-      "id": 60,
-      "title": "Google CTRs Drop 32% For Top Result After AI Overview Rollout via @sejournal, @MattGSouthern",
-      "summary": "Google's top organic CTR dropped from 28% to 19% after the expansion of AI Overviews, indicating changing user behavior.",
-      "source": "Search Engine Journal",
-      "category": "research",
-      "timestamp": "2025-07-21T20:33:26Z",
-      "url": "https://www.searchenginejournal.com/google-ctrs-drop-32-for-top-result-after-ai-overview-rollout/551730/"
-    },
-    {
-      "id": 61,
-      "title": "New Horizons Could Find Its Way to Proxima Centauri if it Wanted",
-      "summary": "New Horizons spacecraft, humanity's fastest-moving spacecraft, could potentially find its way to Proxima Centauri after exploring Pluto and Arrokoth in the past decade.",
-      "source": "Universe Today",
-      "category": "research",
-      "timestamp": "2025-07-21T20:33:06Z",
-      "url": "https://www.universetoday.com/articles/new-horizons-could-find-its-way-to-proxima-centauri-if-it-wanted"
-    },
-    {
-      "id": 62,
-      "title": "Lost Money on DoubleVerify Holdings, Inc.(DV)? Join Class Action Suit Seeking Recovery – Contact The Gross Law Firm",
-      "summary": "Investors who have lost money on DoubleVerify Holdings, Inc. are being invited to join a class action suit seeking recovery, as announced by The Gross Law Firm.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:32:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119068/0/en/Lost-Money-on-DoubleVerify-Holdings-Inc-DV-Join-Class-Action-Suit-Seeking-Recovery-Contact-The-Gross-Law-Firm.html"
-    },
-    {
-      "id": 63,
-      "title": "Lost Money on Reddit, Inc. (RDDT)? Join Class Action Suit Seeking Recovery – Contact The Gross Law Firm",
-      "summary": "Shareholders of Reddit, Inc. are encouraged to join a class action suit seeking recovery of lost money by contacting The Gross Law Firm in New York.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:31:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119066/0/en/Lost-Money-on-Reddit-Inc-RDDT-Join-Class-Action-Suit-Seeking-Recovery-Contact-The-Gross-Law-Firm.html"
-    },
-    {
-      "id": 64,
-      "title": "Fortinet Honors the Life and Contributions of Valued Board Member William H. Neukom",
-      "summary": "Fortinet announced the passing of board member William H. Neukom, honoring his life and contributions.",
-      "source": "Financial Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:30:33Z",
-      "url": "https://financialpost.com/globe-newswire/fortinet-honors-the-life-and-contributions-of-valued-board-member-william-h-neukom"
-    },
-    {
-      "id": 65,
-      "title": "Cyberpunk-inspired Microsoft Copilot Dock gives you a dedicated AI Control Center for your PC",
-      "summary": "Cyberpunk-inspired Microsoft Copilot Dock provides a dedicated AI Control Center for PC users, showcasing applications of AI technology in enhancing user experience.",
-      "source": "Yanko Design",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:30:21Z",
-      "url": "https://www.yankodesign.com/2025/07/21/cyberpunk-inspired-microsoft-copilot-dock-gives-you-a-dedicated-ai-control-center-for-your-pc/"
-    },
-    {
-      "id": 66,
-      "title": "Google Teases Pixel 10 Ahead of August Reveal",
-      "summary": "Google teases the Pixel 10, which appears to have a similar design to the Pixel 9.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-21T20:30:04Z",
-      "url": "https://www.cnet.com/tech/mobile/google-teases-pixel-10-ahead-of-august-reveal/"
-    },
-    {
-      "id": 67,
-      "title": "Fortinet Honors the Life and Contributions of Valued Board Member William H. Neukom",
-      "summary": "Fortinet honors the life and contributions of valued board member William H. Neukom",
-      "source": "GlobeNewswire",
-      "category": "ethics",
-      "timestamp": "2025-07-21T20:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119050/0/en/Fortinet-Honors-the-Life-and-Contributions-of-Valued-Board-Member-William-H-Neukom.html"
-    },
-    {
-      "id": 68,
-      "title": "reAlpha Tech Corp. Announces $5 Million Registered Direct Offering Priced At-The-Market Under Nasdaq Rules",
-      "summary": "reAlpha Tech Corp. announces a $5 million registered direct offering for their AI-powered real estate technology startup.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T20:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119052/0/en/reAlpha-Tech-Corp-Announces-5-Million-Registered-Direct-Offering-Priced-At-The-Market-Under-Nasdaq-Rules.html"
-    },
-    {
-      "id": 69,
-      "title": "How marketing’s next era will be powered by AI and human intelligence",
-      "summary": "Marketers are preparing for the next era powered by AI and human intelligence amidst technological disruption, challenging businesses to rethink what's possible.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T20:28:55Z",
-      "url": "https://biztoc.com/x/9d9439a39a9d3c94"
     }
   ]
 }
