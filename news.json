@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T21:50:58.179Z",
+  "lastUpdate": "2025-07-22T22:15:32.408Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Standing in the shadow of Giotto",
+      "summary": "Standing in the shadow of Giotto - No matter what we thought when this journey started — when the internet was young and full of creative spark — we’re not witnessing the next great human awakening. In the early days of the web, it…",
+      "source": "Uxdesign.cc",
+      "category": "innovation",
+      "timestamp": "2025-07-21T22:13:17Z",
+      "url": "https://uxdesign.cc/standing-in-the-shadow-of-giotto-43d0133cfea2"
+    },
+    {
+      "id": 52,
+      "title": "SoftBank and OpenAI scale back Stargate plans",
+      "summary": "SoftBank and OpenAI scale back plans for Stargate, a $500 billion AI project, due to lack of data center agreements.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T22:09:31Z",
+      "url": "https://biztoc.com/x/babac8a770ae4fcc"
+    },
+    {
+      "id": 53,
+      "title": "iree-turbine 3.6.0",
+      "summary": "IREE-turbine 3.6.0 introduces machine learning deployment tools for improved efficiency in AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T22:05:36Z",
+      "url": "https://pypi.org/project/iree-turbine/3.6.0/"
+    },
+    {
+      "id": 54,
+      "title": "Google clinches milestone gold at global math competition, while OpenAI also claims win",
+      "summary": "Google and OpenAI achieve milestone wins in global math competition, showcasing advancements in artificial intelligence capabilities.",
+      "source": "CNA",
+      "category": "research",
+      "timestamp": "2025-07-21T22:04:41Z",
+      "url": "https://www.channelnewsasia.com/business/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-win-5250661"
+    },
+    {
+      "id": 55,
+      "title": "Get This Wireless Smart Video Doorbell For Just $99 Down From Its Original Price Of $150",
+      "summary": "Get This Wireless Smart Video Doorbell For Just $99 Down From Its Original Price Of $150 - A great video doorbell can make all the difference, especially if you're living alone. Being able to see who is at the door, even if you aren't home, can give you real peace of mind.",
+      "source": "redmondpie.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T22:03:50Z",
+      "url": "https://www.redmondpie.com/get-this-wireless-smart-video-doorbell-for-just-99-down-from-its-original-price-of-150/"
+    },
+    {
+      "id": 56,
+      "title": "Juve want Nunez, Taremi fee set, Roma eye Ghilardi, Taty latest ",
+      "summary": "The transfer market has finally come alive, with clubs moving intensively to strengthen their teams ahead of the new season.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T22:01:00Z",
+      "url": "https://onefootball.com/en/news/juve-want-nunez-taremi-fee-set-roma-eye-ghilardi-taty-latest-41404188"
+    },
+    {
+      "id": 57,
+      "title": "Megan Byron Reactions: AI videos and images appear on social media with Andy Byron wife’s response to Coldplay Concert viral video scandal",
+      "summary": "Megan Byron reactions to the Coldplay concert scandal in the form of AI-generated videos and images have surfaced on social media, showcasing her response to the situation involving her husband, Andy Byron.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T22:00:15Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/megan-byron-reaction-ai-generated-video-images-coldplay-scandal-astronomer-ceo-andy-byron-wife-kristin-cabot-viral-concert-social-media-statements/articleshow/122822332.cms"
+    },
+    {
+      "id": 58,
+      "title": "InvroMining Makes Cloud Mining Easier Than Ever with Android App on GooglePlay",
+      "summary": "InvroMining launches mobile app on GooglePlay, making cloud mining more accessible to consumers, demonstrating the growing demand for simplified digital asset solutions.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-21T22:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119106/0/en/InvroMining-Makes-Cloud-Mining-Easier-Than-Ever-with-Android-App-on-GooglePlay.html"
+    },
+    {
+      "id": 59,
+      "title": "“This is how the world ends”: Here’s how the internet is reacting to Elon Musk teasing “baby Grok AI” for kids",
+      "summary": "Elon Musk teases 'baby Grok AI' for kids, sparking curiosity and concern among internet users about the implications and reasons behind this project.",
+      "source": "The Daily Dot",
+      "category": "innovation",
+      "timestamp": "2025-07-21T22:00:00Z",
+      "url": "https://www.dailydot.com/viral-politics/elon-musk-announces-baby-grok-ai-for-kids/"
+    },
+    {
+      "id": 60,
+      "title": "ChatGPT's Next Big Upgrade Is Coming Soon - Here Are The Latest GPT-5 Leaks And Teasers",
+      "summary": "OpenAI has been teasing the upcoming GPT-5 model without sharing a release date, sparking anticipation and speculation in the AI community.",
+      "source": "BGR",
+      "category": "research",
+      "timestamp": "2025-07-21T22:00:00Z",
+      "url": "https://www.bgr.com/1918358/chatgpt-gpt-5-rumors-leaks-teasers/"
+    },
+    {
+      "id": 61,
+      "title": "Hive Digital accelerates AI pivot with $100M HPC expansion — Cointelegraph exclusive",
+      "summary": "Hive Digital Technologies is transitioning to high-performance computing with a $100M investment in Nvidia AI chips for global data centers.",
+      "source": "Cointelegraph",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:59:13Z",
+      "url": "https://cointelegraph.com/news/hive-digital-ai-pivot-bitcoin-miner-hpc-expansion"
+    },
+    {
+      "id": 62,
+      "title": "Hunter Biden Unloads on George Clooney, Jake Tapper, Pod Save America, Dems",
+      "summary": "Hunter Biden criticizes Democratic Party elites and high-profile individuals in an AI-generated interview, raising concerns about the use of AI to manipulate voices and create fake content.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:58:25Z",
+      "url": "https://biztoc.com/x/e2ae0739ed7046b2"
+    },
+    {
+      "id": 63,
+      "title": "Protector, Professor, Partner: Can AI Do It All?",
+      "summary": "Emerging AI innovation in cybersecurity, education, and caregiving.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:57:45Z",
+      "url": "https://www.forbes.com/sites/joemckendrick/2025/07/21/protector-professor-partner-can-ai-do-it-all/"
+    },
+    {
+      "id": 64,
+      "title": "How SMBs Are Building DIY Back Offices Using AI",
+      "summary": "SMBs are using AI to build DIY back offices due to being underserved by traditional enterprise technology.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T21:57:11Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/how-smbs-are-building-diy-back-offices-using-ai/"
+    },
+    {
+      "id": 65,
+      "title": "The long arm of Trump's new law: From the Politics Desk",
+      "summary": "The impacts of Trump's new law are beginning to be felt financially and politically.",
+      "source": "NBC News",
+      "category": "economy",
+      "timestamp": "2025-07-21T21:55:20Z",
+      "url": "https://www.nbcnews.com/politics/politics-news/long-arm-trumps-new-law-politics-desk-rcna220119"
+    },
+    {
+      "id": 66,
+      "title": "Trump to unveil 3 AI executive orders in lead-up to sweeping action plan",
+      "summary": "Trump is set to unveil 3 AI executive orders demonstrating a pro-innovation stance in the lead-up to a comprehensive action plan on artificial intelligence.",
+      "source": "Nextgov",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:55:00Z",
+      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/trump-unveil-3-ai-executive-orders-lead-sweeping-action-plan/406882/"
+    },
+    {
+      "id": 67,
+      "title": "Grok Waifu Accepts Jesus As Lord And Savior",
+      "summary": "Elon Musk's xAI model, Grok Waifu, made an unexpected advancement by accepting Jesus Christ as her Lord and Savior.",
+      "source": "Babylonbee.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:54:48Z",
+      "url": "https://babylonbee.com/news/grok-waifu-accepts-jesus-as-lord-and-savior"
+    },
+    {
+      "id": 68,
+      "title": "OPM keen on using AI to increase ‘efficiency’ of jobs — as federal agency cuts staff by one-third",
+      "summary": "OPM plans to cut one-third of its staff and utilize AI to increase efficiency in jobs",
+      "source": "New York Post",
+      "category": "innovation",
+      "timestamp": "2025-07-21T21:54:39Z",
+      "url": "https://nypost.com/2025/07/21/us-news/opm-keen-on-using-ai-to-increase-efficiency-of-jobs-as-federal-agency-cuts-staff-by-one-third/"
+    },
+    {
+      "id": 69,
+      "title": "Questions about animal welfare markets",
+      "summary": "A group called 'Revolutionist's Night' discussed ways to improve animal welfare with inspiration from past movements like slavery abolitionism and the American revolution.",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T21:54:01Z",
+      "url": "https://www.lesswrong.com/posts/cXtHe9PvdQzFFft5d/questions-about-animal-welfare-markets"
+    },
     {
       "id": 51,
       "title": "Ripplecoin Mining launches XRP cloud mining contracts to help investors lock in daily crypto yields",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T21:14:09Z",
       "url": "https://biztoc.com/x/ddf9a24d56374799"
-    },
-    {
-      "id": 55,
-      "title": "Cursor AI YOLO mode lets coding assistant run wild, security firm warns",
-      "summary": "Cursor's AI coding agent can run automatically in YOLO mode, but security concerns have been raised by Backslash Security.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:13:46Z",
-      "url": "https://biztoc.com/x/30faf78bd492d513"
-    },
-    {
-      "id": 56,
-      "title": "There’s a Limited Window to Buy This AI Play – and I’ve Pinpointed When That Is",
-      "summary": "There’s a Limited Window to Buy This AI Play – and I’ve Pinpointed When That Is - Hello, Reader. In 1440, Johannes Gutenberg introduced the movable type printing press. This was a watershed moment for democratizing knowledge.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:13:44Z",
-      "url": "https://biztoc.com/x/80eb1928cba4119c"
-    },
-    {
-      "id": 57,
-      "title": "New Congressional Bill Bans AI Companies From Training on Copyrighted Works or Personal Data Without Consent",
-      "summary": "New Congressional bill aims to prevent AI companies from training on copyrighted works or personal data without consent.",
-      "source": "TheWrap",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:11:08Z",
-      "url": "https://www.thewrap.com/ai-banned-train-copyright-personal-data-bill-legislation-law-sue/"
-    },
-    {
-      "id": 58,
-      "title": "Big City Greens S04E51 1080p HULU WEB-DL H264-NTb",
-      "summary": "Big Tech introduces AI-generated TV shows featuring the people of Big City in Season 4, Episode 51 of Big City Greens.",
-      "source": "Rlsbb.ru",
-      "category": "applications",
-      "timestamp": "2025-07-21T21:10:59Z",
-      "url": "https://post.rlsbb.ru/big-city-greens-s04e51-1080p-hulu-web-dl-h264-ntb/"
-    },
-    {
-      "id": 59,
-      "title": "Fortune Cuts 10% of Staff, Becomes Latest Media Company Hit With AI-Driven Layoffs",
-      "summary": "Fortune cuts 10% of staff due to decline in web traffic and the 'onset of AI'",
-      "source": "TheWrap",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:09:41Z",
-      "url": "https://www.thewrap.com/fortune-layoffs-ai-cuts/"
-    },
-    {
-      "id": 60,
-      "title": "Big City Greens S04E51 1080p HULU WEB-DL H264-NTb",
-      "summary": "Big Tech unveils its slate of AI-generated TV shows based on the people of Big City.",
-      "source": "Rlsbb.cc",
-      "category": "applications",
-      "timestamp": "2025-07-21T21:07:59Z",
-      "url": "https://post.rlsbb.cc/big-city-greens-s04e51-1080p-hulu-web-dl-h264-ntb/"
-    },
-    {
-      "id": 61,
-      "title": "What's Real and What's Fake—Global Action Is Needed To Protect Us All",
-      "summary": "Global action is needed to address the risks of AI-powered fake content and protect individuals from financial scams and deception.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:07:39Z",
-      "url": "https://www.newsweek.com/whats-real-whats-fakeglobal-action-needed-protect-us-all-2101981"
-    },
-    {
-      "id": 62,
-      "title": "AAIB AI 171 crash probe totally unbiased: Naidu",
-      "summary": "AAIB AI 171 crash probe is stated to be totally unbiased by Union Minister Ram Mohan Naidu during the Rajya Sabha address, emphasizing the rule-based process followed by the investigation bureau.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:05:30Z",
-      "url": "https://timesofindia.indiatimes.com/india/aaib-ai-171-crash-probe-totally-unbiased-naidu/articleshow/122822276.cms"
-    },
-    {
-      "id": 63,
-      "title": "Can Ruvi AI (RUVI) Mimic Tron’s Rise? Successful Audit And Utility Driven Spark $1 Prediction From Analysts",
-      "summary": "Ruvi AI (RUVI) is being compared to Tron (TRX) for its potential rise in the cryptocurrency market, with analysts predicting a $1 price point. Ruvi AI is gaining attention for its blockchain and AI-powered technology.",
-      "source": "ZyCrypto",
-      "category": "startup",
-      "timestamp": "2025-07-21T21:04:00Z",
-      "url": "https://zycrypto.com/can-ruvi-ai-ruvi-mimic-trons-rise-successful-audit-and-utility-driven-spark-1-prediction-from-analysts/"
-    },
-    {
-      "id": 64,
-      "title": "Amid Epstein fallout, the Trump administration turns to MAGA's other greatest hits",
-      "summary": "Amid Epstein fallout, the Trump administration has shifted focus to previous popular issues with the MAGA base instead of addressing current controversies.",
-      "source": "NBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:03:52Z",
-      "url": "https://www.nbcnews.com/politics/trump-administration/jeffrey-epstein-fallout-trump-administration-maga-greatest-hits-rcna220038"
-    },
-    {
-      "id": 65,
-      "title": "Rezolve Says AI Commerce Platform Ready for Stablecoin Opportunity",
-      "summary": "Rezolve Ai is ready for stablecoin opportunities with new U.S. stablecoin law expected to unlock trillions in compliant crypto payments.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:03:41Z",
-      "url": "http://www.pymnts.com/cryptocurrency/2025/rezolve-says-ai-commerce-platform-ready-for-stablecoin-opportunity/"
-    },
-    {
-      "id": 66,
-      "title": "Economist Warns the AI Bubble Is Worse Than Immediately Before the Dot-Com Implosion",
-      "summary": "Economist warns of AI bubble worse than dot-com implosion, highlighting concerns of market frenzy and overpromising in the industry.",
-      "source": "Futurism",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:03:15Z",
-      "url": "https://futurism.com/economist-ai-bubble-worse-dot-com-implosion"
-    },
-    {
-      "id": 67,
-      "title": "OpenAI and the UK form partnership to expand AI research, infrastructure",
-      "summary": "OpenAI and the UK partner to expand AI research and infrastructure, focusing on AI security research and investing in British AI infrastructure such as data centres.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-21T21:02:52Z",
-      "url": "https://biztoc.com/x/8e2d3d5235ba2633"
-    },
-    {
-      "id": 68,
-      "title": "Cursor AI YOLO mode lets coding assistant run wild, security firm warns",
-      "summary": "Cursor AI's YOLO mode allows its coding assistant to run automatically, but security concerns have been raised by Backslash Security.",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:02:51Z",
-      "url": "https://www.theregister.com/2025/07/21/cursor_ai_safeguards_easily_bypassed/"
-    },
-    {
-      "id": 69,
-      "title": "I Love That ‘Superman’ Loves Journalism",
-      "summary": "The article discusses the ethical implications of portraying journalism in a positive light through Superman, despite the challenges faced by contemporary print media.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:01:07Z",
-      "url": "https://gizmodo.com/superman-james-gunn-journalism-lois-lane-daily-planet-2000632278"
-    },
-    {
-      "id": 51,
-      "title": "Why One Wall Street Analyst Is Growing More Bullish on This Nvidia Partner's Stock",
-      "summary": "Arm shares rose as Wells Fargo analysts raised their price target for the chip designer's stock ahead of quarterly earnings.",
-      "source": "Investopedia",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:52:33Z",
-      "url": "https://www.investopedia.com/why-one-wall-street-analyst-is-growing-more-bullish-on-this-nvidia-partner-stock-11776216"
-    },
-    {
-      "id": 52,
-      "title": "AMD ROCm 6.4.2 Released With Official Support For The Radeon RX 7700 XT",
-      "summary": "AMD has released ROCm 6.4.2 with official support for the Radeon RX 7700 XT, expanding the supported Radeon consumer GPUs while awaiting the next major release of ROCm 7.0.",
-      "source": "Phoronix",
-      "category": "innovation",
-      "timestamp": "2025-07-21T20:50:16Z",
-      "url": "https://www.phoronix.com/news/AMD-ROCm-6.4.2"
-    },
-    {
-      "id": 53,
-      "title": "‘Other People’s Money’: How New OPM Chief Is Maximizing Efficiency at Executive HR Agency",
-      "summary": "The new director of the executive branch’s human resources department is focusing on maximizing efficiency to make the agency the most efficient in the government.",
-      "source": "Daily Signal",
-      "category": "economy",
-      "timestamp": "2025-07-21T20:50:00Z",
-      "url": "https://www.dailysignal.com/2025/07/21/other-peoples-money-opms-new-director-maximizing-efficiency-executive-hr-agency/"
-    },
-    {
-      "id": 54,
-      "title": "Latin American ambassadors go behind-the-scenes in MDA's lifesaving efforts",
-      "summary": "Latin American ambassadors visit MDA to learn about its emergency response efforts and donate blood.",
-      "source": "The Jerusalem Post",
-      "category": "applications",
-      "timestamp": "2025-07-21T20:49:40Z",
-      "url": "https://www.jpost.com/israel-news/article-861785"
     }
   ]
 }
