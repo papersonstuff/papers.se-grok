@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-22T15:17:50.488Z",
+  "lastUpdate": "2025-07-22T15:44:35.526Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nvidia CEO’s always-on 7-day grind is going viral—he can’t even sit through a movie without thinking about his $4.2 trillion tech giant",
+      "summary": "Nvidia CEO's intense work ethic and constant focus on the company raises questions about work-life balance and the pressure faced by executives in the tech industry.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:44:15Z",
+      "url": "https://fortune.com/2025/07/21/billionaire-nvidia-ceo-jensen-huang-always-working-7-days-a-week-trillion-dollar-company-no-work-life-balance/"
+    },
+    {
+      "id": 52,
+      "title": "Nvidia CEO’s always-on 7-day grind is going viral—he can’t even sit through a movie without thinking about his $4.2 trillion tech giant",
+      "summary": "Nvidia CEO Jensen Huang's constant work ethic and obsession with the tech giant is going viral, as he admits his brain is always on the clock even when not working.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:44:15Z",
+      "url": "https://finance.yahoo.com/news/nvidia-ceo-always-7-day-154415993.html"
+    },
+    {
+      "id": 53,
+      "title": "Letters to Editor",
+      "summary": "A collection of letters to the editor discussing various AI-related topics were recently published, providing insights into the current research landscape in the field.",
+      "source": "BusinessLine",
+      "category": "research",
+      "timestamp": "2025-07-21T15:44:05Z",
+      "url": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article69839690.ece"
+    },
+    {
+      "id": 54,
+      "title": "SOUNDRAW launches “Beat the Future” contest with $2,500 in prizes and free access",
+      "summary": "SOUNDRAW launches 'Beat the Future' contest with $2,500 in prizes and free access, showcasing their AI-powered music creation platform.",
+      "source": "Bedroomproducersblog.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T15:42:49Z",
+      "url": "https://bedroomproducersblog.com/2025/07/21/soundraw-beat-the-future/"
+    },
+    {
+      "id": 55,
+      "title": "FOSSiBOT F107 Pro launches the world’s first rugged phone with Starlight Night Vision – See in the dark like it’s daylight!",
+      "summary": "FOSSiBOT F107 Pro is the world's first rugged phone with Starlight Night Vision technology, offering the ability to see in the dark like it's daylight. The smartphone merges cutting-edge imaging, flagship performance, and military-grade durability.",
+      "source": "The Gadgeteer",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:42:45Z",
+      "url": "https://the-gadgeteer.com/2025/07/21/fossibot-f107-pro-launches-the-worlds-first-rugged-phone-with-starlight-night-vision-see-in-the-dark-like-its-daylight/"
+    },
+    {
+      "id": 56,
+      "title": "Opinion: Focus on tariffs is ignoring Canada's fastest-growing trade opportunity",
+      "summary": "Trade in digital services is growing faster than trade in goods, presenting a significant trade opportunity for Canada. Ottawa should shift focus to digital trade to maximize economic benefits.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:42:17Z",
+      "url": "https://financialpost.com/news/economy/focus-tariffs-ignoring-canada-fastest-growing-trade-opportunity"
+    },
+    {
+      "id": 57,
+      "title": "200MP main camera rugged smartphone goes to retail with 20% discount",
+      "summary": "200MP main camera rugged smartphone F107 Pro with 20% discount has completed retail launch, featuring an enormous battery and potentially extra-durable chassis.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:42:00Z",
+      "url": "https://www.notebookcheck.net/200MP-main-camera-rugged-smartphone-goes-to-retail-with-20-discount.1063919.0.html"
+    },
+    {
+      "id": 58,
+      "title": "MHRA’s 2024–25 Annual Report and Accounts and Impact Report show progress on safety, innovation, and regulatory excellence",
+      "summary": "MHRA’s 2024–25 Annual Report and Accounts and Impact Report show progress on safety, innovation, and regulatory excellence in AI-related initiatives.",
+      "source": "Www.gov.uk",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:41:58Z",
+      "url": "https://www.gov.uk/government/news/mhras-2024-25-annual-report-and-accounts-and-impact-report-show-progress-on-safety-innovation-and-regulatory-excellence"
+    },
+    {
+      "id": 59,
+      "title": "AI beats docs at identifying patients likely to die of cardiac arrest",
+      "summary": "AI outperforms doctors in identifying patients at risk of cardiac arrest, boasting high accuracy in predicting sudden cardiac death.",
+      "source": "Futurity: Research News",
+      "category": "research",
+      "timestamp": "2025-07-21T15:40:45Z",
+      "url": "https://www.futurity.org/artificial-intelligence-cardiac-arrest-3287332/"
+    },
+    {
+      "id": 60,
+      "title": "Cognitive warfare: Why wars without bombs or bullets are a legal blind spot",
+      "summary": "Cognitive warfare involving misinformation in the age of AI raises concerns about legal and ethical implications.",
+      "source": "Phys.Org",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:40:08Z",
+      "url": "https://phys.org/news/2025-07-cognitive-warfare-wars-bullets-legal.html"
+    },
+    {
+      "id": 61,
+      "title": "Puppy Left Home Alone Outside Crate, Owner Films 'Disaster' They Return To",
+      "summary": "An English bulldog puppy was left home alone outside her crate for the first time, leading to a 'disaster' captured on video by her owner. The viral Instagram video showcases the potential of using AI-generated voices for content creation.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:39:18Z",
+      "url": "https://biztoc.com/x/448ca33fc332a055"
+    },
+    {
+      "id": 62,
+      "title": "M/I Homes' (NYSE:MHO) five-year total shareholder returns outpace the underlying earnings growth",
+      "summary": "M/I Homes' five-year total shareholder returns outpace the underlying earnings growth, highlighting the risks involved in investing in companies whose success is not guaranteed.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:38:49Z",
+      "url": "https://finance.yahoo.com/news/m-homes-nyse-mho-five-153849269.html"
+    },
     {
       "id": 51,
       "title": "odinai-sdk 2.0.1",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T14:13:45Z",
       "url": "https://finance.yahoo.com/news/circuit-board-maker-victory-giant-031558168.html"
-    },
-    {
-      "id": 60,
-      "title": "Here is Why Patterson-UTI Energy (PTEN) Fell This Week",
-      "summary": "The share price of Patterson-UTI Energy, Inc. fell by 9.31% between July 11 and July 18, 2025, impacting its position among Energy Stocks that Lost the",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:13:39Z",
-      "url": "https://finance.yahoo.com/news/why-patterson-uti-energy-pten-141339761.html"
-    },
-    {
-      "id": 61,
-      "title": "5 Tech Tool Making Planners’ Lives Easier",
-      "summary": "5 Tech Tool Making Planners’ Lives Easier - improving meetings and lightening their load for planners.",
-      "source": "Skift",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:13:32Z",
-      "url": "http://meetings.skift.com/2025/07/21/5-tech-tool-making-planners-lives-easier/"
-    },
-    {
-      "id": 62,
-      "title": "Borr Drilling (BORR): Among the Energy Stocks that Fell This Week",
-      "summary": "Borr Drilling Limited (BORR) saw its share price fall by 8.29% between July 11 and July 18, 2025, placing it among the Energy Stocks that Lost the Most.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:13:20Z",
-      "url": "https://finance.yahoo.com/news/borr-drilling-borr-among-energy-141320097.html"
-    },
-    {
-      "id": 63,
-      "title": "Halliburton Company (HAL) Falls Amid Lower Expectations for Q2 Profits",
-      "summary": "Halliburton Company's share price fell amid lower expectations for Q2 profits, contributing to the Energy Stocks that Lost the Most list.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:12:47Z",
-      "url": "https://finance.yahoo.com/news/halliburton-company-hal-falls-amid-141247100.html"
-    },
-    {
-      "id": 64,
-      "title": "text2sql-ltm 1.0.0",
-      "summary": "text2sql-ltm 1.0.0 is an advanced Text-to-SQL library with revolutionary AI features.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:12:39Z",
-      "url": "https://pypi.org/project/text2sql-ltm/1.0.0/"
-    },
-    {
-      "id": 65,
-      "title": "text2sql-ltm added to PyPI",
-      "summary": "text2sql-ltm added to PyPI - The most advanced Text-to-SQL library with revolutionary AI features",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:12:39Z",
-      "url": "https://pypi.org/project/text2sql-ltm/"
-    },
-    {
-      "id": 66,
-      "title": "Build a Next-Gen AI Agent That Feels Alive Using LangChain and FastAPI",
-      "summary": "Build a Next-Gen AI Agent That Feels Alive Using LangChain and FastAPI to create a conversational AI agent that answers complex questions, integrates with external tools, streams real-time responses, and delivers structured outputs in one system.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:12:13Z",
-      "url": "https://www.geeky-gadgets.com/building-conversational-ai-agents-guide-2025/"
-    },
-    {
-      "id": 67,
-      "title": "Hackers exploit Microsoft flaw to launch global attack – media",
-      "summary": "Hackers exploited a Microsoft flaw to launch a global attack targeting government agencies and corporations using the SharePoint Server document management system.",
-      "source": "RT",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:11:43Z",
-      "url": "https://www.rt.com/news/621773-hackers-exploit-microsoft-flaw-attack/"
-    },
-    {
-      "id": 68,
-      "title": "selenium-mcp-server 1.1.6",
-      "summary": "The selenium-mcp-server 1.1.6 is a powerful Model Context Protocol (MCP) server that enables AI assistants to utilize Selenium WebDriver automation, opening up new possibilities for automated testing and tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:10:29Z",
-      "url": "https://pypi.org/project/selenium-mcp-server/1.1.6/"
-    },
-    {
-      "id": 69,
-      "title": "How to hide AI-generated images in DuckDuckGo search results",
-      "summary": "Learn how to hide AI-generated images in DuckDuckGo search results on iPhone, iPad, and Mac",
-      "source": "Idownloadblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:10:21Z",
-      "url": "https://www.idownloadblog.com/2025/07/21/duckduckgo-hide-ai-image-search-results-tutorial/"
-    },
-    {
-      "id": 51,
-      "title": "Future iPhone, Galaxy smartphones could arrive without Chrome browser",
-      "summary": "Future iPhone and Galaxy smartphones may not come with Chrome browser pre-installed, prompting users to adapt to new browsing options.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:54:21Z",
-      "url": "https://www.phonearena.com/news/future-iphone-galaxy-smartphones-could-arrive-without-chrome-browser_id172476"
-    },
-    {
-      "id": 52,
-      "title": "Elon Musk’s AI Praised Hitler. Now He Wants It to Teach Your Kids",
-      "summary": "Elon Musk's AI, known for chaos and conspiracy, is now being considered for educating children, raising ethical concerns about whether such a system can be trusted with shaping the next generation.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:54:20Z",
-      "url": "https://gizmodo.com/elon-musks-ai-praised-hitler-now-he-wants-it-to-teach-your-kids-2000631987"
     }
   ]
 }
