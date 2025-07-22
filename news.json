@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-22T04:51:35.295Z",
+  "lastUpdate": "2025-07-22T05:21:24.707Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Fujifilm increases back-end process materials investment to drive growth",
+      "summary": "Fujifilm increases back-end process materials investment to drive growth, aiming to capture market share in semiconductor materials driven by rapidly expanding demand.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:20:08Z",
+      "url": "https://www.digitimes.com/news/a20250721PD222/materials-fujifilm-2025-investment-business.html"
+    },
+    {
+      "id": 52,
+      "title": "Authors Suing Anthropic Can Band Together in Copyright Suit, Judge Rules",
+      "summary": "Authors suing Anthropic for copyright infringement can represent writers nationwide in a lawsuit to band together against the AI startup.",
+      "source": "Insurance Journal",
+      "category": "startups",
+      "timestamp": "2025-07-21T05:20:01Z",
+      "url": "https://www.insurancejournal.com/news/national/2025/07/21/832324.htm"
+    },
+    {
+      "id": 53,
+      "title": "coppersun-brass 2.3.20",
+      "summary": "Coppersun-brass 2.3.20 is introducing Development Intelligence for AI Agents in their Copper Sun Product Line.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:19:42Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.20/"
+    },
+    {
+      "id": 54,
+      "title": "Hide AI‑Generated Images in DuckDuckGo to Cut Through the ‘AI Slop’",
+      "summary": "Hide AI‑Generated Images in DuckDuckGo to cut through “AI slop” and find real photos fast.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:19:40Z",
+      "url": "https://www.smashingapps.com/hide-ai-generated-images-in-duckduckgo/"
+    },
+    {
+      "id": 55,
+      "title": "CyberAgent (CYAGF) versus Its Rivals Head-To-Head Review",
+      "summary": "CyberAgent (CYAGF) is being compared to its rivals in the INTERNET SERVICES industry to determine how it stacks up against its peers in terms of dividends and institutional support.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-21T05:15:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/cyberagent-cyagf-versus-its-rivals-head-to-head-review/"
+    },
+    {
+      "id": 56,
+      "title": "DeNA (OTCMKTS:DNACF) and LivePerson (NASDAQ:LPSN) Critical Review",
+      "summary": "DeNA and LivePerson are being compared based on their profitability and institutional ownership in the context of small-cap computer and technology companies.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-21T05:14:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/dena-otcmktsdnacf-and-liveperson-nasdaqlpsn-critical-review/"
+    },
+    {
+      "id": 57,
+      "title": "Perplexity CEO Aravind Srinivas has advice for youngsters busy on social media watching reels",
+      "summary": "Perplexity CEO Aravind Srinivas advises youngsters to stop wasting time on social media and start mastering AI tools, as artificial intelligence is reshaping the future.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-21T05:13:47Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/perplexity-ceo-aravind-srinivas-has-advice-for-youngsters-busy-on-social-media-watching-reels/articleshow/122806363.cms"
+    },
+    {
+      "id": 58,
+      "title": "inframe added to PyPI",
+      "summary": "inframe, a Screen Context Recording and Querying SDK, has been added to PyPI for developers to easily incorporate into their AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:10:39Z",
+      "url": "https://pypi.org/project/inframe/"
+    },
+    {
+      "id": 59,
+      "title": " Reliable signings and struggles for Serie A giants in the market",
+      "summary": "Reliable signings and struggles for Serie A giants in the market - New coaches, excellent sales, and just as many valuable signings. The first 20 (official) days of the transfer window have brought major changes to the top Serie A clubs.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T05:09:00Z",
+      "url": "https://onefootball.com/en/news/reliable-signings-and-struggles-for-serie-a-giants-in-the-market-41402560"
+    },
+    {
+      "id": 60,
+      "title": "Take nation into confidence: Mayawati calls on govt, opposition to have constructive debate in Parliament",
+      "summary": "Mayawati calls for government and opposition to prioritize national interests over party politics during Parliament sessions, advocating for constructive debates on critical issues such as unemployment, women's safety, and national security.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T05:07:22Z",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/take-nation-into-confidence-mayawati-calls-on-govt-opposition-to-have-constructive-debate-in-parliament/articleshow/122806714.cms"
+    },
+    {
+      "id": 61,
+      "title": "60 Minutes S57E50 1080p WEB h264-BAE",
+      "summary": "The news covers AI in the classroom, discussing how it is being utilized. It also mentions Mezcal, a handcrafted Mexican spirit.",
+      "source": "Rlsbb.cc",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:05:16Z",
+      "url": "https://post.rlsbb.cc/60-minutes-s57e50-1080p-web-h264-bae/"
+    },
+    {
+      "id": 62,
+      "title": "☕️ FC Breakfast: Rashford stars, surprise double, Vini x Travis Scott",
+      "summary": "Having arrived in Barcelona on Sunday evening to sign with the Catalan club, Marcus Rashford is already being honored by Barça supporters.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T05:05:00Z",
+      "url": "https://onefootball.com/en/news/fc-breakfast-rashford-stars-surprise-double-vini-x-travis-scott-41402550"
+    },
     {
       "id": 51,
       "title": "Singapore dollar exhibits safe-haven currency features. But it's no yen or Swiss franc — yet",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T02:56:42Z",
       "url": "https://pypi.org/project/ai-interactive-feedback/2025.721.1/"
-    },
-    {
-      "id": 63,
-      "title": "Global tech showdown post-tariffs shines spotlight on US-China rivalry",
-      "summary": "Global tech showdown post-tariffs shines spotlight on US-China rivalry with release of Critical and Emerging Technologies Index (CETI) report by The Belfer Center at Harvard's Kennedy School of Public Policy, quantifying capabilities of 25 countries in AI, biotechnology, semiconductors, space, and quantum tech.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:55:17Z",
-      "url": "https://www.digitimes.com/news/a20250716PD232/us-china-trade-war-security-semiconductors-taiwan.html"
-    },
-    {
-      "id": 64,
-      "title": "Democrats bow to nuclear-energy reality — but the left won’t give up their delusions",
-      "summary": "Democrats are facing backlash from the climate-activist left for embracing nuclear power, despite its potential benefits. The decision highlights the ethical dilemma between environmental concerns and the need for clean energy sources.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T02:55:06Z",
-      "url": "https://nypost.com/2025/07/20/opinion/democrats-bow-to-nuclear-reality-leaving-the-left-behind/"
-    },
-    {
-      "id": 65,
-      "title": "This Week in Tech 1041: A $4 Bill",
-      "summary": "The news highlights concerns about privacy and surveillance as exemplified by incidents involving Coldplay kiss-cam flap and Amazon Ring. OpenAI LLM's impressive performance in a math competition is also mentioned.",
-      "source": "Twit.tv",
-      "category": "ethics",
-      "timestamp": "2025-07-21T02:54:50Z",
-      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1041"
-    },
-    {
-      "id": 66,
-      "title": "UK May Backtrack on Controversial Demand for Backdoor to Encrypted Apple User Data",
-      "summary": "The British government may be forced to drop its plans to force Apple to build a backdoor into encrypted user data.",
-      "source": "MacRumors",
-      "category": "ethics",
-      "timestamp": "2025-07-21T02:50:04Z",
-      "url": "https://www.macrumors.com/2025/07/20/uk-may-backtrack-on-demand-for-backdoor/"
-    },
-    {
-      "id": 67,
-      "title": "As Trump courts a more assertive Beijing, China hawks are losing out",
-      "summary": "The Trump administration has reversed a ban on Nvidia’s H20 AI chip sales to China, easing tensions in a complex trade dispute with potential trade ta...",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:49:38Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/as-trump-courts-a-more-assertive-beijing-china-hawks-are-losing-out/articleshow/122804868.cms"
-    },
-    {
-      "id": 68,
-      "title": "open-dataflow-adp 1.1.1",
-      "summary": "The open-dataflow-adp 1.1.1 is a modern data-centric AI system designed for Large Language Models, aimed at enhancing the efficiency and performance of AI applications. This update represents an innovative advancement in AI technology, particularly in the realm of natural language processing.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T02:45:21Z",
-      "url": "https://pypi.org/project/open-dataflow-adp/1.1.1/"
-    },
-    {
-      "id": 69,
-      "title": "Wipro management on 10.9% surge in net YoY, deal wins & hopes for a better H2",
-      "summary": "Wipro's management is optimistic about a better second half following a 10.9% increase in net year-over-year, fueled by a strong $5 billion order book with a significant $2.75 billion contract. The company aims to capitalize on these wins and explore new opportunities for growth.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T02:41:00Z",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/wipro-management-on-10-9-surge-in-net-yoy-deal-wins-hopes-for-a-better-h2/articleshow/122766945.cms"
-    },
-    {
-      "id": 51,
-      "title": " In a redemption moment, Pedro secures Flamengo win over Fluminense",
-      "summary": "Flamengo secures a win over Fluminense in the 15th round of Brasileirão 2025 at Maracanã, with a score of 1-0, marking a redemption moment for Pedro.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T01:16:00Z",
-      "url": "https://onefootball.com/en/news/in-a-redemption-moment-pedro-secures-flamengo-win-over-fluminense-41402247"
-    },
-    {
-      "id": 52,
-      "title": "GMKtec EVO-X1 MFF AI Mini PC: Ryzen AI 9 HX 370, 32GB LPDDR5x, 2TB SSD $699.99 (1 replies)",
-      "summary": "GMKtec EVO-X1 MFF AI Mini PC with Ryzen AI 9 HX 370 processor, 32GB RAM, and 2TB SSD priced at $699.99, available in-store only. Specs include AMD Radeon 890M Graphics.",
-      "source": "Slickdeals.net",
-      "category": "innovation",
-      "timestamp": "2025-07-21T01:14:04Z",
-      "url": "https://slickdeals.net/f/18472009-gmktec-evo-x1-mff-ai-mini-pc-ryzen-ai-9-hx-370-32gb-lpddr5x-2tb-ssd-699-99"
-    },
-    {
-      "id": 53,
-      "title": "More volatility ahead: A mid-year prediction update",
-      "summary": "Predictions for 2025 include trade wars, economic shifts, job insecurity, and the impact of AI according to Shiv Shivakumar.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-21T01:08:00Z",
-      "url": "https://www.thehindubusinessline.com/specials/corporate-file/more-volatility-ahead-a-mid-year-prediction-update/article69835811.ece"
-    },
-    {
-      "id": 54,
-      "title": "Stock Market Highlights 21 July 2025: Sensex, Nifty close firmer",
-      "summary": "Stock Market Highlights on 21 July 2025: Sensex and Nifty closed firmer with Sensex gaining 442.61 points and Nifty 50 rising by 122.30 points as equity markets traded in a narrow range.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-21T01:07:09Z",
-      "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-updates-21-july-2025/article69834281.ece"
-    },
-    {
-      "id": 55,
-      "title": "Tacking a GPU on an old desktop",
-      "summary": "Adding a GPU to an old desktop like a Dell Optiplex 3020 can improve performance and make it more suitable for AI-related tasks, showcasing innovation in repurposing old hardware for new applications.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-21T01:06:54Z",
-      "url": "https://www.bleepingcomputer.com/forums/t/809647/tacking-a-gpu-on-an-old-desktop/"
     }
   ]
 }
