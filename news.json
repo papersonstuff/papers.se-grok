@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T17:55:07.301Z",
+  "lastUpdate": "2025-07-22T18:23:17.855Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Detecting High-Stakes Interactions with Activation Probes",
+      "summary": "Researchers at LASR Labs developed a method for detecting high-stakes interactions with activation probes, supervised by Dmitrii Krasheninnikov and guided by Ekdeep Singh Lubana and others.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-21T18:22:43Z",
+      "url": "https://www.lesswrong.com/posts/utcZSRv2JfahD8yfz/detecting-high-stakes-interactions-with-activation-probes"
+    },
+    {
+      "id": 52,
+      "title": "Google continues to tease Gemini Deep Think with mathematics win",
+      "summary": "Google showcases gold-medal performance in mathematics competition as a teaser for upcoming Gemini Deep Think mode.",
+      "source": "9to5google.com",
+      "category": "research",
+      "timestamp": "2025-07-21T18:22:40Z",
+      "url": "http://9to5google.com/2025/07/21/gemini-deep-think-math-imo-2025/"
+    },
+    {
+      "id": 53,
+      "title": "GitHub - superagent-ai/grok-cli: An open-source AI agent that brings the power of Grok directly into your terminal.",
+      "summary": "An open-source AI agent called grok-cli brings the power of Grok directly into your terminal, allowing for easier accessibility and usability.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:22:32Z",
+      "url": "https://github.com/superagent-ai/grok-cli"
+    },
+    {
+      "id": 54,
+      "title": "Interest In Epstein Podcasts, Books, Documentaries Soar Amid Renewed Scrutiny Of Trump",
+      "summary": "Interest in Epstein-related content rises due to renewed scrutiny of Trump's relationship with Epstein, following reports of a suggestive birthday card gifted by Trump in 2003.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:22:28Z",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2025/07/21/interest-in-epstein-podcasts-books-documentaries-soar-amid-renewed-scrutiny-of-trump/"
+    },
+    {
+      "id": 55,
+      "title": "More than just a bad date: Navigating harms on LGBTQ+ dating apps",
+      "summary": "Queer and trans people can experience harm on LGBTQ+ dating apps, but there are steps they and the apps themselves can take to address these issues.",
+      "source": "The Conversation Africa",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:20:42Z",
+      "url": "https://theconversation.com/more-than-just-a-bad-date-navigating-harms-on-lgbtq-dating-apps-252297"
+    },
+    {
+      "id": 56,
+      "title": "Zoner Studio photo editor review",
+      "summary": "Zoner Studio offers a variety of tools, including some AI assistance, to help users enhance their images.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:20:18Z",
+      "url": "https://www.techradar.com/pro/software-services/zoner-studio-photo-editor-review"
+    },
+    {
+      "id": 57,
+      "title": "As AI agents go mainstream, companies lean into confidential computing for data security",
+      "summary": "Companies are turning to confidential computing for data security as AI agents become more prevalent in IT environments.",
+      "source": "Computerworld",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:16:27Z",
+      "url": "https://www.computerworld.com/article/4025903/as-ai-agents-go-mainstream-companies-lean-into-confidential-computing-for-data-security.html"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: Lotas – Cursor for RStudio",
+      "summary": "Hey HN! Jorge and Will from Lotas have built an AI coding assistant into RStudio, used by 2 million data scientists. They aim to fill the gap of coding assistant within the platform.",
+      "source": "Lotas.ai",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:16:10Z",
+      "url": "https://www.lotas.ai/"
+    },
+    {
+      "id": 59,
+      "title": "ChatGPT, AI chatbots may have a big problem on their hands",
+      "summary": "AI chatbots like ChatGPT are facing a potential problem as they become more advanced, offering a wide range of capabilities from answering questions to providing assistance with tasks like homework. These chatbots have the potential to revolutionize the way people interact with technology and each other.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:14:58Z",
+      "url": "https://biztoc.com/x/d931b89aadc6c07a"
+    },
+    {
+      "id": 60,
+      "title": "Donald Trump Has Request for Judge Ruling in Bryan Kohberger Case",
+      "summary": "President Donald Trump has made a request to District Judge Steven Hippler in the Bryan Kohberger case, where Kohberger pleaded guilty to four counts of murder and one count of burglary.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:14:56Z",
+      "url": "https://biztoc.com/x/ef38154eb0c41d63"
+    },
+    {
+      "id": 61,
+      "title": "AI and other future technologies will be necessary — but not sufficient — for enacting the UN’s Pact for the Future",
+      "summary": "AI and other future technologies are important but not enough for the success of the UN's Pact for the Future, which also requires focus on environmental and social justice, financial resources, and incorporation of new technologies.",
+      "source": "The Conversation Africa",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:13:22Z",
+      "url": "https://theconversation.com/ai-and-other-future-technologies-will-be-necessary-but-not-sufficient-for-enacting-the-uns-pact-for-the-future-247511"
+    },
+    {
+      "id": 62,
+      "title": "Andy Byron's Astronomer Salary Revealed After Resignation",
+      "summary": "Andy Byron's Astronomer salary revealed after resignation from the private data infrastructure startup with a valuation of $1.3 billion.",
+      "source": "Men's Journal",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:13:00Z",
+      "url": "https://www.mensjournal.com/news/andy-byron-salary-net-worth-wife-megan-astronomer-money"
+    },
+    {
+      "id": 63,
+      "title": "Gabe Newell says AI is a 'significant technology transition' on a par with the emergence of computers or the internet, and will be 'a cheat code for people who want to take advantage of it'",
+      "summary": "Gabe Newell highlights the importance of AI as a significant technology transition and suggests using it to improve various aspects of life.",
+      "source": "PC Gamer",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:11:42Z",
+      "url": "https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/"
+    },
+    {
+      "id": 64,
+      "title": "ob-metaflow 2.15.21.3",
+      "summary": "Metaflow introduces version 2.15.21.3 with more focus on AI and ML capabilities, reducing the need for extensive engineering work.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:11:38Z",
+      "url": "https://pypi.org/project/ob-metaflow/2.15.21.3/"
+    },
+    {
+      "id": 65,
+      "title": "India’s 7 major railway stations to get AI surveillance and facial recognition; these railway stations are…",
+      "summary": "Seven major Indian railway stations are set to receive AI-powered facial recognition surveillance systems to enhance passenger safety and modernize security measures.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T18:11:16Z",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/indias-7-major-railway-stations-to-get-ai-surveillance-and-facial-recognition-these-railway-stations-are/articleshow/122820837.cms"
+    },
+    {
+      "id": 66,
+      "title": "ReShape Lifesciences® to Host Special Meeting of Stockholders on July 24, 2025",
+      "summary": "ReShape Lifesciences to host special meeting for stockholders to approve merger agreement with Vyome Therapeutics and asset purchase agreement with Biorad Medisys.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118962/0/en/ReShape-Lifesciences-to-Host-Special-Meeting-of-Stockholders-on-July-24-2025.html"
+    },
+    {
+      "id": 67,
+      "title": "Google's Gemini AI Wins a Gold Medal at International Math Olympiad",
+      "summary": "Google's Gemini AI with Deep Thinking wins a gold medal at the International Math Olympiad, marking a significant advancement in problem-solving using AI technology.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:08:54Z",
+      "url": "https://www.techpowerup.com/339114/googles-gemini-ai-wins-a-gold-medal-at-international-math-olympiad"
+    },
+    {
+      "id": 68,
+      "title": "Why Voice of the Customer Breaks Down at the BPO Level",
+      "summary": "When BPOs profit from more calls, preventing issues isn't in their best interest, causing the breakdown of Voice of the Customer. This raises ethical concerns about prioritizing profits over customer satisfaction.",
+      "source": "CMSWire",
+      "category": "ethics",
+      "timestamp": "2025-07-21T18:06:53Z",
+      "url": "https://www.cmswire.com/contact-center/why-voice-of-the-customer-breaks-down-at-the-bpo-level/"
+    },
+    {
+      "id": 69,
+      "title": "arize-phoenix 11.9.0",
+      "summary": "Arize-phoenix 11.9.0 has introduced new features for AI observability and evaluation, allowing for better monitoring and performance tracking. This update aims to improve the overall efficiency and effectiveness of AI systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T18:06:42Z",
+      "url": "https://pypi.org/project/arize-phoenix/11.9.0/"
+    },
+    {
+      "id": 70,
+      "title": "New Astronomer CEO breaks silence on Coldplay ‘kiss cam’ scandal — gushes that AI firm now a ‘household name’",
+      "summary": "New CEO of AI startup Astronomer breaks silence on scandal involving previous boss, highlighting company's increased visibility and reputation as a result.",
+      "source": "New York Post",
+      "category": "startups",
+      "timestamp": "2025-07-21T18:04:45Z",
+      "url": "https://nypost.com/2025/07/21/business/new-astronomer-ceo-breaks-silence-on-coldplay-kiss-cam-scandal/"
+    },
     {
       "id": 51,
       "title": "AWS, Meta Unveil Startup Program as Zuckerberg Pushes AI",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T17:16:56Z",
       "url": "https://www.businessinsider.com/ai-for-cold-chain-operations-safety-algorithms-agents-digital-twins-2025-7"
-    },
-    {
-      "id": 52,
-      "title": "Netflix just revealed AI-generated footage in a popular show for the first time - did you spot it?",
-      "summary": "Netflix incorporated AI-generated footage in a popular show, marking a milestone in the use of generative AI tools in content creation.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:15:41Z",
-      "url": "https://www.zdnet.com/article/netflix-just-revealed-ai-generated-footage-in-a-popular-show-for-the-first-time-did-you-spot-it/"
-    },
-    {
-      "id": 53,
-      "title": "tf-nightly-cpu 2.21.0.dev20250721",
-      "summary": "tf-nightly-cpu 2.21.0.dev20250721 - TensorFlow is an open source machine learning framework for everyone.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:15:30Z",
-      "url": "https://pypi.org/project/tf-nightly-cpu/2.21.0.dev20250721/"
-    },
-    {
-      "id": 54,
-      "title": "pyfound 0.1.1",
-      "summary": "pyfound 0.1.1 - Found! is an AI enabled tool for fast semantic search over your personal documents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:15:18Z",
-      "url": "https://pypi.org/project/pyfound/0.1.1/"
-    },
-    {
-      "id": 55,
-      "title": "OpenAI, UK sign new strategic partnership",
-      "summary": "OpenAI and the UK government signed a strategic partnership focusing on expanding AI security research collaborations and exploring investments in AI infrastructure.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:13:56Z",
-      "url": "https://www.channelnewsasia.com/business/openai-uk-sign-new-strategic-partnership-5250346"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI and UK sign new AI agreement to boost security, infrastructure",
-      "summary": "OpenAI and UK sign new AI agreement to boost security and infrastructure, including expanding research collaborations and investing in AI data centres.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:13:56Z",
-      "url": "https://www.channelnewsasia.com/business/openai-and-uk-sign-new-ai-agreement-boost-security-infrastructure-5250346"
-    },
-    {
-      "id": 57,
-      "title": "OpenAI, UK sign new strategic partnership",
-      "summary": "OpenAI and the UK government signed a strategic partnership to expand AI security research collaborations.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-21T17:13:56Z",
-      "url": "https://finance.yahoo.com/news/openai-uk-sign-strategic-partnership-171356702.html"
-    },
-    {
-      "id": 58,
-      "title": "pyfound added to PyPI",
-      "summary": "pyfound added to PyPI - Found! is an AI enabled tool for fast semantic search over your personal documents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:13:04Z",
-      "url": "https://pypi.org/project/pyfound/"
-    },
-    {
-      "id": 59,
-      "title": "pyfound 0.1.0",
-      "summary": "pyfound 0.1.0 - Found! is an AI enabled tool for fast semantic search over personal documents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:13:04Z",
-      "url": "https://pypi.org/project/pyfound/0.1.0/"
-    },
-    {
-      "id": 60,
-      "title": "New Astronomer CEO describes 'unusual and surreal' Coldplay 'kiss cam' scandal",
-      "summary": "New Astronomer CEO addresses 'unusual and surreal' Coldplay 'kiss cam' scandal, issuing a statement on the viral moment at a Coldplay concert.",
-      "source": "NBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:12:43Z",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/new-astronomer-ceo-describes-unusual-surreal-coldplay-kiss-cam-scandal-rcna220043"
-    },
-    {
-      "id": 61,
-      "title": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
-      "summary": "Instacart's former CEO Fidji Simo is set to lead a big portion of OpenAI as the new 'CEO of Applications', focusing on scaling and growing the company's applications under the guidance of OpenAI CEO Sam Altman.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:12:29Z",
-      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
-    },
-    {
-      "id": 62,
-      "title": "its-compiler-cli added to PyPI",
-      "summary": "its-compiler-cli added to PyPI, a command-line interface for ITS Compiler which converts ITS templates to AI prompts.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:12:20Z",
-      "url": "https://pypi.org/project/its-compiler-cli/"
-    },
-    {
-      "id": 63,
-      "title": "tf-nightly 2.21.0.dev20250721",
-      "summary": "tf-nightly 2.21.0.dev20250721 is the latest version of TensorFlow, an open source machine learning framework for all users.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:12:02Z",
-      "url": "https://pypi.org/project/tf-nightly/2.21.0.dev20250721/"
-    },
-    {
-      "id": 64,
-      "title": "Use generative AI in Amazon Bedrock for enhanced recommendation generation in equipment maintenance",
-      "summary": "Use generative AI in Amazon Bedrock for enhanced recommendation generation in equipment maintenance in the manufacturing world, with valuable insights from service reports being underutilized. This post explores how AWS customers can build a solution that automates digitisation and extraction of crucial data.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:10:55Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-in-amazon-bedrock-for-enhanced-recommendation-generation-in-equipment-maintenance/"
-    },
-    {
-      "id": 65,
-      "title": "Obama Arrest Video Is Trump’s Most Unhinged Epstein Diversion",
-      "summary": "The Obama arrest video is Trump’s most unhinged Epstein diversion, with AI technology being used to create fake videos. This raises ethical concerns about the use of technology to spread misinformation and manipulate the public.",
-      "source": "New York Magazine",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:10:52Z",
-      "url": "http://nymag.com/intelligencer/article/obama-arrest-ai-video-trump-epstein.html"
-    },
-    {
-      "id": 66,
-      "title": "XAI Advanced Talks With Saudi Arabia for AI Data Centers",
-      "summary": "xAI is in advanced talks with Saudi Arabia to secure multi-gigawatts of AI Data Center compute capacity, negotiating a long term lease for data centers in the Kingdom.",
-      "source": "Next Big Future",
-      "category": "economy",
-      "timestamp": "2025-07-21T17:10:41Z",
-      "url": "https://www.nextbigfuture.com/2025/07/xai-advanced-talks-with-saudi-arabia-for-ai-data-centers.html"
-    },
-    {
-      "id": 67,
-      "title": "Avatar: Frontiers Of Pandora Is Getting A Big Free Update Later This Year",
-      "summary": "Avatar: Frontiers of Pandora is getting a big free update later this year, making the open world sci-fi adventure easy to recommend with ongoing updates and discounts.",
-      "source": "Kotaku",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:10:00Z",
-      "url": "https://kotaku.com/avatar-frontiers-pandora-cheap-third-person-new-game-1851786644"
-    },
-    {
-      "id": 68,
-      "title": "Pam Bondi Grants Hillary Clinton Email Probe Request Amid Epstein Furor",
-      "summary": "Attorney General Pam Bondi granted a request for an investigation into Hillary Clinton's email probe amid controversy surrounding Jeffery Epstein. The use of AI-generated voice may lead to inconsistencies in the news reporting.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:08:43Z",
-      "url": "https://biztoc.com/x/da87d595af79868e"
-    },
-    {
-      "id": 69,
-      "title": "Apple Only Has One Hope for a Foldable iPhone that Beats Samsung",
-      "summary": "Apple's hope for a foldable iPhone that beats Samsung lies in software, not hardware.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:08:42Z",
-      "url": "https://gizmodo.com/apple-only-has-one-hope-for-a-foldable-iphone-that-beats-samsung-2000631990"
-    },
-    {
-      "id": 70,
-      "title": "Trump's Approval Rating Has 'Started To Drop More Quickly'—Nate Silver",
-      "summary": "President Donald Trump's approval rating has started to drop more quickly, according to pollster Nate Silver's analysis on his Silver Bulletin website.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-21T17:08:41Z",
-      "url": "https://biztoc.com/x/7479b5d22314ba5e"
-    },
-    {
-      "id": 51,
-      "title": "Sorry MSI, but you blew it – the Claw A8 is overpriced and could struggle to compete against cheaper rivals like the Steam Deck",
-      "summary": "The MSI Claw A8 is criticized for being overpriced and may have trouble competing with cheaper alternatives like the Steam Deck. Pre-orders are available in Europe but the high price could deter potential buyers.",
-      "source": "TechRadar",
-      "category": "economy",
-      "timestamp": "2025-07-21T16:51:25Z",
-      "url": "https://www.techradar.com/computing/gaming-pcs/sorry-msi-but-you-blew-it-the-claw-a8-is-overpriced-and-could-struggle-to-compete-against-cheaper-rivals-like-the-steam-deck"
     }
   ]
 }
