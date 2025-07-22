@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-22T10:48:27.649Z",
+  "lastUpdate": "2025-07-22T11:14:02.919Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Meta snubs the EU’s voluntary AI guidelines",
+      "summary": "Meta snubs EU's voluntary AI guidelines, warning Europe is heading down the wrong path on AI.",
+      "source": "The Verge",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:13:49Z",
+      "url": "https://www.theverge.com/news/710576/meta-eu-ai-act-code-of-practice-agreement"
+    },
+    {
+      "id": 52,
+      "title": "Oral Care Market Analysis Report 2025-2032 | Emergence of Electric Toothbrushes, Introduction of Skincare-Inspired Oral Care Products, and Integration of AI in Toothbrushes",
+      "summary": "The global oral care market is set for robust growth, driven by emerging trends such as electric toothbrushes, skincare-inspired oral care products, and the integration of AI in toothbrushes. Key players like Colgate-Palmolive, GlaxoSmithKline, and Johnson & Johnson are leading the market in this innovation-driven sector.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:13:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118616/28124/en/Oral-Care-Market-Analysis-Report-2025-2032-Emergence-of-Electric-Toothbrushes-Introduction-of-Skincare-Inspired-Oral-Care-Products-and-Integration-of-AI-in-Toothbrushes.html"
+    },
+    {
+      "id": 53,
+      "title": "Delhi's draft Industrial Policy proposes financial incentives to promote AI, fintech",
+      "summary": "Delhi's draft Industrial Policy proposes financial incentives to promote AI and fintech, focusing on research, innovation, and capital investment reimbursement.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:12:54Z",
+      "url": "https://economictimes.indiatimes.com/news/india/delhis-draft-industrial-policy-proposes-financial-incentives-to-promote-ai-fintech/articleshow/122814585.cms"
+    },
+    {
+      "id": 54,
+      "title": "Down 28%, Should You Buy the Dip on CoreWeave?",
+      "summary": "CoreWeave, a startup in the AI infrastructure industry, has seen a 28% dip in its stock price despite experiencing 420% revenue growth last year. Investors should consider the risks before deciding whether to buy the dip.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T11:12:02Z",
+      "url": "https://biztoc.com/x/54bb766bdf34ce25"
+    },
+    {
+      "id": 55,
+      "title": "Designing the next frontier in enterprise AI innovation",
+      "summary": "In the last 2 years and more, of the gen AI evolution, we have already seen three sweeping waves.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:11:56Z",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/designing-the-next-frontier-in-enterprise-ai-innovation/articleshow/122814564.cms"
+    },
+    {
+      "id": 56,
+      "title": "Lege Miami Reacts to Rumours of Circulating Bedroom Tape Online, Netizens React: “Him Thing Big O”",
+      "summary": "Nigerian actor Lege Miami faces invasion of privacy concerns as alleged bedroom video circulates online sparking reactions.",
+      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:10:21Z",
+      "url": "https://www.legit.ng/entertainment/celebrities/1665262-lege-miami-reacts-rumours-circulating-bedroom-tape-online-netizens-react-big-o/"
+    },
+    {
+      "id": 57,
+      "title": "Abel founder claims Meta offered $1.25 billion over four years to AI hire — 'person still said no' despite equivalent of $312 million yearly salary",
+      "summary": "Abel founder claims Meta offered $1.25 billion over four years to AI hire, but 'person still said no' despite equivalent of $312 million yearly salary.",
+      "source": "Tom's Hardware UK",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:09:22Z",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/abel-founder-claims-meta-offered-usd1-25-billion-over-four-years-to-ai-hire-person-still-said-no-despite-equivalent-of-usd312-million-yearly-salary"
+    },
     {
       "id": 51,
       "title": "Nvidia's Huang says 'doing our best' to serve Chinese market",
@@ -387,69 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T09:31:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/21/3118520/28124/en/Emerging-Semiconductor-Substrates-Market-Research-and-Forecast-Report-2022-2032-Advancements-in-AI-and-HPC-Platforms-are-Expected-to-Create-Lucrative-Opportunities.html"
-    },
-    {
-      "id": 70,
-      "title": "CleverTap’s Leanplum buyout triggers layoffs, top deck exits three years on",
-      "summary": "CleverTap's acquisition of Leanplum in 2022 for global expansion has led to layoffs and executive exits, with Leanplum facing liquidation. CleverTap confirmed the restructuring has mainly impacted the acquired entity.",
-      "source": "Livemint",
-      "category": "startups",
-      "timestamp": "2025-07-21T09:30:35Z",
-      "url": "https://www.livemint.com/companies/clevertap-leanplum-buyout-layoffs-senior-exits-11752993661997.html"
-    },
-    {
-      "id": 51,
-      "title": "Trump posts bizarre AI video of Obama's 'arrest' as he claims 'no-one is above the law'",
-      "summary": "Trump shares deepfake AI video of Obama which raises ethical concerns",
-      "source": "LADbible",
-      "category": "ethics",
-      "timestamp": "2025-07-21T09:19:38Z",
-      "url": "https://www.ladbible.com/news/us-news/donald-trump-obama-ai-video-875246-20250721"
-    },
-    {
-      "id": 52,
-      "title": "The Missing Guide to Prompt Engineering",
-      "summary": "The Missing Guide to Prompt Engineering provides practical frameworks for crafting effective AI prompts, avoiding common pitfalls, and future-proofing workflows.",
-      "source": "Appetals.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T09:18:48Z",
-      "url": "https://appetals.com/promptguide/"
-    },
-    {
-      "id": 53,
-      "title": "The foldable iPhone will be a slam dunk against the Galaxy Z Fold 7 because of two reasons",
-      "summary": "The foldable iPhone is expected to outperform the Galaxy Z Fold 7 due to Apple's ambitious plans for the device, potentially leaving the competition behind.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-21T09:17:32Z",
-      "url": "https://www.phonearena.com/news/foldable-iphone-will-be-slam-dunk-against-galaxy-z-fold-7-because-of-two-reasons_id172461"
-    },
-    {
-      "id": 54,
-      "title": "The Future of AI in Space: Upcoming Missions and Breakthroughs",
-      "summary": "AI is increasingly being used to guide spacecraft, steer satellites, and assist in studying planets in space.",
-      "source": "Space Daily",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:17:25Z",
-      "url": "https://www.spacedaily.com/reports/The_Future_of_AI_in_Space_Upcoming_Missions_and_Breakthroughs_999.html"
-    },
-    {
-      "id": 55,
-      "title": "The Secret to Cloning a High-Revenue Apps in Under 60 Minutes (No Code)",
-      "summary": "With the help of AI-powered tools and no-code platforms, it is now possible to replicate the success of an $80 million app in under 60 minutes without writing any code.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-21T09:15:46Z",
-      "url": "https://www.geeky-gadgets.com/no-code-ai-app-development-success/"
-    },
-    {
-      "id": 56,
-      "title": "Signaturefd LLC Acquires 5,132 Shares of SentinelOne, Inc. (NYSE:S)",
-      "summary": "Signaturefd LLC acquired a large number of shares of SentinelOne, Inc., showing growing interest and investment in the AI sector.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T09:14:41Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/signaturefd-llc-acquires-5132-shares-of-sentinelone-inc-nyses/"
     }
   ]
 }
