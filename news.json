@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-22T15:57:07.462Z",
+  "lastUpdate": "2025-07-22T16:25:59.203Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Navitas stock soars 33% to 52-week high — what’s driving the surge in this semiconductor star?",
+      "summary": "Navitas Semiconductor's stock soars 33% to 52-week high driven by partnership with NVIDIA and anticipation for upcoming earnings.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:25:33Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/navitas-stock-soars-33-to-52-week-high-whats-driving-the-surge-in-this-semiconductor-star/articleshow/122819250.cms"
+    },
+    {
+      "id": 52,
+      "title": "Roper Tech Lifts 2025 Outlook As AI, Acquisitions Fuel Double-Digit Growth",
+      "summary": "Roper Technologies reports strong second-quarter results, with double-digit growth driven by AI initiatives and acquisitions, leading to a lift in their 2025 outlook.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:23:51Z",
+      "url": "https://finance.yahoo.com/news/roper-tech-lifts-2025-outlook-162351927.html"
+    },
+    {
+      "id": 53,
+      "title": "'90 Day Fiance' Star Receives Death Threats",
+      "summary": "Loren Brovarnik, a '90 Day Fiance' star, received death threats via AI-generated messages on Instagram, raising concerns about the ethical implications of AI technology being used for harassment.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:23:47Z",
+      "url": "https://biztoc.com/x/0f02a38ad1c52627"
+    },
+    {
+      "id": 54,
+      "title": "Tired of AI images online? This search engine lets you hide them from results now",
+      "summary": "DuckDuckGo has introduced a new feature that allows users to hide AI-generated images from search results, catering to those who are tired of seeing them online.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-21T16:23:32Z",
+      "url": "https://www.zdnet.com/article/tired-of-ai-images-online-this-search-engine-lets-you-hide-them-from-results-now/"
+    },
+    {
+      "id": 55,
+      "title": "Trump Goes on Meme Spree, Shares AI Video of Obama Getting Arrested",
+      "summary": "President Trump goes on a meme spree on social media, sharing an AI video of Obama getting arrested and calling for Democrats and former FBI director James Comey to be arrested.",
+      "source": "TheWrap",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:22:40Z",
+      "url": "https://www.thewrap.com/trump-truth-social-memes-ai-video-obama-arrest/"
+    },
+    {
+      "id": 56,
+      "title": "S&P 500 Hits All-Time Highs as Earnings Roll In: Markets Wrap",
+      "summary": "S&P 500 hits all-time highs as earnings come in, with traders monitoring resilience in earnings amid tariff risks. Treasury yields and dollar both fell.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:22:28Z",
+      "url": "https://financialpost.com/pmn/business-pmn/sp-500-hits-all-time-highs-as-earnings-roll-in-markets-wrap"
+    },
+    {
+      "id": 57,
+      "title": "Preparedness Primer for an Uncertain Future – Part 1, by Single Farmer",
+      "summary": "A young man is offering a financial incentive of up to $50,000 to whoever introduces him to his future wife, with payments split after marriage. This raises ethical questions about commodifying relationships and the implications of using financial incentives in the search for a spouse.",
+      "source": "Survivalblog.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:18:26Z",
+      "url": "https://survivalblog.com/2025/07/22/preparedness-primer-for-an-uncertain-future-part-1-by-single-farmer/"
+    },
+    {
+      "id": 58,
+      "title": "2029 Club World Cup: broadcaster tips favourite to host the tournament",
+      "summary": "2029 Club World Cup organization begins with Qatar being the favorite to host the tournament.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:18:00Z",
+      "url": "https://onefootball.com/en/news/2029-club-world-cup-broadcaster-tips-favourite-to-host-the-tournament-41405268"
+    },
+    {
+      "id": 59,
+      "title": "Writing Excuses at Worldcon",
+      "summary": "Writing Excuses at Worldcon from August 13th-17th provides opportunities for fans to meetup with hosts, attend panels, and enjoy a full suite party at the Sheraton Grand Seattle.",
+      "source": "Writingexcuses.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:17:02Z",
+      "url": "https://writingexcuses.com/writing-excuses-at-worldcon/"
+    },
+    {
+      "id": 60,
+      "title": "Unilever’s Growth Comes From Finding Opportunity",
+      "summary": "Unilever's growth is driven by identifying opportunities, with additional topics in the newsletter including economic conditions, new taxes on office snacks, and OpenAI expanding into consulting.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:16:05Z",
+      "url": "https://www.forbes.com/sites/meganpoinski/2025/07/21/unilevers-growth-comes-from-finding-opportunity/"
+    },
+    {
+      "id": 61,
+      "title": "VC investments in India at $3.5-billion mark in Q2, 2025: KPMG",
+      "summary": "VC investments in India reached $3.5 billion in Q2 2025, with fintech, healthtech, and logistics leading the way.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:16:03Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/vc-investments-in-india-at-3-5-billion-mark-in-q2-2025-kpmg/articleshow/122819245.cms"
+    },
+    {
+      "id": 62,
+      "title": "AI and the Curious Species of Meaning",
+      "summary": "AI research explores the creation of love and meaning in our minds compared to synthetic minds.",
+      "source": "Psychology Today",
+      "category": "research",
+      "timestamp": "2025-07-21T16:15:10Z",
+      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202507/ai-and-the-curious-species-of-meaning"
+    },
+    {
+      "id": 63,
+      "title": "10 Best Sci-fi Movies of the 2010s, Ranked",
+      "summary": "Science fiction movies had a terrific run in the 2010s, with major franchises like Star Wars and Planet of the Apes contributing to some of the best titles of the decade.",
+      "source": "ComicBook.com",
+      "category": "entertainment",
+      "timestamp": "2025-07-21T16:15:00Z",
+      "url": "http://comicbook.com/movies/news/10-best-sci-fi-movies-2010s-ranked/"
+    },
+    {
+      "id": 64,
+      "title": "CEO Of ChatGPT Rival Perplexity Says AI Will Replace These Jobs In 6 Months",
+      "summary": "Perplexity AI CEO predicts that AI-powered browser Comet will replace recruiter and executive roles within 6 months.",
+      "source": "Hot Hardware",
+      "category": "startup",
+      "timestamp": "2025-07-21T16:15:00Z",
+      "url": "https://hothardware.com/news/ceo-of-chatgpt-rival-perplexity-says-ai-will-replace-these-jobs-in-6-months"
+    },
+    {
+      "id": 65,
+      "title": "At Develop:Brighton, actor Jane Perry offered a rational rebuke to the threat of generative AI",
+      "summary": "Actor Jane Perry warns about the threat of generative AI in voice acting profession, highlighting the potential loss of work due to recording new material without an actor's consent.",
+      "source": "GamesIndustry.biz",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:14:27Z",
+      "url": "https://www.gamesindustry.biz/at-developbrighton-actor-jane-perry-offered-a-rational-rebuke-to-the-threat-of-generative-ai"
+    },
     {
       "id": 51,
       "title": "phosphobot 0.3.68",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T15:16:01Z",
       "url": "https://www.neowin.net/news/new-leaked-renders-reveal-google-pixel-10-colors-and-telephoto-camera/"
-    },
-    {
-      "id": 60,
-      "title": "Officials investigate death of man arrested for public nudity in Garland",
-      "summary": "Officials are investigating the death of a man who was arrested for public nudity in Garland, Texas. The incident raises questions about the handling of individuals in vulnerable situations by law enforcement officers.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:15:30Z",
-      "url": "https://freerepublic.com/focus/f-chat/4329896/posts"
-    },
-    {
-      "id": 61,
-      "title": "What Makes Chord Energy (CHRD) a Good Option for Passive Income Investment?",
-      "summary": "Chord Energy Corporation (NASDAQ:CHRD) is included among the 12 Best Oil and Gas Dividend Stocks to Buy Now, making it a good option for passive income investment.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:15:09Z",
-      "url": "https://finance.yahoo.com/news/makes-chord-energy-chrd-good-151509789.html"
-    },
-    {
-      "id": 62,
-      "title": "AWE 2025 Recap — Is XR Going Mainstream Yet?",
-      "summary": "This year's Augmented World Expo showed increased interest in XR technology, with a focus on consumer-oriented projects that could bring AR into the mainstream soon.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:14:47Z",
-      "url": "https://www.forbes.com/sites/moorinsights/2025/07/21/awe-2025-recap---is-xr-going-mainstream-yet/"
-    },
-    {
-      "id": 63,
-      "title": "Quip is a smart clipboard management app for iOS and Mac",
-      "summary": "Quip is a smart clipboard management app for iOS and Mac that brings a universal clipboard to both platforms.",
-      "source": "TechCrunch",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:14:39Z",
-      "url": "https://techcrunch.com/2025/07/21/quip-is-a-smart-clipboard-management-app-for-ios-and-mac/"
-    },
-    {
-      "id": 51,
-      "title": "kumoai 2.5.0.dev202507210742",
-      "summary": "kumoai 2.5.0.dev202507210742 brings AI capabilities to the Modern Data Stack.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:45:26Z",
-      "url": "https://pypi.org/project/kumoai/2.5.0.dev202507210742/"
-    },
-    {
-      "id": 52,
-      "title": "Show HN: Instantly Handle SQL Commands from Natural Language",
-      "summary": "Show HN: Instantly Handle SQL Commands from Natural Language with an open source SQL editor with AI, designed to simplify complex MySQL queries and eliminate the need to repeatedly prompt ChatGPT for assistance with database schema understanding.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:45:19Z",
-      "url": "https://github.com/XenenDev/lazy-mysql-wizard"
-    },
-    {
-      "id": 53,
-      "title": "Tax Compliance AI Tools - Sovos Has Launched Sovi AI to Streamline Tax Compliance (TrendHunter.com)",
-      "summary": "Tax compliance AI tool Sovi AI launched by Sovos to streamline tax compliance processes globally.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:45:05Z",
-      "url": "https://www.trendhunter.com/trends/tax-compliance"
-    },
-    {
-      "id": 54,
-      "title": "DARPA-Funded Tech Unleashes Robots That Feed on Robots to Heal, Grow, and Evo",
-      "summary": "Columbia University Engineers, funded by DARPA, have developed robots with the ability to consume other robots for healing and improvement.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:45:04Z",
-      "url": "https://freerepublic.com/focus/f-chat/4329889/posts"
-    },
-    {
-      "id": 55,
-      "title": "The $3.5B shift: How Bitcoin miners are cashing in on AI",
-      "summary": "Bitcoin miners are shifting towards making money from AI rather than mining, with firms like Core Scientific and Hive capitalizing on the AI boom.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:45:00Z",
-      "url": "https://cointelegraph.com/explained/the-35b-shift-how-bitcoin-miners-are-cashing-in-on-ai"
-    },
-    {
-      "id": 56,
-      "title": "FDA Commissioner names George Tidmarsh as new CDER director",
-      "summary": "FDA appoints George Tidmarsh as new director of Center for Drug Evaluation and Research, choosing the Stanford physician-scientist and former biopharma executive.",
-      "source": "Techtarget.com",
-      "category": "research",
-      "timestamp": "2025-07-21T14:45:00Z",
-      "url": "https://www.techtarget.com/pharmalifesciences/news/366627868/FDA-Commissioner-names-George-Tidmarsh-as-new-CDER-director"
-    },
-    {
-      "id": 57,
-      "title": "Indian AI startup makes European breakthrough with BharatGPT Mini launch",
-      "summary": "Indian AI startup CoRover achieves European breakthrough with launch of BharatGPT Mini at VivaTech 2025 in Paris.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-21T14:43:36Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-ai-startup-makes-european-breakthrough-with-bharatgpt-mini-launch/articleshow/122818080.cms"
-    },
-    {
-      "id": 58,
-      "title": "300,000 Black women have left the labor force in 3 months",
-      "summary": "Nearly 300,000 Black women have left the U.S. labor force in just three months, causing their participation rate to drop below that of Latinas for the first time.",
-      "source": "Mediatakeout.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:42:29Z",
-      "url": "https://mediatakeout.com/300000-black-women-have-left-the-labor-force-in-3-months/"
-    },
-    {
-      "id": 59,
-      "title": "DGCA to fill 190 vacancies, says Aviation Minister; assures of transparent AAIB probe into plane crash",
-      "summary": "The Aviation Minister announced 190 vacancies to be filled by DGCA and assured a transparent investigation by AAIB into the Air India flight crash.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:41:30Z",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/dgca-to-fill-190-vacancies-says-aviation-minister-assures-of-transparent-aaib-probe-into-plane-crash/article69838867.ece"
-    },
-    {
-      "id": 60,
-      "title": "Galaxy Tab S10 FE/+ now $50 off + 50% off official Keyboard Slim…or up to $350 off with Fold/Flip 7 orders",
-      "summary": "Samsung is offering discounts on the Galaxy Tab S10 FE and FE+ models, with up to $350 off when ordering Fold/Flip 7. Customers can also get $50 off and 50% off the official keyboard case for the tablets.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:41:17Z",
-      "url": "http://9to5toys.com/2025/07/21/galaxy-tab-s10-fe-fold-7/"
-    },
-    {
-      "id": 61,
-      "title": "Your AI Is Making Your Sales Team Look Slow (And That’s a Problem)",
-      "summary": "AI used for outbound sales is reshaping customer expectations around response times, making human sales reps appear slow by comparison.",
-      "source": "Saastr.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:41:02Z",
-      "url": "https://www.saastr.com/your-ai-is-making-your-sales-team-look-slow-and-thats-a-problem/"
     }
   ]
 }
