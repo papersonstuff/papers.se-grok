@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-22T11:31:33.403Z",
+  "lastUpdate": "2025-07-22T11:50:29.393Z",
   "items": [
+    {
+      "id": 51,
+      "title": "What Is a 'Clanker'? New Slur for Robots Catches On",
+      "summary": "A new slur 'Clanker' has been coined by individuals disgruntled with robots and AI, originating from Star Wars lore.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:49:56Z",
+      "url": "https://www.newsweek.com/clanker-slur-robots-star-wars-2101585"
+    },
+    {
+      "id": 52,
+      "title": "Here’s Why Core Laboratories (CLB) Traded Lower in Q2",
+      "summary": "Core Laboratories (CLB) traded lower in Q2 due to the release of Ariel Investments' second-quarter 2025 investor letter, which may have impacted investor confidence.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T11:46:19Z",
+      "url": "https://finance.yahoo.com/news/why-core-laboratories-clb-traded-114619455.html"
+    },
+    {
+      "id": 53,
+      "title": "Trump truly outdoes himself with unhinged AI clip of Barack Obama getting ‘arrested’",
+      "summary": "In a stunningly brazen display of online misinformation, President Donald Trump shared an AI-generated, entirely fake clip of himself laughing at Barack Obama getting arrested.",
+      "source": "Thepinknews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:46:17Z",
+      "url": "https://www.thepinknews.com/2025/07/21/donald-trump-obama-ai-video-clip/"
+    },
+    {
+      "id": 54,
+      "title": "“These Dead Batteries Are Powering AI Now”: US Companies Revive Used EV Packs to Feed Explosive Demand for Data Energy",
+      "summary": "General Motors (GM) and Redwood Materials are partnering to revive used EV batteries to meet the growing energy demands for AI data. This move marks a significant step towards sustainability in the EV industry by addressing the environmental challenges of battery disposal and repurposing.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:45:12Z",
+      "url": "https://biztoc.com/x/d774f53ceb631c95"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: ThreatCluster – Automatically cluster cybersecurity news",
+      "summary": "ThreatCluster is a tool designed to automatically cluster cybersecurity news, consolidating information from multiple sources to provide a more cohesive understanding of major breaches and vulnerabilities.",
+      "source": "Threatcluster.io",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:45:11Z",
+      "url": "https://threatcluster.io/trending"
+    },
+    {
+      "id": 56,
+      "title": "Supply Chain Management in Manufacturing Global Forecast Market Report 2025-2032 | Key Industry Players Invest in AI and IoT for Enhanced Supply Chain Resilience and Efficiency",
+      "summary": "The manufacturing supply chain management market is expected to grow with the help of AI and IoT technologies, leading to enhanced resilience and efficiency. Key industry players are investing in these digital innovations to enable real-time tracking, predictive analytics, and automation.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118648/28124/en/Supply-Chain-Management-in-Manufacturing-Global-Forecast-Market-Report-2025-2032-Key-Industry-Players-Invest-in-AI-and-IoT-for-Enhanced-Supply-Chain-Resilience-and-Efficiency.html"
+    },
+    {
+      "id": 57,
+      "title": "5 Hacks To Quickly Boost Your Google Traffic With AI In 2025",
+      "summary": "5 Hacks to quickly boost Google traffic with AI in 2025, as SEO alone is not enough. Learn how to use AI to increase website traffic and appear in AI results.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:45:00Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/21/5-hacks-to-quickly-boost-your-google-traffic-with-ai-in-2025/"
+    },
+    {
+      "id": 58,
+      "title": "'Humanity has prevailed (for now!)' says former OpenAI employee, admitting he's 'barely alive' after beating one of its AI models in a coding world championship fight",
+      "summary": "Former OpenAI employee narrowly defeats one of its AI models in a coding world championship, humorously stating he is 'barely alive'",
+      "source": "PC Gamer",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:44:37Z",
+      "url": "https://www.pcgamer.com/software/ai/humanity-has-prevailed-for-now-says-former-openai-employee-admitting-hes-barely-alive-after-beating-one-of-its-ai-models-in-a-coding-world-championship-fight/"
+    },
+    {
+      "id": 59,
+      "title": "AIXA Miner Releases Upgraded AI-Driven ETH and XRP Cloud Mining Plans for Daily Passive Income",
+      "summary": "AIXA Miner releases upgraded AI-driven ETH and XRP cloud mining plans for daily passive income.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T11:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118647/0/en/AIXA-Miner-Releases-Upgraded-AI-Driven-ETH-and-XRP-Cloud-Mining-Plans-for-Daily-Passive-Income.html"
+    },
+    {
+      "id": 60,
+      "title": "US Turns To Social Media For News - But Fears Of Misinformation Rise",
+      "summary": "US turns to social media for news, but fears of misinformation rise as traditional news media lose influence. Most people in the U.S. now access news via social media and video networks.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-21T11:43:49Z",
+      "url": "https://www.forbes.com/sites/emmawoollacott/2025/07/21/us-turns-to-social-media-for-newsbut-fears-of-misinformation-rise/"
+    },
+    {
+      "id": 61,
+      "title": "Unlock the Full Potential of Claude Code in Just a Few Steps",
+      "summary": "Unlock the Full Potential of Claude Code in Just a Few Steps - Make your coding time more efficient and improve the organization of your workflows with AI-driven software tools tailored for developers navigating complex AI landscapes.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:43:46Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-setup-guide/"
+    },
+    {
+      "id": 62,
+      "title": "India to use AI and drones to combat crimes against women – Home Ministry",
+      "summary": "India is set to use AI and drones to address crimes against women, as advocated by a women lawyers’ association seeking improved safety measures.",
+      "source": "RT",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:42:47Z",
+      "url": "https://www.rt.com/india/621760-india-to-use-ai-drones/"
+    },
+    {
+      "id": 63,
+      "title": "ai-trackdown-pytools added to PyPI",
+      "summary": "ai-trackdown-pytools added to PyPI - Modern Python CLI tools for AI project tracking and task management",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:42:20Z",
+      "url": "https://pypi.org/project/ai-trackdown-pytools/"
+    },
+    {
+      "id": 64,
+      "title": "Rethinking urban delivery, penguin robots ride the subway in Shenzhen",
+      "summary": "In Shenzhen, penguin robots are autonomously riding the subway to deliver goods to merchants, revolutionizing urban delivery.",
+      "source": "Trendwatching.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T11:40:33Z",
+      "url": "https://www.trendwatching.com/innovations/rethinking-urban-delivery-penguin-robots-ride-the-subway-in-shenzhen"
+    },
+    {
+      "id": 65,
+      "title": "Billboard Japan Hot 100 Singles Chart (2025.07.19)",
+      "summary": "Billboard Japan Hot 100 Singles Chart is using AI to predict popular songs, showcasing the potential application of artificial intelligence in the music industry.",
+      "source": "Rlsbb.cc",
+      "category": "innovation",
+      "timestamp": "2025-07-21T11:40:13Z",
+      "url": "https://post.rlsbb.cc/billboard-japan-hot-100-singles-chart-2025-07-19/"
+    },
     {
       "id": 51,
       "title": "Huntington CFO on the strategic $1.9 billion deal to expand Texas footprint",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-21T10:45:00Z",
       "url": "http://musically.com/2025/07/21/defending-ais-role-in-music-bands-will-exist-in-new-ways/"
-    },
-    {
-      "id": 61,
-      "title": "The death of design expertise? How AI is reshaping creative industries forever",
-      "summary": "The death of design expertise? How AI is reshaping creative industries forever - Three months ago, I watched my 12-year-old nephew create a logo for his school project in fifteen minutes using AI. The result was stunning: clean typography, perfect color harmony, professional…",
-      "source": "Uxdesign.cc",
-      "category": "applications",
-      "timestamp": "2025-07-21T10:44:31Z",
-      "url": "https://uxdesign.cc/the-death-of-design-expertise-how-ai-is-reshaping-creative-industries-forever-3aeb96f3edcb"
-    },
-    {
-      "id": 62,
-      "title": "As big businesses get aggressive with RTO, this may be the perfect time for smaller companies to scoop up workers",
-      "summary": "Small companies have the opportunity to hire talented workers as big businesses face pressure to enforce Return to Office policies.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-21T10:44:02Z",
-      "url": "https://www.businessinsider.com/big-firms-push-rto-small-startups-recruit-talent-young-workers-2025-7"
-    },
-    {
-      "id": 63,
-      "title": "Microsoft AI chief sees AGI arriving sometime in the next 10 years, WSJ says",
-      "summary": "Microsoft AI chief predicts AGI arrival within next 10 years",
-      "source": "Thefly.com",
-      "category": "research",
-      "timestamp": "2025-07-21T10:42:12Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4162713/MSFT-Microsoft-AI-chief-sees-AGI-arriving-sometime-in-the-next--years-WSJ-says"
-    },
-    {
-      "id": 64,
-      "title": "Mark Cuban says hoarding talent and intellectual property will be king as the AI fight heats up",
-      "summary": "Mark Cuban predicts a $1 trillion race for AI dominance as firms hoard talent and intellectual property.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-21T10:40:17Z",
-      "url": "https://www.businessinsider.com/talent-ip-hoarding-king-in-ai-race-mark-cuban-2025-7"
-    },
-    {
-      "id": 65,
-      "title": "XRP Soars, Trump Unlocks 401(k) for Crypto—RI Mining Debuts Green AI Cloud Mining with $15 Entry",
-      "summary": "RI Mining debuts green AI cloud mining with $15 entry, allowing users to mine XRP on their phones without the need for hardware.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T10:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118571/0/en/XRP-Soars-Trump-Unlocks-401-k-for-Crypto-RI-Mining-Debuts-Green-AI-Cloud-Mining-with-15-Entry.html"
-    },
-    {
-      "id": 66,
-      "title": "Man Dyes Pond Blue—Completely Forgets His Labrador Lives for Water",
-      "summary": "A man dyed his pond blue without considering the safety of his Labrador who lives around the water. The ethical implications of neglecting the well-being of a pet in the pursuit of aesthetic improvements are highlighted.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T10:38:36Z",
-      "url": "https://biztoc.com/x/08bfc54b3c8eadb2"
-    },
-    {
-      "id": 51,
-      "title": "Show HN: Genie: Your AI-Powered Terminal Sidekick (CLI and TUI)",
-      "summary": "AI startup Genie has developed an AI assistant to work directly in the command line, reducing the need for context switching. The assistant is designed to help users ask questions and process information within the terminal.",
-      "source": "Github.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T10:17:42Z",
-      "url": "https://github.com/kcaldas/genie"
-    },
-    {
-      "id": 52,
-      "title": "EY India and Taxmann unveil AI-powered tax research platform",
-      "summary": "EY India and Taxmann have collaborated to launch Taxmann.AI, an AI-powered platform tailored for tax and legal professionals, offering research, document analysis, and response generation capabilities.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T10:17:14Z",
-      "url": "https://biztoc.com/x/824d7a5e2b638a0f"
-    },
-    {
-      "id": 53,
-      "title": "Can’t Keep Up With the AI Browser Wars? Here’s What Businesses Need to Know",
-      "summary": "OpenAI and Perplexity have released new AI tools for browsing the internet that can help businesses keep up with the AI Browser Wars, but they have key differences.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T10:16:48Z",
-      "url": "https://biztoc.com/x/17fc637fc8eb9acb"
-    },
-    {
-      "id": 54,
-      "title": "Microsoft to make Notre-Dame ‘digital twin’ and boost its European languages for its AI models",
-      "summary": "Microsoft is creating a 'digital twin' of Notre-Dame Cathedral to boost its European languages for AI models and digitise historic opera sets and artefacts with French cultural institutions.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T10:16:40Z",
-      "url": "https://biztoc.com/x/6e47722f3e691f81"
-    },
-    {
-      "id": 55,
-      "title": "AI is fueling job cuts, but is it really making work more efficient?",
-      "summary": "AI is fueling job cuts as job openings for software developers hit a five-year low. This raises questions about AI's responsibility for the slowdown in job growth.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T10:16:22Z",
-      "url": "https://biztoc.com/x/f7b1ecc08f35fa51"
-    },
-    {
-      "id": 56,
-      "title": "I tested the Getax ZX10 G2 and this rugged tablet is designed to withstand the most demanding users and the most challenging environments - but it's not cheap",
-      "summary": "I tested the Getax ZX10 G2, a rugged tablet designed for demanding users and challenging environments, offering performance and resilience but not cheap.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-21T10:16:00Z",
-      "url": "https://www.techradar.com/pro/phone-communications/getax-zx10-g2-rugged-tablet-review"
-    },
-    {
-      "id": 57,
-      "title": "Composable Infrastructure Market Opportunities and Strategies Report 2025-2034 | Market Poised for Growth Amid 5G Adoption and Cloud Expansion, Despite Security and Reliability Concerns",
-      "summary": "The global composable infrastructure market is projected to grow significantly from 2024 to 2034, driven by AI, automation, and 5G adoption, reaching $132.06 billion. Key trends include composable data platforms and advanced AI solutions.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T10:16:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118556/28124/en/Composable-Infrastructure-Market-Opportunities-and-Strategies-Report-2025-2034-Market-Poised-for-Growth-Amid-5G-Adoption-and-Cloud-Expansion-Despite-Security-and-Reliability-Concer.html"
-    },
-    {
-      "id": 58,
-      "title": "combatlearn 0.2.0",
-      "summary": "combatlearn 0.2.0 introduces batch-effect harmonization for machine learning frameworks.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-21T10:15:28Z",
-      "url": "https://pypi.org/project/combatlearn/0.2.0/"
-    },
-    {
-      "id": 51,
-      "title": "Trump Shares AI Video of Obama Getting Arrested",
-      "summary": "Donald Trump shared an AI-generated video depicting Barack Obama being arrested, raising ethical concerns regarding the use of AI technology to spread false information.",
-      "source": "PetaPixel",
-      "category": "ethics",
-      "timestamp": "2025-07-21T09:45:40Z",
-      "url": "https://petapixel.com/2025/07/21/trump-shares-ai-video-of-obama-getting-arrested/"
     }
   ]
 }
