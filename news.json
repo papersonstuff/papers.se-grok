@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-22T04:08:27.956Z",
+  "lastUpdate": "2025-07-22T04:51:35.295Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Singapore dollar exhibits safe-haven currency features. But it's no yen or Swiss franc — yet",
+      "summary": "Experts believe that the Singapore dollar has safe-haven currency features and could potentially reach the status of the Swiss franc, although it may not be on the same level as the yen or the US dollar.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:46:43Z",
+      "url": "https://www.cnbc.com/2025/07/21/singapore-dollar-enjoys-safe-haven-features-but-its-no-greenback-or-yen-.html"
+    },
+    {
+      "id": 52,
+      "title": "swe-ai-agent 1.0.63",
+      "summary": "The SWE AI Agent 1.0.63 is a headless agentic IDE with comprehensive tool support for developers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T04:45:51Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.63/"
+    },
+    {
+      "id": 53,
+      "title": "Lok Sabha Speaker Om Birla calls for cooperation, constructive debate ahead of Monsoon Session",
+      "summary": "Lok Sabha Speaker Om Birla calls for cooperation and constructive debate as the Monsoon Session of Parliament is set to commence. Emphasizing the need for smooth proceedings, the session will address key issues raised by the Opposition INDIA bloc.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T04:42:40Z",
+      "url": "https://economictimes.indiatimes.com/news/india/lok-sabha-speaker-om-birla-calls-for-cooperation-constructive-debate-ahead-of-monsoon-session/articleshow/122806261.cms"
+    },
+    {
+      "id": 54,
+      "title": "Noah Smith on the economics of AI",
+      "summary": "Noah Smith critiques the standard interpretation of data on AI and employment, highlighting the assumption that despite record-high national employment rates, AI will not significantly impact job availability.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:42:14Z",
+      "url": "https://biztoc.com/x/94125ec059bdbd52"
+    },
+    {
+      "id": 55,
+      "title": "60 Minutes S57E50 1080p WEB h264-BAE",
+      "summary": "The episode explores the use of AI in the classroom, along with a focus on handcrafted Mexican spirit Mezcal. The author Maria Laurino discusses 'The Price of Children'.",
+      "source": "Rlsbb.ru",
+      "category": "applications",
+      "timestamp": "2025-07-21T04:38:53Z",
+      "url": "https://post.rlsbb.ru/60-minutes-s57e50-1080p-web-h264-bae/"
+    },
+    {
+      "id": 56,
+      "title": "Cruz Azul stuck in a poor run against Atlas",
+      "summary": "Cruz Azul's poor run against Atlas continues with their sixth consecutive match without a win, highlighting Eduardo Aguirre's impact on the team.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T04:38:00Z",
+      "url": "https://onefootball.com/en/news/cruz-azul-stuck-in-a-poor-run-against-atlas-41402531"
+    },
+    {
+      "id": 57,
+      "title": "BeLive Holdings Launches Groundbreaking Creative Subsidiary Led by Award-Winning Visionary",
+      "summary": "BeLive Holdings launches a new creative subsidiary led by an award-winning visionary, focusing on white-label live and video streaming solutions.",
+      "source": "Antaranews.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T04:36:00Z",
+      "url": "https://en.antaranews.com/news/367713/belive-holdings-launches-groundbreaking-creative-subsidiary-led-by-award-winning-visionary"
+    },
+    {
+      "id": 58,
+      "title": "The Agia Paraskevi crime that shocked Greece: profiles of the killer, accomplice, and victim revealed",
+      "summary": "The Agia Paraskevi crime in Greece involves profiles of the killer, accomplice, and victim being revealed, with relationships among the Polish professor, his ex-wife, and her partner under interrogation.",
+      "source": "Protothema.gr",
+      "category": "ethics",
+      "timestamp": "2025-07-21T04:34:08Z",
+      "url": "https://en.protothema.gr/2025/07/21/the-agia-paraskevi-crime-that-shocked-greece-profiles-of-the-killer-accomplice-and-victim-revealed/"
+    },
+    {
+      "id": 59,
+      "title": "It's the end of the internet as we know it - Quartz",
+      "summary": "The articles discuss the need for a new business model for the internet to adapt to the AI age, with suggestions to let the current internet die and start over. The focus is on changing the web in order to survive and thrive in the future.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T04:32:20Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178428452"
+    },
+    {
+      "id": 60,
+      "title": "vecman added to PyPI",
+      "summary": "VECMA has been added to PyPI, providing a VQ-VAE based vector database for text embeddings and retrieval.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T04:32:13Z",
+      "url": "https://pypi.org/project/vecman/"
+    },
+    {
+      "id": 61,
+      "title": "Cyber turbulence ahead as airlines strap in for a security crisis",
+      "summary": "Cyber turbulence ahead as airlines prepare for a security crisis with attackers shifting focus to targeting critical aircraft systems with serious intent.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-21T04:30:56Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/21/aviation-industry-cybersecurity-crisis/"
+    },
     {
       "id": 51,
       "title": "Congress MP Syed Naseer Hussain moves notice of motion to discuss Bihar electoral rolls revision",
@@ -351,105 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T01:06:54Z",
       "url": "https://www.bleepingcomputer.com/forums/t/809647/tacking-a-gpu-on-an-old-desktop/"
-    },
-    {
-      "id": 56,
-      "title": "Like life insurers, general insurers should be allowed to sell long-term products, why can’t we sell health for, let’s say, 10 years? MD and CEO, Bajaj Allianz General Insurance",
-      "summary": "General insurers should be allowed to sell long-term health products, similar to life insurers selling long-term life insurance. This would allow for more options in the insurance market and could benefit consumers.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-21T01:00:00Z",
-      "url": "https://economictimes.indiatimes.com/wealth/insure/like-life-insurers-general-insurers-should-be-allowed-to-sell-long-term-products-why-cant-we-sell-health-for-lets-say-10-years-md-and-ceo-bajaj-allianz-general-insurance/articleshow/122776214.cms"
-    },
-    {
-      "id": 57,
-      "title": "Railways should change track on passenger services",
-      "summary": "Railways can reduce losses by changing track on passenger services, rationalizing mix and pricing of AC and non-AC coaches and trains.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-21T01:00:00Z",
-      "url": "https://www.thehindubusinessline.com/opinion/railways-should-change-track-on-passenger-services/article69835593.ece"
-    },
-    {
-      "id": 58,
-      "title": "『神さまっているの？ ー私のひとりよがりな神様論ー』 ひらかわゆうき著2025年7月21日 日本語版、英語版、同時発売！",
-      "summary": "The book 'Is God real? - My Solipsistic God Theory' by Yuuki Hirakawa will be released in both Japanese and English versions on July 21, 2025.",
-      "source": "Prtimes.jp",
-      "category": "innovation",
-      "timestamp": "2025-07-21T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000011.000163883.html"
-    },
-    {
-      "id": 59,
-      "title": "Venture firm hires ex-journalists for AI comms 'accelerator'",
-      "summary": "Venture firm hires ex-journalists for AI comms 'accelerator' - A venture capital firm is launching an 'accelerator' for AI startups with the help of ex-journalists.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T00:59:00Z",
-      "url": "https://biztoc.com/x/8e09facb10507cfe"
-    },
-    {
-      "id": 60,
-      "title": " See the updated Brasileirão table after the end of matchday 15",
-      "summary": "See the updated Brasileirão table after the end of matchday 15 - This Sunday (20), six more matches concluded the 15th round of the Brasileirão with no draws. Internacional defeated Ceará 1-0.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T00:53:00Z",
-      "url": "https://onefootball.com/en/news/see-the-updated-brasileirao-table-after-the-end-of-matchday-15-41402295"
-    },
-    {
-      "id": 61,
-      "title": "Globe joins aug east submarine cable group",
-      "summary": "GLOBE Telecom, Inc. joins AUG East submarine cable group to improve connectivity in East Asian region",
-      "source": "The Manila Times",
-      "category": "innovation",
-      "timestamp": "2025-07-21T00:51:05Z",
-      "url": "https://www.manilatimes.net/2025/07/21/business/corporate-news/globe-joins-aug-east-submarine-cable-group/2152704"
-    },
-    {
-      "id": 62,
-      "title": "An AI app is helping diabetics count carbs with photos of their food – and major health care insurers are buying in",
-      "summary": "An AI app is helping diabetics count carbs with photos of their food – and major health care insurers are buying in.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T00:47:43Z",
-      "url": "https://biztoc.com/x/7e5b51f176690abb"
-    },
-    {
-      "id": 51,
-      "title": "code-explainer added to PyPI",
-      "summary": "code-explainer tool added to PyPI that uses AI to analyze and explain Python code",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:47:33Z",
-      "url": "https://pypi.org/project/code-explainer/"
-    },
-    {
-      "id": 52,
-      "title": "Unbounded Embedded Agency: AEDT w.r.t. rOSI",
-      "summary": "A paper titled 'Unbounded Embedded Agency: AEDT w.r.t. rOSI' was published on July 20, 2025, discussing the concept of embedded agency in artificial intelligence systems. The paper explores the implications of autonomous agents operating in open-world environments.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-20T23:46:47Z",
-      "url": "https://www.lesswrong.com/posts/B6gumHyuxzR5yn5tH/unbounded-embedded-agency-aedt-w-r-t-rosi"
-    },
-    {
-      "id": 53,
-      "title": "Google Pixel 10 Pro Design Secrets Exposed In Latest Leaks",
-      "summary": "Leaked images of a Pixel 10 Pro prototype show a refined design with a slimmer camera bar and symmetrical bezels ahead of Google's August 20 launch event.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-20T23:43:57Z",
-      "url": "https://www.forbes.com/sites/ewanspence/2025/07/20/google-pixel-10-pro-upgrade-design-pictures-leaks-new-pixel/"
-    },
-    {
-      "id": 51,
-      "title": "The Smartest Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now",
-      "summary": "Investing in AI hardware and cloud computing providers is recommended due to the focus on capital expenditures and increased workloads in the AI sector.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T23:40:14Z",
-      "url": "https://biztoc.com/x/fb0fc1d2b4066269"
     }
   ]
 }
