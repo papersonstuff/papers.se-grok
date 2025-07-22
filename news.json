@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T19:49:04.736Z",
+  "lastUpdate": "2025-07-22T20:18:35.654Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Alien: Earth Stars Talk Being the First Line of Defense Against the Iconic Xenomorph",
+      "summary": "Alien: Earth Stars Talk Being the First Line of Defense Against the Iconic Xenomorph - The crew of the Nostromo was overwhelmed by the xenomorph threat in the original Alien, while in Aliens, a highly trained group was able to take on the challenge.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:18:00Z",
+      "url": "http://comicbook.com/tv-shows/news/alien-earth-interview-response-team-prodigy-explained/"
+    },
+    {
+      "id": 52,
+      "title": "Stephen Colbert and Rachel Maddow teaming up to launch new show?",
+      "summary": "Stephen Colbert and Rachel Maddow rumored to be launching new show after cancellation of 'The Late Show'.",
+      "source": "Snopes.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:18:00Z",
+      "url": "https://www.snopes.com//fact-check/new-show-colbert-maddow/"
+    },
+    {
+      "id": 53,
+      "title": "Judge to Sentence Ex-Cop in Breonna Taylor Case, DOJ Seeks No Prison",
+      "summary": "A federal judge is prepared to sentence Brett Hankison, a former Louisville police officer convicted of using excessive force during the March 2020 raid that killed Breonna Taylor, while the U.S. Justice Department seeks no prison time for him.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:17:44Z",
+      "url": "https://biztoc.com/x/f02ac9cbcd4b8666"
+    },
+    {
+      "id": 54,
+      "title": "Astronomer's New CEO References the Coldplay Video in New Statement: 'The Spotlight Has Been Unusual & Surreal'",
+      "summary": "Andy Byron resigned as the CEO of Astronomer after the viral Coldplay video and now, the company’s interim CEO Pete DeJoy has released a statement amid the intense interest in what went down.",
+      "source": "Just Jared",
+      "category": "startups",
+      "timestamp": "2025-07-21T20:17:25Z",
+      "url": "https://www.justjared.com/2025/07/21/astronomers-new-ceo-references-the-coldplay-video-in-new-statement-the-spotlight-has-been-unusual-surreal/"
+    },
+    {
+      "id": 55,
+      "title": "Number of Students Using AI for Schoolwork Surges by Double-Digits",
+      "summary": "Number of Students Using AI for Schoolwork Surges by Double-Digits",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:17:10Z",
+      "url": "https://biztoc.com/x/c9f09448a4f11dea"
+    },
+    {
+      "id": 56,
+      "title": "AI Lacks Full Capability To Replace Journalism",
+      "summary": "AI cannot fully replace journalism in the post-newspaper age. There are limitations to what AI can do to help deliver news.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:15:36Z",
+      "url": "https://www.forbes.com/sites/johnwerner/2025/07/21/ai-lacks-full-capability-to-replace-journalism/"
+    },
+    {
+      "id": 57,
+      "title": "Context-Aware A.I. Could Fix the Modern Workplace’s Communication Crisis",
+      "summary": "Context-Aware A.I. could potentially solve the communication crisis in the modern workplace, as discussed by Ram Bala, Natarajan Balasubramanian, and Amit Joshi. Their expertise in A.I. innovation and business transformation highlights the importance of context-aware A.I. in enterprise decision-making.",
+      "source": "Observer",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:15:23Z",
+      "url": "https://observer.com/2025/07/context-aware-ai-team-communication/"
+    },
+    {
+      "id": 58,
+      "title": "Copilot+ PCs powered by Intel and AMD still trail behind Snapdragon counterparts — even with experimental features",
+      "summary": "Copilot+ PCs powered by Intel and AMD are still behind Snapdragon counterparts, with Microsoft rolling out new features to Windows Insiders on all devices.",
+      "source": "Windows Central",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:15:00Z",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/copilot-pcs-powered-by-intel-and-amd-still-trail-behind-snapdragon-counterparts-even-with-experimental-features"
+    },
+    {
+      "id": 59,
+      "title": "You’re training AI for free - And it’s not even saying thanks",
+      "summary": "Humans are unknowingly training AI for free through various online tasks without receiving any thanks or compensation, contributing to the development of billion-dollar models. This raises questions about the ethics of using human labor for AI training without proper acknowledgment or rewards.",
+      "source": "Notebookcheck.net",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:13:00Z",
+      "url": "https://www.notebookcheck.net/You-re-training-AI-for-free-And-it-s-not-even-saying-thanks.1063514.0.html"
+    },
+    {
+      "id": 60,
+      "title": "UNSW invests in martech stack to bolster students' 'lifetime' loyalty",
+      "summary": "UNSW is investing in martech stack to enhance students' loyalty and is implementing the Adobe Experience Platform.",
+      "source": "iTnews",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:13:00Z",
+      "url": "https://www.itnews.com.au/news/unsw-invests-in-martech-stack-to-bolster-students-lifetime-loyalty-618916"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI and UK Government Partner on AI Infrastructure and Deployment",
+      "summary": "OpenAI and the U.K. government signed a strategic partnership focusing on AI infrastructure, employment, and applications.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:12:45Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/openai-and-uk-government-partner-on-ai-infrastructure-and-deployment/"
+    },
+    {
+      "id": 62,
+      "title": "Experimental surgery performed by AI-driven surgical robot",
+      "summary": "Experimental surgery using an AI-driven surgical robot showed promising results in pig organ experiments.",
+      "source": "Slashdot.org",
+      "category": "research",
+      "timestamp": "2025-07-21T20:12:04Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178433136"
+    },
+    {
+      "id": 63,
+      "title": "AOI Quantum Bandwidth Networking Products Certified for Deployment by Charter Communications",
+      "summary": "AOI Quantum Bandwidth Networking Products certified by Charter Communications for DOCSIS 4.0 upgrades.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119033/9986/en/AOI-Quantum-Bandwidth-Networking-Products-Certified-for-Deployment-by-Charter-Communications.html"
+    },
+    {
+      "id": 64,
+      "title": "Number of Students Using AI for Schoolwork Surges by Double-Digits",
+      "summary": "Number of students using AI for schoolwork has surged by double-digits, indicating a growing trend in the application of artificial intelligence in education both in the United States and globally.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:06:55Z",
+      "url": "https://www.newsweek.com/number-students-using-ai-schoolwork-surges-double-digits-2101974"
+    },
+    {
+      "id": 65,
+      "title": "Terminal's CEO hosts a monthly dinner with CTOs. Here's what he's heard about AI's impact on tech jobs",
+      "summary": "Terminal CEO Dylan Serota believes AI will not take away jobs from software engineers, as he analogizes AI coding tools to existing tools like spell check.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:06:47Z",
+      "url": "https://biztoc.com/x/a7c6470e1c08c335"
+    },
+    {
+      "id": 66,
+      "title": "Tulsi Gabbard Unveils 230,000 MLK Docs Under Trump Executive Order",
+      "summary": "Tulsi Gabbard released 230,000 MLK docs under Trump's order, but inconsistencies may occur as the voice is AI-generated.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:06:35Z",
+      "url": "https://biztoc.com/x/a1b1619047bb3c2f"
+    },
+    {
+      "id": 67,
+      "title": "Show HN: I built a mobile app to help you read in a foreign language with LLMs",
+      "summary": "ContextCat is a mobile app that helps users read in a foreign language by providing instant AI explanations of words. It is designed for students and language learners, making reading effortless and interactive.",
+      "source": "Apple Newsroom",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:05:45Z",
+      "url": "https://apps.apple.com/us/app/read-with-ai-contextcat/id6737737343"
+    },
+    {
+      "id": 68,
+      "title": "Tenable Named a Leader in Unified Vulnerability Management Solutions by Independent Research Firm",
+      "summary": "Tenable has been named as a leader in Unified Vulnerability Management Solutions by an independent research firm, ranking highest in the Strategy category based on seven criteria.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:05:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119024/0/en/Tenable-Named-a-Leader-in-Unified-Vulnerability-Management-Solutions-by-Independent-Research-Firm.html"
+    },
+    {
+      "id": 69,
+      "title": "Tenable Named a Leader in Unified Vulnerability Management Solutions by Independent Research Firm",
+      "summary": "Tenable has been named a Leader in Unified Vulnerability Management Solutions by Forrester, ranking highest in the Strategy category.",
+      "source": "Tenable.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:05:00Z",
+      "url": "https://www.tenable.com/press-releases/tenable-named-a-leader-in-unified-vulnerability-management-solutions-by-independent"
+    },
     {
       "id": 51,
       "title": "fast-select added to PyPI",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T19:20:17Z",
       "url": "https://gizmodo.com/fake-trump-epstein-letters-spread-online-after-bombshell-report-2000631869"
-    },
-    {
-      "id": 64,
-      "title": "Beyond Ads: Why CX Leaders Should Care About Nano-Payments",
-      "summary": "Nano-payments provide a customer-centric solution to ads, improving customer experience and fostering loyalty.",
-      "source": "CMSWire",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:20:08Z",
-      "url": "https://www.cmswire.com/digital-experience/beyond-ads-why-cx-leaders-should-care-about-nano-payments/"
-    },
-    {
-      "id": 65,
-      "title": "7 best CRMs for pest control companies in 2025",
-      "summary": "7 best CRMs for pest control companies in 2025 - Managing a pest control business means juggling customer appointments, technician schedules, service plans, and follow-ups. A traditional spreadsheet or generic tool simply can't keep up. That’s why teams are turning to CRMs for pest control — built for these…",
-      "source": "Hubspot.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:19:37Z",
-      "url": "https://blog.hubspot.com/marketing/best-crm-for-pest-control#article"
-    },
-    {
-      "id": 66,
-      "title": "Crexi Co-Founder Launches AI Data Company to Help Brokers and Lenders Unlock $3 Trillion in Maturing CRE Debt",
-      "summary": "Crexi Co-Founder launches AI data company to help brokers and lenders unlock $3 trillion in maturing CRE debt, with support from Lerer Hippeau, Acorns and Betterment Co-Founders, Sway Ventures, and FJ Labs.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:19:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118990/0/en/Crexi-Co-Founder-Launches-AI-Data-Company-to-Help-Brokers-and-Lenders-Unlock-3-Trillion-in-Maturing-CRE-Debt.html"
-    },
-    {
-      "id": 67,
-      "title": "‘I can hear their breathing:’ Employers enraged over Gen Z’s rude phone etiquette",
-      "summary": "'I can hear their breathing:' Employers are upset about Gen Z's perceived rude phone etiquette, which includes breathing too loudly on calls. The debate centers around who owns the phone line and the expected level of politeness in phone interactions.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:18:06Z",
-      "url": "https://nypost.com/2025/07/21/lifestyle/shocking-gen-z-phone-habit-infuriates-employers/"
-    },
-    {
-      "id": 68,
-      "title": "Former Astronomer CEO's wife made statement about Coldplay kiss cam scandal?",
-      "summary": "Former Astronomer CEO's wife speaks out about Coldplay kiss cam scandal that allegedly exposed her husband having an affair.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:18:00Z",
-      "url": "https://www.snopes.com//fact-check/former-astronomer-ceo-wife-statement/"
-    },
-    {
-      "id": 69,
-      "title": "Astronomer's Interim CEO Addresses Attention After Coldplay Video",
-      "summary": "Astronomer's Interim CEO Pete DeJoy addresses the attention the startup has received after a viral video from Coldplay, highlighting the company's rise to fame.",
-      "source": "Eonline.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:17:51Z",
-      "url": "https://www.eonline.com/news/1420131/astronomers-interim-ceo-speaks-out-after-coldplay-video"
-    },
-    {
-      "id": 70,
-      "title": "akihiro 1.0.1",
-      "summary": "akihiro 1.0.1 is a Python package designed to improve the programming experience by incorporating AI LLM capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:16:04Z",
-      "url": "https://pypi.org/project/akihiro/1.0.1/"
-    },
-    {
-      "id": 51,
-      "title": "AI Is Optimizing the Back Office, but What About the Physical Office?",
-      "summary": "AI is optimizing the back office by automating repetitive cognitive tasks and helping teams find information quickly. Companies could potentially save big by utilizing AI to optimize physical office spaces as well.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:14:12Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-is-optimizing-physical-office-real-estate/"
-    },
-    {
-      "id": 52,
-      "title": "Join Newsweek Thursday for a Live Event: Turning the Tide on Plastic Waste",
-      "summary": "Marine scientists estimate that, on average, every minute the equivalent of a garbage truck full of plastic waste enters the world's oceans, where it harms ocean wildlife and threatens entire ecosystems.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:11:00Z",
-      "url": "https://biztoc.com/x/858a76d5c7143c7c"
-    },
-    {
-      "id": 53,
-      "title": "James Gunn Totally Stole This Superman Plot Point from Smallville",
-      "summary": "James Gunn is accused of stealing a Superman plot point from Smallville, causing controversy among viewers.",
-      "source": "ComicBook.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:10:44Z",
-      "url": "http://comicbook.com/movies/news/superman-movie-jor-el-origin-changes-kryptonians-bad-smallvile-connection/"
-    },
-    {
-      "id": 54,
-      "title": "Microsoft, It’s Time to Set Copilot+ PC Free (Premium)",
-      "summary": "Microsoft introduces Copilot+ PCs with more stringent hardware requirements, including a powerful NPU for unique AI capabilities.",
-      "source": "Thurrott.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:09:35Z",
-      "url": "https://www.thurrott.com/mobile/copilot-pc/323616/microsoft-its-time-to-set-copilot-pc-free"
-    },
-    {
-      "id": 55,
-      "title": "A Couple of Cuckoos Season 2 Anime Reveals English Dub Cast, July 22 Debut",
-      "summary": "A Couple of Cuckoos Season 2 Anime reveals English dub cast, with Bao the Whale joining as Ai Mochizuki. Crunchyroll will begin streaming the English dub for the second season on July 22.",
-      "source": "Anime News Network",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:08:16Z",
-      "url": "https://www.animenewsnetwork.com/news/2025-07-21/a-couple-of-cuckoos-season-2-anime-reveals-english-dub-cast-july-22-debut/.226881"
-    },
-    {
-      "id": 56,
-      "title": "Astronomer’s new CEO cops to unexpected perk of Kristin Cabot and Andy Byron’s Coldplay kiss cam scandal",
-      "summary": "Pete DeJoy became interim CEO of Astronomer after the previous CEO and COO were caught engaging in inappropriate behavior at a Coldplay concert.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:08:04Z",
-      "url": "https://pagesix.com/2025/07/21/celebrity-news/astronomers-new-ceo-cops-to-unexpected-perk-of-kristin-cabot-and-andy-byrons-coldplay-kiss-cam-scandal/"
-    },
-    {
-      "id": 57,
-      "title": "Advanced Version of Gemini With Deep Think Officially Achieves Gold-Medal Standard at the International Mathematical Olympiad",
-      "summary": "Advanced Version of Gemini With Deep Think achieves gold-medal standard at the International Mathematical Olympiad.",
-      "source": "Slashdot.org",
-      "category": "research",
-      "timestamp": "2025-07-21T19:08:00Z",
-      "url": "https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad"
-    },
-    {
-      "id": 58,
-      "title": "chebifier 1.1.0",
-      "summary": "chebifier 1.1.0 is an AI ensemble model designed for predicting chemical classes.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-21T19:06:56Z",
-      "url": "https://pypi.org/project/chebifier/1.1.0/"
-    },
-    {
-      "id": 59,
-      "title": "akihiro 1.0",
-      "summary": "Akihiro 1.0 is a Python package that enhances programming experience with AI capabilities, specifically focusing on LLM. This innovation aims to streamline and improve the development of AI-related projects using Python.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:06:14Z",
-      "url": "https://pypi.org/project/akihiro/1.0/"
-    },
-    {
-      "id": 60,
-      "title": "akihiro added to PyPI",
-      "summary": "A Python package called akihiro has been added to PyPI to enhance programming experience with AI LLM capabilities.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:06:14Z",
-      "url": "https://pypi.org/project/akihiro/"
-    },
-    {
-      "id": 61,
-      "title": "New Astronomer CEO Addresses ‘Surreal’ Situation After Andy Byron Coldplay Concert Scandal",
-      "summary": "The new CEO of Astronomer addressed a scandal involving the former CEO, who resigned after being caught on a 'kiss cam' with a coworker at a Coldplay concert.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:05:02Z",
-      "url": "https://www.forbes.com/sites/conormurray/2025/07/21/new-astronomer-ceo-addresses-surreal-situation-after-andy-byron-coldplay-concert-scandal/"
-    },
-    {
-      "id": 62,
-      "title": "The Career Funeral: The One Exercise Every Professional Should Do Before Change Hits",
-      "summary": "The article emphasizes the importance of preparing for career disruptions, in the midst of technological advancements and AI impacting various industries.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:04:10Z",
-      "url": "https://www.forbes.com/sites/richardosibanjo/2025/07/21/the-career-funeral-the-one-exercise-every-professional-should-do-before-change-hits/"
     }
   ]
 }
