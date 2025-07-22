@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T08:23:35.065Z",
+  "lastUpdate": "2025-07-22T08:51:39.766Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The risk we chose: when compromise becomes the default",
+      "summary": "As security trade-offs become routine, visibility emerges as the key to regaining control in AI. The article discusses the risks involved when compromise becomes the default in AI applications.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-21T08:50:48Z",
+      "url": "https://www.techradar.com/pro/the-risk-we-chose-when-compromise-becomes-the-default"
+    },
+    {
+      "id": 52,
+      "title": "flakeradar added to PyPI",
+      "summary": "flakeradar, an AI-Powered test flakiness detection and root cause analysis tool, has been added to PyPI, providing enterprise-grade analytics for test reliability.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:48:54Z",
+      "url": "https://pypi.org/project/flakeradar/"
+    },
+    {
+      "id": 53,
+      "title": "flakeradar 1.0.0",
+      "summary": "flakeradar 1.0.0 is an AI-powered tool that provides test flakiness detection and root cause analysis for improved test reliability in enterprises.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:48:54Z",
+      "url": "https://pypi.org/project/flakeradar/1.0.0/"
+    },
+    {
+      "id": 54,
+      "title": "flumes-ai added to PyPI",
+      "summary": "Flumes-ai, a unified memory infrastructure SDK for AI agents, has been added to PyPI, allowing for easier integration and deployment of AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:48:08Z",
+      "url": "https://pypi.org/project/flumes-ai/"
+    },
+    {
+      "id": 55,
+      "title": "flumes-ai 0.1.0",
+      "summary": "flumes-ai 0.1.0 is a unified memory infrastructure SDK for AI agents, aiming to improve memory efficiency in AI applications.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:48:08Z",
+      "url": "https://pypi.org/project/flumes-ai/0.1.0/"
+    },
+    {
+      "id": 56,
+      "title": "Show HN: Open-source deep-research agent",
+      "summary": "Open-source deep-research agent released with configurable Python code for multi-step research, avoiding vendor lock-in and utilizing MIT license.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-21T08:48:07Z",
+      "url": "https://github.com/langchain-ai/open_deep_research"
+    },
+    {
+      "id": 57,
+      "title": "Creative writing with LLMs, part 1: Prompting for fiction",
+      "summary": "For a while now, there has been enjoyment in co-writing fiction with LLMs, indicating its potential application in the creative writing field.",
+      "source": "Lesswrong.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:47:36Z",
+      "url": "https://www.lesswrong.com/posts/D9MHrR8GrgSbXMqtB/creative-writing-with-llms-part-1-prompting-for-fiction"
+    },
+    {
+      "id": 58,
+      "title": "Realme 15 Series India Launch: Check Price, Camera And Key Specifications Ahead Of July 24 Release",
+      "summary": "Realme is set to launch the Realme 15 Series in India on July 24, with the base model expected to be priced under Rs 30,000.",
+      "source": "Ndtvprofit.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:46:42Z",
+      "url": "https://www.ndtvprofit.com/technology/realme-15-series-india-launch-check-price-camera-and-key-specifications-ahead-of-july-24-release"
+    },
+    {
+      "id": 59,
+      "title": "lightman-ai 0.16.12",
+      "summary": "lightman-ai 0.16.12 is a cybersecurity news aggregator that aims to provide users with up-to-date information on cyber threats and attacks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:46:30Z",
+      "url": "https://pypi.org/project/lightman-ai/0.16.12/"
+    },
+    {
+      "id": 60,
+      "title": "Currys launches AI-powered employee-led ideas platform",
+      "summary": "Currys launches an AI-powered employee-led ideas platform called Pitch, which is developed on Sideways 6's Microsoft-integrated platform and fully embedded in Microsoft Teams.",
+      "source": "Retail-insight-network.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:46:24Z",
+      "url": "https://www.retail-insight-network.com/news/currys-ai-platform-pitch/"
+    },
+    {
+      "id": 61,
+      "title": "What Nvidia CEO Jensen Huang does differently with AI (and why you should too)",
+      "summary": "Nvidia CEO Jensen Huang treats AI like a conversation, while Huawei in China is building an entire AI stack from the ground up.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:45:59Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/what-nvidia-ceo-jensen-huang-does-differently-with-ai-and-why-you-should-too/articleshow/122811026.cms"
+    },
+    {
+      "id": 62,
+      "title": "Astronomer CEO Andy Byron Resignation Amid Coldplay Fiasco Explained",
+      "summary": "Astronomer CEO Andy Byron has resigned after facing backlash. The resignation came after being identified in the Coldplay fiasco.",
+      "source": "ComingSoon.net",
+      "category": "startups",
+      "timestamp": "2025-07-21T08:45:33Z",
+      "url": "https://www.comingsoon.net/guides/news/2005411-andy-bryon-resigns-coldplay-kiss-cam-drama"
+    },
+    {
+      "id": 63,
+      "title": "7 Best Free Ringtone Apps for iPhone",
+      "summary": "7 Best Free Ringtone Apps for iPhone - iPhone comes preloaded with plenty of ringtones. However, if you’re a long-time user you might have gotten bored of them. Or, if you’ve just moved to iOS, you might not like the idea of buying ringtones.",
+      "source": "The Mac Observer",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:45:25Z",
+      "url": "https://www.macobserver.com/tips/how-to/7-best-free-ringtone-apps-for-iphone/"
+    },
+    {
+      "id": 64,
+      "title": "Generative AI is more than just a cost saver for us: Netflix Co-CEO Ted Sarandos",
+      "summary": "Netflix Co-CEO Ted Sarandos emphasizes that generative AI is a tool to enhance creativity rather than just cut costs. AI has enabled faster and cheaper visual effects in El Eternauta and Netflix utilizes AI for personalisation, search, and ads.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:45:19Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/generative-ai-is-more-than-just-a-cost-saver-for-us-netflix-co-ceo-ted-sarandos/articleshow/122811255.cms"
+    },
+    {
+      "id": 65,
+      "title": "AI companies have stopped warning you that their chatbots aren’t doctors",
+      "summary": "AI companies have stopped warning users that their chatbots aren’t doctors, raising ethical concerns about potential misinformation and the boundaries of AI capabilities in providing health information.",
+      "source": "MIT Technology Review",
+      "category": "ethics",
+      "timestamp": "2025-07-21T08:45:00Z",
+      "url": "https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/"
+    },
+    {
+      "id": 66,
+      "title": "Show HN: InnerSight – A journaling app with therapist mode and photo uploads",
+      "summary": "InnerSight is a journaling app with therapist mode and photo uploads, designed for regular journalers and therapists to engage with their clients' reflections.",
+      "source": "Innersightjournal.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:43:26Z",
+      "url": "https://www.innersightjournal.com/"
+    },
+    {
+      "id": 67,
+      "title": "Stephens Inc. AR Sells 24,994 Shares of Kyndryl Holdings, Inc. (NYSE:KD)",
+      "summary": "Stephens Inc. AR decreased its stake in Kyndryl Holdings, Inc. by 78.8% in the first quarter, according to a recent disclosure with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:42:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/stephens-inc-ar-sells-24994-shares-of-kyndryl-holdings-inc-nysekd/"
+    },
+    {
+      "id": 68,
+      "title": "Quantum-based MagNav delivers FAA-grade positioning without satellites",
+      "summary": "Quantum-based MagNav achieves FAA-grade positioning without satellites, showing potential for innovative navigation technology.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:42:00Z",
+      "url": "https://www.notebookcheck.net/Quantum-based-MagNav-delivers-FAA-grade-positioning-without-satellites.1063394.0.html"
+    },
+    {
+      "id": 69,
+      "title": "Samsung's next Fan Edition earbuds just surfaced",
+      "summary": "Samsung's next Fan Edition earbuds are set to be released soon, promising something exciting for users' ears.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:39:54Z",
+      "url": "https://www.phonearena.com/news/samsung-next-fan-edition-earbuds-just-surfaced_id172455"
+    },
+    {
+      "id": 70,
+      "title": "Infosys expands tech ties with Australia's Telstra",
+      "summary": "Infosys to serve as strategic partner for Telstra International to drive innovation and support Connected Future 30 initiative.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:39:06Z",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-expands-tech-ties-with-australias-telstra/articleshow/122811146.cms"
+    },
     {
       "id": 51,
       "title": "Unitree files for IPO as JD.com doubles down on embodied AI — market reacts",
@@ -270,186 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-21T07:41:13Z",
       "url": "https://www.etfdailynews.com/2025/07/21/blackberry-nysebb-stock-rating-upgraded-by-wall-street-zen/"
-    },
-    {
-      "id": 53,
-      "title": "Still guessing the market bottom? Smart investors lock in ETH and XRP daily passive income with CJB Crypto",
-      "summary": "Smart investors can now lock in daily passive income with ETH and XRP through CJB Crypto's AI-driven platform, avoiding emotional trading and market volatility.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-21T07:37:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118449/0/en/Still-guessing-the-market-bottom-Smart-investors-lock-in-ETH-and-XRP-daily-passive-income-with-CJB-Crypto.html"
-    },
-    {
-      "id": 54,
-      "title": "Earn $7,400 Daily Without Miners? PAXMINING Redefines Litecoin Mining",
-      "summary": "Earn $7,400 Daily Without Miners? PAXMINING Redefines Litecoin Mining with innovative technology in London, UK, offering a new way to mine Litecoin without the need for traditional miners.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:37:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118450/0/en/Earn-7-400-Daily-Without-Miners-PAXMINING-Redefines-Litecoin-Mining.html"
-    },
-    {
-      "id": 55,
-      "title": "ivcap_ai_tool 0.7.14",
-      "summary": "ivcap_ai_tool 0.7.14 has been released, providing helper functions for building AI tools as IVCAP services.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T07:36:47Z",
-      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.14/"
-    },
-    {
-      "id": 56,
-      "title": "Returns At Santova (JSE:SNV) Appear To Be Weighed Down",
-      "summary": "Returns at Santova appear to be weighed down. Looking for underlying trends that could lead to long-term growth.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:36:45Z",
-      "url": "https://finance.yahoo.com/news/returns-santova-jse-snv-appear-073645105.html"
-    },
-    {
-      "id": 57,
-      "title": "Ugoos X5M Pro Android 14 TV Box is powered by a 2.5 GHz Amlogic S905X5M SoC",
-      "summary": "Ugoos X5M Pro Android 14 TV Box is powered by a 2.5 GHz Amlogic S905X5M SoC - Ugoos X5M Pro is an Android 14 TV box powered by the new Amlogic S905X5M quad-core Cortex-A55 SoC",
-      "source": "CNX Software",
-      "category": "innovation",
-      "timestamp": "2025-07-21T07:35:43Z",
-      "url": "https://www.cnx-software.com/2025/07/21/ugoos-x5m-pro-android-14-tv-box-amlogic-s905x5m/"
-    },
-    {
-      "id": 58,
-      "title": "AAIB totally unbiased, carrying out rule-based probe into AI plane crash: Naidu",
-      "summary": "AAIB conducting an unbiased, rule-based investigation into an AI plane crash, with success in decoding data from black boxes.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-21T07:30:23Z",
-      "url": "https://www.thehindubusinessline.com/news/national/aaib-totally-unbiased-carrying-out-rule-based-probe-into-ai-plane-crash-naidu/article69837383.ece"
-    },
-    {
-      "id": 59,
-      "title": "NORAD Fighter Jets Stage Show of Force Near Russian Border",
-      "summary": "United States and Canadian fighter jets assigned to NORAD conducted an exercise near the Russian border over Alaska on July 10.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-21T07:29:10Z",
-      "url": "https://biztoc.com/x/669c733aa9e47ee7"
-    },
-    {
-      "id": 60,
-      "title": "qmemetic-ai 1.1.2",
-      "summary": "qmemetic-ai 1.1.2 is a quantum-inspired AI system designed for evolving, mutating, and entangling memes across users, systems, and timelines.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-21T07:28:58Z",
-      "url": "https://pypi.org/project/qmemetic-ai/1.1.2/"
-    },
-    {
-      "id": 51,
-      "title": "Chiesa-Liverpool over, Italy return? Conte, Allegri, Juve options",
-      "summary": "Federico Chiesa's potential return to Italy and potential options with clubs like Juventus are being discussed after his unsuccessful season away from Liverpool",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:19:00Z",
-      "url": "https://onefootball.com/en/news/chiesa-liverpool-over-italy-return-conte-allegri-juve-options-41402831"
-    },
-    {
-      "id": 52,
-      "title": "Apple M3 Ultra vs NVIDIA RTX : Which Powers Local AI Better?",
-      "summary": "Apple M3 Ultra vs NVIDIA RTX : Which Powers Local AI Better? - The comparison between Apple M3 Ultra and NVIDIA RTX focuses on the ability to run advanced AI models directly on personal computers without the need for a server farm or cloud subscription. This brings innovation to AI applications by making it more accessible and efficient for Mac and Windows users.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-21T07:17:31Z",
-      "url": "https://www.geeky-gadgets.com/apple-m3-ultra-vs-nvidia-rtx-which-powers-local-ai-better/"
-    },
-    {
-      "id": 53,
-      "title": "U.S. firms scramble to secure rare-earth magnets — imports from China surge 660%",
-      "summary": "U.S. firms are rushing to secure rare-earth magnets as imports from China jumped 660% following successful trade talks between the two countries.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:17:00Z",
-      "url": "https://www.cnbc.com/2025/07/21/rare-earth-magnets-china-exports-surge.html"
-    },
-    {
-      "id": 54,
-      "title": "Stump The Geeks Live from Macstock 2025",
-      "summary": "Recorded LIVE at Macstock 2025, this episode of Mac Geek Gab features a 'Stump The Geeks' showdown where Dave, Pete, and Adam tackle real-time questions and Quick Tips. The episode includes discussions on how to enable iPhone Mirroring.",
-      "source": "Macgeekgab.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T07:15:12Z",
-      "url": "https://www.macgeekgab.com/episode/1099/"
-    },
-    {
-      "id": 55,
-      "title": "Ingeniously Using Psychology To Psych-Out AI To Do What You Want It To Do",
-      "summary": "New research shows how psychology can be used to manipulate generative AI and LLMs to do what you want.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-21T07:15:00Z",
-      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/21/ingeniously-using-psychology-to-psych-out-ai-to-do-what-you-want-it-to-do/"
-    },
-    {
-      "id": 56,
-      "title": "Teacher Retirement System of Texas Sells 5,123 Shares of GRAIL, Inc. (NASDAQ:GRAL)",
-      "summary": "Teacher Retirement System of Texas sells a portion of its shares in GRAIL, Inc., reducing its stake in the company.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:14:48Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-sells-5123-shares-of-grail-inc-nasdaqgral/"
-    },
-    {
-      "id": 57,
-      "title": "Teacher Retirement System of Texas Invests $143,000 in Hut 8 Corp. (NASDAQ:HUT)",
-      "summary": "Teacher Retirement System of Texas invested $143,000 in Hut 8 Corp. (NASDAQ:HUT) during the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:14:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-invests-143000-in-hut-8-corp-nasdaqhut/"
-    },
-    {
-      "id": 58,
-      "title": "Teacher Retirement System of Texas Invests $137,000 in Viasat Inc. (NASDAQ:VSAT)",
-      "summary": "Teacher Retirement System of Texas invests $137,000 in Viasat Inc., acquiring 13,136 shares in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:14:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/teacher-retirement-system-of-texas-invests-137000-in-viasat-inc-nasdaqvsat/"
-    },
-    {
-      "id": 59,
-      "title": "Nvidia's China chip clearance spurs SK Hynix memory expansion plans",
-      "summary": "Nvidia's clearance to sell AI chips to China is prompting SK Hynix to plan expansion of memory semiconductor production.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:13:50Z",
-      "url": "https://www.digitimes.com/news/a20250721PD232/nvidia-sk-hynix-production-hbm3e-chips.html"
-    },
-    {
-      "id": 60,
-      "title": "Nvidia CEO's China charm offensive underscores rock star status in key market",
-      "summary": "Nvidia CEO Jensen Huang's charm offensive in China highlights his popularity in this key market, despite trade tensions impacting the company's business. Huang's visit included engaging with fans and participating in a supply chain expo.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:12:45Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceos-china-charm-offensive-underscores-rock-star-status-in-key-market/articleshow/122809085.cms"
-    },
-    {
-      "id": 61,
-      "title": "Quick commerce platforms focus shifts to revive profitability than aggressive expansion: Report",
-      "summary": "Quick commerce platforms in India are shifting focus towards profitability over aggressive expansion, with the market estimated to reach ₹64,000 crore in FY25, showing a significant CAGR of 142 per cent between FY22 and FY25.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:11:24Z",
-      "url": "https://www.thehindubusinessline.com/companies/quick-commerce-platforms-focus-shifts-to-revive-profitability-than-aggressive-expansion-report/article69837319.ece"
-    },
-    {
-      "id": 62,
-      "title": "ServiceNow (NOW) Expected to Announce Quarterly Earnings on Wednesday",
-      "summary": "ServiceNow is expected to announce its Q2 2025 earnings results, with analysts predicting earnings of $3.53 per share and revenue of $3.12 billion for the quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:10:59Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/servicenow-now-expected-to-announce-quarterly-earnings-on-wednesday/"
     }
   ]
 }
