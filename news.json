@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-22T19:30:58.911Z",
+  "lastUpdate": "2025-07-22T19:49:04.736Z",
   "items": [
+    {
+      "id": 51,
+      "title": "fast-select added to PyPI",
+      "summary": "fast-select, a Sci-Kit Learn compatible Numba and CUDA-accelerated implementation of feature selection algorithms, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:47:31Z",
+      "url": "https://pypi.org/project/fast-select/"
+    },
+    {
+      "id": 52,
+      "title": "Will XRP Fall Below $3.5? PFMCrypto Unveils Free XRP-Focused Mining Contracts, Drawing a Surge of XRP Holders",
+      "summary": "PFMCrypto unveils free XRP-focused mining contracts, leading to a surge of XRP holders as the cryptocurrency jumps to $3.5 for the first time in years.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118996/0/en/Will-XRP-Fall-Below-3-5-PFMCrypto-Unveils-Free-XRP-Focused-Mining-Contracts-Drawing-a-Surge-of-XRP-Holders.html"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: Another GPT wrapper. A boring tool that writes your resignation letter",
+      "summary": "A new tool called ResignationDesk uses ChatGPT to generate resignation letters based on selected tones and recipients. This tool was created after noticing high search volume for resignation letter related terms.",
+      "source": "Resignationdesk.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:46:05Z",
+      "url": "https://resignationdesk.com/"
+    },
+    {
+      "id": 54,
+      "title": "The “Bubble” of Risk: Improving Assessments for Offensive Cybersecurity Agents",
+      "summary": "The article highlights the importance of improving assessments for offensive cybersecurity agents to account for adversaries adapting and modifying models.",
+      "source": "Princeton University",
+      "category": "research",
+      "timestamp": "2025-07-21T19:45:28Z",
+      "url": "https://blog.citp.princeton.edu/2025/07/21/the-bubble-of-risk-improving-assessments-for-offensive-cybersecurity-agents/"
+    },
+    {
+      "id": 55,
+      "title": "72% of U.S. teens have used AI companions, study finds",
+      "summary": "72% of U.S. teens have tried AI companions and 52% use them regularly, according to a study.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:44:12Z",
+      "url": "https://biztoc.com/x/41a3f095ccc166c0"
+    },
+    {
+      "id": 56,
+      "title": "New CEO Addresses Coldplay Affair Scandal To Astronomer Employees, Customers",
+      "summary": "The new CEO of the company addressed the scandal regarding the Coldplay affair to employees and customers, after the co-founder stepped into the interim role. The company had gone viral last week, prompting a change in leadership.",
+      "source": "HuffPost",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:43:57Z",
+      "url": "https://www.huffpost.com/entry/new-astronomer-ceo-coldplay-affair-scandal_n_687e7fcbe4b09c4b75eab9a8"
+    },
+    {
+      "id": 57,
+      "title": "72% of U.S. teens have used AI companions, study finds | TechCrunch",
+      "summary": "72% of U.S. teens have used AI companions, according to a recent study. This high usage rate among teens highlights the growing application of AI technology in everyday life.",
+      "source": "TechCrunch",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:43:27Z",
+      "url": "https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/"
+    },
+    {
+      "id": 58,
+      "title": "coppersun-brass 2.3.21",
+      "summary": "Coppersun-brass has announced the release of Development Intelligence for AI Agents as part of their Copper Sun Product Line.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:40:57Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.21/"
+    },
+    {
+      "id": 59,
+      "title": "S&P 500 And Nasdaq Set New Record Highs—Here’s Why Wall Street Expects Rally Could Climb Further",
+      "summary": "S&P 500 and Nasdaq reach new record highs, with Wall Street predicting potential for further rally due to intense investor FOMO and continued good news.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:39:29Z",
+      "url": "https://www.forbes.com/sites/tylerroush/2025/07/21/sp-500-and-nasdaq-set-new-record-highs-heres-why-wall-street-expects-rally-could-climb-further/"
+    },
+    {
+      "id": 60,
+      "title": "pyfound 0.1.2",
+      "summary": "pyfound 0.1.2 - Found! is an AI enabled tool for fast semantic search over your personal documents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:37:59Z",
+      "url": "https://pypi.org/project/pyfound/0.1.2/"
+    },
+    {
+      "id": 61,
+      "title": "This is the soundbar I recommend for deeply immersive audio - and now it's $600 off",
+      "summary": "LG's S95TR soundbar, recommended for immersive audio, is now $600 off. It offers impressive audio performance and useful features, making it a top pick this year.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:37:45Z",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/this-is-the-soundbar-i-recommend-for-deeply-immersive-audio-and-now-its-600-off/"
+    },
+    {
+      "id": 62,
+      "title": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'",
+      "summary": "A Florida man was arrested for threatening to kill everyone on what he believed was Jeffrey Epstein's client list, showing the ethical implications of online threats and harassment.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:37:44Z",
+      "url": "https://freerepublic.com/focus/f-news/4329952/posts"
+    },
+    {
+      "id": 63,
+      "title": "Back-to-school cyber safety: Parent checklist",
+      "summary": "Back-to-school cyber safety checklist for parents to protect children from new digital dangers during the new school year.",
+      "source": "Webroot.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:36:20Z",
+      "url": "https://www.webroot.com/blog/2025/07/21/back-to-school-cyber-safety-parent-checklist"
+    },
+    {
+      "id": 64,
+      "title": "Astronomer’s New CEO Addresses Silver Lining Of Viral Coldplay Scandal In Opening Message",
+      "summary": "Astronomer quickly found a new CEO after the previous one resigned over a viral video scandal. The new CEO addressed the situation in his opening message.",
+      "source": "BroBible",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:36:02Z",
+      "url": "https://brobible.com/culture/article/astronomer-ceo-replacement-coldplay-cheating-video-silver-lining/"
+    },
+    {
+      "id": 65,
+      "title": "Nvidia H20 AI GPU inventory is limited — but Nvidia is making a new B30 model for China to comply with export restrictions",
+      "summary": "Nvidia is launching a new B30 AI GPU model in China to comply with export restrictions, as the inventory for the H20 model is limited. Despite a U.S. policy reversal, Nvidia has decided not to resume production of the H20 AI GPUs.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:33:41Z",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-h20-ai-gpu-inventory-is-limited-but-nvidia-is-making-a-new-b30-model-for-china-to-comply-with-export-restrictions"
+    },
+    {
+      "id": 66,
+      "title": "Conservative Bots on X Post Mixed Messages As MAGA Divide Over Epstein Case Deepens",
+      "summary": "A network of X accounts using artificial intelligence to support the Trump administration are conflicted over messaging as the Epstein case deepens.",
+      "source": "International Business Times",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:32:55Z",
+      "url": "https://www.ibtimes.com/conservative-bots-x-post-mixed-messages-maga-divide-over-epstein-case-deepens-3779051"
+    },
+    {
+      "id": 67,
+      "title": "Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets",
+      "summary": "Airline pricing involves complex systems of fare buckets and inventory controls, which impact scarcity and inequity in pricing. Airlines manage a dynamic inventory of fares divided into booking classes with different prices.",
+      "source": "Getjetback.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:31:43Z",
+      "url": "https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/"
+    },
+    {
+      "id": 68,
+      "title": "Shiba Inu Exec Outlines How Altcoin Season Will Go, And How SHIB Will Perform",
+      "summary": "A Shiba Inu executive outlines the expected path of the upcoming altcoin season and how SHIB will perform, focusing on how capital could rotate through the market and where the SHIB token fits into the cycle.",
+      "source": "Bitcoinist",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:30:43Z",
+      "url": "https://bitcoinist.com/shiba-inu-exec-on-altcoin-season/"
+    },
     {
       "id": 51,
       "title": "A fresh phone hell in the office",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T19:04:10Z",
       "url": "https://www.forbes.com/sites/richardosibanjo/2025/07/21/the-career-funeral-the-one-exercise-every-professional-should-do-before-change-hits/"
-    },
-    {
-      "id": 63,
-      "title": "Floridi named the John K. Castle Professor in the Practice of Cognitive Science",
-      "summary": "Luciano Floridi, a major interpreter of the digital revolution and founder of the philosophy of information, has been named the John K. Castle Professor in the Practice of Cognitive Science at Yale.",
-      "source": "Yale.edu",
-      "category": "research",
-      "timestamp": "2025-07-21T19:03:13Z",
-      "url": "https://news.yale.edu/2025/07/21/floridi-named-john-k-castle-professor-practice-cognitive-science"
-    },
-    {
-      "id": 64,
-      "title": "Xelix Raises $160 Million to Bring Agentic AI to Accounts Payable",
-      "summary": "Xelix raises $160 million in funding for agentic AI software to support accounts payable operations.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:03:12Z",
-      "url": "http://www.pymnts.com/news/investment-tracker/2025/xelix-raises-160-million-to-bring-agentic-ai-to-accounts-payable/"
-    },
-    {
-      "id": 65,
-      "title": "Google Gemini Deep Think Wins Gold at IMO 2025",
-      "summary": "Google DeepMind's Gemini Deep Think wins Gold at IMO 2025 by solving five out of six problems in natural language.",
-      "source": "iPhone in Canada",
-      "category": "research",
-      "timestamp": "2025-07-21T19:02:43Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/21/google-gemini-deep-think-wins-gold/"
-    },
-    {
-      "id": 66,
-      "title": "Sam Altman, Donald Trump Form Unlikely Alliance Over AI Strategy",
-      "summary": "Sam Altman, CEO of OpenAI, has formed an unlikely alliance with Donald Trump to influence the development and regulation of AI in the U.S.",
-      "source": "iPhone in Canada",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:01:26Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/21/sam-altman-donald-trump-ai-alliance/"
-    },
-    {
-      "id": 67,
-      "title": "Trump Sparks Outrage With AI-Generated Video Showing Obama Arrested and Jailed",
-      "summary": "Trump sparks outrage with AI-generated video showing Obama arrested and jailed, highlighting ethical concerns about the use of AI to create false and misleading content.",
-      "source": "Legalinsurrection.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:00:35Z",
-      "url": "https://legalinsurrection.com/2025/07/trump-sparks-outrage-with-ai-generated-video-showing-obama-arrested-and-jailed/"
-    },
-    {
-      "id": 68,
-      "title": "Figma seeking $1B+ IPO that could value it at $16.4B",
-      "summary": "Figma Inc. is seeking a $1B+ IPO that could value it at $16.4B, making it a significant startup in the graphic design software industry.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:00:18Z",
-      "url": "https://siliconangle.com/2025/07/21/figma-seeking-1b-ipo-value-16-4b/"
-    },
-    {
-      "id": 69,
-      "title": "Jersey Shore GOP Strongholds Lose Federal Beach Aid After Decades",
-      "summary": "Some of New Jersey's GOP strongholds are losing federal beach replenishment funding, which may impact the economy of these shore towns.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:00:11Z",
-      "url": "https://biztoc.com/x/b5a0fa9fab7a9749"
-    },
-    {
-      "id": 51,
-      "title": "How AI IS Unlocking The CFO’s True Purpose",
-      "summary": "After a century stuck inside a paradox, AI is transforming the CFO role from compliance enforcer to strategic partner, unlocking judgment, foresight, and leadership across the organization.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:53:00Z",
-      "url": "https://www.forbes.com/sites/alexanderpuutio/2025/07/21/how-ai-is-unlocking-the-cfos-true-purpose/"
-    },
-    {
-      "id": 52,
-      "title": "PayPal introduces AI-powered scam alerts",
-      "summary": "PayPal introduces AI-powered scam alerts to enhance protection for customers making Friends and Family payments on PayPal and Venmo.",
-      "source": "Finextra",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:51:33Z",
-      "url": "https://www.finextra.com/pressarticle/106417/paypal-introduces-ai-powered-scam-alerts"
-    },
-    {
-      "id": 53,
-      "title": "The Ultimate Guide to Mastering Google Gemini & AI Tools on Android",
-      "summary": "Artificial intelligence is becoming more prevalent, including on Android phones with Google's Gemini AI tools. A guide has been released to help users master these tools.",
-      "source": "Gizchina.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:51:11Z",
-      "url": "https://www.gizchina.com/2025/07/21/the-ultimate-guide-to-mastering-google-gemini-ai-tools-on-android/"
-    },
-    {
-      "id": 54,
-      "title": "AI-generated legal filings are making a mess of the judicial system",
-      "summary": "AI-generated legal filings are causing issues in the judicial system, with hallucinations potentially influencing judicial rulings.",
-      "source": "TechSpot",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:50:00Z",
-      "url": "https://www.techspot.com/news/108750-ai-generated-legal-filings-making-mess-judicial-system.html"
-    },
-    {
-      "id": 55,
-      "title": "Verizon Surges as Trump Tax Breaks, Fiber Gains, and EPS Beat Shock Wall Street",
-      "summary": "Verizon surges on a $2B cash windfall and broadband momentum, beating Wall Street's expectations.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T18:49:54Z",
-      "url": "https://finance.yahoo.com/news/verizon-surges-trump-tax-breaks-184954806.html"
-    },
-    {
-      "id": 56,
-      "title": "China’s Security Ministry Warns Foreign Chips, Software May Steal Data Using Secret Backdoors",
-      "summary": "China's Security Ministry warns that foreign chips and software may have secret backdoors to steal data.",
-      "source": "Sputnikglobe.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:49:47Z",
-      "url": "https://sputnikglobe.com/20250721/chinas-security-ministry-warns-foreign-chips-software-may-steal-data-using-secret-backdoors-1122469515.html"
-    },
-    {
-      "id": 57,
-      "title": "ICE Detention Centers Are Worse Than Bad",
-      "summary": "Detainees in ICE detention centers in Florida report being treated like animals according to a new report from Human Rights Watch.",
-      "source": "Jezebel",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:48:49Z",
-      "url": "https://www.jezebel.com/ice-detention-centers-are-worse-than-bad"
-    },
-    {
-      "id": 58,
-      "title": "WEX Taps AI For Faster FSA Reimbursements",
-      "summary": "WEX has introduced an AI-powered tool to expedite FSA reimbursements for users, reducing manual work and streamlining the process.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:48:30Z",
-      "url": "https://biztoc.com/x/42e932f889c4b029"
-    },
-    {
-      "id": 59,
-      "title": "AWS, Meta Unveil Startup Program as Zuckerberg Pushes AI",
-      "summary": "AWS and Meta partner to launch a new startup accelerator program to support early-stage companies in the adoption of open-source AI technology.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:48:28Z",
-      "url": "https://biztoc.com/x/be3efd6501d60d2d"
-    },
-    {
-      "id": 60,
-      "title": "ze-prompter added to PyPI",
-      "summary": "The ze-prompter library has been added to PyPI, making it easier to manage prompt templates with versioning and AI models. This innovation will benefit developers working with AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:45:51Z",
-      "url": "https://pypi.org/project/ze-prompter/"
-    },
-    {
-      "id": 61,
-      "title": "ze-prompter 0.0.1a0",
-      "summary": "Ze-prompter 0.0.1a0 is a library designed for managing prompt templates using versioning and AI models.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:45:51Z",
-      "url": "https://pypi.org/project/ze-prompter/0.0.1a0/"
     }
   ]
 }
