@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T16:25:59.203Z",
+  "lastUpdate": "2025-07-22T16:51:49.802Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sorry MSI, but you blew it – the Claw A8 is overpriced and could struggle to compete against cheaper rivals like the Steam Deck",
+      "summary": "The MSI Claw A8 is criticized for being overpriced and may have trouble competing with cheaper alternatives like the Steam Deck. Pre-orders are available in Europe but the high price could deter potential buyers.",
+      "source": "TechRadar",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:51:25Z",
+      "url": "https://www.techradar.com/computing/gaming-pcs/sorry-msi-but-you-blew-it-the-claw-a8-is-overpriced-and-could-struggle-to-compete-against-cheaper-rivals-like-the-steam-deck"
+    },
+    {
+      "id": 52,
+      "title": "Marvel's VISION QUEST Has Reportedly Wrapped Filming: What's Next For White Vision?",
+      "summary": "Marvel's Vision Quest has reportedly wrapped filming, leaving MCU fans eager to find out what's next for White Vision in the Disney+ series.",
+      "source": "CBM (Comic Book Movie)",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:50:45Z",
+      "url": "https://comicbookmovie.com/tv/marvel/vision/marvels-vision-quest-has-reportedly-wrapped-filming-whats-next-for-white-vision-a222923"
+    },
+    {
+      "id": 53,
+      "title": "LLM Daydreaming (gwern.net)",
+      "summary": "This post from Gwern tackles a question that I suspect could become very relevant for AI automating AI research (and jobs more generally), which is why don't current AIs produce frontier-expansion/insights semi-reliabilit...",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-21T16:50:39Z",
+      "url": "https://www.lesswrong.com/posts/ZffDM6MkHDkXb9Si6/llm-daydreaming-gwern-net"
+    },
+    {
+      "id": 54,
+      "title": "The Business And Economic Case For Academic Freedom",
+      "summary": "Academic freedom is crucial for driving U.S. innovation and economic growth, but political interference may jeopardize this and put our universities at risk, impacting America's global competitive edge.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:50:32Z",
+      "url": "https://www.forbes.com/sites/iansimmons/2025/07/21/the-business-and-economic-case-for-academic-freedom/"
+    },
+    {
+      "id": 55,
+      "title": "I Love Our AI Stack. I’m Just Also OK If It’s Completely Different in 2026.",
+      "summary": "The article discusses the ethical question of loyalty to AI systems and how founders may have conflicting feelings about sticking with a particular AI stack in the future.",
+      "source": "Saastr.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:50:23Z",
+      "url": "https://www.saastr.com/i-love-our-ai-stack-im-just-also-ok-if-its-completely-different-in-2026/"
+    },
+    {
+      "id": 56,
+      "title": "Trump's Wildly Fascistic Posting Spree Isn't Just a Distraction From Epstein (Rolling Stone)",
+      "summary": "President Trump's posting spree, including AI-generated content fantasizing about the arrest of political figures, raises ethical concerns about the use of AI technology in spreading misinformation and inciting divisiveness.",
+      "source": "Memeorandum.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:50:04Z",
+      "url": "https://www.memeorandum.com/250721/p65"
+    },
+    {
+      "id": 57,
+      "title": "geoai-py 0.9.2",
+      "summary": "geoai-py 0.9.2 is a Python package designed for leveraging Artificial Intelligence (AI) in analyzing geospatial data.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:49:53Z",
+      "url": "https://pypi.org/project/geoai-py/0.9.2/"
+    },
+    {
+      "id": 58,
+      "title": "Darktrace announces acquisition of Mira Security, a leading provider of network traffic visibility solutions",
+      "summary": "Darktrace acquires Mira Security, a provider of network traffic visibility solutions.",
+      "source": "Vmblog.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T16:48:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/21/darktrace-announces-acquisition-of-mira-security-a-leading-provider-of-network-traffic-visibility-solutions.aspx"
+    },
+    {
+      "id": 59,
+      "title": "link2abc 0.2.0",
+      "summary": "link2abc 0.2.0 allows users to transform any link or clipboard content into music using AI, and is mobile-friendly.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:46:29Z",
+      "url": "https://pypi.org/project/link2abc/0.2.0/"
+    },
+    {
+      "id": 60,
+      "title": "Trump Posts AI Video Of Obama Being Arrested, Handcuffed As He Gleefully Watches",
+      "summary": "President Trump faces backlash for posting AI-generated video depicting Barack Obama being arrested and handcuffed",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:46:22Z",
+      "url": "https://biztoc.com/x/8206f302c8bd1568"
+    },
+    {
+      "id": 61,
+      "title": "Alphabet Reports Q2 Earnings July 23. Time to Buy GOOGL Stock?",
+      "summary": "Alphabet reported strong Q2 earnings, with growth in AI and other key areas suggesting continued momentum for the company.",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:46:20Z",
+      "url": "https://www.barchart.com/story/news/33535114/alphabet-reports-q2-earnings-july-23-time-to-buy-googl-stock"
+    },
+    {
+      "id": 62,
+      "title": "Increased Youth Overdose Deaths From Fentanyl",
+      "summary": "Increased youth overdose deaths from fentanyl highlight the ethical concerns surrounding the distribution of drugs and the lack of awareness among people about the presence of synthetic substances in opioids.",
+      "source": "Psychology Today",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:46:15Z",
+      "url": "https://www.psychologytoday.com/us/blog/addiction-outlook/202507/increased-youth-overdose-deaths-from-fentanyl"
+    },
+    {
+      "id": 63,
+      "title": "Melius says Apple needs to make a 'bold move' in AI — here's why Cramer agrees",
+      "summary": "Melius and Cramer suggest Apple needs to make a bold move in AI during The Investing Club's Morning Meeting.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T16:45:53Z",
+      "url": "https://biztoc.com/x/be4fb1d8aedfbc9f"
+    },
+    {
+      "id": 64,
+      "title": "Anthropic banned AI in job interviews—now the $61.5 billion tech giant is doing a U-turn and letting applicants use bots, but only if it’s Claude",
+      "summary": "Anthropic banned AI in job interviews, but is now allowing applicants to use bots like Claude, showing a shift in policy on AI tools in hiring processes.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:45:51Z",
+      "url": "https://biztoc.com/x/7d06fa2aea3bd746"
+    },
+    {
+      "id": 65,
+      "title": "Galaxy Z Fold 7 is a hit as it outsells Flip 7 for the first time in Samsung’s home country",
+      "summary": "Galaxy Z Fold 7 outsells Flip 7 in Samsung's home country, indicating success for Samsung's upcoming lineup of foldables.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T16:40:00Z",
+      "url": "http://9to5google.com/2025/07/21/samsung-galaxy-z-fold-7-outselling-flip-first-time/"
+    },
+    {
+      "id": 66,
+      "title": "Anthropic banned AI in job interviews—now the $61.5 billion tech giant is doing a U-turn and letting applicants use bots, but only if it’s Claude",
+      "summary": "Anthropic is now allowing job applicants to use AI bots like Claude to improve their resumes, cover letters, and applications, after previously banning AI in interviews.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:38:34Z",
+      "url": "https://fortune.com/2025/07/21/billion-dollar-giant-anthropic-ai-ban-hiring-policy-change-job-seekers-interview-process/"
+    },
+    {
+      "id": 67,
+      "title": "$61.5 billion tech giant Anthropic has made a major hiring U-turn—now, it’s letting job applicants use AI months after banning it from the interview process",
+      "summary": "$61.5 billion tech giant Anthropic has reversed its decision to ban AI from the interview process and is now allowing job seekers to use AI to improve their applications, raising ethical concerns.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:38:34Z",
+      "url": "https://tech.yahoo.com/ai/articles/61-5-billion-tech-giant-163834632.html"
+    },
+    {
+      "id": 68,
+      "title": "roksta 0.1.37",
+      "summary": "roksta 0.1.37 is an AI coding assistant that can help developers write code more efficiently. This tool has the potential to revolutionize the way software is developed and increase productivity in the tech industry.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T16:37:24Z",
+      "url": "https://pypi.org/project/roksta/0.1.37/"
+    },
+    {
+      "id": 69,
+      "title": "AI Chatbots Frequently Get Login URLs Wrong, Netcraft Warns via @sejournal, @MattGSouthern",
+      "summary": "AI chatbots frequently suggest incorrect login URLs, with 34% leading to phishing or unrelated sites, according to a Netcraft report, posing risks for users.",
+      "source": "Search Engine Journal",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:35:33Z",
+      "url": "https://www.searchenginejournal.com/ai-chatbots-frequently-get-login-urls-wrong-netcraft-warns/551722/"
+    },
+    {
+      "id": 70,
+      "title": "FDA Issues Bread Recall Update After Glass Discovered in Crusts",
+      "summary": "The U.S. FDA recalls bread items due to glass fragments found in the crusts, raising concerns about consumer safety and ethical practices in food production.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T16:35:06Z",
+      "url": "https://biztoc.com/x/7897675cf7c18ba9"
+    },
     {
       "id": 51,
       "title": "Navitas stock soars 33% to 52-week high — what’s driving the surge in this semiconductor star?",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T15:44:15Z",
       "url": "https://fortune.com/2025/07/21/billionaire-nvidia-ceo-jensen-huang-always-working-7-days-a-week-trillion-dollar-company-no-work-life-balance/"
-    },
-    {
-      "id": 52,
-      "title": "Nvidia CEO’s always-on 7-day grind is going viral—he can’t even sit through a movie without thinking about his $4.2 trillion tech giant",
-      "summary": "Nvidia CEO Jensen Huang's constant work ethic and obsession with the tech giant is going viral, as he admits his brain is always on the clock even when not working.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:44:15Z",
-      "url": "https://finance.yahoo.com/news/nvidia-ceo-always-7-day-154415993.html"
-    },
-    {
-      "id": 53,
-      "title": "Letters to Editor",
-      "summary": "A collection of letters to the editor discussing various AI-related topics were recently published, providing insights into the current research landscape in the field.",
-      "source": "BusinessLine",
-      "category": "research",
-      "timestamp": "2025-07-21T15:44:05Z",
-      "url": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article69839690.ece"
-    },
-    {
-      "id": 54,
-      "title": "SOUNDRAW launches “Beat the Future” contest with $2,500 in prizes and free access",
-      "summary": "SOUNDRAW launches 'Beat the Future' contest with $2,500 in prizes and free access, showcasing their AI-powered music creation platform.",
-      "source": "Bedroomproducersblog.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T15:42:49Z",
-      "url": "https://bedroomproducersblog.com/2025/07/21/soundraw-beat-the-future/"
-    },
-    {
-      "id": 55,
-      "title": "FOSSiBOT F107 Pro launches the world’s first rugged phone with Starlight Night Vision – See in the dark like it’s daylight!",
-      "summary": "FOSSiBOT F107 Pro is the world's first rugged phone with Starlight Night Vision technology, offering the ability to see in the dark like it's daylight. The smartphone merges cutting-edge imaging, flagship performance, and military-grade durability.",
-      "source": "The Gadgeteer",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:42:45Z",
-      "url": "https://the-gadgeteer.com/2025/07/21/fossibot-f107-pro-launches-the-worlds-first-rugged-phone-with-starlight-night-vision-see-in-the-dark-like-its-daylight/"
-    },
-    {
-      "id": 56,
-      "title": "Opinion: Focus on tariffs is ignoring Canada's fastest-growing trade opportunity",
-      "summary": "Trade in digital services is growing faster than trade in goods, presenting a significant trade opportunity for Canada. Ottawa should shift focus to digital trade to maximize economic benefits.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:42:17Z",
-      "url": "https://financialpost.com/news/economy/focus-tariffs-ignoring-canada-fastest-growing-trade-opportunity"
-    },
-    {
-      "id": 57,
-      "title": "200MP main camera rugged smartphone goes to retail with 20% discount",
-      "summary": "200MP main camera rugged smartphone F107 Pro with 20% discount has completed retail launch, featuring an enormous battery and potentially extra-durable chassis.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:42:00Z",
-      "url": "https://www.notebookcheck.net/200MP-main-camera-rugged-smartphone-goes-to-retail-with-20-discount.1063919.0.html"
-    },
-    {
-      "id": 58,
-      "title": "MHRA’s 2024–25 Annual Report and Accounts and Impact Report show progress on safety, innovation, and regulatory excellence",
-      "summary": "MHRA’s 2024–25 Annual Report and Accounts and Impact Report show progress on safety, innovation, and regulatory excellence in AI-related initiatives.",
-      "source": "Www.gov.uk",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:41:58Z",
-      "url": "https://www.gov.uk/government/news/mhras-2024-25-annual-report-and-accounts-and-impact-report-show-progress-on-safety-innovation-and-regulatory-excellence"
-    },
-    {
-      "id": 59,
-      "title": "AI beats docs at identifying patients likely to die of cardiac arrest",
-      "summary": "AI outperforms doctors in identifying patients at risk of cardiac arrest, boasting high accuracy in predicting sudden cardiac death.",
-      "source": "Futurity: Research News",
-      "category": "research",
-      "timestamp": "2025-07-21T15:40:45Z",
-      "url": "https://www.futurity.org/artificial-intelligence-cardiac-arrest-3287332/"
-    },
-    {
-      "id": 60,
-      "title": "Cognitive warfare: Why wars without bombs or bullets are a legal blind spot",
-      "summary": "Cognitive warfare involving misinformation in the age of AI raises concerns about legal and ethical implications.",
-      "source": "Phys.Org",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:40:08Z",
-      "url": "https://phys.org/news/2025-07-cognitive-warfare-wars-bullets-legal.html"
-    },
-    {
-      "id": 61,
-      "title": "Puppy Left Home Alone Outside Crate, Owner Films 'Disaster' They Return To",
-      "summary": "An English bulldog puppy was left home alone outside her crate for the first time, leading to a 'disaster' captured on video by her owner. The viral Instagram video showcases the potential of using AI-generated voices for content creation.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:39:18Z",
-      "url": "https://biztoc.com/x/448ca33fc332a055"
-    },
-    {
-      "id": 62,
-      "title": "M/I Homes' (NYSE:MHO) five-year total shareholder returns outpace the underlying earnings growth",
-      "summary": "M/I Homes' five-year total shareholder returns outpace the underlying earnings growth, highlighting the risks involved in investing in companies whose success is not guaranteed.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:38:49Z",
-      "url": "https://finance.yahoo.com/news/m-homes-nyse-mho-five-153849269.html"
-    },
-    {
-      "id": 51,
-      "title": "odinai-sdk 2.0.1",
-      "summary": "The odinai-sdk 2.0.1 has been released, providing an official Python client library for Odin AI API, allowing developers to easily integrate AI capabilities into their applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:17:21Z",
-      "url": "https://pypi.org/project/odinai-sdk/2.0.1/"
-    },
-    {
-      "id": 52,
-      "title": "Map Reveals 'Accelerating' Water Loss Affecting 40 Million Americans",
-      "summary": "The Colorado River Basin has seen an extensive loss of groundwater over two decades, affecting more than 40 million Americans. Analysis of NASA satellite data shows significant water loss in Arizona.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-21T15:17:05Z",
-      "url": "https://biztoc.com/x/54868e00903b91de"
-    },
-    {
-      "id": 53,
-      "title": "Heartbreak as Mom Describes Giving Birth to Her Stillborn Daughter",
-      "summary": "A mother recounts the emotional experience of delivering a stillborn baby, with the voice being AI-generated, raising ethical concerns about the use of technology in such sensitive situations.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:16:53Z",
-      "url": "https://biztoc.com/x/bbcbd0dc80641885"
-    },
-    {
-      "id": 54,
-      "title": "Millennial Dropped Out of High School at 15—Tears as He Shares Life Today",
-      "summary": "A 38-year-old man went viral for earning a doctorate after dropping out of high school, showcasing a remarkable academic comeback.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:16:49Z",
-      "url": "https://biztoc.com/x/705f3525f771a1e7"
-    },
-    {
-      "id": 55,
-      "title": "Melania Trump Attacked in Russian State Media",
-      "summary": "Melania Trump was attacked in Russian state media by an AI-generated voice, raising concerns about the ethics of using AI to spread misinformation and defamation.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:16:43Z",
-      "url": "https://biztoc.com/x/5e10fa9d6ceabf93"
-    },
-    {
-      "id": 56,
-      "title": "Why ‘Go Big or Go Home’ Doesn’t Work for AI",
-      "summary": "Why ‘Go Big or Go Home’ Doesn’t Work for AI - Sometimes, you need to go back to basics. While developers continue to push the boundaries of AI’s capabilities, the best use cases may be the ones that are a little less exciting.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:16:31Z",
-      "url": "https://biztoc.com/x/2fafa0da7f94d22c"
-    },
-    {
-      "id": 57,
-      "title": "Woman Sees Mom Setting Up Tripod at Beach With Daughter—But There's a Twist",
-      "summary": "A woman witnessed another mother and daughter at the beach, where the daughter's voice was reportedly AI-generated, leading to outrage and concerns about the use of AI in personal interactions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:16:30Z",
-      "url": "https://biztoc.com/x/4ba29f977974af01"
-    },
-    {
-      "id": 58,
-      "title": "GE Vernova to buy France's Alteia for enhancing AI tools for utilities",
-      "summary": "GE Vernova to acquire Alteia to enhance AI tools for utilities",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:16:27Z",
-      "url": "https://finance.yahoo.com/news/ge-vernova-buy-frances-alteia-151627211.html"
-    },
-    {
-      "id": 59,
-      "title": "New leaked renders reveal Google Pixel 10 colors and telephoto camera",
-      "summary": "New leaked renders reveal Google Pixel 10 colors and telephoto camera, hinting at upcoming innovations in smartphone technology.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:16:01Z",
-      "url": "https://www.neowin.net/news/new-leaked-renders-reveal-google-pixel-10-colors-and-telephoto-camera/"
     }
   ]
 }
