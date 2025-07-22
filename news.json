@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-22T14:18:04.923Z",
+  "lastUpdate": "2025-07-22T14:46:10.535Z",
   "items": [
+    {
+      "id": 51,
+      "title": "kumoai 2.5.0.dev202507210742",
+      "summary": "kumoai 2.5.0.dev202507210742 brings AI capabilities to the Modern Data Stack.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:45:26Z",
+      "url": "https://pypi.org/project/kumoai/2.5.0.dev202507210742/"
+    },
+    {
+      "id": 52,
+      "title": "Show HN: Instantly Handle SQL Commands from Natural Language",
+      "summary": "Show HN: Instantly Handle SQL Commands from Natural Language with an open source SQL editor with AI, designed to simplify complex MySQL queries and eliminate the need to repeatedly prompt ChatGPT for assistance with database schema understanding.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:45:19Z",
+      "url": "https://github.com/XenenDev/lazy-mysql-wizard"
+    },
+    {
+      "id": 53,
+      "title": "Tax Compliance AI Tools - Sovos Has Launched Sovi AI to Streamline Tax Compliance (TrendHunter.com)",
+      "summary": "Tax compliance AI tool Sovi AI launched by Sovos to streamline tax compliance processes globally.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:45:05Z",
+      "url": "https://www.trendhunter.com/trends/tax-compliance"
+    },
+    {
+      "id": 54,
+      "title": "DARPA-Funded Tech Unleashes Robots That Feed on Robots to Heal, Grow, and Evo",
+      "summary": "Columbia University Engineers, funded by DARPA, have developed robots with the ability to consume other robots for healing and improvement.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T14:45:04Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329889/posts"
+    },
+    {
+      "id": 55,
+      "title": "The $3.5B shift: How Bitcoin miners are cashing in on AI",
+      "summary": "Bitcoin miners are shifting towards making money from AI rather than mining, with firms like Core Scientific and Hive capitalizing on the AI boom.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:45:00Z",
+      "url": "https://cointelegraph.com/explained/the-35b-shift-how-bitcoin-miners-are-cashing-in-on-ai"
+    },
+    {
+      "id": 56,
+      "title": "FDA Commissioner names George Tidmarsh as new CDER director",
+      "summary": "FDA appoints George Tidmarsh as new director of Center for Drug Evaluation and Research, choosing the Stanford physician-scientist and former biopharma executive.",
+      "source": "Techtarget.com",
+      "category": "research",
+      "timestamp": "2025-07-21T14:45:00Z",
+      "url": "https://www.techtarget.com/pharmalifesciences/news/366627868/FDA-Commissioner-names-George-Tidmarsh-as-new-CDER-director"
+    },
+    {
+      "id": 57,
+      "title": "Indian AI startup makes European breakthrough with BharatGPT Mini launch",
+      "summary": "Indian AI startup CoRover achieves European breakthrough with launch of BharatGPT Mini at VivaTech 2025 in Paris.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-21T14:43:36Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-ai-startup-makes-european-breakthrough-with-bharatgpt-mini-launch/articleshow/122818080.cms"
+    },
+    {
+      "id": 58,
+      "title": "300,000 Black women have left the labor force in 3 months",
+      "summary": "Nearly 300,000 Black women have left the U.S. labor force in just three months, causing their participation rate to drop below that of Latinas for the first time.",
+      "source": "Mediatakeout.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:42:29Z",
+      "url": "https://mediatakeout.com/300000-black-women-have-left-the-labor-force-in-3-months/"
+    },
+    {
+      "id": 59,
+      "title": "DGCA to fill 190 vacancies, says Aviation Minister; assures of transparent AAIB probe into plane crash",
+      "summary": "The Aviation Minister announced 190 vacancies to be filled by DGCA and assured a transparent investigation by AAIB into the Air India flight crash.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:41:30Z",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/dgca-to-fill-190-vacancies-says-aviation-minister-assures-of-transparent-aaib-probe-into-plane-crash/article69838867.ece"
+    },
+    {
+      "id": 60,
+      "title": "Galaxy Tab S10 FE/+ now $50 off + 50% off official Keyboard Slim…or up to $350 off with Fold/Flip 7 orders",
+      "summary": "Samsung is offering discounts on the Galaxy Tab S10 FE and FE+ models, with up to $350 off when ordering Fold/Flip 7. Customers can also get $50 off and 50% off the official keyboard case for the tablets.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:41:17Z",
+      "url": "http://9to5toys.com/2025/07/21/galaxy-tab-s10-fe-fold-7/"
+    },
+    {
+      "id": 61,
+      "title": "Your AI Is Making Your Sales Team Look Slow (And That’s a Problem)",
+      "summary": "AI used for outbound sales is reshaping customer expectations around response times, making human sales reps appear slow by comparison.",
+      "source": "Saastr.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:41:02Z",
+      "url": "https://www.saastr.com/your-ai-is-making-your-sales-team-look-slow-and-thats-a-problem/"
+    },
+    {
+      "id": 62,
+      "title": "Animation Market Size Worth USD 895.71 Billion by 2034 | Fueled by Streaming, Gaming, and E-Learning Demand",
+      "summary": "The global animation market size is expected to be worth USD 895.71 billion by 2034, fueled by streaming, gaming, and e-learning demand. The market is projected to grow at a CAGR of 7.46% from 2025 to 2034.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:41:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118867/0/en/Animation-Market-Size-Worth-USD-895-71-Billion-by-2034-Fueled-by-Streaming-Gaming-and-E-Learning-Demand.html"
+    },
+    {
+      "id": 63,
+      "title": "Trump pivots to new target as Epstein scandal rages: 'Must be ended immediately!'",
+      "summary": "President Donald Trump lashes out at a new target in a social media post, posting phony mugshots of Barack Obama and an AI-generated video of him being arrested, raising concerns about the ethics of using AI to create fake content.",
+      "source": "Raw Story",
+      "category": "ethics",
+      "timestamp": "2025-07-21T14:40:29Z",
+      "url": "https://www.rawstory.com/trump-bail-2673535122/"
+    },
+    {
+      "id": 64,
+      "title": "What Is WhatsApp Advanced Chat Privacy? Here’s How To Turn It On",
+      "summary": "WhatsApp's Advanced Chat Privacy protects your privacy by keeping your information in the chat. Learn how to turn on this new feature.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-21T14:40:24Z",
+      "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/07/21/what-is-whatsapp-advanced-chat-privacy-heres-how-to-turn-it-on/"
+    },
+    {
+      "id": 65,
+      "title": "What do creators really want? Ownership",
+      "summary": "Ownership is becoming the new gold standard in the creator economy, with platforms like Substack and Own giving creators ownership of their content.",
+      "source": "The Drum",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:40:00Z",
+      "url": "https://www.thedrum.com/opinion/2025/07/21/what-do-creators-really-want-ownership"
+    },
+    {
+      "id": 66,
+      "title": "Bioresorbable Polymers Market Volume to Worth 3,839.1 Kilo Tons by 2034",
+      "summary": "Global bioresorbable polymers market volume is projected to reach 3,839.1 kilo tons by 2034, growing at a CAGR of 13.10% according to Towards chem and Materials.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T14:40:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118866/0/en/Bioresorbable-Polymers-Market-Volume-to-Worth-3-839-1-Kilo-Tons-by-2034.html"
+    },
     {
       "id": 51,
       "title": "Coldplay concert row: Astronomer's new CEO to get whopping salary after Andy Byron's resignation? Here's the truth",
@@ -306,150 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T13:42:37Z",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-are-exploring-legal-possibilities-says-aanand-l-rai-who-is-still-in-shock-over-makers-giving-raanjhanaa-a-happy-ending-via-ai-exclusive/articleshow/122817181.cms"
-    },
-    {
-      "id": 66,
-      "title": "Steam’s current top seller: Remake of a legendary castle-building RTS storms the charts – available with launch discount",
-      "summary": "Steam's top seller is the Remake of Stronghold Crusader: Definitive Edition, a legendary RTS game, which is currently leading in two categories on SteamDB and offering a 10% launch discount for a limited time.",
-      "source": "Notebookcheck.net",
-      "category": "applications",
-      "timestamp": "2025-07-21T13:42:00Z",
-      "url": "https://www.notebookcheck.net/Steam-s-current-top-seller-Remake-of-a-legendary-castle-building-RTS-storms-the-charts-available-with-launch-discount.1063688.0.html"
-    },
-    {
-      "id": 67,
-      "title": "Bollywood romantic drama to be re-released in theatres with AI-modified happy ending",
-      "summary": "Bollywood romantic drama to be re-released in theatres with AI-modified happy ending, director was not informed",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:41:55Z",
-      "url": "https://www.the-independent.com/asia/india/bollywood-raanjhanaa-ai-ending-re-release-b2792880.html"
-    },
-    {
-      "id": 68,
-      "title": "Why be afraid of AI?",
-      "summary": "The article discusses concerns about artificial intelligence, questioning why people should fear AI. The author highlights the importance of original writing and creativity in the face of AI advancement.",
-      "source": "Squarespace.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:41:15Z",
-      "url": "http://doug-johnson.squarespace.com/blue-skunk-blog/2025/7/21/why-be-afraid-of-ai.html"
-    },
-    {
-      "id": 69,
-      "title": "littlelearn added to PyPI",
-      "summary": "Littlelearn has been added to PyPI, expanding the machine learning ecosystem with new capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:40:41Z",
-      "url": "https://pypi.org/project/littlelearn/"
-    },
-    {
-      "id": 51,
-      "title": "KoBold Metals inks minerals exploration deal with DR Congo",
-      "summary": "KoBold Metals signs minerals exploration deal with DR Congo, using AI for metal deposit identification",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T13:24:54Z",
-      "url": "https://biztoc.com/x/8ffb4a82ee1d44b4"
-    },
-    {
-      "id": 52,
-      "title": "Dia launches a skill gallery, Perplexity to add tasks to Comet",
-      "summary": "Dia launches a skill gallery for its browser, allowing users to access shortcuts for frequently used prompts.",
-      "source": "TechCrunch",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:24:44Z",
-      "url": "https://techcrunch.com/2025/07/21/dia-launches-a-skill-gallery-perplexity-to-add-tasks-to-comet/"
-    },
-    {
-      "id": 53,
-      "title": "Dia launches a skill gallery, Perplexity to add tasks to Comet",
-      "summary": "Dia has launched a skill gallery for its browser, allowing users to access shortcuts for frequently used prompts.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:24:44Z",
-      "url": "https://finance.yahoo.com/news/dia-launches-skill-gallery-perplexity-132444865.html"
-    },
-    {
-      "id": 54,
-      "title": "Institutions Drive $4 Trillion Crypto Market Wave As DC Moves Buoy Sector",
-      "summary": "Institutions are driving a $4 trillion crypto market wave as Washington policy moves accelerate its integration into regulated finance.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:24:18Z",
-      "url": "https://financialpost.com/pmn/business-pmn/institutions-drive-4-trillion-crypto-market-wave-as-dc-moves-buoy-sector"
-    },
-    {
-      "id": 55,
-      "title": "Trump Media And Technology Group (DJT) Buys $2 Billion Worth Of Bitcoin, And $300 Million In Options On Bitcoin",
-      "summary": "Trump Media And Technology Group (DJT) purchases $2 billion worth of Bitcoin and $300 million in options on Bitcoin, utilizing new capital towards establishing a dedicated Bitcoin Treasury.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:24:17Z",
-      "url": "https://wccftech.com/trump-media-and-technology-group-djt-buys-2-billion-worth-of-bitcoin-and-300-million-in-options-on-bitcoin/"
-    },
-    {
-      "id": 56,
-      "title": "Alphabet (GOOGL) Gets Price Target Hike to $215 as AI Momentum Builds",
-      "summary": "Alphabet receives price target hike to $215 as Google's AI push drives multiple analyst upgrades.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:24:02Z",
-      "url": "https://finance.yahoo.com/news/alphabet-googl-gets-price-target-132402965.html"
-    },
-    {
-      "id": 57,
-      "title": "Nasdaq Verafin unveils agentic AI AML workers",
-      "summary": "Nasdaq Verafin introduces agentic AI workers to aid banks in anti-money laundering compliance through automation.",
-      "source": "Finextra",
-      "category": "applications",
-      "timestamp": "2025-07-21T13:23:34Z",
-      "url": "https://www.finextra.com/newsarticle/46323/nasdaq-verafin-unveils-agentic-ai-aml-workers"
-    },
-    {
-      "id": 58,
-      "title": "Microsoft Office for Mac 16.99",
-      "summary": "Microsoft Office for Mac 16.99 has introduced Copilot AI improvements to its productivity suite, available through various purchasing options including a one-time purchase, annual subscription, or free update for macOS 12 and above.",
-      "source": "TidBITS",
-      "category": "applications",
-      "timestamp": "2025-07-21T13:22:47Z",
-      "url": "https://tidbits.com/watchlist/microsoft-office-for-mac-16-99/"
-    },
-    {
-      "id": 59,
-      "title": "DuckDuckGo Can Now Filter Out AI Images From Search Results",
-      "summary": "DuckDuckGo Can Now Filter Out AI Images From Search Results, addressing concerns about offensive use of AI images created by feeding high-quality, copyrighted pictures without permission to an algorithm.",
-      "source": "PetaPixel",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:22:06Z",
-      "url": "https://petapixel.com/2025/07/21/duckduckgo-can-now-filter-out-ai-images-from-search-results/"
-    },
-    {
-      "id": 60,
-      "title": "WeRide Teams Up With Lenovo to Launch 100% Automotive-Grade HPC 3.0 Platform Powered by NVIDIA DRIVE AGX Thor Chips",
-      "summary": "WeRide teams up with Lenovo and NVIDIA to launch HPC 3.0 platform for automotive applications.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:22:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118796/0/en/WeRide-Teams-Up-With-Lenovo-to-Launch-100-Automotive-Grade-HPC-3-0-Platform-Powered-by-NVIDIA-DRIVE-AGX-Thor-Chips.html"
-    },
-    {
-      "id": 61,
-      "title": "AI still can't generate a Royal portrait that isn't impossibly creepy",
-      "summary": "AI struggles to create a non-creepy Royal portrait as Ai-Da's painting of King Charles III resembles Star Wars Emperor vibes.",
-      "source": "Creative Bloq",
-      "category": "research",
-      "timestamp": "2025-07-21T13:20:25Z",
-      "url": "https://www.creativebloq.com/ai/ai-still-cant-generate-a-royal-portrait-that-isnt-impossibly-creepy"
-    },
-    {
-      "id": 62,
-      "title": "2 ChatGPT Prompts That Can Generate $5,000+ In Passive Income",
-      "summary": "2 powerful ChatGPT prompts can help generate $5,000+ in passive income, turning AI into a business partner.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-21T13:20:15Z",
-      "url": "https://www.forbes.com/sites/sarahhernholm/2025/07/21/2-chatgpt-prompts-that-can-generate-5000-in-passive-income/"
     }
   ]
 }
