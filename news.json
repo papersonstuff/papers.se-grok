@@ -1,6 +1,33 @@
 {
-  "lastUpdate": "2025-07-22T23:40:59.638Z",
+  "lastUpdate": "2025-07-22T23:51:35.168Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Does woman who shot Coldplay video feel sorry for Megan Kerrigan Byron? Grace Springer reveals she earned this amount from viral kiss cam clip",
+      "summary": "The woman who shot the viral Coldplay kiss cam video reveals that she made no money from it and shares her feelings towards the subject of the video, Megan Kerrigan Byron. She clarifies that she did not earn anything from the footage.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T23:50:08Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/grace-springer-feels-sorry-for-megan-kerrigan-byron-shot-coldplay-video-megan-byron-andy-byron-kristin-cabot-viral-video-no-money-confession-reaction-interview/articleshow/122823804.cms"
+    },
+    {
+      "id": 52,
+      "title": "pyCellPhenoX 1.4",
+      "summary": "pyCellPhenoX 1.4 is a cell-specific machine learning method for predicting clinical phenotypes using single-cell multi-omics data.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-21T23:47:27Z",
+      "url": "https://pypi.org/project/pycellphenox/1.4/"
+    },
+    {
+      "id": 53,
+      "title": "If writing is thinking then what happens if AI is doing the writing and reading?",
+      "summary": "The news explores the implications of AI taking over the tasks of writing and reading. It delves into the question of how AI's involvement in these areas may impact various aspects of society.",
+      "source": "Learningbyshipping.com",
+      "category": "research",
+      "timestamp": "2025-07-21T23:45:15Z",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking"
+    },
     {
       "id": 51,
       "title": "NXP delivers bullish guidance despite declining revenue, but investors were not convinced",
@@ -423,33 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T22:38:47Z",
       "url": "https://blogs.cisco.com/digital/country-digital-acceleration-shaping-spains-digital-future"
-    },
-    {
-      "id": 51,
-      "title": "Organon & Co. (OGN) Restructures, Expands in Women’s Health and Biosimilars",
-      "summary": "Organon & Co. (OGN) is restructuring and expanding in women's health and biosimilars, ranking tenth on a list of undervalued pharma stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T22:33:39Z",
-      "url": "https://finance.yahoo.com/news/organon-co-ogn-restructures-expands-223339665.html"
-    },
-    {
-      "id": 52,
-      "title": "Stripe Acquires Orum for Undisclosed Amount",
-      "summary": "Stripe has acquired payment orchestration startup Orum for an undisclosed amount.",
-      "source": "Finovate.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T22:33:34Z",
-      "url": "https://finovate.com/stripe-acquires-orum-for-undisclosed-amount/"
-    },
-    {
-      "id": 53,
-      "title": "Sanofi (SNY) Expands Rare Disease Reach With $9.5B Blueprint Deal",
-      "summary": "Sanofi expands rare disease reach with $9.5B Blueprint deal, making waves in the pharmaceutical industry.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-21T22:32:47Z",
-      "url": "https://finance.yahoo.com/news/sanofi-sny-expands-rare-disease-223247978.html"
     }
   ]
 }
