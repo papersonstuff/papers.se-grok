@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-22T06:24:08.128Z",
+  "lastUpdate": "2025-07-22T06:54:21.773Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nothing Phone 3 vs. Phone 2: An expensive, hard-to-justify upgrade",
+      "summary": "Nothing Phone 3 vs. Phone 2: An expensive, hard-to-justify upgrade - Although it took nearly to two years for Nothing to make a Phone 2 successor, the Phone 3 is complicated.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-21T06:51:59Z",
+      "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-3-vs-phone-2"
+    },
+    {
+      "id": 52,
+      "title": "Government to introduce AI facial recognition at major railway stations to track sex offenders",
+      "summary": "Government plans to introduce AI facial recognition at major railway stations to track sex offenders in order to combat crimes against women. Over 20 lakh sex offenders are listed in a national database, sparking debate among lawyers.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T06:46:05Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/government-to-introduce-ai-facial-recognition-at-major-railway-stations-to-track-sex-offenders/articleshow/122808470.cms"
+    },
+    {
+      "id": 53,
+      "title": "I still prefer my Google Pixel 9 Pro over the expensive flagships - and it's not even close",
+      "summary": "The Google Pixel 9 Pro outperforms expensive flagships in terms of price, features, and performance, making it the preferred choice for many users.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-21T06:45:13Z",
+      "url": "https://www.zdnet.com/article/i-still-prefer-my-google-pixel-9-pro-over-the-expensive-flagships-and-its-not-even-close/"
+    },
+    {
+      "id": 54,
+      "title": "From networks to independence: Why more creatives are making the leap",
+      "summary": "More creatives are leaving network agencies to start their own businesses as agencies consolidate or close down, with industry experts explaining the reasons behind this migration.",
+      "source": "Creative Boom",
+      "category": "startup",
+      "timestamp": "2025-07-21T06:45:00Z",
+      "url": "https://www.creativeboom.com/insight/from-networks-to-independence-why-more-creatives-are-making-the-leap/"
+    },
+    {
+      "id": 55,
+      "title": "Garmin Vivoactive 6 vs. Google Pixel Watch 3: Casual smartwatches, compared",
+      "summary": "Garmin Vivoactive 6 and Google Pixel Watch 3 compared as casual smartwatches, with a focus on mainstream fitness users and Wear OS functionality.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-21T06:44:15Z",
+      "url": "https://www.androidcentral.com/wearables/garmin/garmin-vivoactive-6-vs-google-pixel-watch-3"
+    },
+    {
+      "id": 56,
+      "title": "World's First Full-Link Smart Home Ecosystem Debuts in Guangzhou",
+      "summary": "World's First Full-Link Smart Home Ecosystem Debuts in Guangzhou with the unveiling of a historic leap for smart home technology at the Global Smart Ecosystem Summit.",
+      "source": "Antaranews.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T06:43:48Z",
+      "url": "https://en.antaranews.com/news/367761/worlds-first-full-link-smart-home-ecosystem-debuts-in-guangzhou"
+    },
+    {
+      "id": 57,
+      "title": "spounge-proto-py 0.2.1",
+      "summary": "spounge-proto-py 0.2.1 has been released, which generates protobuf Python packages for the Spounge AI ecosystem microservices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T06:43:47Z",
+      "url": "https://pypi.org/project/spounge-proto-py/0.2.1/"
+    },
+    {
+      "id": 58,
+      "title": "How to Add Smart AI Agents to Your Websites in 2025",
+      "summary": "How to Add Smart AI Agents to Your Websites in 2025 - Imagine this: a potential customer visits your website late at night with a pressing question. There’s no one available to assist, and they leave, frustrated, never to return. Now, picture the same scenario, but this time, a smart AI agent instantly answers t…",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-21T06:38:18Z",
+      "url": "https://www.geeky-gadgets.com/adding-smart-ai-agents-to-websites-guide-2025/"
+    },
+    {
+      "id": 59,
+      "title": "Digital Realty Trust, Inc. (NYSE:DLR) Receives Average Recommendation of “Moderate Buy” from Analysts",
+      "summary": "Digital Realty Trust, Inc. (NYSE:DLR) has been given a ",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-21T06:37:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/digital-realty-trust-inc-nysedlr-receives-average-recommendation-of-moderate-buy-from-analysts/"
+    },
+    {
+      "id": 60,
+      "title": "Germany’s Top Firms Launch Investment Push to Help Revive Growth",
+      "summary": "Germany's top firms launch a €100 billion investment push to help revive economic growth in the nation.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-21T06:32:49Z",
+      "url": "https://financialpost.com/pmn/business-pmn/germanys-top-firms-launch-investment-push-to-help-revive-growth"
+    },
+    {
+      "id": 61,
+      "title": "Explained: Why England will not take a knee before Euros semi-final after racial abuse of Jess Carter",
+      "summary": "England will not take a knee before Euros semi-final due to racial abuse of Jess Carter, highlighting concerns over lack of action against racism in football.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-21T06:31:02Z",
+      "url": "https://sports.yahoo.com/article/explained-why-england-not-knee-063102850.html"
+    },
+    {
+      "id": 62,
+      "title": "CNBC Daily Open: The silver lining of positive earnings could be too blinding",
+      "summary": "Investors are optimistic despite upcoming tariffs deadline, thanks to positive earnings season.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-21T06:30:02Z",
+      "url": "https://www.cnbc.com/2025/07/21/silver-lining-of-positive-earnings-may-be-too-blinding.html"
+    },
+    {
+      "id": 63,
+      "title": "Google Translate is getting closer to understanding animal language",
+      "summary": "Google Translate is working on understanding animal language with the help of advanced AI algorithms.",
+      "source": "TalkAndroid",
+      "category": "research",
+      "timestamp": "2025-07-21T06:30:00Z",
+      "url": "https://www.talkandroid.com/511994-google-translate-is-getting-closer-to-understanding-animal-language/"
+    },
     {
       "id": 51,
       "title": "Stephens Begins Coverage on Snowflake (NYSE:SNOW)",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-21T05:05:16Z",
       "url": "https://post.rlsbb.cc/60-minutes-s57e50-1080p-web-h264-bae/"
-    },
-    {
-      "id": 62,
-      "title": "☕️ FC Breakfast: Rashford stars, surprise double, Vini x Travis Scott",
-      "summary": "Having arrived in Barcelona on Sunday evening to sign with the Catalan club, Marcus Rashford is already being honored by Barça supporters.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T05:05:00Z",
-      "url": "https://onefootball.com/en/news/fc-breakfast-rashford-stars-surprise-double-vini-x-travis-scott-41402550"
-    },
-    {
-      "id": 51,
-      "title": "Singapore dollar exhibits safe-haven currency features. But it's no yen or Swiss franc — yet",
-      "summary": "Experts believe that the Singapore dollar has safe-haven currency features and could potentially reach the status of the Swiss franc, although it may not be on the same level as the yen or the US dollar.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-21T04:46:43Z",
-      "url": "https://www.cnbc.com/2025/07/21/singapore-dollar-enjoys-safe-haven-features-but-its-no-greenback-or-yen-.html"
-    },
-    {
-      "id": 52,
-      "title": "swe-ai-agent 1.0.63",
-      "summary": "The SWE AI Agent 1.0.63 is a headless agentic IDE with comprehensive tool support for developers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T04:45:51Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.63/"
-    },
-    {
-      "id": 53,
-      "title": "Lok Sabha Speaker Om Birla calls for cooperation, constructive debate ahead of Monsoon Session",
-      "summary": "Lok Sabha Speaker Om Birla calls for cooperation and constructive debate as the Monsoon Session of Parliament is set to commence. Emphasizing the need for smooth proceedings, the session will address key issues raised by the Opposition INDIA bloc.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T04:42:40Z",
-      "url": "https://economictimes.indiatimes.com/news/india/lok-sabha-speaker-om-birla-calls-for-cooperation-constructive-debate-ahead-of-monsoon-session/articleshow/122806261.cms"
-    },
-    {
-      "id": 54,
-      "title": "Noah Smith on the economics of AI",
-      "summary": "Noah Smith critiques the standard interpretation of data on AI and employment, highlighting the assumption that despite record-high national employment rates, AI will not significantly impact job availability.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T04:42:14Z",
-      "url": "https://biztoc.com/x/94125ec059bdbd52"
-    },
-    {
-      "id": 55,
-      "title": "60 Minutes S57E50 1080p WEB h264-BAE",
-      "summary": "The episode explores the use of AI in the classroom, along with a focus on handcrafted Mexican spirit Mezcal. The author Maria Laurino discusses 'The Price of Children'.",
-      "source": "Rlsbb.ru",
-      "category": "applications",
-      "timestamp": "2025-07-21T04:38:53Z",
-      "url": "https://post.rlsbb.ru/60-minutes-s57e50-1080p-web-h264-bae/"
-    },
-    {
-      "id": 56,
-      "title": "Cruz Azul stuck in a poor run against Atlas",
-      "summary": "Cruz Azul's poor run against Atlas continues with their sixth consecutive match without a win, highlighting Eduardo Aguirre's impact on the team.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T04:38:00Z",
-      "url": "https://onefootball.com/en/news/cruz-azul-stuck-in-a-poor-run-against-atlas-41402531"
-    },
-    {
-      "id": 57,
-      "title": "BeLive Holdings Launches Groundbreaking Creative Subsidiary Led by Award-Winning Visionary",
-      "summary": "BeLive Holdings launches a new creative subsidiary led by an award-winning visionary, focusing on white-label live and video streaming solutions.",
-      "source": "Antaranews.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T04:36:00Z",
-      "url": "https://en.antaranews.com/news/367713/belive-holdings-launches-groundbreaking-creative-subsidiary-led-by-award-winning-visionary"
-    },
-    {
-      "id": 58,
-      "title": "The Agia Paraskevi crime that shocked Greece: profiles of the killer, accomplice, and victim revealed",
-      "summary": "The Agia Paraskevi crime in Greece involves profiles of the killer, accomplice, and victim being revealed, with relationships among the Polish professor, his ex-wife, and her partner under interrogation.",
-      "source": "Protothema.gr",
-      "category": "ethics",
-      "timestamp": "2025-07-21T04:34:08Z",
-      "url": "https://en.protothema.gr/2025/07/21/the-agia-paraskevi-crime-that-shocked-greece-profiles-of-the-killer-accomplice-and-victim-revealed/"
-    },
-    {
-      "id": 59,
-      "title": "It's the end of the internet as we know it - Quartz",
-      "summary": "The articles discuss the need for a new business model for the internet to adapt to the AI age, with suggestions to let the current internet die and start over. The focus is on changing the web in order to survive and thrive in the future.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T04:32:20Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178428452"
-    },
-    {
-      "id": 60,
-      "title": "vecman added to PyPI",
-      "summary": "VECMA has been added to PyPI, providing a VQ-VAE based vector database for text embeddings and retrieval.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T04:32:13Z",
-      "url": "https://pypi.org/project/vecman/"
-    },
-    {
-      "id": 61,
-      "title": "Cyber turbulence ahead as airlines strap in for a security crisis",
-      "summary": "Cyber turbulence ahead as airlines prepare for a security crisis with attackers shifting focus to targeting critical aircraft systems with serious intent.",
-      "source": "Help Net Security",
-      "category": "innovation",
-      "timestamp": "2025-07-21T04:30:56Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/21/aviation-industry-cybersecurity-crisis/"
-    },
-    {
-      "id": 51,
-      "title": "Congress MP Syed Naseer Hussain moves notice of motion to discuss Bihar electoral rolls revision",
-      "summary": "Congress MP Syed Naseer Hussain moves notice of motion in Rajya Sabha to discuss Bihar's electoral rolls revision, expressing concerns about potential disenfranchisement.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T04:04:04Z",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-mp-syed-naseer-hussain-moves-notice-of-motion-to-discuss-bihar-electoral-rolls-revision/articleshow/122805691.cms"
     }
   ]
 }
