@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T08:51:39.766Z",
+  "lastUpdate": "2025-07-22T09:21:08.216Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trump posts bizarre AI video of Obama's 'arrest' as he claims 'no-one is above the law'",
+      "summary": "Trump shares deepfake AI video of Obama which raises ethical concerns",
+      "source": "LADbible",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:19:38Z",
+      "url": "https://www.ladbible.com/news/us-news/donald-trump-obama-ai-video-875246-20250721"
+    },
+    {
+      "id": 52,
+      "title": "The Missing Guide to Prompt Engineering",
+      "summary": "The Missing Guide to Prompt Engineering provides practical frameworks for crafting effective AI prompts, avoiding common pitfalls, and future-proofing workflows.",
+      "source": "Appetals.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:18:48Z",
+      "url": "https://appetals.com/promptguide/"
+    },
+    {
+      "id": 53,
+      "title": "The foldable iPhone will be a slam dunk against the Galaxy Z Fold 7 because of two reasons",
+      "summary": "The foldable iPhone is expected to outperform the Galaxy Z Fold 7 due to Apple's ambitious plans for the device, potentially leaving the competition behind.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:17:32Z",
+      "url": "https://www.phonearena.com/news/foldable-iphone-will-be-slam-dunk-against-galaxy-z-fold-7-because-of-two-reasons_id172461"
+    },
+    {
+      "id": 54,
+      "title": "The Future of AI in Space: Upcoming Missions and Breakthroughs",
+      "summary": "AI is increasingly being used to guide spacecraft, steer satellites, and assist in studying planets in space.",
+      "source": "Space Daily",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:17:25Z",
+      "url": "https://www.spacedaily.com/reports/The_Future_of_AI_in_Space_Upcoming_Missions_and_Breakthroughs_999.html"
+    },
+    {
+      "id": 55,
+      "title": "The Secret to Cloning a High-Revenue Apps in Under 60 Minutes (No Code)",
+      "summary": "With the help of AI-powered tools and no-code platforms, it is now possible to replicate the success of an $80 million app in under 60 minutes without writing any code.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:15:46Z",
+      "url": "https://www.geeky-gadgets.com/no-code-ai-app-development-success/"
+    },
+    {
+      "id": 56,
+      "title": "Signaturefd LLC Acquires 5,132 Shares of SentinelOne, Inc. (NYSE:S)",
+      "summary": "Signaturefd LLC acquired a large number of shares of SentinelOne, Inc., showing growing interest and investment in the AI sector.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:14:41Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/signaturefd-llc-acquires-5132-shares-of-sentinelone-inc-nyses/"
+    },
+    {
+      "id": 57,
+      "title": "Best Personal Finance Software For Mac",
+      "summary": "Best Personal Finance Software For Mac ranked to help users manage their finances effectively on Mac.",
+      "source": "The Mac Observer",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:13:38Z",
+      "url": "https://www.macobserver.com/tips/personal-finance-software-mac/"
+    },
+    {
+      "id": 58,
+      "title": "Poilievre’s cheap shots at Carney’s business ties are unfounded and unhinged",
+      "summary": "Poilievre criticizes Carney's business ties as Trump imposes tariffs on Canada",
+      "source": "The Globe And Mail",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:12:38Z",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-pierre-poilievre-shots-mark-carney-business-ties/"
+    },
+    {
+      "id": 59,
+      "title": "Currys launches AI-powered employee-led ideas platform",
+      "summary": "Currys launches AI-powered employee-led ideas platform in the UK to transform staff suggestions into actionable improvements.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:11:04Z",
+      "url": "https://biztoc.com/x/4142610044c369a4"
+    },
+    {
+      "id": 60,
+      "title": "This Magnificent Artificial Intelligence (AI) Stock Has Jumped 47% in 3 Months, and It Can Soar Even Higher",
+      "summary": "Snowflake stock has jumped 47% in 3 months, showing impressive recovery. The company's potential growth could lead to even higher gains.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T09:10:56Z",
+      "url": "https://biztoc.com/x/e78378109e0e08b1"
+    },
+    {
+      "id": 61,
+      "title": "Donald Trump Posts AI Video of Obama's Arrest: 'No One Is Above Law'",
+      "summary": "President Donald Trump posted an AI-generated video showing former President Barack Obama's arrest, raising concerns about the ethical implications of using deepfake technology for political purposes.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:10:13Z",
+      "url": "https://biztoc.com/x/f89ea93dc7289ad0"
+    },
+    {
+      "id": 62,
+      "title": "Iran's Army Repairs Air Defenses for New War",
+      "summary": "Iran's Army is repairing air defense systems damaged in a recent clash with Israel, demonstrating an innovative use of advanced technology to improve military capabilities.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:10:06Z",
+      "url": "https://biztoc.com/x/3668cef17242146f"
+    },
+    {
+      "id": 63,
+      "title": "Texas Floods Could Worsen Housing Market Issues",
+      "summary": "Texas floods impacting housing market",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:09:51Z",
+      "url": "https://biztoc.com/x/01f678f785f5c40d"
+    },
+    {
+      "id": 64,
+      "title": "CFOs Treat Gen AI Like an Intern",
+      "summary": "The era of enterprise generative AI is beginning with careful planning, as CFOs treat Gen AI like an intern rather than giving it full autonomy.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:09:39Z",
+      "url": "https://biztoc.com/x/322b831ff418a2dd"
+    },
+    {
+      "id": 65,
+      "title": "Trump’s inaugural fund received US$19m from fossil fuel industry, analysis shows",
+      "summary": "Trump's inaugural fund received nearly 8% of its donations from the fossil fuel industry, raising concerns about the White House's relationship with Big Oil.",
+      "source": "National Observer",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:09:04Z",
+      "url": "https://www.nationalobserver.com/2025/07/21/news/trump-campaign-finance-big-oil"
+    },
+    {
+      "id": 66,
+      "title": "hana-ai 1.0.25070700.post1",
+      "summary": "hana-ai 1.0.25070700.post1 is a generative AI toolkit designed for SAP HANA Cloud, enabling advanced AI capabilities for applications in SAP ecosystem.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:08:42Z",
+      "url": "https://pypi.org/project/hana-ai/1.0.25070700.post1/"
+    },
+    {
+      "id": 67,
+      "title": "flakeradar 1.0.3",
+      "summary": "flakeradar 1.0.3 is an AI-powered tool that helps detect and analyze test flakiness, providing enterprise-grade analytics for test reliability.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:08:35Z",
+      "url": "https://pypi.org/project/flakeradar/1.0.3/"
+    },
+    {
+      "id": 68,
+      "title": "Taal Lake horror: claims of 100 men drowned in murder plot turn Philippines fishing haven into crime scene",
+      "summary": "A chilling murder mystery emerges at Taal Lake, just outside Manila, with claims of 100 men drowned in a murder plot. The Coast Guard has unearthed eerie artifacts, including skeletal remains, fueling concerns about the ethical implications of the alleged crimes.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:07:28Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/taal-lake-horror-claims-of-100-men-drowned-in-murder-plot-turn-philippines-fishing-haven-into-crime-scene/articleshow/122811401.cms"
+    },
+    {
+      "id": 69,
+      "title": "Donald Trump Posts AI Video of Obama's Arrest: 'No One Is Above Law'",
+      "summary": "Donald Trump posts a manipulated AI video of Obama's arrest, while Tulsi Gabbard accuses Obama's administration of manufacturing intelligence. The video raises concerns about the ethical implications of using AI to create fake content for political purposes.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:06:27Z",
+      "url": "https://www.newsweek.com/donald-trump-posts-ai-video-obama-arrest-2101553"
+    },
+    {
+      "id": 70,
+      "title": "How Partnerships Can Give Banks More Technological Agility",
+      "summary": "Partnerships between banks and technology companies like Temenos and HCLTech can provide banks with more technological agility, as discussed during the Temenos Community Forum 2025. The focus was on core modernization and improving overall technological capabilities.",
+      "source": "Finextra",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:06:26Z",
+      "url": "https://www.finextra.com/videoarticle/3317/how-partnerships-can-give-banks-more-technological-agility"
+    },
     {
       "id": 51,
       "title": "The risk we chose: when compromise becomes the default",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T08:18:07Z",
       "url": "http://eprints.lse.ac.uk/128885/"
-    },
-    {
-      "id": 61,
-      "title": "Beyond Affordability: Harnessing Premium for Profitability in the Travel Market",
-      "summary": "Discover how premiumisation can lead to sustainable growth for travel businesses, according to the 'Beyond Affordability' report.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:18:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118480/28124/en/Beyond-Affordability-Harnessing-Premium-for-Profitability-in-the-Travel-Market.html"
-    },
-    {
-      "id": 62,
-      "title": "BTU Result 2025 declared at btuexam.in: Direct link to download scorecards here",
-      "summary": "BTU Result 2025 declared for first-semester B.Tech programmes including AI specialisation. Results available on July 19, 2025, at btuexam.in.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:15:38Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/btu-result-2025-declared-at-btuexam-in-direct-link-to-download-scorecards-here/articleshow/122810720.cms"
-    },
-    {
-      "id": 63,
-      "title": "Enterprises can no longer ignore GenAI, says Tata Communications CFO Kabir Shakir",
-      "summary": "Enterprises can no longer ignore GenAI technology, warns Tata Communications CFO Kabir Shakir, discusses tariff wars, 5G, and Q1 performance.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:14:58Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/enterprises-can-no-longer-ignore-genai-says-tata-communications-cfo-kabir-shakir/article69837322.ece"
-    },
-    {
-      "id": 64,
-      "title": "AI Skilling | Empower Tomorrow’s Innovators",
-      "summary": "Microsoft is focusing on AI skilling to empower future innovators.",
-      "source": "Microsoft.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:13:50Z",
-      "url": "https://microsoft.com/en/EMEA/empower-tomorrows-innovators"
-    },
-    {
-      "id": 65,
-      "title": "Veterinary Dermatology - Company Evaluation Report 2025 | Zoetis, Elanco, and Boehringer Ingelheim Dominate with Global Reach, Innovative Portfolios, and Strategic Expansion",
-      "summary": "Veterinary Dermatology Market Companies Quadrant offers a comprehensive analysis highlighting key players, technological advancements, and emerging trends with projected growth from USD 20.11 billion in 2025.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:11:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118473/28124/en/Veterinary-Dermatology-Company-Evaluation-Report-2025-Zoetis-Elanco-and-Boehringer-Ingelheim-Dominate-with-Global-Reach-Innovative-Portfolios-and-Strategic-Expansion.html"
-    },
-    {
-      "id": 66,
-      "title": "Urinary Incontinence Devices Company Evaluation Report 2025 | Coloplast, B. Braun, and Johnson & Johnson Lead the Market with Innovation, Global Expansion, and Diversified Healthcare Portfolios",
-      "summary": "The Urinary Incontinence Devices Companies Quadrant report evaluates leading companies such as Coloplast, B. Braun, and Johnson & Johnson for their innovation in the global urinary incontinence market with technological advancements and diversified healthcare portfolios.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118471/28124/en/Urinary-Incontinence-Devices-Company-Evaluation-Report-2025-Coloplast-B-Braun-and-Johnson-Johnson-Lead-the-Market-with-Innovation-Global-Expansion-and-Diversified-Healthcare-Portfo.html"
-    },
-    {
-      "id": 67,
-      "title": "China and Global Automotive Intelligent Cockpit SoC Research Report 2025 | Localization Rate Exceeds 10%, and AI-oriented Cockpit SoC Will Become the Mainstream in the Next 2-3 Years",
-      "summary": "Chinese market sees over 10% localization in intelligent cockpit SoCs, with firms like SemiDrive, Huawei HiSilicon, and SiEngine rising. AI-focused SoCs, transitioning to advanced nm processes, aim to mainstream in 2-3 years.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-21T08:09:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118470/28124/en/China-and-Global-Automotive-Intelligent-Cockpit-SoC-Research-Report-2025-Localization-Rate-Exceeds-10-and-AI-oriented-Cockpit-SoC-Will-Become-the-Mainstream-in-the-Next-2-3-Years.html"
-    },
-    {
-      "id": 68,
-      "title": "Galaxy Z Fold7, Z Flip7 Pre-orders Match S25 Series, Setting New Benchmark for Flagships in India",
-      "summary": "Pre-orders for Samsung’s Galaxy Z Fold7, Z Flip7, and Z Flip7 FE in India reached 210,000 in the first 48 hours, indicating a growing interest in foldable smartphones among consumers.",
-      "source": "Samsung.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:08:58Z",
-      "url": "https://news.samsung.com/in/galaxy-z-fold7-z-flip7-pre-orders-match-s25-series-setting-new-benchmark-for-flagships-in-india"
-    },
-    {
-      "id": 69,
-      "title": "SS&C Technologies to Acquire Calastone",
-      "summary": "SS&C Technologies Holdings, Inc. announced acquisition of Calastone, the largest global funds network and technology provider for wealth and asset management industries.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:08:49Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ssc-technologies-to-acquire-calastone"
-    },
-    {
-      "id": 51,
-      "title": "Ace Investor Vinod Khosla Blasts Windsurf Founders For Abandoning Team After $3 Billion OpenAI Deal Fell Apart: 'I Would Not Work With The WeWork Founder Either'",
-      "summary": "Billionaire investor Vinod Khosla criticizes Windsurf founders for abandoning team after failed OpenAI deal.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:51:10Z",
-      "url": "https://biztoc.com/x/b7c85809d64bd27b"
-    },
-    {
-      "id": 52,
-      "title": "ESPEY MFG & ELECTRONICS (NYSE:ESP) and Aeluma (NASDAQ:ALMU) Head-To-Head Survey",
-      "summary": "ESPEY MFG & ELECTRONICS (NYSE:ESP) and Aeluma (NASDAQ:ALMU) are being compared as potential investments based on their earnings and risk factors.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:51:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/espey-mfg-electronics-nyseesp-and-aeluma-nasdaqalmu-head-to-head-survey/"
-    },
-    {
-      "id": 53,
-      "title": "ServiceNow (NYSE:NOW) Price Target Raised to $1,110.00",
-      "summary": "ServiceNow's price target was raised to $1,110.00 by Bank of America, indicating positive outlook on the company's performance in the information technology services sector.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:50:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/servicenow-nysenow-price-target-raised-to-1110-00/"
-    },
-    {
-      "id": 54,
-      "title": "A week in security (July 14 – July 20)",
-      "summary": "The week of July 14 to July 20, 2025, covered various topics in AI security, including new research findings and advancements in cybersecurity measures.",
-      "source": "Malwarebytes.com",
-      "category": "research",
-      "timestamp": "2025-07-21T07:49:57Z",
-      "url": "https://www.malwarebytes.com/blog/news/2025/07/a-week-in-security-july-14-july-20"
-    },
-    {
-      "id": 55,
-      "title": "Principal Financial Group Inc. Has $341,000 Holdings in Vimeo, Inc. (NASDAQ:VMEO)",
-      "summary": "Principal Financial Group Inc. increased its holdings in shares of Vimeo, Inc. by 4.3% during the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:49:03Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/principal-financial-group-inc-has-341000-holdings-in-vimeo-inc-nasdaqvmeo/"
-    },
-    {
-      "id": 56,
-      "title": "Foxconn subsidiary invests US$60 million in AI-centric Oceanus Growth Fund",
-      "summary": "Foxconn's subsidiary invests US$60 million in AI-centric Oceanus Growth Fund, a private equity fund",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-21T07:48:07Z",
-      "url": "https://www.digitimes.com/news/a20250721PD235/foxconn-investment-subsidiary-smart-healthcare.html"
-    },
-    {
-      "id": 57,
-      "title": "Topnotch Crypto Redefines XRP Accessibility with Zero-Threshold Mining Platform Backed by GENIUS Act Innovation",
-      "summary": "Topnotch Crypto and the GENIUS Act are collaborating to redefine XRP accessibility through a zero-threshold mining platform, making it easier for users to engage with the cryptocurrency.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:46:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118452/0/en/Topnotch-Crypto-Redefines-XRP-Accessibility-with-Zero-Threshold-Mining-Platform-Backed-by-GENIUS-Act-Innovation.html"
-    },
-    {
-      "id": 58,
-      "title": "Kimi K2 Agent Researcher for Deep Reasoning Research Tasks",
-      "summary": "A new Kimi K2 Agent Researcher AI system has been developed to handle complex research tasks and evolve with each challenge. It aims to redefine the way research is conducted by delegating tasks to a single-agent system.",
-      "source": "Geeky Gadgets",
-      "category": "research",
-      "timestamp": "2025-07-21T07:45:01Z",
-      "url": "https://www.geeky-gadgets.com/kimi-k2-ai-researcher/"
-    },
-    {
-      "id": 59,
-      "title": "AMD FSR 4 Now Available in Any DX11/12 Title via OptiScaler",
-      "summary": "AMD's AI-driven FSR 4 upscaler is now available in any DX11/12 title via OptiScaler, expanding beyond the limited number of titles released alongside the RX 9000 series.",
-      "source": "Techpowerup.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T07:43:31Z",
-      "url": "https://www.techpowerup.com/339103/amd-fsr-4-now-available-in-any-dx11-12-title-via-optiscaler"
-    },
-    {
-      "id": 51,
-      "title": "ivcap_ai_tool 0.7.15",
-      "summary": "ivcap_ai_tool 0.7.15 is a set of helper functions designed to aid in the creation of AI tools as IVCAP services.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T07:41:45Z",
-      "url": "https://pypi.org/project/ivcap-ai-tool/0.7.15/"
-    },
-    {
-      "id": 52,
-      "title": "BlackBerry (NYSE:BB) Stock Rating Upgraded by Wall Street Zen",
-      "summary": "BlackBerry's stock rating was upgraded to a buy rating by Wall Street Zen, with other analysts also giving positive ratings to the company.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T07:41:13Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/blackberry-nysebb-stock-rating-upgraded-by-wall-street-zen/"
     }
   ]
 }
