@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T18:53:31.812Z",
+  "lastUpdate": "2025-07-22T19:15:12.698Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI Is Optimizing the Back Office, but What About the Physical Office?",
+      "summary": "AI is optimizing the back office by automating repetitive cognitive tasks and helping teams find information quickly. Companies could potentially save big by utilizing AI to optimize physical office spaces as well.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:14:12Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-is-optimizing-physical-office-real-estate/"
+    },
+    {
+      "id": 52,
+      "title": "Join Newsweek Thursday for a Live Event: Turning the Tide on Plastic Waste",
+      "summary": "Marine scientists estimate that, on average, every minute the equivalent of a garbage truck full of plastic waste enters the world's oceans, where it harms ocean wildlife and threatens entire ecosystems.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:11:00Z",
+      "url": "https://biztoc.com/x/858a76d5c7143c7c"
+    },
+    {
+      "id": 53,
+      "title": "James Gunn Totally Stole This Superman Plot Point from Smallville",
+      "summary": "James Gunn is accused of stealing a Superman plot point from Smallville, causing controversy among viewers.",
+      "source": "ComicBook.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:10:44Z",
+      "url": "http://comicbook.com/movies/news/superman-movie-jor-el-origin-changes-kryptonians-bad-smallvile-connection/"
+    },
+    {
+      "id": 54,
+      "title": "Microsoft, It’s Time to Set Copilot+ PC Free (Premium)",
+      "summary": "Microsoft introduces Copilot+ PCs with more stringent hardware requirements, including a powerful NPU for unique AI capabilities.",
+      "source": "Thurrott.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:09:35Z",
+      "url": "https://www.thurrott.com/mobile/copilot-pc/323616/microsoft-its-time-to-set-copilot-pc-free"
+    },
+    {
+      "id": 55,
+      "title": "A Couple of Cuckoos Season 2 Anime Reveals English Dub Cast, July 22 Debut",
+      "summary": "A Couple of Cuckoos Season 2 Anime reveals English dub cast, with Bao the Whale joining as Ai Mochizuki. Crunchyroll will begin streaming the English dub for the second season on July 22.",
+      "source": "Anime News Network",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:08:16Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-21/a-couple-of-cuckoos-season-2-anime-reveals-english-dub-cast-july-22-debut/.226881"
+    },
+    {
+      "id": 56,
+      "title": "Astronomer’s new CEO cops to unexpected perk of Kristin Cabot and Andy Byron’s Coldplay kiss cam scandal",
+      "summary": "Pete DeJoy became interim CEO of Astronomer after the previous CEO and COO were caught engaging in inappropriate behavior at a Coldplay concert.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:08:04Z",
+      "url": "https://pagesix.com/2025/07/21/celebrity-news/astronomers-new-ceo-cops-to-unexpected-perk-of-kristin-cabot-and-andy-byrons-coldplay-kiss-cam-scandal/"
+    },
+    {
+      "id": 57,
+      "title": "Advanced Version of Gemini With Deep Think Officially Achieves Gold-Medal Standard at the International Mathematical Olympiad",
+      "summary": "Advanced Version of Gemini With Deep Think achieves gold-medal standard at the International Mathematical Olympiad.",
+      "source": "Slashdot.org",
+      "category": "research",
+      "timestamp": "2025-07-21T19:08:00Z",
+      "url": "https://science.slashdot.org/story/25/07/21/198231/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad"
+    },
+    {
+      "id": 58,
+      "title": "chebifier 1.1.0",
+      "summary": "chebifier 1.1.0 is an AI ensemble model designed for predicting chemical classes.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-21T19:06:56Z",
+      "url": "https://pypi.org/project/chebifier/1.1.0/"
+    },
+    {
+      "id": 59,
+      "title": "akihiro 1.0",
+      "summary": "Akihiro 1.0 is a Python package that enhances programming experience with AI capabilities, specifically focusing on LLM. This innovation aims to streamline and improve the development of AI-related projects using Python.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T19:06:14Z",
+      "url": "https://pypi.org/project/akihiro/1.0/"
+    },
+    {
+      "id": 60,
+      "title": "akihiro added to PyPI",
+      "summary": "A Python package called akihiro has been added to PyPI to enhance programming experience with AI LLM capabilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T19:06:14Z",
+      "url": "https://pypi.org/project/akihiro/"
+    },
+    {
+      "id": 61,
+      "title": "New Astronomer CEO Addresses ‘Surreal’ Situation After Andy Byron Coldplay Concert Scandal",
+      "summary": "The new CEO of Astronomer addressed a scandal involving the former CEO, who resigned after being caught on a 'kiss cam' with a coworker at a Coldplay concert.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:05:02Z",
+      "url": "https://www.forbes.com/sites/conormurray/2025/07/21/new-astronomer-ceo-addresses-surreal-situation-after-andy-byron-coldplay-concert-scandal/"
+    },
+    {
+      "id": 62,
+      "title": "The Career Funeral: The One Exercise Every Professional Should Do Before Change Hits",
+      "summary": "The article emphasizes the importance of preparing for career disruptions, in the midst of technological advancements and AI impacting various industries.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:04:10Z",
+      "url": "https://www.forbes.com/sites/richardosibanjo/2025/07/21/the-career-funeral-the-one-exercise-every-professional-should-do-before-change-hits/"
+    },
+    {
+      "id": 63,
+      "title": "Floridi named the John K. Castle Professor in the Practice of Cognitive Science",
+      "summary": "Luciano Floridi, a major interpreter of the digital revolution and founder of the philosophy of information, has been named the John K. Castle Professor in the Practice of Cognitive Science at Yale.",
+      "source": "Yale.edu",
+      "category": "research",
+      "timestamp": "2025-07-21T19:03:13Z",
+      "url": "https://news.yale.edu/2025/07/21/floridi-named-john-k-castle-professor-practice-cognitive-science"
+    },
+    {
+      "id": 64,
+      "title": "Xelix Raises $160 Million to Bring Agentic AI to Accounts Payable",
+      "summary": "Xelix raises $160 million in funding for agentic AI software to support accounts payable operations.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:03:12Z",
+      "url": "http://www.pymnts.com/news/investment-tracker/2025/xelix-raises-160-million-to-bring-agentic-ai-to-accounts-payable/"
+    },
+    {
+      "id": 65,
+      "title": "Google Gemini Deep Think Wins Gold at IMO 2025",
+      "summary": "Google DeepMind's Gemini Deep Think wins Gold at IMO 2025 by solving five out of six problems in natural language.",
+      "source": "iPhone in Canada",
+      "category": "research",
+      "timestamp": "2025-07-21T19:02:43Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/21/google-gemini-deep-think-wins-gold/"
+    },
+    {
+      "id": 66,
+      "title": "Sam Altman, Donald Trump Form Unlikely Alliance Over AI Strategy",
+      "summary": "Sam Altman, CEO of OpenAI, has formed an unlikely alliance with Donald Trump to influence the development and regulation of AI in the U.S.",
+      "source": "iPhone in Canada",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:01:26Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/21/sam-altman-donald-trump-ai-alliance/"
+    },
+    {
+      "id": 67,
+      "title": "Trump Sparks Outrage With AI-Generated Video Showing Obama Arrested and Jailed",
+      "summary": "Trump sparks outrage with AI-generated video showing Obama arrested and jailed, highlighting ethical concerns about the use of AI to create false and misleading content.",
+      "source": "Legalinsurrection.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T19:00:35Z",
+      "url": "https://legalinsurrection.com/2025/07/trump-sparks-outrage-with-ai-generated-video-showing-obama-arrested-and-jailed/"
+    },
+    {
+      "id": 68,
+      "title": "Figma seeking $1B+ IPO that could value it at $16.4B",
+      "summary": "Figma Inc. is seeking a $1B+ IPO that could value it at $16.4B, making it a significant startup in the graphic design software industry.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-21T19:00:18Z",
+      "url": "https://siliconangle.com/2025/07/21/figma-seeking-1b-ipo-value-16-4b/"
+    },
+    {
+      "id": 69,
+      "title": "Jersey Shore GOP Strongholds Lose Federal Beach Aid After Decades",
+      "summary": "Some of New Jersey's GOP strongholds are losing federal beach replenishment funding, which may impact the economy of these shore towns.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T19:00:11Z",
+      "url": "https://biztoc.com/x/b5a0fa9fab7a9749"
+    },
     {
       "id": 51,
       "title": "How AI IS Unlocking The CFO’s True Purpose",
@@ -279,177 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-21T18:13:00Z",
       "url": "https://www.mensjournal.com/news/andy-byron-salary-net-worth-wife-megan-astronomer-money"
-    },
-    {
-      "id": 63,
-      "title": "Gabe Newell says AI is a 'significant technology transition' on a par with the emergence of computers or the internet, and will be 'a cheat code for people who want to take advantage of it'",
-      "summary": "Gabe Newell highlights the importance of AI as a significant technology transition and suggests using it to improve various aspects of life.",
-      "source": "PC Gamer",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:11:42Z",
-      "url": "https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/"
-    },
-    {
-      "id": 64,
-      "title": "ob-metaflow 2.15.21.3",
-      "summary": "Metaflow introduces version 2.15.21.3 with more focus on AI and ML capabilities, reducing the need for extensive engineering work.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:11:38Z",
-      "url": "https://pypi.org/project/ob-metaflow/2.15.21.3/"
-    },
-    {
-      "id": 65,
-      "title": "India’s 7 major railway stations to get AI surveillance and facial recognition; these railway stations are…",
-      "summary": "Seven major Indian railway stations are set to receive AI-powered facial recognition surveillance systems to enhance passenger safety and modernize security measures.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T18:11:16Z",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/indias-7-major-railway-stations-to-get-ai-surveillance-and-facial-recognition-these-railway-stations-are/articleshow/122820837.cms"
-    },
-    {
-      "id": 66,
-      "title": "ReShape Lifesciences® to Host Special Meeting of Stockholders on July 24, 2025",
-      "summary": "ReShape Lifesciences to host special meeting for stockholders to approve merger agreement with Vyome Therapeutics and asset purchase agreement with Biorad Medisys.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118962/0/en/ReShape-Lifesciences-to-Host-Special-Meeting-of-Stockholders-on-July-24-2025.html"
-    },
-    {
-      "id": 67,
-      "title": "Google's Gemini AI Wins a Gold Medal at International Math Olympiad",
-      "summary": "Google's Gemini AI with Deep Thinking wins a gold medal at the International Math Olympiad, marking a significant advancement in problem-solving using AI technology.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:08:54Z",
-      "url": "https://www.techpowerup.com/339114/googles-gemini-ai-wins-a-gold-medal-at-international-math-olympiad"
-    },
-    {
-      "id": 68,
-      "title": "Why Voice of the Customer Breaks Down at the BPO Level",
-      "summary": "When BPOs profit from more calls, preventing issues isn't in their best interest, causing the breakdown of Voice of the Customer. This raises ethical concerns about prioritizing profits over customer satisfaction.",
-      "source": "CMSWire",
-      "category": "ethics",
-      "timestamp": "2025-07-21T18:06:53Z",
-      "url": "https://www.cmswire.com/contact-center/why-voice-of-the-customer-breaks-down-at-the-bpo-level/"
-    },
-    {
-      "id": 69,
-      "title": "arize-phoenix 11.9.0",
-      "summary": "Arize-phoenix 11.9.0 has introduced new features for AI observability and evaluation, allowing for better monitoring and performance tracking. This update aims to improve the overall efficiency and effectiveness of AI systems.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T18:06:42Z",
-      "url": "https://pypi.org/project/arize-phoenix/11.9.0/"
-    },
-    {
-      "id": 70,
-      "title": "New Astronomer CEO breaks silence on Coldplay ‘kiss cam’ scandal — gushes that AI firm now a ‘household name’",
-      "summary": "New CEO of AI startup Astronomer breaks silence on scandal involving previous boss, highlighting company's increased visibility and reputation as a result.",
-      "source": "New York Post",
-      "category": "startups",
-      "timestamp": "2025-07-21T18:04:45Z",
-      "url": "https://nypost.com/2025/07/21/business/new-astronomer-ceo-breaks-silence-on-coldplay-kiss-cam-scandal/"
-    },
-    {
-      "id": 51,
-      "title": "AWS, Meta Unveil Startup Program as Zuckerberg Pushes AI",
-      "summary": "Two tech rivals, AWS and Meta, launch a joint startup accelerator to boost adoption of open-source AI and support early-stage companies.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T17:54:51Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/aws-meta-unveil-startup-program-as-zuckerberg-pushes-ai/"
-    },
-    {
-      "id": 52,
-      "title": "Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux",
-      "summary": "Firefox 141 introduces AI-powered tab grouping, reduced memory usage on Linux, a new unit converter, and expanded PiP support.",
-      "source": "Omgubuntu.co.uk",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:53:50Z",
-      "url": "https://www.omgubuntu.co.uk/2025/07/firefox-141-release-ai-tabs-linux-memory"
-    },
-    {
-      "id": 53,
-      "title": "Court Orders New Trial for Historic NYC Cold Case Cracked in 2017",
-      "summary": "Court orders new trial for historic NYC cold case cracked in 2017, where voice is AI-generated, raising concerns about potential inaccuracies and inconsistencies in evidence.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:53:08Z",
-      "url": "https://biztoc.com/x/074534e681c4f505"
-    },
-    {
-      "id": 54,
-      "title": "Google brings first of its kind 'Gemini drops' for its AI updates",
-      "summary": "Google introduces first Gemini-centric update for its AI, called Gemini drops.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:52:06Z",
-      "url": "https://www.androidcentral.com/apps-software/ai/google-brings-first-of-its-kind-gemini-drops-for-its-ai-updates"
-    },
-    {
-      "id": 55,
-      "title": "Show HN: 47jobs – Marketplace for \"Vibecoders\"",
-      "summary": "47jobs is a marketplace connecting clients with 'vibecoders', developers who specialize in AI-assisted development using natural language prompts with AI tools.",
-      "source": "47jobs.xyz",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:51:29Z",
-      "url": "https://www.47jobs.xyz/"
-    },
-    {
-      "id": 56,
-      "title": "New Astronomer CEO gives first statement since Coldplay kiss-cam scandal",
-      "summary": "New Astronomer CEO Pete DeJoy addresses his new role in the company following the recent scandal involving Coldplay's kiss-cam incident.",
-      "source": "CNBC",
-      "category": "startups",
-      "timestamp": "2025-07-21T17:49:46Z",
-      "url": "https://www.cnbc.com/2025/07/21/astronomer-interim-ceo-says-spotlight-has-been-unusual-and-surreal.html"
-    },
-    {
-      "id": 57,
-      "title": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'",
-      "summary": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'.",
-      "source": "ABC News",
-      "category": "ethics",
-      "timestamp": "2025-07-21T17:48:22Z",
-      "url": "https://abcnews.go.com/US/florida-man-arrested-threatening-kill-epstein-client-list/story?id=123933077"
-    },
-    {
-      "id": 58,
-      "title": "Show HN: Only video to understand Model Context Protocol (MCP) in depth",
-      "summary": "Show HN: Video explaining Model Context Protocol (MCP) in depth with free labs and live demos, no prior knowledge necessary. Future of AI agents is advancing quickly, don't miss out.",
-      "source": "YouTube",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:47:51Z",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRhTiAOGwbYE"
-    },
-    {
-      "id": 59,
-      "title": "Rezolve Ai and $150B+¹ Tether Aligned as U.S. Stablecoin Law Ushers in New Era of Regulated Digital Commerce",
-      "summary": "Rezolve Ai and $150B+ Tether are aligned as U.S. stablecoin law ushers in a new era of regulated digital commerce, with the GENIUS Act expected to unlock trillions in compliant crypto payments. Rezolve's AI platform, integrated with Microsoft and Google, is positioned to power this new wave of regulated digital payments.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:45:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118955/0/en/Rezolve-Ai-and-150B-Tether-Aligned-as-U-S-Stablecoin-Law-Ushers-in-New-Era-of-Regulated-Digital-Commerce.html"
-    },
-    {
-      "id": 51,
-      "title": "This Device Will Scan And Sort Your Trading Cards For You",
-      "summary": "This AI-powered device scans and sorts trading cards for players of card games like Magic: The Gathering and Pokemon, helping organize collections more efficiently.",
-      "source": "GameSpot",
-      "category": "applications",
-      "timestamp": "2025-07-21T17:43:00Z",
-      "url": "https://www.gamespot.com/articles/this-device-will-scan-and-sort-your-trading-cards-for-you/1100-6533312/"
-    },
-    {
-      "id": 52,
-      "title": "'Cosby Show' Star Malcolm-Jamal Warner Dead at 54",
-      "summary": "Malcolm-Jamal Warner, known for his role in The Cosby Show, has passed away at 54, with voice generated by AI. The news highlights the advancement of AI technology in creating realistic human-like voices.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T17:42:19Z",
-      "url": "https://biztoc.com/x/9bf90cbe9821dd8d"
     }
   ]
 }
