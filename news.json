@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-22T15:44:35.526Z",
+  "lastUpdate": "2025-07-22T15:57:07.462Z",
   "items": [
+    {
+      "id": 51,
+      "title": "phosphobot 0.3.68",
+      "summary": "phosphobot 0.3.68 is an AI-ready robotics dev kit that includes built-in remote control and VLA support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:56:32Z",
+      "url": "https://pypi.org/project/phosphobot/0.3.68/"
+    },
+    {
+      "id": 52,
+      "title": "'Don’t let LLM's success cloud your judgment': Tech CTO shares hard-hitting AI truths for businesses",
+      "summary": "Robert Blumofe of Akamai advises companies to focus on specific AI tools and employee experimentation within a controlled environment, cautioning against getting swept up in AI hype.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:55:18Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/dont-let-llms-success-cloud-your-judgment-tech-cto-shares-hard-hitting-ai-truths-for-businesses/articleshow/122818761.cms"
+    },
+    {
+      "id": 53,
+      "title": "Stellantis (STLA) Loses 8.6% on on Hydrogen Tech Pullout",
+      "summary": "Stellantis (STLA) loses 8.6% on hydrogen tech pullout, impacting its stock performance.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:54:26Z",
+      "url": "https://finance.yahoo.com/news/stellantis-stla-loses-8-6-155426829.html"
+    },
+    {
+      "id": 54,
+      "title": "PagSeguro (PAGS) Drops 8.86% as Analysts Expect Q2 Earnings Fall",
+      "summary": "PagSeguro (PAGS) dropped 8.86% as analysts expect Q2 earnings fall, despite being one of this week's top performers.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:54:15Z",
+      "url": "https://finance.yahoo.com/news/pagseguro-pags-drops-8-86-155415697.html"
+    },
+    {
+      "id": 55,
+      "title": "Trump Media Says Bitcoin Treasury Holdings Reach $2 Billion",
+      "summary": "Trump Media and Technology Group announces $2 billion in bitcoin holdings and $300 million allocated for options acquisition strategy.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:54:12Z",
+      "url": "http://www.pymnts.com/cryptocurrency/2025/trump-media-says-bitcoin-treasury-holdings-reach-2-billion/"
+    },
+    {
+      "id": 56,
+      "title": "First Majestic (AG) Falls 10.68% W/W After Record High",
+      "summary": "First Majestic (AG) falls 10.68% W/W after reaching a record high. It is one of the top performers this week.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:53:42Z",
+      "url": "https://finance.yahoo.com/news/first-majestic-ag-falls-10-155342977.html"
+    },
+    {
+      "id": 57,
+      "title": "Schlumberger (SLB) Dives 10.69% as Earnings Disappoint",
+      "summary": "Schlumberger (SLB) stock fell 10.69% due to disappointing earnings, making it one of the week's top performers.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:53:32Z",
+      "url": "https://finance.yahoo.com/news/schlumberger-slb-dives-10-69-155332061.html"
+    },
+    {
+      "id": 58,
+      "title": "Gap (GAP) Drops 11.56% Ahead of Dividend Payout",
+      "summary": "Gap Inc. (NYSE:GAP) dropped 11.56% ahead of a dividend payout, making it one of the top performers of the week.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:53:03Z",
+      "url": "https://finance.yahoo.com/news/gap-gap-drops-11-56-155303941.html"
+    },
+    {
+      "id": 59,
+      "title": "Could AI Have Prevented SkyWest Airliner’s Near Collision with a B-52 Bomber?",
+      "summary": "AI could have potentially prevented a near collision between a SkyWest airliner and a B-52 bomber, highlighting the role of AI in aviation safety.",
+      "source": "Scientific American",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:53:00Z",
+      "url": "https://www.scientificamerican.com/article/could-ai-have-prevented-skywest-airliners-near-collision-with-a-b52-bomber/"
+    },
+    {
+      "id": 60,
+      "title": "StoneCo (STNE) Slashes 11.63% Ahead of Q2",
+      "summary": "StoneCo Ltd. (NASDAQ:STNE) saw a significant drop of 11.63% ahead of Q2. The company is one of this week's top performers, according to recent reports.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:52:47Z",
+      "url": "https://finance.yahoo.com/news/stoneco-stne-slashes-11-63-155247916.html"
+    },
+    {
+      "id": 61,
+      "title": "Valve billionaire Gabe Newell says businesses should \"listen to your customers and focus on them,\" putting employees, partners, and customers before capital",
+      "summary": "Valve billionaire Gabe Newell advises businesses to prioritize customers, employees, and partners over profits, stressing the importance of focusing on the needs of stakeholders.",
+      "source": "GamesRadar+",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:52:46Z",
+      "url": "https://www.gamesradar.com/games/valve-billionaire-gabe-newell-says-businesses-should-listen-to-your-customers-and-focus-on-them-putting-employees-partners-and-customers-before-capital/"
+    },
+    {
+      "id": 62,
+      "title": "ALRMiner multi-currency mining upgrade: SOL and DOGE support added, AI deployment is more efficient!",
+      "summary": "ALRMiner has upgraded its multi-currency mining capabilities to support popular digital assets like Solana (SOL) and Dogecoin (DOGE), making AI deployment more efficient in the process.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:51:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118907/0/en/ALRMiner-multi-currency-mining-upgrade-SOL-and-DOGE-support-added-AI-deployment-is-more-efficient.html"
+    },
+    {
+      "id": 63,
+      "title": "Rescue Cat Won't Let Go of One Thing After Adoption, Viewers Obsessed",
+      "summary": "A rescue cat named Georgie has melted hearts on social media after his new owner shared a video of him refusing to let go of the one item he received on the day he was adopted: a fuzzy blanket that has now become his comfort object.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:50:17Z",
+      "url": "https://biztoc.com/x/92f31a46f0a84daf"
+    },
+    {
+      "id": 64,
+      "title": "King Charles' Charity Hit by New Scandal Over Gardeners",
+      "summary": "King Charles III's charity faces scandal over treatment of gardeners at his estate, including allegations of mistreatment towards employees.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:50:01Z",
+      "url": "https://biztoc.com/x/9a9f9160a299d143"
+    },
     {
       "id": 51,
       "title": "Nvidia CEO’s always-on 7-day grind is going viral—he can’t even sit through a movie without thinking about his $4.2 trillion tech giant",
@@ -324,132 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-21T14:41:02Z",
       "url": "https://www.saastr.com/your-ai-is-making-your-sales-team-look-slow-and-thats-a-problem/"
-    },
-    {
-      "id": 62,
-      "title": "Animation Market Size Worth USD 895.71 Billion by 2034 | Fueled by Streaming, Gaming, and E-Learning Demand",
-      "summary": "The global animation market size is expected to be worth USD 895.71 billion by 2034, fueled by streaming, gaming, and e-learning demand. The market is projected to grow at a CAGR of 7.46% from 2025 to 2034.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118867/0/en/Animation-Market-Size-Worth-USD-895-71-Billion-by-2034-Fueled-by-Streaming-Gaming-and-E-Learning-Demand.html"
-    },
-    {
-      "id": 63,
-      "title": "Trump pivots to new target as Epstein scandal rages: 'Must be ended immediately!'",
-      "summary": "President Donald Trump lashes out at a new target in a social media post, posting phony mugshots of Barack Obama and an AI-generated video of him being arrested, raising concerns about the ethics of using AI to create fake content.",
-      "source": "Raw Story",
-      "category": "ethics",
-      "timestamp": "2025-07-21T14:40:29Z",
-      "url": "https://www.rawstory.com/trump-bail-2673535122/"
-    },
-    {
-      "id": 64,
-      "title": "What Is WhatsApp Advanced Chat Privacy? Here’s How To Turn It On",
-      "summary": "WhatsApp's Advanced Chat Privacy protects your privacy by keeping your information in the chat. Learn how to turn on this new feature.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-21T14:40:24Z",
-      "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/07/21/what-is-whatsapp-advanced-chat-privacy-heres-how-to-turn-it-on/"
-    },
-    {
-      "id": 65,
-      "title": "What do creators really want? Ownership",
-      "summary": "Ownership is becoming the new gold standard in the creator economy, with platforms like Substack and Own giving creators ownership of their content.",
-      "source": "The Drum",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:40:00Z",
-      "url": "https://www.thedrum.com/opinion/2025/07/21/what-do-creators-really-want-ownership"
-    },
-    {
-      "id": 66,
-      "title": "Bioresorbable Polymers Market Volume to Worth 3,839.1 Kilo Tons by 2034",
-      "summary": "Global bioresorbable polymers market volume is projected to reach 3,839.1 kilo tons by 2034, growing at a CAGR of 13.10% according to Towards chem and Materials.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118866/0/en/Bioresorbable-Polymers-Market-Volume-to-Worth-3-839-1-Kilo-Tons-by-2034.html"
-    },
-    {
-      "id": 51,
-      "title": "Coldplay concert row: Astronomer's new CEO to get whopping salary after Andy Byron's resignation? Here's the truth",
-      "summary": "Andy Byron, former Astronomer CEO, resigned after a 'kiss cam' incident at a Coldplay concert raised concerns about his relationship with the company's HR chief.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T14:16:57Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-coldplay-concert-row-astronomers-new-ceo-to-get-whopping-salary-after-andy-byrons-resignation-heres-the-truth/articleshow/122817706.cms"
-    },
-    {
-      "id": 52,
-      "title": "Asus Vivobook 14 Launched in India With 14-Inch Screen, Snapdragon X Chip",
-      "summary": "Asus Vivobook 14 launched in India with 14-inch screen and Snapdragon X chip, featuring Microsoft Pluton chip for security.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:16:51Z",
-      "url": "https://www.gadgets360.com/laptops/news/asus-vivobook-14-x1407qa-launched-india-price-specifications-features-8916500"
-    },
-    {
-      "id": 53,
-      "title": "How to stop Hertz’s AI scanners from charging hundreds of dollars for minor scrapes on your rental car",
-      "summary": "Ways to prevent overcharging by Hertz's AI scanners for minor damages on rental cars, including being selective about where to rent and thorough documentation of the vehicle.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T14:16:30Z",
-      "url": "https://nypost.com/2025/07/21/business/how-hertz-customers-can-avoid-charges-for-scrapes-flagged-by-ai-scanner/"
-    },
-    {
-      "id": 54,
-      "title": "The AI CEO Caught Cheating on a Jumbotron Has an Important Career Update",
-      "summary": "The CEO of an AI company was caught cheating on a Jumbotron with his firm's chief people officer, sparking international headlines and raising ethical concerns.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-21T14:15:56Z",
-      "url": "https://futurism.com/ai-ceo-caught-cheating-jumbotron-resigned"
-    },
-    {
-      "id": 55,
-      "title": "Google Pixel 10 leaks in official-looking renders with telephoto camera, striking blue color [Gallery] - 9to5Google",
-      "summary": "Google Pixel 10 leaks in official-looking renders with telephoto camera and striking blue color, hinting at new features and design innovations for the upcoming release.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T14:15:09Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178430914"
-    },
-    {
-      "id": 56,
-      "title": "Computational Creativity Market Size to Surpass USD 0.85 Billion by 2032, Owing to Rapid AI Integration in Content Creation and Design Processes | Research by SNS Insider",
-      "summary": "Computational Creativity Market expected to exceed USD 0.85 billion by 2032 due to rapid AI integration in content creation and design processes.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118847/0/en/Computational-Creativity-Market-Size-to-Surpass-USD-0-85-Billion-by-2032-Owing-to-Rapid-AI-Integration-in-Content-Creation-and-Design-Processes-Research-by-SNS-Insider.html"
-    },
-    {
-      "id": 57,
-      "title": "Respiratory Care Devices Market is expected to generate a revenue of USD 40.31 Billion by 2031, Globally, at 5.89% CAGR: Verified Market Research®",
-      "summary": "Respiratory Care Devices Market is expected to generate a revenue of USD 40.31 Billion by 2031, driven by rising chronic respiratory conditions, technological innovations, and aging populations demanding homecare solutions.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118848/0/en/Respiratory-Care-Devices-Market-is-expected-to-generate-a-revenue-of-USD-40-31-Billion-by-2031-Globally-at-5-89-CAGR-Verified-Market-Research.html"
-    },
-    {
-      "id": 58,
-      "title": "Liberty Energy (LBRT) Falls Amid a Downturn in the Oilfield Services Industry",
-      "summary": "Liberty Energy (LBRT) saw a significant drop in share price due to a downturn in the oilfield services industry, impacting energy stocks.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:14:59Z",
-      "url": "https://finance.yahoo.com/news/liberty-energy-lbrt-falls-amid-141459855.html"
-    },
-    {
-      "id": 59,
-      "title": "Circuit-Board Maker Victory Giant Is Said to Consider Hong Kong Listing",
-      "summary": "Circuit-board maker Victory Giant Technology (Huizhou) Co. is considering a Hong Kong listing that could raise about $1 billion.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T14:13:45Z",
-      "url": "https://finance.yahoo.com/news/circuit-board-maker-victory-giant-031558168.html"
     }
   ]
 }
