@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T22:53:36.396Z",
+  "lastUpdate": "2025-07-22T23:16:03.223Z",
   "items": [
+    {
+      "id": 51,
+      "title": "XRP breaks through resistance and price surges 90%, PBK Miner launches revolutionary XRP cloud mining, igniting the XRP market",
+      "summary": "XRP breaks through resistance and price surges 90%, PBK Miner launches revolutionary XRP cloud mining, igniting the XRP market",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T23:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119120/0/en/XRP-breaks-through-resistance-and-price-surges-90-PBK-Miner-launches-revolutionary-XRP-cloud-mining-igniting-the-XRP-market.html"
+    },
+    {
+      "id": 52,
+      "title": "AstraZeneca picks Virginia for multibillion-dollar manufacturing site",
+      "summary": "AstraZeneca chooses Virginia for a multibillion-dollar manufacturing site, which would be their largest single manufacturing investment worldwide. The proposed site location was not revealed.",
+      "source": "Richmond.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T23:15:00Z",
+      "url": "https://richmond.com/news/state-regional/government-politics/article_10e13fa1-3de9-49e0-9b47-ca9d8f6c1c32.html"
+    },
+    {
+      "id": 53,
+      "title": "Argon ONE Up Laptop Runs on a Raspberry Pi CM5",
+      "summary": "Argon ONE UP is a 14-inch laptop powered by a Raspberry Pi Compute Module 5, offering ports, expansion ports, and 40 pin GPIO add-on.",
+      "source": "Omgubuntu.co.uk",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:14:50Z",
+      "url": "https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop"
+    },
+    {
+      "id": 54,
+      "title": "China launches world's first robot that can run by itself 24/7 — watch it change its own batteries in unsettling new footage",
+      "summary": "China launches world's first robot that can run by itself 24/7, capable of changing its own battery pack, allowing it to operate autonomously.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:14:18Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329975/posts"
+    },
+    {
+      "id": 55,
+      "title": "pygpt-net 2.5.59",
+      "summary": "pygpt-net 2.5.59 is a desktop AI assistant powered by various models such as GPT-4 and DALL-E for chatbot, completion, image generation, and vision analysis tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T23:13:21Z",
+      "url": "https://pypi.org/project/pygpt-net/2.5.59/"
+    },
+    {
+      "id": 56,
+      "title": "PBK Miner launches the first XRP cloud mining platform, leading the Ripple cloud mining revolution, using XRP to earn daily passive income",
+      "summary": "PBK Miner launches the first XRP cloud mining platform, leading the Ripple cloud mining revolution, using XRP to earn daily passive income. Riding on the bullish momentum of XRP’s recovery, PBKMiner announced the official launch of its AI-powered XRP cloud mining contracts — daily payouts, zero hardware, and full automation are now available to users worldwide.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T23:13:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119119/0/en/PBK-Miner-launches-the-first-XRP-cloud-mining-platform-leading-the-Ripple-cloud-mining-revolution-using-XRP-to-earn-daily-passive-income.html"
+    },
+    {
+      "id": 57,
+      "title": "Bragar Eagel & Squire, P.C. Is Investigating Apple, Sable, Abacus, and EchoStar and Encourages Investors to Contact the Firm",
+      "summary": "Bragar Eagel & Squire, P.C. is investigating Apple, Sable, Abacus, and EchoStar for potential losses, encouraging investors who suffered losses to contact the firm's litigation partner.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-21T23:13:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119117/0/en/Bragar-Eagel-Squire-P-C-Is-Investigating-Apple-Sable-Abacus-and-EchoStar-and-Encourages-Investors-to-Contact-the-Firm.html"
+    },
+    {
+      "id": 58,
+      "title": "dhisana 0.0.1.dev184",
+      "summary": "Dhisana 0.0.1.dev184 is a Python SDK designed for the Dhisana AI Platform, providing developers with tools to interact with the platform. It showcases innovations in the field of AI development and integration.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:08:02Z",
+      "url": "https://pypi.org/project/dhisana/0.0.1.dev184/"
+    },
+    {
+      "id": 59,
+      "title": "Nvidia and MediaTek delay AI PC launch to 2026 due to Microsoft OS hurdles and market headwinds",
+      "summary": "Nvidia and MediaTek delay AI PC launch to 2026 due to Microsoft OS hurdles and market headwinds",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:06:25Z",
+      "url": "https://www.digitimes.com/news/a20250721PD208/mediatek-nvidia-ai-pc-launch-2026.html"
+    },
+    {
+      "id": 60,
+      "title": "Arm's ASIC ambitions test loyalty of chip-making partners",
+      "summary": "Arm is considering re-entering the ASIC market, which may challenge its relationships with chip-making partners. This move could have implications for the AI industry.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:06:11Z",
+      "url": "https://www.digitimes.com/news/a20250721PD210/arm-asic-market-ip-ic-design.html"
+    },
+    {
+      "id": 61,
+      "title": "Tenstorrent pushes RISC-V into AI's fast lane with open chiplet strategy",
+      "summary": "Tenstorrent is leveraging RISC-V in AI with an open chiplet strategy, showcasing the increasing importance of this open-source architecture in the semiconductor industry.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:05:20Z",
+      "url": "https://www.digitimes.com/news/a20250721PD236/risc-v-tenstorrent-design-hpc-adoption.html"
+    },
+    {
+      "id": 62,
+      "title": "Synopsys strengthens India's role with push for world's first AI-based chip foundry",
+      "summary": "Synopsys strengthens India's role with push for world's first AI-based chip foundry",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:04:17Z",
+      "url": "https://www.digitimes.com/news/a20250721VL207/synopsys-india-design-manufacturing-talent-microsoft.html"
+    },
+    {
+      "id": 63,
+      "title": "Slow Letter July 22, 2025.",
+      "summary": "The news discusses the summoning of a Facebook employee in relation to AI matters and the dismissal of a warrant for another individual. The article delves into the potential collapse of Japan's 55-year rule and emphasizes the importance of following the president's will without excessive debate.",
+      "source": "Slownews.kr",
+      "category": "ethics",
+      "timestamp": "2025-07-21T23:03:59Z",
+      "url": "https://slownews.kr/141780"
+    },
+    {
+      "id": 64,
+      "title": "How to break the 'AI hype cycle'",
+      "summary": "Akamai CTO Robert Blumofe provides four tips for business leaders to break the 'AI hype cycle' and effectively empower employees with the right tools and use cases.",
+      "source": "Mit.edu",
+      "category": "applications",
+      "timestamp": "2025-07-21T23:03:26Z",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization"
+    },
+    {
+      "id": 65,
+      "title": "New Philips Hue Devote arrives as cheaper slim ceiling light",
+      "summary": "The Philips Hue Devote Slim ceiling light, a new smart light offering white and colored lighting effects, has been introduced in European countries as a cheaper alternative to an older model.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:03:00Z",
+      "url": "https://www.notebookcheck.net/New-Philips-Hue-Devote-arrives-as-cheaper-slim-ceiling-light.1064219.0.html"
+    },
+    {
+      "id": 66,
+      "title": "Public asked for views on criminalising deepfakes",
+      "summary": "Public in Northern Ireland is being consulted on whether to criminalize deepfakes as there is currently no legislation in place to protect adults from the practice.",
+      "source": "BBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-21T23:01:57Z",
+      "url": "https://www.bbc.com/news/articles/cwyxv9k28evo"
+    },
+    {
+      "id": 67,
+      "title": "MHRA announces proposals to improve access to world’s best medical devices for patients and to boost economic growth in Britain’s med tech sector",
+      "summary": "MHRA proposes to improve access to medical devices for patients and boost economic growth in Britain's med tech sector by modernizing regulation.",
+      "source": "Www.gov.uk",
+      "category": "economy",
+      "timestamp": "2025-07-21T23:01:07Z",
+      "url": "https://www.gov.uk/government/news/mhra-announces-proposals-to-improve-access-to-worlds-best-medical-devices-for-patients-and-to-boost-economic-growth-in-britains-med-tech-sector"
+    },
+    {
+      "id": 68,
+      "title": "New Perplexity browser Comet trying to catch up to Chrome",
+      "summary": "New Perplexity browser Comet, integrated with AI, aims to compete with popular browsers like Chrome by offering a unique browsing experience.",
+      "source": "MobileSyrup",
+      "category": "startups",
+      "timestamp": "2025-07-21T23:01:00Z",
+      "url": "https://mobilesyrup.com/2025/07/21/new-perplexity-browser-comet-trying-to-catch-up-to-chrome/"
+    },
+    {
+      "id": 69,
+      "title": "Breitbart Business Digest: The Great GOP Tariff Revival",
+      "summary": "The Republican base has rediscovered its roots as the party of America First economic nationalism, with a focus on tariffs and trade policies.",
+      "source": "Breitbart News",
+      "category": "economy",
+      "timestamp": "2025-07-21T23:00:09Z",
+      "url": "https://www.breitbart.com/economy/2025/07/21/breitbart-business-digest-the-great-gop-tariff-revival/"
+    },
+    {
+      "id": 70,
+      "title": "Flip phones like the Galaxy Z Flip7 are the perfect phone design, so why doesn't Apple make one?",
+      "summary": "The article discusses the popularity of flip phones like the Galaxy Z Flip7 and questions why Apple hasn't made a similar design. It argues that the crease in foldable phones should not be the reason preventing Apple from innovating in this area.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-21T23:00:00Z",
+      "url": "https://www.techradar.com/phones/iphone/flip-phones-like-the-galaxy-z-flip7-are-the-perfect-phone-design-so-why-doesnt-apple-make-one"
+    },
     {
       "id": 51,
       "title": "It’s way past time for Mayor Adams to lift the NYPD bans on facial-ID tech",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T22:13:17Z",
       "url": "https://uxdesign.cc/standing-in-the-shadow-of-giotto-43d0133cfea2"
-    },
-    {
-      "id": 52,
-      "title": "SoftBank and OpenAI scale back Stargate plans",
-      "summary": "SoftBank and OpenAI scale back plans for Stargate, a $500 billion AI project, due to lack of data center agreements.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T22:09:31Z",
-      "url": "https://biztoc.com/x/babac8a770ae4fcc"
-    },
-    {
-      "id": 53,
-      "title": "iree-turbine 3.6.0",
-      "summary": "IREE-turbine 3.6.0 introduces machine learning deployment tools for improved efficiency in AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T22:05:36Z",
-      "url": "https://pypi.org/project/iree-turbine/3.6.0/"
-    },
-    {
-      "id": 54,
-      "title": "Google clinches milestone gold at global math competition, while OpenAI also claims win",
-      "summary": "Google and OpenAI achieve milestone wins in global math competition, showcasing advancements in artificial intelligence capabilities.",
-      "source": "CNA",
-      "category": "research",
-      "timestamp": "2025-07-21T22:04:41Z",
-      "url": "https://www.channelnewsasia.com/business/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-win-5250661"
-    },
-    {
-      "id": 55,
-      "title": "Get This Wireless Smart Video Doorbell For Just $99 Down From Its Original Price Of $150",
-      "summary": "Get This Wireless Smart Video Doorbell For Just $99 Down From Its Original Price Of $150 - A great video doorbell can make all the difference, especially if you're living alone. Being able to see who is at the door, even if you aren't home, can give you real peace of mind.",
-      "source": "redmondpie.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T22:03:50Z",
-      "url": "https://www.redmondpie.com/get-this-wireless-smart-video-doorbell-for-just-99-down-from-its-original-price-of-150/"
-    },
-    {
-      "id": 56,
-      "title": "Juve want Nunez, Taremi fee set, Roma eye Ghilardi, Taty latest ",
-      "summary": "The transfer market has finally come alive, with clubs moving intensively to strengthen their teams ahead of the new season.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T22:01:00Z",
-      "url": "https://onefootball.com/en/news/juve-want-nunez-taremi-fee-set-roma-eye-ghilardi-taty-latest-41404188"
-    },
-    {
-      "id": 57,
-      "title": "Megan Byron Reactions: AI videos and images appear on social media with Andy Byron wife’s response to Coldplay Concert viral video scandal",
-      "summary": "Megan Byron reactions to the Coldplay concert scandal in the form of AI-generated videos and images have surfaced on social media, showcasing her response to the situation involving her husband, Andy Byron.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T22:00:15Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/megan-byron-reaction-ai-generated-video-images-coldplay-scandal-astronomer-ceo-andy-byron-wife-kristin-cabot-viral-concert-social-media-statements/articleshow/122822332.cms"
-    },
-    {
-      "id": 58,
-      "title": "InvroMining Makes Cloud Mining Easier Than Ever with Android App on GooglePlay",
-      "summary": "InvroMining launches mobile app on GooglePlay, making cloud mining more accessible to consumers, demonstrating the growing demand for simplified digital asset solutions.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-21T22:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119106/0/en/InvroMining-Makes-Cloud-Mining-Easier-Than-Ever-with-Android-App-on-GooglePlay.html"
-    },
-    {
-      "id": 59,
-      "title": "“This is how the world ends”: Here’s how the internet is reacting to Elon Musk teasing “baby Grok AI” for kids",
-      "summary": "Elon Musk teases 'baby Grok AI' for kids, sparking curiosity and concern among internet users about the implications and reasons behind this project.",
-      "source": "The Daily Dot",
-      "category": "innovation",
-      "timestamp": "2025-07-21T22:00:00Z",
-      "url": "https://www.dailydot.com/viral-politics/elon-musk-announces-baby-grok-ai-for-kids/"
-    },
-    {
-      "id": 60,
-      "title": "ChatGPT's Next Big Upgrade Is Coming Soon - Here Are The Latest GPT-5 Leaks And Teasers",
-      "summary": "OpenAI has been teasing the upcoming GPT-5 model without sharing a release date, sparking anticipation and speculation in the AI community.",
-      "source": "BGR",
-      "category": "research",
-      "timestamp": "2025-07-21T22:00:00Z",
-      "url": "https://www.bgr.com/1918358/chatgpt-gpt-5-rumors-leaks-teasers/"
-    },
-    {
-      "id": 61,
-      "title": "Hive Digital accelerates AI pivot with $100M HPC expansion — Cointelegraph exclusive",
-      "summary": "Hive Digital Technologies is transitioning to high-performance computing with a $100M investment in Nvidia AI chips for global data centers.",
-      "source": "Cointelegraph",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:59:13Z",
-      "url": "https://cointelegraph.com/news/hive-digital-ai-pivot-bitcoin-miner-hpc-expansion"
-    },
-    {
-      "id": 62,
-      "title": "Hunter Biden Unloads on George Clooney, Jake Tapper, Pod Save America, Dems",
-      "summary": "Hunter Biden criticizes Democratic Party elites and high-profile individuals in an AI-generated interview, raising concerns about the use of AI to manipulate voices and create fake content.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:58:25Z",
-      "url": "https://biztoc.com/x/e2ae0739ed7046b2"
-    },
-    {
-      "id": 63,
-      "title": "Protector, Professor, Partner: Can AI Do It All?",
-      "summary": "Emerging AI innovation in cybersecurity, education, and caregiving.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:57:45Z",
-      "url": "https://www.forbes.com/sites/joemckendrick/2025/07/21/protector-professor-partner-can-ai-do-it-all/"
-    },
-    {
-      "id": 64,
-      "title": "How SMBs Are Building DIY Back Offices Using AI",
-      "summary": "SMBs are using AI to build DIY back offices due to being underserved by traditional enterprise technology.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T21:57:11Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/how-smbs-are-building-diy-back-offices-using-ai/"
-    },
-    {
-      "id": 65,
-      "title": "The long arm of Trump's new law: From the Politics Desk",
-      "summary": "The impacts of Trump's new law are beginning to be felt financially and politically.",
-      "source": "NBC News",
-      "category": "economy",
-      "timestamp": "2025-07-21T21:55:20Z",
-      "url": "https://www.nbcnews.com/politics/politics-news/long-arm-trumps-new-law-politics-desk-rcna220119"
-    },
-    {
-      "id": 66,
-      "title": "Trump to unveil 3 AI executive orders in lead-up to sweeping action plan",
-      "summary": "Trump is set to unveil 3 AI executive orders demonstrating a pro-innovation stance in the lead-up to a comprehensive action plan on artificial intelligence.",
-      "source": "Nextgov",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:55:00Z",
-      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/trump-unveil-3-ai-executive-orders-lead-sweeping-action-plan/406882/"
-    },
-    {
-      "id": 67,
-      "title": "Grok Waifu Accepts Jesus As Lord And Savior",
-      "summary": "Elon Musk's xAI model, Grok Waifu, made an unexpected advancement by accepting Jesus Christ as her Lord and Savior.",
-      "source": "Babylonbee.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:54:48Z",
-      "url": "https://babylonbee.com/news/grok-waifu-accepts-jesus-as-lord-and-savior"
-    },
-    {
-      "id": 68,
-      "title": "OPM keen on using AI to increase ‘efficiency’ of jobs — as federal agency cuts staff by one-third",
-      "summary": "OPM plans to cut one-third of its staff and utilize AI to increase efficiency in jobs",
-      "source": "New York Post",
-      "category": "innovation",
-      "timestamp": "2025-07-21T21:54:39Z",
-      "url": "https://nypost.com/2025/07/21/us-news/opm-keen-on-using-ai-to-increase-efficiency-of-jobs-as-federal-agency-cuts-staff-by-one-third/"
-    },
-    {
-      "id": 69,
-      "title": "Questions about animal welfare markets",
-      "summary": "A group called 'Revolutionist's Night' discussed ways to improve animal welfare with inspiration from past movements like slavery abolitionism and the American revolution.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T21:54:01Z",
-      "url": "https://www.lesswrong.com/posts/cXtHe9PvdQzFFft5d/questions-about-animal-welfare-markets"
-    },
-    {
-      "id": 51,
-      "title": "Ripplecoin Mining launches XRP cloud mining contracts to help investors lock in daily crypto yields",
-      "summary": "Ripplecoin Mining launches XRP cloud mining contracts to help investors lock in daily crypto yields",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T21:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119103/0/en/Ripplecoin-Mining-launches-XRP-cloud-mining-contracts-to-help-investors-lock-in-daily-crypto-yields.html"
-    },
-    {
-      "id": 52,
-      "title": "Japanese students' English skills improving, but targets unmet",
-      "summary": "Japanese students' English skills are improving but further progress is needed to meet government targets, according to a recent education ministry survey.",
-      "source": "Japan Today",
-      "category": "research",
-      "timestamp": "2025-07-21T21:49:54Z",
-      "url": "https://japantoday.com/category/national/japanese-students%27-english-skills-improving-but-targets-unmet"
     }
   ]
 }
