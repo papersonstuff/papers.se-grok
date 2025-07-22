@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T01:18:30.610Z",
+  "lastUpdate": "2025-07-22T03:14:34.841Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Q1 Results This Week: Infosys, IDFC First Bank, Bajaj Finance, Paytm Among 280+ Companies To Announce Earnings",
+      "summary": "Nearly 300 companies, including Infosys, IDFC First Bank, Bajaj Finance, and Paytm, are set to announce their financial results for the quarter ended June 2025 this week, following Board meetings.",
+      "source": "Ndtvprofit.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T03:05:20Z",
+      "url": "https://www.ndtvprofit.com/quarterly-earnings/q1-results-next-week-infosys-idfc-first-bank-bajaj-finance-paytm-among-280-companies-to-announce-earnings"
+    },
+    {
+      "id": 52,
+      "title": "Manhattan Associates (MANH) Reports Earnings Tomorrow: What To Expect",
+      "summary": "Supply chain software maker Manhattan Associates (MANH) set to report earnings after market hours, potential impact on financial markets.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T03:03:17Z",
+      "url": "https://finance.yahoo.com/news/manhattan-associates-manh-reports-earnings-030317960.html"
+    },
+    {
+      "id": 53,
+      "title": "Obama on knees, handcuffed, in jail: Trump posts AI video of Obama after Tulsi Gabbard’s claims of 'treasonous plot'",
+      "summary": "Donald Trump shares deepfake video of Barack Obama being arrested, following claims of 'treasonous plot' by Tulsi Gabbard. The use of AI technology to create misleading videos raises ethical concerns about the potential for misinformation and manipulation in political discourse.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T03:02:41Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/obama-on-knees-handcuffed-in-jail-trump-posts-ai-video-of-obama-after-tulsi-gabbards-claims-of-treasonous-plot/articleshow/122804911.cms"
+    },
+    {
+      "id": 54,
+      "title": "Hope Bancorp (HOPE) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "summary": "Regional banking company Hope Bancorp (NASDAQ:HOPE) is set to report earnings this Tuesday morning.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T03:02:36Z",
+      "url": "https://finance.yahoo.com/news/hope-bancorp-hope-reports-q2-030236757.html"
+    },
+    {
+      "id": 55,
+      "title": "7/20/2025: The Vatican's Orphan's; A Tutor for Every Student; The Mezcaleros",
+      "summary": "The Vatican's orphans are being supported by AI technology, Khanmigo, an AI tutor, is helping students, and mezcal producers are using traditional methods to meet growing demand.",
+      "source": "CBS News",
+      "category": "applications",
+      "timestamp": "2025-07-21T03:00:30Z",
+      "url": "https://www.cbsnews.com/video/60minutes-2025-07-20/"
+    },
+    {
+      "id": 56,
+      "title": "10 Best Sci-Fi Anime Worth Watching Now",
+      "summary": "10 Best Sci-Fi Anime Worth Watching Now - Production I.G. offers a list of sci-fi anime that may not be counted among the top ten anime, but still provide unique styles and themes in the science fiction genre.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T03:00:00Z",
+      "url": "http://comicbook.com/anime/news/best-sci-fi-anime-86-cyberpunk-edgerunners/"
+    },
+    {
+      "id": 57,
+      "title": "claude-multiagent-pm 1.4.0",
+      "summary": "claude-multiagent-pm 1.4.0 is a Multi-Agent Project Management Framework designed for AI-driven orchestration, allowing for advanced coordination and automation in project management processes.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T02:59:19Z",
+      "url": "https://pypi.org/project/claude-multiagent-pm/1.4.0/"
+    },
+    {
+      "id": 58,
+      "title": "Hong Kong leads stocks higher, yen gains as Ishiba vows to stay",
+      "summary": "Equities mostly rose Monday on optimism countries will reach US trade deals before an August 1 deadline, while the yen gained after Japanese Prime Minister Shigeru Ishiba said he would stay in office despite another election defeat.",
+      "source": "Digital Journal",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:57:32Z",
+      "url": "https://www.digitaljournal.com/world/hong-kong-leads-stocks-higher-yen-gains-as-ishiba-vows-to-stay/article"
+    },
+    {
+      "id": 59,
+      "title": "Hong Kong Leads Stocks Higher, Yen Gains As Ishiba Vows To Stay",
+      "summary": "Equities rose on optimism of US trade deals before August 1 deadline, while yen gained as Japanese Prime Minister Shigeru Ishiba vowed to stay in office despite election defeat.",
+      "source": "Ibtimes.com.au",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:57:17Z",
+      "url": "https://www.ibtimes.com.au/hong-kong-leads-stocks-higher-yen-gains-ishiba-vows-stay-1859736"
+    },
+    {
+      "id": 60,
+      "title": "Hong Kong Leads Stocks Higher, Yen Gains As Ishiba Vows To Stay",
+      "summary": "Equities rise on optimism of US trade deals, yen gains as Japanese PM vows to stay despite election defeat.",
+      "source": "International Business Times",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:57:15Z",
+      "url": "https://www.ibtimes.com/hong-kong-leads-stocks-higher-yen-gains-ishiba-vows-stay-3778990"
+    },
+    {
+      "id": 61,
+      "title": "株式会社Robot Consulting、スピリットアドバイザーズの全面支援によってナスダック上場を達成",
+      "summary": "Robot Consulting, with full support from Spirit Advisors LLC, achieves listing on NASDAQ.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-21T02:57:10Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000152133.html"
+    },
+    {
+      "id": 62,
+      "title": "ai-interactive-feedback 2025.721.1",
+      "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development with dual interface support and intelligent environment detection, promoting cross-platform compatibility.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T02:56:42Z",
+      "url": "https://pypi.org/project/ai-interactive-feedback/2025.721.1/"
+    },
+    {
+      "id": 63,
+      "title": "Global tech showdown post-tariffs shines spotlight on US-China rivalry",
+      "summary": "Global tech showdown post-tariffs shines spotlight on US-China rivalry with release of Critical and Emerging Technologies Index (CETI) report by The Belfer Center at Harvard's Kennedy School of Public Policy, quantifying capabilities of 25 countries in AI, biotechnology, semiconductors, space, and quantum tech.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:55:17Z",
+      "url": "https://www.digitimes.com/news/a20250716PD232/us-china-trade-war-security-semiconductors-taiwan.html"
+    },
+    {
+      "id": 64,
+      "title": "Democrats bow to nuclear-energy reality — but the left won’t give up their delusions",
+      "summary": "Democrats are facing backlash from the climate-activist left for embracing nuclear power, despite its potential benefits. The decision highlights the ethical dilemma between environmental concerns and the need for clean energy sources.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-21T02:55:06Z",
+      "url": "https://nypost.com/2025/07/20/opinion/democrats-bow-to-nuclear-reality-leaving-the-left-behind/"
+    },
+    {
+      "id": 65,
+      "title": "This Week in Tech 1041: A $4 Bill",
+      "summary": "The news highlights concerns about privacy and surveillance as exemplified by incidents involving Coldplay kiss-cam flap and Amazon Ring. OpenAI LLM's impressive performance in a math competition is also mentioned.",
+      "source": "Twit.tv",
+      "category": "ethics",
+      "timestamp": "2025-07-21T02:54:50Z",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1041"
+    },
+    {
+      "id": 66,
+      "title": "UK May Backtrack on Controversial Demand for Backdoor to Encrypted Apple User Data",
+      "summary": "The British government may be forced to drop its plans to force Apple to build a backdoor into encrypted user data.",
+      "source": "MacRumors",
+      "category": "ethics",
+      "timestamp": "2025-07-21T02:50:04Z",
+      "url": "https://www.macrumors.com/2025/07/20/uk-may-backtrack-on-demand-for-backdoor/"
+    },
+    {
+      "id": 67,
+      "title": "As Trump courts a more assertive Beijing, China hawks are losing out",
+      "summary": "The Trump administration has reversed a ban on Nvidia’s H20 AI chip sales to China, easing tensions in a complex trade dispute with potential trade ta...",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:49:38Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/as-trump-courts-a-more-assertive-beijing-china-hawks-are-losing-out/articleshow/122804868.cms"
+    },
+    {
+      "id": 68,
+      "title": "open-dataflow-adp 1.1.1",
+      "summary": "The open-dataflow-adp 1.1.1 is a modern data-centric AI system designed for Large Language Models, aimed at enhancing the efficiency and performance of AI applications. This update represents an innovative advancement in AI technology, particularly in the realm of natural language processing.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T02:45:21Z",
+      "url": "https://pypi.org/project/open-dataflow-adp/1.1.1/"
+    },
+    {
+      "id": 69,
+      "title": "Wipro management on 10.9% surge in net YoY, deal wins & hopes for a better H2",
+      "summary": "Wipro's management is optimistic about a better second half following a 10.9% increase in net year-over-year, fueled by a strong $5 billion order book with a significant $2.75 billion contract. The company aims to capitalize on these wins and explore new opportunities for growth.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T02:41:00Z",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/wipro-management-on-10-9-surge-in-net-yoy-deal-wins-hopes-for-a-better-h2/articleshow/122766945.cms"
+    },
     {
       "id": 51,
       "title": " In a redemption moment, Pedro secures Flamengo win over Fluminense",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-20T23:11:14Z",
       "url": "https://www.bandt.com.au/neuro-contextual-advertising-the-rise-of-neuroscience-agentic-ai-in-marketing/"
-    },
-    {
-      "id": 53,
-      "title": "Here’s how Apple Intelligence keeps privacy in mind versus the competition",
-      "summary": "Here’s how Apple Intelligence keeps privacy in mind versus the competition - Artificial intelligence has obviously been the industry craze for the past couple years. While large language models are incredibly capable, they’ve always come with a bit of a compromise: privacy.",
-      "source": "9to5Mac",
-      "category": "ethics",
-      "timestamp": "2025-07-20T23:10:43Z",
-      "url": "https://9to5mac.com/2025/07/20/heres-how-apple-intelligence-keeps-privacy-in-mind-versus-the-competition/"
-    },
-    {
-      "id": 54,
-      "title": "keywordsai-sdk 0.4.54",
-      "summary": "The latest version of Keywords AI SDK, 0.4.54, enables seamless interaction with the Keywords AI API, facilitating smooth integration for developers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:10:14Z",
-      "url": "https://pypi.org/project/keywordsai-sdk/0.4.54/"
-    },
-    {
-      "id": 55,
-      "title": "NASA-Funded Greenland Survey Reveals ‘Crazy’ Amounts Of Ocean Warming",
-      "summary": "NASA-funded undersea robotic vehicle is giving both astrobiologists and climate scientists a window onto Greenland’s previously hidden subsurface.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-20T23:09:28Z",
-      "url": "https://www.forbes.com/sites/brucedorminey/2025/07/20/nasa-funded-greenland-survey-reveals-crazy-amounts-of-ocean-warming/"
-    },
-    {
-      "id": 56,
-      "title": "Boost Martech ROI: How Remote and Offshore Teams Streamline Marketing Execution and Data Management",
-      "summary": "Boost Martech ROI: How Remote and Offshore Teams streamline marketing execution and data management.",
-      "source": "Martech.zone",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:08:46Z",
-      "url": "https://martech.zone/how-remote-and-offshore-teams-streamline-marketing-execution/"
-    },
-    {
-      "id": 57,
-      "title": "flwr-nightly 1.20.0.dev20250720",
-      "summary": "Flwr-nightly 1.20.0.dev20250720 introduces Flower, a federated AI framework designed to facilitate decentralized training across various devices and systems.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-20T23:06:57Z",
-      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250720/"
-    },
-    {
-      "id": 58,
-      "title": "code2docs-cli 1.3.2",
-      "summary": "An AI-powered CLI tool, code2docs-cli 1.3.2, has been released for generating code documentation, API references, and project READMEs from codebases.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:03:44Z",
-      "url": "https://pypi.org/project/code2docs-cli/1.3.2/"
-    },
-    {
-      "id": 59,
-      "title": "Groundbreaking AI tool could diagnose skin cancer early in remote areas",
-      "summary": "Groundbreaking AI tool developed to diagnose skin cancer early in remote areas by enabling early detection of skin conditions worldwide without direct access to dermatologists.",
-      "source": "The-independent.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:01:00Z",
-      "url": "https://www.the-independent.com/life-style/health-and-families/ai-tool-skin-cancer-study-b2792472.html"
-    },
-    {
-      "id": 60,
-      "title": "LexisNexis launches Protégé, a personalised AI assistant with agentic capabilities, to help UK lawyers to complete legal tasks more easily and efficiently",
-      "summary": "LexisNexis launches Protégé, a personalised AI assistant with agentic capabilities, to help UK lawyers complete legal tasks more easily and efficiently, accelerating drafting, summarisation, and legal research tasks.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:01:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118393/0/en/LexisNexis-launches-Prot%C3%A9g%C3%A9-a-personalised-AI-assistant-with-agentic-capabilities-to-help-UK-lawyers-to-complete-legal-tasks-more-easily-and-efficiently.html"
-    },
-    {
-      "id": 61,
-      "title": "Machine learning-assisted exploration of the interfacial valence electron fitting rule for MBene-based single-atom catalysts",
-      "summary": "Machine learning-assisted exploration of the interfacial valence electron fitting rule for MBene-based single-atom catalysts in J. Mater. Chem. A, 2025.",
-      "source": "Royal Society of Chemistry",
-      "category": "research",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta04324g"
-    },
-    {
-      "id": 62,
-      "title": "Photo shows Trump and Epstein together at Mar-a-Lago in 1997",
-      "summary": "A photo from 1997 has surfaced showing Donald Trump and financier Jeffrey Epstein together at Mar-a-Lago, raising ethical questions about their relationship and character.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "https://www.snopes.com//fact-check/trump-epstein-photo-1997/"
-    },
-    {
-      "id": 63,
-      "title": "An Upcoming MCU Release Is The Perfect Place to Revive This Forgotten Agents of SHIELD Storyline",
-      "summary": "An upcoming MCU release is the perfect place to revive a forgotten Agents of SHIELD storyline, making the Marvel Cinematic Universe series even more important. This move could help boost viewership and popularity.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "http://comicbook.com/tv-shows/news/vision-quest-mcu-release-agents-of-shield-storyline-revive-lmd/"
-    },
-    {
-      "id": 64,
-      "title": "Advanced SOC Services Transform Organisations’ Response to Cyber Threats",
-      "summary": "Advanced SOC services are transforming organisations' response to cyber threats in order to stay ahead and mitigate risk as threats continue to evolve.",
-      "source": "iTnews",
-      "category": "innovation",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "https://www.itnews.com.au/video/advanced-soc-services-transform-organisations-response-to-cyber-threats-617191"
-    },
-    {
-      "id": 65,
-      "title": "New Cloud Mining Plans to Launch as Crypto Platforms AIXA Miner Prepare for Increased Retail Participation",
-      "summary": "New Cloud Mining Plans to Launch as Crypto Platforms AIXA Miner Prepare for Increased Retail Participation - Denver, Colorado, July 20, 2025 (GLOBE NEWSWIRE) -- Several platforms are updating their contract models in response to stabilising cryptocurrency prices and mining infrastructure changes, particularly for new retail participation.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/20/3118392/0/en/New-Cloud-Mining-Plans-to-Launch-as-Crypto-Platforms-AIXA-Miner-Prepare-for-Increased-Retail-Participation.html"
-    },
-    {
-      "id": 66,
-      "title": "Breaking the poisoning paradigm: a high-throughput DFT screening of high-entropy alloys with a focus on phonon-induced uncertainty",
-      "summary": "Breaking the poisoning paradigm: a high-throughput DFT screening of high-entropy alloys with a focus on phonon-induced uncertainty - J. Mater. Chem. A, 2025, Advance ArticleDOI: 10.1039/D5TA03759J, PaperMohsen Tamtaji, William A. Goddard III, GuanHua ChenAlthough surface poisoning is typically thought to deactivate electrocatalysis, this work suggests its intentional application in promoti…",
-      "source": "Royal Society of Chemistry",
-      "category": "research",
-      "timestamp": "2025-07-20T23:00:00Z",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta03759j"
-    },
-    {
-      "id": 67,
-      "title": "keywordsai-sdk 0.4.53",
-      "summary": "Keywords AI SDK 0.4.53 enables seamless interaction with the Keywords AI API for smooth integration.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T22:59:44Z",
-      "url": "https://pypi.org/project/keywordsai-sdk/0.4.53/"
-    },
-    {
-      "id": 68,
-      "title": "Samsung reportedly cracks 1c DRAM yield hurdle, positions HBM4 for AI rebound",
-      "summary": "Samsung is making strides in the HBM market with its sixth-generation 1c DRAM, built for HBM4, after cracking the yield hurdle. This development positions Samsung for a potential rebound in the AI sector.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-20T22:57:15Z",
-      "url": "https://www.digitimes.com/news/a20250718PD213/samsung-dram-hbm4-hbm-sk-hynix.html"
-    },
-    {
-      "id": 51,
-      "title": "Why Do Dog Breeds With Genetic Problems Become Popular?",
-      "summary": "Popular flat-faced dog breeds with genetic problems are preferred by the public and owners, but new research suggests that less extreme versions of these breeds are preferred.",
-      "source": "Psychology Today",
-      "category": "research",
-      "timestamp": "2025-07-20T22:53:48Z",
-      "url": "https://www.psychologytoday.com/us/blog/animals-and-us/202507/why-do-dog-breeds-with-genetic-problems-become-popular"
-    },
-    {
-      "id": 52,
-      "title": "Natural gas is America’s strategic advantage fueling the AI race",
-      "summary": "Natural gas is seen as America's strategic advantage in fueling the AI race, as the country has a history of rising to global competition through innovation, resilience, and strategic investment.",
-      "source": "Wnd.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T22:53:13Z",
-      "url": "https://www.wnd.com/2025/07/natural-gas-is-americas-strategic-advantage-fueling-ai/"
-    },
-    {
-      "id": 53,
-      "title": "Fighting through Setting up Microsoft Trusted Signing",
-      "summary": "Fighting through setting up Microsoft Trusted Signing for renewing Code Signing certificate.",
-      "source": "West-wind.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T22:52:05Z",
-      "url": "https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing"
     }
   ]
 }
