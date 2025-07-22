@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-22T14:46:10.535Z",
+  "lastUpdate": "2025-07-22T15:17:50.488Z",
   "items": [
+    {
+      "id": 51,
+      "title": "odinai-sdk 2.0.1",
+      "summary": "The odinai-sdk 2.0.1 has been released, providing an official Python client library for Odin AI API, allowing developers to easily integrate AI capabilities into their applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:17:21Z",
+      "url": "https://pypi.org/project/odinai-sdk/2.0.1/"
+    },
+    {
+      "id": 52,
+      "title": "Map Reveals 'Accelerating' Water Loss Affecting 40 Million Americans",
+      "summary": "The Colorado River Basin has seen an extensive loss of groundwater over two decades, affecting more than 40 million Americans. Analysis of NASA satellite data shows significant water loss in Arizona.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-21T15:17:05Z",
+      "url": "https://biztoc.com/x/54868e00903b91de"
+    },
+    {
+      "id": 53,
+      "title": "Heartbreak as Mom Describes Giving Birth to Her Stillborn Daughter",
+      "summary": "A mother recounts the emotional experience of delivering a stillborn baby, with the voice being AI-generated, raising ethical concerns about the use of technology in such sensitive situations.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:16:53Z",
+      "url": "https://biztoc.com/x/bbcbd0dc80641885"
+    },
+    {
+      "id": 54,
+      "title": "Millennial Dropped Out of High School at 15—Tears as He Shares Life Today",
+      "summary": "A 38-year-old man went viral for earning a doctorate after dropping out of high school, showcasing a remarkable academic comeback.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:16:49Z",
+      "url": "https://biztoc.com/x/705f3525f771a1e7"
+    },
+    {
+      "id": 55,
+      "title": "Melania Trump Attacked in Russian State Media",
+      "summary": "Melania Trump was attacked in Russian state media by an AI-generated voice, raising concerns about the ethics of using AI to spread misinformation and defamation.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:16:43Z",
+      "url": "https://biztoc.com/x/5e10fa9d6ceabf93"
+    },
+    {
+      "id": 56,
+      "title": "Why ‘Go Big or Go Home’ Doesn’t Work for AI",
+      "summary": "Why ‘Go Big or Go Home’ Doesn’t Work for AI - Sometimes, you need to go back to basics. While developers continue to push the boundaries of AI’s capabilities, the best use cases may be the ones that are a little less exciting.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:16:31Z",
+      "url": "https://biztoc.com/x/2fafa0da7f94d22c"
+    },
+    {
+      "id": 57,
+      "title": "Woman Sees Mom Setting Up Tripod at Beach With Daughter—But There's a Twist",
+      "summary": "A woman witnessed another mother and daughter at the beach, where the daughter's voice was reportedly AI-generated, leading to outrage and concerns about the use of AI in personal interactions.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:16:30Z",
+      "url": "https://biztoc.com/x/4ba29f977974af01"
+    },
+    {
+      "id": 58,
+      "title": "GE Vernova to buy France's Alteia for enhancing AI tools for utilities",
+      "summary": "GE Vernova to acquire Alteia to enhance AI tools for utilities",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:16:27Z",
+      "url": "https://finance.yahoo.com/news/ge-vernova-buy-frances-alteia-151627211.html"
+    },
+    {
+      "id": 59,
+      "title": "New leaked renders reveal Google Pixel 10 colors and telephoto camera",
+      "summary": "New leaked renders reveal Google Pixel 10 colors and telephoto camera, hinting at upcoming innovations in smartphone technology.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:16:01Z",
+      "url": "https://www.neowin.net/news/new-leaked-renders-reveal-google-pixel-10-colors-and-telephoto-camera/"
+    },
+    {
+      "id": 60,
+      "title": "Officials investigate death of man arrested for public nudity in Garland",
+      "summary": "Officials are investigating the death of a man who was arrested for public nudity in Garland, Texas. The incident raises questions about the handling of individuals in vulnerable situations by law enforcement officers.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T15:15:30Z",
+      "url": "https://freerepublic.com/focus/f-chat/4329896/posts"
+    },
+    {
+      "id": 61,
+      "title": "What Makes Chord Energy (CHRD) a Good Option for Passive Income Investment?",
+      "summary": "Chord Energy Corporation (NASDAQ:CHRD) is included among the 12 Best Oil and Gas Dividend Stocks to Buy Now, making it a good option for passive income investment.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T15:15:09Z",
+      "url": "https://finance.yahoo.com/news/makes-chord-energy-chrd-good-151509789.html"
+    },
+    {
+      "id": 62,
+      "title": "AWE 2025 Recap — Is XR Going Mainstream Yet?",
+      "summary": "This year's Augmented World Expo showed increased interest in XR technology, with a focus on consumer-oriented projects that could bring AR into the mainstream soon.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-21T15:14:47Z",
+      "url": "https://www.forbes.com/sites/moorinsights/2025/07/21/awe-2025-recap---is-xr-going-mainstream-yet/"
+    },
+    {
+      "id": 63,
+      "title": "Quip is a smart clipboard management app for iOS and Mac",
+      "summary": "Quip is a smart clipboard management app for iOS and Mac that brings a universal clipboard to both platforms.",
+      "source": "TechCrunch",
+      "category": "applications",
+      "timestamp": "2025-07-21T15:14:39Z",
+      "url": "https://techcrunch.com/2025/07/21/quip-is-a-smart-clipboard-management-app-for-ios-and-mac/"
+    },
     {
       "id": 51,
       "title": "kumoai 2.5.0.dev202507210742",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T13:54:20Z",
       "url": "https://gizmodo.com/elon-musks-ai-praised-hitler-now-he-wants-it-to-teach-your-kids-2000631987"
-    },
-    {
-      "id": 53,
-      "title": "Why Sapien.io Could Be the Scale.AI of Crypto | HackerNoon",
-      "summary": "Sapien.io is an AI-powered Web3 startup co-founded by Polymath's Trevor Koverko that could potentially become the Scale.AI of crypto, with its TGE approaching.",
-      "source": "hackernoon.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T13:54:13Z",
-      "url": "https://hackernoon.com/why-sapienio-could-be-the-scaleai-of-crypto"
-    },
-    {
-      "id": 54,
-      "title": "ETHRANSACTION Redefines Digital Wealth Creation with One-Click Cloud Mining Contracts",
-      "summary": "ETHRANSACTION is redefining digital wealth creation through one-click cloud mining contracts, offering high returns and disruptive technical strength.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:53:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118824/0/en/ETHRANSACTION-Redefines-Digital-Wealth-Creation-with-One-Click-Cloud-Mining-Contracts.html"
-    },
-    {
-      "id": 55,
-      "title": "PC market grows in Q2, but tariffs and trade fears signal turbulence ahead",
-      "summary": "PC market grew 8.4% in Q2 2025, but tariffs and trade fears suggest future turbulence.",
-      "source": "TechSpot",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:52:00Z",
-      "url": "https://www.techspot.com/news/108742-pc-market-grows-q2-but-tariffs-trade-fears.html"
-    },
-    {
-      "id": 56,
-      "title": "ETHRANSACTION’s new Cloud Mining contracts makes it easier to yield stablecoins such as BTC, ETH, DOGE, XRP and LTC",
-      "summary": "ETHRANSACTION’s new Cloud Mining contracts make it easier to yield stablecoins, such as BTC, ETH, DOGE, XRP, and LTC, in the midst of the turbulent financial system of the crypto market.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:51:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118823/0/en/ETHRANSACTION-s-new-Cloud-Mining-contracts-makes-it-easier-to-yield-stablecoins-such-as-BTC-ETH-DOGE-XRP-and-LTC.html"
-    },
-    {
-      "id": 57,
-      "title": " Nepal’s Tech Fest ELEVATED!  Future is NOW! #TechX2025",
-      "summary": "Nepal's Tech Fest ELEVATED! Future is NOW! #TechX2025 - Tech Expo: Elevate 2025 was a landmark event in Nepali tech, organized by Softwarica College of IT and E-Commerce. The event showcased the latest advancements and innovations in technology.",
-      "source": "Nep123.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:50:51Z",
-      "url": "https://nep123.com/%f0%9f%a4%af-nepals-tech-fest-elevated-%f0%9f%9a%80-future-is-now-techx2025/"
-    },
-    {
-      "id": 58,
-      "title": "Wild rumors roundup: A7sIV and FX8",
-      "summary": "Wild rumors roundup for possible A7sIV and FX8 cameras. The source of the rumors is unknown and typically unreliable, but there have been instances where they have been accurate. Posting to keep track and see how they unfold.",
-      "source": "Sonyalpharumors.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T13:49:45Z",
-      "url": "https://www.sonyalpharumors.com/widl-rumors-roundup-a7siv-and-fx8/"
-    },
-    {
-      "id": 59,
-      "title": "92-Year-Old Grandma's Evening Ritual Stuns Viewers: 'She Chose Happiness'",
-      "summary": "A 92-year-old grandmother's viral video showcasing her AI-generated voice choosing happiness during her evening margarita ritual.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T13:47:12Z",
-      "url": "https://biztoc.com/x/d5328dfb4e3b894e"
-    },
-    {
-      "id": 60,
-      "title": "Acentra Health Names Marnie Keogh as Senior Vice President of Marketing",
-      "summary": "Acentra Health has appointed Marnie Keogh as Senior Vice President of Marketing to oversee the company's marketing strategy.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T13:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118821/0/en/Acentra-Health-Names-Marnie-Keogh-as-Senior-Vice-President-of-Marketing.html"
-    },
-    {
-      "id": 61,
-      "title": "Sites Have Little Control in Google SERPs",
-      "summary": "Sites struggle to control their appearance in Google SERPs due to limitations imposed by Google over the years.",
-      "source": "Practical Ecommerce",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:46:46Z",
-      "url": "https://www.practicalecommerce.com/sites-have-little-control-in-google-serps"
-    },
-    {
-      "id": 62,
-      "title": "Verizon's Premium Plans Drive Higher Profit Projections After Solid Quarter",
-      "summary": "Verizon's stock gains as the company reports strong second-quarter financial results and raises guidance, driven by higher profit projections from premium plans.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:45:31Z",
-      "url": "https://finance.yahoo.com/news/verizons-premium-plans-drive-higher-134531862.html"
-    },
-    {
-      "id": 63,
-      "title": "Ex-Univision CEO Wade Davis sells Hibiscus Island mansion for $32M",
-      "summary": "Former Univision CEO Wade Davis sells Hibiscus Island mansion in Miami Beach for $31.8 million, after being on the market for 8 months at a decreased price from $37.5 million.",
-      "source": "The Real Deal",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:45:00Z",
-      "url": "https://therealdeal.com/miami/2025/07/21/ex-univision-ceo-sells-hibiscus-island-mansion-for-32m/"
-    },
-    {
-      "id": 64,
-      "title": "Top AI laptops are still on sale after Prime Day — starting at only $599 while they last",
-      "summary": "Top AI laptops are still on sale after Prime Day at Best Buy starting at $599 with discounts on Copilot+ PCs as well, allowing consumers to take advantage of the deals they may have missed during competing sales events.",
-      "source": "Windows Central",
-      "category": "economy",
-      "timestamp": "2025-07-21T13:45:00Z",
-      "url": "https://www.windowscentral.com/hardware/laptops/copilot-ai-laptops-best-buy-post-prime-day-deals"
-    },
-    {
-      "id": 65,
-      "title": "“We are exploring legal possibilities,” says Aanand L Rai, who is still in shock over makers giving ‘Raanjhanaa’ a happy ending via AI - Exclusive",
-      "summary": "Aanand L Rai is exploring legal options after learning that 'Raanjhanaa' is being re-released with an AI-generated happy ending without his consent.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T13:42:37Z",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-are-exploring-legal-possibilities-says-aanand-l-rai-who-is-still-in-shock-over-makers-giving-raanjhanaa-a-happy-ending-via-ai-exclusive/articleshow/122817181.cms"
     }
   ]
 }
