@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T16:51:49.802Z",
+  "lastUpdate": "2025-07-22T17:17:17.128Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI is slowly transforming the cold chain, the supply chain that handles your ice cream and deli meat",
+      "summary": "AI is transforming the cold chain supply chain with algorithms, agents, and digital twins to help manage operations and inventory.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:16:56Z",
+      "url": "https://www.businessinsider.com/ai-for-cold-chain-operations-safety-algorithms-agents-digital-twins-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "Netflix just revealed AI-generated footage in a popular show for the first time - did you spot it?",
+      "summary": "Netflix incorporated AI-generated footage in a popular show, marking a milestone in the use of generative AI tools in content creation.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:15:41Z",
+      "url": "https://www.zdnet.com/article/netflix-just-revealed-ai-generated-footage-in-a-popular-show-for-the-first-time-did-you-spot-it/"
+    },
+    {
+      "id": 53,
+      "title": "tf-nightly-cpu 2.21.0.dev20250721",
+      "summary": "tf-nightly-cpu 2.21.0.dev20250721 - TensorFlow is an open source machine learning framework for everyone.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:15:30Z",
+      "url": "https://pypi.org/project/tf-nightly-cpu/2.21.0.dev20250721/"
+    },
+    {
+      "id": 54,
+      "title": "pyfound 0.1.1",
+      "summary": "pyfound 0.1.1 - Found! is an AI enabled tool for fast semantic search over your personal documents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:15:18Z",
+      "url": "https://pypi.org/project/pyfound/0.1.1/"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI, UK sign new strategic partnership",
+      "summary": "OpenAI and the UK government signed a strategic partnership focusing on expanding AI security research collaborations and exploring investments in AI infrastructure.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:13:56Z",
+      "url": "https://www.channelnewsasia.com/business/openai-uk-sign-new-strategic-partnership-5250346"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI and UK sign new AI agreement to boost security, infrastructure",
+      "summary": "OpenAI and UK sign new AI agreement to boost security and infrastructure, including expanding research collaborations and investing in AI data centres.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:13:56Z",
+      "url": "https://www.channelnewsasia.com/business/openai-and-uk-sign-new-ai-agreement-boost-security-infrastructure-5250346"
+    },
+    {
+      "id": 57,
+      "title": "OpenAI, UK sign new strategic partnership",
+      "summary": "OpenAI and the UK government signed a strategic partnership to expand AI security research collaborations.",
+      "source": "Yahoo Entertainment",
+      "category": "research",
+      "timestamp": "2025-07-21T17:13:56Z",
+      "url": "https://finance.yahoo.com/news/openai-uk-sign-strategic-partnership-171356702.html"
+    },
+    {
+      "id": 58,
+      "title": "pyfound added to PyPI",
+      "summary": "pyfound added to PyPI - Found! is an AI enabled tool for fast semantic search over your personal documents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:13:04Z",
+      "url": "https://pypi.org/project/pyfound/"
+    },
+    {
+      "id": 59,
+      "title": "pyfound 0.1.0",
+      "summary": "pyfound 0.1.0 - Found! is an AI enabled tool for fast semantic search over personal documents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:13:04Z",
+      "url": "https://pypi.org/project/pyfound/0.1.0/"
+    },
+    {
+      "id": 60,
+      "title": "New Astronomer CEO describes 'unusual and surreal' Coldplay 'kiss cam' scandal",
+      "summary": "New Astronomer CEO addresses 'unusual and surreal' Coldplay 'kiss cam' scandal, issuing a statement on the viral moment at a Coldplay concert.",
+      "source": "NBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-21T17:12:43Z",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/new-astronomer-ceo-describes-unusual-surreal-coldplay-kiss-cam-scandal-rcna220043"
+    },
+    {
+      "id": 61,
+      "title": "Instacart’s former CEO is taking the reins of a big chunk of OpenAI",
+      "summary": "Instacart's former CEO Fidji Simo is set to lead a big portion of OpenAI as the new 'CEO of Applications', focusing on scaling and growing the company's applications under the guidance of OpenAI CEO Sam Altman.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:12:29Z",
+      "url": "https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai"
+    },
+    {
+      "id": 62,
+      "title": "its-compiler-cli added to PyPI",
+      "summary": "its-compiler-cli added to PyPI, a command-line interface for ITS Compiler which converts ITS templates to AI prompts.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:12:20Z",
+      "url": "https://pypi.org/project/its-compiler-cli/"
+    },
+    {
+      "id": 63,
+      "title": "tf-nightly 2.21.0.dev20250721",
+      "summary": "tf-nightly 2.21.0.dev20250721 is the latest version of TensorFlow, an open source machine learning framework for all users.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:12:02Z",
+      "url": "https://pypi.org/project/tf-nightly/2.21.0.dev20250721/"
+    },
+    {
+      "id": 64,
+      "title": "Use generative AI in Amazon Bedrock for enhanced recommendation generation in equipment maintenance",
+      "summary": "Use generative AI in Amazon Bedrock for enhanced recommendation generation in equipment maintenance in the manufacturing world, with valuable insights from service reports being underutilized. This post explores how AWS customers can build a solution that automates digitisation and extraction of crucial data.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:10:55Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-in-amazon-bedrock-for-enhanced-recommendation-generation-in-equipment-maintenance/"
+    },
+    {
+      "id": 65,
+      "title": "Obama Arrest Video Is Trump’s Most Unhinged Epstein Diversion",
+      "summary": "The Obama arrest video is Trump’s most unhinged Epstein diversion, with AI technology being used to create fake videos. This raises ethical concerns about the use of technology to spread misinformation and manipulate the public.",
+      "source": "New York Magazine",
+      "category": "ethics",
+      "timestamp": "2025-07-21T17:10:52Z",
+      "url": "http://nymag.com/intelligencer/article/obama-arrest-ai-video-trump-epstein.html"
+    },
+    {
+      "id": 66,
+      "title": "XAI Advanced Talks With Saudi Arabia for AI Data Centers",
+      "summary": "xAI is in advanced talks with Saudi Arabia to secure multi-gigawatts of AI Data Center compute capacity, negotiating a long term lease for data centers in the Kingdom.",
+      "source": "Next Big Future",
+      "category": "economy",
+      "timestamp": "2025-07-21T17:10:41Z",
+      "url": "https://www.nextbigfuture.com/2025/07/xai-advanced-talks-with-saudi-arabia-for-ai-data-centers.html"
+    },
+    {
+      "id": 67,
+      "title": "Avatar: Frontiers Of Pandora Is Getting A Big Free Update Later This Year",
+      "summary": "Avatar: Frontiers of Pandora is getting a big free update later this year, making the open world sci-fi adventure easy to recommend with ongoing updates and discounts.",
+      "source": "Kotaku",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:10:00Z",
+      "url": "https://kotaku.com/avatar-frontiers-pandora-cheap-third-person-new-game-1851786644"
+    },
+    {
+      "id": 68,
+      "title": "Pam Bondi Grants Hillary Clinton Email Probe Request Amid Epstein Furor",
+      "summary": "Attorney General Pam Bondi granted a request for an investigation into Hillary Clinton's email probe amid controversy surrounding Jeffery Epstein. The use of AI-generated voice may lead to inconsistencies in the news reporting.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T17:08:43Z",
+      "url": "https://biztoc.com/x/da87d595af79868e"
+    },
+    {
+      "id": 69,
+      "title": "Apple Only Has One Hope for a Foldable iPhone that Beats Samsung",
+      "summary": "Apple's hope for a foldable iPhone that beats Samsung lies in software, not hardware.",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:08:42Z",
+      "url": "https://gizmodo.com/apple-only-has-one-hope-for-a-foldable-iphone-that-beats-samsung-2000631990"
+    },
+    {
+      "id": 70,
+      "title": "Trump's Approval Rating Has 'Started To Drop More Quickly'—Nate Silver",
+      "summary": "President Donald Trump's approval rating has started to drop more quickly, according to pollster Nate Silver's analysis on his Silver Bulletin website.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-21T17:08:41Z",
+      "url": "https://biztoc.com/x/7479b5d22314ba5e"
+    },
     {
       "id": 51,
       "title": "Sorry MSI, but you blew it – the Claw A8 is overpriced and could struggle to compete against cheaper rivals like the Steam Deck",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T16:16:05Z",
       "url": "https://www.forbes.com/sites/meganpoinski/2025/07/21/unilevers-growth-comes-from-finding-opportunity/"
-    },
-    {
-      "id": 61,
-      "title": "VC investments in India at $3.5-billion mark in Q2, 2025: KPMG",
-      "summary": "VC investments in India reached $3.5 billion in Q2 2025, with fintech, healthtech, and logistics leading the way.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-21T16:16:03Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/vc-investments-in-india-at-3-5-billion-mark-in-q2-2025-kpmg/articleshow/122819245.cms"
-    },
-    {
-      "id": 62,
-      "title": "AI and the Curious Species of Meaning",
-      "summary": "AI research explores the creation of love and meaning in our minds compared to synthetic minds.",
-      "source": "Psychology Today",
-      "category": "research",
-      "timestamp": "2025-07-21T16:15:10Z",
-      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202507/ai-and-the-curious-species-of-meaning"
-    },
-    {
-      "id": 63,
-      "title": "10 Best Sci-fi Movies of the 2010s, Ranked",
-      "summary": "Science fiction movies had a terrific run in the 2010s, with major franchises like Star Wars and Planet of the Apes contributing to some of the best titles of the decade.",
-      "source": "ComicBook.com",
-      "category": "entertainment",
-      "timestamp": "2025-07-21T16:15:00Z",
-      "url": "http://comicbook.com/movies/news/10-best-sci-fi-movies-2010s-ranked/"
-    },
-    {
-      "id": 64,
-      "title": "CEO Of ChatGPT Rival Perplexity Says AI Will Replace These Jobs In 6 Months",
-      "summary": "Perplexity AI CEO predicts that AI-powered browser Comet will replace recruiter and executive roles within 6 months.",
-      "source": "Hot Hardware",
-      "category": "startup",
-      "timestamp": "2025-07-21T16:15:00Z",
-      "url": "https://hothardware.com/news/ceo-of-chatgpt-rival-perplexity-says-ai-will-replace-these-jobs-in-6-months"
-    },
-    {
-      "id": 65,
-      "title": "At Develop:Brighton, actor Jane Perry offered a rational rebuke to the threat of generative AI",
-      "summary": "Actor Jane Perry warns about the threat of generative AI in voice acting profession, highlighting the potential loss of work due to recording new material without an actor's consent.",
-      "source": "GamesIndustry.biz",
-      "category": "ethics",
-      "timestamp": "2025-07-21T16:14:27Z",
-      "url": "https://www.gamesindustry.biz/at-developbrighton-actor-jane-perry-offered-a-rational-rebuke-to-the-threat-of-generative-ai"
-    },
-    {
-      "id": 51,
-      "title": "phosphobot 0.3.68",
-      "summary": "phosphobot 0.3.68 is an AI-ready robotics dev kit that includes built-in remote control and VLA support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:56:32Z",
-      "url": "https://pypi.org/project/phosphobot/0.3.68/"
-    },
-    {
-      "id": 52,
-      "title": "'Don’t let LLM's success cloud your judgment': Tech CTO shares hard-hitting AI truths for businesses",
-      "summary": "Robert Blumofe of Akamai advises companies to focus on specific AI tools and employee experimentation within a controlled environment, cautioning against getting swept up in AI hype.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:55:18Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/dont-let-llms-success-cloud-your-judgment-tech-cto-shares-hard-hitting-ai-truths-for-businesses/articleshow/122818761.cms"
-    },
-    {
-      "id": 53,
-      "title": "Stellantis (STLA) Loses 8.6% on on Hydrogen Tech Pullout",
-      "summary": "Stellantis (STLA) loses 8.6% on hydrogen tech pullout, impacting its stock performance.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:54:26Z",
-      "url": "https://finance.yahoo.com/news/stellantis-stla-loses-8-6-155426829.html"
-    },
-    {
-      "id": 54,
-      "title": "PagSeguro (PAGS) Drops 8.86% as Analysts Expect Q2 Earnings Fall",
-      "summary": "PagSeguro (PAGS) dropped 8.86% as analysts expect Q2 earnings fall, despite being one of this week's top performers.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:54:15Z",
-      "url": "https://finance.yahoo.com/news/pagseguro-pags-drops-8-86-155415697.html"
-    },
-    {
-      "id": 55,
-      "title": "Trump Media Says Bitcoin Treasury Holdings Reach $2 Billion",
-      "summary": "Trump Media and Technology Group announces $2 billion in bitcoin holdings and $300 million allocated for options acquisition strategy.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:54:12Z",
-      "url": "http://www.pymnts.com/cryptocurrency/2025/trump-media-says-bitcoin-treasury-holdings-reach-2-billion/"
-    },
-    {
-      "id": 56,
-      "title": "First Majestic (AG) Falls 10.68% W/W After Record High",
-      "summary": "First Majestic (AG) falls 10.68% W/W after reaching a record high. It is one of the top performers this week.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:53:42Z",
-      "url": "https://finance.yahoo.com/news/first-majestic-ag-falls-10-155342977.html"
-    },
-    {
-      "id": 57,
-      "title": "Schlumberger (SLB) Dives 10.69% as Earnings Disappoint",
-      "summary": "Schlumberger (SLB) stock fell 10.69% due to disappointing earnings, making it one of the week's top performers.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:53:32Z",
-      "url": "https://finance.yahoo.com/news/schlumberger-slb-dives-10-69-155332061.html"
-    },
-    {
-      "id": 58,
-      "title": "Gap (GAP) Drops 11.56% Ahead of Dividend Payout",
-      "summary": "Gap Inc. (NYSE:GAP) dropped 11.56% ahead of a dividend payout, making it one of the top performers of the week.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:53:03Z",
-      "url": "https://finance.yahoo.com/news/gap-gap-drops-11-56-155303941.html"
-    },
-    {
-      "id": 59,
-      "title": "Could AI Have Prevented SkyWest Airliner’s Near Collision with a B-52 Bomber?",
-      "summary": "AI could have potentially prevented a near collision between a SkyWest airliner and a B-52 bomber, highlighting the role of AI in aviation safety.",
-      "source": "Scientific American",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:53:00Z",
-      "url": "https://www.scientificamerican.com/article/could-ai-have-prevented-skywest-airliners-near-collision-with-a-b52-bomber/"
-    },
-    {
-      "id": 60,
-      "title": "StoneCo (STNE) Slashes 11.63% Ahead of Q2",
-      "summary": "StoneCo Ltd. (NASDAQ:STNE) saw a significant drop of 11.63% ahead of Q2. The company is one of this week's top performers, according to recent reports.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T15:52:47Z",
-      "url": "https://finance.yahoo.com/news/stoneco-stne-slashes-11-63-155247916.html"
-    },
-    {
-      "id": 61,
-      "title": "Valve billionaire Gabe Newell says businesses should \"listen to your customers and focus on them,\" putting employees, partners, and customers before capital",
-      "summary": "Valve billionaire Gabe Newell advises businesses to prioritize customers, employees, and partners over profits, stressing the importance of focusing on the needs of stakeholders.",
-      "source": "GamesRadar+",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:52:46Z",
-      "url": "https://www.gamesradar.com/games/valve-billionaire-gabe-newell-says-businesses-should-listen-to-your-customers-and-focus-on-them-putting-employees-partners-and-customers-before-capital/"
-    },
-    {
-      "id": 62,
-      "title": "ALRMiner multi-currency mining upgrade: SOL and DOGE support added, AI deployment is more efficient!",
-      "summary": "ALRMiner has upgraded its multi-currency mining capabilities to support popular digital assets like Solana (SOL) and Dogecoin (DOGE), making AI deployment more efficient in the process.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T15:51:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118907/0/en/ALRMiner-multi-currency-mining-upgrade-SOL-and-DOGE-support-added-AI-deployment-is-more-efficient.html"
-    },
-    {
-      "id": 63,
-      "title": "Rescue Cat Won't Let Go of One Thing After Adoption, Viewers Obsessed",
-      "summary": "A rescue cat named Georgie has melted hearts on social media after his new owner shared a video of him refusing to let go of the one item he received on the day he was adopted: a fuzzy blanket that has now become his comfort object.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T15:50:17Z",
-      "url": "https://biztoc.com/x/92f31a46f0a84daf"
-    },
-    {
-      "id": 64,
-      "title": "King Charles' Charity Hit by New Scandal Over Gardeners",
-      "summary": "King Charles III's charity faces scandal over treatment of gardeners at his estate, including allegations of mistreatment towards employees.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:50:01Z",
-      "url": "https://biztoc.com/x/9a9f9160a299d143"
-    },
-    {
-      "id": 51,
-      "title": "Nvidia CEO’s always-on 7-day grind is going viral—he can’t even sit through a movie without thinking about his $4.2 trillion tech giant",
-      "summary": "Nvidia CEO's intense work ethic and constant focus on the company raises questions about work-life balance and the pressure faced by executives in the tech industry.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-21T15:44:15Z",
-      "url": "https://fortune.com/2025/07/21/billionaire-nvidia-ceo-jensen-huang-always-working-7-days-a-week-trillion-dollar-company-no-work-life-balance/"
     }
   ]
 }
