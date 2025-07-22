@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-22T17:45:19.603Z",
+  "lastUpdate": "2025-07-22T17:55:07.301Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AWS, Meta Unveil Startup Program as Zuckerberg Pushes AI",
+      "summary": "Two tech rivals, AWS and Meta, launch a joint startup accelerator to boost adoption of open-source AI and support early-stage companies.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T17:54:51Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/aws-meta-unveil-startup-program-as-zuckerberg-pushes-ai/"
+    },
+    {
+      "id": 52,
+      "title": "Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux",
+      "summary": "Firefox 141 introduces AI-powered tab grouping, reduced memory usage on Linux, a new unit converter, and expanded PiP support.",
+      "source": "Omgubuntu.co.uk",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:53:50Z",
+      "url": "https://www.omgubuntu.co.uk/2025/07/firefox-141-release-ai-tabs-linux-memory"
+    },
+    {
+      "id": 53,
+      "title": "Court Orders New Trial for Historic NYC Cold Case Cracked in 2017",
+      "summary": "Court orders new trial for historic NYC cold case cracked in 2017, where voice is AI-generated, raising concerns about potential inaccuracies and inconsistencies in evidence.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T17:53:08Z",
+      "url": "https://biztoc.com/x/074534e681c4f505"
+    },
+    {
+      "id": 54,
+      "title": "Google brings first of its kind 'Gemini drops' for its AI updates",
+      "summary": "Google introduces first Gemini-centric update for its AI, called Gemini drops.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:52:06Z",
+      "url": "https://www.androidcentral.com/apps-software/ai/google-brings-first-of-its-kind-gemini-drops-for-its-ai-updates"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: 47jobs – Marketplace for \"Vibecoders\"",
+      "summary": "47jobs is a marketplace connecting clients with 'vibecoders', developers who specialize in AI-assisted development using natural language prompts with AI tools.",
+      "source": "47jobs.xyz",
+      "category": "innovation",
+      "timestamp": "2025-07-21T17:51:29Z",
+      "url": "https://www.47jobs.xyz/"
+    },
+    {
+      "id": 56,
+      "title": "New Astronomer CEO gives first statement since Coldplay kiss-cam scandal",
+      "summary": "New Astronomer CEO Pete DeJoy addresses his new role in the company following the recent scandal involving Coldplay's kiss-cam incident.",
+      "source": "CNBC",
+      "category": "startups",
+      "timestamp": "2025-07-21T17:49:46Z",
+      "url": "https://www.cnbc.com/2025/07/21/astronomer-interim-ceo-says-spotlight-has-been-unusual-and-surreal.html"
+    },
+    {
+      "id": 57,
+      "title": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'",
+      "summary": "Florida man arrested for threatening to kill 'EVERY ONE' on Epstein 'client list'.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-21T17:48:22Z",
+      "url": "https://abcnews.go.com/US/florida-man-arrested-threatening-kill-epstein-client-list/story?id=123933077"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: Only video to understand Model Context Protocol (MCP) in depth",
+      "summary": "Show HN: Video explaining Model Context Protocol (MCP) in depth with free labs and live demos, no prior knowledge necessary. Future of AI agents is advancing quickly, don't miss out.",
+      "source": "YouTube",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:47:51Z",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRhTiAOGwbYE"
+    },
+    {
+      "id": 59,
+      "title": "Rezolve Ai and $150B+¹ Tether Aligned as U.S. Stablecoin Law Ushers in New Era of Regulated Digital Commerce",
+      "summary": "Rezolve Ai and $150B+ Tether are aligned as U.S. stablecoin law ushers in a new era of regulated digital commerce, with the GENIUS Act expected to unlock trillions in compliant crypto payments. Rezolve's AI platform, integrated with Microsoft and Google, is positioned to power this new wave of regulated digital payments.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-21T17:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118955/0/en/Rezolve-Ai-and-150B-Tether-Aligned-as-U-S-Stablecoin-Law-Ushers-in-New-Era-of-Regulated-Digital-Commerce.html"
+    },
     {
       "id": 51,
       "title": "This Device Will Scan And Sort Your Trading Cards For You",
@@ -369,87 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T16:51:25Z",
       "url": "https://www.techradar.com/computing/gaming-pcs/sorry-msi-but-you-blew-it-the-claw-a8-is-overpriced-and-could-struggle-to-compete-against-cheaper-rivals-like-the-steam-deck"
-    },
-    {
-      "id": 52,
-      "title": "Marvel's VISION QUEST Has Reportedly Wrapped Filming: What's Next For White Vision?",
-      "summary": "Marvel's Vision Quest has reportedly wrapped filming, leaving MCU fans eager to find out what's next for White Vision in the Disney+ series.",
-      "source": "CBM (Comic Book Movie)",
-      "category": "applications",
-      "timestamp": "2025-07-21T16:50:45Z",
-      "url": "https://comicbookmovie.com/tv/marvel/vision/marvels-vision-quest-has-reportedly-wrapped-filming-whats-next-for-white-vision-a222923"
-    },
-    {
-      "id": 53,
-      "title": "LLM Daydreaming (gwern.net)",
-      "summary": "This post from Gwern tackles a question that I suspect could become very relevant for AI automating AI research (and jobs more generally), which is why don't current AIs produce frontier-expansion/insights semi-reliabilit...",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-21T16:50:39Z",
-      "url": "https://www.lesswrong.com/posts/ZffDM6MkHDkXb9Si6/llm-daydreaming-gwern-net"
-    },
-    {
-      "id": 54,
-      "title": "The Business And Economic Case For Academic Freedom",
-      "summary": "Academic freedom is crucial for driving U.S. innovation and economic growth, but political interference may jeopardize this and put our universities at risk, impacting America's global competitive edge.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-21T16:50:32Z",
-      "url": "https://www.forbes.com/sites/iansimmons/2025/07/21/the-business-and-economic-case-for-academic-freedom/"
-    },
-    {
-      "id": 55,
-      "title": "I Love Our AI Stack. I’m Just Also OK If It’s Completely Different in 2026.",
-      "summary": "The article discusses the ethical question of loyalty to AI systems and how founders may have conflicting feelings about sticking with a particular AI stack in the future.",
-      "source": "Saastr.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T16:50:23Z",
-      "url": "https://www.saastr.com/i-love-our-ai-stack-im-just-also-ok-if-its-completely-different-in-2026/"
-    },
-    {
-      "id": 56,
-      "title": "Trump's Wildly Fascistic Posting Spree Isn't Just a Distraction From Epstein (Rolling Stone)",
-      "summary": "President Trump's posting spree, including AI-generated content fantasizing about the arrest of political figures, raises ethical concerns about the use of AI technology in spreading misinformation and inciting divisiveness.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T16:50:04Z",
-      "url": "https://www.memeorandum.com/250721/p65"
-    },
-    {
-      "id": 57,
-      "title": "geoai-py 0.9.2",
-      "summary": "geoai-py 0.9.2 is a Python package designed for leveraging Artificial Intelligence (AI) in analyzing geospatial data.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T16:49:53Z",
-      "url": "https://pypi.org/project/geoai-py/0.9.2/"
-    },
-    {
-      "id": 58,
-      "title": "Darktrace announces acquisition of Mira Security, a leading provider of network traffic visibility solutions",
-      "summary": "Darktrace acquires Mira Security, a provider of network traffic visibility solutions.",
-      "source": "Vmblog.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T16:48:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/21/darktrace-announces-acquisition-of-mira-security-a-leading-provider-of-network-traffic-visibility-solutions.aspx"
-    },
-    {
-      "id": 59,
-      "title": "link2abc 0.2.0",
-      "summary": "link2abc 0.2.0 allows users to transform any link or clipboard content into music using AI, and is mobile-friendly.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T16:46:29Z",
-      "url": "https://pypi.org/project/link2abc/0.2.0/"
-    },
-    {
-      "id": 60,
-      "title": "Trump Posts AI Video Of Obama Being Arrested, Handcuffed As He Gleefully Watches",
-      "summary": "President Trump faces backlash for posting AI-generated video depicting Barack Obama being arrested and handcuffed",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T16:46:22Z",
-      "url": "https://biztoc.com/x/8206f302c8bd1568"
     }
   ]
 }
