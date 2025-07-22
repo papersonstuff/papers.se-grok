@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-22T09:21:08.216Z",
+  "lastUpdate": "2025-07-22T09:46:56.221Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trump Shares AI Video of Obama Getting Arrested",
+      "summary": "Donald Trump shared an AI-generated video depicting Barack Obama being arrested, raising ethical concerns regarding the use of AI technology to spread false information.",
+      "source": "PetaPixel",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:45:40Z",
+      "url": "https://petapixel.com/2025/07/21/trump-shares-ai-video-of-obama-getting-arrested/"
+    },
+    {
+      "id": 52,
+      "title": "Clinical Decision Support Systems Market Opportunities and Strategies Report 2025-2034 | Market to See Highest Gains from Cloud-Based, Knowledge-Based, and Hospital Segments",
+      "summary": "The global clinical decision support systems market is set for robust growth, expanding from $3.14 billion in 2024 to $10.74 billion by 2034, fueled by a demand for AI-driven solutions and increasing adoption of EHRs.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118530/28124/en/Clinical-Decision-Support-Systems-Market-Opportunities-and-Strategies-Report-2025-2034-Market-to-See-Highest-Gains-from-Cloud-Based-Knowledge-Based-and-Hospital-Segments.html"
+    },
+    {
+      "id": 53,
+      "title": "Anthropic plans to sign EU's AI code of practice",
+      "summary": "Anthropic plans to sign EU's AI code of practice, a framework to help companies comply with the AI Act legal obligations.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:43:12Z",
+      "url": "https://biztoc.com/x/172ccdd5161051ea"
+    },
+    {
+      "id": 54,
+      "title": "US Government Worker Prevented From Leaving China: What We Know",
+      "summary": "A U.S. citizen was prevented from leaving China for not disclosing his U.S. government job on his visa application, raising ethical concerns about privacy and transparency.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:43:01Z",
+      "url": "https://biztoc.com/x/0414c8c53c73d746"
+    },
+    {
+      "id": 55,
+      "title": "Altman plans D.C. push to \"democratize\" AI economic benefits",
+      "summary": "Altman plans to push for democratizing AI economic benefits during his visit to Washington, highlighting AI's role in increasing American productivity and promising to keep AI accessible to as many people as possible.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:42:51Z",
+      "url": "https://biztoc.com/x/c9f17c70b5fa73eb"
+    },
+    {
+      "id": 56,
+      "title": "truffle-ai-music-creator-mcp added to PyPI",
+      "summary": "truffle-ai-music-creator-mcp added to PyPI - MCP server for music creation, editing, and audio processing using librosa, pydub, and music21",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:42:26Z",
+      "url": "https://pypi.org/project/truffle-ai-music-creator-mcp/"
+    },
+    {
+      "id": 57,
+      "title": "Using Google Veo 3 to Make Memes Go Viral : AI Video Generation Made Easy",
+      "summary": "Using Google Veo 3 to Make Memes Go Viral: AI Video Generation Made Easy. Creating stunning, professional-grade videos is now accessible with AI-powered tools like Veo 3, allowing users to simply type prompts or upload a single image.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:41:19Z",
+      "url": "https://www.geeky-gadgets.com/veo-3-ai-video-creation-guide-2025/"
+    },
+    {
+      "id": 58,
+      "title": "AI makes game-by-game predictions for the Philadelphia Eagles' 2025 season",
+      "summary": "AI is being used to make game-by-game predictions for the Philadelphia Eagles' 2025 season, showcasing the practical applications of AI technology in the sports industry.",
+      "source": "USA Today",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:40:31Z",
+      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/07/21/grok-ai-game-by-game-predictions-predictions-2025-eagles-schedule/85300717007/"
+    },
+    {
+      "id": 59,
+      "title": "Proactive Preparedness: What Financial Institutions Can Learn from Emergency Response Models (Priyanka Rao)",
+      "summary": "In the ever-evolving world of finance and technology, being prepared for the unexpected isn’t just important, it’s imperative. Financial institutions can learn from emergency response models to improve proactive preparedness.",
+      "source": "Finextra",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:40:05Z",
+      "url": "https://www.finextra.com/blogposting/28934/proactive-preparedness-what-financial-institutions-can-learn-from-emergency-response-models"
+    },
+    {
+      "id": 60,
+      "title": "Power Module Packaging Market Research and Forecasts Report 2024-2032 | Integration of AI in Packaging Design to Create Lucrative Opportunities",
+      "summary": "The global power module packaging market is expected to grow from USD 2.35 billion in 2023 to USD 4.93 billion by 2032, fueled by the rise of electric vehicles and high-efficiency power electronics.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:40:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118528/28124/en/Power-Module-Packaging-Market-Research-and-Forecasts-Report-2024-2032-Integration-of-AI-in-Packaging-Design-to-Create-Lucrative-Opportunities.html"
+    },
+    {
+      "id": 61,
+      "title": "Donald Trump Shares Utterly Unhinged AI Video Of Barack Obama Arrest In Oval Office",
+      "summary": "Donald Trump shared a disturbing AI video of Barack Obama being arrested in the Oval Office, raising ethical concerns about the use of AI technology to create and disseminate fake content.",
+      "source": "HuffPost",
+      "category": "ethics",
+      "timestamp": "2025-07-21T09:38:03Z",
+      "url": "https://www.huffpost.com/entry/donald-trump-barack-obama-ai-video_n_687dff31e4b0502d85e56715"
+    },
+    {
+      "id": 62,
+      "title": "IGBT Market Global Research and Forecasts 2024-2032 | Integration with AI and IoT Systems to Create Lucrative Opportunities",
+      "summary": "The global IGBT market is expected to reach USD 18.79 billion by 2032, with key drivers being the rising demand for electric vehicles and industrial automation.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:38:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118525/28124/en/IGBT-Market-Global-Research-and-Forecasts-2024-2032-Integration-with-AI-and-IoT-Systems-to-Create-Lucrative-Opportunities.html"
+    },
+    {
+      "id": 63,
+      "title": "AMD Ryzen Threadripper PRO 9995WX CPU Overclocked To 5 GHz Across All 96 “Zen 5” Cores, Scores Over 186K Points In Cinebench, And Consumes Up To 950W Power",
+      "summary": "AMD Ryzen Threadripper PRO 9995WX CPU has been overclocked to 5 GHz across all 96 cores, scoring over 186K points in Cinebench and consuming up to 950W power, showcasing cutting-edge technological advancements in processor performance.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:37:31Z",
+      "url": "https://wccftech.com/amd-ryzen-threadripper-pro-9995wx-cpu-overclocked-5-ghz-96-zen-5-cores-scores-186k-cinebench-950w-power/"
+    },
+    {
+      "id": 64,
+      "title": "Skill development top motivator for Indian workers pursuing mobility experience, finds EY survey",
+      "summary": "Skill development is the top motivator for Indian workers pursuing mobility experience according to an EY survey. Employee mobility is seen as crucial for closing skill gaps and building future-ready teams in India.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:36:27Z",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/skill-development-top-motivator-for-indian-workers-pursuing-mobility-experience-finds-ey-survey/articleshow/122812295.cms"
+    },
+    {
+      "id": 65,
+      "title": "Superbugs could kill millions and trigger $2 trillion economic meltdown by 2050",
+      "summary": "Superbugs could kill millions and trigger $2 trillion economic meltdown by 2050 due to antimicrobial resistance.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:36:26Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/superbugs-could-kill-millions-and-trigger-2-trillion-economic-meltdown-by-2050/articleshow/122812326.cms"
+    },
+    {
+      "id": 66,
+      "title": "Nvidia is powering the UK's fastest superocmputer yet - here's what it can do",
+      "summary": "Nvidia is powering the UK's fastest supercomputer with nearly 5,500 GH200 chips.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-21T09:35:39Z",
+      "url": "https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do"
+    },
+    {
+      "id": 67,
+      "title": "How the CEO of Ralph Lauren got the company through the ‘boiled frog phenomenon’ of going too wide, too cheap",
+      "summary": "The CEO of Ralph Lauren steered the company away from the 'boiled frog phenomenon' by focusing on higher quality products and not going too wide or cheap. Fortune provides all the latest news and watercooler chat.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-21T09:34:48Z",
+      "url": "https://fortune.com/2025/07/21/ceo-ralph-lauren-boiled-frog/"
+    },
+    {
+      "id": 68,
+      "title": "How To Watch South Park Season 27 Online And Stream New Episodes From Anywhere In The World",
+      "summary": "A guide on how to watch South Park Season 27 online from anywhere in the world is provided for fans of the Emmy-winning animation.",
+      "source": "CinemaBlend",
+      "category": "applications",
+      "timestamp": "2025-07-21T09:33:10Z",
+      "url": "https://www.cinemablend.com/streaming-news/watch-south-park-season-27-online"
+    },
+    {
+      "id": 69,
+      "title": "Emerging Semiconductor Substrates Market Research and Forecast Report 2022-2032 | Advancements in AI and HPC Platforms are Expected to Create Lucrative Opportunities",
+      "summary": "Explore the booming global emerging semiconductor substrates market, predicted to soar from USD 65.87M in 2023 to USD 966.58M by 2032 at a 36.33% CAGR, driven by advancements in AI and HPC platforms. Key growth drivers include 5G demand and power electronics.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T09:31:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118520/28124/en/Emerging-Semiconductor-Substrates-Market-Research-and-Forecast-Report-2022-2032-Advancements-in-AI-and-HPC-Platforms-are-Expected-to-Create-Lucrative-Opportunities.html"
+    },
+    {
+      "id": 70,
+      "title": "CleverTap’s Leanplum buyout triggers layoffs, top deck exits three years on",
+      "summary": "CleverTap's acquisition of Leanplum in 2022 for global expansion has led to layoffs and executive exits, with Leanplum facing liquidation. CleverTap confirmed the restructuring has mainly impacted the acquired entity.",
+      "source": "Livemint",
+      "category": "startups",
+      "timestamp": "2025-07-21T09:30:35Z",
+      "url": "https://www.livemint.com/companies/clevertap-leanplum-buyout-layoffs-senior-exits-11752993661997.html"
+    },
     {
       "id": 51,
       "title": "Trump posts bizarre AI video of Obama's 'arrest' as he claims 'no-one is above the law'",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T08:46:24Z",
       "url": "https://www.retail-insight-network.com/news/currys-ai-platform-pitch/"
-    },
-    {
-      "id": 61,
-      "title": "What Nvidia CEO Jensen Huang does differently with AI (and why you should too)",
-      "summary": "Nvidia CEO Jensen Huang treats AI like a conversation, while Huawei in China is building an entire AI stack from the ground up.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:45:59Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/what-nvidia-ceo-jensen-huang-does-differently-with-ai-and-why-you-should-too/articleshow/122811026.cms"
-    },
-    {
-      "id": 62,
-      "title": "Astronomer CEO Andy Byron Resignation Amid Coldplay Fiasco Explained",
-      "summary": "Astronomer CEO Andy Byron has resigned after facing backlash. The resignation came after being identified in the Coldplay fiasco.",
-      "source": "ComingSoon.net",
-      "category": "startups",
-      "timestamp": "2025-07-21T08:45:33Z",
-      "url": "https://www.comingsoon.net/guides/news/2005411-andy-bryon-resigns-coldplay-kiss-cam-drama"
-    },
-    {
-      "id": 63,
-      "title": "7 Best Free Ringtone Apps for iPhone",
-      "summary": "7 Best Free Ringtone Apps for iPhone - iPhone comes preloaded with plenty of ringtones. However, if you’re a long-time user you might have gotten bored of them. Or, if you’ve just moved to iOS, you might not like the idea of buying ringtones.",
-      "source": "The Mac Observer",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:45:25Z",
-      "url": "https://www.macobserver.com/tips/how-to/7-best-free-ringtone-apps-for-iphone/"
-    },
-    {
-      "id": 64,
-      "title": "Generative AI is more than just a cost saver for us: Netflix Co-CEO Ted Sarandos",
-      "summary": "Netflix Co-CEO Ted Sarandos emphasizes that generative AI is a tool to enhance creativity rather than just cut costs. AI has enabled faster and cheaper visual effects in El Eternauta and Netflix utilizes AI for personalisation, search, and ads.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:45:19Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/generative-ai-is-more-than-just-a-cost-saver-for-us-netflix-co-ceo-ted-sarandos/articleshow/122811255.cms"
-    },
-    {
-      "id": 65,
-      "title": "AI companies have stopped warning you that their chatbots aren’t doctors",
-      "summary": "AI companies have stopped warning users that their chatbots aren’t doctors, raising ethical concerns about potential misinformation and the boundaries of AI capabilities in providing health information.",
-      "source": "MIT Technology Review",
-      "category": "ethics",
-      "timestamp": "2025-07-21T08:45:00Z",
-      "url": "https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/"
-    },
-    {
-      "id": 66,
-      "title": "Show HN: InnerSight – A journaling app with therapist mode and photo uploads",
-      "summary": "InnerSight is a journaling app with therapist mode and photo uploads, designed for regular journalers and therapists to engage with their clients' reflections.",
-      "source": "Innersightjournal.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:43:26Z",
-      "url": "https://www.innersightjournal.com/"
-    },
-    {
-      "id": 67,
-      "title": "Stephens Inc. AR Sells 24,994 Shares of Kyndryl Holdings, Inc. (NYSE:KD)",
-      "summary": "Stephens Inc. AR decreased its stake in Kyndryl Holdings, Inc. by 78.8% in the first quarter, according to a recent disclosure with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:42:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/stephens-inc-ar-sells-24994-shares-of-kyndryl-holdings-inc-nysekd/"
-    },
-    {
-      "id": 68,
-      "title": "Quantum-based MagNav delivers FAA-grade positioning without satellites",
-      "summary": "Quantum-based MagNav achieves FAA-grade positioning without satellites, showing potential for innovative navigation technology.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:42:00Z",
-      "url": "https://www.notebookcheck.net/Quantum-based-MagNav-delivers-FAA-grade-positioning-without-satellites.1063394.0.html"
-    },
-    {
-      "id": 69,
-      "title": "Samsung's next Fan Edition earbuds just surfaced",
-      "summary": "Samsung's next Fan Edition earbuds are set to be released soon, promising something exciting for users' ears.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:39:54Z",
-      "url": "https://www.phonearena.com/news/samsung-next-fan-edition-earbuds-just-surfaced_id172455"
-    },
-    {
-      "id": 70,
-      "title": "Infosys expands tech ties with Australia's Telstra",
-      "summary": "Infosys to serve as strategic partner for Telstra International to drive innovation and support Connected Future 30 initiative.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:39:06Z",
-      "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-expands-tech-ties-with-australias-telstra/articleshow/122811146.cms"
-    },
-    {
-      "id": 51,
-      "title": "Unitree files for IPO as JD.com doubles down on embodied AI — market reacts",
-      "summary": "Unitree Robotics files for IPO with Citic Securities as advisor, showcasing increased interest in embodied AI technology by companies like JD.com.",
-      "source": "Digitimes",
-      "category": "startups",
-      "timestamp": "2025-07-21T08:22:19Z",
-      "url": "https://www.digitimes.com/news/a20250721VL208/ipo-market-robotics.html"
-    },
-    {
-      "id": 52,
-      "title": "Specialty Papers Global Market Report 2026-2036, with Comprehensive Profiles of 37 Leading Specialty Papers Manufacturers and Technology Providers",
-      "summary": "Specialty papers are driving the sustainable packaging revolution as pivotal enablers of the circular economy. The market is witnessing innovations with advanced materials, including the integration of nanocellulose technologies like MFC and CNF.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:22:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118485/28124/en/Specialty-Papers-Global-Market-Report-2026-2036-with-Comprehensive-Profiles-of-37-Leading-Specialty-Papers-Manufacturers-and-Technology-Providers.html"
-    },
-    {
-      "id": 53,
-      "title": "Louisiana State Employees Retirement System Makes New Investment in Penguin Solutions, Inc. (NASDAQ:PENG)",
-      "summary": "Louisiana State Employees Retirement System made a new investment in Penguin Solutions, Inc. during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-21T08:21:14Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/louisiana-state-employees-retirement-system-makes-new-investment-in-penguin-solutions-inc-nasdaqpeng/"
-    },
-    {
-      "id": 54,
-      "title": "DRML Miner Launches Global Mobile Cloud Mining Platform - Earn Passive Income with XRP",
-      "summary": "DRML Miner launches global mobile cloud mining platform for earning passive income with XRP.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T08:21:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118484/0/en/DRML-Miner-Launches-Global-Mobile-Cloud-Mining-Platform-Earn-Passive-Income-with-XRP.html"
-    },
-    {
-      "id": 55,
-      "title": "videoseal added to PyPI",
-      "summary": "Facebook AI Research has added VideoSeal, a video watermarking library, to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:20:28Z",
-      "url": "https://pypi.org/project/videoseal/"
-    },
-    {
-      "id": 56,
-      "title": "Tesla Retro-Futuristic Diner Expansion: Elon Musk Announces Plans To Expand Tesla’s Food and Entertainment Hubs to Major Cities at Supercharger Sites",
-      "summary": "Elon Musk announces plans to expand Tesla's retro-futuristic diner to major cities at Supercharger sites to improve customer satisfaction with food and entertainment offerings.",
-      "source": "LatestLY",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:19:46Z",
-      "url": "https://www.latestly.com/socially/auto/tesla-retro-futuristic-diner-expansion-elon-musk-announces-plans-to-expand-teslas-food-and-entertainment-hubs-to-major-cities-at-supercharger-sites-7010502.html"
-    },
-    {
-      "id": 57,
-      "title": "EQT Calls on Congress to Slash Gas Project Approval Times",
-      "summary": "EQT chief executive urges Congress to cut approval times for gas projects to enhance U.S. energy competitiveness.",
-      "source": "OilPrice.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:19:20Z",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EQT-Calls-on-Congress-to-Slash-Gas-Project-Approval-Times.html"
-    },
-    {
-      "id": 58,
-      "title": "Louisiana State Employees Retirement System Buys New Shares in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN)",
-      "summary": "Louisiana State Employees Retirement System purchased a new position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) during the 1st quarter, according to its most recent 13F filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:18:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/louisiana-state-employees-retirement-system-buys-new-shares-in-grid-dynamics-holdings-inc-nasdaqgdyn/"
-    },
-    {
-      "id": 59,
-      "title": "Cwm LLC Acquires 1,074 Shares of Monolithic Power Systems, Inc. (NASDAQ:MPWR)",
-      "summary": "Cwm LLC increased its holdings in Monolithic Power Systems, Inc. by 79.0% in the 1st quarter, according to its most recent filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:18:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/cwm-llc-acquires-1074-shares-of-monolithic-power-systems-inc-nasdaqmpwr/"
-    },
-    {
-      "id": 60,
-      "title": "Generative AI may create a socioeconomic tipping point through labour displacement",
-      "summary": "Generative AI may create a socioeconomic tipping point through labour displacement, according to a group of researchers. The potential impact of AI on the workforce raises concerns about a potential societal shift in the future.",
-      "source": "Lse.ac.uk",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:18:07Z",
-      "url": "http://eprints.lse.ac.uk/128885/"
     }
   ]
 }
