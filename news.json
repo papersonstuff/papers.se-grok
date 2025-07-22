@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-22T09:46:56.221Z",
+  "lastUpdate": "2025-07-22T10:17:59.598Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Show HN: Genie: Your AI-Powered Terminal Sidekick (CLI and TUI)",
+      "summary": "AI startup Genie has developed an AI assistant to work directly in the command line, reducing the need for context switching. The assistant is designed to help users ask questions and process information within the terminal.",
+      "source": "Github.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T10:17:42Z",
+      "url": "https://github.com/kcaldas/genie"
+    },
+    {
+      "id": 52,
+      "title": "EY India and Taxmann unveil AI-powered tax research platform",
+      "summary": "EY India and Taxmann have collaborated to launch Taxmann.AI, an AI-powered platform tailored for tax and legal professionals, offering research, document analysis, and response generation capabilities.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T10:17:14Z",
+      "url": "https://biztoc.com/x/824d7a5e2b638a0f"
+    },
+    {
+      "id": 53,
+      "title": "Can’t Keep Up With the AI Browser Wars? Here’s What Businesses Need to Know",
+      "summary": "OpenAI and Perplexity have released new AI tools for browsing the internet that can help businesses keep up with the AI Browser Wars, but they have key differences.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T10:16:48Z",
+      "url": "https://biztoc.com/x/17fc637fc8eb9acb"
+    },
+    {
+      "id": 54,
+      "title": "Microsoft to make Notre-Dame ‘digital twin’ and boost its European languages for its AI models",
+      "summary": "Microsoft is creating a 'digital twin' of Notre-Dame Cathedral to boost its European languages for AI models and digitise historic opera sets and artefacts with French cultural institutions.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T10:16:40Z",
+      "url": "https://biztoc.com/x/6e47722f3e691f81"
+    },
+    {
+      "id": 55,
+      "title": "AI is fueling job cuts, but is it really making work more efficient?",
+      "summary": "AI is fueling job cuts as job openings for software developers hit a five-year low. This raises questions about AI's responsibility for the slowdown in job growth.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T10:16:22Z",
+      "url": "https://biztoc.com/x/f7b1ecc08f35fa51"
+    },
+    {
+      "id": 56,
+      "title": "I tested the Getax ZX10 G2 and this rugged tablet is designed to withstand the most demanding users and the most challenging environments - but it's not cheap",
+      "summary": "I tested the Getax ZX10 G2, a rugged tablet designed for demanding users and challenging environments, offering performance and resilience but not cheap.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-21T10:16:00Z",
+      "url": "https://www.techradar.com/pro/phone-communications/getax-zx10-g2-rugged-tablet-review"
+    },
+    {
+      "id": 57,
+      "title": "Composable Infrastructure Market Opportunities and Strategies Report 2025-2034 | Market Poised for Growth Amid 5G Adoption and Cloud Expansion, Despite Security and Reliability Concerns",
+      "summary": "The global composable infrastructure market is projected to grow significantly from 2024 to 2034, driven by AI, automation, and 5G adoption, reaching $132.06 billion. Key trends include composable data platforms and advanced AI solutions.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T10:16:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118556/28124/en/Composable-Infrastructure-Market-Opportunities-and-Strategies-Report-2025-2034-Market-Poised-for-Growth-Amid-5G-Adoption-and-Cloud-Expansion-Despite-Security-and-Reliability-Concer.html"
+    },
+    {
+      "id": 58,
+      "title": "combatlearn 0.2.0",
+      "summary": "combatlearn 0.2.0 introduces batch-effect harmonization for machine learning frameworks.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-21T10:15:28Z",
+      "url": "https://pypi.org/project/combatlearn/0.2.0/"
+    },
     {
       "id": 51,
       "title": "Trump Shares AI Video of Obama Getting Arrested",
@@ -378,78 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T08:48:54Z",
       "url": "https://pypi.org/project/flakeradar/"
-    },
-    {
-      "id": 53,
-      "title": "flakeradar 1.0.0",
-      "summary": "flakeradar 1.0.0 is an AI-powered tool that provides test flakiness detection and root cause analysis for improved test reliability in enterprises.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:48:54Z",
-      "url": "https://pypi.org/project/flakeradar/1.0.0/"
-    },
-    {
-      "id": 54,
-      "title": "flumes-ai added to PyPI",
-      "summary": "Flumes-ai, a unified memory infrastructure SDK for AI agents, has been added to PyPI, allowing for easier integration and deployment of AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:48:08Z",
-      "url": "https://pypi.org/project/flumes-ai/"
-    },
-    {
-      "id": 55,
-      "title": "flumes-ai 0.1.0",
-      "summary": "flumes-ai 0.1.0 is a unified memory infrastructure SDK for AI agents, aiming to improve memory efficiency in AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:48:08Z",
-      "url": "https://pypi.org/project/flumes-ai/0.1.0/"
-    },
-    {
-      "id": 56,
-      "title": "Show HN: Open-source deep-research agent",
-      "summary": "Open-source deep-research agent released with configurable Python code for multi-step research, avoiding vendor lock-in and utilizing MIT license.",
-      "source": "Github.com",
-      "category": "research",
-      "timestamp": "2025-07-21T08:48:07Z",
-      "url": "https://github.com/langchain-ai/open_deep_research"
-    },
-    {
-      "id": 57,
-      "title": "Creative writing with LLMs, part 1: Prompting for fiction",
-      "summary": "For a while now, there has been enjoyment in co-writing fiction with LLMs, indicating its potential application in the creative writing field.",
-      "source": "Lesswrong.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:47:36Z",
-      "url": "https://www.lesswrong.com/posts/D9MHrR8GrgSbXMqtB/creative-writing-with-llms-part-1-prompting-for-fiction"
-    },
-    {
-      "id": 58,
-      "title": "Realme 15 Series India Launch: Check Price, Camera And Key Specifications Ahead Of July 24 Release",
-      "summary": "Realme is set to launch the Realme 15 Series in India on July 24, with the base model expected to be priced under Rs 30,000.",
-      "source": "Ndtvprofit.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T08:46:42Z",
-      "url": "https://www.ndtvprofit.com/technology/realme-15-series-india-launch-check-price-camera-and-key-specifications-ahead-of-july-24-release"
-    },
-    {
-      "id": 59,
-      "title": "lightman-ai 0.16.12",
-      "summary": "lightman-ai 0.16.12 is a cybersecurity news aggregator that aims to provide users with up-to-date information on cyber threats and attacks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T08:46:30Z",
-      "url": "https://pypi.org/project/lightman-ai/0.16.12/"
-    },
-    {
-      "id": 60,
-      "title": "Currys launches AI-powered employee-led ideas platform",
-      "summary": "Currys launches an AI-powered employee-led ideas platform called Pitch, which is developed on Sideways 6's Microsoft-integrated platform and fully embedded in Microsoft Teams.",
-      "source": "Retail-insight-network.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T08:46:24Z",
-      "url": "https://www.retail-insight-network.com/news/currys-ai-platform-pitch/"
     }
   ]
 }
