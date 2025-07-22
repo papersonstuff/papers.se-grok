@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T20:18:35.654Z",
+  "lastUpdate": "2025-07-22T20:44:17.701Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI-Animated Vehicles - The Faraday FX Super One Replaces the Traditional Grille with an AI Agent (TrendHunter.com)",
+      "summary": "Faraday Future's Faraday FX Super One is an AI-animated vehicle that showcases deep AI integration in future vehicles, featuring a large digital screen replacing the traditional grille.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:43:06Z",
+      "url": "https://www.trendhunter.com/trends/faraday-fx-super-one"
+    },
+    {
+      "id": 52,
+      "title": "Yahoo Japan Mandates AI Use to ‘Double’ Productivity by 2028",
+      "summary": "Yahoo Japan mandates the use of AI to double productivity by 2028, requiring all employees to use generative AI technology.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:40:09Z",
+      "url": "https://biztoc.com/x/a660afbcbd4629dd"
+    },
+    {
+      "id": 53,
+      "title": "Why AI Shouldn't Be the Future of Academia",
+      "summary": "Artificial intelligence in academia is not inevitable and should be deeply considered for its impact on research, teaching, and scholarship.",
+      "source": "Psychology Today",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:39:57Z",
+      "url": "https://www.psychologytoday.com/us/blog/how-to-do-academia/202507/why-ai-shouldnt-be-the-future-of-academia"
+    },
+    {
+      "id": 54,
+      "title": "NXP Semiconductors (NASDAQ:NXPI) Posts Better-Than-Expected Sales In Q2, Provides Encouraging Quarterly Revenue Guidance",
+      "summary": "NXP Semiconductors (NASDAQ:NXPI) exceeded sales expectations in Q2, but reported a 6.4% decrease in year-on-year sales. The company also provided positive revenue guidance for the upcoming quarter.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:38:38Z",
+      "url": "https://finance.yahoo.com/news/nxp-semiconductors-nasdaq-nxpi-posts-203838837.html"
+    },
+    {
+      "id": 55,
+      "title": "PayPal Adds Scam Detection to Friends and Family Payments",
+      "summary": "PayPal introduces scam prevention tool for Friends and Family payments to proactively alert customers to potential scams and prevent losses in real-time.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:37:12Z",
+      "url": "http://www.pymnts.com/fraud-prevention/2025/paypal-adds-scam-detection-to-friends-and-family-payments/"
+    },
+    {
+      "id": 56,
+      "title": "The King of Queens: Kevin James Can't See Reboot Without Jerry Stiller",
+      "summary": "Kevin James believes a reboot of 'The King of Queens' would not be right without the late Jerry Stiller, highlighting the importance of respecting the legacy and memory of deceased actors in potential reboots.",
+      "source": "Bleeding Cool News",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:37:03Z",
+      "url": "https://bleedingcool.com/tv/the-king-of-queens-kevin-james-cant-see-reboot-without-jerry-stiller/"
+    },
+    {
+      "id": 57,
+      "title": "Kubo takes a swipe at Real Sociedad’s transfer market",
+      "summary": "Real Sociedad's player Take Kubo discusses the team's need for reinforcements in the transfer market during their Asian tour debut against Nagasaki.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:35:00Z",
+      "url": "https://onefootball.com/en/news/kubo-takes-a-swipe-at-real-sociedads-transfer-market-41405605"
+    },
+    {
+      "id": 58,
+      "title": "Traders Rushing To Ruvi AI (RUVI), $2.5M Raised And 2400 Holders Might Trigger A Rally Soon",
+      "summary": "Traders are rushing to invest in Ruvi AI (RUVI) which has raised $2.5M and has 2400 holders, potentially triggering a rally soon. The company's unique use of artificial intelligence (AI) in combination with blockchain is setting it apart and analysts predict a potential 66x growth.",
+      "source": "ZyCrypto",
+      "category": "startups",
+      "timestamp": "2025-07-21T20:34:00Z",
+      "url": "https://zycrypto.com/traders-rushing-to-ruvi-ai-ruvi-2-5m-raised-and-2400-holders-might-trigger-a-rally-soon/"
+    },
+    {
+      "id": 59,
+      "title": "Show HN: I Made t0ggles – Faster and More Efficient Than Jira and ClickUp",
+      "summary": "As someone juggling multiple projects, the creator of t0ggles needed a faster and more efficient project/task management tool than existing options like Jira, ClickUp, and Trello. t0ggles aims to provide a clearer and more streamlined way to manage multiple projects on the same board.",
+      "source": "T0ggles.com",
+      "category": "startups",
+      "timestamp": "2025-07-21T20:33:42Z",
+      "url": "https://t0ggles.com/hn"
+    },
+    {
+      "id": 60,
+      "title": "Google CTRs Drop 32% For Top Result After AI Overview Rollout via @sejournal, @MattGSouthern",
+      "summary": "Google's top organic CTR dropped from 28% to 19% after the expansion of AI Overviews, indicating changing user behavior.",
+      "source": "Search Engine Journal",
+      "category": "research",
+      "timestamp": "2025-07-21T20:33:26Z",
+      "url": "https://www.searchenginejournal.com/google-ctrs-drop-32-for-top-result-after-ai-overview-rollout/551730/"
+    },
+    {
+      "id": 61,
+      "title": "New Horizons Could Find Its Way to Proxima Centauri if it Wanted",
+      "summary": "New Horizons spacecraft, humanity's fastest-moving spacecraft, could potentially find its way to Proxima Centauri after exploring Pluto and Arrokoth in the past decade.",
+      "source": "Universe Today",
+      "category": "research",
+      "timestamp": "2025-07-21T20:33:06Z",
+      "url": "https://www.universetoday.com/articles/new-horizons-could-find-its-way-to-proxima-centauri-if-it-wanted"
+    },
+    {
+      "id": 62,
+      "title": "Lost Money on DoubleVerify Holdings, Inc.(DV)? Join Class Action Suit Seeking Recovery – Contact The Gross Law Firm",
+      "summary": "Investors who have lost money on DoubleVerify Holdings, Inc. are being invited to join a class action suit seeking recovery, as announced by The Gross Law Firm.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:32:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119068/0/en/Lost-Money-on-DoubleVerify-Holdings-Inc-DV-Join-Class-Action-Suit-Seeking-Recovery-Contact-The-Gross-Law-Firm.html"
+    },
+    {
+      "id": 63,
+      "title": "Lost Money on Reddit, Inc. (RDDT)? Join Class Action Suit Seeking Recovery – Contact The Gross Law Firm",
+      "summary": "Shareholders of Reddit, Inc. are encouraged to join a class action suit seeking recovery of lost money by contacting The Gross Law Firm in New York.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T20:31:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119066/0/en/Lost-Money-on-Reddit-Inc-RDDT-Join-Class-Action-Suit-Seeking-Recovery-Contact-The-Gross-Law-Firm.html"
+    },
+    {
+      "id": 64,
+      "title": "Fortinet Honors the Life and Contributions of Valued Board Member William H. Neukom",
+      "summary": "Fortinet announced the passing of board member William H. Neukom, honoring his life and contributions.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:30:33Z",
+      "url": "https://financialpost.com/globe-newswire/fortinet-honors-the-life-and-contributions-of-valued-board-member-william-h-neukom"
+    },
+    {
+      "id": 65,
+      "title": "Cyberpunk-inspired Microsoft Copilot Dock gives you a dedicated AI Control Center for your PC",
+      "summary": "Cyberpunk-inspired Microsoft Copilot Dock provides a dedicated AI Control Center for PC users, showcasing applications of AI technology in enhancing user experience.",
+      "source": "Yanko Design",
+      "category": "applications",
+      "timestamp": "2025-07-21T20:30:21Z",
+      "url": "https://www.yankodesign.com/2025/07/21/cyberpunk-inspired-microsoft-copilot-dock-gives-you-a-dedicated-ai-control-center-for-your-pc/"
+    },
+    {
+      "id": 66,
+      "title": "Google Teases Pixel 10 Ahead of August Reveal",
+      "summary": "Google teases the Pixel 10, which appears to have a similar design to the Pixel 9.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:30:04Z",
+      "url": "https://www.cnet.com/tech/mobile/google-teases-pixel-10-ahead-of-august-reveal/"
+    },
+    {
+      "id": 67,
+      "title": "Fortinet Honors the Life and Contributions of Valued Board Member William H. Neukom",
+      "summary": "Fortinet honors the life and contributions of valued board member William H. Neukom",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-21T20:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119050/0/en/Fortinet-Honors-the-Life-and-Contributions-of-Valued-Board-Member-William-H-Neukom.html"
+    },
+    {
+      "id": 68,
+      "title": "reAlpha Tech Corp. Announces $5 Million Registered Direct Offering Priced At-The-Market Under Nasdaq Rules",
+      "summary": "reAlpha Tech Corp. announces a $5 million registered direct offering for their AI-powered real estate technology startup.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T20:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3119052/0/en/reAlpha-Tech-Corp-Announces-5-Million-Registered-Direct-Offering-Priced-At-The-Market-Under-Nasdaq-Rules.html"
+    },
+    {
+      "id": 69,
+      "title": "How marketing’s next era will be powered by AI and human intelligence",
+      "summary": "Marketers are preparing for the next era powered by AI and human intelligence amidst technological disruption, challenging businesses to rethink what's possible.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T20:28:55Z",
+      "url": "https://biztoc.com/x/9d9439a39a9d3c94"
+    },
     {
       "id": 51,
       "title": "Alien: Earth Stars Talk Being the First Line of Defense Against the Iconic Xenomorph",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-21T19:37:44Z",
       "url": "https://freerepublic.com/focus/f-news/4329952/posts"
-    },
-    {
-      "id": 63,
-      "title": "Back-to-school cyber safety: Parent checklist",
-      "summary": "Back-to-school cyber safety checklist for parents to protect children from new digital dangers during the new school year.",
-      "source": "Webroot.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:36:20Z",
-      "url": "https://www.webroot.com/blog/2025/07/21/back-to-school-cyber-safety-parent-checklist"
-    },
-    {
-      "id": 64,
-      "title": "Astronomer’s New CEO Addresses Silver Lining Of Viral Coldplay Scandal In Opening Message",
-      "summary": "Astronomer quickly found a new CEO after the previous one resigned over a viral video scandal. The new CEO addressed the situation in his opening message.",
-      "source": "BroBible",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:36:02Z",
-      "url": "https://brobible.com/culture/article/astronomer-ceo-replacement-coldplay-cheating-video-silver-lining/"
-    },
-    {
-      "id": 65,
-      "title": "Nvidia H20 AI GPU inventory is limited — but Nvidia is making a new B30 model for China to comply with export restrictions",
-      "summary": "Nvidia is launching a new B30 AI GPU model in China to comply with export restrictions, as the inventory for the H20 model is limited. Despite a U.S. policy reversal, Nvidia has decided not to resume production of the H20 AI GPUs.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:33:41Z",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-h20-ai-gpu-inventory-is-limited-but-nvidia-is-making-a-new-b30-model-for-china-to-comply-with-export-restrictions"
-    },
-    {
-      "id": 66,
-      "title": "Conservative Bots on X Post Mixed Messages As MAGA Divide Over Epstein Case Deepens",
-      "summary": "A network of X accounts using artificial intelligence to support the Trump administration are conflicted over messaging as the Epstein case deepens.",
-      "source": "International Business Times",
-      "category": "applications",
-      "timestamp": "2025-07-21T19:32:55Z",
-      "url": "https://www.ibtimes.com/conservative-bots-x-post-mixed-messages-maga-divide-over-epstein-case-deepens-3779051"
-    },
-    {
-      "id": 67,
-      "title": "Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets",
-      "summary": "Airline pricing involves complex systems of fare buckets and inventory controls, which impact scarcity and inequity in pricing. Airlines manage a dynamic inventory of fares divided into booking classes with different prices.",
-      "source": "Getjetback.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:31:43Z",
-      "url": "https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/"
-    },
-    {
-      "id": 68,
-      "title": "Shiba Inu Exec Outlines How Altcoin Season Will Go, And How SHIB Will Perform",
-      "summary": "A Shiba Inu executive outlines the expected path of the upcoming altcoin season and how SHIB will perform, focusing on how capital could rotate through the market and where the SHIB token fits into the cycle.",
-      "source": "Bitcoinist",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:30:43Z",
-      "url": "https://bitcoinist.com/shiba-inu-exec-on-altcoin-season/"
-    },
-    {
-      "id": 51,
-      "title": "A fresh phone hell in the office",
-      "summary": "Younger workers are facing criticism for not saying hello when answering phone calls, highlighting a lack of basic manners in the workplace.",
-      "source": "Financial Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:30:29Z",
-      "url": "https://financialpost.com/financial-times/a-fresh-phone-hell-in-the-office"
-    },
-    {
-      "id": 52,
-      "title": "Scott Bessent turns up the heat on the Fed, demands probe as Powell’s future hangs in balance",
-      "summary": "Scott Bessent calls for probe into Federal Reserve's success as Chairman Powell's future uncertain.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:30:15Z",
-      "url": "https://fortune.com/2025/07/21/scott-bessent-federal-reserve-probe-jerome-powell/"
-    },
-    {
-      "id": 53,
-      "title": "Smart Security, Zero Subscriptions: Reolink launches Elite Floodlight",
-      "summary": "Reolink launches Elite Floodlight, a smart home product with zero subscriptions that provides smart security without the need for extra thought.",
-      "source": "New York Post",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:30:11Z",
-      "url": "https://nypost.com/2025/07/21/shopping/shop-the-reolink-elite-floodlight-wifi-camera-no-subscription-needed/"
-    },
-    {
-      "id": 54,
-      "title": "AIXA Miner Launches New BTC Cloud Mining Contracts Backed by Green Energy as Bitcoin Surges Past $123,000",
-      "summary": "AIXA Miner launches new BTC cloud mining contracts backed by green energy as Bitcoin surges past $123,000",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118992/0/en/AIXA-Miner-Launches-New-BTC-Cloud-Mining-Contracts-Backed-by-Green-Energy-as-Bitcoin-Surges-Past-123-000.html"
-    },
-    {
-      "id": 55,
-      "title": "Faraday Future is back with another wild EV that probably will never get made",
-      "summary": "Faraday Future, an EV startup known for overpromising and under-delivering, has unveiled a new electric car that is unlikely to be produced. The brand has faced criticism for its history of delays and unrealized promises in its 11-year existence.",
-      "source": "The Verge",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:29:48Z",
-      "url": "https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille"
-    },
-    {
-      "id": 56,
-      "title": "New Astronomer CEO Says It's Been a 'Surreal' Few Days",
-      "summary": "New Astronomer CEO Pete DeJoy describes the past few days as surreal after being named interim CEO following a kiss-cam scandal.",
-      "source": "Newser",
-      "category": "startups",
-      "timestamp": "2025-07-21T19:26:53Z",
-      "url": "https://www.newser.com/story/372213/new-astronomer-ceo-says-its-been-a-surreal-few-days.html"
-    },
-    {
-      "id": 57,
-      "title": "micro-swe-agent added to PyPI",
-      "summary": "PyPI now includes Nano SWE Agent, a simple AI software engineering agent called micro-swe-agent.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:25:12Z",
-      "url": "https://pypi.org/project/micro-swe-agent/"
-    },
-    {
-      "id": 58,
-      "title": "Piers Morgan Uncensored 2025.07.21 1080p WEB H264-onX",
-      "summary": "Renowned author Robert Greene discusses the impact of artificial intelligence on our brains and society, raising concerns about the potential negative effects of AI technology.",
-      "source": "Rlsbb.cc",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:22:47Z",
-      "url": "https://post.rlsbb.cc/piers-morgan-uncensored-2025-07-21-1080p-web-h264-onx/"
-    },
-    {
-      "id": 59,
-      "title": "Veteran analyst drops surprise call on Tesla ahead of earnings",
-      "summary": "Analyst makes surprising call on Tesla ahead of earnings, highlighting CEO Elon Musk's eventful year in 2025 which has been focused on issues beyond electric vehicles.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T19:21:58Z",
-      "url": "https://biztoc.com/x/ae280fddb323773e"
-    },
-    {
-      "id": 60,
-      "title": "Britain and ChatGPT maker OpenAI sign new strategic partnership",
-      "summary": "Britain and ChatGPT maker OpenAI sign a new strategic partnership to deepen collaboration on AI security research and invest in British AI infrastructure.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:21:51Z",
-      "url": "https://biztoc.com/x/77a07c50d38621c7"
-    },
-    {
-      "id": 61,
-      "title": "Piers Morgan Uncensored 2025.07.21 1080p WEB H264-onX",
-      "summary": "Robert Greene discusses power, artificial intelligence, and Israel in the context of our brains potentially deteriorating due to technology.",
-      "source": "Rlsbb.ru",
-      "category": "research",
-      "timestamp": "2025-07-21T19:20:41Z",
-      "url": "https://post.rlsbb.ru/piers-morgan-uncensored-2025-07-21-1080p-web-h264-onx/"
-    },
-    {
-      "id": 62,
-      "title": "abstract-compiler added to PyPI",
-      "summary": "abstract-compiler, a natural language compiler, has been added to PyPI",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T19:20:20Z",
-      "url": "https://pypi.org/project/abstract-compiler/"
-    },
-    {
-      "id": 63,
-      "title": "Fake Trump-Epstein Letters Spread Online After Bombshell Report",
-      "summary": "Fake Trump-Epstein letters circulating online after report, raising concerns about misinformation and ethics in AI",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T19:20:17Z",
-      "url": "https://gizmodo.com/fake-trump-epstein-letters-spread-online-after-bombshell-report-2000631869"
     }
   ]
 }
