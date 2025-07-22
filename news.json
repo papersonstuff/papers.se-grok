@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-22T03:14:34.841Z",
+  "lastUpdate": "2025-07-22T04:08:27.956Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Congress MP Syed Naseer Hussain moves notice of motion to discuss Bihar electoral rolls revision",
+      "summary": "Congress MP Syed Naseer Hussain moves notice of motion in Rajya Sabha to discuss Bihar's electoral rolls revision, expressing concerns about potential disenfranchisement.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-21T04:04:04Z",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-mp-syed-naseer-hussain-moves-notice-of-motion-to-discuss-bihar-electoral-rolls-revision/articleshow/122805691.cms"
+    },
+    {
+      "id": 52,
+      "title": "HSBC Raises Booking (BKNG) Price Target, Maintains Buy Rating",
+      "summary": "HSBC raises Booking (BKNG) price target, maintaining buy rating, making it one of the most profitable consumer stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:01:26Z",
+      "url": "https://finance.yahoo.com/news/hsbc-raises-booking-bkng-price-040126027.html"
+    },
+    {
+      "id": 53,
+      "title": "Media Buying Briefing: Have media agencies really spent half their upfront dollars on streaming?",
+      "summary": "Media agencies have spent at least half of their upfront ad dollars on streaming, with most buyers agreeing on this trend. This shift is being driven by several factors.",
+      "source": "Digiday",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:01:00Z",
+      "url": "http://digiday.com/media-buying/media-buying-briefing-have-media-agencies-really-spent-half-their-upfront-dollars-on-streaming/"
+    },
+    {
+      "id": 54,
+      "title": "Nestlé Waters proves with its Lion-winning ‘Sopranos’ ad that TikTok trends and AI stunts aren’t necessary to make an impact",
+      "summary": "Nestlé Waters wins Lion award for 'Sopranos' ad, showing that AI and TikTok trends aren't necessary for impactful marketing. By leaving out generative AI, they created space for 'Sopranos' stars to shine in the campaign.",
+      "source": "Digiday",
+      "category": "innovation",
+      "timestamp": "2025-07-21T04:01:00Z",
+      "url": "http://digiday.com/marketing/nestle-waters-proves-with-its-lion-winning-sopranos-ad-that-tiktok-trends-and-ai-stunts-arent-necessary-to-make-an-impact/"
+    },
+    {
+      "id": 55,
+      "title": "Are your employees using Chinese GenAI tools at work?",
+      "summary": "Nearly one in 12 employees are using Chinese-developed generative AI tools at work, exposing sensitive data. Research from Harmonic Security analyzed the behavior of 14,000 end users in the U.S.",
+      "source": "Help Net Security",
+      "category": "ethics",
+      "timestamp": "2025-07-21T04:00:16Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/21/chinese-genai-workplace-usage/"
+    },
+    {
+      "id": 56,
+      "title": "BCM ESM-HRPL COM-HPC Client Size C module supports up to 24-core Intel Core i9-14900K CPU",
+      "summary": "The BCM ESM-HRPL COM-HPC Client Size C module supports up to a 24-core Intel Core i9-14900K CPU, based on Intel Core 12th to 14th Gen processors.",
+      "source": "CNX Software",
+      "category": "innovation",
+      "timestamp": "2025-07-21T04:00:10Z",
+      "url": "https://www.cnx-software.com/2025/07/21/bcm-esm-hrpl-com-hpc-client-size-c-module-supports-up-to-24-core-intel-core-i9-14900k-cpu/"
+    },
+    {
+      "id": 57,
+      "title": "General Education for Working Learners in the Age of AI",
+      "summary": "Reams have been written about the challenges with general education at US colleges and universities. Students often view general education requirements (gen eds) as 'hurdles' to overcome on their way to the learning that matters to them.",
+      "source": "Facultyfocus.com",
+      "category": "research",
+      "timestamp": "2025-07-21T04:00:00Z",
+      "url": "https://www.facultyfocus.com/articles/teaching-with-technology-articles/general-education-for-working-learners-in-the-age-of-ai/"
+    },
+    {
+      "id": 58,
+      "title": "The role of customer data platforms",
+      "summary": "Customer data platforms play a key role in enhancing the customer experience by integrating with other technologies to utilize customer data effectively.",
+      "source": "ComputerWeekly.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T04:00:00Z",
+      "url": "https://www.computerweekly.com/feature/The-role-of-customer-data-platforms"
+    },
+    {
+      "id": 59,
+      "title": "Democrats’ all-electric USPS fleet sees each truck come with a $6.8 million price tag",
+      "summary": "Democrats' all-electric USPS fleet comes with a $6.8 million price tag per truck, leading to concerns of wasteful government spending in the billions.",
+      "source": "Americanthinker.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/democrats_all_electric_usps_fleet_sees_each_truck_come_with_a_6_8_million_price_tag.html"
+    },
+    {
+      "id": 60,
+      "title": "When it comes to events in 2016, the truth may finally set America free",
+      "summary": "In 2016, the truth about two big lies may be revealed, shedding light on the corruption caused by these falsehoods. The Democrats are accused of spreading half-truths and outright lies to the American people.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/when_it_comes_to_events_in_2016_the_truth_may_finally_set_america_free.html"
+    },
+    {
+      "id": 61,
+      "title": "UBS Raises Monster (MNST) Price Target, Maintains Neutral Rating",
+      "summary": "UBS raised its price target on Monster Beverage Corporation (NASDAQ:MNST) and maintains a neutral rating, considering it as one of the most profitable consumer stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T04:00:00Z",
+      "url": "https://finance.yahoo.com/news/ubs-raises-monster-mnst-price-040000240.html"
+    },
+    {
+      "id": 62,
+      "title": "Wolfe Raises Royal Caribbean (RCL) Price Target, Maintains Outperform Rating",
+      "summary": "Wolfe raises Royal Caribbean (RCL) price target, maintains outperform rating, making it one of the most profitable consumer stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T03:59:58Z",
+      "url": "https://finance.yahoo.com/news/wolfe-raises-royal-caribbean-rcl-035958440.html"
+    },
+    {
+      "id": 63,
+      "title": "Apple (AAPL) iPhone Production Soars as India Gains Prominence Amid Slowing U.S. Demand",
+      "summary": "Apple significantly ramped up iPhone production in the first half of 2025 in India, as the country gains prominence amid slowing U.S. demand, making Apple Inc. (NASDAQ:AAPL) one of the most profitable consumer stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-21T03:59:48Z",
+      "url": "https://finance.yahoo.com/news/apple-aapl-iphone-production-soars-035948543.html"
+    },
+    {
+      "id": 64,
+      "title": "[Fiction] Our Trial",
+      "summary": "A person experiences a simulation, prompting them to question their reality and existence.",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-21T03:56:47Z",
+      "url": "https://www.lesswrong.com/posts/6DzFsRvEoD8vFPWPg/fiction-our-trial"
+    },
+    {
+      "id": 65,
+      "title": "Amazon's Blade Runner Show Is Exciting, But Apple TV+'s Upcoming Cyberpunk Series Could Change Sci-Fi TV Forever",
+      "summary": "As exciting as Prime Video Blade Runner TV show may seem, it will likely not be as groundbreaking as Apple TV+'s upcoming cyberpunk sci-fi series.",
+      "source": "Screen Rant",
+      "category": "innovation",
+      "timestamp": "2025-07-21T03:50:57Z",
+      "url": "https://screenrant.com/apple-tv-plus-neuromancer-change-cyberpunk-amazon-blade-runner-2099/"
+    },
     {
       "id": 51,
       "title": "Q1 Results This Week: Infosys, IDFC First Bank, Bajaj Finance, Paytm Among 280+ Companies To Announce Earnings",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-20T23:40:14Z",
       "url": "https://biztoc.com/x/fb0fc1d2b4066269"
-    },
-    {
-      "id": 52,
-      "title": "Reseñas Fiidom: Best Shopify AI-powered Marketing & Content Solution | Tienda de aplicaciones de Shopify",
-      "summary": "Fiidom offers an AI-powered marketing and content solution for Shopify stores, helping businesses save time and grow. The platform generates product descriptions, blog posts, ad copy, email marketing, and social media posts.",
-      "source": "Shopify.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:30:51Z",
-      "url": "https://apps.shopify.com/fiidom/reviews?locale=es"
-    },
-    {
-      "id": 53,
-      "title": "World’s First AR Glasses with Military-grade Thermal Imaging and Sonar Detection give you Superhuman Sight",
-      "summary": "World’s First AR Glasses with Military-grade Thermal Imaging and Sonar Detection provide users with superhuman sight, offering a groundbreaking advancement in wearable technology.",
-      "source": "Yanko Design",
-      "category": "innovation",
-      "timestamp": "2025-07-20T23:30:34Z",
-      "url": "https://www.yankodesign.com/2025/07/20/worlds-first-ar-glasses-with-military-grade-thermal-imaging-and-sonar-detection-give-you-superhuman-sight/"
-    },
-    {
-      "id": 54,
-      "title": "Vinod Khosla says Windsurf's founders abandoned their team: 'I definitely would not work with their founders next time'",
-      "summary": "Venture capitalist Vinod Khosla criticizes Windsurf's founders for leaving the team for Google DeepMind.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T23:29:26Z",
-      "url": "https://biztoc.com/x/b9059b081db493cf"
-    },
-    {
-      "id": 55,
-      "title": "Perplexity Wants to Add Its Comet AI Browser to Smartphones",
-      "summary": "Perplexity AI aims to add its Comet AI browser to smartphones by partnering with mobile device makers.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-20T23:29:14Z",
-      "url": "https://biztoc.com/x/6c9277bb07c5a761"
-    },
-    {
-      "id": 56,
-      "title": "Vinod Khosla says Windsurf's founders abandoned their team: 'I definitely would not work with their founders next time'",
-      "summary": "Vinod Khosla criticizes Windsurf's founders for leaving team to work for Google Deepmind after deal with OpenAI fell through.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-20T23:23:10Z",
-      "url": "https://www.businessinsider.com/vinod-khosla-windsurf-founders-google-deepmind-openai-2025-7"
-    },
-    {
-      "id": 57,
-      "title": "Target Halting Practice of Price-Matching Amazon and Walmart",
-      "summary": "Target will no longer price-match products from competitors like Walmart and Amazon, starting July 28.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-20T23:21:12Z",
-      "url": "http://www.pymnts.com/news/retail/2025/target-halting-practice-of-price-matching-amazon-and-walmart/"
-    },
-    {
-      "id": 58,
-      "title": "Donald Trump posts a video of Barack Obama getting Arrested",
-      "summary": "Donald Trump posted a controversial AI video of Barack Obama being arrested and put in prison.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T23:20:44Z",
-      "url": "https://freerepublic.com/focus/f-news/4329801/posts"
-    },
-    {
-      "id": 59,
-      "title": "Science is almost ready to \"redefine the second\" with this new research",
-      "summary": "Science is almost ready to redefine the second with their new research on measuring time even more accurately.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-20T23:20:02Z",
-      "url": "https://www.neowin.net/news/science-is-almost-ready-to-redefine-the-second-with-this-new-research/"
-    },
-    {
-      "id": 60,
-      "title": "A MAGA bot network on X is divided over the Trump-Epstein backlash (Kevin Collier/NBC News)",
-      "summary": "A MAGA bot network on X is divided over the Trump-Epstein backlash, with researchers finding fake accounts supporting the Trump administration.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T23:20:01Z",
-      "url": "https://www.memeorandum.com/250720/p60"
-    },
-    {
-      "id": 61,
-      "title": " Line-ups confirmed: Independiente host Talleres in Avellaneda",
-      "summary": "Line-ups confirmed: Independiente host Talleres de Córdoba in Avellaneda for matchday 2 of the Clausura Tournament of the Professional League",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:19:00Z",
-      "url": "https://onefootball.com/en/news/line-ups-confirmed-independiente-host-talleres-in-avellaneda-41402148"
-    },
-    {
-      "id": 62,
-      "title": "Victoria Beckham Shares Husband David's 'Terrible' DIY Haircut",
-      "summary": "Victoria Beckham shares husband David's 'terrible' DIY haircut, generated by AI voice. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-20T23:18:15Z",
-      "url": "https://biztoc.com/x/b4d3bc7b833c4574"
-    },
-    {
-      "id": 63,
-      "title": "Show HN: PaletAI – App to create, play, and share AI‑generated games",
-      "summary": "PaletAI is a new mobile app that allows users to create, play, and share AI-generated games without any coding required.",
-      "source": "Apple Newsroom",
-      "category": "startups",
-      "timestamp": "2025-07-20T23:18:12Z",
-      "url": "https://apps.apple.com/us/app/paletai/id6745572623"
-    },
-    {
-      "id": 64,
-      "title": "keywordsai-sdk 0.4.55",
-      "summary": "Keywords AI SDK version 0.4.55 enables seamless interaction with the Keywords AI API for enhanced functionality.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:15:43Z",
-      "url": "https://pypi.org/project/keywordsai-sdk/0.4.55/"
-    },
-    {
-      "id": 51,
-      "title": "Vitor Roque steps up as Palmeiras beat Atlético-MG, Hulk scores a screamer",
-      "summary": "Vitor Roque steps up as Palmeiras beat Atlético-MG, Hulk scores a screamer in a 3-2 victory for Palmeiras in the 2025 Brasileirão. Best moments coming soon.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-20T23:14:00Z",
-      "url": "https://onefootball.com/en/news/vitor-roque-steps-up-as-palmeiras-beat-atletico-mg-hulk-scores-a-screamer-41402075"
-    },
-    {
-      "id": 52,
-      "title": "Neuro-Contextual Advertising: The Rise Of Neuroscience & Agentic AI in Marketing",
-      "summary": "Neuro-Contextual Advertising is on the rise, combining neuroscience and AI to personalize marketing efforts. The article explores the benefits of utilizing neuroscience in advertising strategies.",
-      "source": "B&T",
-      "category": "applications",
-      "timestamp": "2025-07-20T23:11:14Z",
-      "url": "https://www.bandt.com.au/neuro-contextual-advertising-the-rise-of-neuroscience-agentic-ai-in-marketing/"
     }
   ]
 }
