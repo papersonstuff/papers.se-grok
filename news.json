@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T07:52:35.695Z",
+  "lastUpdate": "2025-07-22T08:23:35.065Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Unitree files for IPO as JD.com doubles down on embodied AI — market reacts",
+      "summary": "Unitree Robotics files for IPO with Citic Securities as advisor, showcasing increased interest in embodied AI technology by companies like JD.com.",
+      "source": "Digitimes",
+      "category": "startups",
+      "timestamp": "2025-07-21T08:22:19Z",
+      "url": "https://www.digitimes.com/news/a20250721VL208/ipo-market-robotics.html"
+    },
+    {
+      "id": 52,
+      "title": "Specialty Papers Global Market Report 2026-2036, with Comprehensive Profiles of 37 Leading Specialty Papers Manufacturers and Technology Providers",
+      "summary": "Specialty papers are driving the sustainable packaging revolution as pivotal enablers of the circular economy. The market is witnessing innovations with advanced materials, including the integration of nanocellulose technologies like MFC and CNF.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:22:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118485/28124/en/Specialty-Papers-Global-Market-Report-2026-2036-with-Comprehensive-Profiles-of-37-Leading-Specialty-Papers-Manufacturers-and-Technology-Providers.html"
+    },
+    {
+      "id": 53,
+      "title": "Louisiana State Employees Retirement System Makes New Investment in Penguin Solutions, Inc. (NASDAQ:PENG)",
+      "summary": "Louisiana State Employees Retirement System made a new investment in Penguin Solutions, Inc. during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-21T08:21:14Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/louisiana-state-employees-retirement-system-makes-new-investment-in-penguin-solutions-inc-nasdaqpeng/"
+    },
+    {
+      "id": 54,
+      "title": "DRML Miner Launches Global Mobile Cloud Mining Platform - Earn Passive Income with XRP",
+      "summary": "DRML Miner launches global mobile cloud mining platform for earning passive income with XRP.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-21T08:21:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118484/0/en/DRML-Miner-Launches-Global-Mobile-Cloud-Mining-Platform-Earn-Passive-Income-with-XRP.html"
+    },
+    {
+      "id": 55,
+      "title": "videoseal added to PyPI",
+      "summary": "Facebook AI Research has added VideoSeal, a video watermarking library, to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:20:28Z",
+      "url": "https://pypi.org/project/videoseal/"
+    },
+    {
+      "id": 56,
+      "title": "Tesla Retro-Futuristic Diner Expansion: Elon Musk Announces Plans To Expand Tesla’s Food and Entertainment Hubs to Major Cities at Supercharger Sites",
+      "summary": "Elon Musk announces plans to expand Tesla's retro-futuristic diner to major cities at Supercharger sites to improve customer satisfaction with food and entertainment offerings.",
+      "source": "LatestLY",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:19:46Z",
+      "url": "https://www.latestly.com/socially/auto/tesla-retro-futuristic-diner-expansion-elon-musk-announces-plans-to-expand-teslas-food-and-entertainment-hubs-to-major-cities-at-supercharger-sites-7010502.html"
+    },
+    {
+      "id": 57,
+      "title": "EQT Calls on Congress to Slash Gas Project Approval Times",
+      "summary": "EQT chief executive urges Congress to cut approval times for gas projects to enhance U.S. energy competitiveness.",
+      "source": "OilPrice.com",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:19:20Z",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EQT-Calls-on-Congress-to-Slash-Gas-Project-Approval-Times.html"
+    },
+    {
+      "id": 58,
+      "title": "Louisiana State Employees Retirement System Buys New Shares in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN)",
+      "summary": "Louisiana State Employees Retirement System purchased a new position in Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) during the 1st quarter, according to its most recent 13F filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:18:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/louisiana-state-employees-retirement-system-buys-new-shares-in-grid-dynamics-holdings-inc-nasdaqgdyn/"
+    },
+    {
+      "id": 59,
+      "title": "Cwm LLC Acquires 1,074 Shares of Monolithic Power Systems, Inc. (NASDAQ:MPWR)",
+      "summary": "Cwm LLC increased its holdings in Monolithic Power Systems, Inc. by 79.0% in the 1st quarter, according to its most recent filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:18:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/21/cwm-llc-acquires-1074-shares-of-monolithic-power-systems-inc-nasdaqmpwr/"
+    },
+    {
+      "id": 60,
+      "title": "Generative AI may create a socioeconomic tipping point through labour displacement",
+      "summary": "Generative AI may create a socioeconomic tipping point through labour displacement, according to a group of researchers. The potential impact of AI on the workforce raises concerns about a potential societal shift in the future.",
+      "source": "Lse.ac.uk",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:18:07Z",
+      "url": "http://eprints.lse.ac.uk/128885/"
+    },
+    {
+      "id": 61,
+      "title": "Beyond Affordability: Harnessing Premium for Profitability in the Travel Market",
+      "summary": "Discover how premiumisation can lead to sustainable growth for travel businesses, according to the 'Beyond Affordability' report.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:18:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118480/28124/en/Beyond-Affordability-Harnessing-Premium-for-Profitability-in-the-Travel-Market.html"
+    },
+    {
+      "id": 62,
+      "title": "BTU Result 2025 declared at btuexam.in: Direct link to download scorecards here",
+      "summary": "BTU Result 2025 declared for first-semester B.Tech programmes including AI specialisation. Results available on July 19, 2025, at btuexam.in.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:15:38Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/btu-result-2025-declared-at-btuexam-in-direct-link-to-download-scorecards-here/articleshow/122810720.cms"
+    },
+    {
+      "id": 63,
+      "title": "Enterprises can no longer ignore GenAI, says Tata Communications CFO Kabir Shakir",
+      "summary": "Enterprises can no longer ignore GenAI technology, warns Tata Communications CFO Kabir Shakir, discusses tariff wars, 5G, and Q1 performance.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:14:58Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/enterprises-can-no-longer-ignore-genai-says-tata-communications-cfo-kabir-shakir/article69837322.ece"
+    },
+    {
+      "id": 64,
+      "title": "AI Skilling | Empower Tomorrow’s Innovators",
+      "summary": "Microsoft is focusing on AI skilling to empower future innovators.",
+      "source": "Microsoft.com",
+      "category": "applications",
+      "timestamp": "2025-07-21T08:13:50Z",
+      "url": "https://microsoft.com/en/EMEA/empower-tomorrows-innovators"
+    },
+    {
+      "id": 65,
+      "title": "Veterinary Dermatology - Company Evaluation Report 2025 | Zoetis, Elanco, and Boehringer Ingelheim Dominate with Global Reach, Innovative Portfolios, and Strategic Expansion",
+      "summary": "Veterinary Dermatology Market Companies Quadrant offers a comprehensive analysis highlighting key players, technological advancements, and emerging trends with projected growth from USD 20.11 billion in 2025.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118473/28124/en/Veterinary-Dermatology-Company-Evaluation-Report-2025-Zoetis-Elanco-and-Boehringer-Ingelheim-Dominate-with-Global-Reach-Innovative-Portfolios-and-Strategic-Expansion.html"
+    },
+    {
+      "id": 66,
+      "title": "Urinary Incontinence Devices Company Evaluation Report 2025 | Coloplast, B. Braun, and Johnson & Johnson Lead the Market with Innovation, Global Expansion, and Diversified Healthcare Portfolios",
+      "summary": "The Urinary Incontinence Devices Companies Quadrant report evaluates leading companies such as Coloplast, B. Braun, and Johnson & Johnson for their innovation in the global urinary incontinence market with technological advancements and diversified healthcare portfolios.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118471/28124/en/Urinary-Incontinence-Devices-Company-Evaluation-Report-2025-Coloplast-B-Braun-and-Johnson-Johnson-Lead-the-Market-with-Innovation-Global-Expansion-and-Diversified-Healthcare-Portfo.html"
+    },
+    {
+      "id": 67,
+      "title": "China and Global Automotive Intelligent Cockpit SoC Research Report 2025 | Localization Rate Exceeds 10%, and AI-oriented Cockpit SoC Will Become the Mainstream in the Next 2-3 Years",
+      "summary": "Chinese market sees over 10% localization in intelligent cockpit SoCs, with firms like SemiDrive, Huawei HiSilicon, and SiEngine rising. AI-focused SoCs, transitioning to advanced nm processes, aim to mainstream in 2-3 years.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-21T08:09:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118470/28124/en/China-and-Global-Automotive-Intelligent-Cockpit-SoC-Research-Report-2025-Localization-Rate-Exceeds-10-and-AI-oriented-Cockpit-SoC-Will-Become-the-Mainstream-in-the-Next-2-3-Years.html"
+    },
+    {
+      "id": 68,
+      "title": "Galaxy Z Fold7, Z Flip7 Pre-orders Match S25 Series, Setting New Benchmark for Flagships in India",
+      "summary": "Pre-orders for Samsung’s Galaxy Z Fold7, Z Flip7, and Z Flip7 FE in India reached 210,000 in the first 48 hours, indicating a growing interest in foldable smartphones among consumers.",
+      "source": "Samsung.com",
+      "category": "innovation",
+      "timestamp": "2025-07-21T08:08:58Z",
+      "url": "https://news.samsung.com/in/galaxy-z-fold7-z-flip7-pre-orders-match-s25-series-setting-new-benchmark-for-flagships-in-india"
+    },
+    {
+      "id": 69,
+      "title": "SS&C Technologies to Acquire Calastone",
+      "summary": "SS&C Technologies Holdings, Inc. announced acquisition of Calastone, the largest global funds network and technology provider for wealth and asset management industries.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-21T08:08:49Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ssc-technologies-to-acquire-calastone"
+    },
     {
       "id": 51,
       "title": "Ace Investor Vinod Khosla Blasts Windsurf Founders For Abandoning Team After $3 Billion OpenAI Deal Fell Apart: 'I Would Not Work With The WeWork Founder Either'",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T07:10:59Z",
       "url": "https://www.etfdailynews.com/2025/07/21/servicenow-now-expected-to-announce-quarterly-earnings-on-wednesday/"
-    },
-    {
-      "id": 63,
-      "title": "Newsletter Publisher 6AM City Buys AI Startup Good Daily to Expand to 400+ Markets",
-      "summary": "Newsletter Publisher 6AM City buys AI startup Good Daily to expand to 400+ markets, using AI to enter seed markets before hiring human staff.",
-      "source": "Adweek",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:10:48Z",
-      "url": "https://www.adweek.com/media/6am-city-ai-newsletter-good-daily/"
-    },
-    {
-      "id": 64,
-      "title": "Calls To Change Walt Disney's Face After Comparison To My Pillow's Mike Lindell",
-      "summary": "Calls for changing Walt Disney's face on Audio-Animatronic model after comparisons to My Pillow's Mike Lindell",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-21T07:10:27Z",
-      "url": "https://www.forbes.com/sites/carolinereid/2025/07/21/calls-to-change-walt-disneys-face-after-comparison-to-my-pillows-mike-lindell/"
-    },
-    {
-      "id": 65,
-      "title": "Senate Hearing Debates AI Training on Copyrighted Works [Publishers Weekly]",
-      "summary": "Senate hearing debates AI training on copyrighted works, with Senator Josh Hawley suggesting a need to change the law if tech companies collecting content for AI training is not considered copyright infringement.",
-      "source": "Publishers Weekly",
-      "category": "ethics",
-      "timestamp": "2025-07-21T07:10:06Z",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/98233-senate-hearing-debates-ai-training-on-copyrighted-works.html"
-    },
-    {
-      "id": 66,
-      "title": "The Institute for Coaching Innovation Announces Rebrand from Inc. 5000 CoachDiversity Institute",
-      "summary": "The Institute for Coaching Innovation rebrands from CoachDiversity Institute, focusing on executive coaching and inclusive leadership development.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-21T07:09:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118437/0/en/The-Institute-for-Coaching-Innovation-Announces-Rebrand-from-Inc-5000-CoachDiversity-Institute.html"
-    },
-    {
-      "id": 67,
-      "title": "Reviewing Nebius Group (NASDAQ:NBIS) & Donnelley Financial Solutions (NYSE:DFIN)",
-      "summary": "Nebius Group and Donnelley Financial Solutions, both computer and technology companies, are being compared for investment potential based on their profitability.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-21T07:08:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/reviewing-nebius-group-nasdaqnbis-donnelley-financial-solutions-nysedfin/"
-    },
-    {
-      "id": 51,
-      "title": "Nothing Phone 3 vs. Phone 2: An expensive, hard-to-justify upgrade",
-      "summary": "Nothing Phone 3 vs. Phone 2: An expensive, hard-to-justify upgrade - Although it took nearly to two years for Nothing to make a Phone 2 successor, the Phone 3 is complicated.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-21T06:51:59Z",
-      "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-3-vs-phone-2"
-    },
-    {
-      "id": 52,
-      "title": "Government to introduce AI facial recognition at major railway stations to track sex offenders",
-      "summary": "Government plans to introduce AI facial recognition at major railway stations to track sex offenders in order to combat crimes against women. Over 20 lakh sex offenders are listed in a national database, sparking debate among lawyers.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T06:46:05Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/government-to-introduce-ai-facial-recognition-at-major-railway-stations-to-track-sex-offenders/articleshow/122808470.cms"
-    },
-    {
-      "id": 53,
-      "title": "I still prefer my Google Pixel 9 Pro over the expensive flagships - and it's not even close",
-      "summary": "The Google Pixel 9 Pro outperforms expensive flagships in terms of price, features, and performance, making it the preferred choice for many users.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-21T06:45:13Z",
-      "url": "https://www.zdnet.com/article/i-still-prefer-my-google-pixel-9-pro-over-the-expensive-flagships-and-its-not-even-close/"
-    },
-    {
-      "id": 54,
-      "title": "From networks to independence: Why more creatives are making the leap",
-      "summary": "More creatives are leaving network agencies to start their own businesses as agencies consolidate or close down, with industry experts explaining the reasons behind this migration.",
-      "source": "Creative Boom",
-      "category": "startup",
-      "timestamp": "2025-07-21T06:45:00Z",
-      "url": "https://www.creativeboom.com/insight/from-networks-to-independence-why-more-creatives-are-making-the-leap/"
-    },
-    {
-      "id": 55,
-      "title": "Garmin Vivoactive 6 vs. Google Pixel Watch 3: Casual smartwatches, compared",
-      "summary": "Garmin Vivoactive 6 and Google Pixel Watch 3 compared as casual smartwatches, with a focus on mainstream fitness users and Wear OS functionality.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-21T06:44:15Z",
-      "url": "https://www.androidcentral.com/wearables/garmin/garmin-vivoactive-6-vs-google-pixel-watch-3"
-    },
-    {
-      "id": 56,
-      "title": "World's First Full-Link Smart Home Ecosystem Debuts in Guangzhou",
-      "summary": "World's First Full-Link Smart Home Ecosystem Debuts in Guangzhou with the unveiling of a historic leap for smart home technology at the Global Smart Ecosystem Summit.",
-      "source": "Antaranews.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T06:43:48Z",
-      "url": "https://en.antaranews.com/news/367761/worlds-first-full-link-smart-home-ecosystem-debuts-in-guangzhou"
-    },
-    {
-      "id": 57,
-      "title": "spounge-proto-py 0.2.1",
-      "summary": "spounge-proto-py 0.2.1 has been released, which generates protobuf Python packages for the Spounge AI ecosystem microservices.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-21T06:43:47Z",
-      "url": "https://pypi.org/project/spounge-proto-py/0.2.1/"
-    },
-    {
-      "id": 58,
-      "title": "How to Add Smart AI Agents to Your Websites in 2025",
-      "summary": "How to Add Smart AI Agents to Your Websites in 2025 - Imagine this: a potential customer visits your website late at night with a pressing question. There’s no one available to assist, and they leave, frustrated, never to return. Now, picture the same scenario, but this time, a smart AI agent instantly answers t…",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-21T06:38:18Z",
-      "url": "https://www.geeky-gadgets.com/adding-smart-ai-agents-to-websites-guide-2025/"
-    },
-    {
-      "id": 59,
-      "title": "Digital Realty Trust, Inc. (NYSE:DLR) Receives Average Recommendation of “Moderate Buy” from Analysts",
-      "summary": "Digital Realty Trust, Inc. (NYSE:DLR) has been given a ",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T06:37:04Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/digital-realty-trust-inc-nysedlr-receives-average-recommendation-of-moderate-buy-from-analysts/"
-    },
-    {
-      "id": 60,
-      "title": "Germany’s Top Firms Launch Investment Push to Help Revive Growth",
-      "summary": "Germany's top firms launch a €100 billion investment push to help revive economic growth in the nation.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-21T06:32:49Z",
-      "url": "https://financialpost.com/pmn/business-pmn/germanys-top-firms-launch-investment-push-to-help-revive-growth"
-    },
-    {
-      "id": 61,
-      "title": "Explained: Why England will not take a knee before Euros semi-final after racial abuse of Jess Carter",
-      "summary": "England will not take a knee before Euros semi-final due to racial abuse of Jess Carter, highlighting concerns over lack of action against racism in football.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-21T06:31:02Z",
-      "url": "https://sports.yahoo.com/article/explained-why-england-not-knee-063102850.html"
-    },
-    {
-      "id": 62,
-      "title": "CNBC Daily Open: The silver lining of positive earnings could be too blinding",
-      "summary": "Investors are optimistic despite upcoming tariffs deadline, thanks to positive earnings season.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-21T06:30:02Z",
-      "url": "https://www.cnbc.com/2025/07/21/silver-lining-of-positive-earnings-may-be-too-blinding.html"
-    },
-    {
-      "id": 63,
-      "title": "Google Translate is getting closer to understanding animal language",
-      "summary": "Google Translate is working on understanding animal language with the help of advanced AI algorithms.",
-      "source": "TalkAndroid",
-      "category": "research",
-      "timestamp": "2025-07-21T06:30:00Z",
-      "url": "https://www.talkandroid.com/511994-google-translate-is-getting-closer-to-understanding-animal-language/"
-    },
-    {
-      "id": 51,
-      "title": "Stephens Begins Coverage on Snowflake (NYSE:SNOW)",
-      "summary": "Stephens began coverage on Snowflake (NYSE:SNOW) with an overweight rating and a $261.00 price target, joining other analysts in issuing research reports on the stock.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-21T06:22:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/21/stephens-begins-coverage-on-snowflake-nysesnow/"
     }
   ]
 }
