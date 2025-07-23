@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-23T22:44:20.702Z",
+  "lastUpdate": "2025-07-23T22:55:04.978Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Cramer's Lightning Round: Don't buy UPS",
+      "summary": "Jim Cramer advises against buying UPS during the lightning round segment of his show 'Mad Money'.",
+      "source": "CNBC",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:54:36Z",
+      "url": "https://www.cnbc.com/2025/07/22/cramers-lightning-round-dont-buy-ups.html"
+    },
+    {
+      "id": 52,
+      "title": "Google Q2 Earnings Preview: First Hyperscaler Out of the Gate",
+      "summary": "Google's Q2 earnings preview reveals the mounting costs of AI infrastructure and provides insight into the profitability of Search, YouTube ads, and Cloud services.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:52:49Z",
+      "url": "https://finance.yahoo.com/news/google-q2-earnings-preview-first-225249121.html"
+    },
+    {
+      "id": 53,
+      "title": "Asian Traders Optimistic as S&P 500 Record Holds: Markets Wrap",
+      "summary": "Asian traders are optimistic as S&P 500 record holds, with markets awaiting megacap earnings season and tariff developments. Bond yields and the dollar retreated.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:51:41Z",
+      "url": "https://financialpost.com/pmn/business-pmn/asian-traders-optimistic-as-sp-500-record-holds-markets-wrap"
+    },
+    {
+      "id": 54,
+      "title": "OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound",
+      "summary": "OBS Studio Snap App has received a major update with AI plugins on the way, thanks to Canonical rebasing the software on Core24 and switching the source code.",
+      "source": "Omgubuntu.co.uk",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:50:00Z",
+      "url": "https://www.omgubuntu.co.uk/2025/07/obs-studio-snap-update-core24-plugins"
+    },
+    {
+      "id": 55,
+      "title": "One in six US workers pretends to use AI to please the bosses",
+      "summary": "One in six US workers pretends to use AI at work to please their bosses, highlighting the real issue of AI-nxiety causing strange behavior in the workplace.",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:49:44Z",
+      "url": "https://www.theregister.com/2025/07/22/ai_anxiety_us_workers/"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI CEO Sam Altman warns of an AI ‘fraud crisis’ | CNN Business",
+      "summary": "OpenAI CEO Sam Altman warns of an AI ‘fraud crisis’ due to the potential for bad actors using artificial intelligence to impersonate others.",
+      "source": "CNN",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:48:39Z",
+      "url": "https://www.cnn.com/2025/07/22/tech/openai-sam-altman-fraud-crisis"
+    },
+    {
+      "id": 57,
+      "title": "The Administration Wants Military Women to Know Their Place",
+      "summary": "Pete Hegseth appears to be advocating for the removal of women from top positions in the U.S. military, raising ethical concerns about gender discrimination and equality.",
+      "source": "The Atlantic",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:48:00Z",
+      "url": "https://www.theatlantic.com/newsletters/archive/2025/07/hegseths-purge-of-women-from-us-military-leadership/683631/"
+    },
+    {
+      "id": 58,
+      "title": "People Click Links Less Frequently When AI Summary Appears on Google Search, Study Shows",
+      "summary": "People click links less frequently when AI summary appears on Google search, according to a new study by Pew Research.",
+      "source": "CNET",
+      "category": "research",
+      "timestamp": "2025-07-22T22:46:56Z",
+      "url": "https://www.cnet.com/tech/services-and-software/people-click-links-less-frequently-when-ai-summary-appears-on-google-search-study-shows/"
+    },
+    {
+      "id": 59,
+      "title": "The Future Of Link Building: Stats And Takeaways You Should Know - fatjoe.",
+      "summary": "fatjoe conducted a survey of over 500 professional link building SEOs to determine the future of link building in 2025 and beyond.",
+      "source": "Fatjoe.com",
+      "category": "research",
+      "timestamp": "2025-07-22T22:46:36Z",
+      "url": "https://fatjoe.com/blog/link-building-stats/"
+    },
+    {
+      "id": 60,
+      "title": "Harrison Ford stormed off 'The View' after clash with Joy Behar?",
+      "summary": "Actor Harrison Ford stormed off 'The View' after clash with host Joy Behar over questions about his views on politics and current events.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:46:00Z",
+      "url": "https://www.snopes.com//fact-check/harrison-ford-view-joy-behar/"
+    },
+    {
+      "id": 61,
+      "title": "Inforcer raises $35M to help MSPs automate Microsoft 365 security for SMBs",
+      "summary": "Inforcer raises $35M to help MSPs automate Microsoft 365 security for SMBs - Microsoft 365 policy management platform startup inforcer Ltd. announced $35 million in new funding to help managed service providers scale and automate deployment of Microsoft 365 security and AI solutions.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-22T22:45:46Z",
+      "url": "https://siliconangle.com/2025/07/22/inforcer-raises-35m-help-msps-automate-microsoft-365-security-smbs/"
+    },
     {
       "id": 51,
       "title": "OpenAI partners with Oracle to develop another 4.5 gigawatts of data center capacity",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T21:35:44Z",
       "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms"
-    },
-    {
-      "id": 56,
-      "title": "Lumma infostealer malware returns after law enforcement disruption",
-      "summary": "The Lumma infostealer malware operation is gradually resuming activities following a massive law enforcement operation in May, which resulted in the seizure of 2,300 domains and parts of its infrastructure.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:34:42Z",
-      "url": "https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/"
-    },
-    {
-      "id": 57,
-      "title": "Google quietly explores AI licensing project with big news orgs",
-      "summary": "Google is working on an AI licensing project with major news organizations to address the challenges AI poses for news companies.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:33:55Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-quietly-explores-ai-licensing-project-with-big-news-orgs.html"
-    },
-    {
-      "id": 58,
-      "title": "⚠️Attention River: Rosario Central closing in on Simón",
-      "summary": "Rosario Central is close to acquiring Santiago Simón after Marcelo Gallardo deemed him dispensable. This move is part of the club's efforts to strengthen their squad for the upcoming season.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T21:29:00Z",
-      "url": "https://onefootball.com/en/news/attention-river-rosario-central-closing-in-on-simon-41411196"
-    },
-    {
-      "id": 59,
-      "title": "AI is On Fire. But Will There Be Enough Decacorn Exits?",
-      "summary": "Per new Stanford research, only a small percentage of US-based VC-backed unicorns have achieved decacorn status at exit. With many unicorns still waiting for an exit, there are concerns about whether there will be enough $10B+ exits.",
-      "source": "Saastr.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T21:27:59Z",
-      "url": "https://www.saastr.com/view-ilya-strebulaevs-graphic-link-ilya-strebulaevilya-strebulaev-2ndinfluencer-2nd-professor-at-stanford-bestselling-author-innovation-venture-capital-private/"
-    },
-    {
-      "id": 51,
-      "title": "Sen. Mike Lee posts, deletes fake resignation letter by Fed Chair Powell: Reports (Kevin Breuninger/CNBC)",
-      "summary": "Sen. Mike Lee posts and deletes fake resignation letter supposedly generated by AI, raising ethical concerns.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T21:15:01Z",
-      "url": "https://www.memeorandum.com/250722/p131"
-    },
-    {
-      "id": 52,
-      "title": "Four Things I Learned at the Katy Perry Concert",
-      "summary": "A review of last night's Katy Perry concert at Climate Pledge Arena in Seattle.",
-      "source": "TheStranger.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:15:00Z",
-      "url": "https://www.thestranger.com/music/2025/07/22/80160912/four-things-i-learned-at-the-katy-perry-concert"
-    },
-    {
-      "id": 53,
-      "title": "Trees Count 2025 lets nature-loving New Yorkers become census takers for the city’s trees",
-      "summary": "Trees Count 2025 allows New Yorkers to participate in the city's tree census and map the urban forest",
-      "source": "Time Out",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:14:51Z",
-      "url": "https://www.timeout.com/newyork/news/trees-count-2025-lets-nature-loving-new-yorkers-become-census-takers-for-the-citys-trees-072225"
-    },
-    {
-      "id": 54,
-      "title": "Translating Everything with LLMs",
-      "summary": "Using LLMs to translate AI Safety papers into every major language could be a beneficial idea, as it would make important information more accessible globally.",
-      "source": "Lesswrong.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:13:56Z",
-      "url": "https://www.lesswrong.com/posts/CHD2eu7znhsX6HLjn/translating-everything-with-llms"
-    },
-    {
-      "id": 55,
-      "title": "Microsoft finds China-linked hackers are targeting SharePoint deployments",
-      "summary": "Microsoft discovers China-linked hackers targeting SharePoint deployments",
-      "source": "SiliconANGLE News",
-      "category": "research",
-      "timestamp": "2025-07-22T21:13:09Z",
-      "url": "https://siliconangle.com/2025/07/22/microsoft-finds-china-linked-hackers-targeting-sharepoint-deployments/"
-    },
-    {
-      "id": 56,
-      "title": "Show HN: Checklist Genie - Create Sharable Checklists w/Just Your Voice and AI",
-      "summary": "Checklist Genie is an AI-powered app that allows users to create and share checklists using their voice or a photo. The app makes it easy to track daily, weekly, and monthly routines with its smart and simple interface.",
-      "source": "Checklistgenie.app",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:12:46Z",
-      "url": "https://checklistgenie.app"
-    },
-    {
-      "id": 57,
-      "title": "Qwen3-Coder: Agentic Coding in the World",
-      "summary": "Qwen3-Coder, an agentic code model, is introduced by Hugging Face. It offers a powerful variant called Qwen3-Coder-480B-A35B-Instruct.",
-      "source": "Github.io",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:12:30Z",
-      "url": "https://qwenlm.github.io/blog/qwen3-coder/"
     }
   ]
 }
