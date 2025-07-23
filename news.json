@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-23T23:16:37.705Z",
+  "lastUpdate": "2025-07-23T23:40:50.948Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears",
+      "summary": "OpenAI CEO convinces Oracle to bring 4.5GW of datacenter capacity online in the US for Stargate initiative.",
+      "source": "Theregister.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:36:39Z",
+      "url": "https://www.theregister.com/2025/07/22/openai_oracle_gpus/"
+    },
+    {
+      "id": 52,
+      "title": "Magentic Raises $5.5 Million for AI Agents for Supply Chains",
+      "summary": "Magentic raised $5.5 million in funding to accelerate its AI agent platform for supply chains, which aims to find opportunities for savings in global manufacturing. The platform can be deployed to help companies streamline operations and reduce costs.",
+      "source": "pymnts.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:35:09Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/magentic-raises-5-5-million-for-ai-agents-for-supply-chains/"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: I built a tool that automates cold DMs on Twitter",
+      "summary": "Show HN: A tool called DMpro automates cold DMs on Twitter, allowing users to send 500 messages daily to leads. The tool helps scrape leads and run automated campaigns, with a lifetime access option available for $299.",
+      "source": "Dmpro.ai",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:32:56Z",
+      "url": "https://www.dmpro.ai/"
+    },
+    {
+      "id": 54,
+      "title": "“I Am the Gap Between Knowing and Saying”: The En Dash Responds to the Em Dash",
+      "summary": "A response by the En Dash to the Em Dash, expressing its role as the gap between knowing and saying. The En Dash reflects on serving between various entities and objects, highlighting its unique purpose.",
+      "source": "Mcsweeneys.net",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:31:00Z",
+      "url": "https://www.mcsweeneys.net/articles/i-am-the-gap-between-knowing-and-saying-the-en-dash-responds-to-the-em-dash"
+    },
+    {
+      "id": 55,
+      "title": "Donald Trump Reacts To Newly-Surfaced Photos With Jeffrey Epstein",
+      "summary": "President Donald Trump responds to newly-surfaced photos with Jeffrey Epstein at his 1993 wedding, raising ethical concerns and questions about their past relationship.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T23:30:21Z",
+      "url": "https://biztoc.com/x/0dbf8d274cc272ed"
+    },
+    {
+      "id": 56,
+      "title": "AI demand drives up electricity supply costs in largest US market to record high",
+      "summary": "AI demand drives up electricity supply costs in largest US market, causing grid operator PJM to pay 10% more to meet soaring energy needs",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T23:30:11Z",
+      "url": "https://biztoc.com/x/856a6c31568ecac9"
+    },
+    {
+      "id": 57,
+      "title": "News 7/23/25",
+      "summary": "The Senate Appropriations Committee approves a bill related to AI",
+      "source": "Histalk2.com",
+      "category": "research",
+      "timestamp": "2025-07-22T23:28:50Z",
+      "url": "https://histalk2.com/2025/07/22/news-7-23-25/"
+    },
+    {
+      "id": 58,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as US-Japan breakthrough boosts deal hopes, with Tesla and Google on deck",
+      "summary": "Stock market futures rise following US-Japan breakthrough, with investors looking forward to earnings reports from Tesla and Google-parent Alphabet.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T23:26:47Z",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-us-japan-breakthrough-boosts-deal-hopes-with-tesla-and-google-on-deck-232647468.html"
+    },
     {
       "id": 51,
       "title": "coppersun-brass 2.3.26",
@@ -378,78 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T22:13:07Z",
       "url": "https://www.foxnews.com/us/florida-man-arrested-allegedly-threatening-kill-everyone-epstein-client-list-machete"
-    },
-    {
-      "id": 59,
-      "title": "Ozzy Osbourne Death: What Sharon Osbourne Has Said About Assisted Suicide",
-      "summary": "Ozzy Osbourne's death has sparked discussions about assisted suicide, with Sharon Osbourne's past statements on the topic being brought up. Voice utilized in the news coverage is AI-generated, potentially leading to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:12:18Z",
-      "url": "https://biztoc.com/x/6f95973651895118"
-    },
-    {
-      "id": 60,
-      "title": "The Pharaohs Built Pyramids—We Build Data Centers",
-      "summary": "Tax breaks for data centers in VA are compared to ancient Egypt's pyramid construction, as they are seen as monuments to power built at the public's expense.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:11:08Z",
-      "url": "https://www.forbes.com/sites/andrewleahey/2025/07/22/the-pharaohs-built-pyramids-we-build-data-centers/"
-    },
-    {
-      "id": 61,
-      "title": "aiwand 0.4.19",
-      "summary": "aiwand 0.4.19 is a new AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:09:38Z",
-      "url": "https://pypi.org/project/aiwand/0.4.19/"
-    },
-    {
-      "id": 62,
-      "title": "Data Reveals The 3 Strategies High-Growth Companies Have In Common",
-      "summary": "The Forbes Research 2025 CxO Growth Survey reveals similarities among high-growth companies that boosted revenue by at least 10% in the last fiscal year.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-22T22:09:31Z",
-      "url": "https://www.forbes.com/sites/forbes-research/2025/07/22/data-reveals-the-3-strategies-high-growth-companies-have-in-common/"
-    },
-    {
-      "id": 63,
-      "title": "Exclusive: Mark Cuban says AI will be a baseline skill like email or Excel in 5 years and entrepreneurs should embrace it or get left behind",
-      "summary": "Mark Cuban predicts that AI will become a standard skill for entrepreneurs within 5 years, warning that those who do not embrace it may fall behind. New AI assistants can help solo founders operate more effectively and efficiently.",
-      "source": "Fortune",
-      "category": "startups",
-      "timestamp": "2025-07-22T22:09:28Z",
-      "url": "https://fortune.com/2025/07/22/exclusive-mark-cuban-ai-business-success-entrepreneurs-investing/"
-    },
-    {
-      "id": 51,
-      "title": "As Oracle’s stock falls in the wake of Stargate developments, here’s one big question for investors",
-      "summary": "Oracle's stock is falling due to Stargate developments, with investors questioning how the company will finance the development of additional AI infrastructure.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T21:49:55Z",
-      "url": "https://biztoc.com/x/0010a4c8cc34fa6c"
-    },
-    {
-      "id": 52,
-      "title": "Get the JBL Charge 6 for LESS than $200 with this Offer!",
-      "summary": "The JBL Charge 6 is available for less than $200 with built-in lighting effects and powerful sound.",
-      "source": "Phandroid - News for Android",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:49:13Z",
-      "url": "https://phandroid.com/2025/07/22/get-the-jbl-charge-6-for-less-than-200-with-this-offer/"
-    },
-    {
-      "id": 53,
-      "title": "revenium-mcp 0.1.23",
-      "summary": "Revenium-mcp 0.1.23 released, featuring Model Context Protocol (MCP) server for Revenium API monitoring, analytics, and AI spending management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:48:43Z",
-      "url": "https://pypi.org/project/revenium-mcp/0.1.23/"
     }
   ]
 }
