@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-23T21:51:12.133Z",
+  "lastUpdate": "2025-07-23T22:16:09.626Z",
   "items": [
+    {
+      "id": 51,
+      "title": "magique 0.5.0",
+      "summary": "Magique 0.5.0 is a message transfer package designed for AI agents and distributed computing, enabling seamless communication between different nodes. This innovation aims to streamline the operation of AI systems and enhance efficiency in decentralized computing environments.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T22:15:21Z",
+      "url": "https://pypi.org/project/magique/0.5.0/"
+    },
+    {
+      "id": 52,
+      "title": "Tesla Isn’t a Car Company Anymore",
+      "summary": "Tesla is shifting its focus from manufacturing cars to AI-driven autonomous technology in a high-risk pivot, as Elon Musk aims to secure the company's future.",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T22:15:12Z",
+      "url": "https://gizmodo.com/tesla-isnt-a-car-company-anymore-2000632892"
+    },
+    {
+      "id": 53,
+      "title": "Everything we know about the Air India crash points to an uncomfortable truth",
+      "summary": "Air India 171 crash is one of the deadliest aviation incidents in recent history with 260 casualties and only one surviving passenger, and the investigation into the crash is proving to be frustratingly opaque.",
+      "source": "Vox",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:15:05Z",
+      "url": "https://www.vox.com/culture/420667/air-india-crash-investigation-update-mental-health"
+    },
+    {
+      "id": 54,
+      "title": "Officials say Lancaster city data center won't affect water, electrical grid",
+      "summary": "Officials say Lancaster city data center won't affect water, electrical grid - Work on a 450,000 square-foot data center inside part of a vacant printing plant on Greenfield Road in Lancaster city is already underway and expected to be completed by summer 2027.",
+      "source": "LancasterOnline",
+      "category": "innovation",
+      "timestamp": "2025-07-22T22:15:00Z",
+      "url": "https://lancasteronline.com/news/local/officials-say-lancaster-city-data-center-wont-affect-water-electrical-grid/article_4e04cb08-4ebc-4fcd-a26d-edb8d8d62498.html"
+    },
+    {
+      "id": 55,
+      "title": "Amazon Ring Cashes In On Techno-Authoritarianism And Mass Surveillance",
+      "summary": "Amazon Ring, under founder Jamie Siminoff, is reemphasizing a surveillance-first-privacy-last approach, leading to concerns about techno-authoritarianism and mass surveillance.",
+      "source": "Techdirt",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:14:00Z",
+      "url": "https://www.techdirt.com/2025/07/22/amazon-ring-cashes-in-on-techno-authoritarianism-and-mass-surveillance/"
+    },
+    {
+      "id": 56,
+      "title": "‘It’s insulting’: LA Times owner stuns staff with plans to go public",
+      "summary": "LA Times owner's plans to go public are perceived as insulting by staff, highlighting potential ethical concerns.",
+      "source": "Politico",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:13:26Z",
+      "url": "https://www.politico.com/news/2025/07/22/la-times-owner-stuns-staff-with-plans-to-go-public-00468598"
+    },
+    {
+      "id": 57,
+      "title": "Corpus Christi approves $4.15M in tax incentives for entertainment complex",
+      "summary": "Corpus Christi approves $4.15M in tax incentives for new entertainment complex, bringing nearly 200 jobs to the area.",
+      "source": "KRIS Corpus Christi News",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:13:23Z",
+      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/bay-area/corpus-christi-approves-tax-incentives-for-new-entertainment-complex"
+    },
+    {
+      "id": 58,
+      "title": "Florida man arrested for allegedly threatening to 'kill everyone' on Epstein client list with machete",
+      "summary": "Florida man arrested for allegedly threatening violence against individuals on Epstein client list",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:13:07Z",
+      "url": "https://www.foxnews.com/us/florida-man-arrested-allegedly-threatening-kill-everyone-epstein-client-list-machete"
+    },
+    {
+      "id": 59,
+      "title": "Ozzy Osbourne Death: What Sharon Osbourne Has Said About Assisted Suicide",
+      "summary": "Ozzy Osbourne's death has sparked discussions about assisted suicide, with Sharon Osbourne's past statements on the topic being brought up. Voice utilized in the news coverage is AI-generated, potentially leading to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:12:18Z",
+      "url": "https://biztoc.com/x/6f95973651895118"
+    },
+    {
+      "id": 60,
+      "title": "The Pharaohs Built Pyramids—We Build Data Centers",
+      "summary": "Tax breaks for data centers in VA are compared to ancient Egypt's pyramid construction, as they are seen as monuments to power built at the public's expense.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:11:08Z",
+      "url": "https://www.forbes.com/sites/andrewleahey/2025/07/22/the-pharaohs-built-pyramids-we-build-data-centers/"
+    },
+    {
+      "id": 61,
+      "title": "aiwand 0.4.19",
+      "summary": "aiwand 0.4.19 is a new AI toolkit for text processing that utilizes OpenAI and Gemini APIs.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:09:38Z",
+      "url": "https://pypi.org/project/aiwand/0.4.19/"
+    },
+    {
+      "id": 62,
+      "title": "Data Reveals The 3 Strategies High-Growth Companies Have In Common",
+      "summary": "The Forbes Research 2025 CxO Growth Survey reveals similarities among high-growth companies that boosted revenue by at least 10% in the last fiscal year.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-22T22:09:31Z",
+      "url": "https://www.forbes.com/sites/forbes-research/2025/07/22/data-reveals-the-3-strategies-high-growth-companies-have-in-common/"
+    },
+    {
+      "id": 63,
+      "title": "Exclusive: Mark Cuban says AI will be a baseline skill like email or Excel in 5 years and entrepreneurs should embrace it or get left behind",
+      "summary": "Mark Cuban predicts that AI will become a standard skill for entrepreneurs within 5 years, warning that those who do not embrace it may fall behind. New AI assistants can help solo founders operate more effectively and efficiently.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-22T22:09:28Z",
+      "url": "https://fortune.com/2025/07/22/exclusive-mark-cuban-ai-business-success-entrepreneurs-investing/"
+    },
     {
       "id": 51,
       "title": "As Oracle’s stock falls in the wake of Stargate developments, here’s one big question for investors",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T20:54:00Z",
       "url": "https://biztoc.com/x/282d8e97c4dd72a8"
-    },
-    {
-      "id": 56,
-      "title": "Eventual, a climate fintech, raises $7.5 million seed round from AlleyCorp and Upfront Ventures",
-      "summary": "Eventual, a climate fintech, raises $7.5 million seed round to further develop their AI model that predicts insurance prices for U.S. properties up to five years in the future.",
-      "source": "Fortune",
-      "category": "startups",
-      "timestamp": "2025-07-22T20:53:53Z",
-      "url": "https://fortune.com/2025/07/22/eventual-a-climate-fintech-raises-7-5-million-seed-round-from-alleycorp-and-upfront-ventures/"
-    },
-    {
-      "id": 57,
-      "title": "Talen Energy Reports PJM Auction Results for the 2026/2027 Planning Year",
-      "summary": "Talen Energy Corporation reported the results from the PJM Base Residual Auction for the 2026/2027 planning year, showing their success in clearing a certain threshold.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:53:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119883/0/en/Talen-Energy-Reports-PJM-Auction-Results-for-the-2026-2027-Planning-Year.html"
-    },
-    {
-      "id": 58,
-      "title": "Everything Trump Has Done That Critics Say Is Meant To Distract From Epstein Scandal",
-      "summary": "Trump is accused of trying to distract from the Epstein scandal by focusing on other issues. He claimed he doesn't follow the backlash to his administration's handling of Epstein investigatory documents.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:52:49Z",
-      "url": "https://www.forbes.com/sites/saradorn/2025/07/22/everything-trump-has-done-that-critics-say-is-meant-to-distract-from-epstein-scandal/"
-    },
-    {
-      "id": 59,
-      "title": "Amazon acquires Bee, the AI wearable that records everything you say | TechCrunch",
-      "summary": "Amazon acquires Bee, an AI wearables startup known for its bracelet and Apple Watch app that records daily activities to serve as an AI assistant.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-22T20:52:34Z",
-      "url": "https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/"
-    },
-    {
-      "id": 60,
-      "title": "Amazon acquires Bee, the AI wearable that records everything you say",
-      "summary": "Amazon acquires Bee, the AI wearable startup that records everything you say, including a bracelet and Apple Watch app.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-22T20:51:41Z",
-      "url": "https://finance.yahoo.com/news/amazon-acquires-bee-ai-wearable-205141903.html"
-    },
-    {
-      "id": 61,
-      "title": "AI startups raised $104 billion in first half of year, but exits tell a different story",
-      "summary": "AI startups raised $104 billion in the first half of the year, with nearly two-thirds of all fundraising deal value coming from AI. However, exits tell a different story, with the bulk of those dollars concentrated in a few companies.",
-      "source": "CNBC",
-      "category": "startups",
-      "timestamp": "2025-07-22T20:51:16Z",
-      "url": "https://www.cnbc.com/2025/07/22/ai-startups-raised-104-billion-in-first-half-exits-different-story.html"
-    },
-    {
-      "id": 51,
-      "title": "OpenAI’s Sam Altman warns of AI voice fraud crisis in banking",
-      "summary": "OpenAI CEO Sam Altman warns financial industry of AI voice fraud crisis due to tools being able to impersonate voices for security breaches.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:42:46Z",
-      "url": "https://biztoc.com/x/8f6c7f10a029045a"
-    },
-    {
-      "id": 52,
-      "title": "Trump’s Social-Media Habit Is Getting Weirder",
-      "summary": "Trump's posts on Truth Social are appearing desperate, raising questions about the ethics of his social-media habits.",
-      "source": "The Atlantic",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:41:57Z",
-      "url": "https://www.theatlantic.com/technology/archive/2025/07/trump-weird-posts-truth-social-epstein/683627/"
-    },
-    {
-      "id": 53,
-      "title": "What to expect at the Google Cloud Partner AI Series event: Join theCUBE July 30",
-      "summary": "What to expect at the Google Cloud Partner AI Series event: Join theCUBE July 30 - The future of enterprise AI isn’t unfolding in silos; it’s emerging from a growing ecosystem. As adoption accelerates, cloud providers and partners face mounting pressure to deliver real-world results at production scale.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-22T20:41:51Z",
-      "url": "https://siliconangle.com/2025/07/22/google-partners-scaling-enterprise-ai-solutions-googlecloudpartneraiseries/"
-    },
-    {
-      "id": 54,
-      "title": "Windows 11’s new update will add a bunch of AI features",
-      "summary": "Windows 11's new update adds AI features like Copilot Vision tool for scanning screens, exclusive tools for Copilot Plus PCs.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:41:08Z",
-      "url": "https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch"
-    },
-    {
-      "id": 55,
-      "title": "Windows 11 receives a handful of new AI features",
-      "summary": "Windows 11 receives new AI features to enhance user experience, particularly for Copilot+ PC users.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-22T20:40:01Z",
-      "url": "https://www.neowin.net/news/windows-11-receives-a-handful-of-new-ai-features/"
-    },
-    {
-      "id": 56,
-      "title": "Barron Trump announced marriage to Sasha Obama?",
-      "summary": "In July 2025, Barron Trump, the son of U.S. President Donald Trump, announced his marriage to Sasha Obama, the daughter of former President Barack Obama.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:40:00Z",
-      "url": "https://www.snopes.com//fact-check/marriage-barron-trump-sasha-obama/"
-    },
-    {
-      "id": 57,
-      "title": "Nvidia's CUDA Platform Now Support RISC-V",
-      "summary": "Nvidia announces that its CUDA software platform will now support RISC-V instruction set architecture, revealed at the 2025 RISC-V Summit in China.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T20:39:58Z",
-      "url": "https://slashdot.org/submission/17338114/nvidias-cuda-platform-now-support-risc-v"
     }
   ]
 }
