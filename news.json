@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-23T11:32:16.270Z",
+  "lastUpdate": "2025-07-23T11:50:47.909Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Show HN: The Influencer AI – consistent AI \"models\" for photos and talking video",
+      "summary": "The Influencer AI is a new AI tool created by a two-person team that can create consistent AI personas for photos and talking videos using trait sliders or real person's photos, after 8 months of development.",
+      "source": "Theinfluencer.ai",
+      "category": "startups",
+      "timestamp": "2025-07-22T11:48:58Z",
+      "url": "https://www.theinfluencer.ai"
+    },
+    {
+      "id": 52,
+      "title": "Dodge and Cox Increased its Holdings in UnitedHealth Group Incorporated (UNH) Amid Current Challenges",
+      "summary": "Dodge and Cox increased its holdings in UnitedHealth Group Incorporated during current challenges, as revealed in their second quarter 2025 investor letter.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:47:43Z",
+      "url": "https://finance.yahoo.com/news/dodge-cox-increased-holdings-unitedhealth-114743479.html"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: Folo – one timeline, zero noise",
+      "summary": "Folo is a new AI tool that aims to provide users with a streamlined timeline free of noise. The tool is designed to help users focus on the most relevant content.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:46:14Z",
+      "url": "https://github.com/RSSNext/Folo"
+    },
+    {
+      "id": 54,
+      "title": "Immersive Elvis experience slammed as ‘awful from start to finish’",
+      "summary": "Fans expressed disappointment with the immersive Elvis experience in London, feeling like they wasted money for a subpar show.",
+      "source": "The-independent.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:46:12Z",
+      "url": "https://www.the-independent.com/arts-entertainment/music/news/elvis-evolution-reviews-tickets-vip-hologram-b2793643.html"
+    },
+    {
+      "id": 55,
+      "title": "ChatGPT now has 500m weekly users sending 2.5bn prompts a day",
+      "summary": "ChatGPT now has 500m weekly users sending 2.5bn prompts a day, making it a popular AI service for users worldwide.",
+      "source": "Music Ally",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:45:00Z",
+      "url": "http://musically.com/2025/07/22/chatgpt-now-has-500m-weekly-users-sending-2-5bn-prompts-a-day/"
+    },
+    {
+      "id": 56,
+      "title": "5 AI Courses To Add Up To $30,000 To Your Salary In 2025",
+      "summary": "5 AI Courses To Add Up To $30,000 To Your Salary In 2025 - Learn about the five high-impact AI courses and certifications that can help you boost your salary by as much as $30,000 in a year in 2025.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:45:00Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/22/high-paying-ai-courses-2025/"
+    },
+    {
+      "id": 57,
+      "title": "ChatGPT Receives This Many Prompts Every Single Day",
+      "summary": "ChatGPT reportedly handles more than 2.5 billion prompts daily, highlighting the volume of messages its chatbot and servers process. OpenAI revealed this information for the first time, showcasing the use of AI in everyday applications.",
+      "source": "Gadgets360.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:44:48Z",
+      "url": "https://www.gadgets360.com/ai/news/chatgpt-total-daily-messages-prompts-sent-more-than-2-5-billion-8924405"
+    },
+    {
+      "id": 58,
+      "title": "HUAWEI Pura 80 Series debuts industry-first camera tech in Bangkok",
+      "summary": "HUAWEI Pura 80 Series debuts industry-first camera tech in Bangkok with an APAC launch event unveiling a new lineup of products.",
+      "source": "Yugatech.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:43:39Z",
+      "url": "https://www.yugatech.com/mobile/huawei-pura-80-series-debuts-industry-first-camera-tech-in-bangkok/"
+    },
+    {
+      "id": 59,
+      "title": "'Learning coding not enough': Google's android unit chief has a message to engg grads just focusing on computer science degrees",
+      "summary": "Google's VP of Android emphasizes the importance of problem-solving and analytical thinking in addition to coding skills for engineering graduates, highlighting the need for a broader skill set in the age of AI.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:43:27Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/learning-coding-not-enough-googles-android-unit-chief-has-a-message-to-engg-grads-just-focusing-on-computer-science-degrees/articleshow/122836494.cms"
+    },
+    {
+      "id": 60,
+      "title": "Create Stunning Product Ads in Minutes with AI : No Design Skills Needed",
+      "summary": "Create stunning product ads in minutes with AI, no design skills needed, thanks to advancements in artificial intelligence.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:42:54Z",
+      "url": "https://www.geeky-gadgets.com/ai-product-ad-creation-guide/"
+    },
+    {
+      "id": 61,
+      "title": "github-backlog-generator added to PyPI",
+      "summary": "github-backlog-generator added to PyPI - Enterprise-grade AI-powered tool to transform GitHub README files into comprehensive project backlogs optimized for Claude Flow SPARC agents",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:41:43Z",
+      "url": "https://pypi.org/project/github-backlog-generator/"
+    },
+    {
+      "id": 62,
+      "title": "github-backlog-generator 1.0.0",
+      "summary": "The release of github-backlog-generator 1.0.0 introduces an enterprise-grade AI-powered tool that converts GitHub README files into project backlogs for Claude Flow SPARC agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:41:43Z",
+      "url": "https://pypi.org/project/github-backlog-generator/1.0.0/"
+    },
+    {
+      "id": 63,
+      "title": "Philip Morris shares dip as revenue falls short of expectations",
+      "summary": "Philip Morris shares dip as revenue falls short of expectations despite second-quarter earnings beating estimates.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:39:20Z",
+      "url": "https://finance.yahoo.com/news/philip-morris-shares-dip-revenue-113920625.html"
+    },
+    {
+      "id": 64,
+      "title": "Soluna Closes $20M Funding from Spring Lane Capital to Begin Construction on Project Kati 1",
+      "summary": "Soluna secures $20M funding from Spring Lane Capital to begin construction on Project Kati 1, a green data center project for intensive computing applications like Bitcoin mining.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-22T11:37:40Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/soluna-closes-20m-funding-from-spring-lane-capital-to-begin-construction-on-project-kati-1"
+    },
+    {
+      "id": 65,
+      "title": "Air India seeks loan of about $200 million for aircraft purchases",
+      "summary": "Air India seeks $200 million loan for aircraft purchases amid supply chain constraints",
+      "source": "Bloomberg",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:37:21Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-22/air-india-seeks-loan-of-about-200-million-for-aircraft-purchase"
+    },
+    {
+      "id": 66,
+      "title": "AI tracks uploaded to some dead musicians’ streaming profiles",
+      "summary": "AI tracks uploaded to some dead musicians’ streaming profiles, highlighting the ethical concerns of using AI in this manner.",
+      "source": "Music Ally",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:35:00Z",
+      "url": "http://musically.com/2025/07/22/ai-tracks-uploaded-to-some-dead-musicians-streaming-profiles/"
+    },
+    {
+      "id": 67,
+      "title": "Republicans Shut Down House Floor to Avoid Epstein Vote",
+      "summary": "House Republicans shut down the House floor to block a vote on releasing Jeffrey Epstein files, raising ethical concerns about transparency and accountability in government proceedings.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:34:34Z",
+      "url": "https://biztoc.com/x/35037b5ca5762adf"
+    },
+    {
+      "id": 68,
+      "title": "AIs and Spontaneous Order",
+      "summary": "The belief in AI surpassing free markets reflects a misunderstanding of the price system, according to Tupy and Boettke in the WSJ.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:34:11Z",
+      "url": "https://biztoc.com/x/cc2ab99abdd342ae"
+    },
+    {
+      "id": 69,
+      "title": "ZenaTech’s ZenaDrone Subsidiary Applies for Green UAS Certification for IQ Square Drone to Sell to US Defense and Government",
+      "summary": "ZenaTech’s ZenaDrone Subsidiary is seeking green UAS certification for its IQ Square drone to sell to US defense and government agencies, showcasing the application of AI technology in the drone industry.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:34:10Z",
+      "url": "https://financialpost.com/globe-newswire/zenatechs-zenadrone-subsidiary-applies-for-green-uas-certification-for-iq-square-drone-to-sell-to-us-defense-and-government"
+    },
+    {
+      "id": 70,
+      "title": "Trump Removes Migrant Protections for Two Countries: What to Know",
+      "summary": "President Donald Trump receives approval to remove Temporary Protected Status for Afghans and Cameroonians, creating uncertainty for migrants in the U.S.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:33:48Z",
+      "url": "https://biztoc.com/x/81c465085b6cf046"
+    },
     {
       "id": 51,
       "title": "Unhinged Florida man arrested for threatening to ‘kill everyone’ with a machete on pedophile Epstein’s ‘client list’",
@@ -270,186 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T11:09:35Z",
       "url": "https://www.nbcnews.com/news/us-news/trump-admin-2016-election-malcolm-jamal-warner-morning-rundown-rcna220173"
-    },
-    {
-      "id": 64,
-      "title": "Tech Mahindra joins JPMorgan's Payments System Integrator Program",
-      "summary": "Tech Mahindra joins JPMorgan's Payments System Integrator Program to support global enterprises in upgrading ERP systems and modernizing payment infrastructure.",
-      "source": "Finextra",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:09:29Z",
-      "url": "https://www.finextra.com/pressarticle/106431/tech-mahindra-joins-jpmorgans-payments-system-integrator-program"
-    },
-    {
-      "id": 65,
-      "title": "ChatGPT Hits 2.5 Billion Daily Requests as User Base Soars",
-      "summary": "OpenAI's ChatGPT is experiencing a surge in popularity with over 2.5 billion daily requests, making it one of the most widely used AI tools globally.",
-      "source": "Gizchina.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:06:00Z",
-      "url": "https://www.gizchina.com/2025/07/22/chatgpt-hits-2-5-billion-daily-requests-as-user-base-soars/"
-    },
-    {
-      "id": 66,
-      "title": "GridBeyond Leads Optimization of 200MW Energy Storage Site in California",
-      "summary": "GridBeyond and Gore Street Energy Storage Fund are leading the optimization of a 200MW energy storage site in California using smart energy management technology.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:05:56Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gridbeyond-leads-optimization-of-200mw-energy-storage-site-in-california"
-    },
-    {
-      "id": 67,
-      "title": "DTN Launches Industry-First Operational Decisioning Platform to Transform How Businesses Compete in a Volatile World",
-      "summary": "DTN launches a platform combining vertical-specific intelligence, Decision-Grade Data, and operational AI to drive smarter decisions at scale for energy, agriculture, and weather-driven industries.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:05:40Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dtn-launches-industry-first-operational-decisioning-platform-to-transform-how-businesses-compete-in-a-volatile-world"
-    },
-    {
-      "id": 68,
-      "title": "Daily Stock Watch: Why investors are watching Trump Media, Alphabet, and Verizon",
-      "summary": "Trump Media's rise in premarket trading following announcement of $2 billion in bitcoin and related assets",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:04:55Z",
-      "url": "https://markets.businessinsider.com/news/stocks/stock-price-tuesday-trump-media-verizon-archer-alphabet-opendoor"
-    },
-    {
-      "id": 69,
-      "title": "Oracle negotiates $100m cloud deal with Skydance-Paramount",
-      "summary": "Oracle secures $100m cloud deal with Skydance-Paramount, allowing Paramount and its subsidiaries to make use of Oracle's cloud software.",
-      "source": "Verdict",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:04:32Z",
-      "url": "https://www.verdict.co.uk/oracle-cloud-deal-skydance-paramount/"
-    },
-    {
-      "id": 51,
-      "title": "Sovos launches AI solution for tax compliance",
-      "summary": "Sovos has launched an AI solution for tax compliance that includes an embedded AI engine for e-invoicing, taxation, and regulatory reporting.",
-      "source": "Internationalaccountingbulletin.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:46:35Z",
-      "url": "https://www.internationalaccountingbulletin.com/news/sovos-launches-tax-ai-solution/"
-    },
-    {
-      "id": 52,
-      "title": "TSMC, NVIDIA’s Main AI Chip Supplier, Earned $10 Billion In AI Revenue In Q2, Say Analysts",
-      "summary": "TSMC, NVIDIA's main AI chip supplier, earned $10 billion in AI revenue in Q2, with analysts attributing the success to their partnership. This trend is expected to continue in 2025.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:45:57Z",
-      "url": "https://wccftech.com/tsmc-nvidias-main-ai-chip-supplier-earned-10-billion-in-ai-revenue-in-q2-say-analysts/"
-    },
-    {
-      "id": 53,
-      "title": "Oracle, OpenAI to add 4.5 gigawatts data center capacity for Stargate venture",
-      "summary": "Oracle and OpenAI are partnering to add 4.5 gigawatts of data center capacity for their Stargate venture, with the goal of establishing the US as a leader in artificial intelligence.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:45:33Z",
-      "url": "https://www.channelnewsasia.com/business/oracle-openai-add-45-gigawatts-data-center-capacity-stargate-venture-5251721"
-    },
-    {
-      "id": 54,
-      "title": "OpenAI, Oracle deepen AI data center push with 4.5 gigawatt Stargate expansion",
-      "summary": "Cloud firm Oracle and OpenAI are deepening their AI data center push with a 4.5 gigawatt Stargate expansion, as part of their joint venture to establish the United States as an artificial intelligence leader.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:45:33Z",
-      "url": "https://www.channelnewsasia.com/business/openai-oracle-deepen-ai-data-center-push-45-gigawatt-stargate-expansion-5251721"
-    },
-    {
-      "id": 55,
-      "title": "Oracle, OpenAI to add 4.5 gigawatts data center capacity for Stargate venture",
-      "summary": "Oracle and OpenAI will be adding 4.5 gigawatts of data center capacity for their Stargate joint venture to establish the US as an AI leader.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:45:33Z",
-      "url": "https://finance.yahoo.com/news/oracle-openai-add-4-5-104533543.html"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI and government sign deal to use AI to boost justice and defence efficiency",
-      "summary": "OpenAI and government sign deal to use AI to boost justice and defence efficiency.",
-      "source": "Sky.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:43:00Z",
-      "url": "https://news.sky.com/story/tech-giant-openai-signs-deal-with-government-to-boost-efficiency-in-public-services-13400056"
-    },
-    {
-      "id": 57,
-      "title": "Musk saying 'game on' to AI and creating a Baby Grok for kids makes me miss 'in denial' Elon, when he was oracle of the impending AI apocalypse",
-      "summary": "Elon Musk's new AI-related project for kids makes some question his previous warnings about the dangers of AI and wish he would focus more on his space endeavors.",
-      "source": "PC Gamer",
-      "category": "ethics",
-      "timestamp": "2025-07-22T10:42:25Z",
-      "url": "https://www.pcgamer.com/software/ai/musk-saying-game-on-to-ai-and-creating-a-baby-grok-for-kids-makes-me-miss-in-denial-elon-when-he-was-oracle-of-the-impending-ai-apocalypse/"
-    },
-    {
-      "id": 58,
-      "title": "mozi_ai_x 0.3.3",
-      "summary": "Version 0.3.3 of Mozi AI introduces an async version of the software, allowing for more efficient processing. This update represents an innovative step in AI development.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:41:24Z",
-      "url": "https://pypi.org/project/mozi-ai-x/0.3.3/"
-    },
-    {
-      "id": 59,
-      "title": "Danaher shares slip despite Q2 beat, annual profit outlook hike",
-      "summary": "Danaher shares slipped despite beating Q2 expectations and raising annual profit outlook.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:40:50Z",
-      "url": "https://finance.yahoo.com/news/danaher-shares-slip-despite-q2-104050941.html"
-    },
-    {
-      "id": 60,
-      "title": "ChatGPT Agent : The Future of Work in One Versatile AI Tool",
-      "summary": "ChatGPT Agent by OpenAI is a versatile AI tool that can write code, generate visuals, conduct deep research, and learn and improve with every task.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:39:59Z",
-      "url": "https://www.geeky-gadgets.com/chatgpt-agent-ai-tool-overview/"
-    },
-    {
-      "id": 61,
-      "title": "Paytm Q1 Results: Co swings to black, logs Rs 122 crore profit vs YoY loss; revenue jumps 28%",
-      "summary": "Paytm reported a profit of Rs 122 crore in Q1FY26, a significant improvement from the loss of Rs 839 crore in the previous year. The company's revenue also saw a 28% increase.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:39:48Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/paytm-q1-results-co-swing-to-profit-at-rs-122-crore-vs-yoy-loss-revenue-jumps-28/articleshow/122835740.cms"
-    },
-    {
-      "id": 62,
-      "title": "Paytm Q1 Results: Co swings to profit at Rs 122 crore vs YoY loss, revenue jumps 28%",
-      "summary": "Paytm's parent company One 97 Communications reported a profit of Rs 122 crore in Q1 of fiscal year 2026, with a 28% increase in revenue compared to the previous year.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:39:48Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-co-swing-to-profit-at-rs-122-crore-vs-yoy-loss-revenue-jumps-28/articleshow/122835189.cms"
-    },
-    {
-      "id": 63,
-      "title": "German AI player osapiens investing in UK",
-      "summary": "German AI player osapiens investing in UK to expand its channel base, with plans to spend millions to increase its presence",
-      "source": "ComputerWeekly.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T10:39:00Z",
-      "url": "https://www.computerweekly.com/microscope/news/366627806/German-AI-player-osapiens-investing-in-UK"
-    },
-    {
-      "id": 64,
-      "title": "AI in customer communication: the opportunities and risks SMBs can’t ignore",
-      "summary": "AI enhances SMB customer communication efficiency, but transparency and trust are essential for long-term success.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:38:14Z",
-      "url": "https://www.techradar.com/pro/ai-in-customer-communication-the-opportunities-and-risks-smbs-cant-ignore"
     }
   ]
 }
