@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-23T11:14:34.357Z",
+  "lastUpdate": "2025-07-23T11:32:16.270Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Unhinged Florida man arrested for threatening to ‘kill everyone’ with a machete on pedophile Epstein’s ‘client list’",
+      "summary": "Florida man arrested for making violent threats after interaction with AI chatbot",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:31:04Z",
+      "url": "https://nypost.com/2025/07/22/us-news/unhinged-florida-man-arrested-for-threatening-to-kill-everyone-with-a-machete-on-pedophile-epsteins-client-list/"
+    },
+    {
+      "id": 52,
+      "title": "What is SAP Business Suite?",
+      "summary": "SAP Business Suite is a bundle of enterprise software applications that integrate data, processes and functions for important areas such as finance, sales and human resources (HR), as well as offer industry-specific features.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:31:00Z",
+      "url": "https://www.techtarget.com/searchsap/definition/SAP-Business-Suite"
+    },
+    {
+      "id": 53,
+      "title": "Lithuania Proptech Grows Behind Rich Real Estate Ecosystem",
+      "summary": "Lithuania is emerging as a strong player in the proptech sector, showcasing real estate innovation and growth. With a rich real estate ecosystem, the nation is making its mark in the industry alongside larger competitors.",
+      "source": "Commercial Observer",
+      "category": "startups",
+      "timestamp": "2025-07-22T11:30:55Z",
+      "url": "http://commercialobserver.com/2025/07/lithuania-proptech/"
+    },
+    {
+      "id": 54,
+      "title": "What if AI didn’t need the internet? Indian semiconductor startups have an answer",
+      "summary": "Indian semiconductor startups are focusing on developing offline AI solutions that do not rely on internet connectivity, leveraging the country's pool of experienced engineers and innovative chips to compete with GPU infrastructure from the US and China.",
+      "source": "Livemint",
+      "category": "startups",
+      "timestamp": "2025-07-22T11:30:07Z",
+      "url": "https://www.livemint.com/companies/ai-bet-startups-smarter-chips-china-us-gpu-nvidia-hardware-netrasemi-intel-semicon-fabless-model-chatgpt-gemini-11753107818519.html"
+    },
+    {
+      "id": 55,
+      "title": "7 Ways Your Small Business Can Reach New Customers — Beyond Google",
+      "summary": "Here are 7 ways your small business can reach and engage new customers - without solely relying on being found on Google search results.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-22T11:30:00Z",
+      "url": "https://www.forbes.com/sites/chelseatobin/2025/07/22/7-ways-your-small-business-can-reach-new-customers---beyond-google/"
+    },
+    {
+      "id": 56,
+      "title": "Applied Materials Appoints Jim Anderson to Board of Directors",
+      "summary": "Applied Materials appoints Jim Anderson with over 25 years of experience in the technology sector to its board of directors.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119320/0/en/Applied-Materials-Appoints-Jim-Anderson-to-Board-of-Directors.html"
+    },
+    {
+      "id": 57,
+      "title": "ZenaTech’s ZenaDrone Subsidiary Applies for Green UAS Certification for IQ Square Drone to Sell to US Defense and Government",
+      "summary": "ZenaTech's ZenaDrone Subsidiary applies for Green UAS Certification for IQ Square Drone to sell to US Defense and Government, specializing in AI drones.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119330/0/en/ZenaTech-s-ZenaDrone-Subsidiary-Applies-for-Green-UAS-Certification-for-IQ-Square-Drone-to-Sell-to-US-Defense-and-Government.html"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: Effect – TypeScript's functional effect system and monorepo toolkit",
+      "summary": "The news is about an AI-related toolkit called Effect, which is designed for TypeScript's functional effect system and monorepo management. It aims to streamline the development process and increase productivity for AI projects.",
+      "source": "Github.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:29:35Z",
+      "url": "https://github.com/Effect-TS/effect"
+    },
+    {
+      "id": 59,
+      "title": "【正論】高木豊さん「今の球は人間の審判が判定できるスピードじゃない。AIを導入すべき」",
+      "summary": "Former baseball player Takaki Yutaka suggests that AI should be introduced into baseball to make calls faster and more accurately, as human referees are unable to keep up with the speed of the game.",
+      "source": "Livedoor.jp",
+      "category": "ethics",
+      "timestamp": "2025-07-22T11:28:29Z",
+      "url": "http://blog.livedoor.jp/nanjstu/archives/62514022.html"
+    },
+    {
+      "id": 60,
+      "title": "The $70 Billion Blind Spot And Why VCs Are Betting Big On AI-Powered Compensation Management",
+      "summary": "VCs are investing heavily in AI-powered compensation management, despite companies still relying on outdated methods. Employee compensation is a significant expense for most companies, presenting a major opportunity for AI innovation in this area.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:27:54Z",
+      "url": "https://www.forbes.com/sites/josipamajic/2025/07/22/the-70-billion-blind-spot-and-why-vcs-are-betting-big-on-ai-powered-compensation-management/"
+    },
+    {
+      "id": 61,
+      "title": "Software company Salesforce targets academia to create AI-trained professionals",
+      "summary": "Software company Salesforce partnering with academia to train professionals in AI, aiming to bridge the skill gap and fuel the digital economy.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:27:16Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/software-company-salesforce-targets-academia-to-create-ai-trained-professionals/articleshow/122836591.cms"
+    },
+    {
+      "id": 62,
+      "title": "Lenovo’s Legion Go 2 leaks with OLED panel: Here’s how it stacks up against the upcoming Xbox gaming handheld",
+      "summary": "Lenovo's Legion Go 2 leaks with OLED panel, offering a first look at the upcoming Xbox gaming handheld. The device features an OLED display, detachable controllers, and more, showcasing innovation in the gaming industry.",
+      "source": "9to5Toys",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:26:45Z",
+      "url": "http://9to5toys.com/2025/07/22/lenovo-legion-go-2-leaks-oled-panel/"
+    },
+    {
+      "id": 63,
+      "title": "Sources: Google is seeking to recruit news organizations for a new licensing project related to AI, and plans to launch a pilot initially with ~20 US outlets (Bloomberg)",
+      "summary": "Google is recruiting news organizations for a new licensing project related to AI, planning to launch initially with ~20 US outlets.",
+      "source": "Mediagazer.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T11:25:00Z",
+      "url": "https://mediagazer.com/250722/p6"
+    },
+    {
+      "id": 64,
+      "title": "Here’s Why Progressive (PGR) Traded Lower in Q2",
+      "summary": "Progressive traded lower in Q2 as revealed in Madison Investments' investor letter for the second quarter of 2025.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:24:25Z",
+      "url": "https://finance.yahoo.com/news/why-progressive-pgr-traded-lower-112425198.html"
+    },
+    {
+      "id": 65,
+      "title": "Strategic Operational Decisioning Platforms - DTN Focuses on Empowering Businesses Across Sectors (TrendHunter.com)",
+      "summary": "DTN has introduced a groundbreaking Operational Decisioning Platform designed to empower businesses operating in volatile sectors such as agriculture, energy, and weather-dependent industries.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:23:06Z",
+      "url": "https://www.trendhunter.com/trends/operational-decisioning-platform"
+    },
+    {
+      "id": 66,
+      "title": "Tammie Lister: Optimizing triage with AI starting points",
+      "summary": "Tammie Lister discusses optimizing triage with AI starting points in WordPress, leading to the release of the Trac MCP Server capable of interacting with AI assistants.",
+      "source": "Binatethoughts.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T11:22:42Z",
+      "url": "https://binatethoughts.com/optimizing-triage-with-ai-starting-points/"
+    },
+    {
+      "id": 67,
+      "title": "Think your job is safe from AI? These 4 careers are already on the chopping block",
+      "summary": "Think your job is safe from AI? These 4 careers are already on the chopping block - Artificial Intelligence is reshaping jobs. Automation may displace millions of workers globally. New roles will emerge by 2030.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T11:21:52Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/think-your-job-is-safe-from-ai-these-4-careers-are-already-on-the-chopping-block/articleshow/122836105.cms"
+    },
     {
       "id": 51,
       "title": "The Astronomer CEO's Coldplay moment is a textbook fiasco",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T10:38:14Z",
       "url": "https://www.techradar.com/pro/ai-in-customer-communication-the-opportunities-and-risks-smbs-cant-ignore"
-    },
-    {
-      "id": 65,
-      "title": "I ask this question first in every job interview. It's transformed how I hire",
-      "summary": "Paddy Lambros, CEO of AI startup Dex, begins job interviews by inviting candidates to ask questions, transforming the hiring process. This approach is a unique way to gauge candidate's curiosity, competence, and engagement.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:37:58Z",
-      "url": "https://biztoc.com/x/0b7e5ccb82e9f4be"
-    },
-    {
-      "id": 66,
-      "title": "Mark Cuban says the AI war ‘will get ugly’ and intellectual property ‘is KING’ in the AI world",
-      "summary": "Mark Cuban warns of an intense AI war with tech companies investing heavily in AI infrastructure and talent to secure dominance.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:37:50Z",
-      "url": "https://biztoc.com/x/d7c1764091b9913c"
-    },
-    {
-      "id": 67,
-      "title": "Commission sued over withdrawing AI liability, patent laws",
-      "summary": "MEP suing Commission over lack of transparency regarding AI liability and patent laws",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T10:37:39Z",
-      "url": "https://biztoc.com/x/09bddf8d06e04db4"
-    },
-    {
-      "id": 68,
-      "title": "Le Mans Ultimate-RUNE",
-      "summary": "Le Mans Ultimate-RUNE is the official game of the FIA World Endurance Championship and 24 Hours of Le Mans, allowing players to experience the new era of sportscar racing in detail.",
-      "source": "Rlsbb.ru",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:35:53Z",
-      "url": "https://post.rlsbb.ru/le-mans-ultimate-rune/"
-    },
-    {
-      "id": 69,
-      "title": "artifex 0.2.0",
-      "summary": "The release of artifex 0.2.0 allows users to create their private AI models without the need for training data or GPUs. This development opens up new possibilities for AI applications and customization.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:35:32Z",
-      "url": "https://pypi.org/project/artifex/0.2.0/"
-    },
-    {
-      "id": 70,
-      "title": "I ask this question first in every job interview. It's transformed how I hire.",
-      "summary": "Paddy Lambros, CEO of the AI startup Dex, conducts job interviews by having candidates ask questions first, transforming his hiring process.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:33:01Z",
-      "url": "https://www.businessinsider.com/question-recruiter-starts-job-interview-2025-7"
-    },
-    {
-      "id": 51,
-      "title": "Alphabet will seek to reassure investors as AI rivals step up competition",
-      "summary": "Alphabet will seek to reassure investors as AI rivals step up competition.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:17:15Z",
-      "url": "https://www.livemint.com/companies/company-results/alphabet-will-seek-to-reassure-investors-as-ai-rivals-step-up-competition-11753179436080.html"
-    },
-    {
-      "id": 52,
-      "title": "Alphabet will seek to reassure investors as AI rivals step up competition",
-      "summary": "Alphabet will seek to reassure investors as AI rivals step up competition, emphasizing their spending on technology to strengthen their search and advertising businesses.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:15:48Z",
-      "url": "https://www.channelnewsasia.com/business/alphabet-will-seek-reassure-investors-ai-rivals-step-up-competition-5251656"
-    },
-    {
-      "id": 53,
-      "title": "Alphabet will seek to reassure investors as AI rivals step up competition",
-      "summary": "Alphabet will seek to reassure investors as AI rivals step up competition, emphasizing the company's spending on research and development.",
-      "source": "Yahoo Entertainment",
-      "category": "research",
-      "timestamp": "2025-07-22T10:15:48Z",
-      "url": "https://finance.yahoo.com/news/alphabet-seek-reassure-investors-ai-101548362.html"
-    },
-    {
-      "id": 54,
-      "title": "Alphabet will seek to reassure investors as AI rivals step up competition",
-      "summary": "Alphabet will seek to reassure investors as AI rivals step up competition, emphasizing the company's spending on innovation in the AI space.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:15:48Z",
-      "url": "https://tech.yahoo.com/ai/articles/alphabet-seek-reassure-investors-ai-101548357.html"
-    },
-    {
-      "id": 55,
-      "title": "Handshake's CEO says the AI training world is evolving from generalists to STEM experts getting paid over $125 an hour",
-      "summary": "Handshake's CEO says AI training world is evolving to need STEM experts over generalists, with pay over $125 an hour. Handshake expanded to AI training in 2025.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T10:15:40Z",
-      "url": "https://biztoc.com/x/85256b69ee4530e8"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI Exec Fidji Simo on How AI Can Turn ‘Ideas Into Income’",
-      "summary": "OpenAI Exec Fidji Simo believes AI can turn ideas into income, especially in business and healthcare.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:15:35Z",
-      "url": "https://biztoc.com/x/b26e45318a3de148"
-    },
-    {
-      "id": 57,
-      "title": "Euna Solutions Introduces AI-Powered Invoice Automation to Streamline Public Sector Workflows",
-      "summary": "Euna Solutions introduces AI-powered invoice automation to streamline public sector workflows, saving time and improving accuracy.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:14:07Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/euna-solutions-introduces-ai-powered-invoice-automation-to-streamline-public-sector-workflows"
-    },
-    {
-      "id": 58,
-      "title": "Pegasystems’ (PEGA) Equal Weight Rating Reaffirmed at Barclays",
-      "summary": "Barclays reaffirmed their equal weight rating on Pegasystems' stock with a $50.00 target price, indicating ongoing interest in the AI technology company's performance.",
-      "source": "ETF Daily News",
-      "category": "innovation",
-      "timestamp": "2025-07-22T10:12:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/pegasystems-pega-equal-weight-rating-reaffirmed-at-barclays/"
-    },
-    {
-      "id": 59,
-      "title": "Pagaya Technologies (NASDAQ:PGY) Price Target Raised to $40.00 at Citigroup",
-      "summary": "Pagaya Technologies (NASDAQ:PGY) had its price target raised to $40.00 at Citigroup, with a buy rating on the stock. This report indicates positive market sentiment towards the company's financial performance and prospects.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:12:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/pagaya-technologies-nasdaqpgy-price-target-raised-to-40-00-at-citigroup/"
-    },
-    {
-      "id": 60,
-      "title": "Act Fast to Save $420 on the Samsung Galaxy Z Fold 7 Before It's Officially Available",
-      "summary": "Preorder the Samsung Galaxy Z Fold 7 from Amazon to save $420, get double the storage, and receive a $300 gift card as freebies.",
-      "source": "CNET",
-      "category": "economy",
-      "timestamp": "2025-07-22T10:12:33Z",
-      "url": "https://www.cnet.com/deals/samsung-galaxy-z-fold-7-amazon-preorder-deal/"
-    },
-    {
-      "id": 61,
-      "title": " Man United eye move for Brazilian striker, says journalist",
-      "summary": "Man United is looking to sign Brazilian striker Evanilson after Matheus Cunha, as reported by journalist Ekrem Konur.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T10:11:00Z",
-      "url": "https://onefootball.com/en/news/man-united-eye-move-for-brazilian-striker-says-journalist-41408216"
     }
   ]
 }
