@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-23T23:40:50.948Z",
+  "lastUpdate": "2025-07-23T23:51:39.339Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI Grille Luxury Vans - FX Super One EV makes communication a Focus with an LED grille (TrendHunter.com)",
+      "summary": "AI Grille Luxury Vans - FX Super One EV makes communication a Focus with an LED grille, aiming to redefine the luxury electric minivan by turning its front into a canvas for personality.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:51:06Z",
+      "url": "https://www.trendhunter.com/trends/fx-super-one"
+    },
+    {
+      "id": 52,
+      "title": "Nvidia's CUDA Platform Now Support RISC-V",
+      "summary": "Nvidia announced at the 2025 RISC-V Summit in China that its CUDA software platform will now be compatible with the RISC-V instruction set architecture on the CPU side of things, expanding its support to a new platform.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:50:00Z",
+      "url": "https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v"
+    },
+    {
+      "id": 53,
+      "title": "testteller 2.0.0",
+      "summary": "Testteller 2.0.0 is an AI-powered test agent that automates test case generation using RAG & GenAI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T23:48:43Z",
+      "url": "https://pypi.org/project/testteller/2.0.0/"
+    },
+    {
+      "id": 54,
+      "title": "New Neighbor Spreads Affair Rumors, Misses One Crucial Detail: 'Obviously Embarrassed'",
+      "summary": "Neighbor spreads affair rumors based on misidentification, highlighting ethical concerns around spreading false information in a community.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-22T23:45:01Z",
+      "url": "https://www.newsweek.com/new-neighbor-spreads-affair-rumors-misses-one-crucial-detail-obviously-embarrassed-2101952"
+    },
+    {
+      "id": 55,
+      "title": "$37.16 Empire of the Ants @epicgames",
+      "summary": "$37.16 Empire of the Ants @epicgames - Conquer enemy nests and lead your colony through the perils of the forest in this groundbreaking RTS. Empire of the Ants is a photorealistic, third-person real-time strategy game where you command …",
+      "source": "Ozbargain.com.au",
+      "category": "applications",
+      "timestamp": "2025-07-22T23:44:18Z",
+      "url": "https://www.ozbargain.com.au/node/916635"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears",
+      "summary": "OpenAI sweet-talks Oracle into another 4.5GW worth of datacenters for their Stargate initiative, with CEO Sam Altman leading the charge.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:41:11Z",
+      "url": "https://biztoc.com/x/dfb63cb06ac2fa1c"
+    },
     {
       "id": 51,
       "title": "OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears",
@@ -396,60 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T22:15:12Z",
       "url": "https://gizmodo.com/tesla-isnt-a-car-company-anymore-2000632892"
-    },
-    {
-      "id": 53,
-      "title": "Everything we know about the Air India crash points to an uncomfortable truth",
-      "summary": "Air India 171 crash is one of the deadliest aviation incidents in recent history with 260 casualties and only one surviving passenger, and the investigation into the crash is proving to be frustratingly opaque.",
-      "source": "Vox",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:15:05Z",
-      "url": "https://www.vox.com/culture/420667/air-india-crash-investigation-update-mental-health"
-    },
-    {
-      "id": 54,
-      "title": "Officials say Lancaster city data center won't affect water, electrical grid",
-      "summary": "Officials say Lancaster city data center won't affect water, electrical grid - Work on a 450,000 square-foot data center inside part of a vacant printing plant on Greenfield Road in Lancaster city is already underway and expected to be completed by summer 2027.",
-      "source": "LancasterOnline",
-      "category": "innovation",
-      "timestamp": "2025-07-22T22:15:00Z",
-      "url": "https://lancasteronline.com/news/local/officials-say-lancaster-city-data-center-wont-affect-water-electrical-grid/article_4e04cb08-4ebc-4fcd-a26d-edb8d8d62498.html"
-    },
-    {
-      "id": 55,
-      "title": "Amazon Ring Cashes In On Techno-Authoritarianism And Mass Surveillance",
-      "summary": "Amazon Ring, under founder Jamie Siminoff, is reemphasizing a surveillance-first-privacy-last approach, leading to concerns about techno-authoritarianism and mass surveillance.",
-      "source": "Techdirt",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:14:00Z",
-      "url": "https://www.techdirt.com/2025/07/22/amazon-ring-cashes-in-on-techno-authoritarianism-and-mass-surveillance/"
-    },
-    {
-      "id": 56,
-      "title": "‘It’s insulting’: LA Times owner stuns staff with plans to go public",
-      "summary": "LA Times owner's plans to go public are perceived as insulting by staff, highlighting potential ethical concerns.",
-      "source": "Politico",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:13:26Z",
-      "url": "https://www.politico.com/news/2025/07/22/la-times-owner-stuns-staff-with-plans-to-go-public-00468598"
-    },
-    {
-      "id": 57,
-      "title": "Corpus Christi approves $4.15M in tax incentives for entertainment complex",
-      "summary": "Corpus Christi approves $4.15M in tax incentives for new entertainment complex, bringing nearly 200 jobs to the area.",
-      "source": "KRIS Corpus Christi News",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:13:23Z",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/bay-area/corpus-christi-approves-tax-incentives-for-new-entertainment-complex"
-    },
-    {
-      "id": 58,
-      "title": "Florida man arrested for allegedly threatening to 'kill everyone' on Epstein client list with machete",
-      "summary": "Florida man arrested for allegedly threatening violence against individuals on Epstein client list",
-      "source": "Fox News",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:13:07Z",
-      "url": "https://www.foxnews.com/us/florida-man-arrested-allegedly-threatening-kill-everyone-epstein-client-list-machete"
     }
   ]
 }
