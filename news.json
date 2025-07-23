@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-23T05:24:03.388Z",
+  "lastUpdate": "2025-07-23T05:51:06.785Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Syngenta eyes global biologicals leadership from India base, cites regulatory hurdles",
+      "summary": "Syngenta aims to become the leading biologicals company globally, capitalizing on its strong performance in India despite regulatory hurdles.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:48:28Z",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/chem-/-fertilisers/syngenta-eyes-global-biologicals-leadership-from-india-base-cites-regulatory-hurdles/articleshow/122828643.cms"
+    },
+    {
+      "id": 52,
+      "title": "The Hater's Guide To The AI Bubble",
+      "summary": "The article discusses the author's premium newsletter and subscription service, emphasizing the support for their free work. The focus is on building a sustainable business model within the AI industry.",
+      "source": "Wheresyoured.at",
+      "category": "startups",
+      "timestamp": "2025-07-22T05:47:01Z",
+      "url": "https://www.wheresyoured.at/the-haters-gui/"
+    },
+    {
+      "id": 53,
+      "title": "Is ChatGPT an AI Agent? Understanding Its Capabilities and Use Cases",
+      "summary": "Discover how ChatGPT, an AI agent, works and its real-world applications to boost productivity.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:46:45Z",
+      "url": "https://www.smashingapps.com/is-chatgpt-an-ai-agent/"
+    },
+    {
+      "id": 54,
+      "title": "Upstart Holdings, Inc. (NASDAQ:UPST) Receives $71.62 Consensus Target Price from Analysts",
+      "summary": "Upstart Holdings, Inc. received a $71.62 consensus target price from analysts and has been given an average rating of 'Hold' by research firms covering the stock.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-22T05:45:39Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/upstart-holdings-inc-nasdaqupst-receives-71-62-consensus-target-price-from-analysts/"
+    },
+    {
+      "id": 55,
+      "title": "Aeluma (NASDAQ:ALMU) and ESPEY MFG & ELECTRONICS (NYSE:ESP) Head-To-Head Analysis",
+      "summary": "Aeluma (NASDAQ:ALMU) and ESPEY MFG & ELECTRONICS (NYSE:ESP) are being compared as small-cap manufacturing companies in terms of institutional ownership strength.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:45:38Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/aeluma-nasdaqalmu-and-espey-mfg-electronics-nyseesp-head-to-head-analysis/"
+    },
+    {
+      "id": 56,
+      "title": "agentbeats 0.1.2",
+      "summary": "AgentBeats 0.1.2 is a new SDK designed for creating AI agents for security contests.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:45:26Z",
+      "url": "https://pypi.org/project/agentbeats/0.1.2/"
+    },
+    {
+      "id": 57,
+      "title": "AIトレーニングのご紹介:Atlassian Intelligence + Rovo：チームの生産性を革新するAIエンジン：INNOOV株式会社主催",
+      "summary": "Atlassian Intelligence and Rovo introduce AI training to revolutionize team productivity, organized by INNOOV Co., Ltd.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:43:42Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000044187.html"
+    },
+    {
+      "id": 58,
+      "title": "A Closer Look At Verve Group SE's (ETR:M8G) Uninspiring ROE",
+      "summary": "Verve Group SE's ROE is underwhelming, with this article aimed at investors looking to improve their understanding of financial metrics.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:43:36Z",
+      "url": "https://finance.yahoo.com/news/closer-look-verve-group-ses-054336637.html"
+    },
+    {
+      "id": 59,
+      "title": "AMD Ryzen AI MAX \"Strix Halo\" APUs Arrive on Mini‑ITX Boards with 128 GB LPDDR5X",
+      "summary": "AMD Ryzen AI MAX 'Strix Halo' APUs are now available on Mini-ITX boards with 128 GB LPDDR5X, thanks to Chinese ODM Sixunited introducing its STHT1 Thin Mini-ITX board. These SoCs were previously only found in high-end laptops and compact PCs, marking a significant innovation for the PC enthusiast market.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:42:42Z",
+      "url": "https://www.techpowerup.com/339124/amd-ryzen-ai-max-strix-halo-apus-arrive-on-mini-itx-boards-with-128-gb-lpddr5x"
+    },
+    {
+      "id": 60,
+      "title": "Ticket #63735 ([Collaboration Inquiry] A Proposal to Discuss Improving Theme ...) created",
+      "summary": "A proposal to discuss improving theme compatibility for the Automattic/wordpress-activitypub plugin with the WordPress Core Theme Team.",
+      "source": "Wordpress.org",
+      "category": "research",
+      "timestamp": "2025-07-22T05:42:16Z",
+      "url": "https://core.trac.wordpress.org/ticket/63735"
+    },
+    {
+      "id": 61,
+      "title": "Health Ministry using AI to map potential dengue hotspots, says Dzulkefly",
+      "summary": "Health Ministry using AI to map potential dengue hotspots to enhance targeted interventions against the disease.",
+      "source": "The Star Online",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:42:00Z",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/22/health-ministry-using-ai-to-map-potential-dengue-hotspots-says-dzulkefly"
+    },
+    {
+      "id": 62,
+      "title": "Allganizeの「Alli LLM App Market」、ノーコード生成AIプラットフォーム市場においてシェアNo.1を獲得",
+      "summary": "Allganize Japan's Alli LLM App Market has become the number one player in the no-code AI platform market, showcasing their success in the industry.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-22T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000085.000034106.html"
+    },
+    {
+      "id": 63,
+      "title": "Idein、キヤノンマーケティングジャパンとの事業共創に向けて出資を受け入れ",
+      "summary": "Idein has accepted investment for business co-creation with Canon Marketing Japan, as they work towards developing new projects together.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-22T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000098.000026271.html"
+    },
+    {
+      "id": 64,
+      "title": "fastmcp-ai-agent-bridge-pydantic-ai 0.1.2",
+      "summary": "The fastmcp-ai-agent-bridge-pydantic-ai 0.1.2 is a new version of the Pydantic AI Agent Bridge, enhancing the capabilities of AI agents. It shows innovation in bridging AI technologies for better communication and collaboration.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:39:33Z",
+      "url": "https://pypi.org/project/fastmcp-ai-agent-bridge-pydantic-ai/0.1.2/"
+    },
+    {
+      "id": 65,
+      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
+      "summary": "A new report from Austin, United States reveals that only 10% of employees are responsible for 73% of cyber risk in organizations.",
+      "source": "Next Big Future",
+      "category": "research",
+      "timestamp": "2025-07-22T05:39:17Z",
+      "url": "https://www.nextbigfuture.com/2025/07/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk.html"
+    },
+    {
+      "id": 66,
+      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
+      "summary": "A new report from Austin, United States reveals that only 10% of employees are responsible for 73% of cyber risk within organizations.",
+      "source": "HackRead",
+      "category": "research",
+      "timestamp": "2025-07-22T05:39:13Z",
+      "url": "https://hackread.com/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk/"
+    },
+    {
+      "id": 67,
+      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
+      "summary": "A new report shows that a small percentage of employees are responsible for the majority of cyber risk in organizations.",
+      "source": "DevOps.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T05:39:10Z",
+      "url": "https://devops.com/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk/"
+    },
+    {
+      "id": 68,
+      "title": "Sixunited STHT1 mini-ITX motherboard unveiled with AMD Strix Halo processors",
+      "summary": "Sixunited has unveiled a new mini-ITX motherboard (STHT1) with AMD Strix Halo processors, featuring soldered LPDDR5X RAM and a variety of I/O options.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:39:00Z",
+      "url": "https://www.notebookcheck.net/Sixunited-STHT1-mini-ITX-motherboard-unveiled-with-AMD-Strix-Halo-processors.1064512.0.html"
+    },
     {
       "id": 51,
       "title": "swe-ai-agent 1.0.67",
@@ -288,168 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T04:06:53Z",
       "url": "https://dev.to/marutitech/top-11-deep-learning-frameworks-in-2025-comparative-guide-use-cases-2b74"
-    },
-    {
-      "id": 57,
-      "title": "MAGA-style 'Anti-globalist' Politics Arrives In Japan",
-      "summary": "Populist ideals influenced by 'anti-globalist' politics are gaining traction in Japan, mirroring movements seen in other countries. These ideals often include anti-immigration and anti-elitism sentiments, sparking debate on the ethical implications of such ideologies.",
-      "source": "International Business Times",
-      "category": "ethics",
-      "timestamp": "2025-07-22T04:06:21Z",
-      "url": "https://www.ibtimes.com/maga-style-anti-globalist-politics-arrives-japan-3779089"
-    },
-    {
-      "id": 58,
-      "title": "The CLARITY Act’s Unfinished Business",
-      "summary": "The CLARITY Act's Unfinished Business addresses regulatory uncertainty surrounding digital assets in American financial law. President Trump signed the GENIUS Act to guide and establish national innovation for US stablecoins.",
-      "source": "Columbia.edu",
-      "category": "economy",
-      "timestamp": "2025-07-22T04:05:22Z",
-      "url": "https://clsbluesky.law.columbia.edu/2025/07/22/the-clarity-acts-unfinished-business/"
-    },
-    {
-      "id": 59,
-      "title": "Will Sergio Ramos miss the All-Star Game?",
-      "summary": "Just before the All-Star Game, questions were raised about Sergio Ramos's participation, drawing attention to his potential absence from the competition.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T04:03:00Z",
-      "url": "https://onefootball.com/en/news/will-sergio-ramos-miss-the-all-star-game-41407125"
-    },
-    {
-      "id": 51,
-      "title": "Superhuman Sight AR Glasses - UTRACK AR Glasses Has Integrated AI for Extraordinary Visual Insight (TrendHunter.com)",
-      "summary": "UTRACK AR glasses with integrated AI offer extraordinary visual insight by combining thermal imaging, sonar, and AI technology to unlock visual layers invisible to the human eye.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T03:15:06Z",
-      "url": "https://www.trendhunter.com/trends/utrack-ar"
-    },
-    {
-      "id": 52,
-      "title": "gllm-agents-binary 0.2.29",
-      "summary": "gllm-agents-binary 0.2.29 is a library for managing agents in Gen AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T03:14:43Z",
-      "url": "https://pypi.org/project/gllm-agents-binary/0.2.29/"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI and Google outdo the mathletes, but not each other",
-      "summary": "AI models from OpenAI and Google DeepMind achieved gold-medal scores in the 2025 International Math Olympiad, showcasing advancements in AI research.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-22T03:10:27Z",
-      "url": "https://biztoc.com/x/15996548f983772d"
-    },
-    {
-      "id": 54,
-      "title": "Packaging Corporation of America (PKG) Q2 Earnings Report Preview: What To Look For",
-      "summary": "Packaging Corporation of America (NYSE:PKG) will be reporting Q2 earnings after the bell, providing insight into the company's financial performance. Investors should pay attention to the results to gauge the state of the packaging industry and overall economy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T03:10:25Z",
-      "url": "https://finance.yahoo.com/news/packaging-corporation-america-pkg-q2-031025305.html"
-    },
-    {
-      "id": 55,
-      "title": "Earnings To Watch: Robert Half (RHI) Reports Q2 Results Tomorrow",
-      "summary": "Specialized talent solutions company Robert Half (NYSE:RHI) will be reporting earnings this Wednesday after market close.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T03:10:10Z",
-      "url": "https://finance.yahoo.com/news/earnings-watch-robert-half-rhi-031010511.html"
-    },
-    {
-      "id": 56,
-      "title": "Scoring New Customers",
-      "summary": "AI technology is being utilized in database marketing, data mining, analytics, and predictive modeling to score new customers and improve business strategies",
-      "source": "Minethatdata.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T03:10:00Z",
-      "url": "https://blog.minethatdata.com/2025/07/scoring-new-customers.html"
-    },
-    {
-      "id": 57,
-      "title": "Richardson Electronics Earnings: What To Look For From RELL",
-      "summary": "Richardson Electronics, a distributor of electronics, is set to announce its earnings results this Wednesday after market close. Investors will be looking for insights into the company's financial performance and future outlook.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T03:09:44Z",
-      "url": "https://finance.yahoo.com/news/richardson-electronics-earnings-look-rell-030944065.html"
-    },
-    {
-      "id": 58,
-      "title": "Graco (GGG) Q2 Earnings Report Preview: What To Look For",
-      "summary": "Fluid and coating equipment company Graco (NYSE:GGG) will be reporting earnings this Wednesday after market close, providing insights into the company's performance and the overall economic outlook for the industry.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T03:09:21Z",
-      "url": "https://finance.yahoo.com/news/graco-ggg-q2-earnings-report-030921213.html"
-    },
-    {
-      "id": 59,
-      "title": "CARV Advances AI Beings Roadmap With Hackathon and More Than 12 Ecosystem Partnerships",
-      "summary": "CARV is advancing the development of autonomous AI Beings through a hackathon and partnerships with over 12 ecosystem partners, aiming to create AI entities that can live, learn, and evolve on-chain in the digital frontier",
-      "source": "The Daily Hodl",
-      "category": "innovation",
-      "timestamp": "2025-07-22T03:07:18Z",
-      "url": "https://dailyhodl.com/2025/07/21/carv-advances-ai-beings-roadmap-with-hackathon-and-more-than-12-ecosystem-partnerships/"
-    },
-    {
-      "id": 60,
-      "title": "CARV Advances AI Beings Roadmap with Hackathon and 12+ Ecosystem Partnerships",
-      "summary": "CARV advances AI beings roadmap with hackathon and 12+ ecosystem partnerships in San Jose, California, aiming to create sovereign, autonomous AI beings that live, learn, and evolve on-chain.",
-      "source": "The Daily Hodl",
-      "category": "innovation",
-      "timestamp": "2025-07-22T03:07:18Z",
-      "url": "https://dailyhodl.com/2025/07/21/carv-advances-ai-beings-roadmap-with-hackathon-and-12-ecosystem-partnerships/"
-    },
-    {
-      "id": 61,
-      "title": "datagrid-ai 0.1.0a18",
-      "summary": "The datagrid-ai 0.1.0a18 is the official Python library for the datagrid API, providing a tool for developers to access and utilize AI-related functionalities. This library aims to enhance the capabilities of AI applications and streamline the development process.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T03:05:52Z",
-      "url": "https://pypi.org/project/datagrid-ai/0.1.0a18/"
-    },
-    {
-      "id": 62,
-      "title": "Techman Robot eyes massive growth as Nvidia, TSMC, Tesla rally behind robotics boom",
-      "summary": "Techman Robot eyes massive growth as Nvidia, TSMC, Tesla rally behind robotics boom",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-22T03:02:36Z",
-      "url": "https://www.digitimes.com/news/a20250722PD207/tsmc-robotics-growth-ceo-techman.html"
-    },
-    {
-      "id": 63,
-      "title": "「モデルはつくる時代になる─」株式会社FEIDIASはTRENDORA社との戦略的業務提携により、ONE BRAND ONE MODEL事業のSaaSサービス化を本格展開。",
-      "summary": "Feidias Co., Ltd. is partnering with Trendora Inc. to launch the SaaS service for its ONE BRAND ONE MODEL business. This strategic collaboration aims to innovate and expand the modeling business in the era of creating models.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-22T03:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000007.000146150.html"
-    },
-    {
-      "id": 64,
-      "title": "Exclusive – Sen. Cynthia Lummis: Wyoming Mine 'Game Changer' for Trump's Mineral, Energy Agenda",
-      "summary": "President Trump opened a Wyoming mine that will reduce American dependence on China for critical minerals, according to Sen. Cynthia Lummis.",
-      "source": "Breitbart News",
-      "category": "economy",
-      "timestamp": "2025-07-22T02:59:37Z",
-      "url": "https://www.breitbart.com/politics/2025/07/21/exclusive-sen-cynthia-lummis-wyoming-mine-game-changer-mineral-energy-agenda/"
-    },
-    {
-      "id": 65,
-      "title": "[Unboxing] Galaxy Z Fold7: Powerful Versatility in the Thinnest, Lightest Z Fold Yet",
-      "summary": "The Galaxy Z Fold7 is the thinnest and lightest yet, with multimodal AI and foldable-optimized UI for powerful versatility.",
-      "source": "Samsung.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T02:54:34Z",
-      "url": "https://news.samsung.com/global/unboxing-galaxy-z-fold7-powerful-versatility-in-the-thinnest-lightest-z-fold-yet"
     }
   ]
 }
