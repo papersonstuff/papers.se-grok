@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-23T20:44:41.138Z",
+  "lastUpdate": "2025-07-23T20:56:26.770Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Surprising no one, new research says AI Overviews cause massive drop in search clicks",
+      "summary": "New research from the Pew Research Center reveals that AI Overviews lead to a significant decrease in search clicks, impacting web traffic.",
+      "source": "Slashdot.org",
+      "category": "research",
+      "timestamp": "2025-07-22T20:55:12Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178441500"
+    },
+    {
+      "id": 52,
+      "title": "Apple Seeds Fourth Betas of watchOS 26, tvOS 26, and visionOS 26 to Developers",
+      "summary": "Apple releases fourth betas of watchOS 26, tvOS 26, and visionOS 26 to developers for testing purposes.",
+      "source": "Mactrast.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T20:54:55Z",
+      "url": "https://www.mactrast.com/2025/07/apple-seeds-fourth-betas-of-watchos-26-tvos-26-and-visionos-26-to-developers/"
+    },
+    {
+      "id": 53,
+      "title": "The 4 Best Nanny Cameras To Keep Caregivers In The Loop",
+      "summary": "The best nanny cameras are easy to use, connect easily to your phone and offer clear video. See our top picks of 2025 from brands like Google, Eufy and more.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-22T20:54:38Z",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-nanny-camera/"
+    },
+    {
+      "id": 54,
+      "title": "Amazon acquires Bee, the AI wearable that records everything you say",
+      "summary": "Amazon acquires Bee, an AI wearable startup, but deal has not yet closed.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T20:54:03Z",
+      "url": "https://biztoc.com/x/4bc971e50ca91dd7"
+    },
+    {
+      "id": 55,
+      "title": "Sen. Mike Lee posts, deletes fake resignation letter by Fed Chair Powell: Reports",
+      "summary": "Sen. Mike Lee mistakenly shared and then deleted a fake resignation letter by Fed Chair Powell, which was apparently AI-generated. This incident raises ethical concerns about the spread of misinformation and the potential misuse of AI technology.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:54:00Z",
+      "url": "https://biztoc.com/x/282d8e97c4dd72a8"
+    },
+    {
+      "id": 56,
+      "title": "Eventual, a climate fintech, raises $7.5 million seed round from AlleyCorp and Upfront Ventures",
+      "summary": "Eventual, a climate fintech, raises $7.5 million seed round to further develop their AI model that predicts insurance prices for U.S. properties up to five years in the future.",
+      "source": "Fortune",
+      "category": "startups",
+      "timestamp": "2025-07-22T20:53:53Z",
+      "url": "https://fortune.com/2025/07/22/eventual-a-climate-fintech-raises-7-5-million-seed-round-from-alleycorp-and-upfront-ventures/"
+    },
+    {
+      "id": 57,
+      "title": "Talen Energy Reports PJM Auction Results for the 2026/2027 Planning Year",
+      "summary": "Talen Energy Corporation reported the results from the PJM Base Residual Auction for the 2026/2027 planning year, showing their success in clearing a certain threshold.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T20:53:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119883/0/en/Talen-Energy-Reports-PJM-Auction-Results-for-the-2026-2027-Planning-Year.html"
+    },
+    {
+      "id": 58,
+      "title": "Everything Trump Has Done That Critics Say Is Meant To Distract From Epstein Scandal",
+      "summary": "Trump is accused of trying to distract from the Epstein scandal by focusing on other issues. He claimed he doesn't follow the backlash to his administration's handling of Epstein investigatory documents.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:52:49Z",
+      "url": "https://www.forbes.com/sites/saradorn/2025/07/22/everything-trump-has-done-that-critics-say-is-meant-to-distract-from-epstein-scandal/"
+    },
+    {
+      "id": 59,
+      "title": "Amazon acquires Bee, the AI wearable that records everything you say | TechCrunch",
+      "summary": "Amazon acquires Bee, an AI wearables startup known for its bracelet and Apple Watch app that records daily activities to serve as an AI assistant.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-22T20:52:34Z",
+      "url": "https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/"
+    },
+    {
+      "id": 60,
+      "title": "Amazon acquires Bee, the AI wearable that records everything you say",
+      "summary": "Amazon acquires Bee, the AI wearable startup that records everything you say, including a bracelet and Apple Watch app.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-22T20:51:41Z",
+      "url": "https://finance.yahoo.com/news/amazon-acquires-bee-ai-wearable-205141903.html"
+    },
+    {
+      "id": 61,
+      "title": "AI startups raised $104 billion in first half of year, but exits tell a different story",
+      "summary": "AI startups raised $104 billion in the first half of the year, with nearly two-thirds of all fundraising deal value coming from AI. However, exits tell a different story, with the bulk of those dollars concentrated in a few companies.",
+      "source": "CNBC",
+      "category": "startups",
+      "timestamp": "2025-07-22T20:51:16Z",
+      "url": "https://www.cnbc.com/2025/07/22/ai-startups-raised-104-billion-in-first-half-exits-different-story.html"
+    },
     {
       "id": 51,
       "title": "OpenAI’s Sam Altman warns of AI voice fraud crisis in banking",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T19:28:18Z",
       "url": "https://pypi.org/project/palimpzest/0.7.17/"
-    },
-    {
-      "id": 53,
-      "title": "Bill Gates Complains Trump Has Put His Global 'Vaccine' Agenda 'at Risk'",
-      "summary": "Billionaire Bill Gates accuses Trump administration of putting his global 'vaccination' agenda at risk by cutting off taxpayer funding for GAVI, the Vaccine Alliance.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T19:27:42Z",
-      "url": "https://freerepublic.com/focus/f-bloggers/4330134/posts"
-    },
-    {
-      "id": 54,
-      "title": "Bill Gates Complains Trump Has Put His Global 'Vaccine' Agenda 'at Risk'",
-      "summary": "Bill Gates accuses Trump of putting global vaccination agenda at risk by cutting funding for GAVI",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T19:27:42Z",
-      "url": "https://freerepublic.com/focus/f-news/4330134/posts"
-    },
-    {
-      "id": 55,
-      "title": "CMF by Nothing launches Watch 3 Pro with AI-powered fitness features",
-      "summary": "The CMF Watch 3 Pro by Nothing launches with AI-powered fitness features, offering enhanced health monitoring, more sports modes, and AI-powered running guidance.",
-      "source": "Android Central",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:26:18Z",
-      "url": "https://www.androidcentral.com/wearables/cmf-watch-3-pro-launch"
-    },
-    {
-      "id": 56,
-      "title": "You might be surprised by the list of states adopting ChatGPT the fastest",
-      "summary": "A new report from OpenAI highlights the 15 states that are adopting ChatGPT the fastest.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:26:18Z",
-      "url": "https://www.businessinsider.com/list-states-adopting-chatgpt-fastest-2025-7"
-    },
-    {
-      "id": 57,
-      "title": "Neutrality Is A Myth: Generative AI And The Politics Of Everything",
-      "summary": "AI now shapes how we see truth, history, and democracy, raising concerns about maintaining shared reality and protecting facts.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-22T19:25:48Z",
-      "url": "https://www.forbes.com/sites/nizangpackin/2025/07/22/neutrality-is-a-myth-generative-ai-and-the-politics-of-everything/"
-    },
-    {
-      "id": 58,
-      "title": "Wall Street is upbeat on tech megacaps, but big questions loom on AI spending, China, Trump tariffs",
-      "summary": "Wall Street upbeat on tech megacaps for second-quarter earnings, concerns about AI spending, China, and Trump tariffs loom.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T19:24:38Z",
-      "url": "https://biztoc.com/x/8a928ee6ea57ca72"
-    },
-    {
-      "id": 59,
-      "title": "After ‘MechaHitler’ fiasco, Musk pitches a Grok AI bot for kids",
-      "summary": "Elon Musk pitches a Grok AI bot for kids after the controversy surrounding the 'MechaHitler' incident.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:24:28Z",
-      "url": "https://biztoc.com/x/695b20fa0c4dab0b"
-    },
-    {
-      "id": 60,
-      "title": "Renewable energy hits global tipping point for even lower costs, UN says",
-      "summary": "Renewable energy costs have become even lower on a global scale, marking a tipping point according to the UN. UN chief Antonio Guterres stated that the fossil fuel age is declining as renewable energy becomes more affordable.",
-      "source": "Al Jazeera English",
-      "category": "economy",
-      "timestamp": "2025-07-22T19:24:08Z",
-      "url": "https://www.aljazeera.com/news/2025/7/22/green-power-now-cheaper-than-fossil-fuels-un-reports-show"
-    },
-    {
-      "id": 61,
-      "title": "The US Air Force let AI help operators find targets to speed up kill chain decisions",
-      "summary": "The US Air Force used AI to assist operators in finding targets and making kill chain decisions, resulting in differences between AI-generated recommendations and operator decisions.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:22:58Z",
-      "url": "https://www.businessinsider.com/air-force-tested-using-ai-make-targeting-kill-chain-faster-2025-7"
-    },
-    {
-      "id": 62,
-      "title": "Apple has re-enabled Apple Intelligence Notification Summaries",
-      "summary": "Apple has re-enabled Apple Intelligence Notification Summaries, allowing users to quickly get the latest news with the beta.",
-      "source": "Goodereader",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:22:54Z",
-      "url": "https://goodereader.com/blog/digital-publishing/apple-has-re-enabled-apple-intelligence-notification-summaries"
-    },
-    {
-      "id": 63,
-      "title": "ASM second-quarter bookings disappoint, cites order timing",
-      "summary": "ASM International's second-quarter bookings were below market expectations, citing uneven order timing as a key factor.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T19:22:30Z",
-      "url": "https://finance.yahoo.com/news/asm-second-quarter-bookings-disappoint-192230809.html"
     }
   ]
 }
