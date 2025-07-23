@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-23T04:54:24.448Z",
+  "lastUpdate": "2025-07-23T05:24:03.388Z",
   "items": [
+    {
+      "id": 51,
+      "title": "swe-ai-agent 1.0.67",
+      "summary": "swe-ai-agent 1.0.67 is a Headless Agentic IDE with comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:22:09Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.67/"
+    },
+    {
+      "id": 52,
+      "title": "akihiro 1.1.1",
+      "summary": "Akihiro 1.1.1 is a Python package that aims to enhance the programming experience by incorporating AI LLM capabilities.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:21:01Z",
+      "url": "https://pypi.org/project/akihiro/1.1.1/"
+    },
+    {
+      "id": 53,
+      "title": "ai-git-utils 0.4.0",
+      "summary": "ai-git-utils 0.4.0 is an intelligent Git commit assistant that utilizes AI to improve Git workflow.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:19:00Z",
+      "url": "https://pypi.org/project/ai-git-utils/0.4.0/"
+    },
+    {
+      "id": 54,
+      "title": "Japan moves toward first new reactor since Fukushima disaster",
+      "summary": "Japan takes initial step towards building first new nuclear reactor since Fukushima disaster.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:18:00Z",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-new-nuclear-reactor-fukushima-disaster-kansai-electric-mihama-5251216"
+    },
+    {
+      "id": 55,
+      "title": "Tata Communications collaborates with Amazon to establish advanced AI-ready network in India",
+      "summary": "Tata Communications and Amazon are collaborating to establish an advanced AI-ready network in India, connecting major AWS infrastructure locations to drive cloud innovation and accelerate the adoption of generative AI.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:17:48Z",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-comm-collaborates-with-amazon-to-establish-advanced-ai-ready-network-in-india/articleshow/122827986.cms"
+    },
+    {
+      "id": 56,
+      "title": "kn-dataset-tools 0.62.dev0",
+      "summary": "kn-dataset-tools 0.62.dev0 is a simple viewer for EXIF and AI Metadata, allowing for easy access to these data types. It is designed to assist with organizing and analyzing datasets for AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T05:13:46Z",
+      "url": "https://pypi.org/project/kn-dataset-tools/0.62.dev0/"
+    },
+    {
+      "id": 57,
+      "title": "'Humanity has won (so far)!' - Meet the world's best programmer who beat ChatGPT's AI",
+      "summary": "Pole Przemyslaw 'Psyho' Debiak wins AWTF Heuristic programming tournament by beating ChatGPT's AI, becoming the only human to have succeeded so far.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:13:18Z",
+      "url": "https://biztoc.com/x/3c9e7cd1da7cd31a"
+    },
+    {
+      "id": 58,
+      "title": "Grid Dynamics (NASDAQ:GDYN) Rating Lowered to Hold at Wall Street Zen",
+      "summary": "Grid Dynamics (NASDAQ:GDYN) Rating Lowered to Hold at Wall Street Zen, impacting the company's stock performance.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:12:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/grid-dynamics-nasdaqgdyn-rating-lowered-to-hold-at-wall-street-zen/"
+    },
+    {
+      "id": 59,
+      "title": "Fluence Energy (NASDAQ:FLNC) Shares Up 7.4% Following Analyst Upgrade",
+      "summary": "Fluence Energy shares rose 7.4% after an analyst upgrade from Susquehanna, who raised their price target on the stock from $6.00 to $11.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:12:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/fluence-energy-nasdaqflnc-shares-up-7-4-following-analyst-upgrade/"
+    },
+    {
+      "id": 60,
+      "title": "Pagaya Technologies (NASDAQ:PGY) Reaches New 1-Year High Following Analyst Upgrade",
+      "summary": "Pagaya Technologies stock price reaches a new 52-week high following an analyst upgrade from Citigroup, with a new price target set at $40.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:12:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/pagaya-technologies-nasdaqpgy-reaches-new-1-year-high-following-analyst-upgrade/"
+    },
+    {
+      "id": 61,
+      "title": "CoreWeave (NASDAQ:CRWV) Trading Up 7.8% After Analyst Upgrade",
+      "summary": "CoreWeave Inc. (NASDAQ:CRWV) shares were up 7.8% after Barclays raised their price target on the stock to $140.00, with an equal weight rating. This suggests positive developments in the AI-related industry.",
+      "source": "ETF Daily News",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:12:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/coreweave-nasdaqcrwv-trading-up-7-8-after-analyst-upgrade/"
+    },
+    {
+      "id": 62,
+      "title": "NASA’s Roman telescope will catch 100,000 explosions — and rewrite the Universe’s story",
+      "summary": "NASA's Roman Space Telescope will conduct a deep-sky survey to capture around 100,000 cosmic explosions, providing insights into dark energy and black hole physics.",
+      "source": "Science Daily",
+      "category": "research",
+      "timestamp": "2025-07-22T05:12:20Z",
+      "url": "https://www.sciencedaily.com/releases/2025/07/250721223833.htm"
+    },
+    {
+      "id": 63,
+      "title": "wave-lang added to PyPI",
+      "summary": "Wave-lang, a new language for machine learning, has been added to PyPI for easier access and use in AI projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T05:11:58Z",
+      "url": "https://pypi.org/project/wave-lang/"
+    },
+    {
+      "id": 64,
+      "title": "wave-lang 1.0.0",
+      "summary": "wave-lang 1.0.0 has been released, offering Wave Language for Machine Learning, providing new capabilities for AI researchers and developers.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-22T05:11:58Z",
+      "url": "https://pypi.org/project/wave-lang/1.0.0/"
+    },
+    {
+      "id": 65,
+      "title": "Contrasting Dell Technologies (NYSE:DELL) & Lenovo Group (OTCMKTS:LNVGY)",
+      "summary": "Dell Technologies and Lenovo Group, both large-cap computer and technology companies, are being compared to determine which is the better business based on their earnings.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T05:10:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/contrasting-dell-technologies-nysedell-lenovo-group-otcmktslnvgy/"
+    },
+    {
+      "id": 66,
+      "title": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Receives $10.57 Consensus PT from Brokerages",
+      "summary": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Receives $10.57 Consensus PT from Brokerages - Adaptive Biotechnologies Corporation (NASDAQ:ADPT – Get Free Report) has been assigned a consensus recommendation of “Moderate Buy” from the seven ratings firms that are covering the firm.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-22T05:10:47Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/adaptive-biotechnologies-corporation-nasdaqadpt-receives-10-57-consensus-pt-from-brokerages/"
+    },
     {
       "id": 51,
       "title": "OpenAI to expand UK operations, boost public services and AI security",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T02:54:34Z",
       "url": "https://news.samsung.com/global/unboxing-galaxy-z-fold7-powerful-versatility-in-the-thinnest-lightest-z-fold-yet"
-    },
-    {
-      "id": 51,
-      "title": "Perplexity CEO says his AI browser will replace these two white collar jobs in every company - The Indian Express",
-      "summary": "Perplexity CEO claims their AI browser will replace two white-collar jobs in every company, emphasizing the importance of learning about AI to stay relevant in the job market.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T01:12:18Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178434784"
-    },
-    {
-      "id": 52,
-      "title": "The AI arms race with China demands scale. The West must think bigger.",
-      "summary": "The AI arms race with China demands scale, pushing the West to think bigger in order to compete in new technologies.",
-      "source": "The Japan Times",
-      "category": "innovation",
-      "timestamp": "2025-07-22T01:10:00Z",
-      "url": "https://www.japantimes.co.jp/commentary/2025/07/22/world/scale-is-the-key-to-success/"
-    },
-    {
-      "id": 53,
-      "title": "‘Involution’: China’s problem with competition is there’s too much of it",
-      "summary": "China is facing challenges with domestic overcompetition, which is exacerbated by Trump's tariffs, causing urgency in their efforts to address this issue.",
-      "source": "The Straits Times",
-      "category": "economy",
-      "timestamp": "2025-07-22T01:06:52Z",
-      "url": "https://www.straitstimes.com/business/economy/involution-chinas-problem-with-competition-is-theres-too-much-of-it"
-    },
-    {
-      "id": 54,
-      "title": "Kyntait u Myntri ia ka jingkynnoh ba ka MEG kan aiti  ia ki skul/college sha ki riew shimet",
-      "summary": "The Meghalaya Education Minister announced the launch of the Meghalaya Education Grant (MEG) to support schools and colleges in the state. The Voice of the People Party (VPP) leader has raised concerns about the implementation of this grant.",
-      "source": "Syllad.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T01:03:00Z",
-      "url": "https://www.syllad.com/kyntait-u-myntri-ia-ka-jingkynnoh-ba-ka-meg-kan-aiti-ia-ki-skul-college-sha-ki-riew-shimet/"
-    },
-    {
-      "id": 55,
-      "title": "Grant Cardone Explains Why The 401(k) Is 'The Biggest Scam' In Finance",
-      "summary": "Financial personality Grant Cardone criticizes 401(k) and IRA plans as 'the biggest scam' in finance.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T01:00:56Z",
-      "url": "https://finance.yahoo.com/news/grant-cardone-explains-why-401-010056025.html"
-    },
-    {
-      "id": 56,
-      "title": "生成AIは“余白時間”を生み出す手段だ。 「AICA認定講師＆コンサルタント養成プロジェクト」始動！─2030年の労働力不足に備え、プロ講師と共に“正しく・本質的に活用する”組織支援モデル確立へ─",
-      "summary": "AI-generated content creating 'margin time'; AICA launches a project to train certified instructors and consultants to establish a support model for proper and essential utilization of AI in preparation for labor shortage in 2030.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-22T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000138112.html"
-    },
-    {
-      "id": 57,
-      "title": "OKIとEfinix(R)、FPGAの論理回路設計と搭載AI機器設計・生産サービス事業で提携",
-      "summary": "OKI and Efinix collaborate in FPGA logic circuit design and AI device design and production services.",
-      "source": "Prtimes.jp",
-      "category": "innovation",
-      "timestamp": "2025-07-22T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000793.000017036.html"
-    },
-    {
-      "id": 58,
-      "title": "AI Benchmarks: How Companies Can Use Them to Assess Tech",
-      "summary": "AI Benchmarks: How Companies Can Use Them to Assess Tech - Companies introduce AI models topping benchmarks, sparking competition. This allows for more effective assessment and comparison of AI technology within the industry.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-22T00:56:52Z",
-      "url": "https://biztoc.com/x/9cba991cd404f7d8"
-    },
-    {
-      "id": 59,
-      "title": "Stargate Dials Back Near-Term Goal Amid Disagreement Over Data Center Sites",
-      "summary": "Stargate's AI infrastructure project is dialing back its near-term goal due to disagreement over data center sites, experiencing a slow start six months after its announcement.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T00:56:51Z",
-      "url": "https://biztoc.com/x/16f50484bf30d1ce"
-    },
-    {
-      "id": 60,
-      "title": "Perplexity's Comet AI Browser Wants to Dethrone Chrome on Your Phone",
-      "summary": "Perplexity AI is looking to challenge Google Chrome on mobile phones by pre-installing its Comet browser, potentially disrupting the browser market.",
-      "source": "Android Headlines",
-      "category": "startups",
-      "timestamp": "2025-07-22T00:52:49Z",
-      "url": "https://www.androidheadlines.com/2025/07/perplexity-ai-browser-phones-google-chrome.html"
-    },
-    {
-      "id": 61,
-      "title": "AI That Feels Human: Welcome to the Next Era of Personalization",
-      "summary": "Personalization in AI has evolved into a new era focused on conversation and connection, moving away from surveillance and segmentation. This marks a significant shift in how personalization is approached.",
-      "source": "International Business Times",
-      "category": "innovation",
-      "timestamp": "2025-07-22T00:48:35Z",
-      "url": "https://www.ibtimes.com/ai-that-feels-human-welcome-next-era-personalization-3779069"
-    },
-    {
-      "id": 62,
-      "title": "Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All",
-      "summary": "Anthropic CEO says company will pursue Gulf State investments despite ethical concerns raised by staff",
-      "source": "Wired",
-      "category": "ethics",
-      "timestamp": "2025-07-22T00:46:32Z",
-      "url": "https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/"
-    },
-    {
-      "id": 63,
-      "title": "Bittensor-focused firm xTAO to list common shares on TSXV; raises $22.8 million from DCG, Animoca Brands",
-      "summary": "Bittensor-focused firm xTAO raises $22.8 million from DCG, Animoca Brands to list common shares on TSXV, with a focus on contributing to Bittensor's ecosystem by fostering the development of valuable products like machine learning models.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T00:45:31Z",
-      "url": "https://biztoc.com/x/47faef5848e4339b"
-    },
-    {
-      "id": 64,
-      "title": "Therapy Session Ends With Girlfriend Storming Out Of House, But There's A Twist",
-      "summary": "Therapy session between partners takes unexpected turn as private conversation is overheard, sparking emotional reckoning.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-22T00:45:01Z",
-      "url": "https://www.newsweek.com/therapy-session-ends-girlfriend-storming-out-house-theres-twist-2101782"
-    },
-    {
-      "id": 65,
-      "title": "Air India crash exposes ‘legal black box’ in aviation",
-      "summary": "Air India crash exposes ‘legal black box’ in aviation - India needs a dedicated aviation liability law embedding both civil and criminal accountability mechanisms.",
-      "source": "BusinessLine",
-      "category": "ethics",
-      "timestamp": "2025-07-22T00:45:00Z",
-      "url": "https://www.thehindubusinessline.com/opinion/air-india-crash-exposes-legal-black-box-in-aviation/article69839605.ece"
-    },
-    {
-      "id": 66,
-      "title": "Netflix shows will, and already do, feature AI-generated scenes",
-      "summary": "Netflix is incorporating AI-generated scenes in their shows, as shown through recent productions. They are continuing to explore the use of various AI tools in their content creation.",
-      "source": "PhoneArena",
-      "category": "applications",
-      "timestamp": "2025-07-22T00:37:24Z",
-      "url": "https://www.phonearena.com/news/netflix-shows-will-feature-ai-generated-scenes_id172489"
     }
   ]
 }
