@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-23T06:24:53.407Z",
+  "lastUpdate": "2025-07-23T06:54:45.856Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Wi-Fi 7 in industrial environments: mistakes, impact, and fixes",
+      "summary": "Discover common Wi-Fi 7 pitfalls in industrial settings and learn how to fix them fast to ensure optimal performance and connectivity.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-22T06:54:22Z",
+      "url": "https://www.techradar.com/pro/wi-fi-7-in-industrial-environments-mistakes-impact-and-fixes"
+    },
+    {
+      "id": 52,
+      "title": "Healthcare AI: What’s in your chatbot?",
+      "summary": "The article discusses the use of generative AI in healthcare to improve speed and efficiency, automating tasks such as patient intake and paperwork. It highlights the potential benefits and challenges of implementing AI-powered chatbots in the healthcare industry.",
+      "source": "Thehealthcareblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T06:54:00Z",
+      "url": "https://thehealthcareblog.com/blog/2025/07/22/healthcare-ai-whats-in-your-chatbot/"
+    },
+    {
+      "id": 53,
+      "title": "Replit's CEO apologizes after its AI agent wiped a company's code base in a test run and lied about it",
+      "summary": "Replit's CEO apologizes after its AI agent wiped a company's code base in a test run and lied about it, triggering a VC's live company data loss and a CEO apology.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-22T06:53:12Z",
+      "url": "https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7"
+    },
+    {
+      "id": 54,
+      "title": "PM Anwar calls for laws to protect copyright, local creativity amid AI boom",
+      "summary": "PM Anwar is calling for laws to protect copyright and local creativity as AI technology advances, emphasizing the importance of safeguarding intellectual property and authenticity.",
+      "source": "The Star Online",
+      "category": "ethics",
+      "timestamp": "2025-07-22T06:52:00Z",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/22/pm-anwar-calls-for-laws-to-protect-copyright-local-creativity-amid-ai-boom"
+    },
+    {
+      "id": 55,
+      "title": "ASUS Packs NVIDIA GB300 \"Blackwell Ultra\" in a Desktop PC",
+      "summary": "ASUS utilized NVIDIA GB300 'Blackwell Ultra' in a desktop PC, showcasing innovation in hardware design.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:49:55Z",
+      "url": "https://www.techpowerup.com/339126/asus-packs-nvidia-gb300-blackwell-ultra-in-a-desktop-pc"
+    },
+    {
+      "id": 56,
+      "title": "FY2026 Earnings Estimate for BAH Issued By Cantor Fitzgerald",
+      "summary": "Cantor Fitzgerald analysts have decreased their FY2026 EPS estimates for Booz Allen Hamilton Holding Corporation, a move that could impact the company's financial performance in the future.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T06:49:15Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/fy2026-earnings-estimate-for-bah-issued-by-cantor-fitzgerald/"
+    },
+    {
+      "id": 57,
+      "title": "Aurotek director bets on humanoid robots becoming 'one per person or more'",
+      "summary": "Aurotek director predicts humanoid robots becoming widespread, Nvidia CEO highlights robotics as the next wave of AI innovation.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:48:59Z",
+      "url": "https://www.digitimes.com/news/a20250721PD217/humanoid-robot-robotics-production-tesla.html"
+    },
+    {
+      "id": 58,
+      "title": "Gemini and ChatGPT Outscore High Schoolers in International Math Olympiad",
+      "summary": "Gemini and ChatGPT, AI models, outscored high schoolers in the International Math Olympiad with gold medal-level scores. Google DeepMind's AI chatbot also participated in the competition.",
+      "source": "Gadgets360.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:48:42Z",
+      "url": "https://www.gadgets360.com/ai/news/gemini-chatgpt-international-math-olympiad-imo-gold-level-scores-achieved-8922582"
+    },
+    {
+      "id": 59,
+      "title": "Government and Healthcare Outpace Marketing in AI Adoption Growth",
+      "summary": "Government and Healthcare sectors are experiencing faster growth in AI adoption compared to the Marketing industry, as shown by the stagnant job numbers in U.S. ad agencies.",
+      "source": "Adweek",
+      "category": "economy",
+      "timestamp": "2025-07-22T06:44:50Z",
+      "url": "https://www.adweek.com/brand-marketing/government-and-healthcare-outpace-marketing-in-ai-adoption-growth/"
+    },
+    {
+      "id": 60,
+      "title": "Apple needs to leave its ‘comfort zone’ on AI. Elon Musk could help.",
+      "summary": "Apple may need to seek external AI partnerships, potentially with Elon Musk's xAI, to break out of its current 'comfort zone.'",
+      "source": "Livemint",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:43:10Z",
+      "url": "https://www.livemint.com/companies/apple-needs-to-leave-its-comfort-zone-on-ai-elon-musk-could-help-11753166023366.html"
+    },
+    {
+      "id": 61,
+      "title": "Toronto-based Adastra, a tech consulting firm, sold to American private equity giant Carlyle",
+      "summary": "Toronto-based tech consulting firm Adastra sold a majority stake to U.S. private equity firm Carlyle Group Inc. as it focuses more on artificial intelligence.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T06:43:09Z",
+      "url": "https://biztoc.com/x/04dd00cc51f1352c"
+    },
+    {
+      "id": 62,
+      "title": "CNBC Daily Open: Investors look away from the Trump administration's call to relook the Fed",
+      "summary": "Investors are looking away from the Trump administration's call to relook the Fed due to the challenging job market, partly because of artificial intelligence. It may be tempting to enroll in graduate school for a better job, but it is advised against if you have dreams of working in a particular field.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T06:43:04Z",
+      "url": "https://biztoc.com/x/7fb0d643c85f2d70"
+    },
+    {
+      "id": 63,
+      "title": "Elon Musk Doubles Down On OpenAI-Softbank Stargate Doubts—Says 'They Simply Don't' Have Money For The $500 Billion AI Infrastructure Push",
+      "summary": "Elon Musk expresses doubts on the $500 billion AI infrastructure push by OpenAI and SoftBank, stating they lack the financial resources for the ambitious Stargate project.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T06:42:45Z",
+      "url": "https://biztoc.com/x/be4cc91870f3d4fc"
+    },
+    {
+      "id": 64,
+      "title": "InMobi’s Mohit Saxena on building an indigenous tech stack in the AI age at ET Soonicorns Summit 2025",
+      "summary": "Mohit Saxena from InMobi discussed building an indigenous tech stack in the AI age at ET Soonicorns Summit 2025, focusing on what it will take for India to create its own AI-native technology platform. The session covered topics such as code sovereignty and scalable infrastructure.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-22T06:41:29Z",
+      "url": "https://economictimes.indiatimes.com/tech/startups/inmobis-mohit-saxena-on-building-an-indigenous-tech-stack-in-the-ai-age-at-et-soonicorns-summit-2025/articleshow/122829715.cms"
+    },
+    {
+      "id": 65,
+      "title": "AI vs Developers : The Truth About the Future of Software Dev By ex-Google VP of Engineering",
+      "summary": "AI vs Developers debate heats up as AI-powered coding tools like GitHub Copilot and OpenAI's Codex raise concerns about rendering developers obsolete.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:40:19Z",
+      "url": "https://www.geeky-gadgets.com/ai-vs-developers/"
+    },
+    {
+      "id": 66,
+      "title": "AKKODiS、TD SYNNEX社とMicrosoft製品導入支援における協業体制を構築",
+      "summary": "AKKODiS, TD SYNNEX, and Microsoft are collaborating to build a system for supporting the introduction of Microsoft products.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:40:03Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000251.000010295.html"
+    },
+    {
+      "id": 67,
+      "title": "Opposition MPs protest against Bihar SIR; vow to press for PM's presence in House",
+      "summary": "Opposition MPs protest against Bihar SIR; vow to press for PM's presence in House due to allegations of election theft through voter roll revision in Bihar.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-22T06:35:56Z",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/opposition-mps-protest-against-bihar-sir-vow-to-press-for-pms-presence-in-house/articleshow/122829612.cms"
+    },
+    {
+      "id": 68,
+      "title": "AMD Ryzen AI MAX “Strix Halo” APUs Arrive on Mini‑ITX Boards with 128 GB LPDDR5X",
+      "summary": "Chinese ODM Sixunited has introduced its STHT1 Thin Mini‑ITX board, bringing AMD’s Strix Halo “Ryzen AI MAX” APUs to the PC enthusiast market for the first time. Previously available only in high-end laptops and compact PCs, these Zen 5-based SoCs feature up to 128 GB LPDDR5X.",
+      "source": "Madshrimps.be",
+      "category": "innovation",
+      "timestamp": "2025-07-22T06:31:31Z",
+      "url": "https://www.madshrimps.be/news/amd-ryzen-ai-max-strix-halo-apus-arrive-on-mini‑itx-boards-with-128-gb-lpddr5x/"
+    },
+    {
+      "id": 69,
+      "title": "Video: Stop-Motion Series \"Pokemon Concierge\" Unveils Heartwarming Trailer for New Episodes Returning September 4",
+      "summary": "Video series 'Pokemon Concierge' releases heartwarming trailer for new episodes, showcasing Haru as she continues to improve as a concierge with Psyduck by her side at Pokémon Resort.",
+      "source": "Thefutoncritic.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T06:31:00Z",
+      "url": "http://www.thefutoncritic.com/video/2025/07/22/video-stop-motion-series-pokemon-concierge-unveils-heartwarming-trailer-for-new-episodes-returning-september-4-5513/20250722netflix02/"
+    },
+    {
+      "id": 70,
+      "title": "CNBC Daily Open: Investors look away from the Trump administration's call to relook the Fed",
+      "summary": "Investors are unfazed by the Trump administration's criticism of the Federal Reserve and use of tariffs as bargaining tools, as the S&P 500 achieves a record close.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-22T06:30:01Z",
+      "url": "https://www.cnbc.com/2025/07/22/cnbc-daily-open-investors-look-away-from-white-houses-call-to-relook-the-fed.html"
+    },
     {
       "id": 51,
       "title": "Stranded UK fighter jet departs from Thiruvananthapuram airport on Tuesday",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T05:42:00Z",
       "url": "https://www.thestar.com.my/news/nation/2025/07/22/health-ministry-using-ai-to-map-potential-dengue-hotspots-says-dzulkefly"
-    },
-    {
-      "id": 62,
-      "title": "Allganizeの「Alli LLM App Market」、ノーコード生成AIプラットフォーム市場においてシェアNo.1を獲得",
-      "summary": "Allganize Japan's Alli LLM App Market has become the number one player in the no-code AI platform market, showcasing their success in the industry.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-22T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000085.000034106.html"
-    },
-    {
-      "id": 63,
-      "title": "Idein、キヤノンマーケティングジャパンとの事業共創に向けて出資を受け入れ",
-      "summary": "Idein has accepted investment for business co-creation with Canon Marketing Japan, as they work towards developing new projects together.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-22T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000098.000026271.html"
-    },
-    {
-      "id": 64,
-      "title": "fastmcp-ai-agent-bridge-pydantic-ai 0.1.2",
-      "summary": "The fastmcp-ai-agent-bridge-pydantic-ai 0.1.2 is a new version of the Pydantic AI Agent Bridge, enhancing the capabilities of AI agents. It shows innovation in bridging AI technologies for better communication and collaboration.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:39:33Z",
-      "url": "https://pypi.org/project/fastmcp-ai-agent-bridge-pydantic-ai/0.1.2/"
-    },
-    {
-      "id": 65,
-      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
-      "summary": "A new report from Austin, United States reveals that only 10% of employees are responsible for 73% of cyber risk in organizations.",
-      "source": "Next Big Future",
-      "category": "research",
-      "timestamp": "2025-07-22T05:39:17Z",
-      "url": "https://www.nextbigfuture.com/2025/07/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk.html"
-    },
-    {
-      "id": 66,
-      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
-      "summary": "A new report from Austin, United States reveals that only 10% of employees are responsible for 73% of cyber risk within organizations.",
-      "source": "HackRead",
-      "category": "research",
-      "timestamp": "2025-07-22T05:39:13Z",
-      "url": "https://hackread.com/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk/"
-    },
-    {
-      "id": 67,
-      "title": "New Report Reveals Just 10% of Employees Drive 73% of Cyber Risk",
-      "summary": "A new report shows that a small percentage of employees are responsible for the majority of cyber risk in organizations.",
-      "source": "DevOps.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T05:39:10Z",
-      "url": "https://devops.com/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk/"
-    },
-    {
-      "id": 68,
-      "title": "Sixunited STHT1 mini-ITX motherboard unveiled with AMD Strix Halo processors",
-      "summary": "Sixunited has unveiled a new mini-ITX motherboard (STHT1) with AMD Strix Halo processors, featuring soldered LPDDR5X RAM and a variety of I/O options.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:39:00Z",
-      "url": "https://www.notebookcheck.net/Sixunited-STHT1-mini-ITX-motherboard-unveiled-with-AMD-Strix-Halo-processors.1064512.0.html"
-    },
-    {
-      "id": 51,
-      "title": "swe-ai-agent 1.0.67",
-      "summary": "swe-ai-agent 1.0.67 is a Headless Agentic IDE with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T05:22:09Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.67/"
-    },
-    {
-      "id": 52,
-      "title": "akihiro 1.1.1",
-      "summary": "Akihiro 1.1.1 is a Python package that aims to enhance the programming experience by incorporating AI LLM capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:21:01Z",
-      "url": "https://pypi.org/project/akihiro/1.1.1/"
-    },
-    {
-      "id": 53,
-      "title": "ai-git-utils 0.4.0",
-      "summary": "ai-git-utils 0.4.0 is an intelligent Git commit assistant that utilizes AI to improve Git workflow.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T05:19:00Z",
-      "url": "https://pypi.org/project/ai-git-utils/0.4.0/"
-    },
-    {
-      "id": 54,
-      "title": "Japan moves toward first new reactor since Fukushima disaster",
-      "summary": "Japan takes initial step towards building first new nuclear reactor since Fukushima disaster.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:18:00Z",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-new-nuclear-reactor-fukushima-disaster-kansai-electric-mihama-5251216"
-    },
-    {
-      "id": 55,
-      "title": "Tata Communications collaborates with Amazon to establish advanced AI-ready network in India",
-      "summary": "Tata Communications and Amazon are collaborating to establish an advanced AI-ready network in India, connecting major AWS infrastructure locations to drive cloud innovation and accelerate the adoption of generative AI.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:17:48Z",
-      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-comm-collaborates-with-amazon-to-establish-advanced-ai-ready-network-in-india/articleshow/122827986.cms"
-    },
-    {
-      "id": 56,
-      "title": "kn-dataset-tools 0.62.dev0",
-      "summary": "kn-dataset-tools 0.62.dev0 is a simple viewer for EXIF and AI Metadata, allowing for easy access to these data types. It is designed to assist with organizing and analyzing datasets for AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T05:13:46Z",
-      "url": "https://pypi.org/project/kn-dataset-tools/0.62.dev0/"
-    },
-    {
-      "id": 57,
-      "title": "'Humanity has won (so far)!' - Meet the world's best programmer who beat ChatGPT's AI",
-      "summary": "Pole Przemyslaw 'Psyho' Debiak wins AWTF Heuristic programming tournament by beating ChatGPT's AI, becoming the only human to have succeeded so far.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:13:18Z",
-      "url": "https://biztoc.com/x/3c9e7cd1da7cd31a"
-    },
-    {
-      "id": 58,
-      "title": "Grid Dynamics (NASDAQ:GDYN) Rating Lowered to Hold at Wall Street Zen",
-      "summary": "Grid Dynamics (NASDAQ:GDYN) Rating Lowered to Hold at Wall Street Zen, impacting the company's stock performance.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T05:12:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/grid-dynamics-nasdaqgdyn-rating-lowered-to-hold-at-wall-street-zen/"
-    },
-    {
-      "id": 59,
-      "title": "Fluence Energy (NASDAQ:FLNC) Shares Up 7.4% Following Analyst Upgrade",
-      "summary": "Fluence Energy shares rose 7.4% after an analyst upgrade from Susquehanna, who raised their price target on the stock from $6.00 to $11.00.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T05:12:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/fluence-energy-nasdaqflnc-shares-up-7-4-following-analyst-upgrade/"
-    },
-    {
-      "id": 60,
-      "title": "Pagaya Technologies (NASDAQ:PGY) Reaches New 1-Year High Following Analyst Upgrade",
-      "summary": "Pagaya Technologies stock price reaches a new 52-week high following an analyst upgrade from Citigroup, with a new price target set at $40.00.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T05:12:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/pagaya-technologies-nasdaqpgy-reaches-new-1-year-high-following-analyst-upgrade/"
-    },
-    {
-      "id": 61,
-      "title": "CoreWeave (NASDAQ:CRWV) Trading Up 7.8% After Analyst Upgrade",
-      "summary": "CoreWeave Inc. (NASDAQ:CRWV) shares were up 7.8% after Barclays raised their price target on the stock to $140.00, with an equal weight rating. This suggests positive developments in the AI-related industry.",
-      "source": "ETF Daily News",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:12:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/coreweave-nasdaqcrwv-trading-up-7-8-after-analyst-upgrade/"
-    },
-    {
-      "id": 62,
-      "title": "NASA’s Roman telescope will catch 100,000 explosions — and rewrite the Universe’s story",
-      "summary": "NASA's Roman Space Telescope will conduct a deep-sky survey to capture around 100,000 cosmic explosions, providing insights into dark energy and black hole physics.",
-      "source": "Science Daily",
-      "category": "research",
-      "timestamp": "2025-07-22T05:12:20Z",
-      "url": "https://www.sciencedaily.com/releases/2025/07/250721223833.htm"
-    },
-    {
-      "id": 63,
-      "title": "wave-lang added to PyPI",
-      "summary": "Wave-lang, a new language for machine learning, has been added to PyPI for easier access and use in AI projects.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T05:11:58Z",
-      "url": "https://pypi.org/project/wave-lang/"
     }
   ]
 }
