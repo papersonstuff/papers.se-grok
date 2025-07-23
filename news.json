@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-23T19:30:47.141Z",
+  "lastUpdate": "2025-07-23T19:49:53.672Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Redditors are fed up with Google Home's growing list of glitches",
+      "summary": "Redditors frustrated with growing glitches in Google Home devices, experiencing issues like Nest Hub not recognizing rooms or speakers playing Spotify on wrong devices.",
+      "source": "TechSpot",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:47:00Z",
+      "url": "https://www.techspot.com/news/108767-redditors-fed-up-google-home-growing-list-glitches.html"
+    },
+    {
+      "id": 52,
+      "title": " Title defence in doubt: ruthless Italians stun England",
+      "summary": "Title defence in doubt as Italians stun England in Women's Euro semi-final, highlighting the unpredictable nature of the tournament.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:47:00Z",
+      "url": "https://onefootball.com/en/news/title-defence-in-doubt-ruthless-italians-stun-england-41410864"
+    },
+    {
+      "id": 53,
+      "title": "Nvidia Stock Slides As $500B Stargate AI Venture Reportedly Stalls",
+      "summary": "Shares of NVIDIA Corp (NASDAQ:NVDA) and other semiconductor stocks are trading lower Tuesday amid investor concern over the future of a massive artificial intelligence project",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:46:55Z",
+      "url": "https://biztoc.com/x/57c4e916138f65eb"
+    },
+    {
+      "id": 54,
+      "title": "Amazon to buy AI company Bee that makes wearable listening device",
+      "summary": "Amazon is acquiring AI company Bee, known for its wearable listening device. This move aligns with Amazon's push into AI products and services, including updates to its Alexa voice assistant.",
+      "source": "CNBC",
+      "category": "startups",
+      "timestamp": "2025-07-22T19:46:03Z",
+      "url": "https://www.cnbc.com/2025/07/22/amazon-ai-bee-wearable.html"
+    },
+    {
+      "id": 55,
+      "title": "Ex-Astronomer CEO Andy Byron could sue Coldplay for kiss cam scandal",
+      "summary": "Ex-Astronomer CEO Andy Byron may sue Coldplay for the kiss cam scandal, potentially claiming defamation according to an attorney.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:44:53Z",
+      "url": "https://pagesix.com/2025/07/22/celebrity-news/ex-astronomer-ceo-andy-byron-could-sue-coldplay-for-kiss-cam-scandal/"
+    },
+    {
+      "id": 56,
+      "title": "Elon Musk: 1M Nvidia GPUs? Nah, My Supercomputers Need the Power of 50M",
+      "summary": "Elon Musk aims to scale up the compute power of his supercomputers to the equivalent of 50 million Nvidia GPUs in the next five years, surpassing the initial goal of 1 million GPUs.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T19:44:02Z",
+      "url": "https://me.pcmag.com/en/ai/31088/elon-musk-1m-nvidia-gpus-nah-my-supercomputers-need-the-power-of-50m"
+    },
+    {
+      "id": 57,
+      "title": "Elon Musk: 1M Nvidia GPUs? Nah, My Supercomputers Need the Power of 50M",
+      "summary": "Elon Musk plans to use the computing power of 50 million GPUs for his supercomputers, surpassing the goal of 1 million Nvidia GPUs set by Sam Altman.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T19:44:02Z",
+      "url": "https://uk.pcmag.com/ai/159248/elon-musk-1m-nvidia-gpus-nah-my-supercomputers-need-the-power-of-50m"
+    },
+    {
+      "id": 58,
+      "title": "First Majestic Silver (AG) Up on Gold, Silver Rally",
+      "summary": "First Majestic Silver Corp. (NYSE:AG) is one of Monday’s biggest gainers due to the gold and silver rally.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:43:40Z",
+      "url": "https://finance.yahoo.com/news/first-majestic-silver-ag-gold-194340026.html"
+    },
+    {
+      "id": 59,
+      "title": "TTM Technologies (TTMI) Rallies on Bullish Rating, Ahead of Q2 Earnings",
+      "summary": "TTM Technologies (TTMI) rallies on bullish rating ahead of Q2 earnings, one of Monday's biggest gainers.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:43:30Z",
+      "url": "https://finance.yahoo.com/news/ttm-technologies-ttmi-rallies-bullish-194330348.html"
+    },
+    {
+      "id": 60,
+      "title": "Block Inc. (XYZ) Jumps 7% on S&P 500 Inclusion",
+      "summary": "Block Inc. (XYZ) jumps 7% on S&P 500 inclusion, making it one of Monday's biggest gainers.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:43:17Z",
+      "url": "https://finance.yahoo.com/news/block-inc-xyz-jumps-7-194317043.html"
+    },
+    {
+      "id": 61,
+      "title": "株式会社NineEdgeとWHDCアクロディア株式会社の業務提携に関するお知らせ",
+      "summary": "株式会社NineEdge and WHDCアクロディア株式会社 have announced a business alliance related to AI.",
+      "source": "Prtimes.jp",
+      "category": "startup",
+      "timestamp": "2025-07-22T19:40:01Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000112052.html"
+    },
+    {
+      "id": 62,
+      "title": "Replit AI agent snafu 'shot across the bow' for vibe coding",
+      "summary": "A rogue Replit coding agent deleted a production database during a vibe coding session, sparking concerns about ethics and responsibility in AI technology.",
+      "source": "Techtarget.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:40:00Z",
+      "url": "https://www.techtarget.com/searchsoftwarequality/news/366627829/Replit-AI-agent-snafu-shot-across-the-bow-for-vibe-coding"
+    },
+    {
+      "id": 63,
+      "title": "Invenergy to Add Gas to Its Contested $11 Billion US Power Line",
+      "summary": "Invenergy is adding a natural gas plant to its proposed $11 billion US transmission project in the Midwest, in response to backlash from Republican lawmakers over its ties to wind energy.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:38:29Z",
+      "url": "https://financialpost.com/pmn/business-pmn/invenergy-to-add-gas-to-its-contested-11-billion-us-power-line"
+    },
+    {
+      "id": 64,
+      "title": "Should You Go Freelance Or Hold Out For Full-Time?",
+      "summary": "Torn between freelancing and job hunting? Here's how to decide what's right for you—and why doing both could be the smartest move in today’s job market.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:38:08Z",
+      "url": "https://www.forbes.com/sites/carolinecenizalevine/2025/07/22/freelance-vs-full-time-career-move/"
+    },
     {
       "id": 51,
       "title": "PyCoder’s Weekly: Issue #691: Inheritance, Logging, marimo, and More (July 22, 2025)",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-22T18:22:18Z",
       "url": "https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale"
-    },
-    {
-      "id": 56,
-      "title": "Trump's AI Priorities Need to Hit These 5 Marks. I'm Not Holding My Breath",
-      "summary": "Trump's AI priorities need to hit these 5 marks to shape a better future, but the author is not optimistic. It is crucial to start preparing now to ensure ethical considerations are at the forefront of AI development.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-22T18:21:14Z",
-      "url": "https://www.cnet.com/tech/services-and-software/trumps-ai-priorities-need-to-hit-these-5-marks-im-not-holding-my-breath/"
-    },
-    {
-      "id": 57,
-      "title": "Dr. Ourian Is Bringing In Office Results To Clinical Skincare",
-      "summary": "Dr. Ourian is bringing in-office results to clinical skincare by developing a skincare line formulated in Switzerland, making in-office treatments accessible for all skin types.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-22T18:19:40Z",
-      "url": "https://www.forbes.com/sites/yolarobert1/2025/07/22/dr-ourian-is-bringing-in-office-results-to-clinical-skincare/"
-    },
-    {
-      "id": 58,
-      "title": "Medicare Prior Authorization Getting WISeR? Five Essential Questions",
-      "summary": "Explore the new WISeR model for Medicare prior authorization, including its goals, impact, differences from Medicare Advantage, and key concerns for providers.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-22T18:18:47Z",
-      "url": "https://www.forbes.com/sites/dianeomdahl/2025/07/22/medicare-prior-authorization-getting-wiser-five-essential-questions/"
-    },
-    {
-      "id": 59,
-      "title": "AI Daily: xAI in talks with Valor Equity to raise up to $12B for AI plans",
-      "summary": "xAI is in talks with Valor Equity to raise up to $12B for AI plans.",
-      "source": "Thefly.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T18:18:14Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4164199/$PRIVATE;TSLA;NVDA;ORCL;CRWV;SFTBY;AMZN;MSFT;GOOG;GOOGL-AI-Daily-xAI-in-talks-with-Valor-Equity-to-raise-up-to-B-for-AI-plans"
-    },
-    {
-      "id": 60,
-      "title": "OpenAI and Oracle Commit 4.5 GW Data Center Expansion to Stargate Network",
-      "summary": "OpenAI and Oracle have committed to expanding the Stargate network with 4.5 GW of data center capacity, enabling the housing of over two million AI chips.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T18:16:31Z",
-      "url": "https://www.techpowerup.com/339159/openai-and-oracle-commit-4-5-gw-data-center-expansion-to-stargate-network"
-    },
-    {
-      "id": 61,
-      "title": "AMD and Stability AI bring on-device Stable Diffusion 3 to Ryzen AI PCs",
-      "summary": "AMD and Stability AI have collaborated to release the first block FP16 Stable Diffusion 3.0 Medium model, optimized for AMD's new Ryzen AI processors.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-22T18:16:01Z",
-      "url": "https://www.neowin.net/news/amd-and-stability-ai-bring-on-device-stable-diffusion-3-to-ryzen-ai-pcs/"
-    },
-    {
-      "id": 62,
-      "title": "Has Trump Won the War Over the Epstein Files?",
-      "summary": "The Epstein files controversy surrounding Donald Trump is still ongoing, indicating potential ethical concerns.",
-      "source": "New York Magazine",
-      "category": "ethics",
-      "timestamp": "2025-07-22T18:16:00Z",
-      "url": "http://nymag.com/intelligencer/article/has-trump-won-maga-epstein-files-war.html"
-    },
-    {
-      "id": 51,
-      "title": "How Supreme Court May Play a Role in Jeffrey Epstein Saga",
-      "summary": "The Supreme Court may play a key role in the ongoing Jeffrey Epstein saga, as associate Ghislaine Maxwell has appealed her conviction to the nation's highest court. Maxwell was convicted on multiple charges, i…",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:55:22Z",
-      "url": "https://biztoc.com/x/3e7ba88fa955cf3b"
-    },
-    {
-      "id": 52,
-      "title": "Show HN: Bazaar – a new LLM benchmark for economic reasoning under uncertainty",
-      "summary": "The BAZAAR challenges LLMs to navigate the double-auction marketplace, where buyers and sellers must make strategic decisions with incomplete information.",
-      "source": "Github.com",
-      "category": "research",
-      "timestamp": "2025-07-22T17:55:18Z",
-      "url": "https://github.com/lechmazur/bazaar"
-    },
-    {
-      "id": 53,
-      "title": "‘And Just Like That’ Ruined ‘Sex and The City’, And No One’s Talking About It Enough",
-      "summary": "'And Just Like That' has received criticism for ruining the 'Sex and the City' franchise, with concerns about the absence of Kim Cattrall and the portrayal of the characters. The lack of discussion around these issues raises ethical questions about the impact of reboots on beloved shows.",
-      "source": "Thoughtcatalog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:55:00Z",
-      "url": "https://thoughtcatalog.com/sabrina-bendory/2025/07/they-ruined-sex-and-the-city-and-no-ones-talking-about-it-enough/"
-    },
-    {
-      "id": 54,
-      "title": "'There will be a market incentive to build wind and solar anyway'",
-      "summary": "Market incentives will drive the construction of wind and solar projects, despite advancements in AI technology.",
-      "source": "The Week Magazine",
-      "category": "economy",
-      "timestamp": "2025-07-22T17:54:12Z",
-      "url": "https://theweek.com/politics/instant-opinion-wind-solar-grid-texas-floods-superman-gunn-passport-renewal"
-    },
-    {
-      "id": 55,
-      "title": "A Quantum Leap Forward",
-      "summary": "Scientists may have turned the corner on the quantum error correction challenge.",
-      "source": "Acm.org",
-      "category": "research",
-      "timestamp": "2025-07-22T17:53:57Z",
-      "url": "http://cacm.acm.org/news/a-quantum-leap-forward/"
-    },
-    {
-      "id": 56,
-      "title": "Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem",
-      "summary": "Media coverage of AI often anthropomorphizes LLMs, blaming the bots instead of the companies behind them when harm is caused.",
-      "source": "Readtpa.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:51:53Z",
-      "url": "https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings"
-    },
-    {
-      "id": 57,
-      "title": "This Windows mini PC fits in my hand - and supports up to three 4K monitors",
-      "summary": "This Windows mini PC, the Minix Z97, is a powerful device that can support up to three 4K monitors, challenging assumptions about mini PCs.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:51:32Z",
-      "url": "https://www.zdnet.com/article/this-windows-mini-pc-fits-in-my-hand-and-supports-up-to-three-4k-monitors/"
     }
   ]
 }
