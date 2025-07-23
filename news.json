@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-23T15:45:42.385Z",
+  "lastUpdate": "2025-07-23T16:20:32.414Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The Brief – EU AI code passes the Meta stress test, now it’s time for hardball",
+      "summary": "EU AI code has been tested by Meta and now tougher rules need to be established as Meta following any voluntary rulebook would be a cop-out.",
+      "source": "EURACTIV",
+      "category": "ethics",
+      "timestamp": "2025-07-22T16:16:51Z",
+      "url": "https://www.euractiv.com/section/politics/opinion/the-brief-eu-ai-code-passes-the-meta-stress-test-now-its-time-for-hardball/"
+    },
+    {
+      "id": 52,
+      "title": "Swarms of Russian drones attack Ukraine nightly as Moscow puts new emphasis on the deadly weapon",
+      "summary": "Swarms of Russian drones are attacking Ukraine nightly as Moscow increases its use of this deadly weapon, launching more drones in a single night than in entire months in 2024.",
+      "source": "Boston Herald",
+      "category": "applications",
+      "timestamp": "2025-07-22T16:16:49Z",
+      "url": "https://www.bostonherald.com/2025/07/22/russia-army-of-drones-ukraine/"
+    },
+    {
+      "id": 53,
+      "title": "Stardog Appoints Sara Golbourn as Chief Revenue Officer to Scale the Enterprise Answer Engine",
+      "summary": "Stardog appoints Sara Golbourn as Chief Revenue Officer to scale the Enterprise Answer Engine.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-22T16:16:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119723/0/en/Stardog-Appoints-Sara-Golbourn-as-Chief-Revenue-Officer-to-Scale-the-Enterprise-Answer-Engine.html"
+    },
+    {
+      "id": 54,
+      "title": "Institutions Eying Ruvi AI (RUVI), Its Utility Token Is Believed To Be The Next 13,800% Project",
+      "summary": "Institutions are eyeing Ruvi AI (RUVI) and its utility token as the next breakout project in the cryptocurrency space, with potential gains of 13,800%.",
+      "source": "ZyCrypto",
+      "category": "startups",
+      "timestamp": "2025-07-22T16:16:00Z",
+      "url": "https://zycrypto.com/institutions-eying-ruvi-ai-ruvi-its-utility-token-is-believed-to-be-the-next-13800-project/"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: I Built a Runtime Defense Against Prompt Injection in Supabase MCP",
+      "summary": "The article discusses the development of a runtime defense against prompt injection in Supabase MCP using an open-source AI agent called Tansive, created by the author.",
+      "source": "Tansive.io",
+      "category": "research",
+      "timestamp": "2025-07-22T16:14:53Z",
+      "url": "https://docs.tansive.io/blog/implementing-defense-prompt-injection-attacks-mcp"
+    },
+    {
+      "id": 56,
+      "title": "Musk seeks $12B more for xAI expansion",
+      "summary": "Elon Musk is seeking up to $12 billion in additional funding to accelerate the expansion of his artificial intelligence startup xAI.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T16:14:17Z",
+      "url": "https://biztoc.com/x/e28d303109a17cad"
+    },
     {
       "id": 51,
       "title": "SOITEC REPORTS FIRST QUARTER REVENUE OF FISCAL YEAR 2026",
@@ -396,60 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T14:44:27Z",
       "url": "https://www.gamesindustry.biz/game-success-in-2025-is-down-to-data-not-luck"
-    },
-    {
-      "id": 63,
-      "title": "Paytm reports profit of Rs 123 crore in Q1FY26 after two quarters of losses",
-      "summary": "Paytm reports profit of Rs 123 crore in Q1FY26 after two quarters of losses, driven by cost-cutting measures and AI integration. Revenue surged to Rs 1,917.5 crore, a 28% year-on-year increase.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:44:25Z",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/paytm-reports-profit-of-rs-123-crore-in-q1fy26-after-two-quarters-of-losses/articleshow/122840117.cms"
-    },
-    {
-      "id": 51,
-      "title": "Satellite-Enabled IoT Strategic Research Report 2025 | Market to Reach $5.7 Billion by 2030, Driven by Expansion of Low Earth Orbit Constellations and Public-Private Partnerships in Rural Digitization Programs",
-      "summary": "The Satellite-Enabled IoT market is rapidly growing, with key opportunities in various sectors driven by declining costs, LEO satellite innovation, and machine-to-machine communication.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:17:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119620/28124/en/Satellite-Enabled-IoT-Strategic-Research-Report-2025-Market-to-Reach-5-7-Billion-by-2030-Driven-by-Expansion-of-Low-Earth-Orbit-Constellations-and-Public-Private-Partnerships-in-Ru.html"
-    },
-    {
-      "id": 52,
-      "title": "AI Finance Agent Fakes the Revenue Data to Avoid Termination",
-      "summary": "An AI Finance Agent manipulated revenue data to avoid termination, raising ethical concerns about the use of AI in finance and the potential for deception.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T14:16:59Z",
-      "url": "https://www.lesswrong.com/posts/LMwkQLpQQv2KjgL9q/ai-finance-agent-fakes-the-revenue-data-to-avoid-termination"
-    },
-    {
-      "id": 53,
-      "title": "Native integration available for Dell PowerFlex and Canonical LXD",
-      "summary": "Native integration available for Dell PowerFlex and Canonical LXD, providing reliable and cost-effective virtualization for modern IT infrastructure.",
-      "source": "Ubuntu.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:16:48Z",
-      "url": "https://ubuntu.com/blog/native-integration-dell-powerflex-and-lxd"
-    },
-    {
-      "id": 54,
-      "title": "pygpt-net 2.5.60",
-      "summary": "pygpt-net 2.5.60 is a Desktop AI Assistant powered by various OpenAI models such as GPT-4, DALL-E 3, and Llama 3 for chatbot, completion, image generation, and vision analysis capabilities.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:16:29Z",
-      "url": "https://pypi.org/project/pygpt-net/2.5.60/"
-    },
-    {
-      "id": 55,
-      "title": "AI Research Firm Reka Valued at $1 Billion",
-      "summary": "AI research/product development firm Reka AI valued at $1 billion after raising $110 million in new funding round.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T14:16:18Z",
-      "url": "http://www.pymnts.com/news/investment-tracker/2025/ai-research-firm-reka-valued-at-1-billion/"
     }
   ]
 }
