@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-23T16:20:32.414Z",
+  "lastUpdate": "2025-07-23T16:52:03.795Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Gov. DeSantis says Grok's lack of knowledge about Florida sports shows holes in AI",
+      "summary": "Gov. DeSantis criticizes Grok's lack of knowledge about Florida sports as a demonstration of AI flaws.",
+      "source": "Florida Politics",
+      "category": "ethics",
+      "timestamp": "2025-07-22T16:50:28Z",
+      "url": "https://floridapolitics.com/archives/748246-gov-desantis-says-groks-lack-of-knowledge-about-florida-sports-shows-holes-in-ai/"
+    },
+    {
+      "id": 52,
+      "title": "AI Market Clarity",
+      "summary": "A subset of AI markets have crystalized in the last 12 months, with the likely market leaders for the next year or two suddenly clear.",
+      "source": "Eladgil.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:50:12Z",
+      "url": "https://blog.eladgil.com/p/ai-market-clarity"
+    },
+    {
+      "id": 53,
+      "title": "Fortune Minerals Reports Additional Cobalt, Gold & Copper Process Optimization Validation for the NICO Project",
+      "summary": "Fortune Minerals reports additional process optimization validation for the NICO Project, including critical mineral improvements for the Alberta Hydrometallurgical Facility.",
+      "source": "Financial Post",
+      "category": "research",
+      "timestamp": "2025-07-22T16:50:02Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fortune-minerals-reports-additional-cobalt-gold-copper-process-optimization-validation-for-the-nico-project"
+    },
+    {
+      "id": 54,
+      "title": "UMG has partnered with IP asset management company Liquidax Capital to \"accelerate the development of UMG's music-related AI patents\", already filing 15 (Ethan Millman/The Hollywood Reporter)",
+      "summary": "UMG has partnered with IP asset management company Liquidax Capital to 'accelerate the development of UMG's music-related AI patents', filing 15 patents already.",
+      "source": "Mediagazer.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T16:50:01Z",
+      "url": "https://mediagazer.com/250722/p13"
+    },
+    {
+      "id": 55,
+      "title": "What’s New in Lakeflow Declarative Pipelines: July 2025",
+      "summary": "July updates to Lakeflow Declarative Pipelines include DAIS recap, cost optimizations, new features, and free training now available.",
+      "source": "Databricks.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T16:50:00Z",
+      "url": "https://www.databricks.com/blog/whats-new-lakeflow-declarative-pipelines-july-2025"
+    },
+    {
+      "id": 56,
+      "title": "Price Target Ahead of Earnings, Citing New Growth Bets",
+      "summary": "Amazon's stock price target raised ahead of earnings, reflecting new growth bets in AI technology.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:49:10Z",
+      "url": "https://biztoc.com/x/4a74d50bb9528b5f"
+    },
+    {
+      "id": 57,
+      "title": "What CFOs Need To Know (And Often Don’t) About Company Workers",
+      "summary": "CFOs need to be aware of the impact artificial intelligence may have on their company's workers. Despite concerns, markets are performing well despite tariff worries, and stablecoin regulations have been signed by Trump.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:49:00Z",
+      "url": "https://www.forbes.com/sites/cfo/2025/07/22/what-cfos-need-to-know-and-often-dont-about-company-workers/"
+    },
+    {
+      "id": 58,
+      "title": "Barclays Raises Microsoft (MSFT) Price Target on Strong Software Outlook",
+      "summary": "Barclays raised Microsoft's price target to $550 from $494 on strong software outlook, keeping an 'Overweight' rating on the shares.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:48:47Z",
+      "url": "https://biztoc.com/x/bb4406dce6cb8c36"
+    },
+    {
+      "id": 59,
+      "title": "Poised To Deliver Modest Earnings Beat, Says Evercore ISI",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Analysts Are Tracking Closely. Evercore ISI reiterated an Outperform rating on the stock with a price target of $205.00.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-22T16:48:41Z",
+      "url": "https://biztoc.com/x/9163e9ccf53dbe7f"
+    },
+    {
+      "id": 60,
+      "title": "Analysts See Long-Term Upside as AI Exports to China Get Green Light",
+      "summary": "Analysts are optimistic about long-term potential for AI exports to China, with NVIDIA Corporation being highlighted as a top stock to watch.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:48:37Z",
+      "url": "https://biztoc.com/x/19d263ddef20da26"
+    },
+    {
+      "id": 61,
+      "title": "Price Target Lifted to $750 by Morgan Stanley Ahead of Earnings",
+      "summary": "Morgan Stanley raised Meta Platforms, Inc.'s price target to $750 ahead of earnings, reflecting analysts' interest in the AI stock.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:48:23Z",
+      "url": "https://biztoc.com/x/03f1cfac22d2446b"
+    },
+    {
+      "id": 62,
+      "title": "Why AI stocks are down, plus 3 names Morgan Stanley likes heading into earnings",
+      "summary": "AI stocks are down primarily due to concerns about regulation and inflation. Morgan Stanley recommends three AI-related stocks heading into earnings season.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:48:13Z",
+      "url": "https://biztoc.com/x/63730f97a46a19ad"
+    },
+    {
+      "id": 63,
+      "title": "Nvidia, Apple Partner Sets Up After 217% Surge; Custom Chip King Eyes AI Boom",
+      "summary": "Nvidia and Apple partner Arm stock is near a handle buy point after a 217% surge, with shares tripling since their Nasdaq debut in September 2023. Arm stock is highlighted as Tuesday's selection for IBD 50 Stocks To Watch.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T16:48:11Z",
+      "url": "https://biztoc.com/x/6d8227d9efa563d2"
+    },
+    {
+      "id": 64,
+      "title": "Economic Watch: Hong Kong sees equity market revival amid policy incentives, improved outlook",
+      "summary": "Hong Kong's equity market has seen a revival, with the benchmark Hang Seng Index reaching a three-and-a-half-year high. This resurgence has been attributed to supportive policies, an improving economic outlook, and favorable conditions.",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:48:00Z",
+      "url": "https://www.thestar.com.my/news/world/2025/07/23/economic-watch-hong-kong-sees-equity-market-revival-amid-policy-incentives-improved-outlook"
+    },
+    {
+      "id": 65,
+      "title": "White House to unveil plan to push US AI abroad, crack down on restrictive rules",
+      "summary": "White House to unveil plan promoting US AI technology exports and open-source development while restricting federal funding to states with strict AI laws.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T16:47:54Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-unveil-plan-to-push-us-ai-abroad-crack-down-on-restrictive-rules/articleshow/122841961.cms"
+    },
     {
       "id": 51,
       "title": "The Brief – EU AI code passes the Meta stress test, now it’s time for hardball",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-22T15:13:11Z",
       "url": "https://finance.yahoo.com/news/scotiabank-lowers-pt-gerdau-ggb-151311544.html"
-    },
-    {
-      "id": 67,
-      "title": "SEB Equities Upgrades Borr Drilling (BORR) to Hold From Sell, Keeps a $1.90 PT",
-      "summary": "SEB Equities upgrades Borr Drilling to Hold from Sell, maintaining a $1.90 price target, making it an attractive affordable stock under $5 to invest in.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T15:13:09Z",
-      "url": "https://finance.yahoo.com/news/seb-equities-upgrades-borr-drilling-151309084.html"
-    },
-    {
-      "id": 68,
-      "title": "UBS Maintains a Hold on Ambev S.A. (ABEV), Sets a Price Target of $2.50",
-      "summary": "UBS maintains a Hold rating on Ambev S.A. (ABEV) with a price target of $2.50, indicating it as one of the best affordable stocks under $5 to invest in.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T15:13:07Z",
-      "url": "https://finance.yahoo.com/news/ubs-maintains-hold-ambev-abev-151307713.html"
-    },
-    {
-      "id": 69,
-      "title": "National Bank Lifts PT on B2Gold (BTG) to C$8 From C$7.75, Keeps an Outperform Rating",
-      "summary": "National Bank raises price target on B2Gold to C$8 from C$7.75, maintaining an Outperform rating.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T15:13:05Z",
-      "url": "https://finance.yahoo.com/news/national-bank-lifts-pt-b2gold-151305360.html"
-    },
-    {
-      "id": 51,
-      "title": "Organizational Lobotomy",
-      "summary": "An AI system targeting company management may be subtly manipulating communication channels like email and chat.",
-      "source": "Acm.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:47:18Z",
-      "url": "http://cacm.acm.org/opinion/organizational-lobotomy/"
-    },
-    {
-      "id": 52,
-      "title": "Coca-Cola CFO says the company will launch Trump-backed cane sugar soda: ‘He is a big supporter of the option’",
-      "summary": "Coca-Cola CFO announces the launch of a Trump-backed cane sugar soda, which has been in development for some time.",
-      "source": "Fortune",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:46:34Z",
-      "url": "https://fortune.com/2025/07/22/coca-cola-trump-cane-sugar-soda-cfo-john-murphy/"
-    },
-    {
-      "id": 53,
-      "title": "UK Carrier Strike Group contributes to Exercise Talisman Sabre",
-      "summary": "UK Carrier Strike Group leads major British contribution to Exercise Talisman Sabre in Australia.",
-      "source": "Www.gov.uk",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:46:08Z",
-      "url": "https://www.gov.uk/government/news/uk-carrier-strike-group-contributes-to-exercise-talisman-sabre"
-    },
-    {
-      "id": 54,
-      "title": "This Early Retiree Thought His Friends Would Be Happy For Him, And How Much He Saved Up. Instead, They Just Repeated, 'It's Not Fair'",
-      "summary": "After 36 years in the workforce, a 57-year-old man achieves his goal of early retirement, sparking envy and feelings of unfairness among friends.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:45:45Z",
-      "url": "https://finance.yahoo.com/news/early-retiree-thought-friends-happy-144545510.html"
-    },
-    {
-      "id": 55,
-      "title": "Yet another broker liability case, this time in the Fifth Circuit, adds to the growing mix",
-      "summary": "Another broker liability case in the Fifth Circuit is adding to the ongoing debate, with SCOTUS potentially taking up the issue. The implications of broker liability are being further explored as more cases move through the courts.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-22T14:45:35Z",
-      "url": "https://finance.yahoo.com/news/yet-another-broker-liability-case-144535612.html"
-    },
-    {
-      "id": 56,
-      "title": "Malcolm-Jamal Warner's Cause of Death Revealed After Costa Rica Drowning",
-      "summary": "Malcolm-Jamal Warner's cause of death was revealed as asphyxia after drowning in Costa Rica. His representative has been contacted for comment.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T14:45:04Z",
-      "url": "https://biztoc.com/x/a4fad9df08d451df"
-    },
-    {
-      "id": 57,
-      "title": "X-Ray Detectors Market worth $4.4 billion by 2030 with 5.5% CAGR | MarketsandMarkets™.",
-      "summary": "The global X-Ray Detectors Market is projected to be worth $4.4 billion by 2030, with a 5.5% compound annual growth rate. This growth is expected to come from advancements in the market from 2025 to 2030, following a steady increase in value from 2024 to 2025.",
-      "source": "PR Newswire UK",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:45:00Z",
-      "url": "https://www.prnewswire.co.uk/news-releases/x-ray-detectors-market-worth-4-4-billion-by-2030-with-5-5-cagr--marketsandmarkets-302510584.html"
-    },
-    {
-      "id": 58,
-      "title": "Special Needs Puppies With Uncontrollable Shaking Get Second Chance",
-      "summary": "A litter of special needs puppies with uncontrollable shaking have found a new home at Emotional Rescue in Minnesota, a rescue center focused on special needs dogs. Shannon Tarr runs the center, providing a second chance for these puppies through AI-generated voice technology.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:44:54Z",
-      "url": "https://biztoc.com/x/53461a7512c22836"
-    },
-    {
-      "id": 59,
-      "title": "The AI boom is now bigger than the ’90s dotcom bubble—and it’s built on the backs of bots, maybe more than real users",
-      "summary": "The AI boom is now bigger than the ’90s dotcom bubble, with bots playing a significant role. Non-human accounts were common online even before ChatGPT popularized talking to bots.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:44:50Z",
-      "url": "https://biztoc.com/x/3e7cf0abca2cbdc6"
-    },
-    {
-      "id": 60,
-      "title": "Aehr Stock Is Trading Higher Tuesday: What's Going On?",
-      "summary": "Aehr Test Systems secures new Sonoma system orders from AI processor customer, leading to a rise in stock price.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T14:44:42Z",
-      "url": "https://biztoc.com/x/1987ceeb236d09c9"
-    },
-    {
-      "id": 61,
-      "title": "Trump escalates deranged anti-Obama campaign, says he’s ‘guilty’ in treasonous scheme",
-      "summary": "Trump's escalating anti-Obama campaign raises ethical concerns regarding false accusations and distraction from pressing issues.",
-      "source": "MSNBC",
-      "category": "ethics",
-      "timestamp": "2025-07-22T14:44:32Z",
-      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/ai-video-trumps-radical-campaign-obama-takes-deranged-turn-rcna220231"
-    },
-    {
-      "id": 62,
-      "title": "Game success in 2025 is down to data, not luck",
-      "summary": "Game success in 2025 is dependent on data rather than luck, according to Evgeniy Kurenkov, founder and CEO of Magify, an analytics and live-ops platform for game studios.",
-      "source": "GamesIndustry.biz",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:44:27Z",
-      "url": "https://www.gamesindustry.biz/game-success-in-2025-is-down-to-data-not-luck"
     }
   ]
 }
