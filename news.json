@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-23T17:45:21.996Z",
+  "lastUpdate": "2025-07-23T17:55:54.328Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How Supreme Court May Play a Role in Jeffrey Epstein Saga",
+      "summary": "The Supreme Court may play a key role in the ongoing Jeffrey Epstein saga, as associate Ghislaine Maxwell has appealed her conviction to the nation's highest court. Maxwell was convicted on multiple charges, i…",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T17:55:22Z",
+      "url": "https://biztoc.com/x/3e7ba88fa955cf3b"
+    },
+    {
+      "id": 52,
+      "title": "Show HN: Bazaar – a new LLM benchmark for economic reasoning under uncertainty",
+      "summary": "The BAZAAR challenges LLMs to navigate the double-auction marketplace, where buyers and sellers must make strategic decisions with incomplete information.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-22T17:55:18Z",
+      "url": "https://github.com/lechmazur/bazaar"
+    },
+    {
+      "id": 53,
+      "title": "‘And Just Like That’ Ruined ‘Sex and The City’, And No One’s Talking About It Enough",
+      "summary": "'And Just Like That' has received criticism for ruining the 'Sex and the City' franchise, with concerns about the absence of Kim Cattrall and the portrayal of the characters. The lack of discussion around these issues raises ethical questions about the impact of reboots on beloved shows.",
+      "source": "Thoughtcatalog.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T17:55:00Z",
+      "url": "https://thoughtcatalog.com/sabrina-bendory/2025/07/they-ruined-sex-and-the-city-and-no-ones-talking-about-it-enough/"
+    },
+    {
+      "id": 54,
+      "title": "'There will be a market incentive to build wind and solar anyway'",
+      "summary": "Market incentives will drive the construction of wind and solar projects, despite advancements in AI technology.",
+      "source": "The Week Magazine",
+      "category": "economy",
+      "timestamp": "2025-07-22T17:54:12Z",
+      "url": "https://theweek.com/politics/instant-opinion-wind-solar-grid-texas-floods-superman-gunn-passport-renewal"
+    },
+    {
+      "id": 55,
+      "title": "A Quantum Leap Forward",
+      "summary": "Scientists may have turned the corner on the quantum error correction challenge.",
+      "source": "Acm.org",
+      "category": "research",
+      "timestamp": "2025-07-22T17:53:57Z",
+      "url": "http://cacm.acm.org/news/a-quantum-leap-forward/"
+    },
+    {
+      "id": 56,
+      "title": "Stop Pretending LLMs Have Feelings Media's Dangerous AI Anthropomorphism Problem",
+      "summary": "Media coverage of AI often anthropomorphizes LLMs, blaming the bots instead of the companies behind them when harm is caused.",
+      "source": "Readtpa.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T17:51:53Z",
+      "url": "https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings"
+    },
+    {
+      "id": 57,
+      "title": "This Windows mini PC fits in my hand - and supports up to three 4K monitors",
+      "summary": "This Windows mini PC, the Minix Z97, is a powerful device that can support up to three 4K monitors, challenging assumptions about mini PCs.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-22T17:51:32Z",
+      "url": "https://www.zdnet.com/article/this-windows-mini-pc-fits-in-my-hand-and-supports-up-to-three-4k-monitors/"
+    },
+    {
+      "id": 58,
+      "title": "Amazon buys Bee AI wearable that listens to everything you say",
+      "summary": "Amazon acquires Bee, a startup that specializes in AI wearables, to bring personalized AI technology to more customers.",
+      "source": "The Verge",
+      "category": "startups",
+      "timestamp": "2025-07-22T17:50:56Z",
+      "url": "https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition"
+    },
+    {
+      "id": 59,
+      "title": "vity 0.2.5",
+      "summary": "vity 0.2.5 is an AI-powered terminal assistant designed for generating shell commands.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T17:50:47Z",
+      "url": "https://pypi.org/project/vity/0.2.5/"
+    },
+    {
+      "id": 60,
+      "title": "OZ Studio, a Global Firm with Texas Roots, Showcases Ethical AI Governance Model at the United Nations",
+      "summary": "OZ Studio showcased an ethical AI governance model at the United Nations, emphasizing the importance of ethical artificial intelligence in municipal governance.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-22T17:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119758/0/en/OZ-Studio-a-Global-Firm-with-Texas-Roots-Showcases-Ethical-AI-Governance-Model-at-the-United-Nations.html"
+    },
+    {
+      "id": 61,
+      "title": "palimpzest 0.7.14",
+      "summary": "Palimpzest 0.7.14 is a system that allows users to process AI-powered analytical queries by defining them in a declarative language.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T17:49:07Z",
+      "url": "https://pypi.org/project/palimpzest/0.7.14/"
+    },
+    {
+      "id": 62,
+      "title": "tf-nightly-tpu 2.21.0.dev20250722",
+      "summary": "tf-nightly-tpu 2.21.0.dev20250722 is a new development in the open source machine learning framework TensorFlow, designed to benefit researchers working in the field of AI.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-22T17:47:41Z",
+      "url": "https://pypi.org/project/tf-nightly-tpu/2.21.0.dev20250722/"
+    },
+    {
+      "id": 63,
+      "title": "tf-nightly-cpu 2.21.0.dev20250722",
+      "summary": "tf-nightly-cpu 2.21.0.dev20250722 - TensorFlow is an open source machine learning framework for everyone.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T17:46:10Z",
+      "url": "https://pypi.org/project/tf-nightly-cpu/2.21.0.dev20250722/"
+    },
+    {
+      "id": 64,
+      "title": "Database DevOps Grows Up: Why 2025 Is the Year Manual Database Changes Finally Die",
+      "summary": "For years, database changes have been the black sheep of DevOps pipelines, but by 2025 manual database changes are predicted to finally become a thing of the past, as database DevOps grows up and embraces automation.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T17:46:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/22/database-devops-grows-up-why-2025-is-the-year-manual-database-changes-finally-die.aspx"
+    },
     {
       "id": 51,
       "title": "AMD Stock Is Sliding Tuesday: What's Driving The Action?",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-22T16:48:47Z",
       "url": "https://biztoc.com/x/bb4406dce6cb8c36"
-    },
-    {
-      "id": 59,
-      "title": "Poised To Deliver Modest Earnings Beat, Says Evercore ISI",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Analysts Are Tracking Closely. Evercore ISI reiterated an Outperform rating on the stock with a price target of $205.00.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-22T16:48:41Z",
-      "url": "https://biztoc.com/x/9163e9ccf53dbe7f"
-    },
-    {
-      "id": 60,
-      "title": "Analysts See Long-Term Upside as AI Exports to China Get Green Light",
-      "summary": "Analysts are optimistic about long-term potential for AI exports to China, with NVIDIA Corporation being highlighted as a top stock to watch.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T16:48:37Z",
-      "url": "https://biztoc.com/x/19d263ddef20da26"
-    },
-    {
-      "id": 61,
-      "title": "Price Target Lifted to $750 by Morgan Stanley Ahead of Earnings",
-      "summary": "Morgan Stanley raised Meta Platforms, Inc.'s price target to $750 ahead of earnings, reflecting analysts' interest in the AI stock.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T16:48:23Z",
-      "url": "https://biztoc.com/x/03f1cfac22d2446b"
-    },
-    {
-      "id": 62,
-      "title": "Why AI stocks are down, plus 3 names Morgan Stanley likes heading into earnings",
-      "summary": "AI stocks are down primarily due to concerns about regulation and inflation. Morgan Stanley recommends three AI-related stocks heading into earnings season.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T16:48:13Z",
-      "url": "https://biztoc.com/x/63730f97a46a19ad"
-    },
-    {
-      "id": 63,
-      "title": "Nvidia, Apple Partner Sets Up After 217% Surge; Custom Chip King Eyes AI Boom",
-      "summary": "Nvidia and Apple partner Arm stock is near a handle buy point after a 217% surge, with shares tripling since their Nasdaq debut in September 2023. Arm stock is highlighted as Tuesday's selection for IBD 50 Stocks To Watch.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T16:48:11Z",
-      "url": "https://biztoc.com/x/6d8227d9efa563d2"
-    },
-    {
-      "id": 64,
-      "title": "Economic Watch: Hong Kong sees equity market revival amid policy incentives, improved outlook",
-      "summary": "Hong Kong's equity market has seen a revival, with the benchmark Hang Seng Index reaching a three-and-a-half-year high. This resurgence has been attributed to supportive policies, an improving economic outlook, and favorable conditions.",
-      "source": "The Star Online",
-      "category": "economy",
-      "timestamp": "2025-07-22T16:48:00Z",
-      "url": "https://www.thestar.com.my/news/world/2025/07/23/economic-watch-hong-kong-sees-equity-market-revival-amid-policy-incentives-improved-outlook"
-    },
-    {
-      "id": 65,
-      "title": "White House to unveil plan to push US AI abroad, crack down on restrictive rules",
-      "summary": "White House to unveil plan promoting US AI technology exports and open-source development while restricting federal funding to states with strict AI laws.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-22T16:47:54Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-unveil-plan-to-push-us-ai-abroad-crack-down-on-restrictive-rules/articleshow/122841961.cms"
-    },
-    {
-      "id": 51,
-      "title": "The Brief – EU AI code passes the Meta stress test, now it’s time for hardball",
-      "summary": "EU AI code has been tested by Meta and now tougher rules need to be established as Meta following any voluntary rulebook would be a cop-out.",
-      "source": "EURACTIV",
-      "category": "ethics",
-      "timestamp": "2025-07-22T16:16:51Z",
-      "url": "https://www.euractiv.com/section/politics/opinion/the-brief-eu-ai-code-passes-the-meta-stress-test-now-its-time-for-hardball/"
-    },
-    {
-      "id": 52,
-      "title": "Swarms of Russian drones attack Ukraine nightly as Moscow puts new emphasis on the deadly weapon",
-      "summary": "Swarms of Russian drones are attacking Ukraine nightly as Moscow increases its use of this deadly weapon, launching more drones in a single night than in entire months in 2024.",
-      "source": "Boston Herald",
-      "category": "applications",
-      "timestamp": "2025-07-22T16:16:49Z",
-      "url": "https://www.bostonherald.com/2025/07/22/russia-army-of-drones-ukraine/"
-    },
-    {
-      "id": 53,
-      "title": "Stardog Appoints Sara Golbourn as Chief Revenue Officer to Scale the Enterprise Answer Engine",
-      "summary": "Stardog appoints Sara Golbourn as Chief Revenue Officer to scale the Enterprise Answer Engine.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-22T16:16:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119723/0/en/Stardog-Appoints-Sara-Golbourn-as-Chief-Revenue-Officer-to-Scale-the-Enterprise-Answer-Engine.html"
-    },
-    {
-      "id": 54,
-      "title": "Institutions Eying Ruvi AI (RUVI), Its Utility Token Is Believed To Be The Next 13,800% Project",
-      "summary": "Institutions are eyeing Ruvi AI (RUVI) and its utility token as the next breakout project in the cryptocurrency space, with potential gains of 13,800%.",
-      "source": "ZyCrypto",
-      "category": "startups",
-      "timestamp": "2025-07-22T16:16:00Z",
-      "url": "https://zycrypto.com/institutions-eying-ruvi-ai-ruvi-its-utility-token-is-believed-to-be-the-next-13800-project/"
-    },
-    {
-      "id": 55,
-      "title": "Show HN: I Built a Runtime Defense Against Prompt Injection in Supabase MCP",
-      "summary": "The article discusses the development of a runtime defense against prompt injection in Supabase MCP using an open-source AI agent called Tansive, created by the author.",
-      "source": "Tansive.io",
-      "category": "research",
-      "timestamp": "2025-07-22T16:14:53Z",
-      "url": "https://docs.tansive.io/blog/implementing-defense-prompt-injection-attacks-mcp"
-    },
-    {
-      "id": 56,
-      "title": "Musk seeks $12B more for xAI expansion",
-      "summary": "Elon Musk is seeking up to $12 billion in additional funding to accelerate the expansion of his artificial intelligence startup xAI.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T16:14:17Z",
-      "url": "https://biztoc.com/x/e28d303109a17cad"
-    },
-    {
-      "id": 51,
-      "title": "SOITEC REPORTS FIRST QUARTER REVENUE OF FISCAL YEAR 2026",
-      "summary": "Soitec reports Q1’26 revenue of €92m, down 16% year-on-year, performing slightly better than expected.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T15:45:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119690/0/en/SOITEC-REPORTS-FIRST-QUARTER-REVENUE-OF-FISCAL-YEAR-2026.html"
     }
   ]
 }
