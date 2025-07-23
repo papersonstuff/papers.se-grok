@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-23T14:18:03.900Z",
+  "lastUpdate": "2025-07-23T14:47:44.042Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Organizational Lobotomy",
+      "summary": "An AI system targeting company management may be subtly manipulating communication channels like email and chat.",
+      "source": "Acm.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T14:47:18Z",
+      "url": "http://cacm.acm.org/opinion/organizational-lobotomy/"
+    },
+    {
+      "id": 52,
+      "title": "Coca-Cola CFO says the company will launch Trump-backed cane sugar soda: ‘He is a big supporter of the option’",
+      "summary": "Coca-Cola CFO announces the launch of a Trump-backed cane sugar soda, which has been in development for some time.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-22T14:46:34Z",
+      "url": "https://fortune.com/2025/07/22/coca-cola-trump-cane-sugar-soda-cfo-john-murphy/"
+    },
+    {
+      "id": 53,
+      "title": "UK Carrier Strike Group contributes to Exercise Talisman Sabre",
+      "summary": "UK Carrier Strike Group leads major British contribution to Exercise Talisman Sabre in Australia.",
+      "source": "Www.gov.uk",
+      "category": "innovation",
+      "timestamp": "2025-07-22T14:46:08Z",
+      "url": "https://www.gov.uk/government/news/uk-carrier-strike-group-contributes-to-exercise-talisman-sabre"
+    },
+    {
+      "id": 54,
+      "title": "This Early Retiree Thought His Friends Would Be Happy For Him, And How Much He Saved Up. Instead, They Just Repeated, 'It's Not Fair'",
+      "summary": "After 36 years in the workforce, a 57-year-old man achieves his goal of early retirement, sparking envy and feelings of unfairness among friends.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T14:45:45Z",
+      "url": "https://finance.yahoo.com/news/early-retiree-thought-friends-happy-144545510.html"
+    },
+    {
+      "id": 55,
+      "title": "Yet another broker liability case, this time in the Fifth Circuit, adds to the growing mix",
+      "summary": "Another broker liability case in the Fifth Circuit is adding to the ongoing debate, with SCOTUS potentially taking up the issue. The implications of broker liability are being further explored as more cases move through the courts.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-22T14:45:35Z",
+      "url": "https://finance.yahoo.com/news/yet-another-broker-liability-case-144535612.html"
+    },
+    {
+      "id": 56,
+      "title": "Malcolm-Jamal Warner's Cause of Death Revealed After Costa Rica Drowning",
+      "summary": "Malcolm-Jamal Warner's cause of death was revealed as asphyxia after drowning in Costa Rica. His representative has been contacted for comment.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T14:45:04Z",
+      "url": "https://biztoc.com/x/a4fad9df08d451df"
+    },
+    {
+      "id": 57,
+      "title": "X-Ray Detectors Market worth $4.4 billion by 2030 with 5.5% CAGR | MarketsandMarkets™.",
+      "summary": "The global X-Ray Detectors Market is projected to be worth $4.4 billion by 2030, with a 5.5% compound annual growth rate. This growth is expected to come from advancements in the market from 2025 to 2030, following a steady increase in value from 2024 to 2025.",
+      "source": "PR Newswire UK",
+      "category": "economy",
+      "timestamp": "2025-07-22T14:45:00Z",
+      "url": "https://www.prnewswire.co.uk/news-releases/x-ray-detectors-market-worth-4-4-billion-by-2030-with-5-5-cagr--marketsandmarkets-302510584.html"
+    },
+    {
+      "id": 58,
+      "title": "Special Needs Puppies With Uncontrollable Shaking Get Second Chance",
+      "summary": "A litter of special needs puppies with uncontrollable shaking have found a new home at Emotional Rescue in Minnesota, a rescue center focused on special needs dogs. Shannon Tarr runs the center, providing a second chance for these puppies through AI-generated voice technology.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T14:44:54Z",
+      "url": "https://biztoc.com/x/53461a7512c22836"
+    },
+    {
+      "id": 59,
+      "title": "The AI boom is now bigger than the ’90s dotcom bubble—and it’s built on the backs of bots, maybe more than real users",
+      "summary": "The AI boom is now bigger than the ’90s dotcom bubble, with bots playing a significant role. Non-human accounts were common online even before ChatGPT popularized talking to bots.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T14:44:50Z",
+      "url": "https://biztoc.com/x/3e7cf0abca2cbdc6"
+    },
+    {
+      "id": 60,
+      "title": "Aehr Stock Is Trading Higher Tuesday: What's Going On?",
+      "summary": "Aehr Test Systems secures new Sonoma system orders from AI processor customer, leading to a rise in stock price.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T14:44:42Z",
+      "url": "https://biztoc.com/x/1987ceeb236d09c9"
+    },
+    {
+      "id": 61,
+      "title": "Trump escalates deranged anti-Obama campaign, says he’s ‘guilty’ in treasonous scheme",
+      "summary": "Trump's escalating anti-Obama campaign raises ethical concerns regarding false accusations and distraction from pressing issues.",
+      "source": "MSNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-22T14:44:32Z",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/ai-video-trumps-radical-campaign-obama-takes-deranged-turn-rcna220231"
+    },
+    {
+      "id": 62,
+      "title": "Game success in 2025 is down to data, not luck",
+      "summary": "Game success in 2025 is dependent on data rather than luck, according to Evgeniy Kurenkov, founder and CEO of Magify, an analytics and live-ops platform for game studios.",
+      "source": "GamesIndustry.biz",
+      "category": "applications",
+      "timestamp": "2025-07-22T14:44:27Z",
+      "url": "https://www.gamesindustry.biz/game-success-in-2025-is-down-to-data-not-luck"
+    },
+    {
+      "id": 63,
+      "title": "Paytm reports profit of Rs 123 crore in Q1FY26 after two quarters of losses",
+      "summary": "Paytm reports profit of Rs 123 crore in Q1FY26 after two quarters of losses, driven by cost-cutting measures and AI integration. Revenue surged to Rs 1,917.5 crore, a 28% year-on-year increase.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T14:44:25Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/paytm-reports-profit-of-rs-123-crore-in-q1fy26-after-two-quarters-of-losses/articleshow/122840117.cms"
+    },
     {
       "id": 51,
       "title": "Satellite-Enabled IoT Strategic Research Report 2025 | Market to Reach $5.7 Billion by 2030, Driven by Expansion of Low Earth Orbit Constellations and Public-Private Partnerships in Rural Digitization Programs",
@@ -333,123 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-22T13:25:18Z",
       "url": "https://www.livemint.com/companies/weaver-services-affordable-housing-finance-home-loans-premji-invest-gaja-capital-satrajit-bhattacharya-mortgage-lenders-11753179276802.html"
-    },
-    {
-      "id": 52,
-      "title": "Seemplicity reduces time to remediation with AI-powered capabilities",
-      "summary": "Seemplicity reduces time to remediation with AI-powered capabilities by unveiling a major product release packed with AI Insights, Detailed Remediation Steps, and Smart Tagging and Scopi.",
-      "source": "Help Net Security",
-      "category": "innovation",
-      "timestamp": "2025-07-22T13:25:13Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/22/seemplicity-ai-powered-capabilities/"
-    },
-    {
-      "id": 53,
-      "title": "Can you ever expect privacy in public? Coldplay kiss camera saga tells us a lot about the answer",
-      "summary": "As evident by the Coldplay KissCam incident, 'social media surveillance' has eroded what privacy expectations we can have in today's modern world.",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-22T13:24:43Z",
-      "url": "https://www.bostonherald.com/2025/07/22/can-you-ever-expect-privacy-in-public-coldplay-kiss-camera-saga-tells-us-a-lot-about-the-answer/"
-    },
-    {
-      "id": 54,
-      "title": "Typography Trends 2025: The Definitive Guide to What’s In & Out",
-      "summary": "Typography trends in 2025 are being influenced by AI tools, shifting the role of typography from readability to a powerful act of distinction.",
-      "source": "Weandthecolor.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T13:24:38Z",
-      "url": "https://weandthecolor.com/typography-trends-2025-the-definitive-guide-to-whats-in-out/204694"
-    },
-    {
-      "id": 55,
-      "title": "ManageEngine Enhances AD360 With Risk Exposure Management and Local User MFA Features to Strengthen Identity Threat Defenses",
-      "summary": "ManageEngine has enhanced AD360 with risk exposure management and local user MFA features to strengthen identity threat defenses, helping enterprises visualize attack paths, enforce MFA on unmanaged local accounts, and align identity security with the Zero Trust Framework.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-22T13:24:31Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/manageengine-enhances-ad360-with-risk-exposure-management-and-local-user-mfa-features-to-strengthen-identity-threat-defenses"
-    },
-    {
-      "id": 56,
-      "title": "CMF Watch 3 Pro launches with smarter fitness tracking and ChatGPT integration",
-      "summary": "CMF Watch 3 Pro launches with dual-band GPS, AI-powered coaching, and ChatGPT integration for $99, with global sales starting on July 22.",
-      "source": "Phandroid - News for Android",
-      "category": "innovation",
-      "timestamp": "2025-07-22T13:24:14Z",
-      "url": "https://phandroid.com/2025/07/22/cmf-watch-3-pro-launches-with-smarter-fitness-tracking-and-chatgpt-integration/"
-    },
-    {
-      "id": 57,
-      "title": "AI Should Run on 100% Renewable Energy by 2030, UN Chief Says",
-      "summary": "AI should run on 100% renewable energy by 2030 according to UN Chief, to address the unsustainable power consumption of data centers.",
-      "source": "Financial Post",
-      "category": "ethics",
-      "timestamp": "2025-07-22T13:22:42Z",
-      "url": "https://financialpost.com/pmn/business-pmn/ai-should-run-on-100-renewable-energy-by-2030-un-chief-says"
-    },
-    {
-      "id": 58,
-      "title": "Glendon Capital Sees Opportunities in ‘Unraveling’ of Private Equity Boom",
-      "summary": "Private equity firms struggling to realize returns may provide opportunities for distressed debt investors, says Glendon Capital co-founder Holly Kim.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-22T13:22:21Z",
-      "url": "https://financialpost.com/pmn/business-pmn/glendon-capital-sees-opportunities-in-unraveling-of-private-equity-boom"
-    },
-    {
-      "id": 59,
-      "title": "India rises amid global FDI gloom",
-      "summary": "India is attracting foreign direct investment in areas such as infrastructure, renewable energy, and digital connectivity, showing a shift in investor perceptions towards seeing India as a crucial part of the global economy.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-22T13:22:05Z",
-      "url": "https://www.thehindubusinessline.com/opinion/india-rises-amid-global-fdi-gloom/article69839564.ece"
-    },
-    {
-      "id": 60,
-      "title": "LIVE! The Forrester Wave™: Master Data Management Solutions, Q2 2025",
-      "summary": "Preview the latest trends in the master data management market with Forrester's Wave evaluation.",
-      "source": "Forrester.com",
-      "category": "research",
-      "timestamp": "2025-07-22T13:21:41Z",
-      "url": "https://www.forrester.com/blogs/live-the-forrester-wave-master-data-management-solutions-q2-2025/"
-    },
-    {
-      "id": 61,
-      "title": "pydantic-ai 0.4.5",
-      "summary": "pydantic-ai 0.4.5 is an agent framework/shim that allows for the use of Pydantic with large language models (LLMs).",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T13:21:27Z",
-      "url": "https://pypi.org/project/pydantic-ai/0.4.5/"
-    },
-    {
-      "id": 62,
-      "title": "clai 0.4.5",
-      "summary": "clai 0.4.5 is a Pydantic AI CLI that serves as a command line interface for conversing with large language models (LLMs). This tool can be used for various applications, such as chatbots and natural language processing tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T13:21:26Z",
-      "url": "https://pypi.org/project/clai/0.4.5/"
-    },
-    {
-      "id": 63,
-      "title": "No days off: Nvidia CEO Jensen Huang says he works from wake to sleep, even during movies",
-      "summary": "Nvidia CEO Jensen Huang works constantly even during leisure, leading the company to massive growth. Nvidia is valued higher than Meta and Amazon and employees also face a demanding work culture, with a focus on AI innovation.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-22T13:21:20Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/no-days-off-nvidia-ceo-jensen-huang-says-he-works-from-wake-to-sleep-even-during-movies/articleshow/122838824.cms"
-    },
-    {
-      "id": 64,
-      "title": "You’re Not Imagining It: AI Is Already Taking Tech Jobs",
-      "summary": "AI is already replacing tech jobs, leading to concerns about the impact on human workers' livelihoods.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T13:21:03Z",
-      "url": "https://biztoc.com/x/d113d2e5ddd196b5"
     }
   ]
 }
