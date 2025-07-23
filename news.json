@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-23T21:18:13.565Z",
+  "lastUpdate": "2025-07-23T21:41:06.143Z",
   "items": [
+    {
+      "id": 51,
+      "title": "This $900 million solar farm in Texas is going 100% to data centers",
+      "summary": "Meta is utilizing 100% of the power from a new $900 million Texas solar farm to run its data centers, ensuring they are powered by clean energy by 2027.",
+      "source": "Electrek",
+      "category": "economy",
+      "timestamp": "2025-07-22T21:40:36Z",
+      "url": "http://electrek.co/2025/07/22/900-million-solar-farm-texas-100-percent-data-centers/"
+    },
+    {
+      "id": 52,
+      "title": "Kubuntu Focus NX Gen 3 Linux mini PC comes with up to a Core Ultra 7 255H Arrow Lake chip",
+      "summary": "Kubuntu Focus NX Gen 3 Linux mini PC with Core Ultra 7 255H Arrow Lake chip offers a new option for AI-related computing.",
+      "source": "Liliputing",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:38:40Z",
+      "url": "https://liliputing.com/kubuntu-focus-nx-gen-3-linux-mini-pc-comes-with-up-to-a-core-ultra-7-255h-arrow-lake-chip/"
+    },
+    {
+      "id": 53,
+      "title": "Avaya Accelerates Model Context Protocol (MCP) Support for Avaya Infinity Platform",
+      "summary": "Avaya announces that Avaya Infinity platform will support Model Context Protocol (MCP) later this year.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:38:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/22/avaya-accelerates-model-context-protocol-mcp-support-for-avaya-infinity-platform.aspx"
+    },
+    {
+      "id": 54,
+      "title": "New Books Hitting Shelves This Week",
+      "summary": "New books hitting shelves at the Library at Hellebore, the premier academy for dangerously powerful individuals such as Anti-Christs and world-eaters.",
+      "source": "Livejournal.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T21:37:24Z",
+      "url": "https://ohnotheydidnt.livejournal.com/130915414.html"
+    },
+    {
+      "id": 55,
+      "title": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+      "summary": "Air India completes inspections and finds no faults in fuel control switch locking mechanism on Boeing 787s and 737s in its fleet.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-22T21:35:44Z",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms"
+    },
+    {
+      "id": 56,
+      "title": "Lumma infostealer malware returns after law enforcement disruption",
+      "summary": "The Lumma infostealer malware operation is gradually resuming activities following a massive law enforcement operation in May, which resulted in the seizure of 2,300 domains and parts of its infrastructure.",
+      "source": "BleepingComputer",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:34:42Z",
+      "url": "https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/"
+    },
+    {
+      "id": 57,
+      "title": "Google quietly explores AI licensing project with big news orgs",
+      "summary": "Google is working on an AI licensing project with major news organizations to address the challenges AI poses for news companies.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-22T21:33:55Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-quietly-explores-ai-licensing-project-with-big-news-orgs.html"
+    },
+    {
+      "id": 58,
+      "title": "⚠️Attention River: Rosario Central closing in on Simón",
+      "summary": "Rosario Central is close to acquiring Santiago Simón after Marcelo Gallardo deemed him dispensable. This move is part of the club's efforts to strengthen their squad for the upcoming season.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T21:29:00Z",
+      "url": "https://onefootball.com/en/news/attention-river-rosario-central-closing-in-on-simon-41411196"
+    },
+    {
+      "id": 59,
+      "title": "AI is On Fire. But Will There Be Enough Decacorn Exits?",
+      "summary": "Per new Stanford research, only a small percentage of US-based VC-backed unicorns have achieved decacorn status at exit. With many unicorns still waiting for an exit, there are concerns about whether there will be enough $10B+ exits.",
+      "source": "Saastr.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T21:27:59Z",
+      "url": "https://www.saastr.com/view-ilya-strebulaevs-graphic-link-ilya-strebulaevilya-strebulaev-2ndinfluencer-2nd-professor-at-stanford-bestselling-author-innovation-venture-capital-private/"
+    },
     {
       "id": 51,
       "title": "Sen. Mike Lee posts, deletes fake resignation letter by Fed Chair Powell: Reports (Kevin Breuninger/CNBC)",
@@ -369,87 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T20:15:00Z",
       "url": "https://www.itnews.com.au/news/gov-quietly-launches-onshore-instance-of-gpt-4o-for-aps-618944"
-    },
-    {
-      "id": 54,
-      "title": "BlackLine Announces Date for Second Quarter 2025 Earnings Release and Conference Call",
-      "summary": "BlackLine, Inc. announced the date for its second quarter 2025 earnings release and conference call, which will take place on August 5, 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119854/0/en/BlackLine-Announces-Date-for-Second-Quarter-2025-Earnings-Release-and-Conference-Call.html"
-    },
-    {
-      "id": 55,
-      "title": "SoundThinking to Announce Second Quarter 2025 Financial Results on Tuesday, August 12, 2025, at 4:30 p.m. ET",
-      "summary": "SoundThinking will announce its second quarter 2025 financial results on August 12. The company is a leading public safety technology provider, and the conference call will take place at 4:30 p.m. Eastern time.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119857/0/en/SoundThinking-to-Announce-Second-Quarter-2025-Financial-Results-on-Tuesday-August-12-2025-at-4-30-p-m-ET.html"
-    },
-    {
-      "id": 56,
-      "title": "Dear Microsoft Stock Fans, Mark Your Calendars for July 30",
-      "summary": "With earnings set for July 30, Microsoft is riding high on explosive AI and cloud growth, and analysts broadly expect its momentum to continue.",
-      "source": "Barchart.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:13:47Z",
-      "url": "https://www.barchart.com/story/news/33567071/dear-microsoft-stock-fans-mark-your-calendars-for-july-30"
-    },
-    {
-      "id": 57,
-      "title": "National Bank Holdings Corporation Announces Second Quarter 2025 Financial Results",
-      "summary": "National Bank Holdings Corporation reports second quarter 2025 financial results.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119852/0/en/National-Bank-Holdings-Corporation-Announces-Second-Quarter-2025-Financial-Results.html"
-    },
-    {
-      "id": 58,
-      "title": "Great Dane Realizes Owner's Ex Isn't Coming Home—His Reaction Breaks Hearts",
-      "summary": "A woman's encounter with her ex's dog and the dog's reaction raises ethical questions about how pets are affected by the end of relationships.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:09:22Z",
-      "url": "https://biztoc.com/x/49d85decf5dd86e8"
-    },
-    {
-      "id": 59,
-      "title": "S&P 500 Ekes Out Record–Even as Nvidia and Broadcom Close Lower",
-      "summary": "S&P 500 reaches record high despite Nvidia and Broadcom stocks closing lower, with Nasdaq Composite ending its streak of record highs due to AI stock selling.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:09:04Z",
-      "url": "https://biztoc.com/x/9784c4dcbdacf8da"
-    },
-    {
-      "id": 60,
-      "title": "People who have lost their voices are using AI technology to regain them",
-      "summary": "People who have lost their voices are using AI technology to regain them, with AI-generated speech being used in customer service and media. Patients who lost the ability to talk due to cancer or other diseases are now utilizing AI to resurrect their natural voices.",
-      "source": "NPR",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:07:14Z",
-      "url": "https://www.npr.org/2025/07/22/nx-s1-5449081/people-who-have-lost-their-voices-are-using-ai-technology-to-regain-them"
-    },
-    {
-      "id": 61,
-      "title": "Enphase Energy Reports Financial Results for the Second Quarter of 2025",
-      "summary": "Enphase Energy, Inc. reported financial results for the second quarter of 2025, showcasing its position as a global energy technology company specializing in microinverter-based solar and battery systems.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:05:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119828/20176/en/Enphase-Energy-Reports-Financial-Results-for-the-Second-Quarter-of-2025.html"
-    },
-    {
-      "id": 51,
-      "title": "Redditors are fed up with Google Home's growing list of glitches",
-      "summary": "Redditors frustrated with growing glitches in Google Home devices, experiencing issues like Nest Hub not recognizing rooms or speakers playing Spotify on wrong devices.",
-      "source": "TechSpot",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:47:00Z",
-      "url": "https://www.techspot.com/news/108767-redditors-fed-up-google-home-growing-list-glitches.html"
     }
   ]
 }
