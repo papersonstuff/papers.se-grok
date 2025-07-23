@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-23T13:26:12.029Z",
+  "lastUpdate": "2025-07-23T13:53:37.050Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Best VPN for iPad and iPhone: Private, secure browsing from anywhere you like",
+      "summary": "Best VPN for iPad and iPhone offers private and secure browsing from anywhere you like according to Macworld.",
+      "source": "Macworld",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:52:00Z",
+      "url": "https://www.macworld.com/article/668862/best-ipad-iphone-vpn.html"
+    },
+    {
+      "id": 52,
+      "title": "AI agents are here, but companies are still learning how to put them to use",
+      "summary": "Companies are still learning how to effectively utilize AI agents, with most using them as assistants or advisors rather than independent programs capable of autonomous decision making.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:51:32Z",
+      "url": "https://fortune.com/asia/2025/07/22/ai-agents-three-stages-brainstorm-ai-singapore-accenture/"
+    },
+    {
+      "id": 53,
+      "title": "Yt-transcriber – Give a YouTube URL and get a transcription",
+      "summary": "Yt-transcriber and TUI app use open-source AI tooling to provide transcriptions of YouTube videos with speaker identification and optional summaries or translations.",
+      "source": "Github.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:51:21Z",
+      "url": "https://github.com/pmarreck/yt-transcriber"
+    },
+    {
+      "id": 54,
+      "title": "Enterprise Monitoring Market Outlook 2025-2030: Growing Complexity of Hybrid and Multi-Cloud Environments Spurs Demand for Unified Enterprise Monitoring Solutions",
+      "summary": "Enterprise Monitoring Market Outlook 2025-2030: Growing Complexity of Hybrid and Multi-Cloud Environments Spurs Demand for Unified Enterprise Monitoring Solutions - Organizations across finance, healthcare, manufacturing, and retail leverage monitoring for enhanced IT agility, compliance, and security, spurring demand for innovative, predictive monitoring solutions",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:51:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119573/28124/en/Enterprise-Monitoring-Market-Outlook-2025-2030-Growing-Complexity-of-Hybrid-and-Multi-Cloud-Environments-Spurs-Demand-for-Unified-Enterprise-Monitoring-Solutions.html"
+    },
+    {
+      "id": 55,
+      "title": "Malwarebytes introduces security module designed to combat email-based threats",
+      "summary": "Malwarebytes introduces email security module to combat email-based threats with adaptive AI technology.",
+      "source": "Help Net Security",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:50:23Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/22/malwarebytes-threatdown-email-security/"
+    },
+    {
+      "id": 56,
+      "title": "Correction: DeFi Dev Corp. Grows SOL Treasury to 999,999, Raises $19 Million from Equity Line of Credit",
+      "summary": "DeFi Dev Corp. corrected the reported SOL purchase amount and organic growth figures, showing growth to 999,999 SOL and raising $19 million from an equity line of credit.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119571/0/en/Correction-DeFi-Dev-Corp-Grows-SOL-Treasury-to-999-999-Raises-19-Million-from-Equity-Line-of-Credit.html"
+    },
+    {
+      "id": 57,
+      "title": "Spotify’s AI songs from dead artists spark fresh outrage over exploitation",
+      "summary": "Spotify faces backlash for releasing AI-generated songs under the names of deceased artists without approval.",
+      "source": "The Next Web",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:49:22Z",
+      "url": "https://thenextweb.com/news/spotifys-ai-songs-from-dead-artists-spark-fresh-outrage-over-exploitation"
+    },
+    {
+      "id": 58,
+      "title": "Two hour screen time limit for children being considered by government",
+      "summary": "Government is considering a two-hour screen time limit for children to address 'compulsive' screen time. Social media limits for kids are being planned by the government.",
+      "source": "Sky.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:49:00Z",
+      "url": "https://news.sky.com/story/two-hour-screen-time-limit-and-curfews-for-children-being-considered-by-government-13400156"
+    },
+    {
+      "id": 59,
+      "title": "Keel-laying ceremony of first of six next-gen offshore patrol vessels of ICG held in Mumbai",
+      "summary": "Keel-laying ceremony of first of six next-gen offshore patrol vessels of ICG, equipped with advanced AI and technology, held in Mumbai at Mazagon Dock Shipbuilders Ltd.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:48:53Z",
+      "url": "https://economictimes.indiatimes.com/news/defence/keel-laying-ceremony-of-first-of-six-next-gen-offshore-patrol-vessels-of-icg-held-in-mumbai/articleshow/122839423.cms"
+    },
+    {
+      "id": 60,
+      "title": "Google Maps Media Controls Go Missing—'Working To Fix'",
+      "summary": "Media playback controls disappeared from Google Maps on Android devices this week, disrupting music and podcast listening for millions of drivers. The issue, affecting widely used music apps like YouTube Music.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:48:46Z",
+      "url": "https://biztoc.com/x/0859401ccad6fbfa"
+    },
+    {
+      "id": 61,
+      "title": "Trump to unveil 3 AI executive orders in lead-up to sweeping action plan",
+      "summary": "Trump to unveil 3 AI executive orders in lead-up to sweeping action plan, underscoring pro-innovation stance.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:48:39Z",
+      "url": "https://biztoc.com/x/edbfdd479e3884aa"
+    },
+    {
+      "id": 62,
+      "title": "Japan In Vitro Diagnostics Market Report and Forecast 2025-2034",
+      "summary": "Japan's in vitro diagnostics market is expected to grow to USD 7.24 Billion by 2034, driven by factors such as an aging population, demand for personalized medicine, and AI-integrated testing.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:48:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119569/28124/en/Japan-In-Vitro-Diagnostics-Market-Report-and-Forecast-2025-2034.html"
+    },
+    {
+      "id": 63,
+      "title": "rain-ai 0.1.8",
+      "summary": "The rain-ai 0.1.8 is an AI SDK designed for rain application development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:47:52Z",
+      "url": "https://pypi.org/project/rain-ai/0.1.8/"
+    },
+    {
+      "id": 64,
+      "title": "Typography Trends 2025: The Definitive Guide to What’s In & Out",
+      "summary": "As AI-generated content becomes more polished and predictable, typography has evolved into a critical tool for standing out, playing a key role in expressing creativity and uniqueness.",
+      "source": "Weandthecolor.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:46:47Z",
+      "url": "https://tumblr.weandthecolor.com/post/789779062409379840/typography-trends-2025-the-definitive-guide-to"
+    },
+    {
+      "id": 65,
+      "title": "readme-writer 1.0.5",
+      "summary": "The readme-writer 1.0.5 is an AI-powered documentation generator that utilizes the OpenAI API for Git repositories.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:46:30Z",
+      "url": "https://pypi.org/project/readme-writer/1.0.5/"
+    },
+    {
+      "id": 66,
+      "title": "Tulsi Releases 230,000 Pages of Martin Luther King Assassination Files",
+      "summary": "Tulsi Gabbard released 230,000 pages of Martin Luther King assassination files, raising ethical questions about transparency and historical importance.",
+      "source": "Thegatewaypundit.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:45:13Z",
+      "url": "https://www.thegatewaypundit.com/2025/07/tulsi-releases-230000-pages-martin-luther-king-assassination/"
+    },
+    {
+      "id": 67,
+      "title": "The Best Smart Thermostat Save You Money And Reduce Emissions",
+      "summary": "The best smart thermostat for your home saves you money and brings peace of mind. We share our picks for topnotch smart thermostats based on research and expert input.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:45:00Z",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-smart-thermostat/"
+    },
+    {
+      "id": 68,
+      "title": "Scandal Confirmed: Andy Byron snags fat exit package as Coldplay's Chris Martin weighs in",
+      "summary": "Andy Byron resigns as CEO of Astronomer after scandal involving attendance at Coldplay concert with company's chief people officer.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:44:31Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/andy-byron-astronomer-ceo-resignation-coldplay-scandal-kristin-cabot-ai-company-viral-video/articleshow/122839169.cms"
+    },
     {
       "id": 51,
       "title": "Weaver Services scouts for buyout targets as launch nears",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T12:26:03Z",
       "url": "https://bleedingcool.com/comics/blade-forger-5-preview-throne-games-with-sharp-twists/"
-    },
-    {
-      "id": 63,
-      "title": "Samsung leads as global smartphone shipments rise 2%",
-      "summary": "Global smartphone shipments increased by 2% in Q2 2025, with Samsung leading the market ahead of Apple and Xiaomi. The rise was driven by North America, Japan, and Europe, while affordable 5G phones gained popularity in emerging markets.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-22T12:25:21Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-leads-as-global-smartphone-shipments-rise-2/articleshow/122837095.cms"
-    },
-    {
-      "id": 64,
-      "title": "readme-writer 1.0.4",
-      "summary": "readme-writer 1.0.4 is an AI-powered documentation generator for Git repositories that utilizes the OpenAI API.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T12:25:19Z",
-      "url": "https://pypi.org/project/readme-writer/1.0.4/"
-    },
-    {
-      "id": 65,
-      "title": "Truth behind viral claims The Simpson’s predicted ‘Coldplay couple’ moment",
-      "summary": "The Simpsons have made many predictions, including the 'Coldplay couple' moment, but it remains unclear if there is any truth behind this particular claim.",
-      "source": "LADbible",
-      "category": "research",
-      "timestamp": "2025-07-22T12:25:11Z",
-      "url": "https://www.ladbible.com/news/us-news/coldplay-simpsons-andry-byron-cabot-astronomer-predicted-031980-20250722"
-    },
-    {
-      "id": 66,
-      "title": "nkululeko 0.96.3",
-      "summary": "nkululeko 0.96.3 is a machine learning audio prediction experiment that is based on templates.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-22T12:23:24Z",
-      "url": "https://pypi.org/project/nkululeko/0.96.3/"
-    },
-    {
-      "id": 67,
-      "title": "Amplify AI KitでAmazon Bedrock Knowledge Baseと連携してみた",
-      "summary": "Amplify AI Kit has successfully integrated with the Amazon Bedrock Knowledge Base, allowing for enhanced capabilities in the AI software.",
-      "source": "Classmethod.jp",
-      "category": "applications",
-      "timestamp": "2025-07-22T12:22:36Z",
-      "url": "https://dev.classmethod.jp/articles/amplify-ai-kit-amazon-bedrock-knowledge-base/"
-    },
-    {
-      "id": 68,
-      "title": "6 Reasons Why Turnover is Expensive, Even in an Employers’ Market",
-      "summary": "Employers are facing high turnover costs even in an employer's market due to factors such as recruitment expenses and lost productivity.",
-      "source": "Evilhrlady.org",
-      "category": "economy",
-      "timestamp": "2025-07-22T12:21:23Z",
-      "url": "https://www.evilhrlady.org/2025/07/6-reasons-why-turnover-is-expensive-even-in-an-employers-market.html"
-    },
-    {
-      "id": 69,
-      "title": "Do Trump, Netanyahu, and Their Ilk Believe They Are Virtuous? Edward Curtin",
-      "summary": "The article discusses the moral character of political leaders like Trump and Netanyahu, suggesting that they may not believe they are virtuous despite their rational thinking. The author argues that the US is controlled by a corrupt ruling class, highlighting ethical concerns within the political system.",
-      "source": "Globalresearch.ca",
-      "category": "ethics",
-      "timestamp": "2025-07-22T12:20:54Z",
-      "url": "https://www.globalresearch.ca/trump-netanyahu-ilk-believe-virtuous/5895624"
-    },
-    {
-      "id": 70,
-      "title": "Medical Student Shows How People With Certain Medical Conditions See (19 Pics)",
-      "summary": "Medical student uses artificial intelligence to show how people with certain medical conditions see",
-      "source": "Boredpanda.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T12:20:14Z",
-      "url": "https://www.boredpanda.com/how-people-with-certain-medical-conditions-see-msn/"
-    },
-    {
-      "id": 51,
-      "title": "Show HN: The Influencer AI – consistent AI \"models\" for photos and talking video",
-      "summary": "The Influencer AI is a new AI tool created by a two-person team that can create consistent AI personas for photos and talking videos using trait sliders or real person's photos, after 8 months of development.",
-      "source": "Theinfluencer.ai",
-      "category": "startups",
-      "timestamp": "2025-07-22T11:48:58Z",
-      "url": "https://www.theinfluencer.ai"
-    },
-    {
-      "id": 52,
-      "title": "Dodge and Cox Increased its Holdings in UnitedHealth Group Incorporated (UNH) Amid Current Challenges",
-      "summary": "Dodge and Cox increased its holdings in UnitedHealth Group Incorporated during current challenges, as revealed in their second quarter 2025 investor letter.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:47:43Z",
-      "url": "https://finance.yahoo.com/news/dodge-cox-increased-holdings-unitedhealth-114743479.html"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Folo – one timeline, zero noise",
-      "summary": "Folo is a new AI tool that aims to provide users with a streamlined timeline free of noise. The tool is designed to help users focus on the most relevant content.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:46:14Z",
-      "url": "https://github.com/RSSNext/Folo"
-    },
-    {
-      "id": 54,
-      "title": "Immersive Elvis experience slammed as ‘awful from start to finish’",
-      "summary": "Fans expressed disappointment with the immersive Elvis experience in London, feeling like they wasted money for a subpar show.",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:46:12Z",
-      "url": "https://www.the-independent.com/arts-entertainment/music/news/elvis-evolution-reviews-tickets-vip-hologram-b2793643.html"
-    },
-    {
-      "id": 55,
-      "title": "ChatGPT now has 500m weekly users sending 2.5bn prompts a day",
-      "summary": "ChatGPT now has 500m weekly users sending 2.5bn prompts a day, making it a popular AI service for users worldwide.",
-      "source": "Music Ally",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:45:00Z",
-      "url": "http://musically.com/2025/07/22/chatgpt-now-has-500m-weekly-users-sending-2-5bn-prompts-a-day/"
-    },
-    {
-      "id": 56,
-      "title": "5 AI Courses To Add Up To $30,000 To Your Salary In 2025",
-      "summary": "5 AI Courses To Add Up To $30,000 To Your Salary In 2025 - Learn about the five high-impact AI courses and certifications that can help you boost your salary by as much as $30,000 in a year in 2025.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:45:00Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/22/high-paying-ai-courses-2025/"
-    },
-    {
-      "id": 57,
-      "title": "ChatGPT Receives This Many Prompts Every Single Day",
-      "summary": "ChatGPT reportedly handles more than 2.5 billion prompts daily, highlighting the volume of messages its chatbot and servers process. OpenAI revealed this information for the first time, showcasing the use of AI in everyday applications.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:44:48Z",
-      "url": "https://www.gadgets360.com/ai/news/chatgpt-total-daily-messages-prompts-sent-more-than-2-5-billion-8924405"
-    },
-    {
-      "id": 58,
-      "title": "HUAWEI Pura 80 Series debuts industry-first camera tech in Bangkok",
-      "summary": "HUAWEI Pura 80 Series debuts industry-first camera tech in Bangkok with an APAC launch event unveiling a new lineup of products.",
-      "source": "Yugatech.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T11:43:39Z",
-      "url": "https://www.yugatech.com/mobile/huawei-pura-80-series-debuts-industry-first-camera-tech-in-bangkok/"
-    },
-    {
-      "id": 59,
-      "title": "'Learning coding not enough': Google's android unit chief has a message to engg grads just focusing on computer science degrees",
-      "summary": "Google's VP of Android emphasizes the importance of problem-solving and analytical thinking in addition to coding skills for engineering graduates, highlighting the need for a broader skill set in the age of AI.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-22T11:43:27Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/learning-coding-not-enough-googles-android-unit-chief-has-a-message-to-engg-grads-just-focusing-on-computer-science-degrees/articleshow/122836494.cms"
-    },
-    {
-      "id": 60,
-      "title": "Create Stunning Product Ads in Minutes with AI : No Design Skills Needed",
-      "summary": "Create stunning product ads in minutes with AI, no design skills needed, thanks to advancements in artificial intelligence.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:42:54Z",
-      "url": "https://www.geeky-gadgets.com/ai-product-ad-creation-guide/"
     }
   ]
 }
