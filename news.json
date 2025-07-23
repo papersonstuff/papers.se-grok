@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-23T15:18:21.788Z",
+  "lastUpdate": "2025-07-23T15:45:42.385Z",
   "items": [
+    {
+      "id": 51,
+      "title": "SOITEC REPORTS FIRST QUARTER REVENUE OF FISCAL YEAR 2026",
+      "summary": "Soitec reports Q1’26 revenue of €92m, down 16% year-on-year, performing slightly better than expected.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T15:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119690/0/en/SOITEC-REPORTS-FIRST-QUARTER-REVENUE-OF-FISCAL-YEAR-2026.html"
+    },
+    {
+      "id": 52,
+      "title": "Large US Grid Lacks Capacity for Data Centers, Watchdog Says",
+      "summary": "The largest US grid does not have the capacity for new data centers, requiring developers to build their own power plants.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T15:44:55Z",
+      "url": "https://financialpost.com/pmn/business-pmn/large-us-grid-lacks-capacity-for-data-centers-watchdog-says"
+    },
+    {
+      "id": 53,
+      "title": "Dell's XPS 13 is one of the best laptops I've tested this year - here's why",
+      "summary": "Dell's XPS 13 with the Snapdragon X Elite is an ultraportable powerhouse with bold design features.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-22T15:43:03Z",
+      "url": "https://www.zdnet.com/article/dells-xps-13-is-one-of-the-best-laptops-ive-tested-this-year-heres-why/"
+    },
+    {
+      "id": 54,
+      "title": "What is a distributed database?",
+      "summary": "A distributed database is a database that consists of two or more files located in different sites on the same or different networks.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T15:43:00Z",
+      "url": "https://www.techtarget.com/searchoracle/definition/distributed-database"
+    },
+    {
+      "id": 55,
+      "title": "iOS 26 Public Beta with new security tools is about to ship",
+      "summary": "iOS 26 Public Beta with new security tools is about to ship, introducing smart call and iMessage screening features.",
+      "source": "Computerworld",
+      "category": "applications",
+      "timestamp": "2025-07-22T15:42:38Z",
+      "url": "https://www.computerworld.com/article/4026476/ios-26-public-beta-with-new-security-tools-is-about-to-ship.html"
+    },
+    {
+      "id": 56,
+      "title": "Stays on Analyst Radar as AI Demand Fuels Fresh Price Target",
+      "summary": "Arm Holdings plc is being closely tracked by analysts due to increased demand for AI, with Wells Fargo raising its price target to $175 per share.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T15:42:31Z",
+      "url": "https://biztoc.com/x/82430629bcc14b85"
+    },
+    {
+      "id": 57,
+      "title": "Maybe AI Isn't Going To Replace You At Work After All",
+      "summary": "AI may not be able to replace humans at work as initially thought due to its failure in tasks requiring absolute accuracy.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T15:40:48Z",
+      "url": "https://biztoc.com/x/45ee7790e6f505bf"
+    },
+    {
+      "id": 58,
+      "title": "Micron Launches First Space-Ready Memory Chip To Power AI Missions In Orbit",
+      "summary": "Micron Technology launches its first space-ready memory chip, a high-density, radiation-tolerant SLC NAND chip, to power AI missions in orbit, expanding its footprint in the space economy.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T15:40:37Z",
+      "url": "https://biztoc.com/x/417fa97c1749586c"
+    },
+    {
+      "id": 59,
+      "title": "Is today’s AI boom bigger than the dotcom bubble?",
+      "summary": "Wall Street's concentration in the red-hot tech sector is greater than it was during the dotcom bubble of the 1990s, leading to questions about whether history will repeat itself.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T15:40:37Z",
+      "url": "https://biztoc.com/x/bbe0e4ac9ef2ec09"
+    },
+    {
+      "id": 60,
+      "title": "AI shopping assistants have a trust problem",
+      "summary": "AI shopping assistants facing trust issues, ranked among least trusted sources for shopping information.",
+      "source": "Retail Dive",
+      "category": "applications",
+      "timestamp": "2025-07-22T15:40:00Z",
+      "url": "https://www.retaildive.com/news/ai-retail-shopping-assistants-consumer-trust/753687/"
+    },
+    {
+      "id": 61,
+      "title": "5 Gold Stocks Outperforming The Indexes, All With New 2025 Highs",
+      "summary": "Gold stocks are outperforming indexes in 2025, attributed to investor beliefs about inflation and tariffs.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-22T15:39:58Z",
+      "url": "https://www.forbes.com/sites/johnnavin/2025/07/22/5-gold-stocks-outperforming-the-indexes-all-with-new-2025-highs/"
+    },
+    {
+      "id": 62,
+      "title": "Kimi-K2-Instruct Now Available as NVIDIA NIM",
+      "summary": "Kimi-K2-Instruct now available as NVIDIA NIM for building enterprise generative AI apps.",
+      "source": "Nvidia.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T15:37:58Z",
+      "url": "https://build.nvidia.com/moonshotai/kimi-k2-instruct%20"
+    },
+    {
+      "id": 63,
+      "title": "Introducing Error Assist on Connect Cloud: Your AI-Powered Troubleshooting Companion",
+      "summary": "Connect Cloud's Error Assist feature offers AI-powered troubleshooting for deployment failures, prioritizing data privacy and security.",
+      "source": "Posit.co",
+      "category": "applications",
+      "timestamp": "2025-07-22T15:36:03Z",
+      "url": "https://posit.co/blog/connect-cloud-error-assist/"
+    },
     {
       "id": 51,
       "title": "Top 5 IT Asset Management Solutions",
@@ -333,123 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-22T14:16:18Z",
       "url": "http://www.pymnts.com/news/investment-tracker/2025/ai-research-firm-reka-valued-at-1-billion/"
-    },
-    {
-      "id": 56,
-      "title": "The role of technology in shaping consumer behavior",
-      "summary": "The role of technology in shaping consumer behavior highlights the need for businesses to adapt to evolving digital expectations and behaviors.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:16:00Z",
-      "url": "https://www.techtarget.com/whatis/feature/The-role-of-technology-in-shaping-consumer-behavior"
-    },
-    {
-      "id": 57,
-      "title": "What Makes Uber Technologies (UBER) an Investment Bet?",
-      "summary": "Aristotle Capital Management, LLC released its “Value Equity Strategy” second quarter 2025 investor letter, highlighting Uber Technologies as an investment bet.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:15:21Z",
-      "url": "https://finance.yahoo.com/news/makes-uber-technologies-uber-investment-141521119.html"
-    },
-    {
-      "id": 58,
-      "title": "nkululeko 0.96.4",
-      "summary": "nkululeko 0.96.4 is conducting machine learning experiments in audio prediction using templates.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-22T14:15:21Z",
-      "url": "https://pypi.org/project/nkululeko/0.96.4/"
-    },
-    {
-      "id": 59,
-      "title": "Malwarebytes Expands ThreatDown Portfolio with Email Security",
-      "summary": "Malwarebytes expands its ThreatDown portfolio with a new email security module to combat email-based threats.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:15:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/22/malwarebytes-expands-threatdown-portfolio-with-email-security.aspx"
-    },
-    {
-      "id": 60,
-      "title": "Food Inspection Devices Market worth $5.08 billion by 2030 - Exclusive Report by MarketsandMarkets™",
-      "summary": "Food Inspection Devices Market expected to reach $5.08 billion by 2030, with a CAGR of 9.3% from 2025 to 2030, according to MarketsandMarkets™ report.",
-      "source": "PR Newswire UK",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:15:00Z",
-      "url": "https://www.prnewswire.co.uk/news-releases/food-inspection-devices-market-worth-5-08-billion-by-2030---exclusive-report-by-marketsandmarkets-302510485.html"
-    },
-    {
-      "id": 61,
-      "title": "Smart Factory Market is expected to generate a revenue of USD 211.04 Billion by 2031, Globally, at 10.30% CAGR: Verified Market Research®",
-      "summary": "Smart Factory Market is expected to generate a revenue of USD 211.04 Billion by 2031, Globally, at 10.30% CAGR, driven by the convergence of Industry 4.0, AI, IoT, and robotics. However, high capital costs and cybersecurity concern remain as challenges.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T14:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119615/0/en/Smart-Factory-Market-is-expected-to-generate-a-revenue-of-USD-211-04-Billion-by-2031-Globally-at-10-30-CAGR-Verified-Market-Research.html"
-    },
-    {
-      "id": 62,
-      "title": "What Next For Navitas Stock After 2x Rise This Year?",
-      "summary": "Navitas Semiconductor has seen a 2x rise in stock value this year due to their innovative designs of power semiconductors for consumer electronics, solar energy systems, and electric vehicles.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:14:18Z",
-      "url": "https://www.forbes.com/sites/greatspeculations/2025/07/22/what-next-for-navitas-stock-after-2x-rise-this-year/"
-    },
-    {
-      "id": 63,
-      "title": "'PAC-MANN' uses magnets and glowing 'probes' to detect signs of pancreatic cancer",
-      "summary": "'PAC-MANN' uses magnets and glowing 'probes' to detect signs of pancreatic cancer in blood, potentially catching the deadly cancer early.",
-      "source": "Live Science",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:13:37Z",
-      "url": "https://www.livescience.com/health/cancer/pac-mann-blood-test-aims-to-detect-pancreatic-cancer-early"
-    },
-    {
-      "id": 64,
-      "title": "Composio Lays Down Score For AI Skills Infrastructure",
-      "summary": "Composio develops a scoring system for AI skills infrastructure, focusing on capturing and codifying mistakes made by AI agents to enhance learning capabilities.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-22T14:13:15Z",
-      "url": "https://www.forbes.com/sites/adrianbridgwater/2025/07/22/composio-lays-down-score-for-ai-skills-infrastructure/"
-    },
-    {
-      "id": 65,
-      "title": "Cequence Security Launches AI Gateway, Safely Enabling Enterprises to Realize the Promise of Agentic AI Productivity",
-      "summary": "Cequence Security launches AI Gateway to enable enterprises to benefit from agentic AI productivity gains.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:13:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/22/cequence-security-launches-ai-gateway-safely-enabling-enterprises-to-realize-the-promise-of-agentic-ai-productivity.aspx"
-    },
-    {
-      "id": 66,
-      "title": "Will Tesla Be Banned in California? And More | Tech Today video",
-      "summary": "Netflix is using generative AI in a series, Tesla is facing legal disputes over its Full-Self Drive Package, and Google is using Android phones to detect earthquakes.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-22T14:12:43Z",
-      "url": "https://www.cnet.com/videos/will-tesla-be-banned-in-california-and-more-tech-today/"
-    },
-    {
-      "id": 67,
-      "title": "OpenAI o3 Alpha: The AI That Makes Coding Accessible to Everyone",
-      "summary": "OpenAI o3 Alpha is an AI that aims to make coding more accessible to everyone, potentially revolutionizing software development by allowing individuals without extensive coding experience to create complex applications and immersive games.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-22T14:12:02Z",
-      "url": "https://www.geeky-gadgets.com/openai-o3-alpha-ai-model-overview/"
-    },
-    {
-      "id": 68,
-      "title": "Russia Moves in on Pokrovsk in What Would Be Huge Win in Ukraine War",
-      "summary": "Russian forces advancing towards Pokrovsk in Ukraine could have serious ethical implications as the conflict escalates.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T14:11:37Z",
-      "url": "https://biztoc.com/x/599793a897094d6c"
     }
   ]
 }
