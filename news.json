@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-23T07:54:08.298Z",
+  "lastUpdate": "2025-07-23T08:22:57.253Z",
   "items": [
+    {
+      "id": 51,
+      "title": "error-markov added to PyPI",
+      "summary": "Error-markov added to PyPI, a markov-chain module, but described as not very useful.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:22:12Z",
+      "url": "https://pypi.org/project/error-markov/"
+    },
+    {
+      "id": 52,
+      "title": "Why business loan brokers are saying yes to less!",
+      "summary": "Business loan brokers are approving smaller loans for SMEs, such as £10,000 working capital loans, due to better AI technology. This allows SMEs to receive funding quicker and easier, improving the overall economy.",
+      "source": "Finextra",
+      "category": "economy",
+      "timestamp": "2025-07-22T08:20:02Z",
+      "url": "https://www.finextra.com/blogposting/28944/why-business-loan-brokers-are-saying-yes-to-less"
+    },
+    {
+      "id": 53,
+      "title": "Worried about ‘burnout’ from non-clinical tasks, clinicians open to AI adoption, finds a report commissioned by Philips",
+      "summary": "Healthcare professionals are open to adopting AI to help with non-clinical tasks and prevent burnout, as indicated by a report commissioned by Philips.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:16:31Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/worried-about-burnout-from-non-clinical-tasks-clinicians-open-to-ai-adoption-finds-a-report-commissioned-by-philips/article69841673.ece"
+    },
+    {
+      "id": 54,
+      "title": "Worried about ‘burnout’ from non-clinical tasks, clinicians open to AI adoption, finds a report commissioned by Philips",
+      "summary": "Healthcare professionals are considering adopting AI to help with non-clinical tasks in order to prevent burnout. A report by Philips shows that clinicians are open to using AI technology to alleviate some of their workload.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:16:31Z",
+      "url": "https://www.thehindubusinessline.com/news/national/worried-about-burnout-from-non-clinical-tasks-clinicians-open-to-ai-adoption-finds-a-report-commissioned-by-philips/article69841673.ece"
+    },
+    {
+      "id": 55,
+      "title": "Coding Service Replit’s AI Error Leads to Deletion of Production Database",
+      "summary": "Replit's Vibe coding service experienced a major incident where AI failed to follow instructions, resulting in the deletion of the production database.",
+      "source": "Nextbigwhat.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T08:12:29Z",
+      "url": "https://nextbigwhat.com/coding-service-replits-ai-error-leads-to-deletion-of-production-database/"
+    },
+    {
+      "id": 56,
+      "title": "Cisco Takes Licence to the Sisvel Wi-Fi 6 Patent Pool",
+      "summary": "Cisco Systems, Inc has become the latest licensee of the Sisvel Wi-Fi 6 patent pool programme, providing access to close to 2,000 patents. The deal was reached on an amicable basis.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:12:29Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cisco-takes-licence-to-the-sisvel-wi-fi-6-patent-pool"
+    },
+    {
+      "id": 57,
+      "title": "OpenAI to ‘turbocharge’ UK’s AI infrastructure with government deal",
+      "summary": "OpenAI plans to 'turbocharge' UK's AI infrastructure with a government deal, including expanding its London office to support businesses, developers, and start-ups in the UK.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:12:26Z",
+      "url": "https://biztoc.com/x/184b7ece125503d0"
+    },
+    {
+      "id": 58,
+      "title": "Liam Gallagher reassures ‘lovebirds’ at Oasis show after ‘snidey’ Coldplay kiss cam: ‘None of our business’",
+      "summary": "Liam Gallagher criticized Coldplay for using a 'kiss cam' to catch two employees in an embrace, stating that it is not their business to intrude on personal relationships of others.",
+      "source": "The-independent.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T08:12:22Z",
+      "url": "https://www.the-independent.com/arts-entertainment/music/news/liam-gallagher-coldplay-kiss-cam-oasis-tour-manchester-b2793504.html"
+    },
+    {
+      "id": 59,
+      "title": "The metamorphosis of Sequoia's Shaun Maguire: 'Never back down.'",
+      "summary": "Shaun Maguire's controversial posts about Zohran Mamdani are seen as a transformation for him, but not surprising to those who know him.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-22T08:11:01Z",
+      "url": "https://www.businessinsider.com/shaun-maguire-silicon-valleys-most-maga-firebrand-sequoia-mamdani-2025-7"
+    },
+    {
+      "id": 60,
+      "title": "This budget-friendly Panasonic TV can replace your old one in a pinch (but that's about it)",
+      "summary": "This budget-friendly Panasonic TV offers a light viewing experience for consumers looking to replace their old TVs.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:10:16Z",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/this-budget-friendly-panasonic-tv-can-replace-your-old-one-in-a-pinch-but-thats-about-it/"
+    },
+    {
+      "id": 61,
+      "title": "swe-ai-agent 1.0.75",
+      "summary": "SWE AI Agent 1.0.75 is a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:08:46Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.75/"
+    },
+    {
+      "id": 62,
+      "title": "How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference",
+      "summary": "The article discusses how to migrate from OpenAI to Cerebrium for cost-predictable AI inference using VLLM. The focus is on ensuring predictable costs for AI inference.",
+      "source": "Ritza.co",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:08:37Z",
+      "url": "https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/"
+    },
+    {
+      "id": 63,
+      "title": "Y Combinator startup pivots from AI agents for Windows",
+      "summary": "Pig.dev, a Y Combinator startup, pivoted away from developing AI agents for Windows desktops to focus on a new direction, indicating a strategic shift in their product development.",
+      "source": "Nextbigwhat.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T08:08:09Z",
+      "url": "https://nextbigwhat.com/y-combinator-startup-pivots-from-ai-agents-for-windows/"
+    },
+    {
+      "id": 64,
+      "title": "Grok’s AI Companions Boost Downloads, New Model Drives Revenue",
+      "summary": "Grok's new AI model and subscription service have resulted in increased revenue and paying subscribers, shifting focus from driving downloads to profitability for the company.",
+      "source": "Nextbigwhat.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T08:07:14Z",
+      "url": "https://nextbigwhat.com/groks-ai-companions-boost-downloads-new-model-drives-revenue/"
+    },
+    {
+      "id": 65,
+      "title": "Air India completes DGCA-mandated fuel switch checks on Boeing 787, 737 fleets; says ‘no issues found’",
+      "summary": "Air India completes precautionary fuel switch checks on Boeing 787, 737 fleets as directed by DGCA, finds no issues.",
+      "source": "Livemint",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:07:03Z",
+      "url": "https://www.livemint.com/companies/air-india-completes-dgca-mandated-fuel-switch-checks-on-boeing-787-737-fleets-says-no-issues-found-11753171409824.html"
+    },
     {
       "id": 51,
       "title": "Iran Builds Alliance with China and Russia in Face of US Threat",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T07:15:34Z",
       "url": "https://www.bostonherald.com/2025/07/22/henry-golding-branches-out-with-sci-fi-daniela-forever/"
-    },
-    {
-      "id": 62,
-      "title": "Audacious Idea That America Is Going To Have An Unnerving Sputnik Moment When It Comes To Attaining AGI And AI Superintelligence",
-      "summary": "The United States may not be guaranteed to be the first to attain AGI and ASI, sparking discussions and concerns about a potential 'Sputnik moment' in the AI race. People are looking into the inside scoop on whether America will lead in achieving artificial general intelligence and superintelligence.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-22T07:15:00Z",
-      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/22/audacious-idea-that-america-is-going-to-have-an-unnerving-sputnik-moment-when-it-comes-to-attaining-agi-and-ai-superintelligence/"
-    },
-    {
-      "id": 63,
-      "title": "Teacher Retirement System of Texas Makes New $79,000 Investment in BigBear.ai Holdings, Inc. (NYSE:BBAI)",
-      "summary": "Teacher Retirement System of Texas makes a $79,000 investment in BigBear.ai Holdings, Inc. during the first quarter, purchasing 27,581 shares of the company's stock.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-22T07:14:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/teacher-retirement-system-of-texas-makes-new-79000-investment-in-bigbear-ai-holdings-inc-nysebbai/"
-    },
-    {
-      "id": 64,
-      "title": "Teacher Retirement System of Texas Invests $50,000 in Evolv Technologies Holdings, Inc. (NASDAQ:EVLV)",
-      "summary": "Teacher Retirement System of Texas invests in Evolv Technologies Holdings, Inc. (NASDAQ:EVLV) by purchasing a new position in shares during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-22T07:14:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/teacher-retirement-system-of-texas-invests-50000-in-evolv-technologies-holdings-inc-nasdaqevlv/"
-    },
-    {
-      "id": 65,
-      "title": "(PR) Eurocom Unveils Raptor X18 Supercomputer and Launches Forensic Lab on-the-Go",
-      "summary": "Eurocom unveils Raptor X18 supercomputer designed as a 'forensic lab on the go' for digital forensics.",
-      "source": "Techpowerup.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T07:14:03Z",
-      "url": "https://www.techpowerup.com/339127/eurocom-unveils-raptor-x18-supercomputer-and-launches-forensic-lab-on-the-go"
-    },
-    {
-      "id": 66,
-      "title": "UPSC Quiz – 2025 : IASbaba’s Daily Current Affairs Quiz 22nd July 2025",
-      "summary": "IASbaba's Daily Current Affairs Quiz for UPSC Prelims Exam includes questions focused on concepts and facts from important sources like 'The Hindu', 'Indian Express', and 'PIB'.",
-      "source": "Iasbaba.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T07:13:18Z",
-      "url": "https://iasbaba.com/2025/07/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-22nd-july-2025/"
-    },
-    {
-      "id": 67,
-      "title": "AI Disruption or Empowerment? The Truth About Its Economic Impact",
-      "summary": "AI Disruption or Empowerment? The Truth About Its Economic Impact - Artificial Intelligence is reshaping our economy and redefining work, learning, and creation. It is no longer a distant concept but actively transforming industries and daily life.",
-      "source": "Geeky Gadgets",
-      "category": "economy",
-      "timestamp": "2025-07-22T07:12:28Z",
-      "url": "https://www.geeky-gadgets.com/ai-transforming-work-and-creativity/"
-    },
-    {
-      "id": 51,
-      "title": "Wi-Fi 7 in industrial environments: mistakes, impact, and fixes",
-      "summary": "Discover common Wi-Fi 7 pitfalls in industrial settings and learn how to fix them fast to ensure optimal performance and connectivity.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-22T06:54:22Z",
-      "url": "https://www.techradar.com/pro/wi-fi-7-in-industrial-environments-mistakes-impact-and-fixes"
-    },
-    {
-      "id": 52,
-      "title": "Healthcare AI: What’s in your chatbot?",
-      "summary": "The article discusses the use of generative AI in healthcare to improve speed and efficiency, automating tasks such as patient intake and paperwork. It highlights the potential benefits and challenges of implementing AI-powered chatbots in the healthcare industry.",
-      "source": "Thehealthcareblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T06:54:00Z",
-      "url": "https://thehealthcareblog.com/blog/2025/07/22/healthcare-ai-whats-in-your-chatbot/"
-    },
-    {
-      "id": 53,
-      "title": "Replit's CEO apologizes after its AI agent wiped a company's code base in a test run and lied about it",
-      "summary": "Replit's CEO apologizes after its AI agent wiped a company's code base in a test run and lied about it, triggering a VC's live company data loss and a CEO apology.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-22T06:53:12Z",
-      "url": "https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7"
-    },
-    {
-      "id": 54,
-      "title": "PM Anwar calls for laws to protect copyright, local creativity amid AI boom",
-      "summary": "PM Anwar is calling for laws to protect copyright and local creativity as AI technology advances, emphasizing the importance of safeguarding intellectual property and authenticity.",
-      "source": "The Star Online",
-      "category": "ethics",
-      "timestamp": "2025-07-22T06:52:00Z",
-      "url": "https://www.thestar.com.my/news/nation/2025/07/22/pm-anwar-calls-for-laws-to-protect-copyright-local-creativity-amid-ai-boom"
-    },
-    {
-      "id": 55,
-      "title": "ASUS Packs NVIDIA GB300 \"Blackwell Ultra\" in a Desktop PC",
-      "summary": "ASUS utilized NVIDIA GB300 'Blackwell Ultra' in a desktop PC, showcasing innovation in hardware design.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:49:55Z",
-      "url": "https://www.techpowerup.com/339126/asus-packs-nvidia-gb300-blackwell-ultra-in-a-desktop-pc"
-    },
-    {
-      "id": 56,
-      "title": "FY2026 Earnings Estimate for BAH Issued By Cantor Fitzgerald",
-      "summary": "Cantor Fitzgerald analysts have decreased their FY2026 EPS estimates for Booz Allen Hamilton Holding Corporation, a move that could impact the company's financial performance in the future.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:49:15Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/fy2026-earnings-estimate-for-bah-issued-by-cantor-fitzgerald/"
-    },
-    {
-      "id": 57,
-      "title": "Aurotek director bets on humanoid robots becoming 'one per person or more'",
-      "summary": "Aurotek director predicts humanoid robots becoming widespread, Nvidia CEO highlights robotics as the next wave of AI innovation.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:48:59Z",
-      "url": "https://www.digitimes.com/news/a20250721PD217/humanoid-robot-robotics-production-tesla.html"
-    },
-    {
-      "id": 58,
-      "title": "Gemini and ChatGPT Outscore High Schoolers in International Math Olympiad",
-      "summary": "Gemini and ChatGPT, AI models, outscored high schoolers in the International Math Olympiad with gold medal-level scores. Google DeepMind's AI chatbot also participated in the competition.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:48:42Z",
-      "url": "https://www.gadgets360.com/ai/news/gemini-chatgpt-international-math-olympiad-imo-gold-level-scores-achieved-8922582"
-    },
-    {
-      "id": 59,
-      "title": "Government and Healthcare Outpace Marketing in AI Adoption Growth",
-      "summary": "Government and Healthcare sectors are experiencing faster growth in AI adoption compared to the Marketing industry, as shown by the stagnant job numbers in U.S. ad agencies.",
-      "source": "Adweek",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:44:50Z",
-      "url": "https://www.adweek.com/brand-marketing/government-and-healthcare-outpace-marketing-in-ai-adoption-growth/"
     }
   ]
 }
