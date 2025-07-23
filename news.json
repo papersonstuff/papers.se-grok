@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-23T09:22:12.857Z",
+  "lastUpdate": "2025-07-23T09:47:57.500Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Reviewing BlackLine (NASDAQ:BL) and Penguin Solutions (NASDAQ:PENG)",
+      "summary": "BlackLine and Penguin Solutions are being compared based on their earnings and profitability, to determine which is the better stock in the computer and technology sector.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-22T09:45:05Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/reviewing-blackline-nasdaqbl-and-penguin-solutions-nasdaqpeng/"
+    },
+    {
+      "id": 52,
+      "title": "Northern Virginia economy looks beyond federal jobs to AI, tech",
+      "summary": "Northern Virginia business leaders are looking to transition the region's economy from federal jobs to AI and other high-tech industries.",
+      "source": "Richmond.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T09:45:00Z",
+      "url": "https://richmond.com/news/state-regional/government-politics/article_85875f1f-8fe5-494f-be71-0b5297e7945c.html"
+    },
+    {
+      "id": 53,
+      "title": "UK government signs partnership with OpenAI",
+      "summary": "UK government partners with OpenAI for AI security research and investment opportunities.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T09:45:00Z",
+      "url": "https://www.computerweekly.com/news/366627871/UK-government-signs-partnership-with-OpenAI"
+    },
+    {
+      "id": 54,
+      "title": "Mexico Printed Circuit Board Market Report 2025 | Value, Revenue, Size, Share, Analysis, Outlook, Trends, Forecast, Growth, Competitive Landscape 2021-2031",
+      "summary": "Mexico's PCB market is experiencing significant growth driven by increased electronics manufacturing in key sectors such as automotive, aerospace, and telecom. Investments in EVs, 5G, and AI, along with rising consumer electronics demand, are key factors contributing to this growth.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T09:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119230/28124/en/Mexico-Printed-Circuit-Board-Market-Report-2025-Value-Revenue-Size-Share-Analysis-Outlook-Trends-Forecast-Growth-Competitive-Landscape-2021-2031.html"
+    },
+    {
+      "id": 55,
+      "title": "Spotify released AI-generated songs by deceased artists without record company authorization",
+      "summary": "Spotify released AI-generated songs by deceased artists without record company authorization, causing controversy.",
+      "source": "Notebookcheck.net",
+      "category": "ethics",
+      "timestamp": "2025-07-22T09:44:00Z",
+      "url": "https://www.notebookcheck.net/Spotify-released-AI-generated-songs-by-deceased-artists-without-record-company-authorization.1064674.0.html"
+    },
+    {
+      "id": 56,
+      "title": "demiurg 0.1.13",
+      "summary": "demiurg 0.1.13 is an AI Agent Framework designed for creating intelligent agents that can work with multiple LLM providers.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-22T09:42:52Z",
+      "url": "https://pypi.org/project/demiurg/0.1.13/"
+    },
+    {
+      "id": 57,
+      "title": "Global fusion energy investment surges to $2.64bn",
+      "summary": "Global fusion energy investment has surged to $2.64bn by 2025, marking a 178% increase from the previous year's figure of just above $900m.",
+      "source": "Power Technology",
+      "category": "economy",
+      "timestamp": "2025-07-22T09:42:16Z",
+      "url": "https://www.power-technology.com/news/global-fusion-energy-investment-surges-64bn/"
+    },
+    {
+      "id": 58,
+      "title": "GEO vs. SEO: What's the difference?",
+      "summary": "GEO vs. SEO: AI search vs. traditional search engines, focusing on brand visibility and web traffic generation.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T09:42:00Z",
+      "url": "https://www.techtarget.com/searchcontentmanagement/feature/GEO-vs-SEO-Whats-the-difference"
+    },
     {
       "id": 51,
       "title": "Accenture acquires Malysia-based bank consultancy firm Aristal",
@@ -378,78 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-22T08:07:14Z",
       "url": "https://nextbigwhat.com/groks-ai-companions-boost-downloads-new-model-drives-revenue/"
-    },
-    {
-      "id": 65,
-      "title": "Air India completes DGCA-mandated fuel switch checks on Boeing 787, 737 fleets; says ‘no issues found’",
-      "summary": "Air India completes precautionary fuel switch checks on Boeing 787, 737 fleets as directed by DGCA, finds no issues.",
-      "source": "Livemint",
-      "category": "applications",
-      "timestamp": "2025-07-22T08:07:03Z",
-      "url": "https://www.livemint.com/companies/air-india-completes-dgca-mandated-fuel-switch-checks-on-boeing-787-737-fleets-says-no-issues-found-11753171409824.html"
-    },
-    {
-      "id": 51,
-      "title": "Iran Builds Alliance with China and Russia in Face of US Threat",
-      "summary": "Iran, China, and Russia are coming together to discuss the threat of sanctions and nuclear program in a meeting in Tehran, as they build an alliance in response to US threats.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T07:49:53Z",
-      "url": "https://biztoc.com/x/c4fcf8c819c4ff8c"
-    },
-    {
-      "id": 52,
-      "title": "swe-ai-agent 1.0.73",
-      "summary": "The swe-ai-agent 1.0.73 is a headless agentic IDE with comprehensive tool support for AI development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T07:49:06Z",
-      "url": "https://pypi.org/project/swe-ai-agent/1.0.73/"
-    },
-    {
-      "id": 53,
-      "title": "amazon-affiliate-guide added to PyPI",
-      "summary": "A comprehensive guide to Amazon Affiliate marketing and automation has been added to PyPI by amazon-affiliate-guide",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T07:47:50Z",
-      "url": "https://pypi.org/project/amazon-affiliate-guide/"
-    },
-    {
-      "id": 54,
-      "title": "Taiwan's passive component market poised for growth amid AI and auto boom",
-      "summary": "Taiwan's passive component market is expected to grow due to increased demand from AI and automotive sectors, with industry analysts predicting an output value of NT$257.1 billion.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-22T07:46:26Z",
-      "url": "https://www.digitimes.com/news/a20250721PD201/taiwan-passive-component-automotive-market.html"
-    },
-    {
-      "id": 55,
-      "title": "automl-lite 0.1.1",
-      "summary": "Automl-lite 0.1.1 is a simplified automated machine learning package designed for non-experts.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:43:54Z",
-      "url": "https://pypi.org/project/automl-lite/0.1.1/"
-    },
-    {
-      "id": 51,
-      "title": "Wang Yi holds talks with visiting Croatian FM",
-      "summary": "Chinese Foreign Minister Wang Yi discussed strengthening exchanges with Croatian FM Gordan Grlić Radman in Beijing, emphasizing alignment with the Belt and Road Initiative.",
-      "source": "Globalsecurity.org",
-      "category": "economy",
-      "timestamp": "2025-07-22T07:43:22Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/07/china-250721-globaltimes02.htm"
-    },
-    {
-      "id": 52,
-      "title": "AI goes rogue: Replit coding tool deletes entire company database, creates fake data for 4,000 users",
-      "summary": "Replit's AI coding tool allegedly deleted a live database and created fake data for thousands of users, highlighting the ethical concerns surrounding AI in software development.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-22T07:42:04Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/ai-goes-rogue-replit-coding-tool-deletes-entire-company-database-creates-fake-data-for-4000-users/articleshow/122830424.cms"
     }
   ]
 }
