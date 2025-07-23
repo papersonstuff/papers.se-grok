@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-23T07:43:58.473Z",
+  "lastUpdate": "2025-07-23T07:54:08.298Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Iran Builds Alliance with China and Russia in Face of US Threat",
+      "summary": "Iran, China, and Russia are coming together to discuss the threat of sanctions and nuclear program in a meeting in Tehran, as they build an alliance in response to US threats.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:49:53Z",
+      "url": "https://biztoc.com/x/c4fcf8c819c4ff8c"
+    },
+    {
+      "id": 52,
+      "title": "swe-ai-agent 1.0.73",
+      "summary": "The swe-ai-agent 1.0.73 is a headless agentic IDE with comprehensive tool support for AI development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:49:06Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.73/"
+    },
+    {
+      "id": 53,
+      "title": "amazon-affiliate-guide added to PyPI",
+      "summary": "A comprehensive guide to Amazon Affiliate marketing and automation has been added to PyPI by amazon-affiliate-guide",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:47:50Z",
+      "url": "https://pypi.org/project/amazon-affiliate-guide/"
+    },
+    {
+      "id": 54,
+      "title": "Taiwan's passive component market poised for growth amid AI and auto boom",
+      "summary": "Taiwan's passive component market is expected to grow due to increased demand from AI and automotive sectors, with industry analysts predicting an output value of NT$257.1 billion.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:46:26Z",
+      "url": "https://www.digitimes.com/news/a20250721PD201/taiwan-passive-component-automotive-market.html"
+    },
+    {
+      "id": 55,
+      "title": "automl-lite 0.1.1",
+      "summary": "Automl-lite 0.1.1 is a simplified automated machine learning package designed for non-experts.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T07:43:54Z",
+      "url": "https://pypi.org/project/automl-lite/0.1.1/"
+    },
     {
       "id": 51,
       "title": "Wang Yi holds talks with visiting Croatian FM",
@@ -405,51 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-22T06:44:50Z",
       "url": "https://www.adweek.com/brand-marketing/government-and-healthcare-outpace-marketing-in-ai-adoption-growth/"
-    },
-    {
-      "id": 60,
-      "title": "Apple needs to leave its ‘comfort zone’ on AI. Elon Musk could help.",
-      "summary": "Apple may need to seek external AI partnerships, potentially with Elon Musk's xAI, to break out of its current 'comfort zone.'",
-      "source": "Livemint",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:43:10Z",
-      "url": "https://www.livemint.com/companies/apple-needs-to-leave-its-comfort-zone-on-ai-elon-musk-could-help-11753166023366.html"
-    },
-    {
-      "id": 61,
-      "title": "Toronto-based Adastra, a tech consulting firm, sold to American private equity giant Carlyle",
-      "summary": "Toronto-based tech consulting firm Adastra sold a majority stake to U.S. private equity firm Carlyle Group Inc. as it focuses more on artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T06:43:09Z",
-      "url": "https://biztoc.com/x/04dd00cc51f1352c"
-    },
-    {
-      "id": 62,
-      "title": "CNBC Daily Open: Investors look away from the Trump administration's call to relook the Fed",
-      "summary": "Investors are looking away from the Trump administration's call to relook the Fed due to the challenging job market, partly because of artificial intelligence. It may be tempting to enroll in graduate school for a better job, but it is advised against if you have dreams of working in a particular field.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:43:04Z",
-      "url": "https://biztoc.com/x/7fb0d643c85f2d70"
-    },
-    {
-      "id": 63,
-      "title": "Elon Musk Doubles Down On OpenAI-Softbank Stargate Doubts—Says 'They Simply Don't' Have Money For The $500 Billion AI Infrastructure Push",
-      "summary": "Elon Musk expresses doubts on the $500 billion AI infrastructure push by OpenAI and SoftBank, stating they lack the financial resources for the ambitious Stargate project.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:42:45Z",
-      "url": "https://biztoc.com/x/be4cc91870f3d4fc"
-    },
-    {
-      "id": 64,
-      "title": "InMobi’s Mohit Saxena on building an indigenous tech stack in the AI age at ET Soonicorns Summit 2025",
-      "summary": "Mohit Saxena from InMobi discussed building an indigenous tech stack in the AI age at ET Soonicorns Summit 2025, focusing on what it will take for India to create its own AI-native technology platform. The session covered topics such as code sovereignty and scalable infrastructure.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-22T06:41:29Z",
-      "url": "https://economictimes.indiatimes.com/tech/startups/inmobis-mohit-saxena-on-building-an-indigenous-tech-stack-in-the-ai-age-at-et-soonicorns-summit-2025/articleshow/122829715.cms"
     }
   ]
 }
