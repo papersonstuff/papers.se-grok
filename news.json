@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-23T03:15:39.248Z",
+  "lastUpdate": "2025-07-23T04:13:14.899Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Energy Transfer (ET): A Rare 7%+ Dividend Stock Trading Below $20",
+      "summary": "Energy Transfer LP (NYSE:ET) is a rare 7%+ dividend stock trading below $20 and is included among the 13 Best Dividend Stocks to Buy Under $20.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T04:10:53Z",
+      "url": "https://finance.yahoo.com/news/energy-transfer-et-rare-7-041053588.html"
+    },
+    {
+      "id": 52,
+      "title": "Tesla is set to report earnings – who cares?",
+      "summary": "Tesla is set to report earnings with Elon Musk expected to focus on factors other than numbers during the earnings call as the investment case continues to evolve.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-22T04:10:00Z",
+      "url": "https://www.irishtimes.com/your-money/2025/07/22/tesla-is-set-to-report-earnings-who-cares/"
+    },
+    {
+      "id": 53,
+      "title": "Can you ever expect privacy in public? Coldplay kiss camera saga tells us a lot about the answer",
+      "summary": "Can you ever expect privacy in public? Coldplay kiss camera saga tells us a lot about the answer.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-22T04:09:18Z",
+      "url": "https://financialpost.com/pmn/can-you-ever-expect-privacy-in-public-coldplay-kiss-camera-saga-tells-us-a-lot-about-the-answer"
+    },
+    {
+      "id": 54,
+      "title": "gllm-inference-binary 0.4.29",
+      "summary": "gllm-inference-binary 0.4.29 is a library for model inferences in Gen AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T04:09:03Z",
+      "url": "https://pypi.org/project/gllm-inference-binary/0.4.29/"
+    },
+    {
+      "id": 55,
+      "title": "Google's Gemini matches OpenAI, securing 'gold-medal standard' at Math Olympiad",
+      "summary": "Google's Gemini matches OpenAI in achieving 'gold-medal standard' at Math Olympiad.",
+      "source": "Neowin",
+      "category": "research",
+      "timestamp": "2025-07-22T04:08:01Z",
+      "url": "https://www.neowin.net/news/googles-gemini-matches-openai-securing-gold-medal-standard-at-math-olympiad/"
+    },
+    {
+      "id": 56,
+      "title": "Top 11 Deep Learning Frameworks in 2025: Comparative Guide & Use Cases",
+      "summary": "Top 11 Deep Learning Frameworks in 2025: Comparative Guide & Use Cases - The deep learning ecosystem is vibrant and diverse halfway into 2025.",
+      "source": "Dev.to",
+      "category": "innovation",
+      "timestamp": "2025-07-22T04:06:53Z",
+      "url": "https://dev.to/marutitech/top-11-deep-learning-frameworks-in-2025-comparative-guide-use-cases-2b74"
+    },
+    {
+      "id": 57,
+      "title": "MAGA-style 'Anti-globalist' Politics Arrives In Japan",
+      "summary": "Populist ideals influenced by 'anti-globalist' politics are gaining traction in Japan, mirroring movements seen in other countries. These ideals often include anti-immigration and anti-elitism sentiments, sparking debate on the ethical implications of such ideologies.",
+      "source": "International Business Times",
+      "category": "ethics",
+      "timestamp": "2025-07-22T04:06:21Z",
+      "url": "https://www.ibtimes.com/maga-style-anti-globalist-politics-arrives-japan-3779089"
+    },
+    {
+      "id": 58,
+      "title": "The CLARITY Act’s Unfinished Business",
+      "summary": "The CLARITY Act's Unfinished Business addresses regulatory uncertainty surrounding digital assets in American financial law. President Trump signed the GENIUS Act to guide and establish national innovation for US stablecoins.",
+      "source": "Columbia.edu",
+      "category": "economy",
+      "timestamp": "2025-07-22T04:05:22Z",
+      "url": "https://clsbluesky.law.columbia.edu/2025/07/22/the-clarity-acts-unfinished-business/"
+    },
+    {
+      "id": 59,
+      "title": "Will Sergio Ramos miss the All-Star Game?",
+      "summary": "Just before the All-Star Game, questions were raised about Sergio Ramos's participation, drawing attention to his potential absence from the competition.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T04:03:00Z",
+      "url": "https://onefootball.com/en/news/will-sergio-ramos-miss-the-all-star-game-41407125"
+    },
     {
       "id": 51,
       "title": "Superhuman Sight AR Glasses - UTRACK AR Glasses Has Integrated AI for Extraordinary Visual Insight (TrendHunter.com)",
@@ -369,87 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-21T23:35:11Z",
       "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-wall-street-braces-for-big-tech-earnings-233511348.html"
-    },
-    {
-      "id": 55,
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street braces for the next wave of earnings",
-      "summary": "US stock futures traded flat as investors braced for the next wave of earnings, with Big Tech earnings ahead.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:35:11Z",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-braces-for-the-next-wave-of-earnings-233511007.html"
-    },
-    {
-      "id": 56,
-      "title": "Leaders Don’t Get to Hide",
-      "summary": "The CEO and Head of HR of a New England AI startup, Astronomer.io, faced challenges and scrutiny in the past week.",
-      "source": "Gapingvoid.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T23:34:24Z",
-      "url": "https://www.gapingvoid.com/leaders-dont-get-to-hide/"
-    },
-    {
-      "id": 57,
-      "title": "Flying boats and AI-run factories",
-      "summary": "Defense tech startups showcased flying boats and AI-run factories at a summit in Detroit focused on reviving U.S. manufacturing.",
-      "source": "Defense One",
-      "category": "startups",
-      "timestamp": "2025-07-21T23:30:15Z",
-      "url": "https://www.defenseone.com/business/2025/07/flying-boats-and-ai-run-factories/406887/"
-    },
-    {
-      "id": 58,
-      "title": "Ring Users Report Mysterious Logins—Amazon Blames Backend Bug",
-      "summary": "Users of Amazon Ring reported suspicious logins, prompting concerns about privacy and security. Amazon attributed the issue to a backend bug, raising questions about the company's approach to data protection.",
-      "source": "Decrypt",
-      "category": "ethics",
-      "timestamp": "2025-07-21T23:28:53Z",
-      "url": "https://decrypt.co/331120/ring-users-report-mysterious-logins-amazon-blames-backend-bug"
-    },
-    {
-      "id": 59,
-      "title": "Paradigm Launches Book-to-Film Publishing Collab; CJ Perry’s ‘Bulletproof Angel’ Set As First Title",
-      "summary": "Paradigm has launched a new book-to-film initiative that pairs athletes with bestselling authors, with CJ Perry's 'Bulletproof Angel' as the first title in the collaboration.",
-      "source": "Deadline",
-      "category": "innovation",
-      "timestamp": "2025-07-21T23:28:36Z",
-      "url": "http://deadline.com/2025/07/paradigm-book-to-film-initiative-cj-perry-bulletproof-angel-1236464240/"
-    },
-    {
-      "id": 60,
-      "title": "AI-Designed Drugs Can Now Target Previously ‘Undruggable’ Proteins in Cancer and Alzheimer’s",
-      "summary": "AI-designed drugs can now target previously 'undruggable' proteins in cancer and Alzheimer's, opening the door for designer protein drugs that tackle pain, cancer, and brain diseases.",
-      "source": "Singularity Hub",
-      "category": "research",
-      "timestamp": "2025-07-21T23:28:14Z",
-      "url": "https://singularityhub.com/2025/07/21/ai-designed-drugs-can-now-target-previously-undruggable-proteins-in-cancer-and-alzheimers/"
-    },
-    {
-      "id": 61,
-      "title": "$500 Billion Stumble: SoftBank–OpenAI's Massive AI Vision Faces Setbacks",
-      "summary": "$500 billion Stargate project, a joint venture between OpenAI and SoftBank to boost America's AI infrastructure, faces major delays and setbacks.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:27:14Z",
-      "url": "https://biztoc.com/x/dddc534c5d8e1ea6"
-    },
-    {
-      "id": 62,
-      "title": "AI Benchmarks: How Companies Can Use Them to Assess Tech",
-      "summary": "AI Benchmarks: How Companies Can Use Them to Assess Tech - Every time an artificial intelligence (AI) model is introduced, the company that created it often points out that it has topped several AI benchmarks.",
-      "source": "pymnts.com",
-      "category": "research",
-      "timestamp": "2025-07-21T23:25:52Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-benchmarks-how-companies-can-use-them-to-assess-tech/"
-    },
-    {
-      "id": 63,
-      "title": "Can an AI Goliath Help Oregon Stay Competitive in the Tech Industry?",
-      "summary": "Oregon invests $10M in Nvidia for AI training in universities to help stay competitive in the tech industry",
-      "source": "The Portland Mercury",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:23:00Z",
-      "url": "https://www.portlandmercury.com/news/2025/07/21/47930558/can-an-ai-goliath-help-oregon-stay-competitive-in-the-tech-industry"
     }
   ]
 }
