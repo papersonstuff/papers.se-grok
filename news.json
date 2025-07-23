@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-23T08:22:57.253Z",
+  "lastUpdate": "2025-07-23T08:51:57.746Z",
   "items": [
+    {
+      "id": 51,
+      "title": "readme-writer added to PyPI",
+      "summary": "Readme-writer added to PyPI - AI-powered documentation generator for Git repositories using OpenAI API.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:50:09Z",
+      "url": "https://pypi.org/project/readme-writer/"
+    },
+    {
+      "id": 52,
+      "title": "'Shameful' CBA hiring Indian ICT workers after firing Australians",
+      "summary": "'Shameful' CBA hiring Indian ICT workers after firing Australians - Union says advertised jobs ‘identical’ to ones made redundant.",
+      "source": "Acs.org.au",
+      "category": "ethics",
+      "timestamp": "2025-07-22T08:49:44Z",
+      "url": "https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html"
+    },
+    {
+      "id": 53,
+      "title": "ThreeD Capital Inc (CNSX:IDK) Insider 1313366 Ontario Inc. Sells 424,000 Shares",
+      "summary": "Insider of ThreeD Capital Inc sells 424,000 shares of company's stock at an average price of $0.08",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T08:48:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/threed-capital-inc-cnsxidk-insider-1313366-ontario-inc-sells-424000-shares/"
+    },
+    {
+      "id": 54,
+      "title": "Whispering Mountains brings interactive, AI-powered art installation",
+      "summary": "Whispering Mountains introduces an interactive, AI-powered art installation in New Zealand.",
+      "source": "Yanko Design",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:45:42Z",
+      "url": "https://www.yankodesign.com/2025/07/22/whispering-mountains-brings-interactive-ai-powered-art-installation/"
+    },
+    {
+      "id": 55,
+      "title": "Palantir Veterans Set To Launch Founders Films With Pro-America, AI-Powered Slate — 9/11 Rescue Story In Pipeline: Report",
+      "summary": "Former Palantir veterans are launching Founders Films, a production company focused on creating content celebrating American military operations in response to Hollywood's liberal bias.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T08:45:34Z",
+      "url": "https://biztoc.com/x/95d47e51b43bf575"
+    },
+    {
+      "id": 56,
+      "title": "Nuclear gloveboxes",
+      "summary": "Nuclear gloveboxes have been essential for nuclear work in the UK, providing safety and driving research. They have played a critical role in the industry for decades.",
+      "source": "Www.gov.uk",
+      "category": "applications",
+      "timestamp": "2025-07-22T08:45:08Z",
+      "url": "https://www.gov.uk/government/case-studies/nuclear-gloveboxes"
+    },
+    {
+      "id": 57,
+      "title": "demiurg 0.1.11",
+      "summary": "demiurg 0.1.11 is an AI Agent Framework that allows for building intelligent agents using multiple LLM providers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:43:26Z",
+      "url": "https://pypi.org/project/demiurg/0.1.11/"
+    },
+    {
+      "id": 58,
+      "title": "Humans beat AI gold-level score at top maths contest",
+      "summary": "Humans outperformed AI models made by Google and OpenAI at a top mathematics competition, despite the AI programs achieving gold-level scores for the first time.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:43:13Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humans-beat-ai-gold-level-score-at-top-maths-contest/articleshow/122832557.cms"
+    },
+    {
+      "id": 59,
+      "title": "7月23日開催『AI 採用 カンファレンス 2025』、全登壇者およびセッションタイムテーブルを公開",
+      "summary": "The AI Hiring Conference 2025 will be held on July 23rd, with all speakers and session timetable announced by Overflow Co., Ltd.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000246.000053307.html"
+    },
+    {
+      "id": 60,
+      "title": "Health Ministry developing AI to predict dengue hotspots",
+      "summary": "Health Ministry in Malaysia is developing AI to predict dengue hotspots in order to better combat the disease and prevent outbreaks.",
+      "source": "Malaysiakini",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:40:01Z",
+      "url": "https://www.malaysiakini.com/news/749782"
+    },
+    {
+      "id": 61,
+      "title": "swe-ai-agent 1.0.76",
+      "summary": "swe-ai-agent 1.0.76 - SWE Agent - Headless Agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:39:20Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.76/"
+    },
+    {
+      "id": 62,
+      "title": "NVIDIA’s CEO Has Replaced Musk As A Go-Through Between US & China, Says Report",
+      "summary": "NVIDIA's CEO Jensen Huang replaces Elon Musk as a mediator between US and China, demonstrating his influence in international business relations.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-22T08:37:53Z",
+      "url": "https://wccftech.com/nvidias-ceo-has-replaced-musk-as-a-go-through-between-us-china-says-report/"
+    },
+    {
+      "id": 63,
+      "title": "Air India show-caused 9 times in past 6 months over safety violations",
+      "summary": "Air India has received nine safety violation notices in the past six months, highlighting potential concerns for passenger safety. The government is working to address staffing shortages in important aviation organizations like DGCA, BCAS, and AAI.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T08:36:08Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-show-caused-9-times-in-past-6-months-over-safety-violations/articleshow/122832171.cms"
+    },
+    {
+      "id": 64,
+      "title": "I resisted AI for too long. Now it’s game on: Tesla CEO Elon Musk",
+      "summary": "Tesla CEO Elon Musk acknowledges the importance of AI, stating that he resisted it for too long and now sees it as a challenge. This comment was made in response to Nvidia CEO Jensen Huang calling Musk a 'superhuman' after his company built a fast AI-training supercomputer named 'Colossus'.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T08:35:51Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/i-resisted-ai-for-too-long-now-its-game-on-tesla-ceo-elon-musk/articleshow/122832394.cms"
+    },
     {
       "id": 51,
       "title": "error-markov added to PyPI",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T07:26:00Z",
       "url": "https://www.dw.com/en/how-hollywood-films-are-modified-by-censors-around-the-world/a-73351212"
-    },
-    {
-      "id": 67,
-      "title": "South Korea's Solar Pro 2 takes global stage, surpassing GPT-4.1 & DeepSeek V3",
-      "summary": "South Korean startup Upstage launches Solar Pro 2, outperforming GPT-4.1 & DeepSeek V3 and attracting attention from tech giants.",
-      "source": "Digitimes",
-      "category": "startups",
-      "timestamp": "2025-07-22T07:25:48Z",
-      "url": "https://www.digitimes.com/news/a20250722PD219/south-korea-llm-startup-performance.html"
-    },
-    {
-      "id": 68,
-      "title": "(PR) QNAP Unveils the New QAI-M100 and QAI-U100 Edge AI Accelerators",
-      "summary": "QNAP Systems, Inc. has launched the new edge AI accelerators QAI-M100 and QAI-U100 for QNAP NAS, providing small-and-medium businesses with plug-and-play installation and flexible configuration for AI applications.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:24:32Z",
-      "url": "https://www.techpowerup.com/339129/qnap-unveils-the-new-qai-m100-and-qai-u100-edge-ai-accelerators"
-    },
-    {
-      "id": 69,
-      "title": "AI: Wisdom's Swan Or Serpent Of Falsehood?",
-      "summary": "A deepfake video of President Zelenskyy highlights AI's potential for misinformation, drawing on Vedantic wisdom to navigate this digital storm.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-22T07:23:08Z",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/ai-wisdoms-swan-or-serpent-of-falsehood/articleshow/122830829.cms"
-    },
-    {
-      "id": 51,
-      "title": "2013 Bollywood film to be re-released with AI-modified happy ending as director slams move",
-      "summary": "2013 Bollywood film is set to be re-released with an AI-modified happy ending, which the director disapproves of as he was not informed and found out through social media.",
-      "source": "The-independent.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T07:20:20Z",
-      "url": "https://www.the-independent.com/asia/india/raanjhanaa-movie-re-release-ai-dhanush-sonam-kapoor-b2793484.html"
-    },
-    {
-      "id": 52,
-      "title": "Adding digital transformation firepower to Arsenal FC",
-      "summary": "Arsenal FC deploys customer experience and engagement systems from digital transformation partner to enhance fan engagement and blend tradition with technology.",
-      "source": "ComputerWeekly.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T07:20:00Z",
-      "url": "https://www.computerweekly.com/feature/Adding-digital-transformation-firepower-to-Arsenal-FC"
-    },
-    {
-      "id": 53,
-      "title": "Bispecific Antibodies Market Set to Surge to $163.15 Billion by 2032, Driven by a Robust 40.1% CAGR | Roche, Amgen, and Johnson & Johnson at the Forefront: AnalystView Market Insights",
-      "summary": "Bispecific Antibodies Market is projected to surge to $163.15 billion by 2032, driven by a robust 40.1% CAGR. Bispecific T‑cell engagers are dominating oncology pipelines with global trial activity up 256% since 2019.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-22T07:20:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119172/0/en/Bispecific-Antibodies-Market-Set-to-Surge-to-163-15-Billion-by-2032-Driven-by-a-Robust-40-1-CAGR-Roche-Amgen-and-Johnson-Johnson-at-the-Forefront-AnalystView-Market-Insights.html"
-    },
-    {
-      "id": 54,
-      "title": "The Future of Retail Marketing: Google Ads Trends in Dubai",
-      "summary": "Google Ads is revolutionizing retail marketing in Dubai by helping businesses connect with customers in new ways.",
-      "source": "Socialmediaexplorer.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:19:49Z",
-      "url": "https://socialmediaexplorer.com/digital-marketing/the-future-of-retail-marketing-google-ads-trends-in-dubai/"
-    },
-    {
-      "id": 55,
-      "title": "(PR) Kioxia Announces Industry's First 245.76 TB NVMe SSD Built for the Demands of Generative AI Environments",
-      "summary": "Kioxia Corporation announces the industry's first 245.76 TB NVMe SSD designed for Generative AI Environments, expanding its high-capacity enterprise SSD lineup.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:19:12Z",
-      "url": "https://www.techpowerup.com/339128/kioxia-announces-industrys-first-245-76-tb-nvme-ssd-built-for-the-demands-of-generative-ai-environments"
-    },
-    {
-      "id": 56,
-      "title": " A patch of turf missing: DFB-Pokal pitch falls short of required length",
-      "summary": "A patch of turf missing: DFB-Pokal pitch falls short of required length - VfL Wolfsburg delayed ticket sales for their DFB Cup match due to the pitch not meeting standards.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:19:00Z",
-      "url": "https://onefootball.com/en/news/a-patch-of-turf-missing-dfb-pokal-pitch-falls-short-of-required-length-41407488"
-    },
-    {
-      "id": 57,
-      "title": "AWS adds vector functionality to S3 object storage",
-      "summary": "AWS introduces S3 Vectors to store AI vector data in object storage, potentially reducing costs for storing vectorised data",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:18:00Z",
-      "url": "https://www.computerweekly.com/news/366627941/AWS-adds-vector-functionality-to-S3-object-storage"
-    },
-    {
-      "id": 58,
-      "title": "The AI Rat Scandal: Publishing’s Latest Integrity Crisis and the Role of Legal Libraries",
-      "summary": "The AI Rat scandal highlights the importance of vetting in legal publishing, especially in the age of online information. The need for integrity in scientific publishing has been brought to the forefront.",
-      "source": "Lexblog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T07:17:22Z",
-      "url": "https://kevin.lexblog.com/2025/07/22/the-ai-rat-scandal-publishings-latest-integrity-crisis-and-the-role-of-legal-libraries/"
-    },
-    {
-      "id": 59,
-      "title": " Nepal’s Agriculture SOS! 13 Urgent Fixes to Attract Youth & Boost Farming! ",
-      "summary": "Nepal's Agriculture SOS! 13 Urgent Fixes to Attract Youth & Boost Farming, focusing on boosting youth engagement in agriculture",
-      "source": "Nep123.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:17:03Z",
-      "url": "https://nep123.com/%f0%9f%9a%9c-nepals-agriculture-sos-13-urgent-fixes-to-attract-youth-boost-farming-%f0%9f%87%b3%f0%9f%87%b5/"
-    },
-    {
-      "id": 60,
-      "title": "Teacher Retirement System of Texas Makes New $86,000 Investment in Stagwell Inc. (NASDAQ:STGW)",
-      "summary": "Teacher Retirement System of Texas invests $86,000 in Stagwell Inc., buying a new stake in the company in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-22T07:16:49Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/teacher-retirement-system-of-texas-makes-new-86000-investment-in-stagwell-inc-nasdaqstgw/"
-    },
-    {
-      "id": 61,
-      "title": "Henry Golding branches out with sci-fi ‘Daniela Forever’",
-      "summary": "Henry Golding is branching out with a sci-fi film 'Daniela Forever' as part of his deliberate career decisions since 'Crazy Rich Asians'.",
-      "source": "Boston Herald",
-      "category": "innovation",
-      "timestamp": "2025-07-22T07:15:34Z",
-      "url": "https://www.bostonherald.com/2025/07/22/henry-golding-branches-out-with-sci-fi-daniela-forever/"
     }
   ]
 }
