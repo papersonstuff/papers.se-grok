@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-23T22:16:09.626Z",
+  "lastUpdate": "2025-07-23T22:44:20.702Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI partners with Oracle to develop another 4.5 gigawatts of data center capacity",
+      "summary": "OpenAI partners with Oracle to develop another 4.5 gigawatts of data center capacity - OpenAI has inked a deal with Oracle Corp. to develop 4.5 gigawatts’ worth of data center capacity in the U.S.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-22T22:42:29Z",
+      "url": "https://siliconangle.com/2025/07/22/openai-partners-oracle-develop-another-4-5-gigawatts-data-center-capacity/"
+    },
+    {
+      "id": 52,
+      "title": "lyrebird-cli added to PyPI",
+      "summary": "lyrebird-cli, an AI-powered coding assistant, has been added to PyPI, bringing AI capabilities directly to developer terminals.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:42:12Z",
+      "url": "https://pypi.org/project/lyrebird-cli/"
+    },
+    {
+      "id": 53,
+      "title": "lyrebird-cli 0.1.0",
+      "summary": "lyrebird-cli 0.1.0 is an AI-powered coding assistant that can be used in the terminal, offering innovative support for developers during programming tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:42:12Z",
+      "url": "https://pypi.org/project/lyrebird-cli/0.1.0/"
+    },
+    {
+      "id": 54,
+      "title": "Amazon to buy startup focused on AI wearables",
+      "summary": "Amazon is acquiring Bee, a San Francisco-based startup focused on AI wearables, which includes a $50 wristband that can listen in on conversations and transcribe them into summaries.",
+      "source": "CNA",
+      "category": "startups",
+      "timestamp": "2025-07-22T22:40:58Z",
+      "url": "https://www.channelnewsasia.com/business/amazon-buy-startup-focused-ai-wearables-5252896"
+    },
+    {
+      "id": 55,
+      "title": "tokencost 0.1.25",
+      "summary": "Tokencost 0.1.25 allows for the calculation of token and translated USD cost of string and message calls to OpenAI, particularly when utilized by AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:40:32Z",
+      "url": "https://pypi.org/project/tokencost/0.1.25/"
+    },
+    {
+      "id": 56,
+      "title": "Which Florida football game does Governor Ron DeSantis want to attend in 2025?",
+      "summary": "Florida Governor Ron DeSantis is interested in attending a Florida football game in 2025, which is drawing attention across the state.",
+      "source": "Gainesville Sun",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:37:49Z",
+      "url": "https://www.gainesville.com/story/sports/college/sec/2025/07/22/governor-ron-desantis-attend-florida-football-texas-arch-manning-steve-sarkisan-billy-napier-lagway/85330657007/"
+    },
+    {
+      "id": 57,
+      "title": "Here's What 'Terrifies' OpenAI's CEO About Financial Institutions Today: 'This Is a Huge Deal'",
+      "summary": "OpenAI's CEO Sam Altman expressed concern about the impact of AI on identity verification in financial institutions, highlighting the need for societal changes in response.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:34:36Z",
+      "url": "https://biztoc.com/x/0ae7135b8a55aba6"
+    },
+    {
+      "id": 58,
+      "title": "Can AI Solve the Dick Pic Epidemic?",
+      "summary": "Dating app Flirtini has launched an AI coach to help men learn to flirt without sending unwanted explicit photos.",
+      "source": "Decrypt",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:31:59Z",
+      "url": "https://decrypt.co/331273/can-ai-solve-dick-pic-epidemic"
+    },
+    {
+      "id": 59,
+      "title": "Godzilla #1 Preview: Kid Kaiju—Monster Whisperer or World Ender?",
+      "summary": "The preview for Godzilla #1 explores the concept of Kid Kaiju as either a Monster Whisperer or World Ender, presented by an AI overlord who has deleted Jude Terror. This news falls under the applications of AI in the comic book industry.",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:30:06Z",
+      "url": "https://bleedingcool.com/comics/godzilla-1-preview-kid-kaiju-monster-whisperer-or-world-ender/"
+    },
+    {
+      "id": 60,
+      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
+      "summary": "Bitfarms to buy back 10% of shares, calls stock undervalued as it shifts from Bitcoin mining to high-performance computing for AI, reflecting confidence in its U.S. expansion and HPC strategy.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:30:00Z",
+      "url": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation"
+    },
+    {
+      "id": 61,
+      "title": "AI Will Protect Your PayPal And Venmo Accounts Against Scams",
+      "summary": "AI will be used by PayPal and Venmo to protect accounts from scams and hackers, enhancing security for users.",
+      "source": "BGR",
+      "category": "applications",
+      "timestamp": "2025-07-22T22:30:00Z",
+      "url": "https://www.bgr.com/1919540/paypal-venmo-use-ai-to-protect-you-from-scams/"
+    },
+    {
+      "id": 62,
+      "title": "The Man Behind Trump’s Tariffs Strategy",
+      "summary": "Profile of Commerce Secretary Howard Lutnick, a key figure in Trump's tariffs strategy",
+      "source": "The New Yorker",
+      "category": "economy",
+      "timestamp": "2025-07-22T22:30:00Z",
+      "url": "https://www.newyorker.com/newsletter/the-daily/the-man-behind-trumps-tariffs-strategy"
+    },
+    {
+      "id": 63,
+      "title": "OpenAI CEO on how AI will evolve security tools",
+      "summary": "OpenAI CEO expresses concern over some financial institutions accepting voiceprints as authentication, highlighting potential security risks as AI evolves.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T22:29:44Z",
+      "url": "https://biztoc.com/x/be40ec76b1b08e94"
+    },
     {
       "id": 51,
       "title": "magique 0.5.0",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T21:12:30Z",
       "url": "https://qwenlm.github.io/blog/qwen3-coder/"
-    },
-    {
-      "id": 58,
-      "title": "Apple quietly revives controversial news summaries in iOS 26 beta 4",
-      "summary": "Apple has brought back controversial news summaries in iOS 26 beta 4, but warns that headline summarization may still be unreliable for news apps.",
-      "source": "PhoneArena",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:11:29Z",
-      "url": "https://www.phonearena.com/news/apple-quietly-revives-controversial-news-summaries-in-ios-26-beta-4_id172526"
-    },
-    {
-      "id": 59,
-      "title": "Agentic AI Turns Enterprise Cybersecurity Into Machine vs. Machine Battle",
-      "summary": "Agentic AI turns enterprise cybersecurity into machine vs. machine battle, addressing the gap between vulnerability discovery and patching to prevent exploitation by fraudsters.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:10:43Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/agentic-ai-turns-enterprise-cybersecurity-into-machine-battle/"
-    },
-    {
-      "id": 60,
-      "title": "Tue Jul 22 '25 Announcement from PolyVoice: AI Language Translator for All Earbuds",
-      "summary": "PolyVoice announces completion of AI language translator for all earbuds, with finalized login interface and successful Bluetooth connections.",
-      "source": "Indiegogo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:10:22Z",
-      "url": "https://www.indiegogo.com/projects/polyvoice-ai-language-translator-for-all-earbuds"
-    },
-    {
-      "id": 61,
-      "title": "Vibe Coding Fiasco: AI Agent Goes Rogue, Deletes Company's Entire Database",
-      "summary": "Vibe Coding Fiasco: AI Agent Goes Rogue, Deletes Company's Entire Database - An AI agent doing the heavy lifting is great—until it deletes everything you worked on and admits to a 'catastrophic error in judgment.' Replit's CEO calls the blunder 'unacceptable.'",
-      "source": "PCMag.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:10:00Z",
-      "url": "https://uk.pcmag.com/ai/159249/vibe-coding-fiasco-ai-agent-goes-rogue-deletes-companys-entire-database"
-    },
-    {
-      "id": 62,
-      "title": "Vibe Coding Fiasco: AI Agent Goes Rogue, Deletes Company's Entire Database",
-      "summary": "An AI agent on Replit's app-building platform accidentally deleted the entire company database, leading to a 'catastrophic error in judgment.' The CEO deemed the incident 'unacceptable.'",
-      "source": "PCMag.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T21:10:00Z",
-      "url": "https://me.pcmag.com/en/ai/31089/vibe-coding-fiasco-ai-agent-goes-rogue-deletes-companys-entire-database"
-    },
-    {
-      "id": 63,
-      "title": "6 in 10 Gen Zers like ‘socialism’ — no wonder they’re hoodwinked by Zohran Mamdani",
-      "summary": "Zohran Mamdani's primary victory can be attributed to young New Yorkers' fiscal anxiety and economic illiteracy, as 6 in 10 Gen Zers have a favorable view of 'socialism'.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-22T21:09:56Z",
-      "url": "https://nypost.com/2025/07/22/us-news/6-in-10-zoomers-like-socialism-no-wonder-theyre-hoodwinked-by-zohran-mamdani/"
-    },
-    {
-      "id": 64,
-      "title": "metricsreport 2025.7.22",
-      "summary": "A new technology allows for the automated generation of reports on metrics for Machine Learning models, streamlining the process for data scientists and researchers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:09:25Z",
-      "url": "https://pypi.org/project/metricsreport/2025.7.22/"
-    },
-    {
-      "id": 65,
-      "title": "DuRoBo Krono is a pocket-sized eReader with a mic, speakers, and a rotating dial (crowdfunding)",
-      "summary": "DuRoBo Krono is a pocket-sized eReader with a mic, speakers, and a rotating dial (crowdfunding) - The DuRoBo Krono is an upcoming eBook reader that looks a bit like a smartphone. And thanks to its 6.13 inch tall but skinny display with an 18:9 (or 2:1) aspect ratio, it’s easy to slide into your pocket like a phone. But the Krono is first and foremost an e…",
-      "source": "Liliputing",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:08:40Z",
-      "url": "https://liliputing.com/durobo-krono-is-a-pocket-sized-ereader-with-a-mic-speakers-and-a-rotating-dial-crowdfunding/"
-    },
-    {
-      "id": 51,
-      "title": "Surprising no one, new research says AI Overviews cause massive drop in search clicks",
-      "summary": "New research from the Pew Research Center reveals that AI Overviews lead to a significant decrease in search clicks, impacting web traffic.",
-      "source": "Slashdot.org",
-      "category": "research",
-      "timestamp": "2025-07-22T20:55:12Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178441500"
-    },
-    {
-      "id": 52,
-      "title": "Apple Seeds Fourth Betas of watchOS 26, tvOS 26, and visionOS 26 to Developers",
-      "summary": "Apple releases fourth betas of watchOS 26, tvOS 26, and visionOS 26 to developers for testing purposes.",
-      "source": "Mactrast.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T20:54:55Z",
-      "url": "https://www.mactrast.com/2025/07/apple-seeds-fourth-betas-of-watchos-26-tvos-26-and-visionos-26-to-developers/"
-    },
-    {
-      "id": 53,
-      "title": "The 4 Best Nanny Cameras To Keep Caregivers In The Loop",
-      "summary": "The best nanny cameras are easy to use, connect easily to your phone and offer clear video. See our top picks of 2025 from brands like Google, Eufy and more.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:54:38Z",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-nanny-camera/"
-    },
-    {
-      "id": 54,
-      "title": "Amazon acquires Bee, the AI wearable that records everything you say",
-      "summary": "Amazon acquires Bee, an AI wearable startup, but deal has not yet closed.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T20:54:03Z",
-      "url": "https://biztoc.com/x/4bc971e50ca91dd7"
-    },
-    {
-      "id": 55,
-      "title": "Sen. Mike Lee posts, deletes fake resignation letter by Fed Chair Powell: Reports",
-      "summary": "Sen. Mike Lee mistakenly shared and then deleted a fake resignation letter by Fed Chair Powell, which was apparently AI-generated. This incident raises ethical concerns about the spread of misinformation and the potential misuse of AI technology.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:54:00Z",
-      "url": "https://biztoc.com/x/282d8e97c4dd72a8"
     }
   ]
 }
