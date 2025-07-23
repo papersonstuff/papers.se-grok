@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-23T18:52:40.593Z",
+  "lastUpdate": "2025-07-23T19:14:57.996Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Stablecoin podcast with Garett Jones",
+      "summary": "Stablecoin podcast featuring Garett Jones, with fresh material and available on Spotify under Bluechip Dialogues.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-22T19:13:19Z",
+      "url": "https://biztoc.com/x/1f0a6b55d0af84ae"
+    },
+    {
+      "id": 52,
+      "title": "Apparently, comparing someone’s writing to AI is now a “classist slur;” and other news.",
+      "summary": "Apparently, comparing someone’s writing to AI is now a 'classist slur;' another wild week for the makers of popular predictive chatbots and large, generative pretrained transformer software.",
+      "source": "Lithub.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:12:16Z",
+      "url": "https://lithub.com/apparently-comparing-someones-writing-to-ai-is-now-a-classist-slur-and-other-news/"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: Ellaa – Build knowledge graphs from user insights",
+      "summary": "Ellaa is a platform for product teams to manage user insights efficiently by using AI to analyze research, build knowledge graphs, and organize qualitative data.",
+      "source": "Ellaa.app",
+      "category": "startups",
+      "timestamp": "2025-07-22T19:12:02Z",
+      "url": "https://ellaa.app"
+    },
+    {
+      "id": 54,
+      "title": "How to get rid of useless keys in Windows and turn them into something helpful",
+      "summary": "In the era of laptops and tenkeyless keyboards, many of us are living with fewer keys. As a solution, users can repurpose unused keys like Copilot or Scroll Lock on Windows keyboards to serve more useful functions such as media controls or extended characters.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T19:10:45Z",
+      "url": "https://www.theregister.com/2025/07/22/useless_keys_windows/"
+    },
+    {
+      "id": 55,
+      "title": "How Dom and Bruno were caught in the bloody fight for the Amazon",
+      "summary": "A new podcast tells the story of how a British journalist and Brazilian ranger were caught in the fight for the Amazon, highlighting the broader impact of the battle for the forest.",
+      "source": "ABC News (AU)",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:10:07Z",
+      "url": "https://www.abc.net.au/news/2025-07-23/best-podcasts-of-july/105554682"
+    },
+    {
+      "id": 56,
+      "title": "“キャラを選べるAIメンター”が登場！キャリア自律を促進するAIキャリア相談室「HERO Me」大型アップデートを実施",
+      "summary": "An AI mentor that allows users to choose their character has been introduced, with a major update to the AI career counseling service 'HERO Me' to promote career autonomy.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:10:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000011206.html"
+    },
+    {
+      "id": 57,
+      "title": "Mistral reports on the environmental impact of LLMs",
+      "summary": "Mistral reports on the environmental impact of Large Language Models (LLMs) in AI, contributing to a global environmental standard for AI.",
+      "source": "Mistral.ai",
+      "category": "research",
+      "timestamp": "2025-07-22T19:09:31Z",
+      "url": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai"
+    },
+    {
+      "id": 58,
+      "title": "elemental-agents 0.1.6",
+      "summary": "elemental-agents 0.1.6 is a multi-agent framework designed for conversational collaborative AI agents that can automate tasks.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T19:09:01Z",
+      "url": "https://pypi.org/project/elemental-agents/0.1.6/"
+    },
     {
       "id": 51,
       "title": "AI-Powered Digital Marketing Mastery Bundle Review: Unlock the Future of Marketing Success - FreePostZone.com",
@@ -378,78 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T17:40:58Z",
       "url": "https://www.thegatewaypundit.com/2025/07/trump-withdraws-globalist-unesco-second-time/"
-    },
-    {
-      "id": 57,
-      "title": "HUAWEI Pura 80 Ultra Smartphone with Dual Telephoto Camera Having an Ultra Large Sensor",
-      "summary": "HUAWEI Pura 80 Ultra Smartphone with Dual Telephoto Camera offers breakthrough camera technology with dual telephoto zoom and a massive HDR sensor, allowing users to capture striking shots from any distance. The device transforms everyday moments into cinematic brilliance.",
-      "source": "Gadget Flow",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:40:52Z",
-      "url": "https://thegadgetflow.com/product/huawei-pura-80-ultra-smartphone/"
-    },
-    {
-      "id": 58,
-      "title": "Flowable’s Summer 2025 Update Introduces Groundbreaking Agentic AI Capabilities",
-      "summary": "Flowable’s Summer 2025 Update introduces groundbreaking Agentic AI capabilities to automate workflows and boost efficiency.",
-      "source": "HackRead",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:40:41Z",
-      "url": "https://hackread.com/flowable-summer-2025-update-agentic-ai-capabilities/"
-    },
-    {
-      "id": 59,
-      "title": "Samsung Galaxy Z Fold 7 Ultimate Review: Thinner, Faster, More Expensive",
-      "summary": "Samsung Galaxy Z Fold 7 Ultimate Review: Thinner, Faster, More Expensive - Since Unpacked, you've likely heard several times that Samsung has finally caught up to the Chinese.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:40:16Z",
-      "url": "https://www.androidheadlines.com/samsung-galaxy-z-fold-7-review"
-    },
-    {
-      "id": 60,
-      "title": "Samsung Galaxy Z Fold 7 Ultimate Review: Thinner, Faster, More Expensive",
-      "summary": "Samsung Galaxy Z Fold 7 Ultimate has been reviewed as thinner, faster, and more expensive, with Samsung catching up to Chinese competitors.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:40:16Z",
-      "url": "https://www.androidheadlines.com/2025/07/samsung-galaxy-z-fold-7-ultimate-review-thinner-faster-more-expensive.html"
-    },
-    {
-      "id": 61,
-      "title": "BitMine Immersion Rises After ARK Invest Buys $182 Million in Ethereum Treasury Shares",
-      "summary": "BitMine Immersion shares rose after ARK Invest bought $182 million worth of Ethereum treasury shares.",
-      "source": "Decrypt",
-      "category": "economy",
-      "timestamp": "2025-07-22T17:39:39Z",
-      "url": "https://decrypt.co/331232/bitmine-immersion-rises-ark-invest-182-million-ethereum-treasury"
-    },
-    {
-      "id": 62,
-      "title": "As Sri Lanka’s economy pivots from tourism, it’s well placed to benefit from global trade and geopolitical jostling – new research",
-      "summary": "Sri Lanka is positioned to benefit from global trade and geopolitical shifts as it moves away from tourism. China and the US are recognizing the country's potential.",
-      "source": "The Conversation Africa",
-      "category": "economy",
-      "timestamp": "2025-07-22T17:39:24Z",
-      "url": "https://theconversation.com/as-sri-lankas-economy-pivots-from-tourism-its-well-placed-to-benefit-from-global-trade-and-geopolitical-jostling-new-research-261231"
-    },
-    {
-      "id": 51,
-      "title": "aetherlab 0.2.1",
-      "summary": "aetherlab 0.2.1 is the official Python SDK for AetherLab's AI Guardrails and Compliance Platform, providing tools for ensuring AI compliance. It aims to help organizations navigate ethical considerations and regulatory requirements in AI implementation.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T17:17:42Z",
-      "url": "https://pypi.org/project/aetherlab/0.2.1/"
-    },
-    {
-      "id": 52,
-      "title": "Florida Man threatens to go full Machete on President Trump among others [Florida]",
-      "summary": "Florida Man's threat to harm President Trump and others raises ethical concerns regarding the influence of AI on individual actions and behavior.",
-      "source": "Fark.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:17:19Z",
-      "url": "https://www.fark.com/comments/13749414/Florida-Man-threatens-to-go-full-Machete-on-President-Trump-among-others"
     }
   ]
 }
