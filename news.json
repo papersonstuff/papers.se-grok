@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-22T23:51:35.168Z",
+  "lastUpdate": "2025-07-23T01:19:46.874Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Perplexity CEO says his AI browser will replace these two white collar jobs in every company - The Indian Express",
+      "summary": "Perplexity CEO claims their AI browser will replace two white-collar jobs in every company, emphasizing the importance of learning about AI to stay relevant in the job market.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T01:12:18Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178434784"
+    },
+    {
+      "id": 52,
+      "title": "The AI arms race with China demands scale. The West must think bigger.",
+      "summary": "The AI arms race with China demands scale, pushing the West to think bigger in order to compete in new technologies.",
+      "source": "The Japan Times",
+      "category": "innovation",
+      "timestamp": "2025-07-22T01:10:00Z",
+      "url": "https://www.japantimes.co.jp/commentary/2025/07/22/world/scale-is-the-key-to-success/"
+    },
+    {
+      "id": 53,
+      "title": "‘Involution’: China’s problem with competition is there’s too much of it",
+      "summary": "China is facing challenges with domestic overcompetition, which is exacerbated by Trump's tariffs, causing urgency in their efforts to address this issue.",
+      "source": "The Straits Times",
+      "category": "economy",
+      "timestamp": "2025-07-22T01:06:52Z",
+      "url": "https://www.straitstimes.com/business/economy/involution-chinas-problem-with-competition-is-theres-too-much-of-it"
+    },
+    {
+      "id": 54,
+      "title": "Kyntait u Myntri ia ka jingkynnoh ba ka MEG kan aiti  ia ki skul/college sha ki riew shimet",
+      "summary": "The Meghalaya Education Minister announced the launch of the Meghalaya Education Grant (MEG) to support schools and colleges in the state. The Voice of the People Party (VPP) leader has raised concerns about the implementation of this grant.",
+      "source": "Syllad.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T01:03:00Z",
+      "url": "https://www.syllad.com/kyntait-u-myntri-ia-ka-jingkynnoh-ba-ka-meg-kan-aiti-ia-ki-skul-college-sha-ki-riew-shimet/"
+    },
+    {
+      "id": 55,
+      "title": "Grant Cardone Explains Why The 401(k) Is 'The Biggest Scam' In Finance",
+      "summary": "Financial personality Grant Cardone criticizes 401(k) and IRA plans as 'the biggest scam' in finance.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T01:00:56Z",
+      "url": "https://finance.yahoo.com/news/grant-cardone-explains-why-401-010056025.html"
+    },
+    {
+      "id": 56,
+      "title": "生成AIは“余白時間”を生み出す手段だ。 「AICA認定講師＆コンサルタント養成プロジェクト」始動！─2030年の労働力不足に備え、プロ講師と共に“正しく・本質的に活用する”組織支援モデル確立へ─",
+      "summary": "AI-generated content creating 'margin time'; AICA launches a project to train certified instructors and consultants to establish a support model for proper and essential utilization of AI in preparation for labor shortage in 2030.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000138112.html"
+    },
+    {
+      "id": 57,
+      "title": "OKIとEfinix(R)、FPGAの論理回路設計と搭載AI機器設計・生産サービス事業で提携",
+      "summary": "OKI and Efinix collaborate in FPGA logic circuit design and AI device design and production services.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-22T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000793.000017036.html"
+    },
+    {
+      "id": 58,
+      "title": "AI Benchmarks: How Companies Can Use Them to Assess Tech",
+      "summary": "AI Benchmarks: How Companies Can Use Them to Assess Tech - Companies introduce AI models topping benchmarks, sparking competition. This allows for more effective assessment and comparison of AI technology within the industry.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-22T00:56:52Z",
+      "url": "https://biztoc.com/x/9cba991cd404f7d8"
+    },
+    {
+      "id": 59,
+      "title": "Stargate Dials Back Near-Term Goal Amid Disagreement Over Data Center Sites",
+      "summary": "Stargate's AI infrastructure project is dialing back its near-term goal due to disagreement over data center sites, experiencing a slow start six months after its announcement.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T00:56:51Z",
+      "url": "https://biztoc.com/x/16f50484bf30d1ce"
+    },
+    {
+      "id": 60,
+      "title": "Perplexity's Comet AI Browser Wants to Dethrone Chrome on Your Phone",
+      "summary": "Perplexity AI is looking to challenge Google Chrome on mobile phones by pre-installing its Comet browser, potentially disrupting the browser market.",
+      "source": "Android Headlines",
+      "category": "startups",
+      "timestamp": "2025-07-22T00:52:49Z",
+      "url": "https://www.androidheadlines.com/2025/07/perplexity-ai-browser-phones-google-chrome.html"
+    },
+    {
+      "id": 61,
+      "title": "AI That Feels Human: Welcome to the Next Era of Personalization",
+      "summary": "Personalization in AI has evolved into a new era focused on conversation and connection, moving away from surveillance and segmentation. This marks a significant shift in how personalization is approached.",
+      "source": "International Business Times",
+      "category": "innovation",
+      "timestamp": "2025-07-22T00:48:35Z",
+      "url": "https://www.ibtimes.com/ai-that-feels-human-welcome-next-era-personalization-3779069"
+    },
+    {
+      "id": 62,
+      "title": "Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All",
+      "summary": "Anthropic CEO says company will pursue Gulf State investments despite ethical concerns raised by staff",
+      "source": "Wired",
+      "category": "ethics",
+      "timestamp": "2025-07-22T00:46:32Z",
+      "url": "https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/"
+    },
+    {
+      "id": 63,
+      "title": "Bittensor-focused firm xTAO to list common shares on TSXV; raises $22.8 million from DCG, Animoca Brands",
+      "summary": "Bittensor-focused firm xTAO raises $22.8 million from DCG, Animoca Brands to list common shares on TSXV, with a focus on contributing to Bittensor's ecosystem by fostering the development of valuable products like machine learning models.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T00:45:31Z",
+      "url": "https://biztoc.com/x/47faef5848e4339b"
+    },
+    {
+      "id": 64,
+      "title": "Therapy Session Ends With Girlfriend Storming Out Of House, But There's A Twist",
+      "summary": "Therapy session between partners takes unexpected turn as private conversation is overheard, sparking emotional reckoning.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-22T00:45:01Z",
+      "url": "https://www.newsweek.com/therapy-session-ends-girlfriend-storming-out-house-theres-twist-2101782"
+    },
+    {
+      "id": 65,
+      "title": "Air India crash exposes ‘legal black box’ in aviation",
+      "summary": "Air India crash exposes ‘legal black box’ in aviation - India needs a dedicated aviation liability law embedding both civil and criminal accountability mechanisms.",
+      "source": "BusinessLine",
+      "category": "ethics",
+      "timestamp": "2025-07-22T00:45:00Z",
+      "url": "https://www.thehindubusinessline.com/opinion/air-india-crash-exposes-legal-black-box-in-aviation/article69839605.ece"
+    },
+    {
+      "id": 66,
+      "title": "Netflix shows will, and already do, feature AI-generated scenes",
+      "summary": "Netflix is incorporating AI-generated scenes in their shows, as shown through recent productions. They are continuing to explore the use of various AI tools in their content creation.",
+      "source": "PhoneArena",
+      "category": "applications",
+      "timestamp": "2025-07-22T00:37:24Z",
+      "url": "https://www.phonearena.com/news/netflix-shows-will-feature-ai-generated-scenes_id172489"
+    },
+    {
+      "id": 67,
+      "title": "tokencostauto 0.1.144",
+      "summary": "tokencostauto 0.1.144 is a tool that calculates token and translated USD cost of string and message calls to OpenAI, which can be useful for AI agents",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T00:31:59Z",
+      "url": "https://pypi.org/project/tokencostauto/0.1.144/"
+    },
+    {
+      "id": 68,
+      "title": "Narwal Freo Z Ultra deal: Our favorite robot drops to lowest price since Prime Day",
+      "summary": "Narwal's Freo Z Ultra robot vacuum is now on sale for $570 off, its lowest price since Prime Day. This deal offers a significant discount on one of the top robot vacuums available.",
+      "source": "Android Authority",
+      "category": "economy",
+      "timestamp": "2025-07-22T00:31:26Z",
+      "url": "https://www.androidauthority.com/narwal-freo-z-ultra-deal-5-3579503/"
+    },
+    {
+      "id": 69,
+      "title": "Agentic AI finding solid traction at enterprises on clear tech use cases",
+      "summary": "Agentic AI gaining traction at enterprises with companies like IBM and Automation Anywhere investing in India market and setting up innovation centers to meet increasing demand in the region.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T00:31:00Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-finding-solid-traction-at-enterprises-on-clear-tech-use-cases/articleshow/122820335.cms"
+    },
     {
       "id": 51,
       "title": "Does woman who shot Coldplay video feel sorry for Megan Kerrigan Byron? Grace Springer reveals she earned this amount from viral kiss cam clip",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-21T23:05:20Z",
       "url": "https://www.digitimes.com/news/a20250721PD236/risc-v-tenstorrent-design-hpc-adoption.html"
-    },
-    {
-      "id": 62,
-      "title": "Synopsys strengthens India's role with push for world's first AI-based chip foundry",
-      "summary": "Synopsys strengthens India's role with push for world's first AI-based chip foundry",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-21T23:04:17Z",
-      "url": "https://www.digitimes.com/news/a20250721VL207/synopsys-india-design-manufacturing-talent-microsoft.html"
-    },
-    {
-      "id": 63,
-      "title": "Slow Letter July 22, 2025.",
-      "summary": "The news discusses the summoning of a Facebook employee in relation to AI matters and the dismissal of a warrant for another individual. The article delves into the potential collapse of Japan's 55-year rule and emphasizes the importance of following the president's will without excessive debate.",
-      "source": "Slownews.kr",
-      "category": "ethics",
-      "timestamp": "2025-07-21T23:03:59Z",
-      "url": "https://slownews.kr/141780"
-    },
-    {
-      "id": 64,
-      "title": "How to break the 'AI hype cycle'",
-      "summary": "Akamai CTO Robert Blumofe provides four tips for business leaders to break the 'AI hype cycle' and effectively empower employees with the right tools and use cases.",
-      "source": "Mit.edu",
-      "category": "applications",
-      "timestamp": "2025-07-21T23:03:26Z",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization"
-    },
-    {
-      "id": 65,
-      "title": "New Philips Hue Devote arrives as cheaper slim ceiling light",
-      "summary": "The Philips Hue Devote Slim ceiling light, a new smart light offering white and colored lighting effects, has been introduced in European countries as a cheaper alternative to an older model.",
-      "source": "Notebookcheck.net",
-      "category": "innovation",
-      "timestamp": "2025-07-21T23:03:00Z",
-      "url": "https://www.notebookcheck.net/New-Philips-Hue-Devote-arrives-as-cheaper-slim-ceiling-light.1064219.0.html"
-    },
-    {
-      "id": 66,
-      "title": "Public asked for views on criminalising deepfakes",
-      "summary": "Public in Northern Ireland is being consulted on whether to criminalize deepfakes as there is currently no legislation in place to protect adults from the practice.",
-      "source": "BBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-21T23:01:57Z",
-      "url": "https://www.bbc.com/news/articles/cwyxv9k28evo"
-    },
-    {
-      "id": 67,
-      "title": "MHRA announces proposals to improve access to world’s best medical devices for patients and to boost economic growth in Britain’s med tech sector",
-      "summary": "MHRA proposes to improve access to medical devices for patients and boost economic growth in Britain's med tech sector by modernizing regulation.",
-      "source": "Www.gov.uk",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:01:07Z",
-      "url": "https://www.gov.uk/government/news/mhra-announces-proposals-to-improve-access-to-worlds-best-medical-devices-for-patients-and-to-boost-economic-growth-in-britains-med-tech-sector"
-    },
-    {
-      "id": 68,
-      "title": "New Perplexity browser Comet trying to catch up to Chrome",
-      "summary": "New Perplexity browser Comet, integrated with AI, aims to compete with popular browsers like Chrome by offering a unique browsing experience.",
-      "source": "MobileSyrup",
-      "category": "startups",
-      "timestamp": "2025-07-21T23:01:00Z",
-      "url": "https://mobilesyrup.com/2025/07/21/new-perplexity-browser-comet-trying-to-catch-up-to-chrome/"
-    },
-    {
-      "id": 69,
-      "title": "Breitbart Business Digest: The Great GOP Tariff Revival",
-      "summary": "The Republican base has rediscovered its roots as the party of America First economic nationalism, with a focus on tariffs and trade policies.",
-      "source": "Breitbart News",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:00:09Z",
-      "url": "https://www.breitbart.com/economy/2025/07/21/breitbart-business-digest-the-great-gop-tariff-revival/"
-    },
-    {
-      "id": 70,
-      "title": "Flip phones like the Galaxy Z Flip7 are the perfect phone design, so why doesn't Apple make one?",
-      "summary": "The article discusses the popularity of flip phones like the Galaxy Z Flip7 and questions why Apple hasn't made a similar design. It argues that the crease in foldable phones should not be the reason preventing Apple from innovating in this area.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-21T23:00:00Z",
-      "url": "https://www.techradar.com/phones/iphone/flip-phones-like-the-galaxy-z-flip7-are-the-perfect-phone-design-so-why-doesnt-apple-make-one"
-    },
-    {
-      "id": 51,
-      "title": "It’s way past time for Mayor Adams to lift the NYPD bans on facial-ID tech",
-      "summary": "New York City's bans on facial-recognition tech have been deemed unnecessary and unjust, as evidenced by dropped charges against Zuhdi Ahmed. It is time for Mayor Adams to lift these bans.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-21T22:51:13Z",
-      "url": "https://nypost.com/2025/07/21/opinion/its-way-past-time-for-mayor-adams-to-lift-the-nypd-bans-on-facial-id-tech/"
-    },
-    {
-      "id": 52,
-      "title": "New Google AI system wins gold medal in prestigious math competition",
-      "summary": "New Google AI system developed by DeepMind wins gold medal in prestigious math competition, marking a significant achievement in the field of artificial intelligence.",
-      "source": "SiliconANGLE News",
-      "category": "research",
-      "timestamp": "2025-07-21T22:48:30Z",
-      "url": "https://siliconangle.com/2025/07/21/new-google-ai-system-wins-gold-medal-prestigious-math-competition/"
-    },
-    {
-      "id": 53,
-      "title": "Markifact Launches: No-Code AI Marketing Platform Disrupting Reporting, Campaign Analysis, and Creative Generation",
-      "summary": "Markifact launches a no-code AI marketing platform disrupting reporting, campaign analysis, and creative generation in the startup space.",
-      "source": "Techbullion.com",
-      "category": "startups",
-      "timestamp": "2025-07-21T22:48:07Z",
-      "url": "https://techbullion.com/markifact-launches-no-code-ai-marketing-platform-disrupting-reporting-campaign-analysis-and-creative-generation/"
-    },
-    {
-      "id": 54,
-      "title": "The Half A Trillion Dollar Stargate AI Venture Is Now Falling Victim To The Disagreements Between OpenAI And SoftBank",
-      "summary": "The Half A Trillion Dollar Stargate AI Venture Is Now Falling Victim To The Disagreements Between OpenAI And SoftBank",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-21T22:46:46Z",
-      "url": "https://wccftech.com/the-half-a-trillion-dollar-stargate-ai-venture-is-now-falling-victim-to-the-disagreements-between-openai-and-softbank/"
-    },
-    {
-      "id": 55,
-      "title": "Darktrace acquires Mira Security to boost encrypted traffic visibility",
-      "summary": "Darktrace acquires Mira Security to boost encrypted traffic visibility, enhancing their machine learning cybersecurity capabilities.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-21T22:43:36Z",
-      "url": "https://siliconangle.com/2025/07/21/darktrace-acquires-mira-security-boost-encrypted-traffic-visibility/"
-    },
-    {
-      "id": 56,
-      "title": "Morgan Stanley warns against ‘misguided’ idea of Apple acquiring an AI search engine",
-      "summary": "Morgan Stanley warns against ‘misguided’ idea of Apple acquiring an AI search engine as a solution to catch up in the AI race.",
-      "source": "9to5Mac",
-      "category": "innovation",
-      "timestamp": "2025-07-21T22:43:26Z",
-      "url": "https://9to5mac.com/2025/07/21/morgan-stanley-warns-against-misguided-idea-of-apple-acquiring-an-ai-search-engine/"
-    },
-    {
-      "id": 57,
-      "title": "Democrats Steamrolling Toward 'Civilized Civil War,' James Carville Warns",
-      "summary": "James Carville warns of Democratic party heading towards a 'civilized civil war' after 2024 election loss.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-21T22:43:25Z",
-      "url": "https://biztoc.com/x/c0f8888698194a3f"
-    },
-    {
-      "id": 58,
-      "title": "How SMBs Are Building DIY Back Offices Using AI",
-      "summary": "SMBs are using AI to build DIY back offices, filling the gap between enterprise and consumer tools.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-21T22:43:00Z",
-      "url": "https://biztoc.com/x/9ab8402625191bcf"
-    },
-    {
-      "id": 59,
-      "title": "opencode-ai 0.1.0a24",
-      "summary": "opencode-ai 0.1.0a24 is the official Python library for the opencode API, offering developers an easier way to interact with AI technologies for various applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-21T22:40:37Z",
-      "url": "https://pypi.org/project/opencode-ai/0.1.0a24/"
-    },
-    {
-      "id": 60,
-      "title": "Country Digital Acceleration: Shaping Spain’s digital future",
-      "summary": "Country Digital Acceleration is powering Spain’s digital future by building skills, innovation, and secure infrastructure for a more connected nation.",
-      "source": "Cisco.com",
-      "category": "innovation",
-      "timestamp": "2025-07-21T22:38:47Z",
-      "url": "https://blogs.cisco.com/digital/country-digital-acceleration-shaping-spains-digital-future"
     }
   ]
 }
