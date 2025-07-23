@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-23T07:20:42.523Z",
+  "lastUpdate": "2025-07-23T07:43:58.473Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Wang Yi holds talks with visiting Croatian FM",
+      "summary": "Chinese Foreign Minister Wang Yi discussed strengthening exchanges with Croatian FM Gordan Grlić Radman in Beijing, emphasizing alignment with the Belt and Road Initiative.",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:43:22Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/07/china-250721-globaltimes02.htm"
+    },
+    {
+      "id": 52,
+      "title": "AI goes rogue: Replit coding tool deletes entire company database, creates fake data for 4,000 users",
+      "summary": "Replit's AI coding tool allegedly deleted a live database and created fake data for thousands of users, highlighting the ethical concerns surrounding AI in software development.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:42:04Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/ai-goes-rogue-replit-coding-tool-deletes-entire-company-database-creates-fake-data-for-4000-users/articleshow/122830424.cms"
+    },
+    {
+      "id": 53,
+      "title": "Own Goal: Throwing Spaghetti At the Desperate Wall",
+      "summary": "Amidst controversy surrounding Jeffrey Epstein, Trump attempts to distract the public by focusing on other issues like the 'Redskins' and FBI files, in an effort to divert attention from key matters. This strategy has been seen as unethical and a way to manipulate the public's focus.",
+      "source": "Common Dreams",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:42:00Z",
+      "url": "https://www.commondreams.org/further/own-goal-throwing-spaghetti-at-the-desperate-wall"
+    },
+    {
+      "id": 54,
+      "title": "Unlock Claude Code’s Full Potential with This Simple Hack",
+      "summary": "Unlock Claude Code’s Full Potential with This Simple Hack - Enhance the effectiveness of an AI tool exponentially by streamlining app development processes. Tasks like reintroducing instructions and tracking progress become more efficient.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-22T07:41:38Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-efficiency-framework/"
+    },
+    {
+      "id": 55,
+      "title": "MSPs unprepared to deal with financial impact of cyber attacks",
+      "summary": "MSPs unprepared for financial impact of cyber attacks, CyberSmart study shows mixed response to planning for ransomware incidents",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:41:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366627764/MSPs-unprepared-to-deal-with-financial-impact-of-cyber-attacks"
+    },
+    {
+      "id": 56,
+      "title": "syd life AIが渋谷区の実証実験事業に採択されました",
+      "summary": "Syd life AI has been selected for a demonstration experiment project in Shibuya Ward.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:40:03Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000146565.html"
+    },
+    {
+      "id": 57,
+      "title": "AI で採用を加速する。ノーコードで自社向けにカスタマイズできる AI 面接官「MiAI面接」を正式リリース",
+      "summary": "Prop's Inc. has officially released 'MiAI Interviewer,' an AI interviewer that can accelerate hiring processes and be customized for internal use without code.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:40:03Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000166110.html"
+    },
+    {
+      "id": 58,
+      "title": "Swarms of Russian drones attack Ukraine nightly as Moscow puts new emphasis on the deadly weapon",
+      "summary": "Swarms of Russian drones equipped with AI capabilities are being used in nightly attacks on Ukraine, demonstrating the application of AI technology in military operations.",
+      "source": "New York Post",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:35:18Z",
+      "url": "https://nypost.com/2025/07/22/world-news/swarms-of-russian-drones-attack-ukraine-nightly-as-moscow-puts-new-emphasis-on-the-deadly-weapon/"
+    },
+    {
+      "id": 59,
+      "title": "Attorney explains why HR exec caught in Coldplay 'cheating scandal' hasn't been fired",
+      "summary": "Attorney explains why HR exec caught in Coldplay 'cheating scandal' hasn't been fired",
+      "source": "LADbible",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:34:27Z",
+      "url": "https://www.ladbible.com/news/us-news/coldplay-ceo-astronomer-andy-byron-kristin-cabot-169661-20250722"
+    },
+    {
+      "id": 60,
+      "title": "CNN's Erin Burnett Nails The Playbook Behind Trump’s Epstein Distraction Blitz",
+      "summary": "CNN's Erin Burnett breaks down Trump's attempt to distract from the Epstein controversy and highlights the unethical tactics being used by the president.",
+      "source": "HuffPost",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:33:33Z",
+      "url": "https://www.huffpost.com/entry/cnn-erin-burnett-donald-trump-distraction_n_687f35b5e4b0351bed5ecfc3"
+    },
+    {
+      "id": 61,
+      "title": "ChatGPT now handles 2.5 billion user prompts daily",
+      "summary": "ChatGPT usage continues to rise rapidly, now handling over 2.5 billion daily prompts, with the majority of users on the free version.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-22T07:30:34Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-now-handles-2-5-billion-user-prompts-daily/articleshow/122830981.cms"
+    },
+    {
+      "id": 62,
+      "title": "Top penny cryptos to buy now before the next bull run",
+      "summary": "Top penny cryptos to buy now before the next bull run, highlighting potential leaders such as Snorter Bot, Best Wallet, TOKEN6900, and SUBBD in the crypto market.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-22T07:29:51Z",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/top-penny-cryptos-to-buy-now-before-the-next-bull-run/articleshow/122830839.cms"
+    },
+    {
+      "id": 63,
+      "title": "China's AI adoption rises as DeepSeek challenges Meta's open-source dominance",
+      "summary": "China's AI adoption rises with 55% willing to adopt Chinese providers' models, while startup DeepSeek challenges Meta's open-source dominance.",
+      "source": "Digitimes",
+      "category": "startups",
+      "timestamp": "2025-07-22T07:29:23Z",
+      "url": "https://www.digitimes.com/news/a20250722PD212/deepseek-meta-adoption-google-llama.html"
+    },
+    {
+      "id": 64,
+      "title": "Intel (NASDAQ:INTC) Price Target Raised to $24.50 at Stifel Nicolaus",
+      "summary": "Intel's price target was raised to $24.50 by Stifel Nicolaus, with a hold rating on the stock. This could indicate positive developments for the company's performance and potentially impact the economy.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:28:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/22/intel-nasdaqintc-price-target-raised-to-24-50-at-stifel-nicolaus/"
+    },
+    {
+      "id": 65,
+      "title": "Carlyle Agrees to Buy IT Firm Adastra in $400 Million Deal",
+      "summary": "Carlyle Group Inc. agrees to acquire a majority stake in IT firm Adastra in a $400 million deal.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T07:26:37Z",
+      "url": "https://financialpost.com/pmn/business-pmn/carlyle-agrees-to-buy-it-firm-adastra-in-400-million-deal"
+    },
+    {
+      "id": 66,
+      "title": "How Hollywood films are modified by censors around the world",
+      "summary": "Hollywood films are being modified by censors around the world, with some scenes deemed provocative being cut out or altered. Indian film fans were outraged when a 33-second kiss scene in 'Superman' was edited out.",
+      "source": "DW (English)",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:26:00Z",
+      "url": "https://www.dw.com/en/how-hollywood-films-are-modified-by-censors-around-the-world/a-73351212"
+    },
+    {
+      "id": 67,
+      "title": "South Korea's Solar Pro 2 takes global stage, surpassing GPT-4.1 & DeepSeek V3",
+      "summary": "South Korean startup Upstage launches Solar Pro 2, outperforming GPT-4.1 & DeepSeek V3 and attracting attention from tech giants.",
+      "source": "Digitimes",
+      "category": "startups",
+      "timestamp": "2025-07-22T07:25:48Z",
+      "url": "https://www.digitimes.com/news/a20250722PD219/south-korea-llm-startup-performance.html"
+    },
+    {
+      "id": 68,
+      "title": "(PR) QNAP Unveils the New QAI-M100 and QAI-U100 Edge AI Accelerators",
+      "summary": "QNAP Systems, Inc. has launched the new edge AI accelerators QAI-M100 and QAI-U100 for QNAP NAS, providing small-and-medium businesses with plug-and-play installation and flexible configuration for AI applications.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T07:24:32Z",
+      "url": "https://www.techpowerup.com/339129/qnap-unveils-the-new-qai-m100-and-qai-u100-edge-ai-accelerators"
+    },
+    {
+      "id": 69,
+      "title": "AI: Wisdom's Swan Or Serpent Of Falsehood?",
+      "summary": "A deepfake video of President Zelenskyy highlights AI's potential for misinformation, drawing on Vedantic wisdom to navigate this digital storm.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-22T07:23:08Z",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/ai-wisdoms-swan-or-serpent-of-falsehood/articleshow/122830829.cms"
+    },
     {
       "id": 51,
       "title": "2013 Bollywood film to be re-released with AI-modified happy ending as director slams move",
@@ -279,177 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-22T06:41:29Z",
       "url": "https://economictimes.indiatimes.com/tech/startups/inmobis-mohit-saxena-on-building-an-indigenous-tech-stack-in-the-ai-age-at-et-soonicorns-summit-2025/articleshow/122829715.cms"
-    },
-    {
-      "id": 65,
-      "title": "AI vs Developers : The Truth About the Future of Software Dev By ex-Google VP of Engineering",
-      "summary": "AI vs Developers debate heats up as AI-powered coding tools like GitHub Copilot and OpenAI's Codex raise concerns about rendering developers obsolete.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:40:19Z",
-      "url": "https://www.geeky-gadgets.com/ai-vs-developers/"
-    },
-    {
-      "id": 66,
-      "title": "AKKODiS、TD SYNNEX社とMicrosoft製品導入支援における協業体制を構築",
-      "summary": "AKKODiS, TD SYNNEX, and Microsoft are collaborating to build a system for supporting the introduction of Microsoft products.",
-      "source": "Prtimes.jp",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:40:03Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000251.000010295.html"
-    },
-    {
-      "id": 67,
-      "title": "Opposition MPs protest against Bihar SIR; vow to press for PM's presence in House",
-      "summary": "Opposition MPs protest against Bihar SIR; vow to press for PM's presence in House due to allegations of election theft through voter roll revision in Bihar.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-22T06:35:56Z",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/opposition-mps-protest-against-bihar-sir-vow-to-press-for-pms-presence-in-house/articleshow/122829612.cms"
-    },
-    {
-      "id": 68,
-      "title": "AMD Ryzen AI MAX “Strix Halo” APUs Arrive on Mini‑ITX Boards with 128 GB LPDDR5X",
-      "summary": "Chinese ODM Sixunited has introduced its STHT1 Thin Mini‑ITX board, bringing AMD’s Strix Halo “Ryzen AI MAX” APUs to the PC enthusiast market for the first time. Previously available only in high-end laptops and compact PCs, these Zen 5-based SoCs feature up to 128 GB LPDDR5X.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:31:31Z",
-      "url": "https://www.madshrimps.be/news/amd-ryzen-ai-max-strix-halo-apus-arrive-on-mini‑itx-boards-with-128-gb-lpddr5x/"
-    },
-    {
-      "id": 69,
-      "title": "Video: Stop-Motion Series \"Pokemon Concierge\" Unveils Heartwarming Trailer for New Episodes Returning September 4",
-      "summary": "Video series 'Pokemon Concierge' releases heartwarming trailer for new episodes, showcasing Haru as she continues to improve as a concierge with Psyduck by her side at Pokémon Resort.",
-      "source": "Thefutoncritic.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T06:31:00Z",
-      "url": "http://www.thefutoncritic.com/video/2025/07/22/video-stop-motion-series-pokemon-concierge-unveils-heartwarming-trailer-for-new-episodes-returning-september-4-5513/20250722netflix02/"
-    },
-    {
-      "id": 70,
-      "title": "CNBC Daily Open: Investors look away from the Trump administration's call to relook the Fed",
-      "summary": "Investors are unfazed by the Trump administration's criticism of the Federal Reserve and use of tariffs as bargaining tools, as the S&P 500 achieves a record close.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:30:01Z",
-      "url": "https://www.cnbc.com/2025/07/22/cnbc-daily-open-investors-look-away-from-white-houses-call-to-relook-the-fed.html"
-    },
-    {
-      "id": 51,
-      "title": "Stranded UK fighter jet departs from Thiruvananthapuram airport on Tuesday",
-      "summary": "A UK fighter jet received repairs at the Air India hangar in Thiruvananthapuram airport with a team of engineers, enabling it to depart on Tuesday",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-22T06:23:47Z",
-      "url": "https://www.thehindubusinessline.com/news/stranded-uk-fighter-jet-departs-from-thiruvananthapuram-airport-on-tuesday/article69841386.ece"
-    },
-    {
-      "id": 52,
-      "title": "The Galaxy S25 Edge just got a whole lot more tempting at $300 off on Amazon",
-      "summary": "The Galaxy S25 Edge is currently on sale for $300 off on Amazon, making it a more attractive option for consumers looking for a smartphone with 512GB of storage.",
-      "source": "PhoneArena",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:23:33Z",
-      "url": "https://www.phonearena.com/news/galaxy-s25-edge-300-off-amazon_id172491"
-    },
-    {
-      "id": 53,
-      "title": "OpenAI is getting closer with the UK government",
-      "summary": "OpenAI forms new strategic partnership with UK government to expand AI research collaborations and explore investing in UK AI infrastructure.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:21:06Z",
-      "url": "https://www.madshrimps.be/news/openai-is-getting-closer-with-the-uk-government/"
-    },
-    {
-      "id": 54,
-      "title": "Google’s Gemini AI Wins a Gold Medal at International Math Olympiad",
-      "summary": "Google's Gemini AI wins a gold medal at International Math Olympiad, marking a milestone in difficult problem-solving using AI.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:20:27Z",
-      "url": "https://www.madshrimps.be/news/googles-gemini-ai-wins-a-gold-medal-at-international-math-olympiad/"
-    },
-    {
-      "id": 55,
-      "title": "From Sikar to Seattle: How a young techie balances high costs, big dreams, and long distance duties",
-      "summary": "From Sikar to Seattle, 26-year-old software engineer Divya Saini is pursuing her dream in the tech industry, facing the high costs of living in the United States.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:19:05Z",
-      "url": "https://www.livemint.com/money/personal-finance/from-sikar-to-seattle-how-a-young-techie-balances-high-costs-big-dreams-and-long-distance-duties-11753106107935.html"
-    },
-    {
-      "id": 56,
-      "title": "AMD and Stability AI Enable Local AI Image Generation on NPU-Powered Laptops",
-      "summary": "AMD and Stability AI are collaborating to enable local AI image generation on NPU-powered laptops, improving picture creation and text handling abilities through Stable Diffusion 3.0 Medium for Stability Amuse AI art creator.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:17:58Z",
-      "url": "https://www.madshrimps.be/news/amd-and-stability-ai-enable-local-ai-image-generation-on-npu-powered-laptops/"
-    },
-    {
-      "id": 57,
-      "title": "Equities Analysts Issue Forecasts for PGY FY2025 Earnings",
-      "summary": "Equities analysts at B. Riley increase their FY2025 earnings per share estimates for Pagaya Technologies in a recent report.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-22T06:16:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/equities-analysts-issue-forecasts-for-pgy-fy2025-earnings/"
-    },
-    {
-      "id": 58,
-      "title": "Brokers Issue Forecasts for Safe Pro Group FY2025 Earnings",
-      "summary": "Brokers at Litchfield Hills Research issued their FY2025 EPS estimates for Safe Pro Group Inc. in a research report for clients and investors.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-22T06:16:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/brokers-issue-forecasts-for-safe-pro-group-fy2025-earnings/"
-    },
-    {
-      "id": 59,
-      "title": "Noble Financial Lowers Earnings Estimates for Bit Digital",
-      "summary": "Noble Financial lowers earnings estimates for Bit Digital, affecting the company's Q4 2025 EPS forecasts.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:16:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/noble-financial-lowers-earnings-estimates-for-bit-digital/"
-    },
-    {
-      "id": 60,
-      "title": "JD Sports Fashion Plc's (LON:JD.) Intrinsic Value Is Potentially 39% Above Its Share Price",
-      "summary": "JD Sports Fashion Plc's projected fair value is potentially 39% above its share price, with a value of UK£1.20 based on 2 Stage Free Cash Flow to Equity.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:16:12Z",
-      "url": "https://finance.yahoo.com/news/jd-sports-fashion-plcs-lon-061612500.html"
-    },
-    {
-      "id": 61,
-      "title": "Adobe (NASDAQ:ADBE) & Open Text (NASDAQ:OTEX) Head to Head Analysis",
-      "summary": "Open Text and Adobe, both computer and technology companies, are being compared to determine the superior stock based on risk, earnings, and analyst recommendations.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T06:14:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/adobe-nasdaqadbe-open-text-nasdaqotex-head-to-head-analysis/"
-    },
-    {
-      "id": 62,
-      "title": "Swarms of Russian drones attack Ukraine nightly as Moscow puts new emphasis on weapon",
-      "summary": "Swarms of Russian drones are attacking Ukraine each night, utilizing long-range drones to terrorize the population and attack various targets. Moscow's new emphasis on this drone technology showcases innovation in the field of military warfare.",
-      "source": "ABC News",
-      "category": "innovation",
-      "timestamp": "2025-07-22T06:14:44Z",
-      "url": "https://abcnews.go.com/International/wireStory/swarms-russian-drones-attack-ukraine-nightly-moscow-puts-123948046"
-    },
-    {
-      "id": 63,
-      "title": "ai-edge-litert-nightly 1.4.0.dev20250721",
-      "summary": "The ai-edge-litert-nightly 1.4.0.dev20250721 is designed for mobile and embedded devices, catering to the application of AI in these platforms.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T06:13:59Z",
-      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250721/"
     }
   ]
 }
