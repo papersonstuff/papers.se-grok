@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-23T10:18:11.964Z",
+  "lastUpdate": "2025-07-23T10:48:06.529Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sovos launches AI solution for tax compliance",
+      "summary": "Sovos has launched an AI solution for tax compliance that includes an embedded AI engine for e-invoicing, taxation, and regulatory reporting.",
+      "source": "Internationalaccountingbulletin.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:46:35Z",
+      "url": "https://www.internationalaccountingbulletin.com/news/sovos-launches-tax-ai-solution/"
+    },
+    {
+      "id": 52,
+      "title": "TSMC, NVIDIA’s Main AI Chip Supplier, Earned $10 Billion In AI Revenue In Q2, Say Analysts",
+      "summary": "TSMC, NVIDIA's main AI chip supplier, earned $10 billion in AI revenue in Q2, with analysts attributing the success to their partnership. This trend is expected to continue in 2025.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-22T10:45:57Z",
+      "url": "https://wccftech.com/tsmc-nvidias-main-ai-chip-supplier-earned-10-billion-in-ai-revenue-in-q2-say-analysts/"
+    },
+    {
+      "id": 53,
+      "title": "Oracle, OpenAI to add 4.5 gigawatts data center capacity for Stargate venture",
+      "summary": "Oracle and OpenAI are partnering to add 4.5 gigawatts of data center capacity for their Stargate venture, with the goal of establishing the US as a leader in artificial intelligence.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:45:33Z",
+      "url": "https://www.channelnewsasia.com/business/oracle-openai-add-45-gigawatts-data-center-capacity-stargate-venture-5251721"
+    },
+    {
+      "id": 54,
+      "title": "OpenAI, Oracle deepen AI data center push with 4.5 gigawatt Stargate expansion",
+      "summary": "Cloud firm Oracle and OpenAI are deepening their AI data center push with a 4.5 gigawatt Stargate expansion, as part of their joint venture to establish the United States as an artificial intelligence leader.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:45:33Z",
+      "url": "https://www.channelnewsasia.com/business/openai-oracle-deepen-ai-data-center-push-45-gigawatt-stargate-expansion-5251721"
+    },
+    {
+      "id": 55,
+      "title": "Oracle, OpenAI to add 4.5 gigawatts data center capacity for Stargate venture",
+      "summary": "Oracle and OpenAI will be adding 4.5 gigawatts of data center capacity for their Stargate joint venture to establish the US as an AI leader.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:45:33Z",
+      "url": "https://finance.yahoo.com/news/oracle-openai-add-4-5-104533543.html"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI and government sign deal to use AI to boost justice and defence efficiency",
+      "summary": "OpenAI and government sign deal to use AI to boost justice and defence efficiency.",
+      "source": "Sky.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:43:00Z",
+      "url": "https://news.sky.com/story/tech-giant-openai-signs-deal-with-government-to-boost-efficiency-in-public-services-13400056"
+    },
+    {
+      "id": 57,
+      "title": "Musk saying 'game on' to AI and creating a Baby Grok for kids makes me miss 'in denial' Elon, when he was oracle of the impending AI apocalypse",
+      "summary": "Elon Musk's new AI-related project for kids makes some question his previous warnings about the dangers of AI and wish he would focus more on his space endeavors.",
+      "source": "PC Gamer",
+      "category": "ethics",
+      "timestamp": "2025-07-22T10:42:25Z",
+      "url": "https://www.pcgamer.com/software/ai/musk-saying-game-on-to-ai-and-creating-a-baby-grok-for-kids-makes-me-miss-in-denial-elon-when-he-was-oracle-of-the-impending-ai-apocalypse/"
+    },
+    {
+      "id": 58,
+      "title": "mozi_ai_x 0.3.3",
+      "summary": "Version 0.3.3 of Mozi AI introduces an async version of the software, allowing for more efficient processing. This update represents an innovative step in AI development.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:41:24Z",
+      "url": "https://pypi.org/project/mozi-ai-x/0.3.3/"
+    },
+    {
+      "id": 59,
+      "title": "Danaher shares slip despite Q2 beat, annual profit outlook hike",
+      "summary": "Danaher shares slipped despite beating Q2 expectations and raising annual profit outlook.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T10:40:50Z",
+      "url": "https://finance.yahoo.com/news/danaher-shares-slip-despite-q2-104050941.html"
+    },
+    {
+      "id": 60,
+      "title": "ChatGPT Agent : The Future of Work in One Versatile AI Tool",
+      "summary": "ChatGPT Agent by OpenAI is a versatile AI tool that can write code, generate visuals, conduct deep research, and learn and improve with every task.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:39:59Z",
+      "url": "https://www.geeky-gadgets.com/chatgpt-agent-ai-tool-overview/"
+    },
+    {
+      "id": 61,
+      "title": "Paytm Q1 Results: Co swings to black, logs Rs 122 crore profit vs YoY loss; revenue jumps 28%",
+      "summary": "Paytm reported a profit of Rs 122 crore in Q1FY26, a significant improvement from the loss of Rs 839 crore in the previous year. The company's revenue also saw a 28% increase.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T10:39:48Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/paytm-q1-results-co-swing-to-profit-at-rs-122-crore-vs-yoy-loss-revenue-jumps-28/articleshow/122835740.cms"
+    },
+    {
+      "id": 62,
+      "title": "Paytm Q1 Results: Co swings to profit at Rs 122 crore vs YoY loss, revenue jumps 28%",
+      "summary": "Paytm's parent company One 97 Communications reported a profit of Rs 122 crore in Q1 of fiscal year 2026, with a 28% increase in revenue compared to the previous year.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-22T10:39:48Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-co-swing-to-profit-at-rs-122-crore-vs-yoy-loss-revenue-jumps-28/articleshow/122835189.cms"
+    },
+    {
+      "id": 63,
+      "title": "German AI player osapiens investing in UK",
+      "summary": "German AI player osapiens investing in UK to expand its channel base, with plans to spend millions to increase its presence",
+      "source": "ComputerWeekly.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T10:39:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366627806/German-AI-player-osapiens-investing-in-UK"
+    },
+    {
+      "id": 64,
+      "title": "AI in customer communication: the opportunities and risks SMBs can’t ignore",
+      "summary": "AI enhances SMB customer communication efficiency, but transparency and trust are essential for long-term success.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:38:14Z",
+      "url": "https://www.techradar.com/pro/ai-in-customer-communication-the-opportunities-and-risks-smbs-cant-ignore"
+    },
+    {
+      "id": 65,
+      "title": "I ask this question first in every job interview. It's transformed how I hire",
+      "summary": "Paddy Lambros, CEO of AI startup Dex, begins job interviews by inviting candidates to ask questions, transforming the hiring process. This approach is a unique way to gauge candidate's curiosity, competence, and engagement.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:37:58Z",
+      "url": "https://biztoc.com/x/0b7e5ccb82e9f4be"
+    },
+    {
+      "id": 66,
+      "title": "Mark Cuban says the AI war ‘will get ugly’ and intellectual property ‘is KING’ in the AI world",
+      "summary": "Mark Cuban warns of an intense AI war with tech companies investing heavily in AI infrastructure and talent to secure dominance.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T10:37:50Z",
+      "url": "https://biztoc.com/x/d7c1764091b9913c"
+    },
+    {
+      "id": 67,
+      "title": "Commission sued over withdrawing AI liability, patent laws",
+      "summary": "MEP suing Commission over lack of transparency regarding AI liability and patent laws",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T10:37:39Z",
+      "url": "https://biztoc.com/x/09bddf8d06e04db4"
+    },
+    {
+      "id": 68,
+      "title": "Le Mans Ultimate-RUNE",
+      "summary": "Le Mans Ultimate-RUNE is the official game of the FIA World Endurance Championship and 24 Hours of Le Mans, allowing players to experience the new era of sportscar racing in detail.",
+      "source": "Rlsbb.ru",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:35:53Z",
+      "url": "https://post.rlsbb.ru/le-mans-ultimate-rune/"
+    },
+    {
+      "id": 69,
+      "title": "artifex 0.2.0",
+      "summary": "The release of artifex 0.2.0 allows users to create their private AI models without the need for training data or GPUs. This development opens up new possibilities for AI applications and customization.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T10:35:32Z",
+      "url": "https://pypi.org/project/artifex/0.2.0/"
+    },
+    {
+      "id": 70,
+      "title": "I ask this question first in every job interview. It's transformed how I hire.",
+      "summary": "Paddy Lambros, CEO of the AI startup Dex, conducts job interviews by having candidates ask questions first, transforming his hiring process.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-22T10:33:01Z",
+      "url": "https://www.businessinsider.com/question-recruiter-starts-job-interview-2025-7"
+    },
     {
       "id": 51,
       "title": "Alphabet will seek to reassure investors as AI rivals step up competition",
@@ -270,186 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-22T09:21:54Z",
       "url": "https://www.finextra.com/pressarticle/106428/xelix-secures-160-million-series-b-to-advance-agentic-aiinnovation-in-accounts-payable"
-    },
-    {
-      "id": 53,
-      "title": "Huawei Launches Global Education and Healthcare Partner Alliance to Unleash Value in Industry Ecosystem",
-      "summary": "Huawei launched a Global Education and Healthcare Partner Alliance at their convention, aiming to unleash value in the industry ecosystem with over 300 partners from 40 countries in attendance.",
-      "source": "Antaranews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T09:21:03Z",
-      "url": "https://en.antaranews.com/news/368097/huawei-launches-global-education-and-healthcare-partner-alliance-to-unleash-value-in-industry-ecosystem"
-    },
-    {
-      "id": 54,
-      "title": "akihiro 1.5.4",
-      "summary": "Akihiro 1.5.4 is a Python package that aims to improve programming experience by enhancing AI capabilities, specifically in the field of LLM. This innovation could potentially streamline AI development and make it more accessible to programmers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T09:21:01Z",
-      "url": "https://pypi.org/project/akihiro/1.5.4/"
-    },
-    {
-      "id": 55,
-      "title": "Samsung Enhances Mumbai Retail Presence with New Premium Experience Store in Andheri West",
-      "summary": "Samsung enhances Mumbai retail presence with a new premium experience store in Andheri West, featuring dedicated zones for Galaxy devices and interactive displays.",
-      "source": "Samsung.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T09:20:35Z",
-      "url": "https://news.samsung.com/in/samsung-enhances-mumbai-retail-presence-with-new-premium-experience-store-in-andheri-west"
-    },
-    {
-      "id": 56,
-      "title": "Do you work in tech? Tell us how layoffs are affecting your career",
-      "summary": "The tech industry faces ongoing layoffs amid rapid AI advancements and other economic pressures.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T09:19:53Z",
-      "url": "https://biztoc.com/x/1cfb7aaf985cc658"
-    },
-    {
-      "id": 57,
-      "title": "Mastering AI is career insurance. Upskill now or fall behind",
-      "summary": "Mastering AI is crucial for career security as generative AI adoption could lead to job displacement among white-collar workers.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T09:19:38Z",
-      "url": "https://biztoc.com/x/9acf45aae333440c"
-    },
-    {
-      "id": 58,
-      "title": "XAI asked workers to record their facial expressions to train Grok — and they weren't happy",
-      "summary": "xAI workers were asked to record their facial expressions for AI training to help Grok interpret human emotions, leading to concerns raised by the workers.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T09:19:38Z",
-      "url": "https://biztoc.com/x/16ea4b8b83708dbe"
-    },
-    {
-      "id": 59,
-      "title": "Prince George Birthday Photo Released by Kate and William",
-      "summary": "Prince George Birthday Photo Released by Kate and William - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T09:19:36Z",
-      "url": "https://biztoc.com/x/6110ed2b570a07f8"
-    },
-    {
-      "id": 60,
-      "title": "How Vibe-Kanban Makes Managing AI Coding Assistants Effortless",
-      "summary": "Vibe-Kanban aims to make managing AI coding assistants effortless by streamlining workflows and aligning tasks, reducing the tangled web of tools developers currently juggle.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-22T09:19:23Z",
-      "url": "https://www.geeky-gadgets.com/vibe-kanban-ai-coding-platform/"
-    },
-    {
-      "id": 61,
-      "title": "IIT Madras-incubated Plenome raises ₹6.5 crore in seed funding",
-      "summary": "IIT Madras-incubated Plenome raises ₹6.5 crore in seed funding to expand into global markets for enabling data transfers in sensitive industries.",
-      "source": "BusinessLine",
-      "category": "startups",
-      "timestamp": "2025-07-22T09:18:31Z",
-      "url": "https://www.thehindubusinessline.com/news/education/iit-madras-incubated-plenome-raises-65-crore-in-seed-funding/article69841774.ece"
-    },
-    {
-      "id": 62,
-      "title": "akihiro 1.5.3",
-      "summary": "Akihiro 1.5.3 is a Python package that enhances programming experience with AI language model capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T09:18:18Z",
-      "url": "https://pypi.org/project/akihiro/1.5.3/"
-    },
-    {
-      "id": 63,
-      "title": "WP Engine’s AI Toolkit Vectorizes WordPress Sites For Smart Search via @sejournal, @martinibuster",
-      "summary": "WP Engine's AI Toolkit adds AI-powered search and product recommendations to WordPress websites with just a few clicks.",
-      "source": "Search Engine Journal",
-      "category": "applications",
-      "timestamp": "2025-07-22T09:17:14Z",
-      "url": "https://www.searchenginejournal.com/wp-engines-ai-toolkit-vectorizes-wordpress-sites-for-smart-search/551757/"
-    },
-    {
-      "id": 64,
-      "title": "akihiro 1.5.2",
-      "summary": "Akihiro 1.5.2 is a Python package that aims to enhance the programming experience by incorporating AI Large Language Model capabilities.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T09:16:30Z",
-      "url": "https://pypi.org/project/akihiro/1.5.2/"
-    },
-    {
-      "id": 51,
-      "title": "readme-writer added to PyPI",
-      "summary": "Readme-writer added to PyPI - AI-powered documentation generator for Git repositories using OpenAI API.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T08:50:09Z",
-      "url": "https://pypi.org/project/readme-writer/"
-    },
-    {
-      "id": 52,
-      "title": "'Shameful' CBA hiring Indian ICT workers after firing Australians",
-      "summary": "'Shameful' CBA hiring Indian ICT workers after firing Australians - Union says advertised jobs ‘identical’ to ones made redundant.",
-      "source": "Acs.org.au",
-      "category": "ethics",
-      "timestamp": "2025-07-22T08:49:44Z",
-      "url": "https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html"
-    },
-    {
-      "id": 53,
-      "title": "ThreeD Capital Inc (CNSX:IDK) Insider 1313366 Ontario Inc. Sells 424,000 Shares",
-      "summary": "Insider of ThreeD Capital Inc sells 424,000 shares of company's stock at an average price of $0.08",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-22T08:48:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/22/threed-capital-inc-cnsxidk-insider-1313366-ontario-inc-sells-424000-shares/"
-    },
-    {
-      "id": 54,
-      "title": "Whispering Mountains brings interactive, AI-powered art installation",
-      "summary": "Whispering Mountains introduces an interactive, AI-powered art installation in New Zealand.",
-      "source": "Yanko Design",
-      "category": "applications",
-      "timestamp": "2025-07-22T08:45:42Z",
-      "url": "https://www.yankodesign.com/2025/07/22/whispering-mountains-brings-interactive-ai-powered-art-installation/"
-    },
-    {
-      "id": 55,
-      "title": "Palantir Veterans Set To Launch Founders Films With Pro-America, AI-Powered Slate — 9/11 Rescue Story In Pipeline: Report",
-      "summary": "Former Palantir veterans are launching Founders Films, a production company focused on creating content celebrating American military operations in response to Hollywood's liberal bias.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T08:45:34Z",
-      "url": "https://biztoc.com/x/95d47e51b43bf575"
-    },
-    {
-      "id": 56,
-      "title": "Nuclear gloveboxes",
-      "summary": "Nuclear gloveboxes have been essential for nuclear work in the UK, providing safety and driving research. They have played a critical role in the industry for decades.",
-      "source": "Www.gov.uk",
-      "category": "applications",
-      "timestamp": "2025-07-22T08:45:08Z",
-      "url": "https://www.gov.uk/government/case-studies/nuclear-gloveboxes"
-    },
-    {
-      "id": 57,
-      "title": "demiurg 0.1.11",
-      "summary": "demiurg 0.1.11 is an AI Agent Framework that allows for building intelligent agents using multiple LLM providers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T08:43:26Z",
-      "url": "https://pypi.org/project/demiurg/0.1.11/"
-    },
-    {
-      "id": 58,
-      "title": "Humans beat AI gold-level score at top maths contest",
-      "summary": "Humans outperformed AI models made by Google and OpenAI at a top mathematics competition, despite the AI programs achieving gold-level scores for the first time.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-22T08:43:13Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humans-beat-ai-gold-level-score-at-top-maths-contest/articleshow/122832557.cms"
     }
   ]
 }
