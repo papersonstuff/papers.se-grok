@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-23T20:18:08.449Z",
+  "lastUpdate": "2025-07-23T20:44:41.138Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI’s Sam Altman warns of AI voice fraud crisis in banking",
+      "summary": "OpenAI CEO Sam Altman warns financial industry of AI voice fraud crisis due to tools being able to impersonate voices for security breaches.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:42:46Z",
+      "url": "https://biztoc.com/x/8f6c7f10a029045a"
+    },
+    {
+      "id": 52,
+      "title": "Trump’s Social-Media Habit Is Getting Weirder",
+      "summary": "Trump's posts on Truth Social are appearing desperate, raising questions about the ethics of his social-media habits.",
+      "source": "The Atlantic",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:41:57Z",
+      "url": "https://www.theatlantic.com/technology/archive/2025/07/trump-weird-posts-truth-social-epstein/683627/"
+    },
+    {
+      "id": 53,
+      "title": "What to expect at the Google Cloud Partner AI Series event: Join theCUBE July 30",
+      "summary": "What to expect at the Google Cloud Partner AI Series event: Join theCUBE July 30 - The future of enterprise AI isn’t unfolding in silos; it’s emerging from a growing ecosystem. As adoption accelerates, cloud providers and partners face mounting pressure to deliver real-world results at production scale.",
+      "source": "SiliconANGLE News",
+      "category": "innovation",
+      "timestamp": "2025-07-22T20:41:51Z",
+      "url": "https://siliconangle.com/2025/07/22/google-partners-scaling-enterprise-ai-solutions-googlecloudpartneraiseries/"
+    },
+    {
+      "id": 54,
+      "title": "Windows 11’s new update will add a bunch of AI features",
+      "summary": "Windows 11's new update adds AI features like Copilot Vision tool for scanning screens, exclusive tools for Copilot Plus PCs.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-22T20:41:08Z",
+      "url": "https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch"
+    },
+    {
+      "id": 55,
+      "title": "Windows 11 receives a handful of new AI features",
+      "summary": "Windows 11 receives new AI features to enhance user experience, particularly for Copilot+ PC users.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-22T20:40:01Z",
+      "url": "https://www.neowin.net/news/windows-11-receives-a-handful-of-new-ai-features/"
+    },
+    {
+      "id": 56,
+      "title": "Barron Trump announced marriage to Sasha Obama?",
+      "summary": "In July 2025, Barron Trump, the son of U.S. President Donald Trump, announced his marriage to Sasha Obama, the daughter of former President Barack Obama.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:40:00Z",
+      "url": "https://www.snopes.com//fact-check/marriage-barron-trump-sasha-obama/"
+    },
+    {
+      "id": 57,
+      "title": "Nvidia's CUDA Platform Now Support RISC-V",
+      "summary": "Nvidia announces that its CUDA software platform will now support RISC-V instruction set architecture, revealed at the 2025 RISC-V Summit in China.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T20:39:58Z",
+      "url": "https://slashdot.org/submission/17338114/nvidias-cuda-platform-now-support-risc-v"
+    },
+    {
+      "id": 58,
+      "title": "AI Boom Keeps Key Power Costs at Record on Largest US Grid",
+      "summary": "AI Boom Keeps Key Power Costs at Record on Largest US Grid, with $16.1 billion being spent to meet demand including that from AI data centers.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T20:39:51Z",
+      "url": "https://financialpost.com/pmn/business-pmn/ai-boom-keeps-key-power-costs-at-record-on-largest-us-grid"
+    },
+    {
+      "id": 59,
+      "title": "AI Boom Keeps Key Power Costs at Record on Largest US Grid",
+      "summary": "AI boom on largest US grid keeping power costs at record highs to meet demand, including from AI data centers.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-22T20:36:33Z",
+      "url": "https://www.livemint.com/companies/news/ai-boom-keeps-key-power-costs-at-record-on-largest-us-grid-11753216594052.html"
+    },
+    {
+      "id": 60,
+      "title": "Windows 11 KB5062660 update brings new 'Windows Resilience' features",
+      "summary": "Windows 11 KB5062660 update introduces new 'Windows Resilience' features, including the Black Screen of Death and Quick Machine Recovery tool.",
+      "source": "BleepingComputer",
+      "category": "innovation",
+      "timestamp": "2025-07-22T20:36:24Z",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI’s Sam Altman warns of AI voice fraud crisis in banking",
+      "summary": "OpenAI's Sam Altman warns of an AI voice fraud crisis in banking during a Federal Reserve conference in Washington.",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:36:21Z",
+      "url": "https://www.bostonherald.com/2025/07/22/open-ai-altman-voice-fraud-warning/"
+    },
+    {
+      "id": 62,
+      "title": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims",
+      "summary": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims, repeating unsubstantiated seditious allegations regarding investigations into Russian election interference.",
+      "source": "Al Jazeera English",
+      "category": "ethics",
+      "timestamp": "2025-07-22T20:36:15Z",
+      "url": "https://www.aljazeera.com/news/2025/7/22/donald-trump-accuses-barack-obama-of-treason-over-2016-election-claims"
+    },
     {
       "id": 51,
       "title": "How To Create AI Voiceovers With Wondershare Filmora’s Text To Speech Feature",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-22T19:22:30Z",
       "url": "https://finance.yahoo.com/news/asm-second-quarter-bookings-disappoint-192230809.html"
-    },
-    {
-      "id": 51,
-      "title": "Stablecoin podcast with Garett Jones",
-      "summary": "Stablecoin podcast featuring Garett Jones, with fresh material and available on Spotify under Bluechip Dialogues.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-22T19:13:19Z",
-      "url": "https://biztoc.com/x/1f0a6b55d0af84ae"
-    },
-    {
-      "id": 52,
-      "title": "Apparently, comparing someone’s writing to AI is now a “classist slur;” and other news.",
-      "summary": "Apparently, comparing someone’s writing to AI is now a 'classist slur;' another wild week for the makers of popular predictive chatbots and large, generative pretrained transformer software.",
-      "source": "Lithub.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T19:12:16Z",
-      "url": "https://lithub.com/apparently-comparing-someones-writing-to-ai-is-now-a-classist-slur-and-other-news/"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: Ellaa – Build knowledge graphs from user insights",
-      "summary": "Ellaa is a platform for product teams to manage user insights efficiently by using AI to analyze research, build knowledge graphs, and organize qualitative data.",
-      "source": "Ellaa.app",
-      "category": "startups",
-      "timestamp": "2025-07-22T19:12:02Z",
-      "url": "https://ellaa.app"
-    },
-    {
-      "id": 54,
-      "title": "How to get rid of useless keys in Windows and turn them into something helpful",
-      "summary": "In the era of laptops and tenkeyless keyboards, many of us are living with fewer keys. As a solution, users can repurpose unused keys like Copilot or Scroll Lock on Windows keyboards to serve more useful functions such as media controls or extended characters.",
-      "source": "Theregister.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T19:10:45Z",
-      "url": "https://www.theregister.com/2025/07/22/useless_keys_windows/"
-    },
-    {
-      "id": 55,
-      "title": "How Dom and Bruno were caught in the bloody fight for the Amazon",
-      "summary": "A new podcast tells the story of how a British journalist and Brazilian ranger were caught in the fight for the Amazon, highlighting the broader impact of the battle for the forest.",
-      "source": "ABC News (AU)",
-      "category": "ethics",
-      "timestamp": "2025-07-22T19:10:07Z",
-      "url": "https://www.abc.net.au/news/2025-07-23/best-podcasts-of-july/105554682"
-    },
-    {
-      "id": 56,
-      "title": "“キャラを選べるAIメンター”が登場！キャリア自律を促進するAIキャリア相談室「HERO Me」大型アップデートを実施",
-      "summary": "An AI mentor that allows users to choose their character has been introduced, with a major update to the AI career counseling service 'HERO Me' to promote career autonomy.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-22T19:10:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000011206.html"
-    },
-    {
-      "id": 57,
-      "title": "Mistral reports on the environmental impact of LLMs",
-      "summary": "Mistral reports on the environmental impact of Large Language Models (LLMs) in AI, contributing to a global environmental standard for AI.",
-      "source": "Mistral.ai",
-      "category": "research",
-      "timestamp": "2025-07-22T19:09:31Z",
-      "url": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai"
-    },
-    {
-      "id": 58,
-      "title": "elemental-agents 0.1.6",
-      "summary": "elemental-agents 0.1.6 is a multi-agent framework designed for conversational collaborative AI agents that can automate tasks.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T19:09:01Z",
-      "url": "https://pypi.org/project/elemental-agents/0.1.6/"
-    },
-    {
-      "id": 51,
-      "title": "AI-Powered Digital Marketing Mastery Bundle Review: Unlock the Future of Marketing Success - FreePostZone.com",
-      "summary": "The AI-Powered Digital Marketing Mastery Bundle aims to equip marketers with the latest strategies in the fast-paced digital world.",
-      "source": "Freepostzone.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T18:51:36Z",
-      "url": "https://freepostzone.com/ai-powered-digital-marketing-mastery-bundle-review-unlock-the-future-of-marketing-success/"
-    },
-    {
-      "id": 52,
-      "title": "Frost Threats in Brazil Push Coffee Prices Sharply Higher",
-      "summary": "Frost threats in Brazil are causing coffee prices to sharply increase.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T18:51:10Z",
-      "url": "https://biztoc.com/x/0aa8c50336aa977f"
-    },
-    {
-      "id": 53,
-      "title": "How AI chip upstart FuriosaAI won over LG with its power-sipping design",
-      "summary": "South Korean AI chip startup FuriosaAI won over LG with its power-sipping design, offering up to 2.25x higher performance per watt than five-year-old Nvidia silicon.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T18:51:06Z",
-      "url": "https://biztoc.com/x/2716641e109bf952"
-    },
-    {
-      "id": 54,
-      "title": "New Jersey Governor Doesn't Rule Out Redistricting That Could Target GOP",
-      "summary": "New Jersey Governor Phil Murphy is considering redistricting to counter Texas Republicans' efforts, raising ethical concerns about partisan manipulation in redrawing Congressional districts.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T18:51:01Z",
-      "url": "https://biztoc.com/x/a320c19e8c8687c8"
     }
   ]
 }
