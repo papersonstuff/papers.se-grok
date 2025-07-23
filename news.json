@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-23T12:34:12.663Z",
+  "lastUpdate": "2025-07-23T13:26:12.029Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Weaver Services scouts for buyout targets as launch nears",
+      "summary": "Weaver Services, led by Satrajit Bhattacharya, is scouting for buyout targets as they prepare to launch their services. The company has raised ₹1,500 crore from investors and is expected to open by the end of the month, with plans for more acquisitions after buying Capital India Home Finance.",
+      "source": "Livemint",
+      "category": "startups",
+      "timestamp": "2025-07-22T13:25:18Z",
+      "url": "https://www.livemint.com/companies/weaver-services-affordable-housing-finance-home-loans-premji-invest-gaja-capital-satrajit-bhattacharya-mortgage-lenders-11753179276802.html"
+    },
+    {
+      "id": 52,
+      "title": "Seemplicity reduces time to remediation with AI-powered capabilities",
+      "summary": "Seemplicity reduces time to remediation with AI-powered capabilities by unveiling a major product release packed with AI Insights, Detailed Remediation Steps, and Smart Tagging and Scopi.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:25:13Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/22/seemplicity-ai-powered-capabilities/"
+    },
+    {
+      "id": 53,
+      "title": "Can you ever expect privacy in public? Coldplay kiss camera saga tells us a lot about the answer",
+      "summary": "As evident by the Coldplay KissCam incident, 'social media surveillance' has eroded what privacy expectations we can have in today's modern world.",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:24:43Z",
+      "url": "https://www.bostonherald.com/2025/07/22/can-you-ever-expect-privacy-in-public-coldplay-kiss-camera-saga-tells-us-a-lot-about-the-answer/"
+    },
+    {
+      "id": 54,
+      "title": "Typography Trends 2025: The Definitive Guide to What’s In & Out",
+      "summary": "Typography trends in 2025 are being influenced by AI tools, shifting the role of typography from readability to a powerful act of distinction.",
+      "source": "Weandthecolor.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:24:38Z",
+      "url": "https://weandthecolor.com/typography-trends-2025-the-definitive-guide-to-whats-in-out/204694"
+    },
+    {
+      "id": 55,
+      "title": "ManageEngine Enhances AD360 With Risk Exposure Management and Local User MFA Features to Strengthen Identity Threat Defenses",
+      "summary": "ManageEngine has enhanced AD360 with risk exposure management and local user MFA features to strengthen identity threat defenses, helping enterprises visualize attack paths, enforce MFA on unmanaged local accounts, and align identity security with the Zero Trust Framework.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:24:31Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/manageengine-enhances-ad360-with-risk-exposure-management-and-local-user-mfa-features-to-strengthen-identity-threat-defenses"
+    },
+    {
+      "id": 56,
+      "title": "CMF Watch 3 Pro launches with smarter fitness tracking and ChatGPT integration",
+      "summary": "CMF Watch 3 Pro launches with dual-band GPS, AI-powered coaching, and ChatGPT integration for $99, with global sales starting on July 22.",
+      "source": "Phandroid - News for Android",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:24:14Z",
+      "url": "https://phandroid.com/2025/07/22/cmf-watch-3-pro-launches-with-smarter-fitness-tracking-and-chatgpt-integration/"
+    },
+    {
+      "id": 57,
+      "title": "AI Should Run on 100% Renewable Energy by 2030, UN Chief Says",
+      "summary": "AI should run on 100% renewable energy by 2030 according to UN Chief, to address the unsustainable power consumption of data centers.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:22:42Z",
+      "url": "https://financialpost.com/pmn/business-pmn/ai-should-run-on-100-renewable-energy-by-2030-un-chief-says"
+    },
+    {
+      "id": 58,
+      "title": "Glendon Capital Sees Opportunities in ‘Unraveling’ of Private Equity Boom",
+      "summary": "Private equity firms struggling to realize returns may provide opportunities for distressed debt investors, says Glendon Capital co-founder Holly Kim.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:22:21Z",
+      "url": "https://financialpost.com/pmn/business-pmn/glendon-capital-sees-opportunities-in-unraveling-of-private-equity-boom"
+    },
+    {
+      "id": 59,
+      "title": "India rises amid global FDI gloom",
+      "summary": "India is attracting foreign direct investment in areas such as infrastructure, renewable energy, and digital connectivity, showing a shift in investor perceptions towards seeing India as a crucial part of the global economy.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:22:05Z",
+      "url": "https://www.thehindubusinessline.com/opinion/india-rises-amid-global-fdi-gloom/article69839564.ece"
+    },
+    {
+      "id": 60,
+      "title": "LIVE! The Forrester Wave™: Master Data Management Solutions, Q2 2025",
+      "summary": "Preview the latest trends in the master data management market with Forrester's Wave evaluation.",
+      "source": "Forrester.com",
+      "category": "research",
+      "timestamp": "2025-07-22T13:21:41Z",
+      "url": "https://www.forrester.com/blogs/live-the-forrester-wave-master-data-management-solutions-q2-2025/"
+    },
+    {
+      "id": 61,
+      "title": "pydantic-ai 0.4.5",
+      "summary": "pydantic-ai 0.4.5 is an agent framework/shim that allows for the use of Pydantic with large language models (LLMs).",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:21:27Z",
+      "url": "https://pypi.org/project/pydantic-ai/0.4.5/"
+    },
+    {
+      "id": 62,
+      "title": "clai 0.4.5",
+      "summary": "clai 0.4.5 is a Pydantic AI CLI that serves as a command line interface for conversing with large language models (LLMs). This tool can be used for various applications, such as chatbots and natural language processing tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:21:26Z",
+      "url": "https://pypi.org/project/clai/0.4.5/"
+    },
+    {
+      "id": 63,
+      "title": "No days off: Nvidia CEO Jensen Huang says he works from wake to sleep, even during movies",
+      "summary": "Nvidia CEO Jensen Huang works constantly even during leisure, leading the company to massive growth. Nvidia is valued higher than Meta and Amazon and employees also face a demanding work culture, with a focus on AI innovation.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-22T13:21:20Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/no-days-off-nvidia-ceo-jensen-huang-says-he-works-from-wake-to-sleep-even-during-movies/articleshow/122838824.cms"
+    },
+    {
+      "id": 64,
+      "title": "You’re Not Imagining It: AI Is Already Taking Tech Jobs",
+      "summary": "AI is already replacing tech jobs, leading to concerns about the impact on human workers' livelihoods.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:21:03Z",
+      "url": "https://biztoc.com/x/d113d2e5ddd196b5"
+    },
+    {
+      "id": 65,
+      "title": "Galaxy Watch 8's AI running coach tested my running level - and left me humbled",
+      "summary": "The Galaxy Watch 8's AI running coach is helping users improve their running levels and prepare for marathons, leaving them humbled by their performance. This new feature is designed to assist users in achieving their running goals.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-22T13:20:54Z",
+      "url": "https://www.zdnet.com/article/galaxy-watch-8s-ai-running-coach-tested-my-running-level-and-left-me-humbled/"
+    },
+    {
+      "id": 66,
+      "title": "Cap-Ex Comeback: Tax Cuts and Tariffs Driving An Investment Wave, Bessent Says",
+      "summary": "Production of business equipment and capital expenditures are surging, indicating a major investment wave has begun as stated by Treasury Secretary Scott Bessent.",
+      "source": "Breitbart News",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:20:50Z",
+      "url": "https://www.breitbart.com/economy/2025/07/22/cap-ex-comeback/"
+    },
+    {
+      "id": 67,
+      "title": "Trump endorses GOP senator years after asserting 'I will never endorse this jerk again'",
+      "summary": "President Donald Trump endorsed GOP Sen. Mike Rounds of South Dakota after previously declaring in 2022 that he would never endorse the senator again.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-22T13:20:18Z",
+      "url": "https://www.foxnews.com/politics/trump-endorses-gop-senator-years-after-asserting-i-never-endorse-jerk-again"
+    },
+    {
+      "id": 68,
+      "title": "Open Banking Market Size to Surpass USD 180.31 Billion by 2032, at 25.63% CAGR | Research by SNS Insider",
+      "summary": "Open Banking Market growth is being driven by various factors such as global regulatory mandates, surging API adoption, consumer demand for personalized financial services, fintech collaboration, embedded finance, and AI-powered innovation.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:20:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119535/0/en/Open-Banking-Market-Size-to-Surpass-USD-180-31-Billion-by-2032-at-25-63-CAGR-Research-by-SNS-Insider.html"
+    },
+    {
+      "id": 69,
+      "title": "Perimeter Intruder Detection System Market to Grow USD 60.39 Billion by 2032, at a CAGR of 14.78% | SNS Insider",
+      "summary": "Perimeter Intruder Detection System Market is expected to grow to USD 60.39 billion by 2032, with the U.S. market reaching USD 14.92 billion during the same period.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-22T13:20:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119536/0/en/Perimeter-Intruder-Detection-System-Market-to-Grow-USD-60-39-Billion-by-2032-at-a-CAGR-of-14-78-SNS-Insider.html"
+    },
+    {
+      "id": 70,
+      "title": "Tropic’s Procurement Platform Gains Ground, Driving $56M in Savings and 73% Growth in Intelligence Use",
+      "summary": "Tropic's Procurement Platform reports $56M in savings and 73% growth in intelligence use, driven by new AI agents and workflow integrations, reflecting accelerated adoption and Q2 momentum.",
+      "source": "Financial Post",
+      "category": "startups",
+      "timestamp": "2025-07-22T13:19:53Z",
+      "url": "https://financialpost.com/globe-newswire/tropics-procurement-platform-gains-ground-driving-56m-in-savings-and-73-growth-in-intelligence-use"
+    },
     {
       "id": 51,
       "title": "Top Chromebooks that can replace your budget Windows laptop in 2025",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T11:42:54Z",
       "url": "https://www.geeky-gadgets.com/ai-product-ad-creation-guide/"
-    },
-    {
-      "id": 61,
-      "title": "github-backlog-generator added to PyPI",
-      "summary": "github-backlog-generator added to PyPI - Enterprise-grade AI-powered tool to transform GitHub README files into comprehensive project backlogs optimized for Claude Flow SPARC agents",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:41:43Z",
-      "url": "https://pypi.org/project/github-backlog-generator/"
-    },
-    {
-      "id": 62,
-      "title": "github-backlog-generator 1.0.0",
-      "summary": "The release of github-backlog-generator 1.0.0 introduces an enterprise-grade AI-powered tool that converts GitHub README files into project backlogs for Claude Flow SPARC agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:41:43Z",
-      "url": "https://pypi.org/project/github-backlog-generator/1.0.0/"
-    },
-    {
-      "id": 63,
-      "title": "Philip Morris shares dip as revenue falls short of expectations",
-      "summary": "Philip Morris shares dip as revenue falls short of expectations despite second-quarter earnings beating estimates.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:39:20Z",
-      "url": "https://finance.yahoo.com/news/philip-morris-shares-dip-revenue-113920625.html"
-    },
-    {
-      "id": 64,
-      "title": "Soluna Closes $20M Funding from Spring Lane Capital to Begin Construction on Project Kati 1",
-      "summary": "Soluna secures $20M funding from Spring Lane Capital to begin construction on Project Kati 1, a green data center project for intensive computing applications like Bitcoin mining.",
-      "source": "Financial Post",
-      "category": "startups",
-      "timestamp": "2025-07-22T11:37:40Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/soluna-closes-20m-funding-from-spring-lane-capital-to-begin-construction-on-project-kati-1"
-    },
-    {
-      "id": 65,
-      "title": "Air India seeks loan of about $200 million for aircraft purchases",
-      "summary": "Air India seeks $200 million loan for aircraft purchases amid supply chain constraints",
-      "source": "Bloomberg",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:37:21Z",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-22/air-india-seeks-loan-of-about-200-million-for-aircraft-purchase"
-    },
-    {
-      "id": 66,
-      "title": "AI tracks uploaded to some dead musicians’ streaming profiles",
-      "summary": "AI tracks uploaded to some dead musicians’ streaming profiles, highlighting the ethical concerns of using AI in this manner.",
-      "source": "Music Ally",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:35:00Z",
-      "url": "http://musically.com/2025/07/22/ai-tracks-uploaded-to-some-dead-musicians-streaming-profiles/"
-    },
-    {
-      "id": 67,
-      "title": "Republicans Shut Down House Floor to Avoid Epstein Vote",
-      "summary": "House Republicans shut down the House floor to block a vote on releasing Jeffrey Epstein files, raising ethical concerns about transparency and accountability in government proceedings.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:34:34Z",
-      "url": "https://biztoc.com/x/35037b5ca5762adf"
-    },
-    {
-      "id": 68,
-      "title": "AIs and Spontaneous Order",
-      "summary": "The belief in AI surpassing free markets reflects a misunderstanding of the price system, according to Tupy and Boettke in the WSJ.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T11:34:11Z",
-      "url": "https://biztoc.com/x/cc2ab99abdd342ae"
-    },
-    {
-      "id": 69,
-      "title": "ZenaTech’s ZenaDrone Subsidiary Applies for Green UAS Certification for IQ Square Drone to Sell to US Defense and Government",
-      "summary": "ZenaTech’s ZenaDrone Subsidiary is seeking green UAS certification for its IQ Square drone to sell to US defense and government agencies, showcasing the application of AI technology in the drone industry.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:34:10Z",
-      "url": "https://financialpost.com/globe-newswire/zenatechs-zenadrone-subsidiary-applies-for-green-uas-certification-for-iq-square-drone-to-sell-to-us-defense-and-government"
-    },
-    {
-      "id": 70,
-      "title": "Trump Removes Migrant Protections for Two Countries: What to Know",
-      "summary": "President Donald Trump receives approval to remove Temporary Protected Status for Afghans and Cameroonians, creating uncertainty for migrants in the U.S.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:33:48Z",
-      "url": "https://biztoc.com/x/81c465085b6cf046"
-    },
-    {
-      "id": 51,
-      "title": "Unhinged Florida man arrested for threatening to ‘kill everyone’ with a machete on pedophile Epstein’s ‘client list’",
-      "summary": "Florida man arrested for making violent threats after interaction with AI chatbot",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:31:04Z",
-      "url": "https://nypost.com/2025/07/22/us-news/unhinged-florida-man-arrested-for-threatening-to-kill-everyone-with-a-machete-on-pedophile-epsteins-client-list/"
-    },
-    {
-      "id": 52,
-      "title": "What is SAP Business Suite?",
-      "summary": "SAP Business Suite is a bundle of enterprise software applications that integrate data, processes and functions for important areas such as finance, sales and human resources (HR), as well as offer industry-specific features.",
-      "source": "Techtarget.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:31:00Z",
-      "url": "https://www.techtarget.com/searchsap/definition/SAP-Business-Suite"
-    },
-    {
-      "id": 53,
-      "title": "Lithuania Proptech Grows Behind Rich Real Estate Ecosystem",
-      "summary": "Lithuania is emerging as a strong player in the proptech sector, showcasing real estate innovation and growth. With a rich real estate ecosystem, the nation is making its mark in the industry alongside larger competitors.",
-      "source": "Commercial Observer",
-      "category": "startups",
-      "timestamp": "2025-07-22T11:30:55Z",
-      "url": "http://commercialobserver.com/2025/07/lithuania-proptech/"
-    },
-    {
-      "id": 54,
-      "title": "What if AI didn’t need the internet? Indian semiconductor startups have an answer",
-      "summary": "Indian semiconductor startups are focusing on developing offline AI solutions that do not rely on internet connectivity, leveraging the country's pool of experienced engineers and innovative chips to compete with GPU infrastructure from the US and China.",
-      "source": "Livemint",
-      "category": "startups",
-      "timestamp": "2025-07-22T11:30:07Z",
-      "url": "https://www.livemint.com/companies/ai-bet-startups-smarter-chips-china-us-gpu-nvidia-hardware-netrasemi-intel-semicon-fabless-model-chatgpt-gemini-11753107818519.html"
-    },
-    {
-      "id": 55,
-      "title": "7 Ways Your Small Business Can Reach New Customers — Beyond Google",
-      "summary": "Here are 7 ways your small business can reach and engage new customers - without solely relying on being found on Google search results.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-22T11:30:00Z",
-      "url": "https://www.forbes.com/sites/chelseatobin/2025/07/22/7-ways-your-small-business-can-reach-new-customers---beyond-google/"
-    },
-    {
-      "id": 56,
-      "title": "Applied Materials Appoints Jim Anderson to Board of Directors",
-      "summary": "Applied Materials appoints Jim Anderson with over 25 years of experience in the technology sector to its board of directors.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-22T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119320/0/en/Applied-Materials-Appoints-Jim-Anderson-to-Board-of-Directors.html"
-    },
-    {
-      "id": 57,
-      "title": "ZenaTech’s ZenaDrone Subsidiary Applies for Green UAS Certification for IQ Square Drone to Sell to US Defense and Government",
-      "summary": "ZenaTech's ZenaDrone Subsidiary applies for Green UAS Certification for IQ Square Drone to sell to US Defense and Government, specializing in AI drones.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119330/0/en/ZenaTech-s-ZenaDrone-Subsidiary-Applies-for-Green-UAS-Certification-for-IQ-Square-Drone-to-Sell-to-US-Defense-and-Government.html"
-    },
-    {
-      "id": 58,
-      "title": "Show HN: Effect – TypeScript's functional effect system and monorepo toolkit",
-      "summary": "The news is about an AI-related toolkit called Effect, which is designed for TypeScript's functional effect system and monorepo management. It aims to streamline the development process and increase productivity for AI projects.",
-      "source": "Github.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T11:29:35Z",
-      "url": "https://github.com/Effect-TS/effect"
-    },
-    {
-      "id": 59,
-      "title": "【正論】高木豊さん「今の球は人間の審判が判定できるスピードじゃない。AIを導入すべき」",
-      "summary": "Former baseball player Takaki Yutaka suggests that AI should be introduced into baseball to make calls faster and more accurately, as human referees are unable to keep up with the speed of the game.",
-      "source": "Livedoor.jp",
-      "category": "ethics",
-      "timestamp": "2025-07-22T11:28:29Z",
-      "url": "http://blog.livedoor.jp/nanjstu/archives/62514022.html"
-    },
-    {
-      "id": 60,
-      "title": "The $70 Billion Blind Spot And Why VCs Are Betting Big On AI-Powered Compensation Management",
-      "summary": "VCs are investing heavily in AI-powered compensation management, despite companies still relying on outdated methods. Employee compensation is a significant expense for most companies, presenting a major opportunity for AI innovation in this area.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-22T11:27:54Z",
-      "url": "https://www.forbes.com/sites/josipamajic/2025/07/22/the-70-billion-blind-spot-and-why-vcs-are-betting-big-on-ai-powered-compensation-management/"
     }
   ]
 }
