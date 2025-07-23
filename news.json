@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-23T22:55:04.978Z",
+  "lastUpdate": "2025-07-23T23:16:37.705Z",
   "items": [
+    {
+      "id": 51,
+      "title": "coppersun-brass 2.3.26",
+      "summary": "Coppersun-brass 2.3.26 is a new development intelligence tool for AI agents in the Copper Sun product line, aimed at improving AI capabilities and performance.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:15:57Z",
+      "url": "https://pypi.org/project/coppersun-brass/2.3.26/"
+    },
+    {
+      "id": 52,
+      "title": "Proton is launching a privacy-focused AI chatbot",
+      "summary": "Proton has launched a privacy-focused AI chatbot called Lumo, which aims to preserve user privacy by storing data locally. The chatbot can perform tasks like document summarization, code generation, and email writing.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-22T23:12:40Z",
+      "url": "https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot"
+    },
+    {
+      "id": 53,
+      "title": "To plug New York’s massive budget gaps, Gov. Hochul should focus on growing the economy for a change",
+      "summary": "To address New York's budget gaps, Gov. Hochul is focusing on growing the economy by directing state agencies to cut $750 million in spending after President Trump's federal budget restructuring affected her $254 billion spending plan.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-22T23:10:29Z",
+      "url": "https://nypost.com/2025/07/22/opinion/to-plug-new-yorks-massive-budget-gaps-gov-hochul-should-focus-on-growing-the-economy/"
+    },
+    {
+      "id": 54,
+      "title": "llmaid 0.1.0",
+      "summary": "llmaid 0.1.0 is a zero‑dependency wrapper that simplifies the process of turning any OpenAI‑compatible endpoint into a hackable one‑liner.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:10:18Z",
+      "url": "https://pypi.org/project/llmaid/"
+    },
+    {
+      "id": 55,
+      "title": "uniception 0.1.3",
+      "summary": "uniception 0.1.3 is a generalizable perception stack designed for 3D, 4D, spatial AI and scene understanding.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:10:03Z",
+      "url": "https://pypi.org/project/uniception/0.1.3/"
+    },
+    {
+      "id": 56,
+      "title": "APPLOVIN INVESTIGATION ALERT: Bragar Eagel & Squire, P.C. is Investigating AppLovin Corporation on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm",
+      "summary": "Bragar Eagel & Squire, P.C. is investigating AppLovin Corporation on behalf of long-term stockholders and encouraging investors to contact the firm regarding potential losses in AppLovin (APP).",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119934/0/en/APPLOVIN-INVESTIGATION-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-AppLovin-Corporation-on-Behalf-of-Long-Term-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html"
+    },
+    {
+      "id": 57,
+      "title": "ChatGPT now handles 1.7 million requests every minute",
+      "summary": "ChatGPT now handles 1.7 million requests every minute, equivalent to 2.5 billion user instructions per day, showing a significant increase in usage.",
+      "source": "PCWorld",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:08:42Z",
+      "url": "https://www.pcworld.com/article/2855321/chatgpt-now-handles-1-7-million-requests-every-minute.html"
+    },
+    {
+      "id": 58,
+      "title": "flwr-nightly 1.20.0.dev20250722",
+      "summary": "Flwr-nightly 1.20.0.dev20250722 introduces Flower, a friendly federated AI framework for research purposes.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-22T23:07:09Z",
+      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250722/"
+    },
+    {
+      "id": 59,
+      "title": "BetterComp raises $33M to expand compensation management platform",
+      "summary": "BetterComp raises $33M to expand compensation management platform - Compensation management startup BetterComp Inc. revealed today that it had raised $33 million in new funding to fuel its continued growth and innovation, enhance its market pricing and pay recommendation capabilities, expand into new product adjacencies and s…",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-22T23:05:35Z",
+      "url": "https://siliconangle.com/2025/07/22/bettercomp-raises-33m-expand-compensation-management-platform/"
+    },
+    {
+      "id": 60,
+      "title": "Samsung bets on GAA and HBM4 to retake AI crown",
+      "summary": "Samsung is focusing on GAA and HBM4 technologies to regain its position in AI development, with the semiconductor industry set for intense competition in the second half of 2025.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-22T23:03:09Z",
+      "url": "https://www.digitimes.com/news/a20250722PD204/samsung-hbm4-2025-gaa-ai-chip.html"
+    },
     {
       "id": 51,
       "title": "Cramer's Lightning Round: Don't buy UPS",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T21:48:43Z",
       "url": "https://pypi.org/project/revenium-mcp/0.1.23/"
-    },
-    {
-      "id": 54,
-      "title": "Hopes and Fears for President Trump’s AI Action Plan",
-      "summary": "A look at what Trump’s AI plan could still get right and what we can’t afford to get wrong, focusing on hopes and fears for the future of AI.",
-      "source": "Publicknowledge.org",
-      "category": "ethics",
-      "timestamp": "2025-07-22T21:48:26Z",
-      "url": "https://publicknowledge.org/hopes-and-fears-for-president-trumps-ai-action-plan/"
-    },
-    {
-      "id": 55,
-      "title": "OFA Group Rings Nasdaq Closing Bell and Reaffirms Commitment to $100 Million Bitcoin Strategic Digital Asset Treasury Initiative",
-      "summary": "OFA Group celebrates momentum in AI innovation within architecture, real estate development, and senior care initiatives with Nasdaq Closing Bell ceremony reaffirming commitment to $100 million Bitcoin Strategic Digital Asset Treasury Initiative.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:47:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119910/0/en/OFA-Group-Rings-Nasdaq-Closing-Bell-and-Reaffirms-Commitment-to-100-Million-Bitcoin-Strategic-Digital-Asset-Treasury-Initiative.html"
-    },
-    {
-      "id": 56,
-      "title": "AI agent startups are becoming revenue machines — here are the top 20 ranked",
-      "summary": "AI agent startups are becoming revenue machines, rapidly reaching commercial maturity and rewriting the VC funding playbook with consecutive funding rounds.",
-      "source": "Cbinsights.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T21:43:21Z",
-      "url": "https://www.cbinsights.com/research/ai-agent-startups-top-20-revenue/"
-    },
-    {
-      "id": 57,
-      "title": "Abiotic Factor Gets a Massive 1.0 Update for Launch Day",
-      "summary": "Abiotic Factor, a unique co-op survival game, receives a massive 1.0 update for its launch day, offering players a feature-packed full release experience.",
-      "source": "ComicBook.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:43:08Z",
-      "url": "http://comicbook.com/gaming/news/abiotic-factor-update-launch-day/"
-    },
-    {
-      "id": 58,
-      "title": "claude-multiagent-pm 1.4.7",
-      "summary": "claued-multiagent-pm 1.4.7 is a framework for AI-driven orchestration in project management, enabling multiple agents to collaborate efficiently. This innovation enhances the way projects are managed and executed with the help of artificial intelligence.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:42:42Z",
-      "url": "https://pypi.org/project/claude-multiagent-pm/1.4.7/"
-    },
-    {
-      "id": 51,
-      "title": "This $900 million solar farm in Texas is going 100% to data centers",
-      "summary": "Meta is utilizing 100% of the power from a new $900 million Texas solar farm to run its data centers, ensuring they are powered by clean energy by 2027.",
-      "source": "Electrek",
-      "category": "economy",
-      "timestamp": "2025-07-22T21:40:36Z",
-      "url": "http://electrek.co/2025/07/22/900-million-solar-farm-texas-100-percent-data-centers/"
-    },
-    {
-      "id": 52,
-      "title": "Kubuntu Focus NX Gen 3 Linux mini PC comes with up to a Core Ultra 7 255H Arrow Lake chip",
-      "summary": "Kubuntu Focus NX Gen 3 Linux mini PC with Core Ultra 7 255H Arrow Lake chip offers a new option for AI-related computing.",
-      "source": "Liliputing",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:38:40Z",
-      "url": "https://liliputing.com/kubuntu-focus-nx-gen-3-linux-mini-pc-comes-with-up-to-a-core-ultra-7-255h-arrow-lake-chip/"
-    },
-    {
-      "id": 53,
-      "title": "Avaya Accelerates Model Context Protocol (MCP) Support for Avaya Infinity Platform",
-      "summary": "Avaya announces that Avaya Infinity platform will support Model Context Protocol (MCP) later this year.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T21:38:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/22/avaya-accelerates-model-context-protocol-mcp-support-for-avaya-infinity-platform.aspx"
-    },
-    {
-      "id": 54,
-      "title": "New Books Hitting Shelves This Week",
-      "summary": "New books hitting shelves at the Library at Hellebore, the premier academy for dangerously powerful individuals such as Anti-Christs and world-eaters.",
-      "source": "Livejournal.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:37:24Z",
-      "url": "https://ohnotheydidnt.livejournal.com/130915414.html"
-    },
-    {
-      "id": 55,
-      "title": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
-      "summary": "Air India completes inspections and finds no faults in fuel control switch locking mechanism on Boeing 787s and 737s in its fleet.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-22T21:35:44Z",
-      "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms"
     }
   ]
 }
