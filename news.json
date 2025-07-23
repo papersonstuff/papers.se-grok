@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-23T19:14:57.996Z",
+  "lastUpdate": "2025-07-23T19:30:47.141Z",
   "items": [
+    {
+      "id": 51,
+      "title": "PyCoder’s Weekly: Issue #691: Inheritance, Logging, marimo, and More (July 22, 2025)",
+      "summary": "The latest issue of PyCoder’s Weekly covers topics such as inheritance, logging, and marimo. It highlights the ongoing innovations and developments in the field of AI.",
+      "source": "Pycoders.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T19:30:00Z",
+      "url": "https://pycoders.com/issues/691"
+    },
+    {
+      "id": 52,
+      "title": "palimpzest 0.7.17",
+      "summary": "palimpzest 0.7.17 is a system that allows users to easily process AI-powered analytical queries by defining them in a declarative language.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:28:18Z",
+      "url": "https://pypi.org/project/palimpzest/0.7.17/"
+    },
+    {
+      "id": 53,
+      "title": "Bill Gates Complains Trump Has Put His Global 'Vaccine' Agenda 'at Risk'",
+      "summary": "Billionaire Bill Gates accuses Trump administration of putting his global 'vaccination' agenda at risk by cutting off taxpayer funding for GAVI, the Vaccine Alliance.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:27:42Z",
+      "url": "https://freerepublic.com/focus/f-bloggers/4330134/posts"
+    },
+    {
+      "id": 54,
+      "title": "Bill Gates Complains Trump Has Put His Global 'Vaccine' Agenda 'at Risk'",
+      "summary": "Bill Gates accuses Trump of putting global vaccination agenda at risk by cutting funding for GAVI",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:27:42Z",
+      "url": "https://freerepublic.com/focus/f-news/4330134/posts"
+    },
+    {
+      "id": 55,
+      "title": "CMF by Nothing launches Watch 3 Pro with AI-powered fitness features",
+      "summary": "The CMF Watch 3 Pro by Nothing launches with AI-powered fitness features, offering enhanced health monitoring, more sports modes, and AI-powered running guidance.",
+      "source": "Android Central",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:26:18Z",
+      "url": "https://www.androidcentral.com/wearables/cmf-watch-3-pro-launch"
+    },
+    {
+      "id": 56,
+      "title": "You might be surprised by the list of states adopting ChatGPT the fastest",
+      "summary": "A new report from OpenAI highlights the 15 states that are adopting ChatGPT the fastest.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:26:18Z",
+      "url": "https://www.businessinsider.com/list-states-adopting-chatgpt-fastest-2025-7"
+    },
+    {
+      "id": 57,
+      "title": "Neutrality Is A Myth: Generative AI And The Politics Of Everything",
+      "summary": "AI now shapes how we see truth, history, and democracy, raising concerns about maintaining shared reality and protecting facts.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-22T19:25:48Z",
+      "url": "https://www.forbes.com/sites/nizangpackin/2025/07/22/neutrality-is-a-myth-generative-ai-and-the-politics-of-everything/"
+    },
+    {
+      "id": 58,
+      "title": "Wall Street is upbeat on tech megacaps, but big questions loom on AI spending, China, Trump tariffs",
+      "summary": "Wall Street upbeat on tech megacaps for second-quarter earnings, concerns about AI spending, China, and Trump tariffs loom.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:24:38Z",
+      "url": "https://biztoc.com/x/8a928ee6ea57ca72"
+    },
+    {
+      "id": 59,
+      "title": "After ‘MechaHitler’ fiasco, Musk pitches a Grok AI bot for kids",
+      "summary": "Elon Musk pitches a Grok AI bot for kids after the controversy surrounding the 'MechaHitler' incident.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:24:28Z",
+      "url": "https://biztoc.com/x/695b20fa0c4dab0b"
+    },
+    {
+      "id": 60,
+      "title": "Renewable energy hits global tipping point for even lower costs, UN says",
+      "summary": "Renewable energy costs have become even lower on a global scale, marking a tipping point according to the UN. UN chief Antonio Guterres stated that the fossil fuel age is declining as renewable energy becomes more affordable.",
+      "source": "Al Jazeera English",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:24:08Z",
+      "url": "https://www.aljazeera.com/news/2025/7/22/green-power-now-cheaper-than-fossil-fuels-un-reports-show"
+    },
+    {
+      "id": 61,
+      "title": "The US Air Force let AI help operators find targets to speed up kill chain decisions",
+      "summary": "The US Air Force used AI to assist operators in finding targets and making kill chain decisions, resulting in differences between AI-generated recommendations and operator decisions.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:22:58Z",
+      "url": "https://www.businessinsider.com/air-force-tested-using-ai-make-targeting-kill-chain-faster-2025-7"
+    },
+    {
+      "id": 62,
+      "title": "Apple has re-enabled Apple Intelligence Notification Summaries",
+      "summary": "Apple has re-enabled Apple Intelligence Notification Summaries, allowing users to quickly get the latest news with the beta.",
+      "source": "Goodereader",
+      "category": "applications",
+      "timestamp": "2025-07-22T19:22:54Z",
+      "url": "https://goodereader.com/blog/digital-publishing/apple-has-re-enabled-apple-intelligence-notification-summaries"
+    },
+    {
+      "id": 63,
+      "title": "ASM second-quarter bookings disappoint, cites order timing",
+      "summary": "ASM International's second-quarter bookings were below market expectations, citing uneven order timing as a key factor.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-22T19:22:30Z",
+      "url": "https://finance.yahoo.com/news/asm-second-quarter-bookings-disappoint-192230809.html"
+    },
     {
       "id": 51,
       "title": "Stablecoin podcast with Garett Jones",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T17:51:32Z",
       "url": "https://www.zdnet.com/article/this-windows-mini-pc-fits-in-my-hand-and-supports-up-to-three-4k-monitors/"
-    },
-    {
-      "id": 58,
-      "title": "Amazon buys Bee AI wearable that listens to everything you say",
-      "summary": "Amazon acquires Bee, a startup that specializes in AI wearables, to bring personalized AI technology to more customers.",
-      "source": "The Verge",
-      "category": "startups",
-      "timestamp": "2025-07-22T17:50:56Z",
-      "url": "https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition"
-    },
-    {
-      "id": 59,
-      "title": "vity 0.2.5",
-      "summary": "vity 0.2.5 is an AI-powered terminal assistant designed for generating shell commands.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:50:47Z",
-      "url": "https://pypi.org/project/vity/0.2.5/"
-    },
-    {
-      "id": 60,
-      "title": "OZ Studio, a Global Firm with Texas Roots, Showcases Ethical AI Governance Model at the United Nations",
-      "summary": "OZ Studio showcased an ethical AI governance model at the United Nations, emphasizing the importance of ethical artificial intelligence in municipal governance.",
-      "source": "GlobeNewswire",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119758/0/en/OZ-Studio-a-Global-Firm-with-Texas-Roots-Showcases-Ethical-AI-Governance-Model-at-the-United-Nations.html"
-    },
-    {
-      "id": 61,
-      "title": "palimpzest 0.7.14",
-      "summary": "Palimpzest 0.7.14 is a system that allows users to process AI-powered analytical queries by defining them in a declarative language.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:49:07Z",
-      "url": "https://pypi.org/project/palimpzest/0.7.14/"
-    },
-    {
-      "id": 62,
-      "title": "tf-nightly-tpu 2.21.0.dev20250722",
-      "summary": "tf-nightly-tpu 2.21.0.dev20250722 is a new development in the open source machine learning framework TensorFlow, designed to benefit researchers working in the field of AI.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-22T17:47:41Z",
-      "url": "https://pypi.org/project/tf-nightly-tpu/2.21.0.dev20250722/"
-    },
-    {
-      "id": 63,
-      "title": "tf-nightly-cpu 2.21.0.dev20250722",
-      "summary": "tf-nightly-cpu 2.21.0.dev20250722 - TensorFlow is an open source machine learning framework for everyone.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:46:10Z",
-      "url": "https://pypi.org/project/tf-nightly-cpu/2.21.0.dev20250722/"
-    },
-    {
-      "id": 64,
-      "title": "Database DevOps Grows Up: Why 2025 Is the Year Manual Database Changes Finally Die",
-      "summary": "For years, database changes have been the black sheep of DevOps pipelines, but by 2025 manual database changes are predicted to finally become a thing of the past, as database DevOps grows up and embraces automation.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T17:46:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/22/database-devops-grows-up-why-2025-is-the-year-manual-database-changes-finally-die.aspx"
-    },
-    {
-      "id": 51,
-      "title": "AMD Stock Is Sliding Tuesday: What's Driving The Action?",
-      "summary": "Shares of AMD are trading lower due to a broader downturn affecting the semiconductor industry.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T17:44:17Z",
-      "url": "https://biztoc.com/x/43b8a013db6cb4ce"
-    },
-    {
-      "id": 52,
-      "title": "Tears Over Cats Left 'Paralyzed With Fear' After Cruel Abandonment",
-      "summary": "A pair of cats was found 'paralyzed with fear' after being abandoned in a cruel manner, resulting in AI-generated voice inconsistencies. The incident raises ethical concerns about the treatment of animals and the impact of technology on their well-being.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:44:07Z",
-      "url": "https://biztoc.com/x/0bc24d2858c1f4ec"
-    },
-    {
-      "id": 53,
-      "title": "Nearly Third of Kids Now Look to AI for Emotional Support—Report",
-      "summary": "Nearly a third of kids are turning to artificial intelligence for emotional support, a report finds, highlighting the growing role AI is playing in mental health resources for children.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T17:44:07Z",
-      "url": "https://biztoc.com/x/148f9fbb745a6648"
-    },
-    {
-      "id": 54,
-      "title": "palimpzest 0.7.13",
-      "summary": "Palimpzest 0.7.13 is a system that allows users to process AI-powered analytical queries through a declarative language.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T17:43:54Z",
-      "url": "https://pypi.org/project/palimpzest/0.7.13/"
-    },
-    {
-      "id": 55,
-      "title": "Buffalo Run Casino & Resort Selects QCI Go to Empower Hosts and Enhance Guest Engagement",
-      "summary": "Buffalo Run Casino & Resort selects QCI Go, a mobile app for casino hosts, to improve productivity and enhance guest experience.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-22T17:41:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119756/0/en/Buffalo-Run-Casino-Resort-Selects-QCI-Go-to-Empower-Hosts-and-Enhance-Guest-Engagement.html"
-    },
-    {
-      "id": 56,
-      "title": "Trump Withdraws from Globalist UNESCO for the Second Time",
-      "summary": "President Trump orders the US to withdraw from UNESCO for the second time, impacting the United Nations cultural agency's operations.",
-      "source": "Thegatewaypundit.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T17:40:58Z",
-      "url": "https://www.thegatewaypundit.com/2025/07/trump-withdraws-globalist-unesco-second-time/"
     }
   ]
 }
