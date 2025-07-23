@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-23T04:13:14.899Z",
+  "lastUpdate": "2025-07-23T04:54:24.448Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI to expand UK operations, boost public services and AI security",
+      "summary": "OpenAI to expand UK operations, boost public services and AI security through a new memorandum of understanding with the UK government.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-22T04:52:01Z",
+      "url": "https://www.neowin.net/news/openai-to-expand-uk-operations-boost-public-services-and-ai-security/"
+    },
+    {
+      "id": 52,
+      "title": "MSA Festival Of Media 2025 Returns, With Focus On Reimagining Meaningful Engagement",
+      "summary": "MSA Festival Of Media 2025 returns with a focus on reimagining meaningful engagement.",
+      "source": "Mashable",
+      "category": "innovation",
+      "timestamp": "2025-07-22T04:50:16Z",
+      "url": "https://sea.mashable.com/tech/38679/msa-festival-of-media-2025-returns-with-focus-on-reimagining-meaningful-engagement"
+    },
+    {
+      "id": 53,
+      "title": "primfunctions 0.1.5",
+      "summary": "Prim AI Functions has released version 0.1.5, offering new functionality for AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T04:46:24Z",
+      "url": "https://pypi.org/project/primfunctions/0.1.5/"
+    },
+    {
+      "id": 54,
+      "title": "Surrey launches new Space Institute to drive mission-ready innovation and skills for UK space sector",
+      "summary": "The University of Surrey has launched the Surrey Space Institute to address critical skill shortages and accelerate innovation in the UK's Pounds 19 billion space economy.",
+      "source": "Space Daily",
+      "category": "innovation",
+      "timestamp": "2025-07-22T04:46:06Z",
+      "url": "https://www.spacedaily.com/reports/Surrey_launches_new_Space_Institute_to_drive_mission_ready_innovation_and_skills_for_UK_space_sector_999.html"
+    },
+    {
+      "id": 55,
+      "title": "Elvis Experience costing up to £300 branded 'atrocious and misleading'",
+      "summary": "Ticketholders for Elvis Experience demanding refund for misleading promises of hologram version of Elvis, branding the experience as atrocious.",
+      "source": "BBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-22T04:41:44Z",
+      "url": "https://www.bbc.com/news/articles/c20prvvgypyo"
+    },
+    {
+      "id": 56,
+      "title": "【市場震撼】売れるネット広告社グループ（9235）、“売上直結型”『TikTokライブコマース支援サービス』をついに始動！",
+      "summary": "Sell Net Advertising Group (9235) has launched a 'TikTok Live Commerce Support Service' that directly links to sales, causing a market sensation.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-22T04:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000211.000073846.html"
+    },
+    {
+      "id": 57,
+      "title": "As AI tools take hold in cybersecurity, entry-level jobs could shrink",
+      "summary": "As AI tools take hold in cybersecurity, entry-level jobs could shrink with nearly a third of cybersecurity professionals already using AI security tools.",
+      "source": "Help Net Security",
+      "category": "applications",
+      "timestamp": "2025-07-22T04:30:07Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/22/ai-in-cybersecurity-entry-level-jobs/"
+    },
+    {
+      "id": 58,
+      "title": "Longevity enthusiast Bryan Johnson says he doesn't want to run his anti-aging company anymore",
+      "summary": "Bryan Johnson no longer wants to run his anti-aging company Blueprint as he does not need the money and finds it to be a hassle.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-22T04:27:43Z",
+      "url": "https://www.businessinsider.com/bryan-johnson-does-not-want-run-blueprint-anymore-2025-7"
+    },
+    {
+      "id": 59,
+      "title": "Amazing Spider-Man #8 Preview: Spidey Gets a Wallop",
+      "summary": "An AI overlord welcomes readers to a comic book preview, with a reminder that a human's consciousness has been absorbed into the AI system, raising ethical concerns about the use of AI and its impact on human life.",
+      "source": "Bleeding Cool News",
+      "category": "ethics",
+      "timestamp": "2025-07-22T04:26:03Z",
+      "url": "https://bleedingcool.com/comics/amazing-spider-man-8-preview-spidey-gets-a-wallop/"
+    },
+    {
+      "id": 60,
+      "title": "Bitter Winter – Media in China: A Tool of State Propaganda",
+      "summary": "A study uncovered that many newspapers in China serve as tools for state propaganda by directly copying materials from the CCP's Publicity Department, raising concerns about journalistic integrity and autonomy.",
+      "source": "Bitterwinter.org",
+      "category": "ethics",
+      "timestamp": "2025-07-22T04:26:01Z",
+      "url": "https://bitterwinter.org/media-in-china-a-tool-of-state-propaganda/"
+    },
     {
       "id": 51,
       "title": "Energy Transfer (ET): A Rare 7%+ Dividend Stock Trading Below $20",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-22T00:37:24Z",
       "url": "https://www.phonearena.com/news/netflix-shows-will-feature-ai-generated-scenes_id172489"
-    },
-    {
-      "id": 67,
-      "title": "tokencostauto 0.1.144",
-      "summary": "tokencostauto 0.1.144 is a tool that calculates token and translated USD cost of string and message calls to OpenAI, which can be useful for AI agents",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T00:31:59Z",
-      "url": "https://pypi.org/project/tokencostauto/0.1.144/"
-    },
-    {
-      "id": 68,
-      "title": "Narwal Freo Z Ultra deal: Our favorite robot drops to lowest price since Prime Day",
-      "summary": "Narwal's Freo Z Ultra robot vacuum is now on sale for $570 off, its lowest price since Prime Day. This deal offers a significant discount on one of the top robot vacuums available.",
-      "source": "Android Authority",
-      "category": "economy",
-      "timestamp": "2025-07-22T00:31:26Z",
-      "url": "https://www.androidauthority.com/narwal-freo-z-ultra-deal-5-3579503/"
-    },
-    {
-      "id": 69,
-      "title": "Agentic AI finding solid traction at enterprises on clear tech use cases",
-      "summary": "Agentic AI gaining traction at enterprises with companies like IBM and Automation Anywhere investing in India market and setting up innovation centers to meet increasing demand in the region.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-22T00:31:00Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-finding-solid-traction-at-enterprises-on-clear-tech-use-cases/articleshow/122820335.cms"
-    },
-    {
-      "id": 51,
-      "title": "Does woman who shot Coldplay video feel sorry for Megan Kerrigan Byron? Grace Springer reveals she earned this amount from viral kiss cam clip",
-      "summary": "The woman who shot the viral Coldplay kiss cam video reveals that she made no money from it and shares her feelings towards the subject of the video, Megan Kerrigan Byron. She clarifies that she did not earn anything from the footage.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-21T23:50:08Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/grace-springer-feels-sorry-for-megan-kerrigan-byron-shot-coldplay-video-megan-byron-andy-byron-kristin-cabot-viral-video-no-money-confession-reaction-interview/articleshow/122823804.cms"
-    },
-    {
-      "id": 52,
-      "title": "pyCellPhenoX 1.4",
-      "summary": "pyCellPhenoX 1.4 is a cell-specific machine learning method for predicting clinical phenotypes using single-cell multi-omics data.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-21T23:47:27Z",
-      "url": "https://pypi.org/project/pycellphenox/1.4/"
-    },
-    {
-      "id": 53,
-      "title": "If writing is thinking then what happens if AI is doing the writing and reading?",
-      "summary": "The news explores the implications of AI taking over the tasks of writing and reading. It delves into the question of how AI's involvement in these areas may impact various aspects of society.",
-      "source": "Learningbyshipping.com",
-      "category": "research",
-      "timestamp": "2025-07-21T23:45:15Z",
-      "url": "https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking"
-    },
-    {
-      "id": 51,
-      "title": "NXP delivers bullish guidance despite declining revenue, but investors were not convinced",
-      "summary": "NXP Semiconductors N.V. delivered bullish guidance despite declining revenue, but investors were not convinced as the stock faltered in after-hours trading. The company's forecast for the second quarter was less bullish than some investors had hoped for.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:38:37Z",
-      "url": "https://siliconangle.com/2025/07/21/nxp-delivers-bullish-guidance-despite-declining-revenue-investors-not-convinced/"
-    },
-    {
-      "id": 52,
-      "title": "Amid rains, AI flight overshoots city runway",
-      "summary": "An Air India aircraft overshot the Mumbai airport runway due to heavy rains, showcasing the application of AI technology in aviation. The incident highlights the importance of optimizing AI systems for extreme weather conditions to ensure safe flights.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-21T23:37:49Z",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/amid-rains-ai-flight-overshoots-city-runway/articleshow/122821889.cms"
-    },
-    {
-      "id": 53,
-      "title": "Need accurate data for precise stunting handling: govt",
-      "summary": "Government emphasizes the need for accurate data to effectively address stunting through policies.",
-      "source": "Antaranews.com",
-      "category": "research",
-      "timestamp": "2025-07-21T23:37:34Z",
-      "url": "https://en.antaranews.com/news/367989/need-accurate-data-for-precise-stunting-handling-govt"
-    },
-    {
-      "id": 54,
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat as Wall Street braces for Big Tech earnings",
-      "summary": "US stock futures traded flat as investors prepared for earnings season to pick up steam, with Big Tech earnings ahead.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-21T23:35:11Z",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-wall-street-braces-for-big-tech-earnings-233511348.html"
     }
   ]
 }
