@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-23T21:41:06.143Z",
+  "lastUpdate": "2025-07-23T21:51:12.133Z",
   "items": [
+    {
+      "id": 51,
+      "title": "As Oracle’s stock falls in the wake of Stargate developments, here’s one big question for investors",
+      "summary": "Oracle's stock is falling due to Stargate developments, with investors questioning how the company will finance the development of additional AI infrastructure.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-22T21:49:55Z",
+      "url": "https://biztoc.com/x/0010a4c8cc34fa6c"
+    },
+    {
+      "id": 52,
+      "title": "Get the JBL Charge 6 for LESS than $200 with this Offer!",
+      "summary": "The JBL Charge 6 is available for less than $200 with built-in lighting effects and powerful sound.",
+      "source": "Phandroid - News for Android",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:49:13Z",
+      "url": "https://phandroid.com/2025/07/22/get-the-jbl-charge-6-for-less-than-200-with-this-offer/"
+    },
+    {
+      "id": 53,
+      "title": "revenium-mcp 0.1.23",
+      "summary": "Revenium-mcp 0.1.23 released, featuring Model Context Protocol (MCP) server for Revenium API monitoring, analytics, and AI spending management.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-22T21:48:43Z",
+      "url": "https://pypi.org/project/revenium-mcp/0.1.23/"
+    },
+    {
+      "id": 54,
+      "title": "Hopes and Fears for President Trump’s AI Action Plan",
+      "summary": "A look at what Trump’s AI plan could still get right and what we can’t afford to get wrong, focusing on hopes and fears for the future of AI.",
+      "source": "Publicknowledge.org",
+      "category": "ethics",
+      "timestamp": "2025-07-22T21:48:26Z",
+      "url": "https://publicknowledge.org/hopes-and-fears-for-president-trumps-ai-action-plan/"
+    },
+    {
+      "id": 55,
+      "title": "OFA Group Rings Nasdaq Closing Bell and Reaffirms Commitment to $100 Million Bitcoin Strategic Digital Asset Treasury Initiative",
+      "summary": "OFA Group celebrates momentum in AI innovation within architecture, real estate development, and senior care initiatives with Nasdaq Closing Bell ceremony reaffirming commitment to $100 million Bitcoin Strategic Digital Asset Treasury Initiative.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119910/0/en/OFA-Group-Rings-Nasdaq-Closing-Bell-and-Reaffirms-Commitment-to-100-Million-Bitcoin-Strategic-Digital-Asset-Treasury-Initiative.html"
+    },
+    {
+      "id": 56,
+      "title": "AI agent startups are becoming revenue machines — here are the top 20 ranked",
+      "summary": "AI agent startups are becoming revenue machines, rapidly reaching commercial maturity and rewriting the VC funding playbook with consecutive funding rounds.",
+      "source": "Cbinsights.com",
+      "category": "startups",
+      "timestamp": "2025-07-22T21:43:21Z",
+      "url": "https://www.cbinsights.com/research/ai-agent-startups-top-20-revenue/"
+    },
+    {
+      "id": 57,
+      "title": "Abiotic Factor Gets a Massive 1.0 Update for Launch Day",
+      "summary": "Abiotic Factor, a unique co-op survival game, receives a massive 1.0 update for its launch day, offering players a feature-packed full release experience.",
+      "source": "ComicBook.com",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:43:08Z",
+      "url": "http://comicbook.com/gaming/news/abiotic-factor-update-launch-day/"
+    },
+    {
+      "id": 58,
+      "title": "claude-multiagent-pm 1.4.7",
+      "summary": "claued-multiagent-pm 1.4.7 is a framework for AI-driven orchestration in project management, enabling multiple agents to collaborate efficiently. This innovation enhances the way projects are managed and executed with the help of artificial intelligence.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-22T21:42:42Z",
+      "url": "https://pypi.org/project/claude-multiagent-pm/1.4.7/"
+    },
     {
       "id": 51,
       "title": "This $900 million solar farm in Texas is going 100% to data centers",
@@ -378,78 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T20:39:58Z",
       "url": "https://slashdot.org/submission/17338114/nvidias-cuda-platform-now-support-risc-v"
-    },
-    {
-      "id": 58,
-      "title": "AI Boom Keeps Key Power Costs at Record on Largest US Grid",
-      "summary": "AI Boom Keeps Key Power Costs at Record on Largest US Grid, with $16.1 billion being spent to meet demand including that from AI data centers.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:39:51Z",
-      "url": "https://financialpost.com/pmn/business-pmn/ai-boom-keeps-key-power-costs-at-record-on-largest-us-grid"
-    },
-    {
-      "id": 59,
-      "title": "AI Boom Keeps Key Power Costs at Record on Largest US Grid",
-      "summary": "AI boom on largest US grid keeping power costs at record highs to meet demand, including from AI data centers.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-22T20:36:33Z",
-      "url": "https://www.livemint.com/companies/news/ai-boom-keeps-key-power-costs-at-record-on-largest-us-grid-11753216594052.html"
-    },
-    {
-      "id": 60,
-      "title": "Windows 11 KB5062660 update brings new 'Windows Resilience' features",
-      "summary": "Windows 11 KB5062660 update introduces new 'Windows Resilience' features, including the Black Screen of Death and Quick Machine Recovery tool.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-22T20:36:24Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/"
-    },
-    {
-      "id": 61,
-      "title": "OpenAI’s Sam Altman warns of AI voice fraud crisis in banking",
-      "summary": "OpenAI's Sam Altman warns of an AI voice fraud crisis in banking during a Federal Reserve conference in Washington.",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:36:21Z",
-      "url": "https://www.bostonherald.com/2025/07/22/open-ai-altman-voice-fraud-warning/"
-    },
-    {
-      "id": 62,
-      "title": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims",
-      "summary": "Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims, repeating unsubstantiated seditious allegations regarding investigations into Russian election interference.",
-      "source": "Al Jazeera English",
-      "category": "ethics",
-      "timestamp": "2025-07-22T20:36:15Z",
-      "url": "https://www.aljazeera.com/news/2025/7/22/donald-trump-accuses-barack-obama-of-treason-over-2016-election-claims"
-    },
-    {
-      "id": 51,
-      "title": "How To Create AI Voiceovers With Wondershare Filmora’s Text To Speech Feature",
-      "summary": "Creating engaging videos often requires a professional-sounding voiceover, but not everyone has the time, experience, or equipment to record high-quality audio. Wondershare Filmora's Text to Speech AI feature steps in to make life easier by allowing users to create AI voiceovers for their videos.",
-      "source": "redmondpie.com",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:17:25Z",
-      "url": "https://www.redmondpie.com/how-to-create-ai-voiceovers-with-wondershare-filmoras-text-to-speech-feature/"
-    },
-    {
-      "id": 52,
-      "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries - TechCrunch",
-      "summary": "iOS 26 beta 4 includes Liquid Glass tweaks and AI news summaries, enhancing the user experience and providing convenient access to news content.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:15:23Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178441228"
-    },
-    {
-      "id": 53,
-      "title": "Gov quietly launches onshore instance of GPT-4o for APS",
-      "summary": "Gov quietly launches onshore instance of GPT-4o for APS, ahead of new pilot launch.",
-      "source": "iTnews",
-      "category": "applications",
-      "timestamp": "2025-07-22T20:15:00Z",
-      "url": "https://www.itnews.com.au/news/gov-quietly-launches-onshore-instance-of-gpt-4o-for-aps-618944"
     }
   ]
 }
