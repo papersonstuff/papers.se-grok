@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-24T22:16:14.163Z",
+  "lastUpdate": "2025-07-24T22:44:41.251Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Google earnings keep Silicon Valley’s AI flywheel spinning",
+      "summary": "Google's increased capital expenditure on data centres and AI technologies will be about $85bn this year, up from the previous estimate of $75bn, contributing to the growth of the AI industry.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:42:15Z",
+      "url": "https://biztoc.com/x/5d5d0495e08625d1"
+    },
+    {
+      "id": 52,
+      "title": "SecurityPal combines AI and experts in Nepal to speed enterprise security questionnaires by 87X or more",
+      "summary": "SecurityPal in Nepal combines AI and experts to speed up enterprise security questionnaires by 87X and maintain competitive prices.",
+      "source": "VentureBeat",
+      "category": "startups",
+      "timestamp": "2025-07-23T22:41:32Z",
+      "url": "https://venturebeat.com/security/securitypal-combines-ai-and-experts-in-nepal-to-speed-enterprise-security-questionnaires-by-87x-or-more/"
+    },
+    {
+      "id": 53,
+      "title": "AMD CEO Lisa Su Says Sourcing AI Chips From TSMC’s U.S. Plants Is 20% More Expensive, Highlighting the Complications of Building Supply Chains in America",
+      "summary": "AMD CEO Lisa Su highlights the increased cost of sourcing AI chips from TSMC's U.S. plants, showcasing the challenges of building supply chains in America. Despite the high cost, big tech companies have no other choice but to get chips from TSMC's U.S. operations for now.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:41:26Z",
+      "url": "https://wccftech.com/amd-ceo-lisa-su-says-sourcing-ai-chips-from-tsmc-us-plants-is-more-expensive/"
+    },
+    {
+      "id": 54,
+      "title": "Google's AI Is Destroying Search, the Internet, and Your Brain",
+      "summary": "Google's AI is impacting online search behavior, potentially limiting access to diverse sources of information.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:41:23Z",
+      "url": "https://slashdot.org/submission/17338152/googles-ai-is-destroying-search-the-internet-and-your-brain"
+    },
+    {
+      "id": 55,
+      "title": "91% of renewables are cheaper than fossil fuels, but Trump just defunded a vital US grid upgrade",
+      "summary": "91% of renewables are cheaper than fossil fuels according to IRENA, indicating that clean energy is the cheapest power source. However, the defunding of a vital US grid upgrade by Trump could hinder the growth and integration of renewable energy in the country.",
+      "source": "Electrek",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:41:22Z",
+      "url": "http://electrek.co/2025/07/23/91-percent-renewables-cheaper-fossil-fuels-trump-defunded-us-grid-upgrade/"
+    },
+    {
+      "id": 56,
+      "title": "Good Morning, News: Ghislaine Is Back, Obama Conspiracies Are Back, Fires Are Back, Everclear Is Back (Or Did They Ever Go Away?)",
+      "summary": "The news article covers various topics including the return of Ghislaine Maxwell, Obama conspiracies, wildfires, and the band Everclear. The article discusses the diverse range of news and events happening in the current landscape.",
+      "source": "The Portland Mercury",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:41:00Z",
+      "url": "https://www.portlandmercury.com/good-morning-news/2025/07/23/47938929/good-morning-news-ghislaine-is-back-obama-conspiracies-are-back-fires-are-back-everclear-is-back-or-did-they-ever-go-away"
+    },
+    {
+      "id": 57,
+      "title": "RICH Miner launches an upgraded version of XRP cloud mining, allowing you to earn USD from XRP every day",
+      "summary": "RICH Miner launches an upgraded version of XRP cloud mining, allowing you to earn USD from XRP every day.",
+      "source": "Android Headlines",
+      "category": "startups",
+      "timestamp": "2025-07-23T22:37:31Z",
+      "url": "https://www.androidheadlines.com/2025/07/rich-miner-launches-an-upgraded-version-of-xrp-cloud-mining-allowing-you-to-earn-usd-from-xrp-every-day.html"
+    },
+    {
+      "id": 58,
+      "title": "saksin-vect2 0.1.1",
+      "summary": "saksin-vect2 0.1.1 is a Python SDK designed for querying the Saksin AI chunked retrieval API, enabling easier utilization of AI technology for chunked retrieval purposes.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T22:37:15Z",
+      "url": "https://pypi.org/project/saksin-vect2/0.1.1/"
+    },
+    {
+      "id": 59,
+      "title": "Google: AI Overviews Drive 10% More Queries, Per Q2 Earnings via @sejournal, @MattGSouthern",
+      "summary": "Google's Q2 earnings show that AI Overviews are driving over 10% more queries, indicating the innovation in search activity powered by artificial intelligence.",
+      "source": "Search Engine Journal",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:35:15Z",
+      "url": "https://www.searchenginejournal.com/google-ai-overviews-drive-10-more-queries-per-q2-earnings/551927/"
+    },
+    {
+      "id": 60,
+      "title": "Google Earnings, Revenue Top Estimates. Capital Spending Guidance Hiked Amid AI Investments. - Investor's Business Daily",
+      "summary": "Google's earnings and revenue exceeded estimates, and the company increased its capital spending guidance due to investments in AI. This demonstrates a growing focus on AI technologies within Google, which could have a significant impact on the economy.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:35:10Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450644"
+    },
     {
       "id": 51,
       "title": "Health officials urge Tennesseans to protect against mosquitoes & ticks",
@@ -360,96 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T21:13:00Z",
       "url": "https://www.snopes.com//fact-check/stephen-colbert-going-cnn/"
-    },
-    {
-      "id": 57,
-      "title": "Watch: Trump delivers remarks on AI 'action plan' and signs executive orders",
-      "summary": "Trump signs executive orders on AI 'action plan' requiring developers' chatbots to be 'free of ideological bias' for federal contracts.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T21:12:39Z",
-      "url": "https://biztoc.com/x/124235c484c26b65"
-    },
-    {
-      "id": 58,
-      "title": "AI video is invading YouTube Shorts and Google Photos starting today - Ars Technica",
-      "summary": "AI video is now being integrated into YouTube Shorts and Google Photos, offering new creation tools and features for users to transform photos into videos and remix their content.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:12:35Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450060"
-    },
-    {
-      "id": 51,
-      "title": "zagency 0.3.0",
-      "summary": "zagency 0.3.0 is an agentic framework designed for creating AI agents that incorporate large language models (LLMs)",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-23T20:53:34Z",
-      "url": "https://pypi.org/project/zagency/0.3.0/"
-    },
-    {
-      "id": 52,
-      "title": "Trump administration's new artificial intelligence plan focuses on deregulation, beating China",
-      "summary": "Trump administration's AI plan emphasizes deregulation and competition with China.",
-      "source": "ABC News",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:52:47Z",
-      "url": "https://abcnews.go.com/Politics/trump-administrations-new-artificial-intelligence-plan-focuses-deregulation/story?id=124011520"
-    },
-    {
-      "id": 53,
-      "title": "Angry Users Say Google Home Is Getting Buggy – With No Fix in Sight",
-      "summary": "Several users are experiencing issues with their Google Home devices, which have been reported as becoming unreliable and buggy. Google has not addressed the problem yet.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:52:21Z",
-      "url": "https://www.androidheadlines.com/2025/07/angry-users-say-google-home-is-getting-buggy-with-no-fix-in-sight.html"
-    },
-    {
-      "id": 54,
-      "title": "Watch: Trump delivers remarks on AI 'action plan' and signs executive orders",
-      "summary": "Trump delivers remarks on AI 'action plan' which requires chatbots free of ideological bias for federal contracts",
-      "source": "CNBC",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:51:53Z",
-      "url": "https://www.cnbc.com/2025/07/23/trump-ai-artificial-intelligence-executive-orders.html"
-    },
-    {
-      "id": 55,
-      "title": "New Harvey Tools Sniper Drill Press is “AI Powered”",
-      "summary": "Harvey Tools has introduced a new AI-powered drill press called the Sniper Drill Press.",
-      "source": "Toolguyd.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:50:56Z",
-      "url": "https://toolguyd.com/harvey-tools-sniper-drill-press/"
-    },
-    {
-      "id": 56,
-      "title": "Supreme Court Hands Donald Trump 16th Win in a Row",
-      "summary": "The Supreme Court ruled in favor of President Trump removing three Democratic members of the Consumer Product Safety Commission, using AI-generated voices that may contain inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:50:19Z",
-      "url": "https://biztoc.com/x/3337a4b47d87c3e9"
-    },
-    {
-      "id": 57,
-      "title": "Google Gemini Gets a Fresh Look in Web: Redesign Rolling Out",
-      "summary": "Google Gemini on the web is getting a major redesign to clean up the UI and make the user experience even more user-friendly.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:49:50Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-gemini-web-ui-redesign.html"
-    },
-    {
-      "id": 58,
-      "title": "Tesla profits pulled down by falling EV sales and regulatory credits | TechCrunch",
-      "summary": "Tesla profits affected by declining EV sales and regulatory credits, partially offset by growth in services business.",
-      "source": "TechCrunch",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:49:43Z",
-      "url": "https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/"
     }
   ]
 }
