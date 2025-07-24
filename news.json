@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T09:20:59.208Z",
+  "lastUpdate": "2025-07-24T09:45:54.663Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel's chip contracting plan in spotlight on earnings day",
+      "summary": "Intel's chip contracting plan is a focal point during earnings day as shareholders await new CEO's plans to address slumping sales and losses.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:45:33Z",
+      "url": "https://www.channelnewsasia.com/business/intels-chip-contracting-plan-in-spotlight-earnings-day-5253916"
+    },
+    {
+      "id": 52,
+      "title": "Intel's chip contracting plan in spotlight on earnings day",
+      "summary": "Intel's chip contracting plan is under scrutiny following quarterly sales decline and increased losses, with shareholders interested in new CEO's strategy for the company.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:45:33Z",
+      "url": "https://finance.yahoo.com/news/intels-chip-contracting-plan-spotlight-094533913.html"
+    },
+    {
+      "id": 53,
+      "title": "AI legislation in the UK - has anybody seen any?",
+      "summary": "The UK government has not yet implemented any legislation to govern the use of AI, despite promises of consultation and regulation. This delay in addressing the ethical implications of AI could have potential consequences in the future.",
+      "source": "ComputerWeekly.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T09:45:00Z",
+      "url": "https://www.computerweekly.com/opinion/AI-legislation-in-the-UK-has-anybody-seen-any"
+    },
+    {
+      "id": 54,
+      "title": "Kestra Private Wealth Services LLC Acquires 6,112 Shares of Invesco AI and Next Gen Software ETF (NYSEARCA:IGPT)",
+      "summary": "Kestra Private Wealth Services LLC increased its holdings in Invesco AI and Next Gen Software ETF by 22.2% in the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:43:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/kestra-private-wealth-services-llc-acquires-6112-shares-of-invesco-ai-and-next-gen-software-etf-nysearcaigpt/"
+    },
+    {
+      "id": 55,
+      "title": "Marketing That Connects and Converts",
+      "summary": "Talia Wolf is an internationally recognized conversion optimization expert who pioneered emotional targeting in marketing.",
+      "source": "Libsyn.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T09:43:00Z",
+      "url": "https://sites.libsyn.com/18353/marketing-that-connects-and-converts"
+    },
+    {
+      "id": 56,
+      "title": "netra-sdk 0.1.20",
+      "summary": "netra-sdk 0.1.20 is a Python SDK for AI application observability, offering monitoring, tracing, and PII protection for LLM and vector database applications. It enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:42:42Z",
+      "url": "https://pypi.org/project/netra-sdk/0.1.20/"
+    },
+    {
+      "id": 57,
+      "title": "Photos Show US Ally Flexing Missile Power Amid China Threat",
+      "summary": "Japan demonstrated its missile capabilities during live-fire drills in Australia amid China's military threat, showcasing its importance as a US ally in the Western Pacific.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:42:00Z",
+      "url": "https://biztoc.com/x/e7a1dca84779f841"
+    },
+    {
+      "id": 58,
+      "title": "Windows 11 migration is still causing lots of headaches for some firms",
+      "summary": "Windows 11 migration causing issues for businesses due to software compatibility and downtime concerns, with time running out for a smooth transition.",
+      "source": "TechRadar",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:38:19Z",
+      "url": "https://www.techradar.com/pro/windows-11-migration-is-still-causing-lots-of-headaches-for-some-firms"
+    },
+    {
+      "id": 59,
+      "title": "Ensembling Neural Network Models",
+      "summary": "Discover how ensembling enhances neural network performance with step-by-step techniques, key advantages, and limitations.",
+      "source": "Digitalocean.com",
+      "category": "research",
+      "timestamp": "2025-07-23T09:35:08Z",
+      "url": "https://www.digitalocean.com/community/tutorials/ensembling-neural-networks"
+    },
+    {
+      "id": 60,
+      "title": "Csenge Advisory Group Makes New Investment in CrowdStrike (NASDAQ:CRWD)",
+      "summary": "Csenge Advisory Group made a new investment in CrowdStrike during the first quarter by purchasing 605 shares of the company's stock valued at $227,000.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-23T09:34:52Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/csenge-advisory-group-makes-new-investment-in-crowdstrike-nasdaqcrwd/"
+    },
+    {
+      "id": 61,
+      "title": "Indonesia committed to lead AI dialogue with Global South countries",
+      "summary": "Indonesia committed to lead AI dialogue with Global South countries - Deputy Minister of Communication and Digital, Nezar Patria, expressed Indonesia's readiness to lead a dialogue with Global South countries to strengthen AI innovation.",
+      "source": "Antaranews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T09:33:11Z",
+      "url": "https://en.antaranews.com/news/368345/indonesia-committed-to-lead-ai-dialogue-with-global-south-countries"
+    },
+    {
+      "id": 62,
+      "title": "synthetic-graph-benchmarks added to PyPI",
+      "summary": "Standardized benchmarks for evaluating synthetic graph generation methods added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T09:32:57Z",
+      "url": "https://pypi.org/project/synthetic-graph-benchmarks/"
+    },
     {
       "id": 51,
       "title": "dragon-ml-toolbox 4.2.2",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T08:14:51Z",
       "url": "https://www.etfdailynews.com/2025/07/23/insider-selling-salesforce-inc-nysecrm-ceo-sells-2250-shares-of-stock/"
-    },
-    {
-      "id": 59,
-      "title": "Infinix Smart 10 Confirmed to Launch in India on July 25: All Details",
-      "summary": "Infinix Smart 10 will be unveiled in India on July 25 with a 5,000mAh battery. The promotional banner on an e-commerce website has revealed some specifications of the phone.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:14:10Z",
-      "url": "https://www.gadgets360.com/mobiles/news/infinix-smart-10-india-launch-confirmed-july-25-key-specifications-features-flipkart-unisoc-t7250-5000mah-battery-8930697"
-    },
-    {
-      "id": 60,
-      "title": "Trends Shaping the $38.5B Supply Chain Management (SCM) Market 2025-2030 - Asia-Pacific Emerges as Fastest Growing Region for SCM amid Digital Transformation",
-      "summary": "Asia-Pacific is becoming the fastest growing region for supply chain management due to digital transformation, as global trade complexities and multi-country sourcing drive demand for advanced solutions. The fast-moving consumer goods sector is at the forefront, prioritizing speed and efficiency.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-23T08:13:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120023/28124/en/Trends-Shaping-the-38-5B-Supply-Chain-Management-SCM-Market-2025-2030-Asia-Pacific-Emerges-as-Fastest-Growing-Region-for-SCM-amid-Digital-Transformation.html"
-    },
-    {
-      "id": 51,
-      "title": "Arizona State Retirement System Invests $155,000 in BigBear.ai Holdings, Inc. (NYSE:BBAI)",
-      "summary": "Arizona State Retirement System invests $155,000 in BigBear.ai Holdings, Inc. (BBAI), acquiring 54,115 shares of the company's stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:52:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/arizona-state-retirement-system-invests-155000-in-bigbear-ai-holdings-inc-nysebbai/"
-    },
-    {
-      "id": 52,
-      "title": "7,893 Shares in Innodata Inc. (NASDAQ:INOD) Purchased by Arizona State Retirement System",
-      "summary": "Arizona State Retirement System acquired 7,893 shares of Innodata Inc., worth $283,000, in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:52:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/7893-shares-in-innodata-inc-nasdaqinod-purchased-by-arizona-state-retirement-system/"
-    },
-    {
-      "id": 53,
-      "title": "Tensor Processing Unit (TPU) Market Set to Hit USD 24.1 Billion by 2032, Growing at 31.90% CAGR, Fueled by Rapid AI and Machine Learning Adoption | AnalystView Market Insights",
-      "summary": "Tensor Processing Unit (TPU) Market Set to Hit USD 24.1 Billion by 2032, Growing at 31.90% CAGR, Fueled by Rapid AI and Machine Learning Adoption",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120004/0/en/Tensor-Processing-Unit-TPU-Market-Set-to-Hit-USD-24-1-Billion-by-2032-Growing-at-31-90-CAGR-Fueled-by-Rapid-AI-and-Machine-Learning-Adoption-AnalystView-Market-Insights.html"
-    },
-    {
-      "id": 54,
-      "title": "Amazon Acquires Startup That Makes Wearables to Summarise Your Chats",
-      "summary": "Amazon has acquired the San Francisco-based artificial intelligence (AI) startup Bee, which makes wearables to summarise your chats.",
-      "source": "Gadgets360.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T07:49:59Z",
-      "url": "https://www.gadgets360.com/ai/news/amazon-bee-ai-acquisition-wearables-device-summarise-conversations-8930412"
-    },
-    {
-      "id": 55,
-      "title": "Figma, Inc. (FIG) Plans to Raise $979 Million in July 31st IPO",
-      "summary": "Figma, Inc. (FIG) plans to raise $979 million in an initial public offering on Thursday, July 31st, IPO Scoop reports. The company plans to issue 36,937,080 shares at a price of $25.00-$28.00 per share.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-23T07:48:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/figma-inc-fig-plans-to-raise-979-million-in-july-31st-ipo/"
-    },
-    {
-      "id": 56,
-      "title": "Realme Narzo 80 Lite 4G Launched in India With 90Hz Screen, 6,300mAh Battery",
-      "summary": "Realme Narzo 80 Lite 4G launched in India with 90Hz screen and 6,300mAh battery, featuring toned-down specifications to keep pricing affordable.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T07:48:48Z",
-      "url": "https://www.gadgets360.com/mobiles/news/realme-narzo-80-lite-4g-price-in-india-launch-sale-date-features-specifications-8930655"
-    },
-    {
-      "id": 57,
-      "title": "Microsoft Has Finally Unveiled Its Much-Awaited Surface Laptop 5G",
-      "summary": "Microsoft has unveiled the much-awaited Surface Laptop 5G, which is a 5G capable variant of the Surface Laptop 7 for Business with changes to internal components.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T07:44:37Z",
-      "url": "https://www.gadgets360.com/laptops/news/microsoft-surface-laptop-5g-price-in-india-launch-sale-date-features-specifications-8930314"
-    },
-    {
-      "id": 51,
-      "title": "Q1 preview: Infosys may revise FY26 revenue guidance to 1–3% CC growth",
-      "summary": "Infosys may revise FY26 revenue guidance to 1–3% CC growth with a potential 10 basis points dip in margins due to wage hikes and large deal ramp-up.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:18:54Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/q1-preview-infosys-may-revise-fy26-revenue-guidance-to-13-cc-growth/article69807223.ece"
-    },
-    {
-      "id": 52,
-      "title": "Japan leans into homegrown AI amid rising competition",
-      "summary": "Japan is focusing on homegrown AI development to stay competitive in the changing global economy.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:18:13Z",
-      "url": "https://biztoc.com/x/b851b4fca9a483c6"
-    },
-    {
-      "id": 53,
-      "title": "ManageEngine strengthens identity threat defenses",
-      "summary": "ManageEngine enhances identity threat defenses with new features in its IAM platform AD360, enabling security teams to detect privilege escalation risks and secure unmanaged local accounts.",
-      "source": "Help Net Security",
-      "category": "applications",
-      "timestamp": "2025-07-23T07:16:16Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/23/manageengine-ad360/"
     }
   ]
 }
