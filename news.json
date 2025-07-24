@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-24T16:49:28.956Z",
+  "lastUpdate": "2025-07-24T17:16:04.435Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Here's How to Hide AI-Generated Images in Search Results in DuckDuckGo",
+      "summary": "AI-generated images can be hidden in search results using a tool on DuckDuckGo, reducing the prevalence of such images.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:14:38Z",
+      "url": "https://www.cnet.com/tech/services-and-software/heres-how-to-hide-ai-generated-images-in-search-results-in-duckduckgo/"
+    },
+    {
+      "id": 52,
+      "title": "WatchOS 26 public beta could be coming soon - here are the features you'll get",
+      "summary": "WatchOS 26 public beta is expected soon, bringing major updates to Apple Watch for free. The standout features of the latest version include new functionalities for users.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:14:32Z",
+      "url": "https://www.zdnet.com/article/watchos-26-public-beta-could-be-coming-soon-here-are-the-features-youll-get/"
+    },
+    {
+      "id": 53,
+      "title": "TechPowerUp GPU-Z 2.67.0",
+      "summary": "TechPowerUp GPU-Z 2.67.0 is a lightweight system utility that offers important details about your video card and graphics processor.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:14:02Z",
+      "url": "https://www.neowin.net/software/techpowerup-gpu-z-2670/"
+    },
+    {
+      "id": 54,
+      "title": "RFK Jr. Is Letting a Glitch-tastic AI Assistant Help Run the FDA",
+      "summary": "Reliance on AI is causing glitches at the FDA, hindering drug approvals and streamlining. The use of AI in this context raises ethical concerns about the potential risks and consequences of automation in critical decision-making processes.",
+      "source": "The New Republic",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:13:09Z",
+      "url": "https://newrepublic.com/post/198271/robert-f-kennedy-jr-ai-assistant-fda-invent-data"
+    },
+    {
+      "id": 55,
+      "title": "Trump administration unveils plan to ease AI chip exports, loosen environmental rules",
+      "summary": "Trump administration unveils plan to ease AI chip exports and loosen environmental rules in order to accelerate US leadership in the sector.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T17:12:00Z",
+      "url": "https://www.channelnewsasia.com/world/trump-administration-unveils-plan-ease-ai-chip-exports-loosen-environmental-rules-5254756"
+    },
+    {
+      "id": 56,
+      "title": "This congressman wants to ban companies from using your search history to set personalized prices",
+      "summary": "Rep. Greg Casar aims to ban companies from using search history for personalized pricing, denouncing 'surveillance pricing'.",
+      "source": "NBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:11:40Z",
+      "url": "https://www.nbcnews.com/politics/congress/congress-ban-bill-surveillance-pricing-personal-data-rcna219381"
+    },
+    {
+      "id": 57,
+      "title": "From the Editor’s Desk: Microsoft, Consumers, and AI, a Comedy (Premium)",
+      "summary": "Microsoft's history with AI and mobile technology is discussed in relation to the iPhone's release, highlighting the importance of staying innovative in the tech industry.",
+      "source": "Thurrott.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:11:21Z",
+      "url": "https://www.thurrott.com/thurrott-com/from-the-editors-desk/323713/from-the-editors-desk-microsoft-consumers-and-ai-a-comedy"
+    },
+    {
+      "id": 58,
+      "title": "Famitsu review scores for issue 1908",
+      "summary": "Famitsu review scores for issue 1908 reveals no worries for Kaname Date.",
+      "source": "GoNintendo",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:11:00Z",
+      "url": "https://gonintendo.com/contents/51032-famitsu-review-scores-for-issue-1908"
+    },
+    {
+      "id": 59,
+      "title": "Instructure And OpenAI Harness The Power Of AI To Transform Learning",
+      "summary": "Instructure and OpenAI partner to embed powerful AI tools within Canvas LMS, transforming learning by enabling dynamic assignments, rich feedback, and deeper insights.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:10:47Z",
+      "url": "https://www.forbes.com/sites/rayravaglia/2025/07/23/instructure-and-openai-harness-the-power-of-ai-to-transform-learning/"
+    },
+    {
+      "id": 60,
+      "title": "FDA’s New Drug Approval AI Is Generating Fake Studies: Report",
+      "summary": "FDA's new drug approval AI, Elsa, is reportedly generating fake studies instead of making employees better at their jobs.",
+      "source": "Gizmodo.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:10:31Z",
+      "url": "https://gizmodo.com/fdas-new-drug-approval-ai-is-generating-fake-studies-report-2000633153"
+    },
+    {
+      "id": 61,
+      "title": "YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects (Aisha Malik/TechCrunch)",
+      "summary": "YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects.",
+      "source": "Mediagazer.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:10:02Z",
+      "url": "https://mediagazer.com/250723/p14"
+    },
+    {
+      "id": 62,
+      "title": "Exclusive: Sen. Hawley says Congress needs to focus on AI's impact on working class (Josephine Walker/Axios)",
+      "summary": "Sen. Hawley emphasizes the need for Congress to address the impact of AI on the working class, stating that AI has mostly been unbeneficial for Americans.",
+      "source": "Memeorandum.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:10:00Z",
+      "url": "https://www.memeorandum.com/250723/p77"
+    },
+    {
+      "id": 63,
+      "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
+      "summary": "FastVLM: Efficient Vision Encoding for Vision Language Models improves visual understanding in Vision Language Models by enhancing visual token processing.",
+      "source": "Apple Newsroom",
+      "category": "research",
+      "timestamp": "2025-07-23T17:09:47Z",
+      "url": "https://machinelearning.apple.com/research/fast-vision-language-models"
+    },
+    {
+      "id": 64,
+      "title": "Here's What You Need to Know Ahead of Google Parent Alphabet's Earnings Today",
+      "summary": "Google parent Alphabet is set to post second-quarter earnings with investors likely to be watching its cloud.",
+      "source": "Investopedia",
+      "category": "economy",
+      "timestamp": "2025-07-23T17:08:47Z",
+      "url": "https://www.investopedia.com/here-is-what-you-need-to-know-ahead-of-google-parent-alphabet-earnings-today-11777519"
+    },
+    {
+      "id": 65,
+      "title": "Trump just unveiled his plan to put AI in everything",
+      "summary": "Trump unveiled his plan to put AI in everything, focusing on ensuring AI reflects objective truth, slashing regulations, disseminating US AI tools globally, and fast-tracking AI infrastructure.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:07:29Z",
+      "url": "https://www.theverge.com/news/712513/trump-ai-action-plan"
+    },
+    {
+      "id": 66,
+      "title": "'You'd Have to Be Very Skilled to Have A Job': AI Godfather Geoffrey Hinton Predicts Healthcare Will Survive AI Disruption",
+      "summary": "'You'd have to be very skilled to have a job': AI Godfather Geoffrey Hinton predicts healthcare will survive AI disruption by highlighting growing uncertainty about the future of work.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-23T17:07:14Z",
+      "url": "https://biztoc.com/x/ce25da49d261b521"
+    },
+    {
+      "id": 67,
+      "title": "Trump’s AI strategy trades guardrails for growth in race against China",
+      "summary": "Trump's AI strategy focuses on speed, sovereignty, national security, and competitiveness in the race against China.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:07:08Z",
+      "url": "https://biztoc.com/x/9bd1a7f092dc86ff"
+    },
     {
       "id": 51,
       "title": "dv-pipecat-ai 0.0.74.dev594",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T15:50:21Z",
       "url": "https://biztoc.com/x/c6c30a1e44afd3a0"
-    },
-    {
-      "id": 59,
-      "title": "toxic-detection 1.0.4",
-      "summary": "toxic-detection 1.0.4 is an intelligent AI agent that provides real-time content moderation with 97.5% accuracy in detecting toxic content.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:50:13Z",
-      "url": "https://pypi.org/project/toxic-detection/1.0.4/"
-    },
-    {
-      "id": 60,
-      "title": "What’s New: Zerobus and Other Announcements Improve Data Ingestion for Lakeflow Connect",
-      "summary": "Zerobus and other announcements are improving data ingestion for Lakeflow Connect, which is crucial for unlocking valuable insights.",
-      "source": "Databricks.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:50:00Z",
-      "url": "https://www.databricks.com/blog/whats-new-zerobus-and-other-announcements-improve-data-ingestion-lakeflow-connect"
-    },
-    {
-      "id": 61,
-      "title": "Deals: Galaxy Watch 8 $50 off + $50 credit (or FREE with Fold 7), first drops on 2025 Smart Monitors up to $300 off, more",
-      "summary": "Deals on Galaxy devices and smart monitors are being offered with discounts and credits, with limited-time pre-order discounts available for select products.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:49:49Z",
-      "url": "http://9to5google.com/2025/07/23/galaxy-watch-8-free-fold-7-2025-smart-monitors/"
-    },
-    {
-      "id": 62,
-      "title": "Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg's big bet pay off?",
-      "summary": "Alexandr Wang is now leading Meta's AI dream team after building his data-labeling startup, Scale AI, with cofounder Lucy Guo during their time in the Y Combinator startup accelerator.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T15:49:43Z",
-      "url": "https://biztoc.com/x/eed348c01b0f1775"
-    },
-    {
-      "id": 63,
-      "title": "As Palantir Cashes In on Trump 2.0, Peter Thiel Is Bankrolling Republicans Again",
-      "summary": "Peter Thiel, the billionaire tech titan and investor, has resumed making political donations after sitting out the 2024 election cycle.",
-      "source": "Mother Jones",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:49:35Z",
-      "url": "https://www.motherjones.com/politics/2025/07/peter-thiel-republican-donations-palantir-federal-contracts-house-control-trump/"
-    },
-    {
-      "id": 64,
-      "title": "Volunteer's Friend Helps Out at Shelter—Left in Tears by Note in Response",
-      "summary": "The AI-generated voice used by a volunteer to help survivors of trafficking has touched the internet with a heartfelt response. Reddit user u/oddjaqx shared photos of cakes she baked as a gesture of kindness, sparking emotional reactions online.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:49:34Z",
-      "url": "https://biztoc.com/x/a2961f5210399ae4"
-    },
-    {
-      "id": 65,
-      "title": "Uber Makes Major Change to Driver Requests Across US Next Month",
-      "summary": "Uber is launching a new feature in select U.S. cities that will allow women riders and drivers to choose to be matched exclusively with other women, the company announced Tuesday.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:49:24Z",
-      "url": "https://biztoc.com/x/33ec84930444978d"
-    },
-    {
-      "id": 66,
-      "title": "Dachshund Won't Eat Dinner, Great Dane Brother Knows What He Needs To Do",
-      "summary": "In a viral TikTok video, a small dachshund pup refuses to eat his dinner unless his bigger brother tastes it first, and internet users can't cope with the hilarious footage.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:49:10Z",
-      "url": "https://biztoc.com/x/8f5a2a8340709b91"
-    },
-    {
-      "id": 67,
-      "title": "Google, OpenAI models achieve unprecedented results at math competition",
-      "summary": "Google and OpenAI AI models perform well at an international math competition, achieving gold-level scores but not surpassing the top human competitors under 20 years old.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-23T15:48:57Z",
-      "url": "https://biztoc.com/x/c74410bbed06400f"
-    },
-    {
-      "id": 68,
-      "title": "Farmers, Not AI, Power This Underground Dinner Series",
-      "summary": "Farmers, Not AI, Power This Underground Dinner Series in Chicago started by former Eater Young Gun semifinalist Sieger Bayer.",
-      "source": "Eater",
-      "category": "startups",
-      "timestamp": "2025-07-23T15:46:32Z",
-      "url": "https://chicago.eater.com/pop-ups/161120/bar-berria-underground-dinner-series-chicago-sieger-bayer"
-    },
-    {
-      "id": 69,
-      "title": "The Galaxy Z Flip 7 finally gets UWB for precise tracking, but only if you buy this version",
-      "summary": "The Samsung Galaxy Z Flip 7 is the first Flip with UWB, allowing it to precisely locate your car or item trackers, but only in some markets.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:46:30Z",
-      "url": "https://www.androidauthority.com/galaxy-z-flip-7-uwb-3580249/"
-    },
-    {
-      "id": 70,
-      "title": "Five reasons why driverless cars probably won't take over your street any time soon",
-      "summary": "Five reasons why driverless cars probably won't take over your street any time soon - The UK government has launched a consultation on driverless cars, ahead of on-the-road trials of the vehicles next year. It has now been more than a decade since the prospect of driverless cars on public roads emerged, and prototypes and robotaxi fleets such …",
-      "source": "Tech Xplore",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:46:04Z",
-      "url": "https://techxplore.com/news/2025-07-driverless-cars-wont-street.html"
-    },
-    {
-      "id": 51,
-      "title": "Folds slim, still thinks big!",
-      "summary": "The Samsung Galaxy Z Fold7 is a slimmer, more intelligent smartphone with a brighter display, 200 MP camera, and top-notch performance.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:42:00Z",
-      "url": "https://www.thehindubusinessline.com/specials/technophile/folds-slim-still-thinks-big/article69846233.ece"
-    },
-    {
-      "id": 52,
-      "title": "Could Google be working on a more affordable Gemini plan? (APK teardown)",
-      "summary": "Google may be developing a more affordable Gemini plan called 'Google AI Lite' to provide better limits on AI features.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:41:36Z",
-      "url": "https://www.androidauthority.com/google-ai-lite-plan-gemini-apk-teardown-3580206/"
-    },
-    {
-      "id": 53,
-      "title": "Master 14 languages with our exclusive Babbel coupon",
-      "summary": "Master 14 languages with our exclusive Babbel coupon - Learning a new language doesn’t have to mean expensive classes or clunky software. With this deal on Babbel, you can explore up to 14 languages on your own time — and on any device.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:40:58Z",
-      "url": "http://9to5toys.com/2025/07/23/master-14-languages-with-our-exclusive-babbel-coupon/"
-    },
-    {
-      "id": 54,
-      "title": "生成AI ウェビナーWEEK！加速する業務効率化と生成AI活用！LLM・RAGなど最新の活用事例を4社が徹底解説！",
-      "summary": "A webinar week focusing on the use of generative AI for business efficiency, with four companies presenting examples of LLM, RAG, and other latest applications.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:40:01Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000581.000053344.html"
-    },
-    {
-      "id": 55,
-      "title": "Absorb Software’s 2025 Upskilling Report Reveals Execution Gap, Underscores Strategic Learning as Key to Business Growth",
-      "summary": "Absorb Software’s 2025 Upskilling Report highlights an execution gap and emphasizes strategic learning as crucial for business growth.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-23T15:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120504/0/en/Absorb-Software-s-2025-Upskilling-Report-Reveals-Execution-Gap-Underscores-Strategic-Learning-as-Key-to-Business-Growth.html"
     }
   ]
 }
