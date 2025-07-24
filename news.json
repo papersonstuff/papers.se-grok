@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-24T03:14:28.062Z",
+  "lastUpdate": "2025-07-24T04:09:05.652Z",
   "items": [
+    {
+      "id": 51,
+      "title": "To beat the AI squeeze, Newsweek is building revenue beyond traffic",
+      "summary": "Newsweek is diversifying revenue streams beyond traffic by launching subscription products and expanding non-advertising streams to prepare for AI answer engines potentially reducing publisher traffic.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:08:39Z",
+      "url": "https://biztoc.com/x/0fc2635a5644f76b"
+    },
+    {
+      "id": 52,
+      "title": "Eclipse GLSP 2025.07 Progress",
+      "summary": "The Eclipse GLSP 2025.07 Progress includes a yearly progress review scheduled by the EMO on behalf of the project team.",
+      "source": "Eclipse.org",
+      "category": "research",
+      "timestamp": "2025-07-23T04:07:40Z",
+      "url": "https://projects.eclipse.org/projects/ecd.glsp/reviews/eclipse-glsp-2025.07-progress-review"
+    },
+    {
+      "id": 53,
+      "title": "Eclipse Hono 2025.07 Progress",
+      "summary": "Eclipse Hono 2025.07 Progress - The EMO is scheduling a yearly progress review on behalf of the project team.",
+      "source": "Eclipse.org",
+      "category": "research",
+      "timestamp": "2025-07-23T04:07:40Z",
+      "url": "https://projects.eclipse.org/projects/iot.hono/reviews/eclipse-hono-2025.07-progress-review"
+    },
+    {
+      "id": 54,
+      "title": "What is an Infographic? Infographic Definition, Key Elements & Applications in Digital Marketing",
+      "summary": "Discover what an infographic is, its core components, and how infographics drive brand visibility and engagement in digital marketing and AI search optimization.",
+      "source": "Geneo.app",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:06:40Z",
+      "url": "https://geneo.app/blog/infographic-definition-digital-marketing/"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI Sam Altman Claim About 1 Million GPUs Are Not One Data Center",
+      "summary": "OpenAI Sam Altman claims to bring well over 1 million GPUs online by the end of the year, spread out across multiple partnerships and locations.",
+      "source": "Next Big Future",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:04:43Z",
+      "url": "https://www.nextbigfuture.com/2025/07/openai-sam-altman-claim-about-1-million-gpus-are-not-one-data-center.html"
+    },
+    {
+      "id": 56,
+      "title": "No Catching Up To You; CTV’s Awkward Years",
+      "summary": "The June edition of Nielsen's Media Distributor, Gauge, ranks Netflix in the top three channels in terms of streaming and linear TV attention for the first time, based on views in the US on a TV set.",
+      "source": "AdExchanger",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:03:59Z",
+      "url": "http://www.adexchanger.com/daily-news-roundup/wednesday-23072025/"
+    },
+    {
+      "id": 57,
+      "title": "Future of TV Briefing: CTV ad buyers say ‘the math isn’t mathing’ with sell-side shadiness, ad tech fees",
+      "summary": "Future of TV Briefing recaps brand and agency executives' feedback on CTV ad buying at recent event in NYC.",
+      "source": "Digiday",
+      "category": "research",
+      "timestamp": "2025-07-23T04:01:00Z",
+      "url": "http://digiday.com/future-of-tv/future-of-tv-briefing-ctv-ad-buyers-say-the-math-isnt-mathing-with-sell-side-shadiness-ad-tech-fees/"
+    },
+    {
+      "id": 58,
+      "title": "To beat the AI squeeze, Newsweek is building revenue beyond traffic",
+      "summary": "Newsweek is working to reduce its reliance on digital ads by building revenue sources beyond traffic in order to beat the AI squeeze.",
+      "source": "Digiday",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:01:00Z",
+      "url": "http://digiday.com/media/to-beat-the-ai-squeeze-newsweek-is-building-revenue-beyond-traffic/"
+    },
+    {
+      "id": 59,
+      "title": "The fraud trends shaping 2025: Pressure builds on online retailers",
+      "summary": "Fraud is growing faster than revenue in eCommerce, putting pressure on online retailers. The rise in fraud trends is a wake-up call for eCommerce leaders to address this issue.",
+      "source": "Help Net Security",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:00:29Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/23/biggest-fraud-trends-2025/"
+    },
+    {
+      "id": 60,
+      "title": "Why AI offers hope for the Welfare State",
+      "summary": "AI offers hope for the Welfare State in Europe by presenting a new opportunity to exploit productivity gains. The technological advances of today offer a chance for Europe to capitalize on the potential benefits.",
+      "source": "EURACTIV",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:00:04Z",
+      "url": "https://www.euractiv.com/section/politics/opinion/why-ai-offers-hope-for-the-welfare-state/"
+    },
+    {
+      "id": 61,
+      "title": "Why AI offers hope for the Welfare State",
+      "summary": "AI offers hope for the Welfare State in Europe as technological advances present another chance to capitalize on productivity gains, after failing to do so during the internet revolution of the late 1990s.",
+      "source": "EURACTIV",
+      "category": "economy",
+      "timestamp": "2025-07-23T04:00:04Z",
+      "url": "https://www.euractiv.com/section/tech/opinion/why-ai-offers-hope-for-the-welfare-state/"
+    },
+    {
+      "id": 62,
+      "title": "Israel’s enemies turned the word ‘genocide’ into a battle cry against the Jews",
+      "summary": "Israel’s enemies are using the word 'genocide' as a battle cry against the Jews, highlighting the importance of ethical considerations in language and discourse.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/israel_s_enemies_turned_the_word_genocide_into_a_battle_cry_against_the_jews.html"
+    },
+    {
+      "id": 63,
+      "title": "Poll: 60% of Gen Z kids like socialism, 34% like communism",
+      "summary": "Poll reveals 60% of Gen Z kids have a favorable view of socialism, while 34% like communism.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/poll_60_of_gen_z_kids_like_socialism_34_like_communism.html"
+    },
+    {
+      "id": 64,
+      "title": "‘Trans’ school employee who preyed on young girls now revealed to have sent homemade porn to school board mom for his ‘fetish’",
+      "summary": "'Trans' school employee who preyed on young girls revealed to have sent homemade porn to school board mom for his 'fetish'. If your entire identity is defined by abnormal and perverse sexual proclivities and behaviors, you’re going to be a sex pest.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/trans_school_employee_who_preyed_on_young_girls_now_revealed_to_have_sent_homemade_porn_to_school_board_mom_for_his_fetish.html"
+    },
+    {
+      "id": 65,
+      "title": "Jewish History and Zohran Mamdani",
+      "summary": "Jewish History and Zohran Mamdani's rise is seen as a reminder of the irrational hatred towards Jews. Mahmood Mamdani, the father of Zohran, is also mentioned in relation to this issue.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/articles/2025/07/jewish_history_and_zohran_mamdani.html"
+    },
+    {
+      "id": 66,
+      "title": "Minnesota: not so nice anymore",
+      "summary": "Minnesota working on new tourism slogans which involve humor and creativity.",
+      "source": "Americanthinker.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/minnesota_not_so_nice_anymore.html"
+    },
+    {
+      "id": 67,
+      "title": "Business resilience needs comprehensive approach",
+      "summary": "Business resilience requires a comprehensive approach beyond cyber security basics as demonstrated by the cyber attack on Marks & Spencer.",
+      "source": "ComputerWeekly.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.computerweekly.com/feature/Business-resilience-needs-comprehensive-approach"
+    },
+    {
+      "id": 68,
+      "title": "The intelligence community’s harassment of Trump has an eerie (and recognizable) ring to it",
+      "summary": "The intelligence community's harassment of Trump has similarities to the harassment Martin Luther King Jr. faced, where efforts were made to discredit and smear their reputations.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/the_intelligence_community_s_harassment_of_trump_has_an_eerie_and_recognizable_ring_to_it.html"
+    },
+    {
+      "id": 69,
+      "title": "aider-code added to PyPI",
+      "summary": "Aider-code, an AI pair programming tool, has been added to PyPI. It allows for AI programming assistance within the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T03:59:45Z",
+      "url": "https://pypi.org/project/aider-code/"
+    },
     {
       "id": 51,
       "title": "Comfort Systems (FIX) To Report Earnings Tomorrow: Here Is What To Expect",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T00:45:00Z",
       "url": "https://www.thehindubusinessline.com/opinion/whats-the-right-closing-price/article69843776.ece"
-    },
-    {
-      "id": 51,
-      "title": "AI Grille Luxury Vans - FX Super One EV makes communication a Focus with an LED grille (TrendHunter.com)",
-      "summary": "AI Grille Luxury Vans - FX Super One EV makes communication a Focus with an LED grille, aiming to redefine the luxury electric minivan by turning its front into a canvas for personality.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:51:06Z",
-      "url": "https://www.trendhunter.com/trends/fx-super-one"
-    },
-    {
-      "id": 52,
-      "title": "Nvidia's CUDA Platform Now Support RISC-V",
-      "summary": "Nvidia announced at the 2025 RISC-V Summit in China that its CUDA software platform will now be compatible with the RISC-V instruction set architecture on the CPU side of things, expanding its support to a new platform.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:50:00Z",
-      "url": "https://hardware.slashdot.org/story/25/07/22/2042234/nvidias-cuda-platform-now-support-risc-v"
-    },
-    {
-      "id": 53,
-      "title": "testteller 2.0.0",
-      "summary": "Testteller 2.0.0 is an AI-powered test agent that automates test case generation using RAG & GenAI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T23:48:43Z",
-      "url": "https://pypi.org/project/testteller/2.0.0/"
-    },
-    {
-      "id": 54,
-      "title": "New Neighbor Spreads Affair Rumors, Misses One Crucial Detail: 'Obviously Embarrassed'",
-      "summary": "Neighbor spreads affair rumors based on misidentification, highlighting ethical concerns around spreading false information in a community.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-22T23:45:01Z",
-      "url": "https://www.newsweek.com/new-neighbor-spreads-affair-rumors-misses-one-crucial-detail-obviously-embarrassed-2101952"
-    },
-    {
-      "id": 55,
-      "title": "$37.16 Empire of the Ants @epicgames",
-      "summary": "$37.16 Empire of the Ants @epicgames - Conquer enemy nests and lead your colony through the perils of the forest in this groundbreaking RTS. Empire of the Ants is a photorealistic, third-person real-time strategy game where you command …",
-      "source": "Ozbargain.com.au",
-      "category": "applications",
-      "timestamp": "2025-07-22T23:44:18Z",
-      "url": "https://www.ozbargain.com.au/node/916635"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears",
-      "summary": "OpenAI sweet-talks Oracle into another 4.5GW worth of datacenters for their Stargate initiative, with CEO Sam Altman leading the charge.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:41:11Z",
-      "url": "https://biztoc.com/x/dfb63cb06ac2fa1c"
-    },
-    {
-      "id": 51,
-      "title": "OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears",
-      "summary": "OpenAI CEO convinces Oracle to bring 4.5GW of datacenter capacity online in the US for Stargate initiative.",
-      "source": "Theregister.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:36:39Z",
-      "url": "https://www.theregister.com/2025/07/22/openai_oracle_gpus/"
-    },
-    {
-      "id": 52,
-      "title": "Magentic Raises $5.5 Million for AI Agents for Supply Chains",
-      "summary": "Magentic raised $5.5 million in funding to accelerate its AI agent platform for supply chains, which aims to find opportunities for savings in global manufacturing. The platform can be deployed to help companies streamline operations and reduce costs.",
-      "source": "pymnts.com",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:35:09Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/magentic-raises-5-5-million-for-ai-agents-for-supply-chains/"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: I built a tool that automates cold DMs on Twitter",
-      "summary": "Show HN: A tool called DMpro automates cold DMs on Twitter, allowing users to send 500 messages daily to leads. The tool helps scrape leads and run automated campaigns, with a lifetime access option available for $299.",
-      "source": "Dmpro.ai",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:32:56Z",
-      "url": "https://www.dmpro.ai/"
-    },
-    {
-      "id": 54,
-      "title": "“I Am the Gap Between Knowing and Saying”: The En Dash Responds to the Em Dash",
-      "summary": "A response by the En Dash to the Em Dash, expressing its role as the gap between knowing and saying. The En Dash reflects on serving between various entities and objects, highlighting its unique purpose.",
-      "source": "Mcsweeneys.net",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:31:00Z",
-      "url": "https://www.mcsweeneys.net/articles/i-am-the-gap-between-knowing-and-saying-the-en-dash-responds-to-the-em-dash"
-    },
-    {
-      "id": 55,
-      "title": "Donald Trump Reacts To Newly-Surfaced Photos With Jeffrey Epstein",
-      "summary": "President Donald Trump responds to newly-surfaced photos with Jeffrey Epstein at his 1993 wedding, raising ethical concerns and questions about their past relationship.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T23:30:21Z",
-      "url": "https://biztoc.com/x/0dbf8d274cc272ed"
-    },
-    {
-      "id": 56,
-      "title": "AI demand drives up electricity supply costs in largest US market to record high",
-      "summary": "AI demand drives up electricity supply costs in largest US market, causing grid operator PJM to pay 10% more to meet soaring energy needs",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-22T23:30:11Z",
-      "url": "https://biztoc.com/x/856a6c31568ecac9"
-    },
-    {
-      "id": 57,
-      "title": "News 7/23/25",
-      "summary": "The Senate Appropriations Committee approves a bill related to AI",
-      "source": "Histalk2.com",
-      "category": "research",
-      "timestamp": "2025-07-22T23:28:50Z",
-      "url": "https://histalk2.com/2025/07/22/news-7-23-25/"
-    },
-    {
-      "id": 58,
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as US-Japan breakthrough boosts deal hopes, with Tesla and Google on deck",
-      "summary": "Stock market futures rise following US-Japan breakthrough, with investors looking forward to earnings reports from Tesla and Google-parent Alphabet.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T23:26:47Z",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-us-japan-breakthrough-boosts-deal-hopes-with-tesla-and-google-on-deck-232647468.html"
-    },
-    {
-      "id": 51,
-      "title": "coppersun-brass 2.3.26",
-      "summary": "Coppersun-brass 2.3.26 is a new development intelligence tool for AI agents in the Copper Sun product line, aimed at improving AI capabilities and performance.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:15:57Z",
-      "url": "https://pypi.org/project/coppersun-brass/2.3.26/"
-    },
-    {
-      "id": 52,
-      "title": "Proton is launching a privacy-focused AI chatbot",
-      "summary": "Proton has launched a privacy-focused AI chatbot called Lumo, which aims to preserve user privacy by storing data locally. The chatbot can perform tasks like document summarization, code generation, and email writing.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-22T23:12:40Z",
-      "url": "https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot"
-    },
-    {
-      "id": 53,
-      "title": "To plug New York’s massive budget gaps, Gov. Hochul should focus on growing the economy for a change",
-      "summary": "To address New York's budget gaps, Gov. Hochul is focusing on growing the economy by directing state agencies to cut $750 million in spending after President Trump's federal budget restructuring affected her $254 billion spending plan.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-22T23:10:29Z",
-      "url": "https://nypost.com/2025/07/22/opinion/to-plug-new-yorks-massive-budget-gaps-gov-hochul-should-focus-on-growing-the-economy/"
-    },
-    {
-      "id": 54,
-      "title": "llmaid 0.1.0",
-      "summary": "llmaid 0.1.0 is a zero‑dependency wrapper that simplifies the process of turning any OpenAI‑compatible endpoint into a hackable one‑liner.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:10:18Z",
-      "url": "https://pypi.org/project/llmaid/"
-    },
-    {
-      "id": 55,
-      "title": "uniception 0.1.3",
-      "summary": "uniception 0.1.3 is a generalizable perception stack designed for 3D, 4D, spatial AI and scene understanding.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:10:03Z",
-      "url": "https://pypi.org/project/uniception/0.1.3/"
     }
   ]
 }
