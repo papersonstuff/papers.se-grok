@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-24T11:14:37.466Z",
+  "lastUpdate": "2025-07-24T11:32:20.180Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Moral Education in the Age of AI: Are We Raising Good Humans?",
+      "summary": "AI tools are transforming how children learn — but will they still know why to be good?",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T11:31:20Z",
+      "url": "https://www.lesswrong.com/posts/AgRrDbvdjmjmqSkEp/moral-education-in-the-age-of-ai-are-we-raising-good-humans-1"
+    },
+    {
+      "id": 52,
+      "title": "Firefox 141 relieves chronic Linux pain in the neck",
+      "summary": "Firefox 141 relieves chronic Linux pain in the neck with its latest web browser version, making AI integration more pervasive.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:31:12Z",
+      "url": "https://www.theregister.com/2025/07/23/firefox_141_relieves_linux_pain/"
+    },
+    {
+      "id": 53,
+      "title": "CryptoBatz NFTs prices surge by more than 400% following Ozzy Osbourne’s death",
+      "summary": "CryptoBatz NFTs prices surge by more than 400% following Ozzy Osbourne’s death",
+      "source": "Coinjournal.net",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:30:44Z",
+      "url": "https://coinjournal.net/news/cryptobatz-nfts-prices-surge-by-more-than-400-following-ozzy-osbournes-death/"
+    },
+    {
+      "id": 54,
+      "title": "Yes, you can disable Gemini permissions on your Android phone — here’s how",
+      "summary": "Concerned about Gemini permissions on your Android phone? Don't worry, you can easily disable them with these steps.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:30:34Z",
+      "url": "https://www.androidauthority.com/yes-you-can-disable-gemini-permissions-on-your-android-phone-how-3579888/"
+    },
+    {
+      "id": 55,
+      "title": "Why LLMs Might Finally Be Good News for Premium Publishers",
+      "summary": "New ad formats tailored for AI environments are being tested, potentially offering good news for premium publishers.",
+      "source": "Adweek",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:30:32Z",
+      "url": "https://www.adweek.com/media/why-llms-might-finally-be-good-news-for-premium-publishers/"
+    },
+    {
+      "id": 56,
+      "title": "iPhone 17 Rumors: Everything to Know, From a Slim 'Air' Model to Fresh Colors",
+      "summary": "Apple's rumored iPhone 17 lineup may include a redesigned camera bump, higher refresh rate, and improved battery life, showcasing innovation in smartphone technology.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:30:28Z",
+      "url": "https://www.cnet.com/tech/mobile/iphone-17-rumors-everything-to-know-from-a-slim-air-model-to-fresh-colors/"
+    },
+    {
+      "id": 57,
+      "title": "I Played ‘Cyberpunk 2077’ on Mac and It Feels Perilously Close to PC Gaming",
+      "summary": "Mac users can now play 'Cyberpunk 2077' with graphics settings similar to PC gaming, requiring adjustment to settings like PC gamers.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:30:24Z",
+      "url": "https://gizmodo.com/cyberpunk-2077-makes-the-future-of-mac-gaming-look-a-lot-like-a-pc-2000632203"
+    },
+    {
+      "id": 58,
+      "title": "Xperia 1 VII vs Pixel 9 Pro vs. iPhone 16 Pro Max: The Blind Camera Shootout",
+      "summary": "Smartphone photography is evolving with the Xperia 1 VII, Pixel 9 Pro, and iPhone 16 Pro Max competing in a blind camera shootout, showcasing the latest advancements in camera technology and software innovations.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:30:15Z",
+      "url": "https://www.geeky-gadgets.com/xperia-1-vii-vs-pixel-9-pro-vs-iphone-16-pro-max/"
+    },
+    {
+      "id": 59,
+      "title": "NextGen Digital Platforms Inc. Appoints Mahyar Akhbari to the Advisor Board",
+      "summary": "NextGen Digital Platforms Inc. appoints Mahyar Akhbari to the Advisor Board, aiming to bridge traditional capital markets with Web3 infrastructure.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-23T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120129/0/en/NextGen-Digital-Platforms-Inc-Appoints-Mahyar-Akhbari-to-the-Advisor-Board.html"
+    },
+    {
+      "id": 60,
+      "title": "Rekor Systems to Announce Second Quarter Fiscal 2025 Results",
+      "summary": "Rekor Systems is set to announce their second quarter fiscal 2025 results and will host an earnings call on August 12, 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120119/0/en/Rekor-Systems-to-Announce-Second-Quarter-Fiscal-2025-Results.html"
+    },
+    {
+      "id": 61,
+      "title": "mattergen added to PyPI",
+      "summary": "MatterGen, a generative model for inorganic materials design, has been added to PyPI. It can be fine-tuned to meet various property constraints.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T11:25:07Z",
+      "url": "https://pypi.org/project/mattergen/"
+    },
+    {
+      "id": 62,
+      "title": "Bitget Partners with KOL to Drive Blockchain and AI Growth in Southeast Asia",
+      "summary": "Bitget partners with KOL to drive blockchain and AI growth in Southeast Asia through a summit",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:24:28Z",
+      "url": "https://financialpost.com/globe-newswire/bitget-partners-with-kol-to-drive-blockchain-and-ai-growth-in-southeast-asia"
+    },
+    {
+      "id": 63,
+      "title": "Qwen 3 vs Kimi K2 : Which AI Model is Better? Precision vs Versatility",
+      "summary": "The debate between Qwen 3 vs Kimi K2 focuses on whether specialized precision or versatile adaptability makes an AI model exceptional. This comparison highlights the ongoing research in the field of artificial intelligence.",
+      "source": "Geeky Gadgets",
+      "category": "research",
+      "timestamp": "2025-07-23T11:23:57Z",
+      "url": "https://www.geeky-gadgets.com/qwen-3-vs-kimi-k2-ai-models-compared/"
+    },
+    {
+      "id": 64,
+      "title": "Windows 11 just got a wave of AI features — one Snipping Tool addition makes me want a Copilot+ PC",
+      "summary": "Windows 11 introduces new AI features, including updates to Click to Do, Relight in Photos, and Perfect screenshot, with some exclusive to Copilot+ PCs.",
+      "source": "Windows Central",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:23:52Z",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-just-got-a-wave-of-ai-features-one-snipping-tool-addition-makes-me-want-a-copilot-pc"
+    },
+    {
+      "id": 65,
+      "title": "Europe Can Build Its Own Social Media",
+      "summary": "Europe can build its own social media platforms using open-source frameworks to improve digital sovereignty and reduce dependency on Big Tech.",
+      "source": "Project Syndicate",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:23:04Z",
+      "url": "https://www.project-syndicate.org/commentary/europe-can-build-own-social-media-on-at-protocol-by-sebastian-vogelsang-2025-07"
+    },
+    {
+      "id": 66,
+      "title": "Addicted to every possibility",
+      "summary": "Understanding the dangers of becoming too reliant on AI for creative decision-making and the importance of setting constraints to guide the process.",
+      "source": "Nathanbeck.eu",
+      "category": "ethics",
+      "timestamp": "2025-07-23T11:23:03Z",
+      "url": "https://nathanbeck.eu/essays/addicted-to-every-possibility/"
+    },
+    {
+      "id": 67,
+      "title": "Stargate is back on - OpenAI and Oracle unveil massive data center expansion plans in major AI push",
+      "summary": "OpenAI and Oracle announce plans to expand data centers for Project Stargate, with the first site already partially operational in Texas.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:23:00Z",
+      "url": "https://www.techradar.com/pro/stargate-is-back-on-openai-and-oracle-unveil-massive-data-center-expansion-plans-in-major-ai-push"
+    },
+    {
+      "id": 68,
+      "title": "Bitget Partners with KOL to Drive Blockchain and AI Growth in Southeast Asia",
+      "summary": "Bitget partners with KOL Pushpendra to drive blockchain and AI growth in Southeast Asia, focusing on Malaysia.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-23T11:23:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120115/0/en/Bitget-Partners-with-KOL-to-Drive-Blockchain-and-AI-Growth-in-Southeast-Asia.html"
+    },
+    {
+      "id": 69,
+      "title": "Floodbase unveils real-time flood mapping technology in US",
+      "summary": "Floodbase unveils real-time flood mapping technology in US, providing up-to-date information on flooding for stakeholders including government bodies and insurance companies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:22:56Z",
+      "url": "https://biztoc.com/x/c1fd8be06eed00a3"
+    },
     {
       "id": 51,
       "title": "Rivian to expand autonomous driving efforts in London",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T10:14:58Z",
       "url": "https://www.etfdailynews.com/2025/07/23/new-york-state-common-retirement-fund-lowers-holdings-in-globant-s-a-nyseglob/"
-    },
-    {
-      "id": 57,
-      "title": "Kestra Private Wealth Services LLC Has $1.95 Million Stock Holdings in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ)",
-      "summary": "Kestra Private Wealth Services LLC increased its stock holdings in Global X Artificial Intelligence & Technology ETF by 38.7% during the 1st quarter, according to recent filings with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:14:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/kestra-private-wealth-services-llc-has-1-95-million-stock-holdings-in-global-x-artificial-intelligence-technology-etf-nasdaqaiq/"
-    },
-    {
-      "id": 58,
-      "title": "Infosys Q1 Results: Profit rises 9% YoY to Rs 6,921 crore, revenue up 8%",
-      "summary": "Infosys reports 9% YoY growth in profit to Rs 6,921 crore and 8% YoY increase in revenue to Rs 42,279 crore in Q1 results.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:13:14Z",
-      "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-q1-results-profit-rises-9-yoy-to-rs-6921-crore-revenue-up-8/articleshow/122857340.cms"
-    },
-    {
-      "id": 59,
-      "title": "AI News Digest - Artifisial Delivers Indonesia’s Weekly AI-Focused Newsletter (TrendHunter.com)",
-      "summary": "Artifisial.com delivers a weekly newsletter focused on artificial intelligence, catering to the rapid evolution of AI technology in Indonesia.",
-      "source": "Trendhunter.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T10:13:06Z",
-      "url": "https://www.trendhunter.com/trends/artifisial"
-    },
-    {
-      "id": 51,
-      "title": "Intel's chip contracting plan in spotlight on earnings day",
-      "summary": "Intel's chip contracting plan is a focal point during earnings day as shareholders await new CEO's plans to address slumping sales and losses.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:45:33Z",
-      "url": "https://www.channelnewsasia.com/business/intels-chip-contracting-plan-in-spotlight-earnings-day-5253916"
-    },
-    {
-      "id": 52,
-      "title": "Intel's chip contracting plan in spotlight on earnings day",
-      "summary": "Intel's chip contracting plan is under scrutiny following quarterly sales decline and increased losses, with shareholders interested in new CEO's strategy for the company.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:45:33Z",
-      "url": "https://finance.yahoo.com/news/intels-chip-contracting-plan-spotlight-094533913.html"
-    },
-    {
-      "id": 53,
-      "title": "AI legislation in the UK - has anybody seen any?",
-      "summary": "The UK government has not yet implemented any legislation to govern the use of AI, despite promises of consultation and regulation. This delay in addressing the ethical implications of AI could have potential consequences in the future.",
-      "source": "ComputerWeekly.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T09:45:00Z",
-      "url": "https://www.computerweekly.com/opinion/AI-legislation-in-the-UK-has-anybody-seen-any"
-    },
-    {
-      "id": 54,
-      "title": "Kestra Private Wealth Services LLC Acquires 6,112 Shares of Invesco AI and Next Gen Software ETF (NYSEARCA:IGPT)",
-      "summary": "Kestra Private Wealth Services LLC increased its holdings in Invesco AI and Next Gen Software ETF by 22.2% in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:43:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/kestra-private-wealth-services-llc-acquires-6112-shares-of-invesco-ai-and-next-gen-software-etf-nysearcaigpt/"
-    },
-    {
-      "id": 55,
-      "title": "Marketing That Connects and Converts",
-      "summary": "Talia Wolf is an internationally recognized conversion optimization expert who pioneered emotional targeting in marketing.",
-      "source": "Libsyn.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T09:43:00Z",
-      "url": "https://sites.libsyn.com/18353/marketing-that-connects-and-converts"
-    },
-    {
-      "id": 56,
-      "title": "netra-sdk 0.1.20",
-      "summary": "netra-sdk 0.1.20 is a Python SDK for AI application observability, offering monitoring, tracing, and PII protection for LLM and vector database applications. It enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:42:42Z",
-      "url": "https://pypi.org/project/netra-sdk/0.1.20/"
-    },
-    {
-      "id": 57,
-      "title": "Photos Show US Ally Flexing Missile Power Amid China Threat",
-      "summary": "Japan demonstrated its missile capabilities during live-fire drills in Australia amid China's military threat, showcasing its importance as a US ally in the Western Pacific.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:42:00Z",
-      "url": "https://biztoc.com/x/e7a1dca84779f841"
-    },
-    {
-      "id": 58,
-      "title": "Windows 11 migration is still causing lots of headaches for some firms",
-      "summary": "Windows 11 migration causing issues for businesses due to software compatibility and downtime concerns, with time running out for a smooth transition.",
-      "source": "TechRadar",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:38:19Z",
-      "url": "https://www.techradar.com/pro/windows-11-migration-is-still-causing-lots-of-headaches-for-some-firms"
-    },
-    {
-      "id": 59,
-      "title": "Ensembling Neural Network Models",
-      "summary": "Discover how ensembling enhances neural network performance with step-by-step techniques, key advantages, and limitations.",
-      "source": "Digitalocean.com",
-      "category": "research",
-      "timestamp": "2025-07-23T09:35:08Z",
-      "url": "https://www.digitalocean.com/community/tutorials/ensembling-neural-networks"
-    },
-    {
-      "id": 60,
-      "title": "Csenge Advisory Group Makes New Investment in CrowdStrike (NASDAQ:CRWD)",
-      "summary": "Csenge Advisory Group made a new investment in CrowdStrike during the first quarter by purchasing 605 shares of the company's stock valued at $227,000.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-23T09:34:52Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/csenge-advisory-group-makes-new-investment-in-crowdstrike-nasdaqcrwd/"
-    },
-    {
-      "id": 61,
-      "title": "Indonesia committed to lead AI dialogue with Global South countries",
-      "summary": "Indonesia committed to lead AI dialogue with Global South countries - Deputy Minister of Communication and Digital, Nezar Patria, expressed Indonesia's readiness to lead a dialogue with Global South countries to strengthen AI innovation.",
-      "source": "Antaranews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T09:33:11Z",
-      "url": "https://en.antaranews.com/news/368345/indonesia-committed-to-lead-ai-dialogue-with-global-south-countries"
-    },
-    {
-      "id": 62,
-      "title": "synthetic-graph-benchmarks added to PyPI",
-      "summary": "Standardized benchmarks for evaluating synthetic graph generation methods added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T09:32:57Z",
-      "url": "https://pypi.org/project/synthetic-graph-benchmarks/"
-    },
-    {
-      "id": 51,
-      "title": "dragon-ml-toolbox 4.2.2",
-      "summary": "dragon-ml-toolbox 4.2.2 is a collection of tools for data science and machine learning projects.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:20:21Z",
-      "url": "https://pypi.org/project/dragon-ml-toolbox/4.2.2/"
-    },
-    {
-      "id": 52,
-      "title": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges",
-      "summary": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges, helping to prevent fraudulent activities in the state's community college system.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:20:02Z",
-      "url": "https://biztoc.com/x/b5f1abe062788aa4"
-    },
-    {
-      "id": 53,
-      "title": "AI Is Powering Markets",
-      "summary": "AI Is Powering Markets - On May 6, 2010, the US stock markets dropped nearly 10% within minutes due to a 'flash crash' caused by AI algorithms, not news or economic data.",
-      "source": "Realinvestmentadvice.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:20:00Z",
-      "url": "https://realinvestmentadvice.com/resources/blog/ai-is-powering-markets/"
-    },
-    {
-      "id": 54,
-      "title": "Amazon just bought the $50 wearable that never stops listening",
-      "summary": "Amazon purchased a $50 wearable that continually listens to users. This acquisition raises concerns about privacy and the future implications of always-on personal assistants.",
-      "source": "PhoneArena",
-      "category": "ethics",
-      "timestamp": "2025-07-23T09:17:37Z",
-      "url": "https://www.phonearena.com/news/amazon-just-bought-the-50-wearable-that-never-stops-listening_id172547"
     }
   ]
 }
