@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T11:32:20.180Z",
+  "lastUpdate": "2025-07-24T11:50:00.397Z",
   "items": [
+    {
+      "id": 51,
+      "title": "A $2,000 foldable iPhone can take the heat off Tim Cook",
+      "summary": "A $2,000 foldable iPhone could potentially boost Apple's market presence in the US and spur a significant upgrade cycle, helping to alleviate concerns over slow AI adoption. Despite Samsung's advances in foldable phone technology, investors remain optimistic about Apple's future.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:49:42Z",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/a-2000-foldable-iphone-can-take-the-heat-off-tim-cook/articleshow/122859554.cms"
+    },
+    {
+      "id": 52,
+      "title": "freeeにおけるAIコーディングエージェント全社導入とセキュリティ対策",
+      "summary": "Freee introduces AI coding agents company-wide and enhances security measures. Security experts raise concerns about the safety of 'GitHub Copilot' when implemented throughout the entire company.",
+      "source": "Speakerdeck.com",
+      "category": "research",
+      "timestamp": "2025-07-23T11:49:31Z",
+      "url": "https://speakerdeck.com/hikaruegashira/freeeniokeruaikodeinguezientoquan-she-dao-ru-tosekiyuriteidui-ce"
+    },
+    {
+      "id": 53,
+      "title": "AI-Powered Digital Fashion Solutions - Pixelz x Le Troch Tap Real Models for 'Digital Twins' (TrendHunter.com)",
+      "summary": "Pixelz x Le Troch introduce 'Digital Twins,' an AI-powered fashion production solution for generating campaign-quality imagery quickly and at scale.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:49:00Z",
+      "url": "https://www.trendhunter.com/trends/pixelz-x-le-troch"
+    },
+    {
+      "id": 54,
+      "title": "Booking.com Releases The Global AI Sentiment Report",
+      "summary": "Booking.com released The Global AI Sentiment Report, exploring how consumers are using, trusting, and responding to AI in everyday life and travel based on insights from over 37,000 consumers across 33 markets.",
+      "source": "Hospitality Net",
+      "category": "research",
+      "timestamp": "2025-07-23T11:48:23Z",
+      "url": "https://www.hospitalitynet.org/news/4128268.html"
+    },
+    {
+      "id": 55,
+      "title": "Brand new, ultra-affordable Nothing CMF Watch 3 Pro lands on Amazon with a launch deal at $79",
+      "summary": "Brand new, ultra-affordable Nothing CMF Watch 3 Pro lands on Amazon with a launch deal at $79. Regularly $99, you can now land the ultra-affordable wearable down at $79 shipped courtesy of Amazon.",
+      "source": "9to5Toys",
+      "category": "startups",
+      "timestamp": "2025-07-23T11:48:11Z",
+      "url": "http://9to5toys.com/2025/07/23/brand-new-ultra-affordable-nothing-cmf-watch-3-pro-lands-on-amazon-with-a-launch-deal-at-79/"
+    },
+    {
+      "id": 56,
+      "title": "Do You Believe in the Growth Potential of Amgen (AMGN)?",
+      "summary": "Aristotle Capital Management, LLC released its ‘Value Equity Strategy’ second quarter 2025 investor letter, discussing the growth potential of Amgen (AMGN).",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:46:39Z",
+      "url": "https://finance.yahoo.com/news/believe-growth-potential-amgen-amgn-114639468.html"
+    },
+    {
+      "id": 57,
+      "title": "Salesforce rewires Slack for agentic AI, enterprise search",
+      "summary": "Salesforce integrates agentic AI and enterprise search into Slack, preparing for Dreamforce. The chief product officer addresses data sharing concerns outside of the Slack platform.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:46:00Z",
+      "url": "https://www.techtarget.com/searchcustomerexperience/news/366627965/Salesforce-rewires-Slack-for-agentic-AI-enterprise-search"
+    },
+    {
+      "id": 58,
+      "title": "It definitely looks like Ghislaine Maxwell will get pardoned by Donald Trump",
+      "summary": "It appears that Ghislaine Maxwell may be pardoned by Donald Trump, with Speaker of the House Mike Johnson abruptly halting votes and inquiries into the Jeffrey Epstein case. The ethical implications of potentially pardoning someone involved in such a high-profile case raise concerns.",
+      "source": "Celebitchy.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T11:45:27Z",
+      "url": "https://www.celebitchy.com/932388/it_definitely_looks_like_ghislaine_maxwell_will_get_a_pardoned_by_donald_trump/"
+    },
+    {
+      "id": 59,
+      "title": "Marketing Without Google: How AI Breaks The First Rule Of Visibility",
+      "summary": "With generative AI tools changing how people search, the way companies structure their marketing strategies, hire teams and allocate budget is changing.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:45:25Z",
+      "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2025/07/23/marketing-without-google-how-ai-is-breaking-the-first-rule-of-visibility/"
+    },
+    {
+      "id": 60,
+      "title": "The Seven Wonders Of AI: Welcome To The Algorithmic Civilization",
+      "summary": "The Seven Wonders of AI: Welcome To The Algorithmic Civilization - Ancient civilizations marveled at the Seven Wonders of the World, we're witnessing waves of awe brought on by AI, time will tell its impact on civilization as we know it.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:45:00Z",
+      "url": "https://www.forbes.com/sites/deandebiase/2025/07/23/the-seven-wonders-of-ai-welcome-to-the-algorithmic-civilization/"
+    },
+    {
+      "id": 61,
+      "title": "3 Entry-Level Remote AI Jobs That Pay $72,000+ In 2025",
+      "summary": "Looking for entry-level remote AI jobs in 2025 that pay $72,000+? Discover three options and learn how to secure these roles.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:45:00Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/23/entry-level-remote-ai-jobs/"
+    },
+    {
+      "id": 62,
+      "title": "Rivian to expand autonomous driving efforts in London",
+      "summary": "Rivian Automotive is expanding its artificial intelligence and autonomous driving initiatives by establishing a new office in London, UK to harness the city's AI engineering talent.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:44:55Z",
+      "url": "https://biztoc.com/x/3f4fe9fd40d37fbf"
+    },
+    {
+      "id": 63,
+      "title": "IISc and Qatar researchers develop advanced corrosion assessment method using AI-powered imaging technology",
+      "summary": "IISc and Qatar researchers develop AI-powered imaging technology to assess industrial corrosion, achieving 73% accuracy in determining severity.",
+      "source": "The Times of India",
+      "category": "research",
+      "timestamp": "2025-07-23T11:44:34Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/iisc-and-qatar-researchers-develop-advanced-corrosion-assessment-method-using-ai-powered-imaging-technology/articleshow/122859374.cms"
+    },
     {
       "id": 51,
       "title": "Moral Education in the Age of AI: Are We Raising Good Humans?",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T10:43:00Z",
       "url": "https://www.notebookcheck.net/Proton-launches-Lumo-a-privacy-centric-AI-assistant.1065641.0.html"
-    },
-    {
-      "id": 57,
-      "title": "NatWest To Overhaul Digital Banking With AWS, Accenture",
-      "summary": "NatWest Group partners with AWS and Accenture to revamp digital banking infrastructure using cloud computing and AI.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T10:37:36Z",
-      "url": "https://biztoc.com/x/7aaf462291b207dd"
-    },
-    {
-      "id": 58,
-      "title": "Infosys raises annual revenue forecast on financial services boost",
-      "summary": "Infosys raised its annual revenue forecast after reporting strong quarterly sales, boosted by AI deals in the financial services segment.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:35:26Z",
-      "url": "https://www.channelnewsasia.com/business/infosys-raises-annual-revenue-forecast-financial-services-boost-5254081"
-    },
-    {
-      "id": 59,
-      "title": "Transformation fatigue: the silent barrier to AI success",
-      "summary": "Transformation fatigue is identified as a barrier to AI success, not the lack of potential. The exhaustion faced by the people behind AI projects is hindering their success.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-23T10:33:33Z",
-      "url": "https://www.techradar.com/pro/transformation-fatigue-the-silent-barrier-to-ai-success"
-    },
-    {
-      "id": 60,
-      "title": "Automated Content Management - BrandGhost Automates Social Media Scheduling And Content Remixing (TrendHunter.com)",
-      "summary": "BrandGhost is an automated content management platform designed for social media marketers and content creators, offering features such as scheduled posting and AI-powered content remixing.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T10:33:05Z",
-      "url": "https://www.trendhunter.com/trends/brandghost"
-    },
-    {
-      "id": 61,
-      "title": "AstraZeneca announces $50bn US investment plans by 2030",
-      "summary": "AstraZeneca announces $50bn US investment plans by 2030 to build a new facility for manufacturing peptides, small molecules, and oligonucleotides.",
-      "source": "Pharmaceutical Technology",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:32:42Z",
-      "url": "https://www.pharmaceutical-technology.com/news/astrazeneca-50bn-us-investment-plans-2030/"
-    },
-    {
-      "id": 62,
-      "title": "PNC Bank Teams Up with Coinbase to Dominate Crypto – Best Crypto to Buy Now!",
-      "summary": "PNC Bank teams up with Coinbase to provide crypto trading and custody services for corporate clients, signaling a significant move towards mainstream adoption of cryptocurrency in the financial sector.",
-      "source": "Bitcoinist",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:32:38Z",
-      "url": "https://bitcoinist.com/pnc-bank-teams-up-with-coinbase-to-dominate-crypto-best-crypto-to-buy-now/"
-    },
-    {
-      "id": 63,
-      "title": "Microsoft expands AI team with key Google DeepMind hires",
-      "summary": "Microsoft expands its AI team with key hires from Google DeepMind, including former Google Gemini engineering lead Amar Subramanya who joined as corporate vice-president.",
-      "source": "Verdict",
-      "category": "innovation",
-      "timestamp": "2025-07-23T10:32:24Z",
-      "url": "https://www.verdict.co.uk/microsoft-ai-team-hire-google-deepmind-employees/"
-    },
-    {
-      "id": 51,
-      "title": "Australia's WiseTech to cut some jobs in AI-driven efficiency push",
-      "summary": "Australia's WiseTech Global is cutting some jobs to focus on maximizing efficiency through automation and artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:15:41Z",
-      "url": "https://biztoc.com/x/a0c70b6889e4c683"
-    },
-    {
-      "id": 52,
-      "title": "China's tech talent is making big strides — creating apps for the world",
-      "summary": "China's tech talent is creating AI design tools like Lovart, with former CapCut head involved, to impact the app market worldwide.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T10:15:32Z",
-      "url": "https://biztoc.com/x/6f218febc68388fb"
-    },
-    {
-      "id": 53,
-      "title": "It’s Time to Stop Sleeping on Your Earbuds’ Companion App",
-      "summary": "If you're not downloading your wireless earbuds' companion app, you're leaving money on the table.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T10:15:25Z",
-      "url": "https://gizmodo.com/its-time-to-stop-sleeping-on-your-earbuds-companion-app-2000632104"
-    },
-    {
-      "id": 54,
-      "title": "Venus Williams Reveals She Returned to Tennis Over Health Insurance",
-      "summary": "Venus Williams returned to tennis after 16 months away from the sport for health insurance reasons, claiming that she had to come back for insurance in an on-court interview.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:15:21Z",
-      "url": "https://biztoc.com/x/fb537ba7ea1da72f"
-    },
-    {
-      "id": 55,
-      "title": "Amazon acquires Bee, maker of budget-friendly AI wearable without mandatory subscription",
-      "summary": "Amazon acquires Bee, maker of budget-friendly AI wearable without mandatory subscription, marking its entry into the AI wearables market.",
-      "source": "Notebookcheck.net",
-      "category": "startups",
-      "timestamp": "2025-07-23T10:15:00Z",
-      "url": "https://www.notebookcheck.net/Amazon-acquires-Bee-maker-of-budget-friendly-AI-wearable-without-mandatory-subscription.1065535.0.html"
-    },
-    {
-      "id": 56,
-      "title": "New York State Common Retirement Fund Lowers Holdings in Globant S.A. (NYSE:GLOB)",
-      "summary": "New York State Common Retirement Fund decreased its holdings in Globant S.A., an information technology services provider, by 71.0% in the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T10:14:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/new-york-state-common-retirement-fund-lowers-holdings-in-globant-s-a-nyseglob/"
     }
   ]
 }
