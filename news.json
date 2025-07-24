@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-24T14:47:51.800Z",
+  "lastUpdate": "2025-07-24T15:16:39.719Z",
   "items": [
+    {
+      "id": 51,
+      "title": "US Falls to Record Low in Powerful Passport Ranking",
+      "summary": "The American passport has dropped to 10th place for global mobility, its lowest ranking ever, according to the 2025 Henley Passport Index.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:16:13Z",
+      "url": "https://biztoc.com/x/5c6ade011ca190f4"
+    },
+    {
+      "id": 52,
+      "title": "Amazon closes Shanghai AI research lab in latest cost-cutting move",
+      "summary": "Amazon closes Shanghai AI research lab as part of cost-cutting measures, following recent layoffs in the cloud computing unit.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:16:08Z",
+      "url": "https://biztoc.com/x/e41fc984e0ba4150"
+    },
+    {
+      "id": 53,
+      "title": "Woman Finds 3 Chihuahua Puppies Left on Street, Unprepared for What's Next",
+      "summary": "A woman found three abandoned Chihuahuas and turned to social media for help in finding them forever homes.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:16:06Z",
+      "url": "https://biztoc.com/x/de8cb21b85ebf86c"
+    },
+    {
+      "id": 54,
+      "title": "Cat Brings Home Present for Owner—She Doesn't Appreciate It",
+      "summary": "In a viral TikTok video, a tabby cat named Nashville brings a present for his owner, who doesn't appreciate it, with the voice being AI-generated.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:16:02Z",
+      "url": "https://biztoc.com/x/56d8608f8b32eace"
+    },
+    {
+      "id": 55,
+      "title": "AI Hiring Tools Are Advising Women and Minorities to Ask for Lower Pay in Salary Negotiations",
+      "summary": "AI Hiring Tools Are Advising Women and Minorities to Ask for Lower Pay in Salary Negotiations",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:15:57Z",
+      "url": "https://biztoc.com/x/dcc4de034cda085c"
+    },
+    {
+      "id": 56,
+      "title": "Bernese Mountain Dog Tries To Learn New Skill Like Sibling, Fails Miserably",
+      "summary": "Gus the Bernese mountain dog attempts to learn new skills like his sibling, but fails miserably in an AI-generated voice video shared on Instagram.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:15:45Z",
+      "url": "https://biztoc.com/x/d8ce607eb2a03c3a"
+    },
+    {
+      "id": 57,
+      "title": "'Woke' AI Is the Latest Threat to Free Speech",
+      "summary": "'Woke' AI Is the Latest Threat to Free Speech as politicians aim to mold AI tools in their own image, potentially undermining free speech. Republicans are fighting against 'woke' AI, with the Trump administration reportedly leading the charge.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:15:37Z",
+      "url": "https://biztoc.com/x/b9a1091ce7d7a10c"
+    },
+    {
+      "id": 58,
+      "title": "Ex-DOGE lawyer launches AI policy council to push US to front of tech race with China",
+      "summary": "Ex-DOGE lawyer forms AI policy council to boost US tech competitiveness with China; Trump to sign AI-related executive orders, potentially targeting 'woke' models.",
+      "source": "New York Post",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:15:23Z",
+      "url": "https://nypost.com/2025/07/23/us-news/ex-doge-lawyer-launches-ai-policy-council-to-push-us-to-front-of-tech-race-with-china/"
+    },
+    {
+      "id": 59,
+      "title": "noiv 0.1.2",
+      "summary": "noiv 0.1.2 is a new AI-powered API testing CLI tool designed to improve API testing efficiency and accuracy.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:15:17Z",
+      "url": "https://pypi.org/project/noiv/0.1.2/"
+    },
+    {
+      "id": 60,
+      "title": "Spy cockroaches and AI robots: Germany plots the future of warfare - Reuters",
+      "summary": "Germany is exploring the use of spy cockroaches and AI robots for future warfare, as part of their military procurement plans to streamline army operations.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:15:07Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178447540"
+    },
+    {
+      "id": 61,
+      "title": "Trump Exits 'Divisive' UNESCO After Body Campaigns for Global Online Censorship",
+      "summary": "Trump administration announces withdrawal from UNESCO after organization campaigns for global online censorship.",
+      "source": "Breitbart News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:14:38Z",
+      "url": "https://www.breitbart.com/tech/2025/07/23/trump-exits-divisive-unesco-after-body-campaigns-for-global-online-censorship/"
+    },
+    {
+      "id": 62,
+      "title": "Dr. April McDonald exposes 6% lung screening crisis",
+      "summary": "Dr. April McDonald exposes 6% lung screening crisis - Dr. April McDonald confronts a devastating reality: lung cancer kills more Americans than any other cancer, yet only 6% of eligible patients receive life-saving screenings.",
+      "source": "Rolling Out",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:13:15Z",
+      "url": "https://rollingout.com/2025/07/23/dr-april-mcdonald-lung-screening-crisis/"
+    },
+    {
+      "id": 63,
+      "title": "Google AI Summaries Leading to Less Traffic to the Web",
+      "summary": "A Pew Research Center report analyzed the effect AI-generated results have had on websites showing up in Google search results, leading to less traffic to the web.",
+      "source": "512pixels.net",
+      "category": "research",
+      "timestamp": "2025-07-23T15:13:07Z",
+      "url": "https://512pixels.net/2025/07/google-ai-summaries-leading-to-less-traffic-to-the-web/"
+    },
+    {
+      "id": 64,
+      "title": "toyaikit 0.0.1",
+      "summary": "Toyaikit 0.0.1 is a toolkit designed for building AI assistants and tool integrations.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:12:14Z",
+      "url": "https://pypi.org/project/toyaikit/0.0.1/"
+    },
+    {
+      "id": 65,
+      "title": "toyaikit added to PyPI",
+      "summary": "Toyaikit, a toolkit for building AI assistants and tool integrations, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:12:14Z",
+      "url": "https://pypi.org/project/toyaikit/"
+    },
+    {
+      "id": 66,
+      "title": "OlympTrade Unveils Simplified Platform to Empower Beginners and Make Trading Accessible for All",
+      "summary": "Olymp Trade unveils a simplified platform with AI-guidance to empower beginners and make trading accessible for all.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:12:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120480/0/en/OlympTrade-Unveils-Simplified-Platform-to-Empower-Beginners-and-Make-Trading-Accessible-for-All.html"
+    },
+    {
+      "id": 67,
+      "title": "4 things Proton's privacy-first AI chatbot Lumo can do - and how to try it",
+      "summary": "Proton's privacy-first AI chatbot Lumo can perform 4 tasks and is an alternative to ChatGPT that is not trained on user data.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:10:53Z",
+      "url": "https://www.zdnet.com/article/4-things-protons-privacy-first-ai-chatbot-lumo-can-do-and-how-to-try-it/"
+    },
+    {
+      "id": 68,
+      "title": "Solving the inference problem for open source AI projects with GitHub Models",
+      "summary": "Using GitHub's free inference API can make AI-powered open source projects more accessible.",
+      "source": "Github.blog",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:10:43Z",
+      "url": "https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/"
+    },
     {
       "id": 51,
       "title": "Google unveils major AI initiatives for India, localising Gemini and boosting developer ecosystem",
@@ -288,168 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T14:09:44Z",
       "url": "https://biztoc.com/x/cea829dca1f6722c"
-    },
-    {
-      "id": 66,
-      "title": "This Is the Age Range When Air Pollution Starts Damaging Your Brain",
-      "summary": "Air pollution may significantly impair brain health when exposure occurs during midlife, according to new research findings.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-23T14:09:25Z",
-      "url": "https://biztoc.com/x/5425732257a7d45a"
-    },
-    {
-      "id": 67,
-      "title": "AI trade takes center stage as Big Tech earnings season kicks off",
-      "summary": "Tech earnings season kicks off with a focus on AI trade, particularly with Google parent Alphabet reporting its results. Wall Street is expecting AI to dominate the conversation during this period.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:09:23Z",
-      "url": "https://biztoc.com/x/223e3176d1298443"
-    },
-    {
-      "id": 68,
-      "title": "AI isn’t just entering law offices—it’s challenging the entire legal playbook",
-      "summary": "AI is challenging the legal playbook as lawyers incorporate AI 'copilots' into their workflows, driven by a growing landscape of AI legal startups.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T14:09:20Z",
-      "url": "https://biztoc.com/x/bc226d30deceaa46"
-    },
-    {
-      "id": 51,
-      "title": "I tested an AI running coach on my Samsung smartwatch - and it humbled me (for the better)",
-      "summary": "I tested an AI running coach on my Samsung smartwatch, which humbled me for the better. The new Running Coach feature on the Galaxy Watch 8 is designed to help users reach the finish line, especially for those training for their first marathon.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-23T13:54:00Z",
-      "url": "https://www.zdnet.com/article/i-tested-an-ai-running-coach-on-my-samsung-smartwatch-and-it-humbled-me-for-the-better/"
-    },
-    {
-      "id": 52,
-      "title": "Infosys’s strong showing not enough to power Indian IT in slow first quarter",
-      "summary": "Infosys has shown strong growth in the first quarter, outperforming expectations. However, the Indian IT services sector remains cautious due to slow overall growth.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:53:49Z",
-      "url": "https://www.livemint.com/companies/company-results/infosys-q1-results-strong-indian-it-slowdown-11753273907517.html"
-    },
-    {
-      "id": 53,
-      "title": "Dave Stokes: Write PostgreSQL Queries in English?",
-      "summary": "Dave Stokes demonstrates how to write PostgreSQL queries in English using an AI and DBeaver in an upcoming webinar on July 24th.",
-      "source": "Blogspot.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T13:53:00Z",
-      "url": "https://stokerpostgresql.blogspot.com/2025/07/write-postgresql-queries-in-english.html"
-    },
-    {
-      "id": 54,
-      "title": "Analyst Explains How Microsoft (MSFT) Stock Can Reach $600",
-      "summary": "Analyst explains how Microsoft stock can reach $600, Oppenheimer analyst discusses Microsoft",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:52:14Z",
-      "url": "https://finance.yahoo.com/news/analyst-explains-microsoft-msft-stock-135214236.html"
-    },
-    {
-      "id": 55,
-      "title": "Mara to raise up to $1B for Bitcoin and operations via debt sale",
-      "summary": "Mara Holdings plans to raise up to $1 billion through debt sale to fund Bitcoin purchases, reduce debt, and support operations.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:51:33Z",
-      "url": "https://cointelegraph.com/news/mara-plans-1b-convertible-note-offering-to-fuel-bitcoin-strategy"
-    },
-    {
-      "id": 56,
-      "title": "AI trade takes center stage as Big Tech earnings season kicks off",
-      "summary": "AI trade takes center stage as Big Tech earnings season kicks off with Google parent Alphabet reporting earnings today.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:51:09Z",
-      "url": "https://finance.yahoo.com/news/ai-trade-takes-center-stage-as-big-tech-earnings-season-kicks-off-135109560.html"
-    },
-    {
-      "id": 57,
-      "title": "Buyers wield more power in housing market, especially in Sun Belt, with contract cancellations on the rise",
-      "summary": "Buyers have more power in the housing market, especially in the Sun Belt, with contract cancellations increasing. Despite this trend, home prices remain at record highs.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:50:43Z",
-      "url": "https://fortune.com/2025/07/23/is-it-good-time-to-buy-house-cancellations-increase-housing-market-texas-florida/"
-    },
-    {
-      "id": 58,
-      "title": "Only 50 £899 RATE TICKETS remaining for Content London 2025 – book now and save £500 on the full delegate price",
-      "summary": "Only 50 £899 RATE TICKETS remaining for Content London 2025 – book now and save £500 on the full delegate price. There are only 50 EARLYBIRD TICKETS left for Content London 2025, priced just £899 and saving 36% on the full price for the three-day event.",
-      "source": "C21media.net",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:50:27Z",
-      "url": "https://www.c21media.net/department/marketing/only-50-899-rate-tickets-remaining-for-content-london-2025-book-now-and-save-500-on-the-full-delegate-price/"
-    },
-    {
-      "id": 59,
-      "title": "Dan Niles Explains Why He Turned Bullish on NVIDIA (NVDA)",
-      "summary": "Dan Niles explains why he turned bullish on NVIDIA, one of the 10 buzzing stocks everyone is talking about in the AI sector.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-23T13:50:22Z",
-      "url": "https://finance.yahoo.com/news/dan-niles-explains-why-turned-135022690.html"
-    },
-    {
-      "id": 60,
-      "title": "Poland Data Center Market Investment Report 2025-2030 | Growth Opportunities in IT, Electrical, and Mechanical Infrastructure, Cooling Systems, General Construction, and Tier Standards",
-      "summary": "The Poland Data Center Market is expected to grow from USD 1.16 Billion in 2024 to USD 2.78 Billion by 2030, with a CAGR of 15.68%. Strategic collaborations in AI, such as the 2025 MoU with Google, are driving this growth.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120343/28124/en/Poland-Data-Center-Market-Investment-Report-2025-2030-Growth-Opportunities-in-IT-Electrical-and-Mechanical-Infrastructure-Cooling-Systems-General-Construction-and-Tier-Standards.html"
-    },
-    {
-      "id": 61,
-      "title": "Yes, your Android phone let Gemini slip in — here's how to take back control",
-      "summary": "Your Android phone allowed Google's AI assistant, Gemini, to gain access to sensitive information like WhatsApp messages and phone calls without your consent, raising concerns about privacy and data security in the future.",
-      "source": "Gadgethacks.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T13:49:41Z",
-      "url": "https://android.gadgethacks.com/how-to/yes-your-android-phone-let-gemini-slip-in-heres-how-to-take-back-control/"
-    },
-    {
-      "id": 62,
-      "title": "The Race Has Changed. States Need A Talent Plan That Can Keep Up.",
-      "summary": "States need a talent plan to navigate economic disruption with aligned systems designed for success in the changing landscape.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-23T13:49:31Z",
-      "url": "https://www.forbes.com/sites/mattgandal/2025/07/23/the-race-has-changed-states-need-a-talent-plan-that-can-keep-up/"
-    },
-    {
-      "id": 63,
-      "title": "AI chatbots can boost public health in Africa – why language inclusion matters",
-      "summary": "AI chatbots are being used to improve public health in Africa by adapting language technologies. However, many of these tools are limited in their language options or never make it past the lab.",
-      "source": "The Conversation Africa",
-      "category": "applications",
-      "timestamp": "2025-07-23T13:49:28Z",
-      "url": "https://theconversation.com/ai-chatbots-can-boost-public-health-in-africa-why-language-inclusion-matters-260861"
-    },
-    {
-      "id": 64,
-      "title": "McKinsey bars China practice from generative AI work amid geopolitical tensions",
-      "summary": "McKinsey bars China practice from generative AI work amid geopolitical tensions, following scrutiny from Washington over US companies' involvement in sensitive Chinese sectors.",
-      "source": "The Irish Times",
-      "category": "ethics",
-      "timestamp": "2025-07-23T13:49:27Z",
-      "url": "https://www.irishtimes.com/business/2025/07/23/mckinsey-bars-china-practice-from-generative-ai-work-amid-geopolitical-tensions/"
-    },
-    {
-      "id": 65,
-      "title": "I'm an engineer who got a master's in financial technology. It was one of the best decisions I've ever made.",
-      "summary": "Christian Hollar, a recent graduate of Duke's Master of Engineering in Fintech program, describes the decision as one of the best he's ever made, highlighting growth opportunities and the ability to keep his skills sharp in the field.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-23T13:49:13Z",
-      "url": "https://www.businessinsider.com/fintech-masters-degree-engineering-graduate-school-growing-career-2025-7"
     }
   ]
 }
