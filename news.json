@@ -1,6 +1,158 @@
 {
-  "lastUpdate": "2025-07-24T19:15:05.266Z",
+  "lastUpdate": "2025-07-24T19:31:10.660Z",
   "items": [
+    {
+      "id": 51,
+      "title": "REMUS 620 Validated for Torpedo Tube Deployment",
+      "summary": "REMUS 620 has been validated for torpedo tube deployment, marking a milestone in submarine-launched UUV operations.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120580/14858/en/REMUS-620-Validated-for-Torpedo-Tube-Deployment.html"
+    },
+    {
+      "id": 52,
+      "title": "Marc Jacobs Offering Hand-painted Pet Portraits in the Hamptons",
+      "summary": "Marc Jacobs is offering hand-painted pet portraits in the Hamptons through the 'Bark Jacobs' program, providing shoppers with a unique service at a pop-up shop.",
+      "source": "WWD",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:26:03Z",
+      "url": "http://wwd.com/fashion-news/fashion-features/marc-jacobs-pet-portraits-hamptons-artist-1237993656/"
+    },
+    {
+      "id": 53,
+      "title": "Wall Street expects YoY Apple earnings growth of 1.4%, sales growth of 3.9% for Q325",
+      "summary": "Wall Street expects Apple to report 1.4% earnings growth and 3.9% sales growth for Q325.",
+      "source": "Macdailynews.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T19:25:46Z",
+      "url": "https://macdailynews.com/2025/07/23/wall-street-expects-yoy-apple-earnings-growth-of-1-4-sales-growth-of-3-9-for-q325/"
+    },
+    {
+      "id": 54,
+      "title": "Skeleton Found Inside Home Shocking Story Explained: Here’s why man kept mother’s dead body for 10 years",
+      "summary": "Skeleton found inside home in Japan as man kept mother's dead body for 10 years without informing police, citing social phobia as the reason. Incident sparks debate about social isolation and aging.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-23T19:23:52Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/skeleton-found-inside-home-shocking-story-explained-japan-corpse-discovery-kobe-police-takehisa-miyawaki-mother-dead-body-10-years-corpse-abandonment-social-phobia-isolation-elderly-care-mental-health-pension-fraud-skeleton-flat-unreported-death/articleshow/122866544.cms"
+    },
+    {
+      "id": 55,
+      "title": "Five Things Causing Electricity Prices to Spike",
+      "summary": "AI data centers are causing spikes in electricity prices, putting strain on the power grid.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:23:14Z",
+      "url": "https://www.newsweek.com/five-things-causing-electricity-prices-spike-2103133"
+    },
+    {
+      "id": 56,
+      "title": "Treegress: AI testing on autopilot for modern teams",
+      "summary": "Treegress is a new AI-native QA platform that automates software testing without the need for setup or scripting, making it convenient for modern teams.",
+      "source": "Digital Journal",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:22:49Z",
+      "url": "https://www.digitaljournal.com/tech-science/treegress-ai-testing-on-autopilot-for-modern-teams/article"
+    },
+    {
+      "id": 57,
+      "title": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
+      "summary": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T19:21:37Z",
+      "url": "https://biztoc.com/x/63d5f2f02e80d811"
+    },
+    {
+      "id": 58,
+      "title": "Google Brings Photo-to-Video Capabilities to YouTube Shorts",
+      "summary": "Google has added a new photo-to-video feature to YouTube Shorts and Google Photos using AI to turn photos into videos.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:21:27Z",
+      "url": "https://www.androidheadlines.com/2025/07/youtube-shorts-photo-to-video-tool-support.html"
+    },
+    {
+      "id": 59,
+      "title": "Podcast, policy, and pomp in DC at the surreal celebration of Trump’s AI Action Plan",
+      "summary": "Podcast venture capitalists support Trump, one is later appointed as AI and crypto czar. Trump administration unveils AI policy plan with Silicon Valley alliance.",
+      "source": "Biztoc.com",
+      "timestamp": "2025-07-23T19:21:09Z",
+      "url": "https://biztoc.com/x/bf1849dd95cdacb5"
+    },
+    {
+      "id": 60,
+      "title": "Show HN: UGMM-NN – A FF neural network using univariate Gaussian mixture neurons",
+      "summary": "UGMM-NN is a feed-forward neural network that utilizes univariate Gaussian mixture neurons. The project can be found on GitHub and was shared on Hacker News with 1 point and 0 comments.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-23T19:20:51Z",
+      "url": "https://github.com/zakeria/uGMM"
+    },
+    {
+      "id": 61,
+      "title": "palimpzest 0.7.20",
+      "summary": "palimpzest 0.7.20 is a system that allows users to process AI-powered analytical queries by defining them in a declarative language.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:20:04Z",
+      "url": "https://pypi.org/project/palimpzest/0.7.20/"
+    },
+    {
+      "id": 62,
+      "title": "Save Up to $500 Off Alienware Area-51 Gaming Laptops: Curvy Design, More Power, Better Cooling",
+      "summary": "Save up to $500 off Alienware Area-51 gaming laptops, featuring a curvy design, more power, and better cooling. The new models are the most powerful and sleek gaming laptops available.",
+      "source": "IGN",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:20:00Z",
+      "url": "https://www.ign.com/articles/best-alienware-area-51-gaming-laptop-deals-dell-back-to-school-sale"
+    },
+    {
+      "id": 63,
+      "title": "AI Overviews lead to fewer clicked links, study finds as web traffic falls – Google disagrees",
+      "summary": "AI Overviews lead to fewer clicked links, study finds as web traffic falls – Google disagrees - Google Search has been going all-in on AI over the past few years, but it seems like that’s not really benefitting anyone but the user as a new study shows that searches with AI Overviews are more likely to see fewer clicked links out of Google, and also fewe…",
+      "source": "9to5google.com",
+      "category": "research",
+      "timestamp": "2025-07-23T19:20:00Z",
+      "url": "http://9to5google.com/2025/07/23/google-ai-overview-link-click-study/"
+    },
+    {
+      "id": 64,
+      "title": "ai-code-review 3.1.2",
+      "summary": "ai-code-review 3.1.2 is an AI code review tool that can work with any language model provider, detecting issues in GitHub pull requests or local changes without vendor lock-in.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:19:34Z",
+      "url": "https://pypi.org/project/ai-code-review/3.1.2/"
+    },
+    {
+      "id": 65,
+      "title": "ai-cr 3.1.2",
+      "summary": "AI-cr 3.1.2 is an AI code review tool that is able to work with any language model provider, detecting issues in GitHub pull requests or local changes instantly and reliably without being locked in to a specific vendor.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:19:31Z",
+      "url": "https://pypi.org/project/ai-cr/3.1.2/"
+    },
+    {
+      "id": 66,
+      "title": "github-code-review 3.1.2",
+      "summary": "github-code-review 3.1.2 is an AI code review tool that can detect issues in GitHub pull requests or local changes, working with any language model provider and without vendor lock-in.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:19:30Z",
+      "url": "https://pypi.org/project/github-code-review/3.1.2/"
+    },
+    {
+      "id": 67,
+      "title": "Trump set to reveal AI action plans as experts warn about \"fraud crisis\"",
+      "summary": "Trump to reveal AI action plans at summit while experts warn of 'fraud crisis'",
+      "source": "CBS News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T19:18:00Z",
+      "url": "https://www.cbsnews.com/video/trump-set-to-reveal-ai-action-plans-as-experts-warn-about-fraud-crisis/"
+    },
     {
       "id": 51,
       "title": "Compliance startup Vanta valued at $4.15B in new $150M round",
@@ -297,159 +449,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T18:14:20Z",
       "url": "https://www.cbc.ca/news/canada/toronto/billy-bishop-airport-oscar-garbage-waste-1.7591851"
-    },
-    {
-      "id": 65,
-      "title": "Sam Altman is worried some young people have an 'emotional over-reliance' on ChatGPT when making decisions",
-      "summary": "Sam Altman expresses concern over young people developing an 'emotional over-reliance' on ChatGPT for decision-making, stating that it 'feels really bad' to see this dependence on AI.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T18:14:14Z",
-      "url": "https://biztoc.com/x/4593c0dd2ab2e25d"
-    },
-    {
-      "id": 51,
-      "title": "Here's How to Hide AI-Generated Images in Search Results in DuckDuckGo",
-      "summary": "AI-generated images can be hidden in DuckDuckGo search results using a new tool, reducing their visibility.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:52:57Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178448688"
-    },
-    {
-      "id": 52,
-      "title": "Lord of the AI-crypto ring",
-      "summary": "The article discusses the growing significance of tokens in artificial intelligence and blockchain technology, showcasing their role in bridging these two fields by serving as units of understanding and representations of value.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:52:17Z",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/lord-of-the-ai-crypto-ring/articleshow/122865100.cms"
-    },
-    {
-      "id": 53,
-      "title": "Citigroup Ups Focus on Privately-Held AI Startups",
-      "summary": "Citigroup is increasing its focus on privately-held AI startups by increasing research efforts and hiring industry experts like Heath Terry.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T17:51:46Z",
-      "url": "https://biztoc.com/x/8e49eefab9445ae7"
-    },
-    {
-      "id": 54,
-      "title": "18-year-old rising freshman is trying to break his AI habit because a friend used ChatGPT to dump someone",
-      "summary": "An 18-year-old is trying to break his AI habit after a friend used ChatGPT to dump someone, highlighting ethical concerns with AI usage among teenagers. Another high school student is relying on ChatGPT for guidance on various topics, showcasing the potential impact of AI on young users.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:51:42Z",
-      "url": "https://biztoc.com/x/0f50eec4ab510959"
-    },
-    {
-      "id": 55,
-      "title": "Businesses in the age of AI have to rethink how they manage talent—’You protect the worker…you don’t protect the job itself’",
-      "summary": "Businesses in the age of AI are rethinking talent management as technology transforms the job market. One in 10 people hired last year were for jobs that didn't exist 20 years ago, according to a LinkedIn report.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T17:51:24Z",
-      "url": "https://biztoc.com/x/303b1198788adcd9"
-    },
-    {
-      "id": 56,
-      "title": "K-Pop Star Jisoo Stars In New Self-Portrait Campaign, Talks Filming Against Green Screen & Seeing Final Results",
-      "summary": "K-Pop Star Jisoo stars in new Self-Portrait campaign, discussing filming against green screen and seeing final results. She has been the face of the brand since early 2024, becoming the first musician to front a campaign for Self-Portrait.",
-      "source": "Just Jared",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:50:47Z",
-      "url": "https://www.justjared.com/2025/07/23/k-pop-star-jisoo-stars-in-new-self-portrait-campaign-talks-filming-against-green-screen-seeing-final-results/"
-    },
-    {
-      "id": 57,
-      "title": "Millennials are officially a majority of managers—so get ready for a combination of burnout, buddy vibes, and boundary issues",
-      "summary": "Millennials as majority of managers bring challenges related to burnout, buddy vibes, and boundary issues. Emotional intelligence is now expected of managers, leaving millennial managers feeling stuck between a rock and a hard place.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:50:29Z",
-      "url": "https://fortune.com/2025/07/23/millennial-managers-burnout-cool-boss-boundary-issues-glassdoor-worklife-trends-daniel-zhao/"
-    },
-    {
-      "id": 58,
-      "title": "Show HN: Open-Source AI Analyst in Slack (LLM and Python, Self-Hosted)",
-      "summary": "A new open-source AI analyst in Slack has been developed using LLM and Python, allowing users to receive AI-generated summaries and analysis directly in their Slack workspace. The tool is self-hosted and can be customized to meet individual needs.",
-      "source": "Bagofwords.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:49:58Z",
-      "url": "https://bagofwords.com/blog/slack-ai-analyst.html"
-    },
-    {
-      "id": 59,
-      "title": "Aptean Launches GenAI Query in AppCentral",
-      "summary": "Aptean launches GenAI Query in AppCentral, allowing for smarter decision-making without the need for coding or waiting. This mobile-first conversational intelligence platform provides insights in real-time.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:49:57Z",
-      "url": "https://financialpost.com/globe-newswire/aptean-launches-genai-query-in-appcentral"
-    },
-    {
-      "id": 60,
-      "title": "Sonos Locks In New CEO After Months of Uncertainty",
-      "summary": "Tom Conrad becomes the new CEO of Sonos after serving as interim chief since January 2025, with the role now made permanent. He will also continue to be on Sonos' board of directors.",
-      "source": "iPhone in Canada",
-      "category": "startups",
-      "timestamp": "2025-07-23T17:49:40Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/23/sonos-locks-in-new-ceo-after-months-of-uncertainty/"
-    },
-    {
-      "id": 61,
-      "title": "spounge-proto-py 0.2.4",
-      "summary": "spounge-proto-py 0.2.4 has been released, allowing for the generation of protobuf Python packages for Spounge AI ecosystem microservices.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:46:53Z",
-      "url": "https://pypi.org/project/spounge-proto-py/0.2.4/"
-    },
-    {
-      "id": 62,
-      "title": "mini-swe-agent added to PyPI",
-      "summary": "Mini-SWE-Agent, a simple AI software engineering agent, has been added to PyPI under the name Nano SWE Agent.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:46:44Z",
-      "url": "https://pypi.org/project/mini-swe-agent/"
-    },
-    {
-      "id": 63,
-      "title": "Trump is bringing back the AI law moratorium",
-      "summary": "Trump is bringing back the AI law moratorium, a resurrected form of the controversial AI law that died a very public death.",
-      "source": "The Verge",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:46:34Z",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium"
-    },
-    {
-      "id": 51,
-      "title": "Aptean Launches GenAI Query in AppCentral",
-      "summary": "Aptean has launched GenAI Query in AppCentral, allowing users to make smarter decisions without coding or waiting for insights. This tool provides quick and relevant information when necessary.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120543/29866/en/Aptean-Launches-GenAI-Query-in-AppCentral.html"
-    },
-    {
-      "id": 52,
-      "title": "5 best CRMs for HR businesses in 2025",
-      "summary": "5 best CRMs for HR businesses in 2025 - Human Resources firms face a unique set of challenges when managing client relationships.",
-      "source": "Hubspot.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:43:51Z",
-      "url": "https://blog.hubspot.com/marketing/best-crm-for-hr#article"
-    },
-    {
-      "id": 53,
-      "title": "18-year-old rising freshman is trying to break his AI habit because a friend used ChatGPT to dump someone",
-      "summary": "18-year-old concerned about AI addiction after friend used ChatGPT to end a relationship, finding it dystopian and likening it to a new addiction.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:41:41Z",
-      "url": "https://fortune.com/2025/07/23/kids-use-chatgpt-to-cheat-break-up-with-their-girlfriends-addiction/"
     }
   ]
 }
