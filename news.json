@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-24T17:53:44.970Z",
+  "lastUpdate": "2025-07-24T18:23:10.845Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Author asks ChatGPT for advice on her book about tech — here's what it said",
+      "summary": "Author Vauhini Vara sought advice from ChatGPT for her book about tech, 'Searches: Selfhood in the Digital Age,' exploring the duality of tech in helping and exploiting us. Through analyzing the AI feedback, Vara delved into the abilities, shortcomings, and biases of the chatbot.",
+      "source": "NPR",
+      "category": "research",
+      "timestamp": "2025-07-23T18:21:48Z",
+      "url": "https://www.npr.org/2025/07/23/g-s1-78913/author-asks-chatgpt-for-advice-on-her-book-about-tech-heres-what-it-said"
+    },
+    {
+      "id": 52,
+      "title": "Pharma Companies Pour Billions Into US Manufacturing To Avoid Tariffs",
+      "summary": "Pharma companies are investing billions in US manufacturing to avoid tariffs, as the industry is a target for tariffs by the Trump administration in order to protect US interests.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:21:21Z",
+      "url": "https://www.forbes.com/sites/stevebanker/2025/07/23/pharma-companies-pour-billions-into-us-manufacturing-to-avoid-tariffs/"
+    },
+    {
+      "id": 53,
+      "title": "Trump Admin Unveils AI Strategy To Maintain US Dominance",
+      "summary": "Trump Admin unveils AI strategy to maintain US dominance in the AI field and boost big tech's race to stay ahead of China.",
+      "source": "International Business Times",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:21:20Z",
+      "url": "https://www.ibtimes.com/trump-admin-unveils-ai-strategy-maintain-us-dominance-3779253"
+    },
+    {
+      "id": 54,
+      "title": "AI-Powered Processing Tools - 2nd Nature Launches an AI Platform Designed for Food Processing (TrendHunter.com)",
+      "summary": "2nd Nature launches AI platform for food processing using machine learning algorithms",
+      "source": "Cleanthesky.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:20:06Z",
+      "url": "https://www.cleanthesky.com/innovation/2nd-nature"
+    },
+    {
+      "id": 55,
+      "title": "toxic-detection 1.0.14",
+      "summary": "toxic-detection 1.0.14 is an Intelligent AI Agent designed for real-time content moderation with an accuracy of 97.5%.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:20:05Z",
+      "url": "https://pypi.org/project/toxic-detection/1.0.14/"
+    },
+    {
+      "id": 56,
+      "title": "It Can't Do That",
+      "summary": "AI is often misunderstood as having abilities it does not actually possess, causing frustration and confusion among users and developers.",
+      "source": "Eschatonblog.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T18:20:00Z",
+      "url": "https://www.eschatonblog.com/2025/07/it-cant-do-that.html"
+    },
+    {
+      "id": 57,
+      "title": "Trump's AI plan eases data center rules, strips federal DEI guidelines",
+      "summary": "Trump's AI plan focuses on easing data center rules and removing federal DEI guidelines to support artificial intelligence research and development in the US.",
+      "source": "Cointelegraph",
+      "category": "ethics",
+      "timestamp": "2025-07-23T18:19:59Z",
+      "url": "https://cointelegraph.com/news/white-house-ai-strategy-united-states"
+    },
+    {
+      "id": 58,
+      "title": "White House Unveils America’s AI Action Plan",
+      "summary": "White House unveils America's AI Action Plan aimed at removing barriers to American leadership in AI and ushering in a new golden age of human flourishing.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:17:44Z",
+      "url": "https://freerepublic.com/focus/f-news/4330321/posts"
+    },
+    {
+      "id": 59,
+      "title": "Google Posts $96B in Q2 Revenue, Spurred by Big AI Investments",
+      "summary": "Google posts $96B in Q2 revenue, fueled by AI investments for content creation, chatbots, and web search.",
+      "source": "Adweek",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:17:27Z",
+      "url": "https://www.adweek.com/media/google-posts-96b-in-q2-revenue-spurred-by-big-ai-investments/"
+    },
+    {
+      "id": 60,
+      "title": "OpenAI's Sam Altman Warns of Impending AI-Powered Fraud Crisis",
+      "summary": "OpenAI CEO Sam Altman warns of an impending AI fraud crisis, especially towards financial institutions using voice authentication.",
+      "source": "Android Headlines",
+      "category": "ethics",
+      "timestamp": "2025-07-23T18:16:34Z",
+      "url": "https://www.androidheadlines.com/2025/07/openai-sam-altman-warns-ai-fraud-crisis-voice.html"
+    },
+    {
+      "id": 61,
+      "title": "Oakley Meta HSTN fixes the biggest problem with Ray-Ban Meta Smart Glasses, and I couldn't be happier about it",
+      "summary": "Meta claims Oakley Meta HSTN smart glasses have twice the battery life of Ray-Ban Meta Smart Glasses, addressing a major issue with the latter. The battery life claim is tested to verify its accuracy.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:15:49Z",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/oakley-meta-hstn-smart-glasses-battery-life-review"
+    },
+    {
+      "id": 62,
+      "title": "Camarda hat-trick, Pisa shine, Udinese flop in friendlies",
+      "summary": "Serie A teams continue with friendlies to prepare for the upcoming season, with some teams shining and others struggling. The teams are getting ready for either the Coppa Italia or their first league match.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T18:15:00Z",
+      "url": "https://onefootball.com/en/news/camarda-hat-trick-pisa-shine-udinese-flop-in-friendlies-41415448"
+    },
+    {
+      "id": 63,
+      "title": "Mark Cuban and Sam Altman Just Warned About Disappearing Jobs and the Need to Learn AI",
+      "summary": "Mark Cuban and Sam Altman are warning about disappearing jobs due to AI and emphasize the need to learn AI as it is poised to radically change the office environment.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:14:23Z",
+      "url": "https://biztoc.com/x/571e6ba0130ae802"
+    },
+    {
+      "id": 64,
+      "title": "How this Toronto airport is using AI to help reduce garbage waste",
+      "summary": "A Toronto airport is using artificial intelligence to help reduce garbage waste and teach people about recycling by launching Oscar Sort recycling stations.",
+      "source": "CBC News",
+      "category": "applications",
+      "timestamp": "2025-07-23T18:14:20Z",
+      "url": "https://www.cbc.ca/news/canada/toronto/billy-bishop-airport-oscar-garbage-waste-1.7591851"
+    },
+    {
+      "id": 65,
+      "title": "Sam Altman is worried some young people have an 'emotional over-reliance' on ChatGPT when making decisions",
+      "summary": "Sam Altman expresses concern over young people developing an 'emotional over-reliance' on ChatGPT for decision-making, stating that it 'feels really bad' to see this dependence on AI.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T18:14:14Z",
+      "url": "https://biztoc.com/x/4593c0dd2ab2e25d"
+    },
     {
       "id": 51,
       "title": "Here's How to Hide AI-Generated Images in Search Results in DuckDuckGo",
@@ -315,141 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T17:10:00Z",
       "url": "https://www.memeorandum.com/250723/p77"
-    },
-    {
-      "id": 63,
-      "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
-      "summary": "FastVLM: Efficient Vision Encoding for Vision Language Models improves visual understanding in Vision Language Models by enhancing visual token processing.",
-      "source": "Apple Newsroom",
-      "category": "research",
-      "timestamp": "2025-07-23T17:09:47Z",
-      "url": "https://machinelearning.apple.com/research/fast-vision-language-models"
-    },
-    {
-      "id": 64,
-      "title": "Here's What You Need to Know Ahead of Google Parent Alphabet's Earnings Today",
-      "summary": "Google parent Alphabet is set to post second-quarter earnings with investors likely to be watching its cloud.",
-      "source": "Investopedia",
-      "category": "economy",
-      "timestamp": "2025-07-23T17:08:47Z",
-      "url": "https://www.investopedia.com/here-is-what-you-need-to-know-ahead-of-google-parent-alphabet-earnings-today-11777519"
-    },
-    {
-      "id": 65,
-      "title": "Trump just unveiled his plan to put AI in everything",
-      "summary": "Trump unveiled his plan to put AI in everything, focusing on ensuring AI reflects objective truth, slashing regulations, disseminating US AI tools globally, and fast-tracking AI infrastructure.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:07:29Z",
-      "url": "https://www.theverge.com/news/712513/trump-ai-action-plan"
-    },
-    {
-      "id": 66,
-      "title": "'You'd Have to Be Very Skilled to Have A Job': AI Godfather Geoffrey Hinton Predicts Healthcare Will Survive AI Disruption",
-      "summary": "'You'd have to be very skilled to have a job': AI Godfather Geoffrey Hinton predicts healthcare will survive AI disruption by highlighting growing uncertainty about the future of work.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-23T17:07:14Z",
-      "url": "https://biztoc.com/x/ce25da49d261b521"
-    },
-    {
-      "id": 67,
-      "title": "Trump’s AI strategy trades guardrails for growth in race against China",
-      "summary": "Trump's AI strategy focuses on speed, sovereignty, national security, and competitiveness in the race against China.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:07:08Z",
-      "url": "https://biztoc.com/x/9bd1a7f092dc86ff"
-    },
-    {
-      "id": 51,
-      "title": "dv-pipecat-ai 0.0.74.dev594",
-      "summary": "dv-pipecat-ai 0.0.74.dev594 is an open source framework designed for building voice and multimodal assistants.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:49:09Z",
-      "url": "https://pypi.org/project/dv-pipecat-ai/0.0.74.dev594/"
-    },
-    {
-      "id": 52,
-      "title": "gito.bot 3.1.1",
-      "summary": "gito.bot 3.1.1 is an AI code review tool that can detect issues in GitHub pull requests or local changes, working with any language model provider.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T16:49:08Z",
-      "url": "https://pypi.org/project/gito-bot/3.1.1/"
-    },
-    {
-      "id": 53,
-      "title": "AI helps Latin scholars decipher ancient Roman texts",
-      "summary": "AI is being used to help Latin scholars decipher ancient Roman texts, which are invaluable for understanding the daily life of ancient Romans. This technology can estimate the location of an inscription, aiding historians in their interpretation efforts.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-23T16:48:58Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-helps-latin-scholars-decipher-ancient-roman-texts/articleshow/122864098.cms"
-    },
-    {
-      "id": 54,
-      "title": "Why Your Company’s Future Depends On Thinking Like A Disruptor Today",
-      "summary": "Incrementalism is a trap, companies should think like disruptors by starting with a 2030 moonshot and reverse engineering the roadmap for bold disruption.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:48:23Z",
-      "url": "https://www.forbes.com/sites/keithferrazzi/2025/07/23/why-your-companys-future-depends-on-thinking-like-a-disruptor-today/"
-    },
-    {
-      "id": 55,
-      "title": "Campaign-Quality GenAI Models - Pixelz Digital Twins are Created with Real Models and Their Agency (TrendHunter.com)",
-      "summary": "Campaign-Quality GenAI Models by Pixels Digital Twins are created in direct partnership with real models, offering a new approach to AI in the fashion industry.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:48:05Z",
-      "url": "https://www.trendhunter.com/trends/pixelz-digital-twins"
-    },
-    {
-      "id": 56,
-      "title": "llm-cache-pro added to PyPI",
-      "summary": "llm-cache-pro added to PyPI - A drop-in, model-agnostic cache for Large Language Model API calls",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:47:56Z",
-      "url": "https://pypi.org/project/llm-cache-pro/"
-    },
-    {
-      "id": 57,
-      "title": "AI Sucks at Student Engagement",
-      "summary": "AI is not effective at student engagement despite being used for lesson planning, raising skepticism about its ability to create engaging worksheets.",
-      "source": "Alicekeeler.com",
-      "category": "research",
-      "timestamp": "2025-07-23T16:45:37Z",
-      "url": "https://alicekeeler.com/2025/07/23/ai-sucks-at-student-engagement/"
-    },
-    {
-      "id": 58,
-      "title": "Triple Murderer Among Americans Repatriated From Venezuela in Prisoner Swap",
-      "summary": "A triple murderer among Americans was repatriated from Venezuela in a prisoner swap, raising ethical questions about bringing criminals back to the US.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T16:44:48Z",
-      "url": "https://biztoc.com/x/ddc89d8235cbb49a"
-    },
-    {
-      "id": 59,
-      "title": "Trump's AI action plan claims to chart 'a decisive course to cement US dominance in artificial intelligence'",
-      "summary": "Trump's AI action plan aims to strengthen US dominance in artificial intelligence, emphasizing urgency in achieving this goal.",
-      "source": "PC Gamer",
-      "category": "economy",
-      "timestamp": "2025-07-23T16:44:43Z",
-      "url": "https://www.pcgamer.com/software/ai/trumps-ai-action-plan-claims-to-chart-a-decisive-course-to-cement-us-dominance-in-artificial-intelligence/"
-    },
-    {
-      "id": 60,
-      "title": "Trump administration to vet AI for ‘ideological bias’",
-      "summary": "Trump administration to vet AI for ‘ideological bias’ - Federal government will only do business with tech companies whose models offer ‘objective truth’",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T16:44:39Z",
-      "url": "https://biztoc.com/x/3f9807d9680fed7a"
     }
   ]
 }
