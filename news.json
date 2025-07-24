@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-24T04:52:10.104Z",
+  "lastUpdate": "2025-07-24T05:21:52.017Z",
   "items": [
+    {
+      "id": 51,
+      "title": "One97 Communications shares drop nearly 3% post Q1 earnings announcement",
+      "summary": "One97 Communications shares dropped nearly 3% after announcing a consolidated net profit of ₹122.5 crore in Q1 2025, due to cost optimisation and increased payment revenue.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-23T05:12:37Z",
+      "url": "https://www.thehindubusinessline.com/markets/one97-communications-shares-drop-nearly-3-post-q1-earnings-announcement/article69845341.ece"
+    },
+    {
+      "id": 52,
+      "title": "From AI to quantum: ThatWare’s bold leap into the future of SEO",
+      "summary": "ThatWare, an Indian SEO company, pioneers the future of digital visibility with Quantum SEO, integrating AI and human empathy to create 'Hyper-intelligent SEO' for emotionally resonant content.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T05:11:07Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-ai-to-quantum-thatwares-bold-leap-into-the-future-of-seo/articleshow/122850674.cms"
+    },
+    {
+      "id": 53,
+      "title": "AI Should Run on 100% Renewable Energy by 2030, UN Chief Says",
+      "summary": "UN Chief calls for major tech firms to commit to powering AI with 100% renewable energy by 2030 and to be responsible in their use of water for cooling.",
+      "source": "Insurance Journal",
+      "category": "ethics",
+      "timestamp": "2025-07-23T05:10:50Z",
+      "url": "https://www.insurancejournal.com/news/international/2025/07/23/832790.htm"
+    },
+    {
+      "id": 54,
+      "title": "These tips from experts can help your teenager navigate AI companions",
+      "summary": "These tips from experts help teenagers navigate AI companions as they turn to AI for advice, guidance, and conversation.",
+      "source": "ABC News",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:10:18Z",
+      "url": "https://abcnews.go.com/Technology/wireStory/tips-experts-teenager-navigate-ai-companions-123986286"
+    },
+    {
+      "id": 55,
+      "title": "These tips from experts can help your teenager navigate AI companions",
+      "summary": "These tips can help teenagers navigate AI companions as they increasingly turn to AI for advice, guidance, and conversation.",
+      "source": "ABC News",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:10:15Z",
+      "url": "https://abcnews.go.com/US/wireStory/tips-experts-teenager-navigate-ai-companions-123986282"
+    },
+    {
+      "id": 56,
+      "title": "In an interview at the Federal Reserve, Sam Altman warns of an impending \"fraud crisis\" because of how AI could enable bad actors to impersonate other people (Clare Duffy/CNN)",
+      "summary": "Sam Altman warns of an impending 'fraud crisis' due to AI enabling bad actors to impersonate other people.",
+      "source": "Techmeme.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T05:10:00Z",
+      "url": "https://www.techmeme.com/250723/p2"
+    },
+    {
+      "id": 57,
+      "title": "Head to Head Analysis: IMAX (NYSE:IMAX) vs. News (NASDAQ:NWSA)",
+      "summary": "Comparison between IMAX and News as consumer discretionary companies to determine the superior investment.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T05:03:00Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/head-to-head-analysis-imax-nyseimax-vs-news-nasdaqnwsa/"
+    },
+    {
+      "id": 58,
+      "title": "Phishing simulations: What works and what doesn’t",
+      "summary": "Phishing simulations: What works and what doesn’t - Phishing is one of the oldest and most effective scams used by cybercriminals. No one is immune to them, not even internet security experts, as seen in the case of Troy Hunt, who recently fell for a phishing email.",
+      "source": "Help Net Security",
+      "category": "research",
+      "timestamp": "2025-07-23T05:00:05Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/23/phishing-simulations-effectiveness-in-organizations/"
+    },
     {
       "id": 51,
       "title": "McKinsey bars China business from generative AI consultancy work: Report",
@@ -378,78 +450,6 @@
       "category": "sports",
       "timestamp": "2025-07-23T03:11:00Z",
       "url": "https://onefootball.com/en/news/double-exit-vasco-and-bahia-knocked-out-of-copa-sul-americana-41411861"
-    },
-    {
-      "id": 55,
-      "title": "datagrid-ai 0.1.0a19",
-      "summary": "datagrid-ai 0.1.0a19 is the official Python library for the datagrid API, allowing developers to easily work with AI-related data. This library can be used for various applications that require AI capabilities.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T03:07:14Z",
-      "url": "https://pypi.org/project/datagrid-ai/0.1.0a19/"
-    },
-    {
-      "id": 56,
-      "title": "opencode-ai 0.1.0a30",
-      "summary": "opencode-ai 0.1.0a30 is the official Python library for the opencode API, facilitating access to AI functionalities. This update enhances the ecosystem for developers creating AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T03:07:00Z",
-      "url": "https://pypi.org/project/opencode-ai/0.1.0a30/"
-    },
-    {
-      "id": 57,
-      "title": "Bitcoin hitting $200K this year ‘very improbable,’ says analyst",
-      "summary": "Glassnode lead analyst James Check believes that Bitcoin hitting $200,000 this year is very improbable, but expects it to surpass that level in the next five years.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:04:57Z",
-      "url": "https://cointelegraph.com/news/bitcoin-price-200k-probability-crypto-analysts-buying-volume-btc"
-    },
-    {
-      "id": 58,
-      "title": " Bahia out of Sula, América de Cali meet Flu in last 16",
-      "summary": "Bahia was eliminated from the Conmebol South American 2025 playoff quarterfinals after losing 2-0 to América de Cali in Colombia. The match ended in a 0-0 draw in Salvador.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T03:04:00Z",
-      "url": "https://onefootball.com/en/news/bahia-out-of-sula-america-de-cali-meet-flu-in-last-16-41411866"
-    },
-    {
-      "id": 59,
-      "title": "Cathie Wood Buys The Nvidia Dip Amid Panic Over Stargate Project: Ark Swoops Up $2 Million Worth Of Hot AI Stock",
-      "summary": "Cathie Wood's Ark Invest purchased shares of NVIDIA Corp amid concerns regarding a significant AI project, acquiring $2 million worth of hot AI stock.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:02:04Z",
-      "url": "https://biztoc.com/x/62623ed49b2af635"
-    },
-    {
-      "id": 60,
-      "title": "beachman ‘64 e-bike brings back 1960s cafe racer and old-school motorcycle aesthetics",
-      "summary": "beachman ‘64 e-bike brings back 1960s cafe racer and old-school motorcycle aesthetics with an electric engine",
-      "source": "Designboom",
-      "category": "innovation",
-      "timestamp": "2025-07-23T03:01:34Z",
-      "url": "https://www.designboom.com/technology/beachman-64-e-bike-1960s-cafe-racer-old-school-motorcycle-07-23-2025/"
-    },
-    {
-      "id": 61,
-      "title": "Get ready for a narrower market over next 2-4 years where earnings surprises will drive share prices: Rakshit Ranjan",
-      "summary": "Get ready for a narrower market over next 2-4 years where earnings surprises will drive share prices: Rakshit Ranjan - Rakshit Ranjan highlights a slowdown in Nifty 50's earnings growth, coupled with high valuations, creating market uncertainty. He suggests a shift towards bottom-up stock picking, emphasizing earnings surprises as key drivers.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:01:00Z",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/get-ready-for-a-narrower-market-over-next-2-4-years-where-earnings-surprises-will-drive-share-prices-rakshit-ranjan/articleshow/122839088.cms"
-    },
-    {
-      "id": 62,
-      "title": "紙媒体のセキュリティ対策に新常識！",
-      "summary": "New security measures for print media with AI technology are becoming the new standard.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T03:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000006.000090821.html"
     }
   ]
 }
