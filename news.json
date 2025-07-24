@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-24T07:42:50.150Z",
+  "lastUpdate": "2025-07-24T07:53:19.465Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Arizona State Retirement System Invests $155,000 in BigBear.ai Holdings, Inc. (NYSE:BBAI)",
+      "summary": "Arizona State Retirement System invests $155,000 in BigBear.ai Holdings, Inc. (BBAI), acquiring 54,115 shares of the company's stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:52:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/arizona-state-retirement-system-invests-155000-in-bigbear-ai-holdings-inc-nysebbai/"
+    },
+    {
+      "id": 52,
+      "title": "7,893 Shares in Innodata Inc. (NASDAQ:INOD) Purchased by Arizona State Retirement System",
+      "summary": "Arizona State Retirement System acquired 7,893 shares of Innodata Inc., worth $283,000, in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:52:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/7893-shares-in-innodata-inc-nasdaqinod-purchased-by-arizona-state-retirement-system/"
+    },
+    {
+      "id": 53,
+      "title": "Tensor Processing Unit (TPU) Market Set to Hit USD 24.1 Billion by 2032, Growing at 31.90% CAGR, Fueled by Rapid AI and Machine Learning Adoption | AnalystView Market Insights",
+      "summary": "Tensor Processing Unit (TPU) Market Set to Hit USD 24.1 Billion by 2032, Growing at 31.90% CAGR, Fueled by Rapid AI and Machine Learning Adoption",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120004/0/en/Tensor-Processing-Unit-TPU-Market-Set-to-Hit-USD-24-1-Billion-by-2032-Growing-at-31-90-CAGR-Fueled-by-Rapid-AI-and-Machine-Learning-Adoption-AnalystView-Market-Insights.html"
+    },
+    {
+      "id": 54,
+      "title": "Amazon Acquires Startup That Makes Wearables to Summarise Your Chats",
+      "summary": "Amazon has acquired the San Francisco-based artificial intelligence (AI) startup Bee, which makes wearables to summarise your chats.",
+      "source": "Gadgets360.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T07:49:59Z",
+      "url": "https://www.gadgets360.com/ai/news/amazon-bee-ai-acquisition-wearables-device-summarise-conversations-8930412"
+    },
+    {
+      "id": 55,
+      "title": "Figma, Inc. (FIG) Plans to Raise $979 Million in July 31st IPO",
+      "summary": "Figma, Inc. (FIG) plans to raise $979 million in an initial public offering on Thursday, July 31st, IPO Scoop reports. The company plans to issue 36,937,080 shares at a price of $25.00-$28.00 per share.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-23T07:48:58Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/figma-inc-fig-plans-to-raise-979-million-in-july-31st-ipo/"
+    },
+    {
+      "id": 56,
+      "title": "Realme Narzo 80 Lite 4G Launched in India With 90Hz Screen, 6,300mAh Battery",
+      "summary": "Realme Narzo 80 Lite 4G launched in India with 90Hz screen and 6,300mAh battery, featuring toned-down specifications to keep pricing affordable.",
+      "source": "Gadgets360.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T07:48:48Z",
+      "url": "https://www.gadgets360.com/mobiles/news/realme-narzo-80-lite-4g-price-in-india-launch-sale-date-features-specifications-8930655"
+    },
+    {
+      "id": 57,
+      "title": "Microsoft Has Finally Unveiled Its Much-Awaited Surface Laptop 5G",
+      "summary": "Microsoft has unveiled the much-awaited Surface Laptop 5G, which is a 5G capable variant of the Surface Laptop 7 for Business with changes to internal components.",
+      "source": "Gadgets360.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T07:44:37Z",
+      "url": "https://www.gadgets360.com/laptops/news/microsoft-surface-laptop-5g-price-in-india-launch-sale-date-features-specifications-8930314"
+    },
     {
       "id": 51,
       "title": "Q1 preview: Infosys may revise FY26 revenue guidance to 1–3% CC growth",
@@ -387,69 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T06:14:00Z",
       "url": "https://onefootball.com/en/news/from-serie-a-to-abroad-top-10-sales-retegui-overtakes-kaka-41412145"
-    },
-    {
-      "id": 51,
-      "title": "vinagent 0.0.4.post4",
-      "summary": "Version 0.0.4.post4 of the vinagent AI Agent library has been released, providing advancements in AI technology for applications in various industries.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:45:06Z",
-      "url": "https://pypi.org/project/vinagent/0.0.4.post4/"
-    },
-    {
-      "id": 52,
-      "title": "舞台芸術祭「秋の隕石2025東京」全プログラムラインアップ発表のご案内",
-      "summary": "The Tokyo Stage Arts Festival 'Autumn Meteorite 2025 Tokyo' has announced its full program lineup. More information can be found in the press release provided.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000161106.html"
-    },
-    {
-      "id": 53,
-      "title": "Freshworks joins McLaren F1 as official partner",
-      "summary": "Freshworks joins McLaren F1 as official partner, providing their AI platform Freshservice to help manage IT services for the team.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T05:39:20Z",
-      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/freshworks-joins-mclaren-f1-as-official-partner/articleshow/122851296.cms"
-    },
-    {
-      "id": 54,
-      "title": "FBI Warns All Windows Users—Stop These Chrome Updates",
-      "summary": "FBI warns Windows users to stop certain Chrome updates deemed dangerous.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-23T05:37:25Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/23/fbi-warns-windows-users-stop-these-chrome-updates/"
-    },
-    {
-      "id": 55,
-      "title": "mlflow 3.1.4",
-      "summary": "MLflow 3.1.4 is an open source platform for the complete machine learning lifecycle.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T05:33:24Z",
-      "url": "https://pypi.org/project/mlflow/3.1.4/"
-    },
-    {
-      "id": 56,
-      "title": "Cervantes: Open-source, collaborative platform for pentesters and red teams",
-      "summary": "Cervantes is an open-source collaborative platform built for pentesters and red teams, offering a centralized workspace for managing projects, clients, vulnerabilities, and reports.",
-      "source": "Help Net Security",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:30:35Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/23/cervantes-open-source-collaborative-platform-pentesters-red-teams/"
-    },
-    {
-      "id": 57,
-      "title": "CNBC's UK Exchange newsletter: Britain's £72 billion under-the-radar success story",
-      "summary": "Britain's £72 billion under-the-radar success story in AI is highlighted, showcasing one of corporate Britain's greatest successes. Despite its size, this business remains relatively unknown to most Britons.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-23T05:30:01Z",
-      "url": "https://www.cnbc.com/2025/07/23/britains-72-billion-under-the-radar-success-story-cnbc-uk-exchange.html"
     }
   ]
 }
