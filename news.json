@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-24T15:16:39.719Z",
+  "lastUpdate": "2025-07-24T15:42:48.845Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Folds slim, still thinks big!",
+      "summary": "The Samsung Galaxy Z Fold7 is a slimmer, more intelligent smartphone with a brighter display, 200 MP camera, and top-notch performance.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:42:00Z",
+      "url": "https://www.thehindubusinessline.com/specials/technophile/folds-slim-still-thinks-big/article69846233.ece"
+    },
+    {
+      "id": 52,
+      "title": "Could Google be working on a more affordable Gemini plan? (APK teardown)",
+      "summary": "Google may be developing a more affordable Gemini plan called 'Google AI Lite' to provide better limits on AI features.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:41:36Z",
+      "url": "https://www.androidauthority.com/google-ai-lite-plan-gemini-apk-teardown-3580206/"
+    },
+    {
+      "id": 53,
+      "title": "Master 14 languages with our exclusive Babbel coupon",
+      "summary": "Master 14 languages with our exclusive Babbel coupon - Learning a new language doesn’t have to mean expensive classes or clunky software. With this deal on Babbel, you can explore up to 14 languages on your own time — and on any device.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:40:58Z",
+      "url": "http://9to5toys.com/2025/07/23/master-14-languages-with-our-exclusive-babbel-coupon/"
+    },
+    {
+      "id": 54,
+      "title": "生成AI ウェビナーWEEK！加速する業務効率化と生成AI活用！LLM・RAGなど最新の活用事例を4社が徹底解説！",
+      "summary": "A webinar week focusing on the use of generative AI for business efficiency, with four companies presenting examples of LLM, RAG, and other latest applications.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:40:01Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000581.000053344.html"
+    },
+    {
+      "id": 55,
+      "title": "Absorb Software’s 2025 Upskilling Report Reveals Execution Gap, Underscores Strategic Learning as Key to Business Growth",
+      "summary": "Absorb Software’s 2025 Upskilling Report highlights an execution gap and emphasizes strategic learning as crucial for business growth.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-23T15:40:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120504/0/en/Absorb-Software-s-2025-Upskilling-Report-Reveals-Execution-Gap-Underscores-Strategic-Learning-as-Key-to-Business-Growth.html"
+    },
+    {
+      "id": 56,
+      "title": "Google AI Summaries Are 'Killing' Your Clicks, New Study Suggests",
+      "summary": "A new study suggests that Google's 'AI Overviews' summaries significantly alter search behavior, reducing clicks on links in search results.",
+      "source": "Android Headlines",
+      "category": "research",
+      "timestamp": "2025-07-23T15:39:40Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-search-ai-overviews-summaries-less-clicks-on-links-study.html"
+    },
+    {
+      "id": 57,
+      "title": "Alibaba Group Holding (BABA) Rated as a Buy at Benchmark amid Food Delivery Investments",
+      "summary": "Alibaba Group Holding Ltd rated as a Buy at Benchmark with huge upside potential in AI stocks, following investments and a $176 price target.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-23T15:39:08Z",
+      "url": "https://biztoc.com/x/cb1a308f906711de"
+    },
+    {
+      "id": 58,
+      "title": "Oppenheimer Touts Marvell Technology (MRVL) as Top Data Center Play amid AI Infrastructure Ramp",
+      "summary": "Oppenheimer touts Marvell Technology (MRVL) as a top data center play with huge upside potential driven by a ramp-up in AI infrastructure.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:39:06Z",
+      "url": "https://biztoc.com/x/7f1278ffa2377b6b"
+    },
+    {
+      "id": 59,
+      "title": "AI Regulations Bring Deluge of Lobbying Efforts to DC",
+      "summary": "Businesses and trade groups are lobbying for a say in federal AI regulations, with over 500 organizations involved in efforts according to a report by Financial Times.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:39:03Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-regulations-bring-deluge-of-lobbying-efforts-to-dc/"
+    },
+    {
+      "id": 60,
+      "title": "AI Regulations Bring Deluge of of Lobbying Efforts to DC",
+      "summary": "AI Regulations Bring Deluge of of Lobbying Efforts to DC - Businesses and trade groups are reportedly scrambling to have a say in federal artificial intelligence (AI) regulations.",
+      "source": "pymnts.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:39:03Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-regulations-bring-deluge-of-of-lobbying-efforts-to-dc/"
+    },
+    {
+      "id": 61,
+      "title": "Partners with Abstract to Boost AI-Powered Threat Detection",
+      "summary": "SentinelOne partners with Abstract Security to boost AI-powered threat detection through integration of their platforms.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:58Z",
+      "url": "https://biztoc.com/x/f877aeda0e692a4e"
+    },
+    {
+      "id": 62,
+      "title": "Elastic NV’s (ESTC) Security Solution Affirms 100% Protection in Tests",
+      "summary": "Elastic NV's security solution achieved 100% protection in AV-Comparatives Business Security Test, showcasing its potential in the AI field.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:50Z",
+      "url": "https://biztoc.com/x/6250bb6673a119b8"
+    },
+    {
+      "id": 63,
+      "title": "Evercore Affirms ‘In Line’ Rating on Verint Systems (VRNT) amid Acquisition Reports",
+      "summary": "Evercore affirms 'In Line' rating on Verint Systems (VRNT) amid acquisition reports, highlighting the company's potential in the AI sector.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:49Z",
+      "url": "https://biztoc.com/x/06f45b4acc542d6e"
+    },
+    {
+      "id": 64,
+      "title": "Citizens JMP Affirms Market Perform Stance on Nice (NICE) Amid FAA Award",
+      "summary": "Nice Ltd (NASDAQ:NICE) receives a Market Perform rating with a $300 price target due to its top AI stock status and recent FAA award.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:38:39Z",
+      "url": "https://biztoc.com/x/e670c5034b50cc4a"
+    },
+    {
+      "id": 65,
+      "title": "Launches GradientAI to Simplify GenAI Development",
+      "summary": "DigitalOcean Holdings, Inc. launched GradientAI Platform on July 9 to simplify GenAI development, offering developers a managed service to build artificial intelligence applications.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:37Z",
+      "url": "https://biztoc.com/x/4cd497f4882b7d76"
+    },
+    {
+      "id": 66,
+      "title": "Eight Children Suffer Seizures During Church Concert",
+      "summary": "Eight children suffered seizures during a church concert where the voice was AI-generated, leading to hospitalizations.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:38:31Z",
+      "url": "https://biztoc.com/x/96e4ac7675a075f2"
+    },
+    {
+      "id": 67,
+      "title": "HIVE Digital Technologies Ltd. (HIVE) Rated as a Buy on Crypto and HPC Opportunities",
+      "summary": "HIVE Digital Technologies Ltd. (NASDAQ:HIVE) is rated as a Buy on Crypto and HPC Opportunities with a 'Buy' rating and $6 price target. The company is considered one of the top AI stocks with significant upside potential.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T15:38:30Z",
+      "url": "https://biztoc.com/x/e0c21858e33caa45"
+    },
+    {
+      "id": 68,
+      "title": "Taps Accelsius Cooling System to Enhance Data Center Operations",
+      "summary": "Equinix partners with Accelsius to enhance data center operations by utilizing their advanced cooling system, potentially boosting their position as a top AI stock.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:29Z",
+      "url": "https://biztoc.com/x/b51922aee1c9ee2d"
+    },
+    {
+      "id": 69,
+      "title": "Big Dog Shows Up at Dachshund Meetup, Unprepared for Response",
+      "summary": "A group of dachshunds were left in a frenzy after a larger dog arrived at their group meetup in a park. A short clip of the moment, which was posted to TikTok by a dachshund owner in attendance, has left viewers amused.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:38:23Z",
+      "url": "https://biztoc.com/x/8c9fc5f2fac055f5"
+    },
+    {
+      "id": 70,
+      "title": "Commence introduces Amplify for health data management",
+      "summary": "Commence introduces Amplify, a health data management solution using AI and a data-first strategy to streamline workflows and address fragmentation.",
+      "source": "Hospitalmanagement.net",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:38:12Z",
+      "url": "https://www.hospitalmanagement.net/news/commence-introduces-amplify/"
+    },
     {
       "id": 51,
       "title": "US Falls to Record Low in Powerful Passport Ranking",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T14:41:34Z",
       "url": "https://www.channelnewsasia.com/business/amphenol-forecasts-upbeat-quarterly-results-strong-demand-electronic-equipment-5254506"
-    },
-    {
-      "id": 63,
-      "title": "Adopt An NPR Station, Attention Junction, WordPress, More: Wednesday ResearchBuzz, July 23, 2025",
-      "summary": "Congress has voted to rescind public media's funding, prompting the initiative to adopt NPR stations to help preserve independent journalism and community programming across America.",
-      "source": "Researchbuzz.me",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:41:03Z",
-      "url": "https://researchbuzz.me/2025/07/23/adopt-an-npr-station-attention-junction-wordpress-more-wednesday-researchbuzz-july-23-2025/"
-    },
-    {
-      "id": 64,
-      "title": "Trump Just Dropped His AI Action Plan. Here's What's In It",
-      "summary": "Trump's AI action plan covers a range of topics including infrastructure and 'ideological bias', outlining the president's priorities on artificial intelligence.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:40:47Z",
-      "url": "https://www.cnet.com/tech/services-and-software/trump-just-dropped-his-ai-action-plan-heres-whats-in-it/"
-    },
-    {
-      "id": 65,
-      "title": "Samsung Galaxy Watch8: The ‘first smartwatch’ with Google Gemini out-of-the-box, and why it matters",
-      "summary": "Samsung Galaxy Watch8 is the first smartwatch with Google Gemini AI, streamlining tasks and enhancing productivity through voice commands. The watch also features AI-powered health features and optimized notifications for users.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-23T14:39:55Z",
-      "url": "https://timesofindia.indiatimes.com/technology/wearables/samsung-galaxy-watch8-the-first-smartwatch-with-google-gemini-out-of-the-box-and-why-it-matters/articleshow/122862327.cms"
-    },
-    {
-      "id": 66,
-      "title": "opentelemetry-instrumentation-together 0.43.1",
-      "summary": "The release of OpenTelemetry Together 0.43.1 focuses on AI instrumentation, enhancing the capabilities for tracking and monitoring AI applications.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:39:24Z",
-      "url": "https://pypi.org/project/opentelemetry-instrumentation-together/0.43.1/"
-    },
-    {
-      "id": 67,
-      "title": "TakeUp Unlocks Instant AI-Powered Pricing for RMS Customers in New Integration Rollout",
-      "summary": "TakeUp announced a new integration with RMS, providing instant AI-powered pricing for independent hospitality properties using the RMS property management software.",
-      "source": "Hospitality Net",
-      "category": "applications",
-      "timestamp": "2025-07-23T14:39:21Z",
-      "url": "https://www.hospitalitynet.org/news/4128277.html"
-    },
-    {
-      "id": 51,
-      "title": "In-Person Sales Generate 3x Higher Conversions Per The CROs of Toast, Splunk, Brex and Slice",
-      "summary": "In-person sales have been shown to generate 3x higher conversions according to CROs of various companies. While virtual selling is prevalent in B2B sales, the effectiveness of in-person interactions cannot be overlooked.",
-      "source": "Saastr.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T14:15:37Z",
-      "url": "https://www.saastr.com/in-person-sales-generate-3x-higher-conversions-per-the-cros-of-toast-splunk-brex-and-slice/"
-    },
-    {
-      "id": 52,
-      "title": "iPhone 17 Pro vs Galaxy S25: All expected differences",
-      "summary": "iPhone 17 Pro vs Galaxy S25: Apple is finally catching up to Samsung on several fronts in terms of AI-related features.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:14:41Z",
-      "url": "https://www.phonearena.com/reviews/iphone-17-pro-vs-galaxy-s25_id7542"
-    },
-    {
-      "id": 53,
-      "title": "Wealth Management Software Markets Report 2025 Featuring 44 Companies Analysis - Robo-Advisory Integration Strengthens the Business Case for Scalable Software Architectures",
-      "summary": "The global market for Wealth Management Software was valued at US$7.5 Billion in 2024 and Robo-Advisory integration is strengthening the business case for scalable software architectures.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:14:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120432/28124/en/Wealth-Management-Software-Markets-Report-2025-Featuring-44-Companies-Analysis-Robo-Advisory-Integration-Strengthens-the-Business-Case-for-Scalable-Software-Architectures.html"
-    },
-    {
-      "id": 54,
-      "title": "Top IT companies’ deal wins rise 17% in Q1 led by larger deals",
-      "summary": "Top Indian IT companies have experienced a 17% increase in deal wins in Q1, with $21 billion in deal wins reported in Q2. These larger deals indicate changing trends in the industry.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:13:33Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/top-it-companies-deal-wins-rise-17-in-q1-led-by-larger-deals/article69846918.ece"
-    },
-    {
-      "id": 55,
-      "title": "Stress, safety gaps and sustainability concerns impacting North American workplaces",
-      "summary": "Stress, safety gaps, and sustainability concerns are impacting North American workplaces, with workers feeling overwhelmed by these issues.",
-      "source": "Ohscanada.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:13:25Z",
-      "url": "https://www.ohscanada.com/stress-safety-gaps-and-sustainability-concerns-impacting-north-american-workplaces/"
-    },
-    {
-      "id": 56,
-      "title": "How the Future of AI Health Care is Taking Shape in the Middle East",
-      "summary": "Abu Dhabi-based company M42 is expanding rapidly in the AI health care sector, underpinning the local health system and making advancements abroad.",
-      "source": "Newsweek",
-      "category": "startups",
-      "timestamp": "2025-07-23T14:13:03Z",
-      "url": "https://www.newsweek.com/nw-ai/how-future-ai-health-care-taking-shape-middle-east-2102399"
-    },
-    {
-      "id": 57,
-      "title": "On Notifications",
-      "summary": "New ideas are emerging to make communication among interacting agents more reliable and precise.",
-      "source": "Acm.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:12:22Z",
-      "url": "http://cacm.acm.org/opinion/on-notifications/"
-    },
-    {
-      "id": 58,
-      "title": "Tech Industry Figures Suddenly Very Concerned That AI Use Is Leading to Psychotic Episodes",
-      "summary": "Tech industry figures are raising concerns about the use of AI leading to psychotic episodes, a phenomenon known as 'ChatGPT psychosis'. The recent breakdown of a prominent OpenAI investor has sparked widespread discussion on the issue.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:11:26Z",
-      "url": "https://futurism.com/tech-industry-ai-mental-health"
-    },
-    {
-      "id": 59,
-      "title": "Alex Schinasi's Tote-On-Wheels Makes Schlepping Easy",
-      "summary": "Alex Schinasi discusses all things Hulken, schlepping and building a successful company as a female entrepreneur ahead of the Women's Global Impact Summit.",
-      "source": "Newsweek",
-      "category": "startups",
-      "timestamp": "2025-07-23T14:11:01Z",
-      "url": "https://www.newsweek.com/womens-global-impact-2025-alex-schinasi-2098019"
-    },
-    {
-      "id": 60,
-      "title": "Stocks Supported as US Announces a Trade Deal with Japan",
-      "summary": "Stocks rise as the US announces a trade deal with Japan, with the S&P 500, Dow Jones Industrials, and Nasdaq 100 all showing gains.",
-      "source": "Barchart.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:10:31Z",
-      "url": "https://www.barchart.com/story/news/33587983/stocks-supported-as-us-announces-a-trade-deal-with-japan"
-    },
-    {
-      "id": 61,
-      "title": "Building a 60% AI Team: Efficient, Profitable, and Surprisingly Lonely",
-      "summary": "Building a 60% AI Team: Efficient, Profitable, and Surprisingly Lonely - What nobody tells you about building an AI-first team",
-      "source": "Saastr.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T14:10:15Z",
-      "url": "https://www.saastr.com/building-a-60-ai-team-efficient-profitable-and-surprisingly-lonely/"
-    },
-    {
-      "id": 62,
-      "title": "StarTree Opens the Iceberg Lakehouse to the Outside World, Turning Passive Storage into a Real-Time Engine for Customer and AI Applications",
-      "summary": "StarTree opens the Iceberg Lakehouse to serve as both analytic and serving layer on top of Iceberg, delivering real-time engine for customer and AI applications.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:10:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/23/startree-opens-the-iceberg-lakehouse-to-the-outside-world-turning-passive-storage-into-a-real-time-engine-for-customer-and-ai-applications.aspx"
-    },
-    {
-      "id": 63,
-      "title": "While NVIDIA and AMD Compete Fiercely in the “AI Wars,” It’s TSMC Which is Actually Playing On Both Sides; Silently Powering Them All and Raking in Billions",
-      "summary": "While NVIDIA and AMD compete in the AI race, TSMC silently powers them all and is expected to be the center of the AI supply chain moving ahead, raking in billions.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:09:56Z",
-      "url": "https://wccftech.com/while-nvidia-and-amd-compete-fiercely-in-the-ai-wars-its-tsmc-which-is-actually-playing-on-both-sides/"
-    },
-    {
-      "id": 64,
-      "title": "Analyst Bullish on Reddit (RDDT) Amid a New ‘Phenomenal’ Data Point Despite AI Concerns",
-      "summary": "Analyst bullish on Reddit (RDDT) despite AI concerns, with Reddit Inc. being one of the 10 stocks to buy and sell in 2025 according to a top analyst.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:09:51Z",
-      "url": "https://biztoc.com/x/63b9456af8be3c1f"
-    },
-    {
-      "id": 65,
-      "title": "EQT Earnings: Strong Production",
-      "summary": "EQT exceeded earnings expectations in Q2 and raised its sales volume forecast for 2025 with the Olympus acquisition. The company stands to benefit from the increasing demand for power from AI data centers.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:09:44Z",
-      "url": "https://biztoc.com/x/cea829dca1f6722c"
     }
   ]
 }
