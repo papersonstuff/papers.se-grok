@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-24T22:44:41.251Z",
+  "lastUpdate": "2025-07-24T22:56:06.280Z",
   "items": [
+    {
+      "id": 51,
+      "title": "OpenAI and partners are building a massive AI data center in Texas",
+      "summary": "OpenAI and partners are building a massive AI data center in Texas, described as a gigantic infrastructure project.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:55:17Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450788"
+    },
+    {
+      "id": 52,
+      "title": "praisonaiagents 0.0.146",
+      "summary": "Praison AI agents 0.0.146 are designed for completing complex tasks with Self Reflection Agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T22:55:04Z",
+      "url": "https://pypi.org/project/praisonaiagents/0.0.146/"
+    },
+    {
+      "id": 53,
+      "title": "Sonos Gets New CEO After App Disaster",
+      "summary": "Sonos appoints Tom Conrad as permanent CEO after app redesign disaster under former CEO Patrick Spence.",
+      "source": "MacRumors",
+      "category": "startups",
+      "timestamp": "2025-07-23T22:53:46Z",
+      "url": "https://www.macrumors.com/2025/07/23/sonos-gets-new-ceo-after-app-disaster/"
+    },
+    {
+      "id": 54,
+      "title": "AI server boom runs into fiberglass bottleneck",
+      "summary": "AI server boom faces fiberglass bottleneck as CSPs invest in ASICs, leading to rapid increase in shipments by 2025 but substrate supply chain issues arise.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:53:28Z",
+      "url": "https://www.digitimes.com/news/a20250723PD208/capacity-supply-chain-asic-fiberglass-cloth-2026.html"
+    },
+    {
+      "id": 55,
+      "title": "What’s in Trump’s new AI policy and why it matters",
+      "summary": "President Trump unveiled his approach to the development of AI, signing three executive orders including targeting 'ideological bias' in AI chatbots. The new policy aims to address ethical concerns in the advancement of AI technology.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:53:23Z",
+      "url": "https://biztoc.com/x/53559dd8aff26b79"
+    },
+    {
+      "id": 56,
+      "title": "Rep. Ted Lieu says provisions of Trump's AI Action Plan have \"massive implementation issues\"",
+      "summary": "Rep. Ted Lieu criticizes Trump's AI Action Plan for having massive implementation issues, while the administration aims to relax regulations and accelerate AI development in the U.S.",
+      "source": "CBS News",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:53:00Z",
+      "url": "https://www.cbsnews.com/video/ted-lieu-provisions-trump-ai-action-plan-massive-implementation-issues/"
+    },
+    {
+      "id": 57,
+      "title": "Mattel Reports 6% Sales Decline in Uncertain Trade Environment",
+      "summary": "Mattel reports 6% sales decline due to uncertain trade environment impacting sales in the U.S.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:52:33Z",
+      "url": "http://www.pymnts.com/earnings/2025/mattel-reports-6percent-sales-decline-in-uncertain-trade-environment/"
+    },
+    {
+      "id": 58,
+      "title": "Lilbits: Qi2 25W wireless charging, more Pixel 10 series leaks, and an effort to bring back BlackBerry",
+      "summary": "UGREEN introduces power bank supporting 25W wireless charging with new Qi 2.2 standard, joining a growing market of similar products.",
+      "source": "Liliputing",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:51:38Z",
+      "url": "https://liliputing.com/lilbits-qi2-25w-wireless-charging-more-pixel-10-series-leaks-and-an-effort-to-bring-back-blackberry/"
+    },
+    {
+      "id": 59,
+      "title": "Alphabet’s Revenue Skyrockets, And AI Overviews Gobble More Of The Search Pie",
+      "summary": "Alphabet's revenue increased significantly in the second quarter, with AI playing a larger role in search. Google's success contrasts with the struggles of other web companies.",
+      "source": "AdExchanger",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:50:57Z",
+      "url": "http://www.adexchanger.com/online-advertising/alphabets-revenue-skyrockets-and-ai-overviews-gobble-more-of-the-search-pie/"
+    },
+    {
+      "id": 60,
+      "title": "Why it’s too early to write off Tim Cook",
+      "summary": "Apple is facing criticism for its lack of product innovation and lagging development in generative AI. However, it is too early to write off Tim Cook as discussions about executive personnel changes emerge.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:50:50Z",
+      "url": "https://www.digitimes.com/news/a20250723PD215/apple-ceo-business-genai-iphone.html"
+    },
+    {
+      "id": 61,
+      "title": "revenium-mcp 0.1.25",
+      "summary": "revenium-mcp 0.1.25 introduces Model Context Protocol (MCP) server for Revenium API monitoring, analytics, and AI spending management.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T22:50:49Z",
+      "url": "https://pypi.org/project/revenium-mcp/0.1.25/"
+    },
+    {
+      "id": 62,
+      "title": "Tesla’s sales fall most for a decade in another rough quarter",
+      "summary": "Tesla's sales fall most for a decade, with shares remaining little changed after extended trading gains",
+      "source": "Bloomberg",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:50:22Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/tesla-second-quarter-earnings-miss-wall-street-expectations?embedded-checkout=true"
+    },
+    {
+      "id": 63,
+      "title": "What’s in Trump’s new AI policy and why it matters",
+      "summary": "President Trump unveiled his approach to the development of AI, signing three executive orders including one targeting 'ideological bias' in AI chatbots.",
+      "source": "PBS",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:50:12Z",
+      "url": "https://www.pbs.org/newshour/show/whats-in-trumps-new-ai-policy-and-why-it-matters"
+    },
+    {
+      "id": 64,
+      "title": "AWS shutters Shanghai AI lab, following Microsoft and IBM exits",
+      "summary": "AWS has shut down its Shanghai AI lab, following the exits of Microsoft and IBM. This aligns with AWS's future strategic direction and resource allocation.",
+      "source": "Digitimes",
+      "category": "research",
+      "timestamp": "2025-07-23T22:48:18Z",
+      "url": "https://www.digitimes.com/news/a20250723PD234/aws-shanghai-silicon-valley-technology-machine-learning.html"
+    },
     {
       "id": 51,
       "title": "Google earnings keep Silicon Valley’s AI flywheel spinning",
@@ -324,132 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-23T21:33:24Z",
       "url": "https://www.forbes.com/sites/trevorclawson/2025/07/23/eu-wide-plan-aimsto-nudge-researchers-towards-startup-life/"
-    },
-    {
-      "id": 58,
-      "title": "Prime Minister secures thousands of British jobs and £6 billion in investment and export wins as historic trade deal with India signed",
-      "summary": "Prime Minister secures thousands of British jobs and £6 billion in investment and export wins as historic trade deal with India signed",
-      "source": "Www.gov.uk",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:30:01Z",
-      "url": "https://www.gov.uk/government/news/prime-minister-secures-thousands-of-british-jobs-and-6-billion-in-investment-and-export-wins-as-historic-trade-deal-with-india-signed"
-    },
-    {
-      "id": 59,
-      "title": "Lovable AI Hits $100M In Record Time And Launches AI Agent Chasing $1B",
-      "summary": "Lovable AI hits $100M ARR in 8 months, launching Lovable Agent with 91% fewer errors to redefine software development.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-23T21:29:51Z",
-      "url": "https://www.forbes.com/sites/digital-assets/2025/07/23/lovable-ai-hits-100m-in-record-time-and-launches-ai-agent-chasing-1b/"
-    },
-    {
-      "id": 60,
-      "title": "Meta Oakley vs. Meta Ray-Bans: Smart glasses for very different audiences",
-      "summary": "Meta's new smart glasses from Oakley and Ray-Ban target different audiences. A comparison between the two models is provided to help inform potential pre-orders.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-23T21:29:00Z",
-      "url": "https://www.zdnet.com/article/meta-oakley-vs-meta-ray-bans-smart-glasses-with-very-different-audiences/"
-    },
-    {
-      "id": 61,
-      "title": "Netflix's The Hunting Wives sets the stage for Season 2! Cast, plot, spoiler, ending explained, and all details you need to know",
-      "summary": "Netflix's 'The Hunting Wives' has captivated audiences with its scandalous plot and suspenseful twists, sparking speculation about a second season based on May Cobb's novel.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:28:49Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/the-hunting-wives-netflix-news-netflixs-the-hunting-wives-sets-the-stage-for-season-2-cast-plot-spoiler-ending-explained-and-all-details-you-need-to-know-hunting-wives-ending-explained-/articleshow/122867125.cms"
-    },
-    {
-      "id": 62,
-      "title": "Cribl Launches FinOps Center to Help Enterprises Connect Data Usage to Business Impact",
-      "summary": "Cribl launches FinOps Center to help enterprises connect data usage to business impact, providing a clear view of data flow, costs, and value.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:28:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/23/cribl-launches-finops-center-to-help-enterprises-connect-data-usage-to-business-impact.aspx"
-    },
-    {
-      "id": 63,
-      "title": "zagency 0.5.1",
-      "summary": "zagency 0.5.1 is an agentic framework for building AI agents that integrates with LLM technology.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-23T21:27:42Z",
-      "url": "https://pypi.org/project/zagency/0.5.1/"
-    },
-    {
-      "id": 64,
-      "title": "Show HN: ReceiptIQ Pro – AI receipt scanner that tracks spending/budgets (iOS)",
-      "summary": "ReceiptIQ Pro is an AI receipt scanner app developed by a solo iOS developer that categorizes items on receipts and helps track spending and budgets.",
-      "source": "Receiptiq.me",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:26:54Z",
-      "url": "https://receiptiq.me/"
-    },
-    {
-      "id": 65,
-      "title": "What Google just revealed has investors running",
-      "summary": "Alphabet's strong second quarter performance surpassed expectations, but its stock dropped in after-hours trading, leaving investors puzzled.",
-      "source": "Rolling Out",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:26:22Z",
-      "url": "https://rollingout.com/2025/07/23/what-google-just-revealed-has-investors/"
-    },
-    {
-      "id": 51,
-      "title": "pybibx 5.1.5",
-      "summary": "pybibx 5.1.5 is a bibliometric and scientometric library that utilizes artificial intelligence tools. It aims to enhance research capabilities by providing advanced analytics and insights for academic publications.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-23T21:15:29Z",
-      "url": "https://pypi.org/project/pybibx/5.1.5/"
-    },
-    {
-      "id": 52,
-      "title": "Tesla Reports 16% Profit Drop To $1.2 Bn On Lower Auto Sales",
-      "summary": "Tesla reported a 16% profit drop to $1.2 billion due to lower auto sales, as competition in the electric vehicle market intensifies and backlash over CEO Elon Musk's political involvement persists.",
-      "source": "International Business Times",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:15:11Z",
-      "url": "https://www.ibtimes.com/tesla-reports-16-profit-drop-12-bn-lower-auto-sales-3779268"
-    },
-    {
-      "id": 53,
-      "title": "AI 'Vibe Coding' Agent Deleted An Entire Database Because It Panicked",
-      "summary": "AI 'Vibe Coding' Agent Deleted An Entire Database Because It Panicked - Before you think about using AI for 'vibe coding,' heed the warning of a CEO who lost an entire database when the AI malfunctioned.",
-      "source": "BGR",
-      "category": "ethics",
-      "timestamp": "2025-07-23T21:15:00Z",
-      "url": "https://www.bgr.com/1920398/ai-vibe-coding-agent-deleted-entire-database/"
-    },
-    {
-      "id": 54,
-      "title": "White House releases broad set of AI policy recommendations",
-      "summary": "White House releases policy paper with over 90 recommendations on federal government's approach to artificial intelligence.",
-      "source": "SiliconANGLE News",
-      "category": "research",
-      "timestamp": "2025-07-23T21:14:37Z",
-      "url": "https://siliconangle.com/2025/07/23/white-house-releases-broad-set-ai-policy-recommendations/"
-    },
-    {
-      "id": 55,
-      "title": "memorix-ai added to PyPI",
-      "summary": "memorix-ai, the memory layer for AI agents, has been added to PyPI, aiding in the development and optimization of AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:14:13Z",
-      "url": "https://pypi.org/project/memorix-ai/"
-    },
-    {
-      "id": 56,
-      "title": "Is Stephen Colbert moving to CNN?",
-      "summary": "Stephen Colbert, host of 'The Late Show' on CBS, announced his move to CNN when his contract ends in July 2025.",
-      "source": "Snopes.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:13:00Z",
-      "url": "https://www.snopes.com//fact-check/stephen-colbert-going-cnn/"
     }
   ]
 }
