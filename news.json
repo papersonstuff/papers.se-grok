@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-23T23:51:39.339Z",
+  "lastUpdate": "2025-07-24T01:18:51.931Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI talent gap: Savvy freshers bag 4x more pay",
+      "summary": "AI talent gap: Savvy freshers bag 4x more pay - Indian tech firms struggle with a shortage of AI experts. Demand for AI skills is rising faster than the talent pool. Companies like HCLTech and Publicis Sapient are adapting hiring strategies.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-23T01:18:12Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-talent-gap-savvy-freshers-bag-4x-more-pay/articleshow/122847650.cms"
+    },
+    {
+      "id": 52,
+      "title": "Alibaba launches open-source AI coding model, touted as its most advanced to date",
+      "summary": "Alibaba launches open-source AI coding model, Qwen3-Coder, described as its most advanced tool for software development.",
+      "source": "CNA",
+      "category": "innovation",
+      "timestamp": "2025-07-23T01:13:37Z",
+      "url": "https://www.channelnewsasia.com/business/alibaba-launches-open-source-ai-coding-model-touted-its-most-advanced-date-5253066"
+    },
+    {
+      "id": 53,
+      "title": "Alibaba launches open-source AI coding model, touted as its most advanced to date",
+      "summary": "Alibaba launches open-source AI coding model, Qwen3-Coder, touted as its most advanced to date.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-23T01:13:37Z",
+      "url": "https://tech.yahoo.com/ai/articles/alibaba-launches-open-source-ai-011337229.html"
+    },
+    {
+      "id": 54,
+      "title": "The Perils of an .xyz Domain",
+      "summary": "The Perils of an .xyz Domain - Create a free virtual HQ in a few seconds.",
+      "source": "Spotvirtual.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T01:11:53Z",
+      "url": "https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain"
+    },
+    {
+      "id": 55,
+      "title": "On \"ChatGPT Psychosis\" and LLM Sycophancy",
+      "summary": "The article discusses the ethical implications of engaging with individuals suffering from psychological conditions such as schizophrenia in online conversations regarding large language models.",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T01:11:34Z",
+      "url": "https://www.lesswrong.com/posts/f86hgR5ShiEj4beyZ/on-chatgpt-psychosis-and-llm-sycophancy"
+    },
+    {
+      "id": 56,
+      "title": "Pegasystems’ strong earnings and revenue don’t impress investors, and its stock flounders",
+      "summary": "Pegasystems' strong earnings and revenue don't impress investors, causing its stock to fall sharply in extended trading.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-23T01:08:02Z",
+      "url": "https://siliconangle.com/2025/07/22/pegasystems-strong-earnings-revenue-dont-impress-investors-stock-flounders/"
+    },
+    {
+      "id": 57,
+      "title": "Tony Robbins Sues Over Unauthorized AI Chatbots",
+      "summary": "Tony Robbins is suing over unauthorized AI chatbots on YesChat that impersonate famous personalities like Larry David, Stephen King, and Roger Ebert. This raises ethical concerns about using AI to impersonate real individuals without their consent.",
+      "source": "Variety",
+      "category": "ethics",
+      "timestamp": "2025-07-23T01:04:25Z",
+      "url": "https://variety.com/2025/biz/news/tony-robbins-ai-chatbot-yeschat-lawsuit-1236467440/"
+    },
+    {
+      "id": 58,
+      "title": "NOB DATA、人工超知能（ASI）時代の未来社会を構想する社内ベンチャー「ASI 未来社会研究所」設立",
+      "summary": "NOB DATA establishes internal venture 'ASI Future Society Research Institute' to envision future society in the era of artificial superintelligence (ASI).",
+      "source": "Prtimes.jp",
+      "category": "research",
+      "timestamp": "2025-07-23T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000068057.html"
+    },
+    {
+      "id": 59,
+      "title": "ADX Consulting、文教市場へ本格参入",
+      "summary": "ADX Consulting is making a full-scale entry into the education market.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-23T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000034.000091356.html"
+    },
+    {
+      "id": 60,
+      "title": "【東大阪市小若江】24時間ジム「エコフィット24近大前店」8/4オープン！近大すぐ／月額2,980円～・契約縛りなしの無人ジム",
+      "summary": "A 24-hour gym called Eco Fit 24 Kondai-mae will open in Higashiosaka City, offering memberships starting from 2,980 yen per month with no contract. The gym is unmanned and conveniently located near Kinki University.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000079.000095989.html"
+    },
+    {
+      "id": 61,
+      "title": "Fake E-commerce Platforms as Attack Vectors & Threats in 2025",
+      "summary": "Fake e-commerce platforms pose threats as attack vectors in 2025, with a focus on detection methods and legal countermeasures to combat AI-powered scam sites.",
+      "source": "Darknet.org.uk",
+      "category": "research",
+      "timestamp": "2025-07-23T01:00:00Z",
+      "url": "https://www.darknet.org.uk/2025/07/fake-e-commerce-platforms-as-attack-vectors-threats-in-2025/"
+    },
+    {
+      "id": 62,
+      "title": "「Spider AF SiteScan」正式リリースのお知らせ―マーケティング活動を守る新時代のセキュリティSaaS―",
+      "summary": "Spider AF SiteScan, a new security SaaS, has been officially released by Spider Labs to protect marketing activities in a new era.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-23T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000172.000031981.html"
+    },
+    {
+      "id": 63,
+      "title": "AI Startup Investments Outpace VC-Backed Exits",
+      "summary": "Venture firms are finding that more money is going into AI startup investments than is coming out of exits.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T00:59:37Z",
+      "url": "https://biztoc.com/x/d03ba2f93e8b250c"
+    },
+    {
+      "id": 64,
+      "title": "Magentic Raises $5.5 Million for AI Agents for Supply Chains",
+      "summary": "Magentic raised $5.5 million in funding to grow its AI agent platform for supply chain savings.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T00:59:24Z",
+      "url": "https://biztoc.com/x/1dc510dea740bcbb"
+    },
+    {
+      "id": 65,
+      "title": "9 questions to ask before adding generative AI to your data project",
+      "summary": "Will adding generative AI to your data project improve the outcomes? It might, but it’s not guaranteed. It can be harmful and costly to add generative AI in the...",
+      "source": "Datasavvy.me",
+      "category": "applications",
+      "timestamp": "2025-07-23T00:52:12Z",
+      "url": "https://datasavvy.me/2025/07/22/9-questions-to-ask-before-adding-generative-ai-to-your-data-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=9-questions-to-ask-before-adding-generative-ai-to-your-data-project"
+    },
+    {
+      "id": 66,
+      "title": "Morning Headlines 7/23/25",
+      "summary": "Senate Committee approves the FY 2026 MilCon-VA Appropriations Bill",
+      "source": "Histalk2.com",
+      "category": "research",
+      "timestamp": "2025-07-23T00:51:30Z",
+      "url": "https://histalk2.com/2025/07/22/morning-headlines-7-23-25/"
+    },
+    {
+      "id": 67,
+      "title": "agno-cli added to PyPI",
+      "summary": "agno-cli has been added to PyPI, offering an enhanced Agno CLI that serves as a multi-agent terminal assistant with advanced reasoning and tool integration.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T00:47:13Z",
+      "url": "https://pypi.org/project/agno-cli/"
+    },
+    {
+      "id": 68,
+      "title": "Putting Tulsi on the terror watch list might’ve been Dems dumbest move yet…",
+      "summary": "The decision to put Tulsi Gabbard on the terror watch list by the Biden regime has raised ethical concerns and accusations of baseless smearing. This move has been criticized as a threat to democracy and political opposition.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T00:45:13Z",
+      "url": "https://freerepublic.com/focus/f-news/4330196/posts"
+    },
+    {
+      "id": 69,
+      "title": "What’s the right closing price?",
+      "summary": "The Volume-Weighted Average Price mechanism in India is deemed better than the closing auction method used in global markets.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-23T00:45:00Z",
+      "url": "https://www.thehindubusinessline.com/opinion/whats-the-right-closing-price/article69843776.ece"
+    },
     {
       "id": 51,
       "title": "AI Grille Luxury Vans - FX Super One EV makes communication a Focus with an LED grille (TrendHunter.com)",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-22T22:48:00Z",
       "url": "https://www.theatlantic.com/newsletters/archive/2025/07/hegseths-purge-of-women-from-us-military-leadership/683631/"
-    },
-    {
-      "id": 58,
-      "title": "People Click Links Less Frequently When AI Summary Appears on Google Search, Study Shows",
-      "summary": "People click links less frequently when AI summary appears on Google search, according to a new study by Pew Research.",
-      "source": "CNET",
-      "category": "research",
-      "timestamp": "2025-07-22T22:46:56Z",
-      "url": "https://www.cnet.com/tech/services-and-software/people-click-links-less-frequently-when-ai-summary-appears-on-google-search-study-shows/"
-    },
-    {
-      "id": 59,
-      "title": "The Future Of Link Building: Stats And Takeaways You Should Know - fatjoe.",
-      "summary": "fatjoe conducted a survey of over 500 professional link building SEOs to determine the future of link building in 2025 and beyond.",
-      "source": "Fatjoe.com",
-      "category": "research",
-      "timestamp": "2025-07-22T22:46:36Z",
-      "url": "https://fatjoe.com/blog/link-building-stats/"
-    },
-    {
-      "id": 60,
-      "title": "Harrison Ford stormed off 'The View' after clash with Joy Behar?",
-      "summary": "Actor Harrison Ford stormed off 'The View' after clash with host Joy Behar over questions about his views on politics and current events.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:46:00Z",
-      "url": "https://www.snopes.com//fact-check/harrison-ford-view-joy-behar/"
-    },
-    {
-      "id": 61,
-      "title": "Inforcer raises $35M to help MSPs automate Microsoft 365 security for SMBs",
-      "summary": "Inforcer raises $35M to help MSPs automate Microsoft 365 security for SMBs - Microsoft 365 policy management platform startup inforcer Ltd. announced $35 million in new funding to help managed service providers scale and automate deployment of Microsoft 365 security and AI solutions.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-22T22:45:46Z",
-      "url": "https://siliconangle.com/2025/07/22/inforcer-raises-35m-help-msps-automate-microsoft-365-security-smbs/"
-    },
-    {
-      "id": 51,
-      "title": "OpenAI partners with Oracle to develop another 4.5 gigawatts of data center capacity",
-      "summary": "OpenAI partners with Oracle to develop another 4.5 gigawatts of data center capacity - OpenAI has inked a deal with Oracle Corp. to develop 4.5 gigawatts’ worth of data center capacity in the U.S.",
-      "source": "SiliconANGLE News",
-      "category": "innovation",
-      "timestamp": "2025-07-22T22:42:29Z",
-      "url": "https://siliconangle.com/2025/07/22/openai-partners-oracle-develop-another-4-5-gigawatts-data-center-capacity/"
-    },
-    {
-      "id": 52,
-      "title": "lyrebird-cli added to PyPI",
-      "summary": "lyrebird-cli, an AI-powered coding assistant, has been added to PyPI, bringing AI capabilities directly to developer terminals.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:42:12Z",
-      "url": "https://pypi.org/project/lyrebird-cli/"
-    },
-    {
-      "id": 53,
-      "title": "lyrebird-cli 0.1.0",
-      "summary": "lyrebird-cli 0.1.0 is an AI-powered coding assistant that can be used in the terminal, offering innovative support for developers during programming tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:42:12Z",
-      "url": "https://pypi.org/project/lyrebird-cli/0.1.0/"
-    },
-    {
-      "id": 54,
-      "title": "Amazon to buy startup focused on AI wearables",
-      "summary": "Amazon is acquiring Bee, a San Francisco-based startup focused on AI wearables, which includes a $50 wristband that can listen in on conversations and transcribe them into summaries.",
-      "source": "CNA",
-      "category": "startups",
-      "timestamp": "2025-07-22T22:40:58Z",
-      "url": "https://www.channelnewsasia.com/business/amazon-buy-startup-focused-ai-wearables-5252896"
-    },
-    {
-      "id": 55,
-      "title": "tokencost 0.1.25",
-      "summary": "Tokencost 0.1.25 allows for the calculation of token and translated USD cost of string and message calls to OpenAI, particularly when utilized by AI agents.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:40:32Z",
-      "url": "https://pypi.org/project/tokencost/0.1.25/"
-    },
-    {
-      "id": 56,
-      "title": "Which Florida football game does Governor Ron DeSantis want to attend in 2025?",
-      "summary": "Florida Governor Ron DeSantis is interested in attending a Florida football game in 2025, which is drawing attention across the state.",
-      "source": "Gainesville Sun",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:37:49Z",
-      "url": "https://www.gainesville.com/story/sports/college/sec/2025/07/22/governor-ron-desantis-attend-florida-football-texas-arch-manning-steve-sarkisan-billy-napier-lagway/85330657007/"
-    },
-    {
-      "id": 57,
-      "title": "Here's What 'Terrifies' OpenAI's CEO About Financial Institutions Today: 'This Is a Huge Deal'",
-      "summary": "OpenAI's CEO Sam Altman expressed concern about the impact of AI on identity verification in financial institutions, highlighting the need for societal changes in response.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:34:36Z",
-      "url": "https://biztoc.com/x/0ae7135b8a55aba6"
-    },
-    {
-      "id": 58,
-      "title": "Can AI Solve the Dick Pic Epidemic?",
-      "summary": "Dating app Flirtini has launched an AI coach to help men learn to flirt without sending unwanted explicit photos.",
-      "source": "Decrypt",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:31:59Z",
-      "url": "https://decrypt.co/331273/can-ai-solve-dick-pic-epidemic"
-    },
-    {
-      "id": 59,
-      "title": "Godzilla #1 Preview: Kid Kaiju—Monster Whisperer or World Ender?",
-      "summary": "The preview for Godzilla #1 explores the concept of Kid Kaiju as either a Monster Whisperer or World Ender, presented by an AI overlord who has deleted Jude Terror. This news falls under the applications of AI in the comic book industry.",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:30:06Z",
-      "url": "https://bleedingcool.com/comics/godzilla-1-preview-kid-kaiju-monster-whisperer-or-world-ender/"
-    },
-    {
-      "id": 60,
-      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
-      "summary": "Bitfarms to buy back 10% of shares, calls stock undervalued as it shifts from Bitcoin mining to high-performance computing for AI, reflecting confidence in its U.S. expansion and HPC strategy.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:30:00Z",
-      "url": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation"
-    },
-    {
-      "id": 61,
-      "title": "AI Will Protect Your PayPal And Venmo Accounts Against Scams",
-      "summary": "AI will be used by PayPal and Venmo to protect accounts from scams and hackers, enhancing security for users.",
-      "source": "BGR",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:30:00Z",
-      "url": "https://www.bgr.com/1919540/paypal-venmo-use-ai-to-protect-you-from-scams/"
-    },
-    {
-      "id": 62,
-      "title": "The Man Behind Trump’s Tariffs Strategy",
-      "summary": "Profile of Commerce Secretary Howard Lutnick, a key figure in Trump's tariffs strategy",
-      "source": "The New Yorker",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:30:00Z",
-      "url": "https://www.newyorker.com/newsletter/the-daily/the-man-behind-trumps-tariffs-strategy"
-    },
-    {
-      "id": 63,
-      "title": "OpenAI CEO on how AI will evolve security tools",
-      "summary": "OpenAI CEO expresses concern over some financial institutions accepting voiceprints as authentication, highlighting potential security risks as AI evolves.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:29:44Z",
-      "url": "https://biztoc.com/x/be40ec76b1b08e94"
-    },
-    {
-      "id": 51,
-      "title": "magique 0.5.0",
-      "summary": "Magique 0.5.0 is a message transfer package designed for AI agents and distributed computing, enabling seamless communication between different nodes. This innovation aims to streamline the operation of AI systems and enhance efficiency in decentralized computing environments.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-22T22:15:21Z",
-      "url": "https://pypi.org/project/magique/0.5.0/"
-    },
-    {
-      "id": 52,
-      "title": "Tesla Isn’t a Car Company Anymore",
-      "summary": "Tesla is shifting its focus from manufacturing cars to AI-driven autonomous technology in a high-risk pivot, as Elon Musk aims to secure the company's future.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-22T22:15:12Z",
-      "url": "https://gizmodo.com/tesla-isnt-a-car-company-anymore-2000632892"
     }
   ]
 }
