@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T21:49:07.223Z",
+  "lastUpdate": "2025-07-24T22:16:14.163Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Health officials urge Tennesseans to protect against mosquitoes & ticks",
+      "summary": "Health officials in Tennessee are warning residents to protect themselves from mosquitoes and ticks as outdoor activity increases during the summer.",
+      "source": "NewsChannel5.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T22:15:29Z",
+      "url": "https://www.newschannel5.com/news/health-officials-urge-tennesseans-to-protect-against-mosquitoes-ticks"
+    },
+    {
+      "id": 52,
+      "title": "Trump unveils AI Action Plan that aims to clamp down regulations and 'bias' - BBC",
+      "summary": "Trump unveils AI Action Plan with aim to regulate and reduce bias in AI technology.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:12:58Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450482"
+    },
+    {
+      "id": 53,
+      "title": "Trump Says He's 'Getting Rid of Woke' and Dismisses Copyright Concerns in AI Policy Speech",
+      "summary": "Trump dismisses copyright concerns in AI policy speech and says he's 'getting rid of woke' during summit keynote.",
+      "source": "Wired",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:11:07Z",
+      "url": "https://www.wired.com/story/president-trump-ai-action-plan-speech/"
+    },
+    {
+      "id": 54,
+      "title": "Watchdog: Amid 'AI Summit', Commerce Sec. Lutnick's Family Business Conveniently Holds $1.1B Stake in AI Chip Companies Benefiting From Lax New Administration Trade Agreement",
+      "summary": "Commerce Sec. Lutnick's family business holding a $1.1B stake in AI chip companies benefiting from lax trade agreements raises concerns about potential conflicts of interest and transparency in government decision-making.",
+      "source": "Common Dreams",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:09:20Z",
+      "url": "https://www.commondreams.org/newswire/watchdog-amid-ai-summit-commerce-sec-lutnick-s-family-business-conveniently-holds-1-1b-stake-in-ai-chip-companies-benefiting-from-lax-new-administration-trade-agreement"
+    },
+    {
+      "id": 55,
+      "title": "Swimming and Sipping in Turks and Caicos",
+      "summary": "AI-powered waiter service enhancing customer experience at a beach resort in Turks and Caicos.",
+      "source": "Chilledmagazine.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T22:09:06Z",
+      "url": "https://chilledmagazine.com/swimming-and-sipping-in-turks-and-caicos/"
+    },
+    {
+      "id": 56,
+      "title": "Trump Has Given Back All Gains He Made With Gen Z in Six Months",
+      "summary": "Trump has lost the gains he made with Gen Z in six months, with growing disappointment and disillusionment among young male voters towards his second term.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:08:59Z",
+      "url": "https://biztoc.com/x/8529a009284e2600"
+    },
+    {
+      "id": 57,
+      "title": "Trump: US to add 'at least as much electric capacity as China'",
+      "summary": "During the Winning the AI Race Summit, President Trump stated that the US will add 'at least as much electric capacity as China' under his administration.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:08:50Z",
+      "url": "https://biztoc.com/x/413349329bd9f38e"
+    },
+    {
+      "id": 58,
+      "title": "Full List of Republicans Who Voted to Subpoena Epstein Files from DOJ",
+      "summary": "Several Republican Representatives joined Democrats in voting to subpoena the Department of Justice for Epstein files, showing bipartisan support for transparency in this controversial case.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T22:08:47Z",
+      "url": "https://biztoc.com/x/9b26b41fe3d5cbad"
+    },
+    {
+      "id": 59,
+      "title": "Alphabet delivers surprising AI spending update",
+      "summary": "Alphabet delivers surprising AI spending update, showing ongoing investment in AI infrastructure despite earlier concerns about cutbacks in capital spending by cloud network players.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:08:30Z",
+      "url": "https://biztoc.com/x/7fd8359a99fa718e"
+    },
+    {
+      "id": 60,
+      "title": "Banks Eye Quantum Innovations as Big Tech Chases AI Talent",
+      "summary": "Banks are looking into quantum innovations as they compete with big tech firms for AI talent, sparking a resource war in financial institutions.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T22:08:23Z",
+      "url": "https://biztoc.com/x/c8147505896e75f3"
+    },
+    {
+      "id": 61,
+      "title": "AI-driven agencies are filling the tech delivery void in the UK’s service market",
+      "summary": "AI-driven agencies are filling the tech delivery void in the UK’s service market by providing digital solutions across sectors like retail, finance, healthcare, and professional services.",
+      "source": "Digital Journal",
+      "category": "startups",
+      "timestamp": "2025-07-23T22:05:24Z",
+      "url": "https://www.digitaljournal.com/tech-science/ai-driven-agencies-are-filling-the-tech-delivery-void-in-the-uks-service-market/article"
+    },
+    {
+      "id": 62,
+      "title": "US Military Expands AI Investment With $800 Million in Contracts",
+      "summary": "US Military expands AI investment with $800 million in contracts, awarding up to $200 million each to four U.S.-based AI companies for developing 'frontier' models like Anthropic, Google, OpenAI, and xAI.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T22:03:13Z",
+      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/us-military-expands-ai-investment-with-800-million-in-contracts/"
+    },
     {
       "id": 51,
       "title": "White House’s AI Action Plan Includes Rules On Ideological Bias And Calls For Removing Regulatory Barriers, But Makes No Comment On Copyright",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T20:49:43Z",
       "url": "https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/"
-    },
-    {
-      "id": 59,
-      "title": "asta-summarizer added to PyPI",
-      "summary": "asta-summarizer added to PyPI - A flexible text summarization service supporting multiple AI providers",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:49:40Z",
-      "url": "https://pypi.org/project/asta-summarizer/"
-    },
-    {
-      "id": 60,
-      "title": "Second Life Users Are Asking ChatGPT to Turn Their Avatars Into IRL Selfies and the Results Are Amazing",
-      "summary": "Second Life users are using ChatGPT to turn their avatars into IRL selfies, showcasing the potential applications of AI technology in virtual worlds.",
-      "source": "Blogs.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:49:19Z",
-      "url": "https://nwn.blogs.com/nwn/2025/07/stephy-reneechatgpt-rl-sl-avatar-selfie.html"
-    },
-    {
-      "id": 61,
-      "title": "Virginia Is Using AI To Identify Illegal and Redundant Regulations",
-      "summary": "Virginia is using AI to identify and repeal illegal and redundant regulations, setting itself apart from other states focused on regulating artificial intelligence.",
-      "source": "Reason",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:49:16Z",
-      "url": "https://reason.com/2025/07/23/virginia-is-using-ai-to-identify-illegal-and-redundant-regulations/"
-    },
-    {
-      "id": 62,
-      "title": "OpenAI Teases 'Bigger Than Ever' DevDay in October: Will That Include GPT-5?",
-      "summary": "OpenAI hints at the possibility of GPT-5 being on the horizon, with clues pointing towards potential advancements in their next-gen AI model, to be unveiled at the 'bigger than ever' DevDay event in October.",
-      "source": "PCMag.com",
-      "category": "research",
-      "timestamp": "2025-07-23T20:49:05Z",
-      "url": "https://uk.pcmag.com/ai/159276/openai-teases-bigger-than-ever-devday-in-october-will-that-include-gpt-5"
-    },
-    {
-      "id": 51,
-      "title": "gradio 5.38.1",
-      "summary": "Gradio 5.38.1 is a Python library designed to simplify the interaction with pre-trained machine learning models.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:41:25Z",
-      "url": "https://pypi.org/project/gradio/5.38.1/"
-    },
-    {
-      "id": 52,
-      "title": "Fox News Politics Newsletter: Brennan pushed reports Putin preferred Trump in 2016",
-      "summary": "Former CIA Director John Brennan reportedly pushed for reports suggesting that Russian President Vladimir Putin preferred Trump in the 2016 election to be made public.",
-      "source": "Fox News",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:41:06Z",
-      "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-brennan-pushed-reports-putin-preferred-trump-2016"
-    },
-    {
-      "id": 53,
-      "title": "Michele Mulroney to Become Next WGA West President After Running Unopposed",
-      "summary": "Michele Mulroney will become the next WGA West President after running unopposed in the upcoming elections.",
-      "source": "TheWrap",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:40:29Z",
-      "url": "https://www.thewrap.com/wga-west-president-michele-mulroney/"
-    },
-    {
-      "id": 54,
-      "title": "Plymouth man gets 9 years of federal prison for ‘nightmare’ cyberstalking campaigns",
-      "summary": "Plymouth man sentenced to 9 years in federal prison for cyberstalking multiple women, causing significant distress and trauma",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:40:28Z",
-      "url": "https://www.bostonherald.com/2025/07/23/plymouth-man-gets-9-years-of-federal-prison-for-nightmare-cyberstalking-campaigns/"
-    },
-    {
-      "id": 55,
-      "title": "AI's not the only hot tech trend - check out the year's other 11, according to McKinsey",
-      "summary": "AI, especially agents, are at the top of the list of hot tech trends for the year as reported by McKinsey.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:40:14Z",
-      "url": "https://www.zdnet.com/article/ais-not-the-only-hot-tech-trend-check-out-the-years-other-11-according-to-mckinsey/"
-    },
-    {
-      "id": 56,
-      "title": "Alphabet exceeds expectations, raises spending for the year, sees huge growth in cloud revenue in Q2 2025 earnings",
-      "summary": "Alphabet exceeds expectations in Q2 2025 earnings, raises spending for the year and sees significant growth in cloud revenue.",
-      "source": "Android Central",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:39:52Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/alphabet-exceeds-expectations-raises-spending-for-the-year-sees-huge-growth-in-cloud-revenue-in-q2-2025-earnings"
-    },
-    {
-      "id": 57,
-      "title": "Alphabet Shares Slide After Big Upward Revision To CapEx Outlook; Search Revenues Soar",
-      "summary": "Alphabet's shares slid after a big upward revision to CapEx outlook, despite search revenues soaring. Investors are concerned about Alphabet's ability to compete in the AI boom.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:39:08Z",
-      "url": "https://biztoc.com/x/7053ad7736cdcf35"
-    },
-    {
-      "id": 58,
-      "title": "youtube-ai-resume 0.0.10",
-      "summary": "youtube-ai-resume 0.0.10 is a CLI and library that can extract YouTube captions and provide an OpenAI-generated summary of the video content.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:38:09Z",
-      "url": "https://pypi.org/project/youtube-ai-resume/0.0.10/"
     }
   ]
 }
