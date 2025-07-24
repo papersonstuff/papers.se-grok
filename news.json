@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-24T05:48:37.729Z",
+  "lastUpdate": "2025-07-24T06:24:34.808Z",
   "items": [
+    {
+      "id": 51,
+      "title": "[Changelog] What’s New in Mozilla Firefox 140 and Later Versions",
+      "summary": "Changelog article detailing updates in Mozilla Firefox versions 140.0 and later, including the newly added version 141.0",
+      "source": "Askvg.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T06:23:33Z",
+      "url": "https://www.askvg.com/mozilla-firefox-140-and-later-versions-changelog/"
+    },
+    {
+      "id": 52,
+      "title": "rubika-bot-api added to PyPI",
+      "summary": "rubika-bot-api has been added to PyPI, offering a high performance asynchronous/synchronous library for Rubika Bot API.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T06:23:29Z",
+      "url": "https://pypi.org/project/rubika-bot-api/"
+    },
+    {
+      "id": 53,
+      "title": "Astera Labs (NASDAQ:ALAB) Shares Gap Up After Analyst Upgrade",
+      "summary": "Astera Labs (NASDAQ:ALAB) Shares Gap Up After Analyst Upgrade - Astera Labs, Inc. (NASDAQ:ALAB – Get Free Report) gapped up before the market opened on Monday after Jefferies Financial Group raised their price target on the stock from $95.00 to $130.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:22:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/astera-labs-nasdaqalab-shares-gap-up-after-analyst-upgrade/"
+    },
+    {
+      "id": 54,
+      "title": "Astera Labs (NASDAQ:ALAB) Shares Up 18.2% Following Analyst Upgrade",
+      "summary": "Astera Labs (NASDAQ:ALAB) Shares Up 18.2% Following Analyst Upgrade - Astera Labs, Inc. (NASDAQ:ALAB – Get Free Report) shares rose 18.2% during trading on Monday after Jefferies Financial Group raised their price target on the stock from $95.00 to $130.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:22:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/astera-labs-nasdaqalab-shares-up-18-2-following-analyst-upgrade/"
+    },
+    {
+      "id": 55,
+      "title": "Amazon shuts down Shanghai AI research lab",
+      "summary": "Amazon announces closure of its AI research lab in Shanghai, joining other US tech companies like IBM and Microsoft in scaling back operations in China due to geopolitical tensions.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:22:27Z",
+      "url": "https://biztoc.com/x/14d8d998e024b4ba"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI and Google AI models reach Olympiad gold medal-level in math but diverge on rollout plans",
+      "summary": "OpenAI and Google AI models achieve Olympiad gold medal-level in math, showcasing AI advancements. They differ in rollout plans, indicating varied commercial strategies.",
+      "source": "Digitimes",
+      "category": "research",
+      "timestamp": "2025-07-23T06:16:47Z",
+      "url": "https://www.digitimes.com/news/a20250723PD213/google-openai-llm-performance.html"
+    },
+    {
+      "id": 57,
+      "title": "Richard John Jeffery Acquires 88 Shares of ActiveOps Plc (LON:AOM) Stock",
+      "summary": "ActiveOps Plc insider Richard John Jeffery acquired 88 shares of the company's stock at an average price of GBX 170 per share on July 17th.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:15:35Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/richard-john-jeffery-acquires-88-shares-of-activeops-plc-lonaom-stock/"
+    },
+    {
+      "id": 58,
+      "title": "Loop Capital Initiates Coverage on Intel (NASDAQ:INTC)",
+      "summary": "Loop Capital initiated coverage on Intel (NASDAQ:INTC) with a 'hold' rating and $25.00 price target, according to Marketbeat.com.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-23T06:15:34Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/loop-capital-initiates-coverage-on-intel-nasdaqintc/"
+    },
+    {
+      "id": 59,
+      "title": "Your Samsung phone has a hidden Wi-Fi menu that's seriously useful - how to turn it on",
+      "summary": "Your Samsung phone has a hidden Wi-Fi menu called Connectivity Labs that can be useful, especially for users interested in exploring Samsung's software features.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-23T06:15:13Z",
+      "url": "https://www.zdnet.com/article/your-samsung-phone-has-a-hidden-wi-fi-menu-thats-seriously-useful-how-to-turn-it-on/"
+    },
+    {
+      "id": 60,
+      "title": "China Mobile International Launches SJC2 to Enable Seamless Connectivity Across Asia-Pacific",
+      "summary": "China Mobile International activates the Southeast Asia–Japan Cable 2 (SJC2) to enable seamless connectivity across Asia-Pacific, spanning 10,500 kilometers.",
+      "source": "Antaranews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T06:14:14Z",
+      "url": "https://en.antaranews.com/news/368289/china-mobile-international-launches-sjc2-to-enable-seamless-connectivity-across-asia-pacific"
+    },
+    {
+      "id": 61,
+      "title": " From Serie A to abroad: top 10 sales, Retegui overtakes Kakà ",
+      "summary": "The official acquisition of Retegui by Al-Qadsiah updates the ranking of the most expensive sales in Serie A history to foreign leagues.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:14:00Z",
+      "url": "https://onefootball.com/en/news/from-serie-a-to-abroad-top-10-sales-retegui-overtakes-kaka-41412145"
+    },
     {
       "id": 51,
       "title": "vinagent 0.0.4.post4",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T04:08:39Z",
       "url": "https://biztoc.com/x/0fc2635a5644f76b"
-    },
-    {
-      "id": 52,
-      "title": "Eclipse GLSP 2025.07 Progress",
-      "summary": "The Eclipse GLSP 2025.07 Progress includes a yearly progress review scheduled by the EMO on behalf of the project team.",
-      "source": "Eclipse.org",
-      "category": "research",
-      "timestamp": "2025-07-23T04:07:40Z",
-      "url": "https://projects.eclipse.org/projects/ecd.glsp/reviews/eclipse-glsp-2025.07-progress-review"
-    },
-    {
-      "id": 53,
-      "title": "Eclipse Hono 2025.07 Progress",
-      "summary": "Eclipse Hono 2025.07 Progress - The EMO is scheduling a yearly progress review on behalf of the project team.",
-      "source": "Eclipse.org",
-      "category": "research",
-      "timestamp": "2025-07-23T04:07:40Z",
-      "url": "https://projects.eclipse.org/projects/iot.hono/reviews/eclipse-hono-2025.07-progress-review"
-    },
-    {
-      "id": 54,
-      "title": "What is an Infographic? Infographic Definition, Key Elements & Applications in Digital Marketing",
-      "summary": "Discover what an infographic is, its core components, and how infographics drive brand visibility and engagement in digital marketing and AI search optimization.",
-      "source": "Geneo.app",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:06:40Z",
-      "url": "https://geneo.app/blog/infographic-definition-digital-marketing/"
-    },
-    {
-      "id": 55,
-      "title": "OpenAI Sam Altman Claim About 1 Million GPUs Are Not One Data Center",
-      "summary": "OpenAI Sam Altman claims to bring well over 1 million GPUs online by the end of the year, spread out across multiple partnerships and locations.",
-      "source": "Next Big Future",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:04:43Z",
-      "url": "https://www.nextbigfuture.com/2025/07/openai-sam-altman-claim-about-1-million-gpus-are-not-one-data-center.html"
-    },
-    {
-      "id": 56,
-      "title": "No Catching Up To You; CTV’s Awkward Years",
-      "summary": "The June edition of Nielsen's Media Distributor, Gauge, ranks Netflix in the top three channels in terms of streaming and linear TV attention for the first time, based on views in the US on a TV set.",
-      "source": "AdExchanger",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:03:59Z",
-      "url": "http://www.adexchanger.com/daily-news-roundup/wednesday-23072025/"
-    },
-    {
-      "id": 57,
-      "title": "Future of TV Briefing: CTV ad buyers say ‘the math isn’t mathing’ with sell-side shadiness, ad tech fees",
-      "summary": "Future of TV Briefing recaps brand and agency executives' feedback on CTV ad buying at recent event in NYC.",
-      "source": "Digiday",
-      "category": "research",
-      "timestamp": "2025-07-23T04:01:00Z",
-      "url": "http://digiday.com/future-of-tv/future-of-tv-briefing-ctv-ad-buyers-say-the-math-isnt-mathing-with-sell-side-shadiness-ad-tech-fees/"
-    },
-    {
-      "id": 58,
-      "title": "To beat the AI squeeze, Newsweek is building revenue beyond traffic",
-      "summary": "Newsweek is working to reduce its reliance on digital ads by building revenue sources beyond traffic in order to beat the AI squeeze.",
-      "source": "Digiday",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:01:00Z",
-      "url": "http://digiday.com/media/to-beat-the-ai-squeeze-newsweek-is-building-revenue-beyond-traffic/"
-    },
-    {
-      "id": 59,
-      "title": "The fraud trends shaping 2025: Pressure builds on online retailers",
-      "summary": "Fraud is growing faster than revenue in eCommerce, putting pressure on online retailers. The rise in fraud trends is a wake-up call for eCommerce leaders to address this issue.",
-      "source": "Help Net Security",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:00:29Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/23/biggest-fraud-trends-2025/"
-    },
-    {
-      "id": 60,
-      "title": "Why AI offers hope for the Welfare State",
-      "summary": "AI offers hope for the Welfare State in Europe by presenting a new opportunity to exploit productivity gains. The technological advances of today offer a chance for Europe to capitalize on the potential benefits.",
-      "source": "EURACTIV",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:00:04Z",
-      "url": "https://www.euractiv.com/section/politics/opinion/why-ai-offers-hope-for-the-welfare-state/"
-    },
-    {
-      "id": 61,
-      "title": "Why AI offers hope for the Welfare State",
-      "summary": "AI offers hope for the Welfare State in Europe as technological advances present another chance to capitalize on productivity gains, after failing to do so during the internet revolution of the late 1990s.",
-      "source": "EURACTIV",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:00:04Z",
-      "url": "https://www.euractiv.com/section/tech/opinion/why-ai-offers-hope-for-the-welfare-state/"
-    },
-    {
-      "id": 62,
-      "title": "Israel’s enemies turned the word ‘genocide’ into a battle cry against the Jews",
-      "summary": "Israel’s enemies are using the word 'genocide' as a battle cry against the Jews, highlighting the importance of ethical considerations in language and discourse.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/israel_s_enemies_turned_the_word_genocide_into_a_battle_cry_against_the_jews.html"
     }
   ]
 }
