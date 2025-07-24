@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T20:43:08.020Z",
+  "lastUpdate": "2025-07-24T20:54:36.659Z",
   "items": [
+    {
+      "id": 51,
+      "title": "zagency 0.3.0",
+      "summary": "zagency 0.3.0 is an agentic framework designed for creating AI agents that incorporate large language models (LLMs)",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T20:53:34Z",
+      "url": "https://pypi.org/project/zagency/0.3.0/"
+    },
+    {
+      "id": 52,
+      "title": "Trump administration's new artificial intelligence plan focuses on deregulation, beating China",
+      "summary": "Trump administration's AI plan emphasizes deregulation and competition with China.",
+      "source": "ABC News",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:52:47Z",
+      "url": "https://abcnews.go.com/Politics/trump-administrations-new-artificial-intelligence-plan-focuses-deregulation/story?id=124011520"
+    },
+    {
+      "id": 53,
+      "title": "Angry Users Say Google Home Is Getting Buggy – With No Fix in Sight",
+      "summary": "Several users are experiencing issues with their Google Home devices, which have been reported as becoming unreliable and buggy. Google has not addressed the problem yet.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:52:21Z",
+      "url": "https://www.androidheadlines.com/2025/07/angry-users-say-google-home-is-getting-buggy-with-no-fix-in-sight.html"
+    },
+    {
+      "id": 54,
+      "title": "Watch: Trump delivers remarks on AI 'action plan' and signs executive orders",
+      "summary": "Trump delivers remarks on AI 'action plan' which requires chatbots free of ideological bias for federal contracts",
+      "source": "CNBC",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:51:53Z",
+      "url": "https://www.cnbc.com/2025/07/23/trump-ai-artificial-intelligence-executive-orders.html"
+    },
+    {
+      "id": 55,
+      "title": "New Harvey Tools Sniper Drill Press is “AI Powered”",
+      "summary": "Harvey Tools has introduced a new AI-powered drill press called the Sniper Drill Press.",
+      "source": "Toolguyd.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:50:56Z",
+      "url": "https://toolguyd.com/harvey-tools-sniper-drill-press/"
+    },
+    {
+      "id": 56,
+      "title": "Supreme Court Hands Donald Trump 16th Win in a Row",
+      "summary": "The Supreme Court ruled in favor of President Trump removing three Democratic members of the Consumer Product Safety Commission, using AI-generated voices that may contain inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:50:19Z",
+      "url": "https://biztoc.com/x/3337a4b47d87c3e9"
+    },
+    {
+      "id": 57,
+      "title": "Google Gemini Gets a Fresh Look in Web: Redesign Rolling Out",
+      "summary": "Google Gemini on the web is getting a major redesign to clean up the UI and make the user experience even more user-friendly.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:49:50Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-gemini-web-ui-redesign.html"
+    },
+    {
+      "id": 58,
+      "title": "Tesla profits pulled down by falling EV sales and regulatory credits | TechCrunch",
+      "summary": "Tesla profits affected by declining EV sales and regulatory credits, partially offset by growth in services business.",
+      "source": "TechCrunch",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:49:43Z",
+      "url": "https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/"
+    },
+    {
+      "id": 59,
+      "title": "asta-summarizer added to PyPI",
+      "summary": "asta-summarizer added to PyPI - A flexible text summarization service supporting multiple AI providers",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:49:40Z",
+      "url": "https://pypi.org/project/asta-summarizer/"
+    },
+    {
+      "id": 60,
+      "title": "Second Life Users Are Asking ChatGPT to Turn Their Avatars Into IRL Selfies and the Results Are Amazing",
+      "summary": "Second Life users are using ChatGPT to turn their avatars into IRL selfies, showcasing the potential applications of AI technology in virtual worlds.",
+      "source": "Blogs.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:49:19Z",
+      "url": "https://nwn.blogs.com/nwn/2025/07/stephy-reneechatgpt-rl-sl-avatar-selfie.html"
+    },
+    {
+      "id": 61,
+      "title": "Virginia Is Using AI To Identify Illegal and Redundant Regulations",
+      "summary": "Virginia is using AI to identify and repeal illegal and redundant regulations, setting itself apart from other states focused on regulating artificial intelligence.",
+      "source": "Reason",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:49:16Z",
+      "url": "https://reason.com/2025/07/23/virginia-is-using-ai-to-identify-illegal-and-redundant-regulations/"
+    },
+    {
+      "id": 62,
+      "title": "OpenAI Teases 'Bigger Than Ever' DevDay in October: Will That Include GPT-5?",
+      "summary": "OpenAI hints at the possibility of GPT-5 being on the horizon, with clues pointing towards potential advancements in their next-gen AI model, to be unveiled at the 'bigger than ever' DevDay event in October.",
+      "source": "PCMag.com",
+      "category": "research",
+      "timestamp": "2025-07-23T20:49:05Z",
+      "url": "https://uk.pcmag.com/ai/159276/openai-teases-bigger-than-ever-devday-in-october-will-that-include-gpt-5"
+    },
     {
       "id": 51,
       "title": "gradio 5.38.1",
@@ -342,114 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-23T19:42:49Z",
       "url": "https://me.pcmag.com/en/ai/31369/few-people-are-clicking-past-googles-ai-overviews-search-results"
-    },
-    {
-      "id": 56,
-      "title": "Google Brings New Video AI Features to Google Photos and YouTube Shorts",
-      "summary": "Google announced new AI video editing tools for Google Photos and YouTube Shorts, offering users enhanced video creation capabilities.",
-      "source": "MacRumors",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:42:48Z",
-      "url": "https://www.macrumors.com/2025/07/23/google-ai-features-photos-youtube/"
-    },
-    {
-      "id": 57,
-      "title": "BP’s Castrol Unit Gets One Rock Bid as Most Suitors Drop",
-      "summary": "One Rock Capital Partners is one of the few remaining bidders for BP Plc's Castrol lubricants business, indicating potential challenges for the asset disposal by the oil major.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-23T19:42:22Z",
-      "url": "https://financialpost.com/pmn/business-pmn/bps-castrol-unit-gets-one-rock-bid-as-most-suitors-drop"
-    },
-    {
-      "id": 58,
-      "title": "Google Photos rolls out tools to turn your photos into anime, comics, and more",
-      "summary": "Google Photos is rolling out tools to turn photos into anime and comics, alongside a new 'Create' tab for added fun with selfies.",
-      "source": "Android Authority",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:41:09Z",
-      "url": "https://www.androidauthority.com/google-photos-image-to-video-remix-3580338/"
-    },
-    {
-      "id": 59,
-      "title": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift",
-      "summary": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift enables near real-time analytics and machine learning (ML) to analyze petabytes of transactional data in Amazon Redshift without complex data pipelines for extract-transform-load (ETL) operations.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:37:00Z",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-zero-etl-integration-redshift/"
-    },
-    {
-      "id": 60,
-      "title": "What Grok’s Jeffrey Epstein Comments Highlight How The AI Chatbot Is Learning",
-      "summary": "Grok's handling of the Epstein mania highlights ethical considerations in AI development, particularly in relation to Elon Musk's AI.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T19:33:51Z",
-      "url": "https://biztoc.com/x/45de656894d35b7e"
-    },
-    {
-      "id": 61,
-      "title": "Ghislaine Maxwell Subpoenaed by Congress Over Epstein Case: What We Know",
-      "summary": "James Comer, the Chairman for the House Committee on Oversight and Government Reform, issued a subpoena for Ghislaine Maxwell in relation to the Epstein case.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T19:32:50Z",
-      "url": "https://biztoc.com/x/c6a5303458db3042"
-    },
-    {
-      "id": 51,
-      "title": "REMUS 620 Validated for Torpedo Tube Deployment",
-      "summary": "REMUS 620 has been validated for torpedo tube deployment, marking a milestone in submarine-launched UUV operations.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120580/14858/en/REMUS-620-Validated-for-Torpedo-Tube-Deployment.html"
-    },
-    {
-      "id": 52,
-      "title": "Marc Jacobs Offering Hand-painted Pet Portraits in the Hamptons",
-      "summary": "Marc Jacobs is offering hand-painted pet portraits in the Hamptons through the 'Bark Jacobs' program, providing shoppers with a unique service at a pop-up shop.",
-      "source": "WWD",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:26:03Z",
-      "url": "http://wwd.com/fashion-news/fashion-features/marc-jacobs-pet-portraits-hamptons-artist-1237993656/"
-    },
-    {
-      "id": 53,
-      "title": "Wall Street expects YoY Apple earnings growth of 1.4%, sales growth of 3.9% for Q325",
-      "summary": "Wall Street expects Apple to report 1.4% earnings growth and 3.9% sales growth for Q325.",
-      "source": "Macdailynews.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T19:25:46Z",
-      "url": "https://macdailynews.com/2025/07/23/wall-street-expects-yoy-apple-earnings-growth-of-1-4-sales-growth-of-3-9-for-q325/"
-    },
-    {
-      "id": 54,
-      "title": "Skeleton Found Inside Home Shocking Story Explained: Here’s why man kept mother’s dead body for 10 years",
-      "summary": "Skeleton found inside home in Japan as man kept mother's dead body for 10 years without informing police, citing social phobia as the reason. Incident sparks debate about social isolation and aging.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-23T19:23:52Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/skeleton-found-inside-home-shocking-story-explained-japan-corpse-discovery-kobe-police-takehisa-miyawaki-mother-dead-body-10-years-corpse-abandonment-social-phobia-isolation-elderly-care-mental-health-pension-fraud-skeleton-flat-unreported-death/articleshow/122866544.cms"
-    },
-    {
-      "id": 55,
-      "title": "Five Things Causing Electricity Prices to Spike",
-      "summary": "AI data centers are causing spikes in electricity prices, putting strain on the power grid.",
-      "source": "Newsweek",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:23:14Z",
-      "url": "https://www.newsweek.com/five-things-causing-electricity-prices-spike-2103133"
-    },
-    {
-      "id": 56,
-      "title": "Treegress: AI testing on autopilot for modern teams",
-      "summary": "Treegress is a new AI-native QA platform that automates software testing without the need for setup or scripting, making it convenient for modern teams.",
-      "source": "Digital Journal",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:22:49Z",
-      "url": "https://www.digitaljournal.com/tech-science/treegress-ai-testing-on-autopilot-for-modern-teams/article"
     }
   ]
 }
