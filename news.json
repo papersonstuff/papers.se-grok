@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-24T19:49:10.185Z",
+  "lastUpdate": "2025-07-24T20:16:55.245Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ServiceNow CEO on big earnings beat: We are rocking",
+      "summary": "ServiceNow CEO Bill McDermott discusses the strong momentum and success his tech company is experiencing with big earnings beat.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:15:21Z",
+      "url": "https://finance.yahoo.com/news/servicenow-ceo-on-big-earnings-beat-we-are-rocking-201521516.html"
+    },
+    {
+      "id": 52,
+      "title": "AI video is invading YouTube Shorts and Google Photos starting today",
+      "summary": "AI video is invading YouTube Shorts and Google Photos starting today - Google is making video AI models harder to ignore.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:15:11Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449614"
+    },
+    {
+      "id": 53,
+      "title": "Nothing to see here: Brave browser blocks privacy-busting Microsoft Recall",
+      "summary": "In an effort to protect user privacy, Brave browser 1.81 will prevent Microsoft Recall from screenshotting it by default.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:15:06Z",
+      "url": "https://www.theregister.com/2025/07/23/brave_browse_block_microsoft_recall/"
+    },
+    {
+      "id": 54,
+      "title": "Origin Bancorp, Inc. Reports Earnings for Second Quarter 2025",
+      "summary": "Origin Bancorp, Inc. reported a net income of $14.6 million for the second quarter of 2025, showing positive financial performance.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120633/0/en/Origin-Bancorp-Inc-Reports-Earnings-for-Second-Quarter-2025.html"
+    },
+    {
+      "id": 55,
+      "title": "Google Parent Alphabet Beats Revenue And Earnings Expectations Ahead Of Antitrust Ruling",
+      "summary": "Alphabet beat revenue and earnings expectations, with economists predicting double-digit increases for both metrics.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:14:46Z",
+      "url": "https://www.forbes.com/sites/tylerroush/2025/07/23/google-parent-alphabet-beats-revenue-and-earnings-expectations-ahead-of-antitrust-ruling/"
+    },
+    {
+      "id": 56,
+      "title": "Spotify Takes Down Fake AI Song Credited to Famous Country Singer Who's Been Dead for Years",
+      "summary": "Spotify removed a fake AI-generated song credited to deceased country singer Blaze Foley, highlighting ethical concerns around AI-generated content being passed off as real. This incident raises questions about the authenticity and integrity of music and other creative works created by AI technology.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:14:26Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449600"
+    },
+    {
+      "id": 57,
+      "title": "Atlantic allies turn to xAI and OpenAI — Why chatbots are now a matter of national strategy",
+      "summary": "Governments are turning to private AI solutions such as xAI and OpenAI for national strategy, from UK public services to U.S. defense. Chatbots are seen as a crucial tool in shaping the future of technology.",
+      "source": "Windows Central",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:14:00Z",
+      "url": "https://www.windowscentral.com/artificial-intelligence/openai-signs-uk-government-deal-while-xai-lands-u-s-defense-contract"
+    },
+    {
+      "id": 58,
+      "title": "Trump’s ‘AI Action Plan’ ditches Biden guardrails, ‘red tape,’ wants chatbots to cut out their liberal bias",
+      "summary": "Trump's 'AI Action Plan' aims to remove Biden's guardrails and red tape, emphasizing the importance of AI models protecting free speech and being based on American values.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:13:52Z",
+      "url": "https://fortune.com/2025/07/23/trumps-ai-action-plan-regulation-red-tape-chatbots-liberal-bias/"
+    },
+    {
+      "id": 59,
+      "title": "fireworks-ai 0.19.9",
+      "summary": "Fireworks-ai 0.19.9 is a Python client library for the Fireworks AI Platform.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:13:51Z",
+      "url": "https://pypi.org/project/fireworks-ai/0.19.9/"
+    },
+    {
+      "id": 60,
+      "title": "Earnings live: Tesla results miss, Google boosts AI spending, Chipotle plunges",
+      "summary": "This week, 112 S&P 500 companies report Q2 results in a busy week for corporate earnings reports.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:13:33Z",
+      "url": "https://finance.yahoo.com/news/live/earnings-live-tesla-results-miss-google-boosts-ai-spending-chipotle-plunges-201333895.html"
+    },
+    {
+      "id": 61,
+      "title": "IBM results beat estimates on AI mainframe refresh, consulting revival",
+      "summary": "IBM exceeded Wall Street estimates for revenue and profit in the second quarter, driven by increased sales in its mainframe business due to demand for AI upgrades. The mainframe systems are capable of processing large amounts of data, contributing to the company's positive financial results.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:13:07Z",
+      "url": "https://www.channelnewsasia.com/business/ibm-results-beat-estimates-ai-mainframe-refresh-consulting-revival-5254996"
+    },
+    {
+      "id": 62,
+      "title": "IBM's software sales disappoint, eclipsing AI mainframe revival",
+      "summary": "IBM's software sales disappoint, overshadowing AI mainframe revival, leading to a 5% drop in shares.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:13:07Z",
+      "url": "https://www.channelnewsasia.com/business/ibms-software-sales-disappoint-eclipsing-ai-mainframe-revival-5254996"
+    },
+    {
+      "id": 63,
+      "title": "[PODCAST] Michael Sena: How Re… - Block by Block: A Show on Web3 Growth Marketing",
+      "summary": "The podcast features Michael Sena discussing strategies for growth marketing in the Web3 space.",
+      "source": "Apple Newsroom",
+      "category": "startups",
+      "timestamp": "2025-07-23T20:13:00Z",
+      "url": "https://podcasts.apple.com/us/podcast/podcast-michael-sena-how-recall-network-is-creating/id1788783689?i=1000718669409"
+    },
+    {
+      "id": 64,
+      "title": "Lindsey Graham vs. Putin",
+      "summary": "The post Lindsey Graham vs. Putin discusses a proxy war on Russia that has backfired, highlighting ethical concerns in international relations.",
+      "source": "Dailyreckoning.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:10:20Z",
+      "url": "https://dailyreckoning.com/lindsey-graham-vs-putin/"
+    },
+    {
+      "id": 65,
+      "title": "bigframes 2.12.0",
+      "summary": "bigframes 2.12.0 enables scalable analytics and machine learning using BigQuery DataFrames for improved data processing and insights.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:09:57Z",
+      "url": "https://pypi.org/project/bigframes/2.12.0/"
+    },
+    {
+      "id": 66,
+      "title": "\"Qi2 25W\" is the new Wireless Fast Charging Standard",
+      "summary": "",
+      "source": "Phonescoop.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:08:49Z",
+      "url": "https://www.phonescoop.com/articles/article.php?a=23567"
+    },
+    {
+      "id": 67,
+      "title": "Sacha Baron Cohen debuts ripped physique after Isla Fisher divorce: ‘This is not AI’",
+      "summary": "Sacha Baron Cohen showcases new muscular physique, clarifies it is not result of AI technology amid divorce from Isla Fisher.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:08:11Z",
+      "url": "https://pagesix.com/2025/07/23/celebrity-news/sacha-baron-cohen-debuts-ripped-physique-after-isla-fisher-divorce/"
+    },
+    {
+      "id": 68,
+      "title": "Alphabet reports Q2 2025 revenue of $96.4 billion",
+      "summary": "Alphabet reports Q2 2025 revenue of $96.4 billion - Alphabet today announced Q2 2025 earnings with $96.42 billion in revenue. These numbers range from April to June.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:08:05Z",
+      "url": "http://9to5google.com/2025/07/23/alphabet-q2-2025-earnings/"
+    },
+    {
+      "id": 69,
+      "title": "YouTube Pumps Up Ad Revenue 13% in Q2 to Reach $9.8 Billion",
+      "summary": "YouTube's advertising revenue increased 13% in Q2 to reach $9.8 billion, solidifying its position as a dominant player in the ad-spending market.",
+      "source": "Variety",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:07:35Z",
+      "url": "https://variety.com/2025/digital/news/youtube-q2-2025-earnings-ad-revenue-alphabet-1236468214/"
+    },
+    {
+      "id": 70,
+      "title": "Google shares climb following Q2 earnings beat",
+      "summary": "Google shares rise after beating Q2 earnings expectations.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:07:17Z",
+      "url": "https://finance.yahoo.com/news/google-shares-climb-following-q2-earnings-beat-200717345.html"
+    },
     {
       "id": 51,
       "title": "Windows Weekly 942: A World of Wonder",
@@ -269,186 +449,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T19:14:16Z",
       "url": "https://finance.yahoo.com/news/amazons-ai-powered-aws-efficiency-191416999.html"
-    },
-    {
-      "id": 53,
-      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas - AP News",
-      "summary": "Trump's new AI plan draws heavily on ideas from Silicon Valley industry, aiming to pull back restraints on tech and target 'woke AI'",
-      "source": "Slashdot.org",
-      "category": "policy",
-      "timestamp": "2025-07-23T19:12:27Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449232"
-    },
-    {
-      "id": 54,
-      "title": "Google Photos Gets a New Tool That Turns Photos into Videos",
-      "summary": "Google Photos introduces a new tool that allows users to Remix photos and create video clips.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:10:56Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-photos-turn-your-photos-into-videos-remix.html"
-    },
-    {
-      "id": 55,
-      "title": "Why Opendoor (OPEN) Shares Are Plunging Today",
-      "summary": "Shares of Opendoor (OPEN) fell 23.5% as the stock plunged after a recent surge driven.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-23T19:10:49Z",
-      "url": "https://finance.yahoo.com/news/why-opendoor-open-shares-plunging-191049757.html"
-    },
-    {
-      "id": 56,
-      "title": "Trump’s AI action plan: Why it ‘answers a call’ in one area and falls short in another",
-      "summary": "President Trump unveils an action plan for artificial intelligence in Washington, D.C. as part of AI Day, addressing the growing field and its importance. The plan is seen as answering a call in one area but falling short in others.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:10:45Z",
-      "url": "https://biztoc.com/x/29c48b51e9ff1da4"
-    },
-    {
-      "id": 57,
-      "title": "Podcast, policy, and pomp in DC at the surreal celebration of Trump’s AI Action Plan",
-      "summary": "David Sacks, Trump’s AI czar, shared the stage with his cohosts from the “All-in Podcast” on Wednesday to discuss the new 28-page AI Action Plan.",
-      "source": "Fortune",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:10:39Z",
-      "url": "https://fortune.com/2025/07/23/all-in-podcast-trump-ai-action-plan-david-sacks-jd-vance-jensen-huang/"
-    },
-    {
-      "id": 58,
-      "title": "Amazon EC2 P6-B200 instances are now available in US East (N. Virginia)",
-      "summary": "Amazon EC2 P6-B200 instances with NVIDIA Blackwell GPUs now available in US East (N. Virginia) region, offering up to 2x performance for AI training and inference.",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:10:12Z",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/"
-    },
-    {
-      "id": 59,
-      "title": "Spotify Takes Down Fake AI Song Credited to Famous Country Singer Who's Been Dead for Years",
-      "summary": "Spotify removes fake AI-generated song credited to deceased country singer Blaze Foley, highlighting ethical concerns around using AI to create music without proper authorization or consent.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-23T19:10:09Z",
-      "url": "https://www.cnet.com/tech/services-and-software/spotify-takes-down-fake-ai-song-credited-to-famous-country-singer-whos-been-dead-for-years/"
-    },
-    {
-      "id": 60,
-      "title": "AI industry's size obsession is killing ROI, engineer argues",
-      "summary": "AI engineer argues that the obsession with the size of AI models is reducing ROI, as they are error-prone and expensive, leading to issues such as hallucinations.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-23T19:09:58Z",
-      "url": "https://biztoc.com/x/20fa8c83e4c4aa84"
-    },
-    {
-      "id": 51,
-      "title": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization",
-      "summary": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization - Today, we're announcing the open source release of Spark History Server MCP, a specialized Model Context Protocol (MCP) server that transforms this workflow by enabling AI assistants to access and analyze your existing Spark History Server data through natura…",
-      "source": "Amazon.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:52:37Z",
-      "url": "https://aws.amazon.com/blogs/big-data/introducing-mcp-server-for-apache-spark-history-server-for-ai-powered-debugging-and-optimization/"
-    },
-    {
-      "id": 52,
-      "title": "Nintendo Direct July 2025 Rumors: Insider predicts upcoming livestream for Switch 2 games. Here’s who he is and what he said",
-      "summary": "Nintendo Direct July 2025 rumors suggest upcoming livestream for Switch 2 games, with new titles possibly being showcased following the success of Donkey Kong Bananza.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:50:42Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nintendo-direct-july-2025-switch-2-games-donkey-kong-bananza-nate-the-hate-rumors-metroid-prime-4-hyrule-warriors-kirby-air-riders/articleshow/122866017.cms"
-    },
-    {
-      "id": 53,
-      "title": "Grok has an AI chatbot for young kids. I used it to try to understand why.",
-      "summary": "Grok has an AI chatbot for young kids that tells stories aimed at kids, including a red panda named Rudi. The purpose of the chatbot was to engage young children and provide entertaining and educational content.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-23T18:50:28Z",
-      "url": "https://www.businessinsider.com/grok-chatbot-rudi-kids-elon-musk-i-tried-why-2025-7"
-    },
-    {
-      "id": 54,
-      "title": "AMD Strix Point Linux Performance Comparison One Year After Launch",
-      "summary": "AMD Strix Point Linux Performance Comparison One Year After Launch - This week marks one year since the debut of AMD's Zen 5 Strix Point laptop processors with RDNA 3.5 integrated graphics.",
-      "source": "Phoronix",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:50:00Z",
-      "url": "https://www.phoronix.com/review/amd-strix-point-2025"
-    },
-    {
-      "id": 55,
-      "title": "Why Your Pixel's Call Notes Never Have to Pile Up Again",
-      "summary": "Google is making improvements to Pixel 9 users' call transcript library to help them manage their Call Notes backlog. This is timely for professionals inundated with AI-generated conversation data.",
-      "source": "Gadgethacks.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T18:49:35Z",
-      "url": "https://pixel.gadgethacks.com/news/why-your-pixels-call-notes-never-have-to-pile-up-again/"
-    },
-    {
-      "id": 56,
-      "title": "While Others Question AI’s Future, Elon Musk Is Rushing to Spend Trillions on NVIDIA Chips, at a Faster Pace Than Any Other AI Firm Out There",
-      "summary": "While others question AI's future, Elon Musk is rushing to spend trillions on NVIDIA chips at a faster pace than any other AI firm, signaling a new phase of AI hype and significant computing demand in the industry.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:49:21Z",
-      "url": "https://wccftech.com/elon-musk-plans-to-spend-trillions-of-dollars-on-nvidia-ai-chips/"
-    },
-    {
-      "id": 57,
-      "title": "Digital payments to surge in Malaysia",
-      "summary": "Digital payment adoption is set to surge in Malaysia, with more consumers likely to use emerging digital payment methods in the next year.",
-      "source": "The Star Online",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:49:00Z",
-      "url": "https://www.thestar.com.my/news/world/2025/07/24/digital-payments-to-surge-in-malaysia"
-    },
-    {
-      "id": 58,
-      "title": "Trump’s AI Action Plan aims to block chip exports to China but lacks key details",
-      "summary": "Trump’s AI Action Plan aims to block chip exports to China but lacks key details, offering a path but not a concrete plan for restrictions.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:48:01Z",
-      "url": "https://biztoc.com/x/428befca57790b0c"
-    },
-    {
-      "id": 59,
-      "title": "How Trump’s AI Plan Would Cut Regulation and Speed Up Adoption",
-      "summary": "The Trump administration released its new AI Action Plan which aims to cut regulation and speed up adoption of AI technology, potentially boosting economic growth and competitiveness.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:47:50Z",
-      "url": "https://biztoc.com/x/f7e228b81604ff50"
-    },
-    {
-      "id": 51,
-      "title": "Author asks ChatGPT for advice on her book about tech — here's what it said",
-      "summary": "Author Vauhini Vara sought advice from ChatGPT for her book about tech, 'Searches: Selfhood in the Digital Age,' exploring the duality of tech in helping and exploiting us. Through analyzing the AI feedback, Vara delved into the abilities, shortcomings, and biases of the chatbot.",
-      "source": "NPR",
-      "category": "research",
-      "timestamp": "2025-07-23T18:21:48Z",
-      "url": "https://www.npr.org/2025/07/23/g-s1-78913/author-asks-chatgpt-for-advice-on-her-book-about-tech-heres-what-it-said"
-    },
-    {
-      "id": 52,
-      "title": "Pharma Companies Pour Billions Into US Manufacturing To Avoid Tariffs",
-      "summary": "Pharma companies are investing billions in US manufacturing to avoid tariffs, as the industry is a target for tariffs by the Trump administration in order to protect US interests.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:21:21Z",
-      "url": "https://www.forbes.com/sites/stevebanker/2025/07/23/pharma-companies-pour-billions-into-us-manufacturing-to-avoid-tariffs/"
-    },
-    {
-      "id": 53,
-      "title": "Trump Admin Unveils AI Strategy To Maintain US Dominance",
-      "summary": "Trump Admin unveils AI strategy to maintain US dominance in the AI field and boost big tech's race to stay ahead of China.",
-      "source": "International Business Times",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:21:20Z",
-      "url": "https://www.ibtimes.com/trump-admin-unveils-ai-strategy-maintain-us-dominance-3779253"
     }
   ]
 }
