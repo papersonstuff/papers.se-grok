@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-24T04:09:05.652Z",
+  "lastUpdate": "2025-07-24T04:52:10.104Z",
   "items": [
+    {
+      "id": 51,
+      "title": "McKinsey bars China business from generative AI consultancy work: Report",
+      "summary": "McKinsey's China branch has been instructed to avoid generative AI projects due to increased US government scrutiny of American companies in sensitive sectors in China.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-23T04:49:38Z",
+      "url": "https://economictimes.indiatimes.com/news/international/business/mckinsey-bars-china-business-from-generative-ai-consultancy-work-report/articleshow/122850359.cms"
+    },
+    {
+      "id": 52,
+      "title": "Stanford Pioneers Medical LLM ChatBot Model",
+      "summary": "Stanford pioneers medical LLM ChatBot model that will likely spur efficiencies in diagnosis and treatment.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:48:50Z",
+      "url": "https://www.forbes.com/sites/johnwerner/2025/07/23/stanford-pioneers-medical-llm-chatbot-model/"
+    },
+    {
+      "id": 53,
+      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas",
+      "summary": "President Trump's new AI plan is influenced by Silicon Valley tech leaders and aims to shape policy around artificial intelligence",
+      "source": "ABC News",
+      "category": "policy",
+      "timestamp": "2025-07-23T04:46:24Z",
+      "url": "https://abcnews.go.com/Technology/wireStory/tech-podcasts-policy-trumps-new-ai-plan-leans-123985909"
+    },
+    {
+      "id": 54,
+      "title": "If You See This Message, Your Amazon Account Is Under Attack",
+      "summary": "Attacks on Amazon accounts have increased by 5000% in just 2 weeks, prompting concern for users. It is important to be aware of potential threats and take steps to secure your account.",
+      "source": "Forbes",
+      "category": "security",
+      "timestamp": "2025-07-23T04:43:52Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/23/if-you-see-this-message-your-amazon-account-is-under-attack/"
+    },
+    {
+      "id": 55,
+      "title": "LILYGO T-Watch Ultra Features ESP32-S3, AMOLED Display, GNSS, and LoRa Connectivity",
+      "summary": "LILYGO has unveiled the T-Watch Ultra, a multifunctional smartwatch platform that integrates wireless connectivity, location tracking, long-range communication, and intelligent motion sensing in a compact form.",
+      "source": "Linuxgizmos.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:43:32Z",
+      "url": "https://linuxgizmos.com/lilygo-t-watch-ultra-features-esp32-s3-amoled-display-gnss-and-lora-connectivity/"
+    },
+    {
+      "id": 56,
+      "title": "evoseal 0.2.25",
+      "summary": "evoseal 0.2.25 is an advanced AI system that integrates DGM, OpenEvolve, and SEAL.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:42:28Z",
+      "url": "https://pypi.org/project/evoseal/0.2.25/"
+    },
+    {
+      "id": 57,
+      "title": "AI should run on 100% renewable energy by 2030, U.N. chief says",
+      "summary": "AI data centers should be running on 100% renewable energy by 2030 to combat their high energy consumption levels, according to the U.N. chief.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:42:12Z",
+      "url": "https://biztoc.com/x/c3bdb16186ac37ae"
+    },
+    {
+      "id": 58,
+      "title": "netra-sdk 0.1.19",
+      "summary": "netra-sdk 0.1.19 is a Python SDK for AI application observability that offers monitoring, tracing, and PII protection for LLM and vector database applications. It enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:41:04Z",
+      "url": "https://pypi.org/project/netra-sdk/0.1.19/"
+    },
+    {
+      "id": 59,
+      "title": "aider-code 0.1.dev19",
+      "summary": "Aider-code 0.1.dev19 by Devflux offers AI pair programming in the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:40:20Z",
+      "url": "https://pypi.org/project/aider-code/0.1.dev19/"
+    },
+    {
+      "id": 60,
+      "title": "AIストーム、「Storm Academy」で1,000名対象に受講料”０円”キャンペーン開始",
+      "summary": "AI Storm has launched a campaign offering free tuition for 1,000 participants at its Storm Academy.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-23T04:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000007183.html"
+    },
+    {
+      "id": 61,
+      "title": "「薬急便 遠隔接客AIアシスタント」薬局店舗内オンライン服薬指導の正式提供開始",
+      "summary": "A remote customer service AI assistant for medication delivery has been officially launched for online medication guidance at pharmacy stores.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000045.000093498.html"
+    },
+    {
+      "id": 62,
+      "title": "Faber Company、DX 総合EXPOに出展｜AI検索時代に備えるマーケティングソリューションを提案",
+      "summary": "Faber Company exhibited at DX Expo to propose marketing solutions for the AI search era.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000278.000031263.html"
+    },
+    {
+      "id": 63,
+      "title": "【8/5開催】AIエージェントでTop tierの大企業を変革する 「AI・Agent戦略コンサルタント」の仕事の実態に迫る| generativeX × ヤマトヒューマンキャピタル",
+      "summary": "An event will be held on 8/5 to explore the reality of the job of an AI agent strategy consultant, who transforms top-tier companies using AI agents. This event is a collaboration between generativeX and Yamato Human Capital.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000180.000137297.html"
+    },
+    {
+      "id": 64,
+      "title": "Toluca dominant at home against Tigres",
+      "summary": "Toluca and Tigres will face off in a highly anticipated match at the Estadio Nemesio Diez, where Toluca has historically been dominant at home.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:39:00Z",
+      "url": "https://onefootball.com/en/news/toluca-dominant-at-home-against-tigres-41412005"
+    },
+    {
+      "id": 65,
+      "title": "AI should run on 100% renewable energy by 2030, U.N. chief says",
+      "summary": "AI data centers should run on 100% renewable energy by 2030, according to the U.N. chief, as they consume as much power as 100,000 homes and even more in the largest centers being built.",
+      "source": "The Japan Times",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:39:00Z",
+      "url": "https://www.japantimes.co.jp/business/2025/07/23/tech/ai-renewable-energy-2030-un/"
+    },
+    {
+      "id": 66,
+      "title": "Steaming Toward the End of July",
+      "summary": "The news discusses updates on weather forecasts for the end of July, mentioning the return of scattered showers and storms. It highlights the innovation in weather prediction technology and the continuous improvement in providing accurate forecasts.",
+      "source": "kyweathercenter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T04:36:48Z",
+      "url": "https://kyweathercenter.com/?p=71946"
+    },
+    {
+      "id": 67,
+      "title": "youtube-ai-resume 0.0.6",
+      "summary": "The youtube-ai-resume 0.0.6 is a CLI & library that can extract YouTube captions and provide an OpenAI-generated summary, making it easier to quickly summarize video content.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:36:29Z",
+      "url": "https://pypi.org/project/youtube-ai-resume/0.0.6/"
+    },
+    {
+      "id": 68,
+      "title": "米国に続きCatlog(R)がオーストラリアでも販売・サービス開始！さらなるグローバル展開を加速",
+      "summary": "Catlog(R) has started sales and services in Australia following its success in the United States, accelerating its global expansion.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-23T04:36:06Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000086.000037478.html"
+    },
+    {
+      "id": 69,
+      "title": "These tips from experts can help your teenager navigate AI companions",
+      "summary": "These tips from experts can help your teenager navigate AI companions - As technology evolves, a growing number of teenagers are finding solace in chatbots, viewing them as reliable companions. While these AI entities offer continuous support, specialists warn about the potential risks stemming from an unregulated AI landscape.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-23T04:35:43Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/these-tips-from-experts-can-help-your-teenager-navigate-ai-companions/articleshow/122850095.cms"
+    },
     {
       "id": 51,
       "title": "To beat the AI squeeze, Newsweek is building revenue beyond traffic",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T03:00:00Z",
       "url": "https://prtimes.jp/main/html/rd/p/000000006.000090821.html"
-    },
-    {
-      "id": 51,
-      "title": "AI talent gap: Savvy freshers bag 4x more pay",
-      "summary": "AI talent gap: Savvy freshers bag 4x more pay - Indian tech firms struggle with a shortage of AI experts. Demand for AI skills is rising faster than the talent pool. Companies like HCLTech and Publicis Sapient are adapting hiring strategies.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-23T01:18:12Z",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-talent-gap-savvy-freshers-bag-4x-more-pay/articleshow/122847650.cms"
-    },
-    {
-      "id": 52,
-      "title": "Alibaba launches open-source AI coding model, touted as its most advanced to date",
-      "summary": "Alibaba launches open-source AI coding model, Qwen3-Coder, described as its most advanced tool for software development.",
-      "source": "CNA",
-      "category": "innovation",
-      "timestamp": "2025-07-23T01:13:37Z",
-      "url": "https://www.channelnewsasia.com/business/alibaba-launches-open-source-ai-coding-model-touted-its-most-advanced-date-5253066"
-    },
-    {
-      "id": 53,
-      "title": "Alibaba launches open-source AI coding model, touted as its most advanced to date",
-      "summary": "Alibaba launches open-source AI coding model, Qwen3-Coder, touted as its most advanced to date.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-23T01:13:37Z",
-      "url": "https://tech.yahoo.com/ai/articles/alibaba-launches-open-source-ai-011337229.html"
-    },
-    {
-      "id": 54,
-      "title": "The Perils of an .xyz Domain",
-      "summary": "The Perils of an .xyz Domain - Create a free virtual HQ in a few seconds.",
-      "source": "Spotvirtual.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T01:11:53Z",
-      "url": "https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain"
-    },
-    {
-      "id": 55,
-      "title": "On \"ChatGPT Psychosis\" and LLM Sycophancy",
-      "summary": "The article discusses the ethical implications of engaging with individuals suffering from psychological conditions such as schizophrenia in online conversations regarding large language models.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T01:11:34Z",
-      "url": "https://www.lesswrong.com/posts/f86hgR5ShiEj4beyZ/on-chatgpt-psychosis-and-llm-sycophancy"
-    },
-    {
-      "id": 56,
-      "title": "Pegasystems’ strong earnings and revenue don’t impress investors, and its stock flounders",
-      "summary": "Pegasystems' strong earnings and revenue don't impress investors, causing its stock to fall sharply in extended trading.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-23T01:08:02Z",
-      "url": "https://siliconangle.com/2025/07/22/pegasystems-strong-earnings-revenue-dont-impress-investors-stock-flounders/"
-    },
-    {
-      "id": 57,
-      "title": "Tony Robbins Sues Over Unauthorized AI Chatbots",
-      "summary": "Tony Robbins is suing over unauthorized AI chatbots on YesChat that impersonate famous personalities like Larry David, Stephen King, and Roger Ebert. This raises ethical concerns about using AI to impersonate real individuals without their consent.",
-      "source": "Variety",
-      "category": "ethics",
-      "timestamp": "2025-07-23T01:04:25Z",
-      "url": "https://variety.com/2025/biz/news/tony-robbins-ai-chatbot-yeschat-lawsuit-1236467440/"
-    },
-    {
-      "id": 58,
-      "title": "NOB DATA、人工超知能（ASI）時代の未来社会を構想する社内ベンチャー「ASI 未来社会研究所」設立",
-      "summary": "NOB DATA establishes internal venture 'ASI Future Society Research Institute' to envision future society in the era of artificial superintelligence (ASI).",
-      "source": "Prtimes.jp",
-      "category": "research",
-      "timestamp": "2025-07-23T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000015.000068057.html"
-    },
-    {
-      "id": 59,
-      "title": "ADX Consulting、文教市場へ本格参入",
-      "summary": "ADX Consulting is making a full-scale entry into the education market.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-23T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000034.000091356.html"
-    },
-    {
-      "id": 60,
-      "title": "【東大阪市小若江】24時間ジム「エコフィット24近大前店」8/4オープン！近大すぐ／月額2,980円～・契約縛りなしの無人ジム",
-      "summary": "A 24-hour gym called Eco Fit 24 Kondai-mae will open in Higashiosaka City, offering memberships starting from 2,980 yen per month with no contract. The gym is unmanned and conveniently located near Kinki University.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000079.000095989.html"
-    },
-    {
-      "id": 61,
-      "title": "Fake E-commerce Platforms as Attack Vectors & Threats in 2025",
-      "summary": "Fake e-commerce platforms pose threats as attack vectors in 2025, with a focus on detection methods and legal countermeasures to combat AI-powered scam sites.",
-      "source": "Darknet.org.uk",
-      "category": "research",
-      "timestamp": "2025-07-23T01:00:00Z",
-      "url": "https://www.darknet.org.uk/2025/07/fake-e-commerce-platforms-as-attack-vectors-threats-in-2025/"
-    },
-    {
-      "id": 62,
-      "title": "「Spider AF SiteScan」正式リリースのお知らせ―マーケティング活動を守る新時代のセキュリティSaaS―",
-      "summary": "Spider AF SiteScan, a new security SaaS, has been officially released by Spider Labs to protect marketing activities in a new era.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-23T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000172.000031981.html"
-    },
-    {
-      "id": 63,
-      "title": "AI Startup Investments Outpace VC-Backed Exits",
-      "summary": "Venture firms are finding that more money is going into AI startup investments than is coming out of exits.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T00:59:37Z",
-      "url": "https://biztoc.com/x/d03ba2f93e8b250c"
-    },
-    {
-      "id": 64,
-      "title": "Magentic Raises $5.5 Million for AI Agents for Supply Chains",
-      "summary": "Magentic raised $5.5 million in funding to grow its AI agent platform for supply chain savings.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T00:59:24Z",
-      "url": "https://biztoc.com/x/1dc510dea740bcbb"
-    },
-    {
-      "id": 65,
-      "title": "9 questions to ask before adding generative AI to your data project",
-      "summary": "Will adding generative AI to your data project improve the outcomes? It might, but it’s not guaranteed. It can be harmful and costly to add generative AI in the...",
-      "source": "Datasavvy.me",
-      "category": "applications",
-      "timestamp": "2025-07-23T00:52:12Z",
-      "url": "https://datasavvy.me/2025/07/22/9-questions-to-ask-before-adding-generative-ai-to-your-data-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=9-questions-to-ask-before-adding-generative-ai-to-your-data-project"
-    },
-    {
-      "id": 66,
-      "title": "Morning Headlines 7/23/25",
-      "summary": "Senate Committee approves the FY 2026 MilCon-VA Appropriations Bill",
-      "source": "Histalk2.com",
-      "category": "research",
-      "timestamp": "2025-07-23T00:51:30Z",
-      "url": "https://histalk2.com/2025/07/22/morning-headlines-7-23-25/"
-    },
-    {
-      "id": 67,
-      "title": "agno-cli added to PyPI",
-      "summary": "agno-cli has been added to PyPI, offering an enhanced Agno CLI that serves as a multi-agent terminal assistant with advanced reasoning and tool integration.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T00:47:13Z",
-      "url": "https://pypi.org/project/agno-cli/"
-    },
-    {
-      "id": 68,
-      "title": "Putting Tulsi on the terror watch list might’ve been Dems dumbest move yet…",
-      "summary": "The decision to put Tulsi Gabbard on the terror watch list by the Biden regime has raised ethical concerns and accusations of baseless smearing. This move has been criticized as a threat to democracy and political opposition.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T00:45:13Z",
-      "url": "https://freerepublic.com/focus/f-news/4330196/posts"
-    },
-    {
-      "id": 69,
-      "title": "What’s the right closing price?",
-      "summary": "The Volume-Weighted Average Price mechanism in India is deemed better than the closing auction method used in global markets.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-23T00:45:00Z",
-      "url": "https://www.thehindubusinessline.com/opinion/whats-the-right-closing-price/article69843776.ece"
     }
   ]
 }
