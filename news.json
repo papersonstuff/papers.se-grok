@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-24T23:40:52.329Z",
+  "lastUpdate": "2025-07-24T23:51:07.077Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Inside the debate over teens using AI companions for support",
+      "summary": "A new study by Common Sense Media shows many younger teens are using AI companions for support. The nonprofit's founder and CEO, Jim Steyer, discusses the findings.",
+      "source": "CBS News",
+      "category": "applications",
+      "timestamp": "2025-07-23T23:50:00Z",
+      "url": "https://www.cbsnews.com/video/inside-the-debate-over-teens-using-ai-companions-for-support/"
+    },
+    {
+      "id": 52,
+      "title": "The Hidden Value Of Anecdotes, Anomalies And Outliers",
+      "summary": "Nearly all breakthrough ideas and innovations start at the edges, not the mainstream. Brands are not leveraging outliers that deviate from the norm.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:48:55Z",
+      "url": "https://www.forbes.com/sites/kianbakhtiari/2025/07/23/the-hidden-value-of-anecdotes-anomalies-and-outliers/"
+    },
+    {
+      "id": 53,
+      "title": "SkillLink 0.1.6",
+      "summary": "SkillLink 0.1.6 is a modern manager designed for AI skills, tools, loading, execution, and automation.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T23:46:51Z",
+      "url": "https://pypi.org/project/skilllink/0.1.6/"
+    },
+    {
+      "id": 54,
+      "title": "Trump’s AI action plan is a ‘Silicon Valley free-for-all’: But what does it mean for Canada?",
+      "summary": "Trump's AI action plan could lead to a 'Silicon Valley free-for-all', raising questions about whether Canada will adopt a corporate-friendly approach or opt for stricter regulations like the EU.",
+      "source": "Financial Post",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:46:21Z",
+      "url": "https://financialpost.com/technology/what-trumps-ai-action-plan-means-for-canada"
+    },
+    {
+      "id": 55,
+      "title": "Sol Reader straps an ebook reader to your face!",
+      "summary": "Sol Reader introduces an ebook reader that can be strapped to the face, providing a unique immersive reading experience similar to VR headsets.",
+      "source": "The Gadgeteer",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:41:00Z",
+      "url": "https://the-gadgeteer.com/2025/07/23/sol-reader-straps-an-ebook-reader-to-your-face/"
+    },
+    {
+      "id": 56,
+      "title": "WATCH: Rioter who threw rocks at federal agents arrested at border: ‘We got him’",
+      "summary": "Elpidio Reyna, a violent rioter who threw rocks at federal agents, was arrested at the U.S.-Mexico border.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:40:56Z",
+      "url": "https://www.foxnews.com/politics/watch-rioter-who-threw-rocks-federal-agents-arrested-border-we-got-him"
+    },
     {
       "id": 51,
       "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs Google, Tesla earnings",
@@ -396,60 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-23T22:41:32Z",
       "url": "https://venturebeat.com/security/securitypal-combines-ai-and-experts-in-nepal-to-speed-enterprise-security-questionnaires-by-87x-or-more/"
-    },
-    {
-      "id": 53,
-      "title": "AMD CEO Lisa Su Says Sourcing AI Chips From TSMC’s U.S. Plants Is 20% More Expensive, Highlighting the Complications of Building Supply Chains in America",
-      "summary": "AMD CEO Lisa Su highlights the increased cost of sourcing AI chips from TSMC's U.S. plants, showcasing the challenges of building supply chains in America. Despite the high cost, big tech companies have no other choice but to get chips from TSMC's U.S. operations for now.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:41:26Z",
-      "url": "https://wccftech.com/amd-ceo-lisa-su-says-sourcing-ai-chips-from-tsmc-us-plants-is-more-expensive/"
-    },
-    {
-      "id": 54,
-      "title": "Google's AI Is Destroying Search, the Internet, and Your Brain",
-      "summary": "Google's AI is impacting online search behavior, potentially limiting access to diverse sources of information.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:41:23Z",
-      "url": "https://slashdot.org/submission/17338152/googles-ai-is-destroying-search-the-internet-and-your-brain"
-    },
-    {
-      "id": 55,
-      "title": "91% of renewables are cheaper than fossil fuels, but Trump just defunded a vital US grid upgrade",
-      "summary": "91% of renewables are cheaper than fossil fuels according to IRENA, indicating that clean energy is the cheapest power source. However, the defunding of a vital US grid upgrade by Trump could hinder the growth and integration of renewable energy in the country.",
-      "source": "Electrek",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:41:22Z",
-      "url": "http://electrek.co/2025/07/23/91-percent-renewables-cheaper-fossil-fuels-trump-defunded-us-grid-upgrade/"
-    },
-    {
-      "id": 56,
-      "title": "Good Morning, News: Ghislaine Is Back, Obama Conspiracies Are Back, Fires Are Back, Everclear Is Back (Or Did They Ever Go Away?)",
-      "summary": "The news article covers various topics including the return of Ghislaine Maxwell, Obama conspiracies, wildfires, and the band Everclear. The article discusses the diverse range of news and events happening in the current landscape.",
-      "source": "The Portland Mercury",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:41:00Z",
-      "url": "https://www.portlandmercury.com/good-morning-news/2025/07/23/47938929/good-morning-news-ghislaine-is-back-obama-conspiracies-are-back-fires-are-back-everclear-is-back-or-did-they-ever-go-away"
-    },
-    {
-      "id": 57,
-      "title": "RICH Miner launches an upgraded version of XRP cloud mining, allowing you to earn USD from XRP every day",
-      "summary": "RICH Miner launches an upgraded version of XRP cloud mining, allowing you to earn USD from XRP every day.",
-      "source": "Android Headlines",
-      "category": "startups",
-      "timestamp": "2025-07-23T22:37:31Z",
-      "url": "https://www.androidheadlines.com/2025/07/rich-miner-launches-an-upgraded-version-of-xrp-cloud-mining-allowing-you-to-earn-usd-from-xrp-every-day.html"
-    },
-    {
-      "id": 58,
-      "title": "saksin-vect2 0.1.1",
-      "summary": "saksin-vect2 0.1.1 is a Python SDK designed for querying the Saksin AI chunked retrieval API, enabling easier utilization of AI technology for chunked retrieval purposes.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T22:37:15Z",
-      "url": "https://pypi.org/project/saksin-vect2/0.1.1/"
     }
   ]
 }
