@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T23:17:44.076Z",
+  "lastUpdate": "2025-07-24T23:40:52.329Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs Google, Tesla earnings",
+      "summary": "Stock market trading mixed as Wall Street considers Google and Tesla earnings, with hopes for US-EU trade deal keeping fresh records in sight.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:38:39Z",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-google-tesla-earnings-233839940.html"
+    },
+    {
+      "id": 52,
+      "title": "Trump Signs Executive Orders on AI Innovation",
+      "summary": "President Donald Trump signs executive orders focused on AI innovation, aiming to free up US companies to move quickly by cutting federal rules and regulations.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:37:41Z",
+      "url": "https://biztoc.com/x/0426bc30c25d3022"
+    },
+    {
+      "id": 53,
+      "title": "Tesla says it started building initial versions of an affordable car, posts a steep sales decline",
+      "summary": "Tesla reports building initial versions of an affordable car in response to a steep decline in sales.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:36:27Z",
+      "url": "https://ca.finance.yahoo.com/news/tesla-says-started-building-initial-233627925.html"
+    },
+    {
+      "id": 54,
+      "title": "Tesla says it started building initial versions of an affordable car, posts a steep sales decline",
+      "summary": "Tesla started building initial versions of an affordable car in response to a sales decline.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:36:27Z",
+      "url": "https://finance.yahoo.com/news/tesla-says-started-building-initial-233627294.html"
+    },
+    {
+      "id": 55,
+      "title": "How CMPs Can Make Hay With Real VRM",
+      "summary": "How CMPs can make use of Real VRM, a $.5 billion business dominated by OneTrust with a 40% market share worldwide.",
+      "source": "Projectvrm.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:36:14Z",
+      "url": "https://projectvrm.org/2025/07/23/from-cmps-to-vrm/"
+    },
+    {
+      "id": 56,
+      "title": "Trump signs executive orders to loosen AI regulations",
+      "summary": "Trump signs executive orders to loosen AI regulations, sparking debate over potential impacts on innovation and big tech.",
+      "source": "WLWT Cincinnati",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:35:01Z",
+      "url": "https://www.wlwt.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
+    },
+    {
+      "id": 57,
+      "title": "Trump signs executive orders to loosen AI regulations",
+      "summary": "Trump signed executive orders to loosen AI regulations, sparking debate over potential impacts on innovation and big tech.",
+      "source": "WMUR Manchester",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:34:41Z",
+      "url": "https://www.wmur.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
+    },
+    {
+      "id": 58,
+      "title": "Trump signs executive orders to loosen AI regulations",
+      "summary": "Trump signs executive orders to reduce AI regulations, sparking debate over potential impacts on innovation and big tech.",
+      "source": "KOCO Oklahoma City",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:34:28Z",
+      "url": "https://www.koco.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
+    },
+    {
+      "id": 59,
+      "title": "Alphabet beats Wall Street’s targets on earnings and revenue, but investors worry about increased AI spending",
+      "summary": "Alphabet beats Wall Street’s targets on earnings and revenue, but investors worry about increased AI spending.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:34:20Z",
+      "url": "https://siliconangle.com/2025/07/23/alphabet-beats-wall-streets-targets-earnings-revenue-investors-worry-increased-ai-spending/"
+    },
+    {
+      "id": 60,
+      "title": "Trump reveals details about AI Action Plan",
+      "summary": "Trump unveils AI Action Plan to bolster U.S. technical capabilities and remove guardrails from Biden administration.",
+      "source": "CBS News",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:33:00Z",
+      "url": "https://www.cbsnews.com/video/trump-reveals-details-ai-action-plan/"
+    },
+    {
+      "id": 61,
+      "title": "July 23, 2025 – PBS News Hour full episode",
+      "summary": "The White House cuts artificial intelligence regulations to compete with China, raising concerns about the ethical implications of prioritizing technological advancement over safety and oversight.",
+      "source": "PBS",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:32:51Z",
+      "url": "https://www.pbs.org/newshour/show/july-23-2025-pbs-news-hour-full-episode"
+    },
+    {
+      "id": 62,
+      "title": "Trump Says It Is ‘Not Do-able’ for AI Companies to Pay for All Copyrighted Content Used in Training Models",
+      "summary": "President Trump believes it is not feasible for AI companies to pay for all copyrighted content used in training models, citing that China is not doing it. This raises ethical questions regarding the use of copyrighted materials in AI development.",
+      "source": "TheWrap",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:32:23Z",
+      "url": "https://www.thewrap.com/donald-trump-ai-company-copyright-content-training-models/"
+    },
+    {
+      "id": 63,
+      "title": "Sundar Pichai on agentic 2026, phones over glasses in near-term, and more",
+      "summary": "Sundar Pichai discussed agentic experiences and XR glasses during the Alphabet Q2 2025 earnings call, in addition to updates on AI Mode and Gemini app adoption.",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:31:07Z",
+      "url": "http://9to5google.com/2025/07/23/sundar-pichai-agentic-2026-glasses/"
+    },
     {
       "id": 51,
       "title": "UN World Court declares countries must curb emissions or be held responsible",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T22:37:15Z",
       "url": "https://pypi.org/project/saksin-vect2/0.1.1/"
-    },
-    {
-      "id": 59,
-      "title": "Google: AI Overviews Drive 10% More Queries, Per Q2 Earnings via @sejournal, @MattGSouthern",
-      "summary": "Google's Q2 earnings show that AI Overviews are driving over 10% more queries, indicating the innovation in search activity powered by artificial intelligence.",
-      "source": "Search Engine Journal",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:35:15Z",
-      "url": "https://www.searchenginejournal.com/google-ai-overviews-drive-10-more-queries-per-q2-earnings/551927/"
-    },
-    {
-      "id": 60,
-      "title": "Google Earnings, Revenue Top Estimates. Capital Spending Guidance Hiked Amid AI Investments. - Investor's Business Daily",
-      "summary": "Google's earnings and revenue exceeded estimates, and the company increased its capital spending guidance due to investments in AI. This demonstrates a growing focus on AI technologies within Google, which could have a significant impact on the economy.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:35:10Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450644"
-    },
-    {
-      "id": 51,
-      "title": "Health officials urge Tennesseans to protect against mosquitoes & ticks",
-      "summary": "Health officials in Tennessee are warning residents to protect themselves from mosquitoes and ticks as outdoor activity increases during the summer.",
-      "source": "NewsChannel5.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T22:15:29Z",
-      "url": "https://www.newschannel5.com/news/health-officials-urge-tennesseans-to-protect-against-mosquitoes-ticks"
-    },
-    {
-      "id": 52,
-      "title": "Trump unveils AI Action Plan that aims to clamp down regulations and 'bias' - BBC",
-      "summary": "Trump unveils AI Action Plan with aim to regulate and reduce bias in AI technology.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:12:58Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450482"
-    },
-    {
-      "id": 53,
-      "title": "Trump Says He's 'Getting Rid of Woke' and Dismisses Copyright Concerns in AI Policy Speech",
-      "summary": "Trump dismisses copyright concerns in AI policy speech and says he's 'getting rid of woke' during summit keynote.",
-      "source": "Wired",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:11:07Z",
-      "url": "https://www.wired.com/story/president-trump-ai-action-plan-speech/"
-    },
-    {
-      "id": 54,
-      "title": "Watchdog: Amid 'AI Summit', Commerce Sec. Lutnick's Family Business Conveniently Holds $1.1B Stake in AI Chip Companies Benefiting From Lax New Administration Trade Agreement",
-      "summary": "Commerce Sec. Lutnick's family business holding a $1.1B stake in AI chip companies benefiting from lax trade agreements raises concerns about potential conflicts of interest and transparency in government decision-making.",
-      "source": "Common Dreams",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:09:20Z",
-      "url": "https://www.commondreams.org/newswire/watchdog-amid-ai-summit-commerce-sec-lutnick-s-family-business-conveniently-holds-1-1b-stake-in-ai-chip-companies-benefiting-from-lax-new-administration-trade-agreement"
-    },
-    {
-      "id": 55,
-      "title": "Swimming and Sipping in Turks and Caicos",
-      "summary": "AI-powered waiter service enhancing customer experience at a beach resort in Turks and Caicos.",
-      "source": "Chilledmagazine.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T22:09:06Z",
-      "url": "https://chilledmagazine.com/swimming-and-sipping-in-turks-and-caicos/"
-    },
-    {
-      "id": 56,
-      "title": "Trump Has Given Back All Gains He Made With Gen Z in Six Months",
-      "summary": "Trump has lost the gains he made with Gen Z in six months, with growing disappointment and disillusionment among young male voters towards his second term.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:08:59Z",
-      "url": "https://biztoc.com/x/8529a009284e2600"
-    },
-    {
-      "id": 57,
-      "title": "Trump: US to add 'at least as much electric capacity as China'",
-      "summary": "During the Winning the AI Race Summit, President Trump stated that the US will add 'at least as much electric capacity as China' under his administration.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:08:50Z",
-      "url": "https://biztoc.com/x/413349329bd9f38e"
-    },
-    {
-      "id": 58,
-      "title": "Full List of Republicans Who Voted to Subpoena Epstein Files from DOJ",
-      "summary": "Several Republican Representatives joined Democrats in voting to subpoena the Department of Justice for Epstein files, showing bipartisan support for transparency in this controversial case.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:08:47Z",
-      "url": "https://biztoc.com/x/9b26b41fe3d5cbad"
-    },
-    {
-      "id": 59,
-      "title": "Alphabet delivers surprising AI spending update",
-      "summary": "Alphabet delivers surprising AI spending update, showing ongoing investment in AI infrastructure despite earlier concerns about cutbacks in capital spending by cloud network players.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:08:30Z",
-      "url": "https://biztoc.com/x/7fd8359a99fa718e"
-    },
-    {
-      "id": 60,
-      "title": "Banks Eye Quantum Innovations as Big Tech Chases AI Talent",
-      "summary": "Banks are looking into quantum innovations as they compete with big tech firms for AI talent, sparking a resource war in financial institutions.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:08:23Z",
-      "url": "https://biztoc.com/x/c8147505896e75f3"
-    },
-    {
-      "id": 61,
-      "title": "AI-driven agencies are filling the tech delivery void in the UK’s service market",
-      "summary": "AI-driven agencies are filling the tech delivery void in the UK’s service market by providing digital solutions across sectors like retail, finance, healthcare, and professional services.",
-      "source": "Digital Journal",
-      "category": "startups",
-      "timestamp": "2025-07-23T22:05:24Z",
-      "url": "https://www.digitaljournal.com/tech-science/ai-driven-agencies-are-filling-the-tech-delivery-void-in-the-uks-service-market/article"
     }
   ]
 }
