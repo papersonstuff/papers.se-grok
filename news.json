@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-24T19:31:10.660Z",
+  "lastUpdate": "2025-07-24T19:49:10.185Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Windows Weekly 942: A World of Wonder",
+      "summary": "Microsoft finally kills Movies & TV show service in the Microsoft Store, the last remaining part of Zune. Previous services like eBook and music sales have also been discontinued.",
+      "source": "Twit.tv",
+      "category": "economy",
+      "timestamp": "2025-07-23T19:45:22Z",
+      "url": "https://twit.tv/shows/windows-weekly/episodes/942"
+    },
+    {
+      "id": 52,
+      "title": "Here’s the Front-Runner to Play Elon Musk in Luca Guadagnino’s AI Movie",
+      "summary": "Artificial is a comedic drama about the world of artificial intelligence, with a front-runner being considered to play Elon Musk in the movie.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:45:18Z",
+      "url": "https://gizmodo.com/heres-the-front-runner-to-play-elon-musk-in-luca-guadagninos-ai-movie-2000633319"
+    },
+    {
+      "id": 53,
+      "title": "Trump Releases AI Action Plan: 'National Security Imperative' for 'Technological Dominance'",
+      "summary": "President Trump releases AI action plan focusing on achieving and maintaining technological dominance on the world stage.",
+      "source": "Breitbart News",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:44:58Z",
+      "url": "https://www.breitbart.com/tech/2025/07/23/trump-releases-ai-action-plan-national-security-imperative-for-technological-dominance/"
+    },
+    {
+      "id": 54,
+      "title": "Few People Are Clicking Past Google's 'AI Overviews' Search Results",
+      "summary": "Few People Are Clicking Past Google's 'AI Overviews' Search Results - In news that won't surprise anyone seeing their Google referral traffic tank, a Pew Research Center study suggests that few people explore beyond Google’s AI-written search summaries.",
+      "source": "PCMag.com",
+      "category": "research",
+      "timestamp": "2025-07-23T19:42:49Z",
+      "url": "https://uk.pcmag.com/ai/159274/few-people-are-clicking-past-googles-ai-overviews-search-results"
+    },
+    {
+      "id": 55,
+      "title": "Few People Are Clicking Past Google's 'AI Overviews' Search Results",
+      "summary": "Few people are clicking past Google's AI Overviews search results as shown in a Pew Research Center study.",
+      "source": "PCMag.com",
+      "category": "research",
+      "timestamp": "2025-07-23T19:42:49Z",
+      "url": "https://me.pcmag.com/en/ai/31369/few-people-are-clicking-past-googles-ai-overviews-search-results"
+    },
+    {
+      "id": 56,
+      "title": "Google Brings New Video AI Features to Google Photos and YouTube Shorts",
+      "summary": "Google announced new AI video editing tools for Google Photos and YouTube Shorts, offering users enhanced video creation capabilities.",
+      "source": "MacRumors",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:42:48Z",
+      "url": "https://www.macrumors.com/2025/07/23/google-ai-features-photos-youtube/"
+    },
+    {
+      "id": 57,
+      "title": "BP’s Castrol Unit Gets One Rock Bid as Most Suitors Drop",
+      "summary": "One Rock Capital Partners is one of the few remaining bidders for BP Plc's Castrol lubricants business, indicating potential challenges for the asset disposal by the oil major.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-23T19:42:22Z",
+      "url": "https://financialpost.com/pmn/business-pmn/bps-castrol-unit-gets-one-rock-bid-as-most-suitors-drop"
+    },
+    {
+      "id": 58,
+      "title": "Google Photos rolls out tools to turn your photos into anime, comics, and more",
+      "summary": "Google Photos is rolling out tools to turn photos into anime and comics, alongside a new 'Create' tab for added fun with selfies.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:41:09Z",
+      "url": "https://www.androidauthority.com/google-photos-image-to-video-remix-3580338/"
+    },
+    {
+      "id": 59,
+      "title": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift",
+      "summary": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift enables near real-time analytics and machine learning (ML) to analyze petabytes of transactional data in Amazon Redshift without complex data pipelines for extract-transform-load (ETL) operations.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:37:00Z",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-zero-etl-integration-redshift/"
+    },
+    {
+      "id": 60,
+      "title": "What Grok’s Jeffrey Epstein Comments Highlight How The AI Chatbot Is Learning",
+      "summary": "Grok's handling of the Epstein mania highlights ethical considerations in AI development, particularly in relation to Elon Musk's AI.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T19:33:51Z",
+      "url": "https://biztoc.com/x/45de656894d35b7e"
+    },
+    {
+      "id": 61,
+      "title": "Ghislaine Maxwell Subpoenaed by Congress Over Epstein Case: What We Know",
+      "summary": "James Comer, the Chairman for the House Committee on Oversight and Government Reform, issued a subpoena for Ghislaine Maxwell in relation to the Epstein case.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T19:32:50Z",
+      "url": "https://biztoc.com/x/c6a5303458db3042"
+    },
     {
       "id": 51,
       "title": "REMUS 620 Validated for Torpedo Tube Deployment",
@@ -350,105 +449,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T18:21:20Z",
       "url": "https://www.ibtimes.com/trump-admin-unveils-ai-strategy-maintain-us-dominance-3779253"
-    },
-    {
-      "id": 54,
-      "title": "AI-Powered Processing Tools - 2nd Nature Launches an AI Platform Designed for Food Processing (TrendHunter.com)",
-      "summary": "2nd Nature launches AI platform for food processing using machine learning algorithms",
-      "source": "Cleanthesky.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:20:06Z",
-      "url": "https://www.cleanthesky.com/innovation/2nd-nature"
-    },
-    {
-      "id": 55,
-      "title": "toxic-detection 1.0.14",
-      "summary": "toxic-detection 1.0.14 is an Intelligent AI Agent designed for real-time content moderation with an accuracy of 97.5%.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:20:05Z",
-      "url": "https://pypi.org/project/toxic-detection/1.0.14/"
-    },
-    {
-      "id": 56,
-      "title": "It Can't Do That",
-      "summary": "AI is often misunderstood as having abilities it does not actually possess, causing frustration and confusion among users and developers.",
-      "source": "Eschatonblog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T18:20:00Z",
-      "url": "https://www.eschatonblog.com/2025/07/it-cant-do-that.html"
-    },
-    {
-      "id": 57,
-      "title": "Trump's AI plan eases data center rules, strips federal DEI guidelines",
-      "summary": "Trump's AI plan focuses on easing data center rules and removing federal DEI guidelines to support artificial intelligence research and development in the US.",
-      "source": "Cointelegraph",
-      "category": "ethics",
-      "timestamp": "2025-07-23T18:19:59Z",
-      "url": "https://cointelegraph.com/news/white-house-ai-strategy-united-states"
-    },
-    {
-      "id": 58,
-      "title": "White House Unveils America’s AI Action Plan",
-      "summary": "White House unveils America's AI Action Plan aimed at removing barriers to American leadership in AI and ushering in a new golden age of human flourishing.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:17:44Z",
-      "url": "https://freerepublic.com/focus/f-news/4330321/posts"
-    },
-    {
-      "id": 59,
-      "title": "Google Posts $96B in Q2 Revenue, Spurred by Big AI Investments",
-      "summary": "Google posts $96B in Q2 revenue, fueled by AI investments for content creation, chatbots, and web search.",
-      "source": "Adweek",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:17:27Z",
-      "url": "https://www.adweek.com/media/google-posts-96b-in-q2-revenue-spurred-by-big-ai-investments/"
-    },
-    {
-      "id": 60,
-      "title": "OpenAI's Sam Altman Warns of Impending AI-Powered Fraud Crisis",
-      "summary": "OpenAI CEO Sam Altman warns of an impending AI fraud crisis, especially towards financial institutions using voice authentication.",
-      "source": "Android Headlines",
-      "category": "ethics",
-      "timestamp": "2025-07-23T18:16:34Z",
-      "url": "https://www.androidheadlines.com/2025/07/openai-sam-altman-warns-ai-fraud-crisis-voice.html"
-    },
-    {
-      "id": 61,
-      "title": "Oakley Meta HSTN fixes the biggest problem with Ray-Ban Meta Smart Glasses, and I couldn't be happier about it",
-      "summary": "Meta claims Oakley Meta HSTN smart glasses have twice the battery life of Ray-Ban Meta Smart Glasses, addressing a major issue with the latter. The battery life claim is tested to verify its accuracy.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-23T18:15:49Z",
-      "url": "https://www.androidcentral.com/gaming/virtual-reality/oakley-meta-hstn-smart-glasses-battery-life-review"
-    },
-    {
-      "id": 62,
-      "title": "Camarda hat-trick, Pisa shine, Udinese flop in friendlies",
-      "summary": "Serie A teams continue with friendlies to prepare for the upcoming season, with some teams shining and others struggling. The teams are getting ready for either the Coppa Italia or their first league match.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T18:15:00Z",
-      "url": "https://onefootball.com/en/news/camarda-hat-trick-pisa-shine-udinese-flop-in-friendlies-41415448"
-    },
-    {
-      "id": 63,
-      "title": "Mark Cuban and Sam Altman Just Warned About Disappearing Jobs and the Need to Learn AI",
-      "summary": "Mark Cuban and Sam Altman are warning about disappearing jobs due to AI and emphasize the need to learn AI as it is poised to radically change the office environment.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T18:14:23Z",
-      "url": "https://biztoc.com/x/571e6ba0130ae802"
-    },
-    {
-      "id": 64,
-      "title": "How this Toronto airport is using AI to help reduce garbage waste",
-      "summary": "A Toronto airport is using artificial intelligence to help reduce garbage waste and teach people about recycling by launching Oscar Sort recycling stations.",
-      "source": "CBC News",
-      "category": "applications",
-      "timestamp": "2025-07-23T18:14:20Z",
-      "url": "https://www.cbc.ca/news/canada/toronto/billy-bishop-airport-oscar-garbage-waste-1.7591851"
     }
   ]
 }
