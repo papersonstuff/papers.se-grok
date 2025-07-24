@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-24T06:24:34.808Z",
+  "lastUpdate": "2025-07-24T06:54:39.339Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Apple discloses AI training practices, stressing transparency and legal compliance",
+      "summary": "Apple has disclosed its AI training practices in a technical report detailing its 2025 Apple Intelligence language models, emphasizing transparency and legal compliance.",
+      "source": "Digitimes",
+      "category": "research",
+      "timestamp": "2025-07-23T06:54:10Z",
+      "url": "https://www.digitimes.com/news/a20250723PD226/apple-intelligence-ai-training-data-privacy-legal.html"
+    },
+    {
+      "id": 52,
+      "title": "Bryan Johnson spent $2 million to stay young, now he’s trying to not die at all",
+      "summary": "Bryan Johnson, who spent $2 million on anti-ageing technology, is now looking to shut down or sell his startup Blueprint. Despite investing $25 million in the business, Johnson feels it may undercut his credibility as the founder of Don't Die.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-23T06:53:05Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bryan-johnson-spent-2-million-to-stay-young-now-hes-trying-to-not-die-at-all/articleshow/122851356.cms"
+    },
+    {
+      "id": 53,
+      "title": "White House to unveil plan to push US AI abroad, crack down on restrictive rules, document shows - Reuters",
+      "summary": "White House to unveil plan to push US AI abroad, crack down on restrictive rules, in order to solidify the U.S. position as a leader in AI.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:52:16Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178444752"
+    },
+    {
+      "id": 54,
+      "title": "European stocks poised to surge as US-Japan trade deal struck",
+      "summary": "European stocks are expected to rise after the US and Japan reached a trade agreement. President Trump announced that EU representatives will be meeting for negotiations on Wednesday.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:51:51Z",
+      "url": "https://www.irishtimes.com/business/markets/2025/07/23/european-stocks-poised-to-surge-as-us-japan-trade-deal-struck/"
+    },
+    {
+      "id": 55,
+      "title": "Amazon shuts down Shanghai AI research lab: FT report",
+      "summary": "Amazon is closing its Shanghai AI lab amidst escalating US-China tensions, as reported by the Financial Times. This decision aligns with increased scrutiny from Washington on American companies operating in China.",
+      "source": "The Times of India",
+      "category": "research",
+      "timestamp": "2025-07-23T06:47:25Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-shuts-down-shanghai-ai-research-lab-ft-report/articleshow/122852914.cms"
+    },
+    {
+      "id": 56,
+      "title": "swe-ai-agent 1.0.79",
+      "summary": "SWE Agent 1.0.79 is an AI tool designed to serve as a headless agentic IDE with comprehensive tool support.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T06:47:17Z",
+      "url": "https://pypi.org/project/swe-ai-agent/1.0.79/"
+    },
+    {
+      "id": 57,
+      "title": "OpenAI Seeks Additional Capital to Complete $40 Billion Round",
+      "summary": "OpenAI seeks additional capital to complete $40 billion round, looking for more funding to support its ambitious goals in artificial intelligence.",
+      "source": "Nextbigwhat.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T06:47:08Z",
+      "url": "https://nextbigwhat.com/openai-seeks-additional-capital-to-complete-40-billion-round/"
+    },
+    {
+      "id": 58,
+      "title": "AI Overviews Cause Massive Drop in Search Clicks, Pew Research Shows",
+      "summary": "Pew Research Center analysis shows Google AI overviews causing a nearly 50% decrease in website clicks, impacting web traffic significantly.",
+      "source": "Nextbigwhat.com",
+      "category": "research",
+      "timestamp": "2025-07-23T06:46:57Z",
+      "url": "https://nextbigwhat.com/ai-overviews-cause-massive-drop-in-search-clicks-pew-research-shows/"
+    },
+    {
+      "id": 59,
+      "title": "OpenAI to Pay Oracle $30B Annually for Data Center Services",
+      "summary": "OpenAI to Pay Oracle $30B Annually for Data Center Services - OpenAI has been revealed as the customer behind Oracle's $30 billion data center services deal disclosed last month.",
+      "source": "Nextbigwhat.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T06:46:23Z",
+      "url": "https://nextbigwhat.com/openai-to-pay-oracle-30b-annually-for-data-center-services/"
+    },
+    {
+      "id": 60,
+      "title": "Amazon Acquires AI Wearable Company Bee to Enhance AI Assistant Capabilities",
+      "summary": "Amazon has acquired AI wearable company Bee to enhance AI assistant capabilities, expanding their tech portfolio with Bee's bracelet and Apple Watch app that capture daily activities for personalized assistance.",
+      "source": "Nextbigwhat.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T06:46:15Z",
+      "url": "https://nextbigwhat.com/amazon-acquires-ai-wearable-company-bee-to-enhance-ai-assistant-capabilities/"
+    },
+    {
+      "id": 61,
+      "title": "Salesforce researchers introduce MCPEval for AI agent testing in MCP servers",
+      "summary": "Salesforce researchers introduce MCPEval for AI agent testing in MCP servers, making protocol-level agent testing more accessible.",
+      "source": "Nextbigwhat.com",
+      "category": "research",
+      "timestamp": "2025-07-23T06:46:10Z",
+      "url": "https://nextbigwhat.com/salesforce-researchers-introduce-mcpeval-for-ai-agent-testing-in-mcp-servers/"
+    },
+    {
+      "id": 62,
+      "title": "Alibaba Introduces Open Source Qwen3-235B-A22B-2507 Outperforming Kimi-2",
+      "summary": "Alibaba introduces open source Qwen3-235B-A22B-2507, outperforming Kimi-2 with superior performance and a low compute version for single-node GPU instances or local development machines.",
+      "source": "Nextbigwhat.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T06:46:07Z",
+      "url": "https://nextbigwhat.com/alibaba-introduces-open-source-qwen3-235b-a22b-2507-outperforming-kimi-2/"
+    },
+    {
+      "id": 63,
+      "title": "Intuit Introduces Agentic AI for Mid-Market, Saving Organizations Time",
+      "summary": "Intuit introduces agentic AI solutions for mid-sized organizations, potentially saving them 17 to 20 hours per month by streamlining processes and increasing efficiency.",
+      "source": "Nextbigwhat.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T06:46:00Z",
+      "url": "https://nextbigwhat.com/intuit-introduces-agentic-ai-for-mid-market-saving-organizations-time/"
+    },
+    {
+      "id": 64,
+      "title": "AI Models Perform Worse with Extended Reasoning Time, Anthropic Researchers Find",
+      "summary": "Anthropic research reveals that AI models show decreased performance with extended reasoning time, opposing industry assumptions about test-time compute scaling in business applications.",
+      "source": "Nextbigwhat.com",
+      "category": "research",
+      "timestamp": "2025-07-23T06:45:57Z",
+      "url": "https://nextbigwhat.com/ai-models-perform-worse-with-extended-reasoning-time-anthropic-researchers-find/"
+    },
+    {
+      "id": 65,
+      "title": "AWS shuts down its Shanghai AI research lab, following similar moves by other US tech groups, including Microsoft and IBM, to scale back China-based R&D efforts (Financial Times)",
+      "summary": "AWS shuts down its Shanghai AI research lab, following similar moves by other US tech groups, including Microsoft and IBM, to scale back China-based R&D efforts.",
+      "source": "Techmeme.com",
+      "category": "research",
+      "timestamp": "2025-07-23T06:45:03Z",
+      "url": "https://www.techmeme.com/250723/p6"
+    },
+    {
+      "id": 66,
+      "title": "Interview: Is there an easier way to refactor applications?",
+      "summary": "Interview with the inventor of OpenRewrite discussing easier ways for enterprise IT to manage code across multiple source code repositories",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T06:45:00Z",
+      "url": "https://www.computerweekly.com/news/366627766/Interview-Is-there-an-easier-way-to-refactor-applications"
+    },
+    {
+      "id": 67,
+      "title": "Sweet Sixteen: Some things I've never said out loud about running Creative Boom",
+      "summary": "Sweet Sixteen: Reflecting on the lessons learned in running Creative Boom for sixteen years, including insights on people, power, ego, and kindness.",
+      "source": "Creative Boom",
+      "category": "startups",
+      "timestamp": "2025-07-23T06:45:00Z",
+      "url": "https://www.creativeboom.com/insight/sixteen-years-of-creative-boom-the-things-ive-kept-quiet-until-now/"
+    },
     {
       "id": 51,
       "title": "[Changelog] What’s New in Mozilla Firefox 140 and Later Versions",
@@ -297,159 +450,6 @@
       "category": "policy",
       "timestamp": "2025-07-23T04:46:24Z",
       "url": "https://abcnews.go.com/Technology/wireStory/tech-podcasts-policy-trumps-new-ai-plan-leans-123985909"
-    },
-    {
-      "id": 54,
-      "title": "If You See This Message, Your Amazon Account Is Under Attack",
-      "summary": "Attacks on Amazon accounts have increased by 5000% in just 2 weeks, prompting concern for users. It is important to be aware of potential threats and take steps to secure your account.",
-      "source": "Forbes",
-      "category": "security",
-      "timestamp": "2025-07-23T04:43:52Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/23/if-you-see-this-message-your-amazon-account-is-under-attack/"
-    },
-    {
-      "id": 55,
-      "title": "LILYGO T-Watch Ultra Features ESP32-S3, AMOLED Display, GNSS, and LoRa Connectivity",
-      "summary": "LILYGO has unveiled the T-Watch Ultra, a multifunctional smartwatch platform that integrates wireless connectivity, location tracking, long-range communication, and intelligent motion sensing in a compact form.",
-      "source": "Linuxgizmos.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:43:32Z",
-      "url": "https://linuxgizmos.com/lilygo-t-watch-ultra-features-esp32-s3-amoled-display-gnss-and-lora-connectivity/"
-    },
-    {
-      "id": 56,
-      "title": "evoseal 0.2.25",
-      "summary": "evoseal 0.2.25 is an advanced AI system that integrates DGM, OpenEvolve, and SEAL.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:42:28Z",
-      "url": "https://pypi.org/project/evoseal/0.2.25/"
-    },
-    {
-      "id": 57,
-      "title": "AI should run on 100% renewable energy by 2030, U.N. chief says",
-      "summary": "AI data centers should be running on 100% renewable energy by 2030 to combat their high energy consumption levels, according to the U.N. chief.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:42:12Z",
-      "url": "https://biztoc.com/x/c3bdb16186ac37ae"
-    },
-    {
-      "id": 58,
-      "title": "netra-sdk 0.1.19",
-      "summary": "netra-sdk 0.1.19 is a Python SDK for AI application observability that offers monitoring, tracing, and PII protection for LLM and vector database applications. It enables easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:41:04Z",
-      "url": "https://pypi.org/project/netra-sdk/0.1.19/"
-    },
-    {
-      "id": 59,
-      "title": "aider-code 0.1.dev19",
-      "summary": "Aider-code 0.1.dev19 by Devflux offers AI pair programming in the terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:40:20Z",
-      "url": "https://pypi.org/project/aider-code/0.1.dev19/"
-    },
-    {
-      "id": 60,
-      "title": "AIストーム、「Storm Academy」で1,000名対象に受講料”０円”キャンペーン開始",
-      "summary": "AI Storm has launched a campaign offering free tuition for 1,000 participants at its Storm Academy.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-23T04:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000033.000007183.html"
-    },
-    {
-      "id": 61,
-      "title": "「薬急便 遠隔接客AIアシスタント」薬局店舗内オンライン服薬指導の正式提供開始",
-      "summary": "A remote customer service AI assistant for medication delivery has been officially launched for online medication guidance at pharmacy stores.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000045.000093498.html"
-    },
-    {
-      "id": 62,
-      "title": "Faber Company、DX 総合EXPOに出展｜AI検索時代に備えるマーケティングソリューションを提案",
-      "summary": "Faber Company exhibited at DX Expo to propose marketing solutions for the AI search era.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000278.000031263.html"
-    },
-    {
-      "id": 63,
-      "title": "【8/5開催】AIエージェントでTop tierの大企業を変革する 「AI・Agent戦略コンサルタント」の仕事の実態に迫る| generativeX × ヤマトヒューマンキャピタル",
-      "summary": "An event will be held on 8/5 to explore the reality of the job of an AI agent strategy consultant, who transforms top-tier companies using AI agents. This event is a collaboration between generativeX and Yamato Human Capital.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000180.000137297.html"
-    },
-    {
-      "id": 64,
-      "title": "Toluca dominant at home against Tigres",
-      "summary": "Toluca and Tigres will face off in a highly anticipated match at the Estadio Nemesio Diez, where Toluca has historically been dominant at home.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:39:00Z",
-      "url": "https://onefootball.com/en/news/toluca-dominant-at-home-against-tigres-41412005"
-    },
-    {
-      "id": 65,
-      "title": "AI should run on 100% renewable energy by 2030, U.N. chief says",
-      "summary": "AI data centers should run on 100% renewable energy by 2030, according to the U.N. chief, as they consume as much power as 100,000 homes and even more in the largest centers being built.",
-      "source": "The Japan Times",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:39:00Z",
-      "url": "https://www.japantimes.co.jp/business/2025/07/23/tech/ai-renewable-energy-2030-un/"
-    },
-    {
-      "id": 66,
-      "title": "Steaming Toward the End of July",
-      "summary": "The news discusses updates on weather forecasts for the end of July, mentioning the return of scattered showers and storms. It highlights the innovation in weather prediction technology and the continuous improvement in providing accurate forecasts.",
-      "source": "kyweathercenter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:36:48Z",
-      "url": "https://kyweathercenter.com/?p=71946"
-    },
-    {
-      "id": 67,
-      "title": "youtube-ai-resume 0.0.6",
-      "summary": "The youtube-ai-resume 0.0.6 is a CLI & library that can extract YouTube captions and provide an OpenAI-generated summary, making it easier to quickly summarize video content.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:36:29Z",
-      "url": "https://pypi.org/project/youtube-ai-resume/0.0.6/"
-    },
-    {
-      "id": 68,
-      "title": "米国に続きCatlog(R)がオーストラリアでも販売・サービス開始！さらなるグローバル展開を加速",
-      "summary": "Catlog(R) has started sales and services in Australia following its success in the United States, accelerating its global expansion.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-23T04:36:06Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000086.000037478.html"
-    },
-    {
-      "id": 69,
-      "title": "These tips from experts can help your teenager navigate AI companions",
-      "summary": "These tips from experts can help your teenager navigate AI companions - As technology evolves, a growing number of teenagers are finding solace in chatbots, viewing them as reliable companions. While these AI entities offer continuous support, specialists warn about the potential risks stemming from an unregulated AI landscape.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:35:43Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/these-tips-from-experts-can-help-your-teenager-navigate-ai-companions/articleshow/122850095.cms"
-    },
-    {
-      "id": 51,
-      "title": "To beat the AI squeeze, Newsweek is building revenue beyond traffic",
-      "summary": "Newsweek is diversifying revenue streams beyond traffic by launching subscription products and expanding non-advertising streams to prepare for AI answer engines potentially reducing publisher traffic.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T04:08:39Z",
-      "url": "https://biztoc.com/x/0fc2635a5644f76b"
     }
   ]
 }
