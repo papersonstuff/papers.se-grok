@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-24T08:51:33.646Z",
+  "lastUpdate": "2025-07-24T09:20:59.208Z",
   "items": [
+    {
+      "id": 51,
+      "title": "dragon-ml-toolbox 4.2.2",
+      "summary": "dragon-ml-toolbox 4.2.2 is a collection of tools for data science and machine learning projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:20:21Z",
+      "url": "https://pypi.org/project/dragon-ml-toolbox/4.2.2/"
+    },
+    {
+      "id": 52,
+      "title": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges",
+      "summary": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges, helping to prevent fraudulent activities in the state's community college system.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:20:02Z",
+      "url": "https://biztoc.com/x/b5f1abe062788aa4"
+    },
+    {
+      "id": 53,
+      "title": "AI Is Powering Markets",
+      "summary": "AI Is Powering Markets - On May 6, 2010, the US stock markets dropped nearly 10% within minutes due to a 'flash crash' caused by AI algorithms, not news or economic data.",
+      "source": "Realinvestmentadvice.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:20:00Z",
+      "url": "https://realinvestmentadvice.com/resources/blog/ai-is-powering-markets/"
+    },
+    {
+      "id": 54,
+      "title": "Amazon just bought the $50 wearable that never stops listening",
+      "summary": "Amazon purchased a $50 wearable that continually listens to users. This acquisition raises concerns about privacy and the future implications of always-on personal assistants.",
+      "source": "PhoneArena",
+      "category": "ethics",
+      "timestamp": "2025-07-23T09:17:37Z",
+      "url": "https://www.phonearena.com/news/amazon-just-bought-the-50-wearable-that-never-stops-listening_id172547"
+    },
+    {
+      "id": 55,
+      "title": "Pew Research Confirms Google AI Overviews Is Eroding Web Ecosystem via @sejournal, @martinibuster",
+      "summary": "Research on actual users shows that only 1% of AI summaries result in a click to a website.",
+      "source": "Search Engine Journal",
+      "category": "research",
+      "timestamp": "2025-07-23T09:17:05Z",
+      "url": "https://www.searchenginejournal.com/pew-research-confirms-google-ai-overviews-is-eroding-web-ecosystem/551825/"
+    },
+    {
+      "id": 56,
+      "title": "repo-to-md 0.1.1",
+      "summary": "The repo-to-md 0.1.1 tool allows users to fetch git and GitHub repositories as markdown specifically for Large Language Models (LLM) and AI Agents, catering to the research community working on AI development.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T09:15:09Z",
+      "url": "https://pypi.org/project/repo-to-md/0.1.1/"
+    },
+    {
+      "id": 57,
+      "title": "CM Naidu vows to make Andhra No 1 in futuristic tech, innovation",
+      "summary": "CM Naidu vows to make Andhra No 1 in futuristic tech, innovation - Andhra Pradesh Chief Minister N Chandrababu Naidu has declared the state's ambition to lead in futuristic technologies like drones, electronics, and aerospace.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T09:14:40Z",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cm-naidu-vows-to-make-andhra-no-1-in-futuristic-tech-innovation/articleshow/122855874.cms"
+    },
+    {
+      "id": 58,
+      "title": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges",
+      "summary": "AI was used to identify 'ghost students' attempting to enroll in California colleges, with an AI platform playing a key role in detecting education fraud.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:13:00Z",
+      "url": "https://fortune.com/2025/07/23/fake-ghost-student-college-financial-aid-fraud-california/"
+    },
+    {
+      "id": 59,
+      "title": "Show HN: Best Rejected Papers",
+      "summary": "Show HN: Best Rejected Papers - OpenReview.net has been a mainstay of conference reviewing for some of the largest Machine Learning conferences for the past 7 years.",
+      "source": "Github.io",
+      "category": "research",
+      "timestamp": "2025-07-23T09:12:44Z",
+      "url": "https://deneutoy.github.io/best-rejected-papers/"
+    },
+    {
+      "id": 60,
+      "title": "Social Engagement Assistants - Popsy Alerts You to Reddit Threads Where You Can Promote Your Product (TrendHunter.com)",
+      "summary": "Popsy is an AI-driven tool that helps businesses identify promotional opportunities within Reddit discussions by continuously monitoring relevant subreddits and threads, alerting users when they can promote their product.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:11:05Z",
+      "url": "https://www.trendhunter.com/trends/popsy"
+    },
+    {
+      "id": 61,
+      "title": "SAP shares drop after it maintains outlook despite strong quarter",
+      "summary": "SAP shares drop after it maintains outlook despite strong quarter, with higher sales and earnings but no increase in full-year targets causing investor disappointment.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T09:11:00Z",
+      "url": "https://www.channelnewsasia.com/business/sap-shares-drop-after-it-maintains-outlook-despite-strong-quarter-5253826"
+    },
+    {
+      "id": 62,
+      "title": "Fluence Platform: The FLT Token, Its Powerhouse Utility & Value Drivers",
+      "summary": "Fluence Platform's FLT Token aims to unlock compute resources for human innovation and security.",
+      "source": "Ambcrypto.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T09:10:07Z",
+      "url": "https://ambcrypto.com/fluence-platform-the-flt-token-its-powerhouse-utility-value-drivers/"
+    },
+    {
+      "id": 63,
+      "title": "Minister commits to safeguarding journalists' digital rights",
+      "summary": "Minister commits to safeguarding journalists' digital rights - Deputy Communication and Digital Affairs Minister Nezar Patria emphasized the government's commitment to protecting the rights of publishers.",
+      "source": "Antaranews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T09:10:06Z",
+      "url": "https://en.antaranews.com/news/368337/minister-commits-to-safeguarding-journalists-digital-rights"
+    },
+    {
+      "id": 64,
+      "title": "Century Health, Nimbus Health curate EHR pulmonary disease datasets",
+      "summary": "Century Health and Nimbus Health are collaborating to create EHR datasets for pulmonary diseases like COPD and asthma, aiming to analyze disease progression and treatment through AI.",
+      "source": "Techtarget.com",
+      "category": "research",
+      "timestamp": "2025-07-23T09:10:00Z",
+      "url": "https://www.techtarget.com/healthtechanalytics/news/366627945/Century-Health-Nimbus-Health-curate-EHR-pulmonary-disease-datasets"
+    },
+    {
+      "id": 65,
+      "title": "Shark Tank's Kevin O'Leary Wants Stephen Colbert To Be Fired: 'Whack Him'",
+      "summary": "Shark Tank's Kevin O'Leary called for Stephen Colbert to be fired for insulting his employer, generated by AI. There may be inconsistencies in AI-generated content.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T09:09:44Z",
+      "url": "https://biztoc.com/x/6826dc535e85fef8"
+    },
     {
       "id": 51,
       "title": "AI-Powered Numerology Insights - Stella Uses Numerology And AI To Deliver Personalized Life Guidance (TrendHunter.com)",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T07:16:16Z",
       "url": "https://www.helpnetsecurity.com/2025/07/23/manageengine-ad360/"
-    },
-    {
-      "id": 54,
-      "title": " Juve spend €110m, only David in so far, Molina and Sancho possible",
-      "summary": "Juve spend €110m on new signings, with only David confirmed so far.",
-      "source": "Onefootball.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:16:00Z",
-      "url": "https://onefootball.com/en/news/juve-spend-110m-only-david-in-so-far-molina-and-sancho-possible-41412302"
-    },
-    {
-      "id": 55,
-      "title": "Spark Minda teams up with Qualcomm to develop next-gen driver experience for Indian cars",
-      "summary": "Spark Minda partners with Qualcomm to develop next-gen driver experience for Indian cars with advanced cockpit solutions utilizing Qualcomm's Snapdragon Cockpit Platform.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T07:15:02Z",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/spark-minda-teams-up-with-qualcomm-to-develop-next-gen-driver-experience-for-indian-cars/articleshow/122853206.cms"
-    },
-    {
-      "id": 56,
-      "title": "Stock Traders Buy High Volume of Call Options on Evolv Technologies (NASDAQ:EVLV)",
-      "summary": "Stock traders bought a high volume of call options on Evolv Technologies, with a significant increase compared to the average volume. This unusual options trading occurred on Tuesday.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:14:44Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/stock-traders-buy-high-volume-of-call-options-on-evolv-technologies-nasdaqevlv/"
-    },
-    {
-      "id": 57,
-      "title": "Meta’s Poaching Tactics Aside, The Company Has Reportedly Tasked MediaTek To Develop A New 2nm Chip Codenamed ‘Arke’ For AI Inference, But Estimated Launch Expected In A Couple Of Years",
-      "summary": "Meta is working with MediaTek to develop a new 2nm chip codenamed 'Arke' for AI inference, despite facing challenges in poaching talent and rising capital expenditure.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-23T07:14:43Z",
-      "url": "https://wccftech.com/meta-has-tasked-mediatek-to-develop-2nm-chip-for-ai-inference/"
-    },
-    {
-      "id": 58,
-      "title": "ChatGPT agent explained: Everything you need to know",
-      "summary": "OpenAI's ChatGPT agent utilizes browsing, code execution, and API access to independently handle intricate tasks.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T07:13:00Z",
-      "url": "https://www.techtarget.com/whatis/feature/ChatGPT-agents-explained"
-    },
-    {
-      "id": 59,
-      "title": "Android 16 QPR1 Beta 3 fixes Galaxy Watch connection woes [U] - 9to5Google",
-      "summary": "Android 16 QPR1 Beta 3 fixes Galaxy Watch connection issues, improving the user experience. The Samsung Galaxy Watch 8 integrates AI features within a polarizing design, offering a unique wearable technology experience.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T07:12:04Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178444850"
-    },
-    {
-      "id": 60,
-      "title": "Figma, Inc. (FIG) to Raise $979 Million in IPO",
-      "summary": "Figma, Inc. (FIG) is planning to raise $979 million in an initial public offering (IPO) on Thursday, July 31st. The company will issue 36,937,080 shares at $25.00-$28.00 per share.",
-      "source": "ETF Daily News",
-      "category": "startups",
-      "timestamp": "2025-07-23T07:08:48Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/figma-inc-fig-to-raise-979-million-in-ipo/"
-    },
-    {
-      "id": 61,
-      "title": "SAP CEO Christian Klein on Earnings, Trade Uncertainty, AI Demand",
-      "summary": "SAP CEO Christian Klein discusses the company's performance as cloud and software revenue increased amid trade uncertainty and growing demand for AI.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:07:53Z",
-      "url": "https://biztoc.com/x/811bb9461ee12e26"
-    },
-    {
-      "id": 62,
-      "title": "Samsung Galaxy Fold 7 review: This one is a winner",
-      "summary": "Samsung Galaxy Fold 7 review: Samsung's lean and mean foldable fixes all issues from the Fold 6 and could be the top choice in 2025.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-23T07:07:32Z",
-      "url": "https://www.phonearena.com/reviews/samsung-galaxy-fold-7-review_id7538"
-    },
-    {
-      "id": 63,
-      "title": "Source raises $1.4m round with Square Peg, Xtripe angels",
-      "summary": "At 17 years old, Liam Fuller's startup Source raises $1.4m in pre-seed funding for its AI technology that automates procurement for retailers.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T07:07:20Z",
-      "url": "https://biztoc.com/x/947ff673e39c388b"
-    },
-    {
-      "id": 64,
-      "title": "Artificial Intelligence Stocks To Watch Today – July 21st",
-      "summary": "Artificial intelligence stocks such as Super Micro Computer, Salesforce, BigBear.ai, QUALCOMM, ServiceNow, SoundHound AI, and Arista Networks are highlighted for investors to watch today.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:07:03Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/artificial-intelligence-stocks-to-watch-today-july-21st/"
-    },
-    {
-      "id": 65,
-      "title": "Comparing Ondas (NASDAQ:ONDS) & Frontier Communications Parent (NASDAQ:FYBR)",
-      "summary": "Ondas and Frontier Communications Parent are both technology companies being compared based on valuation.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T07:07:03Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/comparing-ondas-nasdaqonds-frontier-communications-parent-nasdaqfybr/"
-    },
-    {
-      "id": 51,
-      "title": "Apple discloses AI training practices, stressing transparency and legal compliance",
-      "summary": "Apple has disclosed its AI training practices in a technical report detailing its 2025 Apple Intelligence language models, emphasizing transparency and legal compliance.",
-      "source": "Digitimes",
-      "category": "research",
-      "timestamp": "2025-07-23T06:54:10Z",
-      "url": "https://www.digitimes.com/news/a20250723PD226/apple-intelligence-ai-training-data-privacy-legal.html"
-    },
-    {
-      "id": 52,
-      "title": "Bryan Johnson spent $2 million to stay young, now he’s trying to not die at all",
-      "summary": "Bryan Johnson, who spent $2 million on anti-ageing technology, is now looking to shut down or sell his startup Blueprint. Despite investing $25 million in the business, Johnson feels it may undercut his credibility as the founder of Don't Die.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-23T06:53:05Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bryan-johnson-spent-2-million-to-stay-young-now-hes-trying-to-not-die-at-all/articleshow/122851356.cms"
-    },
-    {
-      "id": 53,
-      "title": "White House to unveil plan to push US AI abroad, crack down on restrictive rules, document shows - Reuters",
-      "summary": "White House to unveil plan to push US AI abroad, crack down on restrictive rules, in order to solidify the U.S. position as a leader in AI.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-23T06:52:16Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178444752"
     }
   ]
 }
