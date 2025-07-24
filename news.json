@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-24T05:21:52.017Z",
+  "lastUpdate": "2025-07-24T05:48:37.729Z",
   "items": [
+    {
+      "id": 51,
+      "title": "vinagent 0.0.4.post4",
+      "summary": "Version 0.0.4.post4 of the vinagent AI Agent library has been released, providing advancements in AI technology for applications in various industries.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:45:06Z",
+      "url": "https://pypi.org/project/vinagent/0.0.4.post4/"
+    },
+    {
+      "id": 52,
+      "title": "舞台芸術祭「秋の隕石2025東京」全プログラムラインアップ発表のご案内",
+      "summary": "The Tokyo Stage Arts Festival 'Autumn Meteorite 2025 Tokyo' has announced its full program lineup. More information can be found in the press release provided.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000161106.html"
+    },
+    {
+      "id": 53,
+      "title": "Freshworks joins McLaren F1 as official partner",
+      "summary": "Freshworks joins McLaren F1 as official partner, providing their AI platform Freshservice to help manage IT services for the team.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T05:39:20Z",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/freshworks-joins-mclaren-f1-as-official-partner/articleshow/122851296.cms"
+    },
+    {
+      "id": 54,
+      "title": "FBI Warns All Windows Users—Stop These Chrome Updates",
+      "summary": "FBI warns Windows users to stop certain Chrome updates deemed dangerous.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-23T05:37:25Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/23/fbi-warns-windows-users-stop-these-chrome-updates/"
+    },
+    {
+      "id": 55,
+      "title": "mlflow 3.1.4",
+      "summary": "MLflow 3.1.4 is an open source platform for the complete machine learning lifecycle.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T05:33:24Z",
+      "url": "https://pypi.org/project/mlflow/3.1.4/"
+    },
+    {
+      "id": 56,
+      "title": "Cervantes: Open-source, collaborative platform for pentesters and red teams",
+      "summary": "Cervantes is an open-source collaborative platform built for pentesters and red teams, offering a centralized workspace for managing projects, clients, vulnerabilities, and reports.",
+      "source": "Help Net Security",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:30:35Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/23/cervantes-open-source-collaborative-platform-pentesters-red-teams/"
+    },
+    {
+      "id": 57,
+      "title": "CNBC's UK Exchange newsletter: Britain's £72 billion under-the-radar success story",
+      "summary": "Britain's £72 billion under-the-radar success story in AI is highlighted, showcasing one of corporate Britain's greatest successes. Despite its size, this business remains relatively unknown to most Britons.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-23T05:30:01Z",
+      "url": "https://www.cnbc.com/2025/07/23/britains-72-billion-under-the-radar-success-story-cnbc-uk-exchange.html"
+    },
+    {
+      "id": 58,
+      "title": "Navatar Unveils AI-Powered CRM That Meets Dealmakers Where They Work From Outlook to Slack to CRM: Private Equity’s First Truly Embedded Intelligence Platform For Salesforce",
+      "summary": "Navatar unveils AI-Powered CRM that integrates with Outlook, Slack, and Salesforce to automate data entry and provide AI-driven intelligence for private equity dealmakers.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3119983/0/en/Navatar-Unveils-AI-Powered-CRM-That-Meets-Dealmakers-Where-They-Work-From-Outlook-to-Slack-to-CRM-Private-Equity-s-First-Truly-Embedded-Intelligence-Platform-For-Salesforce.html"
+    },
+    {
+      "id": 59,
+      "title": "IIDE Highlights Urgent Need for AI-Driven Marketing in Delhi's Talent Pool",
+      "summary": "IIDE highlights the urgent need for AI-driven marketing in Delhi's talent pool to boost business performance.",
+      "source": "Businesswireindia.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T05:29:19Z",
+      "url": "https://www.businesswireindia.com/iide-highlights-urgent-need-for-ai-driven-marketing-in-delhi's-talent-pool-95786.html"
+    },
+    {
+      "id": 60,
+      "title": "Quantum Computing Faces 3 Major Barriers Before Going Mainstream",
+      "summary": "Quantum computing faces 3 major technical barriers before becoming mainstream, despite its potential to revolutionize drug discovery, climate solutions, and artificial intelligence.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-23T05:28:47Z",
+      "url": "https://www.forbes.com/sites/bernardmarr/2025/07/23/quantum-computing-faces-3-major-barriers-before-going-mainstream/"
+    },
+    {
+      "id": 61,
+      "title": "Trusted monitoring, but with deception probes.",
+      "summary": "Trained deception probes by Apollo on AI's internal activations to determine deceptive responses.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-23T05:26:52Z",
+      "url": "https://www.lesswrong.com/posts/eaEqAzGN3uJfpfGoc/trusted-monitoring-but-with-deception-probes"
+    },
     {
       "id": 51,
       "title": "One97 Communications shares drop nearly 3% post Q1 earnings announcement",
@@ -351,105 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T04:00:00Z",
       "url": "https://www.americanthinker.com/blog/2025/07/israel_s_enemies_turned_the_word_genocide_into_a_battle_cry_against_the_jews.html"
-    },
-    {
-      "id": 63,
-      "title": "Poll: 60% of Gen Z kids like socialism, 34% like communism",
-      "summary": "Poll reveals 60% of Gen Z kids have a favorable view of socialism, while 34% like communism.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/poll_60_of_gen_z_kids_like_socialism_34_like_communism.html"
-    },
-    {
-      "id": 64,
-      "title": "‘Trans’ school employee who preyed on young girls now revealed to have sent homemade porn to school board mom for his ‘fetish’",
-      "summary": "'Trans' school employee who preyed on young girls revealed to have sent homemade porn to school board mom for his 'fetish'. If your entire identity is defined by abnormal and perverse sexual proclivities and behaviors, you’re going to be a sex pest.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/trans_school_employee_who_preyed_on_young_girls_now_revealed_to_have_sent_homemade_porn_to_school_board_mom_for_his_fetish.html"
-    },
-    {
-      "id": 65,
-      "title": "Jewish History and Zohran Mamdani",
-      "summary": "Jewish History and Zohran Mamdani's rise is seen as a reminder of the irrational hatred towards Jews. Mahmood Mamdani, the father of Zohran, is also mentioned in relation to this issue.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/articles/2025/07/jewish_history_and_zohran_mamdani.html"
-    },
-    {
-      "id": 66,
-      "title": "Minnesota: not so nice anymore",
-      "summary": "Minnesota working on new tourism slogans which involve humor and creativity.",
-      "source": "Americanthinker.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/minnesota_not_so_nice_anymore.html"
-    },
-    {
-      "id": 67,
-      "title": "Business resilience needs comprehensive approach",
-      "summary": "Business resilience requires a comprehensive approach beyond cyber security basics as demonstrated by the cyber attack on Marks & Spencer.",
-      "source": "ComputerWeekly.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.computerweekly.com/feature/Business-resilience-needs-comprehensive-approach"
-    },
-    {
-      "id": 68,
-      "title": "The intelligence community’s harassment of Trump has an eerie (and recognizable) ring to it",
-      "summary": "The intelligence community's harassment of Trump has similarities to the harassment Martin Luther King Jr. faced, where efforts were made to discredit and smear their reputations.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/the_intelligence_community_s_harassment_of_trump_has_an_eerie_and_recognizable_ring_to_it.html"
-    },
-    {
-      "id": 69,
-      "title": "aider-code added to PyPI",
-      "summary": "Aider-code, an AI pair programming tool, has been added to PyPI. It allows for AI programming assistance within the terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T03:59:45Z",
-      "url": "https://pypi.org/project/aider-code/"
-    },
-    {
-      "id": 51,
-      "title": "Comfort Systems (FIX) To Report Earnings Tomorrow: Here Is What To Expect",
-      "summary": "Comfort Systems (NYSE:FIX) will report earnings after market hours. Analysts are expecting positive results for the HVAC and electrical contractor.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:12:58Z",
-      "url": "https://finance.yahoo.com/news/comfort-systems-fix-report-earnings-031258854.html"
-    },
-    {
-      "id": 52,
-      "title": "Union Pacific (UNP) Q2 Earnings: What To Expect",
-      "summary": "Freight transportation company Union Pacific (NYSE:UNP) will be reporting earnings this Thursday before market open, investors should be aware of the earnings report.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:12:15Z",
-      "url": "https://finance.yahoo.com/news/union-pacific-unp-q2-earnings-031215429.html"
-    },
-    {
-      "id": 53,
-      "title": "Deckers (DECK) Q2 Earnings: What To Expect",
-      "summary": "Deckers (DECK) will be reporting Q2 earnings this Thursday after market close, providing insight into the financial performance of the footwear and apparel conglomerate.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T03:11:33Z",
-      "url": "https://finance.yahoo.com/news/deckers-deck-q2-earnings-expect-031133126.html"
-    },
-    {
-      "id": 54,
-      "title": "Double exit: Vasco and Bahia knocked out of Copa Sul-Americana ",
-      "summary": "Two Brazilian clubs, Vasco and Bahia, were knocked out of the Copa Sul-Americana after failing to achieve the necessary results.",
-      "source": "Onefootball.com",
-      "category": "sports",
-      "timestamp": "2025-07-23T03:11:00Z",
-      "url": "https://onefootball.com/en/news/double-exit-vasco-and-bahia-knocked-out-of-copa-sul-americana-41411861"
     }
   ]
 }
