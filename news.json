@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-24T21:15:57.583Z",
+  "lastUpdate": "2025-07-24T21:39:57.865Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Live: Tesla revenue slumps in sharpest fall in a decade",
+      "summary": "Tesla's revenue experiences its sharpest fall in a decade, missing expectations and disappointing analysts. The local share market is expected to rise following gains on Wall Street.",
+      "source": "ABC News (AU)",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:39:11Z",
+      "url": "https://www.abc.net.au/news/2025-07-24/asx-markets-business-live-news-july-24/105566046"
+    },
+    {
+      "id": 52,
+      "title": "White House Releases Trump's 'AI Action Plan'—Here's What's in It",
+      "summary": "The White House has released Trump's AI Action Plan, which focuses on prioritizing growth over safety, drawing both praise and criticism.",
+      "source": "Decrypt",
+      "category": "ethics",
+      "timestamp": "2025-07-23T21:38:01Z",
+      "url": "https://decrypt.co/331496/white-house-releases-trump-ai-action-plan"
+    },
+    {
+      "id": 53,
+      "title": "Google's AI push pays off with solid second quarter, but doubts about company's future persist",
+      "summary": "Google's AI push pays off with solid second quarter, but doubts about company's future persist",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T21:35:30Z",
+      "url": "https://biztoc.com/x/5ec732709e173b7f"
+    },
+    {
+      "id": 54,
+      "title": "Trump: In serious trade talks with EU",
+      "summary": "United States President Donald Trump discussed being in serious trade talks with the European Union during an AI summit in Washington, DC.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:35:06Z",
+      "url": "https://biztoc.com/x/64729fb390d5df12"
+    },
+    {
+      "id": 55,
+      "title": "Trump's new AI policies keep culture war focus on tech companies",
+      "summary": "Trump's new AI policies continue to target 'woke' artificial intelligence systems, reflecting conservative concerns about AI models drifting too far.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T21:34:53Z",
+      "url": "https://biztoc.com/x/42a06d1551560dbb"
+    },
+    {
+      "id": 56,
+      "title": "Google’s AI push pays off with solid second quarter, but doubts about company’s future persist",
+      "summary": "Google's AI push pays off with solid second quarter, exceeding analysts' predictions in earnings and revenue growth. Doubts about company's future persist despite strong performance.",
+      "source": "Boston Herald",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:34:12Z",
+      "url": "https://www.bostonherald.com/2025/07/23/google-ai-push-earnings/"
+    },
+    {
+      "id": 57,
+      "title": "EU-Wide Plan AimsTo Nudge Researchers Towards Startup Life",
+      "summary": "Europe is launching a new initiative to push researchers towards creating tech startups in order to better commercialize university research and catch up to the U.S.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-23T21:33:24Z",
+      "url": "https://www.forbes.com/sites/trevorclawson/2025/07/23/eu-wide-plan-aimsto-nudge-researchers-towards-startup-life/"
+    },
+    {
+      "id": 58,
+      "title": "Prime Minister secures thousands of British jobs and £6 billion in investment and export wins as historic trade deal with India signed",
+      "summary": "Prime Minister secures thousands of British jobs and £6 billion in investment and export wins as historic trade deal with India signed",
+      "source": "Www.gov.uk",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:30:01Z",
+      "url": "https://www.gov.uk/government/news/prime-minister-secures-thousands-of-british-jobs-and-6-billion-in-investment-and-export-wins-as-historic-trade-deal-with-india-signed"
+    },
+    {
+      "id": 59,
+      "title": "Lovable AI Hits $100M In Record Time And Launches AI Agent Chasing $1B",
+      "summary": "Lovable AI hits $100M ARR in 8 months, launching Lovable Agent with 91% fewer errors to redefine software development.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-23T21:29:51Z",
+      "url": "https://www.forbes.com/sites/digital-assets/2025/07/23/lovable-ai-hits-100m-in-record-time-and-launches-ai-agent-chasing-1b/"
+    },
+    {
+      "id": 60,
+      "title": "Meta Oakley vs. Meta Ray-Bans: Smart glasses for very different audiences",
+      "summary": "Meta's new smart glasses from Oakley and Ray-Ban target different audiences. A comparison between the two models is provided to help inform potential pre-orders.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-23T21:29:00Z",
+      "url": "https://www.zdnet.com/article/meta-oakley-vs-meta-ray-bans-smart-glasses-with-very-different-audiences/"
+    },
+    {
+      "id": 61,
+      "title": "Netflix's The Hunting Wives sets the stage for Season 2! Cast, plot, spoiler, ending explained, and all details you need to know",
+      "summary": "Netflix's 'The Hunting Wives' has captivated audiences with its scandalous plot and suspenseful twists, sparking speculation about a second season based on May Cobb's novel.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-23T21:28:49Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/the-hunting-wives-netflix-news-netflixs-the-hunting-wives-sets-the-stage-for-season-2-cast-plot-spoiler-ending-explained-and-all-details-you-need-to-know-hunting-wives-ending-explained-/articleshow/122867125.cms"
+    },
+    {
+      "id": 62,
+      "title": "Cribl Launches FinOps Center to Help Enterprises Connect Data Usage to Business Impact",
+      "summary": "Cribl launches FinOps Center to help enterprises connect data usage to business impact, providing a clear view of data flow, costs, and value.",
+      "source": "Vmblog.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T21:28:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/23/cribl-launches-finops-center-to-help-enterprises-connect-data-usage-to-business-impact.aspx"
+    },
+    {
+      "id": 63,
+      "title": "zagency 0.5.1",
+      "summary": "zagency 0.5.1 is an agentic framework for building AI agents that integrates with LLM technology.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T21:27:42Z",
+      "url": "https://pypi.org/project/zagency/0.5.1/"
+    },
+    {
+      "id": 64,
+      "title": "Show HN: ReceiptIQ Pro – AI receipt scanner that tracks spending/budgets (iOS)",
+      "summary": "ReceiptIQ Pro is an AI receipt scanner app developed by a solo iOS developer that categorizes items on receipts and helps track spending and budgets.",
+      "source": "Receiptiq.me",
+      "category": "applications",
+      "timestamp": "2025-07-23T21:26:54Z",
+      "url": "https://receiptiq.me/"
+    },
+    {
+      "id": 65,
+      "title": "What Google just revealed has investors running",
+      "summary": "Alphabet's strong second quarter performance surpassed expectations, but its stock dropped in after-hours trading, leaving investors puzzled.",
+      "source": "Rolling Out",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:26:22Z",
+      "url": "https://rollingout.com/2025/07/23/what-google-just-revealed-has-investors/"
+    },
     {
       "id": 51,
       "title": "pybibx 5.1.5",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T20:15:11Z",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449614"
-    },
-    {
-      "id": 53,
-      "title": "Nothing to see here: Brave browser blocks privacy-busting Microsoft Recall",
-      "summary": "In an effort to protect user privacy, Brave browser 1.81 will prevent Microsoft Recall from screenshotting it by default.",
-      "source": "Theregister.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:15:06Z",
-      "url": "https://www.theregister.com/2025/07/23/brave_browse_block_microsoft_recall/"
-    },
-    {
-      "id": 54,
-      "title": "Origin Bancorp, Inc. Reports Earnings for Second Quarter 2025",
-      "summary": "Origin Bancorp, Inc. reported a net income of $14.6 million for the second quarter of 2025, showing positive financial performance.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120633/0/en/Origin-Bancorp-Inc-Reports-Earnings-for-Second-Quarter-2025.html"
-    },
-    {
-      "id": 55,
-      "title": "Google Parent Alphabet Beats Revenue And Earnings Expectations Ahead Of Antitrust Ruling",
-      "summary": "Alphabet beat revenue and earnings expectations, with economists predicting double-digit increases for both metrics.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:14:46Z",
-      "url": "https://www.forbes.com/sites/tylerroush/2025/07/23/google-parent-alphabet-beats-revenue-and-earnings-expectations-ahead-of-antitrust-ruling/"
-    },
-    {
-      "id": 56,
-      "title": "Spotify Takes Down Fake AI Song Credited to Famous Country Singer Who's Been Dead for Years",
-      "summary": "Spotify removed a fake AI-generated song credited to deceased country singer Blaze Foley, highlighting ethical concerns around AI-generated content being passed off as real. This incident raises questions about the authenticity and integrity of music and other creative works created by AI technology.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:14:26Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449600"
-    },
-    {
-      "id": 57,
-      "title": "Atlantic allies turn to xAI and OpenAI — Why chatbots are now a matter of national strategy",
-      "summary": "Governments are turning to private AI solutions such as xAI and OpenAI for national strategy, from UK public services to U.S. defense. Chatbots are seen as a crucial tool in shaping the future of technology.",
-      "source": "Windows Central",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:14:00Z",
-      "url": "https://www.windowscentral.com/artificial-intelligence/openai-signs-uk-government-deal-while-xai-lands-u-s-defense-contract"
-    },
-    {
-      "id": 58,
-      "title": "Trump’s ‘AI Action Plan’ ditches Biden guardrails, ‘red tape,’ wants chatbots to cut out their liberal bias",
-      "summary": "Trump's 'AI Action Plan' aims to remove Biden's guardrails and red tape, emphasizing the importance of AI models protecting free speech and being based on American values.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:13:52Z",
-      "url": "https://fortune.com/2025/07/23/trumps-ai-action-plan-regulation-red-tape-chatbots-liberal-bias/"
-    },
-    {
-      "id": 59,
-      "title": "fireworks-ai 0.19.9",
-      "summary": "Fireworks-ai 0.19.9 is a Python client library for the Fireworks AI Platform.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:13:51Z",
-      "url": "https://pypi.org/project/fireworks-ai/0.19.9/"
-    },
-    {
-      "id": 60,
-      "title": "Earnings live: Tesla results miss, Google boosts AI spending, Chipotle plunges",
-      "summary": "This week, 112 S&P 500 companies report Q2 results in a busy week for corporate earnings reports.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:13:33Z",
-      "url": "https://finance.yahoo.com/news/live/earnings-live-tesla-results-miss-google-boosts-ai-spending-chipotle-plunges-201333895.html"
-    },
-    {
-      "id": 61,
-      "title": "IBM results beat estimates on AI mainframe refresh, consulting revival",
-      "summary": "IBM exceeded Wall Street estimates for revenue and profit in the second quarter, driven by increased sales in its mainframe business due to demand for AI upgrades. The mainframe systems are capable of processing large amounts of data, contributing to the company's positive financial results.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:13:07Z",
-      "url": "https://www.channelnewsasia.com/business/ibm-results-beat-estimates-ai-mainframe-refresh-consulting-revival-5254996"
-    },
-    {
-      "id": 62,
-      "title": "IBM's software sales disappoint, eclipsing AI mainframe revival",
-      "summary": "IBM's software sales disappoint, overshadowing AI mainframe revival, leading to a 5% drop in shares.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:13:07Z",
-      "url": "https://www.channelnewsasia.com/business/ibms-software-sales-disappoint-eclipsing-ai-mainframe-revival-5254996"
-    },
-    {
-      "id": 63,
-      "title": "[PODCAST] Michael Sena: How Re… - Block by Block: A Show on Web3 Growth Marketing",
-      "summary": "The podcast features Michael Sena discussing strategies for growth marketing in the Web3 space.",
-      "source": "Apple Newsroom",
-      "category": "startups",
-      "timestamp": "2025-07-23T20:13:00Z",
-      "url": "https://podcasts.apple.com/us/podcast/podcast-michael-sena-how-recall-network-is-creating/id1788783689?i=1000718669409"
-    },
-    {
-      "id": 64,
-      "title": "Lindsey Graham vs. Putin",
-      "summary": "The post Lindsey Graham vs. Putin discusses a proxy war on Russia that has backfired, highlighting ethical concerns in international relations.",
-      "source": "Dailyreckoning.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:10:20Z",
-      "url": "https://dailyreckoning.com/lindsey-graham-vs-putin/"
-    },
-    {
-      "id": 65,
-      "title": "bigframes 2.12.0",
-      "summary": "bigframes 2.12.0 enables scalable analytics and machine learning using BigQuery DataFrames for improved data processing and insights.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T20:09:57Z",
-      "url": "https://pypi.org/project/bigframes/2.12.0/"
-    },
-    {
-      "id": 66,
-      "title": "\"Qi2 25W\" is the new Wireless Fast Charging Standard",
-      "summary": "",
-      "source": "Phonescoop.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T20:08:49Z",
-      "url": "https://www.phonescoop.com/articles/article.php?a=23567"
-    },
-    {
-      "id": 67,
-      "title": "Sacha Baron Cohen debuts ripped physique after Isla Fisher divorce: ‘This is not AI’",
-      "summary": "Sacha Baron Cohen showcases new muscular physique, clarifies it is not result of AI technology amid divorce from Isla Fisher.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-23T20:08:11Z",
-      "url": "https://pagesix.com/2025/07/23/celebrity-news/sacha-baron-cohen-debuts-ripped-physique-after-isla-fisher-divorce/"
     }
   ]
 }
