@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T17:44:28.492Z",
+  "lastUpdate": "2025-07-24T17:53:44.970Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Here's How to Hide AI-Generated Images in Search Results in DuckDuckGo",
+      "summary": "AI-generated images can be hidden in DuckDuckGo search results using a new tool, reducing their visibility.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:52:57Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178448688"
+    },
+    {
+      "id": 52,
+      "title": "Lord of the AI-crypto ring",
+      "summary": "The article discusses the growing significance of tokens in artificial intelligence and blockchain technology, showcasing their role in bridging these two fields by serving as units of understanding and representations of value.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:52:17Z",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/lord-of-the-ai-crypto-ring/articleshow/122865100.cms"
+    },
+    {
+      "id": 53,
+      "title": "Citigroup Ups Focus on Privately-Held AI Startups",
+      "summary": "Citigroup is increasing its focus on privately-held AI startups by increasing research efforts and hiring industry experts like Heath Terry.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T17:51:46Z",
+      "url": "https://biztoc.com/x/8e49eefab9445ae7"
+    },
+    {
+      "id": 54,
+      "title": "18-year-old rising freshman is trying to break his AI habit because a friend used ChatGPT to dump someone",
+      "summary": "An 18-year-old is trying to break his AI habit after a friend used ChatGPT to dump someone, highlighting ethical concerns with AI usage among teenagers. Another high school student is relying on ChatGPT for guidance on various topics, showcasing the potential impact of AI on young users.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:51:42Z",
+      "url": "https://biztoc.com/x/0f50eec4ab510959"
+    },
+    {
+      "id": 55,
+      "title": "Businesses in the age of AI have to rethink how they manage talent—’You protect the worker…you don’t protect the job itself’",
+      "summary": "Businesses in the age of AI are rethinking talent management as technology transforms the job market. One in 10 people hired last year were for jobs that didn't exist 20 years ago, according to a LinkedIn report.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T17:51:24Z",
+      "url": "https://biztoc.com/x/303b1198788adcd9"
+    },
+    {
+      "id": 56,
+      "title": "K-Pop Star Jisoo Stars In New Self-Portrait Campaign, Talks Filming Against Green Screen & Seeing Final Results",
+      "summary": "K-Pop Star Jisoo stars in new Self-Portrait campaign, discussing filming against green screen and seeing final results. She has been the face of the brand since early 2024, becoming the first musician to front a campaign for Self-Portrait.",
+      "source": "Just Jared",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:50:47Z",
+      "url": "https://www.justjared.com/2025/07/23/k-pop-star-jisoo-stars-in-new-self-portrait-campaign-talks-filming-against-green-screen-seeing-final-results/"
+    },
+    {
+      "id": 57,
+      "title": "Millennials are officially a majority of managers—so get ready for a combination of burnout, buddy vibes, and boundary issues",
+      "summary": "Millennials as majority of managers bring challenges related to burnout, buddy vibes, and boundary issues. Emotional intelligence is now expected of managers, leaving millennial managers feeling stuck between a rock and a hard place.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:50:29Z",
+      "url": "https://fortune.com/2025/07/23/millennial-managers-burnout-cool-boss-boundary-issues-glassdoor-worklife-trends-daniel-zhao/"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: Open-Source AI Analyst in Slack (LLM and Python, Self-Hosted)",
+      "summary": "A new open-source AI analyst in Slack has been developed using LLM and Python, allowing users to receive AI-generated summaries and analysis directly in their Slack workspace. The tool is self-hosted and can be customized to meet individual needs.",
+      "source": "Bagofwords.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:49:58Z",
+      "url": "https://bagofwords.com/blog/slack-ai-analyst.html"
+    },
+    {
+      "id": 59,
+      "title": "Aptean Launches GenAI Query in AppCentral",
+      "summary": "Aptean launches GenAI Query in AppCentral, allowing for smarter decision-making without the need for coding or waiting. This mobile-first conversational intelligence platform provides insights in real-time.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-23T17:49:57Z",
+      "url": "https://financialpost.com/globe-newswire/aptean-launches-genai-query-in-appcentral"
+    },
+    {
+      "id": 60,
+      "title": "Sonos Locks In New CEO After Months of Uncertainty",
+      "summary": "Tom Conrad becomes the new CEO of Sonos after serving as interim chief since January 2025, with the role now made permanent. He will also continue to be on Sonos' board of directors.",
+      "source": "iPhone in Canada",
+      "category": "startups",
+      "timestamp": "2025-07-23T17:49:40Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/23/sonos-locks-in-new-ceo-after-months-of-uncertainty/"
+    },
+    {
+      "id": 61,
+      "title": "spounge-proto-py 0.2.4",
+      "summary": "spounge-proto-py 0.2.4 has been released, allowing for the generation of protobuf Python packages for Spounge AI ecosystem microservices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:46:53Z",
+      "url": "https://pypi.org/project/spounge-proto-py/0.2.4/"
+    },
+    {
+      "id": 62,
+      "title": "mini-swe-agent added to PyPI",
+      "summary": "Mini-SWE-Agent, a simple AI software engineering agent, has been added to PyPI under the name Nano SWE Agent.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T17:46:44Z",
+      "url": "https://pypi.org/project/mini-swe-agent/"
+    },
+    {
+      "id": 63,
+      "title": "Trump is bringing back the AI law moratorium",
+      "summary": "Trump is bringing back the AI law moratorium, a resurrected form of the controversial AI law that died a very public death.",
+      "source": "The Verge",
+      "category": "ethics",
+      "timestamp": "2025-07-23T17:46:34Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium"
+    },
     {
       "id": 51,
       "title": "Aptean Launches GenAI Query in AppCentral",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T16:44:39Z",
       "url": "https://biztoc.com/x/3f9807d9680fed7a"
-    },
-    {
-      "id": 61,
-      "title": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT",
-      "summary": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT, achieving data isolation and routing using JWT and FGAC.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T16:44:31Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-implementation-with-amazon-bedrock-and-amazon-opensearch-service-for-saas-using-jwt/"
-    },
-    {
-      "id": 62,
-      "title": "Turn Your Photos Into YouTube Shorts Using AI",
-      "summary": "Google announced that Photos users can now turn their photos into videos using AI, and the same feature is also available for YouTube Shorts creators.",
-      "source": "Droid Life",
-      "category": "applications",
-      "timestamp": "2025-07-23T16:42:47Z",
-      "url": "https://www.droid-life.com/2025/07/23/turn-your-photos-into-youtube-shorts-using-ai/"
-    },
-    {
-      "id": 51,
-      "title": "This powerful Google Photos tool is finally arriving for older Pixels",
-      "summary": "Users of older Pixel phones are beginning to see the AI-powered photo tool, Reimagine, from Google Photos on their devices.",
-      "source": "Android Authority",
-      "category": "applications",
-      "timestamp": "2025-07-23T16:17:32Z",
-      "url": "https://www.androidauthority.com/google-photos-reimagine-older-pixels-3580226/"
-    },
-    {
-      "id": 52,
-      "title": "Commercial Banking vs. Investment Banking: Careers, Recruiting, Compensation, and Exits",
-      "summary": "The 'commercial banking vs. investment banking' question is irrelevant as they serve different functions. Some individuals may transition between the two fields, but they are not directly comparable.",
-      "source": "Mergersandinquisitions.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T16:17:18Z",
-      "url": "https://mergersandinquisitions.com/commercial-banking-vs-investment-banking/"
-    },
-    {
-      "id": 53,
-      "title": "WisdomTree’s USDW stablecoin to pay dividends on tokenized assets",
-      "summary": "WisdomTree rebrands its stablecoin to USDW and plans to pay dividends on tokenized assets, aiming to develop a full-stack stablecoin strategy for corporate onchain investing.",
-      "source": "Cointelegraph",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:15:42Z",
-      "url": "https://cointelegraph.com/news/wisdomtree-usdw-stablecoin-tokenized-assets"
-    },
-    {
-      "id": 54,
-      "title": "Your next Samsung flagship isn’t the Galaxy S Ultra anymore",
-      "summary": "The Samsung Galaxy S Ultra phones, known for their superiority in the flagship lineup, will no longer be the next flagship device. They have been equipped with the best chipsets and camera experience in the past.",
-      "source": "SamMobile",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:15:15Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-outsold-other-ultras-combined-8-times/"
-    },
-    {
-      "id": 55,
-      "title": "AI Friend Apps Are Destroying What's Left of Society",
-      "summary": "AI Friend Apps Are Destroying What's Left of Society - People are becoming more isolated and treating AI chatbots as friends and lovers, highlighting societal issues that need to be addressed.",
-      "source": "Currentaffairs.org",
-      "category": "ethics",
-      "timestamp": "2025-07-23T16:15:07Z",
-      "url": "https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society"
-    },
-    {
-      "id": 56,
-      "title": "Daily Search Forum Recap: July 23, 2025",
-      "summary": "Daily Search Forum Recap: July 23, 2025 - Searchers are much less lik",
-      "source": "Seroundtable.com",
-      "category": "research",
-      "timestamp": "2025-07-23T16:13:49Z",
-      "url": "https://www.seroundtable.com/recap-07-23-2025-39810.html"
-    },
-    {
-      "id": 57,
-      "title": "White House launches America’s AI Action Plan to strengthen US dominance in artificial intelligence",
-      "summary": "White House launches America’s AI Action Plan to strengthen US dominance in artificial intelligence, reshaping global power dynamics and prioritizing ethical AI use.",
-      "source": "Crypto Briefing",
-      "category": "economy",
-      "timestamp": "2025-07-23T16:13:22Z",
-      "url": "https://cryptobriefing.com/america-ai-action-plan-policy/"
-    },
-    {
-      "id": 58,
-      "title": "‘Alien: Earth’ Is Wildly Ambitious, Expensive and Stars a Talented Actor Who Refuses to Play by Hollywood’s Rules. Inside FX’s Risky Bet",
-      "summary": "'Alien: Earth' is a wildly ambitious and expensive new series starring a talented actor who refuses to play by Hollywood's rules. FX is taking a risky bet on this blockbuster series, which promises to showcase a significant amount of Xenomorph screen time.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T16:12:50Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178447964"
-    },
-    {
-      "id": 59,
-      "title": "Aprio furthers $300m AI strategy with TimeCredit AI acquisition",
-      "summary": "Aprio has acquired TimeCredit AI as part of their $300m investment in AI and automation, aiming to transform accounting services.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T16:12:12Z",
-      "url": "https://biztoc.com/x/7e4f8264a0d5e0f8"
-    },
-    {
-      "id": 60,
-      "title": "States with strict AI laws could see federal dollars withheld under Trump's new AI plan",
-      "summary": "States with strict AI laws may risk losing federal funding under Trump's new AI plan, which aims to avoid burdensome regulations on AI. This raises ethical concerns about the potential impact on states' ability to regulate AI responsibly.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-23T16:11:54Z",
-      "url": "https://www.businessinsider.com/trump-admin-plans-block-funding-states-with-strict-ai-laws-2025-7"
-    },
-    {
-      "id": 61,
-      "title": "White House Unveils AI Policy Vision to Spur US Development",
-      "summary": "The Trump administration has revealed plans to enhance artificial intelligence development in the US by easing regulations and increasing energy supply for data centers. The new guidelines aim to stimulate innovation and economic growth in the AI sector.",
-      "source": "Nextbigwhat.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T16:11:49Z",
-      "url": "https://nextbigwhat.com/white-house-unveils-ai-policy-vision-to-spur-us-development/"
     }
   ]
 }
