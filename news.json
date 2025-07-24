@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T10:18:07.098Z",
+  "lastUpdate": "2025-07-24T10:48:10.889Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How AI Automates Design Tokens in the Cloud",
+      "summary": "Explore how AI and cloud technology streamline design token management, enhancing efficiency, collaboration, and consistency across platforms.",
+      "source": "Uxpin.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:47:03Z",
+      "url": "https://www.uxpin.com/studio/blog/how-ai-automates-design-tokens-in-the-cloud/"
+    },
+    {
+      "id": 52,
+      "title": "How to Use Adobe Acrobat in 2025 : Edit PDFs, AI Assistant and More",
+      "summary": "Adobe Acrobat is introducing new AI features in 2025, allowing users to easily edit and organize PDF files for professional presentations.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-23T10:45:05Z",
+      "url": "https://www.geeky-gadgets.com/adobe-acrobat-in-2025-guide/"
+    },
+    {
+      "id": 53,
+      "title": "Muck Rack Study: Generative AI Relies Heavily on Earned Media and Journalism",
+      "summary": "Muck Rack Study finds that generative AI relies heavily on earned media and journalism, with more than 95% of cited links in AI responses coming from non-paid sources, of which 85% are earned media and 27% are journalistic.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-23T10:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120079/0/en/Muck-Rack-Study-Generative-AI-Relies-Heavily-on-Earned-Media-and-Journalism.html"
+    },
+    {
+      "id": 54,
+      "title": "AI Voice Support - MyClony Provides AI-Driven Voice Cloning For Personalized Customer Support (TrendHunter.com)",
+      "summary": "MyClony provides AI-driven voice cloning for personalized customer support in SaaS companies, utilizing advanced voice replication technology.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T10:44:05Z",
+      "url": "https://www.trendhunter.com/trends/myclony"
+    },
+    {
+      "id": 55,
+      "title": "NVIDIA CEO Jensen Huang Reportedly Approached Samsung Back in 2018 to Collaborate on HBM, Chip Processes, and CUDA — But Was Bluntly Rejected",
+      "summary": "NVIDIA CEO Jensen Huang approached Samsung in 2018 for a collaboration on HBM, chip processes, and CUDA, but was rejected. This decision by Samsung could be considered a significant missed opportunity for potential long-term innovation and business growth.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:43:20Z",
+      "url": "https://wccftech.com/nvidia-ceo-jensen-huang-approached-samsung-back-in-2018-to-collaborate/"
+    },
+    {
+      "id": 56,
+      "title": "Proton launches Lumo, a privacy-centric AI assistant",
+      "summary": "Proton launches Lumo, a privacy-centric AI assistant with 'zero-access' encryption for chat protection and local storage on users' devices.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:43:00Z",
+      "url": "https://www.notebookcheck.net/Proton-launches-Lumo-a-privacy-centric-AI-assistant.1065641.0.html"
+    },
+    {
+      "id": 57,
+      "title": "NatWest To Overhaul Digital Banking With AWS, Accenture",
+      "summary": "NatWest Group partners with AWS and Accenture to revamp digital banking infrastructure using cloud computing and AI.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:37:36Z",
+      "url": "https://biztoc.com/x/7aaf462291b207dd"
+    },
+    {
+      "id": 58,
+      "title": "Infosys raises annual revenue forecast on financial services boost",
+      "summary": "Infosys raised its annual revenue forecast after reporting strong quarterly sales, boosted by AI deals in the financial services segment.",
+      "source": "CNA",
+      "category": "economy",
+      "timestamp": "2025-07-23T10:35:26Z",
+      "url": "https://www.channelnewsasia.com/business/infosys-raises-annual-revenue-forecast-financial-services-boost-5254081"
+    },
+    {
+      "id": 59,
+      "title": "Transformation fatigue: the silent barrier to AI success",
+      "summary": "Transformation fatigue is identified as a barrier to AI success, not the lack of potential. The exhaustion faced by the people behind AI projects is hindering their success.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:33:33Z",
+      "url": "https://www.techradar.com/pro/transformation-fatigue-the-silent-barrier-to-ai-success"
+    },
+    {
+      "id": 60,
+      "title": "Automated Content Management - BrandGhost Automates Social Media Scheduling And Content Remixing (TrendHunter.com)",
+      "summary": "BrandGhost is an automated content management platform designed for social media marketers and content creators, offering features such as scheduled posting and AI-powered content remixing.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T10:33:05Z",
+      "url": "https://www.trendhunter.com/trends/brandghost"
+    },
+    {
+      "id": 61,
+      "title": "AstraZeneca announces $50bn US investment plans by 2030",
+      "summary": "AstraZeneca announces $50bn US investment plans by 2030 to build a new facility for manufacturing peptides, small molecules, and oligonucleotides.",
+      "source": "Pharmaceutical Technology",
+      "category": "economy",
+      "timestamp": "2025-07-23T10:32:42Z",
+      "url": "https://www.pharmaceutical-technology.com/news/astrazeneca-50bn-us-investment-plans-2030/"
+    },
+    {
+      "id": 62,
+      "title": "PNC Bank Teams Up with Coinbase to Dominate Crypto – Best Crypto to Buy Now!",
+      "summary": "PNC Bank teams up with Coinbase to provide crypto trading and custody services for corporate clients, signaling a significant move towards mainstream adoption of cryptocurrency in the financial sector.",
+      "source": "Bitcoinist",
+      "category": "economy",
+      "timestamp": "2025-07-23T10:32:38Z",
+      "url": "https://bitcoinist.com/pnc-bank-teams-up-with-coinbase-to-dominate-crypto-best-crypto-to-buy-now/"
+    },
+    {
+      "id": 63,
+      "title": "Microsoft expands AI team with key Google DeepMind hires",
+      "summary": "Microsoft expands its AI team with key hires from Google DeepMind, including former Google Gemini engineering lead Amar Subramanya who joined as corporate vice-president.",
+      "source": "Verdict",
+      "category": "innovation",
+      "timestamp": "2025-07-23T10:32:24Z",
+      "url": "https://www.verdict.co.uk/microsoft-ai-team-hire-google-deepmind-employees/"
+    },
     {
       "id": 51,
       "title": "Australia's WiseTech to cut some jobs in AI-driven efficiency push",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T08:51:05Z",
       "url": "https://www.trendhunter.com/trends/numerology-and-ai"
-    },
-    {
-      "id": 52,
-      "title": "Jitendra Mohan Sells 80,503 Shares of Astera Labs, Inc. (NASDAQ:ALAB) Stock",
-      "summary": "Astera Labs, Inc. CEO Jitendra Mohan sold 80,503 shares of the company's stock, totaling over $7.5 million. This transaction impacts the company's financial standing in the stock market.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T08:50:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/jitendra-mohan-sells-80503-shares-of-astera-labs-inc-nasdaqalab-stock/"
-    },
-    {
-      "id": 53,
-      "title": "Payment Platforms Get Their AI Makeover",
-      "summary": "Payment platforms in the payments industry are undergoing changes due to consumer expectations, technology advancements, and competitive pressures. Mark Smith, Head of Payments for Financial Services at AWS, discusses these impacts in a new PYMNTS eBook.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:46:54Z",
-      "url": "https://biztoc.com/x/2abbdde28fce9379"
-    },
-    {
-      "id": 54,
-      "title": "Show HN: RewriteBar v2.13.2: Review Window Improvements, Localizations and More",
-      "summary": "RewriteBar v2.13.2 offers AI assistance to improve writing in macOS applications by correcting grammar mistakes, changing writing styles, and translating text.",
-      "source": "Rewritebar.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T08:46:51Z",
-      "url": "https://rewritebar.com"
-    },
-    {
-      "id": 55,
-      "title": "AI Social Media Marketing SEO",
-      "summary": "The use of artificial intelligence in social media marketing and SEO is gaining popularity as businesses look for more efficient ways to optimize their online presence. AI tools can help businesses analyze data, target audiences, and create more effective marketing strategies.",
-      "source": "YouTube",
-      "category": "applications",
-      "timestamp": "2025-07-23T08:46:45Z",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoU2Dfvw14Wc"
-    },
-    {
-      "id": 56,
-      "title": "Pocket-sized Krono AI-Powered eReader Blends Minimalist Design and Productivity",
-      "summary": "Pocket-sized Krono AI-Powered eReader offers a blend of minimalist design and productivity, aiming to bridge the gap between simple and complex reading devices.",
-      "source": "Yanko Design",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:45:17Z",
-      "url": "https://www.yankodesign.com/2025/07/23/pocket-sized-krono-ai-powered-ereader-blends-minimalist-design-and-productivity/"
-    },
-    {
-      "id": 57,
-      "title": "Head to Head Analysis: Trend Micro (OTCMKTS:TMICY) vs. icad (NASDAQ:ICAD)",
-      "summary": "Head to Head Analysis: Trend Micro (OTCMKTS:TMICY) vs. icad (NASDAQ:ICAD) - Trend Micro and icad are both computer and technology companies being compared based on their profitability and institutional strength.",
-      "source": "ETF Daily News",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:44:47Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/head-to-head-analysis-trend-micro-otcmktstmicy-vs-icad-nasdaqicad/"
-    },
-    {
-      "id": 58,
-      "title": "The former Google CEO who gave you notifications says it’s time to log off if you want to be productive",
-      "summary": "Former Google CEO Eric Schmidt warns that constant phone use is damaging productivity and our ability to think deeply, criticizing the interruptions caused by notifications.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-23T08:40:21Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/the-former-google-ceo-who-gave-you-notifications-says-its-time-to-log-off-if-you-want-to-be-productive/articleshow/122853958.cms"
-    },
-    {
-      "id": 59,
-      "title": "IFP Advisors Inc Increases Stake in Snowflake Inc. (NYSE:SNOW)",
-      "summary": "IFP Advisors Inc increased its stake in Snowflake Inc. in the first quarter, according to its SEC filing.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T08:38:55Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/ifp-advisors-inc-increases-stake-in-snowflake-inc-nysesnow/"
-    },
-    {
-      "id": 60,
-      "title": "Taiwan rallies industry to fast-track AI robot development with three-phase strategy",
-      "summary": "Taiwan is fast-tracking AI robot development with a three-phase strategy to leverage the convergence of artificial intelligence and robotics, highlighting global technology and investment opportunities.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:37:50Z",
-      "url": "https://www.digitimes.com/news/a20250723PD205/robotics-taiwan-robot-development-market.html"
-    },
-    {
-      "id": 61,
-      "title": "I’m worried about the underwhelming Pixel 10 leaks. Do you feel the same?",
-      "summary": "With the Google Pixel 10 series just under a month away, there is a sense of underwhelm based on the leaked information so far.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:37:19Z",
-      "url": "https://www.androidauthority.com/underwhelming-pixel-10-leaks-open-thread-3580056/"
-    },
-    {
-      "id": 62,
-      "title": "Bank of New York Mellon Corp Has $7.47 Million Stock Position in SoundHound AI, Inc. (NASDAQ:SOUN)",
-      "summary": "Bank of New York Mellon Corp increased its stock position in SoundHound AI, Inc. by 5.6% in the first quarter, owning 919,854 shares of the company.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T08:36:58Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/bank-of-new-york-mellon-corp-has-7-47-million-stock-position-in-soundhound-ai-inc-nasdaqsoun/"
-    },
-    {
-      "id": 63,
-      "title": "Knorr-Bremse AG's (ETR:KBX) Intrinsic Value Is Potentially 27% Above Its Share Price",
-      "summary": "Knorr-Bremse AG's intrinsic value is potentially 27% above its current share price, with a projected fair value of €110 based on 2 Stage Free Cash Flow to Equity.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T08:36:35Z",
-      "url": "https://finance.yahoo.com/news/knorr-bremse-ags-etr-kbx-083635777.html"
-    },
-    {
-      "id": 64,
-      "title": "Woman Goes Swimming at Top of 320-Foot Waterfall—Stunned by What Awaits",
-      "summary": "A New York City teacher had a breathtaking encounter with nature while swimming at the edge of Victoria Falls in Zimbabwe, capturing a rare double rainbow in the process.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T08:36:01Z",
-      "url": "https://biztoc.com/x/a4f51c9fd4942360"
     }
   ]
 }
