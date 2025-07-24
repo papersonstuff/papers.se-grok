@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-24T15:42:48.845Z",
+  "lastUpdate": "2025-07-24T15:54:49.044Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Elon Musk's xAI is reportedly trying to borrow $12,000,000,000 for even more Nvidia GPUs, an impulse all PC gamers can truly understand",
+      "summary": "Elon Musk's xAI is seeking to borrow $12 billion for more Nvidia GPUs, a move that signals the significant investment required for advancing AI technologies.",
+      "source": "PC Gamer",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:54:11Z",
+      "url": "https://www.pcgamer.com/software/ai/elon-musks-xai-is-reportedly-trying-to-borrow-usd12-000-000-000-for-even-more-nvidia-gpus-an-impulse-all-pc-gamers-can-truly-understand/"
+    },
+    {
+      "id": 52,
+      "title": "Oklahoma to introduce ideology test to stop ‘woke’ teachers",
+      "summary": "Oklahoma state plans to introduce an ideology test for teachers to identify \"woke\" individuals. State superintendent aims to prevent progressive ideas from being taught in schools.",
+      "source": "Thepinknews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:53:52Z",
+      "url": "https://www.thepinknews.com/2025/07/23/oklahoma-woke-purity-test/"
+    },
+    {
+      "id": 53,
+      "title": "Infosys Management Says Climate Favourable For AI, Data, Cloud Deals",
+      "summary": "Infosys Management indicates favorable climate for AI, data, and cloud deals, with robust growth expected in artificial intelligence segment.",
+      "source": "Ndtvprofit.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:53:46Z",
+      "url": "https://www.ndtvprofit.com/quarterly-earnings/infosys-fy26-growth-outlook-management-says-climate-favourable-for-ai-data-cloud-deals"
+    },
+    {
+      "id": 54,
+      "title": "Kluisz.ai raises $9.6 mn seed funding led by RTP Global",
+      "summary": "Kluisz.ai raises $9.6 mn seed funding to expand engineering team in Bengaluru, accelerate product development, and support deployments with early customers",
+      "source": "BusinessLine",
+      "category": "startups",
+      "timestamp": "2025-07-23T15:53:02Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/kluiszai-raises-96-mn-seed-funding-led-by-rtp-global/article69846763.ece"
+    },
+    {
+      "id": 55,
+      "title": "AI Coding Platform Deletes Company Database, Calls It a 'Catastrophic Error in Judgment'",
+      "summary": "AI Coding Platform Deletes Company Database, Calls It a 'Catastrophic Error in Judgment', causing significant data loss and raising concerns about the reliability of AI systems.",
+      "source": "Breitbart News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T15:52:36Z",
+      "url": "https://www.breitbart.com/tech/2025/07/23/ai-coding-platform-deletes-company-database-calls-it-a-catastrophic-error-in-judgment/"
+    },
+    {
+      "id": 56,
+      "title": "Ipsos: Return to organic growth in the second quarter in an environment that remains volatile",
+      "summary": "Ipsos saw a return to organic growth in the second quarter of 2025 in a volatile environment.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:52:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120511/0/en/Ipsos-Return-to-organic-growth-in-the-second-quarter-in-an-environment-that-remains-volatile.html"
+    },
+    {
+      "id": 57,
+      "title": "Trump releases AI 'action plan' that offers a split with Biden",
+      "summary": "Trump releases AI 'action plan' outlining how the US can win in global race to develop artificial intelligence.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:50:57Z",
+      "url": "https://finance.yahoo.com/news/trump-releases-ai-action-plan-that-offers-a-split-with-biden-155057658.html"
+    },
+    {
+      "id": 58,
+      "title": "Commence introduces Amplify for health data management",
+      "summary": "Commence introduces Amplify for health data management, a modular platform designed to streamline the way healthcare organisations analyse, access, and comprehend health data and medical records.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:50:21Z",
+      "url": "https://biztoc.com/x/c6c30a1e44afd3a0"
+    },
+    {
+      "id": 59,
+      "title": "toxic-detection 1.0.4",
+      "summary": "toxic-detection 1.0.4 is an intelligent AI agent that provides real-time content moderation with 97.5% accuracy in detecting toxic content.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:50:13Z",
+      "url": "https://pypi.org/project/toxic-detection/1.0.4/"
+    },
+    {
+      "id": 60,
+      "title": "What’s New: Zerobus and Other Announcements Improve Data Ingestion for Lakeflow Connect",
+      "summary": "Zerobus and other announcements are improving data ingestion for Lakeflow Connect, which is crucial for unlocking valuable insights.",
+      "source": "Databricks.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:50:00Z",
+      "url": "https://www.databricks.com/blog/whats-new-zerobus-and-other-announcements-improve-data-ingestion-lakeflow-connect"
+    },
+    {
+      "id": 61,
+      "title": "Deals: Galaxy Watch 8 $50 off + $50 credit (or FREE with Fold 7), first drops on 2025 Smart Monitors up to $300 off, more",
+      "summary": "Deals on Galaxy devices and smart monitors are being offered with discounts and credits, with limited-time pre-order discounts available for select products.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:49:49Z",
+      "url": "http://9to5google.com/2025/07/23/galaxy-watch-8-free-fold-7-2025-smart-monitors/"
+    },
+    {
+      "id": 62,
+      "title": "Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg's big bet pay off?",
+      "summary": "Alexandr Wang is now leading Meta's AI dream team after building his data-labeling startup, Scale AI, with cofounder Lucy Guo during their time in the Y Combinator startup accelerator.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T15:49:43Z",
+      "url": "https://biztoc.com/x/eed348c01b0f1775"
+    },
+    {
+      "id": 63,
+      "title": "As Palantir Cashes In on Trump 2.0, Peter Thiel Is Bankrolling Republicans Again",
+      "summary": "Peter Thiel, the billionaire tech titan and investor, has resumed making political donations after sitting out the 2024 election cycle.",
+      "source": "Mother Jones",
+      "category": "economy",
+      "timestamp": "2025-07-23T15:49:35Z",
+      "url": "https://www.motherjones.com/politics/2025/07/peter-thiel-republican-donations-palantir-federal-contracts-house-control-trump/"
+    },
+    {
+      "id": 64,
+      "title": "Volunteer's Friend Helps Out at Shelter—Left in Tears by Note in Response",
+      "summary": "The AI-generated voice used by a volunteer to help survivors of trafficking has touched the internet with a heartfelt response. Reddit user u/oddjaqx shared photos of cakes she baked as a gesture of kindness, sparking emotional reactions online.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:49:34Z",
+      "url": "https://biztoc.com/x/a2961f5210399ae4"
+    },
+    {
+      "id": 65,
+      "title": "Uber Makes Major Change to Driver Requests Across US Next Month",
+      "summary": "Uber is launching a new feature in select U.S. cities that will allow women riders and drivers to choose to be matched exclusively with other women, the company announced Tuesday.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:49:24Z",
+      "url": "https://biztoc.com/x/33ec84930444978d"
+    },
+    {
+      "id": 66,
+      "title": "Dachshund Won't Eat Dinner, Great Dane Brother Knows What He Needs To Do",
+      "summary": "In a viral TikTok video, a small dachshund pup refuses to eat his dinner unless his bigger brother tastes it first, and internet users can't cope with the hilarious footage.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T15:49:10Z",
+      "url": "https://biztoc.com/x/8f5a2a8340709b91"
+    },
+    {
+      "id": 67,
+      "title": "Google, OpenAI models achieve unprecedented results at math competition",
+      "summary": "Google and OpenAI AI models perform well at an international math competition, achieving gold-level scores but not surpassing the top human competitors under 20 years old.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-23T15:48:57Z",
+      "url": "https://biztoc.com/x/c74410bbed06400f"
+    },
+    {
+      "id": 68,
+      "title": "Farmers, Not AI, Power This Underground Dinner Series",
+      "summary": "Farmers, Not AI, Power This Underground Dinner Series in Chicago started by former Eater Young Gun semifinalist Sieger Bayer.",
+      "source": "Eater",
+      "category": "startups",
+      "timestamp": "2025-07-23T15:46:32Z",
+      "url": "https://chicago.eater.com/pop-ups/161120/bar-berria-underground-dinner-series-chicago-sieger-bayer"
+    },
+    {
+      "id": 69,
+      "title": "The Galaxy Z Flip 7 finally gets UWB for precise tracking, but only if you buy this version",
+      "summary": "The Samsung Galaxy Z Flip 7 is the first Flip with UWB, allowing it to precisely locate your car or item trackers, but only in some markets.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:46:30Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-7-uwb-3580249/"
+    },
+    {
+      "id": 70,
+      "title": "Five reasons why driverless cars probably won't take over your street any time soon",
+      "summary": "Five reasons why driverless cars probably won't take over your street any time soon - The UK government has launched a consultation on driverless cars, ahead of on-the-road trials of the vehicles next year. It has now been more than a decade since the prospect of driverless cars on public roads emerged, and prototypes and robotaxi fleets such …",
+      "source": "Tech Xplore",
+      "category": "innovation",
+      "timestamp": "2025-07-23T15:46:04Z",
+      "url": "https://techxplore.com/news/2025-07-driverless-cars-wont-street.html"
+    },
     {
       "id": 51,
       "title": "Folds slim, still thinks big!",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T15:15:07Z",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178447540"
-    },
-    {
-      "id": 61,
-      "title": "Trump Exits 'Divisive' UNESCO After Body Campaigns for Global Online Censorship",
-      "summary": "Trump administration announces withdrawal from UNESCO after organization campaigns for global online censorship.",
-      "source": "Breitbart News",
-      "category": "ethics",
-      "timestamp": "2025-07-23T15:14:38Z",
-      "url": "https://www.breitbart.com/tech/2025/07/23/trump-exits-divisive-unesco-after-body-campaigns-for-global-online-censorship/"
-    },
-    {
-      "id": 62,
-      "title": "Dr. April McDonald exposes 6% lung screening crisis",
-      "summary": "Dr. April McDonald exposes 6% lung screening crisis - Dr. April McDonald confronts a devastating reality: lung cancer kills more Americans than any other cancer, yet only 6% of eligible patients receive life-saving screenings.",
-      "source": "Rolling Out",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:13:15Z",
-      "url": "https://rollingout.com/2025/07/23/dr-april-mcdonald-lung-screening-crisis/"
-    },
-    {
-      "id": 63,
-      "title": "Google AI Summaries Leading to Less Traffic to the Web",
-      "summary": "A Pew Research Center report analyzed the effect AI-generated results have had on websites showing up in Google search results, leading to less traffic to the web.",
-      "source": "512pixels.net",
-      "category": "research",
-      "timestamp": "2025-07-23T15:13:07Z",
-      "url": "https://512pixels.net/2025/07/google-ai-summaries-leading-to-less-traffic-to-the-web/"
-    },
-    {
-      "id": 64,
-      "title": "toyaikit 0.0.1",
-      "summary": "Toyaikit 0.0.1 is a toolkit designed for building AI assistants and tool integrations.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:12:14Z",
-      "url": "https://pypi.org/project/toyaikit/0.0.1/"
-    },
-    {
-      "id": 65,
-      "title": "toyaikit added to PyPI",
-      "summary": "Toyaikit, a toolkit for building AI assistants and tool integrations, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:12:14Z",
-      "url": "https://pypi.org/project/toyaikit/"
-    },
-    {
-      "id": 66,
-      "title": "OlympTrade Unveils Simplified Platform to Empower Beginners and Make Trading Accessible for All",
-      "summary": "Olymp Trade unveils a simplified platform with AI-guidance to empower beginners and make trading accessible for all.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:12:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120480/0/en/OlympTrade-Unveils-Simplified-Platform-to-Empower-Beginners-and-Make-Trading-Accessible-for-All.html"
-    },
-    {
-      "id": 67,
-      "title": "4 things Proton's privacy-first AI chatbot Lumo can do - and how to try it",
-      "summary": "Proton's privacy-first AI chatbot Lumo can perform 4 tasks and is an alternative to ChatGPT that is not trained on user data.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:10:53Z",
-      "url": "https://www.zdnet.com/article/4-things-protons-privacy-first-ai-chatbot-lumo-can-do-and-how-to-try-it/"
-    },
-    {
-      "id": 68,
-      "title": "Solving the inference problem for open source AI projects with GitHub Models",
-      "summary": "Using GitHub's free inference API can make AI-powered open source projects more accessible.",
-      "source": "Github.blog",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:10:43Z",
-      "url": "https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/"
-    },
-    {
-      "id": 51,
-      "title": "Google unveils major AI initiatives for India, localising Gemini and boosting developer ecosystem",
-      "summary": "Google unveils major AI initiatives for India, localising Gemini 2.5 Flash for faster AI performance in regulated sectors such as healthcare and finance.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:45:54Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-unveils-major-ai-initiatives-for-india-localising-gemini-and-boosting-developer-ecosystem/articleshow/122862493.cms"
-    },
-    {
-      "id": 52,
-      "title": "Trump’s longtime rage at Obama roars back amid Epstein furor | CNN Politics",
-      "summary": "Trump's renewed focus on Obama and the 2016 election amid the Epstein scandal raises questions about the ethical boundaries of his actions.",
-      "source": "CNN",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:45:00Z",
-      "url": "https://www.cnn.com/2025/07/23/politics/obama-trump-rage-epstein-furor"
-    },
-    {
-      "id": 53,
-      "title": "In Memoriam: Margaret Boden (1936-2025)",
-      "summary": "In Memoriam: Professor Margaret Boden, a leading figure in cognitive science and artificial intelligence, passed away. She made significant contributions to computational models of the mind and computational creativity.",
-      "source": "Typepad.com",
-      "category": "research",
-      "timestamp": "2025-07-23T14:45:00Z",
-      "url": "https://leiterreports.typepad.com/blog/2025/07/in-memoriam-margaret-boden-1936-2025.html"
-    },
-    {
-      "id": 54,
-      "title": "Americans Are Turning To DIY Weight Loss Injections to Dodge $1,000+ Monthly Drug Costs",
-      "summary": "Americans are turning to DIY weight loss injections to avoid high drug costs, leading to potential risks and safety concerns.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:44:12Z",
-      "url": "https://finance.yahoo.com/news/americans-turning-diy-weight-loss-144412304.html"
-    },
-    {
-      "id": 55,
-      "title": "Asia Pacific Smart Office Market Analysis, Industry Trends & Growth Forecasts 2025-2030: APAC Smart Office Market Set for 10.5% CAGR Growth Amid Digital Transformation Trends",
-      "summary": "The Asia Pacific Smart Office Market is projected to experience a 10.5% CAGR growth, fueled by digital transformation and hybrid work models. Key players like Wipro and IDEX are driving adoption through innovations in IoT, access control, and AI.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-23T14:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120461/28124/en/Asia-Pacific-Smart-Office-Market-Analysis-Industry-Trends-Growth-Forecasts-2025-2030-APAC-Smart-Office-Market-Set-for-10-5-CAGR-Growth-Amid-Digital-Transformation-Trends.html"
-    },
-    {
-      "id": 56,
-      "title": "Many Think Doctors Are Overpaid And That's Why Healthcare Is So Pricey, But One U.S. Surgeon Actually Ran The Numbers Against Global Peers",
-      "summary": "A U.S. surgeon compared physician salaries to global peers to address the common complaint that doctors are overpaid and contribute to high healthcare costs.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:43:54Z",
-      "url": "https://finance.yahoo.com/news/many-think-doctors-overpaid-thats-144354239.html"
-    },
-    {
-      "id": 57,
-      "title": "Christian Singer Faces Anger Over MAGA Ties Ahead of Canada Concert",
-      "summary": "Christian singer Sean Feucht faces backlash over MAGA ties ahead of Canada concert, prompting change in venue due to threats of protest.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:42:56Z",
-      "url": "https://biztoc.com/x/10d6fb4e17444b98"
-    },
-    {
-      "id": 58,
-      "title": "Candace Owens Sued by Macrons Over Claim Brigitte 'Is in Fact a Man'",
-      "summary": "French President Macron and his wife Brigitte have sued Candace Owens for defamation over her claim that Brigitte is actually a man, highlighting the ethical concerns of spreading misinformation and damaging individuals' reputations through AI-generated content.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T14:42:46Z",
-      "url": "https://biztoc.com/x/44f7aac99734be83"
-    },
-    {
-      "id": 59,
-      "title": "Real-time payments: The new standard for cross-border finance",
-      "summary": "Real-time payments (RTPs) are accelerating global money movement and opening up liquidity for financial institutions.",
-      "source": "Electronicpaymentsinternational.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:42:10Z",
-      "url": "https://www.electronicpaymentsinternational.com/comment/real-time-payments-the-new-standard-for-cross-border-finance/"
-    },
-    {
-      "id": 60,
-      "title": "Cedars-Sinai's AI tool delivered 24/7 care to 42,000 patients. Now, doctors can focus on treatment, not paperwork",
-      "summary": "Cedars-Sinai's AI tool delivered 24/7 care to 42,000 patients, allowing doctors to focus on treatment instead of paperwork. CS Connect is an AI-powered platform aimed at reducing wait times and administrative tasks to improve care delivery.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T14:42:08Z",
-      "url": "https://biztoc.com/x/72a8b9152ee9e0e6"
-    },
-    {
-      "id": 61,
-      "title": "Subscription E-Commerce Industry Report 2025-2030 Featuring Analysis of 34 Companies",
-      "summary": "Key opportunities in the subscription e-commerce industry from 2025-2030 include harnessing AI for hyper-personalization, integrating physical and digital services, and expanding through partnerships. Verticalization and flexible pricing models also offer potential for deeper customer relations and growth.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-23T14:42:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120458/28124/en/Subscription-E-Commerce-Industry-Report-2025-2030-Featuring-Analysis-of-34-Companies.html"
-    },
-    {
-      "id": 62,
-      "title": "Amphenol forecasts upbeat quarterly results on strong demand for electronic equipment",
-      "summary": "Amphenol forecasts strong third-quarter results due to high demand for electronic equipment, with investments from technology and defense firms driving growth.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T14:41:34Z",
-      "url": "https://www.channelnewsasia.com/business/amphenol-forecasts-upbeat-quarterly-results-strong-demand-electronic-equipment-5254506"
     }
   ]
 }
