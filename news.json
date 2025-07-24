@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T16:18:36.255Z",
+  "lastUpdate": "2025-07-24T16:49:28.956Z",
   "items": [
+    {
+      "id": 51,
+      "title": "dv-pipecat-ai 0.0.74.dev594",
+      "summary": "dv-pipecat-ai 0.0.74.dev594 is an open source framework designed for building voice and multimodal assistants.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:49:09Z",
+      "url": "https://pypi.org/project/dv-pipecat-ai/0.0.74.dev594/"
+    },
+    {
+      "id": 52,
+      "title": "gito.bot 3.1.1",
+      "summary": "gito.bot 3.1.1 is an AI code review tool that can detect issues in GitHub pull requests or local changes, working with any language model provider.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:49:08Z",
+      "url": "https://pypi.org/project/gito-bot/3.1.1/"
+    },
+    {
+      "id": 53,
+      "title": "AI helps Latin scholars decipher ancient Roman texts",
+      "summary": "AI is being used to help Latin scholars decipher ancient Roman texts, which are invaluable for understanding the daily life of ancient Romans. This technology can estimate the location of an inscription, aiding historians in their interpretation efforts.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:48:58Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-helps-latin-scholars-decipher-ancient-roman-texts/articleshow/122864098.cms"
+    },
+    {
+      "id": 54,
+      "title": "Why Your Company’s Future Depends On Thinking Like A Disruptor Today",
+      "summary": "Incrementalism is a trap, companies should think like disruptors by starting with a 2030 moonshot and reverse engineering the roadmap for bold disruption.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:48:23Z",
+      "url": "https://www.forbes.com/sites/keithferrazzi/2025/07/23/why-your-companys-future-depends-on-thinking-like-a-disruptor-today/"
+    },
+    {
+      "id": 55,
+      "title": "Campaign-Quality GenAI Models - Pixelz Digital Twins are Created with Real Models and Their Agency (TrendHunter.com)",
+      "summary": "Campaign-Quality GenAI Models by Pixels Digital Twins are created in direct partnership with real models, offering a new approach to AI in the fashion industry.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:48:05Z",
+      "url": "https://www.trendhunter.com/trends/pixelz-digital-twins"
+    },
+    {
+      "id": 56,
+      "title": "llm-cache-pro added to PyPI",
+      "summary": "llm-cache-pro added to PyPI - A drop-in, model-agnostic cache for Large Language Model API calls",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:47:56Z",
+      "url": "https://pypi.org/project/llm-cache-pro/"
+    },
+    {
+      "id": 57,
+      "title": "AI Sucks at Student Engagement",
+      "summary": "AI is not effective at student engagement despite being used for lesson planning, raising skepticism about its ability to create engaging worksheets.",
+      "source": "Alicekeeler.com",
+      "category": "research",
+      "timestamp": "2025-07-23T16:45:37Z",
+      "url": "https://alicekeeler.com/2025/07/23/ai-sucks-at-student-engagement/"
+    },
+    {
+      "id": 58,
+      "title": "Triple Murderer Among Americans Repatriated From Venezuela in Prisoner Swap",
+      "summary": "A triple murderer among Americans was repatriated from Venezuela in a prisoner swap, raising ethical questions about bringing criminals back to the US.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T16:44:48Z",
+      "url": "https://biztoc.com/x/ddc89d8235cbb49a"
+    },
+    {
+      "id": 59,
+      "title": "Trump's AI action plan claims to chart 'a decisive course to cement US dominance in artificial intelligence'",
+      "summary": "Trump's AI action plan aims to strengthen US dominance in artificial intelligence, emphasizing urgency in achieving this goal.",
+      "source": "PC Gamer",
+      "category": "economy",
+      "timestamp": "2025-07-23T16:44:43Z",
+      "url": "https://www.pcgamer.com/software/ai/trumps-ai-action-plan-claims-to-chart-a-decisive-course-to-cement-us-dominance-in-artificial-intelligence/"
+    },
+    {
+      "id": 60,
+      "title": "Trump administration to vet AI for ‘ideological bias’",
+      "summary": "Trump administration to vet AI for ‘ideological bias’ - Federal government will only do business with tech companies whose models offer ‘objective truth’",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T16:44:39Z",
+      "url": "https://biztoc.com/x/3f9807d9680fed7a"
+    },
+    {
+      "id": 61,
+      "title": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT",
+      "summary": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT, achieving data isolation and routing using JWT and FGAC.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:44:31Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-implementation-with-amazon-bedrock-and-amazon-opensearch-service-for-saas-using-jwt/"
+    },
+    {
+      "id": 62,
+      "title": "Turn Your Photos Into YouTube Shorts Using AI",
+      "summary": "Google announced that Photos users can now turn their photos into videos using AI, and the same feature is also available for YouTube Shorts creators.",
+      "source": "Droid Life",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:42:47Z",
+      "url": "https://www.droid-life.com/2025/07/23/turn-your-photos-into-youtube-shorts-using-ai/"
+    },
     {
       "id": 51,
       "title": "This powerful Google Photos tool is finally arriving for older Pixels",
@@ -342,114 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-23T15:40:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/23/3120504/0/en/Absorb-Software-s-2025-Upskilling-Report-Reveals-Execution-Gap-Underscores-Strategic-Learning-as-Key-to-Business-Growth.html"
-    },
-    {
-      "id": 56,
-      "title": "Google AI Summaries Are 'Killing' Your Clicks, New Study Suggests",
-      "summary": "A new study suggests that Google's 'AI Overviews' summaries significantly alter search behavior, reducing clicks on links in search results.",
-      "source": "Android Headlines",
-      "category": "research",
-      "timestamp": "2025-07-23T15:39:40Z",
-      "url": "https://www.androidheadlines.com/2025/07/google-search-ai-overviews-summaries-less-clicks-on-links-study.html"
-    },
-    {
-      "id": 57,
-      "title": "Alibaba Group Holding (BABA) Rated as a Buy at Benchmark amid Food Delivery Investments",
-      "summary": "Alibaba Group Holding Ltd rated as a Buy at Benchmark with huge upside potential in AI stocks, following investments and a $176 price target.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-23T15:39:08Z",
-      "url": "https://biztoc.com/x/cb1a308f906711de"
-    },
-    {
-      "id": 58,
-      "title": "Oppenheimer Touts Marvell Technology (MRVL) as Top Data Center Play amid AI Infrastructure Ramp",
-      "summary": "Oppenheimer touts Marvell Technology (MRVL) as a top data center play with huge upside potential driven by a ramp-up in AI infrastructure.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:39:06Z",
-      "url": "https://biztoc.com/x/7f1278ffa2377b6b"
-    },
-    {
-      "id": 59,
-      "title": "AI Regulations Bring Deluge of Lobbying Efforts to DC",
-      "summary": "Businesses and trade groups are lobbying for a say in federal AI regulations, with over 500 organizations involved in efforts according to a report by Financial Times.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:39:03Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-regulations-bring-deluge-of-lobbying-efforts-to-dc/"
-    },
-    {
-      "id": 60,
-      "title": "AI Regulations Bring Deluge of of Lobbying Efforts to DC",
-      "summary": "AI Regulations Bring Deluge of of Lobbying Efforts to DC - Businesses and trade groups are reportedly scrambling to have a say in federal artificial intelligence (AI) regulations.",
-      "source": "pymnts.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T15:39:03Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/ai-regulations-bring-deluge-of-of-lobbying-efforts-to-dc/"
-    },
-    {
-      "id": 61,
-      "title": "Partners with Abstract to Boost AI-Powered Threat Detection",
-      "summary": "SentinelOne partners with Abstract Security to boost AI-powered threat detection through integration of their platforms.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:58Z",
-      "url": "https://biztoc.com/x/f877aeda0e692a4e"
-    },
-    {
-      "id": 62,
-      "title": "Elastic NV’s (ESTC) Security Solution Affirms 100% Protection in Tests",
-      "summary": "Elastic NV's security solution achieved 100% protection in AV-Comparatives Business Security Test, showcasing its potential in the AI field.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:50Z",
-      "url": "https://biztoc.com/x/6250bb6673a119b8"
-    },
-    {
-      "id": 63,
-      "title": "Evercore Affirms ‘In Line’ Rating on Verint Systems (VRNT) amid Acquisition Reports",
-      "summary": "Evercore affirms 'In Line' rating on Verint Systems (VRNT) amid acquisition reports, highlighting the company's potential in the AI sector.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:49Z",
-      "url": "https://biztoc.com/x/06f45b4acc542d6e"
-    },
-    {
-      "id": 64,
-      "title": "Citizens JMP Affirms Market Perform Stance on Nice (NICE) Amid FAA Award",
-      "summary": "Nice Ltd (NASDAQ:NICE) receives a Market Perform rating with a $300 price target due to its top AI stock status and recent FAA award.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:38:39Z",
-      "url": "https://biztoc.com/x/e670c5034b50cc4a"
-    },
-    {
-      "id": 65,
-      "title": "Launches GradientAI to Simplify GenAI Development",
-      "summary": "DigitalOcean Holdings, Inc. launched GradientAI Platform on July 9 to simplify GenAI development, offering developers a managed service to build artificial intelligence applications.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:37Z",
-      "url": "https://biztoc.com/x/4cd497f4882b7d76"
-    },
-    {
-      "id": 66,
-      "title": "Eight Children Suffer Seizures During Church Concert",
-      "summary": "Eight children suffered seizures during a church concert where the voice was AI-generated, leading to hospitalizations.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:38:31Z",
-      "url": "https://biztoc.com/x/96e4ac7675a075f2"
-    },
-    {
-      "id": 67,
-      "title": "HIVE Digital Technologies Ltd. (HIVE) Rated as a Buy on Crypto and HPC Opportunities",
-      "summary": "HIVE Digital Technologies Ltd. (NASDAQ:HIVE) is rated as a Buy on Crypto and HPC Opportunities with a 'Buy' rating and $6 price target. The company is considered one of the top AI stocks with significant upside potential.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T15:38:30Z",
-      "url": "https://biztoc.com/x/e0c21858e33caa45"
     }
   ]
 }
