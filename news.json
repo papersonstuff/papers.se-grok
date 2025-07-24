@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-24T06:54:39.339Z",
+  "lastUpdate": "2025-07-24T07:19:38.251Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Q1 preview: Infosys may revise FY26 revenue guidance to 1–3% CC growth",
+      "summary": "Infosys may revise FY26 revenue guidance to 1–3% CC growth with a potential 10 basis points dip in margins due to wage hikes and large deal ramp-up.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:18:54Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/q1-preview-infosys-may-revise-fy26-revenue-guidance-to-13-cc-growth/article69807223.ece"
+    },
+    {
+      "id": 52,
+      "title": "Japan leans into homegrown AI amid rising competition",
+      "summary": "Japan is focusing on homegrown AI development to stay competitive in the changing global economy.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:18:13Z",
+      "url": "https://biztoc.com/x/b851b4fca9a483c6"
+    },
+    {
+      "id": 53,
+      "title": "ManageEngine strengthens identity threat defenses",
+      "summary": "ManageEngine enhances identity threat defenses with new features in its IAM platform AD360, enabling security teams to detect privilege escalation risks and secure unmanaged local accounts.",
+      "source": "Help Net Security",
+      "category": "applications",
+      "timestamp": "2025-07-23T07:16:16Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/23/manageengine-ad360/"
+    },
+    {
+      "id": 54,
+      "title": " Juve spend €110m, only David in so far, Molina and Sancho possible",
+      "summary": "Juve spend €110m on new signings, with only David confirmed so far.",
+      "source": "Onefootball.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:16:00Z",
+      "url": "https://onefootball.com/en/news/juve-spend-110m-only-david-in-so-far-molina-and-sancho-possible-41412302"
+    },
+    {
+      "id": 55,
+      "title": "Spark Minda teams up with Qualcomm to develop next-gen driver experience for Indian cars",
+      "summary": "Spark Minda partners with Qualcomm to develop next-gen driver experience for Indian cars with advanced cockpit solutions utilizing Qualcomm's Snapdragon Cockpit Platform.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T07:15:02Z",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/spark-minda-teams-up-with-qualcomm-to-develop-next-gen-driver-experience-for-indian-cars/articleshow/122853206.cms"
+    },
+    {
+      "id": 56,
+      "title": "Stock Traders Buy High Volume of Call Options on Evolv Technologies (NASDAQ:EVLV)",
+      "summary": "Stock traders bought a high volume of call options on Evolv Technologies, with a significant increase compared to the average volume. This unusual options trading occurred on Tuesday.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:14:44Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/stock-traders-buy-high-volume-of-call-options-on-evolv-technologies-nasdaqevlv/"
+    },
+    {
+      "id": 57,
+      "title": "Meta’s Poaching Tactics Aside, The Company Has Reportedly Tasked MediaTek To Develop A New 2nm Chip Codenamed ‘Arke’ For AI Inference, But Estimated Launch Expected In A Couple Of Years",
+      "summary": "Meta is working with MediaTek to develop a new 2nm chip codenamed 'Arke' for AI inference, despite facing challenges in poaching talent and rising capital expenditure.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-23T07:14:43Z",
+      "url": "https://wccftech.com/meta-has-tasked-mediatek-to-develop-2nm-chip-for-ai-inference/"
+    },
+    {
+      "id": 58,
+      "title": "ChatGPT agent explained: Everything you need to know",
+      "summary": "OpenAI's ChatGPT agent utilizes browsing, code execution, and API access to independently handle intricate tasks.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T07:13:00Z",
+      "url": "https://www.techtarget.com/whatis/feature/ChatGPT-agents-explained"
+    },
+    {
+      "id": 59,
+      "title": "Android 16 QPR1 Beta 3 fixes Galaxy Watch connection woes [U] - 9to5Google",
+      "summary": "Android 16 QPR1 Beta 3 fixes Galaxy Watch connection issues, improving the user experience. The Samsung Galaxy Watch 8 integrates AI features within a polarizing design, offering a unique wearable technology experience.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T07:12:04Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178444850"
+    },
+    {
+      "id": 60,
+      "title": "Figma, Inc. (FIG) to Raise $979 Million in IPO",
+      "summary": "Figma, Inc. (FIG) is planning to raise $979 million in an initial public offering (IPO) on Thursday, July 31st. The company will issue 36,937,080 shares at $25.00-$28.00 per share.",
+      "source": "ETF Daily News",
+      "category": "startups",
+      "timestamp": "2025-07-23T07:08:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/figma-inc-fig-to-raise-979-million-in-ipo/"
+    },
+    {
+      "id": 61,
+      "title": "SAP CEO Christian Klein on Earnings, Trade Uncertainty, AI Demand",
+      "summary": "SAP CEO Christian Klein discusses the company's performance as cloud and software revenue increased amid trade uncertainty and growing demand for AI.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:07:53Z",
+      "url": "https://biztoc.com/x/811bb9461ee12e26"
+    },
+    {
+      "id": 62,
+      "title": "Samsung Galaxy Fold 7 review: This one is a winner",
+      "summary": "Samsung Galaxy Fold 7 review: Samsung's lean and mean foldable fixes all issues from the Fold 6 and could be the top choice in 2025.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-23T07:07:32Z",
+      "url": "https://www.phonearena.com/reviews/samsung-galaxy-fold-7-review_id7538"
+    },
+    {
+      "id": 63,
+      "title": "Source raises $1.4m round with Square Peg, Xtripe angels",
+      "summary": "At 17 years old, Liam Fuller's startup Source raises $1.4m in pre-seed funding for its AI technology that automates procurement for retailers.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T07:07:20Z",
+      "url": "https://biztoc.com/x/947ff673e39c388b"
+    },
+    {
+      "id": 64,
+      "title": "Artificial Intelligence Stocks To Watch Today – July 21st",
+      "summary": "Artificial intelligence stocks such as Super Micro Computer, Salesforce, BigBear.ai, QUALCOMM, ServiceNow, SoundHound AI, and Arista Networks are highlighted for investors to watch today.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:07:03Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/artificial-intelligence-stocks-to-watch-today-july-21st/"
+    },
+    {
+      "id": 65,
+      "title": "Comparing Ondas (NASDAQ:ONDS) & Frontier Communications Parent (NASDAQ:FYBR)",
+      "summary": "Ondas and Frontier Communications Parent are both technology companies being compared based on valuation.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T07:07:03Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/comparing-ondas-nasdaqonds-frontier-communications-parent-nasdaqfybr/"
+    },
     {
       "id": 51,
       "title": "Apple discloses AI training practices, stressing transparency and legal compliance",
@@ -315,141 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-23T05:30:01Z",
       "url": "https://www.cnbc.com/2025/07/23/britains-72-billion-under-the-radar-success-story-cnbc-uk-exchange.html"
-    },
-    {
-      "id": 58,
-      "title": "Navatar Unveils AI-Powered CRM That Meets Dealmakers Where They Work From Outlook to Slack to CRM: Private Equity’s First Truly Embedded Intelligence Platform For Salesforce",
-      "summary": "Navatar unveils AI-Powered CRM that integrates with Outlook, Slack, and Salesforce to automate data entry and provide AI-driven intelligence for private equity dealmakers.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3119983/0/en/Navatar-Unveils-AI-Powered-CRM-That-Meets-Dealmakers-Where-They-Work-From-Outlook-to-Slack-to-CRM-Private-Equity-s-First-Truly-Embedded-Intelligence-Platform-For-Salesforce.html"
-    },
-    {
-      "id": 59,
-      "title": "IIDE Highlights Urgent Need for AI-Driven Marketing in Delhi's Talent Pool",
-      "summary": "IIDE highlights the urgent need for AI-driven marketing in Delhi's talent pool to boost business performance.",
-      "source": "Businesswireindia.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:29:19Z",
-      "url": "https://www.businesswireindia.com/iide-highlights-urgent-need-for-ai-driven-marketing-in-delhi's-talent-pool-95786.html"
-    },
-    {
-      "id": 60,
-      "title": "Quantum Computing Faces 3 Major Barriers Before Going Mainstream",
-      "summary": "Quantum computing faces 3 major technical barriers before becoming mainstream, despite its potential to revolutionize drug discovery, climate solutions, and artificial intelligence.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-23T05:28:47Z",
-      "url": "https://www.forbes.com/sites/bernardmarr/2025/07/23/quantum-computing-faces-3-major-barriers-before-going-mainstream/"
-    },
-    {
-      "id": 61,
-      "title": "Trusted monitoring, but with deception probes.",
-      "summary": "Trained deception probes by Apollo on AI's internal activations to determine deceptive responses.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-23T05:26:52Z",
-      "url": "https://www.lesswrong.com/posts/eaEqAzGN3uJfpfGoc/trusted-monitoring-but-with-deception-probes"
-    },
-    {
-      "id": 51,
-      "title": "One97 Communications shares drop nearly 3% post Q1 earnings announcement",
-      "summary": "One97 Communications shares dropped nearly 3% after announcing a consolidated net profit of ₹122.5 crore in Q1 2025, due to cost optimisation and increased payment revenue.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-23T05:12:37Z",
-      "url": "https://www.thehindubusinessline.com/markets/one97-communications-shares-drop-nearly-3-post-q1-earnings-announcement/article69845341.ece"
-    },
-    {
-      "id": 52,
-      "title": "From AI to quantum: ThatWare’s bold leap into the future of SEO",
-      "summary": "ThatWare, an Indian SEO company, pioneers the future of digital visibility with Quantum SEO, integrating AI and human empathy to create 'Hyper-intelligent SEO' for emotionally resonant content.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T05:11:07Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-ai-to-quantum-thatwares-bold-leap-into-the-future-of-seo/articleshow/122850674.cms"
-    },
-    {
-      "id": 53,
-      "title": "AI Should Run on 100% Renewable Energy by 2030, UN Chief Says",
-      "summary": "UN Chief calls for major tech firms to commit to powering AI with 100% renewable energy by 2030 and to be responsible in their use of water for cooling.",
-      "source": "Insurance Journal",
-      "category": "ethics",
-      "timestamp": "2025-07-23T05:10:50Z",
-      "url": "https://www.insurancejournal.com/news/international/2025/07/23/832790.htm"
-    },
-    {
-      "id": 54,
-      "title": "These tips from experts can help your teenager navigate AI companions",
-      "summary": "These tips from experts help teenagers navigate AI companions as they turn to AI for advice, guidance, and conversation.",
-      "source": "ABC News",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:10:18Z",
-      "url": "https://abcnews.go.com/Technology/wireStory/tips-experts-teenager-navigate-ai-companions-123986286"
-    },
-    {
-      "id": 55,
-      "title": "These tips from experts can help your teenager navigate AI companions",
-      "summary": "These tips can help teenagers navigate AI companions as they increasingly turn to AI for advice, guidance, and conversation.",
-      "source": "ABC News",
-      "category": "applications",
-      "timestamp": "2025-07-23T05:10:15Z",
-      "url": "https://abcnews.go.com/US/wireStory/tips-experts-teenager-navigate-ai-companions-123986282"
-    },
-    {
-      "id": 56,
-      "title": "In an interview at the Federal Reserve, Sam Altman warns of an impending \"fraud crisis\" because of how AI could enable bad actors to impersonate other people (Clare Duffy/CNN)",
-      "summary": "Sam Altman warns of an impending 'fraud crisis' due to AI enabling bad actors to impersonate other people.",
-      "source": "Techmeme.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T05:10:00Z",
-      "url": "https://www.techmeme.com/250723/p2"
-    },
-    {
-      "id": 57,
-      "title": "Head to Head Analysis: IMAX (NYSE:IMAX) vs. News (NASDAQ:NWSA)",
-      "summary": "Comparison between IMAX and News as consumer discretionary companies to determine the superior investment.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-23T05:03:00Z",
-      "url": "https://www.etfdailynews.com/2025/07/23/head-to-head-analysis-imax-nyseimax-vs-news-nasdaqnwsa/"
-    },
-    {
-      "id": 58,
-      "title": "Phishing simulations: What works and what doesn’t",
-      "summary": "Phishing simulations: What works and what doesn’t - Phishing is one of the oldest and most effective scams used by cybercriminals. No one is immune to them, not even internet security experts, as seen in the case of Troy Hunt, who recently fell for a phishing email.",
-      "source": "Help Net Security",
-      "category": "research",
-      "timestamp": "2025-07-23T05:00:05Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/23/phishing-simulations-effectiveness-in-organizations/"
-    },
-    {
-      "id": 51,
-      "title": "McKinsey bars China business from generative AI consultancy work: Report",
-      "summary": "McKinsey's China branch has been instructed to avoid generative AI projects due to increased US government scrutiny of American companies in sensitive sectors in China.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-23T04:49:38Z",
-      "url": "https://economictimes.indiatimes.com/news/international/business/mckinsey-bars-china-business-from-generative-ai-consultancy-work-report/articleshow/122850359.cms"
-    },
-    {
-      "id": 52,
-      "title": "Stanford Pioneers Medical LLM ChatBot Model",
-      "summary": "Stanford pioneers medical LLM ChatBot model that will likely spur efficiencies in diagnosis and treatment.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-23T04:48:50Z",
-      "url": "https://www.forbes.com/sites/johnwerner/2025/07/23/stanford-pioneers-medical-llm-chatbot-model/"
-    },
-    {
-      "id": 53,
-      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas",
-      "summary": "President Trump's new AI plan is influenced by Silicon Valley tech leaders and aims to shape policy around artificial intelligence",
-      "source": "ABC News",
-      "category": "policy",
-      "timestamp": "2025-07-23T04:46:24Z",
-      "url": "https://abcnews.go.com/Technology/wireStory/tech-podcasts-policy-trumps-new-ai-plan-leans-123985909"
     }
   ]
 }
