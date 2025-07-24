@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T01:18:51.931Z",
+  "lastUpdate": "2025-07-24T03:14:28.062Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Comfort Systems (FIX) To Report Earnings Tomorrow: Here Is What To Expect",
+      "summary": "Comfort Systems (NYSE:FIX) will report earnings after market hours. Analysts are expecting positive results for the HVAC and electrical contractor.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:12:58Z",
+      "url": "https://finance.yahoo.com/news/comfort-systems-fix-report-earnings-031258854.html"
+    },
+    {
+      "id": 52,
+      "title": "Union Pacific (UNP) Q2 Earnings: What To Expect",
+      "summary": "Freight transportation company Union Pacific (NYSE:UNP) will be reporting earnings this Thursday before market open, investors should be aware of the earnings report.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:12:15Z",
+      "url": "https://finance.yahoo.com/news/union-pacific-unp-q2-earnings-031215429.html"
+    },
+    {
+      "id": 53,
+      "title": "Deckers (DECK) Q2 Earnings: What To Expect",
+      "summary": "Deckers (DECK) will be reporting Q2 earnings this Thursday after market close, providing insight into the financial performance of the footwear and apparel conglomerate.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:11:33Z",
+      "url": "https://finance.yahoo.com/news/deckers-deck-q2-earnings-expect-031133126.html"
+    },
+    {
+      "id": 54,
+      "title": "Double exit: Vasco and Bahia knocked out of Copa Sul-Americana ",
+      "summary": "Two Brazilian clubs, Vasco and Bahia, were knocked out of the Copa Sul-Americana after failing to achieve the necessary results.",
+      "source": "Onefootball.com",
+      "category": "sports",
+      "timestamp": "2025-07-23T03:11:00Z",
+      "url": "https://onefootball.com/en/news/double-exit-vasco-and-bahia-knocked-out-of-copa-sul-americana-41411861"
+    },
+    {
+      "id": 55,
+      "title": "datagrid-ai 0.1.0a19",
+      "summary": "datagrid-ai 0.1.0a19 is the official Python library for the datagrid API, allowing developers to easily work with AI-related data. This library can be used for various applications that require AI capabilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T03:07:14Z",
+      "url": "https://pypi.org/project/datagrid-ai/0.1.0a19/"
+    },
+    {
+      "id": 56,
+      "title": "opencode-ai 0.1.0a30",
+      "summary": "opencode-ai 0.1.0a30 is the official Python library for the opencode API, facilitating access to AI functionalities. This update enhances the ecosystem for developers creating AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T03:07:00Z",
+      "url": "https://pypi.org/project/opencode-ai/0.1.0a30/"
+    },
+    {
+      "id": 57,
+      "title": "Bitcoin hitting $200K this year ‘very improbable,’ says analyst",
+      "summary": "Glassnode lead analyst James Check believes that Bitcoin hitting $200,000 this year is very improbable, but expects it to surpass that level in the next five years.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:04:57Z",
+      "url": "https://cointelegraph.com/news/bitcoin-price-200k-probability-crypto-analysts-buying-volume-btc"
+    },
+    {
+      "id": 58,
+      "title": " Bahia out of Sula, América de Cali meet Flu in last 16",
+      "summary": "Bahia was eliminated from the Conmebol South American 2025 playoff quarterfinals after losing 2-0 to América de Cali in Colombia. The match ended in a 0-0 draw in Salvador.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T03:04:00Z",
+      "url": "https://onefootball.com/en/news/bahia-out-of-sula-america-de-cali-meet-flu-in-last-16-41411866"
+    },
+    {
+      "id": 59,
+      "title": "Cathie Wood Buys The Nvidia Dip Amid Panic Over Stargate Project: Ark Swoops Up $2 Million Worth Of Hot AI Stock",
+      "summary": "Cathie Wood's Ark Invest purchased shares of NVIDIA Corp amid concerns regarding a significant AI project, acquiring $2 million worth of hot AI stock.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:02:04Z",
+      "url": "https://biztoc.com/x/62623ed49b2af635"
+    },
+    {
+      "id": 60,
+      "title": "beachman ‘64 e-bike brings back 1960s cafe racer and old-school motorcycle aesthetics",
+      "summary": "beachman ‘64 e-bike brings back 1960s cafe racer and old-school motorcycle aesthetics with an electric engine",
+      "source": "Designboom",
+      "category": "innovation",
+      "timestamp": "2025-07-23T03:01:34Z",
+      "url": "https://www.designboom.com/technology/beachman-64-e-bike-1960s-cafe-racer-old-school-motorcycle-07-23-2025/"
+    },
+    {
+      "id": 61,
+      "title": "Get ready for a narrower market over next 2-4 years where earnings surprises will drive share prices: Rakshit Ranjan",
+      "summary": "Get ready for a narrower market over next 2-4 years where earnings surprises will drive share prices: Rakshit Ranjan - Rakshit Ranjan highlights a slowdown in Nifty 50's earnings growth, coupled with high valuations, creating market uncertainty. He suggests a shift towards bottom-up stock picking, emphasizing earnings surprises as key drivers.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-23T03:01:00Z",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/get-ready-for-a-narrower-market-over-next-2-4-years-where-earnings-surprises-will-drive-share-prices-rakshit-ranjan/articleshow/122839088.cms"
+    },
+    {
+      "id": 62,
+      "title": "紙媒体のセキュリティ対策に新常識！",
+      "summary": "New security measures for print media with AI technology are becoming the new standard.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-23T03:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000090821.html"
+    },
     {
       "id": 51,
       "title": "AI talent gap: Savvy freshers bag 4x more pay",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-22T23:10:03Z",
       "url": "https://pypi.org/project/uniception/0.1.3/"
-    },
-    {
-      "id": 56,
-      "title": "APPLOVIN INVESTIGATION ALERT: Bragar Eagel & Squire, P.C. is Investigating AppLovin Corporation on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm",
-      "summary": "Bragar Eagel & Squire, P.C. is investigating AppLovin Corporation on behalf of long-term stockholders and encouraging investors to contact the firm regarding potential losses in AppLovin (APP).",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119934/0/en/APPLOVIN-INVESTIGATION-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-AppLovin-Corporation-on-Behalf-of-Long-Term-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html"
-    },
-    {
-      "id": 57,
-      "title": "ChatGPT now handles 1.7 million requests every minute",
-      "summary": "ChatGPT now handles 1.7 million requests every minute, equivalent to 2.5 billion user instructions per day, showing a significant increase in usage.",
-      "source": "PCWorld",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:08:42Z",
-      "url": "https://www.pcworld.com/article/2855321/chatgpt-now-handles-1-7-million-requests-every-minute.html"
-    },
-    {
-      "id": 58,
-      "title": "flwr-nightly 1.20.0.dev20250722",
-      "summary": "Flwr-nightly 1.20.0.dev20250722 introduces Flower, a friendly federated AI framework for research purposes.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-22T23:07:09Z",
-      "url": "https://pypi.org/project/flwr-nightly/1.20.0.dev20250722/"
-    },
-    {
-      "id": 59,
-      "title": "BetterComp raises $33M to expand compensation management platform",
-      "summary": "BetterComp raises $33M to expand compensation management platform - Compensation management startup BetterComp Inc. revealed today that it had raised $33 million in new funding to fuel its continued growth and innovation, enhance its market pricing and pay recommendation capabilities, expand into new product adjacencies and s…",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-22T23:05:35Z",
-      "url": "https://siliconangle.com/2025/07/22/bettercomp-raises-33m-expand-compensation-management-platform/"
-    },
-    {
-      "id": 60,
-      "title": "Samsung bets on GAA and HBM4 to retake AI crown",
-      "summary": "Samsung is focusing on GAA and HBM4 technologies to regain its position in AI development, with the semiconductor industry set for intense competition in the second half of 2025.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-22T23:03:09Z",
-      "url": "https://www.digitimes.com/news/a20250722PD204/samsung-hbm4-2025-gaa-ai-chip.html"
-    },
-    {
-      "id": 51,
-      "title": "Cramer's Lightning Round: Don't buy UPS",
-      "summary": "Jim Cramer advises against buying UPS during the lightning round segment of his show 'Mad Money'.",
-      "source": "CNBC",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:54:36Z",
-      "url": "https://www.cnbc.com/2025/07/22/cramers-lightning-round-dont-buy-ups.html"
-    },
-    {
-      "id": 52,
-      "title": "Google Q2 Earnings Preview: First Hyperscaler Out of the Gate",
-      "summary": "Google's Q2 earnings preview reveals the mounting costs of AI infrastructure and provides insight into the profitability of Search, YouTube ads, and Cloud services.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:52:49Z",
-      "url": "https://finance.yahoo.com/news/google-q2-earnings-preview-first-225249121.html"
-    },
-    {
-      "id": 53,
-      "title": "Asian Traders Optimistic as S&P 500 Record Holds: Markets Wrap",
-      "summary": "Asian traders are optimistic as S&P 500 record holds, with markets awaiting megacap earnings season and tariff developments. Bond yields and the dollar retreated.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-22T22:51:41Z",
-      "url": "https://financialpost.com/pmn/business-pmn/asian-traders-optimistic-as-sp-500-record-holds-markets-wrap"
-    },
-    {
-      "id": 54,
-      "title": "OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound",
-      "summary": "OBS Studio Snap App has received a major update with AI plugins on the way, thanks to Canonical rebasing the software on Core24 and switching the source code.",
-      "source": "Omgubuntu.co.uk",
-      "category": "applications",
-      "timestamp": "2025-07-22T22:50:00Z",
-      "url": "https://www.omgubuntu.co.uk/2025/07/obs-studio-snap-update-core24-plugins"
-    },
-    {
-      "id": 55,
-      "title": "One in six US workers pretends to use AI to please the bosses",
-      "summary": "One in six US workers pretends to use AI at work to please their bosses, highlighting the real issue of AI-nxiety causing strange behavior in the workplace.",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:49:44Z",
-      "url": "https://www.theregister.com/2025/07/22/ai_anxiety_us_workers/"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI CEO Sam Altman warns of an AI ‘fraud crisis’ | CNN Business",
-      "summary": "OpenAI CEO Sam Altman warns of an AI ‘fraud crisis’ due to the potential for bad actors using artificial intelligence to impersonate others.",
-      "source": "CNN",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:48:39Z",
-      "url": "https://www.cnn.com/2025/07/22/tech/openai-sam-altman-fraud-crisis"
-    },
-    {
-      "id": 57,
-      "title": "The Administration Wants Military Women to Know Their Place",
-      "summary": "Pete Hegseth appears to be advocating for the removal of women from top positions in the U.S. military, raising ethical concerns about gender discrimination and equality.",
-      "source": "The Atlantic",
-      "category": "ethics",
-      "timestamp": "2025-07-22T22:48:00Z",
-      "url": "https://www.theatlantic.com/newsletters/archive/2025/07/hegseths-purge-of-women-from-us-military-leadership/683631/"
     }
   ]
 }
