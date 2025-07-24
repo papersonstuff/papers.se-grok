@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-24T22:56:06.280Z",
+  "lastUpdate": "2025-07-24T23:17:44.076Z",
   "items": [
+    {
+      "id": 51,
+      "title": "UN World Court declares countries must curb emissions or be held responsible",
+      "summary": "UN World Court rules countries must curb emissions or be held responsible, but has no way to enforce compliance",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:16:35Z",
+      "url": "https://www.theregister.com/2025/07/23/un_world_court_curb_emissions/"
+    },
+    {
+      "id": 52,
+      "title": "Google's $85 billion capital spend spurred by cloud, AI demand",
+      "summary": "Google is spending $85 billion on tech infrastructure for cloud services and AI, driven by high demand in those areas.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:15:27Z",
+      "url": "https://biztoc.com/x/ea8583d96f7639e0"
+    },
+    {
+      "id": 53,
+      "title": "EU deforestation rules: NZ beef and wood exporters may face extra costs",
+      "summary": "EU deforestation rules could lead to additional costs for NZ beef and wood exporters, according to Minister Todd McClay.",
+      "source": "New Zealand Herald",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:15:07Z",
+      "url": "https://www.nzherald.co.nz/the-country/news/eu-deforestation-rules-nz-beef-and-wood-exporters-may-face-extra-costs/BQKZ6UGXJZEOLO4PAHR7KLL3LU/"
+    },
+    {
+      "id": 54,
+      "title": "UgenticAI Raises $4M to Scale Portfolio of Agentic AI Companies Aimed at Transforming Small Business Operations",
+      "summary": "UgenticAI raises $4M to scale portfolio of Agentic AI companies aimed at transforming small business operations",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-23T23:14:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120702/0/en/UgenticAI-Raises-4M-to-Scale-Portfolio-of-Agentic-AI-Companies-Aimed-at-Transforming-Small-Business-Operations.html"
+    },
+    {
+      "id": 55,
+      "title": "AWS reportedly shutters AI research lab in Shanghai",
+      "summary": "AWS reportedly shutters AI research lab in Shanghai - Amazon Web Services Inc. has reportedly closed an artificial intelligence lab that it operated in Shanghai. The Financial Times reported the move today.",
+      "source": "SiliconANGLE News",
+      "category": "research",
+      "timestamp": "2025-07-23T23:12:30Z",
+      "url": "https://siliconangle.com/2025/07/23/aws-reportedly-shutters-ai-research-lab-shanghai/"
+    },
+    {
+      "id": 56,
+      "title": "Soundcore by Anker P20i True Wireless Earbuds $27.99@Amazon",
+      "summary": "Soundcore by Anker P20i True Wireless Earbuds on sale at Amazon for $27.99 and receive positive reviews for their sound quality and bass performance.",
+      "source": "Ozbargain.com.au",
+      "category": "applications",
+      "timestamp": "2025-07-23T23:11:17Z",
+      "url": "https://www.ozbargain.com.au/node/916765"
+    },
+    {
+      "id": 57,
+      "title": "Slow Letter: July 24, 2025.",
+      "summary": "Resignation of Kang Sun-woo and Japan settling on 15% general tariff are impacting South Korea's economy. The article also discusses the issue of rice and beef imports, as well as potential problems with Lee Jae-myung's personnel system.",
+      "source": "Slownews.kr",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:10:49Z",
+      "url": "https://slownews.kr/141961"
+    },
+    {
+      "id": 58,
+      "title": "saksin added to PyPI",
+      "summary": "PyPI now offers Saksin SDK for querying the Saksin AI chunked retrieval API",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T23:10:11Z",
+      "url": "https://pypi.org/project/saksin/"
+    },
+    {
+      "id": 59,
+      "title": "Ozzy Osbourne ‘was in peace’ in the final days before his heartbreaking death: report",
+      "summary": "Ozzy Osbourne reportedly found peace in his final days before his death as he and his wife moved to England for their 'final chapter' amidst his declining health.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:08:24Z",
+      "url": "https://pagesix.com/2025/07/23/celebrity-news/ozzy-osbourne-in-peace-in-the-final-days-before-his-death/"
+    },
+    {
+      "id": 60,
+      "title": "Trump Weighed Nvidia Breakup But Was Told It’d Be ‘Hard’",
+      "summary": "President Trump considered breaking up Nvidia Corp. to increase competition in AI chips, but was advised it would be difficult. This raises ethical questions about government intervention in the technology industry.",
+      "source": "Livemint",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:08:01Z",
+      "url": "https://www.livemint.com/companies/news/trump-weighed-nvidia-breakup-but-was-told-it-d-be-hard-11753312081692.html"
+    },
+    {
+      "id": 61,
+      "title": "Google's $85 billion capital spend spurred by cloud, AI demand",
+      "summary": "Google plans to spend $85 billion on tech infrastructure to meet demand for cloud and AI services, driving its capital investment.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-23T23:07:52Z",
+      "url": "https://www.cnbc.com/2025/07/23/googles-85-billion-capital-spend-spurred-by-cloud-ai-demand.html"
+    },
+    {
+      "id": 62,
+      "title": "50 Cent and Rick Ross Beef Over Accusations of Kissing a Man",
+      "summary": "50 Cent and Rick Ross beef over accusations of kissing a man, raising ethical considerations around public perception and LGBTQ+ stigma.",
+      "source": "XXLMAG.COM",
+      "category": "ethics",
+      "timestamp": "2025-07-23T23:07:23Z",
+      "url": "https://www.xxlmag.com/50-cent-rick-ross-accusations-kissing-man/"
+    },
+    {
+      "id": 63,
+      "title": "hanzo-memory added to PyPI",
+      "summary": "hanzo-memory has been added to PyPI, providing an AI memory service with FastAPI and MCP support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:07:00Z",
+      "url": "https://pypi.org/project/hanzo-memory/"
+    },
+    {
+      "id": 64,
+      "title": "AI and the great digital agency unbundling",
+      "summary": "AI is leading to a shift in the digital agency landscape, moving from manual processes to more efficient automated tools. While expertise is still needed to maximize the benefits of AI, the reliance on traditional methods is decreasing.",
+      "source": "Dri.es",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:06:04Z",
+      "url": "https://dri.es/ai-and-the-great-digital-agency-unbundling"
+    },
+    {
+      "id": 65,
+      "title": "teraace-tracker added to PyPI",
+      "summary": "teraace-tracker, a Python library for tracking AI agent events, has been added to PyPI to support LangChain, CrewAI, and AutoGPT frameworks.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T23:05:50Z",
+      "url": "https://pypi.org/project/teraace-tracker/"
+    },
     {
       "id": 51,
       "title": "OpenAI and partners are building a massive AI data center in Texas",
@@ -315,141 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-23T22:05:24Z",
       "url": "https://www.digitaljournal.com/tech-science/ai-driven-agencies-are-filling-the-tech-delivery-void-in-the-uks-service-market/article"
-    },
-    {
-      "id": 62,
-      "title": "US Military Expands AI Investment With $800 Million in Contracts",
-      "summary": "US Military expands AI investment with $800 million in contracts, awarding up to $200 million each to four U.S.-based AI companies for developing 'frontier' models like Anthropic, Google, OpenAI, and xAI.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:03:13Z",
-      "url": "http://www.pymnts.com/artificial-intelligence-2/2025/us-military-expands-ai-investment-with-800-million-in-contracts/"
-    },
-    {
-      "id": 51,
-      "title": "White House’s AI Action Plan Includes Rules On Ideological Bias And Calls For Removing Regulatory Barriers, But Makes No Comment On Copyright",
-      "summary": "White House's AI Action Plan focuses on building out the country's AI capabilities, removing regulatory barriers, and addressing ideological bias, but does not comment on copyright",
-      "source": "Deadline",
-      "category": "policy",
-      "timestamp": "2025-07-23T21:48:27Z",
-      "url": "http://deadline.com/2025/07/trump-ai-action-plan-copyright-1236466617/"
-    },
-    {
-      "id": 52,
-      "title": "Adam Aaronson drank every cocktail",
-      "summary": "Adam Aaronson drank every cocktail on the International Bartenders Association's list of official cocktails, considered the most requested recipes worldwide.",
-      "source": "Aaronson.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:47:57Z",
-      "url": "https://aaronson.org/blog/i-drank-every-cocktail"
-    },
-    {
-      "id": 53,
-      "title": "Alphabet profits jump 20% on strength in ad and cloud units",
-      "summary": "Alphabet's profits increased by 20% due to strong performance in ad and cloud units. The company also announced plans to increase spending on artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:46:47Z",
-      "url": "https://biztoc.com/x/ae21a533a1c11fc0"
-    },
-    {
-      "id": 54,
-      "title": "Trump: It will be US policy to lead the world in AI",
-      "summary": "United States President Donald Trump announced that it will be US policy to lead the world in artificial intelligence during a speech at the Winning the AI Race Summit.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T21:46:27Z",
-      "url": "https://biztoc.com/x/a6146f2b64c56a19"
-    },
-    {
-      "id": 55,
-      "title": "Liberation Day for American AI",
-      "summary": "Liberation Day for American AI - Trump’s deregulatory order will help the U.S. compete with China.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:46:11Z",
-      "url": "https://biztoc.com/x/a895a206b54e85ba"
-    },
-    {
-      "id": 56,
-      "title": "Google’s AI push pays off with solid second quarter, but doubts about company’s future persist",
-      "summary": "Google's AI push contributed to solid second quarter growth, but concerns about its future remain as the company faces potential regulatory issues.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:46:08Z",
-      "url": "https://biztoc.com/x/1a09217c82592a14"
-    },
-    {
-      "id": 57,
-      "title": "Account Executive – Name PR – London",
-      "summary": "Account Executive position available at Name PR in London for someone with a strong interest in the music business and a desire to work with influential companies.",
-      "source": "Music Ally",
-      "category": "applications",
-      "timestamp": "2025-07-23T21:44:17Z",
-      "url": "http://musically.com/2025/07/23/account-executive-name-pr-london/"
-    },
-    {
-      "id": 51,
-      "title": "Live: Tesla revenue slumps in sharpest fall in a decade",
-      "summary": "Tesla's revenue experiences its sharpest fall in a decade, missing expectations and disappointing analysts. The local share market is expected to rise following gains on Wall Street.",
-      "source": "ABC News (AU)",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:39:11Z",
-      "url": "https://www.abc.net.au/news/2025-07-24/asx-markets-business-live-news-july-24/105566046"
-    },
-    {
-      "id": 52,
-      "title": "White House Releases Trump's 'AI Action Plan'—Here's What's in It",
-      "summary": "The White House has released Trump's AI Action Plan, which focuses on prioritizing growth over safety, drawing both praise and criticism.",
-      "source": "Decrypt",
-      "category": "ethics",
-      "timestamp": "2025-07-23T21:38:01Z",
-      "url": "https://decrypt.co/331496/white-house-releases-trump-ai-action-plan"
-    },
-    {
-      "id": 53,
-      "title": "Google's AI push pays off with solid second quarter, but doubts about company's future persist",
-      "summary": "Google's AI push pays off with solid second quarter, but doubts about company's future persist",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T21:35:30Z",
-      "url": "https://biztoc.com/x/5ec732709e173b7f"
-    },
-    {
-      "id": 54,
-      "title": "Trump: In serious trade talks with EU",
-      "summary": "United States President Donald Trump discussed being in serious trade talks with the European Union during an AI summit in Washington, DC.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:35:06Z",
-      "url": "https://biztoc.com/x/64729fb390d5df12"
-    },
-    {
-      "id": 55,
-      "title": "Trump's new AI policies keep culture war focus on tech companies",
-      "summary": "Trump's new AI policies continue to target 'woke' artificial intelligence systems, reflecting conservative concerns about AI models drifting too far.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T21:34:53Z",
-      "url": "https://biztoc.com/x/42a06d1551560dbb"
-    },
-    {
-      "id": 56,
-      "title": "Google’s AI push pays off with solid second quarter, but doubts about company’s future persist",
-      "summary": "Google's AI push pays off with solid second quarter, exceeding analysts' predictions in earnings and revenue growth. Doubts about company's future persist despite strong performance.",
-      "source": "Boston Herald",
-      "category": "economy",
-      "timestamp": "2025-07-23T21:34:12Z",
-      "url": "https://www.bostonherald.com/2025/07/23/google-ai-push-earnings/"
-    },
-    {
-      "id": 57,
-      "title": "EU-Wide Plan AimsTo Nudge Researchers Towards Startup Life",
-      "summary": "Europe is launching a new initiative to push researchers towards creating tech startups in order to better commercialize university research and catch up to the U.S.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-23T21:33:24Z",
-      "url": "https://www.forbes.com/sites/trevorclawson/2025/07/23/eu-wide-plan-aimsto-nudge-researchers-towards-startup-life/"
     }
   ]
 }
