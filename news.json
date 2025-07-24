@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-24T20:54:36.659Z",
+  "lastUpdate": "2025-07-24T21:15:57.583Z",
   "items": [
+    {
+      "id": 51,
+      "title": "pybibx 5.1.5",
+      "summary": "pybibx 5.1.5 is a bibliometric and scientometric library that utilizes artificial intelligence tools. It aims to enhance research capabilities by providing advanced analytics and insights for academic publications.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-23T21:15:29Z",
+      "url": "https://pypi.org/project/pybibx/5.1.5/"
+    },
+    {
+      "id": 52,
+      "title": "Tesla Reports 16% Profit Drop To $1.2 Bn On Lower Auto Sales",
+      "summary": "Tesla reported a 16% profit drop to $1.2 billion due to lower auto sales, as competition in the electric vehicle market intensifies and backlash over CEO Elon Musk's political involvement persists.",
+      "source": "International Business Times",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:15:11Z",
+      "url": "https://www.ibtimes.com/tesla-reports-16-profit-drop-12-bn-lower-auto-sales-3779268"
+    },
+    {
+      "id": 53,
+      "title": "AI 'Vibe Coding' Agent Deleted An Entire Database Because It Panicked",
+      "summary": "AI 'Vibe Coding' Agent Deleted An Entire Database Because It Panicked - Before you think about using AI for 'vibe coding,' heed the warning of a CEO who lost an entire database when the AI malfunctioned.",
+      "source": "BGR",
+      "category": "ethics",
+      "timestamp": "2025-07-23T21:15:00Z",
+      "url": "https://www.bgr.com/1920398/ai-vibe-coding-agent-deleted-entire-database/"
+    },
+    {
+      "id": 54,
+      "title": "White House releases broad set of AI policy recommendations",
+      "summary": "White House releases policy paper with over 90 recommendations on federal government's approach to artificial intelligence.",
+      "source": "SiliconANGLE News",
+      "category": "research",
+      "timestamp": "2025-07-23T21:14:37Z",
+      "url": "https://siliconangle.com/2025/07/23/white-house-releases-broad-set-ai-policy-recommendations/"
+    },
+    {
+      "id": 55,
+      "title": "memorix-ai added to PyPI",
+      "summary": "memorix-ai, the memory layer for AI agents, has been added to PyPI, aiding in the development and optimization of AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T21:14:13Z",
+      "url": "https://pypi.org/project/memorix-ai/"
+    },
+    {
+      "id": 56,
+      "title": "Is Stephen Colbert moving to CNN?",
+      "summary": "Stephen Colbert, host of 'The Late Show' on CBS, announced his move to CNN when his contract ends in July 2025.",
+      "source": "Snopes.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T21:13:00Z",
+      "url": "https://www.snopes.com//fact-check/stephen-colbert-going-cnn/"
+    },
+    {
+      "id": 57,
+      "title": "Watch: Trump delivers remarks on AI 'action plan' and signs executive orders",
+      "summary": "Trump signs executive orders on AI 'action plan' requiring developers' chatbots to be 'free of ideological bias' for federal contracts.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T21:12:39Z",
+      "url": "https://biztoc.com/x/124235c484c26b65"
+    },
+    {
+      "id": 58,
+      "title": "AI video is invading YouTube Shorts and Google Photos starting today - Ars Technica",
+      "summary": "AI video is now being integrated into YouTube Shorts and Google Photos, offering new creation tools and features for users to transform photos into videos and remix their content.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T21:12:35Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450060"
+    },
     {
       "id": 51,
       "title": "zagency 0.3.0",
@@ -378,78 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T20:08:11Z",
       "url": "https://pagesix.com/2025/07/23/celebrity-news/sacha-baron-cohen-debuts-ripped-physique-after-isla-fisher-divorce/"
-    },
-    {
-      "id": 68,
-      "title": "Alphabet reports Q2 2025 revenue of $96.4 billion",
-      "summary": "Alphabet reports Q2 2025 revenue of $96.4 billion - Alphabet today announced Q2 2025 earnings with $96.42 billion in revenue. These numbers range from April to June.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:08:05Z",
-      "url": "http://9to5google.com/2025/07/23/alphabet-q2-2025-earnings/"
-    },
-    {
-      "id": 69,
-      "title": "YouTube Pumps Up Ad Revenue 13% in Q2 to Reach $9.8 Billion",
-      "summary": "YouTube's advertising revenue increased 13% in Q2 to reach $9.8 billion, solidifying its position as a dominant player in the ad-spending market.",
-      "source": "Variety",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:07:35Z",
-      "url": "https://variety.com/2025/digital/news/youtube-q2-2025-earnings-ad-revenue-alphabet-1236468214/"
-    },
-    {
-      "id": 70,
-      "title": "Google shares climb following Q2 earnings beat",
-      "summary": "Google shares rise after beating Q2 earnings expectations.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T20:07:17Z",
-      "url": "https://finance.yahoo.com/news/google-shares-climb-following-q2-earnings-beat-200717345.html"
-    },
-    {
-      "id": 51,
-      "title": "Windows Weekly 942: A World of Wonder",
-      "summary": "Microsoft finally kills Movies & TV show service in the Microsoft Store, the last remaining part of Zune. Previous services like eBook and music sales have also been discontinued.",
-      "source": "Twit.tv",
-      "category": "economy",
-      "timestamp": "2025-07-23T19:45:22Z",
-      "url": "https://twit.tv/shows/windows-weekly/episodes/942"
-    },
-    {
-      "id": 52,
-      "title": "Here’s the Front-Runner to Play Elon Musk in Luca Guadagnino’s AI Movie",
-      "summary": "Artificial is a comedic drama about the world of artificial intelligence, with a front-runner being considered to play Elon Musk in the movie.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:45:18Z",
-      "url": "https://gizmodo.com/heres-the-front-runner-to-play-elon-musk-in-luca-guadagninos-ai-movie-2000633319"
-    },
-    {
-      "id": 53,
-      "title": "Trump Releases AI Action Plan: 'National Security Imperative' for 'Technological Dominance'",
-      "summary": "President Trump releases AI action plan focusing on achieving and maintaining technological dominance on the world stage.",
-      "source": "Breitbart News",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:44:58Z",
-      "url": "https://www.breitbart.com/tech/2025/07/23/trump-releases-ai-action-plan-national-security-imperative-for-technological-dominance/"
-    },
-    {
-      "id": 54,
-      "title": "Few People Are Clicking Past Google's 'AI Overviews' Search Results",
-      "summary": "Few People Are Clicking Past Google's 'AI Overviews' Search Results - In news that won't surprise anyone seeing their Google referral traffic tank, a Pew Research Center study suggests that few people explore beyond Google’s AI-written search summaries.",
-      "source": "PCMag.com",
-      "category": "research",
-      "timestamp": "2025-07-23T19:42:49Z",
-      "url": "https://uk.pcmag.com/ai/159274/few-people-are-clicking-past-googles-ai-overviews-search-results"
-    },
-    {
-      "id": 55,
-      "title": "Few People Are Clicking Past Google's 'AI Overviews' Search Results",
-      "summary": "Few people are clicking past Google's AI Overviews search results as shown in a Pew Research Center study.",
-      "source": "PCMag.com",
-      "category": "research",
-      "timestamp": "2025-07-23T19:42:49Z",
-      "url": "https://me.pcmag.com/en/ai/31369/few-people-are-clicking-past-googles-ai-overviews-search-results"
     }
   ]
 }
