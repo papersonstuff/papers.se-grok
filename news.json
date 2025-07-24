@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-24T18:23:10.845Z",
+  "lastUpdate": "2025-07-24T18:52:53.161Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization",
+      "summary": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization - Today, we're announcing the open source release of Spark History Server MCP, a specialized Model Context Protocol (MCP) server that transforms this workflow by enabling AI assistants to access and analyze your existing Spark History Server data through natura…",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:52:37Z",
+      "url": "https://aws.amazon.com/blogs/big-data/introducing-mcp-server-for-apache-spark-history-server-for-ai-powered-debugging-and-optimization/"
+    },
+    {
+      "id": 52,
+      "title": "Nintendo Direct July 2025 Rumors: Insider predicts upcoming livestream for Switch 2 games. Here’s who he is and what he said",
+      "summary": "Nintendo Direct July 2025 rumors suggest upcoming livestream for Switch 2 games, with new titles possibly being showcased following the success of Donkey Kong Bananza.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:50:42Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/nintendo-direct-july-2025-switch-2-games-donkey-kong-bananza-nate-the-hate-rumors-metroid-prime-4-hyrule-warriors-kirby-air-riders/articleshow/122866017.cms"
+    },
+    {
+      "id": 53,
+      "title": "Grok has an AI chatbot for young kids. I used it to try to understand why.",
+      "summary": "Grok has an AI chatbot for young kids that tells stories aimed at kids, including a red panda named Rudi. The purpose of the chatbot was to engage young children and provide entertaining and educational content.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-23T18:50:28Z",
+      "url": "https://www.businessinsider.com/grok-chatbot-rudi-kids-elon-musk-i-tried-why-2025-7"
+    },
+    {
+      "id": 54,
+      "title": "AMD Strix Point Linux Performance Comparison One Year After Launch",
+      "summary": "AMD Strix Point Linux Performance Comparison One Year After Launch - This week marks one year since the debut of AMD's Zen 5 Strix Point laptop processors with RDNA 3.5 integrated graphics.",
+      "source": "Phoronix",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:50:00Z",
+      "url": "https://www.phoronix.com/review/amd-strix-point-2025"
+    },
+    {
+      "id": 55,
+      "title": "Why Your Pixel's Call Notes Never Have to Pile Up Again",
+      "summary": "Google is making improvements to Pixel 9 users' call transcript library to help them manage their Call Notes backlog. This is timely for professionals inundated with AI-generated conversation data.",
+      "source": "Gadgethacks.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T18:49:35Z",
+      "url": "https://pixel.gadgethacks.com/news/why-your-pixels-call-notes-never-have-to-pile-up-again/"
+    },
+    {
+      "id": 56,
+      "title": "While Others Question AI’s Future, Elon Musk Is Rushing to Spend Trillions on NVIDIA Chips, at a Faster Pace Than Any Other AI Firm Out There",
+      "summary": "While others question AI's future, Elon Musk is rushing to spend trillions on NVIDIA chips at a faster pace than any other AI firm, signaling a new phase of AI hype and significant computing demand in the industry.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-23T18:49:21Z",
+      "url": "https://wccftech.com/elon-musk-plans-to-spend-trillions-of-dollars-on-nvidia-ai-chips/"
+    },
+    {
+      "id": 57,
+      "title": "Digital payments to surge in Malaysia",
+      "summary": "Digital payment adoption is set to surge in Malaysia, with more consumers likely to use emerging digital payment methods in the next year.",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:49:00Z",
+      "url": "https://www.thestar.com.my/news/world/2025/07/24/digital-payments-to-surge-in-malaysia"
+    },
+    {
+      "id": 58,
+      "title": "Trump’s AI Action Plan aims to block chip exports to China but lacks key details",
+      "summary": "Trump’s AI Action Plan aims to block chip exports to China but lacks key details, offering a path but not a concrete plan for restrictions.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:48:01Z",
+      "url": "https://biztoc.com/x/428befca57790b0c"
+    },
+    {
+      "id": 59,
+      "title": "How Trump’s AI Plan Would Cut Regulation and Speed Up Adoption",
+      "summary": "The Trump administration released its new AI Action Plan which aims to cut regulation and speed up adoption of AI technology, potentially boosting economic growth and competitiveness.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T18:47:50Z",
+      "url": "https://biztoc.com/x/f7e228b81604ff50"
+    },
     {
       "id": 51,
       "title": "Author asks ChatGPT for advice on her book about tech — here's what it said",
@@ -369,87 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-23T17:14:02Z",
       "url": "https://www.neowin.net/software/techpowerup-gpu-z-2670/"
-    },
-    {
-      "id": 54,
-      "title": "RFK Jr. Is Letting a Glitch-tastic AI Assistant Help Run the FDA",
-      "summary": "Reliance on AI is causing glitches at the FDA, hindering drug approvals and streamlining. The use of AI in this context raises ethical concerns about the potential risks and consequences of automation in critical decision-making processes.",
-      "source": "The New Republic",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:13:09Z",
-      "url": "https://newrepublic.com/post/198271/robert-f-kennedy-jr-ai-assistant-fda-invent-data"
-    },
-    {
-      "id": 55,
-      "title": "Trump administration unveils plan to ease AI chip exports, loosen environmental rules",
-      "summary": "Trump administration unveils plan to ease AI chip exports and loosen environmental rules in order to accelerate US leadership in the sector.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T17:12:00Z",
-      "url": "https://www.channelnewsasia.com/world/trump-administration-unveils-plan-ease-ai-chip-exports-loosen-environmental-rules-5254756"
-    },
-    {
-      "id": 56,
-      "title": "This congressman wants to ban companies from using your search history to set personalized prices",
-      "summary": "Rep. Greg Casar aims to ban companies from using search history for personalized pricing, denouncing 'surveillance pricing'.",
-      "source": "NBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:11:40Z",
-      "url": "https://www.nbcnews.com/politics/congress/congress-ban-bill-surveillance-pricing-personal-data-rcna219381"
-    },
-    {
-      "id": 57,
-      "title": "From the Editor’s Desk: Microsoft, Consumers, and AI, a Comedy (Premium)",
-      "summary": "Microsoft's history with AI and mobile technology is discussed in relation to the iPhone's release, highlighting the importance of staying innovative in the tech industry.",
-      "source": "Thurrott.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:11:21Z",
-      "url": "https://www.thurrott.com/thurrott-com/from-the-editors-desk/323713/from-the-editors-desk-microsoft-consumers-and-ai-a-comedy"
-    },
-    {
-      "id": 58,
-      "title": "Famitsu review scores for issue 1908",
-      "summary": "Famitsu review scores for issue 1908 reveals no worries for Kaname Date.",
-      "source": "GoNintendo",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:11:00Z",
-      "url": "https://gonintendo.com/contents/51032-famitsu-review-scores-for-issue-1908"
-    },
-    {
-      "id": 59,
-      "title": "Instructure And OpenAI Harness The Power Of AI To Transform Learning",
-      "summary": "Instructure and OpenAI partner to embed powerful AI tools within Canvas LMS, transforming learning by enabling dynamic assignments, rich feedback, and deeper insights.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:10:47Z",
-      "url": "https://www.forbes.com/sites/rayravaglia/2025/07/23/instructure-and-openai-harness-the-power-of-ai-to-transform-learning/"
-    },
-    {
-      "id": 60,
-      "title": "FDA’s New Drug Approval AI Is Generating Fake Studies: Report",
-      "summary": "FDA's new drug approval AI, Elsa, is reportedly generating fake studies instead of making employees better at their jobs.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:10:31Z",
-      "url": "https://gizmodo.com/fdas-new-drug-approval-ai-is-generating-fake-studies-report-2000633153"
-    },
-    {
-      "id": 61,
-      "title": "YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects (Aisha Malik/TechCrunch)",
-      "summary": "YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects.",
-      "source": "Mediagazer.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:10:02Z",
-      "url": "https://mediagazer.com/250723/p14"
-    },
-    {
-      "id": 62,
-      "title": "Exclusive: Sen. Hawley says Congress needs to focus on AI's impact on working class (Josephine Walker/Axios)",
-      "summary": "Sen. Hawley emphasizes the need for Congress to address the impact of AI on the working class, stating that AI has mostly been unbeneficial for Americans.",
-      "source": "Memeorandum.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:10:00Z",
-      "url": "https://www.memeorandum.com/250723/p77"
     }
   ]
 }
