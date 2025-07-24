@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T15:54:49.044Z",
+  "lastUpdate": "2025-07-24T16:18:36.255Z",
   "items": [
+    {
+      "id": 51,
+      "title": "This powerful Google Photos tool is finally arriving for older Pixels",
+      "summary": "Users of older Pixel phones are beginning to see the AI-powered photo tool, Reimagine, from Google Photos on their devices.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:17:32Z",
+      "url": "https://www.androidauthority.com/google-photos-reimagine-older-pixels-3580226/"
+    },
+    {
+      "id": 52,
+      "title": "Commercial Banking vs. Investment Banking: Careers, Recruiting, Compensation, and Exits",
+      "summary": "The 'commercial banking vs. investment banking' question is irrelevant as they serve different functions. Some individuals may transition between the two fields, but they are not directly comparable.",
+      "source": "Mergersandinquisitions.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T16:17:18Z",
+      "url": "https://mergersandinquisitions.com/commercial-banking-vs-investment-banking/"
+    },
+    {
+      "id": 53,
+      "title": "WisdomTree’s USDW stablecoin to pay dividends on tokenized assets",
+      "summary": "WisdomTree rebrands its stablecoin to USDW and plans to pay dividends on tokenized assets, aiming to develop a full-stack stablecoin strategy for corporate onchain investing.",
+      "source": "Cointelegraph",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:15:42Z",
+      "url": "https://cointelegraph.com/news/wisdomtree-usdw-stablecoin-tokenized-assets"
+    },
+    {
+      "id": 54,
+      "title": "Your next Samsung flagship isn’t the Galaxy S Ultra anymore",
+      "summary": "The Samsung Galaxy S Ultra phones, known for their superiority in the flagship lineup, will no longer be the next flagship device. They have been equipped with the best chipsets and camera experience in the past.",
+      "source": "SamMobile",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:15:15Z",
+      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-outsold-other-ultras-combined-8-times/"
+    },
+    {
+      "id": 55,
+      "title": "AI Friend Apps Are Destroying What's Left of Society",
+      "summary": "AI Friend Apps Are Destroying What's Left of Society - People are becoming more isolated and treating AI chatbots as friends and lovers, highlighting societal issues that need to be addressed.",
+      "source": "Currentaffairs.org",
+      "category": "ethics",
+      "timestamp": "2025-07-23T16:15:07Z",
+      "url": "https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society"
+    },
+    {
+      "id": 56,
+      "title": "Daily Search Forum Recap: July 23, 2025",
+      "summary": "Daily Search Forum Recap: July 23, 2025 - Searchers are much less lik",
+      "source": "Seroundtable.com",
+      "category": "research",
+      "timestamp": "2025-07-23T16:13:49Z",
+      "url": "https://www.seroundtable.com/recap-07-23-2025-39810.html"
+    },
+    {
+      "id": 57,
+      "title": "White House launches America’s AI Action Plan to strengthen US dominance in artificial intelligence",
+      "summary": "White House launches America’s AI Action Plan to strengthen US dominance in artificial intelligence, reshaping global power dynamics and prioritizing ethical AI use.",
+      "source": "Crypto Briefing",
+      "category": "economy",
+      "timestamp": "2025-07-23T16:13:22Z",
+      "url": "https://cryptobriefing.com/america-ai-action-plan-policy/"
+    },
+    {
+      "id": 58,
+      "title": "‘Alien: Earth’ Is Wildly Ambitious, Expensive and Stars a Talented Actor Who Refuses to Play by Hollywood’s Rules. Inside FX’s Risky Bet",
+      "summary": "'Alien: Earth' is a wildly ambitious and expensive new series starring a talented actor who refuses to play by Hollywood's rules. FX is taking a risky bet on this blockbuster series, which promises to showcase a significant amount of Xenomorph screen time.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-23T16:12:50Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178447964"
+    },
+    {
+      "id": 59,
+      "title": "Aprio furthers $300m AI strategy with TimeCredit AI acquisition",
+      "summary": "Aprio has acquired TimeCredit AI as part of their $300m investment in AI and automation, aiming to transform accounting services.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-23T16:12:12Z",
+      "url": "https://biztoc.com/x/7e4f8264a0d5e0f8"
+    },
+    {
+      "id": 60,
+      "title": "States with strict AI laws could see federal dollars withheld under Trump's new AI plan",
+      "summary": "States with strict AI laws may risk losing federal funding under Trump's new AI plan, which aims to avoid burdensome regulations on AI. This raises ethical concerns about the potential impact on states' ability to regulate AI responsibly.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-23T16:11:54Z",
+      "url": "https://www.businessinsider.com/trump-admin-plans-block-funding-states-with-strict-ai-laws-2025-7"
+    },
+    {
+      "id": 61,
+      "title": "White House Unveils AI Policy Vision to Spur US Development",
+      "summary": "The Trump administration has revealed plans to enhance artificial intelligence development in the US by easing regulations and increasing energy supply for data centers. The new guidelines aim to stimulate innovation and economic growth in the AI sector.",
+      "source": "Nextbigwhat.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T16:11:49Z",
+      "url": "https://nextbigwhat.com/white-house-unveils-ai-policy-vision-to-spur-us-development/"
+    },
+    {
+      "id": 62,
+      "title": "Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos",
+      "summary": "Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:11:26Z",
+      "url": "https://biztoc.com/x/9d8f3ea4739e6a7b"
+    },
+    {
+      "id": 63,
+      "title": "YouTube Shorts is adding an image-to-video AI tool, new AI effects",
+      "summary": "YouTube Shorts is introducing new generative AI features, including an image-to-video tool, for creators to use in their short videos.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T16:11:19Z",
+      "url": "https://biztoc.com/x/82fe55a52112a6d8"
+    },
     {
       "id": 51,
       "title": "Elon Musk's xAI is reportedly trying to borrow $12,000,000,000 for even more Nvidia GPUs, an impulse all PC gamers can truly understand",
@@ -333,123 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-23T15:38:30Z",
       "url": "https://biztoc.com/x/e0c21858e33caa45"
-    },
-    {
-      "id": 68,
-      "title": "Taps Accelsius Cooling System to Enhance Data Center Operations",
-      "summary": "Equinix partners with Accelsius to enhance data center operations by utilizing their advanced cooling system, potentially boosting their position as a top AI stock.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:29Z",
-      "url": "https://biztoc.com/x/b51922aee1c9ee2d"
-    },
-    {
-      "id": 69,
-      "title": "Big Dog Shows Up at Dachshund Meetup, Unprepared for Response",
-      "summary": "A group of dachshunds were left in a frenzy after a larger dog arrived at their group meetup in a park. A short clip of the moment, which was posted to TikTok by a dachshund owner in attendance, has left viewers amused.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:38:23Z",
-      "url": "https://biztoc.com/x/8c9fc5f2fac055f5"
-    },
-    {
-      "id": 70,
-      "title": "Commence introduces Amplify for health data management",
-      "summary": "Commence introduces Amplify, a health data management solution using AI and a data-first strategy to streamline workflows and address fragmentation.",
-      "source": "Hospitalmanagement.net",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:38:12Z",
-      "url": "https://www.hospitalmanagement.net/news/commence-introduces-amplify/"
-    },
-    {
-      "id": 51,
-      "title": "US Falls to Record Low in Powerful Passport Ranking",
-      "summary": "The American passport has dropped to 10th place for global mobility, its lowest ranking ever, according to the 2025 Henley Passport Index.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:16:13Z",
-      "url": "https://biztoc.com/x/5c6ade011ca190f4"
-    },
-    {
-      "id": 52,
-      "title": "Amazon closes Shanghai AI research lab in latest cost-cutting move",
-      "summary": "Amazon closes Shanghai AI research lab as part of cost-cutting measures, following recent layoffs in the cloud computing unit.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T15:16:08Z",
-      "url": "https://biztoc.com/x/e41fc984e0ba4150"
-    },
-    {
-      "id": 53,
-      "title": "Woman Finds 3 Chihuahua Puppies Left on Street, Unprepared for What's Next",
-      "summary": "A woman found three abandoned Chihuahuas and turned to social media for help in finding them forever homes.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:16:06Z",
-      "url": "https://biztoc.com/x/de8cb21b85ebf86c"
-    },
-    {
-      "id": 54,
-      "title": "Cat Brings Home Present for Owner—She Doesn't Appreciate It",
-      "summary": "In a viral TikTok video, a tabby cat named Nashville brings a present for his owner, who doesn't appreciate it, with the voice being AI-generated.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:16:02Z",
-      "url": "https://biztoc.com/x/56d8608f8b32eace"
-    },
-    {
-      "id": 55,
-      "title": "AI Hiring Tools Are Advising Women and Minorities to Ask for Lower Pay in Salary Negotiations",
-      "summary": "AI Hiring Tools Are Advising Women and Minorities to Ask for Lower Pay in Salary Negotiations",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T15:15:57Z",
-      "url": "https://biztoc.com/x/dcc4de034cda085c"
-    },
-    {
-      "id": 56,
-      "title": "Bernese Mountain Dog Tries To Learn New Skill Like Sibling, Fails Miserably",
-      "summary": "Gus the Bernese mountain dog attempts to learn new skills like his sibling, but fails miserably in an AI-generated voice video shared on Instagram.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:15:45Z",
-      "url": "https://biztoc.com/x/d8ce607eb2a03c3a"
-    },
-    {
-      "id": 57,
-      "title": "'Woke' AI Is the Latest Threat to Free Speech",
-      "summary": "'Woke' AI Is the Latest Threat to Free Speech as politicians aim to mold AI tools in their own image, potentially undermining free speech. Republicans are fighting against 'woke' AI, with the Trump administration reportedly leading the charge.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T15:15:37Z",
-      "url": "https://biztoc.com/x/b9a1091ce7d7a10c"
-    },
-    {
-      "id": 58,
-      "title": "Ex-DOGE lawyer launches AI policy council to push US to front of tech race with China",
-      "summary": "Ex-DOGE lawyer forms AI policy council to boost US tech competitiveness with China; Trump to sign AI-related executive orders, potentially targeting 'woke' models.",
-      "source": "New York Post",
-      "category": "innovation",
-      "timestamp": "2025-07-23T15:15:23Z",
-      "url": "https://nypost.com/2025/07/23/us-news/ex-doge-lawyer-launches-ai-policy-council-to-push-us-to-front-of-tech-race-with-china/"
-    },
-    {
-      "id": 59,
-      "title": "noiv 0.1.2",
-      "summary": "noiv 0.1.2 is a new AI-powered API testing CLI tool designed to improve API testing efficiency and accuracy.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:15:17Z",
-      "url": "https://pypi.org/project/noiv/0.1.2/"
-    },
-    {
-      "id": 60,
-      "title": "Spy cockroaches and AI robots: Germany plots the future of warfare - Reuters",
-      "summary": "Germany is exploring the use of spy cockroaches and AI robots for future warfare, as part of their military procurement plans to streamline army operations.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T15:15:07Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178447540"
     }
   ]
 }
