@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-24T18:52:53.161Z",
+  "lastUpdate": "2025-07-24T19:15:05.266Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Compliance startup Vanta valued at $4.15B in new $150M round",
+      "summary": "Compliance startup Vanta valued at $4.15B in new $150M round - Vanta Inc., a startup that helps companies comply with privacy and cybersecurity regulations, has raised $150 million in fresh funding. Wellington Management led the Series D investment.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-23T19:14:37Z",
+      "url": "https://siliconangle.com/2025/07/23/compliance-startup-vanta-valued-4-15b-new-150m-round/"
+    },
+    {
+      "id": 52,
+      "title": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
+      "summary": "Amazon's AI-powered AWS is expected to drive positive Q2 earnings, thanks to efficiency gains and consumer demand.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T19:14:16Z",
+      "url": "https://finance.yahoo.com/news/amazons-ai-powered-aws-efficiency-191416999.html"
+    },
+    {
+      "id": 53,
+      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas - AP News",
+      "summary": "Trump's new AI plan draws heavily on ideas from Silicon Valley industry, aiming to pull back restraints on tech and target 'woke AI'",
+      "source": "Slashdot.org",
+      "category": "policy",
+      "timestamp": "2025-07-23T19:12:27Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178449232"
+    },
+    {
+      "id": 54,
+      "title": "Google Photos Gets a New Tool That Turns Photos into Videos",
+      "summary": "Google Photos introduces a new tool that allows users to Remix photos and create video clips.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:10:56Z",
+      "url": "https://www.androidheadlines.com/2025/07/google-photos-turn-your-photos-into-videos-remix.html"
+    },
+    {
+      "id": 55,
+      "title": "Why Opendoor (OPEN) Shares Are Plunging Today",
+      "summary": "Shares of Opendoor (OPEN) fell 23.5% as the stock plunged after a recent surge driven.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-23T19:10:49Z",
+      "url": "https://finance.yahoo.com/news/why-opendoor-open-shares-plunging-191049757.html"
+    },
+    {
+      "id": 56,
+      "title": "Trump’s AI action plan: Why it ‘answers a call’ in one area and falls short in another",
+      "summary": "President Trump unveils an action plan for artificial intelligence in Washington, D.C. as part of AI Day, addressing the growing field and its importance. The plan is seen as answering a call in one area but falling short in others.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:10:45Z",
+      "url": "https://biztoc.com/x/29c48b51e9ff1da4"
+    },
+    {
+      "id": 57,
+      "title": "Podcast, policy, and pomp in DC at the surreal celebration of Trump’s AI Action Plan",
+      "summary": "David Sacks, Trump’s AI czar, shared the stage with his cohosts from the “All-in Podcast” on Wednesday to discuss the new 28-page AI Action Plan.",
+      "source": "Fortune",
+      "category": "applications",
+      "timestamp": "2025-07-23T19:10:39Z",
+      "url": "https://fortune.com/2025/07/23/all-in-podcast-trump-ai-action-plan-david-sacks-jd-vance-jensen-huang/"
+    },
+    {
+      "id": 58,
+      "title": "Amazon EC2 P6-B200 instances are now available in US East (N. Virginia)",
+      "summary": "Amazon EC2 P6-B200 instances with NVIDIA Blackwell GPUs now available in US East (N. Virginia) region, offering up to 2x performance for AI training and inference.",
+      "source": "Amazon.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T19:10:12Z",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/"
+    },
+    {
+      "id": 59,
+      "title": "Spotify Takes Down Fake AI Song Credited to Famous Country Singer Who's Been Dead for Years",
+      "summary": "Spotify removes fake AI-generated song credited to deceased country singer Blaze Foley, highlighting ethical concerns around using AI to create music without proper authorization or consent.",
+      "source": "CNET",
+      "category": "ethics",
+      "timestamp": "2025-07-23T19:10:09Z",
+      "url": "https://www.cnet.com/tech/services-and-software/spotify-takes-down-fake-ai-song-credited-to-famous-country-singer-whos-been-dead-for-years/"
+    },
+    {
+      "id": 60,
+      "title": "AI industry's size obsession is killing ROI, engineer argues",
+      "summary": "AI engineer argues that the obsession with the size of AI models is reducing ROI, as they are error-prone and expensive, leading to issues such as hallucinations.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-23T19:09:58Z",
+      "url": "https://biztoc.com/x/20fa8c83e4c4aa84"
+    },
     {
       "id": 51,
       "title": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization",
@@ -360,96 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T17:41:41Z",
       "url": "https://fortune.com/2025/07/23/kids-use-chatgpt-to-cheat-break-up-with-their-girlfriends-addiction/"
-    },
-    {
-      "id": 54,
-      "title": "stackgpt added to PyPI",
-      "summary": "stackgpt, a StackOverflow-style GPT assistant, has been added to PyPI, allowing users to access AI assistance for their terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:41:36Z",
-      "url": "https://pypi.org/project/stackgpt/"
-    },
-    {
-      "id": 55,
-      "title": "How CMOs Can Help The UN Meet Its Sustainable Development Goals",
-      "summary": "Today’s Forbes CMO newsletter explores how marketing leaders can leverage their brands to help the UN meet its Sustainable Development Goals.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:41:26Z",
-      "url": "https://www.forbes.com/sites/cmo/2025/07/23/how-cmos-can-help-the-un-meet-its-sustainable-development-goals/"
-    },
-    {
-      "id": 56,
-      "title": "AI Daily: White House unveils AI Action Plan",
-      "summary": "White House unveils AI Action Plan",
-      "source": "Thefly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:41:25Z",
-      "url": "https://thefly.com/permalinks/entry.php/id4165167/$PRIVATE;GOOGL;GOOG;AMZN;NVDA;AMD;INTC;MSFT-AI-Daily-White-House-unveils-AI-Action-Plan"
-    },
-    {
-      "id": 57,
-      "title": "Proton launches privacy-respecting encrypted AI assistant Lumo",
-      "summary": "Proton has launched a new privacy-respecting encrypted AI assistant called Lumo that does not log user conversations or use their prompts for training.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:41:11Z",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/"
-    },
-    {
-      "id": 58,
-      "title": "This Former AI Underdog Might Be the Next Nvidia",
-      "summary": "Former AI underdog potentially becoming the next Nvidia, get market information quickly and accurately with Barchart Plus.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-23T17:41:03Z",
-      "url": "https://biztoc.com/x/ce6de2fbc27e886c"
-    },
-    {
-      "id": 59,
-      "title": "White House unveils U.S. strategic plan on AI. Here's what it includes",
-      "summary": "White House unveils U.S. strategic plan on AI, including an Action Plan to advance artificial intelligence innovation and infrastructure.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:40:37Z",
-      "url": "https://biztoc.com/x/89de6d9492d9e459"
-    },
-    {
-      "id": 60,
-      "title": "Why Stephen Colbert's Higher-Rated 'Late Show' Loses Money While Jimmy Fallon's Does Not",
-      "summary": "Word is that Stephen Colbert's agent knew back in late June that The Late Show was going to be canceled but decided not to tell Colbert until after he returned from vacation.",
-      "source": "Pajiba.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T17:39:59Z",
-      "url": "https://www.pajiba.com/tv_reviews/why-stephen-colberts-late-show-loses-money-while-jimmy-fallons-does-not.php"
-    },
-    {
-      "id": 51,
-      "title": "Here's How to Hide AI-Generated Images in Search Results in DuckDuckGo",
-      "summary": "AI-generated images can be hidden in search results using a tool on DuckDuckGo, reducing the prevalence of such images.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:14:38Z",
-      "url": "https://www.cnet.com/tech/services-and-software/heres-how-to-hide-ai-generated-images-in-search-results-in-duckduckgo/"
-    },
-    {
-      "id": 52,
-      "title": "WatchOS 26 public beta could be coming soon - here are the features you'll get",
-      "summary": "WatchOS 26 public beta is expected soon, bringing major updates to Apple Watch for free. The standout features of the latest version include new functionalities for users.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-23T17:14:32Z",
-      "url": "https://www.zdnet.com/article/watchos-26-public-beta-could-be-coming-soon-here-are-the-features-youll-get/"
-    },
-    {
-      "id": 53,
-      "title": "TechPowerUp GPU-Z 2.67.0",
-      "summary": "TechPowerUp GPU-Z 2.67.0 is a lightweight system utility that offers important details about your video card and graphics processor.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-23T17:14:02Z",
-      "url": "https://www.neowin.net/software/techpowerup-gpu-z-2670/"
     }
   ]
 }
