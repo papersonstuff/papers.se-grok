@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-24T20:16:55.245Z",
+  "lastUpdate": "2025-07-24T20:43:08.020Z",
   "items": [
+    {
+      "id": 51,
+      "title": "gradio 5.38.1",
+      "summary": "Gradio 5.38.1 is a Python library designed to simplify the interaction with pre-trained machine learning models.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:41:25Z",
+      "url": "https://pypi.org/project/gradio/5.38.1/"
+    },
+    {
+      "id": 52,
+      "title": "Fox News Politics Newsletter: Brennan pushed reports Putin preferred Trump in 2016",
+      "summary": "Former CIA Director John Brennan reportedly pushed for reports suggesting that Russian President Vladimir Putin preferred Trump in the 2016 election to be made public.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:41:06Z",
+      "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-brennan-pushed-reports-putin-preferred-trump-2016"
+    },
+    {
+      "id": 53,
+      "title": "Michele Mulroney to Become Next WGA West President After Running Unopposed",
+      "summary": "Michele Mulroney will become the next WGA West President after running unopposed in the upcoming elections.",
+      "source": "TheWrap",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:40:29Z",
+      "url": "https://www.thewrap.com/wga-west-president-michele-mulroney/"
+    },
+    {
+      "id": 54,
+      "title": "Plymouth man gets 9 years of federal prison for ‘nightmare’ cyberstalking campaigns",
+      "summary": "Plymouth man sentenced to 9 years in federal prison for cyberstalking multiple women, causing significant distress and trauma",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-23T20:40:28Z",
+      "url": "https://www.bostonherald.com/2025/07/23/plymouth-man-gets-9-years-of-federal-prison-for-nightmare-cyberstalking-campaigns/"
+    },
+    {
+      "id": 55,
+      "title": "AI's not the only hot tech trend - check out the year's other 11, according to McKinsey",
+      "summary": "AI, especially agents, are at the top of the list of hot tech trends for the year as reported by McKinsey.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:40:14Z",
+      "url": "https://www.zdnet.com/article/ais-not-the-only-hot-tech-trend-check-out-the-years-other-11-according-to-mckinsey/"
+    },
+    {
+      "id": 56,
+      "title": "Alphabet exceeds expectations, raises spending for the year, sees huge growth in cloud revenue in Q2 2025 earnings",
+      "summary": "Alphabet exceeds expectations in Q2 2025 earnings, raises spending for the year and sees significant growth in cloud revenue.",
+      "source": "Android Central",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:39:52Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/alphabet-exceeds-expectations-raises-spending-for-the-year-sees-huge-growth-in-cloud-revenue-in-q2-2025-earnings"
+    },
+    {
+      "id": 57,
+      "title": "Alphabet Shares Slide After Big Upward Revision To CapEx Outlook; Search Revenues Soar",
+      "summary": "Alphabet's shares slid after a big upward revision to CapEx outlook, despite search revenues soaring. Investors are concerned about Alphabet's ability to compete in the AI boom.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:39:08Z",
+      "url": "https://biztoc.com/x/7053ad7736cdcf35"
+    },
+    {
+      "id": 58,
+      "title": "youtube-ai-resume 0.0.10",
+      "summary": "youtube-ai-resume 0.0.10 is a CLI and library that can extract YouTube captions and provide an OpenAI-generated summary of the video content.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T20:38:09Z",
+      "url": "https://pypi.org/project/youtube-ai-resume/0.0.10/"
+    },
+    {
+      "id": 59,
+      "title": "Introducing Dreami: The First Self-Improving Simulated Conscious AI",
+      "summary": "Dreami is the first self-improving simulated conscious AI developed by one individual without funding in just 9 months, showcasing a significant innovation in the AI field.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:37:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120661/0/en/Introducing-Dreami-The-First-Self-Improving-Simulated-Conscious-AI.html"
+    },
+    {
+      "id": 60,
+      "title": "Tech And Society’s Faustian Bargain",
+      "summary": "Tech industry has surpassed finance as the most powerful industry in the world, with significant implications for society.",
+      "source": "Battellemedia.com",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:36:47Z",
+      "url": "https://battellemedia.com/archives/2025/07/technology-and-societys-faustian-bargain"
+    },
+    {
+      "id": 61,
+      "title": "Google earnings crushed forecasts — but a $10 billion capex increase is spooking Wall Street",
+      "summary": "Google's earnings exceeded expectations, but a $10 billion increase in capex spending has raised concerns about AI costs on Wall Street.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-23T20:36:30Z",
+      "url": "https://www.businessinsider.com/google-earnings-alphabet-crushes-q2-forecasts-capex-spike-rattles-investors-2025-7"
+    },
+    {
+      "id": 62,
+      "title": "EarFun Wave Life",
+      "summary": "EarFun Wave Life headphones offer a bass-heavy sound at a more affordable price point compared to the Wave Pro model, by making certain adjustments like using different drivers and reducing battery capacity.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:36:13Z",
+      "url": "https://uk.pcmag.com/headphones/159275/earfun-wave-life"
+    },
+    {
+      "id": 63,
+      "title": "EarFun Wave Life",
+      "summary": "EarFun Wave Life headphones offer a bass-heavy sound at a more affordable price compared to the Wave Pro model, incorporating design changes and lower-end features.",
+      "source": "PCMag.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T20:36:13Z",
+      "url": "https://me.pcmag.com/en/headphones/31370/earfun-wave-life"
+    },
     {
       "id": 51,
       "title": "ServiceNow CEO on big earnings beat: We are rocking",
@@ -333,122 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T19:22:49Z",
       "url": "https://www.digitaljournal.com/tech-science/treegress-ai-testing-on-autopilot-for-modern-teams/article"
-    },
-    {
-      "id": 57,
-      "title": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
-      "summary": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T19:21:37Z",
-      "url": "https://biztoc.com/x/63d5f2f02e80d811"
-    },
-    {
-      "id": 58,
-      "title": "Google Brings Photo-to-Video Capabilities to YouTube Shorts",
-      "summary": "Google has added a new photo-to-video feature to YouTube Shorts and Google Photos using AI to turn photos into videos.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:21:27Z",
-      "url": "https://www.androidheadlines.com/2025/07/youtube-shorts-photo-to-video-tool-support.html"
-    },
-    {
-      "id": 59,
-      "title": "Podcast, policy, and pomp in DC at the surreal celebration of Trump’s AI Action Plan",
-      "summary": "Podcast venture capitalists support Trump, one is later appointed as AI and crypto czar. Trump administration unveils AI policy plan with Silicon Valley alliance.",
-      "source": "Biztoc.com",
-      "timestamp": "2025-07-23T19:21:09Z",
-      "url": "https://biztoc.com/x/bf1849dd95cdacb5"
-    },
-    {
-      "id": 60,
-      "title": "Show HN: UGMM-NN – A FF neural network using univariate Gaussian mixture neurons",
-      "summary": "UGMM-NN is a feed-forward neural network that utilizes univariate Gaussian mixture neurons. The project can be found on GitHub and was shared on Hacker News with 1 point and 0 comments.",
-      "source": "Github.com",
-      "category": "research",
-      "timestamp": "2025-07-23T19:20:51Z",
-      "url": "https://github.com/zakeria/uGMM"
-    },
-    {
-      "id": 61,
-      "title": "palimpzest 0.7.20",
-      "summary": "palimpzest 0.7.20 is a system that allows users to process AI-powered analytical queries by defining them in a declarative language.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:20:04Z",
-      "url": "https://pypi.org/project/palimpzest/0.7.20/"
-    },
-    {
-      "id": 62,
-      "title": "Save Up to $500 Off Alienware Area-51 Gaming Laptops: Curvy Design, More Power, Better Cooling",
-      "summary": "Save up to $500 off Alienware Area-51 gaming laptops, featuring a curvy design, more power, and better cooling. The new models are the most powerful and sleek gaming laptops available.",
-      "source": "IGN",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:20:00Z",
-      "url": "https://www.ign.com/articles/best-alienware-area-51-gaming-laptop-deals-dell-back-to-school-sale"
-    },
-    {
-      "id": 63,
-      "title": "AI Overviews lead to fewer clicked links, study finds as web traffic falls – Google disagrees",
-      "summary": "AI Overviews lead to fewer clicked links, study finds as web traffic falls – Google disagrees - Google Search has been going all-in on AI over the past few years, but it seems like that’s not really benefitting anyone but the user as a new study shows that searches with AI Overviews are more likely to see fewer clicked links out of Google, and also fewe…",
-      "source": "9to5google.com",
-      "category": "research",
-      "timestamp": "2025-07-23T19:20:00Z",
-      "url": "http://9to5google.com/2025/07/23/google-ai-overview-link-click-study/"
-    },
-    {
-      "id": 64,
-      "title": "ai-code-review 3.1.2",
-      "summary": "ai-code-review 3.1.2 is an AI code review tool that can work with any language model provider, detecting issues in GitHub pull requests or local changes without vendor lock-in.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:19:34Z",
-      "url": "https://pypi.org/project/ai-code-review/3.1.2/"
-    },
-    {
-      "id": 65,
-      "title": "ai-cr 3.1.2",
-      "summary": "AI-cr 3.1.2 is an AI code review tool that is able to work with any language model provider, detecting issues in GitHub pull requests or local changes instantly and reliably without being locked in to a specific vendor.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T19:19:31Z",
-      "url": "https://pypi.org/project/ai-cr/3.1.2/"
-    },
-    {
-      "id": 66,
-      "title": "github-code-review 3.1.2",
-      "summary": "github-code-review 3.1.2 is an AI code review tool that can detect issues in GitHub pull requests or local changes, working with any language model provider and without vendor lock-in.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T19:19:30Z",
-      "url": "https://pypi.org/project/github-code-review/3.1.2/"
-    },
-    {
-      "id": 67,
-      "title": "Trump set to reveal AI action plans as experts warn about \"fraud crisis\"",
-      "summary": "Trump to reveal AI action plans at summit while experts warn of 'fraud crisis'",
-      "source": "CBS News",
-      "category": "ethics",
-      "timestamp": "2025-07-23T19:18:00Z",
-      "url": "https://www.cbsnews.com/video/trump-set-to-reveal-ai-action-plans-as-experts-warn-about-fraud-crisis/"
-    },
-    {
-      "id": 51,
-      "title": "Compliance startup Vanta valued at $4.15B in new $150M round",
-      "summary": "Compliance startup Vanta valued at $4.15B in new $150M round - Vanta Inc., a startup that helps companies comply with privacy and cybersecurity regulations, has raised $150 million in fresh funding. Wellington Management led the Series D investment.",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-23T19:14:37Z",
-      "url": "https://siliconangle.com/2025/07/23/compliance-startup-vanta-valued-4-15b-new-150m-round/"
-    },
-    {
-      "id": 52,
-      "title": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook",
-      "summary": "Amazon's AI-powered AWS is expected to drive positive Q2 earnings, thanks to efficiency gains and consumer demand.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T19:14:16Z",
-      "url": "https://finance.yahoo.com/news/amazons-ai-powered-aws-efficiency-191416999.html"
     }
   ]
 }
