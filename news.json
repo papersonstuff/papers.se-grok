@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-24T13:25:40.298Z",
+  "lastUpdate": "2025-07-24T13:54:57.106Z",
   "items": [
+    {
+      "id": 51,
+      "title": "I tested an AI running coach on my Samsung smartwatch - and it humbled me (for the better)",
+      "summary": "I tested an AI running coach on my Samsung smartwatch, which humbled me for the better. The new Running Coach feature on the Galaxy Watch 8 is designed to help users reach the finish line, especially for those training for their first marathon.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:54:00Z",
+      "url": "https://www.zdnet.com/article/i-tested-an-ai-running-coach-on-my-samsung-smartwatch-and-it-humbled-me-for-the-better/"
+    },
+    {
+      "id": 52,
+      "title": "Infosys’s strong showing not enough to power Indian IT in slow first quarter",
+      "summary": "Infosys has shown strong growth in the first quarter, outperforming expectations. However, the Indian IT services sector remains cautious due to slow overall growth.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:53:49Z",
+      "url": "https://www.livemint.com/companies/company-results/infosys-q1-results-strong-indian-it-slowdown-11753273907517.html"
+    },
+    {
+      "id": 53,
+      "title": "Dave Stokes: Write PostgreSQL Queries in English?",
+      "summary": "Dave Stokes demonstrates how to write PostgreSQL queries in English using an AI and DBeaver in an upcoming webinar on July 24th.",
+      "source": "Blogspot.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:53:00Z",
+      "url": "https://stokerpostgresql.blogspot.com/2025/07/write-postgresql-queries-in-english.html"
+    },
+    {
+      "id": 54,
+      "title": "Analyst Explains How Microsoft (MSFT) Stock Can Reach $600",
+      "summary": "Analyst explains how Microsoft stock can reach $600, Oppenheimer analyst discusses Microsoft",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:52:14Z",
+      "url": "https://finance.yahoo.com/news/analyst-explains-microsoft-msft-stock-135214236.html"
+    },
+    {
+      "id": 55,
+      "title": "Mara to raise up to $1B for Bitcoin and operations via debt sale",
+      "summary": "Mara Holdings plans to raise up to $1 billion through debt sale to fund Bitcoin purchases, reduce debt, and support operations.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:51:33Z",
+      "url": "https://cointelegraph.com/news/mara-plans-1b-convertible-note-offering-to-fuel-bitcoin-strategy"
+    },
+    {
+      "id": 56,
+      "title": "AI trade takes center stage as Big Tech earnings season kicks off",
+      "summary": "AI trade takes center stage as Big Tech earnings season kicks off with Google parent Alphabet reporting earnings today.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:51:09Z",
+      "url": "https://finance.yahoo.com/news/ai-trade-takes-center-stage-as-big-tech-earnings-season-kicks-off-135109560.html"
+    },
+    {
+      "id": 57,
+      "title": "Buyers wield more power in housing market, especially in Sun Belt, with contract cancellations on the rise",
+      "summary": "Buyers have more power in the housing market, especially in the Sun Belt, with contract cancellations increasing. Despite this trend, home prices remain at record highs.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:50:43Z",
+      "url": "https://fortune.com/2025/07/23/is-it-good-time-to-buy-house-cancellations-increase-housing-market-texas-florida/"
+    },
+    {
+      "id": 58,
+      "title": "Only 50 £899 RATE TICKETS remaining for Content London 2025 – book now and save £500 on the full delegate price",
+      "summary": "Only 50 £899 RATE TICKETS remaining for Content London 2025 – book now and save £500 on the full delegate price. There are only 50 EARLYBIRD TICKETS left for Content London 2025, priced just £899 and saving 36% on the full price for the three-day event.",
+      "source": "C21media.net",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:50:27Z",
+      "url": "https://www.c21media.net/department/marketing/only-50-899-rate-tickets-remaining-for-content-london-2025-book-now-and-save-500-on-the-full-delegate-price/"
+    },
+    {
+      "id": 59,
+      "title": "Dan Niles Explains Why He Turned Bullish on NVIDIA (NVDA)",
+      "summary": "Dan Niles explains why he turned bullish on NVIDIA, one of the 10 buzzing stocks everyone is talking about in the AI sector.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-23T13:50:22Z",
+      "url": "https://finance.yahoo.com/news/dan-niles-explains-why-turned-135022690.html"
+    },
+    {
+      "id": 60,
+      "title": "Poland Data Center Market Investment Report 2025-2030 | Growth Opportunities in IT, Electrical, and Mechanical Infrastructure, Cooling Systems, General Construction, and Tier Standards",
+      "summary": "The Poland Data Center Market is expected to grow from USD 1.16 Billion in 2024 to USD 2.78 Billion by 2030, with a CAGR of 15.68%. Strategic collaborations in AI, such as the 2025 MoU with Google, are driving this growth.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120343/28124/en/Poland-Data-Center-Market-Investment-Report-2025-2030-Growth-Opportunities-in-IT-Electrical-and-Mechanical-Infrastructure-Cooling-Systems-General-Construction-and-Tier-Standards.html"
+    },
+    {
+      "id": 61,
+      "title": "Yes, your Android phone let Gemini slip in — here's how to take back control",
+      "summary": "Your Android phone allowed Google's AI assistant, Gemini, to gain access to sensitive information like WhatsApp messages and phone calls without your consent, raising concerns about privacy and data security in the future.",
+      "source": "Gadgethacks.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T13:49:41Z",
+      "url": "https://android.gadgethacks.com/how-to/yes-your-android-phone-let-gemini-slip-in-heres-how-to-take-back-control/"
+    },
+    {
+      "id": 62,
+      "title": "The Race Has Changed. States Need A Talent Plan That Can Keep Up.",
+      "summary": "States need a talent plan to navigate economic disruption with aligned systems designed for success in the changing landscape.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:49:31Z",
+      "url": "https://www.forbes.com/sites/mattgandal/2025/07/23/the-race-has-changed-states-need-a-talent-plan-that-can-keep-up/"
+    },
+    {
+      "id": 63,
+      "title": "AI chatbots can boost public health in Africa – why language inclusion matters",
+      "summary": "AI chatbots are being used to improve public health in Africa by adapting language technologies. However, many of these tools are limited in their language options or never make it past the lab.",
+      "source": "The Conversation Africa",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:49:28Z",
+      "url": "https://theconversation.com/ai-chatbots-can-boost-public-health-in-africa-why-language-inclusion-matters-260861"
+    },
+    {
+      "id": 64,
+      "title": "McKinsey bars China practice from generative AI work amid geopolitical tensions",
+      "summary": "McKinsey bars China practice from generative AI work amid geopolitical tensions, following scrutiny from Washington over US companies' involvement in sensitive Chinese sectors.",
+      "source": "The Irish Times",
+      "category": "ethics",
+      "timestamp": "2025-07-23T13:49:27Z",
+      "url": "https://www.irishtimes.com/business/2025/07/23/mckinsey-bars-china-practice-from-generative-ai-work-amid-geopolitical-tensions/"
+    },
+    {
+      "id": 65,
+      "title": "I'm an engineer who got a master's in financial technology. It was one of the best decisions I've ever made.",
+      "summary": "Christian Hollar, a recent graduate of Duke's Master of Engineering in Fintech program, describes the decision as one of the best he's ever made, highlighting growth opportunities and the ability to keep his skills sharp in the field.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:49:13Z",
+      "url": "https://www.businessinsider.com/fintech-masters-degree-engineering-graduate-school-growing-career-2025-7"
+    },
+    {
+      "id": 66,
+      "title": "inference-sdk 0.51.7",
+      "summary": "With Roboflow Inference SDK 0.51.7, users can deploy computer vision models to various devices and environments without prior knowledge of machine learning or device-specific deployment.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:49:00Z",
+      "url": "https://pypi.org/project/inference-sdk/0.51.7/"
+    },
+    {
+      "id": 67,
+      "title": "Infosys quarterly profit dips; large deals offer cushion and room for optimism",
+      "summary": "Infosys quarterly profit dips but large deals provide cushion, revenue growth reported despite challenges, plans to hire freshers and maintain operating margin.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-23T13:48:59Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/infosys-quarterly-profit-dips-large-deals-offer-cushion-and-room-for-optimism/article69846643.ece"
+    },
+    {
+      "id": 68,
+      "title": "inference-cpu 0.51.7",
+      "summary": "Roboflow Inference allows for easy deployment of computer vision models to various devices and environments without requiring prior knowledge of machine learning or device-specific deployment.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:48:56Z",
+      "url": "https://pypi.org/project/inference-cpu/0.51.7/"
+    },
+    {
+      "id": 69,
+      "title": "Poirier Exit Shakes Up UFC Rankings",
+      "summary": "The latest UFC rankings update sees changes after the UFC 318 PPV event, including Patricio Pitbull debuting, Kevin Holland departing, and Dustin Poirier shaking up the lightweight leaderboard with his retirement.",
+      "source": "MMA Mania",
+      "category": "applications",
+      "timestamp": "2025-07-23T13:48:51Z",
+      "url": "https://www.mmamania.com/2025/7/23/24471723/latest-ufc-318-rankings-update-patricio-pitbull-debuts-kevin-holland-departs-dustin-poirier-exit-mma"
+    },
+    {
+      "id": 70,
+      "title": "Fintech engineering is growing. The job can come with high salaries and energizing work.",
+      "summary": "Fintech engineering is a fast-growing field with high salaries and innovative opportunities.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-23T13:48:39Z",
+      "url": "https://www.businessinsider.com/financial-technology-fintech-engineering-growing-career-2025-7"
+    },
     {
       "id": 51,
       "title": "FDA Issues Highest Risk Warning for Tofu Recall",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T12:30:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/23/3120217/0/en/NeuroOne-Receives-Notice-of-Allowance-for-Key-Patent-from-U-S-Patent-Trademark-Office.html"
-    },
-    {
-      "id": 62,
-      "title": "Finally: Tame Your Inbox with Gmail’s Latest Tool",
-      "summary": "Gmail users can now control email chaos with Google's Manage Subscriptions tool, offering a centralized dashboard to view and manage all subscriptions.",
-      "source": "TalkAndroid",
-      "category": "applications",
-      "timestamp": "2025-07-23T12:30:00Z",
-      "url": "https://www.talkandroid.com/512489-google-gmail-unsubscribe-email-tool/"
-    },
-    {
-      "id": 63,
-      "title": "Lofty Fortifies Its Commitment to Excellence in Supporting a Growing Customer Base",
-      "summary": "Lofty invests in customer service offerings, training, and team to support its growing customer base of over 70,000 agents.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-23T12:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120214/0/en/Lofty-Fortifies-Its-Commitment-to-Excellence-in-Supporting-a-Growing-Customer-Base.html"
-    },
-    {
-      "id": 64,
-      "title": "JFrog's Paul Davis on Securing AI/ML Models and Supply Chain Blind Spots Ahead of Black Hat USA 2025",
-      "summary": "JFrog's Paul Davis discusses securing AI/ML models and supply chain blind spots ahead of Black Hat USA 2025 by utilizing the company's Software Supply Chain Platform for end-to-end DevSecOps and MLOps security.",
-      "source": "Vmblog.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T12:30:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/23/jfrog-s-paul-davis-on-securing-ai-ml-models-and-supply-chain-blind-spots-ahead-of-black-hat-usa-2025.aspx"
-    },
-    {
-      "id": 65,
-      "title": "From tech podcasts to policy: President Donald Trump’s new AI plan leans heavily on Silicon Valley industry ideas",
-      "summary": "President Donald Trump's new AI plan is heavily influenced by the ideas of Silicon Valley industry leaders, reflecting an agenda that started on tech podcasts and is now being implemented into U.S. policy.",
-      "source": "Biztoc.com",
-      "category": "policy",
-      "timestamp": "2025-07-23T12:29:04Z",
-      "url": "https://biztoc.com/x/eb7216dc6f8dbd67"
-    },
-    {
-      "id": 66,
-      "title": "Dubai launches world’s first icon classification for Human–Machine Collaboration for AI transparency",
-      "summary": "Dubai introduces world's first icon classification for Human-Machine Collaboration to increase transparency in AI, addressing the challenge of identifying human vs algorithm-created content in various forms.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T12:29:02Z",
-      "url": "https://biztoc.com/x/a5b151515cc4e561"
-    },
-    {
-      "id": 67,
-      "title": "Should You Consider Adding Guardian Pharmacy Services (GRDN) to Your Portfolio?",
-      "summary": "Aristotle Capital Boston, LLC released its 'Small Cap Equity Strategy' second quarter 2025 investor letter, discussing the potential addition of Guardian Pharmacy Services (GRDN) to investment portfolios.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T12:28:47Z",
-      "url": "https://finance.yahoo.com/news/consider-adding-guardian-pharmacy-services-122847232.html"
-    },
-    {
-      "id": 68,
-      "title": "Plane Passenger Realizes Rental Car Mistake, But There's a Bigger Problem",
-      "summary": "Plane passenger realizes rental car mistake due to AI-generated voice",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T12:28:40Z",
-      "url": "https://biztoc.com/x/6df9699835a8cbc1"
-    },
-    {
-      "id": 69,
-      "title": "9 programming tasks you shouldn't hand off to AI - and why",
-      "summary": "9 programming tasks you shouldn't hand off to AI - and why - Before you offload your codebase to ChatGPT, read this. From security flaws to copyright nightmares, here's what the AI hype machine isn't telling you.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-23T12:28:39Z",
-      "url": "https://www.zdnet.com/article/9-programming-tasks-you-shouldnt-hand-off-to-ai-and-why/"
-    },
-    {
-      "id": 70,
-      "title": "Global Guest Satisfaction Hits Record Highs in Q2 2025",
-      "summary": "Global Guest Satisfaction Hits Record Highs in Q2 2025 with a new record of 86.9% globally, driven by strong performance in North America, the Middle East, and Oceania.",
-      "source": "Hospitality Net",
-      "category": "economy",
-      "timestamp": "2025-07-23T12:26:22Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128270.html"
-    },
-    {
-      "id": 51,
-      "title": "A $2,000 foldable iPhone can take the heat off Tim Cook",
-      "summary": "A $2,000 foldable iPhone could potentially boost Apple's market presence in the US and spur a significant upgrade cycle, helping to alleviate concerns over slow AI adoption. Despite Samsung's advances in foldable phone technology, investors remain optimistic about Apple's future.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-23T11:49:42Z",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/a-2000-foldable-iphone-can-take-the-heat-off-tim-cook/articleshow/122859554.cms"
-    },
-    {
-      "id": 52,
-      "title": "freeeにおけるAIコーディングエージェント全社導入とセキュリティ対策",
-      "summary": "Freee introduces AI coding agents company-wide and enhances security measures. Security experts raise concerns about the safety of 'GitHub Copilot' when implemented throughout the entire company.",
-      "source": "Speakerdeck.com",
-      "category": "research",
-      "timestamp": "2025-07-23T11:49:31Z",
-      "url": "https://speakerdeck.com/hikaruegashira/freeeniokeruaikodeinguezientoquan-she-dao-ru-tosekiyuriteidui-ce"
-    },
-    {
-      "id": 53,
-      "title": "AI-Powered Digital Fashion Solutions - Pixelz x Le Troch Tap Real Models for 'Digital Twins' (TrendHunter.com)",
-      "summary": "Pixelz x Le Troch introduce 'Digital Twins,' an AI-powered fashion production solution for generating campaign-quality imagery quickly and at scale.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T11:49:00Z",
-      "url": "https://www.trendhunter.com/trends/pixelz-x-le-troch"
-    },
-    {
-      "id": 54,
-      "title": "Booking.com Releases The Global AI Sentiment Report",
-      "summary": "Booking.com released The Global AI Sentiment Report, exploring how consumers are using, trusting, and responding to AI in everyday life and travel based on insights from over 37,000 consumers across 33 markets.",
-      "source": "Hospitality Net",
-      "category": "research",
-      "timestamp": "2025-07-23T11:48:23Z",
-      "url": "https://www.hospitalitynet.org/news/4128268.html"
-    },
-    {
-      "id": 55,
-      "title": "Brand new, ultra-affordable Nothing CMF Watch 3 Pro lands on Amazon with a launch deal at $79",
-      "summary": "Brand new, ultra-affordable Nothing CMF Watch 3 Pro lands on Amazon with a launch deal at $79. Regularly $99, you can now land the ultra-affordable wearable down at $79 shipped courtesy of Amazon.",
-      "source": "9to5Toys",
-      "category": "startups",
-      "timestamp": "2025-07-23T11:48:11Z",
-      "url": "http://9to5toys.com/2025/07/23/brand-new-ultra-affordable-nothing-cmf-watch-3-pro-lands-on-amazon-with-a-launch-deal-at-79/"
-    },
-    {
-      "id": 56,
-      "title": "Do You Believe in the Growth Potential of Amgen (AMGN)?",
-      "summary": "Aristotle Capital Management, LLC released its ‘Value Equity Strategy’ second quarter 2025 investor letter, discussing the growth potential of Amgen (AMGN).",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T11:46:39Z",
-      "url": "https://finance.yahoo.com/news/believe-growth-potential-amgen-amgn-114639468.html"
-    },
-    {
-      "id": 57,
-      "title": "Salesforce rewires Slack for agentic AI, enterprise search",
-      "summary": "Salesforce integrates agentic AI and enterprise search into Slack, preparing for Dreamforce. The chief product officer addresses data sharing concerns outside of the Slack platform.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T11:46:00Z",
-      "url": "https://www.techtarget.com/searchcustomerexperience/news/366627965/Salesforce-rewires-Slack-for-agentic-AI-enterprise-search"
-    },
-    {
-      "id": 58,
-      "title": "It definitely looks like Ghislaine Maxwell will get pardoned by Donald Trump",
-      "summary": "It appears that Ghislaine Maxwell may be pardoned by Donald Trump, with Speaker of the House Mike Johnson abruptly halting votes and inquiries into the Jeffrey Epstein case. The ethical implications of potentially pardoning someone involved in such a high-profile case raise concerns.",
-      "source": "Celebitchy.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T11:45:27Z",
-      "url": "https://www.celebitchy.com/932388/it_definitely_looks_like_ghislaine_maxwell_will_get_a_pardoned_by_donald_trump/"
-    },
-    {
-      "id": 59,
-      "title": "Marketing Without Google: How AI Breaks The First Rule Of Visibility",
-      "summary": "With generative AI tools changing how people search, the way companies structure their marketing strategies, hire teams and allocate budget is changing.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T11:45:25Z",
-      "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2025/07/23/marketing-without-google-how-ai-is-breaking-the-first-rule-of-visibility/"
-    },
-    {
-      "id": 60,
-      "title": "The Seven Wonders Of AI: Welcome To The Algorithmic Civilization",
-      "summary": "The Seven Wonders of AI: Welcome To The Algorithmic Civilization - Ancient civilizations marveled at the Seven Wonders of the World, we're witnessing waves of awe brought on by AI, time will tell its impact on civilization as we know it.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T11:45:00Z",
-      "url": "https://www.forbes.com/sites/deandebiase/2025/07/23/the-seven-wonders-of-ai-welcome-to-the-algorithmic-civilization/"
-    },
-    {
-      "id": 61,
-      "title": "3 Entry-Level Remote AI Jobs That Pay $72,000+ In 2025",
-      "summary": "Looking for entry-level remote AI jobs in 2025 that pay $72,000+? Discover three options and learn how to secure these roles.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-23T11:45:00Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/23/entry-level-remote-ai-jobs/"
     }
   ]
 }
