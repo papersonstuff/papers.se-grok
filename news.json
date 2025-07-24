@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-24T10:48:10.889Z",
+  "lastUpdate": "2025-07-24T11:14:37.466Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Rivian to expand autonomous driving efforts in London",
+      "summary": "Rivian is expanding their autonomous driving efforts in London to tap into the city's AI engineering talent and support their team in Palo Alto, California.",
+      "source": "Just-auto.com",
+      "category": "research",
+      "timestamp": "2025-07-23T11:12:55Z",
+      "url": "https://www.just-auto.com/news/rivian-autonomous-driving-london/"
+    },
+    {
+      "id": 52,
+      "title": "Google advances Gemini with low-cost Flash-Lite 2.5",
+      "summary": "Google enhances Gemini with low-cost Flash-Lite 2.5, catering to businesses seeking performance, cost-effectiveness, and precision.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:12:00Z",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366627910/Google-advances-Gemini-with-low-cost-Flash-Lite-25-now-GA"
+    },
+    {
+      "id": 53,
+      "title": "Digital Realty Trust, Inc. (NYSE:DLR) Shares Sold by Kingsview Wealth Management LLC",
+      "summary": "Kingsview Wealth Management LLC decreased its holdings in Digital Realty Trust, Inc. by 37.4% in the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:11:28Z",
+      "url": "https://www.etfdailynews.com/2025/07/23/digital-realty-trust-inc-nysedlr-shares-sold-by-kingsview-wealth-management-llc/"
+    },
+    {
+      "id": 54,
+      "title": "Pony AI Races Toward Mass Production, Gen-7 Robotaxi Hits Beijing Streets",
+      "summary": "Pony AI's Gen-7 Robotaxi has begun road testing in Beijing, marking progress towards mass production of autonomous vehicles.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:11:15Z",
+      "url": "https://biztoc.com/x/b5c3bcd180f60b79"
+    },
+    {
+      "id": 55,
+      "title": "Mike Johnson Under Pressure Over Shutting Down House to Stop Epstein Vote",
+      "summary": "Mike Johnson faces pressure for shutting down House to prevent Epstein vote, raising ethical concerns about transparency and accountability in government proceedings.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-23T11:11:07Z",
+      "url": "https://biztoc.com/x/2585c48388fdf3a9"
+    },
+    {
+      "id": 56,
+      "title": "Publicly Traded DeFi Development Boosts Treasury Holdings To 999,999 SOL As Solana Reclaims $200",
+      "summary": "Publicly Traded DeFi Development boosts treasury holdings to 999,999 SOL as Solana reclaims $200.",
+      "source": "ZyCrypto",
+      "category": "economy",
+      "timestamp": "2025-07-23T11:10:55Z",
+      "url": "https://zycrypto.com/publicly-traded-defi-development-boosts-treasury-holdings-to-999999-sol-as-solana-reclaims-200/"
+    },
+    {
+      "id": 57,
+      "title": "Floodbase unveils real-time flood mapping technology in US",
+      "summary": "Floodbase unveils real-time flood mapping technology in US, providing up-to-date information on flooding for government bodies and insurance companies.",
+      "source": "Lifeinsuranceinternational.com",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:10:40Z",
+      "url": "https://www.lifeinsuranceinternational.com/news/floodbase-real-time-flood-mapping/"
+    },
+    {
+      "id": 58,
+      "title": "Galaxy S26 Edge Rumored To Feature A Bigger Battery Than The Galaxy S25 Edge While Sporting A Slimmer Chassis, As Samsung Could Shift To New Materials To Increase Capacity",
+      "summary": "Galaxy S26 Edge rumored to feature a bigger battery than the Galaxy S25 Edge while sporting a slimmer chassis, as Samsung could shift to new materials to increase capacity. Samsung took a unique approach to selling flagship smartphones with its Galaxy S25 Edge, its premium offering that tests the boundaries of how slim devices can get.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:10:21Z",
+      "url": "https://wccftech.com/galaxy-s26-edge-to-be-slimmer-than-galaxy-s25-edge-and-pack-a-bigger-battery/"
+    },
+    {
+      "id": 59,
+      "title": "Earth Fire Alliance Releases First Wildfire Images from FireSat Protoflight",
+      "summary": "Earth Fire Alliance releases groundbreaking wildfire imagery in partnership with Muon Space and Google Research, revolutionizing fire response with precision data and insights.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:08:07Z",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/earth-fire-alliance-releases-first-wildfire-images-from-firesat-protoflight"
+    },
+    {
+      "id": 60,
+      "title": "Do We Need A Separate Framework For GEO/AEO? Google Says Probably Not [Search Central Live Asia Pacific] via @sejournal, @TaylorDanRW",
+      "summary": "Google confirms that AI Overviews, Lens, and Circle to Search operate on the same infrastructure as traditional search, suggesting a separate framework for GEO/AEO may not be necessary.",
+      "source": "Search Engine Journal",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:08:06Z",
+      "url": "https://www.searchenginejournal.com/do-we-need-separate-framework-for-geo-aeo-google-says-not-search-central-live/551818/"
+    },
+    {
+      "id": 61,
+      "title": "This Tiny Gadget Should Be at the Heart of Every Smart, Energy-Saving Home",
+      "summary": "This Tiny Gadget Should Be at the Heart of Every Smart, Energy-Saving Home - As energy prices rise, a high-tech smart thermostat could help save you hundreds of dollars.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-23T11:08:00Z",
+      "url": "https://www.cnet.com/home/smart-home/features/tiny-gadget-at-the-heart-of-every-smart-energy-saving-home/"
+    },
+    {
+      "id": 62,
+      "title": "Un bus variopinto nelle strade di Peshawar",
+      "summary": "A colorful bus driving in the rain in Peshawar, Pakistan",
+      "source": "ANSA.it",
+      "category": "applications",
+      "timestamp": "2025-07-23T11:07:52Z",
+      "url": "https://www.ansa.it/sito/photogallery/curiosita/2025/07/23/un-bus-variopinto-nelle-strade-di-peshawar_f73b8990-b91a-4de6-8564-a3cf45d9292f.html"
+    },
     {
       "id": 51,
       "title": "How AI Automates Design Tokens in the Cloud",
@@ -342,114 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-23T09:17:37Z",
       "url": "https://www.phonearena.com/news/amazon-just-bought-the-50-wearable-that-never-stops-listening_id172547"
-    },
-    {
-      "id": 55,
-      "title": "Pew Research Confirms Google AI Overviews Is Eroding Web Ecosystem via @sejournal, @martinibuster",
-      "summary": "Research on actual users shows that only 1% of AI summaries result in a click to a website.",
-      "source": "Search Engine Journal",
-      "category": "research",
-      "timestamp": "2025-07-23T09:17:05Z",
-      "url": "https://www.searchenginejournal.com/pew-research-confirms-google-ai-overviews-is-eroding-web-ecosystem/551825/"
-    },
-    {
-      "id": 56,
-      "title": "repo-to-md 0.1.1",
-      "summary": "The repo-to-md 0.1.1 tool allows users to fetch git and GitHub repositories as markdown specifically for Large Language Models (LLM) and AI Agents, catering to the research community working on AI development.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-23T09:15:09Z",
-      "url": "https://pypi.org/project/repo-to-md/0.1.1/"
-    },
-    {
-      "id": 57,
-      "title": "CM Naidu vows to make Andhra No 1 in futuristic tech, innovation",
-      "summary": "CM Naidu vows to make Andhra No 1 in futuristic tech, innovation - Andhra Pradesh Chief Minister N Chandrababu Naidu has declared the state's ambition to lead in futuristic technologies like drones, electronics, and aerospace.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-23T09:14:40Z",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cm-naidu-vows-to-make-andhra-no-1-in-futuristic-tech-innovation/articleshow/122855874.cms"
-    },
-    {
-      "id": 58,
-      "title": "AI tracked down nearly 80,000 ‘ghost students’ trying to enroll in California colleges",
-      "summary": "AI was used to identify 'ghost students' attempting to enroll in California colleges, with an AI platform playing a key role in detecting education fraud.",
-      "source": "Fortune",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:13:00Z",
-      "url": "https://fortune.com/2025/07/23/fake-ghost-student-college-financial-aid-fraud-california/"
-    },
-    {
-      "id": 59,
-      "title": "Show HN: Best Rejected Papers",
-      "summary": "Show HN: Best Rejected Papers - OpenReview.net has been a mainstay of conference reviewing for some of the largest Machine Learning conferences for the past 7 years.",
-      "source": "Github.io",
-      "category": "research",
-      "timestamp": "2025-07-23T09:12:44Z",
-      "url": "https://deneutoy.github.io/best-rejected-papers/"
-    },
-    {
-      "id": 60,
-      "title": "Social Engagement Assistants - Popsy Alerts You to Reddit Threads Where You Can Promote Your Product (TrendHunter.com)",
-      "summary": "Popsy is an AI-driven tool that helps businesses identify promotional opportunities within Reddit discussions by continuously monitoring relevant subreddits and threads, alerting users when they can promote their product.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:11:05Z",
-      "url": "https://www.trendhunter.com/trends/popsy"
-    },
-    {
-      "id": 61,
-      "title": "SAP shares drop after it maintains outlook despite strong quarter",
-      "summary": "SAP shares drop after it maintains outlook despite strong quarter, with higher sales and earnings but no increase in full-year targets causing investor disappointment.",
-      "source": "CNA",
-      "category": "economy",
-      "timestamp": "2025-07-23T09:11:00Z",
-      "url": "https://www.channelnewsasia.com/business/sap-shares-drop-after-it-maintains-outlook-despite-strong-quarter-5253826"
-    },
-    {
-      "id": 62,
-      "title": "Fluence Platform: The FLT Token, Its Powerhouse Utility & Value Drivers",
-      "summary": "Fluence Platform's FLT Token aims to unlock compute resources for human innovation and security.",
-      "source": "Ambcrypto.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T09:10:07Z",
-      "url": "https://ambcrypto.com/fluence-platform-the-flt-token-its-powerhouse-utility-value-drivers/"
-    },
-    {
-      "id": 63,
-      "title": "Minister commits to safeguarding journalists' digital rights",
-      "summary": "Minister commits to safeguarding journalists' digital rights - Deputy Communication and Digital Affairs Minister Nezar Patria emphasized the government's commitment to protecting the rights of publishers.",
-      "source": "Antaranews.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T09:10:06Z",
-      "url": "https://en.antaranews.com/news/368337/minister-commits-to-safeguarding-journalists-digital-rights"
-    },
-    {
-      "id": 64,
-      "title": "Century Health, Nimbus Health curate EHR pulmonary disease datasets",
-      "summary": "Century Health and Nimbus Health are collaborating to create EHR datasets for pulmonary diseases like COPD and asthma, aiming to analyze disease progression and treatment through AI.",
-      "source": "Techtarget.com",
-      "category": "research",
-      "timestamp": "2025-07-23T09:10:00Z",
-      "url": "https://www.techtarget.com/healthtechanalytics/news/366627945/Century-Health-Nimbus-Health-curate-EHR-pulmonary-disease-datasets"
-    },
-    {
-      "id": 65,
-      "title": "Shark Tank's Kevin O'Leary Wants Stephen Colbert To Be Fired: 'Whack Him'",
-      "summary": "Shark Tank's Kevin O'Leary called for Stephen Colbert to be fired for insulting his employer, generated by AI. There may be inconsistencies in AI-generated content.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T09:09:44Z",
-      "url": "https://biztoc.com/x/6826dc535e85fef8"
-    },
-    {
-      "id": 51,
-      "title": "AI-Powered Numerology Insights - Stella Uses Numerology And AI To Deliver Personalized Life Guidance (TrendHunter.com)",
-      "summary": "Stella uses numerology and AI to deliver personalized life guidance based on an individual's name and birthdate.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-23T08:51:05Z",
-      "url": "https://www.trendhunter.com/trends/numerology-and-ai"
     }
   ]
 }
