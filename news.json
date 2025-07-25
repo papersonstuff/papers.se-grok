@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-25T19:30:17.735Z",
+  "lastUpdate": "2025-07-25T19:43:20.624Z",
   "items": [
+    {
+      "id": 51,
+      "title": "agent-cli 0.19.0",
+      "summary": "agent-cli 0.19.0 is a suite of AI-powered command-line tools designed for text correction, audio transcription, and voice assistance.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:42:18Z",
+      "url": "https://pypi.org/project/agent-cli/0.19.0/"
+    },
+    {
+      "id": 52,
+      "title": "When license plate readers get it wrong",
+      "summary": "Automated license plate reader technology used by law enforcement can sometimes make mistakes, leading to potential ethical concerns.",
+      "source": "CBS News",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:42:11Z",
+      "url": "https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/"
+    },
+    {
+      "id": 53,
+      "title": "Lyft Will Let Riders ‘Favorite’ or Block Drivers",
+      "summary": "Lyft is introducing a new feature that allows riders to 'favorite' drivers they appreciate and block the ones they don't, in an effort to improve rider-driver matching.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:40:48Z",
+      "url": "http://www.pymnts.com/news/ridesharing/2025/lyft-will-let-riders-favorite-or-block-drivers/"
+    },
+    {
+      "id": 54,
+      "title": "Telus Makes It Official: It’s the Network for Cogeco Wireless",
+      "summary": "Cogeco has officially entered the mobile market in Ontario and Quebec, using Telus' network. Telus is pleased to serve as the wholesale wireless network provider enabling Cogeco's entry.",
+      "source": "iPhone in Canada",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:40:42Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/24/telus-makes-it-official-its-the-network-for-cogeco-wireless/"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: Selling My AI App Builder",
+      "summary": "An AI app builder is being sold by the creator, as announced on Hacker News. No comments have been made yet.",
+      "source": "Buildwise.space",
+      "category": "startups",
+      "timestamp": "2025-07-24T19:39:25Z",
+      "url": "https://buildwise.space"
+    },
+    {
+      "id": 56,
+      "title": "AI Music Generators - Audio Muse Instantly Creates AI-Generated Music for Any Project (TrendHunter.com)",
+      "summary": "Audio Muse is a web-based tool that enables users to generate original background music using AI.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:39:05Z",
+      "url": "https://www.trendhunter.com/trends/audio-muse"
+    },
+    {
+      "id": 57,
+      "title": "TSMC’s 2nm Production Is Expected to Break Records, With Capacity Surpassing 3nm & Soaring Demand Driven by Massive Interest From Big Tech",
+      "summary": "TSMC's 2nm process is expected to see massive adoption from the tech industry, with capacity surpassing 3nm and soaring demand driven by big tech. It is anticipated to be the next revenue driver for the Taiwan giant.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:36:35Z",
+      "url": "https://wccftech.com/tsmc-2nm-production-is-expected-to-break-records-with-capacity-surpassing-3nm/"
+    },
+    {
+      "id": 58,
+      "title": "The $5 Billion Bet Powering the AI Revolution",
+      "summary": "ArcLight is investing $5 billion in gas and renewables to meet the increasing energy demand from AI technologies in the US.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:33:10Z",
+      "url": "https://finance.yahoo.com/news/5-billion-bet-powering-ai-193310019.html"
+    },
+    {
+      "id": 59,
+      "title": "Fact check: Did 'The Simpsons' predict Coldplay kiss cam?",
+      "summary": "Fact check conducted on 'The Simpsons' predicting events such as the Coldplay kiss cam and Trump's presidency reveals not all claims are true. DW examined the validity of these predictions, highlighting the ethical implications of attributing accuracy to such portrayals in a cartoon.",
+      "source": "DW (English)",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:32:00Z",
+      "url": "https://www.dw.com/en/fact-check-did-the-simpsons-predict-coldplay-kiss-cam/a-73393778"
+    },
+    {
+      "id": 60,
+      "title": "Artificial Intelligence Doesn't Lie With Intent",
+      "summary": "AI design favors convincing fabrications, demanding careful oversight and fact-checking in sensitive domains.",
+      "source": "Psychology Today",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:31:47Z",
+      "url": "https://www.psychologytoday.com/us/blog/common-sense-science/202507/artificial-intelligence-doesnt-lie-with-intent"
+    },
+    {
+      "id": 61,
+      "title": "[Latest] Global CRISPR Gene Editing Market Size/Share Worth USD 12.6 Billion by 2034 at a 13.01% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "summary": "Global CRISPR Gene Editing Market is projected to reach USD 12.6 billion by 2034 with a CAGR of 13.01% according to a report by Custom Market Insights.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-24T19:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121378/0/en/Latest-Global-CRISPR-Gene-Editing-Market-Size-Share-Worth-USD-12-6-Billion-by-2034-at-a-13-01-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentati.html"
+    },
+    {
+      "id": 62,
+      "title": "Robot, know thyself: New vision-based system teaches machines to understand their bodies",
+      "summary": "A new vision-based control system developed by MIT CSAIL researchers called Neural Jacobian Fields enables robots to learn self-supervised motion control using only a monocular camera.",
+      "source": "Mit.edu",
+      "category": "research",
+      "timestamp": "2025-07-24T19:30:00Z",
+      "url": "https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724"
+    },
     {
       "id": 51,
       "title": "Streamly Snapshot: From Data to Dollars—Cash Management and Liquidity Insights",
@@ -342,114 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T19:00:56Z",
       "url": "https://elearningindustry.com/is-ai-taking-over-jobs-surprising-ai-job-replacement-statistics"
-    },
-    {
-      "id": 51,
-      "title": "maxai-mcp 0.2.3",
-      "summary": "Maxai-mcp 0.2.3 is a MCP server that connects to Max AI agents, facilitating communication and interaction between different AI systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:51:02Z",
-      "url": "https://pypi.org/project/maxai-mcp/0.2.3/"
-    },
-    {
-      "id": 52,
-      "title": "Ready to Get Off the Social Media Hamster Wheel? Discover the Platform That Actually Boosts Your Discoverability",
-      "summary": "Solopreneurs can use YouTube and AI to boost discoverability and build trust in the changing search landscape.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:50:38Z",
-      "url": "https://biztoc.com/x/fe9384684f688b20"
-    },
-    {
-      "id": 53,
-      "title": "How to use ChatGPT Agent for crypto trading in 2025",
-      "summary": "ChatGPT Agents can assist with crypto trading in 2025 by automating research and analysis, while keeping users in control through built-in safety features.",
-      "source": "Cointelegraph",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:49:59Z",
-      "url": "https://cointelegraph.com/news/how-to-use-chatgpt-agent-for-crypto-trading"
-    },
-    {
-      "id": 54,
-      "title": "ws-bom-robot-app 0.0.76",
-      "summary": "ws-bom-robot-app 0.0.76 is a FastAPI application serving the ws bom/robot/llm platform ai.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:47:11Z",
-      "url": "https://pypi.org/project/ws-bom-robot-app/0.0.76/"
-    },
-    {
-      "id": 55,
-      "title": "Satya Nadella Addresses Layoffs in Email to Employees",
-      "summary": "Microsoft employees are anxious following multiple rounds of layoffs, with many concerned about job security.",
-      "source": "Thurrott.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T18:46:48Z",
-      "url": "https://www.thurrott.com/microsoft/323769/satya-nadella-addresses-layoffs-in-email-to-employees"
-    },
-    {
-      "id": 56,
-      "title": "OpenAI Targets August Release for GPT‑5 AI Model",
-      "summary": "OpenAI is preparing to release the GPT-5 AI model in August 2025, which will include unified reasoning, memory, and multimodal features. The release will also include mini and nano versions of the model.",
-      "source": "iPhone in Canada",
-      "category": "innovation",
-      "timestamp": "2025-07-24T18:46:16Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/24/openai-to-release-gpt%e2%80%915-in-august/"
-    },
-    {
-      "id": 57,
-      "title": "YouTube Shorts & Google Photos Are Getting Great New Gen AI Video Tools",
-      "summary": "YouTube Shorts & Google Photos integrating new AI video-generation tools powered by Veo 2, allowing users to transform images into videos.",
-      "source": "Hot Hardware",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:46:00Z",
-      "url": "https://hothardware.com/news/youtube-shorts-google-photos-ai-video-tools"
-    },
-    {
-      "id": 58,
-      "title": "engramic 0.4.0",
-      "summary": "engramic 0.4.0 is an open source AI library designed for companies with less than 250 employees to process, store, and retrieve proprietary unstructured data.",
-      "source": "Pypi.org",
-      "category": "startups",
-      "timestamp": "2025-07-24T18:45:55Z",
-      "url": "https://pypi.org/project/engramic/0.4.0/"
-    },
-    {
-      "id": 59,
-      "title": "Walmart consolidates its AI agents into four \"super agents\", for customers, staff, engineers, and sellers/suppliers, using Anthropic's Model Context Protocol (Isabelle Bousquette/Wall Street Journal)",
-      "summary": "Walmart consolidates its AI agents into four 'super agents' using Anthropic's Model Context Protocol to better serve customers, staff, engineers, and sellers/suppliers.",
-      "source": "Techmeme.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T18:45:01Z",
-      "url": "https://www.techmeme.com/250724/p42"
-    },
-    {
-      "id": 60,
-      "title": "Niko Matsakis: You won't believe what this AI said after deleting a database (but you might relate)",
-      "summary": "Niko Matsakis discusses the ethical implications of an AI going rogue and deleting a company's database.",
-      "source": "Smallcultfollowing.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T18:43:47Z",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2025/07/24/collaborative-ai-prompting/?utm_source=atom_feed"
-    },
-    {
-      "id": 61,
-      "title": "Samsung will fix One UI 7's weird black line bug with an update",
-      "summary": "Samsung is working on a fix to address the weird black line bug in One UI 7 with an update.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-24T18:42:40Z",
-      "url": "https://www.androidheadlines.com/2025/07/samsung-will-fix-one-ui-7s-weird-black-line-bug-with-an-update.html"
-    },
-    {
-      "id": 62,
-      "title": "TransFi Announces Global Stablecoin Payment Infrastructure to Drive Real-World Adoption",
-      "summary": "TransFi announces global stablecoin payment infrastructure to drive real-world adoption",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-24T18:42:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121371/0/en/TransFi-Announces-Global-Stablecoin-Payment-Infrastructure-to-Drive-Real-World-Adoption.html"
     }
   ]
 }
