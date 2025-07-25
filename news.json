@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-25T21:15:06.540Z",
+  "lastUpdate": "2025-07-25T21:33:21.020Z",
   "items": [
+    {
+      "id": 51,
+      "title": "24 Things That Make No Earthly Sense In 'And Just Like That'",
+      "summary": "The article highlights 24 puzzling aspects of the show 'And Just Like That', inviting readers to ponder more. The focus is on critiquing the writing and character development of the series, which may spark discussion and analysis.",
+      "source": "HuffPost",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:31:21Z",
+      "url": "https://www.huffpost.com/entry/hbo-and-just-like-that-things-that-dont-make-sense_n_68825372e4b0c2d9e4d91d46"
+    },
+    {
+      "id": 52,
+      "title": "Indie Game Marketplace Itch.io Follows Steam Down NSFW Game Ban",
+      "summary": "Itch.io follows Steam in banning NSFW games, raising ethical questions about censorship and content restrictions in gaming platforms.",
+      "source": "Techpowerup.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:30:59Z",
+      "url": "https://www.techpowerup.com/339245/indie-game-marketplace-itch-io-follows-steam-down-nsfw-game-ban"
+    },
+    {
+      "id": 53,
+      "title": "Cool Behind-the-Scenes Featurette Gives an Inside Look at FX’s ALIEN: EARTH",
+      "summary": "FX released a featurette for its upcoming sci-fi series Alien: Earth, offering a closer look at the production with interviews and behind-the-scenes footage.",
+      "source": "GeekTyrant",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:30:00Z",
+      "url": "https://geektyrant.com/news/https/geektyrantcom/news/new-alien-earth-trailer-crash-lands-and-brings-the-xenomoph-horror-to-earth"
+    },
+    {
+      "id": 54,
+      "title": "Refik Anadol’s Soulless AI Tribute to Leo Messi",
+      "summary": "Refik Anadol created a Soulless AI Tribute to Leo Messi which highlights the calculated hostility of artificial intelligence and the frigidity of the fine art world.",
+      "source": "Hyperallergic",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:29:16Z",
+      "url": "http://hyperallergic.com/1029216/refik-anadol-soulless-ai-tribute-to-leo-messi/"
+    },
+    {
+      "id": 55,
+      "title": "Human-like robot goes berserk and throws tantrum at San Francisco robotics lab",
+      "summary": "Human-like robot throws tantrum at San Francisco robotics lab, sparking concerns about the ethical implications of developing advanced AI technology.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:27:31Z",
+      "url": "https://nypost.com/2025/07/24/tech/human-like-robot-goes-berserk-and-throws-tantrum-at-san-francisco-robotics-lab/"
+    },
+    {
+      "id": 56,
+      "title": "This Bill Would Fine Social Media Companies $5 Million Every Day for Not Fighting 'Terrorism'",
+      "summary": "The STOP HATE Act proposes fines for social media companies that do not take action against 'terrorism'. Rep. Josh Gottheimer is advocating for more censorial measures to be implemented.",
+      "source": "Reason",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:25:53Z",
+      "url": "https://reason.com/2025/07/24/this-bill-would-fine-social-media-companies-5-million-every-day-for-not-fighting-terrorism/"
+    },
+    {
+      "id": 57,
+      "title": "Hold Me Ltd. Signs Binding LOI to Acquire Synthetic Darwin LLC, Creator of Darwinslab Ecosystem - Self-Evolving AI Agents Platform — Eyes Strategic Web3 Expansion",
+      "summary": "Hold Me Ltd. signs binding LOI to acquire Synthetic Darwin LLC, a creator of Darwinslab Ecosystem, for strategic Web3 expansion.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T21:25:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121526/0/en/Hold-Me-Ltd-Signs-Binding-LOI-to-Acquire-Synthetic-Darwin-LLC-Creator-of-Darwinslab-Ecosystem-Self-Evolving-AI-Agents-Platform-Eyes-Strategic-Web3-Expansion.html"
+    },
+    {
+      "id": 58,
+      "title": "Fark NotNewsletter: Have you seen Sinners? Superman? Looking forward to Fantastic Four? What's your movie-going experience this summer? [FarkBlog]",
+      "summary": "The Fark NotNewsletter discusses upcoming movies like Sinners, Superman, and Fantastic Four, prompting readers to share their movie-going experiences this summer.",
+      "source": "Fark.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:23:09Z",
+      "url": "https://www.fark.com/comments/blog1582/Fark-NotNewsletter-Have-you-seen-Sinners-Superman-Looking-forward-to-Fantastic-Four-Whats-your-movie-going-experience-this-summer"
+    },
+    {
+      "id": 59,
+      "title": "Hexcel’s (NYSE:HXL) Q2 Sales Beat Estimates",
+      "summary": "Hexcel's Q2 sales beat estimates, with revenue ahead of expectations, but still fell by 2.1% year on year.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:22:47Z",
+      "url": "https://finance.yahoo.com/news/hexcel-nyse-hxl-q2-sales-212247111.html"
+    },
     {
       "id": 51,
       "title": "strands-agents 1.1.0",
@@ -369,87 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T20:40:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/24/3121502/0/en/Landmark-Bancorp-Inc-Announces-Second-Quarter-2025-Earnings-per-Share-of-0-75-Declares-Cash-Dividend-of-0-21-per-Share.html"
-    },
-    {
-      "id": 60,
-      "title": "Elon Musk says he’s bringing back Vine in AI form. Here’s what that could mean",
-      "summary": "Elon Musk plans to bring back Vine in AI form, but did not provide further details on his plans.",
-      "source": "Fast Company",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:39:25Z",
-      "url": "https://www.fastcompany.com/91374218/elon-musk-bringing-back-vine-in-ai-form"
-    },
-    {
-      "id": 61,
-      "title": "Gannett Offers Voluntary Buyouts as Nation’s Largest Newspaper Publisher Grapples With Declining Sales",
-      "summary": "Gannett, the largest newspaper publisher in the U.S., is offering voluntary buyouts as it deals with declining sales. The company is using AI to help achieve sustainable growth.",
-      "source": "TheWrap",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:39:09Z",
-      "url": "https://www.thewrap.com/gannett-voluntary-buyouts/"
-    },
-    {
-      "id": 62,
-      "title": "Trump's AI plan calls for massive data centers. Here's how it may affect energy in the US",
-      "summary": "Trump's AI plan includes building data centers across the US which could potentially impact energy consumption",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:36:11Z",
-      "url": "https://www.yahoo.com/news/articles/trumps-ai-plan-calls-massive-203611475.html"
-    },
-    {
-      "id": 51,
-      "title": "You're Probably Using Google AI Overviews Wrong - Here's What You Need To Fix",
-      "summary": "Google's AI Overviews may be easier to read, but blindly trusting AI can lead to misinformation and inaccuracies.",
-      "source": "BGR",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:17:00Z",
-      "url": "https://www.bgr.com/1921229/how-to-use-google-ai-overviews/"
-    },
-    {
-      "id": 52,
-      "title": "Lip-Bu Evades Getting Booed As Intel’s Q2 2025 EPS Stinks, Revenue Surprises",
-      "summary": "Intel's Q2 2025 earnings per share disappointed but revenue surprised, possibly due to a pull-forward of demand as clients anticipated sector specific tariffs on semiconductors.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:16:36Z",
-      "url": "https://wccftech.com/lip-bu-evades-getting-booed-as-intels-q2-2025-eps-stinks-revenue-surprises/"
-    },
-    {
-      "id": 53,
-      "title": "EU sanctions envoy says Ireland must 'beef up' Naval Service",
-      "summary": "EU sanctions envoy urges Ireland to improve Naval Service to better monitor sanctioned Russian vessels off the west coast.",
-      "source": "RTE",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:15:54Z",
-      "url": "https://www.rte.ie/news/primetime/2025/0724/1525230-eu-sanctions-envoy-says-ireland-must-beef-up-naval-service/"
-    },
-    {
-      "id": 54,
-      "title": "Double PyTorch Inference Speed for Diffusion Models Using Torch-TensorRT",
-      "summary": "Double PyTorch inference speed for diffusion models using Torch-TensorRT, an AI inference library optimized for deployment on NVIDIA GPUs.",
-      "source": "Nvidia.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:15:02Z",
-      "url": "https://developer.nvidia.com/blog/double-pytorch-inference-speed-for-diffusion-models-using-torch-tensorrt/"
-    },
-    {
-      "id": 55,
-      "title": "Wide Acclaim for President Trump’s Visionary AI Action Plan - The White House (.gov)",
-      "summary": "Wide Acclaim for President Trump’s Visionary AI Action Plan receiving support from tech CEOs and potentially impacting states",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:15:02Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178458566"
-    },
-    {
-      "id": 56,
-      "title": "MidWestOne Financial Group, Inc. Reports Financial Results for the Second Quarter of 2025",
-      "summary": "MidWestOne Financial Group, Inc. reported financial results for the second quarter of 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121472/0/en/MidWestOne-Financial-Group-Inc-Reports-Financial-Results-for-the-Second-Quarter-of-2025.html"
     }
   ]
 }
