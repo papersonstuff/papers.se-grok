@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-25T15:17:37.728Z",
+  "lastUpdate": "2025-07-25T15:43:55.536Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Lyft Will Let Users ‘Favorite’ or Block Drivers in Broader Loyalty Push",
+      "summary": "Lyft is allowing users to 'favorite' or block drivers as part of a loyalty push to encourage users to stay on the platform.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:41:59Z",
+      "url": "https://financialpost.com/pmn/business-pmn/lyft-will-let-users-favorite-or-block-drivers-in-broader-loyalty-push"
+    },
+    {
+      "id": 52,
+      "title": "Agentic AI systems ‘will provide enormous uplift in business performance’",
+      "summary": "Agentic AI systems are expected to significantly enhance business performance by working collaboratively, according to industry experts.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:41:12Z",
+      "url": "https://biztoc.com/x/927e03b35defc604"
+    },
+    {
+      "id": 53,
+      "title": "The Figma IPO Is Coming -- but Can It Justify Its Valuation?",
+      "summary": "The Figma IPO is anticipated to arrive, but questions remain about whether it can justify its valuation in a hot market for IPOs. Figma aims to enhance collaboration in design and user interface projects through its platform, which also includes plans to integrate artificial intelligence.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T15:41:07Z",
+      "url": "https://biztoc.com/x/4f71b872cae67599"
+    },
+    {
+      "id": 54,
+      "title": "Leveraging AI Multi-Agent Systems in Financial Analysis",
+      "summary": "Leveraging AI Multi-Agent Systems in Financial Analysis allows for decentralized intelligence and distributed problem-solving.",
+      "source": "Acm.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:41:06Z",
+      "url": "http://cacm.acm.org/blogcacm/leveraging-ai-multi-agent-systems-in-financial-analysis/"
+    },
+    {
+      "id": 55,
+      "title": "Chinese Authorities Warn Comedians Over Jokes About Men and Women",
+      "summary": "Chinese authorities warn comedians about jokes that could fuel resentment between men and women, as voice used in the act is AI-generated, leading to possible inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T15:41:02Z",
+      "url": "https://biztoc.com/x/77bf217c513cf7f6"
+    },
+    {
+      "id": 56,
+      "title": "South Park Roasted Trump and Paramount Right After Signing a $1B+ Deal With the Network",
+      "summary": "South Park's season 27 premiere mocks the cancelling of 'The Late Show' and CBS's settlement, right after Paramount signs a $1B+ deal with the network, raising concerns about ethics in the media industry.",
+      "source": "esquire.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T15:41:00Z",
+      "url": "https://www.esquire.com/entertainment/tv/a65498946/south-park-premiere-trump-paramount/"
+    },
+    {
+      "id": 57,
+      "title": "iPhone Users Are More Likely To Fall For Scams Than Android Users",
+      "summary": "iPhone users are more susceptible to online scams and less likely to practice safe online habits compared to Android users, according to research from cybersecurity firm Malwarebytes.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T15:40:57Z",
+      "url": "https://biztoc.com/x/94fdd093bce6e47d"
+    },
+    {
+      "id": 58,
+      "title": "Mom and Dad of 4 Used To Do Weekends Together—Then Realized Their Mistake",
+      "summary": "Two parents from Oklahoma City are going viral for using AI-generated voice technology to create much-needed time alone.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:40:55Z",
+      "url": "https://biztoc.com/x/f7c8b4d16d7bf281"
+    },
+    {
+      "id": 59,
+      "title": "Analysts unveil bold Amazon stock price target before earnings",
+      "summary": "Analysts predict Amazon stock price to rise due to the company's focus on generative artificial intelligence. Amazon acquires Bee AI, a startup specializing in AI-powered wearable devices, indicating a move into personal AI hardware.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T15:40:38Z",
+      "url": "https://biztoc.com/x/1e57be33858dc3c8"
+    },
     {
       "id": 51,
       "title": "Alphabet CEO Weighs In: Smart Glasses Won’t Replace Phones Anytime Soon",
@@ -369,87 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T14:38:13Z",
       "url": "https://www.forbes.com/sites/conormurray/2025/07/24/south-park-skewers-trump-and-paramount-amid-15-billion-streaming-deal-skydance-merger/"
-    },
-    {
-      "id": 57,
-      "title": "What Is Tea, The Viral Women-Only App With 1 Million Downloads?",
-      "summary": "The viral women-only app called Tea allows women to post pictures of men they're dating for feedback, raising concerns about privacy and consent.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-24T14:37:22Z",
-      "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/07/24/what-is-tea-the-viral-women-only-app-with-1-million-downloads/"
-    },
-    {
-      "id": 58,
-      "title": "Sarepta Therapeutics (SRPT): “They Should Be Prosecuted,” Says Jim Cramer",
-      "summary": "Sarepta Therapeutics (SRPT): 'They Should Be Prosecuted,' Says Jim Cramer - We recently published 12 Stocks Jim Cramer Discussed As Analyzed Morgan Stanley’s Comments.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-24T14:37:14Z",
-      "url": "https://finance.yahoo.com/news/sarepta-therapeutics-srpt-prosecuted-says-143714744.html"
-    },
-    {
-      "id": 59,
-      "title": "How Does Alien: Earth Work with Ridley Scott's Prequels? FX Explains",
-      "summary": "With less than a month to go until the series hits FX and Hulu screens, we're getting some clarity on how Alien: Earth will work with Ridley Scott's prequels, explained by FX Networks and Showrunner Noah Hawley's Sydney Chandler",
-      "source": "Bleeding Cool News",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:37:04Z",
-      "url": "https://bleedingcool.com/tv/how-does-alien-earth-work-with-ridley-scotts-prequels-fx-explains/"
-    },
-    {
-      "id": 60,
-      "title": "[Unboxing] Galaxy Z Fold7: Powerful Versatility in the Thinnest, Lightest Z Fold Yet",
-      "summary": "Galaxy Z Fold 7 is the thinnest and lightest Z Fold yet, offering multimodal AI and foldable-optimized UI.",
-      "source": "Samsung.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:35:22Z",
-      "url": "https://news.samsung.com/in/unboxing-galaxy-z-fold7-powerful-versatility-in-the-thinnest-lightest-z-fold-yet"
-    },
-    {
-      "id": 61,
-      "title": "Video-sharing app Vine is returning 'in AI form', Musk says",
-      "summary": "Video-sharing app Vine is returning 'in AI form', Musk says - X, Elon Musk's social media company, is bringing back Vine in 'AI form' almost nine years after it was discontinued.",
-      "source": "CNA",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:35:10Z",
-      "url": "https://www.channelnewsasia.com/business/video-sharing-app-vine-returning-in-ai-form-musk-says-5256791"
-    },
-    {
-      "id": 62,
-      "title": "Shopper Gets Perfect Revenge On Line-Cutter At Self-Checkout: 'You're Crazy!'",
-      "summary": "Woman gets revenge on line-cutter at self-checkout, sparking debate on ethical behavior in public spaces.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-24T14:35:01Z",
-      "url": "https://www.newsweek.com/reddit-woman-mother-child-grocery-store-checkout-line-cutter-2103170"
-    },
-    {
-      "id": 63,
-      "title": "'South Park' mocks Paramount's settlement with Trump after creators sign $1.5B deal",
-      "summary": "Paramount signs deal with 'South Park' creators to produce 50 new episodes over the next five years in a $1.5 billion agreement, mocking previous settlement with Trump.",
-      "source": "NBC News",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:34:30Z",
-      "url": "https://www.nbcnews.com/business/media/south-park-mocks-paramounts-settlement-trump-creators-sign-15b-deal-rcna220770"
-    },
-    {
-      "id": 64,
-      "title": "Trump’s plan to win AI race includes killing off ‘woke’ agenda and removing environmental barriers to innovation",
-      "summary": "Trump's plan to win the AI race involves removing barriers to innovation and promoting AI-related infrastructure projects.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:34:09Z",
-      "url": "https://biztoc.com/x/0eb74091c6e8b266"
-    },
-    {
-      "id": 51,
-      "title": "If You See This Message, Your Amazon Account Is Under Attack",
-      "summary": "A new attack targeting Amazon accounts has increased by 5000% in just 2 weeks, putting users at risk. It is important for Amazon users to be aware of this threat and take necessary precautions to safeguard their accounts.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-24T14:14:00Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/24/if-you-see-this-message-your-amazon-account-is-under-attack/"
     }
   ]
 }
