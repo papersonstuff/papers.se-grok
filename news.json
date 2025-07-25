@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-25T13:23:58.554Z",
+  "lastUpdate": "2025-07-25T13:52:35.025Z",
   "items": [
+    {
+      "id": 51,
+      "title": "BP's Castrol Unit Gets One Rock Bid",
+      "summary": "One Rock Capital Partners is one of the remaining bidders for BP's Castrol lubricants business.",
+      "source": "Rigzone",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:51:03Z",
+      "url": "https://www.rigzone.com/news/wire/bps_castrol_unit_gets_one_rock_bid-24-jul-2025-181255-article/"
+    },
+    {
+      "id": 52,
+      "title": "Storks deliver an angel on AI Express Muscat-Mumbai flight",
+      "summary": "Storks deliver an angel on AI Express Muscat-Mumbai flight - An Air India Express flight from Muscat to Mumbai witnessed the birth of a healthy baby mid-air. The airline's well-trained cabin crew, aided by a nurse onboard, facilitated the delivery.",
+      "source": "The Times of India",
+      "category": "applications",
+      "timestamp": "2025-07-24T13:50:04Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/storks-deliver-an-angel-on-ai-express-muscat-mumbai-flight/articleshow/122884818.cms"
+    },
+    {
+      "id": 53,
+      "title": "Roadzen Raises $2.25 Million in PIPE Financing at 20% Premium to Market to Advance Growth and Drive Operating Plan for FY25–26",
+      "summary": "Roadzen raises $2.25 million in PIPE financing from four of its largest shareholders to advance growth and drive operating plan for FY25-26, with CEO and leadership team deferring RSU.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T13:50:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121187/0/en/Roadzen-Raises-2-25-Million-in-PIPE-Financing-at-20-Premium-to-Market-to-Advance-Growth-and-Drive-Operating-Plan-for-FY25-26.html"
+    },
+    {
+      "id": 54,
+      "title": "NVIDIA Corporation (NVDA)’s Going To Have A Good Quarter, Says Jim Cramer",
+      "summary": "NVIDIA Corporation (NVDA) is expected to have a good quarter according to Jim Cramer, as analyzed by Morgan Stanley. The company is one of the 12 stocks discussed by Cramer.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:49:58Z",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-going-good-134958193.html"
+    },
+    {
+      "id": 55,
+      "title": "Elon Musk Is Reviving Vine—With a Twist",
+      "summary": "Elon Musk is reviving Vine, the video-sharing social media app, with a twist that includes AI-generated voice. The app, known for its short video clips, will be brought back after being shut down in 2017.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T13:49:42Z",
+      "url": "https://biztoc.com/x/8a7a5acef5f175e2"
+    },
+    {
+      "id": 56,
+      "title": "JD Vance Confronted With Bald Meme While Attending RNC Fundraiser",
+      "summary": "JD Vance faced criticism in the form of an AI-generated meme showing him bald and smooth-faced at an RNC fundraiser.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T13:49:34Z",
+      "url": "https://biztoc.com/x/20341059badaf140"
+    },
+    {
+      "id": 57,
+      "title": "Tom Lee says Apple is ready to pounce on AI - and Wall Street has no idea what’s coming",
+      "summary": "Apple is gearing up to make a significant move in artificial intelligence, according to Tom Lee, which could surprise Wall Street with a smart AI strategy.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-24T13:49:27Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/tom-lee-says-apple-is-ready-to-pounce-on-ai-and-wall-street-has-no-idea-whats-coming/articleshow/122884373.cms"
+    },
+    {
+      "id": 58,
+      "title": "Class Action Filed Against Reddit, Inc. – Investors with Losses Encouraged to Contact Johnson Fistel",
+      "summary": "A class action lawsuit has been filed against Reddit, Inc. by investors who purchased or acquired the company's securities.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:49:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121186/0/en/Class-Action-Filed-Against-Reddit-Inc-Investors-with-Losses-Encouraged-to-Contact-Johnson-Fistel.html"
+    },
+    {
+      "id": 59,
+      "title": "India’s IT hiring grow erratic in face of global uncertainties",
+      "summary": "India’s IT hiring is growing erratically due to a global economic slowdown and a shift in the industry's operational model.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:48:58Z",
+      "url": "https://www.thehindubusinessline.com/companies/indias-it-hiring-grow-erratic-in-face-of-global-uncertainties/article69850925.ece"
+    },
+    {
+      "id": 60,
+      "title": "India’s IT hiring grows erratic in face of global uncertainties",
+      "summary": "India's IT hiring is experiencing fluctuations due to global economic slowdown and industry operational changes.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:48:58Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/indias-it-hiring-grow-erratic-in-face-of-global-uncertainties/article69850925.ece"
+    },
     {
       "id": 51,
       "title": "Tech industry layoffs hit 100,000 for 2025 — Intel leading the pack with over 12,000 personnel cut, so far",
@@ -360,96 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T11:30:49Z",
       "url": "https://fortune.com/2025/07/24/agentic-ai-systems-must-have-human-loop-says-google-exec-cfo/"
-    },
-    {
-      "id": 53,
-      "title": "DGCA took punitive action against AI Express for non-compliance with airworthiness directive: Mohol",
-      "summary": "DGCA took punitive action against AI Express for non-compliance with airworthiness directive: Mohol - The DGCA took punitive measures against Air India Express officials after discovering non-compliance with an EASA airworthiness directive concerning Airbus A320 engines.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:30:46Z",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/dgca-took-punitive-action-against-ai-express-for-non-compliance-with-airworthiness-directive-mohol/articleshow/122881858.cms"
-    },
-    {
-      "id": 54,
-      "title": "President Trump threatened to break up Nvidia, didn't even know what it was — 'What the hell is Nvidia? I've never heard of it before'",
-      "summary": "President Trump threatened to break up Nvidia despite not knowing what it was, raising ethical concerns about making decisions on unfamiliar technologies.",
-      "source": "Tom's Hardware UK",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:30:17Z",
-      "url": "https://www.tomshardware.com/tech-industry/president-trump-threatened-to-break-up-nvidia-didnt-even-know-what-it-was-what-the-hell-is-nvidia-ive-never-heard-of-it-before"
-    },
-    {
-      "id": 55,
-      "title": "Policy paper: India-UK Vision 2035",
-      "summary": "The Prime Ministers of India and the UK endorsed the new 'India-UK Vision 2035' during their meeting in London on 24 July 2025.",
-      "source": "Www.gov.uk",
-      "category": "policy",
-      "timestamp": "2025-07-24T11:30:07Z",
-      "url": "https://www.gov.uk/government/publications/india-uk-vision-2035"
-    },
-    {
-      "id": 56,
-      "title": "Excellence in Health Care: Where Value, Trust, Innovation and Care Converge",
-      "summary": "True health care excellence is inseparable from the concept of value, not in a purely financial sense, but defined by the impact of care on a person's health.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:30:01Z",
-      "url": "https://www.newsweek.com/excellence-health-care-where-value-trust-innovation-care-converge-2103110"
-    },
-    {
-      "id": 57,
-      "title": "Applied Materials to Report Fiscal Third Quarter 2025 Results on August 14, 2025",
-      "summary": "Applied Materials, Inc. will report its fiscal third quarter 2025 results on August 14, 2025, indicating a focus on financial performance in the AI-related industry.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120956/0/en/Applied-Materials-to-Report-Fiscal-Third-Quarter-2025-Results-on-August-14-2025.html"
-    },
-    {
-      "id": 58,
-      "title": "Digital Asset Technologies Inc. Welcomes Brian Rose to Advisory Board",
-      "summary": "Digital Asset Technologies Inc. welcomes Brian Rose to Advisory Board, a technology focused investment issuer.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120947/0/en/Digital-Asset-Technologies-Inc-Welcomes-Brian-Rose-to-Advisory-Board.html"
-    },
-    {
-      "id": 59,
-      "title": "We’ve forgotten how to market. So, how should today’s playbook look",
-      "summary": "Tom Goodwin believes that marketing has lost its way and many modern lessons are taking us backward. He shares what lessons we should salvage from the performance-heavy playbook.",
-      "source": "The Drum",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.thedrum.com/opinion/2025/07/24/we-ve-forgotten-how-market-so-how-should-today-s-playbook-look"
-    },
-    {
-      "id": 60,
-      "title": "FTI Consulting Reports Second Quarter 2025 Financial Results",
-      "summary": "FTI Consulting, Inc. released financial results for the second quarter ended June 30, 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120954/33891/en/FTI-Consulting-Reports-Second-Quarter-2025-Financial-Results.html"
-    },
-    {
-      "id": 61,
-      "title": "7 features you need to know and configure on OneDrive for Windows 11",
-      "summary": "If you're on Windows 11, check out and learn how to configure these lesser-known features from OneDrive that can help you boost productivity, organization, privacy, and file recovery.",
-      "source": "Windows Central",
-      "category": "applications",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/7-gems-you-probably-didnt-know-about-onedrive-on-windows-11"
-    },
-    {
-      "id": 62,
-      "title": "NETCLASS TECHNOLOGY INC Establishes a Singapore Subsidiary to Drive Global AI Business Expansion",
-      "summary": "NETCLASS Technology INC establishes a Singapore subsidiary to drive global AI business expansion.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T11:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120943/0/en/NETCLASS-TECHNOLOGY-INC-Establishes-a-Singapore-Subsidiary-to-Drive-Global-AI-Business-Expansion.html"
     }
   ]
 }
