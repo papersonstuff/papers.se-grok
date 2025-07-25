@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-25T23:40:52.390Z",
+  "lastUpdate": "2025-07-25T23:51:10.118Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Trump's order to block 'woke' AI in government encourages tech giants to censor their chatbots",
+      "summary": "Trump's order to block 'woke' AI in government leads tech companies to censor chatbots sold to federal government, posing challenges in ensuring compliance.",
+      "source": "ABC News",
+      "category": "ethics",
+      "timestamp": "2025-07-24T23:50:30Z",
+      "url": "https://abcnews.go.com/Technology/wireStory/trumps-order-block-woke-ai-government-encourages-tech-124048461"
+    },
+    {
+      "id": 52,
+      "title": "Intel cuts back spending, workforce as struggling chip maker mounts comeback",
+      "summary": "Intel is cutting back spending and workforce in an effort to revive the struggling chip maker's fortunes under its new CEO.",
+      "source": "ABC News",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:49:05Z",
+      "url": "https://abcnews.go.com/Technology/wireStory/intel-cuts-back-spending-workforce-struggling-chip-maker-124054760"
+    },
+    {
+      "id": 53,
+      "title": "Trump’s AI Orders, Gixel’s AR Optics, Big Tech Spends On Nvidia",
+      "summary": "Trump's new AI plan aims to deregulate and speed up chip factory development, while companies like OpenAI, xAI, and Nvidia drive global infrastructure expansion.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T23:45:17Z",
+      "url": "https://www.forbes.com/sites/charliefink/2025/07/24/trumps-ai-orders-gixels-ar-optics-big-tech-spends-on-nvidia/"
+    },
+    {
+      "id": 54,
+      "title": "OpenTable Debuts AI-Powered Concierge for Diners",
+      "summary": "OpenTable has launched an AI-powered concierge to assist diners with common questions and help restaurants secure bookings.",
+      "source": "pymnts.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T23:43:54Z",
+      "url": "http://www.pymnts.com/restaurant-innovation/2025/opentable-debuts-ai-powered-concierge-for-diners/"
+    },
+    {
+      "id": 55,
+      "title": "Intel to lay off 15% more staff by year-end and scale back foundry investments",
+      "summary": "Intel to lay off 15% more staff by year-end and scale back foundry investments, as part of efforts to create a faster-moving organization",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:43:03Z",
+      "url": "https://siliconangle.com/2025/07/24/intel-lay-off-15-more-staff-year-end-scale-back-foundry-investments/"
+    },
+    {
+      "id": 56,
+      "title": "Intel to lay off almost a third of its staff and scale back foundry investments",
+      "summary": "Intel to lay off almost a third of its staff and scale back foundry investments in order to create a more agile organization",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:43:03Z",
+      "url": "https://siliconangle.com/2025/07/24/intel-lay-off-almost-third-staff-scale-back-foundry-investments/"
+    },
+    {
+      "id": 57,
+      "title": "Vulkan + Mesa Drivers For AI Inferencing? It's Already Showing Potential On Radeon RADV",
+      "summary": "Vulkan + Mesa Drivers are showing potential for AI inferencing on Radeon RADV, with NVIDIA finding success with Vulkan for AI and machine learning. Red Hat engineer David Airlie is exploring their potential for AI applications.",
+      "source": "Phoronix",
+      "category": "applications",
+      "timestamp": "2025-07-24T23:42:00Z",
+      "url": "https://www.phoronix.com/news/Mesa-Vulkan-AI-RADV-Potential"
+    },
     {
       "id": 51,
       "title": "Motorola Solutions introduces AI nutrition labels",
@@ -387,69 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-24T22:48:13Z",
       "url": "https://zycrypto.com/avalanche-rallies-on-institutional-support-yet-ruvi-ai-ruvi-emerges-as-the-smart-retail-play-for-13800-potential/"
-    },
-    {
-      "id": 60,
-      "title": "VC Victor Lazarte is leaving Benchmark to launch his own firm",
-      "summary": "VC Victor Lazarte is leaving Benchmark after two years to start his own firm, having previously backed startups like Mercor, HeyGen, and Decart AI.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:44:42Z",
-      "url": "https://biztoc.com/x/bc3a0adf5b1d86f9"
-    },
-    {
-      "id": 51,
-      "title": "DeepSeek, Trump’s Plan Steer Agenda at China’s Premier AI Forum",
-      "summary": "Star founders, Beijing officials, and deep-pocketed financiers gather at China's premier AI summit in Shanghai to discuss propelling Beijing's ambitions to surpass the US in artificial intelligence.",
-      "source": "Financial Post",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:44:00Z",
-      "url": "https://financialpost.com/pmn/business-pmn/deepseek-trumps-plan-steer-agenda-at-chinas-premier-ai-forum"
-    },
-    {
-      "id": 52,
-      "title": "VC Victor Lazarte is leaving Benchmark to launch his own firm | TechCrunch",
-      "summary": "VC Victor Lazarte is leaving Benchmark after two years to launch his own firm. He has backed startups like Mercor, HeyGen, and Decart AI.",
-      "source": "TechCrunch",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:43:40Z",
-      "url": "https://techcrunch.com/2025/07/24/vc-victor-lazarte-is-leaving-benchmark-to-launch-his-own-firm/"
-    },
-    {
-      "id": 53,
-      "title": "Tesla sales have collapsed and profits nosedived — but never fear, Elon has the answer",
-      "summary": "Tesla sales have collapsed and profits nosedived, but Elon Musk insists there is a solution to the issue.",
-      "source": "Crikey",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:42:31Z",
-      "url": "http://www.crikey.com.au/2025/07/25/tesla-sales-collapse-elon-musk-ai/"
-    },
-    {
-      "id": 54,
-      "title": "Security by Design — UX and AI in Modern Cybersecurity",
-      "summary": "Nelson Lee discusses how thoughtful design and emerging AI technologies are transforming cybersecurity operations, as seen in the post 'Security by Design — UX and AI in Modern Cybersecurity' on the Palo Alto Networks Blog.",
-      "source": "Paloaltonetworks.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:39:30Z",
-      "url": "https://www.paloaltonetworks.com/blog/2025/07/security-by-design-ux-ai-modern-cybersecurity/"
-    },
-    {
-      "id": 55,
-      "title": "On-Premise vs SaaS Data Annotation Platforms Compared",
-      "summary": "Choosing between SaaS and on-premise data annotation platforms based on factors such as speed, cost, data privacy, and project scope.",
-      "source": "HackRead",
-      "category": "applications",
-      "timestamp": "2025-07-24T22:38:46Z",
-      "url": "https://hackread.com/on-premise-vs-saas-data-annotation-platforms-compared/"
-    },
-    {
-      "id": 56,
-      "title": "Leading Through Rapid Change: 6 Key Challenges To Master Today",
-      "summary": "Today’s workplaces are evolving rapidly, requiring leaders to adapt to new challenges. Traditional approaches may not be effective in navigating dramatic changes in the workplace.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:35:39Z",
-      "url": "https://www.forbes.com/sites/kathycaprino/2025/07/24/leading-through-rapid-change-6-key-challenges-to-master-today/"
     }
   ]
 }
