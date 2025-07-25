@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-25T19:43:20.624Z",
+  "lastUpdate": "2025-07-25T19:52:42.565Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Nvidia AI chips worth $1B smuggled to China after Trump export controls",
+      "summary": "Nvidia AI chips worth $1B smuggled to China despite export controls, highlighting black market for US semiconductors and challenges in curbing Beijing's high-tech ambitions.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:52:04Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178458356"
+    },
+    {
+      "id": 52,
+      "title": "Alphabet Boosted by AI, Cloud Demand",
+      "summary": "Alphabet experienced a major boost driven by increased demand in AI and Cloud services, according to Needham & Company Senior Analyst Laura Martin.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:51:45Z",
+      "url": "https://finance.yahoo.com/video/alphabet-boosted-ai-cloud-demand-195145362.html"
+    },
+    {
+      "id": 53,
+      "title": "Pixel Phone app might borrow this iOS calling feature",
+      "summary": "The Google Pixel Phone app might soon gain a new Call Message feature, which filters spam from missed or declined calls.",
+      "source": "Android Headlines",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:51:38Z",
+      "url": "https://www.androidheadlines.com/2025/07/pixel-phone-app-might-borrow-this-ios-calling-feature.html"
+    },
+    {
+      "id": 54,
+      "title": "Apple releases first iOS 26 public beta",
+      "summary": "Apple releases first iOS 26 public beta, featuring 'Liquid Glass' interface and improved AI capabilities.",
+      "source": "Macdailynews.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:51:38Z",
+      "url": "https://macdailynews.com/2025/07/24/apple-releases-first-ios-26-public-beta/"
+    },
+    {
+      "id": 55,
+      "title": "US electricity prices skyrocket under Trump, hitting highest levels in years",
+      "summary": "US electricity prices have increased by 6% in the first half of 2025, reaching the highest levels in years under the Trump administration.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:48:19Z",
+      "url": "https://nypost.com/2025/07/24/business/us-electricity-prices-continue-to-climb-under-trump/"
+    },
+    {
+      "id": 56,
+      "title": "Proton launches Lumo, a privacy-focused AI chatbot",
+      "summary": "Proton launches Lumo, a privacy-focused AI chatbot that aims to address the risks associated with personal data collection in AI. The chatbot is designed to provide opportunities for users and businesses while safeguarding their privacy.",
+      "source": "TechSpot",
+      "category": "startups",
+      "timestamp": "2025-07-24T19:48:00Z",
+      "url": "https://www.techspot.com/news/108801-proton-launches-lumo-privacy-focused-ai-chatbot.html"
+    },
+    {
+      "id": 57,
+      "title": "The Economist* on the speed of AI take-off",
+      "summary": "The Economist reports on the slow pace of AI adoption, with the potential for a workerless economy in the future. Economist Tyler Cowen believes that despite the rapid advancements in AI technology, its impact on the economy will be gradual.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:46:12Z",
+      "url": "https://biztoc.com/x/b50c41e9474e77d4"
+    },
+    {
+      "id": 58,
+      "title": "Elon Musk’s Grok AI integrates with Kalshi, Paradigm-backed prediction market",
+      "summary": "Elon Musk’s Grok AI integrates with Kalshi, a CFTC-regulated prediction market backed by Paradigm, bringing its Grok LLM to the platform which raised $185 million at a $2 billion valuation in June.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:46:03Z",
+      "url": "https://biztoc.com/x/31081ec35bfde4f6"
+    },
+    {
+      "id": 59,
+      "title": "Optimizing Vector Search for Indexing and Real-Time Retrieval with NVIDIA cuVS",
+      "summary": "AI-powered search optimized for indexing and retrieval with NVIDIA cuVS, providing high-performance, low-latency, and scalable solutions.",
+      "source": "Nvidia.com",
+      "category": "research",
+      "timestamp": "2025-07-24T19:45:49Z",
+      "url": "https://developer.nvidia.com/blog/optimizing-vector-search-for-indexing-and-real-time-retrieval-with-nvidia-cuvs/"
+    },
+    {
+      "id": 60,
+      "title": "'South Park' mocks CBS and Trump shortly after striking a streaming deal with the network's owner, Paramount",
+      "summary": "'South Park' mocks CBS and Trump shortly after striking a streaming deal with the network's owner, Paramount - Hours after CBS-owner Paramount announced a 'South Park' deal, the show's creators showed they're not afraid to bite the hand that feeds them.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:45:33Z",
+      "url": "https://www.businessinsider.com/new-south-park-episode-ai-trump-cbs-paramount-2025-7"
+    },
+    {
+      "id": 61,
+      "title": "Google Unveils $37m AI Push Across Africa, Targeting Agriculture, Health, Education in Ghana, Nigeria and Others - West Africa Weekly",
+      "summary": "Google is investing $37m in AI projects across Africa, focusing on agriculture, health, and education in countries like Ghana and Nigeria.",
+      "source": "Westafricaweekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:45:25Z",
+      "url": "https://westafricaweekly.com/google-unveils-37m-ai-push-across-africa-targeting-agriculture-health-education-in-ghana-nigeria-and-others/"
+    },
+    {
+      "id": 62,
+      "title": "Hulk Hogan, Professional Wrestler Who Defended His Right to Privacy in the Digital Age, Dies at Age 71, Reportedly from Cardiac Arrest",
+      "summary": "Hulk Hogan, a professional wrestler who fought for his right to privacy in the digital age, passed away at age 71 from cardiac arrest after a career marked by digital hoaxes and a high-profile battle against online exploitation.",
+      "source": "Scientific American",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:45:00Z",
+      "url": "https://www.scientificamerican.com/article/hulk-hogan-professional-wrestler-who-defended-his-right-to-privacy-in-the/"
+    },
+    {
+      "id": 63,
+      "title": "iOS 26 Review: Testing Apple's Biggest iPhone Update",
+      "summary": "iOS 26 Review: Apple is currently seeding the update to public beta testers, with more details on the new features and improvements revealed.",
+      "source": "MacRumors",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:44:23Z",
+      "url": "https://www.macrumors.com/review/ios-26-public-beta/"
+    },
+    {
+      "id": 64,
+      "title": "Sacha Baron Cohen Is Jacked Now",
+      "summary": "Sacha Baron Cohen showed off his muscular body on the cover of 'Men's Fitness UK' after transforming his physique for an episode of a Marvel show.",
+      "source": "The Cut",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:44:18Z",
+      "url": "http://www.thecut.com/article/sacha-baron-cohen-ripped-now.html"
+    },
+    {
+      "id": 65,
+      "title": "Google rethinks search results with its new AI-curated ‘Web Guide’",
+      "summary": "Google rethinks search results with its new AI-curated ‘Web Guide' by launching a new AI-powered search feature that groups links in helpful ways for users who opt in to the test on Labs.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:44:03Z",
+      "url": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test"
+    },
+    {
+      "id": 66,
+      "title": "Microsoft CEO channels inner Fallout boss to say 9,000 layoffs are no big deal because \"we're investing more,\" then AI brain hits: \"Imagine if all 8 billion people could summon a researcher, an analyst, or a coding agent at their fingertips\"",
+      "summary": "Microsoft CEO discusses layoffs and increasing investment in AI, envisioning a future where individuals can access researchers, analysts, and coding agents instantly.",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:43:26Z",
+      "url": "https://www.gamesradar.com/games/microsoft-ceo-channels-inner-fallout-boss-to-say-9-000-layoffs-are-no-big-deal-because-were-investing-more-then-ai-brain-hits-imagine-if-all-8-billion-people-could-summon-a-researcher-an-analyst-or-a-coding-agent-at-their-fingertips/"
+    },
     {
       "id": 51,
       "title": "agent-cli 0.19.0",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T19:12:28Z",
       "url": "https://biztoc.com/x/0e7efb6fd25d9316"
-    },
-    {
-      "id": 53,
-      "title": "Woman Films YouTube Video, Unprepared for What She Captures in Background",
-      "summary": "A woman filming a YouTube video accidentally captures her cat taking a daring leap in the background, with the voice in the video being AI-generated. Inconsistencies may occur due to the use of AI technology.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:12:25Z",
-      "url": "https://biztoc.com/x/f8beec2fe7703bd5"
-    },
-    {
-      "id": 54,
-      "title": "Google Reveals New AI Video Editing Tools in YouTube Shorts and Google Photos",
-      "summary": "New AI video editing tools will be available within YouTube Shorts and Google Photos, allowing creators to easily create videos from their photos.",
-      "source": "iLounge",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:11:38Z",
-      "url": "https://www.ilounge.com/news/apple/google-reveals-new-ai-video-editing-tools-in-youtube-shorts-and-google-photos"
-    },
-    {
-      "id": 55,
-      "title": "To Win Or Not To Win The AI Race. The Question To End All Questions",
-      "summary": "America's AI Action Plan is designed to address questions surrounding winning the AI race, making it 'non-negotiable'.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:11:32Z",
-      "url": "https://www.forbes.com/sites/pialauritzen/2025/07/24/to-win-or-not-to-win-the-ai-race-the-question-to-end-all-questions/"
-    },
-    {
-      "id": 56,
-      "title": "Trump’s Tariff Deadline Is August 1: Here’s What Could Immediately Cost More—From Food To Electronics",
-      "summary": "Trump's tariff deadline on August 1 could lead to higher prices on back-to-school items like clothing, shoes, and electronics.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:10:51Z",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2025/07/24/trumps-tariff-deadline-is-august-1-heres-what-could-immediately-cost-more-from-food-to-electronics/"
-    },
-    {
-      "id": 57,
-      "title": "Ray Dalio issues his most dire warning to America yet: The ballooning $37 trillion deficit will trigger an ‘economic heart attack’",
-      "summary": "Hedge fund billionaire Ray Dalio warns America about the $37 trillion national debt, calling it a potential trigger for an economic heart attack.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:09:51Z",
-      "url": "https://fortune.com/2025/07/24/ray-dalio-billionaire-economy-national-debt-economic-heart-attack-crisis/"
-    },
-    {
-      "id": 58,
-      "title": "Here's What Killed Hulk Hogan",
-      "summary": "Hulk Hogan, a legendary professional wrestler, has passed away at the age of 71 at his home. Local law enforcement responded to a medical call regarding his death.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:08:38Z",
-      "url": "https://futurism.com/neoscope/what-killed-hulk-hogan-cardiac-arrest"
-    },
-    {
-      "id": 59,
-      "title": "Edge AI chip startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures",
-      "summary": "Edge AI chip startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures in Series A round.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T19:05:40Z",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/edge-ai-chip-startup-netrasemi-raises-rs-107-crore-from-zoho-unicorn-india-ventures/articleshow/122889785.cms"
-    },
-    {
-      "id": 60,
-      "title": "Is your iPhone powerful enough for iOS 26’s magic",
-      "summary": "Apple released the highly anticipated public beta of iOS 26, marking the company’s most significant software transformation in over a decade with revolutionary design elements and restored features.",
-      "source": "Rolling Out",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:05:07Z",
-      "url": "https://rollingout.com/2025/07/24/your-iphone-powerful-enough-for-ios-26s/"
-    },
-    {
-      "id": 61,
-      "title": "Show HN: Squash – your browsing history as context for ChatGPT",
-      "summary": "Squash is a tool that uses your browsing history as context for ChatGPT, allowing the AI to remember what you've been researching or writing about. The creators built Squash because other AI tools often forget this context, making it feel like talking to a stranger.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:03:57Z",
-      "url": "https://github.com/kstonekuan/squash-browser-memory"
-    },
-    {
-      "id": 62,
-      "title": "Donald Trump Plans to Send US Homeless to Treatment Centers: Report",
-      "summary": "Donald Trump plans to send US homeless to treatment centers, raising ethical questions about forced rehabilitation.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:03:36Z",
-      "url": "https://www.newsweek.com/donald-trump-homelessness-executive-order-treatment-centers-2103709"
-    },
-    {
-      "id": 63,
-      "title": "Originality.ai: Ensure Human-Quality Content with Unmatched AI Detection",
-      "summary": "Originality.ai offers AI detection technology to ensure human-quality content, helping agencies, publishers, and businesses safeguard against AI-generated or plagiarized content. Trust is crucial in maintaining editorial integrity and brand voice.",
-      "source": "Martech.zone",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:02:55Z",
-      "url": "https://martech.zone/originality-ai-ensure-human-quality-content-with-ai-detection/"
-    },
-    {
-      "id": 64,
-      "title": "metaflow 2.16.6",
-      "summary": "Metaflow 2.16.6 release focuses on enabling AI and ML users to spend less time on engineering tasks and more time on their core work.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:01:54Z",
-      "url": "https://pypi.org/project/metaflow/2.16.6/"
-    },
-    {
-      "id": 65,
-      "title": "Foldable phones are impressive technological marvels but come with serious compromises",
-      "summary": "Foldable phones impress with design but face challenges such as high prices, durability issues, and battery limits, raising questions about their true value.",
-      "source": "Fox News",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:01:39Z",
-      "url": "https://www.foxnews.com/tech/foldable-phones-impressive-technological-marvels-come-serious-compromises"
-    },
-    {
-      "id": 66,
-      "title": "What Businesses Should Ask When Choosing an AI Model",
-      "summary": "Business leaders evaluating AI solutions should consider the specific needs of their business and not automatically opt for larger generalist AI models like OpenAI’s ChatGPT. Specialist models may be more appropriate for certain applications.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T19:01:37Z",
-      "url": "https://biztoc.com/x/8c5203786a752e4a"
-    },
-    {
-      "id": 67,
-      "title": "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing",
-      "summary": "Chime backer Lauren Kolodny led a $20 million Series A in Alix, a startup using AI to automate estate processing.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T19:01:06Z",
-      "url": "https://biztoc.com/x/0fd9ca9eb297d1f2"
-    },
-    {
-      "id": 68,
-      "title": "Is AI Taking Over Jobs? 20 Surprising AI Job Replacement Statistics",
-      "summary": "AI job replacement statistics reveal which jobs are more likely to be replaced by AI and which countries are adopting automation more slowly.",
-      "source": "Elearningindustry.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:00:56Z",
-      "url": "https://elearningindustry.com/is-ai-taking-over-jobs-surprising-ai-job-replacement-statistics"
     }
   ]
 }
