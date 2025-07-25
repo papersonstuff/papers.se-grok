@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-25T11:32:16.442Z",
+  "lastUpdate": "2025-07-25T11:50:03.521Z",
   "items": [
+    {
+      "id": 51,
+      "title": "'No evidence!' CNN scrambles to change subject as Dem drops wild suggestion about Trump",
+      "summary": "A Democratic congressman suggested President Trump may be a pedophile, leading CNN to quickly change the subject and provide a legal disclaimer. Rep. Sam Liccardo's remarks sparked controversy and raised ethical concerns about making such claims on a news program.",
+      "source": "Raw Story",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:47:40Z",
+      "url": "https://www.rawstory.com/donald-trump-jeffrey-epstein-scandal/"
+    },
+    {
+      "id": 52,
+      "title": "US stock market futures mixed today: S&P 500 steady, Nasdaq climbs on AI rally, Dow drops as Tesla and IBM disappoint",
+      "summary": "US stock market futures mixed with S&P 500 steady, Nasdaq climbing on AI rally, and Dow dropping due to disappointment from Tesla and IBM.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:47:40Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-mixed-today-sp-500-steady-nasdaq-climbs-on-ai-rally-dow-drops-as-tesla-and-ibm-disappoint/articleshow/122881933.cms"
+    },
+    {
+      "id": 53,
+      "title": "Agentic AI systems must have ‘a human in the loop,’ says Google exec",
+      "summary": "Agentic AI systems must have ‘a human in the loop,’ says Google exec. Agentic AI could fundamentally reshape businesses in less than three years.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T11:46:37Z",
+      "url": "https://biztoc.com/x/27162e14ab26307d"
+    },
+    {
+      "id": 54,
+      "title": "AMD CEO Highlights Higher Costs For US Made Chips As Supply Chain Strengthens",
+      "summary": "AMD CEO Lisa Su highlights higher costs for US made chips as supply chain strengthens",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:46:32Z",
+      "url": "https://biztoc.com/x/5a215e55105b7de1"
+    },
+    {
+      "id": 55,
+      "title": "Want to be a leader? Start where the system breaks — Bill Gates just showed students how",
+      "summary": "Bill Gates worked a customer service shift at his daughter’s AI fashion startup, Phia, to understand real user experience, emphasizing a timeless message for students and young professionals on being a true leader.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T11:45:55Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/want-to-be-a-leader-start-where-the-system-breaks-bill-gates-just-showed-students-how/articleshow/122882026.cms"
+    },
+    {
+      "id": 56,
+      "title": "Analyst Explains Why Nvidia China News Could be ‘Huge’ for ASML Holding (ASML)",
+      "summary": "ASML Holding N.V. (NASDAQ:ASML) is one of the 10 Stocks to Buy and Sell in 2025 according to a top analyst. Nvidia's China news could have significant implications for ASML Holding, as analyzed by Equity Armor Investment.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:45:35Z",
+      "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-china-114552980.html"
+    },
+    {
+      "id": 57,
+      "title": "5 AI Certifications For Beginners To Make $100,000+ In 2025",
+      "summary": "5 AI certifications for beginners can help you earn $100,000+ in 2025 without a tech background.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:45:00Z",
+      "url": "https://www.forbes.com/sites/rachelwells/2025/07/24/ai-certifications-for-beginners-to-make-100k/"
+    },
+    {
+      "id": 58,
+      "title": "SAP Q2 2025: 9% revenue growth to €9bn, with steady pace in cloud ERP",
+      "summary": "SAP reported 9% revenue growth to €9bn in Q2 2025, despite economic uncertainty. Cloud ERP revenue increased by 24%.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:45:00Z",
+      "url": "https://www.computerweekly.com/news/366628114/SAP-Q2-2025-9-revenue-growth-to-9bn-with-steady-pace-in-cloud-ERP"
+    },
+    {
+      "id": 59,
+      "title": "model-sentinel added to PyPI",
+      "summary": "model-sentinel, a security verification tool for AI model scripts, has been added to PyPI. It can detect and verify changes in Python files of AI models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T11:44:23Z",
+      "url": "https://pypi.org/project/model-sentinel/"
+    },
+    {
+      "id": 60,
+      "title": "New ChatGPT Agent : Autonomous AI Assistant Helping You Say Goodbye to Tedious Tasks",
+      "summary": "OpenAI has introduced the ChatGPT Agent, an autonomous AI assistant that can help with managing schedules, analyzing data, and writing code with minimal input from the user.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-24T11:43:08Z",
+      "url": "https://www.geeky-gadgets.com/chatgpt-agent-ai-assistant/"
+    },
+    {
+      "id": 61,
+      "title": "PAR Technology Corp (PAR) Continues to Grow Revenue in Q2",
+      "summary": "PAR Technology Corp (PAR) continues to grow revenue in Q2 according to Laughing Water Capital's second-quarter 2025 investor letter.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:43:05Z",
+      "url": "https://finance.yahoo.com/news/par-technology-corp-par-continues-114305382.html"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: Boreal.chat, an open AI chat platform, fast, and reliable",
+      "summary": "Boreal.chat is an open AI chat platform that is fast, reliable, and rich in features. It stands out with its unique combination of technical excellence and user experience.",
+      "source": "Github.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T11:42:32Z",
+      "url": "https://github.com/wosherco/boreal.chat"
+    },
+    {
+      "id": 63,
+      "title": "Tariff Uncertainty Hurt Toy Sales In Q2, Hasbro And Mattel Report",
+      "summary": "Tariff uncertainty led to a decline in toy sales in Q2 for Hasbro and Mattel, as retailers delayed orders worrying about potential tariffs.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:42:01Z",
+      "url": "https://www.forbes.com/sites/joanverdon/2025/07/24/tariff-uncertainty-hurt-toy-sales-in-q2-hasbro-and-mattel-report/"
+    },
+    {
+      "id": 64,
+      "title": "Google Search Central APAC 2025: Everything From Day 2 via @sejournal, @TaylorDanRW",
+      "summary": "The second day of the Google Search Central Live APAC 2025 focused on indexing, with a detailed explanation of how Google parses HTML. Cherry Prommawin provided insights into the indexing process.",
+      "source": "Search Engine Journal",
+      "category": "research",
+      "timestamp": "2025-07-24T11:41:21Z",
+      "url": "https://www.searchenginejournal.com/google-search-central-apac-2025-everything-from-day-two/551941/"
+    },
+    {
+      "id": 65,
+      "title": "Laughing Water Capital’s View on Lifecore Biomedical (LFCR)",
+      "summary": "Laughing Water Capital released its second-quarter 2025 investor letter, including its view on Lifecore Biomedical (LFCR).",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:40:44Z",
+      "url": "https://finance.yahoo.com/news/laughing-water-capital-view-lifecore-114044634.html"
+    },
     {
       "id": 51,
       "title": "Elon Musk floats robots in ‘cute outfits’ while Tesla earnings miss",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T10:15:52Z",
       "url": "https://www.geeky-gadgets.com/advanced-chatgpt-capabilities/"
-    },
-    {
-      "id": 54,
-      "title": "There and Back Again, a San Francisco Tale",
-      "summary": "San Francisco's economic cycle of growth and decline is predicted to continue over the next few years.",
-      "source": "500ish.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T10:15:39Z",
-      "url": "https://500ish.com/there-and-back-again-a-san-francisco-tale-027329210f61"
-    },
-    {
-      "id": 55,
-      "title": "Show HN: Built an AI Mock Interview tool because peer-to-peer doesn't scale",
-      "summary": "MockInterviews.dev is launching an AI Mock Interview tool to provide engineers with realistic practice for System Design Interviews and Coding Interviews. After a successful beta run on Educative.io, the tool is now being officially launched.",
-      "source": "Mockinterviews.dev",
-      "category": "startups",
-      "timestamp": "2025-07-24T10:15:22Z",
-      "url": "https://www.mockinterviews.dev"
-    },
-    {
-      "id": 56,
-      "title": "SAP Business AI: Release Highlights Q2 2025",
-      "summary": "In Q2 2025, SAP continued accelerating the delivery of high-impact AI innovations to customers with enhancements and additional AI scenarios.",
-      "source": "Sap.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T10:15:00Z",
-      "url": "https://news.sap.com/2025/07/sap-business-ai-release-highlights-q2-2025/"
-    },
-    {
-      "id": 57,
-      "title": "Primary 1 registration: 33 schools oversubscribed in Phase 2B",
-      "summary": "Primary 1 registration sees 33 schools oversubscribed in Phase 2B, with 29 schools going to ballot. Use interactive table to view results for each school.",
-      "source": "CNA",
-      "category": "applications",
-      "timestamp": "2025-07-24T10:13:19Z",
-      "url": "https://www.channelnewsasia.com/singapore/primary-1-registration-2025-p1-phase-2b-results-table-5256246"
-    },
-    {
-      "id": 58,
-      "title": "9 basic features that are still missing from Pixel Launcher after all these years",
-      "summary": "9 basic features missing from Pixel Launcher despite being around for years",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-24T10:12:11Z",
-      "url": "https://www.androidpolice.com/basic-features-missing-from-pixel-launcher/"
-    },
-    {
-      "id": 59,
-      "title": "Microsoft is planning a huge upgrade for Visual Studio",
-      "summary": "Microsoft is planning a huge upgrade for Visual Studio, with a major headlining feature expected to be included.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-24T10:12:02Z",
-      "url": "https://www.neowin.net/news/microsoft-is-planning-a-huge-upgrade-for-visual-studio/"
-    },
-    {
-      "id": 60,
-      "title": "demiurg 0.1.18",
-      "summary": "demiurg 0.1.18 is an AI Agent Framework that allows for the creation of intelligent agents using multiple LLM providers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T10:11:28Z",
-      "url": "https://pypi.org/project/demiurg/0.1.18/"
-    },
-    {
-      "id": 61,
-      "title": "Teachers Retirement System of The State of Kentucky Has $2.19 Million Stock Holdings in Monolithic Power Systems, Inc. (NASDAQ:MPWR)",
-      "summary": "Teachers Retirement System of The State of Kentucky increased its stock holdings in Monolithic Power Systems, Inc. by 5.9% during the first quarter, with a total value of $2.19 million.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T10:11:04Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/teachers-retirement-system-of-the-state-of-kentucky-has-2-19-million-stock-holdings-in-monolithic-power-systems-inc-nasdaqmpwr/"
-    },
-    {
-      "id": 62,
-      "title": "meta develops smart bracelet that can replace keyboard and mouse for computers",
-      "summary": "Meta has developed a smart bracelet that can replace keyboard and mouse for computers by allowing people to control devices with signals from wrist muscles.",
-      "source": "Designboom",
-      "category": "innovation",
-      "timestamp": "2025-07-24T10:10:29Z",
-      "url": "https://www.designboom.com/technology/meta-smart-bracelet-replace-keyboard-mouse-computers-reality-labs-semg-07-24-2025/"
-    },
-    {
-      "id": 63,
-      "title": "I've been an English teacher for 20 years, and my students are now relying on AI to do everything. It's making my job impossible",
-      "summary": "An English teacher expresses frustration over students relying on AI, specifically ChatGPT, to do their schoolwork, making teaching challenging",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T10:10:13Z",
-      "url": "https://biztoc.com/x/4f2b905cc45acc3a"
-    },
-    {
-      "id": 64,
-      "title": "How a 610 credit score affects personal loan approval and what borrowers should know",
-      "summary": "A personal loan with a 610 credit score can affect approval, with higher interest rates, stricter terms, and limited lender options.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-24T10:10:08Z",
-      "url": "https://www.livemint.com/money/personal-finance/how-a-610-credit-score-affects-personal-loan-approval-and-what-borrowers-should-know-11753347818808.html"
-    },
-    {
-      "id": 65,
-      "title": "How a Nudge from Shareholders Helped Amazon Cut Plastic Waste",
-      "summary": "Environmental activists have for years pressed Amazon to reduce the plastic used in shipping more than 20 million packages daily. A nudge from shareholders has helped Amazon cut plastic waste, as shown in their latest sustainability report.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T10:10:02Z",
-      "url": "https://biztoc.com/x/4e3ed2b2b244988c"
-    },
-    {
-      "id": 51,
-      "title": "Biosimilars Markets Global Forecast Report 2025-2035 | Launch of Glp-1 Biosimilars, Increasing Strategic Partnerships and Collaborations, & Growing Focus on Advanced R&D Fueling Opportunities",
-      "summary": "The global biosimilars market is expected to surge to USD 72.29 billion by 2035, with a CAGR of 7.5% driven by factors such as rising awareness of biosimilar safety, favorable insurance structures, and demand for cost-effective treatments.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T09:44:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120835/28124/en/Biosimilars-Markets-Global-Forecast-Report-2025-2035-Launch-of-Glp-1-Biosimilars-Increasing-Strategic-Partnerships-and-Collaborations-Growing-Focus-on-Advanced-R-D-Fueling-Opportun.html"
-    },
-    {
-      "id": 52,
-      "title": "Sam Altman won't trust ChatGPT with his \"medical fate\" unless a doctor is involved — \"Maybe I'm a dinosaur here\"",
-      "summary": "Sam Altman expresses concerns about ChatGPT's reliability in the healthcare sector and highlights potential dangers of generative AI technology in various professions.",
-      "source": "Windows Central",
-      "category": "ethics",
-      "timestamp": "2025-07-24T09:43:26Z",
-      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/sam-altman-wont-trust-chatgpt-with-his-medical-fate-unless-a-doctor-is-involved"
-    },
-    {
-      "id": 53,
-      "title": "Inside the whisper networks where laid-off coworkers job hunt and commiserate",
-      "summary": "Former coworkers are using invite-only groups to support each other in job searching and sharing job leads.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-24T09:43:01Z",
-      "url": "https://www.businessinsider.com/private-layoff-groups-job-loss-2025-7"
     }
   ]
 }
