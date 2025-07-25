@@ -7,8 +7,7 @@
     "react": "latest",
     "react-dom": "latest",
     "@supabase/supabase-js": "^2.45.4",
-    "next-auth": "^4.24.7",
-    "@auth/supabase-adapter": "latest",
+    "@supabase/ssr": "latest",  // New
     "stripe": "^16.12.0"
   },
   "scripts": {
