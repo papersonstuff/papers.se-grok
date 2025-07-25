@@ -1,6 +1,60 @@
 {
-  "lastUpdate": "2025-07-25T08:49:58.894Z",
+  "lastUpdate": "2025-07-25T09:19:57.974Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Google Says You Don’t Need AEO Or GEO To Rank In AI Overviews via @sejournal, @martinibuster",
+      "summary": "Google's Gary Illyes confirmed that standard SEO is all you need to rank in AI Overviews and AI Mode.",
+      "source": "Search Engine Journal",
+      "category": "innovation",
+      "timestamp": "2025-07-24T09:17:25Z",
+      "url": "https://www.searchenginejournal.com/google-says-you-dont-need-aeo-or-geo-to-rank-in-ai-overviews/551939/"
+    },
+    {
+      "id": 52,
+      "title": "Survey: 7 in 10 Google Home users say their devices are no longer reliable",
+      "summary": "Survey finds that 7 in 10 Google Home users are experiencing reliability issues with their devices, highlighting widespread problems with the speakers and hubs.",
+      "source": "Android Authority",
+      "category": "applications",
+      "timestamp": "2025-07-24T09:16:12Z",
+      "url": "https://www.androidauthority.com/google-home-performance-survey-results-3580515/"
+    },
+    {
+      "id": 53,
+      "title": "Europe ‘sleepwalking’ into deeper dependency on Microsoft cloud technologies, claims OCC",
+      "summary": "Europe 'sleepwalking' into deeper dependency on Microsoft cloud technologies, claims OCC - Research shows strong reliance on Microsoft's cloud-based productivity tools in EU public sector organizations.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T09:16:00Z",
+      "url": "https://www.computerweekly.com/news/366628053/Europe-sleepwalking-into-deeper-dependency-on-Microsoft-cloud-technologies-claims-OCC"
+    },
+    {
+      "id": 54,
+      "title": "The Mirror Test: How We've Overcomplicated AI Self-Recognition",
+      "summary": "Current academic AI self-recognition tests are more complex and challenging than the original mirror test designed by Gallup.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-24T09:15:02Z",
+      "url": "https://www.lesswrong.com/posts/dCCuEnMqoetw7zcdf/the-mirror-test-how-we-ve-overcomplicated-ai-self-1"
+    },
+    {
+      "id": 55,
+      "title": "SMEs need channel help moving off Windows 10",
+      "summary": "SMEs are in need of channel help to migrate off Windows 10, as research from Dell and Intel indicates that smaller firms are moving slower in the migration process.",
+      "source": "ComputerWeekly.com",
+      "category": "research",
+      "timestamp": "2025-07-24T09:15:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366628039/SMEs-need-channel-help-moving-off-Windows-10"
+    },
+    {
+      "id": 56,
+      "title": "memory-agent 1.0.44",
+      "summary": "memory-agent 1.0.44 is a Python library designed for advanced memory management in AI agent applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T09:14:19Z",
+      "url": "https://pypi.org/project/memory-agent/1.0.44/"
+    },
     {
       "id": 51,
       "title": "Salesforce Inc. (NYSE:CRM) CEO Marc Benioff Sells 2,250 Shares",
@@ -396,60 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-24T07:18:33Z",
       "url": "https://www.geeky-gadgets.com/ai-wins-gold-math-olympiad-2025/"
-    },
-    {
-      "id": 52,
-      "title": "Comparing Pony AI (NASDAQ:PONY) and GATX (NYSE:GATX)",
-      "summary": "A comparison between Pony AI and GATX as mid-cap transportation companies based on profitability and analyst recommendations.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:16:46Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/comparing-pony-ai-nasdaqpony-and-gatx-nysegatx/"
-    },
-    {
-      "id": 53,
-      "title": "yica-mirage 1.0.0",
-      "summary": "YICA-Mirage 1.0.0 is an AI computing optimization framework designed for in-memory computing architecture.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:16:33Z",
-      "url": "https://pypi.org/project/yica-mirage/1.0.0/"
-    },
-    {
-      "id": 54,
-      "title": "yica-mirage added to PyPI",
-      "summary": "The AI computing optimization framework YICA-Mirage has been added to PyPI, designed for in-memory computing architecture.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:16:33Z",
-      "url": "https://pypi.org/project/yica-mirage/"
-    },
-    {
-      "id": 55,
-      "title": "ola-mem0ai 0.1.96",
-      "summary": "ola-mem0ai 0.1.96 introduces long-term memory capabilities for AI agents, enabling them to retain and recall information over extended periods of time.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:16:31Z",
-      "url": "https://pypi.org/project/ola-mem0ai/0.1.96/"
-    },
-    {
-      "id": 56,
-      "title": "Fungi, Carbon, And The Climate Risk Map We Missed",
-      "summary": "Soil fungi store 13 billion tons of CO₂ annually, yet remain ignored in climate risk models. New global maps reveal why fungi are key to ESG, resilience, and restoration.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-24T07:15:37Z",
-      "url": "https://www.forbes.com/sites/feliciajackson/2025/07/24/fungi-carbon-and-the-climate-risk-map-we-missed/"
-    },
-    {
-      "id": 57,
-      "title": "‘America’s AI Action Plan’ may spell trouble for the creative industries",
-      "summary": "'America’s AI Action Plan' may impact the creative industries by focusing on dismantling regulatory barriers, without mentioning copyright specifically.",
-      "source": "Music Ally",
-      "category": "ethics",
-      "timestamp": "2025-07-24T07:14:22Z",
-      "url": "http://musically.com/2025/07/24/americas-ai-action-plan-may-spell-trouble-for-the-creative-industries/"
     }
   ]
 }
