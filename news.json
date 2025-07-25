@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-25T06:24:47.631Z",
+  "lastUpdate": "2025-07-25T06:55:04.286Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sam Altman is worried about one kind of tech messing with kids' brains — and it's not AI",
+      "summary": "Sam Altman expresses concern that short video feed dopamine hits may be negatively impacting kids' brain development, not AI.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T06:50:47Z",
+      "url": "https://biztoc.com/x/f9340ca7bb3995ad"
+    },
+    {
+      "id": 52,
+      "title": "(PR) G.Skill Announces T5 Neo Series DDR5-6400 CL38 512GB (64GBx8) Overclocked R-DIMM Memory Kit",
+      "summary": "G.Skill has announced the release of a high-performance DDR5-6400 CL38 512GB memory kit, showcasing advancements in memory technology and performance overclocking.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:50:36Z",
+      "url": "https://www.techpowerup.com/339217/g-skill-announces-t5-neo-series-ddr5-6400-cl38-512gb-64gbx8-overclocked-r-dimm-memory-kit"
+    },
+    {
+      "id": 53,
+      "title": "Are you a browser or a builder? Why AI’s real disruption demands a different mindset",
+      "summary": "True disruption from AI requires a shift from being a passive browser to an active builder. Businesses need to rebuild from the ground up to truly transform with AI agents as just the starting point.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:49:13Z",
+      "url": "https://www.techradar.com/pro/are-you-a-browser-or-a-builder-why-ais-real-disruption-demands-a-different-mindset"
+    },
+    {
+      "id": 54,
+      "title": " Kebab for comfort: After Germany’s DFB-Pokal semi-final exit",
+      "summary": "After Germany’s DFB-Pokal semi-final exit, the DFB women experienced a bitter evening in the European Championship semi-final against Spain. The AI-related news may involve the use of technology for analyzing sports matches, potentially raising ethical questions about the impact of AI on players and teams.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T06:49:00Z",
+      "url": "https://onefootball.com/en/news/kebab-for-comfort-after-germanys-dfb-pokal-semi-final-exit-41417274"
+    },
+    {
+      "id": 55,
+      "title": "Reflections from Ooty retreat 2.0",
+      "summary": "Reflections from conducting an AI alignment retreat in Ooty, India to be useful for organizers planning similar events.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-24T06:48:09Z",
+      "url": "https://www.lesswrong.com/posts/KerjdwMehqrHDHEhJ/reflections-from-ooty-retreat-2-0"
+    },
+    {
+      "id": 56,
+      "title": "CSB330: Super Kong God Super Kong feat. Gene Park",
+      "summary": "Older Twitch VODs are now being uploaded to a new channel, and a new game feat. Gene Park called Super Kong God is available for mobile download.",
+      "source": "Libsyn.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T06:47:25Z",
+      "url": "https://superbestfriendcast.libsyn.com/csb330-super-kong-god-super-kong-feat-gene-park"
+    },
+    {
+      "id": 57,
+      "title": "China plans network to sell surplus computing power in crackdown on data centre glut",
+      "summary": "China plans network to sell surplus computing power in crackdown on data centre glut.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T06:46:21Z",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-plans-network-to-sell-surplus-computing-power-in-crackdown-on-data-centre-glut/articleshow/122874915.cms"
+    },
+    {
+      "id": 58,
+      "title": "I tested Samsung's Galaxy Watch 8, and it kickstarted my motivation to get running again",
+      "summary": "The Galaxy Watch 8 is an innovative fitness tracker that kickstarted the user's motivation to get running again, despite some convoluted features. The overall recommendation is positive for most people.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-24T06:45:14Z",
+      "url": "https://www.zdnet.com/article/i-tested-samsungs-galaxy-watch-8-and-it-kickstarted-my-motivation-to-get-running-again/"
+    },
+    {
+      "id": 59,
+      "title": "Google chief says cloud spend is paying off",
+      "summary": "Google's investment in cloud technology, particularly in artificial intelligence, is proving to be lucrative as their public cloud business grows. They are now setting their sights on conquering the new frontier of agentic search.",
+      "source": "ComputerWeekly.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T06:45:00Z",
+      "url": "https://www.computerweekly.com/news/366627967/Google-chief-says-cloud-spend-is-paying-off"
+    },
+    {
+      "id": 60,
+      "title": "Redefining Smart Buildings Through AI and Low-Carbon Innovation",
+      "summary": "Humanity tends to be hesitant towards embracing major transformations immediately, but AI and low-carbon innovation are redefining smart buildings. Similar to past advancements like the Gutenberg press and urban electrification, fears and skepticism are being overcome to make way for progress in office computerization.",
+      "source": "ArchDaily",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:45:00Z",
+      "url": "https://www.archdaily.com/1032019/redefining-smart-buildings-through-ai-and-low-carbon-innovation"
+    },
+    {
+      "id": 61,
+      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas",
+      "summary": "Donald Trump reveals new AI strategy focusing on global dominance, cutting regulations, and speeding up AI supercomputer construction.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T06:43:06Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/articleshow/122874823.cms"
+    },
+    {
+      "id": 62,
+      "title": "Sam Altman is worried about one kind of tech messing with kids' brains — and it's not AI",
+      "summary": "Sam Altman expresses concern that short video feeds could be negatively impacting children's brain development in a significant way, aside from AI.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-24T06:43:04Z",
+      "url": "https://www.businessinsider.com/sam-altman-social-media-not-ai-warping-kids-brains-2025-7"
+    },
     {
       "id": 51,
       "title": "aider-code 0.1.0.post0",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T04:30:27Z",
       "url": "https://www.helpnetsecurity.com/2025/07/24/adversaries-application-layer-attacks/"
-    },
-    {
-      "id": 62,
-      "title": "Jobs boost for PayPal as new AI team will add 100 high-tech roles to data science centre in Dublin",
-      "summary": "PayPal will add 100 high-tech data science roles to its Dublin office, creating a jobs boost and reversing a trend of job cuts in recent years.",
-      "source": "Independent.ie",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:30:00Z",
-      "url": "https://www.independent.ie/business/technology/jobs-boost-for-paypal-as-new-ai-team-will-add-100-high-tech-roles-to-data-science-centre-in-dublin/a198203840.html"
-    },
-    {
-      "id": 63,
-      "title": "IT services company FutureRange acquires division of DigitalWell as it eyes expansion",
-      "summary": "IT services company FutureRange acquires division of DigitalWell as it eyes expansion, adding 18 engineers and a customer portfolio.",
-      "source": "Independent.ie",
-      "category": "startups",
-      "timestamp": "2025-07-24T04:30:00Z",
-      "url": "https://www.independent.ie/business/technology/it-services-company-futurerange-acquires-division-of-digitalwell-as-it-eyes-expansion/a1588738882.html"
-    },
-    {
-      "id": 64,
-      "title": "9 essential Perplexity AI search tips and tricks",
-      "summary": "9 essential Perplexity AI search tips and tricks for out-Googling Google with the next generation of search.",
-      "source": "Fast Company",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:30:00Z",
-      "url": "https://www.fastcompany.com/91367673/perplexity-tips"
-    },
-    {
-      "id": 65,
-      "title": "Proton unveils Lumo AI chatbot with strong privacy features",
-      "summary": "Proton unveils Lumo AI chatbot with strong privacy features, adding to their security-focused services. Lumo AI can generate code, summarize documents, and write emails.",
-      "source": "Yugatech.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:25:50Z",
-      "url": "https://www.yugatech.com/news/proton-unveils-lumo-ai-chatbot-with-strong-privacy-features/"
-    },
-    {
-      "id": 66,
-      "title": "Linkhome Holdings Inc. Announces Pricing of Upsized $6,000,000 Initial Public Offering",
-      "summary": "Linkhome Holdings Inc. announces pricing of upsized $6,000,000 initial public offering for their AI-powered real estate platform.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T04:25:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120729/0/en/Linkhome-Holdings-Inc-Announces-Pricing-of-Upsized-6-000-000-Initial-Public-Offering.html"
-    },
-    {
-      "id": 67,
-      "title": "Days of US tech companies building factories in China, hiring workers in India 'over': Trump",
-      "summary": "President Trump criticizes US tech companies for moving manufacturing and hiring overseas, citing China and India. He believes they have taken advantage of American freedoms while neglecting domestic operations.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:23:03Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/days-of-us-tech-companies-building-factories-in-china-hiring-workers-in-india-over-trump/articleshow/122871960.cms"
-    },
-    {
-      "id": 51,
-      "title": "mcp-stock-screener 1.0.3",
-      "summary": "mcp-stock-screener 1.0.3 is an AI-powered system for financial analysis that can process natural language queries and provide structured stock analysis results via MCP.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:06:48Z",
-      "url": "https://pypi.org/project/mcp-stock-screener/1.0.3/"
-    },
-    {
-      "id": 52,
-      "title": "AI Warfare in Gaza: Targeted Killings, Automated Surveillance (Khalil Dewan)",
-      "summary": "AI Warfare in Gaza involving targeted killings and automated surveillance is discussed as the future of warfare, highlighting the use of AI technology in conflict zones.",
-      "source": "Juancole.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:06:13Z",
-      "url": "https://www.juancole.com/2025/07/targeted-automated-surveillance.html"
-    },
-    {
-      "id": 53,
-      "title": "What’s Behind Donald Trump’s Latest Health Diagnosis—And Is the White House Downplaying It?",
-      "summary": "Donald Trump has been diagnosed with chronic venous insufficiency after concerns over leg swelling, raising questions about transparency in the White House regarding his health.",
-      "source": "The Inquisitr",
-      "category": "ethics",
-      "timestamp": "2025-07-24T04:05:23Z",
-      "url": "https://www.inquisitr.com/whats-behind-donald-trumps-latest-health-diagnosis-and-is-the-white-house-downplaying-it"
-    },
-    {
-      "id": 54,
-      "title": "Amazon buys AI wearable that’s always listening",
-      "summary": "Amazon has acquired Bee, a company that makes a bracelet recording everything it hears. This move raises ethical concerns surrounding privacy and surveillance, particularly as Amazon is already perceived as spying on people.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T04:04:22Z",
-      "url": "https://biztoc.com/x/f4adf3ba9708244e"
-    },
-    {
-      "id": 55,
-      "title": "Media Briefing: New AI-focused roles signal an evolution of AI strategy at news publishers",
-      "summary": "New AI-focused executive roles at news publishers signal an evolution of AI strategy, as covered in the latest Media Briefing for Digiday+ members.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:04:16Z",
-      "url": "https://biztoc.com/x/33748f1c2c336c8e"
-    },
-    {
-      "id": 56,
-      "title": "Google’s AI Overviews reach over 2 billion monthly users",
-      "summary": "Google’s AI Overviews reach over 2 billion monthly users, showing rapid growth and indicating how Google is transforming online discourse.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:04:14Z",
-      "url": "https://biztoc.com/x/762bf13ec5ab57af"
     }
   ]
 }
