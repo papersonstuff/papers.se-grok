@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-25T08:21:38.884Z",
+  "lastUpdate": "2025-07-25T08:49:58.894Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Salesforce Inc. (NYSE:CRM) CEO Marc Benioff Sells 2,250 Shares",
+      "summary": "Salesforce Inc. CEO Marc Benioff sold 2,250 shares of the company's stock for a total value of $591,592.50.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:48:56Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/salesforce-inc-nysecrm-ceo-marc-benioff-sells-2250-shares/"
+    },
+    {
+      "id": 52,
+      "title": "phosphobot 0.3.76",
+      "summary": "phosphobot 0.3.76 is an AI-ready robotics dev kit that includes built-in remote control and VLA support.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T08:48:52Z",
+      "url": "https://pypi.org/project/phosphobot/0.3.76/"
+    },
+    {
+      "id": 53,
+      "title": "Laptop CPUs in 2025 Explained: What to Know Before Buying Your Next Laptop",
+      "summary": "Laptop CPUs in 2025 Explained: Intel and AMD on the x86 side, with Apple and Qualcomm making Arm-based processors. Breakdown of advantages and drawbacks to help pick the right chip.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:48:26Z",
+      "url": "https://www.cnet.com/tech/computing/laptop-cpus-in-2025-explained-what-you-need-to-know-before-buying-your-next-laptop/"
+    },
+    {
+      "id": 54,
+      "title": "Who’s Winning the US-China AI Race?",
+      "summary": "While markets clearly reflect the belief that the United States is ahead in the AI arms race, early leadership does not mean victory – especially when it comes to innovation.",
+      "source": "Project Syndicate",
+      "category": "research",
+      "timestamp": "2025-07-24T08:47:33Z",
+      "url": "https://www.project-syndicate.org/commentary/trump-cuts-to-basic-research-in-us-could-enable-china-to-win-ai-race-by-stephen-s-roach-2025-07"
+    },
+    {
+      "id": 55,
+      "title": "Benedict Cumberbatch to Receive Golden Eye Award at Zurich Film Festival – Global Bulletin",
+      "summary": "Benedict Cumberbatch will receive the Golden Eye Award at the Zurich Film Festival for his multifaceted career and role in 'The Thing With Feathers'. He also produced the film through SunnyMarch and Lobo Films.",
+      "source": "Variety",
+      "category": "innovation",
+      "timestamp": "2025-07-24T08:45:14Z",
+      "url": "https://variety.com/2025/film/news/benedict-cumberbatch-golden-eye-award-zurich-film-festival-1236468643/"
+    },
+    {
+      "id": 56,
+      "title": "Ignite Planners LLC Has $257,000 Stake in Accenture PLC (NYSE:ACN)",
+      "summary": "Ignite Planners LLC increased its stake in Accenture PLC by 6.6% during the 1st quarter, now holding $257,000 worth of shares.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:45:09Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/ignite-planners-llc-has-257000-stake-in-accenture-plc-nyseacn/"
+    },
+    {
+      "id": 57,
+      "title": "memory-agent 1.0.4",
+      "summary": "Memory-agent 1.0.4 is a Python library designed for advanced memory management in AI agent applications, offering improved functionality for developers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:44:29Z",
+      "url": "https://pypi.org/project/memory-agent/1.0.4/"
+    },
+    {
+      "id": 58,
+      "title": "GW&K Investment Management LLC Has $48,000 Stock Position in Insight Enterprises, Inc. (NASDAQ:NSIT)",
+      "summary": "GW&K Investment Management LLC reduced its stock position in Insight Enterprises, Inc. by 65.3% during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:43:07Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/gwk-investment-management-llc-has-48000-stock-position-in-insight-enterprises-inc-nasdaqnsit/"
+    },
+    {
+      "id": 59,
+      "title": "High Purity Quartz (HPQ) Strategic Research Report 2025 | Market to Reach $1.3 Billion by 2030 - Geopolitical Tensions and Export Controls Pose Risks to HPQ Trade Flows and International Sourcing",
+      "summary": "High Purity Quartz (HPQ) market expected to reach $1.3 billion by 2030, but geopolitical tensions and export controls could impact trade flows. HPQ is critical for semiconductors and electronics, with limited supply locations causing concerns.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:43:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120807/28124/en/High-Purity-Quartz-HPQ-Strategic-Research-Report-2025-Market-to-Reach-1-3-Billion-by-2030-Geopolitical-Tensions-and-Export-Controls-Pose-Risks-to-HPQ-Trade-Flows-and-International-.html"
+    },
+    {
+      "id": 60,
+      "title": "New Microsoft Copilot Notebooks : AI Notes That Think for You – (NotebookLM Alternative)",
+      "summary": "New Microsoft Copilot Notebooks enable notes to think for users, creating a workspace where files, ideas, and research collaborate to simplify workload.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:42:48Z",
+      "url": "https://www.geeky-gadgets.com/microsoft-copilot-notebooks-ai/"
+    },
+    {
+      "id": 61,
+      "title": "Trump's AI plans include a time bomb for tech companies",
+      "summary": "The Trump administration's new AI Action Plan offers industry support to compete with China but also includes a controversial provision dictating how chatbots handle political issues, creating an ethical dilemma for tech companies.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T08:42:01Z",
+      "url": "https://biztoc.com/x/1e1aca2cdd6008ad"
+    },
+    {
+      "id": 62,
+      "title": "memory-agent 1.0.3",
+      "summary": "memory-agent 1.0.3 is a Python library designed for advanced memory management in AI agent applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:41:35Z",
+      "url": "https://pypi.org/project/memory-agent/1.0.3/"
+    },
+    {
+      "id": 63,
+      "title": "GW&K Investment Management LLC Buys 37 Shares of CrowdStrike (NASDAQ:CRWD)",
+      "summary": "GW&K Investment Management LLC increased its stake in CrowdStrike by 28.2% during the first quarter, reflecting confidence in the company's performance and potential growth.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:38:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/gwk-investment-management-llc-buys-37-shares-of-crowdstrike-nasdaqcrwd/"
+    },
+    {
+      "id": 64,
+      "title": "Non-Emergency Medical Transportation Strategic Business Report 2025-2030 | Shift Toward Value-Based Care Encourages Health Systems to Partner with NEMT Providers",
+      "summary": "The non-emergency medical transportation (NEMT) market is experiencing growth due to regulatory changes, expanding insurance coverage, and technological enhancements. Health systems are partnering with NEMT providers to streamline service delivery via digital platforms and enhance patient care.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-24T08:38:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120806/28124/en/Non-Emergency-Medical-Transportation-Strategic-Business-Report-2025-2030-Shift-Toward-Value-Based-Care-Encourages-Health-Systems-to-Partner-with-NEMT-Providers.html"
+    },
+    {
+      "id": 65,
+      "title": "International Business Machines Corporation (NYSE:IBM) Shares Bought by GW&K Investment Management LLC",
+      "summary": "GW&K Investment Management LLC increased its stake in IBM shares by 17.9% in the 1st quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:36:54Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/international-business-machines-corporation-nyseibm-shares-bought-by-gwk-investment-management-llc/"
+    },
     {
       "id": 51,
       "title": "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) Shares Bought by New York State Common Retirement Fund",
@@ -315,141 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T07:14:22Z",
       "url": "http://musically.com/2025/07/24/americas-ai-action-plan-may-spell-trouble-for-the-creative-industries/"
-    },
-    {
-      "id": 58,
-      "title": "Tesla’s Nightmare Continues As Musk Warns of “Rough Quarters”Ahead",
-      "summary": "Tesla reported a significant decrease in profits and revenue due to factors like weakening demand for EVs and disappearing tax credits. Musk warns of challenging quarters ahead for the company.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:14:11Z",
-      "url": "https://gizmodo.com/teslas-nightmare-continues-as-musk-warns-of-rough-quartersahead-2000633589"
-    },
-    {
-      "id": 59,
-      "title": "Nokia sees stronger second half after second-quarter miss",
-      "summary": "Nokia's CEO predicts a stronger second half in 2025, following a profit warning due to a weaker US dollar and tariffs.",
-      "source": "RTE",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:13:43Z",
-      "url": "https://www.rte.ie/news/business/2025/0724/1525094-nokia-quarterly-results/"
-    },
-    {
-      "id": 60,
-      "title": "(PR) SK hynix Announces 2Q25 Financial Results",
-      "summary": "SK hynix Inc. announced its financial results for the second quarter of 2025, reporting revenues of 22.232 trillion won, operating profit of 9.2129 trillion won, and net profit of 6.9962 trillion won.",
-      "source": "Techpowerup.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:13:05Z",
-      "url": "https://www.techpowerup.com/339220/sk-hynix-announces-2q25-financial-results"
-    },
-    {
-      "id": 61,
-      "title": "BE Semiconductor Industries N.V. Announces Q2-25 Results",
-      "summary": "BE Semiconductor Industries N.V. reported Q2-25 revenue of €148.1 million and net income of €32.1 million. For the first half of 2025, the company had revenue of €292.2 million and net income of €63.6 million.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120777/0/en/BE-Semiconductor-Industries-N-V-Announces-Q2-25-Results.html"
-    },
-    {
-      "id": 62,
-      "title": "zohencel-ai 0.4.9",
-      "summary": "zohencel-ai 0.4.9 is the world's first 'Text to ML model' support library, which also features an analysis chart bot and a customizable AI voice assistant.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:08:21Z",
-      "url": "https://pypi.org/project/zohencel-ai/0.4.9/"
-    },
-    {
-      "id": 63,
-      "title": "Whalecome to Quanzhou: A journey of digital Maritime Silk Road",
-      "summary": "Whalecome to Quanzhou: A journey of digital Maritime Silk Road explores the use of AI and digital technologies in enhancing the Maritime Silk Road experience in Quanzhou.",
-      "source": "中国日报",
-      "category": "applications",
-      "timestamp": "2025-07-24T07:08:18Z",
-      "url": "https://www.chinadaily.com.cn/a/202507/23/WS6880bcb8a310ad07b5d9191e.html"
-    },
-    {
-      "id": 64,
-      "title": "‘Hopefully I won’t break anything’: Bill Gates takes on a day in customer service at his daughter’s startup",
-      "summary": "Bill Gates joined the customer service team at his daughter's startup Phia, gaining firsthand experience in understanding user needs and feedback.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T07:08:12Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/hopefully-i-wont-break-anything-bill-gates-takes-on-a-day-in-customer-service-at-his-daughters-startup-heres-how-it-went/articleshow/122874264.cms"
-    },
-    {
-      "id": 51,
-      "title": "Sam Altman is worried about one kind of tech messing with kids' brains — and it's not AI",
-      "summary": "Sam Altman expresses concern that short video feed dopamine hits may be negatively impacting kids' brain development, not AI.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T06:50:47Z",
-      "url": "https://biztoc.com/x/f9340ca7bb3995ad"
-    },
-    {
-      "id": 52,
-      "title": "(PR) G.Skill Announces T5 Neo Series DDR5-6400 CL38 512GB (64GBx8) Overclocked R-DIMM Memory Kit",
-      "summary": "G.Skill has announced the release of a high-performance DDR5-6400 CL38 512GB memory kit, showcasing advancements in memory technology and performance overclocking.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:50:36Z",
-      "url": "https://www.techpowerup.com/339217/g-skill-announces-t5-neo-series-ddr5-6400-cl38-512gb-64gbx8-overclocked-r-dimm-memory-kit"
-    },
-    {
-      "id": 53,
-      "title": "Are you a browser or a builder? Why AI’s real disruption demands a different mindset",
-      "summary": "True disruption from AI requires a shift from being a passive browser to an active builder. Businesses need to rebuild from the ground up to truly transform with AI agents as just the starting point.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:49:13Z",
-      "url": "https://www.techradar.com/pro/are-you-a-browser-or-a-builder-why-ais-real-disruption-demands-a-different-mindset"
-    },
-    {
-      "id": 54,
-      "title": " Kebab for comfort: After Germany’s DFB-Pokal semi-final exit",
-      "summary": "After Germany’s DFB-Pokal semi-final exit, the DFB women experienced a bitter evening in the European Championship semi-final against Spain. The AI-related news may involve the use of technology for analyzing sports matches, potentially raising ethical questions about the impact of AI on players and teams.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T06:49:00Z",
-      "url": "https://onefootball.com/en/news/kebab-for-comfort-after-germanys-dfb-pokal-semi-final-exit-41417274"
-    },
-    {
-      "id": 55,
-      "title": "Reflections from Ooty retreat 2.0",
-      "summary": "Reflections from conducting an AI alignment retreat in Ooty, India to be useful for organizers planning similar events.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-24T06:48:09Z",
-      "url": "https://www.lesswrong.com/posts/KerjdwMehqrHDHEhJ/reflections-from-ooty-retreat-2-0"
-    },
-    {
-      "id": 56,
-      "title": "CSB330: Super Kong God Super Kong feat. Gene Park",
-      "summary": "Older Twitch VODs are now being uploaded to a new channel, and a new game feat. Gene Park called Super Kong God is available for mobile download.",
-      "source": "Libsyn.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T06:47:25Z",
-      "url": "https://superbestfriendcast.libsyn.com/csb330-super-kong-god-super-kong-feat-gene-park"
-    },
-    {
-      "id": 57,
-      "title": "China plans network to sell surplus computing power in crackdown on data centre glut",
-      "summary": "China plans network to sell surplus computing power in crackdown on data centre glut.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T06:46:21Z",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-plans-network-to-sell-surplus-computing-power-in-crackdown-on-data-centre-glut/articleshow/122874915.cms"
-    },
-    {
-      "id": 58,
-      "title": "I tested Samsung's Galaxy Watch 8, and it kickstarted my motivation to get running again",
-      "summary": "The Galaxy Watch 8 is an innovative fitness tracker that kickstarted the user's motivation to get running again, despite some convoluted features. The overall recommendation is positive for most people.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-24T06:45:14Z",
-      "url": "https://www.zdnet.com/article/i-tested-samsungs-galaxy-watch-8-and-it-kickstarted-my-motivation-to-get-running-again/"
     }
   ]
 }
