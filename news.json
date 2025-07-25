@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-25T14:40:51.235Z",
+  "lastUpdate": "2025-07-25T14:54:48.968Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI Coding Startup Cognition Is In Talks To Raise At A $10 Billion Valuation",
+      "summary": "AI coding startup Cognition is in talks to raise at a $10 billion valuation, backed by Founders Fund and Khosla Ventures. The startup is also acquiring the remains of rival Windsurf.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-24T14:53:04Z",
+      "url": "https://www.forbes.com/sites/richardnieva/2025/07/24/ai-coding-startup-cognition-is-in-talks-to-raise-at-a-10-billion-valuation/"
+    },
+    {
+      "id": 52,
+      "title": "Qualcomm Teases Big Wi-Fi 8 Speed, Latency And Reliability Uplifts",
+      "summary": "Qualcomm is teasing advancements in Wi-Fi 8 technology, focusing on speed, latency, and reliability improvements. This move comes as most users are still transitioning to Wi-Fi 6/6E and not yet considering Wi-Fi 7 hardware upgrades.",
+      "source": "Hot Hardware",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:53:00Z",
+      "url": "https://hothardware.com/news/qualcomm-teases-big-wi-fi-8-speed-latency-and-reliability-uplifts"
+    },
+    {
+      "id": 53,
+      "title": "Love Not War AI Unveils Mathematical Framework That Aligns Capitalism with Collective Good",
+      "summary": "Love Not War AI unveils a mathematical framework called 'Progressive Utility Mechanics' that aligns capitalism with the collective good, potentially offering scalable solutions to poverty, climate change, and global economic systems.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-24T14:53:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121241/0/en/Love-Not-War-AI-Unveils-Mathematical-Framework-That-Aligns-Capitalism-with-Collective-Good.html"
+    },
+    {
+      "id": 54,
+      "title": "Sacha Baron Cohen Shocks Fans With Muscular Body Transformation to Play Marvel’s Mephisto: ‘This Is Not AI Hard Launching My Mid-Life Crisis’",
+      "summary": "Sacha Baron Cohen shocks fans with muscular body transformation to play Marvel’s Mephisto, emphasizing that it was not AI-generated. The actor's new look for the role has caught the attention of many, showcasing the transformative power of dedication and hard work.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:52:26Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456008"
+    },
+    {
+      "id": 55,
+      "title": "Analyst Explains How NVIDIA (NVDA) Can Reach $8 Trillion Market Cap",
+      "summary": "Analyst explains how NVIDIA can reach $8 trillion market cap and is considered one of the top stocks to buy and sell in 2025.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:52:14Z",
+      "url": "https://finance.yahoo.com/news/analyst-explains-nvidia-nvda-reach-145214797.html"
+    },
+    {
+      "id": 56,
+      "title": "Superintelligence isn’t Approximated by a Rational Agent",
+      "summary": "Superintelligence isn’t Approximated by a Rational Agent - Published on July 24, 2025 11:41 AM GMT",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-24T14:51:21Z",
+      "url": "https://www.lesswrong.com/posts/PBWWmKcfiwMH7iGPK/superintelligence-isn-t-approximated-by-a-rational-agent"
+    },
+    {
+      "id": 57,
+      "title": "Today Only: Save Big on Used Cameras and Lenses in KEH’s Overstock Sale",
+      "summary": "Today Only: Save Big on Used Cameras and Lenses in KEH’s Overstock Sale - For just one more day, KEH has nearly 3,000 pieces of overstock photography gear on sale, including cameras, lenses, tripods, and more.",
+      "source": "PetaPixel",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:51:16Z",
+      "url": "https://petapixel.com/2025/07/24/today-only-save-big-on-used-cameras-and-lenses-in-kehs-overstock-sale/"
+    },
+    {
+      "id": 58,
+      "title": "Security Bite: How to password protect sensitive image files on Mac",
+      "summary": "How to password protect sensitive image files on Mac using Security Bite by Mosyle.",
+      "source": "9to5Mac",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:51:03Z",
+      "url": "https://9to5mac.com/2025/07/24/security-bite-how-to-password-protect-sensitive-image-files-on-mac/"
+    },
+    {
+      "id": 59,
+      "title": "jarvis-ai-assistant 0.2.0",
+      "summary": "The Jarvis AI assistant 0.2.0 is a tool that interacts with the system using AI technology.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:51:02Z",
+      "url": "https://pypi.org/project/jarvis-ai-assistant/0.2.0/"
+    },
+    {
+      "id": 60,
+      "title": "Nvidia addresses AI chip smuggling, says bootleg datacenters are a 'losing proposition'",
+      "summary": "Nvidia addresses AI chip smuggling, says bootleg datacenters are a 'losing proposition'",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:50:01Z",
+      "url": "https://www.cnbc.com/2025/07/24/nvidia-ai-chips-smuggling-china-trump.html"
+    },
+    {
+      "id": 61,
+      "title": "RISC-V’s Ascent Could Reshape The Global Compute Landscape",
+      "summary": "RISC-V's emergence as an alternative in the silicon landscape could potentially reshape the global compute landscape by offering a different path away from constrained IP entanglements.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:48:25Z",
+      "url": "https://www.forbes.com/sites/davealtavilla/2025/07/24/risc-vs-ascent-could-reshape-the-global-compute-landscape/"
+    },
+    {
+      "id": 62,
+      "title": "You, me and ChatGPT: How AI-speak became a twisted new love language",
+      "summary": "The article discusses how the use of AI chatbots for communication can lead to a lack of genuine connection and understanding, as seen in the case of a person wanting to be heard by a chatbot. The ethical implications of substituting human interaction with AI technology is brought into question.",
+      "source": "Dazed",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:48:00Z",
+      "url": "https://www.dazeddigital.com/life-culture/article/68306/1/how-ai-chatgpt-communicate-love-dating-romance-robot-prompts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=you-me-and-chatgpt-how-ai-speak-became-a-twisted-new-love-language"
+    },
+    {
+      "id": 63,
+      "title": "AI is transforming how we communicate in our intimate relationships",
+      "summary": "AI is impacting intimate relationships by changing how we communicate, with some individuals feeling disconnected by robotic interactions.",
+      "source": "Dazed",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:48:00Z",
+      "url": "https://www.dazeddigital.com/life-culture/article/68306/1/how-ai-chatgpt-communicate-love-dating-romance-robot-prompts?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ai-is-transforming-how-we-communicate-in-our-intimate-relationships"
+    },
+    {
+      "id": 64,
+      "title": "Coinbase Global (COIN): “For All I Know It’s A Pump And Dump, I Don’t See Anybody Dumping?” Says Jim Cramer",
+      "summary": "Coinbase Global (COIN): Jim Cramer questions whether it is a pump and dump scheme, but notes that he does not see anyone dumping. He recently discussed 12 stocks, including ABC, as analyzed by Morgan Stanley.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:47:17Z",
+      "url": "https://finance.yahoo.com/news/coinbase-global-coin-know-pump-144717680.html"
+    },
+    {
+      "id": 65,
+      "title": "Owner Shows Adopted Cat Her Mom's Photo—Can't Cope With What She Does",
+      "summary": "A cat's unexpected reaction to seeing a photo of his birth mother has gone viral on TikTok, sparking emotional responses from viewers.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:45:12Z",
+      "url": "https://biztoc.com/x/6541ccc1aeae730e"
+    },
+    {
+      "id": 66,
+      "title": "ATM Managed Services Market Forecast Report 2025-2033 | Bank Outsourcing, Cost-cutting Demands, Digital Banking, Real-time Monitoring, AI Integration, and Improved Security Propel Growth",
+      "summary": "The global ATM Managed Services Market is projected to reach $12.29 billion by 2033, growing at a CAGR of 4.25% from 2025 to 2033, up from $8.45 billion in 2024.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121239/28124/en/ATM-Managed-Services-Market-Forecast-Report-2025-2033-Bank-Outsourcing-Cost-cutting-Demands-Digital-Banking-Real-time-Monitoring-AI-Integration-and-Improved-Security-Propel-Growth.html"
+    },
     {
       "id": 51,
       "title": "The Great Dismantling",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T13:48:58Z",
       "url": "https://www.thehindubusinessline.com/companies/indias-it-hiring-grow-erratic-in-face-of-global-uncertainties/article69850925.ece"
-    },
-    {
-      "id": 60,
-      "title": "India’s IT hiring grows erratic in face of global uncertainties",
-      "summary": "India's IT hiring is experiencing fluctuations due to global economic slowdown and industry operational changes.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:48:58Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/indias-it-hiring-grow-erratic-in-face-of-global-uncertainties/article69850925.ece"
-    },
-    {
-      "id": 51,
-      "title": "Tech industry layoffs hit 100,000 for 2025 — Intel leading the pack with over 12,000 personnel cut, so far",
-      "summary": "Tech industry layoffs have reached 100,000 for 2025, with Intel leading the pack by cutting over 12,000 positions. Microsoft and Meta have also reduced their workforce by 10,000 and 8,000 people respectively.",
-      "source": "Tom's Hardware UK",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:23:33Z",
-      "url": "https://www.tomshardware.com/tech-industry/tech-industry-layoffs-hit-100-000-for-2025-intel-leading-the-pack-with-over-12-000-personnel-cut-so-far"
-    },
-    {
-      "id": 52,
-      "title": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’",
-      "summary": "Tesla stock sells off as Elon Musk scraps 2025 sales growth target and warns of challenging quarters ahead, with lack of specific details on robotaxi service with only 7,000 driverless miles logged.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:23:27Z",
-      "url": "https://fortune.com/2025/07/24/elon-musk-tesla-earnings-guidance/"
-    },
-    {
-      "id": 53,
-      "title": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’",
-      "summary": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’ - The Tesla CEO hosted an earnings call once more long on promises and short on specifics, especially regarding his month-old robotaxi service that has logged.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:23:27Z",
-      "url": "https://finance.yahoo.com/news/tesla-sells-off-elon-musk-132327705.html"
-    },
-    {
-      "id": 54,
-      "title": "internutopia added to PyPI",
-      "summary": "internutopia has been added to PyPI, making it easier to use omniverse isaac sim standalone package.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T13:22:49Z",
-      "url": "https://pypi.org/project/internutopia/"
-    },
-    {
-      "id": 55,
-      "title": "Open Channels FM: Managing Team Growth and Delegation in WordPress Plugin Businesses",
-      "summary": "In this episode of WP Behind the Builds series, Maarten Belmans of Studio Wombat discusses managing team growth and delegation in WordPress plugin businesses, sharing his journey from leaving a cushy IT consulting job to traveling.",
-      "source": "Openchannels.fm",
-      "category": "startups",
-      "timestamp": "2025-07-24T13:22:10Z",
-      "url": "https://openchannels.fm/managing-team-growth-and-delegation-in-wordpress-plugin-businesses/"
-    },
-    {
-      "id": 56,
-      "title": "Kubur u EM Market iaki jingduna ha ki iew ba pyniaid ka JHADC",
-      "summary": "The Jaintia Hills Autonomous District Council Executive Member, Seiborlang Shadap, introduced a motion to regulate AI in the market to ensure fair practices and ethical standards.",
-      "source": "Syllad.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T13:21:47Z",
-      "url": "https://www.syllad.com/kubur-u-em-market-iaki-jingduna-ha-ki-iew-ba-pyniaid-ka-jhadc/"
-    },
-    {
-      "id": 57,
-      "title": "Broker’s call: Persistent Systems (Buy)",
-      "summary": "Persistent Systems' growth below estimates causing concerns of a slowdown, but balanced portfolio and AI-led platform approach offer potential for growth.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:21:04Z",
-      "url": "https://www.thehindubusinessline.com/markets/brokers-call-persistent-systems-buy/article69850737.ece"
-    },
-    {
-      "id": 58,
-      "title": "livekit-plugins-resemble 1.2.2",
-      "summary": "The livekit-plugins-resemble 1.2.2 update includes the LiveKit Agents Plugin for Resemble AI, allowing for more advanced AI capabilities in live streaming applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T13:20:45Z",
-      "url": "https://pypi.org/project/livekit-plugins-resemble/1.2.2/"
-    },
-    {
-      "id": 59,
-      "title": "ET Soonicorns Summit 2025: Forging a digital India for a billion people with AI for Bharat",
-      "summary": "ET Soonicorns Summit 2025 will explore how localised data centres can enable 'AI for Bharat', as India races to scale its AI capabilities.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T13:20:32Z",
-      "url": "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-summit-2025-forging-a-digital-india-for-a-billion-people-with-ai-for-bharat/articleshow/122884331.cms"
-    },
-    {
-      "id": 60,
-      "title": "livekit-agents 1.2.2",
-      "summary": "livekit-agents 1.2.2 is a powerful framework designed for building real-time voice AI agents, offering the capabilities to create advanced voice applications. This technology can be applied in various industries and sectors that require voice-based AI solutions.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T13:19:43Z",
-      "url": "https://pypi.org/project/livekit-agents/1.2.2/"
-    },
-    {
-      "id": 61,
-      "title": "Trader AI: This Trader AI App Sets New Standard in AI-Driven Trading with Unmatched Security and User Approval",
-      "summary": "Trader AI app sets new standard in AI-driven trading with unmatched security and user approval, leading the way in safe, automated crypto trading around the world.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-24T13:19:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121163/0/en/Trader-AI-This-Trader-AI-App-Sets-New-Standard-in-AI-Driven-Trading-with-Unmatched-Security-and-User-Approval.html"
-    },
-    {
-      "id": 62,
-      "title": "demiurg 0.1.25",
-      "summary": "demiurg 0.1.25 is an AI Agent Framework that allows for the development of intelligent agents using multiple LLM providers.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T13:17:05Z",
-      "url": "https://pypi.org/project/demiurg/0.1.25/"
-    },
-    {
-      "id": 63,
-      "title": "Caller Wants To Combine Finances Before Marriage. Dave Ramsey Replies, 'She Likes Her Rental Property More Than She Likes You'",
-      "summary": "Dave Ramsey suggests that the caller's girlfriend values her rental property more than their relationship, highlighting potential ethical concerns surrounding financial priorities in a marriage.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-24T13:16:13Z",
-      "url": "https://finance.yahoo.com/news/caller-wants-combine-finances-marriage-131613359.html"
-    },
-    {
-      "id": 64,
-      "title": "Elon Musk set to revive Vine but with an AI twist. Could this be a YouTube killer?",
-      "summary": "Elon Musk plans to relaunch Vine with artificial intelligence, potentially posing a threat to YouTube. Vine was known for its six-second looping videos before shutting down in 2016. The revival will be driven by AI technology.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T13:15:57Z",
-      "url": "https://economictimes.indiatimes.com/tech/internet/elon-musk-set-to-revive-vine-but-with-an-ai-twist-could-this-be-a-youtube-killer/articleshow/122886605.cms"
-    },
-    {
-      "id": 51,
-      "title": "AI Image Enhancers - ProMediafy Turns Product Photos Into Studio-Quality Marketing Assets (TrendHunter.com)",
-      "summary": "ProMediafy is an AI-powered tool that enhances product photos to create high-quality marketing assets, catering to small businesses and e-commerce sellers.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T12:32:05Z",
-      "url": "https://www.trendhunter.com/trends/promediafy"
     }
   ]
 }
