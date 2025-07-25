@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-25T18:52:38.763Z",
+  "lastUpdate": "2025-07-25T19:14:39.526Z",
   "items": [
+    {
+      "id": 51,
+      "title": "browse-to-test 0.2.4",
+      "summary": "browse-to-test 0.2.4 is an AI-powered browser automation tool that converts test scripts for testing purposes.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:13:02Z",
+      "url": "https://pypi.org/project/browse-to-test/0.2.4/"
+    },
+    {
+      "id": 52,
+      "title": "Fremont goes ‘all in on AI boom’ with new tech campus",
+      "summary": "Fremont is investing in AI technology by constructing a new tech campus in South Fremont, hoping to be at the forefront of the AI boom.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:12:28Z",
+      "url": "https://biztoc.com/x/0e7efb6fd25d9316"
+    },
+    {
+      "id": 53,
+      "title": "Woman Films YouTube Video, Unprepared for What She Captures in Background",
+      "summary": "A woman filming a YouTube video accidentally captures her cat taking a daring leap in the background, with the voice in the video being AI-generated. Inconsistencies may occur due to the use of AI technology.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:12:25Z",
+      "url": "https://biztoc.com/x/f8beec2fe7703bd5"
+    },
+    {
+      "id": 54,
+      "title": "Google Reveals New AI Video Editing Tools in YouTube Shorts and Google Photos",
+      "summary": "New AI video editing tools will be available within YouTube Shorts and Google Photos, allowing creators to easily create videos from their photos.",
+      "source": "iLounge",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:11:38Z",
+      "url": "https://www.ilounge.com/news/apple/google-reveals-new-ai-video-editing-tools-in-youtube-shorts-and-google-photos"
+    },
+    {
+      "id": 55,
+      "title": "To Win Or Not To Win The AI Race. The Question To End All Questions",
+      "summary": "America's AI Action Plan is designed to address questions surrounding winning the AI race, making it 'non-negotiable'.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:11:32Z",
+      "url": "https://www.forbes.com/sites/pialauritzen/2025/07/24/to-win-or-not-to-win-the-ai-race-the-question-to-end-all-questions/"
+    },
+    {
+      "id": 56,
+      "title": "Trump’s Tariff Deadline Is August 1: Here’s What Could Immediately Cost More—From Food To Electronics",
+      "summary": "Trump's tariff deadline on August 1 could lead to higher prices on back-to-school items like clothing, shoes, and electronics.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:10:51Z",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2025/07/24/trumps-tariff-deadline-is-august-1-heres-what-could-immediately-cost-more-from-food-to-electronics/"
+    },
+    {
+      "id": 57,
+      "title": "Ray Dalio issues his most dire warning to America yet: The ballooning $37 trillion deficit will trigger an ‘economic heart attack’",
+      "summary": "Hedge fund billionaire Ray Dalio warns America about the $37 trillion national debt, calling it a potential trigger for an economic heart attack.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:09:51Z",
+      "url": "https://fortune.com/2025/07/24/ray-dalio-billionaire-economy-national-debt-economic-heart-attack-crisis/"
+    },
+    {
+      "id": 58,
+      "title": "Here's What Killed Hulk Hogan",
+      "summary": "Hulk Hogan, a legendary professional wrestler, has passed away at the age of 71 at his home. Local law enforcement responded to a medical call regarding his death.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:08:38Z",
+      "url": "https://futurism.com/neoscope/what-killed-hulk-hogan-cardiac-arrest"
+    },
+    {
+      "id": 59,
+      "title": "Edge AI chip startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures",
+      "summary": "Edge AI chip startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures in Series A round.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T19:05:40Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/edge-ai-chip-startup-netrasemi-raises-rs-107-crore-from-zoho-unicorn-india-ventures/articleshow/122889785.cms"
+    },
+    {
+      "id": 60,
+      "title": "Is your iPhone powerful enough for iOS 26’s magic",
+      "summary": "Apple released the highly anticipated public beta of iOS 26, marking the company’s most significant software transformation in over a decade with revolutionary design elements and restored features.",
+      "source": "Rolling Out",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:05:07Z",
+      "url": "https://rollingout.com/2025/07/24/your-iphone-powerful-enough-for-ios-26s/"
+    },
+    {
+      "id": 61,
+      "title": "Show HN: Squash – your browsing history as context for ChatGPT",
+      "summary": "Squash is a tool that uses your browsing history as context for ChatGPT, allowing the AI to remember what you've been researching or writing about. The creators built Squash because other AI tools often forget this context, making it feel like talking to a stranger.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:03:57Z",
+      "url": "https://github.com/kstonekuan/squash-browser-memory"
+    },
+    {
+      "id": 62,
+      "title": "Donald Trump Plans to Send US Homeless to Treatment Centers: Report",
+      "summary": "Donald Trump plans to send US homeless to treatment centers, raising ethical questions about forced rehabilitation.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-24T19:03:36Z",
+      "url": "https://www.newsweek.com/donald-trump-homelessness-executive-order-treatment-centers-2103709"
+    },
+    {
+      "id": 63,
+      "title": "Originality.ai: Ensure Human-Quality Content with Unmatched AI Detection",
+      "summary": "Originality.ai offers AI detection technology to ensure human-quality content, helping agencies, publishers, and businesses safeguard against AI-generated or plagiarized content. Trust is crucial in maintaining editorial integrity and brand voice.",
+      "source": "Martech.zone",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:02:55Z",
+      "url": "https://martech.zone/originality-ai-ensure-human-quality-content-with-ai-detection/"
+    },
+    {
+      "id": 64,
+      "title": "metaflow 2.16.6",
+      "summary": "Metaflow 2.16.6 release focuses on enabling AI and ML users to spend less time on engineering tasks and more time on their core work.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T19:01:54Z",
+      "url": "https://pypi.org/project/metaflow/2.16.6/"
+    },
+    {
+      "id": 65,
+      "title": "Foldable phones are impressive technological marvels but come with serious compromises",
+      "summary": "Foldable phones impress with design but face challenges such as high prices, durability issues, and battery limits, raising questions about their true value.",
+      "source": "Fox News",
+      "category": "innovation",
+      "timestamp": "2025-07-24T19:01:39Z",
+      "url": "https://www.foxnews.com/tech/foldable-phones-impressive-technological-marvels-come-serious-compromises"
+    },
+    {
+      "id": 66,
+      "title": "What Businesses Should Ask When Choosing an AI Model",
+      "summary": "Business leaders evaluating AI solutions should consider the specific needs of their business and not automatically opt for larger generalist AI models like OpenAI’s ChatGPT. Specialist models may be more appropriate for certain applications.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T19:01:37Z",
+      "url": "https://biztoc.com/x/8c5203786a752e4a"
+    },
+    {
+      "id": 67,
+      "title": "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing",
+      "summary": "Chime backer Lauren Kolodny led a $20 million Series A in Alix, a startup using AI to automate estate processing.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T19:01:06Z",
+      "url": "https://biztoc.com/x/0fd9ca9eb297d1f2"
+    },
+    {
+      "id": 68,
+      "title": "Is AI Taking Over Jobs? 20 Surprising AI Job Replacement Statistics",
+      "summary": "AI job replacement statistics reveal which jobs are more likely to be replaced by AI and which countries are adopting automation more slowly.",
+      "source": "Elearningindustry.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T19:00:56Z",
+      "url": "https://elearningindustry.com/is-ai-taking-over-jobs-surprising-ai-job-replacement-statistics"
+    },
     {
       "id": 51,
       "title": "maxai-mcp 0.2.3",
@@ -288,168 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T17:43:47Z",
       "url": "https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/"
-    },
-    {
-      "id": 52,
-      "title": "Trump’s AI agenda hands Silicon Valley the win—while ethics, safety, and ‘woke AI’ get left behind",
-      "summary": "Trump's AI agenda prioritizes Silicon Valley's interests over ethics, safety, and 'woke AI', leading to a deregulated and pro-growth approach to AI governance.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:43:38Z",
-      "url": "https://fortune.com/2025/07/24/trump-ai-action-plan-silicon-valley-ethics-safety-woke-ai/"
-    },
-    {
-      "id": 53,
-      "title": "Alert Issued Urging People to Monitor Themselves for 'Unusual Fatigue'",
-      "summary": "Alert issued urging people to monitor themselves for 'unusual fatigue' due to AI-generated voice. Residents advised to seek medical attention if experiencing symptoms in Upper Midwest.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:43:19Z",
-      "url": "https://biztoc.com/x/1e4b197273d8c6ab"
-    },
-    {
-      "id": 54,
-      "title": "AI-related job postings are on the rise. Here's where to find them",
-      "summary": "AI-related job postings are on the rise, with a growth in positions for AI engineers and GenAI consultants.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:43:08Z",
-      "url": "https://biztoc.com/x/aa433f6eb69e4fdf"
-    },
-    {
-      "id": 55,
-      "title": "Yes, ‘South Park’ Went There — And It’s Glorious",
-      "summary": "The 'South Park' creators critique President Trump and Paramount, showcasing the importance of freedom of speech and critique in media despite fear in Hollywood.",
-      "source": "Rolling Stone",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:40:49Z",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-features/south-park-donald-trump-ai-penis-1235393024/"
-    },
-    {
-      "id": 56,
-      "title": "Flex, Retrofits and Sustainability Should Be Top of Mind for Lab Owners: Survey",
-      "summary": "Flex, Retrofits and Sustainability Should Be Top of Mind for Lab Owners: Survey - The U.S. life sciences sector is at a turning point, with a glut of new lab space and declining venture capital and federal funding further pushing developers to meet evolving kinds of demand, according to a new survey.",
-      "source": "Commercial Observer",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:40:45Z",
-      "url": "http://commercialobserver.com/2025/07/lab-development-design-life-sciences-biotech-unispace/"
-    },
-    {
-      "id": 57,
-      "title": "心臓の「音」からAIが病気を見抜く！ ─心不全の早期発見・モニタリングへの応用に期待─",
-      "summary": "AI can detect diseases from the 'sound' of the heart! Expectations for early detection and monitoring of heart failure",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:40:01Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000277.000124365.html"
-    },
-    {
-      "id": 58,
-      "title": "Everything You Need to Try In MacOS 26 and iPadOS 26 Public Betas",
-      "summary": "The iPad just got a million times better in MacOS 26 and iPadOS 26 Public Betas, but it's still not a MacBook killer.",
-      "source": "Gizmodo.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:40:00Z",
-      "url": "https://gizmodo.com/everything-you-need-to-try-in-macos-26-and-ipados-26-public-betas-2000633084"
-    },
-    {
-      "id": 51,
-      "title": "Hulk Hogan, wrestling superstar who helped reshape American media law, dies at 71",
-      "summary": "Hulk Hogan's lawsuit against Gawker Media, which resulted in a $140 million jury verdict, raised ethical questions about privacy and freedom of the press in American culture.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:15:45Z",
-      "url": "https://fortune.com/2025/07/24/hulk-hogan-obituary-wrestling-dead-71-peter-thiel-donald-trump/"
-    },
-    {
-      "id": 52,
-      "title": "Global markets soar amid signs of progress on US trade deals",
-      "summary": "Global markets are on the rise due to progress on US trade deals, with Euronext Dublin up 1.3% primarily driven by strong performances from Irish banks.",
-      "source": "The Irish Times",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:15:20Z",
-      "url": "https://www.irishtimes.com/business/2025/07/24/global-markets-soar-amid-signs-of-progress-on-us-trade-deals/"
-    },
-    {
-      "id": 53,
-      "title": "Philanthropist Wendy Schmidt insists science and immersive media can inspire action for the planet",
-      "summary": "Philanthropist Wendy Schmidt believes in utilizing science and immersive media to drive action for the planet, with a focus on marine conservation alongside other Silicon Valley veterans' philanthropies.",
-      "source": "Boston Herald",
-      "category": "research",
-      "timestamp": "2025-07-24T17:15:06Z",
-      "url": "https://www.bostonherald.com/2025/07/24/philanthropy-wendy-schmidt/"
-    },
-    {
-      "id": 54,
-      "title": "TeleSpecialists Earns Second Consecutive HITRUST i1 Certification for TeleCare Platform",
-      "summary": "TeleSpecialists earns second consecutive HITRUST i1 certification for TeleCare platform, demonstrating sustained commitment to healthcare data protection and service to healthcare partners.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-24T17:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121341/0/en/TeleSpecialists-Earns-Second-Consecutive-HITRUST-i1-Certification-for-TeleCare-Platform.html"
-    },
-    {
-      "id": 55,
-      "title": "iOS 26 public beta now available with new design and more",
-      "summary": "The iOS 26 public beta is now available, bringing a new design and updates to iPhone apps. It showcases innovation in software development for Apple devices.",
-      "source": "9to5Mac",
-      "category": "innovation",
-      "timestamp": "2025-07-24T17:14:47Z",
-      "url": "https://9to5mac.com/2025/07/24/ios-26-now-available-features/"
-    },
-    {
-      "id": 56,
-      "title": "Installing the public betas? Here’s everything new with Apple Intelligence",
-      "summary": "Apple acknowledges challenges with AI-powered Siri overhaul at WWDC25 and highlights efforts in developing better models and features across their ecosystem.",
-      "source": "9to5Mac",
-      "category": "innovation",
-      "timestamp": "2025-07-24T17:14:41Z",
-      "url": "https://9to5mac.com/2025/07/24/installing-the-public-betas-heres-everything-new-with-apple-intelligence/"
-    },
-    {
-      "id": 57,
-      "title": "Amazon to shut down Shanghai AI research lab amid US-China tensions",
-      "summary": "Amazon is shutting down its Shanghai AI Research Institute, the company's last overseas AI lab under AWS, due to a 'strategic adjustment' between China and the US.",
-      "source": "TechNode",
-      "category": "research",
-      "timestamp": "2025-07-24T17:14:22Z",
-      "url": "http://technode.com/2025/07/25/amazon-to-shut-down-shanghai-ai-research-lab-amid-us-china-tensions/"
-    },
-    {
-      "id": 58,
-      "title": "watchOS 26 preview: a subtler take on AI",
-      "summary": "Apple launches watchOS 26 public beta with new Apple Intelligence features including Workout Buddy and messaging features.",
-      "source": "The Verge",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:14:19Z",
-      "url": "https://www.theverge.com/hands-on/710780/watchos-26-preview-apple-intelligence-workout-buddy-smart-stack-wrist-flick"
-    },
-    {
-      "id": 59,
-      "title": "Sundar Pichai net worth: Indian-origin Google CEO becomes a billionaire as Alphabet shares near record high",
-      "summary": "Sundar Pichai becomes a billionaire as Google's parent company Alphabet's market value surpasses $1 trillion, driven by strong earnings from AI demand.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:14:09Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/sundar-pichai-net-worth-indian-origin-google-ceo-becomes-a-billionaire-as-alphabet-shares-near-record-high/articleshow/122887631.cms"
-    },
-    {
-      "id": 60,
-      "title": "7 ways Linux can save you money",
-      "summary": "7 ways Linux can save you money - I've watched many people spend huge amounts of money keeping their computers running or up to speed. But they don't have to with Linux. Here's why.",
-      "source": "ZDNet",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:14:00Z",
-      "url": "https://www.zdnet.com/article/7-ways-linux-can-save-you-money/"
-    },
-    {
-      "id": 61,
-      "title": "watchOS 26 public beta lets you try smarter workouts with personality, new and improved Apple Watch apps",
-      "summary": "watchOS 26 public beta introduces smarter workouts with personality and new Apple Watch apps, available for testing before official release.",
-      "source": "9to5Mac",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:13:53Z",
-      "url": "https://9to5mac.com/2025/07/24/watchos-26-public-beta/"
     }
   ]
 }
