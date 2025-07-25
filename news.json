@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-25T21:50:33.402Z",
+  "lastUpdate": "2025-07-25T22:15:39.824Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Ctrl-Alt-Speech: Live At TrustCon 2025",
+      "summary": "Ctrl-Alt-Speech is a weekly podcast discussing the latest news in online speech, hosted by Mike Masnick and Ben Whitelaw. Listeners can subscribe on various platforms to stay updated on the latest content.",
+      "source": "Techdirt",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:14:01Z",
+      "url": "https://www.techdirt.com/2025/07/24/ctrl-alt-speech-live-at-trustcon-2025/"
+    },
+    {
+      "id": 52,
+      "title": "U.S. stocks close mixed on corporate earnings",
+      "summary": "U.S. stocks closed mixed as investors analyzed corporate earnings and considered the impact of global trade negotiations.",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:13:00Z",
+      "url": "https://www.thestar.com.my/news/world/2025/07/25/us-stocks-close-mixed-on-corporate-earnings"
+    },
+    {
+      "id": 53,
+      "title": "Stock Market Today: Russell 2000 Sinks 1.4%; Alphabet Surges, Tesla Slammed (Live Coverage) - Investor's Business Daily",
+      "summary": "Stock market today: S&P 500 notches 4th consecutive record as Google earnings fuel AI hopes",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:12:35Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178459456"
+    },
+    {
+      "id": 54,
+      "title": "Female exec captured in viral Coldplay concert clip resigns",
+      "summary": "Female exec resigns after being captured in viral concert clip",
+      "source": "BBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:11:31Z",
+      "url": "https://www.bbc.com/news/articles/cp3l3ldd0j1o"
+    },
+    {
+      "id": 55,
+      "title": "Sovereign Fund GIC Uses AI ‘Devil’s Advocate’ for Dealmaking",
+      "summary": "Sovereign Fund GIC Pte is using AI tools such as a Virtual Investment Committee and an 'Agentic Devil’s Advocate' chatbot to analyze investment pitches from bankers.",
+      "source": "Livemint",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:11:25Z",
+      "url": "https://www.livemint.com/companies/news/sovereign-fund-gic-uses-ai-devil-s-advocate-for-dealmaking-11753395085716.html"
+    },
+    {
+      "id": 56,
+      "title": "Best Interview Prep Course for Engineering Managers - Top Reviews for Interview Kickstart Course",
+      "summary": "Building high-performance AI and machine learning teams has become a critical challenge for engineering managers in 2025, with companies rushing to integrate artificial intelligence into their operations.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121539/0/en/Best-Interview-Prep-Course-for-Engineering-Managers-Top-Reviews-for-Interview-Kickstart-Course.html"
+    },
+    {
+      "id": 57,
+      "title": "Ex-Astronomer CEO Andy Byron and Kristin Cabot seen canoodling at Coldplay concert in new video",
+      "summary": "Former Astronomer CEO and CMO seen engaging in romantic behavior at Coldplay concert, leading to CMO's resignation from company.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:08:55Z",
+      "url": "https://pagesix.com/2025/07/24/celebrity-news/ex-astronomer-ceo-andy-byron-and-kristin-cabot-seen-canoodling-at-coldplay-concert-in-new-video/"
+    },
+    {
+      "id": 58,
+      "title": "Fact Check: Another old photo of Trump and daughter Ivanka makes the rounds again",
+      "summary": "An old photo of Trump and his daughter Ivanka resurfaces, sparking discussions about Trump's past associations and raising ethical concerns.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:06:00Z",
+      "url": "https://www.snopes.com/fact-check/trump-photo-ivanka/"
+    },
+    {
+      "id": 59,
+      "title": "Energy announces first 4 AI data center sites on federal lands",
+      "summary": "Energy announces first 4 AI data center sites on federal lands",
+      "source": "Nextgov",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:06:00Z",
+      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/energy-announces-first-4-ai-data-center-sites-federal-lands/406977/"
+    },
+    {
+      "id": 60,
+      "title": "Another old photo of Trump and daughter Ivanka makes the rounds again",
+      "summary": "An old photo of President Trump and daughter Ivanka resurfaces, showing them in a questionable pose which raises ethical concerns.",
+      "source": "Snopes.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:06:00Z",
+      "url": "https://www.snopes.com//fact-check/trump-photo-ivanka/"
+    },
+    {
+      "id": 61,
+      "title": "Why Millions Of Managers Are Becoming Obsolete—It’s Not Rocket Science",
+      "summary": "Traditional managers are becoming obsolete not due to AI or rocket science, but because they are focusing on the wrong goal.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:05:07Z",
+      "url": "https://www.forbes.com/sites/stevedenning/2025/07/24/why-millions-of-managers-are-becoming-obsolete-its-not-rocket-science/"
+    },
+    {
+      "id": 62,
+      "title": "Most creator-made ads don’t follow “best practices.” Is that a bad thing?",
+      "summary": "Most creator-made ads do not follow best practices, but still command a significant portion of brands' advertising budgets. Companies are expected to spend $10.5 billion this year on influencer marketing in an attempt to reach younger audiences.",
+      "source": "Tubefilter",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:04:42Z",
+      "url": "https://www.tubefilter.com/2025/07/24/creativex-creator-ads-best-practices/"
+    },
+    {
+      "id": 63,
+      "title": "Barclays Raises PT on Vale S.A. (VALE) from $12.75 to $13; Maintains ‘Overweight’ Rating",
+      "summary": "Barclays raises price target on Vale S.A. and maintains 'Overweight' rating, with significant hedge fund interest making it one of the 11 Best Mineral Stocks to Buy According to Hedge Funds.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:03:00Z",
+      "url": "https://finance.yahoo.com/news/barclays-raises-pt-vale-vale-220300158.html"
+    },
+    {
+      "id": 64,
+      "title": "Kimi K2: New AI model from China outperforms GPT-4.1 in key benchmarks",
+      "summary": "Chinese AI model Kimi K2 outperforms GPT-4.1 in key benchmarks, sparking interest and debate in the AI community.",
+      "source": "Notebookcheck.net",
+      "category": "research",
+      "timestamp": "2025-07-24T22:03:00Z",
+      "url": "https://www.notebookcheck.net/Kimi-K2-New-AI-model-from-China-outperforms-GPT-4-1-in-key-benchmarks.1067135.0.html"
+    },
+    {
+      "id": 65,
+      "title": "Wells Fargo Increases PT on Albemarle Corporation (ALB) from $60 to $75; Maintains ‘Equal Weight’ Rating",
+      "summary": "Wells Fargo increases price target on Albemarle Corporation and maintains 'Equal Weight' rating, citing strong hedge fund interest. Albemarle Corporation is among the 11 Best Mineral Stocks to Buy According to Hedge Funds.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:02:35Z",
+      "url": "https://finance.yahoo.com/news/wells-fargo-increases-pt-albemarle-220235796.html"
+    },
+    {
+      "id": 66,
+      "title": "CIBC Raises PT on Barrick Mining Corporation (B) Due to Strong Momentum",
+      "summary": "CIBC raises PT on Barrick Mining Corporation (B) due to strong momentum, attracting significant hedge fund interest, and making it one of the 11 Best Mineral Stocks to Buy According to Hedge.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:02:08Z",
+      "url": "https://finance.yahoo.com/news/cibc-raises-pt-barrick-mining-220208785.html"
+    },
+    {
+      "id": 67,
+      "title": "Air New Zealand partners with OpenAI in bid to help avoid flight delays",
+      "summary": "Air New Zealand partners with OpenAI to use ChatGPT technology to help avoid flight delays.",
+      "source": "RNZ",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:00:59Z",
+      "url": "https://www.rnz.co.nz/news/business/567982/air-new-zealand-partners-with-openai-in-bid-to-help-avoid-flight-delays"
+    },
+    {
+      "id": 68,
+      "title": "Tesla Warns of 'Rough Quarters'--Shares Plunge While Alphabet Climbs",
+      "summary": "Tesla warns of 'rough quarters', causing shares to plunge, while Alphabet climbs. The Dow slides amid soaring yields and mixed Q2 reports.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:00:55Z",
+      "url": "https://finance.yahoo.com/news/tesla-warns-rough-quarters-shares-220055070.html"
+    },
+    {
+      "id": 69,
+      "title": "What Trump’s AI Action Plan Means for Investors",
+      "summary": "President Trump's AI Action Plan indicates a push for increased investment and development in artificial intelligence technology, which can have significant implications for investors looking to capitalize on this growing sector.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:00:35Z",
+      "url": "https://biztoc.com/x/c753515ad8db7855"
+    },
+    {
+      "id": 70,
+      "title": "Gen Z Males 3 Times More Likely Than Boomers to Prioritize 'Dominance'",
+      "summary": "Gen Z males are three times more likely than Boomers to prioritize 'dominance', according to a study by consumer insights platform GWI.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T22:00:24Z",
+      "url": "https://biztoc.com/x/89713e42eaf6ee1d"
+    },
     {
       "id": 51,
       "title": "Graphene OS: a security-enhanced Android build",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T21:09:53Z",
       "url": "http://www.pymnts.com/news/fintech-investments/2025/wex-sees-25-year-over-year-growth-in-accounts-payable-automation/"
-    },
-    {
-      "id": 59,
-      "title": "Google Search is testing something a bit different from its wall of blue links",
-      "summary": "Google Search is testing a new feature called Web Guide, which categorizes search results using a version of Gemini. This brings a different approach to organizing search results beyond the traditional list of blue links.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:09:41Z",
-      "url": "https://www.androidauthority.com/google-web-guide-search-results-3580847/"
-    },
-    {
-      "id": 60,
-      "title": "tensorflores 0.1.10",
-      "summary": "TensorFlores 0.1.10 is a Python-based framework that optimizes machine learning deployment in resource-constrained environments, with support for TinyML, EdgeAI, and quantization.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:07:49Z",
-      "url": "https://pypi.org/project/tensorflores/0.1.10/"
-    },
-    {
-      "id": 61,
-      "title": "Alphabet CEO Sundar Pichai hits billionaire status as stock nears all-time high",
-      "summary": "Alphabet CEO Sundar Pichai has reached billionaire status as the company's stock approaches an all-time high. Unlike many tech industry leaders, Pichai did not attain his wealth through founding equity stakes in his platform.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:07:04Z",
-      "url": "https://nypost.com/2025/07/24/business/alphabet-ceo-sundar-pichai-hits-billionaire-status-as-stock-nears-all-time-high/"
-    },
-    {
-      "id": 62,
-      "title": "South Park skewers Trump, Paramount hours after creators sign $2.3 billion deal",
-      "summary": "South Park creators take on Trump and Paramount in latest episode, pushing boundaries as they sign $2.3 billion deal.",
-      "source": "7NEWS.com.au",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:06:14Z",
-      "url": "https://7news.com.au/news/south-park-skewers-trump-paramount-hours-after-creators-sign-23-billion-deal-c-19465561"
-    },
-    {
-      "id": 63,
-      "title": "GIC posts 3.8% annualised return over 20 years despite economic uncertainties",
-      "summary": "GIC posted a 3.8% annualised return over 20 years despite economic uncertainties, with changes in investments and asset mix. ",
-      "source": "The Straits Times",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:06:02Z",
-      "url": "https://www.straitstimes.com/business/economy/gic-posts-3-8-annualised-return-over-20-years-despite-economic-uncertainties"
-    },
-    {
-      "id": 64,
-      "title": "Pentagon halts $15B Advana recompete draft solicitation",
-      "summary": "Pentagon halts $15B Advana recompete draft solicitation, looking to bring in new vendors to support its Advana data-analytics platform through a potential 10-year, $15 billion Advancing Artificial Intelligence Multiple Award Contract.",
-      "source": "Nextgov",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:06:00Z",
-      "url": "https://www.nextgov.com/acquisition/2025/07/pentagon-halts-15b-advana-recompete-draft-solicitation/406973/"
-    },
-    {
-      "id": 65,
-      "title": "Heritage Commerce Corp Reports Second Quarter and First Six Months of 2025 Financial Results",
-      "summary": "Heritage Commerce Corp, the holding company for Heritage Bank of Commerce, reported its financial results for the second quarter and first six months of 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:06:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121518/9687/en/Heritage-Commerce-Corp-Reports-Second-Quarter-and-First-Six-Months-of-2025-Financial-Results.html"
-    },
-    {
-      "id": 66,
-      "title": "MEXC finds that 67% of Gen Z crypto traders use AI tools, resulting in fewer panic sells",
-      "summary": "A growing majority of Gen Z crypto traders are turning to artificial intelligence (AI) to guide their strategies and it’s making them less prone to panic selling.",
-      "source": "CryptoSlate",
-      "category": "research",
-      "timestamp": "2025-07-24T21:04:59Z",
-      "url": "https://cryptoslate.com/mexc-finds-that-67-of-gen-z-crypto-traders-use-ai-tools-resulting-in-fewer-panic-sells/"
-    },
-    {
-      "id": 51,
-      "title": "New Koske Linux malware hides in cute panda images",
-      "summary": "New Linux malware named Koske may be using artificial intelligence to hide in JPEG images of panda bears and deploy malware into system memory.",
-      "source": "BleepingComputer",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:54:10Z",
-      "url": "https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/"
-    },
-    {
-      "id": 52,
-      "title": "Ocean Power Technologies, Inc. Announces Fourth Quarter and Full Year Fiscal 2025 Results",
-      "summary": "Ocean Power Technologies, Inc. announces strong fourth quarter and full year fiscal 2025 results, entering fiscal 2026 with record backlog and pipeline.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:54:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121509/9069/en/Ocean-Power-Technologies-Inc-Announces-Fourth-Quarter-and-Full-Year-Fiscal-2025-Results.html"
-    },
-    {
-      "id": 53,
-      "title": "Absci Announces Proposed Public Offering of Common Stock",
-      "summary": "Absci Corporation, a biopharmaceutical company using generative AI to develop potential breakthrough therapeutics, has announced a proposed public offering of common stock.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T20:54:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121508/0/en/Absci-Announces-Proposed-Public-Offering-of-Common-Stock.html"
-    },
-    {
-      "id": 54,
-      "title": "American Airlines CEO Slams AI Fare Setting as Trickery",
-      "summary": "American Airlines' CEO criticizes the use of AI to set air fares, mentioning the importance of consumers trusting the airline.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:53:13Z",
-      "url": "https://biztoc.com/x/6274c0cf6786b47d"
-    },
-    {
-      "id": 55,
-      "title": "Mastercard Debuts AI-Powered Design Studio for Card Issuers",
-      "summary": "Mastercard has launched an AI-powered Design Studio to assist card issuers in creating and deploying card designs.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:53:06Z",
-      "url": "https://biztoc.com/x/9ff47d9eebb82778"
-    },
-    {
-      "id": 56,
-      "title": "Intel CEO Letter to Employees",
-      "summary": "Intel CEO announces 15% workforce reduction",
-      "source": "Substack.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:52:41Z",
-      "url": "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
-    },
-    {
-      "id": 57,
-      "title": "Beyond the lab: Helping social science experiments hold up in the real world",
-      "summary": "In a Q&A, Melody Huang discusses her work to improve the accuracy and practicality of social science experiments in the real world.",
-      "source": "Yale.edu",
-      "category": "research",
-      "timestamp": "2025-07-24T20:51:31Z",
-      "url": "https://isps.yale.edu/news/blog/2025/07/beyond-the-lab-melody-huang-builds-tools-to-help-experiments-hold-up-in-the-real"
-    },
-    {
-      "id": 58,
-      "title": "aipyapp 0.2.3b12",
-      "summary": "The aipyapp 0.2.3b12 is a Python-powered AI tool that aims to leverage AI capabilities in Python for various applications. This tool showcases the growing trend of combining Python and AI to create innovative solutions.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T20:50:16Z",
-      "url": "https://pypi.org/project/aipyapp/0.2.3b12/"
-    },
-    {
-      "id": 59,
-      "title": "Wider GPU Support, Faster Exports & Smarter Denoising – Aiarty Video Enhancer Update + Special Offer",
-      "summary": "Aiarty Video Enhancer has released a major update with wider GPU support, faster exports, and improved denoising capabilities.",
-      "source": "Fujirumors.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T20:49:35Z",
-      "url": "https://www.fujirumors.com/wider-gpu-support-faster-exports-smarter-denoising-aiarty-video-enhancer-update-special-offer/"
-    },
-    {
-      "id": 60,
-      "title": "PR Roundup: Sony’s Sustainability, AI Summary Crisis, Top 50 Creator-Journalists",
-      "summary": "This week's PR Roundup discusses Sony's public pledge for product sustainability, a new list of the top 50 independent creator-journalists, and the challenges faced by AI summary results in the news industry.",
-      "source": "Prnewsonline.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:49:15Z",
-      "url": "https://www.prnewsonline.com/pr-roundup-sonys-sustainability-ai-summary-crisis-top-50-creator-journalists/"
-    },
-    {
-      "id": 61,
-      "title": "Nikolay Samokhvalov: Introducing Postgres how-tos: practical guides for real-world database challenges",
-      "summary": "Introducing Postgres how-to guides collection for real-world database challenges as part of Launch Week.",
-      "source": "Postgres.ai",
-      "category": "applications",
-      "timestamp": "2025-07-24T20:48:15Z",
-      "url": "https://postgres.ai/blog/20250724-postgres-howtos-launch"
-    },
-    {
-      "id": 62,
-      "title": "Robophobia",
-      "summary": "Robophobia, the irrational fear of robots, has been a popular term used online since the 2000s. In 2025, the term and related robophobic terms like 'clankers' became increasingly prominent.",
-      "source": "Knowyourmeme.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:48:03Z",
-      "url": "https://knowyourmeme.com/memes/robophobia"
     }
   ]
 }
