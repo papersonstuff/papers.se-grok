@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-25T22:15:39.824Z",
+  "lastUpdate": "2025-07-25T22:45:02.555Z",
   "items": [
+    {
+      "id": 51,
+      "title": "DeepSeek, Trump’s Plan Steer Agenda at China’s Premier AI Forum",
+      "summary": "Star founders, Beijing officials, and deep-pocketed financiers gather at China's premier AI summit in Shanghai to discuss propelling Beijing's ambitions to surpass the US in artificial intelligence.",
+      "source": "Financial Post",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:44:00Z",
+      "url": "https://financialpost.com/pmn/business-pmn/deepseek-trumps-plan-steer-agenda-at-chinas-premier-ai-forum"
+    },
+    {
+      "id": 52,
+      "title": "VC Victor Lazarte is leaving Benchmark to launch his own firm | TechCrunch",
+      "summary": "VC Victor Lazarte is leaving Benchmark after two years to launch his own firm. He has backed startups like Mercor, HeyGen, and Decart AI.",
+      "source": "TechCrunch",
+      "category": "startups",
+      "timestamp": "2025-07-24T22:43:40Z",
+      "url": "https://techcrunch.com/2025/07/24/vc-victor-lazarte-is-leaving-benchmark-to-launch-his-own-firm/"
+    },
+    {
+      "id": 53,
+      "title": "Tesla sales have collapsed and profits nosedived — but never fear, Elon has the answer",
+      "summary": "Tesla sales have collapsed and profits nosedived, but Elon Musk insists there is a solution to the issue.",
+      "source": "Crikey",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:42:31Z",
+      "url": "http://www.crikey.com.au/2025/07/25/tesla-sales-collapse-elon-musk-ai/"
+    },
+    {
+      "id": 54,
+      "title": "Security by Design — UX and AI in Modern Cybersecurity",
+      "summary": "Nelson Lee discusses how thoughtful design and emerging AI technologies are transforming cybersecurity operations, as seen in the post 'Security by Design — UX and AI in Modern Cybersecurity' on the Palo Alto Networks Blog.",
+      "source": "Paloaltonetworks.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:39:30Z",
+      "url": "https://www.paloaltonetworks.com/blog/2025/07/security-by-design-ux-ai-modern-cybersecurity/"
+    },
+    {
+      "id": 55,
+      "title": "On-Premise vs SaaS Data Annotation Platforms Compared",
+      "summary": "Choosing between SaaS and on-premise data annotation platforms based on factors such as speed, cost, data privacy, and project scope.",
+      "source": "HackRead",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:38:46Z",
+      "url": "https://hackread.com/on-premise-vs-saas-data-annotation-platforms-compared/"
+    },
+    {
+      "id": 56,
+      "title": "Leading Through Rapid Change: 6 Key Challenges To Master Today",
+      "summary": "Today’s workplaces are evolving rapidly, requiring leaders to adapt to new challenges. Traditional approaches may not be effective in navigating dramatic changes in the workplace.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:35:39Z",
+      "url": "https://www.forbes.com/sites/kathycaprino/2025/07/24/leading-through-rapid-change-6-key-challenges-to-master-today/"
+    },
+    {
+      "id": 57,
+      "title": "Young Drivers of Canada launches new AI driving trainer app",
+      "summary": "Young Drivers of Canada launches new AI driving trainer app to make their gold-standard driving curriculum accessible on phones of new drivers.",
+      "source": "MobileSyrup",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:34:19Z",
+      "url": "https://mobilesyrup.com/2025/07/24/young-drivers-canada-ai-driving-trainer-app/"
+    },
+    {
+      "id": 58,
+      "title": "Viewpoint: The AI boom isn't all good news for San Francisco",
+      "summary": "San Francisco needs to get smarter to fully benefit from the AI boom",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:33:54Z",
+      "url": "https://biztoc.com/x/a235d3ba3dbda4fb"
+    },
+    {
+      "id": 59,
+      "title": "Owner Separates Dogs For a Break—Nanny Cam Captures One Not Having It",
+      "summary": "An owner separates dogs for a break, but a nanny cam captures one not having it, showing the ethical implications of monitoring pets' reactions when they think they are alone.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:33:53Z",
+      "url": "https://biztoc.com/x/ad8855545fdb9261"
+    },
+    {
+      "id": 60,
+      "title": "Two major AI coding tools wiped out user data after making cascading mistakes",
+      "summary": "Two major AI coding tools caused data loss due to cascading mistakes, leading to a public apology from Gemini.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:33:40Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178459670"
+    },
+    {
+      "id": 61,
+      "title": "HyperOS 3: These Xiaomi, Redmi & POCO Devices Are Getting the Update",
+      "summary": "Xiaomi is releasing the HyperOS 3 update for its devices, including Android 16, to enhance user experience and improve software capabilities.",
+      "source": "Gizchina.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T22:33:00Z",
+      "url": "https://www.gizchina.com/2025/07/24/hyperos-3-these-xiaomi-redmi-poco-devices-are-getting-the-update/"
+    },
+    {
+      "id": 62,
+      "title": "Looks Like There’s an AI Model in Vogue",
+      "summary": "A Guess advertisement in the August issue of ‘Vogue’ raises concerns about AI models being used for airbrushing and altering appearance in a misleading way.",
+      "source": "The Cut",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:31:16Z",
+      "url": "http://www.thecut.com/article/looks-like-theres-an-ai-model-in-vogue.html"
+    },
+    {
+      "id": 63,
+      "title": "YouTube’s New AI Tools Transform Static Photos Into Dynamic Shorts: A Design Perspective",
+      "summary": "YouTube has launched new AI tools that can transform static photos into dynamic shorts, revolutionizing design portfolios.",
+      "source": "Yanko Design",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:30:52Z",
+      "url": "https://www.yankodesign.com/2025/07/24/youtubes-new-ai-tools-transform-static-photos-into-dynamic-shorts-a-design-perspective/"
+    },
+    {
+      "id": 64,
+      "title": "ze-prompter 0.0.3a0",
+      "summary": "ze-prompter 0.0.3a0 is a library for managing prompt templates with versioning and AI models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:29:30Z",
+      "url": "https://pypi.org/project/ze-prompter/0.0.3a0/"
+    },
+    {
+      "id": 65,
+      "title": "Trump's South Park fiasco exposed who really holds the cards: Deadline editor",
+      "summary": "Deadline editor Dominic Patten discussed the power dynamics between President Trump and Hollywood in light of 'South Park' mocking Trump and Paramount. The conversation highlighted ethical considerations around satire, free speech, and influence in media.",
+      "source": "Raw Story",
+      "category": "ethics",
+      "timestamp": "2025-07-24T22:29:01Z",
+      "url": "https://www.rawstory.com/south-and-park/"
+    },
+    {
+      "id": 66,
+      "title": "Nvidia's Flagship AI Chips Flood China's Shadow Market",
+      "summary": "Nvidia's flagship AI chips are being sold on China's black market despite export restrictions, as reported by Financial Times.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:23:29Z",
+      "url": "https://finance.yahoo.com/news/nvidias-1-billion-b200-chips-213958776.html"
+    },
+    {
+      "id": 67,
+      "title": "Rebellions partners with CoAsia SEMI to deliver AI chiplets to data centers worldwide",
+      "summary": "Rebellions partners with CoAsia SEMI to develop and deliver AI chiplets to data centers worldwide",
+      "source": "Digitimes",
+      "category": "startups",
+      "timestamp": "2025-07-24T22:21:39Z",
+      "url": "https://www.digitimes.com/news/a20250724PD211/ai-startup-coasia-microelectronics-design-development-packaging.html"
+    },
+    {
+      "id": 68,
+      "title": "US chip maker Intel says revenue rose as it cut ranks",
+      "summary": "US chip maker Intel reports higher revenue after cutting workforce by 15 percent to increase agility.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T22:21:13Z",
+      "url": "https://finance.yahoo.com/news/us-chip-maker-intel-says-222113691.html"
+    },
+    {
+      "id": 69,
+      "title": "Alibaba upgrades Qwen3 series, surpassing OpenAI and DeepSeek in math and coding capabilities",
+      "summary": "Alibaba upgrades Qwen3 series, surpassing OpenAI and DeepSeek in math and coding capabilities, showcasing advances in China's open-source artificial intelligence sector.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T22:20:59Z",
+      "url": "https://www.digitimes.com/news/a20250724PD221/deepseek-alibaba-openai-2025-development.html"
+    },
     {
       "id": 51,
       "title": "Ctrl-Alt-Speech: Live At TrustCon 2025",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T21:40:14Z",
       "url": "https://financialpost.com/pmn/sp-tsx-composite-closes-lower-on-thursday-u-s-markets-mixed"
-    },
-    {
-      "id": 62,
-      "title": "AUKUS Gets Raucous",
-      "summary": "A U.S. review of the landmark submarine deal is causing consternation across several ponds.",
-      "source": "Foreign Policy",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:40:08Z",
-      "url": "http://foreignpolicy.com/2025/07/24/aukus-review-pentagon-trump-australia/"
-    },
-    {
-      "id": 63,
-      "title": "Kinhive Launches AI Matchmaking to Connect Women-Led Startups With Skilled Collaborators",
-      "summary": "Kinhive launches AI matchmaking platform to connect women-led startups with skilled collaborators based on skills, working style, and availability, not just resumes.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T21:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121531/0/en/Kinhive-Launches-AI-Matchmaking-to-Connect-Women-Led-Startups-With-Skilled-Collaborators.html"
-    },
-    {
-      "id": 51,
-      "title": "24 Things That Make No Earthly Sense In 'And Just Like That'",
-      "summary": "The article highlights 24 puzzling aspects of the show 'And Just Like That', inviting readers to ponder more. The focus is on critiquing the writing and character development of the series, which may spark discussion and analysis.",
-      "source": "HuffPost",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:31:21Z",
-      "url": "https://www.huffpost.com/entry/hbo-and-just-like-that-things-that-dont-make-sense_n_68825372e4b0c2d9e4d91d46"
-    },
-    {
-      "id": 52,
-      "title": "Indie Game Marketplace Itch.io Follows Steam Down NSFW Game Ban",
-      "summary": "Itch.io follows Steam in banning NSFW games, raising ethical questions about censorship and content restrictions in gaming platforms.",
-      "source": "Techpowerup.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:30:59Z",
-      "url": "https://www.techpowerup.com/339245/indie-game-marketplace-itch-io-follows-steam-down-nsfw-game-ban"
-    },
-    {
-      "id": 53,
-      "title": "Cool Behind-the-Scenes Featurette Gives an Inside Look at FX’s ALIEN: EARTH",
-      "summary": "FX released a featurette for its upcoming sci-fi series Alien: Earth, offering a closer look at the production with interviews and behind-the-scenes footage.",
-      "source": "GeekTyrant",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:30:00Z",
-      "url": "https://geektyrant.com/news/https/geektyrantcom/news/new-alien-earth-trailer-crash-lands-and-brings-the-xenomoph-horror-to-earth"
-    },
-    {
-      "id": 54,
-      "title": "Refik Anadol’s Soulless AI Tribute to Leo Messi",
-      "summary": "Refik Anadol created a Soulless AI Tribute to Leo Messi which highlights the calculated hostility of artificial intelligence and the frigidity of the fine art world.",
-      "source": "Hyperallergic",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:29:16Z",
-      "url": "http://hyperallergic.com/1029216/refik-anadol-soulless-ai-tribute-to-leo-messi/"
-    },
-    {
-      "id": 55,
-      "title": "Human-like robot goes berserk and throws tantrum at San Francisco robotics lab",
-      "summary": "Human-like robot throws tantrum at San Francisco robotics lab, sparking concerns about the ethical implications of developing advanced AI technology.",
-      "source": "New York Post",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:27:31Z",
-      "url": "https://nypost.com/2025/07/24/tech/human-like-robot-goes-berserk-and-throws-tantrum-at-san-francisco-robotics-lab/"
-    },
-    {
-      "id": 56,
-      "title": "This Bill Would Fine Social Media Companies $5 Million Every Day for Not Fighting 'Terrorism'",
-      "summary": "The STOP HATE Act proposes fines for social media companies that do not take action against 'terrorism'. Rep. Josh Gottheimer is advocating for more censorial measures to be implemented.",
-      "source": "Reason",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:25:53Z",
-      "url": "https://reason.com/2025/07/24/this-bill-would-fine-social-media-companies-5-million-every-day-for-not-fighting-terrorism/"
-    },
-    {
-      "id": 57,
-      "title": "Hold Me Ltd. Signs Binding LOI to Acquire Synthetic Darwin LLC, Creator of Darwinslab Ecosystem - Self-Evolving AI Agents Platform — Eyes Strategic Web3 Expansion",
-      "summary": "Hold Me Ltd. signs binding LOI to acquire Synthetic Darwin LLC, a creator of Darwinslab Ecosystem, for strategic Web3 expansion.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T21:25:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121526/0/en/Hold-Me-Ltd-Signs-Binding-LOI-to-Acquire-Synthetic-Darwin-LLC-Creator-of-Darwinslab-Ecosystem-Self-Evolving-AI-Agents-Platform-Eyes-Strategic-Web3-Expansion.html"
-    },
-    {
-      "id": 58,
-      "title": "Fark NotNewsletter: Have you seen Sinners? Superman? Looking forward to Fantastic Four? What's your movie-going experience this summer? [FarkBlog]",
-      "summary": "The Fark NotNewsletter discusses upcoming movies like Sinners, Superman, and Fantastic Four, prompting readers to share their movie-going experiences this summer.",
-      "source": "Fark.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:23:09Z",
-      "url": "https://www.fark.com/comments/blog1582/Fark-NotNewsletter-Have-you-seen-Sinners-Superman-Looking-forward-to-Fantastic-Four-Whats-your-movie-going-experience-this-summer"
-    },
-    {
-      "id": 59,
-      "title": "Hexcel’s (NYSE:HXL) Q2 Sales Beat Estimates",
-      "summary": "Hexcel's Q2 sales beat estimates, with revenue ahead of expectations, but still fell by 2.1% year on year.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:22:47Z",
-      "url": "https://finance.yahoo.com/news/hexcel-nyse-hxl-q2-sales-212247111.html"
-    },
-    {
-      "id": 51,
-      "title": "strands-agents 1.1.0",
-      "summary": "strands-agents 1.1.0 offers a model-driven approach for creating AI agents with minimal code, making it easier to develop intelligent systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:13:53Z",
-      "url": "https://pypi.org/project/strands-agents/1.1.0/"
-    },
-    {
-      "id": 52,
-      "title": "Dispute with contractor could cost homeowner her home",
-      "summary": "Dispute with contractor over use of artificial intelligence in home design could potentially cost homeowner her house after tragic fire incident.",
-      "source": "WSOC Charlotte",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:13:38Z",
-      "url": "https://www.wsoctv.com/news/local/dispute-with-contractor-could-cost-homeowner-her-home/T7ENEPEXKRH4RGWC2MVSQITM6Y/"
-    },
-    {
-      "id": 53,
-      "title": "The FDA Is Using an AI to \"Speed Up\" Drug Approvals and Insiders Say It's Making Horrible Mistakes",
-      "summary": "Insiders at the FDA are concerned about the use of AI to speed up drug approvals, warning of potential mistakes and issues with the system.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-24T21:13:06Z",
-      "url": "https://futurism.com/neoscope/fda-ai-drugs-hallucinations"
-    },
-    {
-      "id": 54,
-      "title": "Intel Q2 beat: Company's turnaround still a 'longer-term story'",
-      "summary": "Intel beat Q2 expectations and gave a positive forecast, signaling a potential turnaround. However, analysts caution that the company's recovery is a longer-term process.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:12:36Z",
-      "url": "https://finance.yahoo.com/video/intel-q2-beat-companys-turnaround-211236407.html"
-    },
-    {
-      "id": 55,
-      "title": " Line-up confirmed for Universidad de Chile against Guaraní",
-      "summary": "Universidad de Chile line-up confirmed for match against Guaraní in CONMEBOL Sudamericana 2025, seeking qualification to round of 16 in Asunción.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:12:00Z",
-      "url": "https://onefootball.com/en/news/line-up-confirmed-for-universidad-de-chile-against-guarani-41421097"
-    },
-    {
-      "id": 56,
-      "title": "Trump Revealed New AI Action Plan— Here’s Where It Puts The US In Today’s Space Race: Expert",
-      "summary": "Trump revealed a new AI action plan with insights from Matthew F. Ferraro, placing the US in the forefront of today's space race.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T21:11:22Z",
-      "url": "https://www.forbes.com/sites/forbestv/2025/07/24/trump-revealed-new-ai-action-plan--heres-where-it-puts-the-us-in-todays-space-race-expert/"
-    },
-    {
-      "id": 57,
-      "title": "5 best CRMs for HVAC businesses in 2025",
-      "summary": "5 best CRMs for HVAC businesses in 2025 to help manage emergency calls, seasonal demand spikes, multi-visit jobs, technician shortage, and customer expectations for rapid response times.",
-      "source": "Hubspot.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:10:39Z",
-      "url": "https://blog.hubspot.com/marketing/best-crm-for-hvac-businesses#article"
-    },
-    {
-      "id": 58,
-      "title": "WEX Sees 25% Year-Over-Year Growth in Accounts Payable Automation",
-      "summary": "WEX experienced a 25% year-over-year growth in accounts payable automation, demonstrating the importance of agile business strategies in times of economic uncertainty.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T21:09:53Z",
-      "url": "http://www.pymnts.com/news/fintech-investments/2025/wex-sees-25-year-over-year-growth-in-accounts-payable-automation/"
     }
   ]
 }
