@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-25T16:20:21.286Z",
+  "lastUpdate": "2025-07-25T16:50:04.846Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why I recommend this Asus laptop over the MacBook Pro to creators and professionals",
+      "summary": "The Asus ProArt P16 offers strong performance initially, with its customization options providing additional benefits for users.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:49:00Z",
+      "url": "https://www.zdnet.com/article/why-i-recommend-this-asus-laptop-over-the-macbook-pro-to-creators-and-professionals/"
+    },
+    {
+      "id": 52,
+      "title": "AI is the new best friend for many teens, and it never says \"no\"",
+      "summary": "AI is becoming a close companion for many teens, providing humanlike interaction and never saying 'no'. Researchers were surprised by the high number of teens who rely on AI for companionship.",
+      "source": "TechSpot",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:49:00Z",
+      "url": "https://www.techspot.com/news/108793-ai-new-best-friend-many-teens-never-no.html"
+    },
+    {
+      "id": 53,
+      "title": "Addition Wealth Launches AI-Powered Financial Wellness Platform",
+      "summary": "Addition Wealth has launched an AI-powered financial wellness platform for large businesses, enabling enterprises to provide customized financial wellness experiences at scale.",
+      "source": "Finovate.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T16:48:58Z",
+      "url": "https://finovate.com/addition-wealth-launches-ai-powered-financial-wellness-platform/"
+    },
+    {
+      "id": 54,
+      "title": "If you were holding your breath for a reasoned government approach to regulating AI, it's time to exhale [Dumbass]",
+      "summary": "Government approach to regulating AI lacks reason.",
+      "source": "Fark.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T16:48:45Z",
+      "url": "https://www.fark.com/comments/13752464/If-you-were-holding-your-breath-for-a-reasoned-government-approach-to-regulating-AI-its-time-to-exhale"
+    },
+    {
+      "id": 55,
+      "title": "Internet Can't Cope With Dog's Tail After 'DNA Forgot To Turn Off' Growth",
+      "summary": "Internet users captivated by a photo of a dog with an unusually long tail due to genetic anomaly. Media emphasizes that inconsistencies may occur with AI-generated content.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:47:46Z",
+      "url": "https://biztoc.com/x/f83754ab4ddf8236"
+    },
+    {
+      "id": 56,
+      "title": "The Business of Obedience—Trump's Blueprint for Authoritarian Capitalism | Opinion",
+      "summary": "CBS canceled Stephen Colbert's late-night show three days after he criticized Paramount's settlement with President Trump, suggesting a possible influence of power dynamics on freedom of speech.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T16:47:44Z",
+      "url": "https://biztoc.com/x/171997abb0d7ee23"
+    },
+    {
+      "id": 57,
+      "title": "Anti-Trump Protests Planned for President's Scotland Visit: What to Know",
+      "summary": "Anti-Trump protests are being planned in Scotland as the president prepares to visit his golf courses.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-24T16:47:40Z",
+      "url": "https://www.newsweek.com/anti-trump-protests-planned-scotland-visit-what-know-aberdeen-edinburgh-dumfries-golf-course-2103560"
+    },
+    {
+      "id": 58,
+      "title": "Bias alert: LLMs suggest women seek lower salaries than men in job interviews",
+      "summary": "LLMs suggest women seek lower salaries than men in job interviews, potentially leading to bias. Chatbots may provide misleading advice, especially for women and minority groups.",
+      "source": "Computerworld",
+      "category": "ethics",
+      "timestamp": "2025-07-24T16:47:26Z",
+      "url": "https://www.computerworld.com/article/4028148/bias-alert-llms-suggest-women-seek-lower-salaries-than-men-in-job-interviews.html"
+    },
+    {
+      "id": 59,
+      "title": "Elon Musk Led A Spending Cut Crusade — Then His Startup Got A $200 Million Contract To Build Custom AI For The Government He Tried To Shrink",
+      "summary": "Elon Musk's AI company xAI received a $200 million contract to build custom AI for the government, despite Musk's past criticisms of government spending.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T16:47:24Z",
+      "url": "https://biztoc.com/x/1d37702090b03d9f"
+    },
+    {
+      "id": 60,
+      "title": "The Good Life: Mother-in-Law Mayhem",
+      "summary": "The article discusses AI-generated voice in a story about mother-in-law horror stories, highlighting the potential for inconsistencies in the content.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:47:09Z",
+      "url": "https://biztoc.com/x/f2940e3f6dbacc00"
+    },
+    {
+      "id": 61,
+      "title": "Interview Kickstart Machine Learning Course 2025 Update - FAANG ML Engineer Course with Projects",
+      "summary": "In an era where AI is increasingly powering everyday systems, ensuring fairness and mitigating bias in machine learning pipelines has become a top priority.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-24T16:46:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121327/0/en/Interview-Kickstart-Machine-Learning-Course-2025-Update-FAANG-ML-Engineer-Course-with-Projects.html"
+    },
+    {
+      "id": 62,
+      "title": "HJT Crypto leads the Ripple revolution: Use XRP to remotely launch Bitcoin for free, with a surge of 35,000 users in a single day",
+      "summary": "HJT Crypto leads the Ripple revolution by allowing users to remotely launch Bitcoin for free using XRP, attracting a surge of 35,000 users in a single day. Users can earn daily rewards in various cryptocurrencies with no setup required, empowering them to take control of their financial future.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T16:46:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121326/0/en/HJT-Crypto-leads-the-Ripple-revolution-Use-XRP-to-remotely-launch-Bitcoin-for-free-with-a-surge-of-35-000-users-in-a-single-day.html"
+    },
+    {
+      "id": 63,
+      "title": "Free Spins No Deposit Casino Bonus | Real Money Online Casino No Deposit By Wild Casino",
+      "summary": "Free Spins No Deposit Casino Bonus offers are shaping how US players experience online casinos.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T16:46:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121324/0/en/Free-Spins-No-Deposit-Casino-Bonus-Real-Money-Online-Casino-No-Deposit-By-Wild-Casino.html"
+    },
+    {
+      "id": 64,
+      "title": "MSBFUND significantly increases its holdings of SOL tokens, injecting confidence into ecological development and driving a new round of value reassessment for the Solana chain",
+      "summary": "MSBFUND significantly increases its holdings of SOL tokens, injecting confidence into ecological development and driving a new round of value reassessment for the Solana chain.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T16:46:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121325/0/en/MSBFUND-significantly-increases-its-holdings-of-SOL-tokens-injecting-confidence-into-ecological-development-and-driving-a-new-round-of-value-reassessment-for-the-Solana-chain.html"
+    },
+    {
+      "id": 65,
+      "title": "Vine Meme Coin Spikes After Elon Musk Says the App Is Returning—With an AI Twist",
+      "summary": "Once-popular video app Vine is returning with an AI twist, leading to a spike in the Vine meme coin as crypto enthusiasts show interest.",
+      "source": "Decrypt",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:45:18Z",
+      "url": "https://decrypt.co/331590/vine-meme-coin-spikes-elon-musk-says-app-returning-ai"
+    },
+    {
+      "id": 66,
+      "title": "1 in 3 Americans ask ChatGPT to help them find a new job, study finds",
+      "summary": "1 in 3 Americans are using ChatGPT to help find a new job, with 18% being suggested an entirely new career path.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:44:01Z",
+      "url": "https://www.zdnet.com/article/1-in-3-americans-ask-chatgpt-to-help-them-find-a-new-job-study-finds/"
+    },
     {
       "id": 51,
       "title": "Un dipinto di Caravaggio esposto al museo Capodimonte,Napoli",
@@ -306,150 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-24T15:40:38Z",
       "url": "https://biztoc.com/x/1e57be33858dc3c8"
-    },
-    {
-      "id": 51,
-      "title": "Alphabet CEO Weighs In: Smart Glasses Won’t Replace Phones Anytime Soon",
-      "summary": "During the Alphabet Q2 2025 earnings call, CEO Sundar Pichai believes that smart glasses won’t replace phones anytime soon.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:16:54Z",
-      "url": "https://www.androidheadlines.com/2025/07/alphabet-ceo-weighs-in-smart-glasses-wont-replace-phones-anytime-soon.html"
-    },
-    {
-      "id": 52,
-      "title": "Bitcoin Contributed Around $282 Million To Tesla’s Bottom Line In Q2, Saving It From An Even Uglier Stock Market Evisceration",
-      "summary": "Bitcoin contributed around $282 million to Tesla's bottom line in Q2, saving it from a stock market decline. Tesla shares are down around 9 percent due to the steepest revenue decline in at least a decade.",
-      "source": "Wccftech",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:16:19Z",
-      "url": "https://wccftech.com/bitcoin-contributed-around-282-million-to-teslas-bottom-line-in-q2-saving-it-from-an-even-uglier-stock-market-evisceration/"
-    },
-    {
-      "id": 53,
-      "title": "Google AI Mode will generate fake clothes to help you buy real ones - The Verge",
-      "summary": "Google AI Mode will generate fake clothes to help users virtually try on clothes before buying real ones.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:15:51Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456178"
-    },
-    {
-      "id": 54,
-      "title": "How To Create B2B Thought Leadership That Actually Leads",
-      "summary": "Tips for creating effective B2B thought leadership content, focusing on framing, originality, and format.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:15:26Z",
-      "url": "https://www.forbes.com/sites/rheawessel/2025/07/24/how-to-create-b2b-thought-leadership-that-actually-leads/"
-    },
-    {
-      "id": 55,
-      "title": "Elon Musk Warns That Tesla Board Could Fire Him \"If I Go Crazy\"",
-      "summary": "Elon Musk warns that Tesla board could fire him 'if I go crazy' due to the continuing decline in automotive revenue, with a 16 percent drop reported in the second quarter earnings call.",
-      "source": "Futurism",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:15:11Z",
-      "url": "https://futurism.com/elon-musk-tesla-board-fire-crazy"
-    },
-    {
-      "id": 56,
-      "title": "‘We just have to know that change is the only constant’",
-      "summary": "Leaders from PMI, Unilever, and M+C Saatchi discuss the challenges and strategies involved in turning big ideas into reality.",
-      "source": "The Drum",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:15:00Z",
-      "url": "https://www.thedrum.com/news/2025/07/24/we-just-have-know-change-the-only-constant"
-    },
-    {
-      "id": 57,
-      "title": "The South Park Season 27 Premiere Is the Subversive Satire 2025 Deserves",
-      "summary": "The South Park Season 27 Premiere provides subversive satire for 2025 with 'Sermon on the Mount,' showcasing Trey Parker and Matt Stone's ability to meet the current moment.",
-      "source": "Consequence.net",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:14:09Z",
-      "url": "https://consequence.net/2025/07/south-park-season-27-premiere-review/"
-    },
-    {
-      "id": 58,
-      "title": "GSoC Midterm Update, Building an AI-Powered Chatbot",
-      "summary": "Giovanni Vaccarino is working on developing an AI-powered chatbot for Quick Access to Jenkins Resources project as part of Google Summer of Code 2025.",
-      "source": "Jenkins.io",
-      "category": "research",
-      "timestamp": "2025-07-24T15:13:27Z",
-      "url": "https://www.jenkins.io/blog/2025/07/24/giovanni-vaccarino-gsoc-midterm-post/"
-    },
-    {
-      "id": 59,
-      "title": " Mosquera's farewell letter to Valencia CF",
-      "summary": "Mosquera's farewell letter to Valencia CF indicates that he will be joining Arsenal soon, pending finalization of paperwork.",
-      "source": "Onefootball.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T15:13:00Z",
-      "url": "https://onefootball.com/en/news/mosqueras-farewell-letter-to-valencia-cf-41419555"
-    },
-    {
-      "id": 60,
-      "title": "Amazon’s latest move feels like the future tapping you on the shoulder",
-      "summary": "Amazon's acquisition of Bee, a $50 wearable that never stops listening, signals a strong move in the AI space, joining other major players like Meta, Jony Ive, and OpenAI.",
-      "source": "PhoneArena",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:12:59Z",
-      "url": "https://www.phonearena.com/news/amazon-latest-move-feels-like-future-tapping-you-on-the-shoulder_id172597"
-    },
-    {
-      "id": 61,
-      "title": "Is IBM a Good Stock to Buy Right Now? Key Factors to Consider.",
-      "summary": "IBM's shift towards a hybrid cloud and AI-focused business model is showing progress, making it a potential stock to consider buying.",
-      "source": "Barchart.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:12:57Z",
-      "url": "https://www.barchart.com/story/news/33620770/is-ibm-a-good-stock-to-buy-right-now-key-factors-to-consider"
-    },
-    {
-      "id": 62,
-      "title": "AI used to aid Love Island casting process, says ITV",
-      "summary": "AI used to aid Love Island casting process, according to ITV CEO",
-      "source": "RTE",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:12:40Z",
-      "url": "https://www.rte.ie/entertainment/2025/0724/1525204-ai-used-to-aid-love-island-casting-process-says-itv/"
-    },
-    {
-      "id": 63,
-      "title": "The vanishing professions: 6 jobs that may not exist in the next decade",
-      "summary": "As automation, AI, and digital convenience reshape the workforce, several once-essential jobs are quietly disappearing. From cashiers and telemarketers to travel agents and toll booth operators, roles built on routine tasks are being phased out.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:12:34Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/the-vanishing-professions-6-jobs-that-may-not-exist-in-the-next-decade/articleshow/122886013.cms"
-    },
-    {
-      "id": 64,
-      "title": "IAB Canada Mid-Year Recap",
-      "summary": "IAB Canada Mid-Year Recap reflecting on a year of remarkable momentum in the industry as it heads into a summer break.",
-      "source": "Iabcanada.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:12:31Z",
-      "url": "https://iabcanada.com/iab-canada-mid-year-recap/"
-    },
-    {
-      "id": 65,
-      "title": "Google Skips Right to Leaking the Whole Pixel 10 Lineup",
-      "summary": "Google leaks entire Pixel 10 lineup, leaving little to the imagination.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:10:39Z",
-      "url": "https://gizmodo.com/google-skips-right-to-leaking-the-whole-pixel-10-lineup-2000633712"
-    },
-    {
-      "id": 66,
-      "title": "Transparent Non-Transparency",
-      "summary": "Ad agency holding companies have shared their earnings amid AI advancements and acquisitions, highlighting winners and losers. The paradox of 'transparent nontransparency' is discussed in the context of media strength.",
-      "source": "AdExchanger",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:10:13Z",
-      "url": "http://www.adexchanger.com/the-big-story/transparent-non-transparency/"
     }
   ]
 }
