@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-25T17:17:01.308Z",
+  "lastUpdate": "2025-07-25T17:44:25.622Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AI companions: A threat to love, or an evolution of it? | TechCrunch",
+      "summary": "Debate surrounding AI companions raises questions about the ethical implications of relationships with non-human entities.",
+      "source": "TechCrunch",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:43:47Z",
+      "url": "https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/"
+    },
+    {
+      "id": 52,
+      "title": "Trump’s AI agenda hands Silicon Valley the win—while ethics, safety, and ‘woke AI’ get left behind",
+      "summary": "Trump's AI agenda prioritizes Silicon Valley's interests over ethics, safety, and 'woke AI', leading to a deregulated and pro-growth approach to AI governance.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:43:38Z",
+      "url": "https://fortune.com/2025/07/24/trump-ai-action-plan-silicon-valley-ethics-safety-woke-ai/"
+    },
+    {
+      "id": 53,
+      "title": "Alert Issued Urging People to Monitor Themselves for 'Unusual Fatigue'",
+      "summary": "Alert issued urging people to monitor themselves for 'unusual fatigue' due to AI-generated voice. Residents advised to seek medical attention if experiencing symptoms in Upper Midwest.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:43:19Z",
+      "url": "https://biztoc.com/x/1e4b197273d8c6ab"
+    },
+    {
+      "id": 54,
+      "title": "AI-related job postings are on the rise. Here's where to find them",
+      "summary": "AI-related job postings are on the rise, with a growth in positions for AI engineers and GenAI consultants.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:43:08Z",
+      "url": "https://biztoc.com/x/aa433f6eb69e4fdf"
+    },
+    {
+      "id": 55,
+      "title": "Yes, ‘South Park’ Went There — And It’s Glorious",
+      "summary": "The 'South Park' creators critique President Trump and Paramount, showcasing the importance of freedom of speech and critique in media despite fear in Hollywood.",
+      "source": "Rolling Stone",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:40:49Z",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-features/south-park-donald-trump-ai-penis-1235393024/"
+    },
+    {
+      "id": 56,
+      "title": "Flex, Retrofits and Sustainability Should Be Top of Mind for Lab Owners: Survey",
+      "summary": "Flex, Retrofits and Sustainability Should Be Top of Mind for Lab Owners: Survey - The U.S. life sciences sector is at a turning point, with a glut of new lab space and declining venture capital and federal funding further pushing developers to meet evolving kinds of demand, according to a new survey.",
+      "source": "Commercial Observer",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:40:45Z",
+      "url": "http://commercialobserver.com/2025/07/lab-development-design-life-sciences-biotech-unispace/"
+    },
+    {
+      "id": 57,
+      "title": "心臓の「音」からAIが病気を見抜く！ ─心不全の早期発見・モニタリングへの応用に期待─",
+      "summary": "AI can detect diseases from the 'sound' of the heart! Expectations for early detection and monitoring of heart failure",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:40:01Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000277.000124365.html"
+    },
+    {
+      "id": 58,
+      "title": "Everything You Need to Try In MacOS 26 and iPadOS 26 Public Betas",
+      "summary": "The iPad just got a million times better in MacOS 26 and iPadOS 26 Public Betas, but it's still not a MacBook killer.",
+      "source": "Gizmodo.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:40:00Z",
+      "url": "https://gizmodo.com/everything-you-need-to-try-in-macos-26-and-ipados-26-public-betas-2000633084"
+    },
     {
       "id": 51,
       "title": "Hulk Hogan, wrestling superstar who helped reshape American media law, dies at 71",
@@ -378,78 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-24T16:16:33Z",
       "url": "https://dailyhodl.com/2025/07/24/zircuit-launches-ai-trading-engine-for-lightning-fast-cross-chain-trading/"
-    },
-    {
-      "id": 57,
-      "title": "cellmap-data 2025.7.24.1615",
-      "summary": "Utility for loading CellMap data for machine learning training, utilizing PyTorch, Xarray, TensorStore, and PyDantic.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:16:06Z",
-      "url": "https://pypi.org/project/cellmap-data/2025.7.24.1615/"
-    },
-    {
-      "id": 58,
-      "title": "How Samsung's Galaxy AI Boosts Gaming Performance",
-      "summary": "Samsung's Galaxy S25 and S25 Ultra use AI to boost gaming performance, providing users with console-level gaming on their smartphones.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:15:51Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456612"
-    },
-    {
-      "id": 59,
-      "title": "LegalOn Closes $50M Series E, Partners With OpenAI To Develop Advanced AI Agents",
-      "summary": "LegalOn closes $50M Series E funding round and partners with OpenAI to develop advanced AI agents for their agentic AI product.",
-      "source": "Lawnext.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T16:15:00Z",
-      "url": "https://www.lawnext.com/2025/07/legalon-closes-50m-series-e-partners-with-openai-to-develop-advanced-ai-agents.html"
-    },
-    {
-      "id": 60,
-      "title": "LECTRA: Second Quarter and First Half 2025 financial report available",
-      "summary": "LECTRA releases financial report for Second Quarter and First Half of 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T16:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121308/0/en/LECTRA-Second-Quarter-and-First-Half-2025-financial-report-available.html"
-    },
-    {
-      "id": 61,
-      "title": "OpenAI said to release GPT-5 in August",
-      "summary": "OpenAI is set to release its most advanced AI assistant model, GPT-5, in August according to sources, marking a significant innovation in the field of AI.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T16:14:23Z",
-      "url": "https://biztoc.com/x/ebfa5f169349da08"
-    },
-    {
-      "id": 62,
-      "title": "Treatments From Llama Brains Can Help People With Schizophrenia",
-      "summary": "Antibodies from llamas could be used to create a new generation of schizophrenia treatments that can effectively target the brain, rather than just reducing symptoms.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T16:14:22Z",
-      "url": "https://biztoc.com/x/64b5b13851e6f149"
-    },
-    {
-      "id": 63,
-      "title": "3 Ways Automation Can Power Up Your Marketing",
-      "summary": "Real estate professionals can benefit from automation in marketing, which can save time and yield better results. By using AI-powered tools, listings can gain momentum and reach more potential buyers.",
-      "source": "Rismedia.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:14:13Z",
-      "url": "https://www.rismedia.com/2025/07/24/3-ways-automation-can-power-up-your-marketing-and-your-business/"
-    },
-    {
-      "id": 51,
-      "title": "India-UK FTA unlocks financial services boom",
-      "summary": "India-UK FTA unlocks financial services boom with 'unbound' and 'none' limitations on market access for Indian firms.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:54:01Z",
-      "url": "https://www.thehindubusinessline.com/economy/india-uk-fta-unlocks-financial-services-boom/article69851376.ece"
     }
   ]
 }
