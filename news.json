@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-25T05:50:40.619Z",
+  "lastUpdate": "2025-07-25T06:24:47.631Z",
   "items": [
+    {
+      "id": 51,
+      "title": "aider-code 0.1.0.post0",
+      "summary": "aider-code 0.1.0.post0 - Devflux Aider is AI pair programming in your terminal",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T06:22:28Z",
+      "url": "https://pypi.org/project/aider-code/0.1.0.post0/"
+    },
+    {
+      "id": 52,
+      "title": "The rise (or not) of AI ethics officers",
+      "summary": "The rise of AI ethics officers is discussed, with a focus on the importance of integrating AI ethics into organizational structure and decision-making processes to build trust and accountability.",
+      "source": "ComputerWeekly.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T06:22:00Z",
+      "url": "https://www.computerweekly.com/feature/The-rise-or-not-of-AI-ethics-officers"
+    },
+    {
+      "id": 53,
+      "title": "Fixlastmile Releases 2025 Last-Mile Trends Report: Real-Time Tracking Now a Must",
+      "summary": "FixLastMile releases 2025 Last-Mile Trends Report emphasizing the growing need for real-time tracking in delivery systems.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:19:35Z",
+      "url": "https://slashdot.org/submission/17338172/fixlastmile-releases-2025-last-mile-trends-report-real-time-tracking-now-a-must"
+    },
+    {
+      "id": 54,
+      "title": "Google CEO Sundar Pichai Shrugs Off Headling-Grabbing Exits Amid Talent War Hype: 'We Are Doing Very Well'",
+      "summary": "Google CEO Sundar Pichai dismisses concerns about AI talent leaving, stating that the company is still doing well in attracting and retaining top talent.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:17:24Z",
+      "url": "https://biztoc.com/x/6655aa12280419a2"
+    },
+    {
+      "id": 55,
+      "title": "Crypto Rally Stalls—Correction Ahead For XRP, Solana and Top Altcoins or Just Market Noise?",
+      "summary": "The altcoin rally is cooling as Bitcoin trades sideways, with analysts citing short-term fatigue despite a supportive macro backdrop.",
+      "source": "Decrypt",
+      "category": "economy",
+      "timestamp": "2025-07-24T06:16:02Z",
+      "url": "https://decrypt.co/331531/crypto-rally-stalls-correction-ahead-macro-noise"
+    },
+    {
+      "id": 56,
+      "title": "China plans network to sell surplus computing power in crackdown on data centre glut",
+      "summary": "China plans to sell surplus computing power from data centers in efforts to regulate the sector after a building boom.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T06:15:31Z",
+      "url": "https://tech.yahoo.com/computing/articles/china-plans-network-sell-surplus-061531463.html"
+    },
+    {
+      "id": 57,
+      "title": "Synology 2026 Roadmap Plan : New Video Chat App Planned?",
+      "summary": "Synology has revealed plans for a new video chat app as part of its 2026 roadmap, aiming to provide businesses with control over their data while maintaining collaboration, performance, and security. This move challenges the dominance of cloud giants like Google Workspace and Microsoft 365.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:12:38Z",
+      "url": "https://www.geeky-gadgets.com/synology-2026-roadmap/"
+    },
+    {
+      "id": 58,
+      "title": "zohencel-ai 0.4.8",
+      "summary": "zohencel-ai 0.4.8 is the world's first 'Text to ML model' support library with an analysis chart bot and customizable AI voice assistant.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T06:08:25Z",
+      "url": "https://pypi.org/project/zohencel-ai/0.4.8/"
+    },
+    {
+      "id": 59,
+      "title": "Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown",
+      "summary": "The article discusses the concept of rotating encryption keys for security and introduces a new tool called AWSKeyLockdown. The author provides an attacker's perspective on the rotation illusion and how it can be exploited.",
+      "source": "Clutch.security",
+      "category": "research",
+      "timestamp": "2025-07-24T06:07:17Z",
+      "url": "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown"
+    },
     {
       "id": 51,
       "title": "A Look At The Fair Value Of HMS Bergbau AG (ETR:HMU)",
@@ -369,87 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T04:04:14Z",
       "url": "https://biztoc.com/x/762bf13ec5ab57af"
-    },
-    {
-      "id": 57,
-      "title": "A Hive Of Activity; The Dogs Are Back In Town",
-      "summary": "Amazon quietly acquires AI-based wearable device maker Bee, known for their $50 wristband infused with AI software, as announced by Bee Co-Founder and CEO Maria de Lourdes Zollo on LinkedIn.",
-      "source": "AdExchanger",
-      "category": "startups",
-      "timestamp": "2025-07-24T04:03:36Z",
-      "url": "http://www.adexchanger.com/daily-news-roundup/thursday-24072025/"
-    },
-    {
-      "id": 58,
-      "title": "kstflow 0.1.0",
-      "summary": "kstflow 0.1.0 is a set of AI utilities specifically designed for medical datasets, offering new tools for analysis and processing of healthcare data.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:03:10Z",
-      "url": "https://pypi.org/project/kstflow/0.1.0/"
-    },
-    {
-      "id": 59,
-      "title": "Trump Bans ‘Woke AI’ From Federal Contracts in New Executive Order",
-      "summary": "Trump's executive order bans 'woke AI' from federal contracts, requiring ideological neutrality and prohibiting DEI-aligned large language models.",
-      "source": "Decrypt",
-      "category": "ethics",
-      "timestamp": "2025-07-24T04:02:54Z",
-      "url": "https://decrypt.co/331524/trump-bans-woke-ai-federal-contracts-executive-order"
-    },
-    {
-      "id": 60,
-      "title": "Tanla Platforms to announce Q1 results today",
-      "summary": "Tanla Platforms to announce Q1 results showcasing revenue and profit growth, providing telcos with an AI-native platform for efficient data management.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:02:34Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/tanla-platforms-to-announce-q1-results-today/article69849164.ece"
-    },
-    {
-      "id": 61,
-      "title": "Alphabet boosted by AI, cloud demand as spending needs skyrocket",
-      "summary": "Alphabet's AI infrastructure investments are pivotal in meeting the increased demand from cloud customers, boosting the company's growth.",
-      "source": "Bloomberg",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:01:10Z",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-23/alphabet-slips-after-boosting-guidance-for-capital-expenditures"
-    },
-    {
-      "id": 62,
-      "title": "Google’s latest core update leaves publishers rattled, but its consequences are still to be determined",
-      "summary": "Google's latest core update has caused concern among publishers, but the full impact is still uncertain. This update has been described as a typical rollercoaster ride by several publishers.",
-      "source": "Digiday",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:01:00Z",
-      "url": "http://digiday.com/media/googles-latest-core-update-leaves-publishers-rattled-but-its-consequences-are-still-to-be-determined/"
-    },
-    {
-      "id": 63,
-      "title": "Media Briefing: New AI-focused roles signal an evolution of AI strategy at news publishers",
-      "summary": "New AI-focused roles at news publishers like The Washington Post and Forbes indicate a shift in AI strategy towards operationalization and implementation.",
-      "source": "Digiday",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:01:00Z",
-      "url": "http://digiday.com/media/media-briefing-new-ai-focused-roles-signal-an-evolution-of-ai-strategy-at-news-publishers/"
-    },
-    {
-      "id": 64,
-      "title": "Maybe AI Isn’t Going to Replace You at Work After All",
-      "summary": "AI fails at tasks where accuracy must be absolute to create value. In reviewing the on-going discussions about how many people will be replaced by AI, I find a severe lack of real-world examples.",
-      "source": "Lewrockwell.com",
-      "category": "research",
-      "timestamp": "2025-07-24T04:01:00Z",
-      "url": "https://www.lewrockwell.com/2025/07/charles-hugh-smith/maybe-ai-isnt-going-to-replace-you-at-work-after-all/"
-    },
-    {
-      "id": 65,
-      "title": "As S4 struggles, Sir Martin Sorrell keeps firing shots at the industry he created",
-      "summary": "Sir Martin Sorrell criticizes the industry he created, as S4 struggles, with his commentary becoming more biting.",
-      "source": "Digiday",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:01:00Z",
-      "url": "http://digiday.com/media-buying/as-s4-struggles-sir-martin-sorrell-keeps-firing-shots-at-the-industry-he-created/"
     }
   ]
 }
