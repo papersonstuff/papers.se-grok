@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-25T14:15:12.423Z",
+  "lastUpdate": "2025-07-25T14:40:51.235Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The Great Dismantling",
+      "summary": "The Great Dismantling - It’s time to reckon with end of the old international order—and shape a vision for new one.",
+      "source": "Foreign Policy",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:40:24Z",
+      "url": "http://foreignpolicy.com/2025/07/24/liberal-international-order-dismantling-trump-usaid-state-department-human-rights/"
+    },
+    {
+      "id": 52,
+      "title": "International standard language developed to unite synthetic biology laboratories worldwide",
+      "summary": "An international standard language has been developed to unite synthetic biology laboratories worldwide, aiming to simplify and enhance the accuracy and efficiency of research. This framework is expected to become the international standard for biofoundries.",
+      "source": "Phys.Org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:40:01Z",
+      "url": "https://phys.org/news/2025-07-international-standard-language-synthetic-biology.html"
+    },
+    {
+      "id": 53,
+      "title": "“This is not so!” Says President Trump About Destroying Elon Musk’s Companies & Adds “I want Elon” To Thrive In America",
+      "summary": "President Trump expresses desire for Elon Musk to thrive in America, contradicting previous statements about deporting him.",
+      "source": "Wccftech",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:39:47Z",
+      "url": "https://wccftech.com/this-is-not-so-says-president-trump-about-destroying-elon-musks-companies-adds-i-want-elon-to-thrive-in-america/"
+    },
+    {
+      "id": 54,
+      "title": "‘Starting Today’—Microsoft Confirms Free Windows Update",
+      "summary": "Starting today, Microsoft is offering a free Windows update that users should check for on their PCs. The update includes critical new features that users should be aware of.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:39:20Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/24/starting-today-microsoft-confirms-free-windows-update/"
+    },
+    {
+      "id": 55,
+      "title": "Top 6 Old Photo Restoration Software for Mac to Revive Your Memories",
+      "summary": "Top 6 Old Photo Restoration Software for Mac to revive old, faded, or damaged photographs without needing Photoshop skills.",
+      "source": "The Mac Observer",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:39:08Z",
+      "url": "https://www.macobserver.com/tips/top-6-old-photo-restoration-software-for-mac-to-revive-your-memories/"
+    },
+    {
+      "id": 56,
+      "title": "‘South Park’ Skewers Trump And Paramount Amid $1.5 Billion Streaming Deal, Skydance Merger",
+      "summary": "'South Park' skewers Trump and Paramount in an episode released shortly after Paramount's $1.5 billion streaming deal with the show's creators Trey Parker and Matt Stone.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:38:13Z",
+      "url": "https://www.forbes.com/sites/conormurray/2025/07/24/south-park-skewers-trump-and-paramount-amid-15-billion-streaming-deal-skydance-merger/"
+    },
+    {
+      "id": 57,
+      "title": "What Is Tea, The Viral Women-Only App With 1 Million Downloads?",
+      "summary": "The viral women-only app called Tea allows women to post pictures of men they're dating for feedback, raising concerns about privacy and consent.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:37:22Z",
+      "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/07/24/what-is-tea-the-viral-women-only-app-with-1-million-downloads/"
+    },
+    {
+      "id": 58,
+      "title": "Sarepta Therapeutics (SRPT): “They Should Be Prosecuted,” Says Jim Cramer",
+      "summary": "Sarepta Therapeutics (SRPT): 'They Should Be Prosecuted,' Says Jim Cramer - We recently published 12 Stocks Jim Cramer Discussed As Analyzed Morgan Stanley’s Comments.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:37:14Z",
+      "url": "https://finance.yahoo.com/news/sarepta-therapeutics-srpt-prosecuted-says-143714744.html"
+    },
+    {
+      "id": 59,
+      "title": "How Does Alien: Earth Work with Ridley Scott's Prequels? FX Explains",
+      "summary": "With less than a month to go until the series hits FX and Hulu screens, we're getting some clarity on how Alien: Earth will work with Ridley Scott's prequels, explained by FX Networks and Showrunner Noah Hawley's Sydney Chandler",
+      "source": "Bleeding Cool News",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:37:04Z",
+      "url": "https://bleedingcool.com/tv/how-does-alien-earth-work-with-ridley-scotts-prequels-fx-explains/"
+    },
+    {
+      "id": 60,
+      "title": "[Unboxing] Galaxy Z Fold7: Powerful Versatility in the Thinnest, Lightest Z Fold Yet",
+      "summary": "Galaxy Z Fold 7 is the thinnest and lightest Z Fold yet, offering multimodal AI and foldable-optimized UI.",
+      "source": "Samsung.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:35:22Z",
+      "url": "https://news.samsung.com/in/unboxing-galaxy-z-fold7-powerful-versatility-in-the-thinnest-lightest-z-fold-yet"
+    },
+    {
+      "id": 61,
+      "title": "Video-sharing app Vine is returning 'in AI form', Musk says",
+      "summary": "Video-sharing app Vine is returning 'in AI form', Musk says - X, Elon Musk's social media company, is bringing back Vine in 'AI form' almost nine years after it was discontinued.",
+      "source": "CNA",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:35:10Z",
+      "url": "https://www.channelnewsasia.com/business/video-sharing-app-vine-returning-in-ai-form-musk-says-5256791"
+    },
+    {
+      "id": 62,
+      "title": "Shopper Gets Perfect Revenge On Line-Cutter At Self-Checkout: 'You're Crazy!'",
+      "summary": "Woman gets revenge on line-cutter at self-checkout, sparking debate on ethical behavior in public spaces.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:35:01Z",
+      "url": "https://www.newsweek.com/reddit-woman-mother-child-grocery-store-checkout-line-cutter-2103170"
+    },
+    {
+      "id": 63,
+      "title": "'South Park' mocks Paramount's settlement with Trump after creators sign $1.5B deal",
+      "summary": "Paramount signs deal with 'South Park' creators to produce 50 new episodes over the next five years in a $1.5 billion agreement, mocking previous settlement with Trump.",
+      "source": "NBC News",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:34:30Z",
+      "url": "https://www.nbcnews.com/business/media/south-park-mocks-paramounts-settlement-trump-creators-sign-15b-deal-rcna220770"
+    },
+    {
+      "id": 64,
+      "title": "Trump’s plan to win AI race includes killing off ‘woke’ agenda and removing environmental barriers to innovation",
+      "summary": "Trump's plan to win the AI race involves removing barriers to innovation and promoting AI-related infrastructure projects.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:34:09Z",
+      "url": "https://biztoc.com/x/0eb74091c6e8b266"
+    },
     {
       "id": 51,
       "title": "If You See This Message, Your Amazon Account Is Under Attack",
@@ -324,132 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T12:32:05Z",
       "url": "https://www.trendhunter.com/trends/promediafy"
-    },
-    {
-      "id": 52,
-      "title": "Plane Passenger Finds Out Who's Sitting in Front—and It's a Very Good Boy",
-      "summary": "A passenger on a Delta flight was pleasantly surprised to find out that their seat neighbor was a golden retriever, due to an AI-generated voice assigning seats. This unconventional seatmate experience highlights the use of AI in passenger seating and interactions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T12:31:39Z",
-      "url": "https://biztoc.com/x/f34919e67f4eb4f2"
-    },
-    {
-      "id": 53,
-      "title": "First Plan For 2030 Census Revealed",
-      "summary": "The U.S. Census Bureau releases first plan for 2030 Census, which includes AI-generated voice.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T12:31:26Z",
-      "url": "https://biztoc.com/x/60be1046db5861a6"
-    },
-    {
-      "id": 54,
-      "title": "Google’s AI Overviews are cutting off the oxygen to the web",
-      "summary": "Google's AI Overviews are fundamentally changing how users interact with search results, according to new data from Pew Research Center.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T12:31:05Z",
-      "url": "https://biztoc.com/x/fec743de0dbafc9e"
-    },
-    {
-      "id": 55,
-      "title": "Beyond the Balance Sheet: Spirit Blockchain’s Integrated Crypto Yield & Asset Management Strategy with Spirit 2.0",
-      "summary": "Spirit Blockchain Capital Inc. announced the launch of its next strategic evolution, Spirit 2.0, focusing on integrated crypto yield and asset management.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-24T12:30:43Z",
-      "url": "https://financialpost.com/globe-newswire/beyond-the-balance-sheet-spirit-blockchains-integrated-crypto-yield-asset-management-strategy-with-spirit-2-0"
-    },
-    {
-      "id": 56,
-      "title": "UK firm smashes local Bitcoin treasury record with $135M raise",
-      "summary": "UK startup Satsuma Technology breaks local Bitcoin treasury record with $135M raise, becoming one of the country's top corporate BTC holders.",
-      "source": "Cointelegraph",
-      "category": "startups",
-      "timestamp": "2025-07-24T12:30:38Z",
-      "url": "https://cointelegraph.com/news/uk-firm-smashes-2025-local-bitcoin-treasury-record-with-135m-raise"
-    },
-    {
-      "id": 57,
-      "title": "ZenaTech’s ZenaDrone Partners with Eagle Point Funding to Win US Defense Customers",
-      "summary": "ZenaTech's ZenaDrone partners with Eagle Point Funding to target US Defense customers in the AI drone market.",
-      "source": "Financial Post",
-      "category": "startups",
-      "timestamp": "2025-07-24T12:30:37Z",
-      "url": "https://financialpost.com/globe-newswire/zenatechs-zenadrone-partners-with-eagle-point-funding-to-win-us-defense-customers"
-    },
-    {
-      "id": 58,
-      "title": "Not Making Headlines: In Just Six Months into Trump 47’s Administration – US Business Investment is Surging at the Fastest Pace Since 1997 – Treasury Sec. Scott Bessent Weighs In",
-      "summary": "US business investment is surging at the fastest pace since 1997 in the first six months of Trump 47's administration, according to Treasury Secretary Scott Bessent.",
-      "source": "Thegatewaypundit.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T12:30:26Z",
-      "url": "https://www.thegatewaypundit.com/2025/07/not-making-headlines-just-six-months-trump-47s/"
-    },
-    {
-      "id": 59,
-      "title": "Soaring Electricity Bills: Biggest US Power Grid Sets Power Costs At Record High To Feed Artificial Intelligence",
-      "summary": "Soaring electricity bills as the biggest US power grid sets power costs at a record high to feed artificial intelligence, making it difficult for some to afford AC.",
-      "source": "Shtfplan.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T12:30:10Z",
-      "url": "https://www.shtfplan.com/headline-news/soaring-electricity-bills-biggest-us-power-grid-sets-power-costs-at-record-high-to-feed-artificial-intelligence"
-    },
-    {
-      "id": 51,
-      "title": "'No evidence!' CNN scrambles to change subject as Dem drops wild suggestion about Trump",
-      "summary": "A Democratic congressman suggested President Trump may be a pedophile, leading CNN to quickly change the subject and provide a legal disclaimer. Rep. Sam Liccardo's remarks sparked controversy and raised ethical concerns about making such claims on a news program.",
-      "source": "Raw Story",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:47:40Z",
-      "url": "https://www.rawstory.com/donald-trump-jeffrey-epstein-scandal/"
-    },
-    {
-      "id": 52,
-      "title": "US stock market futures mixed today: S&P 500 steady, Nasdaq climbs on AI rally, Dow drops as Tesla and IBM disappoint",
-      "summary": "US stock market futures mixed with S&P 500 steady, Nasdaq climbing on AI rally, and Dow dropping due to disappointment from Tesla and IBM.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:47:40Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-mixed-today-sp-500-steady-nasdaq-climbs-on-ai-rally-dow-drops-as-tesla-and-ibm-disappoint/articleshow/122881933.cms"
-    },
-    {
-      "id": 53,
-      "title": "Agentic AI systems must have ‘a human in the loop,’ says Google exec",
-      "summary": "Agentic AI systems must have ‘a human in the loop,’ says Google exec. Agentic AI could fundamentally reshape businesses in less than three years.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T11:46:37Z",
-      "url": "https://biztoc.com/x/27162e14ab26307d"
-    },
-    {
-      "id": 54,
-      "title": "AMD CEO Highlights Higher Costs For US Made Chips As Supply Chain Strengthens",
-      "summary": "AMD CEO Lisa Su highlights higher costs for US made chips as supply chain strengthens",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:46:32Z",
-      "url": "https://biztoc.com/x/5a215e55105b7de1"
-    },
-    {
-      "id": 55,
-      "title": "Want to be a leader? Start where the system breaks — Bill Gates just showed students how",
-      "summary": "Bill Gates worked a customer service shift at his daughter’s AI fashion startup, Phia, to understand real user experience, emphasizing a timeless message for students and young professionals on being a true leader.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T11:45:55Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/want-to-be-a-leader-start-where-the-system-breaks-bill-gates-just-showed-students-how/articleshow/122882026.cms"
-    },
-    {
-      "id": 56,
-      "title": "Analyst Explains Why Nvidia China News Could be ‘Huge’ for ASML Holding (ASML)",
-      "summary": "ASML Holding N.V. (NASDAQ:ASML) is one of the 10 Stocks to Buy and Sell in 2025 according to a top analyst. Nvidia's China news could have significant implications for ASML Holding, as analyzed by Equity Armor Investment.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:45:35Z",
-      "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-china-114552980.html"
     }
   ]
 }
