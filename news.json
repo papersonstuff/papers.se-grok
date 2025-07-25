@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-25T20:43:12.945Z",
+  "lastUpdate": "2025-07-25T20:55:14.624Z",
   "items": [
+    {
+      "id": 51,
+      "title": "New Koske Linux malware hides in cute panda images",
+      "summary": "New Linux malware named Koske may be using artificial intelligence to hide in JPEG images of panda bears and deploy malware into system memory.",
+      "source": "BleepingComputer",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:54:10Z",
+      "url": "https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/"
+    },
+    {
+      "id": 52,
+      "title": "Ocean Power Technologies, Inc. Announces Fourth Quarter and Full Year Fiscal 2025 Results",
+      "summary": "Ocean Power Technologies, Inc. announces strong fourth quarter and full year fiscal 2025 results, entering fiscal 2026 with record backlog and pipeline.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:54:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121509/9069/en/Ocean-Power-Technologies-Inc-Announces-Fourth-Quarter-and-Full-Year-Fiscal-2025-Results.html"
+    },
+    {
+      "id": 53,
+      "title": "Absci Announces Proposed Public Offering of Common Stock",
+      "summary": "Absci Corporation, a biopharmaceutical company using generative AI to develop potential breakthrough therapeutics, has announced a proposed public offering of common stock.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T20:54:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121508/0/en/Absci-Announces-Proposed-Public-Offering-of-Common-Stock.html"
+    },
+    {
+      "id": 54,
+      "title": "American Airlines CEO Slams AI Fare Setting as Trickery",
+      "summary": "American Airlines' CEO criticizes the use of AI to set air fares, mentioning the importance of consumers trusting the airline.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:53:13Z",
+      "url": "https://biztoc.com/x/6274c0cf6786b47d"
+    },
+    {
+      "id": 55,
+      "title": "Mastercard Debuts AI-Powered Design Studio for Card Issuers",
+      "summary": "Mastercard has launched an AI-powered Design Studio to assist card issuers in creating and deploying card designs.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:53:06Z",
+      "url": "https://biztoc.com/x/9ff47d9eebb82778"
+    },
+    {
+      "id": 56,
+      "title": "Intel CEO Letter to Employees",
+      "summary": "Intel CEO announces 15% workforce reduction",
+      "source": "Substack.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:52:41Z",
+      "url": "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
+    },
+    {
+      "id": 57,
+      "title": "Beyond the lab: Helping social science experiments hold up in the real world",
+      "summary": "In a Q&A, Melody Huang discusses her work to improve the accuracy and practicality of social science experiments in the real world.",
+      "source": "Yale.edu",
+      "category": "research",
+      "timestamp": "2025-07-24T20:51:31Z",
+      "url": "https://isps.yale.edu/news/blog/2025/07/beyond-the-lab-melody-huang-builds-tools-to-help-experiments-hold-up-in-the-real"
+    },
+    {
+      "id": 58,
+      "title": "aipyapp 0.2.3b12",
+      "summary": "The aipyapp 0.2.3b12 is a Python-powered AI tool that aims to leverage AI capabilities in Python for various applications. This tool showcases the growing trend of combining Python and AI to create innovative solutions.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T20:50:16Z",
+      "url": "https://pypi.org/project/aipyapp/0.2.3b12/"
+    },
+    {
+      "id": 59,
+      "title": "Wider GPU Support, Faster Exports & Smarter Denoising – Aiarty Video Enhancer Update + Special Offer",
+      "summary": "Aiarty Video Enhancer has released a major update with wider GPU support, faster exports, and improved denoising capabilities.",
+      "source": "Fujirumors.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T20:49:35Z",
+      "url": "https://www.fujirumors.com/wider-gpu-support-faster-exports-smarter-denoising-aiarty-video-enhancer-update-special-offer/"
+    },
+    {
+      "id": 60,
+      "title": "PR Roundup: Sony’s Sustainability, AI Summary Crisis, Top 50 Creator-Journalists",
+      "summary": "This week's PR Roundup discusses Sony's public pledge for product sustainability, a new list of the top 50 independent creator-journalists, and the challenges faced by AI summary results in the news industry.",
+      "source": "Prnewsonline.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:49:15Z",
+      "url": "https://www.prnewsonline.com/pr-roundup-sonys-sustainability-ai-summary-crisis-top-50-creator-journalists/"
+    },
+    {
+      "id": 61,
+      "title": "Nikolay Samokhvalov: Introducing Postgres how-tos: practical guides for real-world database challenges",
+      "summary": "Introducing Postgres how-to guides collection for real-world database challenges as part of Launch Week.",
+      "source": "Postgres.ai",
+      "category": "applications",
+      "timestamp": "2025-07-24T20:48:15Z",
+      "url": "https://postgres.ai/blog/20250724-postgres-howtos-launch"
+    },
+    {
+      "id": 62,
+      "title": "Robophobia",
+      "summary": "Robophobia, the irrational fear of robots, has been a popular term used online since the 2000s. In 2025, the term and related robophobic terms like 'clankers' became increasingly prominent.",
+      "source": "Knowyourmeme.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:48:03Z",
+      "url": "https://knowyourmeme.com/memes/robophobia"
+    },
+    {
+      "id": 63,
+      "title": "Trump’s order to block ‘woke’ AI in government encourages tech giants to censor their chatbots",
+      "summary": "Trump's order to block 'woke' AI in government leads tech giants to consider censoring their chatbots, with leading providers of AI language models staying silent on the directive.",
+      "source": "Boston Herald",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:48:00Z",
+      "url": "https://www.bostonherald.com/2025/07/24/trump-woke-ai-order/"
+    },
+    {
+      "id": 64,
+      "title": "Native Audio Overviews Player Is Rolling Out to Gemini App on Android & iOS",
+      "summary": "Native Audio Overviews Player Is Rolling Out to Gemini App on Android & iOS, providing a new feature for users to access audio overviews. The update signifies an innovative enhancement to the Gemini App, offering convenience and accessibility for users.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:45:41Z",
+      "url": "https://www.androidheadlines.com/2025/07/native-audio-overviews-player-is-rolling-out-to-gemini-app-on-android-ios.html"
+    },
+    {
+      "id": 65,
+      "title": "Young people don't speculate in coins, but start working in cloud mining: InvroMining sets off a new trend of low threshold and high income",
+      "summary": "Young people are shifting towards cloud mining with InvroMining, which offers AI-powered cloud mining with low threshold and high income potential. The platform provides a $15 bonus, clean energy usage, and mobile-friendly contracts for earning daily crypto income without speculation.",
+      "source": "Ibtimes.com.au",
+      "category": "startups",
+      "timestamp": "2025-07-24T20:45:24Z",
+      "url": "https://www.ibtimes.com.au/young-people-dont-speculate-coins-start-working-cloud-mining-invromining-sets-off-new-trend-1859807"
+    },
+    {
+      "id": 66,
+      "title": "Crusoe and Tallgrass Announce AI Data Center in Wyoming",
+      "summary": "Crusoe and Tallgrass announce the development of an AI data center in Wyoming with a capacity of 1.8 gigawatts, expanding Crusoe's pipeline of projects. This new project demonstrates the growing presence of startups in the AI industry.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T20:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121503/0/en/Crusoe-and-Tallgrass-Announce-AI-Data-Center-in-Wyoming.html"
+    },
     {
       "id": 51,
       "title": "Singapore Marketing Automation Software for Ecommerce Market: Insights on Key Growth Drivers, Challenges, and Market Outlook",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T19:51:38Z",
       "url": "https://macdailynews.com/2025/07/24/apple-releases-first-ios-26-public-beta/"
-    },
-    {
-      "id": 55,
-      "title": "US electricity prices skyrocket under Trump, hitting highest levels in years",
-      "summary": "US electricity prices have increased by 6% in the first half of 2025, reaching the highest levels in years under the Trump administration.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:48:19Z",
-      "url": "https://nypost.com/2025/07/24/business/us-electricity-prices-continue-to-climb-under-trump/"
-    },
-    {
-      "id": 56,
-      "title": "Proton launches Lumo, a privacy-focused AI chatbot",
-      "summary": "Proton launches Lumo, a privacy-focused AI chatbot that aims to address the risks associated with personal data collection in AI. The chatbot is designed to provide opportunities for users and businesses while safeguarding their privacy.",
-      "source": "TechSpot",
-      "category": "startups",
-      "timestamp": "2025-07-24T19:48:00Z",
-      "url": "https://www.techspot.com/news/108801-proton-launches-lumo-privacy-focused-ai-chatbot.html"
-    },
-    {
-      "id": 57,
-      "title": "The Economist* on the speed of AI take-off",
-      "summary": "The Economist reports on the slow pace of AI adoption, with the potential for a workerless economy in the future. Economist Tyler Cowen believes that despite the rapid advancements in AI technology, its impact on the economy will be gradual.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:46:12Z",
-      "url": "https://biztoc.com/x/b50c41e9474e77d4"
-    },
-    {
-      "id": 58,
-      "title": "Elon Musk’s Grok AI integrates with Kalshi, Paradigm-backed prediction market",
-      "summary": "Elon Musk’s Grok AI integrates with Kalshi, a CFTC-regulated prediction market backed by Paradigm, bringing its Grok LLM to the platform which raised $185 million at a $2 billion valuation in June.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:46:03Z",
-      "url": "https://biztoc.com/x/31081ec35bfde4f6"
-    },
-    {
-      "id": 59,
-      "title": "Optimizing Vector Search for Indexing and Real-Time Retrieval with NVIDIA cuVS",
-      "summary": "AI-powered search optimized for indexing and retrieval with NVIDIA cuVS, providing high-performance, low-latency, and scalable solutions.",
-      "source": "Nvidia.com",
-      "category": "research",
-      "timestamp": "2025-07-24T19:45:49Z",
-      "url": "https://developer.nvidia.com/blog/optimizing-vector-search-for-indexing-and-real-time-retrieval-with-nvidia-cuvs/"
-    },
-    {
-      "id": 60,
-      "title": "'South Park' mocks CBS and Trump shortly after striking a streaming deal with the network's owner, Paramount",
-      "summary": "'South Park' mocks CBS and Trump shortly after striking a streaming deal with the network's owner, Paramount - Hours after CBS-owner Paramount announced a 'South Park' deal, the show's creators showed they're not afraid to bite the hand that feeds them.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:45:33Z",
-      "url": "https://www.businessinsider.com/new-south-park-episode-ai-trump-cbs-paramount-2025-7"
-    },
-    {
-      "id": 61,
-      "title": "Google Unveils $37m AI Push Across Africa, Targeting Agriculture, Health, Education in Ghana, Nigeria and Others - West Africa Weekly",
-      "summary": "Google is investing $37m in AI projects across Africa, focusing on agriculture, health, and education in countries like Ghana and Nigeria.",
-      "source": "Westafricaweekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:45:25Z",
-      "url": "https://westafricaweekly.com/google-unveils-37m-ai-push-across-africa-targeting-agriculture-health-education-in-ghana-nigeria-and-others/"
-    },
-    {
-      "id": 62,
-      "title": "Hulk Hogan, Professional Wrestler Who Defended His Right to Privacy in the Digital Age, Dies at Age 71, Reportedly from Cardiac Arrest",
-      "summary": "Hulk Hogan, a professional wrestler who fought for his right to privacy in the digital age, passed away at age 71 from cardiac arrest after a career marked by digital hoaxes and a high-profile battle against online exploitation.",
-      "source": "Scientific American",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:45:00Z",
-      "url": "https://www.scientificamerican.com/article/hulk-hogan-professional-wrestler-who-defended-his-right-to-privacy-in-the/"
-    },
-    {
-      "id": 63,
-      "title": "iOS 26 Review: Testing Apple's Biggest iPhone Update",
-      "summary": "iOS 26 Review: Apple is currently seeding the update to public beta testers, with more details on the new features and improvements revealed.",
-      "source": "MacRumors",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:44:23Z",
-      "url": "https://www.macrumors.com/review/ios-26-public-beta/"
-    },
-    {
-      "id": 64,
-      "title": "Sacha Baron Cohen Is Jacked Now",
-      "summary": "Sacha Baron Cohen showed off his muscular body on the cover of 'Men's Fitness UK' after transforming his physique for an episode of a Marvel show.",
-      "source": "The Cut",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:44:18Z",
-      "url": "http://www.thecut.com/article/sacha-baron-cohen-ripped-now.html"
-    },
-    {
-      "id": 65,
-      "title": "Google rethinks search results with its new AI-curated ‘Web Guide’",
-      "summary": "Google rethinks search results with its new AI-curated ‘Web Guide' by launching a new AI-powered search feature that groups links in helpful ways for users who opt in to the test on Labs.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:44:03Z",
-      "url": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test"
-    },
-    {
-      "id": 66,
-      "title": "Microsoft CEO channels inner Fallout boss to say 9,000 layoffs are no big deal because \"we're investing more,\" then AI brain hits: \"Imagine if all 8 billion people could summon a researcher, an analyst, or a coding agent at their fingertips\"",
-      "summary": "Microsoft CEO discusses layoffs and increasing investment in AI, envisioning a future where individuals can access researchers, analysts, and coding agents instantly.",
-      "source": "GamesRadar+",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:43:26Z",
-      "url": "https://www.gamesradar.com/games/microsoft-ceo-channels-inner-fallout-boss-to-say-9-000-layoffs-are-no-big-deal-because-were-investing-more-then-ai-brain-hits-imagine-if-all-8-billion-people-could-summon-a-researcher-an-analyst-or-a-coding-agent-at-their-fingertips/"
-    },
-    {
-      "id": 51,
-      "title": "agent-cli 0.19.0",
-      "summary": "agent-cli 0.19.0 is a suite of AI-powered command-line tools designed for text correction, audio transcription, and voice assistance.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:42:18Z",
-      "url": "https://pypi.org/project/agent-cli/0.19.0/"
-    },
-    {
-      "id": 52,
-      "title": "When license plate readers get it wrong",
-      "summary": "Automated license plate reader technology used by law enforcement can sometimes make mistakes, leading to potential ethical concerns.",
-      "source": "CBS News",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:42:11Z",
-      "url": "https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/"
-    },
-    {
-      "id": 53,
-      "title": "Lyft Will Let Riders ‘Favorite’ or Block Drivers",
-      "summary": "Lyft is introducing a new feature that allows riders to 'favorite' drivers they appreciate and block the ones they don't, in an effort to improve rider-driver matching.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:40:48Z",
-      "url": "http://www.pymnts.com/news/ridesharing/2025/lyft-will-let-riders-favorite-or-block-drivers/"
-    },
-    {
-      "id": 54,
-      "title": "Telus Makes It Official: It’s the Network for Cogeco Wireless",
-      "summary": "Cogeco has officially entered the mobile market in Ontario and Quebec, using Telus' network. Telus is pleased to serve as the wholesale wireless network provider enabling Cogeco's entry.",
-      "source": "iPhone in Canada",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:40:42Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/24/telus-makes-it-official-its-the-network-for-cogeco-wireless/"
     }
   ]
 }
