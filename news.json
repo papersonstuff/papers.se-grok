@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-25T07:19:25.892Z",
+  "lastUpdate": "2025-07-25T07:42:35.314Z",
   "items": [
+    {
+      "id": 51,
+      "title": "オプト、RTB House Japan主催「Top Agency Award」において3期連続「Silver」を受賞",
+      "summary": "Opt Inc. received the 'Silver' award for the third consecutive time at the Top Agency Award hosted by RTB House Japan.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-24T07:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000001024.000014848.html"
+    },
+    {
+      "id": 52,
+      "title": "AI CROSS、福岡商工会議所の「YOKA-DIGI」パートナー企業に認定",
+      "summary": "AI CROSS has been certified as a partner company of YOKA-DIGI by the Fukuoka Chamber of Commerce. This partnership aims to promote collaboration and innovation in the field of AI technology.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-24T07:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000217.000021834.html"
+    },
+    {
+      "id": 53,
+      "title": "Samsung delays HBM4 rollout to 2026 due to yield challenges, all while SK Hynix strengthens lead in AI memory",
+      "summary": "Samsung delays HBM4 rollout to 2026 due to yield challenges, while SK Hynix strengthens lead in AI memory.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:39:00Z",
+      "url": "https://www.digitimes.com/news/a20250724PD223/samsung-hbm4-production-2026-sk-hynix.html"
+    },
+    {
+      "id": 54,
+      "title": "gllm-inference-binary 0.4.30",
+      "summary": "gllm-inference-binary 0.4.30 is a library for model inferences in Gen AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T07:38:01Z",
+      "url": "https://pypi.org/project/gllm-inference-binary/0.4.30/"
+    },
+    {
+      "id": 55,
+      "title": "Golden visas are shrinking for crypto investors",
+      "summary": "Golden visas for crypto investors are decreasing, limiting their options for residency and tax benefits.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:37:19Z",
+      "url": "https://cointelegraph.com/news/golden-visas-shrinking-crypto-investors"
+    },
+    {
+      "id": 56,
+      "title": "Lightyear eyes AI opportunity on $28 million fund raise",
+      "summary": "Lightyear has raised $23 million in Series B funding to explore opportunities in bringing artificial intelligence to its platform.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-24T07:35:52Z",
+      "url": "https://www.finextra.com/newsarticle/46344/lightyear-eyes-ai-opportunity-on-28-million-fund-raise"
+    },
+    {
+      "id": 57,
+      "title": "Samsung Galaxy Z Flip 7's Now Bar May Soon Support Up to 35 Apps",
+      "summary": "Samsung Galaxy Z Flip 7 may soon support up to 35 apps on its Galaxy AI-powered Now Bar, with new features enabled by the Android 16-based One UI 8 firmware.",
+      "source": "Gadgets360.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T07:35:48Z",
+      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-z-flip-7-now-bar-35-features-ai-support-2025-report-8938836"
+    },
+    {
+      "id": 58,
+      "title": "First half of 2025: Solid growth, investments and pipeline progress pave the way for two key launches in H2",
+      "summary": "First half of 2025: Solid growth, investments and pipeline progress pave the way for two key launches in H2 - Group net sales grow by 6.3%* to EUR 14.0 billion, driven by Human Pharma and Animal Health Regulatory submissions underway for zongertinib and nerandomilast, with launches expected in H2 2025 Strategic investments in R&D.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:35:47Z",
+      "url": "https://financialpost.com/globe-newswire/first-half-of-2025-solid-growth-investments-and-pipeline-progress-pave-the-way-for-two-key-launches-in-h2"
+    },
+    {
+      "id": 59,
+      "title": "Google just spent $14 billion on servers in 91 days, plans even higher spending soon",
+      "summary": "Google has increased its capex budget to $85 billion this year, with plans for even higher spending in 2026. The investment is driven by the growth in AI technology, which is creating a new generation of Google-eyed youth.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:35:24Z",
+      "url": "https://biztoc.com/x/9c4c4130313d0639"
+    },
+    {
+      "id": 60,
+      "title": "Proposal: Responsible AI workflow for creating new documentation for WordPress 6.9",
+      "summary": "Proposal for responsible AI workflow to create new documentation for WordPress 6.9 to improve contributor experience and efficiency.",
+      "source": "Wordpress.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:34:41Z",
+      "url": "https://make.wordpress.org/docs/2025/07/24/proposal-responsible-ai-workflow-for-creating-new-documentation-for-wordpress-6-9/"
+    },
     {
       "id": 51,
       "title": "How Google and OpenAI’s AI Models Won Gold at the 2025 Math Olympiad",
@@ -360,96 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T05:46:32Z",
       "url": "https://www.livemint.com/companies/news/amazon-salaries-ai-recruits-h-1b-holders-job-roles-software-engineer-analysts-managers-make-more-than-rs-2-crore-yearly-11753331385769.html"
-    },
-    {
-      "id": 56,
-      "title": "Turn Any Script into a Podcast Instantly (For Free!)",
-      "summary": "A new smart tool allows users to turn any script into a podcast instantly, without the need for a sound studio or editing knowledge. All that is required is the script, an internet connection, and the tool to execute the process for free.",
-      "source": "Radaronline.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T05:45:00Z",
-      "url": "https://radaronline.com/p/turn-any-script-into-a-podcast-instantly/"
-    },
-    {
-      "id": 57,
-      "title": "G.Skill T5 NEO R-DIMM Memory Bring DDR5-6400 CL38 Overclocked Speeds & Up To 512 GB Capacities To AMD’s Ryzen Threadripper PRO Workstations",
-      "summary": "G.Skill launches T5 NEO R-DIMM overclocked memory kits for AMD Threadripper PRO CPUs, offering DDR5-6400 speeds & 512 GB capacities, providing a boost to performance for AI-related applications.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:40:39Z",
-      "url": "https://wccftech.com/g-skill-t5-neo-r-dimm-memory-ddr5-6400-cl38-overclocked-512-gb-capacities-amd-ryzen-threadripper-pro/"
-    },
-    {
-      "id": 58,
-      "title": "2025年上半期にIFSが躍進：ARR30%成長、エージェントAIの導入でセメント産業に革新をもたらす",
-      "summary": "IFS Japan Corporation experiences significant growth in the first half of 2025 with a 30% increase in ARR, bringing innovation to the cement industry through the introduction of AI agents.",
-      "source": "Prtimes.jp",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000089.000064235.html"
-    },
-    {
-      "id": 59,
-      "title": "GMOインターネットによる特別講義を実施　「画像生成AIのビジネス活用」をテーマにHAL東京で開催",
-      "summary": "GMO Internet conducted a special lecture on 'Business Utilization of Image Generating AI' at HAL Tokyo.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-24T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000790.000011137.html"
-    },
-    {
-      "id": 51,
-      "title": "bioguider 0.2.17",
-      "summary": "bioguider 0.2.17 is an AI-Powered package designed to assist biomedical developers in creating clear documentation.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T05:22:23Z",
-      "url": "https://pypi.org/project/bioguider/0.2.17/"
-    },
-    {
-      "id": 52,
-      "title": "FDA’s New Drug Approval AI Is Generating Fake Studies: Report",
-      "summary": "FDA's New Drug Approval AI Is Generating Fake Studies according to report, raising concerns about the use of generative AI tools by agencies like the Food and Drug Administration.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T05:22:06Z",
-      "url": "https://biztoc.com/x/db1cfbbd218773e0"
-    },
-    {
-      "id": 53,
-      "title": "Skeptical Science New Research for Week #30 2025",
-      "summary": "New research published explores calculating temperature trend bias induced by inhomogeneities in climate data without running a homogenization algorithm.",
-      "source": "Skepticalscience.com",
-      "category": "research",
-      "timestamp": "2025-07-24T05:20:58Z",
-      "url": "https://skepticalscience.com/new_research_2025_30.html"
-    },
-    {
-      "id": 54,
-      "title": "Hisense Hellas introduces UX TV for the first time in Greece",
-      "summary": "Hisense Hellas introduces UX TV with RGB backlight technology for the first time in Greece, strengthening its presence in the market.",
-      "source": "Naftemporiki.gr",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:19:04Z",
-      "url": "https://www.naftemporiki.gr/english/1985571/hisense-hellas-introduces-ux-tv-for-the-first-time-in-greece/"
-    },
-    {
-      "id": 55,
-      "title": "Microsoft Viva Insights boosts Copilot and learning with new reports",
-      "summary": "Microsoft has made updates to Viva Insights, enabling organizations to access Copilot reports more widely and adding new reports.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:18:01Z",
-      "url": "https://www.neowin.net/news/microsoft-viva-insights-boosts-copilot-and-learning-with-new-reports/"
-    },
-    {
-      "id": 56,
-      "title": "Who is Bill Gates' daughter? Inside her life, career, net worth, and startup journey",
-      "summary": "Phoebe Adele Gates, daughter of Bill and Melinda French Gates, is forging her own path as a 22-year-old entrepreneur. A Stanford graduate, she co-founded Phia, an AI-powered fashion-tech startup, and hosts 'The Burnouts' podcast.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T05:16:55Z",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/who-is-bill-gates-daughter-inside-her-life-career-net-worth-and-startup-journey/articleshow/122872811.cms"
     }
   ]
 }
