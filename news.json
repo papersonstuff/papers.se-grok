@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-25T09:46:29.661Z",
+  "lastUpdate": "2025-07-25T10:18:05.728Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Europe Data Center Dielectric Fluid Market Research Report 2024-2034 | Rising Adoption of Single-phase and Two-phase Dielectric Fluids for High-density Server Cooling",
+      "summary": "The Europe data center dielectric fluid market, excluding the U.K., was valued at $37.99 million in 2024 and is anticipated to expand at a CAGR of 29.63%, reaching $509.20 million by 2034. The growth is driven by increasing focus on reducing carbon footprints.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:17:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120866/28124/en/Europe-Data-Center-Dielectric-Fluid-Market-Research-Report-2024-2034-Rising-Adoption-of-Single-phase-and-Two-phase-Dielectric-Fluids-for-High-density-Server-Cooling.html"
+    },
+    {
+      "id": 52,
+      "title": "skrub 0.6.0",
+      "summary": "skrub 0.6.0 is a new machine learning tool that focuses on working with dataframes, providing a potential advancement in research on AI algorithms and techniques.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-24T10:16:52Z",
+      "url": "https://pypi.org/project/skrub/0.6.0/"
+    },
+    {
+      "id": 53,
+      "title": "5 Hidden ChatGPT Secrets to Crush Your To-Do List",
+      "summary": "5 Hidden ChatGPT Secrets to Crush Your To-Do List, offering ways to accomplish more in a day through AI assistance and delegation of tasks.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-24T10:15:52Z",
+      "url": "https://www.geeky-gadgets.com/advanced-chatgpt-capabilities/"
+    },
+    {
+      "id": 54,
+      "title": "There and Back Again, a San Francisco Tale",
+      "summary": "San Francisco's economic cycle of growth and decline is predicted to continue over the next few years.",
+      "source": "500ish.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:15:39Z",
+      "url": "https://500ish.com/there-and-back-again-a-san-francisco-tale-027329210f61"
+    },
+    {
+      "id": 55,
+      "title": "Show HN: Built an AI Mock Interview tool because peer-to-peer doesn't scale",
+      "summary": "MockInterviews.dev is launching an AI Mock Interview tool to provide engineers with realistic practice for System Design Interviews and Coding Interviews. After a successful beta run on Educative.io, the tool is now being officially launched.",
+      "source": "Mockinterviews.dev",
+      "category": "startups",
+      "timestamp": "2025-07-24T10:15:22Z",
+      "url": "https://www.mockinterviews.dev"
+    },
+    {
+      "id": 56,
+      "title": "SAP Business AI: Release Highlights Q2 2025",
+      "summary": "In Q2 2025, SAP continued accelerating the delivery of high-impact AI innovations to customers with enhancements and additional AI scenarios.",
+      "source": "Sap.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T10:15:00Z",
+      "url": "https://news.sap.com/2025/07/sap-business-ai-release-highlights-q2-2025/"
+    },
+    {
+      "id": 57,
+      "title": "Primary 1 registration: 33 schools oversubscribed in Phase 2B",
+      "summary": "Primary 1 registration sees 33 schools oversubscribed in Phase 2B, with 29 schools going to ballot. Use interactive table to view results for each school.",
+      "source": "CNA",
+      "category": "applications",
+      "timestamp": "2025-07-24T10:13:19Z",
+      "url": "https://www.channelnewsasia.com/singapore/primary-1-registration-2025-p1-phase-2b-results-table-5256246"
+    },
+    {
+      "id": 58,
+      "title": "9 basic features that are still missing from Pixel Launcher after all these years",
+      "summary": "9 basic features missing from Pixel Launcher despite being around for years",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:12:11Z",
+      "url": "https://www.androidpolice.com/basic-features-missing-from-pixel-launcher/"
+    },
+    {
+      "id": 59,
+      "title": "Microsoft is planning a huge upgrade for Visual Studio",
+      "summary": "Microsoft is planning a huge upgrade for Visual Studio, with a major headlining feature expected to be included.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:12:02Z",
+      "url": "https://www.neowin.net/news/microsoft-is-planning-a-huge-upgrade-for-visual-studio/"
+    },
+    {
+      "id": 60,
+      "title": "demiurg 0.1.18",
+      "summary": "demiurg 0.1.18 is an AI Agent Framework that allows for the creation of intelligent agents using multiple LLM providers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:11:28Z",
+      "url": "https://pypi.org/project/demiurg/0.1.18/"
+    },
+    {
+      "id": 61,
+      "title": "Teachers Retirement System of The State of Kentucky Has $2.19 Million Stock Holdings in Monolithic Power Systems, Inc. (NASDAQ:MPWR)",
+      "summary": "Teachers Retirement System of The State of Kentucky increased its stock holdings in Monolithic Power Systems, Inc. by 5.9% during the first quarter, with a total value of $2.19 million.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:11:04Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/teachers-retirement-system-of-the-state-of-kentucky-has-2-19-million-stock-holdings-in-monolithic-power-systems-inc-nasdaqmpwr/"
+    },
+    {
+      "id": 62,
+      "title": "meta develops smart bracelet that can replace keyboard and mouse for computers",
+      "summary": "Meta has developed a smart bracelet that can replace keyboard and mouse for computers by allowing people to control devices with signals from wrist muscles.",
+      "source": "Designboom",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:10:29Z",
+      "url": "https://www.designboom.com/technology/meta-smart-bracelet-replace-keyboard-mouse-computers-reality-labs-semg-07-24-2025/"
+    },
+    {
+      "id": 63,
+      "title": "I've been an English teacher for 20 years, and my students are now relying on AI to do everything. It's making my job impossible",
+      "summary": "An English teacher expresses frustration over students relying on AI, specifically ChatGPT, to do their schoolwork, making teaching challenging",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T10:10:13Z",
+      "url": "https://biztoc.com/x/4f2b905cc45acc3a"
+    },
+    {
+      "id": 64,
+      "title": "How a 610 credit score affects personal loan approval and what borrowers should know",
+      "summary": "A personal loan with a 610 credit score can affect approval, with higher interest rates, stricter terms, and limited lender options.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:10:08Z",
+      "url": "https://www.livemint.com/money/personal-finance/how-a-610-credit-score-affects-personal-loan-approval-and-what-borrowers-should-know-11753347818808.html"
+    },
+    {
+      "id": 65,
+      "title": "How a Nudge from Shareholders Helped Amazon Cut Plastic Waste",
+      "summary": "Environmental activists have for years pressed Amazon to reduce the plastic used in shipping more than 20 million packages daily. A nudge from shareholders has helped Amazon cut plastic waste, as shown in their latest sustainability report.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T10:10:02Z",
+      "url": "https://biztoc.com/x/4e3ed2b2b244988c"
+    },
     {
       "id": 51,
       "title": "Biosimilars Markets Global Forecast Report 2025-2035 | Launch of Glp-1 Biosimilars, Increasing Strategic Partnerships and Collaborations, & Growing Focus on Advanced R&D Fueling Opportunities",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T08:20:00Z",
       "url": "https://onefootball.com/en/news/even-wirtz-has-to-laugh-fans-stunned-by-his-training-ground-goal-41417603"
-    },
-    {
-      "id": 53,
-      "title": "Morning news brief",
-      "summary": "The White House is facing pressure to release documents related to the Jeffrey Epstein case. Trump's new AI policies are keeping the focus on tech companies, touching on ethical implications.",
-      "source": "NPR",
-      "category": "ethics",
-      "timestamp": "2025-07-24T08:19:56Z",
-      "url": "https://www.npr.org/2025/07/24/nx-s1-5474088/morning-news-brief"
-    },
-    {
-      "id": 54,
-      "title": "With no guarantee of an EU-U.S. trade deal, Europe keeps its options open",
-      "summary": "With no guarantee of an EU-U.S. trade deal, Europe keeps its options open - A trade agreement between the European Union and U.S. could be imminent, but nothing is guaranteed.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:18:44Z",
-      "url": "https://www.cnbc.com/2025/07/24/with-no-guarantee-of-an-eu-us-trade-deal-europe-keeps-its-options-open.html"
-    },
-    {
-      "id": 55,
-      "title": "“Whenever we see a small company with a good idea, we’re on fire”: How M&A and innovation keep L’Oréal ahead in global beauty",
-      "summary": "L’Oréal stays ahead in global beauty through mergers and acquisitions and a focus on product innovation, launching 3636 new formulas in 2024.",
-      "source": "Fortune",
-      "category": "innovation",
-      "timestamp": "2025-07-24T08:17:00Z",
-      "url": "https://fortune.com/europe/2025/07/24/m-a-innovation-loreal-global-beauty-health-science-barbara-lavernos/"
-    },
-    {
-      "id": 56,
-      "title": "aider-code 0.1.1.post1",
-      "summary": "Aider-code 0.1.1.post1 released by Devflux enables AI pair programming in the terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:16:32Z",
-      "url": "https://pypi.org/project/aider-code/0.1.1.post1/"
-    },
-    {
-      "id": 57,
-      "title": "ITV Content Boss Spotlights Difficulty Dealing With “Historic” Misconduct Complaints As He Addresses ‘MasterChef’ Scandal",
-      "summary": "In the wake of the MasterChef scandal, the head of content at ITV has spotlighted the difficulty of handling historic misconduct complaints.",
-      "source": "Deadline",
-      "category": "ethics",
-      "timestamp": "2025-07-24T08:13:51Z",
-      "url": "http://deadline.com/2025/07/itv-addresses-masterchef-scandal-love-island-ai-1236466992/"
-    },
-    {
-      "id": 58,
-      "title": "xAI's significant expansion in AI computing capabilities sparks concerns over energy supply",
-      "summary": "xAI's plan to expand AI computing capabilities to 50 million Nvidia H100 GPUs in five years raises concerns over energy supply.",
-      "source": "Digitimes",
-      "category": "research",
-      "timestamp": "2025-07-24T08:13:31Z",
-      "url": "https://www.digitimes.com/news/a20250724PD235/xai-elon-musk-nvidia-h100-gpu.html"
-    },
-    {
-      "id": 59,
-      "title": "Why We Need To Be ‘Rude’ To AI",
-      "summary": "AI does not require polite treatment as it is not sentient, leading to unnecessary use of resources. Being 'rude' to AI can help reduce energy consumption and environmental impact.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-24T08:12:30Z",
-      "url": "https://www.forbes.com/sites/adrianbridgwater/2025/07/24/why-we-need-to-be-rude-to-ai/"
-    },
-    {
-      "id": 60,
-      "title": "Tactical Communication Market Report 2025: Trends, Forecast and Competitive Analysis 2019-2031 - Opportunities in the ISR, Communications, Combat, and Command & Control",
-      "summary": "The global tactical communication market is expected to grow with opportunities in ISR, Communications, Combat, and Command & Control. The report provides trends, forecast, and competitive analysis up to 2031.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-24T08:10:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120800/28124/en/Tactical-Communication-Market-Report-2025-Trends-Forecast-and-Competitive-Analysis-2019-2031-Opportunities-in-the-ISR-Communications-Combat-and-Command-Control.html"
-    },
-    {
-      "id": 61,
-      "title": "Cinquecento specie di uccelli a rischio nei prossimi 100 anni",
-      "summary": "A study predicts that 500 species of birds are at risk of extinction in the next 100 years. Posterior values from a multi-response MCMCglmm were used to show relationships between pPC values and the frequency of extinction avoidance under different abatement scenarios.",
-      "source": "Il Sole 24 Ore",
-      "category": "research",
-      "timestamp": "2025-07-24T08:09:51Z",
-      "url": "https://www.infodata.ilsole24ore.com/2025/07/24/cinquecento-specie-di-uccelli-a-rischio-nei-prossimi-100-anni/"
-    },
-    {
-      "id": 51,
-      "title": "Why stock market is falling today: Sensex falls over 650 pts, Nifty slips below 25,050; 3 reasons behind the slump",
-      "summary": "Indian benchmark indices fell over 650 points, with IT stocks leading the losses due to disappointing Q1 results and a subdued global outlook.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:49:52Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-falling-today-sensex-falls-over-650-pts-nifty-slips-below-25050-3-reasons-behind-the-slump/articleshow/122876302.cms"
-    },
-    {
-      "id": 52,
-      "title": "Amazon salary filings reveal Rs 2.3 crore pay for H-1B software engineers",
-      "summary": "Amazon is offering H-1B software engineers salaries of up to $263,700, as revealed in mandatory filings, excluding equity. The substantial salaries are being provided to foreign hires for software engineering and other roles under O-1 and H-1B visas.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:49:03Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-salary-filings-reveal-rs-2-3-crore-pay-for-h-1b-software-engineers/articleshow/122874996.cms"
-    },
-    {
-      "id": 53,
-      "title": "Google removes nearly 11,000 YouTube channels tied to influence campaigns by the PRC and Russia",
-      "summary": "Google removes nearly 11,000 YouTube channels tied to influence campaigns by the PRC and Russia in an effort to combat coordinated influence operations.",
-      "source": "Notebookcheck.net",
-      "category": "ethics",
-      "timestamp": "2025-07-24T07:49:00Z",
-      "url": "https://www.notebookcheck.net/Google-removes-nearly-11-000-YouTube-channels-tied-to-influence-campaigns-by-the-PRC-and-Russia.1065729.0.html"
-    },
-    {
-      "id": 54,
-      "title": "ChatGPT 2 Prompt Blueprint to Learning Anything Faster",
-      "summary": "ChatGPT 2 is a prompt blueprint that can help individuals learn anything faster by adapting to their unique learning styles, explaining complex topics like neural networks or calculus, and adjusting its teaching approach based on their progress.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-24T07:48:14Z",
-      "url": "https://www.geeky-gadgets.com/chatgpt-personalized-ai-tutor/"
-    },
-    {
-      "id": 55,
-      "title": "Google commits to Home upgrades following major backlash",
-      "summary": "Google commits to Home upgrades following major backlash from customers, issuing an apology for the changes made to the product line.",
-      "source": "Neowin",
-      "category": "startups",
-      "timestamp": "2025-07-24T07:46:01Z",
-      "url": "https://www.neowin.net/news/google-commits-to-home-upgrades-following-major-backlash/"
-    },
-    {
-      "id": 56,
-      "title": "Google's AI Mode in Search Hits Major Milestone, New Features Coming",
-      "summary": "Google's AI Mode in Search has over 100 million monthly active users in the US and India, with new features on the way.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T07:46:01Z",
-      "url": "https://www.gadgets360.com/ai/news/google-search-ai-mode-100-million-monthly-active-users-deep-search-gemini-2-5-pro-report-8938980"
     }
   ]
 }
