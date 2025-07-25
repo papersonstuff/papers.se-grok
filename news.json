@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-25T21:33:21.020Z",
+  "lastUpdate": "2025-07-25T21:50:33.402Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Graphene OS: a security-enhanced Android build",
+      "summary": "Graphene OS is a security-enhanced Android build that aims to enhance the security of users' phones, which have access to vast amounts of personal data.",
+      "source": "Lwn.net",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:48:53Z",
+      "url": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"
+    },
+    {
+      "id": 52,
+      "title": "pydantic-ai-slim 0.4.7",
+      "summary": "pydantic-ai-slim 0.4.7 is an agent framework/shim that allows the use of Pydantic with LLMs, providing a slim package for AI applications.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-24T21:47:43Z",
+      "url": "https://pypi.org/project/pydantic-ai-slim/0.4.7/"
+    },
+    {
+      "id": 53,
+      "title": "pydantic-ai-examples 0.4.7",
+      "summary": "pydantic-ai-examples 0.4.7 provides examples of how to use Pydantic AI and showcases its capabilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:47:41Z",
+      "url": "https://pypi.org/project/pydantic-ai-examples/0.4.7/"
+    },
+    {
+      "id": 54,
+      "title": "A Game-Changing Deal May Flip The Script For This Understated Stock",
+      "summary": "A game-changing acquisition has put this under-the-radar stock in the spotlight, making it one to watch for potential growth. With upcoming earnings on the horizon, there is anticipation for further developments in the company.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-24T21:47:20Z",
+      "url": "https://www.forbes.com/sites/sasirekhasubramanian/2025/07/24/a-game-changing-deal-may-flip-the-script-for-this-understated-stock/"
+    },
+    {
+      "id": 55,
+      "title": "Google's New 'Web Guide' Lab Uses AI to Organize Search Results Page",
+      "summary": "Google launches Web Guide lab using AI to organize search results by topic.",
+      "source": "Android Headlines",
+      "category": "research",
+      "timestamp": "2025-07-24T21:45:46Z",
+      "url": "https://www.androidheadlines.com/2025/07/googles-new-web-guide-lab-uses-ai-to-organize-search-results-page.html"
+    },
+    {
+      "id": 56,
+      "title": "Ignoring the wishful wishing",
+      "summary": "The U.S. Supreme Court's decision to allow a president to ignore the law raises ethical concerns as it can lead to the president becoming above the law.",
+      "source": "Ncspin.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:45:03Z",
+      "url": "https://www.ncspin.com/ignoring-the-wishful-wishing"
+    },
+    {
+      "id": 57,
+      "title": "Plenty Of Budget For AI Investment, But Executives Hesitate",
+      "summary": "New survey reveals that there is plenty of budget available for AI investment, but executives are hesitant to spend due to 'decision paralysis'.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:44:48Z",
+      "url": "https://www.forbes.com/sites/joemckendrick/2025/07/24/plenty-of-budget-for-ai-investment-but-executives-hesitate/"
+    },
+    {
+      "id": 58,
+      "title": "President Trump: \"What the hell is NVIDIA? I've never heard of it before\" — but is it right to dunk on him?",
+      "summary": "President Trump expressed surprise at NVIDIA's AI dominance, raising questions about his awareness of technology advancements. However, he later praised the CEO, Jensen Huang, suggesting a complicated view on the issue.",
+      "source": "Windows Central",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:42:57Z",
+      "url": "https://www.windowscentral.com/hardware/gpus/president-trump-what-the-hell-is-nvidia-ive-never-heard-of-it-before-but-is-it-right-to-dunk-on-him"
+    },
+    {
+      "id": 59,
+      "title": "Intel’s ‘Panther Lake’ CPUs remain on track amid massive layoffs",
+      "summary": "Intel's 'Panther Lake' CPUs on track for shipping this year despite massive layoffs, company plans to end 2025 with 75,000 employees.",
+      "source": "PCWorld",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:42:40Z",
+      "url": "https://www.pcworld.com/article/2858390/intels-panther-lake-cpus-remain-on-track-amid-massive-layoffs.html"
+    },
+    {
+      "id": 60,
+      "title": "All eyes on August as rumors suggest OpenAI is preparing to launch GPT-5",
+      "summary": "Rumors suggest OpenAI is preparing to launch GPT-5 in August, marking a potential milestone in AI development.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:42:17Z",
+      "url": "https://www.androidauthority.com/openai-gpt-5-august-launch-3580860/"
+    },
+    {
+      "id": 61,
+      "title": "S&P/TSX composite closes lower on Thursday, U.S. markets mixed",
+      "summary": "S&P/TSX composite closes lower on Thursday, U.S. markets mixed. Losses in basic materials and consumer cyclicals contributed to the decline in Canada's main stock index.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:40:14Z",
+      "url": "https://financialpost.com/pmn/sp-tsx-composite-closes-lower-on-thursday-u-s-markets-mixed"
+    },
+    {
+      "id": 62,
+      "title": "AUKUS Gets Raucous",
+      "summary": "A U.S. review of the landmark submarine deal is causing consternation across several ponds.",
+      "source": "Foreign Policy",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:40:08Z",
+      "url": "http://foreignpolicy.com/2025/07/24/aukus-review-pentagon-trump-australia/"
+    },
+    {
+      "id": 63,
+      "title": "Kinhive Launches AI Matchmaking to Connect Women-Led Startups With Skilled Collaborators",
+      "summary": "Kinhive launches AI matchmaking platform to connect women-led startups with skilled collaborators based on skills, working style, and availability, not just resumes.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T21:40:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121531/0/en/Kinhive-Launches-AI-Matchmaking-to-Connect-Women-Led-Startups-With-Skilled-Collaborators.html"
+    },
     {
       "id": 51,
       "title": "24 Things That Make No Earthly Sense In 'And Just Like That'",
@@ -333,123 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T20:48:03Z",
       "url": "https://knowyourmeme.com/memes/robophobia"
-    },
-    {
-      "id": 63,
-      "title": "Trump’s order to block ‘woke’ AI in government encourages tech giants to censor their chatbots",
-      "summary": "Trump's order to block 'woke' AI in government leads tech giants to consider censoring their chatbots, with leading providers of AI language models staying silent on the directive.",
-      "source": "Boston Herald",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:48:00Z",
-      "url": "https://www.bostonherald.com/2025/07/24/trump-woke-ai-order/"
-    },
-    {
-      "id": 64,
-      "title": "Native Audio Overviews Player Is Rolling Out to Gemini App on Android & iOS",
-      "summary": "Native Audio Overviews Player Is Rolling Out to Gemini App on Android & iOS, providing a new feature for users to access audio overviews. The update signifies an innovative enhancement to the Gemini App, offering convenience and accessibility for users.",
-      "source": "Android Headlines",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:45:41Z",
-      "url": "https://www.androidheadlines.com/2025/07/native-audio-overviews-player-is-rolling-out-to-gemini-app-on-android-ios.html"
-    },
-    {
-      "id": 65,
-      "title": "Young people don't speculate in coins, but start working in cloud mining: InvroMining sets off a new trend of low threshold and high income",
-      "summary": "Young people are shifting towards cloud mining with InvroMining, which offers AI-powered cloud mining with low threshold and high income potential. The platform provides a $15 bonus, clean energy usage, and mobile-friendly contracts for earning daily crypto income without speculation.",
-      "source": "Ibtimes.com.au",
-      "category": "startups",
-      "timestamp": "2025-07-24T20:45:24Z",
-      "url": "https://www.ibtimes.com.au/young-people-dont-speculate-coins-start-working-cloud-mining-invromining-sets-off-new-trend-1859807"
-    },
-    {
-      "id": 66,
-      "title": "Crusoe and Tallgrass Announce AI Data Center in Wyoming",
-      "summary": "Crusoe and Tallgrass announce the development of an AI data center in Wyoming with a capacity of 1.8 gigawatts, expanding Crusoe's pipeline of projects. This new project demonstrates the growing presence of startups in the AI industry.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T20:45:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121503/0/en/Crusoe-and-Tallgrass-Announce-AI-Data-Center-in-Wyoming.html"
-    },
-    {
-      "id": 51,
-      "title": "Singapore Marketing Automation Software for Ecommerce Market: Insights on Key Growth Drivers, Challenges, and Market Outlook",
-      "summary": "Singapore Marketing Automation Software for Ecommerce Market revenue is projected to increase from USD 6.50 billion in 2024 to USD 18 billion, reflecting significant growth in the sector.",
-      "source": "Linkedin.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:42:27Z",
-      "url": "https://www.linkedin.com/pulse/singapore-marketing-automation-software-ecommerce-market-fpkqc"
-    },
-    {
-      "id": 52,
-      "title": "Here's How the AI Action Plan Will Accelerate—and Throttle—AI Innovation",
-      "summary": "President Donald Trump published his administration's AI Action Plan with a focus on accelerating and throttling AI innovation.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:42:09Z",
-      "url": "https://biztoc.com/x/9f8c781777521075"
-    },
-    {
-      "id": 53,
-      "title": "Elon Musk’s xAI Partners With Kalshi to Bring Grok to Prediction Markets",
-      "summary": "Elon Musk's xAI partners with Kalshi to bring Grok into prediction markets, allowing the chatbot to analyze news and make real-money event forecasts.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T20:41:53Z",
-      "url": "https://biztoc.com/x/2ace2947897cbdf4"
-    },
-    {
-      "id": 54,
-      "title": "HR chief Kristin Cabot resigns from Astronomer on heels of Coldplay kiss cam scandal",
-      "summary": "HR chief Kristin Cabot resigns from Astronomer following Coldplay kiss cam scandal",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:41:44Z",
-      "url": "https://pagesix.com/2025/07/24/celebrity-news/hr-chief-kristin-cabot-resigns-from-astronomer-on-heels-of-coldplay-kiss-cam-scandal/"
-    },
-    {
-      "id": 55,
-      "title": "Trump’s AI plan calls for massive data centers. Here’s how it may affect energy in the U.S.",
-      "summary": "President Donald Trump's AI plan to boost artificial intelligence and build data centers in the U.S. could strain the nation's ability to power it.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:41:39Z",
-      "url": "https://financialpost.com/pmn/trumps-ai-plan-calls-for-massive-data-centers-heres-how-it-may-affect-energy-in-the-u-s"
-    },
-    {
-      "id": 56,
-      "title": "US stock market: S&P 500, Nasdaq create history, check Alphabet, Microsoft, Nvidia, Amazon, Tesla shares",
-      "summary": "US stock market saw record highs as S&P 500 and Nasdaq made history. Shares of tech companies like Alphabet, Microsoft, Nvidia, and Amazon rose due to strong results and investments in AI technology.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:41:18Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-sp-500-nasdaq-create-history-check-alphabet-microsoft-nvidia-amazon-tesla-shares/articleshow/122890457.cms"
-    },
-    {
-      "id": 57,
-      "title": "Deputy Secretary-General, at High-level Political Forum’s Africa Day, Says Investment Crucial for Development in Continent’s ‘Resilient, Determined, Unstoppable’ Nations",
-      "summary": "UN Deputy Secretary-General stressed the importance of investment for the development of resilient, determined, and unstoppable nations in Africa at the High-level Political Forum's Africa Day",
-      "source": "UN News",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:40:18Z",
-      "url": "https://press.un.org/en/2025/dsgsm1990.doc.htm"
-    },
-    {
-      "id": 58,
-      "title": "Trumps order to block woke AI in government encourages tech giants to censor their chatbots",
-      "summary": "Trump's order to block woke AI in government encourages tech giants to censor their chatbots",
-      "source": "Livemint",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:40:11Z",
-      "url": "https://www.livemint.com/opinion/online-views/trumps-order-to-block-woke-ai-in-government-encourages-tech-giants-to-censor-their-chatbots-11753389612483.html"
-    },
-    {
-      "id": 59,
-      "title": "Landmark Bancorp, Inc. Announces Second Quarter 2025 Earnings per Share of $0.75 Declares Cash Dividend of $0.21 per Share",
-      "summary": "Landmark Bancorp, Inc. reported diluted earnings per share of $0.75 for the second quarter of 2025 and declared a cash dividend of $0.21 per share.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:40:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121502/0/en/Landmark-Bancorp-Inc-Announces-Second-Quarter-2025-Earnings-per-Share-of-0-75-Declares-Cash-Dividend-of-0-21-per-Share.html"
     }
   ]
 }
