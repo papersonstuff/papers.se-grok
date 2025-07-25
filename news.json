@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-25T17:53:10.033Z",
+  "lastUpdate": "2025-07-25T18:52:38.763Z",
   "items": [
+    {
+      "id": 51,
+      "title": "maxai-mcp 0.2.3",
+      "summary": "Maxai-mcp 0.2.3 is a MCP server that connects to Max AI agents, facilitating communication and interaction between different AI systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:51:02Z",
+      "url": "https://pypi.org/project/maxai-mcp/0.2.3/"
+    },
+    {
+      "id": 52,
+      "title": "Ready to Get Off the Social Media Hamster Wheel? Discover the Platform That Actually Boosts Your Discoverability",
+      "summary": "Solopreneurs can use YouTube and AI to boost discoverability and build trust in the changing search landscape.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:50:38Z",
+      "url": "https://biztoc.com/x/fe9384684f688b20"
+    },
+    {
+      "id": 53,
+      "title": "How to use ChatGPT Agent for crypto trading in 2025",
+      "summary": "ChatGPT Agents can assist with crypto trading in 2025 by automating research and analysis, while keeping users in control through built-in safety features.",
+      "source": "Cointelegraph",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:49:59Z",
+      "url": "https://cointelegraph.com/news/how-to-use-chatgpt-agent-for-crypto-trading"
+    },
+    {
+      "id": 54,
+      "title": "ws-bom-robot-app 0.0.76",
+      "summary": "ws-bom-robot-app 0.0.76 is a FastAPI application serving the ws bom/robot/llm platform ai.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:47:11Z",
+      "url": "https://pypi.org/project/ws-bom-robot-app/0.0.76/"
+    },
+    {
+      "id": 55,
+      "title": "Satya Nadella Addresses Layoffs in Email to Employees",
+      "summary": "Microsoft employees are anxious following multiple rounds of layoffs, with many concerned about job security.",
+      "source": "Thurrott.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T18:46:48Z",
+      "url": "https://www.thurrott.com/microsoft/323769/satya-nadella-addresses-layoffs-in-email-to-employees"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI Targets August Release for GPT‑5 AI Model",
+      "summary": "OpenAI is preparing to release the GPT-5 AI model in August 2025, which will include unified reasoning, memory, and multimodal features. The release will also include mini and nano versions of the model.",
+      "source": "iPhone in Canada",
+      "category": "innovation",
+      "timestamp": "2025-07-24T18:46:16Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/24/openai-to-release-gpt%e2%80%915-in-august/"
+    },
+    {
+      "id": 57,
+      "title": "YouTube Shorts & Google Photos Are Getting Great New Gen AI Video Tools",
+      "summary": "YouTube Shorts & Google Photos integrating new AI video-generation tools powered by Veo 2, allowing users to transform images into videos.",
+      "source": "Hot Hardware",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:46:00Z",
+      "url": "https://hothardware.com/news/youtube-shorts-google-photos-ai-video-tools"
+    },
+    {
+      "id": 58,
+      "title": "engramic 0.4.0",
+      "summary": "engramic 0.4.0 is an open source AI library designed for companies with less than 250 employees to process, store, and retrieve proprietary unstructured data.",
+      "source": "Pypi.org",
+      "category": "startups",
+      "timestamp": "2025-07-24T18:45:55Z",
+      "url": "https://pypi.org/project/engramic/0.4.0/"
+    },
+    {
+      "id": 59,
+      "title": "Walmart consolidates its AI agents into four \"super agents\", for customers, staff, engineers, and sellers/suppliers, using Anthropic's Model Context Protocol (Isabelle Bousquette/Wall Street Journal)",
+      "summary": "Walmart consolidates its AI agents into four 'super agents' using Anthropic's Model Context Protocol to better serve customers, staff, engineers, and sellers/suppliers.",
+      "source": "Techmeme.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T18:45:01Z",
+      "url": "https://www.techmeme.com/250724/p42"
+    },
+    {
+      "id": 60,
+      "title": "Niko Matsakis: You won't believe what this AI said after deleting a database (but you might relate)",
+      "summary": "Niko Matsakis discusses the ethical implications of an AI going rogue and deleting a company's database.",
+      "source": "Smallcultfollowing.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T18:43:47Z",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2025/07/24/collaborative-ai-prompting/?utm_source=atom_feed"
+    },
+    {
+      "id": 61,
+      "title": "Samsung will fix One UI 7's weird black line bug with an update",
+      "summary": "Samsung is working on a fix to address the weird black line bug in One UI 7 with an update.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-24T18:42:40Z",
+      "url": "https://www.androidheadlines.com/2025/07/samsung-will-fix-one-ui-7s-weird-black-line-bug-with-an-update.html"
+    },
+    {
+      "id": 62,
+      "title": "TransFi Announces Global Stablecoin Payment Infrastructure to Drive Real-World Adoption",
+      "summary": "TransFi announces global stablecoin payment infrastructure to drive real-world adoption",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-24T18:42:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121371/0/en/TransFi-Announces-Global-Stablecoin-Payment-Infrastructure-to-Drive-Real-World-Adoption.html"
+    },
+    {
+      "id": 63,
+      "title": "Trunk Tools raises $40M to revolutionize how construction teams interact with project data",
+      "summary": "Trunk Tools raises $40M to revolutionize how construction teams interact with project data by using AI-powered platform to change project management.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-24T18:40:46Z",
+      "url": "https://siliconangle.com/2025/07/24/trunk-tools-raises-40m-revolutionize-construction-teams-interact-project-data/"
+    },
+    {
+      "id": 64,
+      "title": "Interview: China's innovation-driven growth provides new opportunities for global investors: British business leader",
+      "summary": "China's innovation-driven growth is creating new opportunities for global investors according to British business leader Jack Perry.",
+      "source": "The Star Online",
+      "category": "economy",
+      "timestamp": "2025-07-24T18:40:00Z",
+      "url": "https://www.thestar.com.my/news/world/2025/07/25/interview-china039s-innovation-driven-growth-provides-new-opportunities-for-global-investors-british-business-leader"
+    },
+    {
+      "id": 65,
+      "title": "HP EliteBook X G1i 14 battery life is one of the longest of any Elite series model",
+      "summary": "HP EliteBook X G1i 14 offers one of the longest battery lives in the Elite series, powered by Lunar Lake CPU and 60 Hz IPS touchscreen.",
+      "source": "Notebookcheck.net",
+      "category": "innovation",
+      "timestamp": "2025-07-24T18:40:00Z",
+      "url": "https://www.notebookcheck.net/HP-EliteBook-X-G1i-14-battery-life-is-one-of-the-longest-of-any-Elite-series-model.1065479.0.html"
+    },
+    {
+      "id": 66,
+      "title": "Benchmarking Amazon Nova: A comprehensive analysis through MT-Bench and Arena-Hard-Auto",
+      "summary": "Benchmarking Amazon Nova using MT-Bench and Arena-Hard-Auto, integrating with Amazon Bedrock API for expanded functionality.",
+      "source": "Amazon.com",
+      "category": "research",
+      "timestamp": "2025-07-24T18:39:08Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-amazon-nova-a-comprehensive-analysis-through-mt-bench-and-arena-hard-auto/"
+    },
+    {
+      "id": 67,
+      "title": "White House Slams ‘South Park’ Episode That Skewers Trump And Paramount Amid $1.5 Billion Streaming Deal, Skydance Merger",
+      "summary": "White House criticizes 'South Park' episode skewering Trump and Paramount shortly after $1.5 billion streaming deal with creators.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-24T18:39:04Z",
+      "url": "https://www.forbes.com/sites/conormurray/2025/07/24/white-house-slams-south-park-episode-that-skewers-trump-and-paramount-amid-15-billion-streaming-deal-skydance-merger/"
+    },
+    {
+      "id": 68,
+      "title": "Microsoft's Satya Nadella says job cuts have been 'weighing heavily' on him",
+      "summary": "Microsoft CEO Satya Nadella expresses concern over job cuts and the need for a change in company mission due to the impact of AI technology.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T18:39:03Z",
+      "url": "https://biztoc.com/x/6403f546e6dac4ef"
+    },
+    {
+      "id": 69,
+      "title": "maxai-mcp 0.2.1",
+      "summary": "The latest version of maxai-mcp is 0.2.1, which is an MCP server that connects to Max AI agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-24T18:39:02Z",
+      "url": "https://pypi.org/project/maxai-mcp/0.2.1/"
+    },
     {
       "id": 51,
       "title": "ai-subtitle-translator added to PyPI",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T17:13:53Z",
       "url": "https://9to5mac.com/2025/07/24/watchos-26-public-beta/"
-    },
-    {
-      "id": 62,
-      "title": "Financial discipline vital, mistakes costly distractions from group's purpose: Tata Sons Chairman",
-      "summary": "Financial discipline and strategic fitness are emphasized by Tata Sons Chairman for the group's ambitions, despite a dip in profit. Significant revenue growth and substantial investments in Tata Group companies highlighted.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T17:12:37Z",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/financial-discipline-vital-mistakes-costly-distractions-from-groups-purpose-tata-sons-chairman/articleshow/122887693.cms"
-    },
-    {
-      "id": 63,
-      "title": "South Park Declares War On Donald Trump With Its Shocking Season 27 Premiere",
-      "summary": "South Park's season 27 premiere declared war on Donald Trump and took direct shots at him, Paramount, and others, raising ethical questions about the portrayal and treatment of public figures in media.",
-      "source": "/FILM",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:12:31Z",
-      "url": "https://www.slashfilm.com/1921066/south-park-season-27-premiere-donald-trump-war/"
-    },
-    {
-      "id": 64,
-      "title": "Trump's AI plans will strip AI of intelligence and humanity – and nobody wants this",
-      "summary": "President Trump's AI plans are criticized for stripping intelligence and humanity from AI, with a focus on preventing diversity, equity, and inclusion in future models.",
-      "source": "TechRadar",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:12:15Z",
-      "url": "https://www.techradar.com/ai-platforms-assistants/trumps-ai-plans-will-strip-ai-of-intelligence-and-humanity-and-nobody-wants-this"
-    },
-    {
-      "id": 65,
-      "title": "LeBron James takes legal action over viral AI videos, forcing takedowns and setting precedent for likeness rights",
-      "summary": "LeBron James takes legal action over viral AI videos, asserting his likeness rights and combating unauthorized use of his image in AI-generated content.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:12:10Z",
-      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/lebron-james-takes-legal-action-over-viral-ai-videos-forcing-takedowns-and-setting-precedent-for-likeness-rights/articleshow/122887679.cms"
-    },
-    {
-      "id": 66,
-      "title": "Google Apologizes For Glitchy Assistant As Complaints Pile Up, Promises Major Improvements",
-      "summary": "Google apologizes for glitchy Assistant as complaints pile up and promises major improvements for Google Home, Nest smart speakers, and hubs affected by issues.",
-      "source": "Hot Hardware",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:12:00Z",
-      "url": "https://hothardware.com/news/google-apologizes-glitchy-assistant-promises-improvements"
-    },
-    {
-      "id": 67,
-      "title": "npcsh 1.0.8",
-      "summary": "npcsh 1.0.8 is a command-line toolkit for using AI agents in novel ways.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T17:11:00Z",
-      "url": "https://pypi.org/project/npcsh/1.0.8/"
-    },
-    {
-      "id": 68,
-      "title": "South Park Signs Deal, Then Skewers Paramount, Trump",
-      "summary": "South Park creators sign deal with Paramount but continue to skewer the company in the show's 27th season premiere, raising ethical questions about the relationship between creators and networks.",
-      "source": "Newser",
-      "category": "ethics",
-      "timestamp": "2025-07-24T17:11:00Z",
-      "url": "https://www.newser.com/story/372425/south-park-returns-to-skewer-paramount-trump.html"
-    },
-    {
-      "id": 69,
-      "title": "Aidoc gets $150M to support AI foundation model development",
-      "summary": "Aidoc secures $150M to further develop its AI foundation model and clinical AI operating platform.",
-      "source": "Techtarget.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T17:11:00Z",
-      "url": "https://www.techtarget.com/healthtechanalytics/news/366628005/Aidoc-gets-150M-to-support-AI-foundation-model-development"
-    },
-    {
-      "id": 70,
-      "title": "SynLrn 0.1.0",
-      "summary": "SynLrn 0.1.0 is a modern method that enables AI to learn from each interaction, revolutionizing the way AI systems learn.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T17:10:10Z",
-      "url": "https://pypi.org/project/synlrn/0.1.0/"
-    },
-    {
-      "id": 51,
-      "title": "Why I recommend this Asus laptop over the MacBook Pro to creators and professionals",
-      "summary": "The Asus ProArt P16 offers strong performance initially, with its customization options providing additional benefits for users.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:49:00Z",
-      "url": "https://www.zdnet.com/article/why-i-recommend-this-asus-laptop-over-the-macbook-pro-to-creators-and-professionals/"
-    },
-    {
-      "id": 52,
-      "title": "AI is the new best friend for many teens, and it never says \"no\"",
-      "summary": "AI is becoming a close companion for many teens, providing humanlike interaction and never saying 'no'. Researchers were surprised by the high number of teens who rely on AI for companionship.",
-      "source": "TechSpot",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:49:00Z",
-      "url": "https://www.techspot.com/news/108793-ai-new-best-friend-many-teens-never-no.html"
-    },
-    {
-      "id": 53,
-      "title": "Addition Wealth Launches AI-Powered Financial Wellness Platform",
-      "summary": "Addition Wealth has launched an AI-powered financial wellness platform for large businesses, enabling enterprises to provide customized financial wellness experiences at scale.",
-      "source": "Finovate.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T16:48:58Z",
-      "url": "https://finovate.com/addition-wealth-launches-ai-powered-financial-wellness-platform/"
-    },
-    {
-      "id": 54,
-      "title": "If you were holding your breath for a reasoned government approach to regulating AI, it's time to exhale [Dumbass]",
-      "summary": "Government approach to regulating AI lacks reason.",
-      "source": "Fark.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T16:48:45Z",
-      "url": "https://www.fark.com/comments/13752464/If-you-were-holding-your-breath-for-a-reasoned-government-approach-to-regulating-AI-its-time-to-exhale"
-    },
-    {
-      "id": 55,
-      "title": "Internet Can't Cope With Dog's Tail After 'DNA Forgot To Turn Off' Growth",
-      "summary": "Internet users captivated by a photo of a dog with an unusually long tail due to genetic anomaly. Media emphasizes that inconsistencies may occur with AI-generated content.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:47:46Z",
-      "url": "https://biztoc.com/x/f83754ab4ddf8236"
-    },
-    {
-      "id": 56,
-      "title": "The Business of Obedience—Trump's Blueprint for Authoritarian Capitalism | Opinion",
-      "summary": "CBS canceled Stephen Colbert's late-night show three days after he criticized Paramount's settlement with President Trump, suggesting a possible influence of power dynamics on freedom of speech.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T16:47:44Z",
-      "url": "https://biztoc.com/x/171997abb0d7ee23"
-    },
-    {
-      "id": 57,
-      "title": "Anti-Trump Protests Planned for President's Scotland Visit: What to Know",
-      "summary": "Anti-Trump protests are being planned in Scotland as the president prepares to visit his golf courses.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-24T16:47:40Z",
-      "url": "https://www.newsweek.com/anti-trump-protests-planned-scotland-visit-what-know-aberdeen-edinburgh-dumfries-golf-course-2103560"
-    },
-    {
-      "id": 58,
-      "title": "Bias alert: LLMs suggest women seek lower salaries than men in job interviews",
-      "summary": "LLMs suggest women seek lower salaries than men in job interviews, potentially leading to bias. Chatbots may provide misleading advice, especially for women and minority groups.",
-      "source": "Computerworld",
-      "category": "ethics",
-      "timestamp": "2025-07-24T16:47:26Z",
-      "url": "https://www.computerworld.com/article/4028148/bias-alert-llms-suggest-women-seek-lower-salaries-than-men-in-job-interviews.html"
-    },
-    {
-      "id": 59,
-      "title": "Elon Musk Led A Spending Cut Crusade — Then His Startup Got A $200 Million Contract To Build Custom AI For The Government He Tried To Shrink",
-      "summary": "Elon Musk's AI company xAI received a $200 million contract to build custom AI for the government, despite Musk's past criticisms of government spending.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T16:47:24Z",
-      "url": "https://biztoc.com/x/1d37702090b03d9f"
-    },
-    {
-      "id": 60,
-      "title": "The Good Life: Mother-in-Law Mayhem",
-      "summary": "The article discusses AI-generated voice in a story about mother-in-law horror stories, highlighting the potential for inconsistencies in the content.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:47:09Z",
-      "url": "https://biztoc.com/x/f2940e3f6dbacc00"
     }
   ]
 }
