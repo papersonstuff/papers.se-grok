@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-24T23:51:07.077Z",
+  "lastUpdate": "2025-07-25T01:18:28.258Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Is PayPal’s New Fiat Platform a Stablecoin Killer?",
+      "summary": "PayPal World aims to link major digital wallets domestically, potentially challenging stablecoins, although legacy constraints could be a limiting factor.",
+      "source": "Decrypt",
+      "category": "innovation",
+      "timestamp": "2025-07-24T01:16:11Z",
+      "url": "https://decrypt.co/331521/is-paypals-new-fiat-platform-a-stablecoin-killer"
+    },
+    {
+      "id": 52,
+      "title": "Auditing challenges",
+      "summary": "A decade since audit rotation, there are challenges to auditing practices that present an opportunity to reset and improve. Auditors are facing new challenges related to AI technology and regulation, requiring innovation in auditing processes.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-24T01:15:00Z",
+      "url": "https://www.thehindubusinessline.com/opinion/auditing-challenges/article69847744.ece"
+    },
+    {
+      "id": 53,
+      "title": "AI mainframe sales help IBM breeze past the Street’s targets on earnings and revenue",
+      "summary": "AI mainframe sales help IBM exceed expectations on second-quarter earnings and revenue, driven by strong sales of new hardware capable of processing large amounts of data, particularly beneficial for AI workloads.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:12:44Z",
+      "url": "https://siliconangle.com/2025/07/23/ai-mainframe-sales-help-ibm-breeze-past-streets-targets-earnings-revenue/"
+    },
+    {
+      "id": 54,
+      "title": "AI mainframe sales help IBM beat Street’s earnings targets, but software miss upsets investors",
+      "summary": "IBM beat earnings targets with strong AI mainframe sales, but upset investors with a software miss, resulting in a stock decline.",
+      "source": "SiliconANGLE News",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:12:44Z",
+      "url": "https://siliconangle.com/2025/07/23/ai-mainframe-sales-help-ibm-beat-streets-earnings-targets-software-miss-upsets-investors/"
+    },
+    {
+      "id": 55,
+      "title": "Why these 5 pharma stocks could shine in today’s trade: July 24, 2025",
+      "summary": "Dr Reddy’s, Apollo Hospitals, and Natco Pharma are showcasing advancements in pharmaceuticals through innovation in liver healthcare, financial updates, and acquisition plans for Adcock Ingram.",
+      "source": "BusinessLine",
+      "category": "research",
+      "timestamp": "2025-07-24T01:10:04Z",
+      "url": "https://www.thehindubusinessline.com/markets/why-these-5-pharma-stocks-could-shine-in-todays-trade-july-24-2025/article69849042.ece"
+    },
+    {
+      "id": 56,
+      "title": "Veeva と AWS が 10 年にわたる関係を拡大｜AWS 、Veeva の「 AI パートナー」に。更なる協業で、共通の顧客の成功を支援",
+      "summary": "Veeva and AWS expand their 10-year relationship, with AWS becoming Veeva's 'AI partner'. Through further collaboration, they aim to support the success of their common customers.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-24T01:09:35Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000061700.html"
+    },
+    {
+      "id": 57,
+      "title": "onnxruntime-migraphx added to PyPI",
+      "summary": "ONNX Runtime accelerator onnxruntime-migraphx has been added to PyPI, providing efficient runtime for Machine Learning models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T01:08:40Z",
+      "url": "https://pypi.org/project/onnxruntime-migraphx/"
+    },
+    {
+      "id": 58,
+      "title": "From search to smart glasses: Alphabet bets big on AI agents",
+      "summary": "Alphabet is making big bets on AI agents, with CEO Sundar Pichai mentioning the positive impact of AI on their business, including the adoption of Gemini models and user engagement with smart glasses. They are also strengthening ties with OpenAI.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T01:08:27Z",
+      "url": "https://www.digitimes.com/news/a20250724VL202/alphabet-growth-ceo-capex-gemini.html"
+    },
+    {
+      "id": 59,
+      "title": "DNI Gabbard claims ‘deep state actors’ didn’t want Trump-Russia information to 'see the light of day'",
+      "summary": "DNI Gabbard accuses 'deep state actors' of withholding Trump-Russia information, DOJ to look into potential criminal investigation based on declassified documents.",
+      "source": "Fox News",
+      "category": "ethics",
+      "timestamp": "2025-07-24T01:07:33Z",
+      "url": "https://www.foxnews.com/media/dni-gabbard-claims-deep-state-actors-didnt-want-trump-russia-information-see-light-day"
+    },
+    {
+      "id": 60,
+      "title": "Asian shares rise on hopes for more trade deals",
+      "summary": "Asian shares rise for the sixth consecutive day on hopes for more trade deals, following optimism surrounding potential US trade agreements with Japan and the European Union.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:07:26Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-rise-on-hopes-for-more-trade-deals/articleshow/122869741.cms"
+    },
+    {
+      "id": 61,
+      "title": "Pichai: AI Overviews Top 2 Billion Users and Boost Search by 10%",
+      "summary": "Alphabet raises its projected capital expenditures to $85 billion, with Google's CEO Pichai stating that AI now reaches over 2 billion users and has boosted search by 10%.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:06:28Z",
+      "url": "https://biztoc.com/x/fccdad6b402212f7"
+    },
+    {
+      "id": 62,
+      "title": "CNBC Daily Open: Investors loosen their purse strings for Alphabet's increased spending",
+      "summary": "Investors are increasing investment in Alphabet's AI spending, confident that it will lead to higher revenue.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:05:15Z",
+      "url": "https://www.cnbc.com/2025/07/24/cnbc-daily-open-investors-seem-confident-of-alphabets-increased-spending.html"
+    },
+    {
+      "id": 63,
+      "title": "pygpt-net 2.5.65",
+      "summary": "pygpt-net 2.5.65 is a Desktop AI Assistant powered by various OpenAI models such as GPT-4, DALL-E, and others, supporting chatbot capabilities, image generation, vision analysis, and more.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T01:04:13Z",
+      "url": "https://pypi.org/project/pygpt-net/2.5.65/"
+    },
+    {
+      "id": 64,
+      "title": "SK Hynix rides DRAM wave, doubles down on HBM with capex boost",
+      "summary": "SK Hynix reported second-quarter 2025 revenue of KRW22.23 trillion (US$16.17 billion), up 35% year-over-year, driven by surging demand for AI and high-performance DRAM. The company plans to boost capex to meet growing demand for HBM and AI memory products.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:04:02Z",
+      "url": "https://www.digitimes.com/news/a20250724VL200/sk-hynix-dram-hbm-demand-capex.html"
+    },
+    {
+      "id": 65,
+      "title": "How the White House AI plan helps, and hurts, in the race against China",
+      "summary": "The White House AI plan has been seen as both beneficial and concerning in the competition against China, with one tech advocate praising it as crucial while another viewing it as a Silicon Valley wishlist.",
+      "source": "Defense One",
+      "category": "research",
+      "timestamp": "2025-07-24T01:01:54Z",
+      "url": "https://www.defenseone.com/technology/2025/07/how-white-house-ai-plan-helps-and-hurts-race-against-china/406944/"
+    },
+    {
+      "id": 66,
+      "title": "Alphabet opens its wallet for AI supremacy",
+      "summary": "Alphabet Inc. reports strong financial results in second quarter of 2025, with double-digit revenue growth and increased capital expenditures, emphasizing its focus on AI technology.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-24T01:01:33Z",
+      "url": "https://www.digitimes.com/news/a20250724VL201/alphabet-capex-revenue-2025-demand.html"
+    },
     {
       "id": 51,
       "title": "Inside the debate over teens using AI companions for support",
@@ -306,150 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T23:05:50Z",
       "url": "https://pypi.org/project/teraace-tracker/"
-    },
-    {
-      "id": 51,
-      "title": "OpenAI and partners are building a massive AI data center in Texas",
-      "summary": "OpenAI and partners are building a massive AI data center in Texas, described as a gigantic infrastructure project.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:55:17Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178450788"
-    },
-    {
-      "id": 52,
-      "title": "praisonaiagents 0.0.146",
-      "summary": "Praison AI agents 0.0.146 are designed for completing complex tasks with Self Reflection Agents.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-23T22:55:04Z",
-      "url": "https://pypi.org/project/praisonaiagents/0.0.146/"
-    },
-    {
-      "id": 53,
-      "title": "Sonos Gets New CEO After App Disaster",
-      "summary": "Sonos appoints Tom Conrad as permanent CEO after app redesign disaster under former CEO Patrick Spence.",
-      "source": "MacRumors",
-      "category": "startups",
-      "timestamp": "2025-07-23T22:53:46Z",
-      "url": "https://www.macrumors.com/2025/07/23/sonos-gets-new-ceo-after-app-disaster/"
-    },
-    {
-      "id": 54,
-      "title": "AI server boom runs into fiberglass bottleneck",
-      "summary": "AI server boom faces fiberglass bottleneck as CSPs invest in ASICs, leading to rapid increase in shipments by 2025 but substrate supply chain issues arise.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:53:28Z",
-      "url": "https://www.digitimes.com/news/a20250723PD208/capacity-supply-chain-asic-fiberglass-cloth-2026.html"
-    },
-    {
-      "id": 55,
-      "title": "What’s in Trump’s new AI policy and why it matters",
-      "summary": "President Trump unveiled his approach to the development of AI, signing three executive orders including targeting 'ideological bias' in AI chatbots. The new policy aims to address ethical concerns in the advancement of AI technology.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:53:23Z",
-      "url": "https://biztoc.com/x/53559dd8aff26b79"
-    },
-    {
-      "id": 56,
-      "title": "Rep. Ted Lieu says provisions of Trump's AI Action Plan have \"massive implementation issues\"",
-      "summary": "Rep. Ted Lieu criticizes Trump's AI Action Plan for having massive implementation issues, while the administration aims to relax regulations and accelerate AI development in the U.S.",
-      "source": "CBS News",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:53:00Z",
-      "url": "https://www.cbsnews.com/video/ted-lieu-provisions-trump-ai-action-plan-massive-implementation-issues/"
-    },
-    {
-      "id": 57,
-      "title": "Mattel Reports 6% Sales Decline in Uncertain Trade Environment",
-      "summary": "Mattel reports 6% sales decline due to uncertain trade environment impacting sales in the U.S.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:52:33Z",
-      "url": "http://www.pymnts.com/earnings/2025/mattel-reports-6percent-sales-decline-in-uncertain-trade-environment/"
-    },
-    {
-      "id": 58,
-      "title": "Lilbits: Qi2 25W wireless charging, more Pixel 10 series leaks, and an effort to bring back BlackBerry",
-      "summary": "UGREEN introduces power bank supporting 25W wireless charging with new Qi 2.2 standard, joining a growing market of similar products.",
-      "source": "Liliputing",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:51:38Z",
-      "url": "https://liliputing.com/lilbits-qi2-25w-wireless-charging-more-pixel-10-series-leaks-and-an-effort-to-bring-back-blackberry/"
-    },
-    {
-      "id": 59,
-      "title": "Alphabet’s Revenue Skyrockets, And AI Overviews Gobble More Of The Search Pie",
-      "summary": "Alphabet's revenue increased significantly in the second quarter, with AI playing a larger role in search. Google's success contrasts with the struggles of other web companies.",
-      "source": "AdExchanger",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:50:57Z",
-      "url": "http://www.adexchanger.com/online-advertising/alphabets-revenue-skyrockets-and-ai-overviews-gobble-more-of-the-search-pie/"
-    },
-    {
-      "id": 60,
-      "title": "Why it’s too early to write off Tim Cook",
-      "summary": "Apple is facing criticism for its lack of product innovation and lagging development in generative AI. However, it is too early to write off Tim Cook as discussions about executive personnel changes emerge.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-23T22:50:50Z",
-      "url": "https://www.digitimes.com/news/a20250723PD215/apple-ceo-business-genai-iphone.html"
-    },
-    {
-      "id": 61,
-      "title": "revenium-mcp 0.1.25",
-      "summary": "revenium-mcp 0.1.25 introduces Model Context Protocol (MCP) server for Revenium API monitoring, analytics, and AI spending management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T22:50:49Z",
-      "url": "https://pypi.org/project/revenium-mcp/0.1.25/"
-    },
-    {
-      "id": 62,
-      "title": "Tesla’s sales fall most for a decade in another rough quarter",
-      "summary": "Tesla's sales fall most for a decade, with shares remaining little changed after extended trading gains",
-      "source": "Bloomberg",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:50:22Z",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-23/tesla-second-quarter-earnings-miss-wall-street-expectations?embedded-checkout=true"
-    },
-    {
-      "id": 63,
-      "title": "What’s in Trump’s new AI policy and why it matters",
-      "summary": "President Trump unveiled his approach to the development of AI, signing three executive orders including one targeting 'ideological bias' in AI chatbots.",
-      "source": "PBS",
-      "category": "ethics",
-      "timestamp": "2025-07-23T22:50:12Z",
-      "url": "https://www.pbs.org/newshour/show/whats-in-trumps-new-ai-policy-and-why-it-matters"
-    },
-    {
-      "id": 64,
-      "title": "AWS shutters Shanghai AI lab, following Microsoft and IBM exits",
-      "summary": "AWS has shut down its Shanghai AI lab, following the exits of Microsoft and IBM. This aligns with AWS's future strategic direction and resource allocation.",
-      "source": "Digitimes",
-      "category": "research",
-      "timestamp": "2025-07-23T22:48:18Z",
-      "url": "https://www.digitimes.com/news/a20250723PD234/aws-shanghai-silicon-valley-technology-machine-learning.html"
-    },
-    {
-      "id": 51,
-      "title": "Google earnings keep Silicon Valley’s AI flywheel spinning",
-      "summary": "Google's increased capital expenditure on data centres and AI technologies will be about $85bn this year, up from the previous estimate of $75bn, contributing to the growth of the AI industry.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T22:42:15Z",
-      "url": "https://biztoc.com/x/5d5d0495e08625d1"
-    },
-    {
-      "id": 52,
-      "title": "SecurityPal combines AI and experts in Nepal to speed enterprise security questionnaires by 87X or more",
-      "summary": "SecurityPal in Nepal combines AI and experts to speed up enterprise security questionnaires by 87X and maintain competitive prices.",
-      "source": "VentureBeat",
-      "category": "startups",
-      "timestamp": "2025-07-23T22:41:32Z",
-      "url": "https://venturebeat.com/security/securitypal-combines-ai-and-experts-in-nepal-to-speed-enterprise-security-questionnaires-by-87x-or-more/"
     }
   ]
 }
