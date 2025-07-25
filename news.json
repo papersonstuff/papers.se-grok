@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-25T11:14:32.769Z",
+  "lastUpdate": "2025-07-25T11:32:16.442Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Elon Musk floats robots in ‘cute outfits’ while Tesla earnings miss",
+      "summary": "Tesla's Q2 earnings fall short causing stock to dip, despite the successful opening of a retro-themed diner by the company.",
+      "source": "Cointelegraph",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:30:55Z",
+      "url": "https://cointelegraph.com/news/tesla-stocks-fall-q2-earnings-miss-elon-musk-robot"
+    },
+    {
+      "id": 52,
+      "title": "Agentic AI systems must have ‘a human in the loop,’ says Google exec",
+      "summary": "Agentic AI systems should have a human oversight to ensure responsible behavior as they become more autonomous.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:30:49Z",
+      "url": "https://fortune.com/2025/07/24/agentic-ai-systems-must-have-human-loop-says-google-exec-cfo/"
+    },
+    {
+      "id": 53,
+      "title": "DGCA took punitive action against AI Express for non-compliance with airworthiness directive: Mohol",
+      "summary": "DGCA took punitive action against AI Express for non-compliance with airworthiness directive: Mohol - The DGCA took punitive measures against Air India Express officials after discovering non-compliance with an EASA airworthiness directive concerning Airbus A320 engines.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:30:46Z",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/dgca-took-punitive-action-against-ai-express-for-non-compliance-with-airworthiness-directive-mohol/articleshow/122881858.cms"
+    },
+    {
+      "id": 54,
+      "title": "President Trump threatened to break up Nvidia, didn't even know what it was — 'What the hell is Nvidia? I've never heard of it before'",
+      "summary": "President Trump threatened to break up Nvidia despite not knowing what it was, raising ethical concerns about making decisions on unfamiliar technologies.",
+      "source": "Tom's Hardware UK",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:30:17Z",
+      "url": "https://www.tomshardware.com/tech-industry/president-trump-threatened-to-break-up-nvidia-didnt-even-know-what-it-was-what-the-hell-is-nvidia-ive-never-heard-of-it-before"
+    },
+    {
+      "id": 55,
+      "title": "Policy paper: India-UK Vision 2035",
+      "summary": "The Prime Ministers of India and the UK endorsed the new 'India-UK Vision 2035' during their meeting in London on 24 July 2025.",
+      "source": "Www.gov.uk",
+      "category": "policy",
+      "timestamp": "2025-07-24T11:30:07Z",
+      "url": "https://www.gov.uk/government/publications/india-uk-vision-2035"
+    },
+    {
+      "id": 56,
+      "title": "Excellence in Health Care: Where Value, Trust, Innovation and Care Converge",
+      "summary": "True health care excellence is inseparable from the concept of value, not in a purely financial sense, but defined by the impact of care on a person's health.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:30:01Z",
+      "url": "https://www.newsweek.com/excellence-health-care-where-value-trust-innovation-care-converge-2103110"
+    },
+    {
+      "id": 57,
+      "title": "Applied Materials to Report Fiscal Third Quarter 2025 Results on August 14, 2025",
+      "summary": "Applied Materials, Inc. will report its fiscal third quarter 2025 results on August 14, 2025, indicating a focus on financial performance in the AI-related industry.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120956/0/en/Applied-Materials-to-Report-Fiscal-Third-Quarter-2025-Results-on-August-14-2025.html"
+    },
+    {
+      "id": 58,
+      "title": "Digital Asset Technologies Inc. Welcomes Brian Rose to Advisory Board",
+      "summary": "Digital Asset Technologies Inc. welcomes Brian Rose to Advisory Board, a technology focused investment issuer.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120947/0/en/Digital-Asset-Technologies-Inc-Welcomes-Brian-Rose-to-Advisory-Board.html"
+    },
+    {
+      "id": 59,
+      "title": "We’ve forgotten how to market. So, how should today’s playbook look",
+      "summary": "Tom Goodwin believes that marketing has lost its way and many modern lessons are taking us backward. He shares what lessons we should salvage from the performance-heavy playbook.",
+      "source": "The Drum",
+      "category": "ethics",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.thedrum.com/opinion/2025/07/24/we-ve-forgotten-how-market-so-how-should-today-s-playbook-look"
+    },
+    {
+      "id": 60,
+      "title": "FTI Consulting Reports Second Quarter 2025 Financial Results",
+      "summary": "FTI Consulting, Inc. released financial results for the second quarter ended June 30, 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120954/33891/en/FTI-Consulting-Reports-Second-Quarter-2025-Financial-Results.html"
+    },
+    {
+      "id": 61,
+      "title": "7 features you need to know and configure on OneDrive for Windows 11",
+      "summary": "If you're on Windows 11, check out and learn how to configure these lesser-known features from OneDrive that can help you boost productivity, organization, privacy, and file recovery.",
+      "source": "Windows Central",
+      "category": "applications",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/7-gems-you-probably-didnt-know-about-onedrive-on-windows-11"
+    },
+    {
+      "id": 62,
+      "title": "NETCLASS TECHNOLOGY INC Establishes a Singapore Subsidiary to Drive Global AI Business Expansion",
+      "summary": "NETCLASS Technology INC establishes a Singapore subsidiary to drive global AI business expansion.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T11:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120943/0/en/NETCLASS-TECHNOLOGY-INC-Establishes-a-Singapore-Subsidiary-to-Drive-Global-AI-Business-Expansion.html"
+    },
+    {
+      "id": 63,
+      "title": "Oral Cancer Rapid Test Kits Business Report 2025 | Market to Reach $1.2 Billion by 2030 - Advancements in Biomarker Identification Propel Development of High-Specificity Rapid Test Kits",
+      "summary": "Oral cancer rapid test kits are projected to reach $1.2 billion by 2030, driven by advancements in biomarker identification leading to high-specificity tests. The kits offer opportunities for early diagnosis through non-invasive, saliva-based detection technologies, especially in high-risk regions.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-24T11:29:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120946/28124/en/Oral-Cancer-Rapid-Test-Kits-Business-Report-2025-Market-to-Reach-1-2-Billion-by-2030-Advancements-in-Biomarker-Identification-Propel-Development-of-High-Specificity-Rapid-Test-Kits.html"
+    },
+    {
+      "id": 64,
+      "title": "Nvidia CEO Jensen Huang calls Trump 'America's unique advantage' because he's ramping up US energy",
+      "summary": "Nvidia CEO sees Trump as America's unique advantage for ramping up US energy, which can lead to more AI 'factories'.",
+      "source": "PC Gamer",
+      "category": "economy",
+      "timestamp": "2025-07-24T11:28:17Z",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-calls-trump-americas-unique-advantage-because-hes-ramping-up-us-energy/"
+    },
+    {
+      "id": 65,
+      "title": "Show HN: An AI tool that filters high-quality info from the noise",
+      "summary": "An AI tool has been developed to filter high-quality information from the noise, addressing the issue of overwhelming content creation by generative AI.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T11:26:44Z",
+      "url": "https://github.com/cctv2206/mimir-opensource"
+    },
+    {
+      "id": 66,
+      "title": "“Divorce Will Do That To You”: Sacha Baron Cohen’s Ripped Transformation Absolutely Floors Fans",
+      "summary": "Sacha Baron Cohen's fitness secrets and transformation revealed as he graces the cover of Men’s Fitness UK.",
+      "source": "Boredpanda.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T11:26:14Z",
+      "url": "https://www.boredpanda.com/sacha-baron-cohen-fitness-transformation-stuns-fans/"
+    },
+    {
+      "id": 67,
+      "title": "Show HN: Digital Twin Proxy – Turn web browsing into memory for AI agents",
+      "summary": "I built Digital Twin Proxy as an open-source tool that logs web browsing and uses a local LLM to generate an analysis of browsing patterns, creating a 'digital twin' for online activity.",
+      "source": "Github.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T11:25:36Z",
+      "url": "https://github.com/kstonekuan/digital-twin-proxy"
+    },
+    {
+      "id": 68,
+      "title": "Alterity Therapeutics Announces Publication on Novel MRI Endpoint from the bioMUSE Natural History Study",
+      "summary": "Alterity Therapeutics published a study in the Annals of Clinical and Translational Neurology showcasing the MSA Atrophy Index, a novel MRI endpoint developed to diagnose and monitor disease progression in Multiple System Atrophy.",
+      "source": "GlobeNewswire",
+      "category": "research",
+      "timestamp": "2025-07-24T11:25:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120939/0/en/Alterity-Therapeutics-Announces-Publication-on-Novel-MRI-Endpoint-from-the-bioMUSE-Natural-History-Study.html"
+    },
     {
       "id": 51,
       "title": "Goldendoodle Has 'Summer Haircut'—Internet Not Prepared for Result",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T09:43:01Z",
       "url": "https://www.businessinsider.com/private-layoff-groups-job-loss-2025-7"
-    },
-    {
-      "id": 54,
-      "title": "Google Chrome Review: Features, Usage, and Competition",
-      "summary": "Read a detailed review of Google Chrome to learn about its features, options, and security protocols before trying it out.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-24T09:41:15Z",
-      "url": "https://www.techradar.com/reviews/google-chrome"
-    },
-    {
-      "id": 55,
-      "title": "farscore added to PyPI",
-      "summary": "farscore added to PyPI - FARScore: A Synthetic Accessibility Predictor based Fragment Assembly autoRegressive pretrain",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-24T09:40:34Z",
-      "url": "https://pypi.org/project/farscore/"
-    },
-    {
-      "id": 56,
-      "title": "Interview Preparation Platforms - Ace Every Interview With OfferGenie’s AI-Powered Copilot Tools (TrendHunter.com)",
-      "summary": "OfferGenie is an AI-powered platform designed to support job seekers through the interview process, offering tools such as resume evaluation, mock interviews, and real-time interview support.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T09:40:05Z",
-      "url": "https://www.trendhunter.com/trends/offergenie"
-    },
-    {
-      "id": 57,
-      "title": "​In transformational year for News24, Jerusha Raath shares most promising growth opps",
-      "summary": "News24 South Africa, led by publisher Jerusha Raath, discusses growth opportunities and transformations in digital media with consultant Mark Challinor.",
-      "source": "The Drum",
-      "category": "innovation",
-      "timestamp": "2025-07-24T09:40:00Z",
-      "url": "https://www.thedrum.com/opinion/2025/07/24/transformational-year-news24-jerusha-raath-shares-most-promising-growth-opps"
-    },
-    {
-      "id": 58,
-      "title": "Amazon, Meta Wear AI-mbitions on Their Wrists",
-      "summary": "Amazon and Meta discontinue their smartwatch projects after initial ambitions in the space.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T09:39:41Z",
-      "url": "https://biztoc.com/x/48cc1bfab6b3951b"
-    },
-    {
-      "id": 59,
-      "title": "US Sends Nuclear Submarine to Pacific Fleet Amid China Threat",
-      "summary": "The United States redeployed a second nuclear-powered submarine—capable of launching long-range Tomahawk missiles—from the East Coast to Hawaii this month, as it moves to position its most-capable units in the Pacific region amid China's perceived threat.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T09:39:04Z",
-      "url": "https://biztoc.com/x/d25c846658fc742b"
-    },
-    {
-      "id": 60,
-      "title": "Rising NATO Ally Unveils its own Hypersonic Missile",
-      "summary": "Turkey has unveiled its first locally developed hypersonic missile as part of six advanced weapons systems during a major fair run by the defense ministry.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T09:39:00Z",
-      "url": "https://biztoc.com/x/dcbccd4ddf03e40a"
-    },
-    {
-      "id": 61,
-      "title": "Marijuana Could Break Your Heart—Literally | Opinion",
-      "summary": "Marijuana use has been linked to heart issues, with recent studies highlighting the risk to mental health.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T09:38:57Z",
-      "url": "https://biztoc.com/x/e43881ccf6f0d7b1"
-    },
-    {
-      "id": 62,
-      "title": "Is AI Killing Google Search? It Might Be Doing the Opposite",
-      "summary": "The world’s dominant search engine is adapting well to the AI age.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T09:38:48Z",
-      "url": "https://biztoc.com/x/d9fb5e6ac4abb7a3"
-    },
-    {
-      "id": 51,
-      "title": "Google Says You Don’t Need AEO Or GEO To Rank In AI Overviews via @sejournal, @martinibuster",
-      "summary": "Google's Gary Illyes confirmed that standard SEO is all you need to rank in AI Overviews and AI Mode.",
-      "source": "Search Engine Journal",
-      "category": "innovation",
-      "timestamp": "2025-07-24T09:17:25Z",
-      "url": "https://www.searchenginejournal.com/google-says-you-dont-need-aeo-or-geo-to-rank-in-ai-overviews/551939/"
-    },
-    {
-      "id": 52,
-      "title": "Survey: 7 in 10 Google Home users say their devices are no longer reliable",
-      "summary": "Survey finds that 7 in 10 Google Home users are experiencing reliability issues with their devices, highlighting widespread problems with the speakers and hubs.",
-      "source": "Android Authority",
-      "category": "applications",
-      "timestamp": "2025-07-24T09:16:12Z",
-      "url": "https://www.androidauthority.com/google-home-performance-survey-results-3580515/"
-    },
-    {
-      "id": 53,
-      "title": "Europe ‘sleepwalking’ into deeper dependency on Microsoft cloud technologies, claims OCC",
-      "summary": "Europe 'sleepwalking' into deeper dependency on Microsoft cloud technologies, claims OCC - Research shows strong reliance on Microsoft's cloud-based productivity tools in EU public sector organizations.",
-      "source": "ComputerWeekly.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T09:16:00Z",
-      "url": "https://www.computerweekly.com/news/366628053/Europe-sleepwalking-into-deeper-dependency-on-Microsoft-cloud-technologies-claims-OCC"
-    },
-    {
-      "id": 54,
-      "title": "The Mirror Test: How We've Overcomplicated AI Self-Recognition",
-      "summary": "Current academic AI self-recognition tests are more complex and challenging than the original mirror test designed by Gallup.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-24T09:15:02Z",
-      "url": "https://www.lesswrong.com/posts/dCCuEnMqoetw7zcdf/the-mirror-test-how-we-ve-overcomplicated-ai-self-1"
-    },
-    {
-      "id": 55,
-      "title": "SMEs need channel help moving off Windows 10",
-      "summary": "SMEs are in need of channel help to migrate off Windows 10, as research from Dell and Intel indicates that smaller firms are moving slower in the migration process.",
-      "source": "ComputerWeekly.com",
-      "category": "research",
-      "timestamp": "2025-07-24T09:15:00Z",
-      "url": "https://www.computerweekly.com/microscope/news/366628039/SMEs-need-channel-help-moving-off-Windows-10"
-    },
-    {
-      "id": 56,
-      "title": "memory-agent 1.0.44",
-      "summary": "memory-agent 1.0.44 is a Python library designed for advanced memory management in AI agent applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T09:14:19Z",
-      "url": "https://pypi.org/project/memory-agent/1.0.44/"
-    },
-    {
-      "id": 51,
-      "title": "Salesforce Inc. (NYSE:CRM) CEO Marc Benioff Sells 2,250 Shares",
-      "summary": "Salesforce Inc. CEO Marc Benioff sold 2,250 shares of the company's stock for a total value of $591,592.50.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:48:56Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/salesforce-inc-nysecrm-ceo-marc-benioff-sells-2250-shares/"
-    },
-    {
-      "id": 52,
-      "title": "phosphobot 0.3.76",
-      "summary": "phosphobot 0.3.76 is an AI-ready robotics dev kit that includes built-in remote control and VLA support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T08:48:52Z",
-      "url": "https://pypi.org/project/phosphobot/0.3.76/"
-    },
-    {
-      "id": 53,
-      "title": "Laptop CPUs in 2025 Explained: What to Know Before Buying Your Next Laptop",
-      "summary": "Laptop CPUs in 2025 Explained: Intel and AMD on the x86 side, with Apple and Qualcomm making Arm-based processors. Breakdown of advantages and drawbacks to help pick the right chip.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:48:26Z",
-      "url": "https://www.cnet.com/tech/computing/laptop-cpus-in-2025-explained-what-you-need-to-know-before-buying-your-next-laptop/"
     }
   ]
 }
