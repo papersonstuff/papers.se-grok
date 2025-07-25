@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-25T03:14:30.412Z",
+  "lastUpdate": "2025-07-25T04:08:36.435Z",
   "items": [
+    {
+      "id": 51,
+      "title": "mcp-stock-screener 1.0.3",
+      "summary": "mcp-stock-screener 1.0.3 is an AI-powered system for financial analysis that can process natural language queries and provide structured stock analysis results via MCP.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T04:06:48Z",
+      "url": "https://pypi.org/project/mcp-stock-screener/1.0.3/"
+    },
+    {
+      "id": 52,
+      "title": "AI Warfare in Gaza: Targeted Killings, Automated Surveillance (Khalil Dewan)",
+      "summary": "AI Warfare in Gaza involving targeted killings and automated surveillance is discussed as the future of warfare, highlighting the use of AI technology in conflict zones.",
+      "source": "Juancole.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T04:06:13Z",
+      "url": "https://www.juancole.com/2025/07/targeted-automated-surveillance.html"
+    },
+    {
+      "id": 53,
+      "title": "What’s Behind Donald Trump’s Latest Health Diagnosis—And Is the White House Downplaying It?",
+      "summary": "Donald Trump has been diagnosed with chronic venous insufficiency after concerns over leg swelling, raising questions about transparency in the White House regarding his health.",
+      "source": "The Inquisitr",
+      "category": "ethics",
+      "timestamp": "2025-07-24T04:05:23Z",
+      "url": "https://www.inquisitr.com/whats-behind-donald-trumps-latest-health-diagnosis-and-is-the-white-house-downplaying-it"
+    },
+    {
+      "id": 54,
+      "title": "Amazon buys AI wearable that’s always listening",
+      "summary": "Amazon has acquired Bee, a company that makes a bracelet recording everything it hears. This move raises ethical concerns surrounding privacy and surveillance, particularly as Amazon is already perceived as spying on people.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T04:04:22Z",
+      "url": "https://biztoc.com/x/f4adf3ba9708244e"
+    },
+    {
+      "id": 55,
+      "title": "Media Briefing: New AI-focused roles signal an evolution of AI strategy at news publishers",
+      "summary": "New AI-focused executive roles at news publishers signal an evolution of AI strategy, as covered in the latest Media Briefing for Digiday+ members.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T04:04:16Z",
+      "url": "https://biztoc.com/x/33748f1c2c336c8e"
+    },
+    {
+      "id": 56,
+      "title": "Google’s AI Overviews reach over 2 billion monthly users",
+      "summary": "Google’s AI Overviews reach over 2 billion monthly users, showing rapid growth and indicating how Google is transforming online discourse.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T04:04:14Z",
+      "url": "https://biztoc.com/x/762bf13ec5ab57af"
+    },
+    {
+      "id": 57,
+      "title": "A Hive Of Activity; The Dogs Are Back In Town",
+      "summary": "Amazon quietly acquires AI-based wearable device maker Bee, known for their $50 wristband infused with AI software, as announced by Bee Co-Founder and CEO Maria de Lourdes Zollo on LinkedIn.",
+      "source": "AdExchanger",
+      "category": "startups",
+      "timestamp": "2025-07-24T04:03:36Z",
+      "url": "http://www.adexchanger.com/daily-news-roundup/thursday-24072025/"
+    },
+    {
+      "id": 58,
+      "title": "kstflow 0.1.0",
+      "summary": "kstflow 0.1.0 is a set of AI utilities specifically designed for medical datasets, offering new tools for analysis and processing of healthcare data.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T04:03:10Z",
+      "url": "https://pypi.org/project/kstflow/0.1.0/"
+    },
+    {
+      "id": 59,
+      "title": "Trump Bans ‘Woke AI’ From Federal Contracts in New Executive Order",
+      "summary": "Trump's executive order bans 'woke AI' from federal contracts, requiring ideological neutrality and prohibiting DEI-aligned large language models.",
+      "source": "Decrypt",
+      "category": "ethics",
+      "timestamp": "2025-07-24T04:02:54Z",
+      "url": "https://decrypt.co/331524/trump-bans-woke-ai-federal-contracts-executive-order"
+    },
+    {
+      "id": 60,
+      "title": "Tanla Platforms to announce Q1 results today",
+      "summary": "Tanla Platforms to announce Q1 results showcasing revenue and profit growth, providing telcos with an AI-native platform for efficient data management.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-24T04:02:34Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/tanla-platforms-to-announce-q1-results-today/article69849164.ece"
+    },
+    {
+      "id": 61,
+      "title": "Alphabet boosted by AI, cloud demand as spending needs skyrocket",
+      "summary": "Alphabet's AI infrastructure investments are pivotal in meeting the increased demand from cloud customers, boosting the company's growth.",
+      "source": "Bloomberg",
+      "category": "economy",
+      "timestamp": "2025-07-24T04:01:10Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/alphabet-slips-after-boosting-guidance-for-capital-expenditures"
+    },
+    {
+      "id": 62,
+      "title": "Google’s latest core update leaves publishers rattled, but its consequences are still to be determined",
+      "summary": "Google's latest core update has caused concern among publishers, but the full impact is still uncertain. This update has been described as a typical rollercoaster ride by several publishers.",
+      "source": "Digiday",
+      "category": "innovation",
+      "timestamp": "2025-07-24T04:01:00Z",
+      "url": "http://digiday.com/media/googles-latest-core-update-leaves-publishers-rattled-but-its-consequences-are-still-to-be-determined/"
+    },
+    {
+      "id": 63,
+      "title": "Media Briefing: New AI-focused roles signal an evolution of AI strategy at news publishers",
+      "summary": "New AI-focused roles at news publishers like The Washington Post and Forbes indicate a shift in AI strategy towards operationalization and implementation.",
+      "source": "Digiday",
+      "category": "innovation",
+      "timestamp": "2025-07-24T04:01:00Z",
+      "url": "http://digiday.com/media/media-briefing-new-ai-focused-roles-signal-an-evolution-of-ai-strategy-at-news-publishers/"
+    },
+    {
+      "id": 64,
+      "title": "Maybe AI Isn’t Going to Replace You at Work After All",
+      "summary": "AI fails at tasks where accuracy must be absolute to create value. In reviewing the on-going discussions about how many people will be replaced by AI, I find a severe lack of real-world examples.",
+      "source": "Lewrockwell.com",
+      "category": "research",
+      "timestamp": "2025-07-24T04:01:00Z",
+      "url": "https://www.lewrockwell.com/2025/07/charles-hugh-smith/maybe-ai-isnt-going-to-replace-you-at-work-after-all/"
+    },
+    {
+      "id": 65,
+      "title": "As S4 struggles, Sir Martin Sorrell keeps firing shots at the industry he created",
+      "summary": "Sir Martin Sorrell criticizes the industry he created, as S4 struggles, with his commentary becoming more biting.",
+      "source": "Digiday",
+      "category": "innovation",
+      "timestamp": "2025-07-24T04:01:00Z",
+      "url": "http://digiday.com/media-buying/as-s4-struggles-sir-martin-sorrell-keeps-firing-shots-at-the-industry-he-created/"
+    },
     {
       "id": 51,
       "title": "Sydney Sweeney Stars in American Eagle Fall 25 Campaign",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-23T23:37:41Z",
       "url": "https://biztoc.com/x/0426bc30c25d3022"
-    },
-    {
-      "id": 53,
-      "title": "Tesla says it started building initial versions of an affordable car, posts a steep sales decline",
-      "summary": "Tesla reports building initial versions of an affordable car in response to a steep decline in sales.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:36:27Z",
-      "url": "https://ca.finance.yahoo.com/news/tesla-says-started-building-initial-233627925.html"
-    },
-    {
-      "id": 54,
-      "title": "Tesla says it started building initial versions of an affordable car, posts a steep sales decline",
-      "summary": "Tesla started building initial versions of an affordable car in response to a sales decline.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:36:27Z",
-      "url": "https://finance.yahoo.com/news/tesla-says-started-building-initial-233627294.html"
-    },
-    {
-      "id": 55,
-      "title": "How CMPs Can Make Hay With Real VRM",
-      "summary": "How CMPs can make use of Real VRM, a $.5 billion business dominated by OneTrust with a 40% market share worldwide.",
-      "source": "Projectvrm.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:36:14Z",
-      "url": "https://projectvrm.org/2025/07/23/from-cmps-to-vrm/"
-    },
-    {
-      "id": 56,
-      "title": "Trump signs executive orders to loosen AI regulations",
-      "summary": "Trump signs executive orders to loosen AI regulations, sparking debate over potential impacts on innovation and big tech.",
-      "source": "WLWT Cincinnati",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:35:01Z",
-      "url": "https://www.wlwt.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
-    },
-    {
-      "id": 57,
-      "title": "Trump signs executive orders to loosen AI regulations",
-      "summary": "Trump signed executive orders to loosen AI regulations, sparking debate over potential impacts on innovation and big tech.",
-      "source": "WMUR Manchester",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:34:41Z",
-      "url": "https://www.wmur.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
-    },
-    {
-      "id": 58,
-      "title": "Trump signs executive orders to loosen AI regulations",
-      "summary": "Trump signs executive orders to reduce AI regulations, sparking debate over potential impacts on innovation and big tech.",
-      "source": "KOCO Oklahoma City",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:34:28Z",
-      "url": "https://www.koco.com/article/president-trump-signs-executive-orders-loosen-ai-regulations/65492129"
-    },
-    {
-      "id": 59,
-      "title": "Alphabet beats Wall Street’s targets on earnings and revenue, but investors worry about increased AI spending",
-      "summary": "Alphabet beats Wall Street’s targets on earnings and revenue, but investors worry about increased AI spending.",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:34:20Z",
-      "url": "https://siliconangle.com/2025/07/23/alphabet-beats-wall-streets-targets-earnings-revenue-investors-worry-increased-ai-spending/"
-    },
-    {
-      "id": 60,
-      "title": "Trump reveals details about AI Action Plan",
-      "summary": "Trump unveils AI Action Plan to bolster U.S. technical capabilities and remove guardrails from Biden administration.",
-      "source": "CBS News",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:33:00Z",
-      "url": "https://www.cbsnews.com/video/trump-reveals-details-ai-action-plan/"
-    },
-    {
-      "id": 61,
-      "title": "July 23, 2025 – PBS News Hour full episode",
-      "summary": "The White House cuts artificial intelligence regulations to compete with China, raising concerns about the ethical implications of prioritizing technological advancement over safety and oversight.",
-      "source": "PBS",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:32:51Z",
-      "url": "https://www.pbs.org/newshour/show/july-23-2025-pbs-news-hour-full-episode"
-    },
-    {
-      "id": 62,
-      "title": "Trump Says It Is ‘Not Do-able’ for AI Companies to Pay for All Copyrighted Content Used in Training Models",
-      "summary": "President Trump believes it is not feasible for AI companies to pay for all copyrighted content used in training models, citing that China is not doing it. This raises ethical questions regarding the use of copyrighted materials in AI development.",
-      "source": "TheWrap",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:32:23Z",
-      "url": "https://www.thewrap.com/donald-trump-ai-company-copyright-content-training-models/"
-    },
-    {
-      "id": 63,
-      "title": "Sundar Pichai on agentic 2026, phones over glasses in near-term, and more",
-      "summary": "Sundar Pichai discussed agentic experiences and XR glasses during the Alphabet Q2 2025 earnings call, in addition to updates on AI Mode and Gemini app adoption.",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:31:07Z",
-      "url": "http://9to5google.com/2025/07/23/sundar-pichai-agentic-2026-glasses/"
-    },
-    {
-      "id": 51,
-      "title": "UN World Court declares countries must curb emissions or be held responsible",
-      "summary": "UN World Court rules countries must curb emissions or be held responsible, but has no way to enforce compliance",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:16:35Z",
-      "url": "https://www.theregister.com/2025/07/23/un_world_court_curb_emissions/"
-    },
-    {
-      "id": 52,
-      "title": "Google's $85 billion capital spend spurred by cloud, AI demand",
-      "summary": "Google is spending $85 billion on tech infrastructure for cloud services and AI, driven by high demand in those areas.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:15:27Z",
-      "url": "https://biztoc.com/x/ea8583d96f7639e0"
-    },
-    {
-      "id": 53,
-      "title": "EU deforestation rules: NZ beef and wood exporters may face extra costs",
-      "summary": "EU deforestation rules could lead to additional costs for NZ beef and wood exporters, according to Minister Todd McClay.",
-      "source": "New Zealand Herald",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:15:07Z",
-      "url": "https://www.nzherald.co.nz/the-country/news/eu-deforestation-rules-nz-beef-and-wood-exporters-may-face-extra-costs/BQKZ6UGXJZEOLO4PAHR7KLL3LU/"
-    },
-    {
-      "id": 54,
-      "title": "UgenticAI Raises $4M to Scale Portfolio of Agentic AI Companies Aimed at Transforming Small Business Operations",
-      "summary": "UgenticAI raises $4M to scale portfolio of Agentic AI companies aimed at transforming small business operations",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-23T23:14:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120702/0/en/UgenticAI-Raises-4M-to-Scale-Portfolio-of-Agentic-AI-Companies-Aimed-at-Transforming-Small-Business-Operations.html"
     }
   ]
 }
