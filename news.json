@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-25T10:18:05.728Z",
+  "lastUpdate": "2025-07-25T10:48:15.886Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Semiconductor startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures",
+      "summary": "Semiconductor startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures to develop edge AI semiconductor technology for IoT products.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T10:47:06Z",
+      "url": "https://economictimes.indiatimes.com/tech/funding/semiconductor-startup-netrasemi-raises-rs-107-crore-from-zoho-unicorn-india-ventures/articleshow/122880826.cms"
+    },
+    {
+      "id": 52,
+      "title": "lightman-ai 0.18.3",
+      "summary": "lightman-ai 0.18.3 is a cybersecurity news aggregator.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T10:46:58Z",
+      "url": "https://pypi.org/project/lightman-ai/0.18.3/"
+    },
+    {
+      "id": 53,
+      "title": "387 Shares in Monolithic Power Systems, Inc. (NASDAQ:MPWR) Purchased by Crestwood Advisors Group LLC",
+      "summary": "Crestwood Advisors Group LLC purchased shares in Monolithic Power Systems, Inc. during the 1st quarter, as disclosed in their recent 13F filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:46:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/387-shares-in-monolithic-power-systems-inc-nasdaqmpwr-purchased-by-crestwood-advisors-group-llc/"
+    },
+    {
+      "id": 54,
+      "title": " Nepal’s Education CRISIS: Is the Government Failing Students? ",
+      "summary": "Nepal's Education CRISIS: Frustrated MP criticizes government over Tribhuvan University issues and education system failures.",
+      "source": "Nep123.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T10:44:51Z",
+      "url": "https://nep123.com/%f0%9f%94%a5-nepals-education-crisis-is-the-government-failing-students-%f0%9f%98%a1/"
+    },
+    {
+      "id": 55,
+      "title": "Businesses are potentially missing out on millions by not embracing AI",
+      "summary": "Businesses in the UK are potentially missing out on millions in revenue by not fully embracing AI, with half of them losing 5% of their monthly revenue as a result.",
+      "source": "TechRadar",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:44:29Z",
+      "url": "https://www.techradar.com/pro/businesses-are-potentially-missing-out-on-millions-by-not-embracing-ai"
+    },
+    {
+      "id": 56,
+      "title": "DebitMyData Closes Oversubscribed Seed Round- Launches $1B Human Energy Grid Global Expansion",
+      "summary": "DebitMyData closes oversubscribed seed round and launches $1B global expansion for Human Energy Grid. Seed raise exceeds target, positioning DebitMyData for global partnerships and licensing with Digital Identity LLM.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T10:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120884/0/en/DebitMyData-Closes-Oversubscribed-Seed-Round-Launches-1B-Human-Energy-Grid-Global-Expansion.html"
+    },
+    {
+      "id": 57,
+      "title": "Google Earnings, Google Flips the Switch on Cloud, Search Notes",
+      "summary": "Google doubles down on AI in the cloud",
+      "source": "Stratechery.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:43:40Z",
+      "url": "https://stratechery.com/2025/google-earnings-google-flips-the-switch-on-cloud-search-notes/"
+    },
+    {
+      "id": 58,
+      "title": "dv-pipecat-ai 0.0.74.dev595",
+      "summary": "dv-pipecat-ai 0.0.74.dev595 is an open source framework for voice (and multimodal) assistants.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T10:43:31Z",
+      "url": "https://pypi.org/project/dv-pipecat-ai/0.0.74.dev595/"
+    },
+    {
+      "id": 59,
+      "title": "Teclast P50AI (11\" 90Hz, Android 15, 6GB/128GB, Widevine L1, Video Out) $81.99 (~A$125.29) Shipped @ Teclast Official AliExpress",
+      "summary": "Teclast P50AI Android tablet is on sale for $81.99, making it about A$20 cheaper than previous price.",
+      "source": "Ozbargain.com.au",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:43:07Z",
+      "url": "https://www.ozbargain.com.au/node/916876"
+    },
+    {
+      "id": 60,
+      "title": "Morning Bid: Trade relief, business lift and market high",
+      "summary": "Hopes for a U.S.-Europe trade deal and signs of rebounding market contribute to trade relief, business lift, and market high in the US and global markets today.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T10:42:07Z",
+      "url": "https://finance.yahoo.com/news/morning-bid-trade-relief-business-104207912.html"
+    },
+    {
+      "id": 61,
+      "title": "WhatsApp expands Meta AI voice chat, giving users more ways to interact",
+      "summary": "WhatsApp is expanding Meta AI voice chat options, bringing it more in line with competitors like ChatGPT and Google Gemini.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-24T10:42:01Z",
+      "url": "https://www.neowin.net/news/whatsapp-expands-meta-ai-voice-chat-giving-users-more-ways-to-interact/"
+    },
     {
       "id": 51,
       "title": "Europe Data Center Dielectric Fluid Market Research Report 2024-2034 | Rising Adoption of Single-phase and Two-phase Dielectric Fluids for High-density Server Cooling",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T08:45:09Z",
       "url": "https://www.etfdailynews.com/2025/07/24/ignite-planners-llc-has-257000-stake-in-accenture-plc-nyseacn/"
-    },
-    {
-      "id": 57,
-      "title": "memory-agent 1.0.4",
-      "summary": "Memory-agent 1.0.4 is a Python library designed for advanced memory management in AI agent applications, offering improved functionality for developers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:44:29Z",
-      "url": "https://pypi.org/project/memory-agent/1.0.4/"
-    },
-    {
-      "id": 58,
-      "title": "GW&K Investment Management LLC Has $48,000 Stock Position in Insight Enterprises, Inc. (NASDAQ:NSIT)",
-      "summary": "GW&K Investment Management LLC reduced its stock position in Insight Enterprises, Inc. by 65.3% during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:43:07Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/gwk-investment-management-llc-has-48000-stock-position-in-insight-enterprises-inc-nasdaqnsit/"
-    },
-    {
-      "id": 59,
-      "title": "High Purity Quartz (HPQ) Strategic Research Report 2025 | Market to Reach $1.3 Billion by 2030 - Geopolitical Tensions and Export Controls Pose Risks to HPQ Trade Flows and International Sourcing",
-      "summary": "High Purity Quartz (HPQ) market expected to reach $1.3 billion by 2030, but geopolitical tensions and export controls could impact trade flows. HPQ is critical for semiconductors and electronics, with limited supply locations causing concerns.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:43:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120807/28124/en/High-Purity-Quartz-HPQ-Strategic-Research-Report-2025-Market-to-Reach-1-3-Billion-by-2030-Geopolitical-Tensions-and-Export-Controls-Pose-Risks-to-HPQ-Trade-Flows-and-International-.html"
-    },
-    {
-      "id": 60,
-      "title": "New Microsoft Copilot Notebooks : AI Notes That Think for You – (NotebookLM Alternative)",
-      "summary": "New Microsoft Copilot Notebooks enable notes to think for users, creating a workspace where files, ideas, and research collaborate to simplify workload.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:42:48Z",
-      "url": "https://www.geeky-gadgets.com/microsoft-copilot-notebooks-ai/"
-    },
-    {
-      "id": 61,
-      "title": "Trump's AI plans include a time bomb for tech companies",
-      "summary": "The Trump administration's new AI Action Plan offers industry support to compete with China but also includes a controversial provision dictating how chatbots handle political issues, creating an ethical dilemma for tech companies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T08:42:01Z",
-      "url": "https://biztoc.com/x/1e1aca2cdd6008ad"
-    },
-    {
-      "id": 62,
-      "title": "memory-agent 1.0.3",
-      "summary": "memory-agent 1.0.3 is a Python library designed for advanced memory management in AI agent applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:41:35Z",
-      "url": "https://pypi.org/project/memory-agent/1.0.3/"
-    },
-    {
-      "id": 63,
-      "title": "GW&K Investment Management LLC Buys 37 Shares of CrowdStrike (NASDAQ:CRWD)",
-      "summary": "GW&K Investment Management LLC increased its stake in CrowdStrike by 28.2% during the first quarter, reflecting confidence in the company's performance and potential growth.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:38:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/gwk-investment-management-llc-buys-37-shares-of-crowdstrike-nasdaqcrwd/"
-    },
-    {
-      "id": 64,
-      "title": "Non-Emergency Medical Transportation Strategic Business Report 2025-2030 | Shift Toward Value-Based Care Encourages Health Systems to Partner with NEMT Providers",
-      "summary": "The non-emergency medical transportation (NEMT) market is experiencing growth due to regulatory changes, expanding insurance coverage, and technological enhancements. Health systems are partnering with NEMT providers to streamline service delivery via digital platforms and enhance patient care.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-24T08:38:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120806/28124/en/Non-Emergency-Medical-Transportation-Strategic-Business-Report-2025-2030-Shift-Toward-Value-Based-Care-Encourages-Health-Systems-to-Partner-with-NEMT-Providers.html"
-    },
-    {
-      "id": 65,
-      "title": "International Business Machines Corporation (NYSE:IBM) Shares Bought by GW&K Investment Management LLC",
-      "summary": "GW&K Investment Management LLC increased its stake in IBM shares by 17.9% in the 1st quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:36:54Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/international-business-machines-corporation-nyseibm-shares-bought-by-gwk-investment-management-llc/"
-    },
-    {
-      "id": 51,
-      "title": "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) Shares Bought by New York State Common Retirement Fund",
-      "summary": "New York State Common Retirement Fund increased its holdings in Grid Dynamics Holdings, Inc., a company focused on AI, by 34.0% in the 1st quarter",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T08:20:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/grid-dynamics-holdings-inc-nasdaqgdyn-shares-bought-by-new-york-state-common-retirement-fund/"
-    },
-    {
-      "id": 52,
-      "title": " Even Wirtz has to laugh: fans stunned by his training ground goal",
-      "summary": "Florian Wirtz impresses fans with a training ground goal during his first sessions with a new club.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T08:20:00Z",
-      "url": "https://onefootball.com/en/news/even-wirtz-has-to-laugh-fans-stunned-by-his-training-ground-goal-41417603"
     }
   ]
 }
