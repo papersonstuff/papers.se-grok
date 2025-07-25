@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-25T07:52:19.459Z",
+  "lastUpdate": "2025-07-25T08:21:38.884Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) Shares Bought by New York State Common Retirement Fund",
+      "summary": "New York State Common Retirement Fund increased its holdings in Grid Dynamics Holdings, Inc., a company focused on AI, by 34.0% in the 1st quarter",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:20:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/grid-dynamics-holdings-inc-nasdaqgdyn-shares-bought-by-new-york-state-common-retirement-fund/"
+    },
+    {
+      "id": 52,
+      "title": " Even Wirtz has to laugh: fans stunned by his training ground goal",
+      "summary": "Florian Wirtz impresses fans with a training ground goal during his first sessions with a new club.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:20:00Z",
+      "url": "https://onefootball.com/en/news/even-wirtz-has-to-laugh-fans-stunned-by-his-training-ground-goal-41417603"
+    },
+    {
+      "id": 53,
+      "title": "Morning news brief",
+      "summary": "The White House is facing pressure to release documents related to the Jeffrey Epstein case. Trump's new AI policies are keeping the focus on tech companies, touching on ethical implications.",
+      "source": "NPR",
+      "category": "ethics",
+      "timestamp": "2025-07-24T08:19:56Z",
+      "url": "https://www.npr.org/2025/07/24/nx-s1-5474088/morning-news-brief"
+    },
+    {
+      "id": 54,
+      "title": "With no guarantee of an EU-U.S. trade deal, Europe keeps its options open",
+      "summary": "With no guarantee of an EU-U.S. trade deal, Europe keeps its options open - A trade agreement between the European Union and U.S. could be imminent, but nothing is guaranteed.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-24T08:18:44Z",
+      "url": "https://www.cnbc.com/2025/07/24/with-no-guarantee-of-an-eu-us-trade-deal-europe-keeps-its-options-open.html"
+    },
+    {
+      "id": 55,
+      "title": "“Whenever we see a small company with a good idea, we’re on fire”: How M&A and innovation keep L’Oréal ahead in global beauty",
+      "summary": "L’Oréal stays ahead in global beauty through mergers and acquisitions and a focus on product innovation, launching 3636 new formulas in 2024.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-24T08:17:00Z",
+      "url": "https://fortune.com/europe/2025/07/24/m-a-innovation-loreal-global-beauty-health-science-barbara-lavernos/"
+    },
+    {
+      "id": 56,
+      "title": "aider-code 0.1.1.post1",
+      "summary": "Aider-code 0.1.1.post1 released by Devflux enables AI pair programming in the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T08:16:32Z",
+      "url": "https://pypi.org/project/aider-code/0.1.1.post1/"
+    },
+    {
+      "id": 57,
+      "title": "ITV Content Boss Spotlights Difficulty Dealing With “Historic” Misconduct Complaints As He Addresses ‘MasterChef’ Scandal",
+      "summary": "In the wake of the MasterChef scandal, the head of content at ITV has spotlighted the difficulty of handling historic misconduct complaints.",
+      "source": "Deadline",
+      "category": "ethics",
+      "timestamp": "2025-07-24T08:13:51Z",
+      "url": "http://deadline.com/2025/07/itv-addresses-masterchef-scandal-love-island-ai-1236466992/"
+    },
+    {
+      "id": 58,
+      "title": "xAI's significant expansion in AI computing capabilities sparks concerns over energy supply",
+      "summary": "xAI's plan to expand AI computing capabilities to 50 million Nvidia H100 GPUs in five years raises concerns over energy supply.",
+      "source": "Digitimes",
+      "category": "research",
+      "timestamp": "2025-07-24T08:13:31Z",
+      "url": "https://www.digitimes.com/news/a20250724PD235/xai-elon-musk-nvidia-h100-gpu.html"
+    },
+    {
+      "id": 59,
+      "title": "Why We Need To Be ‘Rude’ To AI",
+      "summary": "AI does not require polite treatment as it is not sentient, leading to unnecessary use of resources. Being 'rude' to AI can help reduce energy consumption and environmental impact.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-24T08:12:30Z",
+      "url": "https://www.forbes.com/sites/adrianbridgwater/2025/07/24/why-we-need-to-be-rude-to-ai/"
+    },
+    {
+      "id": 60,
+      "title": "Tactical Communication Market Report 2025: Trends, Forecast and Competitive Analysis 2019-2031 - Opportunities in the ISR, Communications, Combat, and Command & Control",
+      "summary": "The global tactical communication market is expected to grow with opportunities in ISR, Communications, Combat, and Command & Control. The report provides trends, forecast, and competitive analysis up to 2031.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-24T08:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120800/28124/en/Tactical-Communication-Market-Report-2025-Trends-Forecast-and-Competitive-Analysis-2019-2031-Opportunities-in-the-ISR-Communications-Combat-and-Command-Control.html"
+    },
+    {
+      "id": 61,
+      "title": "Cinquecento specie di uccelli a rischio nei prossimi 100 anni",
+      "summary": "A study predicts that 500 species of birds are at risk of extinction in the next 100 years. Posterior values from a multi-response MCMCglmm were used to show relationships between pPC values and the frequency of extinction avoidance under different abatement scenarios.",
+      "source": "Il Sole 24 Ore",
+      "category": "research",
+      "timestamp": "2025-07-24T08:09:51Z",
+      "url": "https://www.infodata.ilsole24ore.com/2025/07/24/cinquecento-specie-di-uccelli-a-rischio-nei-prossimi-100-anni/"
+    },
     {
       "id": 51,
       "title": "Why stock market is falling today: Sensex falls over 650 pts, Nifty slips below 25,050; 3 reasons behind the slump",
@@ -351,105 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T06:45:14Z",
       "url": "https://www.zdnet.com/article/i-tested-samsungs-galaxy-watch-8-and-it-kickstarted-my-motivation-to-get-running-again/"
-    },
-    {
-      "id": 59,
-      "title": "Google chief says cloud spend is paying off",
-      "summary": "Google's investment in cloud technology, particularly in artificial intelligence, is proving to be lucrative as their public cloud business grows. They are now setting their sights on conquering the new frontier of agentic search.",
-      "source": "ComputerWeekly.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T06:45:00Z",
-      "url": "https://www.computerweekly.com/news/366627967/Google-chief-says-cloud-spend-is-paying-off"
-    },
-    {
-      "id": 60,
-      "title": "Redefining Smart Buildings Through AI and Low-Carbon Innovation",
-      "summary": "Humanity tends to be hesitant towards embracing major transformations immediately, but AI and low-carbon innovation are redefining smart buildings. Similar to past advancements like the Gutenberg press and urban electrification, fears and skepticism are being overcome to make way for progress in office computerization.",
-      "source": "ArchDaily",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:45:00Z",
-      "url": "https://www.archdaily.com/1032019/redefining-smart-buildings-through-ai-and-low-carbon-innovation"
-    },
-    {
-      "id": 61,
-      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas",
-      "summary": "Donald Trump reveals new AI strategy focusing on global dominance, cutting regulations, and speeding up AI supercomputer construction.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T06:43:06Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/articleshow/122874823.cms"
-    },
-    {
-      "id": 62,
-      "title": "Sam Altman is worried about one kind of tech messing with kids' brains — and it's not AI",
-      "summary": "Sam Altman expresses concern that short video feeds could be negatively impacting children's brain development in a significant way, aside from AI.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-24T06:43:04Z",
-      "url": "https://www.businessinsider.com/sam-altman-social-media-not-ai-warping-kids-brains-2025-7"
-    },
-    {
-      "id": 51,
-      "title": "aider-code 0.1.0.post0",
-      "summary": "aider-code 0.1.0.post0 - Devflux Aider is AI pair programming in your terminal",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T06:22:28Z",
-      "url": "https://pypi.org/project/aider-code/0.1.0.post0/"
-    },
-    {
-      "id": 52,
-      "title": "The rise (or not) of AI ethics officers",
-      "summary": "The rise of AI ethics officers is discussed, with a focus on the importance of integrating AI ethics into organizational structure and decision-making processes to build trust and accountability.",
-      "source": "ComputerWeekly.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T06:22:00Z",
-      "url": "https://www.computerweekly.com/feature/The-rise-or-not-of-AI-ethics-officers"
-    },
-    {
-      "id": 53,
-      "title": "Fixlastmile Releases 2025 Last-Mile Trends Report: Real-Time Tracking Now a Must",
-      "summary": "FixLastMile releases 2025 Last-Mile Trends Report emphasizing the growing need for real-time tracking in delivery systems.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:19:35Z",
-      "url": "https://slashdot.org/submission/17338172/fixlastmile-releases-2025-last-mile-trends-report-real-time-tracking-now-a-must"
-    },
-    {
-      "id": 54,
-      "title": "Google CEO Sundar Pichai Shrugs Off Headling-Grabbing Exits Amid Talent War Hype: 'We Are Doing Very Well'",
-      "summary": "Google CEO Sundar Pichai dismisses concerns about AI talent leaving, stating that the company is still doing well in attracting and retaining top talent.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:17:24Z",
-      "url": "https://biztoc.com/x/6655aa12280419a2"
-    },
-    {
-      "id": 55,
-      "title": "Crypto Rally Stalls—Correction Ahead For XRP, Solana and Top Altcoins or Just Market Noise?",
-      "summary": "The altcoin rally is cooling as Bitcoin trades sideways, with analysts citing short-term fatigue despite a supportive macro backdrop.",
-      "source": "Decrypt",
-      "category": "economy",
-      "timestamp": "2025-07-24T06:16:02Z",
-      "url": "https://decrypt.co/331531/crypto-rally-stalls-correction-ahead-macro-noise"
-    },
-    {
-      "id": 56,
-      "title": "China plans network to sell surplus computing power in crackdown on data centre glut",
-      "summary": "China plans to sell surplus computing power from data centers in efforts to regulate the sector after a building boom.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T06:15:31Z",
-      "url": "https://tech.yahoo.com/computing/articles/china-plans-network-sell-surplus-061531463.html"
-    },
-    {
-      "id": 57,
-      "title": "Synology 2026 Roadmap Plan : New Video Chat App Planned?",
-      "summary": "Synology has revealed plans for a new video chat app as part of its 2026 roadmap, aiming to provide businesses with control over their data while maintaining collaboration, performance, and security. This move challenges the dominance of cloud giants like Google Workspace and Microsoft 365.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:12:38Z",
-      "url": "https://www.geeky-gadgets.com/synology-2026-roadmap/"
     }
   ]
 }
