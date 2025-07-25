@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-25T13:52:35.025Z",
+  "lastUpdate": "2025-07-25T14:15:12.423Z",
   "items": [
+    {
+      "id": 51,
+      "title": "If You See This Message, Your Amazon Account Is Under Attack",
+      "summary": "A new attack targeting Amazon accounts has increased by 5000% in just 2 weeks, putting users at risk. It is important for Amazon users to be aware of this threat and take necessary precautions to safeguard their accounts.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:14:00Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/24/if-you-see-this-message-your-amazon-account-is-under-attack/"
+    },
+    {
+      "id": 52,
+      "title": "Open Deep Research Agent : Unlocks the Future of AI Research",
+      "summary": "Open Deep Research Agent aims to revolutionize AI research by providing a precise and adaptable tool to redefine the approach to complex investigations.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:13:52Z",
+      "url": "https://www.geeky-gadgets.com/open-deep-research-agent-platform/"
+    },
+    {
+      "id": 53,
+      "title": "New York State $400 Inflation Refund Checks: How and when to get refunds? Here’s who is eligible and what is required to get checks",
+      "summary": "New York State residents will receive inflation refund checks of up to $400 to offset sales tax increases caused by inflation, starting mid-October 2025. Eligibility is based on 2023 tax filings, affecting over 8 million people.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:13:48Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/new-york-inflation-refund-checks-2025-tax-refund-state-budget-inflation-relief-sales-tax-refund-eligibility-form-it-201-summer-camp-credit-child-and-dependent-care-credit-irs-programs/articleshow/122885065.cms"
+    },
+    {
+      "id": 54,
+      "title": "Google's AI-Powered Virtual Try-On for Online Shopping Is Now Live",
+      "summary": "Google's AI-Powered Virtual Try-On for Online Shopping is now widely available after being previously limited to Labs users.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:12:59Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178455742"
+    },
+    {
+      "id": 55,
+      "title": "Joe Rogan Says Most Americans Are One Catastrophe Away From Losing Everything, Says AI And UBI Income Will Bring Chaos And Addiction",
+      "summary": "Joe Rogan expresses concerns about the potential negative impacts of AI and UBI income, warning of potential chaos and addiction if not properly managed.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T14:12:12Z",
+      "url": "https://biztoc.com/x/aeef1ca63f103778"
+    },
+    {
+      "id": 56,
+      "title": "Stardock Entertainment Announces Elemental: Reforged",
+      "summary": "Stardock Entertainment announces Elemental: Reforged, a comprehensive remaster of the original Elemental game that promises more than just the usual enhancements.",
+      "source": "Bleeding Cool News",
+      "category": "innovation",
+      "timestamp": "2025-07-24T14:12:03Z",
+      "url": "https://bleedingcool.com/games/stardock-entertainment-announces-elemental-reforged/"
+    },
+    {
+      "id": 57,
+      "title": "North American eShop releases for the week of July 24th, 2025",
+      "summary": "North American eShop releases for the week of July 24th, 2025 - Visit the site to view the full article.",
+      "source": "GoNintendo",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:12:00Z",
+      "url": "https://gonintendo.com/contents/51068-north-american-eshop-releases-for-the-week-of-july-24th-2025"
+    },
+    {
+      "id": 58,
+      "title": "Alphabet Boosted by AI, Cloud Demand as Spending Needs Jump",
+      "summary": "Alphabet Inc. reported increased demand for AI products resulting in a rise in quarterly sales, which in turn necessitated a significant surge in capital spending.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T14:11:58Z",
+      "url": "https://biztoc.com/x/44c25a3af3f68aa3"
+    },
+    {
+      "id": 59,
+      "title": "First AMD Strix Halo handheld gaming PC confirmed — GPD teases Ryzen AI Max+ 395 handheld in performance video",
+      "summary": "First AMD Strix Halo handheld gaming PC confirmed, GPD teases Ryzen AI Max+ 395 handheld in performance video, showcasing a powerful device in a compact form factor. Price eagerly anticipated.",
+      "source": "Tom's Hardware UK",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:11:57Z",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/first-amd-strix-halo-handheld-gaming-pc-confirmed-gpd-teases-ryzen-ai-max-395-handheld-in-performance-video"
+    },
+    {
+      "id": 60,
+      "title": "Elektra Health Wants to Demystify Menopause, Says CEO Jannine Versi",
+      "summary": "Elektra Health aims to demystify menopause with AI-generated voice, CEO Jannine Versi believes women's health topics are often invisible in the American healthcare industry.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T14:11:48Z",
+      "url": "https://biztoc.com/x/b4601a099a79a27b"
+    },
+    {
+      "id": 61,
+      "title": "Dog Owner Checks Doorbell Camera at 3am, Unprepared for What She Sees",
+      "summary": "Aileigh checked her door camera at 3am and was surprised to see her dog sitting outside, with the voice on the camera being AI-generated. Inconsistencies in AI-generated content may lead to unexpected or unusual situations.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T14:11:42Z",
+      "url": "https://biztoc.com/x/16ce0cd628f1b4c8"
+    },
     {
       "id": 51,
       "title": "BP's Castrol Unit Gets One Rock Bid",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T11:45:35Z",
       "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-china-114552980.html"
-    },
-    {
-      "id": 57,
-      "title": "5 AI Certifications For Beginners To Make $100,000+ In 2025",
-      "summary": "5 AI certifications for beginners can help you earn $100,000+ in 2025 without a tech background.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:45:00Z",
-      "url": "https://www.forbes.com/sites/rachelwells/2025/07/24/ai-certifications-for-beginners-to-make-100k/"
-    },
-    {
-      "id": 58,
-      "title": "SAP Q2 2025: 9% revenue growth to €9bn, with steady pace in cloud ERP",
-      "summary": "SAP reported 9% revenue growth to €9bn in Q2 2025, despite economic uncertainty. Cloud ERP revenue increased by 24%.",
-      "source": "ComputerWeekly.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:45:00Z",
-      "url": "https://www.computerweekly.com/news/366628114/SAP-Q2-2025-9-revenue-growth-to-9bn-with-steady-pace-in-cloud-ERP"
-    },
-    {
-      "id": 59,
-      "title": "model-sentinel added to PyPI",
-      "summary": "model-sentinel, a security verification tool for AI model scripts, has been added to PyPI. It can detect and verify changes in Python files of AI models.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T11:44:23Z",
-      "url": "https://pypi.org/project/model-sentinel/"
-    },
-    {
-      "id": 60,
-      "title": "New ChatGPT Agent : Autonomous AI Assistant Helping You Say Goodbye to Tedious Tasks",
-      "summary": "OpenAI has introduced the ChatGPT Agent, an autonomous AI assistant that can help with managing schedules, analyzing data, and writing code with minimal input from the user.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-24T11:43:08Z",
-      "url": "https://www.geeky-gadgets.com/chatgpt-agent-ai-assistant/"
-    },
-    {
-      "id": 61,
-      "title": "PAR Technology Corp (PAR) Continues to Grow Revenue in Q2",
-      "summary": "PAR Technology Corp (PAR) continues to grow revenue in Q2 according to Laughing Water Capital's second-quarter 2025 investor letter.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:43:05Z",
-      "url": "https://finance.yahoo.com/news/par-technology-corp-par-continues-114305382.html"
-    },
-    {
-      "id": 62,
-      "title": "Show HN: Boreal.chat, an open AI chat platform, fast, and reliable",
-      "summary": "Boreal.chat is an open AI chat platform that is fast, reliable, and rich in features. It stands out with its unique combination of technical excellence and user experience.",
-      "source": "Github.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T11:42:32Z",
-      "url": "https://github.com/wosherco/boreal.chat"
-    },
-    {
-      "id": 63,
-      "title": "Tariff Uncertainty Hurt Toy Sales In Q2, Hasbro And Mattel Report",
-      "summary": "Tariff uncertainty led to a decline in toy sales in Q2 for Hasbro and Mattel, as retailers delayed orders worrying about potential tariffs.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:42:01Z",
-      "url": "https://www.forbes.com/sites/joanverdon/2025/07/24/tariff-uncertainty-hurt-toy-sales-in-q2-hasbro-and-mattel-report/"
-    },
-    {
-      "id": 64,
-      "title": "Google Search Central APAC 2025: Everything From Day 2 via @sejournal, @TaylorDanRW",
-      "summary": "The second day of the Google Search Central Live APAC 2025 focused on indexing, with a detailed explanation of how Google parses HTML. Cherry Prommawin provided insights into the indexing process.",
-      "source": "Search Engine Journal",
-      "category": "research",
-      "timestamp": "2025-07-24T11:41:21Z",
-      "url": "https://www.searchenginejournal.com/google-search-central-apac-2025-everything-from-day-two/551941/"
-    },
-    {
-      "id": 65,
-      "title": "Laughing Water Capital’s View on Lifecore Biomedical (LFCR)",
-      "summary": "Laughing Water Capital released its second-quarter 2025 investor letter, including its view on Lifecore Biomedical (LFCR).",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:40:44Z",
-      "url": "https://finance.yahoo.com/news/laughing-water-capital-view-lifecore-114044634.html"
-    },
-    {
-      "id": 51,
-      "title": "Elon Musk floats robots in ‘cute outfits’ while Tesla earnings miss",
-      "summary": "Tesla's Q2 earnings fall short causing stock to dip, despite the successful opening of a retro-themed diner by the company.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:30:55Z",
-      "url": "https://cointelegraph.com/news/tesla-stocks-fall-q2-earnings-miss-elon-musk-robot"
-    },
-    {
-      "id": 52,
-      "title": "Agentic AI systems must have ‘a human in the loop,’ says Google exec",
-      "summary": "Agentic AI systems should have a human oversight to ensure responsible behavior as they become more autonomous.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:30:49Z",
-      "url": "https://fortune.com/2025/07/24/agentic-ai-systems-must-have-human-loop-says-google-exec-cfo/"
     }
   ]
 }
