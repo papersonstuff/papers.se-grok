@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-25T09:19:57.974Z",
+  "lastUpdate": "2025-07-25T09:46:29.661Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Biosimilars Markets Global Forecast Report 2025-2035 | Launch of Glp-1 Biosimilars, Increasing Strategic Partnerships and Collaborations, & Growing Focus on Advanced R&D Fueling Opportunities",
+      "summary": "The global biosimilars market is expected to surge to USD 72.29 billion by 2035, with a CAGR of 7.5% driven by factors such as rising awareness of biosimilar safety, favorable insurance structures, and demand for cost-effective treatments.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T09:44:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120835/28124/en/Biosimilars-Markets-Global-Forecast-Report-2025-2035-Launch-of-Glp-1-Biosimilars-Increasing-Strategic-Partnerships-and-Collaborations-Growing-Focus-on-Advanced-R-D-Fueling-Opportun.html"
+    },
+    {
+      "id": 52,
+      "title": "Sam Altman won't trust ChatGPT with his \"medical fate\" unless a doctor is involved — \"Maybe I'm a dinosaur here\"",
+      "summary": "Sam Altman expresses concerns about ChatGPT's reliability in the healthcare sector and highlights potential dangers of generative AI technology in various professions.",
+      "source": "Windows Central",
+      "category": "ethics",
+      "timestamp": "2025-07-24T09:43:26Z",
+      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/sam-altman-wont-trust-chatgpt-with-his-medical-fate-unless-a-doctor-is-involved"
+    },
+    {
+      "id": 53,
+      "title": "Inside the whisper networks where laid-off coworkers job hunt and commiserate",
+      "summary": "Former coworkers are using invite-only groups to support each other in job searching and sharing job leads.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-24T09:43:01Z",
+      "url": "https://www.businessinsider.com/private-layoff-groups-job-loss-2025-7"
+    },
+    {
+      "id": 54,
+      "title": "Google Chrome Review: Features, Usage, and Competition",
+      "summary": "Read a detailed review of Google Chrome to learn about its features, options, and security protocols before trying it out.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-24T09:41:15Z",
+      "url": "https://www.techradar.com/reviews/google-chrome"
+    },
+    {
+      "id": 55,
+      "title": "farscore added to PyPI",
+      "summary": "farscore added to PyPI - FARScore: A Synthetic Accessibility Predictor based Fragment Assembly autoRegressive pretrain",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-24T09:40:34Z",
+      "url": "https://pypi.org/project/farscore/"
+    },
+    {
+      "id": 56,
+      "title": "Interview Preparation Platforms - Ace Every Interview With OfferGenie’s AI-Powered Copilot Tools (TrendHunter.com)",
+      "summary": "OfferGenie is an AI-powered platform designed to support job seekers through the interview process, offering tools such as resume evaluation, mock interviews, and real-time interview support.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T09:40:05Z",
+      "url": "https://www.trendhunter.com/trends/offergenie"
+    },
+    {
+      "id": 57,
+      "title": "​In transformational year for News24, Jerusha Raath shares most promising growth opps",
+      "summary": "News24 South Africa, led by publisher Jerusha Raath, discusses growth opportunities and transformations in digital media with consultant Mark Challinor.",
+      "source": "The Drum",
+      "category": "innovation",
+      "timestamp": "2025-07-24T09:40:00Z",
+      "url": "https://www.thedrum.com/opinion/2025/07/24/transformational-year-news24-jerusha-raath-shares-most-promising-growth-opps"
+    },
+    {
+      "id": 58,
+      "title": "Amazon, Meta Wear AI-mbitions on Their Wrists",
+      "summary": "Amazon and Meta discontinue their smartwatch projects after initial ambitions in the space.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T09:39:41Z",
+      "url": "https://biztoc.com/x/48cc1bfab6b3951b"
+    },
+    {
+      "id": 59,
+      "title": "US Sends Nuclear Submarine to Pacific Fleet Amid China Threat",
+      "summary": "The United States redeployed a second nuclear-powered submarine—capable of launching long-range Tomahawk missiles—from the East Coast to Hawaii this month, as it moves to position its most-capable units in the Pacific region amid China's perceived threat.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T09:39:04Z",
+      "url": "https://biztoc.com/x/d25c846658fc742b"
+    },
+    {
+      "id": 60,
+      "title": "Rising NATO Ally Unveils its own Hypersonic Missile",
+      "summary": "Turkey has unveiled its first locally developed hypersonic missile as part of six advanced weapons systems during a major fair run by the defense ministry.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T09:39:00Z",
+      "url": "https://biztoc.com/x/dcbccd4ddf03e40a"
+    },
+    {
+      "id": 61,
+      "title": "Marijuana Could Break Your Heart—Literally | Opinion",
+      "summary": "Marijuana use has been linked to heart issues, with recent studies highlighting the risk to mental health.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T09:38:57Z",
+      "url": "https://biztoc.com/x/e43881ccf6f0d7b1"
+    },
+    {
+      "id": 62,
+      "title": "Is AI Killing Google Search? It Might Be Doing the Opposite",
+      "summary": "The world’s dominant search engine is adapting well to the AI age.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T09:38:48Z",
+      "url": "https://biztoc.com/x/d9fb5e6ac4abb7a3"
+    },
     {
       "id": 51,
       "title": "Google Says You Don’t Need AEO Or GEO To Rank In AI Overviews via @sejournal, @martinibuster",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T07:46:01Z",
       "url": "https://www.gadgets360.com/ai/news/google-search-ai-mode-100-million-monthly-active-users-deep-search-gemini-2-5-pro-report-8938980"
-    },
-    {
-      "id": 57,
-      "title": "Traffic Light-Inspired Benches - Muddycap's Traffic Light Bench Mimics a Street Signals (TrendHunter.com)",
-      "summary": "Muddycap's Traffic Light Bench transforms the familiar silhouette of a traffic signal into a playful, three-person bench with sunshade-style seats and arresting backrests.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:44:06Z",
-      "url": "https://www.trendhunter.com/trends/traffic-light-bench"
-    },
-    {
-      "id": 51,
-      "title": "オプト、RTB House Japan主催「Top Agency Award」において3期連続「Silver」を受賞",
-      "summary": "Opt Inc. received the 'Silver' award for the third consecutive time at the Top Agency Award hosted by RTB House Japan.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-24T07:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000001024.000014848.html"
-    },
-    {
-      "id": 52,
-      "title": "AI CROSS、福岡商工会議所の「YOKA-DIGI」パートナー企業に認定",
-      "summary": "AI CROSS has been certified as a partner company of YOKA-DIGI by the Fukuoka Chamber of Commerce. This partnership aims to promote collaboration and innovation in the field of AI technology.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-24T07:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000217.000021834.html"
-    },
-    {
-      "id": 53,
-      "title": "Samsung delays HBM4 rollout to 2026 due to yield challenges, all while SK Hynix strengthens lead in AI memory",
-      "summary": "Samsung delays HBM4 rollout to 2026 due to yield challenges, while SK Hynix strengthens lead in AI memory.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:39:00Z",
-      "url": "https://www.digitimes.com/news/a20250724PD223/samsung-hbm4-production-2026-sk-hynix.html"
-    },
-    {
-      "id": 54,
-      "title": "gllm-inference-binary 0.4.30",
-      "summary": "gllm-inference-binary 0.4.30 is a library for model inferences in Gen AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T07:38:01Z",
-      "url": "https://pypi.org/project/gllm-inference-binary/0.4.30/"
-    },
-    {
-      "id": 55,
-      "title": "Golden visas are shrinking for crypto investors",
-      "summary": "Golden visas for crypto investors are decreasing, limiting their options for residency and tax benefits.",
-      "source": "Cointelegraph",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:37:19Z",
-      "url": "https://cointelegraph.com/news/golden-visas-shrinking-crypto-investors"
-    },
-    {
-      "id": 56,
-      "title": "Lightyear eyes AI opportunity on $28 million fund raise",
-      "summary": "Lightyear has raised $23 million in Series B funding to explore opportunities in bringing artificial intelligence to its platform.",
-      "source": "Finextra",
-      "category": "startups",
-      "timestamp": "2025-07-24T07:35:52Z",
-      "url": "https://www.finextra.com/newsarticle/46344/lightyear-eyes-ai-opportunity-on-28-million-fund-raise"
-    },
-    {
-      "id": 57,
-      "title": "Samsung Galaxy Z Flip 7's Now Bar May Soon Support Up to 35 Apps",
-      "summary": "Samsung Galaxy Z Flip 7 may soon support up to 35 apps on its Galaxy AI-powered Now Bar, with new features enabled by the Android 16-based One UI 8 firmware.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T07:35:48Z",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-z-flip-7-now-bar-35-features-ai-support-2025-report-8938836"
-    },
-    {
-      "id": 58,
-      "title": "First half of 2025: Solid growth, investments and pipeline progress pave the way for two key launches in H2",
-      "summary": "First half of 2025: Solid growth, investments and pipeline progress pave the way for two key launches in H2 - Group net sales grow by 6.3%* to EUR 14.0 billion, driven by Human Pharma and Animal Health Regulatory submissions underway for zongertinib and nerandomilast, with launches expected in H2 2025 Strategic investments in R&D.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:35:47Z",
-      "url": "https://financialpost.com/globe-newswire/first-half-of-2025-solid-growth-investments-and-pipeline-progress-pave-the-way-for-two-key-launches-in-h2"
-    },
-    {
-      "id": 59,
-      "title": "Google just spent $14 billion on servers in 91 days, plans even higher spending soon",
-      "summary": "Google has increased its capex budget to $85 billion this year, with plans for even higher spending in 2026. The investment is driven by the growth in AI technology, which is creating a new generation of Google-eyed youth.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T07:35:24Z",
-      "url": "https://biztoc.com/x/9c4c4130313d0639"
-    },
-    {
-      "id": 60,
-      "title": "Proposal: Responsible AI workflow for creating new documentation for WordPress 6.9",
-      "summary": "Proposal for responsible AI workflow to create new documentation for WordPress 6.9 to improve contributor experience and efficiency.",
-      "source": "Wordpress.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T07:34:41Z",
-      "url": "https://make.wordpress.org/docs/2025/07/24/proposal-responsible-ai-workflow-for-creating-new-documentation-for-wordpress-6-9/"
-    },
-    {
-      "id": 51,
-      "title": "How Google and OpenAI’s AI Models Won Gold at the 2025 Math Olympiad",
-      "summary": "At the 2025 International Mathematical Olympiad, Google's DeepMind Gemini and OpenAI's language model won gold, showcasing the advancements of AI in solving complex mathematical problems.",
-      "source": "Geeky Gadgets",
-      "category": "research",
-      "timestamp": "2025-07-24T07:18:33Z",
-      "url": "https://www.geeky-gadgets.com/ai-wins-gold-math-olympiad-2025/"
     }
   ]
 }
