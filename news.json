@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-25T01:18:28.258Z",
+  "lastUpdate": "2025-07-25T03:14:30.412Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Sydney Sweeney Stars in American Eagle Fall 25 Campaign",
+      "summary": "Sydney Sweeney stars in American Eagle's Fall 2025 campaign, showcasing over 800 new fall styles including a variety of denim options.",
+      "source": "Just Jared",
+      "category": "applications",
+      "timestamp": "2025-07-24T03:12:34Z",
+      "url": "https://www.justjared.com/2025/07/23/sydney-sweeney-stars-in-american-eagle-fall-25-campaign/"
+    },
+    {
+      "id": 52,
+      "title": "A Preview of Things to Come",
+      "summary": "Preview of upcoming trends in AI-related fields such as database marketing, data mining, analytics, big data, forecasting, segmentation, predictive modeling, and measurement.",
+      "source": "Minethatdata.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T03:10:00Z",
+      "url": "https://blog.minethatdata.com/2025/07/a-preview-of-things-to-come.html"
+    },
+    {
+      "id": 53,
+      "title": "AWS closes China AI research center, citing boilerplate 'business priorities'",
+      "summary": "AWS closes China AI research center in Shanghai",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T03:08:43Z",
+      "url": "https://biztoc.com/x/5ede078e743b2b6a"
+    },
+    {
+      "id": 54,
+      "title": "SkillLink 0.2.1",
+      "summary": "SkillLink 0.2.1 is a modern manager for AI skills, tools, loading, execution, and automation, aimed at improving the efficiency of AI workflows.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T03:07:02Z",
+      "url": "https://pypi.org/project/skilllink/0.2.1/"
+    },
+    {
+      "id": 55,
+      "title": "SK hynix posts record profits on surging AI demand",
+      "summary": "SK hynix saw record profits as demand for AI-related products surged",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-24T03:06:56Z",
+      "url": "https://www.livemint.com/companies/company-results/sk-hynix-posts-record-profits-on-surging-ai-demand-11753326417393.html"
+    },
+    {
+      "id": 56,
+      "title": "Trump gets aggressive with new US AI action plan",
+      "summary": "The Trump administration is taking aggressive action with a new US AI action plan to win the global artificial intelligence race, focusing on exporting US-developed AI, enabling innovation and adoption, and promoting a speedy buildout of data.",
+      "source": "Computerworld",
+      "category": "economy",
+      "timestamp": "2025-07-24T03:06:33Z",
+      "url": "https://www.computerworld.com/article/4027726/trump-gets-aggressive-with-new-us-ai-action-plan.html"
+    },
+    {
+      "id": 57,
+      "title": "The 5 biggest takeaways from Tesla's Q2 earnings call",
+      "summary": "Elon Musk warns about a 'rough' few quarters during Tesla's Q2 earnings call, while also sharing updates on robotaxis and the 'more affordable' Tesla model.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-24T03:03:49Z",
+      "url": "https://www.businessinsider.com/five-big-takeaways-from-tesla-second-quarter-earnings-call-2025-7"
+    },
+    {
+      "id": 58,
+      "title": "Centene (CNC) Reports Earnings Tomorrow: What To Expect",
+      "summary": "Health coverage company Centene (NYSE:CNC) will be reporting earnings this Friday before market open.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T03:02:59Z",
+      "url": "https://finance.yahoo.com/news/centene-cnc-reports-earnings-tomorrow-030259814.html"
+    },
+    {
+      "id": 59,
+      "title": "Charter Earnings: What To Look For From CHTR",
+      "summary": "Charter (NASDAQ:CHTR) will be reporting earnings this Friday, providing insight into the performance of the cable, internet, and telephone services sector.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T03:02:57Z",
+      "url": "https://finance.yahoo.com/news/charter-earnings-look-chtr-030257142.html"
+    },
+    {
+      "id": 60,
+      "title": "HCA Healthcare (HCA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "summary": "HCA Healthcare is set to report Q2 earnings, providing insight into the financial health of the hospital operator amidst the ongoing pandemic.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T03:02:21Z",
+      "url": "https://finance.yahoo.com/news/hca-healthcare-hca-reports-q2-030221128.html"
+    },
+    {
+      "id": 61,
+      "title": "【開催レポート】ジーズ開校10周年記念シンポジウム「Bring Back the Garage」",
+      "summary": "The symposium 'Bring Back the Garage' was held to commemorate the 10th anniversary of the opening of Gee's Academy, focusing on AI-related topics.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-24T03:00:34Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000002551.000000496.html"
+    },
     {
       "id": 51,
       "title": "Is PayPal’s New Fiat Platform a Stablecoin Killer?",
@@ -351,105 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-23T23:14:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/23/3120702/0/en/UgenticAI-Raises-4M-to-Scale-Portfolio-of-Agentic-AI-Companies-Aimed-at-Transforming-Small-Business-Operations.html"
-    },
-    {
-      "id": 55,
-      "title": "AWS reportedly shutters AI research lab in Shanghai",
-      "summary": "AWS reportedly shutters AI research lab in Shanghai - Amazon Web Services Inc. has reportedly closed an artificial intelligence lab that it operated in Shanghai. The Financial Times reported the move today.",
-      "source": "SiliconANGLE News",
-      "category": "research",
-      "timestamp": "2025-07-23T23:12:30Z",
-      "url": "https://siliconangle.com/2025/07/23/aws-reportedly-shutters-ai-research-lab-shanghai/"
-    },
-    {
-      "id": 56,
-      "title": "Soundcore by Anker P20i True Wireless Earbuds $27.99@Amazon",
-      "summary": "Soundcore by Anker P20i True Wireless Earbuds on sale at Amazon for $27.99 and receive positive reviews for their sound quality and bass performance.",
-      "source": "Ozbargain.com.au",
-      "category": "applications",
-      "timestamp": "2025-07-23T23:11:17Z",
-      "url": "https://www.ozbargain.com.au/node/916765"
-    },
-    {
-      "id": 57,
-      "title": "Slow Letter: July 24, 2025.",
-      "summary": "Resignation of Kang Sun-woo and Japan settling on 15% general tariff are impacting South Korea's economy. The article also discusses the issue of rice and beef imports, as well as potential problems with Lee Jae-myung's personnel system.",
-      "source": "Slownews.kr",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:10:49Z",
-      "url": "https://slownews.kr/141961"
-    },
-    {
-      "id": 58,
-      "title": "saksin added to PyPI",
-      "summary": "PyPI now offers Saksin SDK for querying the Saksin AI chunked retrieval API",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-23T23:10:11Z",
-      "url": "https://pypi.org/project/saksin/"
-    },
-    {
-      "id": 59,
-      "title": "Ozzy Osbourne ‘was in peace’ in the final days before his heartbreaking death: report",
-      "summary": "Ozzy Osbourne reportedly found peace in his final days before his death as he and his wife moved to England for their 'final chapter' amidst his declining health.",
-      "source": "Page Six",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:08:24Z",
-      "url": "https://pagesix.com/2025/07/23/celebrity-news/ozzy-osbourne-in-peace-in-the-final-days-before-his-death/"
-    },
-    {
-      "id": 60,
-      "title": "Trump Weighed Nvidia Breakup But Was Told It’d Be ‘Hard’",
-      "summary": "President Trump considered breaking up Nvidia Corp. to increase competition in AI chips, but was advised it would be difficult. This raises ethical questions about government intervention in the technology industry.",
-      "source": "Livemint",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:08:01Z",
-      "url": "https://www.livemint.com/companies/news/trump-weighed-nvidia-breakup-but-was-told-it-d-be-hard-11753312081692.html"
-    },
-    {
-      "id": 61,
-      "title": "Google's $85 billion capital spend spurred by cloud, AI demand",
-      "summary": "Google plans to spend $85 billion on tech infrastructure to meet demand for cloud and AI services, driving its capital investment.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-23T23:07:52Z",
-      "url": "https://www.cnbc.com/2025/07/23/googles-85-billion-capital-spend-spurred-by-cloud-ai-demand.html"
-    },
-    {
-      "id": 62,
-      "title": "50 Cent and Rick Ross Beef Over Accusations of Kissing a Man",
-      "summary": "50 Cent and Rick Ross beef over accusations of kissing a man, raising ethical considerations around public perception and LGBTQ+ stigma.",
-      "source": "XXLMAG.COM",
-      "category": "ethics",
-      "timestamp": "2025-07-23T23:07:23Z",
-      "url": "https://www.xxlmag.com/50-cent-rick-ross-accusations-kissing-man/"
-    },
-    {
-      "id": 63,
-      "title": "hanzo-memory added to PyPI",
-      "summary": "hanzo-memory has been added to PyPI, providing an AI memory service with FastAPI and MCP support.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:07:00Z",
-      "url": "https://pypi.org/project/hanzo-memory/"
-    },
-    {
-      "id": 64,
-      "title": "AI and the great digital agency unbundling",
-      "summary": "AI is leading to a shift in the digital agency landscape, moving from manual processes to more efficient automated tools. While expertise is still needed to maximize the benefits of AI, the reliance on traditional methods is decreasing.",
-      "source": "Dri.es",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:06:04Z",
-      "url": "https://dri.es/ai-and-the-great-digital-agency-unbundling"
-    },
-    {
-      "id": 65,
-      "title": "teraace-tracker added to PyPI",
-      "summary": "teraace-tracker, a Python library for tracking AI agent events, has been added to PyPI to support LangChain, CrewAI, and AutoGPT frameworks.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-23T23:05:50Z",
-      "url": "https://pypi.org/project/teraace-tracker/"
     }
   ]
 }
