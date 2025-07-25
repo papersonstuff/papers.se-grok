@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-25T12:32:46.793Z",
+  "lastUpdate": "2025-07-25T13:23:58.554Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Tech industry layoffs hit 100,000 for 2025 — Intel leading the pack with over 12,000 personnel cut, so far",
+      "summary": "Tech industry layoffs have reached 100,000 for 2025, with Intel leading the pack by cutting over 12,000 positions. Microsoft and Meta have also reduced their workforce by 10,000 and 8,000 people respectively.",
+      "source": "Tom's Hardware UK",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:23:33Z",
+      "url": "https://www.tomshardware.com/tech-industry/tech-industry-layoffs-hit-100-000-for-2025-intel-leading-the-pack-with-over-12-000-personnel-cut-so-far"
+    },
+    {
+      "id": 52,
+      "title": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’",
+      "summary": "Tesla stock sells off as Elon Musk scraps 2025 sales growth target and warns of challenging quarters ahead, with lack of specific details on robotaxi service with only 7,000 driverless miles logged.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:23:27Z",
+      "url": "https://fortune.com/2025/07/24/elon-musk-tesla-earnings-guidance/"
+    },
+    {
+      "id": 53,
+      "title": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’",
+      "summary": "Tesla sells off after Elon Musk scraps his 2025 sales growth target and warns ‘we could have a few rough quarters’ - The Tesla CEO hosted an earnings call once more long on promises and short on specifics, especially regarding his month-old robotaxi service that has logged.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:23:27Z",
+      "url": "https://finance.yahoo.com/news/tesla-sells-off-elon-musk-132327705.html"
+    },
+    {
+      "id": 54,
+      "title": "internutopia added to PyPI",
+      "summary": "internutopia has been added to PyPI, making it easier to use omniverse isaac sim standalone package.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T13:22:49Z",
+      "url": "https://pypi.org/project/internutopia/"
+    },
+    {
+      "id": 55,
+      "title": "Open Channels FM: Managing Team Growth and Delegation in WordPress Plugin Businesses",
+      "summary": "In this episode of WP Behind the Builds series, Maarten Belmans of Studio Wombat discusses managing team growth and delegation in WordPress plugin businesses, sharing his journey from leaving a cushy IT consulting job to traveling.",
+      "source": "Openchannels.fm",
+      "category": "startups",
+      "timestamp": "2025-07-24T13:22:10Z",
+      "url": "https://openchannels.fm/managing-team-growth-and-delegation-in-wordpress-plugin-businesses/"
+    },
+    {
+      "id": 56,
+      "title": "Kubur u EM Market iaki jingduna ha ki iew ba pyniaid ka JHADC",
+      "summary": "The Jaintia Hills Autonomous District Council Executive Member, Seiborlang Shadap, introduced a motion to regulate AI in the market to ensure fair practices and ethical standards.",
+      "source": "Syllad.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T13:21:47Z",
+      "url": "https://www.syllad.com/kubur-u-em-market-iaki-jingduna-ha-ki-iew-ba-pyniaid-ka-jhadc/"
+    },
+    {
+      "id": 57,
+      "title": "Broker’s call: Persistent Systems (Buy)",
+      "summary": "Persistent Systems' growth below estimates causing concerns of a slowdown, but balanced portfolio and AI-led platform approach offer potential for growth.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-24T13:21:04Z",
+      "url": "https://www.thehindubusinessline.com/markets/brokers-call-persistent-systems-buy/article69850737.ece"
+    },
+    {
+      "id": 58,
+      "title": "livekit-plugins-resemble 1.2.2",
+      "summary": "The livekit-plugins-resemble 1.2.2 update includes the LiveKit Agents Plugin for Resemble AI, allowing for more advanced AI capabilities in live streaming applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T13:20:45Z",
+      "url": "https://pypi.org/project/livekit-plugins-resemble/1.2.2/"
+    },
+    {
+      "id": 59,
+      "title": "ET Soonicorns Summit 2025: Forging a digital India for a billion people with AI for Bharat",
+      "summary": "ET Soonicorns Summit 2025 will explore how localised data centres can enable 'AI for Bharat', as India races to scale its AI capabilities.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T13:20:32Z",
+      "url": "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-summit-2025-forging-a-digital-india-for-a-billion-people-with-ai-for-bharat/articleshow/122884331.cms"
+    },
+    {
+      "id": 60,
+      "title": "livekit-agents 1.2.2",
+      "summary": "livekit-agents 1.2.2 is a powerful framework designed for building real-time voice AI agents, offering the capabilities to create advanced voice applications. This technology can be applied in various industries and sectors that require voice-based AI solutions.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T13:19:43Z",
+      "url": "https://pypi.org/project/livekit-agents/1.2.2/"
+    },
+    {
+      "id": 61,
+      "title": "Trader AI: This Trader AI App Sets New Standard in AI-Driven Trading with Unmatched Security and User Approval",
+      "summary": "Trader AI app sets new standard in AI-driven trading with unmatched security and user approval, leading the way in safe, automated crypto trading around the world.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-24T13:19:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121163/0/en/Trader-AI-This-Trader-AI-App-Sets-New-Standard-in-AI-Driven-Trading-with-Unmatched-Security-and-User-Approval.html"
+    },
+    {
+      "id": 62,
+      "title": "demiurg 0.1.25",
+      "summary": "demiurg 0.1.25 is an AI Agent Framework that allows for the development of intelligent agents using multiple LLM providers.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T13:17:05Z",
+      "url": "https://pypi.org/project/demiurg/0.1.25/"
+    },
+    {
+      "id": 63,
+      "title": "Caller Wants To Combine Finances Before Marriage. Dave Ramsey Replies, 'She Likes Her Rental Property More Than She Likes You'",
+      "summary": "Dave Ramsey suggests that the caller's girlfriend values her rental property more than their relationship, highlighting potential ethical concerns surrounding financial priorities in a marriage.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-24T13:16:13Z",
+      "url": "https://finance.yahoo.com/news/caller-wants-combine-finances-marriage-131613359.html"
+    },
+    {
+      "id": 64,
+      "title": "Elon Musk set to revive Vine but with an AI twist. Could this be a YouTube killer?",
+      "summary": "Elon Musk plans to relaunch Vine with artificial intelligence, potentially posing a threat to YouTube. Vine was known for its six-second looping videos before shutting down in 2016. The revival will be driven by AI technology.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T13:15:57Z",
+      "url": "https://economictimes.indiatimes.com/tech/internet/elon-musk-set-to-revive-vine-but-with-an-ai-twist-could-this-be-a-youtube-killer/articleshow/122886605.cms"
+    },
     {
       "id": 51,
       "title": "AI Image Enhancers - ProMediafy Turns Product Photos Into Studio-Quality Marketing Assets (TrendHunter.com)",
@@ -324,132 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-24T11:30:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/24/3120943/0/en/NETCLASS-TECHNOLOGY-INC-Establishes-a-Singapore-Subsidiary-to-Drive-Global-AI-Business-Expansion.html"
-    },
-    {
-      "id": 63,
-      "title": "Oral Cancer Rapid Test Kits Business Report 2025 | Market to Reach $1.2 Billion by 2030 - Advancements in Biomarker Identification Propel Development of High-Specificity Rapid Test Kits",
-      "summary": "Oral cancer rapid test kits are projected to reach $1.2 billion by 2030, driven by advancements in biomarker identification leading to high-specificity tests. The kits offer opportunities for early diagnosis through non-invasive, saliva-based detection technologies, especially in high-risk regions.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-24T11:29:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120946/28124/en/Oral-Cancer-Rapid-Test-Kits-Business-Report-2025-Market-to-Reach-1-2-Billion-by-2030-Advancements-in-Biomarker-Identification-Propel-Development-of-High-Specificity-Rapid-Test-Kits.html"
-    },
-    {
-      "id": 64,
-      "title": "Nvidia CEO Jensen Huang calls Trump 'America's unique advantage' because he's ramping up US energy",
-      "summary": "Nvidia CEO sees Trump as America's unique advantage for ramping up US energy, which can lead to more AI 'factories'.",
-      "source": "PC Gamer",
-      "category": "economy",
-      "timestamp": "2025-07-24T11:28:17Z",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-calls-trump-americas-unique-advantage-because-hes-ramping-up-us-energy/"
-    },
-    {
-      "id": 65,
-      "title": "Show HN: An AI tool that filters high-quality info from the noise",
-      "summary": "An AI tool has been developed to filter high-quality information from the noise, addressing the issue of overwhelming content creation by generative AI.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T11:26:44Z",
-      "url": "https://github.com/cctv2206/mimir-opensource"
-    },
-    {
-      "id": 66,
-      "title": "“Divorce Will Do That To You”: Sacha Baron Cohen’s Ripped Transformation Absolutely Floors Fans",
-      "summary": "Sacha Baron Cohen's fitness secrets and transformation revealed as he graces the cover of Men’s Fitness UK.",
-      "source": "Boredpanda.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T11:26:14Z",
-      "url": "https://www.boredpanda.com/sacha-baron-cohen-fitness-transformation-stuns-fans/"
-    },
-    {
-      "id": 67,
-      "title": "Show HN: Digital Twin Proxy – Turn web browsing into memory for AI agents",
-      "summary": "I built Digital Twin Proxy as an open-source tool that logs web browsing and uses a local LLM to generate an analysis of browsing patterns, creating a 'digital twin' for online activity.",
-      "source": "Github.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T11:25:36Z",
-      "url": "https://github.com/kstonekuan/digital-twin-proxy"
-    },
-    {
-      "id": 68,
-      "title": "Alterity Therapeutics Announces Publication on Novel MRI Endpoint from the bioMUSE Natural History Study",
-      "summary": "Alterity Therapeutics published a study in the Annals of Clinical and Translational Neurology showcasing the MSA Atrophy Index, a novel MRI endpoint developed to diagnose and monitor disease progression in Multiple System Atrophy.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-24T11:25:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120939/0/en/Alterity-Therapeutics-Announces-Publication-on-Novel-MRI-Endpoint-from-the-bioMUSE-Natural-History-Study.html"
-    },
-    {
-      "id": 51,
-      "title": "Goldendoodle Has 'Summer Haircut'—Internet Not Prepared for Result",
-      "summary": "A dog owner's sharing of her goldendoodle's summer haircut transformation has gone viral on TikTok, wowing the internet.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T11:13:57Z",
-      "url": "https://biztoc.com/x/3dc539a697f43c73"
-    },
-    {
-      "id": 52,
-      "title": "Turquoise Alert Issued For 6-Year-Old Girl in Arizona",
-      "summary": "A Turquoise Alert has been issued for a 6-year-old girl in Arizona, with the voice being AI-generated. Inconsistencies may occur with the AI-generated voice, raising ethical concerns about using such technology in critical situations.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T11:13:38Z",
-      "url": "https://biztoc.com/x/8f85276e1deff04b"
-    },
-    {
-      "id": 53,
-      "title": "Millions of Americans Face 'Dangerous' Conditions Hotter Than Death Valley",
-      "summary": "Millions of Americans were expected to experience hotter conditions than Death Valley, with the National Weather Service issuing heat-related warnings. Voice is being used to convey the AI-generated news, with potential inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T11:13:29Z",
-      "url": "https://biztoc.com/x/dcc56d033cbf011b"
-    },
-    {
-      "id": 51,
-      "title": "Semiconductor startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures",
-      "summary": "Semiconductor startup Netrasemi raises Rs 107 crore from Zoho, Unicorn India Ventures to develop edge AI semiconductor technology for IoT products.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-24T10:47:06Z",
-      "url": "https://economictimes.indiatimes.com/tech/funding/semiconductor-startup-netrasemi-raises-rs-107-crore-from-zoho-unicorn-india-ventures/articleshow/122880826.cms"
-    },
-    {
-      "id": 52,
-      "title": "lightman-ai 0.18.3",
-      "summary": "lightman-ai 0.18.3 is a cybersecurity news aggregator.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T10:46:58Z",
-      "url": "https://pypi.org/project/lightman-ai/0.18.3/"
-    },
-    {
-      "id": 53,
-      "title": "387 Shares in Monolithic Power Systems, Inc. (NASDAQ:MPWR) Purchased by Crestwood Advisors Group LLC",
-      "summary": "Crestwood Advisors Group LLC purchased shares in Monolithic Power Systems, Inc. during the 1st quarter, as disclosed in their recent 13F filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-24T10:46:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/24/387-shares-in-monolithic-power-systems-inc-nasdaqmpwr-purchased-by-crestwood-advisors-group-llc/"
-    },
-    {
-      "id": 54,
-      "title": " Nepal’s Education CRISIS: Is the Government Failing Students? ",
-      "summary": "Nepal's Education CRISIS: Frustrated MP criticizes government over Tribhuvan University issues and education system failures.",
-      "source": "Nep123.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T10:44:51Z",
-      "url": "https://nep123.com/%f0%9f%94%a5-nepals-education-crisis-is-the-government-failing-students-%f0%9f%98%a1/"
-    },
-    {
-      "id": 55,
-      "title": "Businesses are potentially missing out on millions by not embracing AI",
-      "summary": "Businesses in the UK are potentially missing out on millions in revenue by not fully embracing AI, with half of them losing 5% of their monthly revenue as a result.",
-      "source": "TechRadar",
-      "category": "economy",
-      "timestamp": "2025-07-24T10:44:29Z",
-      "url": "https://www.techradar.com/pro/businesses-are-potentially-missing-out-on-millions-by-not-embracing-ai"
     }
   ]
 }
