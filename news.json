@@ -1,6 +1,69 @@
 {
-  "lastUpdate": "2025-07-25T07:42:35.314Z",
+  "lastUpdate": "2025-07-25T07:52:19.459Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Why stock market is falling today: Sensex falls over 650 pts, Nifty slips below 25,050; 3 reasons behind the slump",
+      "summary": "Indian benchmark indices fell over 650 points, with IT stocks leading the losses due to disappointing Q1 results and a subdued global outlook.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:49:52Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-falling-today-sensex-falls-over-650-pts-nifty-slips-below-25050-3-reasons-behind-the-slump/articleshow/122876302.cms"
+    },
+    {
+      "id": 52,
+      "title": "Amazon salary filings reveal Rs 2.3 crore pay for H-1B software engineers",
+      "summary": "Amazon is offering H-1B software engineers salaries of up to $263,700, as revealed in mandatory filings, excluding equity. The substantial salaries are being provided to foreign hires for software engineering and other roles under O-1 and H-1B visas.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:49:03Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-salary-filings-reveal-rs-2-3-crore-pay-for-h-1b-software-engineers/articleshow/122874996.cms"
+    },
+    {
+      "id": 53,
+      "title": "Google removes nearly 11,000 YouTube channels tied to influence campaigns by the PRC and Russia",
+      "summary": "Google removes nearly 11,000 YouTube channels tied to influence campaigns by the PRC and Russia in an effort to combat coordinated influence operations.",
+      "source": "Notebookcheck.net",
+      "category": "ethics",
+      "timestamp": "2025-07-24T07:49:00Z",
+      "url": "https://www.notebookcheck.net/Google-removes-nearly-11-000-YouTube-channels-tied-to-influence-campaigns-by-the-PRC-and-Russia.1065729.0.html"
+    },
+    {
+      "id": 54,
+      "title": "ChatGPT 2 Prompt Blueprint to Learning Anything Faster",
+      "summary": "ChatGPT 2 is a prompt blueprint that can help individuals learn anything faster by adapting to their unique learning styles, explaining complex topics like neural networks or calculus, and adjusting its teaching approach based on their progress.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-24T07:48:14Z",
+      "url": "https://www.geeky-gadgets.com/chatgpt-personalized-ai-tutor/"
+    },
+    {
+      "id": 55,
+      "title": "Google commits to Home upgrades following major backlash",
+      "summary": "Google commits to Home upgrades following major backlash from customers, issuing an apology for the changes made to the product line.",
+      "source": "Neowin",
+      "category": "startups",
+      "timestamp": "2025-07-24T07:46:01Z",
+      "url": "https://www.neowin.net/news/google-commits-to-home-upgrades-following-major-backlash/"
+    },
+    {
+      "id": 56,
+      "title": "Google's AI Mode in Search Hits Major Milestone, New Features Coming",
+      "summary": "Google's AI Mode in Search has over 100 million monthly active users in the US and India, with new features on the way.",
+      "source": "Gadgets360.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T07:46:01Z",
+      "url": "https://www.gadgets360.com/ai/news/google-search-ai-mode-100-million-monthly-active-users-deep-search-gemini-2-5-pro-report-8938980"
+    },
+    {
+      "id": 57,
+      "title": "Traffic Light-Inspired Benches - Muddycap's Traffic Light Bench Mimics a Street Signals (TrendHunter.com)",
+      "summary": "Muddycap's Traffic Light Bench transforms the familiar silhouette of a traffic signal into a playful, three-person bench with sunshade-style seats and arresting backrests.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:44:06Z",
+      "url": "https://www.trendhunter.com/trends/traffic-light-bench"
+    },
     {
       "id": 51,
       "title": "オプト、RTB House Japan主催「Top Agency Award」において3期連続「Silver」を受賞",
@@ -387,69 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T06:12:38Z",
       "url": "https://www.geeky-gadgets.com/synology-2026-roadmap/"
-    },
-    {
-      "id": 58,
-      "title": "zohencel-ai 0.4.8",
-      "summary": "zohencel-ai 0.4.8 is the world's first 'Text to ML model' support library with an analysis chart bot and customizable AI voice assistant.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T06:08:25Z",
-      "url": "https://pypi.org/project/zohencel-ai/0.4.8/"
-    },
-    {
-      "id": 59,
-      "title": "Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown",
-      "summary": "The article discusses the concept of rotating encryption keys for security and introduces a new tool called AWSKeyLockdown. The author provides an attacker's perspective on the rotation illusion and how it can be exploited.",
-      "source": "Clutch.security",
-      "category": "research",
-      "timestamp": "2025-07-24T06:07:17Z",
-      "url": "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown"
-    },
-    {
-      "id": 51,
-      "title": "A Look At The Fair Value Of HMS Bergbau AG (ETR:HMU)",
-      "summary": "The projected fair value for HMS Bergbau is €79.92 based on 2 Stage Free Cash Flow to Equity with €66.00.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T05:50:09Z",
-      "url": "https://finance.yahoo.com/news/look-fair-value-hms-bergbau-055009799.html"
-    },
-    {
-      "id": 52,
-      "title": "Alphabet sees net profit rise 19%; says AI Mode ‘going well’ in India and the US",
-      "summary": "Alphabet's net profit rose 19% in Q2, driven by growth in Google Cloud and the impact of AI. AI implementation in India and the US is reported to be successful.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T05:49:09Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-sees-net-profit-rise-19-says-ai-mode-going-well-in-india-and-the-us/articleshow/122873506.cms"
-    },
-    {
-      "id": 53,
-      "title": "PayPal to create 100 jobs with AI fraud centre",
-      "summary": "PayPal is creating 100 jobs with an AI fraud center in Ireland, according to The Irish Times business desk.",
-      "source": "The Irish Times",
-      "category": "startups",
-      "timestamp": "2025-07-24T05:48:20Z",
-      "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-create-100-jobs-with-ai-fraud-centre/"
-    },
-    {
-      "id": 54,
-      "title": "QwenLM/qwen-code: qwen-code is a coding agent that lives in digital world.",
-      "summary": "QwenLM/qwen-code is a coding agent that exists in the digital world, providing users with a unique coding experience.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T05:47:01Z",
-      "url": "https://github.com/QwenLM/qwen-code"
-    },
-    {
-      "id": 55,
-      "title": "Here's what Amazon pays its latest AI recruits across job roles — H-1B holders can make between ₹1.59-2.27 crore/year",
-      "summary": "Amazon is paying its latest AI recruits between ₹1.59-2.27 crore annually, with over 11,000 foreign workers onboarded in its recruitment blitz.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-24T05:46:32Z",
-      "url": "https://www.livemint.com/companies/news/amazon-salaries-ai-recruits-h-1b-holders-job-roles-software-engineer-analysts-managers-make-more-than-rs-2-crore-yearly-11753331385769.html"
     }
   ]
 }
