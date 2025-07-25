@@ -15,13 +15,13 @@ export async function POST() {
     payment_method_types: ['card'],
     line_items: [
       {
-        price: 'price_1RmaN8CAVp7xmAFpmiDR1xT4', // Replace with your Stripe Price ID
+        price: 'price_1RmaN8CAVp7xmAFpmiDR1xT4',  // Verify this in Stripe dashboard > Products > Your subscription product > Pricing ID
         quantity: 1,
       },
     ],
     mode: 'subscription',
-    success_url: `${process.env.NEXTAUTH_URL}/`,
-    cancel_url: `${process.env.NEXTAUTH_URL}/subscribe`,
+    success_url: `https://www.papers.se/`,  // Changed to hardcoded site URL
+    cancel_url: `https://www.papers.se/subscribe`,
     metadata: { user_id: user.id },
   });
 
