@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-25T14:54:48.968Z",
+  "lastUpdate": "2025-07-25T15:17:37.728Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Alphabet CEO Weighs In: Smart Glasses Won’t Replace Phones Anytime Soon",
+      "summary": "During the Alphabet Q2 2025 earnings call, CEO Sundar Pichai believes that smart glasses won’t replace phones anytime soon.",
+      "source": "Android Headlines",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:16:54Z",
+      "url": "https://www.androidheadlines.com/2025/07/alphabet-ceo-weighs-in-smart-glasses-wont-replace-phones-anytime-soon.html"
+    },
+    {
+      "id": 52,
+      "title": "Bitcoin Contributed Around $282 Million To Tesla’s Bottom Line In Q2, Saving It From An Even Uglier Stock Market Evisceration",
+      "summary": "Bitcoin contributed around $282 million to Tesla's bottom line in Q2, saving it from a stock market decline. Tesla shares are down around 9 percent due to the steepest revenue decline in at least a decade.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:16:19Z",
+      "url": "https://wccftech.com/bitcoin-contributed-around-282-million-to-teslas-bottom-line-in-q2-saving-it-from-an-even-uglier-stock-market-evisceration/"
+    },
+    {
+      "id": 53,
+      "title": "Google AI Mode will generate fake clothes to help you buy real ones - The Verge",
+      "summary": "Google AI Mode will generate fake clothes to help users virtually try on clothes before buying real ones.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:15:51Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456178"
+    },
+    {
+      "id": 54,
+      "title": "How To Create B2B Thought Leadership That Actually Leads",
+      "summary": "Tips for creating effective B2B thought leadership content, focusing on framing, originality, and format.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:15:26Z",
+      "url": "https://www.forbes.com/sites/rheawessel/2025/07/24/how-to-create-b2b-thought-leadership-that-actually-leads/"
+    },
+    {
+      "id": 55,
+      "title": "Elon Musk Warns That Tesla Board Could Fire Him \"If I Go Crazy\"",
+      "summary": "Elon Musk warns that Tesla board could fire him 'if I go crazy' due to the continuing decline in automotive revenue, with a 16 percent drop reported in the second quarter earnings call.",
+      "source": "Futurism",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:15:11Z",
+      "url": "https://futurism.com/elon-musk-tesla-board-fire-crazy"
+    },
+    {
+      "id": 56,
+      "title": "‘We just have to know that change is the only constant’",
+      "summary": "Leaders from PMI, Unilever, and M+C Saatchi discuss the challenges and strategies involved in turning big ideas into reality.",
+      "source": "The Drum",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:15:00Z",
+      "url": "https://www.thedrum.com/news/2025/07/24/we-just-have-know-change-the-only-constant"
+    },
+    {
+      "id": 57,
+      "title": "The South Park Season 27 Premiere Is the Subversive Satire 2025 Deserves",
+      "summary": "The South Park Season 27 Premiere provides subversive satire for 2025 with 'Sermon on the Mount,' showcasing Trey Parker and Matt Stone's ability to meet the current moment.",
+      "source": "Consequence.net",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:14:09Z",
+      "url": "https://consequence.net/2025/07/south-park-season-27-premiere-review/"
+    },
+    {
+      "id": 58,
+      "title": "GSoC Midterm Update, Building an AI-Powered Chatbot",
+      "summary": "Giovanni Vaccarino is working on developing an AI-powered chatbot for Quick Access to Jenkins Resources project as part of Google Summer of Code 2025.",
+      "source": "Jenkins.io",
+      "category": "research",
+      "timestamp": "2025-07-24T15:13:27Z",
+      "url": "https://www.jenkins.io/blog/2025/07/24/giovanni-vaccarino-gsoc-midterm-post/"
+    },
+    {
+      "id": 59,
+      "title": " Mosquera's farewell letter to Valencia CF",
+      "summary": "Mosquera's farewell letter to Valencia CF indicates that he will be joining Arsenal soon, pending finalization of paperwork.",
+      "source": "Onefootball.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T15:13:00Z",
+      "url": "https://onefootball.com/en/news/mosqueras-farewell-letter-to-valencia-cf-41419555"
+    },
+    {
+      "id": 60,
+      "title": "Amazon’s latest move feels like the future tapping you on the shoulder",
+      "summary": "Amazon's acquisition of Bee, a $50 wearable that never stops listening, signals a strong move in the AI space, joining other major players like Meta, Jony Ive, and OpenAI.",
+      "source": "PhoneArena",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:12:59Z",
+      "url": "https://www.phonearena.com/news/amazon-latest-move-feels-like-future-tapping-you-on-the-shoulder_id172597"
+    },
+    {
+      "id": 61,
+      "title": "Is IBM a Good Stock to Buy Right Now? Key Factors to Consider.",
+      "summary": "IBM's shift towards a hybrid cloud and AI-focused business model is showing progress, making it a potential stock to consider buying.",
+      "source": "Barchart.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:12:57Z",
+      "url": "https://www.barchart.com/story/news/33620770/is-ibm-a-good-stock-to-buy-right-now-key-factors-to-consider"
+    },
+    {
+      "id": 62,
+      "title": "AI used to aid Love Island casting process, says ITV",
+      "summary": "AI used to aid Love Island casting process, according to ITV CEO",
+      "source": "RTE",
+      "category": "applications",
+      "timestamp": "2025-07-24T15:12:40Z",
+      "url": "https://www.rte.ie/entertainment/2025/0724/1525204-ai-used-to-aid-love-island-casting-process-says-itv/"
+    },
+    {
+      "id": 63,
+      "title": "The vanishing professions: 6 jobs that may not exist in the next decade",
+      "summary": "As automation, AI, and digital convenience reshape the workforce, several once-essential jobs are quietly disappearing. From cashiers and telemarketers to travel agents and toll booth operators, roles built on routine tasks are being phased out.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:12:34Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/the-vanishing-professions-6-jobs-that-may-not-exist-in-the-next-decade/articleshow/122886013.cms"
+    },
+    {
+      "id": 64,
+      "title": "IAB Canada Mid-Year Recap",
+      "summary": "IAB Canada Mid-Year Recap reflecting on a year of remarkable momentum in the industry as it heads into a summer break.",
+      "source": "Iabcanada.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:12:31Z",
+      "url": "https://iabcanada.com/iab-canada-mid-year-recap/"
+    },
+    {
+      "id": 65,
+      "title": "Google Skips Right to Leaking the Whole Pixel 10 Lineup",
+      "summary": "Google leaks entire Pixel 10 lineup, leaving little to the imagination.",
+      "source": "Gizmodo.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:10:39Z",
+      "url": "https://gizmodo.com/google-skips-right-to-leaking-the-whole-pixel-10-lineup-2000633712"
+    },
+    {
+      "id": 66,
+      "title": "Transparent Non-Transparency",
+      "summary": "Ad agency holding companies have shared their earnings amid AI advancements and acquisitions, highlighting winners and losers. The paradox of 'transparent nontransparency' is discussed in the context of media strength.",
+      "source": "AdExchanger",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:10:13Z",
+      "url": "http://www.adexchanger.com/the-big-story/transparent-non-transparency/"
+    },
+    {
+      "id": 67,
+      "title": "Meta Ray-Bans vs. Oakley: I tested both smart glasses, there's a clear winner",
+      "summary": "Comparative review of Meta Ray-Bans and Oakley smart glasses to determine the better option in terms of functionality and cost.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-24T15:09:00Z",
+      "url": "https://www.zdnet.com/article/meta-ray-bans-vs-oakley-i-tested-both-smart-glasses-theres-a-clear-winner/"
+    },
+    {
+      "id": 68,
+      "title": "ASUS’ 2025 Vivobook 16 Flip 2-in-1 3K OLED touchscreen Copilot+ PC is now lower than it was during Prime Day at $1,000",
+      "summary": "ASUS’ 2025 Vivobook 16 Flip 2-in-1 3K OLED touchscreen Copilot+ PC is now available for $1,000, lower than it was during Prime Day. Amazon is offering the 16-inch variant for $999.99.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-24T15:08:37Z",
+      "url": "http://9to5toys.com/2025/07/24/asus-vivobook-16-flip-2-in-1-3k-oled-touchscreen-copilot-pc/"
+    },
+    {
+      "id": 69,
+      "title": "✚ Visualization and the machine",
+      "summary": "The article discusses the intersection of visualization and AI specifically in the context of data visualization, addressing the tiredness of the topic but highlighting its importance for human thought.",
+      "source": "Flowingdata.com",
+      "category": "research",
+      "timestamp": "2025-07-24T15:08:28Z",
+      "url": "https://flowingdata.com/2025/07/24/process-347-machine/"
+    },
     {
       "id": 51,
       "title": "AI Coding Startup Cognition Is In Talks To Raise At A $10 Billion Valuation",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T14:14:00Z",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/07/24/if-you-see-this-message-your-amazon-account-is-under-attack/"
-    },
-    {
-      "id": 52,
-      "title": "Open Deep Research Agent : Unlocks the Future of AI Research",
-      "summary": "Open Deep Research Agent aims to revolutionize AI research by providing a precise and adaptable tool to redefine the approach to complex investigations.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:13:52Z",
-      "url": "https://www.geeky-gadgets.com/open-deep-research-agent-platform/"
-    },
-    {
-      "id": 53,
-      "title": "New York State $400 Inflation Refund Checks: How and when to get refunds? Here’s who is eligible and what is required to get checks",
-      "summary": "New York State residents will receive inflation refund checks of up to $400 to offset sales tax increases caused by inflation, starting mid-October 2025. Eligibility is based on 2023 tax filings, affecting over 8 million people.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:13:48Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/new-york-inflation-refund-checks-2025-tax-refund-state-budget-inflation-relief-sales-tax-refund-eligibility-form-it-201-summer-camp-credit-child-and-dependent-care-credit-irs-programs/articleshow/122885065.cms"
-    },
-    {
-      "id": 54,
-      "title": "Google's AI-Powered Virtual Try-On for Online Shopping Is Now Live",
-      "summary": "Google's AI-Powered Virtual Try-On for Online Shopping is now widely available after being previously limited to Labs users.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:12:59Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178455742"
-    },
-    {
-      "id": 55,
-      "title": "Joe Rogan Says Most Americans Are One Catastrophe Away From Losing Everything, Says AI And UBI Income Will Bring Chaos And Addiction",
-      "summary": "Joe Rogan expresses concerns about the potential negative impacts of AI and UBI income, warning of potential chaos and addiction if not properly managed.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T14:12:12Z",
-      "url": "https://biztoc.com/x/aeef1ca63f103778"
-    },
-    {
-      "id": 56,
-      "title": "Stardock Entertainment Announces Elemental: Reforged",
-      "summary": "Stardock Entertainment announces Elemental: Reforged, a comprehensive remaster of the original Elemental game that promises more than just the usual enhancements.",
-      "source": "Bleeding Cool News",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:12:03Z",
-      "url": "https://bleedingcool.com/games/stardock-entertainment-announces-elemental-reforged/"
-    },
-    {
-      "id": 57,
-      "title": "North American eShop releases for the week of July 24th, 2025",
-      "summary": "North American eShop releases for the week of July 24th, 2025 - Visit the site to view the full article.",
-      "source": "GoNintendo",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:12:00Z",
-      "url": "https://gonintendo.com/contents/51068-north-american-eshop-releases-for-the-week-of-july-24th-2025"
-    },
-    {
-      "id": 58,
-      "title": "Alphabet Boosted by AI, Cloud Demand as Spending Needs Jump",
-      "summary": "Alphabet Inc. reported increased demand for AI products resulting in a rise in quarterly sales, which in turn necessitated a significant surge in capital spending.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:11:58Z",
-      "url": "https://biztoc.com/x/44c25a3af3f68aa3"
-    },
-    {
-      "id": 59,
-      "title": "First AMD Strix Halo handheld gaming PC confirmed — GPD teases Ryzen AI Max+ 395 handheld in performance video",
-      "summary": "First AMD Strix Halo handheld gaming PC confirmed, GPD teases Ryzen AI Max+ 395 handheld in performance video, showcasing a powerful device in a compact form factor. Price eagerly anticipated.",
-      "source": "Tom's Hardware UK",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:11:57Z",
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/first-amd-strix-halo-handheld-gaming-pc-confirmed-gpd-teases-ryzen-ai-max-395-handheld-in-performance-video"
-    },
-    {
-      "id": 60,
-      "title": "Elektra Health Wants to Demystify Menopause, Says CEO Jannine Versi",
-      "summary": "Elektra Health aims to demystify menopause with AI-generated voice, CEO Jannine Versi believes women's health topics are often invisible in the American healthcare industry.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T14:11:48Z",
-      "url": "https://biztoc.com/x/b4601a099a79a27b"
-    },
-    {
-      "id": 61,
-      "title": "Dog Owner Checks Doorbell Camera at 3am, Unprepared for What She Sees",
-      "summary": "Aileigh checked her door camera at 3am and was surprised to see her dog sitting outside, with the voice on the camera being AI-generated. Inconsistencies in AI-generated content may lead to unexpected or unusual situations.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:11:42Z",
-      "url": "https://biztoc.com/x/16ce0cd628f1b4c8"
-    },
-    {
-      "id": 51,
-      "title": "BP's Castrol Unit Gets One Rock Bid",
-      "summary": "One Rock Capital Partners is one of the remaining bidders for BP's Castrol lubricants business.",
-      "source": "Rigzone",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:51:03Z",
-      "url": "https://www.rigzone.com/news/wire/bps_castrol_unit_gets_one_rock_bid-24-jul-2025-181255-article/"
-    },
-    {
-      "id": 52,
-      "title": "Storks deliver an angel on AI Express Muscat-Mumbai flight",
-      "summary": "Storks deliver an angel on AI Express Muscat-Mumbai flight - An Air India Express flight from Muscat to Mumbai witnessed the birth of a healthy baby mid-air. The airline's well-trained cabin crew, aided by a nurse onboard, facilitated the delivery.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-24T13:50:04Z",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/storks-deliver-an-angel-on-ai-express-muscat-mumbai-flight/articleshow/122884818.cms"
-    },
-    {
-      "id": 53,
-      "title": "Roadzen Raises $2.25 Million in PIPE Financing at 20% Premium to Market to Advance Growth and Drive Operating Plan for FY25–26",
-      "summary": "Roadzen raises $2.25 million in PIPE financing from four of its largest shareholders to advance growth and drive operating plan for FY25-26, with CEO and leadership team deferring RSU.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T13:50:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121187/0/en/Roadzen-Raises-2-25-Million-in-PIPE-Financing-at-20-Premium-to-Market-to-Advance-Growth-and-Drive-Operating-Plan-for-FY25-26.html"
-    },
-    {
-      "id": 54,
-      "title": "NVIDIA Corporation (NVDA)’s Going To Have A Good Quarter, Says Jim Cramer",
-      "summary": "NVIDIA Corporation (NVDA) is expected to have a good quarter according to Jim Cramer, as analyzed by Morgan Stanley. The company is one of the 12 stocks discussed by Cramer.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:49:58Z",
-      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-going-good-134958193.html"
-    },
-    {
-      "id": 55,
-      "title": "Elon Musk Is Reviving Vine—With a Twist",
-      "summary": "Elon Musk is reviving Vine, the video-sharing social media app, with a twist that includes AI-generated voice. The app, known for its short video clips, will be brought back after being shut down in 2017.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T13:49:42Z",
-      "url": "https://biztoc.com/x/8a7a5acef5f175e2"
-    },
-    {
-      "id": 56,
-      "title": "JD Vance Confronted With Bald Meme While Attending RNC Fundraiser",
-      "summary": "JD Vance faced criticism in the form of an AI-generated meme showing him bald and smooth-faced at an RNC fundraiser.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T13:49:34Z",
-      "url": "https://biztoc.com/x/20341059badaf140"
-    },
-    {
-      "id": 57,
-      "title": "Tom Lee says Apple is ready to pounce on AI - and Wall Street has no idea what’s coming",
-      "summary": "Apple is gearing up to make a significant move in artificial intelligence, according to Tom Lee, which could surprise Wall Street with a smart AI strategy.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-24T13:49:27Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/tom-lee-says-apple-is-ready-to-pounce-on-ai-and-wall-street-has-no-idea-whats-coming/articleshow/122884373.cms"
-    },
-    {
-      "id": 58,
-      "title": "Class Action Filed Against Reddit, Inc. – Investors with Losses Encouraged to Contact Johnson Fistel",
-      "summary": "A class action lawsuit has been filed against Reddit, Inc. by investors who purchased or acquired the company's securities.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:49:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121186/0/en/Class-Action-Filed-Against-Reddit-Inc-Investors-with-Losses-Encouraged-to-Contact-Johnson-Fistel.html"
-    },
-    {
-      "id": 59,
-      "title": "India’s IT hiring grow erratic in face of global uncertainties",
-      "summary": "India’s IT hiring is growing erratically due to a global economic slowdown and a shift in the industry's operational model.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-24T13:48:58Z",
-      "url": "https://www.thehindubusinessline.com/companies/indias-it-hiring-grow-erratic-in-face-of-global-uncertainties/article69850925.ece"
     }
   ]
 }
