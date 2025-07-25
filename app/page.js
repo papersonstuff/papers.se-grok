@@ -1,5 +1,6 @@
 import { createSupabaseServerClient } from '../utils/supabase/server';
 import { redirect } from 'next/navigation';
+import NewsGrid from './NewsGrid';
 
 export default async function Home() {
   const supabase = createSupabaseServerClient();
@@ -20,13 +21,8 @@ export default async function Home() {
     redirect('/subscribe');
   }
 
-  // Fetch news from news.json (or your API)
-  // Example: Read news.json or fetch from Supabase
-  return (
-    <div>
-      <h1>AI News</h1>
-      {/* Render news from news.json */}
-      <p>News content goes here</p>
-    </div>
-  );
+  // Load initial news from news.json on server
+  const newsData = await import('../../news.json');  // Path from app/page.js to root news.json
+
+  return <NewsGrid initialNews={newsData.default} />;
 }
