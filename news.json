@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-25T06:55:04.286Z",
+  "lastUpdate": "2025-07-25T07:19:25.892Z",
   "items": [
+    {
+      "id": 51,
+      "title": "How Google and OpenAI’s AI Models Won Gold at the 2025 Math Olympiad",
+      "summary": "At the 2025 International Mathematical Olympiad, Google's DeepMind Gemini and OpenAI's language model won gold, showcasing the advancements of AI in solving complex mathematical problems.",
+      "source": "Geeky Gadgets",
+      "category": "research",
+      "timestamp": "2025-07-24T07:18:33Z",
+      "url": "https://www.geeky-gadgets.com/ai-wins-gold-math-olympiad-2025/"
+    },
+    {
+      "id": 52,
+      "title": "Comparing Pony AI (NASDAQ:PONY) and GATX (NYSE:GATX)",
+      "summary": "A comparison between Pony AI and GATX as mid-cap transportation companies based on profitability and analyst recommendations.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:16:46Z",
+      "url": "https://www.etfdailynews.com/2025/07/24/comparing-pony-ai-nasdaqpony-and-gatx-nysegatx/"
+    },
+    {
+      "id": 53,
+      "title": "yica-mirage 1.0.0",
+      "summary": "YICA-Mirage 1.0.0 is an AI computing optimization framework designed for in-memory computing architecture.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:16:33Z",
+      "url": "https://pypi.org/project/yica-mirage/1.0.0/"
+    },
+    {
+      "id": 54,
+      "title": "yica-mirage added to PyPI",
+      "summary": "The AI computing optimization framework YICA-Mirage has been added to PyPI, designed for in-memory computing architecture.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:16:33Z",
+      "url": "https://pypi.org/project/yica-mirage/"
+    },
+    {
+      "id": 55,
+      "title": "ola-mem0ai 0.1.96",
+      "summary": "ola-mem0ai 0.1.96 introduces long-term memory capabilities for AI agents, enabling them to retain and recall information over extended periods of time.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:16:31Z",
+      "url": "https://pypi.org/project/ola-mem0ai/0.1.96/"
+    },
+    {
+      "id": 56,
+      "title": "Fungi, Carbon, And The Climate Risk Map We Missed",
+      "summary": "Soil fungi store 13 billion tons of CO₂ annually, yet remain ignored in climate risk models. New global maps reveal why fungi are key to ESG, resilience, and restoration.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-24T07:15:37Z",
+      "url": "https://www.forbes.com/sites/feliciajackson/2025/07/24/fungi-carbon-and-the-climate-risk-map-we-missed/"
+    },
+    {
+      "id": 57,
+      "title": "‘America’s AI Action Plan’ may spell trouble for the creative industries",
+      "summary": "'America’s AI Action Plan' may impact the creative industries by focusing on dismantling regulatory barriers, without mentioning copyright specifically.",
+      "source": "Music Ally",
+      "category": "ethics",
+      "timestamp": "2025-07-24T07:14:22Z",
+      "url": "http://musically.com/2025/07/24/americas-ai-action-plan-may-spell-trouble-for-the-creative-industries/"
+    },
+    {
+      "id": 58,
+      "title": "Tesla’s Nightmare Continues As Musk Warns of “Rough Quarters”Ahead",
+      "summary": "Tesla reported a significant decrease in profits and revenue due to factors like weakening demand for EVs and disappearing tax credits. Musk warns of challenging quarters ahead for the company.",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:14:11Z",
+      "url": "https://gizmodo.com/teslas-nightmare-continues-as-musk-warns-of-rough-quartersahead-2000633589"
+    },
+    {
+      "id": 59,
+      "title": "Nokia sees stronger second half after second-quarter miss",
+      "summary": "Nokia's CEO predicts a stronger second half in 2025, following a profit warning due to a weaker US dollar and tariffs.",
+      "source": "RTE",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:13:43Z",
+      "url": "https://www.rte.ie/news/business/2025/0724/1525094-nokia-quarterly-results/"
+    },
+    {
+      "id": 60,
+      "title": "(PR) SK hynix Announces 2Q25 Financial Results",
+      "summary": "SK hynix Inc. announced its financial results for the second quarter of 2025, reporting revenues of 22.232 trillion won, operating profit of 9.2129 trillion won, and net profit of 6.9962 trillion won.",
+      "source": "Techpowerup.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:13:05Z",
+      "url": "https://www.techpowerup.com/339220/sk-hynix-announces-2q25-financial-results"
+    },
+    {
+      "id": 61,
+      "title": "BE Semiconductor Industries N.V. Announces Q2-25 Results",
+      "summary": "BE Semiconductor Industries N.V. reported Q2-25 revenue of €148.1 million and net income of €32.1 million. For the first half of 2025, the company had revenue of €292.2 million and net income of €63.6 million.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T07:10:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3120777/0/en/BE-Semiconductor-Industries-N-V-Announces-Q2-25-Results.html"
+    },
+    {
+      "id": 62,
+      "title": "zohencel-ai 0.4.9",
+      "summary": "zohencel-ai 0.4.9 is the world's first 'Text to ML model' support library, which also features an analysis chart bot and a customizable AI voice assistant.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T07:08:21Z",
+      "url": "https://pypi.org/project/zohencel-ai/0.4.9/"
+    },
+    {
+      "id": 63,
+      "title": "Whalecome to Quanzhou: A journey of digital Maritime Silk Road",
+      "summary": "Whalecome to Quanzhou: A journey of digital Maritime Silk Road explores the use of AI and digital technologies in enhancing the Maritime Silk Road experience in Quanzhou.",
+      "source": "中国日报",
+      "category": "applications",
+      "timestamp": "2025-07-24T07:08:18Z",
+      "url": "https://www.chinadaily.com.cn/a/202507/23/WS6880bcb8a310ad07b5d9191e.html"
+    },
+    {
+      "id": 64,
+      "title": "‘Hopefully I won’t break anything’: Bill Gates takes on a day in customer service at his daughter’s startup",
+      "summary": "Bill Gates joined the customer service team at his daughter's startup Phia, gaining firsthand experience in understanding user needs and feedback.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-24T07:08:12Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/hopefully-i-wont-break-anything-bill-gates-takes-on-a-day-in-customer-service-at-his-daughters-startup-heres-how-it-went/articleshow/122874264.cms"
+    },
     {
       "id": 51,
       "title": "Sam Altman is worried about one kind of tech messing with kids' brains — and it's not AI",
@@ -324,132 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-24T05:16:55Z",
       "url": "https://timesofindia.indiatimes.com/etimes/trending/who-is-bill-gates-daughter-inside-her-life-career-net-worth-and-startup-journey/articleshow/122872811.cms"
-    },
-    {
-      "id": 57,
-      "title": "AutoImblearn 0.1.14",
-      "summary": "AutoImblearn 0.1.14 is an automated machine learning system specifically designed for handling imbalanced medical data.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:15:42Z",
-      "url": "https://pypi.org/project/autoimblearn/0.1.14/"
-    },
-    {
-      "id": 58,
-      "title": "Estonia's tech elite are getting behind a European challenger to Robinhood",
-      "summary": "Estonia's tech elite are investing in European trading app Lightyear as a challenger to Robinhood.",
-      "source": "CNBC",
-      "category": "startups",
-      "timestamp": "2025-07-24T05:13:19Z",
-      "url": "https://www.cnbc.com/2025/07/24/european-robinhood-rival-lightyear-raises-23-million.html"
-    },
-    {
-      "id": 59,
-      "title": "Naftemporiki is digitizing 101 years of political and economic history",
-      "summary": "Naftemporiki is digitizing 101 years of political and economic history, marking a project of national and historical significance.",
-      "source": "Naftemporiki.gr",
-      "category": "innovation",
-      "timestamp": "2025-07-24T05:12:41Z",
-      "url": "https://www.naftemporiki.gr/english/1985568/naftemporiki-is-digitizing-101-years-of-political-and-economic-history/"
-    },
-    {
-      "id": 51,
-      "title": "Nvidia supplier SK Hynix to boost spending on AI chips, after record Q2",
-      "summary": "Nvidia supplier SK Hynix plans to boost spending on AI chips following a record Q2, driven by strong AI chip demand and customer stockpiling amid potential U.S. tariffs.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:49:40Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-sk-hynix-to-boost-spending-on-ai-chips-after-record-q2/articleshow/122872494.cms"
-    },
-    {
-      "id": 52,
-      "title": "Trump Signs New Executive Orders To Fast-Track AI Dominance: 'We Will Be Unstoppable As A Nation'",
-      "summary": "President Trump signed executive orders to fast-track AI dominance, focusing on accelerating US leadership in artificial intelligence by promoting exports, streamlining data center construction, and banning biased AI from federal use.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:48:57Z",
-      "url": "https://biztoc.com/x/b1903952bed8e369"
-    },
-    {
-      "id": 53,
-      "title": "We found Google’s next Pixel-only calling feature and it’s borrowed from Apple (APK teardown)",
-      "summary": "A new Pixel-only calling feature similar to Apple's Call Message voicemail is set to launch alongside the Pixel 10 series, as revealed through a teardown of the Google Phone app.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-24T04:41:19Z",
-      "url": "https://www.androidauthority.com/google-pixel-call-message-3580467/"
-    },
-    {
-      "id": 54,
-      "title": "Teens say they are turning to AI for advice, friendship, 'to get out of thinking'",
-      "summary": "Teens are increasingly turning to AI for companionship, advice, and emotional support, raising concerns about its impact on social development and mental health.",
-      "source": "The Times of India",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:39:49Z",
-      "url": "https://timesofindia.indiatimes.com/world/us/teens-say-they-are-turning-to-ai-for-advice-friendship-to-get-out-of-thinking/articleshow/122872098.cms"
-    },
-    {
-      "id": 55,
-      "title": "Fujitsu and Nagoya University develop AI-based tech to spread ride-hailing",
-      "summary": "Fujitsu and Nagoya University develop AI-based tech to spread ride-hailing, offering it to local governments and businesses facing transportation challenges.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:37:19Z",
-      "url": "https://biztoc.com/x/b06ccfab686f42ec"
-    },
-    {
-      "id": 56,
-      "title": "Morning Bid: Trade deals bring happy days again",
-      "summary": "European and global markets are looking positive with a focus on trade deals, bringing optimism to investors.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:35:57Z",
-      "url": "https://finance.yahoo.com/news/morning-bid-trade-deals-bring-043557728.html"
-    },
-    {
-      "id": 57,
-      "title": "Jim Cramer on Netflix: “You’re Given a Chance to Buy a Terrific Stock at a Discount”",
-      "summary": "Jim Cramer believes Netflix is a great stock to buy at a discount, calling it the best of breed streaming platform.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:35:38Z",
-      "url": "https://finance.yahoo.com/news/jim-cramer-netflix-given-chance-043538260.html"
-    },
-    {
-      "id": 58,
-      "title": "Jim Cramer on Adobe: “Might Get This Thing at a Cheaper Price”",
-      "summary": "Adobe Inc. (NASDAQ:ADBE) stock discussed by Jim Cramer, suggesting the possibility of purchasing it at a lower price.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T04:35:36Z",
-      "url": "https://finance.yahoo.com/news/jim-cramer-adobe-might-thing-043536107.html"
-    },
-    {
-      "id": 59,
-      "title": "Spy cockroaches and AI robots: Germany plots the future of warfare",
-      "summary": "Germany is creating a fast track for defence startups to bypass procurement red tape, enabling the development of spy cockroaches and AI robots for future warfare.",
-      "source": "The Star Online",
-      "category": "startups",
-      "timestamp": "2025-07-24T04:35:00Z",
-      "url": "https://www.thestar.com.my/tech/tech-news/2025/07/24/spy-cockroaches-and-ai-robots-germany-plots-the-future-of-warfare"
-    },
-    {
-      "id": 60,
-      "title": "Hallucinations in the District of New Jersey",
-      "summary": "The District of New Jersey raised concerns about judicial power when a judge issued an opinion with AI hallucinations, sparking a debate over whether this was an abuse of authority.",
-      "source": "Reason",
-      "category": "ethics",
-      "timestamp": "2025-07-24T04:32:44Z",
-      "url": "https://reason.com/volokh/2025/07/24/hallucinations-in-the-district-of-new-jersey/"
-    },
-    {
-      "id": 61,
-      "title": "Your app is under attack every 3 minutes",
-      "summary": "Your app is under attack every 3 minutes - Application-layer attacks have become one of the most common and consequential methods adversaries use to gain access and compromise organizations.",
-      "source": "Help Net Security",
-      "category": "applications",
-      "timestamp": "2025-07-24T04:30:27Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/24/adversaries-application-layer-attacks/"
     }
   ]
 }
