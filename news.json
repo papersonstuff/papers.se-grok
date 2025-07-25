@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-25T22:56:07.961Z",
+  "lastUpdate": "2025-07-25T23:17:10.035Z",
   "items": [
+    {
+      "id": 51,
+      "title": "S&P 500, Nasdaq close at fresh records following solid Alphabet earnings: Live updates - CNBC",
+      "summary": "S&P 500 and Nasdaq reach new record highs following strong Alphabet earnings, with a focus on AI technology. Tesla's stock drops as other AI-related companies like Google lift the market.",
+      "source": "Slashdot.org",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:14:51Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178459944"
+    },
+    {
+      "id": 52,
+      "title": "Kelly Osbourne breaks silence on dad Ozzy’s death: ‘I lost the best friend I ever had’",
+      "summary": "Kelly Osbourne speaks out about her father's death, calling him her best friend. She recently got engaged at his farewell show with Black Sabbath.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-24T23:09:38Z",
+      "url": "https://nypost.com/2025/07/24/entertainment/kelly-osbourne-breaks-silence-on-dad-ozzys-death-at-76/"
+    },
+    {
+      "id": 53,
+      "title": "Jim Cramer says Big Tech is underspending on AI. Here's why they may need to spend more",
+      "summary": "Jim Cramer believes Big Tech is underspending on AI, despite massive investments from companies like Meta, Amazon, Alphabet, and Microsoft totaling $320 billion.",
+      "source": "CNBC",
+      "category": "innovation",
+      "timestamp": "2025-07-24T23:08:55Z",
+      "url": "https://www.cnbc.com/2025/07/24/jim-cramer-says-big-tech-is-underspending-on-ai-heres-why.html"
+    },
+    {
+      "id": 54,
+      "title": "Intel plans to layoff 24,000 employees in 2025 — it will also pull back from several projects including some in Germany, Poland, and more",
+      "summary": "Intel plans to layoff 24,000 employees in 2025 and pull back from projects in several countries, reducing its total workforce to 75,000 core employees.",
+      "source": "Windows Central",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:08:24Z",
+      "url": "https://www.windowscentral.com/hardware/intel/intel-plans-to-layoff-24-000-employees-in-2025-and-pull-back-from-several-projects-including-some-in-germany-poland-and-more"
+    },
+    {
+      "id": 55,
+      "title": "Anthony Thomson to launch new global wealth bank",
+      "summary": "Anthony Thomson, founder of Metro Bank and Atom Bank, is launching a new global wealth bank to cater to family offices and ultra high-net-worth individuals.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-24T23:06:46Z",
+      "url": "https://www.finextra.com/newsarticle/46348/anthony-thomson-to-launch-new-global-wealth-bank"
+    },
+    {
+      "id": 56,
+      "title": "FS firms turn to agentic AI for compliance operations",
+      "summary": "FS firms are turning to agentic AI to improve compliance operations, with the majority of global financial institutions actively implementing this technology, as revealed by research from Fenergo.",
+      "source": "Finextra",
+      "category": "applications",
+      "timestamp": "2025-07-24T23:06:46Z",
+      "url": "https://www.finextra.com/newsarticle/46349/fs-firms-turn-to-agentic-ai-for-compliance-operations"
+    },
+    {
+      "id": 57,
+      "title": "C3 AI CEO Tom Siebel to resign for health reasons",
+      "summary": "C3 AI CEO Tom Siebel resigns for health reasons, causing shares of the artificial intelligence company to close 10.8% lower.",
+      "source": "SiliconANGLE News",
+      "category": "startups",
+      "timestamp": "2025-07-24T23:06:15Z",
+      "url": "https://siliconangle.com/2025/07/24/c3-ai-ceo-tom-siebel-resign-health-reasons/"
+    },
+    {
+      "id": 58,
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors in UnitedHealth, Bitfarms, or Reddit of The Class Action Lawsuits Filed and Urges Investors to Inquire About Their Rights",
+      "summary": "Bragar Eagel & Squire, P.C. is reminding investors about class action lawsuits filed against UnitedHealth, Bitfarms, and Reddit, and is urging investors to inquire about their rights. Litigation attorney Brandon Walker is encouraging investors who suffered losses in these companies to contact him directly to discuss their options.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T23:06:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121554/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-in-UnitedHealth-Bitfarms-or-Reddit-of-The-Class-Action-Lawsuits-Filed-and-Urges-Investors-to-Inquire-About-Their-Rights.html"
+    },
+    {
+      "id": 59,
+      "title": "Kelly Osbourne shares her heartbreak after dad Ozzy’s death: ‘I lost the best friend I ever had’",
+      "summary": "Kelly Osbourne expresses her sadness over the death of her father Ozzy Osbourne, whom she considers her best friend. Kelly gained fame from her family's reality show on MTV.",
+      "source": "Page Six",
+      "category": "ethics",
+      "timestamp": "2025-07-24T23:05:32Z",
+      "url": "https://pagesix.com/2025/07/24/celebrity-news/kelly-osbourne-shares-her-heartbreak-after-dad-ozzys-death/"
+    },
+    {
+      "id": 60,
+      "title": "First Public Betas of tvOS 26 and watchOS 26 Now Available",
+      "summary": "Apple has released the first public betas of watchOS 26 and tvOS 26 for testing purposes.",
+      "source": "Mactrast.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T23:05:15Z",
+      "url": "https://www.mactrast.com/2025/07/first-public-betas-of-tvos-26-and-watchos-26-now-available/"
+    },
+    {
+      "id": 61,
+      "title": "PayPal to bring 100 AI and data science jobs to Dublin",
+      "summary": "PayPal to create 100 AI and data science jobs in Dublin with the establishment of a new centre focused on AI and fraud data science.",
+      "source": "Finextra",
+      "category": "startups",
+      "timestamp": "2025-07-24T23:05:03Z",
+      "url": "https://www.finextra.com/newsarticle/46350/paypal-to-bring-100-ai-and-data-science-jobs-to-dublin"
+    },
+    {
+      "id": 62,
+      "title": "Kelly Osbourne Mourns Death of Dad Ozzy Osbourne",
+      "summary": "Kelly Osbourne mourns the death of her father Ozzy Osbourne, sharing a touching tribute on her Instagram Story following the Black Sabbath frontman's passing on July 22 at age 76.",
+      "source": "Eonline.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T23:04:36Z",
+      "url": "https://www.eonline.com/news/1420197/kelly-osbourne-mourns-death-of-dad-ozzy-osbourne"
+    },
+    {
+      "id": 63,
+      "title": "The Future of AI in Your Home According to Samsung",
+      "summary": "Samsung is aiming to enhance connectivity in homes by leveraging its open ecosystem SmartThings, which boasts over 400 million users. This move demonstrates the growing trend of incorporating artificial intelligence in household devices and appliances.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-24T23:04:30Z",
+      "url": "https://finance.yahoo.com/video/future-ai-home-according-samsung-230430685.html"
+    },
+    {
+      "id": 64,
+      "title": "oneclick-context added to PyPI",
+      "summary": "One-Click Context Toolkit was added to PyPI, offering visual file trees and AI summaries. This innovation aims to make accessing and understanding files easier for users.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T23:03:54Z",
+      "url": "https://pypi.org/project/oneclick-context/"
+    },
     {
       "id": 51,
       "title": "Best Under $1 Token? Traders Betting on Ruvi AI’s (RUVI) Audited Token Over SHIB",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T22:08:55Z",
       "url": "https://pagesix.com/2025/07/24/celebrity-news/ex-astronomer-ceo-andy-byron-and-kristin-cabot-seen-canoodling-at-coldplay-concert-in-new-video/"
-    },
-    {
-      "id": 58,
-      "title": "Fact Check: Another old photo of Trump and daughter Ivanka makes the rounds again",
-      "summary": "An old photo of Trump and his daughter Ivanka resurfaces, sparking discussions about Trump's past associations and raising ethical concerns.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T22:06:00Z",
-      "url": "https://www.snopes.com/fact-check/trump-photo-ivanka/"
-    },
-    {
-      "id": 59,
-      "title": "Energy announces first 4 AI data center sites on federal lands",
-      "summary": "Energy announces first 4 AI data center sites on federal lands",
-      "source": "Nextgov",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:06:00Z",
-      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/energy-announces-first-4-ai-data-center-sites-federal-lands/406977/"
-    },
-    {
-      "id": 60,
-      "title": "Another old photo of Trump and daughter Ivanka makes the rounds again",
-      "summary": "An old photo of President Trump and daughter Ivanka resurfaces, showing them in a questionable pose which raises ethical concerns.",
-      "source": "Snopes.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T22:06:00Z",
-      "url": "https://www.snopes.com//fact-check/trump-photo-ivanka/"
-    },
-    {
-      "id": 61,
-      "title": "Why Millions Of Managers Are Becoming Obsolete—It’s Not Rocket Science",
-      "summary": "Traditional managers are becoming obsolete not due to AI or rocket science, but because they are focusing on the wrong goal.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:05:07Z",
-      "url": "https://www.forbes.com/sites/stevedenning/2025/07/24/why-millions-of-managers-are-becoming-obsolete-its-not-rocket-science/"
-    },
-    {
-      "id": 62,
-      "title": "Most creator-made ads don’t follow “best practices.” Is that a bad thing?",
-      "summary": "Most creator-made ads do not follow best practices, but still command a significant portion of brands' advertising budgets. Companies are expected to spend $10.5 billion this year on influencer marketing in an attempt to reach younger audiences.",
-      "source": "Tubefilter",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:04:42Z",
-      "url": "https://www.tubefilter.com/2025/07/24/creativex-creator-ads-best-practices/"
-    },
-    {
-      "id": 63,
-      "title": "Barclays Raises PT on Vale S.A. (VALE) from $12.75 to $13; Maintains ‘Overweight’ Rating",
-      "summary": "Barclays raises price target on Vale S.A. and maintains 'Overweight' rating, with significant hedge fund interest making it one of the 11 Best Mineral Stocks to Buy According to Hedge Funds.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:03:00Z",
-      "url": "https://finance.yahoo.com/news/barclays-raises-pt-vale-vale-220300158.html"
-    },
-    {
-      "id": 64,
-      "title": "Kimi K2: New AI model from China outperforms GPT-4.1 in key benchmarks",
-      "summary": "Chinese AI model Kimi K2 outperforms GPT-4.1 in key benchmarks, sparking interest and debate in the AI community.",
-      "source": "Notebookcheck.net",
-      "category": "research",
-      "timestamp": "2025-07-24T22:03:00Z",
-      "url": "https://www.notebookcheck.net/Kimi-K2-New-AI-model-from-China-outperforms-GPT-4-1-in-key-benchmarks.1067135.0.html"
-    },
-    {
-      "id": 65,
-      "title": "Wells Fargo Increases PT on Albemarle Corporation (ALB) from $60 to $75; Maintains ‘Equal Weight’ Rating",
-      "summary": "Wells Fargo increases price target on Albemarle Corporation and maintains 'Equal Weight' rating, citing strong hedge fund interest. Albemarle Corporation is among the 11 Best Mineral Stocks to Buy According to Hedge Funds.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:02:35Z",
-      "url": "https://finance.yahoo.com/news/wells-fargo-increases-pt-albemarle-220235796.html"
-    },
-    {
-      "id": 66,
-      "title": "CIBC Raises PT on Barrick Mining Corporation (B) Due to Strong Momentum",
-      "summary": "CIBC raises PT on Barrick Mining Corporation (B) due to strong momentum, attracting significant hedge fund interest, and making it one of the 11 Best Mineral Stocks to Buy According to Hedge.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:02:08Z",
-      "url": "https://finance.yahoo.com/news/cibc-raises-pt-barrick-mining-220208785.html"
-    },
-    {
-      "id": 67,
-      "title": "Air New Zealand partners with OpenAI in bid to help avoid flight delays",
-      "summary": "Air New Zealand partners with OpenAI to use ChatGPT technology to help avoid flight delays.",
-      "source": "RNZ",
-      "category": "applications",
-      "timestamp": "2025-07-24T22:00:59Z",
-      "url": "https://www.rnz.co.nz/news/business/567982/air-new-zealand-partners-with-openai-in-bid-to-help-avoid-flight-delays"
-    },
-    {
-      "id": 68,
-      "title": "Tesla Warns of 'Rough Quarters'--Shares Plunge While Alphabet Climbs",
-      "summary": "Tesla warns of 'rough quarters', causing shares to plunge, while Alphabet climbs. The Dow slides amid soaring yields and mixed Q2 reports.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:00:55Z",
-      "url": "https://finance.yahoo.com/news/tesla-warns-rough-quarters-shares-220055070.html"
-    },
-    {
-      "id": 69,
-      "title": "What Trump’s AI Action Plan Means for Investors",
-      "summary": "President Trump's AI Action Plan indicates a push for increased investment and development in artificial intelligence technology, which can have significant implications for investors looking to capitalize on this growing sector.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:00:35Z",
-      "url": "https://biztoc.com/x/c753515ad8db7855"
-    },
-    {
-      "id": 70,
-      "title": "Gen Z Males 3 Times More Likely Than Boomers to Prioritize 'Dominance'",
-      "summary": "Gen Z males are three times more likely than Boomers to prioritize 'dominance', according to a study by consumer insights platform GWI.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T22:00:24Z",
-      "url": "https://biztoc.com/x/89713e42eaf6ee1d"
-    },
-    {
-      "id": 51,
-      "title": "Graphene OS: a security-enhanced Android build",
-      "summary": "Graphene OS is a security-enhanced Android build that aims to enhance the security of users' phones, which have access to vast amounts of personal data.",
-      "source": "Lwn.net",
-      "category": "applications",
-      "timestamp": "2025-07-24T21:48:53Z",
-      "url": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"
     }
   ]
 }
