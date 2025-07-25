@@ -3,7 +3,7 @@ import { redirect } from 'next/navigation';
 import NewsGrid from './NewsGrid';
 
 export default async function Home() {
-  const supabase = createSupabaseServerClient();
+  const supabase = await createSupabaseServerClient();
   const { data: { user } } = await supabase.auth.getUser();
 
   if (!user) {
@@ -22,7 +22,7 @@ export default async function Home() {
   }
 
   // Load initial news from news.json on server
-  const newsData = await import('../../news.json');  // Path from app/page.js to root news.json
+  const newsData = await import('../../news.json');
 
   return <NewsGrid initialNews={newsData.default} />;
 }
