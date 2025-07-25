@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-25T20:55:14.624Z",
+  "lastUpdate": "2025-07-25T21:15:06.540Z",
   "items": [
+    {
+      "id": 51,
+      "title": "strands-agents 1.1.0",
+      "summary": "strands-agents 1.1.0 offers a model-driven approach for creating AI agents with minimal code, making it easier to develop intelligent systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:13:53Z",
+      "url": "https://pypi.org/project/strands-agents/1.1.0/"
+    },
+    {
+      "id": 52,
+      "title": "Dispute with contractor could cost homeowner her home",
+      "summary": "Dispute with contractor over use of artificial intelligence in home design could potentially cost homeowner her house after tragic fire incident.",
+      "source": "WSOC Charlotte",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:13:38Z",
+      "url": "https://www.wsoctv.com/news/local/dispute-with-contractor-could-cost-homeowner-her-home/T7ENEPEXKRH4RGWC2MVSQITM6Y/"
+    },
+    {
+      "id": 53,
+      "title": "The FDA Is Using an AI to \"Speed Up\" Drug Approvals and Insiders Say It's Making Horrible Mistakes",
+      "summary": "Insiders at the FDA are concerned about the use of AI to speed up drug approvals, warning of potential mistakes and issues with the system.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:13:06Z",
+      "url": "https://futurism.com/neoscope/fda-ai-drugs-hallucinations"
+    },
+    {
+      "id": 54,
+      "title": "Intel Q2 beat: Company's turnaround still a 'longer-term story'",
+      "summary": "Intel beat Q2 expectations and gave a positive forecast, signaling a potential turnaround. However, analysts caution that the company's recovery is a longer-term process.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:12:36Z",
+      "url": "https://finance.yahoo.com/video/intel-q2-beat-companys-turnaround-211236407.html"
+    },
+    {
+      "id": 55,
+      "title": " Line-up confirmed for Universidad de Chile against Guaraní",
+      "summary": "Universidad de Chile line-up confirmed for match against Guaraní in CONMEBOL Sudamericana 2025, seeking qualification to round of 16 in Asunción.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:12:00Z",
+      "url": "https://onefootball.com/en/news/line-up-confirmed-for-universidad-de-chile-against-guarani-41421097"
+    },
+    {
+      "id": 56,
+      "title": "Trump Revealed New AI Action Plan— Here’s Where It Puts The US In Today’s Space Race: Expert",
+      "summary": "Trump revealed a new AI action plan with insights from Matthew F. Ferraro, placing the US in the forefront of today's space race.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:11:22Z",
+      "url": "https://www.forbes.com/sites/forbestv/2025/07/24/trump-revealed-new-ai-action-plan--heres-where-it-puts-the-us-in-todays-space-race-expert/"
+    },
+    {
+      "id": 57,
+      "title": "5 best CRMs for HVAC businesses in 2025",
+      "summary": "5 best CRMs for HVAC businesses in 2025 to help manage emergency calls, seasonal demand spikes, multi-visit jobs, technician shortage, and customer expectations for rapid response times.",
+      "source": "Hubspot.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T21:10:39Z",
+      "url": "https://blog.hubspot.com/marketing/best-crm-for-hvac-businesses#article"
+    },
+    {
+      "id": 58,
+      "title": "WEX Sees 25% Year-Over-Year Growth in Accounts Payable Automation",
+      "summary": "WEX experienced a 25% year-over-year growth in accounts payable automation, demonstrating the importance of agile business strategies in times of economic uncertainty.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:09:53Z",
+      "url": "http://www.pymnts.com/news/fintech-investments/2025/wex-sees-25-year-over-year-growth-in-accounts-payable-automation/"
+    },
+    {
+      "id": 59,
+      "title": "Google Search is testing something a bit different from its wall of blue links",
+      "summary": "Google Search is testing a new feature called Web Guide, which categorizes search results using a version of Gemini. This brings a different approach to organizing search results beyond the traditional list of blue links.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:09:41Z",
+      "url": "https://www.androidauthority.com/google-web-guide-search-results-3580847/"
+    },
+    {
+      "id": 60,
+      "title": "tensorflores 0.1.10",
+      "summary": "TensorFlores 0.1.10 is a Python-based framework that optimizes machine learning deployment in resource-constrained environments, with support for TinyML, EdgeAI, and quantization.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:07:49Z",
+      "url": "https://pypi.org/project/tensorflores/0.1.10/"
+    },
+    {
+      "id": 61,
+      "title": "Alphabet CEO Sundar Pichai hits billionaire status as stock nears all-time high",
+      "summary": "Alphabet CEO Sundar Pichai has reached billionaire status as the company's stock approaches an all-time high. Unlike many tech industry leaders, Pichai did not attain his wealth through founding equity stakes in his platform.",
+      "source": "New York Post",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:07:04Z",
+      "url": "https://nypost.com/2025/07/24/business/alphabet-ceo-sundar-pichai-hits-billionaire-status-as-stock-nears-all-time-high/"
+    },
+    {
+      "id": 62,
+      "title": "South Park skewers Trump, Paramount hours after creators sign $2.3 billion deal",
+      "summary": "South Park creators take on Trump and Paramount in latest episode, pushing boundaries as they sign $2.3 billion deal.",
+      "source": "7NEWS.com.au",
+      "category": "ethics",
+      "timestamp": "2025-07-24T21:06:14Z",
+      "url": "https://7news.com.au/news/south-park-skewers-trump-paramount-hours-after-creators-sign-23-billion-deal-c-19465561"
+    },
+    {
+      "id": 63,
+      "title": "GIC posts 3.8% annualised return over 20 years despite economic uncertainties",
+      "summary": "GIC posted a 3.8% annualised return over 20 years despite economic uncertainties, with changes in investments and asset mix. ",
+      "source": "The Straits Times",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:06:02Z",
+      "url": "https://www.straitstimes.com/business/economy/gic-posts-3-8-annualised-return-over-20-years-despite-economic-uncertainties"
+    },
+    {
+      "id": 64,
+      "title": "Pentagon halts $15B Advana recompete draft solicitation",
+      "summary": "Pentagon halts $15B Advana recompete draft solicitation, looking to bring in new vendors to support its Advana data-analytics platform through a potential 10-year, $15 billion Advancing Artificial Intelligence Multiple Award Contract.",
+      "source": "Nextgov",
+      "category": "innovation",
+      "timestamp": "2025-07-24T21:06:00Z",
+      "url": "https://www.nextgov.com/acquisition/2025/07/pentagon-halts-15b-advana-recompete-draft-solicitation/406973/"
+    },
+    {
+      "id": 65,
+      "title": "Heritage Commerce Corp Reports Second Quarter and First Six Months of 2025 Financial Results",
+      "summary": "Heritage Commerce Corp, the holding company for Heritage Bank of Commerce, reported its financial results for the second quarter and first six months of 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T21:06:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121518/9687/en/Heritage-Commerce-Corp-Reports-Second-Quarter-and-First-Six-Months-of-2025-Financial-Results.html"
+    },
+    {
+      "id": 66,
+      "title": "MEXC finds that 67% of Gen Z crypto traders use AI tools, resulting in fewer panic sells",
+      "summary": "A growing majority of Gen Z crypto traders are turning to artificial intelligence (AI) to guide their strategies and it’s making them less prone to panic selling.",
+      "source": "CryptoSlate",
+      "category": "research",
+      "timestamp": "2025-07-24T21:04:59Z",
+      "url": "https://cryptoslate.com/mexc-finds-that-67-of-gen-z-crypto-traders-use-ai-tools-resulting-in-fewer-panic-sells/"
+    },
     {
       "id": 51,
       "title": "New Koske Linux malware hides in cute panda images",
@@ -306,150 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T20:15:00Z",
       "url": "https://www.globenewswire.com/news-release/2025/07/24/3121472/0/en/MidWestOne-Financial-Group-Inc-Reports-Financial-Results-for-the-Second-Quarter-of-2025.html"
-    },
-    {
-      "id": 57,
-      "title": "Trump’s AI Action Plan is a distraction",
-      "summary": "Trump's AI Action Plan contains proposed actions to continue American leadership in AI but is seen as a distraction.",
-      "source": "MIT Technology Review",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:15:00Z",
-      "url": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/"
-    },
-    {
-      "id": 58,
-      "title": "HeartSciences Provides Business Update and Reports Fiscal 2025 Financial Results",
-      "summary": "HeartSciences Inc. provides a business update and reports fiscal 2025 financial results. The company, known for its AI-powered medical technology, focuses on transforming ECGs/EKGs to enable earlier detection of heart disease.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T20:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121466/0/en/HeartSciences-Provides-Business-Update-and-Reports-Fiscal-2025-Financial-Results.html"
-    },
-    {
-      "id": 59,
-      "title": "CTO says companies are missing out by not writing internal documents that AI can easily read",
-      "summary": "CTO emphasizes the importance of writing internal documents that are readable for AI, stating it can benefit companies by reducing friction. Companies are urged to make their documentation accessible for AI technologies.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-24T20:14:50Z",
-      "url": "https://www.businessinsider.com/dx-cto-internal-documentation-written-for-ai-humans-efficiency-gain-2025-7"
-    },
-    {
-      "id": 60,
-      "title": "Spotify Caught Doing Something Unbelievably Ghoulish With AI",
-      "summary": "Spotify is using AI to publish new tunes by dead musicians, raising ethical concerns about manipulating the work of deceased artists.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:14:40Z",
-      "url": "https://futurism.com/spotify-ai-blaze-foley"
-    },
-    {
-      "id": 61,
-      "title": "Germany looks to reinvent warfare with spy cockroaches – Reuters",
-      "summary": "Germany is investing in defense tech startups for military expansion, including the use of spy cockroaches in warfare.",
-      "source": "RT",
-      "category": "applications",
-      "timestamp": "2025-07-24T20:12:51Z",
-      "url": "https://www.rt.com/news/621955-germany-militarization-russia-ukraine/"
-    },
-    {
-      "id": 62,
-      "title": "AI will soon be able to audit all published research – what will that mean for public trust in science?",
-      "summary": "AI will soon be able to audit all published research, potentially exposing fraud and inconsequential work, but it's important to ensure that this does not discredit science as a whole.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:12:45Z",
-      "url": "https://theconversation.com/ai-will-soon-be-able-to-audit-all-published-research-what-will-that-mean-for-public-trust-in-science-261363"
-    },
-    {
-      "id": 63,
-      "title": "LVMH H1 Revenue Miss Shows Weakness in Luxury Retail",
-      "summary": "LVMH reported a decline in revenue for the first half of the year, mainly attributed to weakness in Asia, resulting in a 22% drop in earnings from the previous year.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:12:40Z",
-      "url": "http://www.pymnts.com/earnings/2025/lvmh-h1-revenue-miss-shows-weakness-in-luxury-retail/"
-    },
-    {
-      "id": 64,
-      "title": "White House bans 'woke' AI, but LLMs don't know the truth",
-      "summary": "White House bans 'woke' AI, but LLMs can only enforce consistency based on their training",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T20:10:20Z",
-      "url": "https://www.theregister.com/2025/07/24/white_house_wants_no_woke_ai/"
-    },
-    {
-      "id": 65,
-      "title": "Intel beats on revenue, issues better-than-expected forecast",
-      "summary": "Intel beats revenue expectations and issues positive forecast, emphasizing the need for all investments to be economically sound.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:09:05Z",
-      "url": "https://www.cnbc.com/2025/07/24/intel-intc-earnings-report-q2-2025.html"
-    },
-    {
-      "id": 66,
-      "title": "Personalized Mindfulness Therapies - Klai.me Delivers AI-Guided Loops for Mental Clarity and Calm (TrendHunter.com)",
-      "summary": "Klai.me uses AI to deliver personalized mindfulness therapies for mental clarity and calm.",
-      "source": "Trendhunter.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T20:09:05Z",
-      "url": "https://www.trendhunter.com/trends/klaime"
-    },
-    {
-      "id": 67,
-      "title": "Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce",
-      "summary": "Intel stock rises as Q2 revenue beats expectations, company plans to cut 15% of workforce",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:08:51Z",
-      "url": "https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html"
-    },
-    {
-      "id": 68,
-      "title": "Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans",
-      "summary": "Intel beats Q2 revenue expectations but plans to cut workforce by 15% and cancels factory plans",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T20:08:51Z",
-      "url": "https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html"
-    },
-    {
-      "id": 51,
-      "title": "Nvidia AI chips worth $1B smuggled to China after Trump export controls",
-      "summary": "Nvidia AI chips worth $1B smuggled to China despite export controls, highlighting black market for US semiconductors and challenges in curbing Beijing's high-tech ambitions.",
-      "source": "Slashdot.org",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:52:04Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178458356"
-    },
-    {
-      "id": 52,
-      "title": "Alphabet Boosted by AI, Cloud Demand",
-      "summary": "Alphabet experienced a major boost driven by increased demand in AI and Cloud services, according to Needham & Company Senior Analyst Laura Martin.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:51:45Z",
-      "url": "https://finance.yahoo.com/video/alphabet-boosted-ai-cloud-demand-195145362.html"
-    },
-    {
-      "id": 53,
-      "title": "Pixel Phone app might borrow this iOS calling feature",
-      "summary": "The Google Pixel Phone app might soon gain a new Call Message feature, which filters spam from missed or declined calls.",
-      "source": "Android Headlines",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:51:38Z",
-      "url": "https://www.androidheadlines.com/2025/07/pixel-phone-app-might-borrow-this-ios-calling-feature.html"
-    },
-    {
-      "id": 54,
-      "title": "Apple releases first iOS 26 public beta",
-      "summary": "Apple releases first iOS 26 public beta, featuring 'Liquid Glass' interface and improved AI capabilities.",
-      "source": "Macdailynews.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:51:38Z",
-      "url": "https://macdailynews.com/2025/07/24/apple-releases-first-ios-26-public-beta/"
     }
   ]
 }
