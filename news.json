@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-25T19:52:42.565Z",
+  "lastUpdate": "2025-07-25T20:17:42.718Z",
   "items": [
+    {
+      "id": 51,
+      "title": "You're Probably Using Google AI Overviews Wrong - Here's What You Need To Fix",
+      "summary": "Google's AI Overviews may be easier to read, but blindly trusting AI can lead to misinformation and inaccuracies.",
+      "source": "BGR",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:17:00Z",
+      "url": "https://www.bgr.com/1921229/how-to-use-google-ai-overviews/"
+    },
+    {
+      "id": 52,
+      "title": "Lip-Bu Evades Getting Booed As Intel’s Q2 2025 EPS Stinks, Revenue Surprises",
+      "summary": "Intel's Q2 2025 earnings per share disappointed but revenue surprised, possibly due to a pull-forward of demand as clients anticipated sector specific tariffs on semiconductors.",
+      "source": "Wccftech",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:16:36Z",
+      "url": "https://wccftech.com/lip-bu-evades-getting-booed-as-intels-q2-2025-eps-stinks-revenue-surprises/"
+    },
+    {
+      "id": 53,
+      "title": "EU sanctions envoy says Ireland must 'beef up' Naval Service",
+      "summary": "EU sanctions envoy urges Ireland to improve Naval Service to better monitor sanctioned Russian vessels off the west coast.",
+      "source": "RTE",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:15:54Z",
+      "url": "https://www.rte.ie/news/primetime/2025/0724/1525230-eu-sanctions-envoy-says-ireland-must-beef-up-naval-service/"
+    },
+    {
+      "id": 54,
+      "title": "Double PyTorch Inference Speed for Diffusion Models Using Torch-TensorRT",
+      "summary": "Double PyTorch inference speed for diffusion models using Torch-TensorRT, an AI inference library optimized for deployment on NVIDIA GPUs.",
+      "source": "Nvidia.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:15:02Z",
+      "url": "https://developer.nvidia.com/blog/double-pytorch-inference-speed-for-diffusion-models-using-torch-tensorrt/"
+    },
+    {
+      "id": 55,
+      "title": "Wide Acclaim for President Trump’s Visionary AI Action Plan - The White House (.gov)",
+      "summary": "Wide Acclaim for President Trump’s Visionary AI Action Plan receiving support from tech CEOs and potentially impacting states",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:15:02Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178458566"
+    },
+    {
+      "id": 56,
+      "title": "MidWestOne Financial Group, Inc. Reports Financial Results for the Second Quarter of 2025",
+      "summary": "MidWestOne Financial Group, Inc. reported financial results for the second quarter of 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121472/0/en/MidWestOne-Financial-Group-Inc-Reports-Financial-Results-for-the-Second-Quarter-of-2025.html"
+    },
+    {
+      "id": 57,
+      "title": "Trump’s AI Action Plan is a distraction",
+      "summary": "Trump's AI Action Plan contains proposed actions to continue American leadership in AI but is seen as a distraction.",
+      "source": "MIT Technology Review",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:15:00Z",
+      "url": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/"
+    },
+    {
+      "id": 58,
+      "title": "HeartSciences Provides Business Update and Reports Fiscal 2025 Financial Results",
+      "summary": "HeartSciences Inc. provides a business update and reports fiscal 2025 financial results. The company, known for its AI-powered medical technology, focuses on transforming ECGs/EKGs to enable earlier detection of heart disease.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-24T20:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121466/0/en/HeartSciences-Provides-Business-Update-and-Reports-Fiscal-2025-Financial-Results.html"
+    },
+    {
+      "id": 59,
+      "title": "CTO says companies are missing out by not writing internal documents that AI can easily read",
+      "summary": "CTO emphasizes the importance of writing internal documents that are readable for AI, stating it can benefit companies by reducing friction. Companies are urged to make their documentation accessible for AI technologies.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-24T20:14:50Z",
+      "url": "https://www.businessinsider.com/dx-cto-internal-documentation-written-for-ai-humans-efficiency-gain-2025-7"
+    },
+    {
+      "id": 60,
+      "title": "Spotify Caught Doing Something Unbelievably Ghoulish With AI",
+      "summary": "Spotify is using AI to publish new tunes by dead musicians, raising ethical concerns about manipulating the work of deceased artists.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:14:40Z",
+      "url": "https://futurism.com/spotify-ai-blaze-foley"
+    },
+    {
+      "id": 61,
+      "title": "Germany looks to reinvent warfare with spy cockroaches – Reuters",
+      "summary": "Germany is investing in defense tech startups for military expansion, including the use of spy cockroaches in warfare.",
+      "source": "RT",
+      "category": "applications",
+      "timestamp": "2025-07-24T20:12:51Z",
+      "url": "https://www.rt.com/news/621955-germany-militarization-russia-ukraine/"
+    },
+    {
+      "id": 62,
+      "title": "AI will soon be able to audit all published research – what will that mean for public trust in science?",
+      "summary": "AI will soon be able to audit all published research, potentially exposing fraud and inconsequential work, but it's important to ensure that this does not discredit science as a whole.",
+      "source": "The Conversation Africa",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:12:45Z",
+      "url": "https://theconversation.com/ai-will-soon-be-able-to-audit-all-published-research-what-will-that-mean-for-public-trust-in-science-261363"
+    },
+    {
+      "id": 63,
+      "title": "LVMH H1 Revenue Miss Shows Weakness in Luxury Retail",
+      "summary": "LVMH reported a decline in revenue for the first half of the year, mainly attributed to weakness in Asia, resulting in a 22% drop in earnings from the previous year.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:12:40Z",
+      "url": "http://www.pymnts.com/earnings/2025/lvmh-h1-revenue-miss-shows-weakness-in-luxury-retail/"
+    },
+    {
+      "id": 64,
+      "title": "White House bans 'woke' AI, but LLMs don't know the truth",
+      "summary": "White House bans 'woke' AI, but LLMs can only enforce consistency based on their training",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-24T20:10:20Z",
+      "url": "https://www.theregister.com/2025/07/24/white_house_wants_no_woke_ai/"
+    },
+    {
+      "id": 65,
+      "title": "Intel beats on revenue, issues better-than-expected forecast",
+      "summary": "Intel beats revenue expectations and issues positive forecast, emphasizing the need for all investments to be economically sound.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:09:05Z",
+      "url": "https://www.cnbc.com/2025/07/24/intel-intc-earnings-report-q2-2025.html"
+    },
+    {
+      "id": 66,
+      "title": "Personalized Mindfulness Therapies - Klai.me Delivers AI-Guided Loops for Mental Clarity and Calm (TrendHunter.com)",
+      "summary": "Klai.me uses AI to deliver personalized mindfulness therapies for mental clarity and calm.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T20:09:05Z",
+      "url": "https://www.trendhunter.com/trends/klaime"
+    },
+    {
+      "id": 67,
+      "title": "Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce",
+      "summary": "Intel stock rises as Q2 revenue beats expectations, company plans to cut 15% of workforce",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:08:51Z",
+      "url": "https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html"
+    },
+    {
+      "id": 68,
+      "title": "Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans",
+      "summary": "Intel beats Q2 revenue expectations but plans to cut workforce by 15% and cancels factory plans",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T20:08:51Z",
+      "url": "https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html"
+    },
     {
       "id": 51,
       "title": "Nvidia AI chips worth $1B smuggled to China after Trump export controls",
@@ -288,168 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T19:27:45Z",
       "url": "https://www.androidcentral.com/apps-software/meta/metas-breakthrough-wants-to-let-you-control-ar-glasses-just-by-moving-your-fingers"
-    },
-    {
-      "id": 55,
-      "title": "daagy-ai added to PyPI",
-      "summary": "daagy-ai, a terminal-based AI assistant, has been added to PyPI. It can execute natural language commands as shell instructions.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:26:59Z",
-      "url": "https://pypi.org/project/daagy-ai/"
-    },
-    {
-      "id": 56,
-      "title": "Can ‘MechaHitler’ Pass Trump’s Anti-Woke AI Test?",
-      "summary": "The President's executive order questions if AI models are biased against conservative viewpoints.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:25:34Z",
-      "url": "https://gizmodo.com/can-mechahitler-pass-trumps-anti-woke-ai-test-2000633882"
-    },
-    {
-      "id": 57,
-      "title": "35 Funniest Fails From People Having A Worse Week Than You (July 24, 2025)",
-      "summary": "A compilation of 35 funny fails showcasing people having a worse week than you, shared on Pleated Jeans website.",
-      "source": "Pleated-jeans.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:25:22Z",
-      "url": "https://pleated-jeans.com/2025/07/24/funniest-fails-3-31-25/"
-    },
-    {
-      "id": 58,
-      "title": "Lenovo IdeaPad Slim 5 16\" 1200p Touch, Ryzen AI 5 340, 16GB RAM, 512GB SSD $450 + Free S/H (0 replies)",
-      "summary": "Lenovo is offering the IdeaPad Slim 5 16\" with advanced AI features at a discounted price of $449.99 with free shipping, making it an affordable option for consumers looking for a high-performance laptop.",
-      "source": "Slickdeals.net",
-      "category": "economy",
-      "timestamp": "2025-07-24T19:24:36Z",
-      "url": "https://slickdeals.net/f/18481339-lenovo-ideapad-slim-5-16-1200p-touch-ryzen-ai-5-340-16gb-ram-512gb-ssd-450-free-s-h"
-    },
-    {
-      "id": 59,
-      "title": "Choosing the right AI tools for content and marketing: making informed choices for your business",
-      "summary": "Choosing the right AI tools for content and marketing is crucial for businesses to make informed decisions in their operations.",
-      "source": "YouTube",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:24:18Z",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DthCrVYlw1Bk"
-    },
-    {
-      "id": 60,
-      "title": "Red Cell Partners taps ex-Google, Amazon exec as chief product and technology officer",
-      "summary": "Red Cell Partners appoints ex-Google, Amazon exec as chief product and technology officer, bringing AI expertise to the McLean-based startup incubator.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T19:23:54Z",
-      "url": "https://biztoc.com/x/efac46fd87fa991a"
-    },
-    {
-      "id": 61,
-      "title": "Why This CEO Is Urging Companies To Prepare For The Quantum AI Revolution",
-      "summary": "Niccolo De Masi, CEO of IonQ, is urging companies to prepare for the Quantum AI Revolution by developing technology that could significantly impact artificial intelligence, in order to stay ahead of competitors.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:23:40Z",
-      "url": "https://www.forbes.com/video/8bd84821-25b3-46d3-81a7-c3c14657ccc9/why-this-ceo-is-urging-companies-to-prepare-for-the-quantum-ai-revolution/"
-    },
-    {
-      "id": 62,
-      "title": "Arizona woman in North Korean IT workers scheme sentenced to 8.5 years for helping to trick Fortune 500 companies out of millions",
-      "summary": "Arizona woman sentenced to 8.5 years for aiding North Korean IT workers scheme that tricked Fortune 500 companies out of millions, raising concerns about internal threats to organizations.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:23:14Z",
-      "url": "https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/"
-    },
-    {
-      "id": 63,
-      "title": "Building and evaluating alignment auditing agents",
-      "summary": "Developing three agents that autonomously perform alignment auditing tasks, successfully uncovering hidden goals in models with alignment issues.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-24T19:22:26Z",
-      "url": "https://www.lesswrong.com/posts/DJAZHYjWxMrcd2na3/building-and-evaluating-alignment-auditing-agents"
-    },
-    {
-      "id": 64,
-      "title": "Full List of MAGA Influencers at Odds With Trump Admin Over Epstein Files",
-      "summary": "MAGA influencers have broken with Trump over his approach to the Epstein files.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:22:19Z",
-      "url": "https://www.newsweek.com/maga-influencers-trump-epstein-backlash-2103693"
-    },
-    {
-      "id": 65,
-      "title": "Ready or Not Review: Immersive and Impressive",
-      "summary": "Ready or Not, a popular hardcore shooter known for its focus on realism and tension, has made its way to consoles. The game is immersive and impressive, but the question remains how well it translates to a controller.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:21:32Z",
-      "url": "http://comicbook.com/gaming/news/ready-or-not-review-xbox-ps5/"
-    },
-    {
-      "id": 66,
-      "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
-      "summary": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls found in traditional Mongolian nomadic shrines.",
-      "source": "Popular Science",
-      "category": "research",
-      "timestamp": "2025-07-24T19:21:06Z",
-      "url": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
-    },
-    {
-      "id": 67,
-      "title": "China is developing nation-spanning network to sell surplus data center compute power — latency, disparate hardware are key hurdles",
-      "summary": "China is building a centralized, state-run cloud platform to connect underused data centers nationwide and resell excess computing power.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:19:43Z",
-      "url": "https://www.tomshardware.com/desktops/servers/china-is-developing-nation-spanning-network-to-sell-surplus-data-center-compute-power-latency-disparate-hardware-are-key-hurdles"
-    },
-    {
-      "id": 68,
-      "title": "AI Job Searches - Launchpads Uses AI to Simplify and Personalize Your Job Hunt (TrendHunter.com)",
-      "summary": "AI Job Searches - Launchpads Uses AI to Simplify and Personalize Your Job Hunt, streamlining the job search experience for candidates and improving talent acquisition for employers.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:19:06Z",
-      "url": "https://www.trendhunter.com/trends/launchpads"
-    },
-    {
-      "id": 69,
-      "title": "EU cloud provider group files complaint over Broadcom’s VMware acquisition",
-      "summary": "EU cloud provider group files complaint over Broadcom’s VMware acquisition, citing potential competition issues.",
-      "source": "SiliconANGLE News",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:18:22Z",
-      "url": "https://siliconangle.com/2025/07/24/eu-cloud-provider-group-files-complaint-broadcoms-vmware-acquisition/"
-    },
-    {
-      "id": 70,
-      "title": "The White House orders tech companies to make AI bigoted again",
-      "summary": "The White House orders tech companies to make AI bigoted again, as President Trump expresses concerns about AI companies being too 'woke'.",
-      "source": "The Verge",
-      "category": "ethics",
-      "timestamp": "2025-07-24T19:18:17Z",
-      "url": "https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms"
-    },
-    {
-      "id": 51,
-      "title": "browse-to-test 0.2.4",
-      "summary": "browse-to-test 0.2.4 is an AI-powered browser automation tool that converts test scripts for testing purposes.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T19:13:02Z",
-      "url": "https://pypi.org/project/browse-to-test/0.2.4/"
-    },
-    {
-      "id": 52,
-      "title": "Fremont goes ‘all in on AI boom’ with new tech campus",
-      "summary": "Fremont is investing in AI technology by constructing a new tech campus in South Fremont, hoping to be at the forefront of the AI boom.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T19:12:28Z",
-      "url": "https://biztoc.com/x/0e7efb6fd25d9316"
     }
   ]
 }
