@@ -7,7 +7,7 @@
     "react": "latest",
     "react-dom": "latest",
     "@supabase/supabase-js": "^2.45.4",
-    "@supabase/ssr": "latest",  // New
+    "@supabase/ssr": "latest",
     "stripe": "^16.12.0"
   },
   "scripts": {
