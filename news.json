@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-25T05:23:11.487Z",
+  "lastUpdate": "2025-07-25T05:50:40.619Z",
   "items": [
+    {
+      "id": 51,
+      "title": "A Look At The Fair Value Of HMS Bergbau AG (ETR:HMU)",
+      "summary": "The projected fair value for HMS Bergbau is €79.92 based on 2 Stage Free Cash Flow to Equity with €66.00.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-24T05:50:09Z",
+      "url": "https://finance.yahoo.com/news/look-fair-value-hms-bergbau-055009799.html"
+    },
+    {
+      "id": 52,
+      "title": "Alphabet sees net profit rise 19%; says AI Mode ‘going well’ in India and the US",
+      "summary": "Alphabet's net profit rose 19% in Q2, driven by growth in Google Cloud and the impact of AI. AI implementation in India and the US is reported to be successful.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T05:49:09Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-sees-net-profit-rise-19-says-ai-mode-going-well-in-india-and-the-us/articleshow/122873506.cms"
+    },
+    {
+      "id": 53,
+      "title": "PayPal to create 100 jobs with AI fraud centre",
+      "summary": "PayPal is creating 100 jobs with an AI fraud center in Ireland, according to The Irish Times business desk.",
+      "source": "The Irish Times",
+      "category": "startups",
+      "timestamp": "2025-07-24T05:48:20Z",
+      "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-create-100-jobs-with-ai-fraud-centre/"
+    },
+    {
+      "id": 54,
+      "title": "QwenLM/qwen-code: qwen-code is a coding agent that lives in digital world.",
+      "summary": "QwenLM/qwen-code is a coding agent that exists in the digital world, providing users with a unique coding experience.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T05:47:01Z",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "id": 55,
+      "title": "Here's what Amazon pays its latest AI recruits across job roles — H-1B holders can make between ₹1.59-2.27 crore/year",
+      "summary": "Amazon is paying its latest AI recruits between ₹1.59-2.27 crore annually, with over 11,000 foreign workers onboarded in its recruitment blitz.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-24T05:46:32Z",
+      "url": "https://www.livemint.com/companies/news/amazon-salaries-ai-recruits-h-1b-holders-job-roles-software-engineer-analysts-managers-make-more-than-rs-2-crore-yearly-11753331385769.html"
+    },
+    {
+      "id": 56,
+      "title": "Turn Any Script into a Podcast Instantly (For Free!)",
+      "summary": "A new smart tool allows users to turn any script into a podcast instantly, without the need for a sound studio or editing knowledge. All that is required is the script, an internet connection, and the tool to execute the process for free.",
+      "source": "Radaronline.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T05:45:00Z",
+      "url": "https://radaronline.com/p/turn-any-script-into-a-podcast-instantly/"
+    },
+    {
+      "id": 57,
+      "title": "G.Skill T5 NEO R-DIMM Memory Bring DDR5-6400 CL38 Overclocked Speeds & Up To 512 GB Capacities To AMD’s Ryzen Threadripper PRO Workstations",
+      "summary": "G.Skill launches T5 NEO R-DIMM overclocked memory kits for AMD Threadripper PRO CPUs, offering DDR5-6400 speeds & 512 GB capacities, providing a boost to performance for AI-related applications.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-24T05:40:39Z",
+      "url": "https://wccftech.com/g-skill-t5-neo-r-dimm-memory-ddr5-6400-cl38-overclocked-512-gb-capacities-amd-ryzen-threadripper-pro/"
+    },
+    {
+      "id": 58,
+      "title": "2025年上半期にIFSが躍進：ARR30%成長、エージェントAIの導入でセメント産業に革新をもたらす",
+      "summary": "IFS Japan Corporation experiences significant growth in the first half of 2025 with a 30% increase in ARR, bringing innovation to the cement industry through the introduction of AI agents.",
+      "source": "Prtimes.jp",
+      "category": "innovation",
+      "timestamp": "2025-07-24T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000089.000064235.html"
+    },
+    {
+      "id": 59,
+      "title": "GMOインターネットによる特別講義を実施　「画像生成AIのビジネス活用」をテーマにHAL東京で開催",
+      "summary": "GMO Internet conducted a special lecture on 'Business Utilization of Image Generating AI' at HAL Tokyo.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-24T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000790.000011137.html"
+    },
     {
       "id": 51,
       "title": "bioguider 0.2.17",
@@ -369,87 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-24T04:01:00Z",
       "url": "http://digiday.com/media-buying/as-s4-struggles-sir-martin-sorrell-keeps-firing-shots-at-the-industry-he-created/"
-    },
-    {
-      "id": 51,
-      "title": "Sydney Sweeney Stars in American Eagle Fall 25 Campaign",
-      "summary": "Sydney Sweeney stars in American Eagle's Fall 2025 campaign, showcasing over 800 new fall styles including a variety of denim options.",
-      "source": "Just Jared",
-      "category": "applications",
-      "timestamp": "2025-07-24T03:12:34Z",
-      "url": "https://www.justjared.com/2025/07/23/sydney-sweeney-stars-in-american-eagle-fall-25-campaign/"
-    },
-    {
-      "id": 52,
-      "title": "A Preview of Things to Come",
-      "summary": "Preview of upcoming trends in AI-related fields such as database marketing, data mining, analytics, big data, forecasting, segmentation, predictive modeling, and measurement.",
-      "source": "Minethatdata.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T03:10:00Z",
-      "url": "https://blog.minethatdata.com/2025/07/a-preview-of-things-to-come.html"
-    },
-    {
-      "id": 53,
-      "title": "AWS closes China AI research center, citing boilerplate 'business priorities'",
-      "summary": "AWS closes China AI research center in Shanghai",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T03:08:43Z",
-      "url": "https://biztoc.com/x/5ede078e743b2b6a"
-    },
-    {
-      "id": 54,
-      "title": "SkillLink 0.2.1",
-      "summary": "SkillLink 0.2.1 is a modern manager for AI skills, tools, loading, execution, and automation, aimed at improving the efficiency of AI workflows.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T03:07:02Z",
-      "url": "https://pypi.org/project/skilllink/0.2.1/"
-    },
-    {
-      "id": 55,
-      "title": "SK hynix posts record profits on surging AI demand",
-      "summary": "SK hynix saw record profits as demand for AI-related products surged",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-24T03:06:56Z",
-      "url": "https://www.livemint.com/companies/company-results/sk-hynix-posts-record-profits-on-surging-ai-demand-11753326417393.html"
-    },
-    {
-      "id": 56,
-      "title": "Trump gets aggressive with new US AI action plan",
-      "summary": "The Trump administration is taking aggressive action with a new US AI action plan to win the global artificial intelligence race, focusing on exporting US-developed AI, enabling innovation and adoption, and promoting a speedy buildout of data.",
-      "source": "Computerworld",
-      "category": "economy",
-      "timestamp": "2025-07-24T03:06:33Z",
-      "url": "https://www.computerworld.com/article/4027726/trump-gets-aggressive-with-new-us-ai-action-plan.html"
-    },
-    {
-      "id": 57,
-      "title": "The 5 biggest takeaways from Tesla's Q2 earnings call",
-      "summary": "Elon Musk warns about a 'rough' few quarters during Tesla's Q2 earnings call, while also sharing updates on robotaxis and the 'more affordable' Tesla model.",
-      "source": "Business Insider",
-      "category": "innovation",
-      "timestamp": "2025-07-24T03:03:49Z",
-      "url": "https://www.businessinsider.com/five-big-takeaways-from-tesla-second-quarter-earnings-call-2025-7"
-    },
-    {
-      "id": 58,
-      "title": "Centene (CNC) Reports Earnings Tomorrow: What To Expect",
-      "summary": "Health coverage company Centene (NYSE:CNC) will be reporting earnings this Friday before market open.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T03:02:59Z",
-      "url": "https://finance.yahoo.com/news/centene-cnc-reports-earnings-tomorrow-030259814.html"
-    },
-    {
-      "id": 59,
-      "title": "Charter Earnings: What To Look For From CHTR",
-      "summary": "Charter (NASDAQ:CHTR) will be reporting earnings this Friday, providing insight into the performance of the cable, internet, and telephone services sector.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T03:02:57Z",
-      "url": "https://finance.yahoo.com/news/charter-earnings-look-chtr-030257142.html"
     }
   ]
 }
