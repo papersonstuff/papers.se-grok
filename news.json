@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-25T15:55:13.502Z",
+  "lastUpdate": "2025-07-25T16:20:21.286Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Un dipinto di Caravaggio esposto al museo Capodimonte,Napoli",
+      "summary": "A painting by Caravaggio is on display at the Capodimonte Museum in Naples, with visitors viewing two of his works. One of the paintings, 'Ecce Homo', was rediscovered in Madrid in 2021 after being created in Naples four centuries ago.",
+      "source": "ANSA.it",
+      "category": "innovation",
+      "timestamp": "2025-07-24T16:19:58Z",
+      "url": "https://www.ansa.it/sito/photogallery/curiosita/2025/07/24/un-dipinto-di-caravaggio-esposto-al-museo-capodimontenapoli_7761ed6b-ce4c-4ad9-9055-8cb213ad10f3.html"
+    },
+    {
+      "id": 52,
+      "title": "Digital literacy vs. digital fluency: Learn the differences",
+      "summary": "Business and IT leaders are emphasizing the importance of workers developing digital capabilities, distinguishing between digital literacy and digital fluency to address this need.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T16:19:00Z",
+      "url": "https://www.techtarget.com/searchcio/tip/Digital-literacy-vs-digital-fluency-Learn-the-differences"
+    },
+    {
+      "id": 53,
+      "title": "PayPal Now Available Directly in Wix Payments Platform in US",
+      "summary": "PayPal is now directly available in the Wix Payments platform in the US, offering a deeper integration for users. The service is currently available to Wix Payments users in the United States with plans for further expansion.",
+      "source": "pymnts.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T16:18:29Z",
+      "url": "http://www.pymnts.com/partnerships/2025/paypal-now-available-directly-wix-payments-platform-united-states/"
+    },
+    {
+      "id": 54,
+      "title": "‘The market didn’t need more of the same’: Media.net’s CRO on how SSPs are evolving",
+      "summary": "Media.net's CRO discusses the evolving landscape of SSPs and the strategic decision to launch its own SSP five years ago amidst a crowded market.",
+      "source": "Digiday",
+      "category": "innovation",
+      "timestamp": "2025-07-24T16:17:16Z",
+      "url": "http://digiday.com/sponsored/the-market-didnt-need-more-of-the-same-media-nets-cro-on-how-ssps-are-evolving/"
+    },
+    {
+      "id": 55,
+      "title": "LECTRA: First half 2025: stable revenues and limited decline in EBITDA in a context of increased volatility in Q2",
+      "summary": "LECTRA reports stable revenues and limited decline in EBITDA for the first half of 2025, amidst increased volatility in Q2.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T16:17:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121311/0/en/LECTRA-First-half-2025-stable-revenues-and-limited-decline-in-EBITDA-in-a-context-of-increased-volatility-in-Q2.html"
+    },
+    {
+      "id": 56,
+      "title": "Zircuit Launches AI Trading Engine for Lightning-Fast, Cross-Chain Trading",
+      "summary": "Zircuit launches AI trading engine for lightning-fast, cross-chain trading, building on the success of Deposit Vaults.",
+      "source": "The Daily Hodl",
+      "category": "startups",
+      "timestamp": "2025-07-24T16:16:33Z",
+      "url": "https://dailyhodl.com/2025/07/24/zircuit-launches-ai-trading-engine-for-lightning-fast-cross-chain-trading/"
+    },
+    {
+      "id": 57,
+      "title": "cellmap-data 2025.7.24.1615",
+      "summary": "Utility for loading CellMap data for machine learning training, utilizing PyTorch, Xarray, TensorStore, and PyDantic.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:16:06Z",
+      "url": "https://pypi.org/project/cellmap-data/2025.7.24.1615/"
+    },
+    {
+      "id": 58,
+      "title": "How Samsung's Galaxy AI Boosts Gaming Performance",
+      "summary": "Samsung's Galaxy S25 and S25 Ultra use AI to boost gaming performance, providing users with console-level gaming on their smartphones.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:15:51Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456612"
+    },
+    {
+      "id": 59,
+      "title": "LegalOn Closes $50M Series E, Partners With OpenAI To Develop Advanced AI Agents",
+      "summary": "LegalOn closes $50M Series E funding round and partners with OpenAI to develop advanced AI agents for their agentic AI product.",
+      "source": "Lawnext.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T16:15:00Z",
+      "url": "https://www.lawnext.com/2025/07/legalon-closes-50m-series-e-partners-with-openai-to-develop-advanced-ai-agents.html"
+    },
+    {
+      "id": 60,
+      "title": "LECTRA: Second Quarter and First Half 2025 financial report available",
+      "summary": "LECTRA releases financial report for Second Quarter and First Half of 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-24T16:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121308/0/en/LECTRA-Second-Quarter-and-First-Half-2025-financial-report-available.html"
+    },
+    {
+      "id": 61,
+      "title": "OpenAI said to release GPT-5 in August",
+      "summary": "OpenAI is set to release its most advanced AI assistant model, GPT-5, in August according to sources, marking a significant innovation in the field of AI.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-24T16:14:23Z",
+      "url": "https://biztoc.com/x/ebfa5f169349da08"
+    },
+    {
+      "id": 62,
+      "title": "Treatments From Llama Brains Can Help People With Schizophrenia",
+      "summary": "Antibodies from llamas could be used to create a new generation of schizophrenia treatments that can effectively target the brain, rather than just reducing symptoms.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-24T16:14:22Z",
+      "url": "https://biztoc.com/x/64b5b13851e6f149"
+    },
+    {
+      "id": 63,
+      "title": "3 Ways Automation Can Power Up Your Marketing",
+      "summary": "Real estate professionals can benefit from automation in marketing, which can save time and yield better results. By using AI-powered tools, listings can gain momentum and reach more potential buyers.",
+      "source": "Rismedia.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T16:14:13Z",
+      "url": "https://www.rismedia.com/2025/07/24/3-ways-automation-can-power-up-your-marketing-and-your-business/"
+    },
     {
       "id": 51,
       "title": "India-UK FTA unlocks financial services boom",
@@ -333,123 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T15:10:13Z",
       "url": "http://www.adexchanger.com/the-big-story/transparent-non-transparency/"
-    },
-    {
-      "id": 67,
-      "title": "Meta Ray-Bans vs. Oakley: I tested both smart glasses, there's a clear winner",
-      "summary": "Comparative review of Meta Ray-Bans and Oakley smart glasses to determine the better option in terms of functionality and cost.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:09:00Z",
-      "url": "https://www.zdnet.com/article/meta-ray-bans-vs-oakley-i-tested-both-smart-glasses-theres-a-clear-winner/"
-    },
-    {
-      "id": 68,
-      "title": "ASUS’ 2025 Vivobook 16 Flip 2-in-1 3K OLED touchscreen Copilot+ PC is now lower than it was during Prime Day at $1,000",
-      "summary": "ASUS’ 2025 Vivobook 16 Flip 2-in-1 3K OLED touchscreen Copilot+ PC is now available for $1,000, lower than it was during Prime Day. Amazon is offering the 16-inch variant for $999.99.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:08:37Z",
-      "url": "http://9to5toys.com/2025/07/24/asus-vivobook-16-flip-2-in-1-3k-oled-touchscreen-copilot-pc/"
-    },
-    {
-      "id": 69,
-      "title": "✚ Visualization and the machine",
-      "summary": "The article discusses the intersection of visualization and AI specifically in the context of data visualization, addressing the tiredness of the topic but highlighting its importance for human thought.",
-      "source": "Flowingdata.com",
-      "category": "research",
-      "timestamp": "2025-07-24T15:08:28Z",
-      "url": "https://flowingdata.com/2025/07/24/process-347-machine/"
-    },
-    {
-      "id": 51,
-      "title": "AI Coding Startup Cognition Is In Talks To Raise At A $10 Billion Valuation",
-      "summary": "AI coding startup Cognition is in talks to raise at a $10 billion valuation, backed by Founders Fund and Khosla Ventures. The startup is also acquiring the remains of rival Windsurf.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-24T14:53:04Z",
-      "url": "https://www.forbes.com/sites/richardnieva/2025/07/24/ai-coding-startup-cognition-is-in-talks-to-raise-at-a-10-billion-valuation/"
-    },
-    {
-      "id": 52,
-      "title": "Qualcomm Teases Big Wi-Fi 8 Speed, Latency And Reliability Uplifts",
-      "summary": "Qualcomm is teasing advancements in Wi-Fi 8 technology, focusing on speed, latency, and reliability improvements. This move comes as most users are still transitioning to Wi-Fi 6/6E and not yet considering Wi-Fi 7 hardware upgrades.",
-      "source": "Hot Hardware",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:53:00Z",
-      "url": "https://hothardware.com/news/qualcomm-teases-big-wi-fi-8-speed-latency-and-reliability-uplifts"
-    },
-    {
-      "id": 53,
-      "title": "Love Not War AI Unveils Mathematical Framework That Aligns Capitalism with Collective Good",
-      "summary": "Love Not War AI unveils a mathematical framework called 'Progressive Utility Mechanics' that aligns capitalism with the collective good, potentially offering scalable solutions to poverty, climate change, and global economic systems.",
-      "source": "GlobeNewswire",
-      "category": "research",
-      "timestamp": "2025-07-24T14:53:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121241/0/en/Love-Not-War-AI-Unveils-Mathematical-Framework-That-Aligns-Capitalism-with-Collective-Good.html"
-    },
-    {
-      "id": 54,
-      "title": "Sacha Baron Cohen Shocks Fans With Muscular Body Transformation to Play Marvel’s Mephisto: ‘This Is Not AI Hard Launching My Mid-Life Crisis’",
-      "summary": "Sacha Baron Cohen shocks fans with muscular body transformation to play Marvel’s Mephisto, emphasizing that it was not AI-generated. The actor's new look for the role has caught the attention of many, showcasing the transformative power of dedication and hard work.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T14:52:26Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456008"
-    },
-    {
-      "id": 55,
-      "title": "Analyst Explains How NVIDIA (NVDA) Can Reach $8 Trillion Market Cap",
-      "summary": "Analyst explains how NVIDIA can reach $8 trillion market cap and is considered one of the top stocks to buy and sell in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:52:14Z",
-      "url": "https://finance.yahoo.com/news/analyst-explains-nvidia-nvda-reach-145214797.html"
-    },
-    {
-      "id": 56,
-      "title": "Superintelligence isn’t Approximated by a Rational Agent",
-      "summary": "Superintelligence isn’t Approximated by a Rational Agent - Published on July 24, 2025 11:41 AM GMT",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-24T14:51:21Z",
-      "url": "https://www.lesswrong.com/posts/PBWWmKcfiwMH7iGPK/superintelligence-isn-t-approximated-by-a-rational-agent"
-    },
-    {
-      "id": 57,
-      "title": "Today Only: Save Big on Used Cameras and Lenses in KEH’s Overstock Sale",
-      "summary": "Today Only: Save Big on Used Cameras and Lenses in KEH’s Overstock Sale - For just one more day, KEH has nearly 3,000 pieces of overstock photography gear on sale, including cameras, lenses, tripods, and more.",
-      "source": "PetaPixel",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:51:16Z",
-      "url": "https://petapixel.com/2025/07/24/today-only-save-big-on-used-cameras-and-lenses-in-kehs-overstock-sale/"
-    },
-    {
-      "id": 58,
-      "title": "Security Bite: How to password protect sensitive image files on Mac",
-      "summary": "How to password protect sensitive image files on Mac using Security Bite by Mosyle.",
-      "source": "9to5Mac",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:51:03Z",
-      "url": "https://9to5mac.com/2025/07/24/security-bite-how-to-password-protect-sensitive-image-files-on-mac/"
-    },
-    {
-      "id": 59,
-      "title": "jarvis-ai-assistant 0.2.0",
-      "summary": "The Jarvis AI assistant 0.2.0 is a tool that interacts with the system using AI technology.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T14:51:02Z",
-      "url": "https://pypi.org/project/jarvis-ai-assistant/0.2.0/"
-    },
-    {
-      "id": 60,
-      "title": "Nvidia addresses AI chip smuggling, says bootleg datacenters are a 'losing proposition'",
-      "summary": "Nvidia addresses AI chip smuggling, says bootleg datacenters are a 'losing proposition'",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-24T14:50:01Z",
-      "url": "https://www.cnbc.com/2025/07/24/nvidia-ai-chips-smuggling-china-trump.html"
     }
   ]
 }
