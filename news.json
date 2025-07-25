@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-25T17:44:25.622Z",
+  "lastUpdate": "2025-07-25T17:53:10.033Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ai-subtitle-translator added to PyPI",
+      "summary": "An advanced subtitle translator with AI support has been added to PyPI, allowing for the conversion of SRT files to bilingual ASS files using various AI APIs such as OpenAI, Gemini, or DeepSeek.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:51:02Z",
+      "url": "https://pypi.org/project/ai-subtitle-translator/"
+    },
+    {
+      "id": 52,
+      "title": "Apple's iOS 26 brings the most significant change to your iPhone in years",
+      "summary": "Apple's iOS 26 brings significant changes to iPhones, marking a major update in years.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:50:58Z",
+      "url": "https://finance.yahoo.com/news/apples-ios-26-brings-the-most-significant-change-to-your-iphone-in-years-175058095.html"
+    },
+    {
+      "id": 53,
+      "title": "Countries will face tariffs ranging from 15% to 50%: Donald Trump",
+      "summary": "Countries will face tariffs ranging from 15% to 50% as announced by Donald Trump, marking a significant development in his trade strategy. Trump's decision to impose duties on various US trading partners reflects a more aggressive stance on export levies.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:50:27Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/countries-will-face-tariffs-ranging-from-15-to-50-donald-trump/articleshow/122888419.cms"
+    },
+    {
+      "id": 54,
+      "title": "Mastercard launches AI card design platform",
+      "summary": "Mastercard has launched an AI-based design tool to help issuers create payment cards with the click of a button.",
+      "source": "Finextra",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:50:17Z",
+      "url": "https://www.finextra.com/newsarticle/46351/mastercard-launches-ai-card-design-platform"
+    },
+    {
+      "id": 55,
+      "title": "Stanford dropout Sam Altman says college is ‘not working great’ for most people—and predicts major change in the next 18 years",
+      "summary": "Stanford dropout Sam Altman believes college is not working great for most people and predicts major change in the next 18 years, with the possibility that his own child may not attend college.",
+      "source": "Fortune",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:49:44Z",
+      "url": "https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/"
+    },
+    {
+      "id": 56,
+      "title": "Relationship Assistant Tools - Soulnotes Helps You Stay Thoughtful and Connected in Relationships (TrendHunter.com)",
+      "summary": "Soulnotes is a relationship-focused AI tool designed to support emotional connection and intentionality by tracking personal preferences, key dates, and relationship milestones.",
+      "source": "Trendhunter.com",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:48:06Z",
+      "url": "https://www.trendhunter.com/trends/soulnotes"
+    },
+    {
+      "id": 57,
+      "title": "Top IT Staff Augmentation Companies in USA 2025",
+      "summary": "Top IT Staff Augmentation Companies in USA 2025 - Staff augmentation is a strategy for smart tech teams looking to launch something big. Trying to plug skill gaps or scale without the overhead? Collaborate with a trusted IT staff augmentation company.",
+      "source": "HackRead",
+      "category": "startups",
+      "timestamp": "2025-07-24T17:47:25Z",
+      "url": "https://hackread.com/top-it-staff-augmentation-companies-in-usa-2025/"
+    },
+    {
+      "id": 58,
+      "title": "Stephen Gallagher: SSCG 3.0.8: Brought to you in part by Claude",
+      "summary": "Stephen Gallagher tests the viability of AI-supported coding with the Cursor IDE, powered by SSCG 3.0.8, in a series of experiments.",
+      "source": "Wordpress.com",
+      "category": "research",
+      "timestamp": "2025-07-24T17:45:20Z",
+      "url": "https://sgallagh.wordpress.com/2025/07/24/sscg-3-0-8-brought-to-you-in-part-by-claude/"
+    },
+    {
+      "id": 59,
+      "title": "So much for watermarks: UnMarker tool nukes AI provenance tags",
+      "summary": "Computer scientists at the University of Waterloo have developed a tool called UnMarker that can remove watermarks from AI-generated images, potentially impacting the tracking of deepfakes.",
+      "source": "Theregister.com",
+      "category": "research",
+      "timestamp": "2025-07-24T17:45:10Z",
+      "url": "https://www.theregister.com/2025/07/24/ai_watermarks_unmarker/"
+    },
+    {
+      "id": 60,
+      "title": "New data from Global Water Intelligence reveals impact of hyperscale data center boom on onsite water consumption and unprecedented growth in water technology and infrastructure spending",
+      "summary": "New data shows cooling innovations will limit data center water use rise to 50% by 2030, despite global capacity doubling.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121355/0/en/New-data-from-Global-Water-Intelligence-reveals-impact-of-hyperscale-data-center-boom-on-onsite-water-consumption-and-unprecedented-growth-in-water-technology-and-infrastructure-sp.html"
+    },
+    {
+      "id": 61,
+      "title": "The MacOS 26 public beta is finally here - 5 features I'm trying first",
+      "summary": "The MacOS 26 public beta has been released, with the MacOS Tahoe beta now available to the public. Check if your Mac can run it and explore five anticipated features.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:45:00Z",
+      "url": "https://www.zdnet.com/article/the-macos-26-public-beta-is-finally-here-5-features-im-trying-first/"
+    },
+    {
+      "id": 62,
+      "title": "Pedestrians now walk faster and linger less, researchers find",
+      "summary": "Pedestrians are now walking faster and lingering less in public spaces, with a 15 percent increase in walking speed compared to 1980, according to new study comparing street-level video footage.",
+      "source": "Mit.edu",
+      "category": "research",
+      "timestamp": "2025-07-24T17:45:00Z",
+      "url": "https://news.mit.edu/2025/pedestrians-now-walk-faster-and-linger-less-researchers-find-0724"
+    },
     {
       "id": 51,
       "title": "AI companions: A threat to love, or an evolution of it? | TechCrunch",
@@ -342,114 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T16:47:09Z",
       "url": "https://biztoc.com/x/f2940e3f6dbacc00"
-    },
-    {
-      "id": 61,
-      "title": "Interview Kickstart Machine Learning Course 2025 Update - FAANG ML Engineer Course with Projects",
-      "summary": "In an era where AI is increasingly powering everyday systems, ensuring fairness and mitigating bias in machine learning pipelines has become a top priority.",
-      "source": "GlobeNewswire",
-      "category": "ethics",
-      "timestamp": "2025-07-24T16:46:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121327/0/en/Interview-Kickstart-Machine-Learning-Course-2025-Update-FAANG-ML-Engineer-Course-with-Projects.html"
-    },
-    {
-      "id": 62,
-      "title": "HJT Crypto leads the Ripple revolution: Use XRP to remotely launch Bitcoin for free, with a surge of 35,000 users in a single day",
-      "summary": "HJT Crypto leads the Ripple revolution by allowing users to remotely launch Bitcoin for free using XRP, attracting a surge of 35,000 users in a single day. Users can earn daily rewards in various cryptocurrencies with no setup required, empowering them to take control of their financial future.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T16:46:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121326/0/en/HJT-Crypto-leads-the-Ripple-revolution-Use-XRP-to-remotely-launch-Bitcoin-for-free-with-a-surge-of-35-000-users-in-a-single-day.html"
-    },
-    {
-      "id": 63,
-      "title": "Free Spins No Deposit Casino Bonus | Real Money Online Casino No Deposit By Wild Casino",
-      "summary": "Free Spins No Deposit Casino Bonus offers are shaping how US players experience online casinos.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T16:46:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121324/0/en/Free-Spins-No-Deposit-Casino-Bonus-Real-Money-Online-Casino-No-Deposit-By-Wild-Casino.html"
-    },
-    {
-      "id": 64,
-      "title": "MSBFUND significantly increases its holdings of SOL tokens, injecting confidence into ecological development and driving a new round of value reassessment for the Solana chain",
-      "summary": "MSBFUND significantly increases its holdings of SOL tokens, injecting confidence into ecological development and driving a new round of value reassessment for the Solana chain.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T16:46:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121325/0/en/MSBFUND-significantly-increases-its-holdings-of-SOL-tokens-injecting-confidence-into-ecological-development-and-driving-a-new-round-of-value-reassessment-for-the-Solana-chain.html"
-    },
-    {
-      "id": 65,
-      "title": "Vine Meme Coin Spikes After Elon Musk Says the App Is Returning—With an AI Twist",
-      "summary": "Once-popular video app Vine is returning with an AI twist, leading to a spike in the Vine meme coin as crypto enthusiasts show interest.",
-      "source": "Decrypt",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:45:18Z",
-      "url": "https://decrypt.co/331590/vine-meme-coin-spikes-elon-musk-says-app-returning-ai"
-    },
-    {
-      "id": 66,
-      "title": "1 in 3 Americans ask ChatGPT to help them find a new job, study finds",
-      "summary": "1 in 3 Americans are using ChatGPT to help find a new job, with 18% being suggested an entirely new career path.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-24T16:44:01Z",
-      "url": "https://www.zdnet.com/article/1-in-3-americans-ask-chatgpt-to-help-them-find-a-new-job-study-finds/"
-    },
-    {
-      "id": 51,
-      "title": "Un dipinto di Caravaggio esposto al museo Capodimonte,Napoli",
-      "summary": "A painting by Caravaggio is on display at the Capodimonte Museum in Naples, with visitors viewing two of his works. One of the paintings, 'Ecce Homo', was rediscovered in Madrid in 2021 after being created in Naples four centuries ago.",
-      "source": "ANSA.it",
-      "category": "innovation",
-      "timestamp": "2025-07-24T16:19:58Z",
-      "url": "https://www.ansa.it/sito/photogallery/curiosita/2025/07/24/un-dipinto-di-caravaggio-esposto-al-museo-capodimontenapoli_7761ed6b-ce4c-4ad9-9055-8cb213ad10f3.html"
-    },
-    {
-      "id": 52,
-      "title": "Digital literacy vs. digital fluency: Learn the differences",
-      "summary": "Business and IT leaders are emphasizing the importance of workers developing digital capabilities, distinguishing between digital literacy and digital fluency to address this need.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T16:19:00Z",
-      "url": "https://www.techtarget.com/searchcio/tip/Digital-literacy-vs-digital-fluency-Learn-the-differences"
-    },
-    {
-      "id": 53,
-      "title": "PayPal Now Available Directly in Wix Payments Platform in US",
-      "summary": "PayPal is now directly available in the Wix Payments platform in the US, offering a deeper integration for users. The service is currently available to Wix Payments users in the United States with plans for further expansion.",
-      "source": "pymnts.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T16:18:29Z",
-      "url": "http://www.pymnts.com/partnerships/2025/paypal-now-available-directly-wix-payments-platform-united-states/"
-    },
-    {
-      "id": 54,
-      "title": "‘The market didn’t need more of the same’: Media.net’s CRO on how SSPs are evolving",
-      "summary": "Media.net's CRO discusses the evolving landscape of SSPs and the strategic decision to launch its own SSP five years ago amidst a crowded market.",
-      "source": "Digiday",
-      "category": "innovation",
-      "timestamp": "2025-07-24T16:17:16Z",
-      "url": "http://digiday.com/sponsored/the-market-didnt-need-more-of-the-same-media-nets-cro-on-how-ssps-are-evolving/"
-    },
-    {
-      "id": 55,
-      "title": "LECTRA: First half 2025: stable revenues and limited decline in EBITDA in a context of increased volatility in Q2",
-      "summary": "LECTRA reports stable revenues and limited decline in EBITDA for the first half of 2025, amidst increased volatility in Q2.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-24T16:17:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121311/0/en/LECTRA-First-half-2025-stable-revenues-and-limited-decline-in-EBITDA-in-a-context-of-increased-volatility-in-Q2.html"
-    },
-    {
-      "id": 56,
-      "title": "Zircuit Launches AI Trading Engine for Lightning-Fast, Cross-Chain Trading",
-      "summary": "Zircuit launches AI trading engine for lightning-fast, cross-chain trading, building on the success of Deposit Vaults.",
-      "source": "The Daily Hodl",
-      "category": "startups",
-      "timestamp": "2025-07-24T16:16:33Z",
-      "url": "https://dailyhodl.com/2025/07/24/zircuit-launches-ai-trading-engine-for-lightning-fast-cross-chain-trading/"
     }
   ]
 }
