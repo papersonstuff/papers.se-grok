@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-25T16:50:04.846Z",
+  "lastUpdate": "2025-07-25T17:17:01.308Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Hulk Hogan, wrestling superstar who helped reshape American media law, dies at 71",
+      "summary": "Hulk Hogan's lawsuit against Gawker Media, which resulted in a $140 million jury verdict, raised ethical questions about privacy and freedom of the press in American culture.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:15:45Z",
+      "url": "https://fortune.com/2025/07/24/hulk-hogan-obituary-wrestling-dead-71-peter-thiel-donald-trump/"
+    },
+    {
+      "id": 52,
+      "title": "Global markets soar amid signs of progress on US trade deals",
+      "summary": "Global markets are on the rise due to progress on US trade deals, with Euronext Dublin up 1.3% primarily driven by strong performances from Irish banks.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:15:20Z",
+      "url": "https://www.irishtimes.com/business/2025/07/24/global-markets-soar-amid-signs-of-progress-on-us-trade-deals/"
+    },
+    {
+      "id": 53,
+      "title": "Philanthropist Wendy Schmidt insists science and immersive media can inspire action for the planet",
+      "summary": "Philanthropist Wendy Schmidt believes in utilizing science and immersive media to drive action for the planet, with a focus on marine conservation alongside other Silicon Valley veterans' philanthropies.",
+      "source": "Boston Herald",
+      "category": "research",
+      "timestamp": "2025-07-24T17:15:06Z",
+      "url": "https://www.bostonherald.com/2025/07/24/philanthropy-wendy-schmidt/"
+    },
+    {
+      "id": 54,
+      "title": "TeleSpecialists Earns Second Consecutive HITRUST i1 Certification for TeleCare Platform",
+      "summary": "TeleSpecialists earns second consecutive HITRUST i1 certification for TeleCare platform, demonstrating sustained commitment to healthcare data protection and service to healthcare partners.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121341/0/en/TeleSpecialists-Earns-Second-Consecutive-HITRUST-i1-Certification-for-TeleCare-Platform.html"
+    },
+    {
+      "id": 55,
+      "title": "iOS 26 public beta now available with new design and more",
+      "summary": "The iOS 26 public beta is now available, bringing a new design and updates to iPhone apps. It showcases innovation in software development for Apple devices.",
+      "source": "9to5Mac",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:14:47Z",
+      "url": "https://9to5mac.com/2025/07/24/ios-26-now-available-features/"
+    },
+    {
+      "id": 56,
+      "title": "Installing the public betas? Here’s everything new with Apple Intelligence",
+      "summary": "Apple acknowledges challenges with AI-powered Siri overhaul at WWDC25 and highlights efforts in developing better models and features across their ecosystem.",
+      "source": "9to5Mac",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:14:41Z",
+      "url": "https://9to5mac.com/2025/07/24/installing-the-public-betas-heres-everything-new-with-apple-intelligence/"
+    },
+    {
+      "id": 57,
+      "title": "Amazon to shut down Shanghai AI research lab amid US-China tensions",
+      "summary": "Amazon is shutting down its Shanghai AI Research Institute, the company's last overseas AI lab under AWS, due to a 'strategic adjustment' between China and the US.",
+      "source": "TechNode",
+      "category": "research",
+      "timestamp": "2025-07-24T17:14:22Z",
+      "url": "http://technode.com/2025/07/25/amazon-to-shut-down-shanghai-ai-research-lab-amid-us-china-tensions/"
+    },
+    {
+      "id": 58,
+      "title": "watchOS 26 preview: a subtler take on AI",
+      "summary": "Apple launches watchOS 26 public beta with new Apple Intelligence features including Workout Buddy and messaging features.",
+      "source": "The Verge",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:14:19Z",
+      "url": "https://www.theverge.com/hands-on/710780/watchos-26-preview-apple-intelligence-workout-buddy-smart-stack-wrist-flick"
+    },
+    {
+      "id": 59,
+      "title": "Sundar Pichai net worth: Indian-origin Google CEO becomes a billionaire as Alphabet shares near record high",
+      "summary": "Sundar Pichai becomes a billionaire as Google's parent company Alphabet's market value surpasses $1 trillion, driven by strong earnings from AI demand.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:14:09Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/sundar-pichai-net-worth-indian-origin-google-ceo-becomes-a-billionaire-as-alphabet-shares-near-record-high/articleshow/122887631.cms"
+    },
+    {
+      "id": 60,
+      "title": "7 ways Linux can save you money",
+      "summary": "7 ways Linux can save you money - I've watched many people spend huge amounts of money keeping their computers running or up to speed. But they don't have to with Linux. Here's why.",
+      "source": "ZDNet",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:14:00Z",
+      "url": "https://www.zdnet.com/article/7-ways-linux-can-save-you-money/"
+    },
+    {
+      "id": 61,
+      "title": "watchOS 26 public beta lets you try smarter workouts with personality, new and improved Apple Watch apps",
+      "summary": "watchOS 26 public beta introduces smarter workouts with personality and new Apple Watch apps, available for testing before official release.",
+      "source": "9to5Mac",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:13:53Z",
+      "url": "https://9to5mac.com/2025/07/24/watchos-26-public-beta/"
+    },
+    {
+      "id": 62,
+      "title": "Financial discipline vital, mistakes costly distractions from group's purpose: Tata Sons Chairman",
+      "summary": "Financial discipline and strategic fitness are emphasized by Tata Sons Chairman for the group's ambitions, despite a dip in profit. Significant revenue growth and substantial investments in Tata Group companies highlighted.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-24T17:12:37Z",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/financial-discipline-vital-mistakes-costly-distractions-from-groups-purpose-tata-sons-chairman/articleshow/122887693.cms"
+    },
+    {
+      "id": 63,
+      "title": "South Park Declares War On Donald Trump With Its Shocking Season 27 Premiere",
+      "summary": "South Park's season 27 premiere declared war on Donald Trump and took direct shots at him, Paramount, and others, raising ethical questions about the portrayal and treatment of public figures in media.",
+      "source": "/FILM",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:12:31Z",
+      "url": "https://www.slashfilm.com/1921066/south-park-season-27-premiere-donald-trump-war/"
+    },
+    {
+      "id": 64,
+      "title": "Trump's AI plans will strip AI of intelligence and humanity – and nobody wants this",
+      "summary": "President Trump's AI plans are criticized for stripping intelligence and humanity from AI, with a focus on preventing diversity, equity, and inclusion in future models.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:12:15Z",
+      "url": "https://www.techradar.com/ai-platforms-assistants/trumps-ai-plans-will-strip-ai-of-intelligence-and-humanity-and-nobody-wants-this"
+    },
+    {
+      "id": 65,
+      "title": "LeBron James takes legal action over viral AI videos, forcing takedowns and setting precedent for likeness rights",
+      "summary": "LeBron James takes legal action over viral AI videos, asserting his likeness rights and combating unauthorized use of his image in AI-generated content.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:12:10Z",
+      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/lebron-james-takes-legal-action-over-viral-ai-videos-forcing-takedowns-and-setting-precedent-for-likeness-rights/articleshow/122887679.cms"
+    },
+    {
+      "id": 66,
+      "title": "Google Apologizes For Glitchy Assistant As Complaints Pile Up, Promises Major Improvements",
+      "summary": "Google apologizes for glitchy Assistant as complaints pile up and promises major improvements for Google Home, Nest smart speakers, and hubs affected by issues.",
+      "source": "Hot Hardware",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:12:00Z",
+      "url": "https://hothardware.com/news/google-apologizes-glitchy-assistant-promises-improvements"
+    },
+    {
+      "id": 67,
+      "title": "npcsh 1.0.8",
+      "summary": "npcsh 1.0.8 is a command-line toolkit for using AI agents in novel ways.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-24T17:11:00Z",
+      "url": "https://pypi.org/project/npcsh/1.0.8/"
+    },
+    {
+      "id": 68,
+      "title": "South Park Signs Deal, Then Skewers Paramount, Trump",
+      "summary": "South Park creators sign deal with Paramount but continue to skewer the company in the show's 27th season premiere, raising ethical questions about the relationship between creators and networks.",
+      "source": "Newser",
+      "category": "ethics",
+      "timestamp": "2025-07-24T17:11:00Z",
+      "url": "https://www.newser.com/story/372425/south-park-returns-to-skewer-paramount-trump.html"
+    },
+    {
+      "id": 69,
+      "title": "Aidoc gets $150M to support AI foundation model development",
+      "summary": "Aidoc secures $150M to further develop its AI foundation model and clinical AI operating platform.",
+      "source": "Techtarget.com",
+      "category": "startups",
+      "timestamp": "2025-07-24T17:11:00Z",
+      "url": "https://www.techtarget.com/healthtechanalytics/news/366628005/Aidoc-gets-150M-to-support-AI-foundation-model-development"
+    },
+    {
+      "id": 70,
+      "title": "SynLrn 0.1.0",
+      "summary": "SynLrn 0.1.0 is a modern method that enables AI to learn from each interaction, revolutionizing the way AI systems learn.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-24T17:10:10Z",
+      "url": "https://pypi.org/project/synlrn/0.1.0/"
+    },
     {
       "id": 51,
       "title": "Why I recommend this Asus laptop over the MacBook Pro to creators and professionals",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-24T15:54:01Z",
       "url": "https://www.thehindubusinessline.com/economy/india-uk-fta-unlocks-financial-services-boom/article69851376.ece"
-    },
-    {
-      "id": 52,
-      "title": "Tesla drops 9% after earnings miss — Elon Musk loses $12 billion amid historic revenue decline",
-      "summary": "Tesla's stock drops 9% after earnings miss, causing Elon Musk to lose $12 billion in value. The company reported a significant revenue decline in Q2 2025, with a 12% drop in revenue and weaker-than-expected profits.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T15:53:46Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/tesla-drops-9-after-earnings-miss-elon-musk-loses-12-billion-amid-historic-revenue-decline/articleshow/122886302.cms"
-    },
-    {
-      "id": 53,
-      "title": "dhrupad-sah-exception-catcher 1.0.4",
-      "summary": "dhrupad-sah-exception-catcher 1.0.4 tool has been developed to automatically catch and report exceptions to Mira Sentinel with rich context and log integration for AI-powered debugging and automatic fix generation.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:53:46Z",
-      "url": "https://pypi.org/project/dhrupad-sah-exception-catcher/1.0.4/"
-    },
-    {
-      "id": 54,
-      "title": "ISACA Expands Eligibility of First-ever Advanced AI Audit Certification",
-      "summary": "ISACA has expanded the eligibility of their first-ever Advanced AI Audit Certification, including six additional global credentials among prerequisites. This allows a greater number of audit certification holders to pursue the new Advanced in AI Audit (AAIA) credential.",
-      "source": "Financial Post",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:52:06Z",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/isaca-expands-eligibility-of-first-ever-advanced-ai-audit-certification"
-    },
-    {
-      "id": 55,
-      "title": "White House unveils sweeping plan to “win” global AI race through deregulation",
-      "summary": "White House unveils plan to \"win\" global AI race through deregulation, sparking pushback.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:52:06Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178456408"
-    },
-    {
-      "id": 56,
-      "title": "Hulk Hogan Dead At 71: Wrestler Died After 'Cardiac Arrest' Call - Updates",
-      "summary": "WWE legend Hulk Hogan has reportedly passed away at age 71, with the news being generated by an AI voice. The use of AI in creating news articles raises concerns about accuracy and potential inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:51:42Z",
-      "url": "https://biztoc.com/x/41c63d89768378cf"
-    },
-    {
-      "id": 57,
-      "title": "Sam Altman reveals his fears for humanity as ‘this weird emergent thing’ of AI keeps evolving: ‘No one knows what happens next’",
-      "summary": "Sam Altman expresses his concerns about the evolving nature of AI and its impact on humanity, emphasizing the urgent need for ethical alignment and a united cultural response.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:51:28Z",
-      "url": "https://biztoc.com/x/6173010b6a7a0dd6"
-    },
-    {
-      "id": 58,
-      "title": "vector-vault 7.1.2",
-      "summary": "Vector Vault 7.1.2 allows for the rapid creation of RAG apps and agents to utilize the full potential of AI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:51:18Z",
-      "url": "https://pypi.org/project/vector-vault/7.1.2/"
-    },
-    {
-      "id": 59,
-      "title": "MSI GeForce RTX 50 Series: Your Gateway to Next-Generation Gaming, Creativity, and Professional Excellence",
-      "summary": "MSI introduces the GeForce RTX 50 Series graphics cards which promise to provide next-generation gaming, creativity, and professional excellence through AI-related technology.",
-      "source": "Gadgets360.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:50:54Z",
-      "url": "https://www.gadgets360.com/laptops/sponsored/msi-geforce-rtx-50-series-your-gateway-to-next-generation-gaming-creativity-and-professional-excellence-8943402"
-    },
-    {
-      "id": 60,
-      "title": "Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation",
-      "summary": "Red Hat and Simudyne are collaborating to empower stock exchanges with AI-driven market simulation, catering to the demanding financial sector's need for efficient and uninterrupted workload support for analyzing market trends, executing trading decisions, and gaining a competitive advantage.",
-      "source": "Redhat.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:50:05Z",
-      "url": "https://www.redhat.com/en/blog/red-hat-and-simudyne-empowering-stock-exchanges"
-    },
-    {
-      "id": 61,
-      "title": "Sam Altman says ChatGPT is 'bad' and 'dangerous' if used like this: OpenAI CEO warns AI users",
-      "summary": "OpenAI CEO Sam Altman warns about the dangers of emotional dependence on ChatGPT for personal decisions.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:48:47Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/sam-altman-says-chatgpt-is-bad-and-dangerous-if-used-like-this-openai-ceo-warns-ai-users/articleshow/122886096.cms"
-    },
-    {
-      "id": 62,
-      "title": "How this Canadian developer is following up one of the most popular multiplayer games ever",
-      "summary": "Canadian developer Digital Extremes is following up its popular multiplayer game with a new original gaming property called Soulframe.",
-      "source": "MobileSyrup",
-      "category": "startups",
-      "timestamp": "2025-07-24T15:47:24Z",
-      "url": "https://mobilesyrup.com/2025/07/24/london-ontario-digital-extremes-soulframe-interview/"
-    },
-    {
-      "id": 51,
-      "title": "Lyft Will Let Users ‘Favorite’ or Block Drivers in Broader Loyalty Push",
-      "summary": "Lyft is allowing users to 'favorite' or block drivers as part of a loyalty push to encourage users to stay on the platform.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:41:59Z",
-      "url": "https://financialpost.com/pmn/business-pmn/lyft-will-let-users-favorite-or-block-drivers-in-broader-loyalty-push"
-    },
-    {
-      "id": 52,
-      "title": "Agentic AI systems ‘will provide enormous uplift in business performance’",
-      "summary": "Agentic AI systems are expected to significantly enhance business performance by working collaboratively, according to industry experts.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T15:41:12Z",
-      "url": "https://biztoc.com/x/927e03b35defc604"
-    },
-    {
-      "id": 53,
-      "title": "The Figma IPO Is Coming -- but Can It Justify Its Valuation?",
-      "summary": "The Figma IPO is anticipated to arrive, but questions remain about whether it can justify its valuation in a hot market for IPOs. Figma aims to enhance collaboration in design and user interface projects through its platform, which also includes plans to integrate artificial intelligence.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T15:41:07Z",
-      "url": "https://biztoc.com/x/4f71b872cae67599"
-    },
-    {
-      "id": 54,
-      "title": "Leveraging AI Multi-Agent Systems in Financial Analysis",
-      "summary": "Leveraging AI Multi-Agent Systems in Financial Analysis allows for decentralized intelligence and distributed problem-solving.",
-      "source": "Acm.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:41:06Z",
-      "url": "http://cacm.acm.org/blogcacm/leveraging-ai-multi-agent-systems-in-financial-analysis/"
-    },
-    {
-      "id": 55,
-      "title": "Chinese Authorities Warn Comedians Over Jokes About Men and Women",
-      "summary": "Chinese authorities warn comedians about jokes that could fuel resentment between men and women, as voice used in the act is AI-generated, leading to possible inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:41:02Z",
-      "url": "https://biztoc.com/x/77bf217c513cf7f6"
-    },
-    {
-      "id": 56,
-      "title": "South Park Roasted Trump and Paramount Right After Signing a $1B+ Deal With the Network",
-      "summary": "South Park's season 27 premiere mocks the cancelling of 'The Late Show' and CBS's settlement, right after Paramount signs a $1B+ deal with the network, raising concerns about ethics in the media industry.",
-      "source": "esquire.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T15:41:00Z",
-      "url": "https://www.esquire.com/entertainment/tv/a65498946/south-park-premiere-trump-paramount/"
-    },
-    {
-      "id": 57,
-      "title": "iPhone Users Are More Likely To Fall For Scams Than Android Users",
-      "summary": "iPhone users are more susceptible to online scams and less likely to practice safe online habits compared to Android users, according to research from cybersecurity firm Malwarebytes.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-24T15:40:57Z",
-      "url": "https://biztoc.com/x/94fdd093bce6e47d"
-    },
-    {
-      "id": 58,
-      "title": "Mom and Dad of 4 Used To Do Weekends Together—Then Realized Their Mistake",
-      "summary": "Two parents from Oklahoma City are going viral for using AI-generated voice technology to create much-needed time alone.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T15:40:55Z",
-      "url": "https://biztoc.com/x/f7c8b4d16d7bf281"
-    },
-    {
-      "id": 59,
-      "title": "Analysts unveil bold Amazon stock price target before earnings",
-      "summary": "Analysts predict Amazon stock price to rise due to the company's focus on generative artificial intelligence. Amazon acquires Bee AI, a startup specializing in AI-powered wearable devices, indicating a move into personal AI hardware.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-24T15:40:38Z",
-      "url": "https://biztoc.com/x/1e57be33858dc3c8"
     }
   ]
 }
