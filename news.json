@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T08:46:28.898Z",
+  "lastUpdate": "2025-07-26T09:15:47.180Z",
   "items": [
+    {
+      "id": 51,
+      "title": "8 Apple Notes Tricks for Ultimate Productivity in 2025",
+      "summary": "Apple Notes is a productivity tool that offers simple yet effective features for organizing digital notes. This article provides eight tricks for maximizing productivity with Apple Notes in 2025.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:15:18Z",
+      "url": "https://www.geeky-gadgets.com/8-apple-notes-productivity-tips/"
+    },
+    {
+      "id": 52,
+      "title": "BOFH: If you can't beat the AI, let it live inside you",
+      "summary": "BOFH episode discusses the implementation of an AI silo team in a company for workplace transformation.",
+      "source": "Theregister.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:15:10Z",
+      "url": "https://www.theregister.com/2025/07/25/bofh_2025_episode_14/"
+    },
+    {
+      "id": 53,
+      "title": "Space Debris Monitoring and Removal Market Trends Analysis Report 2025-2033 | Surge in LEO Satellite Launches and Collision Risks Drives Demand for AI-Enabled Solutions",
+      "summary": "The global space debris monitoring and removal market is expected to grow at a 7.8% CAGR, reaching USD 2.05 billion by 2033, driven by the surge in LEO satellite launches and collision risks. The demand for AI-enabled solutions to monitor and remove space debris is increasing due to the growing number of satellite deployments.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:15:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121670/28124/en/Space-Debris-Monitoring-and-Removal-Market-Trends-Analysis-Report-2025-2033-Surge-in-LEO-Satellite-Launches-and-Collision-Risks-Drives-Demand-for-AI-Enabled-Solutions.html"
+    },
+    {
+      "id": 54,
+      "title": "US large banks achieving virtuous tech investment cycle-new Celent report alert",
+      "summary": "US large banks are investing in technology, according to a new Celent report on retail banking insights from Q225 earnings presentations.",
+      "source": "Retailbankerinternational.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:14:46Z",
+      "url": "https://www.retailbankerinternational.com/news/us-large-banks-achieving-virtuous-tech-investment-cycle-new-celent-report-alert/"
+    },
+    {
+      "id": 55,
+      "title": "iOS 26 Public Beta: Check Out What's New on Your iPhone Lock Screen",
+      "summary": "iOS 26 Public Beta introduces new features and changes to the iPhone Lock Screen, available for testing ahead of the official release in the fall.",
+      "source": "MacRumors",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:14:41Z",
+      "url": "https://www.macrumors.com/2025/07/25/ios-26-check-your-iphone-lock-screen/"
+    },
+    {
+      "id": 56,
+      "title": "Transforming Lucknow’s Business Landscape with Affordable Digital Marketing and AI-Powered Growth",
+      "summary": "Transforming Lucknow’s Business Landscape with Affordable Digital Marketing and AI-Powered Growth - Imagine turning your small kirana store in Gomti Nagar into a thriving online business that reaches customers across Uttar Pradesh and beyond. Sounds like a dream? With the right digital marketing…",
+      "source": "Medium",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:13:38Z",
+      "url": "https://sheevumgoel.medium.com/transforming-lucknows-business-landscape-with-affordable-digital-marketing-and-ai-powered-growth-6eaa167e896f"
+    },
+    {
+      "id": 57,
+      "title": "Google Search is learning how you think and results won't look the same anymore",
+      "summary": "Google Search is experimenting with a new Web Guide feature that personalizes results based on how users think, offering a glimpse of the platform's future direction.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:12:53Z",
+      "url": "https://www.phonearena.com/news/google-search-learning-how-you-think-results-wont-look-same-anymore_id172626"
+    },
+    {
+      "id": 58,
+      "title": "Alternative Legal Service Providers Market Trends Analysis Report 2025-2033 | ALSPs Exploit Technology to Meet Rising Demand for Affordable, Efficient Legal Services",
+      "summary": "The global Alternative Legal Service Providers market is poised to grow from USD 24.49 billion in 2024 to USD 49.61 billion by 2033, at a CAGR of 8.3% as ALSPs leverage AI and automation to meet rising demand for affordable and efficient legal services.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:11:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121666/28124/en/Alternative-Legal-Service-Providers-Market-Trends-Analysis-Report-2025-2033-ALSPs-Exploit-Technology-to-Meet-Rising-Demand-for-Affordable-Efficient-Legal-Services.html"
+    },
+    {
+      "id": 59,
+      "title": "Donald Trump's Approval Rating With Women Reverses Course",
+      "summary": "President Donald Trump's approval rating with women has declined since June, according to Fox News polling.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:09:23Z",
+      "url": "https://biztoc.com/x/e63260e37c08aa8e"
+    },
+    {
+      "id": 60,
+      "title": "How Iran Missiles Prepared US Patriot Units for Pacific War",
+      "summary": "U.S. Patriot air defense units in Northeast Asia may have gained insights from recent combat experience in the Middle East, aiding their preparation for potential aggression from China and North Korea.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:09:19Z",
+      "url": "https://biztoc.com/x/67673f3647334484"
+    },
+    {
+      "id": 61,
+      "title": "Saving the World's Rainforests Isn't Rocket Science. Here's How to Do It | Opinion",
+      "summary": "Saving the World's Rainforests Isn't Rocket Science. Here's How to Do It.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:09:17Z",
+      "url": "https://biztoc.com/x/7f437c4625f75b2d"
+    },
+    {
+      "id": 62,
+      "title": "Donald Trump's Approval Rating Changes Direction With Working Class",
+      "summary": "Donald Trump's approval rating among working-class voters is stabilizing and slightly rebounding according to new polling data.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T09:09:09Z",
+      "url": "https://biztoc.com/x/d156c8938e45589c"
+    },
+    {
+      "id": 63,
+      "title": "Taiwan Holds High-Stakes Recall Elections As China Watches On",
+      "summary": "Voters in cities and counties across Taiwan will head to the polls in the 'Great Recall' to decide on the jobs of legislators and local leaders. This event showcases the innovative implementation of AI-generated voice technology in news reporting.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:09:04Z",
+      "url": "https://biztoc.com/x/333e46a5120bca10"
+    },
+    {
+      "id": 64,
+      "title": "Trump says he wanted to break Nvidia up—until he learned who Jensen Huang was",
+      "summary": "President Trump considered breaking up Nvidia before learning about CEO Jensen Huang and the company's market dominance, revealed during an AI summit in Washington.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:08:58Z",
+      "url": "https://biztoc.com/x/0a4fdd0e44203df2"
+    },
+    {
+      "id": 65,
+      "title": "Tech Companies: Stop Using AI In Hiring. Do This Instead",
+      "summary": "Tech companies are being advised to stop using AI in hiring to avoid potential issues in the future, such as an AI agent hiring another AI. The article suggests exploring alternative methods for hiring instead of relying on AI.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:08:54Z",
+      "url": "https://biztoc.com/x/5ac77bf95bed40f8"
+    },
+    {
+      "id": 66,
+      "title": "Street Fighter 6 art contest rocked by AI controversy, disqualification issued",
+      "summary": "Street Fighter 6 art contest rocked by AI controversy, disqualification issued after accusations of winning entry made using AI.",
+      "source": "Eurogamer.net",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:07:03Z",
+      "url": "https://www.eurogamer.net/street-fighter-6-art-contest-rocked-by-ai-controversy-disqualification-issued"
+    },
+    {
+      "id": 67,
+      "title": "Pegasystems (NASDAQ:PEGA) Rating Increased to Hold at DA Davidson",
+      "summary": "DA Davidson upgraded shares of Pegasystems to a hold rating and issued estimates for earnings in Q2 2025 and FY2025.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:06:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/pegasystems-nasdaqpega-rating-increased-to-hold-at-da-davidson/"
+    },
+    {
+      "id": 68,
+      "title": "Disrupting credit: Accumn’s Aniket Shah talks about how smart underwriting is reshaping retail lending",
+      "summary": "Accumn's Aniket Shah discusses the shift towards AI-powered systems in credit underwriting, leading to FinTech NBFCs disbursing more personal loans while banks tighten underwriting processes.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:05:06Z",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/disrupting-credit-accumns-aniket-shah-talks-about-how-smart-underwriting-is-reshaping-retail-lending/articleshow/122901220.cms"
+    },
+    {
+      "id": 69,
+      "title": "Surprising insights",
+      "summary": "Surprising insights - People like that, like this. When we can build connections between demographics and psychographics, it’s easier to surprise, delight and serve our customers.",
+      "source": "Seths.blog",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:03:00Z",
+      "url": "https://seths.blog/2025/07/surprising-insights/"
+    },
     {
       "id": 51,
       "title": "Shiv Tandav Stotram Celebrates The Cosmic Dance",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T08:09:00Z",
       "url": "http://comicbook.com/tv-shows/news/beavis-and-butt-head-live-action-mike-judge-comments-sdcc-2025/"
-    },
-    {
-      "id": 65,
-      "title": "Trends & Strategies Shaping the Construction Industry 2025-2029",
-      "summary": "AI and Green Building Certifications are expected to drive growth in the construction market from 2025-2029.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:08:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121633/28124/en/Trends-Strategies-Shaping-the-Construction-Industry-2025-2029.html"
-    },
-    {
-      "id": 66,
-      "title": "opsmith-cli 0.2.2b0",
-      "summary": "Opsmith-cli 0.2.2b0 introduces an AI devops engineer that operates in the terminal, providing innovative automation capabilities for developers.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:07:24Z",
-      "url": "https://pypi.org/project/opsmith-cli/0.2.2b0/"
-    },
-    {
-      "id": 67,
-      "title": "UAV Propulsion Market Forecast to Reach $11.3 Billion by 2030: Projections by Technology, Component, Platform, MTOW and Region Featuring Profiles of Industry Leaders",
-      "summary": "UAV Propulsion Market Forecast to Reach $11.3 Billion by 2030, with the power source segment leading growth driven by demand for electric drones and clean propulsion technologies.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:07:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121632/28124/en/UAV-Propulsion-Market-Forecast-to-Reach-11-3-Billion-by-2030-Projections-by-Technology-Component-Platform-MTOW-and-Region-Featuring-Profiles-of-Industry-Leaders.html"
-    },
-    {
-      "id": 51,
-      "title": "ChatGPT Booked My Hotel While I Made My Coffee",
-      "summary": "ChatGPT, an autonomous AI system, made a hotel reservation on behalf of a user by parsing ambiguous input and retaining contextual preferences.",
-      "source": "Hospitality Net",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:45:17Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128296.html"
-    },
-    {
-      "id": 52,
-      "title": "SK Hynix accelerates investment for 2025 HBM boom as Samsung targets Nvidia certification in third quarter",
-      "summary": "SK Hynix accelerates investment for 2025 HBM boom as Samsung targets Nvidia certification in third quarter, driving demand for high-bandwidth memory (HBM) in AI servers. HBM market leader SK Hynix and Micron show strong operational results, while Samsung Electronics' HBM3E continues to strive for certification.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:41:31Z",
-      "url": "https://www.digitimes.com/news/a20250725PD212/sk-hynix-samsung-hbm-asic-2025.html"
-    },
-    {
-      "id": 53,
-      "title": "Metaverse Stocks To Follow Now – July 23rd",
-      "summary": "NVIDIA, Accenture, and Globant are the three Metaverse stocks to watch today, according to MarketBeat’s stock screener tool.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:40:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/metaverse-stocks-to-follow-now-july-23rd/"
-    },
-    {
-      "id": 54,
-      "title": "Best Telecom Stocks To Research – July 23rd",
-      "summary": "Broadcom, AT&T, ServiceNow, Arista Networks, Huntington Bancshares, Palo Alto Networks, and Corning are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that build, maintain and operate telecommunications networks.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:40:48Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/best-telecom-stocks-to-research-july-23rd/"
-    },
-    {
-      "id": 55,
-      "title": "Nifty 50 underperforms global peers in 2025 as high valuations weigh",
-      "summary": "Nifty 50 underperforms global peers in 2025 as high valuations weigh - The high valuation of Indian stocks appears to be weighing on them. With price-earnings multiple of 24.6 and price-to-book ratio at 5.3, Nifty 50 is the most expensive after the S&P 500",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:39:31Z",
-      "url": "https://www.thehindubusinessline.com/data-stories/nifty-50-underperforms-global-peers-in-2025-as-high-valuations-weigh/article69853888.ece"
-    },
-    {
-      "id": 56,
-      "title": "(PR) QNAP Officially Launches Dual-NAS High Availability Solution for Continuous Business Operations",
-      "summary": "QNAP Systems, Inc. officially launches a Dual-NAS High Availability Solution to provide businesses with uninterrupted access to critical data and services.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:38:15Z",
-      "url": "https://www.techpowerup.com/339273/qnap-officially-launches-dual-nas-high-availability-solution-for-continuous-business-operations"
-    },
-    {
-      "id": 57,
-      "title": "Head to Head Comparison: Linkers Industries (NASDAQ:LNKS) and Aeluma (NASDAQ:ALMU)",
-      "summary": "Linkers Industries and Aeluma, both small-cap manufacturing companies, are compared based on dividends and analyst recommendations.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:35:10Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/head-to-head-comparison-linkers-industries-nasdaqlnks-and-aeluma-nasdaqalmu/"
-    },
-    {
-      "id": 58,
-      "title": "Samsung launches Z Flip 7, Flip 7 FE, Fold 7, and Watch 8 in 49 countries globally",
-      "summary": "Samsung launches Z Flip 7, Flip 7 FE, Fold 7, and Watch 8 in 49 countries globally, expanding its range of foldable phones and smartwatches.",
-      "source": "SamMobile",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:33:35Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-watch-owners-read-this-before-trusting-the-spo2-panel/"
-    },
-    {
-      "id": 59,
-      "title": "Bitcoin Swift Presale Enters Final 24 Hours of Stage 1 with Token Fixed at $1",
-      "summary": "Bitcoin Swift presale is in its final 24 hours of Stage 1, with the token fixed at $1. Stage 2 will introduce a price increase and APY adjustment as the project prepares for Solana deployment and AI-driven governance rollout.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-25T07:33:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121622/0/en/Bitcoin-Swift-Presale-Enters-Final-24-Hours-of-Stage-1-with-Token-Fixed-at-1.html"
-    },
-    {
-      "id": 51,
-      "title": "Here's a case for why AI should pay for the environmental damage it causes",
-      "summary": "AI should pay for the environmental damage it causes as policymakers have overlooked its hefty environmental cost, similar to the fossil-fuel industry being given free rein despite its climate cost.",
-      "source": "Livemint",
-      "category": "ethics",
-      "timestamp": "2025-07-25T07:30:14Z",
-      "url": "https://www.livemint.com/opinion/online-views/ai-taxation-climate-change-data-centers-fossil-fuels-laurence-tubiana-carbon-emissions-sustainability-electricity-petrol-11753424909940.html"
-    },
-    {
-      "id": 52,
-      "title": "Software-defined vehicles drive next-gen auto architectures",
-      "summary": "Software-defined vehicles are driving next-gen auto architectures in the automotive industry, showcasing a shift towards functionality, user experience, and monetization opportunities being governed by software rather than hardware.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:30:00Z",
-      "url": "https://www.computerweekly.com/news/366628157/Software-defined-vehicles-drive-next-gen-auto-architectures"
-    },
-    {
-      "id": 53,
-      "title": "The emerging network of mutualistic technologies",
-      "summary": "The emerging network of mutualistic technologies is advancing large investments, opening new opportunities and applications. Each technology is set to act as an enabler for the other technologies’ applications.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:30:00Z",
-      "url": "https://www.computerweekly.com/feature/The-emerging-network-of-mutualistic-technologies"
-    },
-    {
-      "id": 54,
-      "title": "Colleges Should Begin Putting Science First",
-      "summary": "Colleges need to prioritize science and digital transformation to avoid negative consequences from economic changes.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:30:00Z",
-      "url": "https://www.forbes.com/sites/ryancraig/2025/07/25/colleges-should-begin-putting-science-first/"
-    },
-    {
-      "id": 55,
-      "title": "Pegasystems (NASDAQ:PEGA) Trading 8.4% Higher After Earnings Beat",
-      "summary": "Pegasystems Inc. shares surged 8.4% after reporting strong quarterly earnings, with the stock reaching $56.07 before settling at $55.22. A total of 687,589 shares were traded during the day.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:28:45Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/pegasystems-nasdaqpega-trading-8-4-higher-after-earnings-beat/"
-    },
-    {
-      "id": 56,
-      "title": "Astera Labs (NASDAQ:ALAB) Trading Up 2.8% on Analyst Upgrade",
-      "summary": "Astera Labs (NASDAQ:ALAB) Trading Up 2.8% on Analyst Upgrade - Jefferies Financial Group raised their price target on the stock from $95.00 to $130.00, leading to a 2.8% increase in mid-day trading. Jefferies currently has a buy rating on Astera Labs' stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:28:44Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/astera-labs-nasdaqalab-trading-up-2-8-on-analyst-upgrade/"
-    },
-    {
-      "id": 57,
-      "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
-      "summary": "Asian shares retreated on Friday after Wall Street inched to more records as gains for Alphabet and artificial-intelligence stocks helped offset a steep tumble for EV-maker Tesla.",
-      "source": "Japan Today",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:25:26Z",
-      "url": "https://japantoday.com/category/business/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records"
     }
   ]
 }
