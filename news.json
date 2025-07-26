@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T06:51:54.092Z",
+  "lastUpdate": "2025-07-26T07:15:30.665Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Should you buy a robot lawn mower with no boundary wire? My verdict after months of testing",
+      "summary": "Should you buy a robot lawn mower with no boundary wire? Eufy's initial robot lawn mower offers a straightforward setup by eliminating the need for a boundary wire and antenna, available on Amazon with a $900 discount.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:15:13Z",
+      "url": "https://www.zdnet.com/article/should-you-buy-a-robot-lawn-mower-with-no-boundary-wire-my-verdict-after-months-of-testing/"
+    },
+    {
+      "id": 52,
+      "title": "Believing That AGI And AI Superintelligence Will Give Us The True Meaning Of Life",
+      "summary": "Advancing AI to AGI is believed to potentially provide the answer to the meaning of life.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-25T07:15:00Z",
+      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/25/believing-that-agi-and-ai-superintelligence-will-give-us-the-true-meaning-of-life/"
+    },
+    {
+      "id": 53,
+      "title": "Loop Capital Raises Monolithic Power Systems (NASDAQ:MPWR) Price Target to $800.00",
+      "summary": "Loop Capital raises Monolithic Power Systems price target to $800 based on research analysis.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-25T07:13:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/loop-capital-raises-monolithic-power-systems-nasdaqmpwr-price-target-to-800-00/"
+    },
+    {
+      "id": 54,
+      "title": "NVDA Stock Price Prediction: Where Nvidia Could Be by 2025, 2026, 2030",
+      "summary": "Analysts are bullish on NVDA stock, predicting a $1,000 share price by 2030 due to increasing demand for AI technology. Nvidia is considered the stock of the decade as AI applications continue to grow.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:08:52Z",
+      "url": "https://finance.yahoo.com/news/nvda-stock-price-prediction-where-070852948.html"
+    },
+    {
+      "id": 55,
+      "title": "Nvidia's flagship chips pour into China via gray channels: US$1B smuggled in 3 months",
+      "summary": "Nvidia's high-end GPUs worth over US$1 billion have been smuggled into China in just three months, despite stricter export controls, raising concerns about the efficacy of US trade restrictions.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:06:53Z",
+      "url": "https://www.digitimes.com/news/a20250725PD223/nvidia-high-end-ai-chip-china.html"
+    },
+    {
+      "id": 56,
+      "title": "Music meets AI? AR Rahman’s meeting with OpenAI CEO fuels buzz around mysterious ‘Secret Mountain’ project",
+      "summary": "Music meets AI as A.R. Rahman's meeting with OpenAI's CEO sparks speculation about the Secret Mountain project, a global initiative blending music and AI to empower Indian creators.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:06:19Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/music-meets-ai-ar-rahmans-meeting-with-openai-ceo-fuels-buzz-around-mysterious-secret-mountain-project/articleshow/122898552.cms"
+    },
+    {
+      "id": 57,
+      "title": "FDA: Ai tools cites nonexistent studies [ABC Columbia]",
+      "summary": "FDA facing challenges with AI tools referencing non-existent studies",
+      "source": "Abccolumbia.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T07:06:13Z",
+      "url": "https://www.abccolumbia.com/2025/07/24/fda-ai-tools-cites-nonexistent-studies/"
+    },
+    {
+      "id": 58,
+      "title": "Galaxy S25 FE leak reveals new colors, bad news for RAM and storage",
+      "summary": "The latest Galaxy S25 FE leak reveals that Samsung may not be offering future-proof RAM and storage options, potentially limiting the device's longevity.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:04:58Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-fe-ram-storage-colors-leak-3580956/"
+    },
+    {
+      "id": 59,
+      "title": "huggingface-hub-gomall added to PyPI",
+      "summary": "huggingface-hub-gomall added to PyPI - Client library to download and publish models, datasets and other repos on the huggingface.co hub",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:04:01Z",
+      "url": "https://pypi.org/project/huggingface-hub-gomall/"
+    },
+    {
+      "id": 60,
+      "title": "Reach PLC (FRA:MRR) (Q2 2025) Earnings Call Highlights: Navigating Challenges with Digital ...",
+      "summary": "Reach PLC (FRA:MRR) leverages digital expansion and AI to drive profitability and audience growth despite a decline in print revenues.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:02:31Z",
+      "url": "https://finance.yahoo.com/news/reach-plc-fra-mrr-q2-070231547.html"
+    },
+    {
+      "id": 61,
+      "title": "Prophets of Technology: The Biotech Visionaries",
+      "summary": "Prophets of Technology: The Biotech Visionaries explores the people behind the AI inflection point, reporting on the latest in tech future predictions and shaping.",
+      "source": "NPR",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:00:59Z",
+      "url": "https://www.npr.org/2025/07/25/1256217302/ted-radio-hour-prophets-of-technology-part-3"
+    },
+    {
+      "id": 62,
+      "title": "ClassDojo For Districts Unveils New Features For 2025–26 School Year",
+      "summary": "ClassDojo for Districts introduces new AI features for the upcoming school year to improve communication and streamline oversight, all while helping teachers save time and districts manage budget uncertainty for free.",
+      "source": "Elearningindustry.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:00:17Z",
+      "url": "https://elearningindustry.com/press-releases/classdojo-for-districts-unveils-new-features-for-2025-26-school-year"
+    },
+    {
+      "id": 63,
+      "title": "Finally, an Android smartwatch with extensive health tracking (and doesn't break the bank)",
+      "summary": "The Amazfit BIP 5 smartwatch offers extensive health tracking capabilities at an affordable price, using the Zepp app for data analysis.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:00:16Z",
+      "url": "https://www.zdnet.com/article/finally-an-android-smartwatch-with-extensive-health-tracking-and-doesnt-break-the-bank/"
+    },
+    {
+      "id": 64,
+      "title": "Is AI an Academic Freedom Issue?",
+      "summary": "The article questions whether AI poses a threat to academic freedom.",
+      "source": "Inside Higher Ed",
+      "category": "ethics",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.insidehighered.com/opinion/columns/just-visiting/2025/07/25/faculty-better-get-active-ai-and-academic-freedom"
+    },
+    {
+      "id": 65,
+      "title": "Data, digital receipts and demanding customers",
+      "summary": "More UK retailers are transitioning from paper to digital receipts, citing benefits such as improved data collection and customer convenience. However, this shift presents challenges and tech implications in terms of data security and compliance.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.computerweekly.com/feature/Data-digital-receipts-and-demanding-customers"
+    },
+    {
+      "id": 66,
+      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
+      "summary": "Amsflow is offering a Pro Plan for AI financial analysis at a discounted price, providing investors with AI-driven market intelligence to power their portfolios.",
+      "source": "Stacksocial.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription"
+    },
+    {
+      "id": 67,
+      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
+      "summary": "Amsflow offers a Pro Plan for $49 with AI-powered financial analysis, providing market intelligence for investors and teams.",
+      "source": "Stacksocial.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription?aid="
+    },
+    {
+      "id": 68,
+      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
+      "summary": "Amsflow AI Financial Analysis offers a Pro Plan for $49 with AI-powered market intelligence, providing investors and teams with AI-driven insights. The offer expires on January 22, 2026, 07:59 PST.",
+      "source": "Stacksocial.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription?utm_source=&amp;utm_campaign=amsflow-pro-plan-1-year-subscription&amp;utm_medium=dealfeed&amp;utm_content="
+    },
+    {
+      "id": 69,
+      "title": "After testing Dynabook's new business laptop, I think every laptop should have a replaceable battery",
+      "summary": "After testing Dynabook's new business laptop, it is suggested that all laptops should have a replaceable battery. The Dynabook Portégé Z40L-N is a lightweight business workhorse with impressive battery life.",
+      "source": "Creative Bloq",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:00:00Z",
+      "url": "https://www.creativebloq.com/tech/laptops/after-testing-dynabooks-new-business-laptop-i-think-every-laptop-should-have-a-replaceable-battery"
+    },
     {
       "id": 51,
       "title": "Taiwan's industry giants unite to tackle humanoid robot power crisis",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T06:07:56Z",
       "url": "https://www.geeky-gadgets.com/qwen-3-coder-large-language-model/"
-    },
-    {
-      "id": 62,
-      "title": "Samsung launches new foldables and smartwatches with a big focus on AI",
-      "summary": "Samsung launches new foldables and smartwatches with a big focus on AI, including Galaxy Z Fold7, Z Flip7, Z Flip7 FE, Galaxy Watch8, and Watch8 Classic.",
-      "source": "Neowin",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:06:01Z",
-      "url": "https://www.neowin.net/news/samsung-launches-new-foldables-and-smartwatches-with-a-big-focus-on-ai/"
-    },
-    {
-      "id": 63,
-      "title": "Sources: repair demand in China for Nvidia's banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country (Reuters)",
-      "summary": "Demand in China for repairing banned Nvidia AI chips surges as ~12 firms offer repair services for H100 and A100 chips that made their way into the country.",
-      "source": "Techmeme.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:05:01Z",
-      "url": "https://www.techmeme.com/250725/p2"
-    },
-    {
-      "id": 64,
-      "title": "iOS 26 Public Beta is Here: What Will Your iPhone Look Like Now?",
-      "summary": "iOS 26 is now available across compatible iPhones, offering the biggest redesign to an iPhone UI in years.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:02:43Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/ios-26-public-beta-is-here-what-will-your-iphone-look-like-now/articleshow/122897372.cms"
-    },
-    {
-      "id": 65,
-      "title": "Shiba Inu Price Set To Explode By 40% Above $0.000021, Here’s When",
-      "summary": "Shiba Inu price expected to increase by 40% above $0.000021 as the meme coin market remains profitable",
-      "source": "Bitcoinist",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:00:25Z",
-      "url": "https://bitcoinist.com/shiba-inu-price-set-to-explode/"
-    },
-    {
-      "id": 66,
-      "title": "U.S. to withdraw from UNESCO over Palestine membership, alleged anti-Israel bias",
-      "summary": "U.S. to withdraw from UNESCO over Palestine membership and alleged anti-Israel bias, citing ethical concerns",
-      "source": "Naturalnews.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T06:00:00Z",
-      "url": "https://www.naturalnews.com/2025-07-25-us-withdraw-unesco-palestine-anti-israel-bias.html"
-    },
-    {
-      "id": 67,
-      "title": "Vaisala Corporation Half Year Financial Report January–June 2025: Mixed second quarter – growth in Industrial Measurements and decline in renewable energy business",
-      "summary": "Vaisala Corporation reports mixed second quarter with growth in Industrial Measurements and decline in renewable energy business.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121597/0/en/Vaisala-Corporation-Half-Year-Financial-Report-January-June-2025-Mixed-second-quarter-growth-in-Industrial-Measurements-and-decline-in-renewable-energy-business.html"
-    },
-    {
-      "id": 51,
-      "title": "We Built a Tool to Protect Your Dataset From Simple Scrapers",
-      "summary": "We introduce a command-line tool for hardening datasets against less sophisticated scrapers.",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-25T05:44:55Z",
-      "url": "https://www.lesswrong.com/posts/DA3vbSEfABLdoCt59/we-built-a-tool-to-protect-your-dataset-from-simple-scrapers"
-    },
-    {
-      "id": 52,
-      "title": "opsmith-cli 0.2.0b0",
-      "summary": "opsmith-cli 0.2.0b0 is an AI devops engineer tool designed to run in the terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T05:41:05Z",
-      "url": "https://pypi.org/project/opsmith-cli/0.2.0b0/"
-    },
-    {
-      "id": 53,
-      "title": "【8/6(水)限定15名／未経験からAIアプリをつくる側へ】2.5時間でAIアプリを自作する、多忙なビジネスパーソン向けハンズオン講座を開催",
-      "summary": "Protostar Co., Ltd. is holding a hands-on workshop for busy business individuals to create their own AI applications in just 2.5 hours, even if they have no prior experience.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-25T05:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000128.000023145.html"
-    },
-    {
-      "id": 54,
-      "title": "Wi-Fi 8 detailed, even if it's years away: More stable connections, lower latency",
-      "summary": "Wi-Fi 8, a new standard aiming to provide more stable connections and lower latency, is detailed in a blog post by Qualcomm. The technologies it offers could benefit AI, industrial automation, and advanced wearables.",
-      "source": "TechSpot",
-      "category": "research",
-      "timestamp": "2025-07-25T05:39:00Z",
-      "url": "https://www.techspot.com/news/108807-wi-fi-8-detailed-even-if-years-away.html"
-    },
-    {
-      "id": 55,
-      "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
-      "summary": "Tech companies like Alphabet, Meta, and Microsoft stand to benefit from Trump's AI action plan as he vows to cut red tape, following millions invested in the industry.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:37:36Z",
-      "url": "https://biztoc.com/x/1c828f88da79b308"
-    },
-    {
-      "id": 56,
-      "title": "You DO see Windows 11 as an AI PC opportunity, say Dell and Intel",
-      "summary": "With three months to go until Microsoft ends support for Windows 10, Dell and Intel want to convince corporate buyers that upgrading their PC fleet is a virtue and not a necessity.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:37:27Z",
-      "url": "https://biztoc.com/x/8c8a037cfb10b897"
-    },
-    {
-      "id": 57,
-      "title": "Intel Earnings: Chipmaker to cut jobs as Q3 loss forecast deepens",
-      "summary": "Intel plans to cut jobs in an effort to reduce its workforce to 75,000 by year-end, with shares jumping despite a projected steeper third-quarter loss. Sales are expected to surpass estimates, and CEO Lip-Bu Tan is leading a turnaround.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:35:48Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/intel-earnings-chipmaker-to-cut-jobs-as-q3-loss-forecast-deepens/articleshow/122896728.cms"
-    },
-    {
-      "id": 58,
-      "title": "Intel beats shareholder lawsuit over $32 billion stock plunge",
-      "summary": "Intel beats shareholder lawsuit over $32 billion stock plunge, as a federal judge dismisses claims of shareholder fraud related to issues in its foundry business.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:33:57Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/intel-beats-shareholder-lawsuit-over-32-billion-stock-plunge/articleshow/122896685.cms"
-    },
-    {
-      "id": 59,
-      "title": "Digital sovereignty becomes a matter of resilience for Europe",
-      "summary": "Digital sovereignty in Europe is becoming a matter of resilience, with initiatives like Gaia-X and the EU AI Act driving the continent's technological future. The focus is shifting from regulation to building digital sovereignty.",
-      "source": "Help Net Security",
-      "category": "innovation",
-      "timestamp": "2025-07-25T05:30:33Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/25/benjamin-schilz-wire-european-digital-sovereignty/"
-    },
-    {
-      "id": 60,
-      "title": "BUREAU VERITAS - Robust organic revenue growth and strong margin increase in H1 2025 as the LEAP | 28 strategy execution accelerates; Confirmed 2025 outlook",
-      "summary": "Bureau Veritas reported robust organic revenue growth and strong margin increase in the first half of 2025 as the LEAP | 28 strategy execution accelerates, confirming their outlook for 2025.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121595/0/en/BUREAU-VERITAS-Robust-organic-revenue-growth-and-strong-margin-increase-in-H1-2025-as-the-LEAP-28-strategy-execution-accelerates-Confirmed-2025-outlook.html"
-    },
-    {
-      "id": 61,
-      "title": "iPadOS 26 is way more Mac-like. Where does that lead?",
-      "summary": "iPadOS 26 becoming more Mac-like with new software upgrade announced at WWDC conference.",
-      "source": "Fast Company",
-      "category": "innovation",
-      "timestamp": "2025-07-25T05:30:00Z",
-      "url": "https://www.fastcompany.com/91373393/ipados-26-public-beta"
-    },
-    {
-      "id": 62,
-      "title": "4 AI Prompts That Will Transform How You Create Presentations Forever",
-      "summary": "4 AI prompts that automate slide-building and create engaging presentations",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-25T05:28:43Z",
-      "url": "https://www.forbes.com/sites/bernardmarr/2025/07/25/4-ai-prompts-that-will-transform-how-you-create-presentations-forever/"
-    },
-    {
-      "id": 63,
-      "title": "You DO see Windows 11 as an AI PC opportunity, say Dell and Intel",
-      "summary": "With three months to go until Microsoft ends support for Windows 10, Dell and Intel are promoting Windows 11 as an AI PC opportunity to encourage corporate buyers to upgrade their PC fleet.",
-      "source": "Theregister.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:28:09Z",
-      "url": "https://www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/"
     }
   ]
 }
