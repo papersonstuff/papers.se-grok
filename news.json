@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-26T19:26:54.317Z",
+  "lastUpdate": "2025-07-26T19:37:40.583Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel Q2 EPS Misses, Revenue Flat at $12.9?Billion",
+      "summary": "Intel's Q2 earnings per share fell short of expectations, with revenue remaining flat at $12.9 billion. Despite this, foundry revenue increased by 3%, mitigating some impact from charges.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:36:04Z",
+      "url": "https://finance.yahoo.com/news/intel-q2-eps-misses-revenue-193604391.html"
+    },
+    {
+      "id": 52,
+      "title": "Pregnant LeBron James AI Videos",
+      "summary": "Pregnant LeBron James AI Videos refers to AI-generated male pregnancy videos of NBA player LeBron James that began appearing on platforms like Instagram and TikTok in 2025.",
+      "source": "Knowyourmeme.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:34:46Z",
+      "url": "https://knowyourmeme.com/memes/events/pregnant-lebron-james-ai-videos"
+    },
+    {
+      "id": 53,
+      "title": "Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’ - The Verge",
+      "summary": "Microsoft's AI CEO believes that Copilot will age and 'have a room that it lives in', as the AI assistant now has a face and real-time expressions.",
+      "source": "Slashdot.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:34:24Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178468340"
+    },
+    {
+      "id": 54,
+      "title": "What is Tea - the women-only app with millions of users?",
+      "summary": "Millions of women in the US are using Tea, a women-only app that provides dating advice and safety measures to protect them from online scams and dishonest men.",
+      "source": "Sky.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:32:00Z",
+      "url": "https://news.sky.com/story/what-is-tea-the-women-only-app-with-millions-of-users-13401888"
+    },
+    {
+      "id": 55,
+      "title": "These Soundcore V20i by Anker Earbuds Just Dropped to a New Low Price",
+      "summary": "The price of Anker's Soundcore V20i Earbuds has dropped to less than $25, offering a budget-friendly option for consumers.",
+      "source": "CNET",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:32:00Z",
+      "url": "https://www.cnet.com/deals/these-soundcore-v20i-by-anker-earbuds-just-dropped-to-a-new-low-price/"
+    },
+    {
+      "id": 56,
+      "title": "3D printer transforms food waste into coffee mugs and coasters",
+      "summary": "3D printer transforms food waste into coffee mugs and coasters using bioplastic paste made from egg shells, coffee grounds, and flower stems.",
+      "source": "Popular Science",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:31:05Z",
+      "url": "https://www.popsci.com/environment/3d-printer-food-waste-into-trinkets/"
+    },
+    {
+      "id": 57,
+      "title": "California lawmakers urge Trump admin to halt cuts to national labs",
+      "summary": "California lawmakers are urging the Trump administration to halt cuts to national labs due to budget cuts leading to layoffs and potential future layoffs of thousands of scientists and technical staff.",
+      "source": "Nextgov",
+      "category": "research",
+      "timestamp": "2025-07-25T19:31:00Z",
+      "url": "https://www.nextgov.com/policy/2025/07/california-lawmakers-urge-trump-admin-halt-cuts-national-labs/407006/"
+    },
+    {
+      "id": 58,
+      "title": "Samsung Prioritizes Z Fold and Flip Series for Fastest Flagship Updates",
+      "summary": "Samsung prioritizes its Z Fold and Z Flip series for the fastest flagship updates, revolutionizing its flagship software strategy.",
+      "source": "TalkAndroid",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:30:00Z",
+      "url": "https://www.talkandroid.com/512745-samsung-one-iu-8-updates-z-flip-fold/"
+    },
+    {
+      "id": 59,
+      "title": "VCI Global Launches SecureGPU™ – First Encrypted AI Compute Server for Sovereign and Defense Applications",
+      "summary": "VCI Global launches SecureGPU™, the first encrypted AI compute server for sovereign and defense applications, marking a milestone in zero-trust AI infrastructure. The technology is now being piloted across Southeast Asia.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121981/0/en/VCI-Global-Launches-SecureGPU-First-Encrypted-AI-Compute-Server-for-Sovereign-and-Defense-Applications.html"
+    },
+    {
+      "id": 60,
+      "title": "The Prototype: Bringing Advanced Semiconductor Manufacturing Back To The U.S.",
+      "summary": "The Prototype discusses various advancements in AI technology, including a quantum computing milestone for biotech and a new method to remove forever chemicals from water supplies.",
+      "source": "Forbes",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:30:00Z",
+      "url": "https://www.forbes.com/sites/alexknapp/2025/07/25/the-prototype-bringing-advanced-semiconductor-manufacturing-back-to-the-us/"
+    },
+    {
+      "id": 61,
+      "title": "xml-analysis-framework added to PyPI",
+      "summary": "xml-analysis-framework added to PyPI - Comprehensive framework for analyzing XML documents with AI/ML processing support",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:28:08Z",
+      "url": "https://pypi.org/project/xml-analysis-framework/"
+    },
     {
       "id": 51,
       "title": "Intel to separate networking unit as new CEO Tan overhauls business",
@@ -351,105 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-25T18:48:05Z",
       "url": "https://biztoc.com/x/c0794e3b8c7e056f"
-    },
-    {
-      "id": 55,
-      "title": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’",
-      "summary": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’ - Intel’s CEO Lip-Bu Tan sent a memo to employees Thursday informing them of significant ongoing layoffs and other cost-cutting measures.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:48:03Z",
-      "url": "https://biztoc.com/x/84186f81d0846c1f"
-    },
-    {
-      "id": 56,
-      "title": "Shipping giant set to roll out world's first AI-controlled autonomous car carrying ships -and at 750 ft long and weighing almost 100,000 tons, it's probably the largest AI-driven vessel ever",
-      "summary": "Shipping giant announces world's first AI-controlled autonomous car carrying ships, set to be the largest AI-driven vessel ever, amid ongoing concerns about long-term impact and reliability.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:48:00Z",
-      "url": "https://www.techradar.com/pro/shipping-giant-set-to-roll-out-worlds-first-ai-controlled-autonomous-car-carrying-ships-at-750-ft-long-and-weighing-almost-100-000-tons-its-probably-the-largest-ai-driven-vessel-ever"
-    },
-    {
-      "id": 57,
-      "title": "LeBron James Not Happy With AI Videos Showing Him Pregnant",
-      "summary": "LeBron James' attorneys sent a cease and desist letter to developers of an AI image generator creating videos of NBA stars in bizarre situations, such as James appearing pregnant, citing ethical concerns.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-25T18:47:37Z",
-      "url": "https://futurism.com/lebron-james-ai-videos-pregnant"
-    },
-    {
-      "id": 58,
-      "title": "想读Deep Learning with Python",
-      "summary": "Deep Learning with Python introduces the field of deep learning using the Python language.",
-      "source": "Douban.com",
-      "category": "research",
-      "timestamp": "2025-07-25T18:46:12Z",
-      "url": "https://book.douban.com/subject/27038207/"
-    },
-    {
-      "id": 59,
-      "title": "Linux Kernel Proposal Documents Rules For Using AI Coding Assistants",
-      "summary": "Linux kernel proposal for AI coding assistant rules and documentation presented by longtime Linux developer Sasha Levin from NVIDIA.",
-      "source": "Phoronix",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:46:11Z",
-      "url": "https://www.phoronix.com/news/Linux-Kernel-AI-Docs-Rules"
-    },
-    {
-      "id": 60,
-      "title": "Orbital datacenters subject to launch stress, nasty space weather, and expensive house calls",
-      "summary": "Orbital datacenters face challenges such as launch stress, space weather, and high costs, making space a difficult environment for fragile computer equipment. William Gibson's Neuromancer, a cyberpunk novel featuring an AI housed in an orbital datacenter, remains relevant after 40 years.",
-      "source": "Theregister.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T18:45:44Z",
-      "url": "https://www.theregister.com/2025/07/25/orbital_datacenters_subject_to_all/"
-    },
-    {
-      "id": 61,
-      "title": "想读Fast Python",
-      "summary": "The news discusses a book titled Fast Python, focusing on mastering Python techniques and libraries to decrease run times and effectively manage large datasets.",
-      "source": "Douban.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:43:26Z",
-      "url": "https://book.douban.com/subject/35658067/"
-    },
-    {
-      "id": 62,
-      "title": "Claude Code Introduces Specialized Sub-Agents",
-      "summary": "Claude Code introduces specialized sub-agents for task-specific workflows and improved context management in AI.",
-      "source": "Anthropic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:43:24Z",
-      "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
-    },
-    {
-      "id": 63,
-      "title": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’",
-      "summary": "Intel plans to cut 25,000 jobs by 2025, with new CEO emphasizing the need for cost-cutting measures in a memo to employees.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:42:35Z",
-      "url": "https://fortune.com/2025/07/25/intel-layoffs-ceo-staff-memo-stock-price/"
-    },
-    {
-      "id": 64,
-      "title": "Tech Companies Are Blocking Microsoft’s Creepy ‘Recall’ Feature",
-      "summary": "Tech companies are blocking Microsoft's 'Recall' feature, seen as creepy and intrusive.",
-      "source": "Gizmodo.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T18:40:48Z",
-      "url": "https://gizmodo.com/tech-companies-are-blocking-microsofts-creepy-recall-feature-2000634506"
-    },
-    {
-      "id": 65,
-      "title": "Cisco ThousandEyes Helps Drive Performance with the McLaren Formula 1 Team",
-      "summary": "Cisco ThousandEyes is helping to improve performance with the McLaren Formula 1 Team by showcasing real stories of organizations using Cisco solutions to drive impressive results.",
-      "source": "Cisco.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:40:39Z",
-      "url": "https://blogs.cisco.com/insidervoices/cisco-thousandeyes-helps-drive-performance-with-the-mclaren-formula-1-team"
     }
   ]
 }
