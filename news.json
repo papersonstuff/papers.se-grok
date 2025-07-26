@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T15:53:22.780Z",
+  "lastUpdate": "2025-07-26T16:18:10.817Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Blue Origin to fly AI-powered space surveillance sensor on 1st flight of Blue Ring spacecraft",
+      "summary": "Blue Origin will be flying an AI-powered space surveillance sensor on its Blue Ring spacecraft's first flight, using Scout Space's Owl sensor for space domain awareness.",
+      "source": "Space.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:17:29Z",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-fly-ai-powered-space-surveillance-sensor-on-1st-flight-of-blue-ring-spacecraft"
+    },
+    {
+      "id": 52,
+      "title": "South Park creators reveal 4-day legal fight over shock Trump episode",
+      "summary": "South Park creators revealed a 4-day legal fight over a shock Trump episode, sarcastically apologizing for causing outrage to Donald Trump.",
+      "source": "Raw Story",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:14:51Z",
+      "url": "https://www.rawstory.com/south-park-trump/"
+    },
+    {
+      "id": 53,
+      "title": "As Spotify moves to video, the environmental footprint of music streaming hits the high notes",
+      "summary": "Concerns about the environmental impact of music streaming are raised as Spotify transitions to video, which consumes significantly more energy. Aimless streaming should be avoided to reduce the carbon footprint of streaming services.",
+      "source": "The Conversation Africa",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:14:19Z",
+      "url": "https://theconversation.com/as-spotify-moves-to-video-the-environmental-footprint-of-music-streaming-hits-the-high-notes-259939"
+    },
+    {
+      "id": 54,
+      "title": "This Lenovo laptop with new Ryzen AI CPU and 16GB RAM is only $450 today",
+      "summary": "This Lenovo laptop with new Ryzen AI CPU and 16GB RAM is only $450 today - Dang, it’s hard to find a good, cheap laptop that’s actually worth using these days. But the Lenovo IdeaPad Slim 5 has slipped below the $500 mark, and it didn’t have to cut its specs to do so. Today, you can get one with a brand-new Ryzen AI processor and 16GB of RAM for a great price.",
+      "source": "PCWorld",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:12:48Z",
+      "url": "https://www.pcworld.com/article/2859281/this-lenovo-laptop-with-new-ryzen-ai-cpu-and-16gb-ram-is-only-450-today.html"
+    },
+    {
+      "id": 55,
+      "title": "McDonald's McHire AI Bot Just Exposed The Personal Data Of 64 McMillion People",
+      "summary": "A security lapse in McDonald’s job application system exposed the personal data of around 64 million people due to the use of a weak password.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:12:17Z",
+      "url": "https://biztoc.com/x/f0d6f79453035da6"
+    },
+    {
+      "id": 56,
+      "title": "Apple Faces Existential Threat If It Fails To Act On GenAI",
+      "summary": "Apple Inc. is facing mounting pressure from investors as concerns intensify over its lagging generative AI (GenAI) strategy, a key driver of growth across the tech sector.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:12:16Z",
+      "url": "https://biztoc.com/x/ffaa4eeed6020274"
+    },
+    {
+      "id": 57,
+      "title": "Ruvi AI (RUVI) Secures Spotlight Thanks To CoinMarketCap Listing, Its Audited Token Is Believed To Be a Millionaire Maker",
+      "summary": "Ruvi AI (RUVI) secures spotight with CoinMarketCap listing and its audited token is believed to be a millionaire maker. With blockchain and AI integration, Ruvi AI is seen as an exciting entrant into the cryptocurrency space.",
+      "source": "Cryptopolitan",
+      "category": "startups",
+      "timestamp": "2025-07-25T16:11:44Z",
+      "url": "https://partner.cryptopolitan.com/ruvi-ai-ruvi-secures-spotlight-thanks-to-coinmarketcap-listing-its-audited-token-is-believed-to-be-a-millionaire-maker/"
+    },
+    {
+      "id": 58,
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSM) Hikes Q3 Revenue Guidance amid AI Boom",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSM) raises Q3 revenue guidance due to the AI boom, making it a top stock to buy. The semiconductor manufacturer is thriving in the current economic climate.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:10:18Z",
+      "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-tsm-161018820.html"
+    },
+    {
+      "id": 59,
+      "title": "Piper Sandler Reaffirms Overweight Rating on SAP Amid Cloud Momentum",
+      "summary": "Piper Sandler reaffirmed its Overweight rating on SAP amid cloud momentum, making it one of the best 52-week high stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:10:16Z",
+      "url": "https://finance.yahoo.com/news/piper-sandler-reaffirms-overweight-rating-161016534.html"
+    },
+    {
+      "id": 60,
+      "title": "As FCC Clears Paramount-Skydance Merger, Analyst Says the ‘Real Work Begins’",
+      "summary": "MoffettNathanson awaits clarity on the future of Paramount+ and the linear network portfolio, content strategy and investment, and sports rights renewals following FCC clearance of Paramount-Skydance merger.",
+      "source": "TheWrap",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:10:15Z",
+      "url": "https://www.thewrap.com/paramount-skydance-merger-fcc-approval-wall-street-analyst-reaction/"
+    },
+    {
+      "id": 61,
+      "title": "JPMorgan Chase & Co. (JPM) Exploring Issuing Cryptocurrency-Backed Loans",
+      "summary": "JPMorgan Chase & Co. is exploring the possibility of issuing cryptocurrency-backed loans, showing innovation in the financial sector.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:10:11Z",
+      "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-exploring-161011623.html"
+    },
+    {
+      "id": 62,
+      "title": "Charles Schwab Corporation (SCHW) Price Target Increased at KBW As Q2 Results Impress",
+      "summary": "Charles Schwab Corporation's stock price target increased after impressive Q2 results, making it a top stock to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:10:08Z",
+      "url": "https://finance.yahoo.com/news/charles-schwab-corporation-schw-price-161008924.html"
+    },
+    {
+      "id": 63,
+      "title": "GE Aerospace (GE) Price Target Hiked at Citi on Solid Guidance",
+      "summary": "GE Aerospace stock price target raised by Citi on strong guidance, now one of the top 52-week high stocks to invest in.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:10:01Z",
+      "url": "https://finance.yahoo.com/news/ge-aerospace-ge-price-target-161001833.html"
+    },
+    {
+      "id": 64,
+      "title": "Access to agent CoT makes monitors vulnerable to persuasion",
+      "summary": "Access to agent CoT makes monitors vulnerable to persuasion - Research completed by London AI Safety Research (LASR) Labs 2025 shows monitors are susceptible to persuasion. Team supervised by Victoria Krakovna (Google DeepMind).",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-25T16:09:59Z",
+      "url": "https://www.lesswrong.com/posts/Bvb97FpmxnKKebSjX/access-to-agent-cot-makes-monitors-vulnerable-to-persuasion"
+    },
+    {
+      "id": 65,
+      "title": "Cisco Systems (CSCO) Tapped for $17B Bahrain’s Digitization Drive",
+      "summary": "Cisco Systems Inc. (NASDAQ:CSCO) was tapped for Bahrain's $17B digitization drive, making it one of the best 52-week high stocks to buy now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:09:54Z",
+      "url": "https://finance.yahoo.com/news/cisco-systems-csco-tapped-17b-160954171.html"
+    },
+    {
+      "id": 66,
+      "title": "Palantir Technologies’ (PLTR) Pipeline Bolstered by $100M NGC-2 Contract",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) bolsters its pipeline with a $100M NGC-2 contract, making it a top choice for investors looking to buy 52-week high stocks. The company's stock saw significant movement on July 21 following the announcement of the contract.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:09:50Z",
+      "url": "https://finance.yahoo.com/news/palantir-technologies-pltr-pipeline-bolstered-160950270.html"
+    },
+    {
+      "id": 67,
+      "title": "Citi Maintained a Buy Rating on Trip.com (TCOM), Kept the PT Unchanged",
+      "summary": "Citi analyst maintained a Buy rating on Trip.com Group Limited, stating it is one of the Best Extremely Profitable Stocks to Buy Right Now.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:09:47Z",
+      "url": "https://finance.yahoo.com/news/citi-maintained-buy-rating-trip-160947791.html"
+    },
     {
       "id": 51,
       "title": "King Gizzard & The Lizard Wizard Become Latest Act to Pull Music from Spotify",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T15:09:08Z",
       "url": "https://www.cmswire.com/digital-asset-management/why-im-falling-in-love-with-digital-asset-management-again/"
-    },
-    {
-      "id": 57,
-      "title": "How Agentic AI Broke the Rules of Martech Decisioning",
-      "summary": "Agentic AI has introduced a new approach to martech decisioning by utilizing adaptive, goal-driven agents instead of hard-coded logic and passive analytics.",
-      "source": "CMSWire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:09:08Z",
-      "url": "https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/"
-    },
-    {
-      "id": 58,
-      "title": "Baker Hughes to supply DRAs to Genesis Energy",
-      "summary": "Baker Hughes to supply DRAs to Genesis Energy for implementing Leucipa automated field production system.",
-      "source": "Offshore Technology",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:08:11Z",
-      "url": "https://www.offshore-technology.com/news/baker-hughes-dras-genesis-energy/"
-    },
-    {
-      "id": 59,
-      "title": "pygpt-net 2.5.68",
-      "summary": "pygpt-net 2.5.68 is a Desktop AI Assistant powered by various OpenAI models such as GPT-4o, GPT-4 Vision, DALL-E 3, Llama 3, and more, providing support for chatbots, agents, completion, image generation, vision analysis, and other AI tasks.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:07:52Z",
-      "url": "https://pypi.org/project/pygpt-net/2.5.68/"
-    },
-    {
-      "id": 60,
-      "title": "Community Financial System, Inc. (CBU): A Solid Stock for Conservative Investors",
-      "summary": "Community Financial System, Inc. (CBU) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:07:42Z",
-      "url": "https://finance.yahoo.com/news/community-financial-system-inc-cbu-150742257.html"
-    },
-    {
-      "id": 61,
-      "title": "General Assembly Debates Interaction between UN, National Parliaments, Inter-Parliamentary Union, Also Concludes Debate on Responsibility to Protect",
-      "summary": "General Assembly debates interaction between UN, national parliaments, Inter-Parliamentary Union, and concludes debate on Responsibility to Protect.",
-      "source": "UN News",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:07:42Z",
-      "url": "https://press.un.org/en/2025/ga12697.doc.htm"
-    },
-    {
-      "id": 62,
-      "title": "Peller Opens Up on Experience With Policemen, Injury He Sustained: “The Were Asking for Money”",
-      "summary": "Nigerian TikTok star Peller recounts his experience with police officers who tried to extort money from him and injured him in the process.",
-      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:07:33Z",
-      "url": "https://www.legit.ng/entertainment/celebrities/1666055-peller-opens-experience-policemen-injury-sustained-money/"
-    },
-    {
-      "id": 63,
-      "title": "‘Quiet Vacations’ Signal Silent But Glaring Fears Within The Company",
-      "summary": "‘Quiet vacations' have evolved from a break from hustle culture to a warning sign of unaddressed employer issues.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:07:24Z",
-      "url": "https://www.forbes.com/sites/bryanrobinson/2025/07/25/quiet-vacations-signal-silent-but-glaring-fears-within-the-company/"
-    },
-    {
-      "id": 64,
-      "title": "Samsung may be making big changes to its flagship updates",
-      "summary": "Samsung may be updating its flagship devices differently by possibly prioritizing updates for foldables.",
-      "source": "Android Police",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:06:58Z",
-      "url": "https://www.androidpolice.com/samsung-making-changes-to-its-flagship-update-speed/"
-    },
-    {
-      "id": 65,
-      "title": "FBI Warns Chrome Users—Stop Downloading These Updates",
-      "summary": "FBI issues warning to Chrome users about dangerous updates being circulated",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:06:45Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/25/fbi-warns-windows-users-stop-these-chrome-updates/"
-    },
-    {
-      "id": 66,
-      "title": "Greatest Baseball Players of All Time, According to Science",
-      "summary": "Late baseball legends Babe Ruth and Hank Aaron have been outranked by players from later eras as a new study has calculated the sport's greatest players of all time. Researchers from the statistics and history department have created an AI-generated voice to announce the findings, although inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T15:05:05Z",
-      "url": "https://biztoc.com/x/fff316be79f43be7"
-    },
-    {
-      "id": 51,
-      "title": "Introducing SB53.info",
-      "summary": "Introducing SB53.info, a new resource to help people understand California's Senate Bill 53 by providing annotations to explain its political and scientific context.",
-      "source": "Lesswrong.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:50:35Z",
-      "url": "https://www.lesswrong.com/posts/uWTAoisAqnDqDQp6A/introducing-sb53-info"
-    },
-    {
-      "id": 52,
-      "title": "Red Lobster’s 36-year-old CEO isn’t repeating the chain’s $11 million endless shrimp disaster. But he is reading all of your social media comments",
-      "summary": "Red Lobster's CEO is using AI to read social media comments and has no plans to repeat the endless shrimp disaster",
-      "source": "Fortune",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:50:31Z",
-      "url": "https://fortune.com/2025/07/25/is-red-lobster-bringing-back-endless-shrimp-bankruptcy/"
-    },
-    {
-      "id": 53,
-      "title": "Intel May be Prepping a Massive Apology to Gamers",
-      "summary": "Intel may be preparing to apologize to gamers with its upcoming CPU, potentially rekindling their relationship.",
-      "source": "Gizmodo.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:50:02Z",
-      "url": "https://gizmodo.com/intel-may-be-prepping-a-massive-apology-to-gamers-2000634406"
-    },
-    {
-      "id": 54,
-      "title": "Intel next-gen desktop CPUs to feature 12-52 cores across Core Ultra 3, 5, 7, and 9 SKUs",
-      "summary": "Intel is set to release next-gen desktop CPUs with 12-52 cores, including a flagship model with 52 cores combining high-performance and efficient cores.",
-      "source": "TechSpot",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:50:00Z",
-      "url": "https://www.techspot.com/news/108810-intel-next-gen-desktop-cpus-feature-12-52.html"
-    },
-    {
-      "id": 55,
-      "title": "AMD CEO Explains Why Paying More For US-Made TSMC Chips Makes Sense",
-      "summary": "AMD CEO explains why paying more for US-made TSMC chips makes sense due to their high demand and premium quality, especially for products like the Radeon RX 9070 XT.",
-      "source": "Hot Hardware",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:50:00Z",
-      "url": "https://hothardware.com/news/amd-ceo-explains-why-paying-more-for-us-made-tsmc-chips-makes"
-    },
-    {
-      "id": 56,
-      "title": "AptarGroup (ATR): The Unsung Hero of Reliable Dividend Growth",
-      "summary": "AptarGroup, Inc. (NYSE:ATR) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:49:59Z",
-      "url": "https://finance.yahoo.com/news/aptargroup-atr-unsung-hero-reliable-144959420.html"
-    },
-    {
-      "id": 57,
-      "title": "Trump's AI plan says a lot about open source - but here's what it leaves out",
-      "summary": "Trump's AI plan supports open source for AI, leaving many questions about the ethical implications.",
-      "source": "ZDNet",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:49:42Z",
-      "url": "https://www.zdnet.com/article/trumps-ai-plan-says-a-lot-about-open-source-but-heres-what-it-leaves-out/"
     }
   ]
 }
