@@ -1,6 +1,114 @@
 {
-  "lastUpdate": "2025-07-26T12:30:01.072Z",
+  "lastUpdate": "2025-07-26T13:08:25.321Z",
   "items": [
+    {
+      "id": 51,
+      "title": "GenAI Card Design Platforms - Mastercard AI Card Design Studio Enables Custom Design Creations (TrendHunter.com)",
+      "summary": "GenAI Card Design Platforms - Mastercard AI Card Design Studio Enables Custom Design Creations for credit cards, offering cardholders the ability to personalize their cards with sleek and stylish designs.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:06:05Z",
+      "url": "https://www.trendhunter.com/trends/mastercard-ai-card-design-studio"
+    },
+    {
+      "id": 52,
+      "title": "torram 1.0.3",
+      "summary": "Torram 1.0.3 provides essential tools for Machine Learning in PyTorch, enabling smoother development and deployment of AI models.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:05:17Z",
+      "url": "https://pypi.org/project/torram/1.0.3/"
+    },
+    {
+      "id": 53,
+      "title": "New ChatGPT Agent AI Is Now Available To Pro Users Worldwide",
+      "summary": "New ChatGPT Agent AI is now available to ChatGPT Pro, Plus, and Team users worldwide, allowing for advanced conversational experiences.",
+      "source": "BGR",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:04:00Z",
+      "url": "https://www.bgr.com/1921652/chatgpt-agent-ai-launch-pro-plus-team/"
+    },
+    {
+      "id": 54,
+      "title": "camel-ai 0.2.73a6",
+      "summary": "camel-ai 0.2.73a6 is a new version focusing on Communicative Agents for AI Society Study.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T13:03:36Z",
+      "url": "https://pypi.org/project/camel-ai/0.2.73a6/"
+    },
+    {
+      "id": 55,
+      "title": "Owner Rescues a 'Golden Retriever'—Then She Receives DNA Result",
+      "summary": "A woman rescues what she thought was a golden retriever puppy, only to find out through DNA testing that it was not. This raises ethical questions about the accuracy of information provided by AI-generated tools.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:02:43Z",
+      "url": "https://biztoc.com/x/09de7dafbedd28d2"
+    },
+    {
+      "id": 56,
+      "title": "University of New Mexico Shooting: What to Know",
+      "summary": "University of New Mexico shooting leads to shelter in place warning after one person killed and another injured, with voice, AI-generated information provided with potential for inaccuracies.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:02:33Z",
+      "url": "https://biztoc.com/x/81213a6f67739720"
+    },
+    {
+      "id": 57,
+      "title": "Map Shows States With Highest—and Lowest—Credit Card Debt",
+      "summary": "WalletHub's new financial report highlights the significant disparities in credit card debt among different states in the US, reflecting the challenges faced by American consumers due to inflation and high interest rates.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:01:58Z",
+      "url": "https://biztoc.com/x/bec30e7a5119ab70"
+    },
+    {
+      "id": 58,
+      "title": "Ad giant Publicis is shopping for AI companies. Here are 6 targets industry insiders think could be on its wish list.",
+      "summary": "Ad giant Publicis is looking to acquire AI companies, with 6 potential targets identified. The company has earmarked 300 million euros for 'bolt-on acquisitions' this year.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-25T13:01:56Z",
+      "url": "https://www.businessinsider.com/ad-focused-ai-startups-publicis-groupe-could-target-acquisition-spree-2025-7"
+    },
+    {
+      "id": 59,
+      "title": "Bitget’s GetAgent AI Trading Assistant Sees Explosive Adoption, Ignites Community Frenzy",
+      "summary": "Bitget's GetAgent AI Trading Assistant has seen explosive adoption in the cryptocurrency trading community, igniting frenzy since its launch.",
+      "source": "Financial Post",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:01:25Z",
+      "url": "https://financialpost.com/globe-newswire/bitgets-getagent-ai-trading-assistant-sees-explosive-adoption-ignites-community-frenzy"
+    },
+    {
+      "id": 60,
+      "title": "Survey Sees Argo CD Starting to Gain Significant Traction",
+      "summary": "The adoption of Argo CD is gaining significant traction, revolutionizing GitOps practices in many organizations. A recent survey highlights its growing popularity due to its seamless integration with Kubernetes, improving deployment automation and efficiency.",
+      "source": "DevOps.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:01:01Z",
+      "url": "https://devops.com/survey-sees-argo-cd-starting-to-gain-significant-traction/"
+    },
+    {
+      "id": 61,
+      "title": "5 Ways To Prove The Real Value Of SEO In The AI Era via @sejournal, @wburton27",
+      "summary": "5 Ways To Prove The Real Value Of SEO In The AI Era offers strategies to demonstrate the impact of SEO in the AI era, focusing on metrics such as traffic, conversions, AI visibility, and cost-saving data.",
+      "source": "Search Engine Journal",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:00:41Z",
+      "url": "https://www.searchenginejournal.com/ways-to-prove-seo-value/548389/"
+    },
+    {
+      "id": 62,
+      "title": "Are Artificial Intelligence Recruitment Solutions Really as Fair as We’re Led to Believe?",
+      "summary": "Are Artificial Intelligence Recruitment Solutions Really as Fair as We’re Led to Believe? - AI has become a norm in recruitment, but questions are raised about fairness and bias in AI recruitment solutions.",
+      "source": "Socialnomics.net",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:00:37Z",
+      "url": "https://socialnomics.net/2025/07/25/are-artificial-intelligence-recruitment-solutions-really-as-fair-as-were-led-to-believe/"
+    },
     {
       "id": 51,
       "title": "UAE pledges to ‘fast-track’ US AI plans",
@@ -342,114 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T11:29:06Z",
       "url": "https://www.hospitalmanagement.net/news/philips-partners-with-epic/"
-    },
-    {
-      "id": 52,
-      "title": "Chungin Lee: Do you know why this 21-year-old Silicon Valley CEO was suspended by Columbia University?",
-      "summary": "Chungin “Roy” Lee, a 21-year-old suspended Columbia University student, is now the CEO of Cluely, a Silicon Valley AI startup redefining productivity norms by attracting $20.3 million in funding.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-25T11:27:29Z",
-      "url": "https://timesofindia.indiatimes.com/education/news/chungin-lee-do-you-know-why-this-21-year-old-silicon-valley-ceo-was-suspended-by-columbia-university/articleshow/122904601.cms"
-    },
-    {
-      "id": 53,
-      "title": "Should You Hold Atlassian Corporation (TEAM)?",
-      "summary": "Sands Capital released its Q2 2025 investor letter which discussed the outlook for Atlassian Corporation (TEAM) and other technology companies.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:26:07Z",
-      "url": "https://finance.yahoo.com/news/hold-atlassian-corporation-team-112607734.html"
-    },
-    {
-      "id": 54,
-      "title": "Trump's AI Action Plan boosts Asia data centers: New export rules under Trump's AI Action Plan support data center growth in Asia",
-      "summary": "Trump's AI Action Plan is expected to boost data center growth in Asia, with new export rules supporting the expansion. CEO of DayOne Data Centers Singapore believes this could serve as a catalyst for the industry across the region.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:24:37Z",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/trumps-ai-action-plan-boosts-asia-data-centers-new-export-rules-under-trumps-ai-action-plan-support-data-center-growth-in-asia/articleshow/122904560.cms"
-    },
-    {
-      "id": 55,
-      "title": "The Insurrectionists",
-      "summary": "A special edition of a weekend music show is planned to pay tribute to a great lyricist, following the conclusion of Tale for Our Time. Join tonight for the final chapter of Joseph Conrad's Heart of Darkness.",
-      "source": "Steynonline.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:24:16Z",
-      "url": "https://www.steynonline.com/15486/insurrectionists"
-    },
-    {
-      "id": 56,
-      "title": "Google is testing a vibe-coding app called Opal",
-      "summary": "Google is testing a new vibe-coding tool called Opal, available in the U.S. through Google Labs, that lets users quickly spin up web apps with just a few prompts.",
-      "source": "TechCrunch",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:22:51Z",
-      "url": "https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/"
-    },
-    {
-      "id": 57,
-      "title": "Here's What to Expect From Hormel Foods' Next Earnings Report",
-      "summary": "Hormel Foods is using AI-related tools in their next earnings report to analyze volatility, volume, open interest, and different strategies. Market Pulse resources include European futures, investing ideas, AI stocks, battery stocks, and biotechnology stocks.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:22:15Z",
-      "url": "https://biztoc.com/x/914b36d4f89f3505"
-    },
-    {
-      "id": 58,
-      "title": "HP 15.6-inch laptop is 20 percent off for students and everyday users",
-      "summary": "HP 15.6-inch laptop is on sale for students and everyday users, offering a $100 discount on a solid entry-level PC.",
-      "source": "Neowin",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:22:01Z",
-      "url": "https://www.neowin.net/deals/hp-156-inch-laptop-is-20-percent-off-for-students-and-everyday-users/"
-    },
-    {
-      "id": 59,
-      "title": "Google’s Sundar Pichai just became a billionaire—but could have been up an extra billion if he hadn’t sold stock",
-      "summary": "Google's Sundar Pichai becomes a billionaire with a net worth of $1.1 billion but could have had an extra billion if he hadn't sold stock.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:21:57Z",
-      "url": "https://biztoc.com/x/fcd40f12231e956a"
-    },
-    {
-      "id": 60,
-      "title": "Asia’s OSL Group raises $300M for stablecoin and global expansion",
-      "summary": "Asia's OSL Group raises $300M for stablecoin and global expansion with plans to expand stablecoin, payment services, and global digital asset operations.",
-      "source": "Cointelegraph",
-      "category": "startups",
-      "timestamp": "2025-07-25T11:20:56Z",
-      "url": "https://cointelegraph.com/news/osl-raises-300m-crypto-expansion-stablecoin-plans"
-    },
-    {
-      "id": 61,
-      "title": "Medici a Londra protestano per paghe e condizioni di lavoro",
-      "summary": "Resident doctors in London are striking over pay and work conditions, highlighting ethical concerns about healthcare worker treatment and compensation.",
-      "source": "ANSA.it",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:20:41Z",
-      "url": "https://www.ansa.it/sito/photogallery/primopiano/2025/07/25/medici-a-londra-protestano-per-paghe-e-condizioni-di-lavoro_9a63644e-c3ce-4ab7-9287-fb2dfc87f75e.html"
-    },
-    {
-      "id": 62,
-      "title": "skypilot-nightly 1.0.0.dev20250725",
-      "summary": "skypilot-nightly 1.0.0.dev20250725 allows users to run AI on any infrastructure in a unified, faster, and cheaper way.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:16:36Z",
-      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250725/"
-    },
-    {
-      "id": 63,
-      "title": "A R Rahman, OpenAI CEO Sam Altman join forces for AI project 'Secret Mountain'",
-      "summary": "A R Rahman and OpenAI CEO Sam Altman are collaborating on an AI project called 'Secret Mountain', described as a 'virtual global band' aiming to empower and uplift Indian minds using AI tools",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:15:54Z",
-      "url": "https://www.thehindubusinessline.com/info-tech/a-r-rahman-openai-ceo-sam-altman-join-forces-for-ai-project-secret-mountain/article69854527.ece"
     }
   ]
 }
