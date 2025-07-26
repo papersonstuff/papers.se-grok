@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-26T14:51:39.445Z",
+  "lastUpdate": "2025-07-26T15:15:17.473Z",
   "items": [
+    {
+      "id": 51,
+      "title": "aait 2.0.2.2",
+      "summary": "aait 2.0.2.2 - Advanced Artificial Intelligence Tools is a package meant to develop and enable advanced AI functionalities in Orange.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:14:57Z",
+      "url": "https://pypi.org/project/aait/2.0.2.2/"
+    },
+    {
+      "id": 52,
+      "title": "Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement",
+      "summary": "The age of smartphones is coming to an end with a revolutionary new tech set to replace them, as predicted by Bill Gates.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:13:39Z",
+      "url": "https://freerepublic.com/focus/f-chat/4330712/posts"
+    },
+    {
+      "id": 53,
+      "title": "Sony RX1R III Pre-Orders Are Strong Despite High Asking Price",
+      "summary": "Sony RX1R III Pre-Orders Are Strong Despite High Asking Price",
+      "source": "PetaPixel",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:09:57Z",
+      "url": "https://petapixel.com/2025/07/25/sony-rx1r-iii-pre-orders-are-strong-despite-high-asking-price/"
+    },
+    {
+      "id": 54,
+      "title": "Google Pixel 10 vs. Pixel 8: Is it almost time to upgrade?",
+      "summary": "Google Pixel 8 owners considering upgrading to the Pixel 10 due to rumors and leaks about exciting changes.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:09:57Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-vs-pixel-8"
+    },
+    {
+      "id": 55,
+      "title": "ITC envisions food-tech biz as “new vector of growth”",
+      "summary": "ITC Ltd sees its food-tech business as a new growth vector focusing on health, wellness, and functional foods.",
+      "source": "BusinessLine",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:09:23Z",
+      "url": "https://www.thehindubusinessline.com/companies/itc-envisions-food-tech-biz-as-new-vector-of-growth/article69855681.ece"
+    },
+    {
+      "id": 56,
+      "title": "Why I’m Falling in Love With Digital Asset Management Again",
+      "summary": "AI is turning DAM teams into strategic drivers of smarter, scalable content delivery.",
+      "source": "CMSWire",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:09:08Z",
+      "url": "https://www.cmswire.com/digital-asset-management/why-im-falling-in-love-with-digital-asset-management-again/"
+    },
+    {
+      "id": 57,
+      "title": "How Agentic AI Broke the Rules of Martech Decisioning",
+      "summary": "Agentic AI has introduced a new approach to martech decisioning by utilizing adaptive, goal-driven agents instead of hard-coded logic and passive analytics.",
+      "source": "CMSWire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:09:08Z",
+      "url": "https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/"
+    },
+    {
+      "id": 58,
+      "title": "Baker Hughes to supply DRAs to Genesis Energy",
+      "summary": "Baker Hughes to supply DRAs to Genesis Energy for implementing Leucipa automated field production system.",
+      "source": "Offshore Technology",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:08:11Z",
+      "url": "https://www.offshore-technology.com/news/baker-hughes-dras-genesis-energy/"
+    },
+    {
+      "id": 59,
+      "title": "pygpt-net 2.5.68",
+      "summary": "pygpt-net 2.5.68 is a Desktop AI Assistant powered by various OpenAI models such as GPT-4o, GPT-4 Vision, DALL-E 3, Llama 3, and more, providing support for chatbots, agents, completion, image generation, vision analysis, and other AI tasks.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:07:52Z",
+      "url": "https://pypi.org/project/pygpt-net/2.5.68/"
+    },
+    {
+      "id": 60,
+      "title": "Community Financial System, Inc. (CBU): A Solid Stock for Conservative Investors",
+      "summary": "Community Financial System, Inc. (CBU) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:07:42Z",
+      "url": "https://finance.yahoo.com/news/community-financial-system-inc-cbu-150742257.html"
+    },
+    {
+      "id": 61,
+      "title": "General Assembly Debates Interaction between UN, National Parliaments, Inter-Parliamentary Union, Also Concludes Debate on Responsibility to Protect",
+      "summary": "General Assembly debates interaction between UN, national parliaments, Inter-Parliamentary Union, and concludes debate on Responsibility to Protect.",
+      "source": "UN News",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:07:42Z",
+      "url": "https://press.un.org/en/2025/ga12697.doc.htm"
+    },
+    {
+      "id": 62,
+      "title": "Peller Opens Up on Experience With Policemen, Injury He Sustained: “The Were Asking for Money”",
+      "summary": "Nigerian TikTok star Peller recounts his experience with police officers who tried to extort money from him and injured him in the process.",
+      "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:07:33Z",
+      "url": "https://www.legit.ng/entertainment/celebrities/1666055-peller-opens-experience-policemen-injury-sustained-money/"
+    },
+    {
+      "id": 63,
+      "title": "‘Quiet Vacations’ Signal Silent But Glaring Fears Within The Company",
+      "summary": "‘Quiet vacations' have evolved from a break from hustle culture to a warning sign of unaddressed employer issues.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:07:24Z",
+      "url": "https://www.forbes.com/sites/bryanrobinson/2025/07/25/quiet-vacations-signal-silent-but-glaring-fears-within-the-company/"
+    },
+    {
+      "id": 64,
+      "title": "Samsung may be making big changes to its flagship updates",
+      "summary": "Samsung may be updating its flagship devices differently by possibly prioritizing updates for foldables.",
+      "source": "Android Police",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:06:58Z",
+      "url": "https://www.androidpolice.com/samsung-making-changes-to-its-flagship-update-speed/"
+    },
+    {
+      "id": 65,
+      "title": "FBI Warns Chrome Users—Stop Downloading These Updates",
+      "summary": "FBI issues warning to Chrome users about dangerous updates being circulated",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:06:45Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/25/fbi-warns-windows-users-stop-these-chrome-updates/"
+    },
+    {
+      "id": 66,
+      "title": "Greatest Baseball Players of All Time, According to Science",
+      "summary": "Late baseball legends Babe Ruth and Hank Aaron have been outranked by players from later eras as a new study has calculated the sport's greatest players of all time. Researchers from the statistics and history department have created an AI-generated voice to announce the findings, although inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T15:05:05Z",
+      "url": "https://biztoc.com/x/fff316be79f43be7"
+    },
     {
       "id": 51,
       "title": "Introducing SB53.info",
@@ -306,150 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T14:10:00Z",
       "url": "https://biztoc.com/x/b56d814840abf7b2"
-    },
-    {
-      "id": 56,
-      "title": "Latest Pixel leak showcases nearly all of Google’s upcoming devices in its new favorite color",
-      "summary": "Latest Pixel leak showcases nearly all of Google’s upcoming devices in its new favorite color - Made By Google may be less than four weeks away, but we’re already getting another look at Google’s upcoming Pixel lineup.",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:10:00Z",
-      "url": "http://9to5google.com/2025/07/25/google-pixel-10-pro-pro-xl-watch-4-moonstone-buds/"
-    },
-    {
-      "id": 57,
-      "title": "These Popular Mushroom Kits Might Be Causing Environmental Harm",
-      "summary": "Popular mushroom growing kits, particularly for golden oyster mushrooms, are being criticized for potentially causing environmental harm according to new research.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T14:09:56Z",
-      "url": "https://biztoc.com/x/275b349c5f03c126"
-    },
-    {
-      "id": 58,
-      "title": "Donald Trump Says He's 'Allowed' to Pardon Ghislaine Maxwell",
-      "summary": "President Trump stated that he could potentially pardon Ghislaine Maxwell, raising ethical concerns due to her association with convicted sex offender Jeffrey Epstein.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:09:42Z",
-      "url": "https://biztoc.com/x/61bf89575c08e69a"
-    },
-    {
-      "id": 59,
-      "title": "Pokémon Cards Are Up 3,261%—But Experts Warn Gen Z's Flip Game Is Built on 'Boy Math'",
-      "summary": "Pokémon cards have seen a 3,261% increase in value over the past 20 years, attracting the interest of Gen Z and millennial men. Experts caution that the flip game surrounding these cards is based on 'boy math.'",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:09:41Z",
-      "url": "https://biztoc.com/x/c3bcdc76ccc91092"
-    },
-    {
-      "id": 60,
-      "title": "Three-Legged Foster Dog Found Covered in Scars, the Reason Breaks Hearts",
-      "summary": "A woman fostering a three-legged dog discovered the heartbreaking truth behind the scars on his body, revealing the ethical concerns surrounding animal abuse and mistreatment.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:09:20Z",
-      "url": "https://biztoc.com/x/b744f8189684a395"
-    },
-    {
-      "id": 51,
-      "title": "Request for Information: Inviting Feedback on the Proposed NIH Research Plan on Rehabilitation Scientific Themes FY26-FY30",
-      "summary": "Request for Information has been issued by the NIH for feedback on the proposed Research Plan on Rehabilitation Scientific Themes for fiscal years 2026-2030.",
-      "source": "National Institutes of Health",
-      "category": "research",
-      "timestamp": "2025-07-25T13:53:56Z",
-      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HD-25-003.html"
-    },
-    {
-      "id": 52,
-      "title": "Commvault to acquire Satori Cyber for GenAI data security",
-      "summary": "Commvault is set to acquire Satori Cyber to enhance their platform with security technologies for Generative AI, marking their third acquisition in less than two years.",
-      "source": "Techtarget.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T13:53:00Z",
-      "url": "https://www.techtarget.com/searchdatabackup/news/366628050/Commvault-to-acquire-Satori-Cyber-for-GenAI-data-security"
-    },
-    {
-      "id": 53,
-      "title": "Palantir a high-risk investment with ’a one-of-a-kind growth and margin model’",
-      "summary": "Palantir Technologies is considered a high-risk but potentially transformative investment by Piper Sandler, with a unique growth and margin model.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-25T13:51:09Z",
-      "url": "https://finance.yahoo.com/news/palantir-high-risk-investment-one-135109514.html"
-    },
-    {
-      "id": 54,
-      "title": "Centex Technologies Welcomes Former Texas A&M University System Chancellor John Sharp as Strategic Advisor",
-      "summary": "Centex Technologies welcomes former Texas A&M University System Chancellor John Sharp as a strategic advisor, bringing his expertise to help guide the company in its growth and development.",
-      "source": "GlobeNewswire",
-      "category": "startup",
-      "timestamp": "2025-07-25T13:51:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121843/0/en/Centex-Technologies-Welcomes-Former-Texas-A-M-University-System-Chancellor-John-Sharp-as-Strategic-Advisor.html"
-    },
-    {
-      "id": 55,
-      "title": "Europe's Spate of Hostilities Toward Jews and Israelis Prompts Antisemitism Calls",
-      "summary": "Europe's recent hostilities towards Jews and Israelis have raised concerns of anti-Israeli bias and antisemitism, highlighting ongoing international tensions.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T13:47:25Z",
-      "url": "https://biztoc.com/x/b6f46809eb3b1a17"
-    },
-    {
-      "id": 56,
-      "title": "Tiny 'Flowers' Offer New Hope Against Alzheimer's and Parkinson's",
-      "summary": "Tiny metallic flower-shaped nanoparticles may offer new hope for patients with neurodegenerative diseases like Alzheimer's and Parkinson's, according to researchers from Texas A&M University.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T13:47:22Z",
-      "url": "https://biztoc.com/x/a67f58be9b72c027"
-    },
-    {
-      "id": 57,
-      "title": "Could South Park's Trump Attack Cost Paramount? Legal Experts Weigh In",
-      "summary": "The animated sitcom South Park may face legal consequences for their satirical portrayal of President Donald Trump, raising questions about potential backlash on the creators.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T13:47:02Z",
-      "url": "https://biztoc.com/x/ad453dc651502118"
-    },
-    {
-      "id": 58,
-      "title": "Husband Comes Home and Sees Wife—What He Announces Next Changes Everything",
-      "summary": "An AI-generated voice helped a mom of four walk away from an overwhelming situation, showcasing the positive impact of AI in mental health support.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T13:46:59Z",
-      "url": "https://biztoc.com/x/138c69fd3957086f"
-    },
-    {
-      "id": 59,
-      "title": "Amazon Scraps New Irish AI Facility Amid Power Grid Shortfall",
-      "summary": "Amazon cancels plans for new AI facility in Ireland due to power grid shortfall.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T13:46:58Z",
-      "url": "https://biztoc.com/x/879ed659e9556afd"
-    },
-    {
-      "id": 60,
-      "title": "Waze's cofounder said AI will increase the demand for software engineers",
-      "summary": "Waze's cofounder predicts that AI will increase demand for software engineers due to productivity gains.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T13:46:44Z",
-      "url": "https://biztoc.com/x/c240929cf1488fa1"
-    },
-    {
-      "id": 51,
-      "title": "Waze's cofounder said AI will increase the demand for software engineers",
-      "summary": "Waze's cofounder predicts increased demand for software engineers due to AI tools boosting productivity.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-25T13:41:48Z",
-      "url": "https://www.businessinsider.com/waze-cofounder-ai-productivity-engineers-demand-2025-7"
     }
   ]
 }
