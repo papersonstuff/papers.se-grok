@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-25T23:51:10.118Z",
+  "lastUpdate": "2025-07-26T01:16:43.014Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Adapting content to the new age of Web search",
+      "summary": "With GenAI providing meaningful answers, publishers should focus on clarity and structure of content rather on keywords to get noticed in the new age of Web search.",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:15:00Z",
+      "url": "https://www.thehindubusinessline.com/opinion/adapting-content-to-the-new-age-of-web-search/article69851957.ece"
+    },
+    {
+      "id": 52,
+      "title": "browse-to-test 0.2.6",
+      "summary": "browse-to-test 0.2.6 is an AI-powered browser automation tool that converts test scripts",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:11:41Z",
+      "url": "https://pypi.org/project/browse-to-test/0.2.6/"
+    },
+    {
+      "id": 53,
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "summary": "Nifty closed lower on Thursday due to earnings volatility, with market expected to be range-bound influenced by Q1 earnings. FIIs net sold shares, while DIIs were net buyers.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T01:11:36Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/122892171.cms"
+    },
+    {
+      "id": 54,
+      "title": "Snipers, Secret Service sweeps and a personal chef on standby: Scotland awaits Trump's arrival",
+      "summary": "Scotland is preparing for Donald Trump's arrival with security measures including snipers, Secret Service sweeps, and a personal chef on standby. Trump's golf resort in Scotland has a 15ft-high metal barrier surrounding it, reflecting his preference for walls.",
+      "source": "Sky.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:05:00Z",
+      "url": "https://news.sky.com/story/snipers-secret-service-sweeps-and-a-personal-chef-on-standby-scotland-awaits-trumps-arrival-13401094"
+    },
+    {
+      "id": 55,
+      "title": "Fox News Politics Newsletter: A Big, Beautiful Clawback",
+      "summary": "Fox News Politics Newsletter providing updates on the Trump administration and Capitol Hill.",
+      "source": "Fox News",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:03:25Z",
+      "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-big-beautiful-clawback"
+    },
+    {
+      "id": 56,
+      "title": "Review: Sunseeker X5 robo-mower commutes out to mow the nature strip",
+      "summary": "Sunseeker's new X5 robo-mower is a promising advancement in home robotics, offering impressive performance for complex lawns with its RTK-GNSS positioning system.",
+      "source": "New Atlas",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:03:00Z",
+      "url": "https://newatlas.com/around-the-home/review-sunseeker-x5-robot-mower/"
+    },
+    {
+      "id": 57,
+      "title": "ai-trackdown-pytools 1.2.0",
+      "summary": "ai-trackdown-pytools 1.2.0 is a modern Python CLI tool designed for AI project tracking and task management.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T01:02:44Z",
+      "url": "https://pypi.org/project/ai-trackdown-pytools/1.2.0/"
+    },
+    {
+      "id": 58,
+      "title": "Asian stocks snap six days of gains, bonds steady",
+      "summary": "Asian stocks snapped a six-day winning streak due to uncertainty over potential Federal Reserve interest-rate cuts, despite the S&P 500 hitting a new record driven by tech gains.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T01:01:28Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-snap-six-days-of-gains-bonds-steady/articleshow/122892143.cms"
+    },
+    {
+      "id": 59,
+      "title": "Crypto Sector Lost $3.1 Billion to Hacks in Q1 2025, Says Hacken Report",
+      "summary": "Crypto sector experienced $3.1 billion in losses due to hacks in Q1 2025, surpassing total for 2024. Report by Hacken reveals systemic vulnerabilities.",
+      "source": "Bitcoinist",
+      "category": "economy",
+      "timestamp": "2025-07-25T01:00:24Z",
+      "url": "https://bitcoinist.com/crypto-sector-lost-billion-hacks-in-q1-2025-hacken/"
+    },
+    {
+      "id": 60,
+      "title": "「いい生活賃貸/売買クラウド 営業支援」AIメッセージ生成機能の概念実証を開始",
+      "summary": "A new AI message generation concept verification for support in sales has been initiated by 'Ii Seikatsu', a cloud-based rental/sales platform. The platform aims to utilize AI technology to assist in generating messages related to real estate transactions.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000172.000003214.html"
+    },
+    {
+      "id": 61,
+      "title": "意図せぬAI学習から保護し、イラストレーターの活動をサポートするSNS機能がWickアプリに追加",
+      "summary": "Wick app adds SNS feature to protect against unintended AI learning and support illustrator activities.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-25T01:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000019.000165367.html"
+    },
+    {
+      "id": 62,
+      "title": "Poll Finds New Jersey Residents Prioritize Energy Security Over Radical Climate Policies",
+      "summary": "New Jersey residents prioritize energy security over radical climate policies, with 85% of likely voters concerned about rising energy costs from current state climate policies.",
+      "source": "Wattsupwiththat.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T01:00:00Z",
+      "url": "https://wattsupwiththat.com/2025/07/24/poll-finds-new-jersey-residents-prioritize-energy-security-over-radical-climate-policies/"
+    },
+    {
+      "id": 63,
+      "title": "Futures: AI Titans Rally On This; Two Stocks Flash Buy Signals",
+      "summary": "Futures of AI titans rallying and two stocks flashing buy signals",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T00:59:20Z",
+      "url": "https://biztoc.com/x/7475222414da6165"
+    },
+    {
+      "id": 64,
+      "title": "Google’s CEO says ‘AI is positively impacting every part of the business’",
+      "summary": "Google's CEO stated that AI is positively impacting every part of the business, and this is reflected in the company's latest quarterly earnings.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T00:59:15Z",
+      "url": "https://biztoc.com/x/c21f67a2251a86f6"
+    },
     {
       "id": 51,
       "title": "Trump's order to block 'woke' AI in government encourages tech giants to censor their chatbots",
@@ -324,132 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-24T23:05:32Z",
       "url": "https://pagesix.com/2025/07/24/celebrity-news/kelly-osbourne-shares-her-heartbreak-after-dad-ozzys-death/"
-    },
-    {
-      "id": 60,
-      "title": "First Public Betas of tvOS 26 and watchOS 26 Now Available",
-      "summary": "Apple has released the first public betas of watchOS 26 and tvOS 26 for testing purposes.",
-      "source": "Mactrast.com",
-      "category": "innovation",
-      "timestamp": "2025-07-24T23:05:15Z",
-      "url": "https://www.mactrast.com/2025/07/first-public-betas-of-tvos-26-and-watchos-26-now-available/"
-    },
-    {
-      "id": 61,
-      "title": "PayPal to bring 100 AI and data science jobs to Dublin",
-      "summary": "PayPal to create 100 AI and data science jobs in Dublin with the establishment of a new centre focused on AI and fraud data science.",
-      "source": "Finextra",
-      "category": "startups",
-      "timestamp": "2025-07-24T23:05:03Z",
-      "url": "https://www.finextra.com/newsarticle/46350/paypal-to-bring-100-ai-and-data-science-jobs-to-dublin"
-    },
-    {
-      "id": 62,
-      "title": "Kelly Osbourne Mourns Death of Dad Ozzy Osbourne",
-      "summary": "Kelly Osbourne mourns the death of her father Ozzy Osbourne, sharing a touching tribute on her Instagram Story following the Black Sabbath frontman's passing on July 22 at age 76.",
-      "source": "Eonline.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T23:04:36Z",
-      "url": "https://www.eonline.com/news/1420197/kelly-osbourne-mourns-death-of-dad-ozzy-osbourne"
-    },
-    {
-      "id": 63,
-      "title": "The Future of AI in Your Home According to Samsung",
-      "summary": "Samsung is aiming to enhance connectivity in homes by leveraging its open ecosystem SmartThings, which boasts over 400 million users. This move demonstrates the growing trend of incorporating artificial intelligence in household devices and appliances.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:04:30Z",
-      "url": "https://finance.yahoo.com/video/future-ai-home-according-samsung-230430685.html"
-    },
-    {
-      "id": 64,
-      "title": "oneclick-context added to PyPI",
-      "summary": "One-Click Context Toolkit was added to PyPI, offering visual file trees and AI summaries. This innovation aims to make accessing and understanding files easier for users.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-24T23:03:54Z",
-      "url": "https://pypi.org/project/oneclick-context/"
-    },
-    {
-      "id": 51,
-      "title": "Best Under $1 Token? Traders Betting on Ruvi AI’s (RUVI) Audited Token Over SHIB",
-      "summary": "Best Under $1 Token? Traders Betting on Ruvi AI’s (RUVI) Audited Token Over SHIB - Shiba Inu (SHIB) gained popularity as one of the most recognizable meme coins in the cryptocurrency world, driven largely by hype and an enthusiastic online community.",
-      "source": "ZyCrypto",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:53:33Z",
-      "url": "https://zycrypto.com/best-under-1-token-traders-betting-on-ruvi-ais-ruvi-audited-token-over-shib/"
-    },
-    {
-      "id": 52,
-      "title": "Slow Letter: July 24, 2025.",
-      "summary": "Japan is facing discussions about tariffs, with talks about a potential $100 billion being blocked at the entrance. There are questions about what Japan will give for a 1% cut and concerns about whether Japan is being manipulated. The article also mentions the implications for Korea's auto tariff.",
-      "source": "Slownews.kr",
-      "category": "economy",
-      "timestamp": "2025-07-24T22:53:23Z",
-      "url": "https://slownews.kr/142076"
-    },
-    {
-      "id": 53,
-      "title": "Walmart is rolling out AI ‘super agents’ to help you shop",
-      "summary": "Walmart is implementing AI 'super agents' to assist with shopping for customers and employees, offering support without the need for human intervention.",
-      "source": "The-independent.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T22:52:42Z",
-      "url": "https://www.the-independent.com/life-style/walmart-ai-super-agents-shop-b2795581.html"
-    },
-    {
-      "id": 54,
-      "title": "This week on \"Sunday Morning\" (July 27)",
-      "summary": "This week on 'Sunday Morning' they discussed features of the Emmy-winning program hosted by Jane Pauley.",
-      "source": "CBS News",
-      "category": "innovation",
-      "timestamp": "2025-07-24T22:52:24Z",
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-july-27-2025/"
-    },
-    {
-      "id": 55,
-      "title": "What will AI do for our happiness?",
-      "summary": "An antagonistic strain has emerged amid this generalized optimism about AI's impact on happiness.",
-      "source": "Wnd.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T22:52:20Z",
-      "url": "https://www.wnd.com/2025/07/what-will-ai-do-our-happiness/"
-    },
-    {
-      "id": 56,
-      "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Vestis, Reckitt, and Tempus and Encourages Investors to Contact the Firm",
-      "summary": "Bragar Eagel & Squire, P.C. is reminding investors of class action lawsuits filed against Vestis, Reckitt, and Tempus, and encourages affected investors to contact the firm directly to discuss their options.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:51:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121551/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-Vestis-Reckitt-and-Tempus-and-Encourages-Investors-to-Contact-the-Firm.html"
-    },
-    {
-      "id": 57,
-      "title": "LegalOn raises $50M to expand legal AI product development and global reach",
-      "summary": "LegalOn raises $50M to expand legal AI product development and global reach",
-      "source": "SiliconANGLE News",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:49:37Z",
-      "url": "https://siliconangle.com/2025/07/24/legalon-raises-50m-expand-legal-ai-product-development-global-reach/"
-    },
-    {
-      "id": 58,
-      "title": "Experts Compare Ruvi AI (RUVI) at $0.015, Audit and Bonuses Set It Up for a Breakout Year",
-      "summary": "Ruvi AI (RUVI) is gaining attention as a promising new token with a strong foundation and utility-focused solutions. Experts believe it has the potential for a breakout year due to its innovative and scalable approach.",
-      "source": "ZyCrypto",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:48:24Z",
-      "url": "https://zycrypto.com/experts-compare-ruvi-ai-ruvi-at-0-015-audit-and-bonuses-set-it-up-for-a-breakout-year/"
-    },
-    {
-      "id": 59,
-      "title": "Avalanche Rallies on Institutional Support, Yet Ruvi AI (RUVI) Emerges as the Smart Retail Play For 13800% Potential",
-      "summary": "Avalanche (AVAX) gains institutional support and attention, but retail players are focusing on Ruvi AI (RUVI) for its 13800% potential in smart retail. Institutions are backing Avalanche for its blockchain solutions, while retail players see promise in Ruvi AI.",
-      "source": "ZyCrypto",
-      "category": "startups",
-      "timestamp": "2025-07-24T22:48:13Z",
-      "url": "https://zycrypto.com/avalanche-rallies-on-institutional-support-yet-ruvi-ai-ruvi-emerges-as-the-smart-retail-play-for-13800-potential/"
     }
   ]
 }
