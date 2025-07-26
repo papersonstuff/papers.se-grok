@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T10:15:39.553Z",
+  "lastUpdate": "2025-07-26T10:44:04.812Z",
   "items": [
+    {
+      "id": 51,
+      "title": "UK Space Commander speech on defence in the space domain",
+      "summary": "UK Space Commander's speech on defence in the space domain at the Royal United Services Institute.",
+      "source": "Www.gov.uk",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:42:43Z",
+      "url": "https://www.gov.uk/government/speeches/uk-space-commander-speech-on-defence-in-the-space-domain"
+    },
+    {
+      "id": 52,
+      "title": "i-dot-ai-utilities 0.2.3",
+      "summary": "The release of i-dot-ai-utilities 0.2.3 provides utilities for the i.ai platform to enhance its functionality.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:41:20Z",
+      "url": "https://pypi.org/project/i-dot-ai-utilities/0.2.3/"
+    },
+    {
+      "id": 53,
+      "title": "Nutrition Label-Style AI Warnings - Motorola Solutions is Introducing AI Nutrition Labels (TrendHunter.com)",
+      "summary": "Motorola Solutions is introducing AI Nutrition Labels for public safety and enterprise security products, aiming to increase transparency and provide detailed information about the products' AI capabilities.",
+      "source": "Trendhunter.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:41:05Z",
+      "url": "https://www.trendhunter.com/trends/ai-nutrition-labels"
+    },
+    {
+      "id": 54,
+      "title": "Taoiseach to ‘delve into’ Amazon’s scrapping of Dublin plant over failure to secure power supply",
+      "summary": "Taoiseach plans to investigate Amazon's decision to cancel Dublin plant due to power supply issues, resulting in the loss of over 500 potential jobs.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:40:33Z",
+      "url": "https://www.irishtimes.com/ireland/2025/07/25/taoiseach-to-delve-into-amazons-scrapping-of-dublin-plant-over-failure-to-secure-power-supply/"
+    },
+    {
+      "id": 55,
+      "title": "Labubus say a lot about our relationship with the east and our need for wonder",
+      "summary": "Labubus gaining popularity online, sparking discussion on our fascination with the east and the need for wonder",
+      "source": "The Drum",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:40:00Z",
+      "url": "https://www.thedrum.com/opinion/2025/07/25/labubus-say-lot-about-our-relationship-with-the-east-and-our-need-wonder"
+    },
+    {
+      "id": 56,
+      "title": "I Asked ChatGPT What ‘Generational Wealth’ Really Means — and How To Start Building It",
+      "summary": "Learn about generational wealth and get a step-by-step guide from ChatGPT on how to start building it, including actionable tips for anyone to use.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:39:25Z",
+      "url": "https://finance.yahoo.com/news/asked-chatgpt-generational-wealth-really-103925682.html"
+    },
+    {
+      "id": 57,
+      "title": "Samsung India Reveals the First Shortlist of 100 Teams of ‘Solve For Tomorrow Season 4’",
+      "summary": "Samsung India reveals the first shortlist of 100 teams for 'Solve For Tomorrow Season 4', their flagship CSR initiative.",
+      "source": "Samsung.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:38:04Z",
+      "url": "https://news.samsung.com/in/samsung-india-reveals-the-first-shortlist-of-100-teams-of-solve-for-tomorrow-season-4"
+    },
+    {
+      "id": 58,
+      "title": "Google Search Weathers AI Storm — For Now",
+      "summary": "Google Search is currently holding strong against the threat of AI chatbots taking over traditional search, though there are reports of AI making some impact. The cannibalization of search by AI is a potential concern.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:38:03Z",
+      "url": "https://biztoc.com/x/98009675186ccc4e"
+    },
+    {
+      "id": 59,
+      "title": "Some of Trump’s fiercest backers absolutely hate his Musk-friendly AI ‘action plan’",
+      "summary": "Some of Trump's supporters are unhappy with his AI 'action plan', which is causing divisions in MAGA world as they express concerns about an increasingly technocratic agenda.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:37:48Z",
+      "url": "https://biztoc.com/x/d1a2316b99a0026c"
+    },
+    {
+      "id": 60,
+      "title": "American, Delta Take Opposite Sides of AI Pricing Debate",
+      "summary": "American Airlines' CEO opposes using artificial intelligence for pricing tickets, citing concerns about a 'robot takeover'.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:37:45Z",
+      "url": "https://biztoc.com/x/9dba4b8e4443b45e"
+    },
+    {
+      "id": 61,
+      "title": "Bank Julius Baer & Co. Ltd Zurich Cuts Position in Samsara Inc. (NYSE:IOT)",
+      "summary": "Bank Julius Baer & Co. Ltd Zurich reduced its holdings in Samsara Inc. by 8.2% in the first quarter, according to a recent filing with the SEC.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:37:07Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/bank-julius-baer-co-ltd-zurich-cuts-position-in-samsara-inc-nyseiot/"
+    },
+    {
+      "id": 62,
+      "title": "Raja Koduri's mission to deliver high bandwidth memory for GPUs has taken a turn that could enable 4TB of VRAM on AI cards — joins Sandisk to advise on SSD tech that could feed AI accelerators",
+      "summary": "Raja Koduri joins Sandisk as an advisor to work on high bandwidth memory for GPUs, potentially enabling 4TB of VRAM on AI cards and advising on SSD tech for AI accelerators.",
+      "source": "Tom's Hardware UK",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:37:06Z",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/raja-koduris-mission-to-deliver-high-bandwidth-memory-for-gpus-has-taken-a-turn-that-could-enable-4tb-of-vram-on-ai-cards-joins-sandisk-to-advise-on-ssd-tech-that-could-feed-ai-accelerators"
+    },
+    {
+      "id": 63,
+      "title": "voicechatengine 0.0.3",
+      "summary": "voicechatengine 0.0.3 is a production-ready Python framework for building real-time AI voice chat applications with OpenAI's Realtime API.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:36:25Z",
+      "url": "https://pypi.org/project/voicechatengine/0.0.3/"
+    },
+    {
+      "id": 64,
+      "title": "Do Its Financials Have Any Role To Play In Driving Whitbread plc's (LON:WTB) Stock Up Recently?",
+      "summary": "Whitbread plc's stock has seen a 28% increase in the last three months, with speculation about the role of financials driving this growth.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:36:18Z",
+      "url": "https://finance.yahoo.com/news/financials-role-play-driving-whitbread-103618036.html"
+    },
+    {
+      "id": 65,
+      "title": "aider-code 0.1.1.post7",
+      "summary": "Aider-code 0.1.1.post7 by Devflux offers AI pair programming in the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:35:00Z",
+      "url": "https://pypi.org/project/aider-code/0.1.1.post7/"
+    },
+    {
+      "id": 66,
+      "title": "‘Halo’ Filmmaker Roel Reiné Wraps Production On Indie Flick ‘Love Hate Hunt Kill’",
+      "summary": "'Love Hate Hunt Kill' is a new indie feature film from filmmaker Roel Reiné that has completed principal photography. The film follows Luna on a romantic getaway with her fiancé, Dre.",
+      "source": "Deadline",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:34:45Z",
+      "url": "http://deadline.com/2025/07/roel-reine-love-hate-hunt-kill-1236468493/"
+    },
+    {
+      "id": 67,
+      "title": "genstack 0.1.9",
+      "summary": "Genstack 0.1.9 introduces a Universal AI SDK for developers, offering a comprehensive set of tools and resources for creating and deploying AI applications across different platforms.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:33:36Z",
+      "url": "https://pypi.org/project/genstack/0.1.9/"
+    },
     {
       "id": 51,
       "title": "aider-code 0.1.1.post5",
@@ -297,159 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-25T09:40:01Z",
       "url": "https://mediagazer.com/250725/p2"
-    },
-    {
-      "id": 52,
-      "title": "Samsung delays One UI 8 for Galaxy S25 as beta testing continues",
-      "summary": "Samsung delays One UI 8 for Galaxy S25 as beta testing continues, while the new foldables are already running the updated software. No official release date has been announced for the Galaxy S25 lineup.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:39:28Z",
-      "url": "https://www.phonearena.com/news/samsung-delays-one-ui-8-for-galaxy-s25-as-beta-testing-continues_id172627"
-    },
-    {
-      "id": 53,
-      "title": "voicechatengine 0.0.1",
-      "summary": "voicechatengine 0.0.1 is a Python framework for creating real-time AI voice chat applications using OpenAI's Realtime API.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:39:20Z",
-      "url": "https://pypi.org/project/voicechatengine/0.0.1/"
-    },
-    {
-      "id": 54,
-      "title": "THE NEW ADAM (2)",
-      "summary": "AI-related news about 'The New Adam' reveals strange occurrences.",
-      "source": "Hilobrow.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:39:05Z",
-      "url": "https://www.hilobrow.com/2025/07/25/the-new-adam-2/"
-    },
-    {
-      "id": 55,
-      "title": "Donald Trump's Odds of Completing Presidency Fall Amid Epstein Uproar",
-      "summary": "President Trump's odds of completing presidency have fallen due to backlash from his handling of the Jeffrey Epstein case.",
-      "source": "Newsweek",
-      "category": "ethics",
-      "timestamp": "2025-07-25T09:33:17Z",
-      "url": "https://www.newsweek.com/donald-trumps-odds-completing-presidency-fall-amid-epstein-uproar-2103886"
-    },
-    {
-      "id": 56,
-      "title": "✈️Rashford included in squad for Asian tour",
-      "summary": "Rashford has been included in the squad for an Asian tour announced by Flick, with surprises like the absence of Ter Stegen and presence of new signings.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:31:00Z",
-      "url": "https://onefootball.com/en/news/rashford-included-in-squad-for-asian-tour-41422604"
-    },
-    {
-      "id": 57,
-      "title": "U.S. Augmented Reality And Virtual Reality In Healthcare Market Analysis Report 2025-2030 | IT Advancements, VC Funding, AI-5G Integration, and Rising Demand for Telemedicine and Surgical Training",
-      "summary": "The U.S. AR/VR healthcare market is expected to grow at a 15.4% CAGR until 2030, driven by advancements in healthcare IT, start-up ventures, and AI integration.",
-      "source": "GlobeNewswire",
-      "category": "startups",
-      "timestamp": "2025-07-25T09:31:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121680/28124/en/U-S-Augmented-Reality-And-Virtual-Reality-In-Healthcare-Market-Analysis-Report-2025-2030-IT-Advancements-VC-Funding-AI-5G-Integration-and-Rising-Demand-for-Telemedicine-and-Surgica.html"
-    },
-    {
-      "id": 58,
-      "title": "Real Madrid among top clubs using AI technology for injury prevention",
-      "summary": "Real Madrid is using AI technology for injury prevention, following a string of injury problems in recent seasons.",
-      "source": "Madriduniversal.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:30:00Z",
-      "url": "https://madriduniversal.com/real-madrid-among-top-clubs-using-ai-technology-for-injury-prevention/"
-    },
-    {
-      "id": 59,
-      "title": "Leaker explains Samsung’s plans to juggle Android updates and flagship launches",
-      "summary": "Leaker reveals Samsung's strategy to manage Android updates and flagship launches, with major changes expected for Galaxy S series.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:26:07Z",
-      "url": "https://www.androidauthority.com/samsung-one-ui-update-plan-leak-3580996/"
-    },
-    {
-      "id": 60,
-      "title": "As Ad Industry Sheds Jobs, These Agencies Are Growing—and Hiring",
-      "summary": "As the ad industry sheds jobs, certain agencies are growing and hiring new talent, reshaping the workforce.",
-      "source": "Adweek",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:25:39Z",
-      "url": "https://www.adweek.com/agencies/as-ad-industry-sheds-jobs-these-agencies-are-growing-and-hiring/"
-    },
-    {
-      "id": 61,
-      "title": "1xINTERNET blog: 1xINTERNET Drupal AI Initiative Monthly Report - June 2025",
-      "summary": "1xINTERNET blog provides a monthly report on the progress of the Drupal AI Initiative in June 2025, highlighting contributions in workflow, collaboration, and outreach to build a foundation for AI-powered content management.",
-      "source": "1xinternet.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:24:00Z",
-      "url": "https://www.1xinternet.com/en/highlights/1xinternet-drupal-ai-initiative-report-june-2025"
-    },
-    {
-      "id": 62,
-      "title": " Napoli target Sterling, Ndoye and Grealish back in the mix ",
-      "summary": "Napoli target Sterling, Ndoye and Grealish for transfers, showing an active transfer market. Sporting director Giovanni Manna is pursuing big names like Raheem Sterling.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:23:00Z",
-      "url": "https://onefootball.com/en/news/napoli-target-sterling-ndoye-and-grealish-back-in-the-mix-41421939"
-    },
-    {
-      "id": 63,
-      "title": "‘Epstein will forever be a loser in people’s minds and Donald Trump doesn’t hang out with losers,’ a Trump insider says, ‘it’s off-brand’",
-      "summary": "A Trump insider states that Epstein will forever be a loser in people's minds and Donald Trump does not associate with losers, as it is off-brand. This news was shared along with other updates in Fortune.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-25T09:22:56Z",
-      "url": "https://fortune.com/2025/07/25/epstein-loser-donald-trump-off-brand/"
-    },
-    {
-      "id": 64,
-      "title": "Google finally figured out how to make search results less annoying",
-      "summary": "Google has introduced Web Guide, an experimental feature using Gemini AI to categorize and summarize search results, aiming to make them less annoying and more organized.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:21:16Z",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-finally-figured-out-how-to-make-search-results-less-annoying/articleshow/122901526.cms"
-    },
-    {
-      "id": 65,
-      "title": "Mom Drops Daughter at Grandparents', Hours Later Gets 'Disturbing' Surprise",
-      "summary": "A working mom was surprised to find that a voice message she received from her daughter's grandparents was AI-generated. The AI-generated voice caused inconsistencies and led to a disturbing surprise when collecting her daughter.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:20:06Z",
-      "url": "https://biztoc.com/x/2b8c6f84ad789e1f"
-    },
-    {
-      "id": 66,
-      "title": "Consulting lead at Forvis Mazars helped build parts of the AI Act",
-      "summary": "Dera McLoughlin, consulting lead at Forvis Mazars, played a role in building parts of the AI Act, focusing on cybersecurity, AI, IT auditing, and digital consulting.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:19:41Z",
-      "url": "https://biztoc.com/x/c33f9bbc7ca60503"
-    },
-    {
-      "id": 67,
-      "title": "Intel Confirms Mass Layoffs, Over 24,000 Jobs To Be Cut This Year",
-      "summary": "Intel confirms mass layoffs, over 24,000 jobs to be cut this year, reducing workforce by a third by end of 2024.",
-      "source": "PCMag.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:19:05Z",
-      "url": "https://me.pcmag.com/en/processors/31390/intel-confirms-mass-layoffs-over-24000-jobs-to-be-cut-this-year"
-    },
-    {
-      "id": 68,
-      "title": "Intel Confirms Mass Layoffs, Over 24,000 Jobs To Be Cut This Year",
-      "summary": "Intel confirms mass layoffs, cutting over 24,000 jobs this year in an effort to reduce workforce to 75,000 core employees.",
-      "source": "PCMag.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:19:05Z",
-      "url": "https://uk.pcmag.com/processors/159293/intel-confirms-mass-layoffs-over-24000-jobs-to-be-cut-this-year"
     }
   ]
 }
