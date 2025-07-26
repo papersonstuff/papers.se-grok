@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-26T11:29:30.172Z",
+  "lastUpdate": "2025-07-26T11:41:53.466Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel to lay off 22% of workforce as CEO Tan signals ‘no more blank checks’",
+      "summary": "Intel to lay off 22% of its workforce to 75,000 employees by 2025 under new CEO, signaling a more disciplined and cost-conscious approach.",
+      "source": "Computerworld",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:39:24Z",
+      "url": "https://www.computerworld.com/article/4028896/intel-to-lay-off-22-of-workforce-as-ceo-tan-signals-no-more-blank-checks.html"
+    },
+    {
+      "id": 52,
+      "title": "What Makes Palo Alto Networks (PANW) an Investment Choice?",
+      "summary": "Sands Capital highlighted Palo Alto Networks (PANW) as an investment choice in its Q2 2025 investor letter, emphasizing its technology innovation and future growth potential.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:37:12Z",
+      "url": "https://finance.yahoo.com/news/makes-palo-alto-networks-panw-113712422.html"
+    },
+    {
+      "id": 53,
+      "title": "What Europe's response to a no-deal with Trump could look like",
+      "summary": "Europe's response to a no-deal with Trump is uncertain, casting doubt on the timing of a potential trade agreement between the EU and U.S.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:36:22Z",
+      "url": "https://www.cnbc.com/2025/07/25/what-europes-response-to-a-no-deal-with-trump-could-look-like.html"
+    },
+    {
+      "id": 54,
+      "title": " Relegation battle drama: Neymar celebrates a goal that never was",
+      "summary": "Neymar celebrates a goal that never was, showing poor sportsmanship and questionable behavior in the relegation battle with FC Santos.",
+      "source": "Onefootball.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:36:00Z",
+      "url": "https://onefootball.com/en/news/relegation-battle-drama-neymar-celebrates-a-goal-that-never-was-41423168"
+    },
+    {
+      "id": 55,
+      "title": "Microsoft’s controversial Recall feature is now blocked by Brave and AdGuard",
+      "summary": "Microsoft's controversial Recall feature, which automatically screenshots nearly everything on a Copilot Plus PC, is now being blocked by Brave and AdGuard due to privacy concerns raised by app developers.",
+      "source": "The Verge",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:34:36Z",
+      "url": "https://www.theverge.com/news/713676/brave-adguard-windows-recall-block-microsoft"
+    },
+    {
+      "id": 56,
+      "title": "HP OmniBook Ultra Flip 14 vs. OmniBook X Flip 14 — One AI laptop is clearly superior, but can you stomach the price?",
+      "summary": "HP's top consumer OmniBook laptops share a lot in common, but one is clearly made to go on sale while the other is made to appease those who love premium features.",
+      "source": "Windows Central",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:34:31Z",
+      "url": "https://www.windowscentral.com/hardware/hp/hp-omnibook-ultra-flip-14-vs-x-flip-14"
+    },
+    {
+      "id": 57,
+      "title": "Responsible AI: Why Leaders Need More Than Just Guardrails",
+      "summary": "In the rush to adopt artificial intelligence, many organizations have quickly built ethical frameworks, compliance protocols, and technical safeguards, but these are necessary but not sufficient. Because AI isn’t...",
+      "source": "Chrisyatessql.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:34:29Z",
+      "url": "https://chrisyatessql.com/2025/07/25/responsible-ai-why-leaders-need-more-than-just-guardrails/"
+    },
+    {
+      "id": 58,
+      "title": "TeamGroup Shows Off Its Ultra-Capacity 256GB Quad-Channel DDR5 Memory Kit For Intensive Workloads",
+      "summary": "TeamGroup introduces a 256GB Quad-Channel DDR5 memory kit for intensive workloads, joining other memory makers in delivering high-capacity RAM kits for AMD and Intel platforms.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:33:42Z",
+      "url": "https://wccftech.com/teamgroup-shows-off-its-ultra-capacity-256gb-quad-channel-ddr5-memory-kit-for-intensive-workloads/"
+    },
+    {
+      "id": 59,
+      "title": "Woman Suffers Painful Periods, Then She Started Eating Steak on Day 1",
+      "summary": "A woman found that eating steak on the first day of her period has significantly improved her experience and made it more bearable.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:33:37Z",
+      "url": "https://biztoc.com/x/7f2dc52a9d9b6276"
+    },
+    {
+      "id": 60,
+      "title": "AI-backed medical debt company claims payment plans can help US healthcare costs",
+      "summary": "AI-backed medical debt company PayZen claims payment plans can help US healthcare costs by buying hospital debt at a discount as Republican cuts are expected to leave millions without insurance.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:33:18Z",
+      "url": "https://biztoc.com/x/9218257b9128946c"
+    },
+    {
+      "id": 61,
+      "title": "Donald Trump's New Order Hits College Football 'Salaries'",
+      "summary": "President Trump signs Executive Order to ban 'pay-for-play' payments to college athletes, critics argue are de facto salaries.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:33:14Z",
+      "url": "https://biztoc.com/x/ede2a4e715de5620"
+    },
+    {
+      "id": 62,
+      "title": "Kenyan Cabinet Secretary supports Private Sector Civic-Led National Digital Token as Symbol of Identity and Innovation",
+      "summary": "Kenyan Cabinet Secretary supports Private Sector Civic-Led National Digital Token as Symbol of Identity and Innovation - NAIROBI, Kenya, July 25, 2025 (GLOBE NEWSWIRE) -- In a statement and accompanying video released on X, the Cabinet Secretary for the Ministry of Information, Communications and the Digital Economy (MICDE), Hon. William Kabogo, praised a civic digital initia…",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:33:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121742/0/en/Kenyan-Cabinet-Secretary-supports-Private-Sector-Civic-Led-National-Digital-Token-as-Symbol-of-Identity-and-Innovation.html"
+    },
+    {
+      "id": 63,
+      "title": "iOS 26 Public Beta 1 Brings AI Summaries Back to News Apps With a Warning",
+      "summary": "iOS 26 Public Beta 1 brings back AI summaries on news apps after being temporarily disabled, accompanied by a warning from Apple.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:32:34Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178464522"
+    },
+    {
+      "id": 64,
+      "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend",
+      "summary": "Tesla plans to launch its Robotaxi service in San Francisco this weekend, with the timeline moved up for a potential launch as soon as Friday.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:32:28Z",
+      "url": "https://www.businessinsider.com/tesla-robotaxi-bay-area-launch-san-francisco-memo-2025-7"
+    },
+    {
+      "id": 65,
+      "title": "ServiceNow eyes $100M in AI-powered headcount savings",
+      "summary": "ServiceNow anticipates $100 million in savings on headcount due to internal AI implementation, with the funds being reinvested in sales and engineering staff.",
+      "source": "Theregister.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:32:08Z",
+      "url": "https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/"
+    },
+    {
+      "id": 66,
+      "title": "'A visionary leader': Industry players, ex-colleagues pay tribute to late Microsoft Singapore head Lee Hui Li",
+      "summary": "Industry players and ex-colleagues pay tribute to the late Microsoft Singapore head Lee Hui Li, who was a visionary leader and advocate for artificial intelligence education.",
+      "source": "CNA",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:31:43Z",
+      "url": "https://www.channelnewsasia.com/singapore/microsoft-lee-hui-li-nus-computing-industry-ai-technology-digital-transformation-5258521"
+    },
+    {
+      "id": 67,
+      "title": "Bitcoin Could Go To $300,000 Before 'Great Depression' Crisis, Traders Argue",
+      "summary": "Bitcoin's current bull run is predicted to continue, with traders speculating it could reach $300,000 before a potential 'Great Depression' crisis.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:31:03Z",
+      "url": "https://finance.yahoo.com/news/bitcoin-could-300-000-great-113103860.html"
+    },
+    {
+      "id": 68,
+      "title": "Dear Microsoft CEO Satya Nadella, please prove that an AI didn’t write your insulting, vacuous blog about why you're laying off thousands during a time of huge profits",
+      "summary": "Microsoft CEO Satya Nadella is being called out for a blog post where he explains layoffs despite high profits, sparking questions about the ethical implications of the decision.",
+      "source": "Rock Paper Shotgun",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:30:25Z",
+      "url": "https://www.rockpapershotgun.com/dear-microsoft-ceo-satya-nadella-please-prove-that-an-ai-didnt-write-your-insulting-vacuous-blog-about-why-youre-laying-off-thousands-during-a-time-of-huge-profits"
+    },
     {
       "id": 51,
       "title": "Philips partners with Epic to integrate cardiac monitoring services",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T11:03:20Z",
       "url": "https://finance.yahoo.com/news/tesla-beats-chinese-rivals-driving-110320783.html"
-    },
-    {
-      "id": 65,
-      "title": "SCO Media and Think Tank Summit underway in Zhengzhou, China",
-      "summary": "SCO Media and Think Tank Summit in Zhengzhou, China started on July 23.",
-      "source": "Mypeoplesreview.com",
-      "category": "research",
-      "timestamp": "2025-07-25T11:01:16Z",
-      "url": "https://mypeoplesreview.com/2025/07/25/sco-media-and-think-tank-summit-underway-in-zhengzhou-china/"
-    },
-    {
-      "id": 66,
-      "title": "iOS 26 Public Beta 1 Brings AI Summaries Back to News Apps With a Warning",
-      "summary": "iOS 26 Public Beta 1 has reintroduced AI summaries in news apps after being temporarily disabled in January, with a warning attached.",
-      "source": "CNET",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:00:48Z",
-      "url": "https://www.cnet.com/tech/services-and-software/ios-26-public-beta-1-brings-ai-summaries-back-to-news-apps-with-a-warning/"
-    },
-    {
-      "id": 67,
-      "title": "Econocom Group SE (XBRU:ECONB) (H1 2025) Earnings Call Highlights: Strong Revenue Growth Amid ...",
-      "summary": "Econocom Group SE reports a 6.6% revenue increase in the first half of 2025, driven by TMF activity, while facing challenges in the PNS segment and Sino Trade.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:00:33Z",
-      "url": "https://finance.yahoo.com/news/econocom-group-se-xbru-econb-110033438.html"
-    },
-    {
-      "id": 51,
-      "title": "DAIVID Brings Creative Intelligence To Retail Media Networks With AI-Powered Tool",
-      "summary": "DAIVID brings AI-powered tool to help measure and optimize creative effectiveness of retail media ads in real time.",
-      "source": "ExchangeWire",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:53:07Z",
-      "url": "https://www.exchangewire.com/blog/2025/07/25/daivid-brings-creative-intelligence-to-retail-media-networks-with-ai-powered-tool/"
-    },
-    {
-      "id": 52,
-      "title": "Brilliant Labs to Launch Next-gen Smart Glasses on July 31st",
-      "summary": "Brilliant Labs is set to release its third generation of smart glasses at the end of the month, marking an advancement in wearable AI technology since its founding in 2019.",
-      "source": "Road to VR",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:52:42Z",
-      "url": "https://www.roadtovr.com/brilliant-labs-to-launch-next-gen-smart-glasses-on-july-31st/"
-    },
-    {
-      "id": 53,
-      "title": "Dell No. 2 Jeff Clarke is taking control of its sputtering PC business. Read the memo he sent to staff.",
-      "summary": "Dell No. 2 Jeff Clarke is taking control of its sputtering PC business, as announced in an internal memo to staff.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:49:07Z",
-      "url": "https://www.businessinsider.com/dell-pc-memo-jeff-clarke-leadership-reorganization-computer-slowdown-2025-7"
-    },
-    {
-      "id": 54,
-      "title": "Warning Issued For Millions To Monitor Palpitations, Shortness of Breath",
-      "summary": "Millions are warned to monitor health symptoms using AI-generated voice technology. National Weather Service issues air quality alerts in multiple states due to pollution.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:48:56Z",
-      "url": "https://biztoc.com/x/8649427c4f2946bd"
-    },
-    {
-      "id": 55,
-      "title": "TSA Staff in Disbelief at What Passenger Leaves Behind at Security",
-      "summary": "TSA staff were surprised when a passenger left behind a tray of belongings at airport security, including an item with AI-generated voice. Inconsistencies in AI-generated voices may lead to confusion in security screenings.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:48:56Z",
-      "url": "https://biztoc.com/x/99a06c2c6516e85f"
-    },
-    {
-      "id": 56,
-      "title": "Alibaba, Chinese Tech Firms Slash AI Model Prices To Win Developers",
-      "summary": "Alibaba and other Chinese tech firms are reducing prices of AI coding models in order to attract developers, offering them at one-fifth the cost of international rivals.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:48:38Z",
-      "url": "https://biztoc.com/x/7a5fb2466fc82000"
-    },
-    {
-      "id": 57,
-      "title": "Master the Art of Stunning UI Design with Claude Code",
-      "summary": "Master the Art of Stunning UI Design with Claude Code - What makes a user interface truly remarkable? Is it the sleek design, the seamless functionality, or the way it intuitively guides users without them even realizing it? The truth is, it’s all of these elements working in harmony. Yet, achieving this balance c…",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:45:33Z",
-      "url": "https://www.geeky-gadgets.com/claude-code-ui-design-guide/"
-    },
-    {
-      "id": 51,
-      "title": "UK Space Commander speech on defence in the space domain",
-      "summary": "UK Space Commander's speech on defence in the space domain at the Royal United Services Institute.",
-      "source": "Www.gov.uk",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:42:43Z",
-      "url": "https://www.gov.uk/government/speeches/uk-space-commander-speech-on-defence-in-the-space-domain"
-    },
-    {
-      "id": 52,
-      "title": "i-dot-ai-utilities 0.2.3",
-      "summary": "The release of i-dot-ai-utilities 0.2.3 provides utilities for the i.ai platform to enhance its functionality.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:41:20Z",
-      "url": "https://pypi.org/project/i-dot-ai-utilities/0.2.3/"
-    },
-    {
-      "id": 53,
-      "title": "Nutrition Label-Style AI Warnings - Motorola Solutions is Introducing AI Nutrition Labels (TrendHunter.com)",
-      "summary": "Motorola Solutions is introducing AI Nutrition Labels for public safety and enterprise security products, aiming to increase transparency and provide detailed information about the products' AI capabilities.",
-      "source": "Trendhunter.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:41:05Z",
-      "url": "https://www.trendhunter.com/trends/ai-nutrition-labels"
-    },
-    {
-      "id": 54,
-      "title": "Taoiseach to ‘delve into’ Amazon’s scrapping of Dublin plant over failure to secure power supply",
-      "summary": "Taoiseach plans to investigate Amazon's decision to cancel Dublin plant due to power supply issues, resulting in the loss of over 500 potential jobs.",
-      "source": "The Irish Times",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:40:33Z",
-      "url": "https://www.irishtimes.com/ireland/2025/07/25/taoiseach-to-delve-into-amazons-scrapping-of-dublin-plant-over-failure-to-secure-power-supply/"
-    },
-    {
-      "id": 55,
-      "title": "Labubus say a lot about our relationship with the east and our need for wonder",
-      "summary": "Labubus gaining popularity online, sparking discussion on our fascination with the east and the need for wonder",
-      "source": "The Drum",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:40:00Z",
-      "url": "https://www.thedrum.com/opinion/2025/07/25/labubus-say-lot-about-our-relationship-with-the-east-and-our-need-wonder"
-    },
-    {
-      "id": 56,
-      "title": "I Asked ChatGPT What ‘Generational Wealth’ Really Means — and How To Start Building It",
-      "summary": "Learn about generational wealth and get a step-by-step guide from ChatGPT on how to start building it, including actionable tips for anyone to use.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:39:25Z",
-      "url": "https://finance.yahoo.com/news/asked-chatgpt-generational-wealth-really-103925682.html"
-    },
-    {
-      "id": 57,
-      "title": "Samsung India Reveals the First Shortlist of 100 Teams of ‘Solve For Tomorrow Season 4’",
-      "summary": "Samsung India reveals the first shortlist of 100 teams for 'Solve For Tomorrow Season 4', their flagship CSR initiative.",
-      "source": "Samsung.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:38:04Z",
-      "url": "https://news.samsung.com/in/samsung-india-reveals-the-first-shortlist-of-100-teams-of-solve-for-tomorrow-season-4"
-    },
-    {
-      "id": 58,
-      "title": "Google Search Weathers AI Storm — For Now",
-      "summary": "Google Search is currently holding strong against the threat of AI chatbots taking over traditional search, though there are reports of AI making some impact. The cannibalization of search by AI is a potential concern.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:38:03Z",
-      "url": "https://biztoc.com/x/98009675186ccc4e"
     }
   ]
 }
