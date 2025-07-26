@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-26T06:22:19.299Z",
+  "lastUpdate": "2025-07-26T06:51:54.092Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Taiwan's industry giants unite to tackle humanoid robot power crisis",
+      "summary": "Taiwan's industry giants form an AI and robotics alliance to address humanoid robot power crisis and accelerate development in the country.",
+      "source": "Digitimes",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:50:37Z",
+      "url": "https://www.digitimes.com/news/a20250725PD214/taiwan-alliance-robotics-robot-development.html"
+    },
+    {
+      "id": 52,
+      "title": "Intel Confirms Nova Lake To Close The High-End Desktop CPU Gap With AMD In Late 2026, Bringing SMT Back To P-Cores With “Coral Rapids” On Servers By 2028-2029, Highlights Need To Consolidate On Xe GPUs, & 55% Server Share",
+      "summary": "Intel's upcoming Nova Lake and Coral Rapids CPUs aim to close the high-end desktop CPU gap with AMD, bring SMT back to P-Cores on servers, and consolidate on Xe GPUs. Intel's CEO highlighted the need for these advancements during the recent earnings call.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:50:02Z",
+      "url": "https://wccftech.com/intel-nova-lake-cpus-high-end-gap-amd-late-2026-smt-back-p-cores-coral-rapids-servers-by-2028-2029-consolidate-xe-gpus/"
+    },
+    {
+      "id": 53,
+      "title": "OptimizeRx Corp. (NASDAQ:OPRX) Receives $10.81 Average PT from Analysts",
+      "summary": "OptimizeRx Corp. (NASDAQ:OPRX) has received a $10.81 average price target from analysts, with a consensus rating of 'Moderate Buy'. Three investment analysts have rated the stock with a hold rating.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:49:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/optimizerx-corp-nasdaqoprx-receives-10-81-average-pt-from-analysts-2/"
+    },
+    {
+      "id": 54,
+      "title": "iOS 26 beta preview: Liquid Glass is better than you think",
+      "summary": "iOS 26 beta preview: Liquid Glass is better than you think - At WWDC 2025, Apple revealed a major visual shake-up for iOS (not to mention the rest of the company’s operating systems). This is the biggest change, aesthetically, since the shift away from the stitching, textures and skeuomorphic design of the iOS 4.",
+      "source": "Madshrimps.be",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:48:48Z",
+      "url": "https://www.madshrimps.be/news/ios-26-beta-preview-liquid-glass-is-better-than-you-think/"
+    },
+    {
+      "id": 55,
+      "title": "Recommendations for future AI growth: from exponential to linear, with economic anchors",
+      "summary": "Recommendations for future AI growth suggest a shift from exponential to linear progress with economic anchors.",
+      "source": "Lesswrong.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:47:07Z",
+      "url": "https://www.lesswrong.com/posts/hBakE2u89qmdhyWPi/recommendations-for-future-ai-growth-from-exponential-to"
+    },
+    {
+      "id": 56,
+      "title": "【悲報】AI動画がもう本物と見分けがつかない模様ｗｗｗｗｗｗｗｗｗｗｗ",
+      "summary": "AI-generated videos are becoming so realistic that it is difficult to distinguish them from real videos. This advancement in AI technology raises concerns about the potential misuse or manipulation of such videos in various applications.",
+      "source": "Himasoku.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T06:45:22Z",
+      "url": "http://himasoku.com/archives/52290126.html"
+    },
+    {
+      "id": 57,
+      "title": "OptimizeRx Corp. (NASDAQ:OPRX) Receives $10.81 Average PT from Analysts",
+      "summary": "OptimizeRx Corp. (NASDAQ:OPRX) has received an average price target of $10.81 from analysts, with a consensus rating of 'Moderate Buy'. Three investment analysts have rated the stock as a hold.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-25T06:44:43Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/optimizerx-corp-nasdaqoprx-receives-10-81-average-pt-from-analysts/"
+    },
+    {
+      "id": 58,
+      "title": "CoWorker、東京電機大学 CySec（国際化サイバーセキュリティ学特別コース）にて特別講演を実施",
+      "summary": "CoWorker conducted a special lecture at Tokyo Denki University CySec on international cyber security education program.",
+      "source": "Prtimes.jp",
+      "category": "research",
+      "timestamp": "2025-07-25T06:43:53Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000156001.html"
+    },
+    {
+      "id": 59,
+      "title": "Who is Phoebe Gates' boyfriend, Arthur Donald? Grandson of legend Paul McCartney; his net worth revealed",
+      "summary": "Phoebe Gates, daughter of Bill Gates, is in a relationship with Arthur Donald, grandson of Paul McCartney. Arthur works at Iconiq Capital and Phoebe co-founded Phia. The couple's relationship was made public in late 2023.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-25T06:43:42Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-phoebe-gates-boyfriend-arthur-donald-grandson-of-legend-paul-mccartney-his-net-worth-revealed/articleshow/122897927.cms"
+    },
+    {
+      "id": 60,
+      "title": "Trump once eyed Nvidia breakup; chip industry says Intel is the one that needs intervention",
+      "summary": "Trump considered breaking up Nvidia to spur competition in AI chip sector, but later abandoned the idea after realizing Intel was the one that needed intervention according to chip industry experts.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:43:10Z",
+      "url": "https://www.digitimes.com/news/a20250725PD213/nvidia-donald-trump-intel-government-competition.html"
+    },
+    {
+      "id": 61,
+      "title": "Comcast’s cable spin-off Versant sets up inaugural board of directors",
+      "summary": "Comcast's cable spin-off Versant has set up its inaugural board of directors, including prospective CEO Mark Lazarus and former Disney exec Rebecca Campbell.",
+      "source": "C21media.net",
+      "category": "startups",
+      "timestamp": "2025-07-25T06:41:41Z",
+      "url": "https://www.c21media.net/news/comcasts-cable-spin-off-versant-sets-up-inaugural-board-of-directors/"
+    },
+    {
+      "id": 62,
+      "title": "PartCrafter : Transform 2D Images into Stunning 3D Models (Local Install Guide)",
+      "summary": "PartCrafter allows users to transform 2D images into 3D models for 3D printing or digital design, eliminating the need for specialized skills and expensive software. The tool streamlines the process and opens up new possibilities for creating 3D models from simple images.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:38:18Z",
+      "url": "https://www.geeky-gadgets.com/convert-images-to-3d-models-partcrafter/"
+    },
+    {
+      "id": 63,
+      "title": "AR Rahman meets OpenAI’s Altman, Perplexity AI’s Arvind Srinivas for ‘Secret Mountain’ project",
+      "summary": "A.R. Rahman met with OpenAI's Altman and Perplexity AI's Srinivas to discuss empowering Indian creators with AI for his 'Secret Mountain' project, a virtual band project with diverse musical characters.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:36:35Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ar-rahman-meets-openais-altman-perplexity-ais-arvind-srinivas-for-secret-mountain-project/articleshow/122898216.cms"
+    },
+    {
+      "id": 64,
+      "title": "Intel slides after CEO struggles to show turnaround on track",
+      "summary": "Intel is experiencing difficulties in showing a successful turnaround, leading to a decrease in stock value. The company is also implementing layoffs worldwide.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:33:29Z",
+      "url": "https://www.irishtimes.com/business/2025/07/25/intel-slides-after-ceo-struggles-to-show-turnaround-on-track/"
+    },
+    {
+      "id": 65,
+      "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
+      "summary": "Asian shares retreat following gains in Alphabet and AI stocks on Wall Street, despite a sharp decline in Tesla shares.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:32:27Z",
+      "url": "https://biztoc.com/x/796e33bbdfea0311"
+    },
+    {
+      "id": 66,
+      "title": "「音声 × LLM 専門ラボ」に元AIスタートアップCTOが参画",
+      "summary": "Former AI startup CTO joins 'Voice x LLM Specialized Lab' at Exatech.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-25T06:30:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000128445.html"
+    },
+    {
+      "id": 67,
+      "title": "6 indie games that look better than viral AI pixel art mush",
+      "summary": "6 indie games that look better than viral AI pixel art mush - No, AI didn't 'invent' this style of game.",
+      "source": "Creative Bloq",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:30:00Z",
+      "url": "https://www.creativebloq.com/3d/video-game-design/3-indie-games-that-look-better-than-viral-ai-pixel-art-mush"
+    },
+    {
+      "id": 68,
+      "title": " Napoli target Sterling, Chiesa and Grealish in the mix ",
+      "summary": "Napoli's transfer market is heating up with targets like Raheem Sterling, Federico Chiesa, and Jack Grealish. This marks an innovative approach by Napoli's sporting director Giovanni Manna to strengthen the team.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:29:00Z",
+      "url": "https://onefootball.com/en/news/napoli-target-sterling-chiesa-and-grealish-in-the-mix-41421939"
+    },
+    {
+      "id": 69,
+      "title": "ai-edge-litert-sdk-mediatek-nightly 0.2.0.dev20250724",
+      "summary": "MediaTek has released version 0.2.0.dev20250724 of its NeuroPilot SDK for AI Edge LiteRT, aimed at providing AI capabilities for edge devices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:27:50Z",
+      "url": "https://pypi.org/project/ai-edge-litert-sdk-mediatek-nightly/0.2.0.dev20250724/"
+    },
+    {
+      "id": 70,
+      "title": "ai-edge-litert-sdk-qualcomm-nightly 0.2.0.dev20250724",
+      "summary": "Qualcomm has released the ai-edge-litert-sdk version 0.2.0.dev20250724, a software development kit for AI Edge LiteRT.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T06:27:49Z",
+      "url": "https://pypi.org/project/ai-edge-litert-sdk-qualcomm-nightly/0.2.0.dev20250724/"
+    },
     {
       "id": 51,
       "title": "Seven in 10 Indian employees carrying at least one lifestyle-related health risk: Survey",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T05:28:09Z",
       "url": "https://www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/"
-    },
-    {
-      "id": 51,
-      "title": "AIUC Emerges From Stealth With $15M Seed to Help Enterprises Deploy AI Safely",
-      "summary": "AIUC Emerges From Stealth With $15M Seed to Help Enterprises Deploy AI Safely - Artificial Intelligence Underwriting Company (AIUC) is coming out of stealth mode with a $15 million seed round.",
-      "source": "Insurance Journal",
-      "category": "startups",
-      "timestamp": "2025-07-25T05:11:11Z",
-      "url": "https://www.insurancejournal.com/news/national/2025/07/25/833169.htm"
-    },
-    {
-      "id": 52,
-      "title": "☕️ FC Breakfast: Hakimi cosplay, sore losers, Reds’ XIs",
-      "summary": "Achraf Hakimi cosplayed as Tommy Vercetti at a Bad Bunny concert while on vacation with Kylian Mbappé in Puerto Rico.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T05:11:00Z",
-      "url": "https://onefootball.com/en/news/fc-breakfast-hakimi-cosplay-sore-losers-reds-xis-41421778"
-    },
-    {
-      "id": 53,
-      "title": "Quiet but Consistent: How Norwood Financial (NWFL) Earned Its Spot Among Dividend Champions",
-      "summary": "Norwood Financial Corp. (NASDAQ:NWFL) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-25T05:09:14Z",
-      "url": "https://finance.yahoo.com/news/quiet-consistent-norwood-financial-nwfl-050914280.html"
-    },
-    {
-      "id": 54,
-      "title": "Fluence Energy (NASDAQ:FLNC) Cut to Hold at Seaport Res Ptn",
-      "summary": "Fluence Energy (NASDAQ:FLNC) was downgraded to a hold rating by Seaport Res Ptn in a research report sent to investors on Tuesday morning.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-25T05:09:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/fluence-energy-nasdaqflnc-cut-to-hold-at-seaport-res-ptn/"
-    },
-    {
-      "id": 55,
-      "title": "California Water (CWT): A Steady Utility Stock You Might Be Missing",
-      "summary": "California Water Service Group (NYSE:CWT) is considered a steady utility stock that investors may be overlooking, as it was recently included in a list of under the radar stocks to buy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:08:01Z",
-      "url": "https://finance.yahoo.com/news/california-water-cwt-steady-utility-050801130.html"
-    },
-    {
-      "id": 56,
-      "title": "8 AI tools from OpenAI You Need to Know in 2025",
-      "summary": "Discover the 8 AI tools from OpenAI transforming text, image, code, and speech workflows with real-world use cases and benefits.",
-      "source": "Smashingapps.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T05:06:03Z",
-      "url": "https://www.smashingapps.com/8-ai-tools-from-openai/"
-    },
-    {
-      "id": 57,
-      "title": "Intel posts higher revenue after trimming workforce",
-      "summary": "Intel reported increased revenue after reducing its workforce, including canceling projects in Germany and Poland in an effort to save money.",
-      "source": "The Japan Times",
-      "category": "economy",
-      "timestamp": "2025-07-25T05:05:00Z",
-      "url": "https://www.japantimes.co.jp/business/2025/07/25/companies/us-chip-intel-revenue/"
-    },
-    {
-      "id": 58,
-      "title": "$1b of Nvidia chips got into China, despite the ban",
-      "summary": "$1b of Nvidia chips got into China, despite the ban - As Jeff Goldblum once said in Jurassic Park: “Life finds a way,” and so do China’s AI demands. At least $1 billion worth of cutting-edge semiconductors have been smuggled into China since President Trump blocked Nvidia chip sales to the country in April.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T05:04:09Z",
-      "url": "https://biztoc.com/x/639d2f68acac5497"
-    },
-    {
-      "id": 51,
-      "title": "Galaxy S25 users, you’ll have to wait a bit longer for the stable One UI 8 update",
-      "summary": "Galaxy S25 users will have to wait longer for One UI 8 update as Samsung continues testing with a fourth beta of Android 16-based One UI 8.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-25T04:47:12Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-4-update-3580926/"
-    },
-    {
-      "id": 52,
-      "title": "White House lashes out at ‘South Park’ Trump parody",
-      "summary": "White House criticizes 'South Park' for Trump parody involving Satan",
-      "source": "Digital Journal",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:42:11Z",
-      "url": "https://www.digitaljournal.com/entertainment/white-house-lashes-out-at-south-park-trump-parody/article"
-    },
-    {
-      "id": 53,
-      "title": "Sundar Pichai becomes billionaire despite sharp drop in salary over 2 years — here’s how much the Google CEO earns",
-      "summary": "Sundar Pichai becomes billionaire despite salary drop, with net worth at $1.1 billion according to Bloomberg Billionaires Index.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:42:08Z",
-      "url": "https://www.livemint.com/companies/people/sundar-pichai-becomes-billionaire-despite-sharp-drop-in-salary-over-2-years-here-s-how-much-the-google-ceo-earns-11753415099499.html"
-    },
-    {
-      "id": 54,
-      "title": "Dixon receives govt approval for JV with Chinese firm Longcheer",
-      "summary": "Dixon receives govt approval for JV with Chinese firm Longcheer called Dixtel Infocomm, and also working on a JV with Vivo.",
-      "source": "BusinessLine",
-      "category": "startups",
-      "timestamp": "2025-07-25T04:40:36Z",
-      "url": "https://www.thehindubusinessline.com/companies/dixon-receives-govt-approval-for-jv-with-chinese-firm-longcheer/article69853503.ece"
-    },
-    {
-      "id": 55,
-      "title": "FBI Warning—Do Not Install This App On Your PC Or Smartphone",
-      "summary": "FBI warns against installing a dangerous app on PC or smartphone, advising caution against new attacks and how to protect against them.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:39:53Z",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/25/fbi-warning-do-not-install-these-apps/"
-    },
-    {
-      "id": 56,
-      "title": "Dixon Technologies receives govt approval for JV with Chinese firm Longcheer",
-      "summary": "Dixon Technologies has received government approval to establish a joint venture with Chinese firm Longcheer, with plans to manufacture smartphones and tablets under the new entity.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-25T04:38:37Z",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/dixon-technologies-receives-govt-approval-for-jv-with-chinese-firm-longcheer/articleshow/122895046.cms"
-    },
-    {
-      "id": 57,
-      "title": "Nvidia AI chips worth $1 billion entered China despite US curbs: FT",
-      "summary": "Nvidia AI chips worth $1 billion were smuggled into China despite US restrictions, including banned high-end processors, following tighter export controls. This influx of smuggled products had financial implications for the market.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:37:44Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ai-chips-worth-1-billion-entered-china-despite-us-curbs-ft/articleshow/122895024.cms"
-    },
-    {
-      "id": 58,
-      "title": "From WhatsApp tips to deepfakes: Nilesh Shah warns Gen Z on investment pitfalls",
-      "summary": "Nilesh Shah cautions Gen Z investors about the pitfalls of social media hype and unverified tips, emphasizing the importance of fundamental research and long-term investing.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:29:41Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-tips-to-deepfakes-nilesh-shah-warns-gen-z-on-investment-pitfalls/articleshow/122894753.cms"
-    },
-    {
-      "id": 59,
-      "title": "Tech giants ramp up AI spending in heated infrastructure race",
-      "summary": "Tech giants are increasing their AI infrastructure spending, with Alphabet raising its 2025 capex to $85 billion. This signals a heated race among technology companies to invest in AI despite uncertain returns.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:29:36Z",
-      "url": "https://www.digitimes.com/news/a20250725PD207/alphabet-2025-infrastructure-technology-google.html"
-    },
-    {
-      "id": 60,
-      "title": "anyspecs added to PyPI",
-      "summary": "anyspecs, a Specs Export Tool for AI Assistants, has been added to PyPI for use in creating AI applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:29:29Z",
-      "url": "https://pypi.org/project/anyspecs/"
-    },
-    {
-      "id": 61,
-      "title": "anyspecs 0.0.1",
-      "summary": "an AI tool called anyspecs 0.0.1 has been developed to export specifications for AI assistants, providing a valuable resource for developers working on AI projects.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:29:29Z",
-      "url": "https://pypi.org/project/anyspecs/0.0.1/"
-    },
-    {
-      "id": 62,
-      "title": "Show HN: NeoArchive – Offline Android File Manager with 25 Tools",
-      "summary": "I built an offline-first Android app called NeoArchive that acts as a file manager with 25 tools, including media conversion and PDF splitting. The app works without requiring a login and is optimized for low-end phones, built using Flutter with native plugins for audio/video processing.",
-      "source": "Google News",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:29:13Z",
-      "url": "https://play.google.com/store/apps/details?id=com.tool4file.neo_archive&amp;hl=en_US"
     }
   ]
 }
