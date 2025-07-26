@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-26T16:48:10.670Z",
+  "lastUpdate": "2025-07-26T17:14:24.098Z",
   "items": [
+    {
+      "id": 51,
+      "title": "I spent a week with the Samsung Galaxy Z Flip 7, and it's an even bigger leap than expected",
+      "summary": "The Samsung Galaxy Z Flip 7 features a larger yet slimmer design, showcasing significant advancements in foldable phone technology.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:12:58Z",
+      "url": "https://www.zdnet.com/article/i-spent-a-week-with-the-samsung-galaxy-z-flip-7-and-its-an-even-bigger-leap-than-expected/"
+    },
+    {
+      "id": 52,
+      "title": "What The GENIUS Act Means For Crypto-Native Stablecoin Issuers",
+      "summary": "The GENIUS Act will grow the stablecoin space, but with increased competition for existing leaders",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:12:35Z",
+      "url": "https://www.forbes.com/sites/digital-assets/2025/07/25/what-the-genius-act-means-for-crypto-native-stablecoin-issuers/"
+    },
+    {
+      "id": 53,
+      "title": "How to build secure and scalable remote MCP servers",
+      "summary": "How to build secure and scalable remote MCP servers - More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide.",
+      "source": "Github.blog",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:12:04Z",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/"
+    },
+    {
+      "id": 54,
+      "title": "Here are the laptops I’d tell any parent to consider for their back-to-school student",
+      "summary": "Here are some recommended laptops for back-to-school students, as choosing the right one can be overwhelming due to the variety of options available.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:10:41Z",
+      "url": "https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students"
+    },
+    {
+      "id": 55,
+      "title": "Save up to $450 on these amazing Asus ROG gaming laptops — go back to school in style, with an RTX 5060 and a 3K OLED display",
+      "summary": "Save up to $450 on Asus ROG gaming laptops with RTX 5060 and 3K OLED display, on sale at Best Buy just in time for back to school.",
+      "source": "Tom's Hardware UK",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:08:51Z",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd450-on-these-amazing-asus-rog-gaming-laptops-go-back-to-school-in-style-with-an-rtx-5060-and-a-3k-oled-display"
+    },
+    {
+      "id": 56,
+      "title": "T-Mobile will give you the iPhone 16e for free with no trade-in - here's how to get yours",
+      "summary": "T-Mobile is offering the iPhone 16e for free with no trade-in if you activate a new qualifying line.",
+      "source": "ZDNet",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:07:54Z",
+      "url": "https://www.zdnet.com/article/t-mobile-will-give-you-the-iphone-16e-for-free-with-no-trade-in-heres-how-to-get-yours/"
+    },
+    {
+      "id": 57,
+      "title": "US DoE taps federal sites for fast-track AI datacenter and energy builds",
+      "summary": "US DoE invites private sector firms to colocate datacenters and energy projects at federal sites for fast-track AI builds.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:07:39Z",
+      "url": "https://biztoc.com/x/26a85e92114e9abf"
+    },
+    {
+      "id": 58,
+      "title": "Google Cloud, YouTube, And Search Drive Big Upside: Goldman Sachs",
+      "summary": "Goldman Sachs analyst maintains Buy rating on Alphabet citing strong Q2 2025 results, driven by Google Cloud, YouTube, and Search businesses.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:07:32Z",
+      "url": "https://biztoc.com/x/2e33a48ddd818bd8"
+    },
+    {
+      "id": 59,
+      "title": "Lawyers Say AI Is Reshaping How—and Why—They Work Beyond Just Automation",
+      "summary": "Lawyers are finding new ways beyond automation to incorporate AI into their work, as revealed by a study commissioned by Ironclad.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:07:26Z",
+      "url": "https://biztoc.com/x/0861c098fe29d211"
+    },
+    {
+      "id": 60,
+      "title": "Save $200 Off a Motorola Ultra Foldable Phone and Get a Free Moto Watch Fit Worth $200 Included",
+      "summary": "Motorola is offering a $200 discount on the Ultra Foldable Phone and throwing in a free Moto Watch Fit worth $200, effectively saving customers $400 in celebration of 21 years of Razr.",
+      "source": "CNET",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:05:00Z",
+      "url": "https://www.cnet.com/deals/save-200-off-a-motorola-ultra-foldable-phone-and-get-a-free-moto-watch-fit-worth-200-included/"
+    },
+    {
+      "id": 61,
+      "title": "A timeline of the US semiconductor market in 2025 | TechCrunch",
+      "summary": "A timeline of the US semiconductor market in 2025, including leadership changes at legacy semiconductor companies and wishy washy policy around chip exports.",
+      "source": "TechCrunch",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:04:39Z",
+      "url": "https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/"
+    },
+    {
+      "id": 62,
+      "title": "American Businesses Absorb Tariff Costs to Maintain Market Share",
+      "summary": "American businesses are absorbing the cost of new U.S. tariffs to maintain market share, as shown in recent earnings reports from General Motors, Stellantis, and Hasbro.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:04:10Z",
+      "url": "http://www.pymnts.com/economy/2025/american-businesses-absorb-tariff-costs-to-maintain-market-share/"
+    },
+    {
+      "id": 63,
+      "title": "How PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations",
+      "summary": "PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations within the marketing compliance industry.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:03:23Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-performline-uses-prompt-engineering-on-amazon-bedrock-to-detect-compliance-violations/"
+    },
+    {
+      "id": 64,
+      "title": "browse-to-test 0.2.7",
+      "summary": "browse-to-test 0.2.7 is an AI-powered browser automation tool that can convert test scripts, making testing more efficient and accurate.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:02:57Z",
+      "url": "https://pypi.org/project/browse-to-test/0.2.7/"
+    },
+    {
+      "id": 65,
+      "title": "Bargain! AMD leaves new Threadripper 9000 prices unchanged at $5,000",
+      "summary": "AMD leaves Threadripper 9000 prices unchanged at $5,000, while increasing prices for Threadripper Pro chips.",
+      "source": "PCWorld",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:02:50Z",
+      "url": "https://www.pcworld.com/article/2859465/bargain-amd-leaves-new-threadripper-9000-prices-unchanged-at-5000.html"
+    },
+    {
+      "id": 66,
+      "title": "Anthropic Faces Potentially “Business-Ending” Copyright Lawsuit",
+      "summary": "Anthropic faces potential business-ending copyright lawsuit due to AI-related concerns.",
+      "source": "Lesswrong.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:01:13Z",
+      "url": "https://www.lesswrong.com/posts/ybHtafxQeaNFQJM22/anthropic-faces-potentially-business-ending-copyright"
+    },
+    {
+      "id": 67,
+      "title": "Tesla Getting to 30-50 Robotaxi in July",
+      "summary": "Tesla plans to increase its fleet of Robotaxi vehicles to 30-50 in July, expanding its service area in Austin. This move will bring Tesla's fleet closer in size to Waymo's, with 100 vehicles operating in Austin.",
+      "source": "Next Big Future",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:01:09Z",
+      "url": "https://www.nextbigfuture.com/2025/07/tesla-getting-to-30-50-robotaxi-in-july.html"
+    },
+    {
+      "id": 68,
+      "title": "European shares close lower as investors eye EU-US trade talks",
+      "summary": "European shares closed lower as investors monitored EU-US trade talks, with the Iseq All-Share index ending slightly up.",
+      "source": "The Irish Times",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:01:00Z",
+      "url": "https://www.irishtimes.com/business/2025/07/25/european-shares-close-lower-as-investors-eye-eu-us-trade-talks/"
+    },
+    {
+      "id": 69,
+      "title": "Happy Gilmore 2 Cast Guide: Every New & Returning Character In Adam Sandler's Comedy",
+      "summary": "Happy Gilmore 2 is a welcome return to form for Adam Sandler, featuring an excellent ensemble of comedy acting talents and celebrity cameos.",
+      "source": "Screen Rant",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:00:59Z",
+      "url": "https://screenrant.com/happy-gilmore-2-cast-character-guide/"
+    },
+    {
+      "id": 70,
+      "title": "Top Digital Marketing Agencies in Ludhiana [2025 List]",
+      "summary": "Top digital marketing agencies in Ludhiana for 2025 ranked with searchar as #1 for SEO, PPC, and AR marketing, helping businesses find the best fit.",
+      "source": "Searchar.in",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:00:48Z",
+      "url": "https://searchar.in/top-digital-marketing-agencies-in-ludhiana-why-searchar-leads-the-way-in-2025/"
+    },
     {
       "id": 51,
       "title": "Alienware’s new Aurora 16X RTX 5060 gaming laptop with 32GB RAM/1TB SSD is a whopping $400 off today",
@@ -270,186 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T16:10:15Z",
       "url": "https://www.thewrap.com/paramount-skydance-merger-fcc-approval-wall-street-analyst-reaction/"
-    },
-    {
-      "id": 61,
-      "title": "JPMorgan Chase & Co. (JPM) Exploring Issuing Cryptocurrency-Backed Loans",
-      "summary": "JPMorgan Chase & Co. is exploring the possibility of issuing cryptocurrency-backed loans, showing innovation in the financial sector.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:10:11Z",
-      "url": "https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-exploring-161011623.html"
-    },
-    {
-      "id": 62,
-      "title": "Charles Schwab Corporation (SCHW) Price Target Increased at KBW As Q2 Results Impress",
-      "summary": "Charles Schwab Corporation's stock price target increased after impressive Q2 results, making it a top stock to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:10:08Z",
-      "url": "https://finance.yahoo.com/news/charles-schwab-corporation-schw-price-161008924.html"
-    },
-    {
-      "id": 63,
-      "title": "GE Aerospace (GE) Price Target Hiked at Citi on Solid Guidance",
-      "summary": "GE Aerospace stock price target raised by Citi on strong guidance, now one of the top 52-week high stocks to invest in.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:10:01Z",
-      "url": "https://finance.yahoo.com/news/ge-aerospace-ge-price-target-161001833.html"
-    },
-    {
-      "id": 64,
-      "title": "Access to agent CoT makes monitors vulnerable to persuasion",
-      "summary": "Access to agent CoT makes monitors vulnerable to persuasion - Research completed by London AI Safety Research (LASR) Labs 2025 shows monitors are susceptible to persuasion. Team supervised by Victoria Krakovna (Google DeepMind).",
-      "source": "Lesswrong.com",
-      "category": "research",
-      "timestamp": "2025-07-25T16:09:59Z",
-      "url": "https://www.lesswrong.com/posts/Bvb97FpmxnKKebSjX/access-to-agent-cot-makes-monitors-vulnerable-to-persuasion"
-    },
-    {
-      "id": 65,
-      "title": "Cisco Systems (CSCO) Tapped for $17B Bahrain’s Digitization Drive",
-      "summary": "Cisco Systems Inc. (NASDAQ:CSCO) was tapped for Bahrain's $17B digitization drive, making it one of the best 52-week high stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:09:54Z",
-      "url": "https://finance.yahoo.com/news/cisco-systems-csco-tapped-17b-160954171.html"
-    },
-    {
-      "id": 66,
-      "title": "Palantir Technologies’ (PLTR) Pipeline Bolstered by $100M NGC-2 Contract",
-      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) bolsters its pipeline with a $100M NGC-2 contract, making it a top choice for investors looking to buy 52-week high stocks. The company's stock saw significant movement on July 21 following the announcement of the contract.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:09:50Z",
-      "url": "https://finance.yahoo.com/news/palantir-technologies-pltr-pipeline-bolstered-160950270.html"
-    },
-    {
-      "id": 67,
-      "title": "Citi Maintained a Buy Rating on Trip.com (TCOM), Kept the PT Unchanged",
-      "summary": "Citi analyst maintained a Buy rating on Trip.com Group Limited, stating it is one of the Best Extremely Profitable Stocks to Buy Right Now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:09:47Z",
-      "url": "https://finance.yahoo.com/news/citi-maintained-buy-rating-trip-160947791.html"
-    },
-    {
-      "id": 51,
-      "title": "King Gizzard & The Lizard Wizard Become Latest Act to Pull Music from Spotify",
-      "summary": "King Gizzard & The Lizard Wizard have pulled their music from Spotify due to the streaming platform's CEO's military investments, following Deerhoof and Xiu Xiu in taking a stand against this issue.",
-      "source": "The Quietus",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:52:00Z",
-      "url": "https://thequietus.com/news/king-gizzard-the-lizard-wizard-become-latest-act-to-pull-music-from-spotify/"
-    },
-    {
-      "id": 52,
-      "title": "What Is The 'Ok Garmin, Video Speichern' Meme? The Meaning Of TikTok's Viral 'Jarvis Commands' Dashcam Memes Explained",
-      "summary": "A German dashcam video of a driver's near-accident has become a massive meme on TikTok after being combined with the 'Jarvis Commands' meme, showcasing the entertainment and creative potential of AI-related content on social media.",
-      "source": "Knowyourmeme.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:51:56Z",
-      "url": "https://knowyourmeme.com/editorials/guides/what-is-the-ok-garmin-video-speichern-meme-the-meaning-of-tiktoks-viral-jarvis-commands-dashcam-memes-explained"
-    },
-    {
-      "id": 53,
-      "title": "Deals: Galaxy Buds 3 Pro up to $150 off, Samsung 3-in-1 Magnetic Charger station $50 off, BOOX Android e-reader, more",
-      "summary": "Deep discounts on Galaxy Buds 3 Pro and Samsung 3-in-1 Magnetic Charger station, among other deals, are being offered, including certified refurbished options from Best Buy.",
-      "source": "9to5google.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:51:25Z",
-      "url": "http://9to5google.com/2025/07/25/deals-galaxy-buds-3-pro-samsung-3-in-1-magnetic-charger/"
-    },
-    {
-      "id": 54,
-      "title": "The Secret AI Powerhouse Winning Big In Defense And Beyond",
-      "summary": "Palantir Technologies Inc., a rising AI powerhouse, is making waves in the defense industry and beyond after overcoming doubt and skepticism.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-25T15:50:13Z",
-      "url": "https://finance.yahoo.com/news/secret-ai-powerhouse-winning-big-155013309.html"
-    },
-    {
-      "id": 55,
-      "title": "Intel’s Steady Decline Continues With 15% Cut to Staff and Scrapped Factory Plans",
-      "summary": "Intel is facing a decline with a 15% staff cut and cancelled factory plans, reflecting challenges in staying competitive in the AI era.",
-      "source": "Gizmodo.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:50:10Z",
-      "url": "https://gizmodo.com/intels-steady-decline-continues-with-15-cut-to-staff-and-scrapped-factory-plans-2000634458"
-    },
-    {
-      "id": 56,
-      "title": "'Disabling' Chronic Illness in Children Not Taken Seriously: Experts",
-      "summary": "A new study by Rutgers University has highlighted that a significant number of young children are experiencing ongoing symptoms after COVID-19 infection, signifying that greater research needs to be poured into understanding and addressing chronic illness in children.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T15:49:58Z",
-      "url": "https://biztoc.com/x/6286cecacb95cf9a"
-    },
-    {
-      "id": 57,
-      "title": "Kristin Cabot Pictured for First Time Since Kiss Cam, Without Wedding Ring",
-      "summary": "Kristin Cabot, who was caught on the Coldplay kiss cam with CEO Andy Byron, has been pictured without her wedding ring, sparking speculation about her relationship status. The voice in the photo is AI-generated, which raises concerns about the potential for misinformation and inconsistencies in media.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:49:52Z",
-      "url": "https://biztoc.com/x/1d946ee4abf60412"
-    },
-    {
-      "id": 58,
-      "title": "'The Fantastic Four' Smashes 'Superman' Box Office Record",
-      "summary": "'The Fantastic Four' has smashed the box office record previously held by 'Superman', indicating a strong performance for Marvel's First Family. This demonstrates the economic impact and success of AI-generated content in the entertainment industry.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:49:44Z",
-      "url": "https://biztoc.com/x/29ad7a87813b08e2"
-    },
-    {
-      "id": 59,
-      "title": "Apple's Lack Of Clear AI Strategy A Warning Flag, Analyst Says",
-      "summary": "Apple's lack of clear AI strategy is seen as a warning flag by a Wall Street analyst, urging caution on Apple stock.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:49:39Z",
-      "url": "https://biztoc.com/x/06103c91d520b890"
-    },
-    {
-      "id": 60,
-      "title": "The Lasting Impact Of Daniel Dennett In Philosophy And Leadership",
-      "summary": "The Lasting Impact Of Daniel Dennett showcases how Dennett’s philosophical strategies can be directly translated to successful leadership tactics.",
-      "source": "Forbes",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:47:52Z",
-      "url": "https://www.forbes.com/sites/teddymcdarrah/2025/07/25/the-lasting-impact-of-daniel-dennett-in-philosophy-and-leadership/"
-    },
-    {
-      "id": 51,
-      "title": "Your Mac just got smarter: OpenAI has added ChatGPT Agent to its Mac app",
-      "summary": "OpenAI has added ChatGPT Agent to its Mac app, bringing agentic AI to Apple laptop and desktop users.",
-      "source": "TechRadar",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:34:13Z",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/your-mac-just-got-smarter-openai-has-added-chatgpt-agent-to-its-mac-app"
-    },
-    {
-      "id": 52,
-      "title": "Beyond the Hype: The Real State of AI in Business",
-      "summary": "AI innovation is advancing rapidly, but many organizations are struggling to keep pace with the changes. The real challenge lies in companies adapting to the technology rather than the technology itself.",
-      "source": "Briansolis.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:34:08Z",
-      "url": "https://briansolis.com/2025/07/beyond-the-hype-the-real-state-of-ai-in-business/"
-    },
-    {
-      "id": 53,
-      "title": "Vibe Coding Turned This Swedish AI Unicorn Into The Fastest Growing Software Startup Ever",
-      "summary": "Stockholm-based Lovable has hit over $100 million in annualized revenue in just eight months by using AI to enable millions of",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T15:34:07Z",
-      "url": "https://biztoc.com/x/768f1992ae1bbde2"
     }
   ]
 }
