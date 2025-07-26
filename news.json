@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-26T18:49:42.756Z",
+  "lastUpdate": "2025-07-26T19:11:59.689Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Samsung Galaxy Z Fold 7 review: This one's for everyone",
+      "summary": "Samsung Galaxy Z Fold 7 is a top-tier device that showcases Samsung's capabilities. It is recommended for those looking to upgrade, as long as they have the budget.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:11:20Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-review"
+    },
+    {
+      "id": 52,
+      "title": "Anthropic could be valued at $150B after new funding round",
+      "summary": "AI startup Anthropic seeks to double its valuation to over $150 billion after new funding round.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T19:10:27Z",
+      "url": "https://biztoc.com/x/659670171ba811ce"
+    },
+    {
+      "id": 53,
+      "title": "Warning Issued as 600,000 in Major City Told to 'Take Immediate' Action",
+      "summary": "600,000 people in a major city were warned about potential flash floods through an AI-generated voice message, highlighting the use of AI in emergency notifications.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:10:25Z",
+      "url": "https://biztoc.com/x/ed3a52829012e478"
+    },
+    {
+      "id": 54,
+      "title": "Hearts Break As Dog Starts 'Crying' on Way Back To Shelter After Day Out",
+      "summary": "A woman who took a shelter dog out for a night was heartbroken when the dog started 'crying' on the way back to the shelter after a day out. The use of AI-generated voices may lead to inconsistencies in emotions portrayed by animals.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:10:21Z",
+      "url": "https://biztoc.com/x/bc197378729b37dc"
+    },
+    {
+      "id": 55,
+      "title": "Lori Vallow Daybell's Murder Conspiracy Trial Sentence Announced",
+      "summary": "Lori Vallow Daybell has been sentenced to two life sentences for conspiring to kill her fourth husband and her niece's ex-husband. This raises ethical questions about the use of AI-generated voice in court proceedings, as inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:10:15Z",
+      "url": "https://biztoc.com/x/99bf01de279e7dda"
+    },
+    {
+      "id": 56,
+      "title": "Musk’s Grok AI is now on the Kalshi, Polymarket betting apps. What could go wrong?",
+      "summary": "Elon Musk's Grok AI is now integrated into prediction markets on Kalshi and Polymarket betting apps, potentially raising concerns about the impact of AI on gambling and predictions.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:10:10Z",
+      "url": "https://biztoc.com/x/8f850c5f151f65d4"
+    },
+    {
+      "id": 57,
+      "title": "How Bad Traits Can Spread Unseen In AI",
+      "summary": "LLMs can inherit hidden traits from one model to another, undetectable in the output patterns.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-25T19:09:59Z",
+      "url": "https://www.forbes.com/sites/craigsmith/2025/07/25/how-bad-traits-can-spread-unseen-in-ai/"
+    },
+    {
+      "id": 58,
+      "title": "browser-agent 1.0.0",
+      "summary": "browser-agent 1.0.0 is an AI-powered web browser automation tool that supports multiple LLM models and features a modern GUI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:09:55Z",
+      "url": "https://pypi.org/project/browser-agent/1.0.0/"
+    },
+    {
+      "id": 59,
+      "title": "browser-agent added to PyPI",
+      "summary": "PyPI now offers a browser-agent for AI-powered web browser automation with multi-LLM support and modern GUI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:09:55Z",
+      "url": "https://pypi.org/project/browser-agent/"
+    },
+    {
+      "id": 60,
+      "title": "Inside the AI Megatrends Driving Today’s Stock Market Gains",
+      "summary": "Inside the AI Megatrends Driving Today’s Stock Market Gains - The robots aren’t arriving because they’re already here. Most demonstrations we’ve seen of humanoid bots so far have been from a controlled setting, like Optimus taking a few steps, doing a little dance, or folding clothes.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:09:53Z",
+      "url": "https://biztoc.com/x/f951e1e272459f0b"
+    },
+    {
+      "id": 61,
+      "title": "Fugs and Pieces, July 25 2025",
+      "summary": "Fugs and Pieces post covering a variety of topics such as Pucci, salads, cold cases, Louisa May Alcott, and travel guides on July 25, 2025.",
+      "source": "Gofugyourself.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:09:43Z",
+      "url": "https://www.gofugyourself.com/fugs-and-pieces-july-25-2025-07-2025"
+    },
+    {
+      "id": 62,
+      "title": "China Sets Sights on Global Diffusion in AI Race",
+      "summary": "China aims to expand its influence in the global AI race, with its AI industry quickly catching up to the U.S. thanks in part to American export controls. Chinese AI chatbot models like DeepSeek are now on par with or surpass American counterparts in various performance metrics.",
+      "source": "Chinadigitaltimes.net",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:09:18Z",
+      "url": "https://chinadigitaltimes.net/2025/07/china-sets-sights-on-global-diffusion-in-ai-race/"
+    },
+    {
+      "id": 63,
+      "title": "netron 8.4.6",
+      "summary": "Netron 8.4.6 is a viewer for neural network, deep learning, and machine learning models.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:09:14Z",
+      "url": "https://pypi.org/project/netron/8.4.6/"
+    },
+    {
+      "id": 64,
+      "title": "Reimagining retail from the ground up: Uttam Kumar’s mission to modernize POS systems worldwide",
+      "summary": "Uttam Kumar is on a mission to modernize POS systems worldwide, reimagining retail from the ground up to meet the demands of modern commerce. With over 17 years of experience, he has consistently delivered innovative solutions for seamless customer experiences.",
+      "source": "Digital Journal",
+      "category": "startups",
+      "timestamp": "2025-07-25T19:09:04Z",
+      "url": "https://www.digitaljournal.com/business/reimagining-retail-from-the-ground-up-uttam-kumars-mission-to-modernize-pos-systems-worldwide/article"
+    },
+    {
+      "id": 65,
+      "title": "Lyft partners with Benteler to launch autonomous shuttle service",
+      "summary": "Lyft partners with Benteler to launch autonomous shuttle service in the U.S. next year",
+      "source": "SiliconANGLE News",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:07:24Z",
+      "url": "https://siliconangle.com/2025/07/25/lyft-partners-benteler-launch-autonomous-shuttle-service/"
+    },
+    {
+      "id": 66,
+      "title": "India Ready To Share AI models With Global South: IT Secretary S Krishnan",
+      "summary": "India is ready to share its AI models with the Global South after reaching significant capacity and scale, according to IT Secretary S Krishnan.",
+      "source": "Ndtvprofit.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:07:01Z",
+      "url": "https://www.ndtvprofit.com/technology/india-ready-to-share-ai-models-with-global-south-it-secretary-s-krishnan"
+    },
+    {
+      "id": 67,
+      "title": "Street Fighter 6 Art Contest Winner Disqualified After AI Use Discovered",
+      "summary": "An artist was disqualified from the Street Fighter 6 Art Contest for using AI-generated content in violation of the rules, leading to controversy and the artist's sudden disappearance.",
+      "source": "Sankakucomplex.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:00:53Z",
+      "url": "https://news.sankakucomplex.com/2025/07/26/street-fighter-6-art-contest-winner-disqualified-after-ai-use-discovered/"
+    },
+    {
+      "id": 68,
+      "title": "5 Tech terms to know for your mental health",
+      "summary": "5 Tech terms to know for your mental health - Explore the impact of technology on mental health through concepts like blue light exposure and algorithmic bias.",
+      "source": "Fox News",
+      "category": "research",
+      "timestamp": "2025-07-25T19:00:44Z",
+      "url": "https://www.foxnews.com/tech/5-tech-terms-know-your-mental-health"
+    },
+    {
+      "id": 69,
+      "title": "Liquid Glass, Live Translation, and All the Other Important New iOS26 Features Coming to Your iPhone",
+      "summary": "iOS 26 is introducing numerous new features to iPhones, including Liquid Glass, Live Translation, and updates to messaging and the photos app. These changes are expected to be implemented when iOS 26 is released in the fall.",
+      "source": "CNET",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:00:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/liquid-glass-live-translation-and-all-the-other-important-new-ios26-features-coming-to-your-iphone/"
+    },
+    {
+      "id": 70,
+      "title": "Galaxy Z Fold 7 Review: So, are you ready to buy a foldable phone yet?",
+      "summary": "The Galaxy Z Fold 7 review discusses the ongoing innovation of foldable phones and how they have continually improved over the years. The latest release addresses previous complaints and showcases the advancements in this technology.",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:00:00Z",
+      "url": "http://9to5google.com/2025/07/25/samsung-galaxy-z-fold-7-review/"
+    },
     {
       "id": 51,
       "title": "ITC lines up Rs 20,000 crore capex, aims to improve FMCG margins",
@@ -270,186 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T18:14:54Z",
       "url": "https://www.forbes.com/sites/tonybradley/2025/07/25/rewriting-the-narrative-of-hurricane-katrina/"
-    },
-    {
-      "id": 62,
-      "title": "US Denies Visas To Venezuelan Little League Baseball Team",
-      "summary": "Venezuelan little league baseball team denied visas for the Senior Baseball World Series in the US.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T18:14:48Z",
-      "url": "https://biztoc.com/x/4b51fb63c610aa78"
-    },
-    {
-      "id": 63,
-      "title": "gamma-facet 2.2.0",
-      "summary": "gamma-facet 2.2.0 is a human-explainable AI that aims to provide transparency and understanding in AI decision-making processes.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:14:42Z",
-      "url": "https://pypi.org/project/gamma-facet/2.2.0/"
-    },
-    {
-      "id": 64,
-      "title": "Google Reorganizes Search Results Into ‘Web Guide’",
-      "summary": "Google is reorganizing search results into a 'Web Guide' using artificial intelligence as an experimental feature.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T18:14:41Z",
-      "url": "https://biztoc.com/x/ef53be8a0631b3ee"
-    },
-    {
-      "id": 65,
-      "title": "Nans Rivat drives access to mental health care through strategic investments at PACE Healthcare Capital",
-      "summary": "Nans Rivat drives access to mental health care through strategic investments at PACE Healthcare Capital, making mental health care more accessible. PACE Healthcare Capital invests in transformative, capital-efficient digital health and tech-enabled companies.",
-      "source": "Digital Journal",
-      "category": "startups",
-      "timestamp": "2025-07-25T18:12:58Z",
-      "url": "https://www.digitaljournal.com/business/nans-rivat-drives-access-to-mental-health-care-through-strategic-investments-at-pace-healthcare-capital/article"
-    },
-    {
-      "id": 66,
-      "title": "Cyberpunk 2077 Apple Mac review: an impressive, thoughtful port from CD Projekt RED",
-      "summary": "Cyberpunk 2077 has been successfully ported to Apple Mac computers, offering ray tracing support and advanced MetalFX features. CD Projekt Red's release of the game for Apple Silicon Mac shows the potential for AI technology to enhance gaming experiences on different platforms.",
-      "source": "Eurogamer.net",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:12:54Z",
-      "url": "https://www.eurogamer.net/digitalfoundry-2025-cyberpunk-2077-apple-mac-review-an-impressive-thoughtful-port-from-cd-projekt-red"
-    },
-    {
-      "id": 67,
-      "title": "Mistral’s new “environmental audit” shows how much AI is hurting the planet",
-      "summary": "Mistral's new 'environmental audit' highlights the environmental impact of AI, with billions of prompts contributing to the overall harm. This raises ethical concerns about the sustainability of AI technology.",
-      "source": "Slashdot.org",
-      "category": "ethics",
-      "timestamp": "2025-07-25T18:12:25Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178467696"
-    },
-    {
-      "id": 68,
-      "title": "nemo-toolkit 2.4.0",
-      "summary": "The nemo-toolkit 2.4.0 has been released, providing NeMo, a toolkit for Conversational AI. This innovation in AI technology aims to advance research and development in the field of Conversational AI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:12:22Z",
-      "url": "https://pypi.org/project/nemo-toolkit/2.4.0/"
-    },
-    {
-      "id": 69,
-      "title": "Shake off that boardom",
-      "summary": "Sebi's mandate for annual board performance reviews aims to elevate governance in listed companies through digital transformation, bringing rigor and relevance to the evaluation process.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:12:00Z",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/shake-off-that-boardom/articleshow/122911248.cms"
-    },
-    {
-      "id": 70,
-      "title": "notte 1.6.0",
-      "summary": "notte 1.6.0 is a full-stack web AI agent framework",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-25T18:11:55Z",
-      "url": "https://pypi.org/project/notte/1.6.0/"
-    },
-    {
-      "id": 51,
-      "title": "Microsoft gives Copilot a face - here's how to try your new Appearance chat buddy",
-      "summary": "Microsoft introduces Appearance feature for Copilot, allowing testers to have a more human-like chat experience with capabilities like smiling and nodding.",
-      "source": "ZDNet",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:49:59Z",
-      "url": "https://www.zdnet.com/article/microsoft-gives-copilot-a-face-heres-how-to-try-your-new-appearance-chat-buddy/"
-    },
-    {
-      "id": 52,
-      "title": "Invenergy says Grain Belt Express will go forward despite DOE decision",
-      "summary": "Invenergy's Grain Belt Express project will continue despite the U.S. Department of Energy's decision stating that federal involvement is not critical in the first phase.",
-      "source": "Associated Press",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:49:32Z",
-      "url": "https://apnews.com/article/green-energy-transmission-line-grain-belt-express-6d674ba10fc2d5700133989695e838ec?utm_campaign=Newsletter&utm_medium=email&_hsenc=p2ANqtz-9YNFGtM2FaDYQ9wt_x7vQ044lOoR6VziotCiZMcqYAbtXTZ2TXoHnLBPFVDcodEls9qCFD2edisbfpCzwFYjxKz0c1OIZof_YJrIzpQAn1wld-DsI&_hsmi=372973335&utm_content=372973335&utm_source=hs_email"
-    },
-    {
-      "id": 53,
-      "title": "ai-bootstrap added to PyPI",
-      "summary": "ai-bootstrap, a CLI tool for scaffolding AI projects with GitHub Codespace integration and AI-powered project planning, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:49:06Z",
-      "url": "https://pypi.org/project/ai-bootstrap/"
-    },
-    {
-      "id": 54,
-      "title": "Paris Fashion Week Schedule Unveiled & LVMH Sales Dip in This Week's Top Fashion News",
-      "summary": "Paris Fashion Week SS26 RTW schedule unveiled with new creative director debuts, while LVMH sales dip in recent news.",
-      "source": "HYPEBEAST",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:48:42Z",
-      "url": "https://hypebeast.com/2025/7/paris-fashion-week-debuts-matthieu-blazy-chanel-dior-balenciaga-lvmh-sofia-coppola-willy-chavarria-jonathan-anderson-thom-browne-info"
-    },
-    {
-      "id": 55,
-      "title": "interro added to PyPI",
-      "summary": "Interro, an AI-powered code understanding and querying tool, has been added to PyPI for developers to use in their projects.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:47:49Z",
-      "url": "https://pypi.org/project/interro/"
-    },
-    {
-      "id": 56,
-      "title": "A Windsurf AI engineer says Google gave him a job offer that would 'explode same day.' He didn't take it.",
-      "summary": "A Windsurf AI engineer turned down a job offer from Google that was said to 'explode same day', sparking speculation on the increasing competition for AI talent in the startup world.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-25T17:46:38Z",
-      "url": "https://www.businessinsider.com/google-exploding-job-offer-windsurf-engineer-ai-talent-wars-2025-7"
-    },
-    {
-      "id": 57,
-      "title": "Palantir Stock Climb to Record High on Robust Sales and Major Army Contract",
-      "summary": "Palantir stock reaches record high due to strong sales and securing a major army contract, fueled by key AI alliances.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:46:32Z",
-      "url": "https://finance.yahoo.com/news/palantir-stock-climb-record-high-174632437.html"
-    },
-    {
-      "id": 58,
-      "title": "Elon Musk is about to ruin Vine just like he’s ruined everything else",
-      "summary": "Elon Musk mentioned the idea of bringing back Vine in 'AI form,' which has been met with skepticism and criticism.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:46:25Z",
-      "url": "https://www.androidauthority.com/elon-musk-ai-vine-3580873/"
-    },
-    {
-      "id": 59,
-      "title": "Microsoft’s Copilot AI Assistant Gets Aging Digital Avatars",
-      "summary": "Microsoft is giving its Copilot AI assistant a more human touch by introducing aging digital avatars through a feature called Copilot Appearance. The new feature was first rolled out on iPhone in Canada.",
-      "source": "iPhone in Canada",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:44:19Z",
-      "url": "https://www.iphoneincanada.ca/2025/07/25/microsoft-copilot-ai-assistant-aging-avatars/"
-    },
-    {
-      "id": 60,
-      "title": "Nothing Phone 3 Review: A Quirky and Fun Phone for Photographers",
-      "summary": "Nothing, a British brand founded in 2020, releases its first flagship phone, the Phone 3, targeted at photographers and aiming to compete with top industry players.",
-      "source": "PetaPixel",
-      "category": "startups",
-      "timestamp": "2025-07-25T17:43:35Z",
-      "url": "https://petapixel.com/2025/07/25/nothing-phone-3-review-a-quirky-and-fun-phone-for-photographers/"
-    },
-    {
-      "id": 61,
-      "title": "Apple Adds 13, 16 and 18 Plus Age Ratings to Its Apps and Games: What to Know",
-      "summary": "Apple has added 13, 16, and 18 plus age ratings to its apps and games to improve child safety measures. This move demonstrates a focus on ethics in ensuring appropriate content is easily identifiable for users of different age groups.",
-      "source": "CNET",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:43:15Z",
-      "url": "https://www.cnet.com/tech/services-and-software/apple-adds-13-16-and-18-plus-age-ratings-to-its-apps-and-games-what-to-know/"
     }
   ]
 }
