@@ -1,6 +1,51 @@
 {
-  "lastUpdate": "2025-07-26T11:41:53.466Z",
+  "lastUpdate": "2025-07-26T11:49:56.174Z",
   "items": [
+    {
+      "id": 51,
+      "title": "torram 1.0.2",
+      "summary": "torram 1.0.2 is a set of essential machine learning tools for PyTorch, aimed at helping users with their ML projects and workflows.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:46:02Z",
+      "url": "https://pypi.org/project/torram/1.0.2/"
+    },
+    {
+      "id": 52,
+      "title": "ServiceNow eyes $100M in AI-powered headcount savings",
+      "summary": "ServiceNow plans to save $100M in AI-powered headcount savings, with the money being reinvested in sales and engineering staff.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:44:28Z",
+      "url": "https://biztoc.com/x/340438780f8a89d4"
+    },
+    {
+      "id": 53,
+      "title": "Airbus satellite launches with Irish navigation tech",
+      "summary": "Airbus satellite equipped with Irish navigation tech featuring AI payload enhances data collection for orbiting spacecraft.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:44:16Z",
+      "url": "https://biztoc.com/x/4cb6ecfe13865f37"
+    },
+    {
+      "id": 54,
+      "title": "The Truth about ChatGPT Agent : Game-Changer or a Glitchy Gimmick?",
+      "summary": "The Truth about ChatGPT Agent : Game-Changer or a Glitchy Gimmick? Users are discovering that ChatGPT's AI Agent, marketed as an innovative step in task automation, may complicate rather than simplify their lives.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:42:43Z",
+      "url": "https://www.geeky-gadgets.com/openai-chatgpt-agent-review/"
+    },
+    {
+      "id": 55,
+      "title": "Lakshmi Kalyani Chinthala: A rising force in AI-Driven healthcare analytics and innovation",
+      "summary": "Lakshmi Kalyani Chinthala is making significant contributions in the field of AI-driven healthcare analytics with innovative solutions such as HIVSense-Econ, which integrates diagnostics with economic forecasting to improve public health and policy decisions.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:42:12Z",
+      "url": "https://timesofindia.indiatimes.com/entertainment/events/lakshmi-kalyani-chinthala-innovating-ai-driven-healthcare-analytics-for-global-impact/articleshow/122905078.cms"
+    },
     {
       "id": 51,
       "title": "Intel to lay off 22% of workforce as CEO Tan signals ‘no more blank checks’",
@@ -405,51 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T11:09:25Z",
       "url": "http://9to5toys.com/2025/07/25/lenovo-touchscreen-ideapad-slim-5-copilot-pc-48-off/"
-    },
-    {
-      "id": 60,
-      "title": "PraisonAI 2.2.77",
-      "summary": "PraisonAI 2.2.77 is an AI Agents Framework with Self Reflection, combining PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:06:54Z",
-      "url": "https://pypi.org/project/praisonai/2.2.77/"
-    },
-    {
-      "id": 61,
-      "title": "AdGuard is yet another app to block Windows Recall",
-      "summary": "AdGuard, an app to block Windows Recall, is now being used by more users as Recall becomes available on Windows 11. This points to a growing trend of privacy-focused apps being developed to counter controversial features in operating systems.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:06:01Z",
-      "url": "https://www.neowin.net/news/adguard-is-yet-another-app-to-block-windows-recall/"
-    },
-    {
-      "id": 62,
-      "title": "Singtel spearheads data centre hiring drive for over 500 positions",
-      "summary": "Singtel is leading a hiring drive for over 500 positions at its data centre, looking for both fresh talent and mid-career hires.",
-      "source": "The Straits Times",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:05:43Z",
-      "url": "https://www.straitstimes.com/business/singtel-spearheads-data-centre-hiring-drive-for-over-500-positions"
-    },
-    {
-      "id": 63,
-      "title": "A monstrous AMD Strix Halo handheld could debut next week, and I almost feel like pouring one out for the ROG Xbox Ally",
-      "summary": "A monstrous AMD Strix Halo handheld and GPD WIN 5 gaming handheld with AMD Ryzen APU are set to debut, potentially surpassing the ROG Xbox Ally in performance.",
-      "source": "GamesRadar+",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:04:00Z",
-      "url": "https://www.gamesradar.com/hardware/handhelds/a-monstrous-amd-strix-halo-handheld-could-debut-next-week-and-i-almost-feel-like-pouring-one-out-for-the-rog-xbox-ally/"
-    },
-    {
-      "id": 64,
-      "title": "Tesla beats Chinese rivals in some driving assisted tests, say China state media, Bytedance",
-      "summary": "Tesla outperformed Chinese rivals in a test of assisted driving technologies in China, according to state media. BYD, Xiaomi, and Huawei were among the companies compared to Tesla.",
-      "source": "Yahoo Entertainment",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:03:20Z",
-      "url": "https://finance.yahoo.com/news/tesla-beats-chinese-rivals-driving-110320783.html"
     }
   ]
 }
