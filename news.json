@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-26T17:51:31.461Z",
+  "lastUpdate": "2025-07-26T18:21:03.057Z",
   "items": [
+    {
+      "id": 51,
+      "title": "20 Years Ago, One of the Biggest Box Office Flops Ever Was Released. You've Probably Never Heard of It",
+      "summary": "20 Years Ago, One of the Biggest Box Office Flops Ever Was Released. You've Probably Never Heard of It - There's something oddly satisfying about a good old-fashioned Hollywood flop",
+      "source": "Pajiba.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:20:42Z",
+      "url": "https://www.pajiba.com/film_reviews/stealth-one-of-the-biggest-box-office-flops-youve-never-heard-of.php"
+    },
+    {
+      "id": 52,
+      "title": "Improvado: Unify 500+ Data Sources and Maximize Your ROAS with Automated Marketing Reporting",
+      "summary": "Improvado aims to help marketing teams unify over 500 data sources and automate marketing reporting to maximize Return on Ad Spend (ROAS). This solution addresses the challenge of fragmented data, inconsistent reports, and delayed decision-making in marketing.",
+      "source": "Martech.zone",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:19:41Z",
+      "url": "https://martech.zone/improvado-unify-and-harmonize-data/"
+    },
+    {
+      "id": 53,
+      "title": "ANN/Oshkosh Sponsor, Gleim Aviation, Is Ready To Teach You A Thing Or Two...",
+      "summary": "Gleim Aviation, industry leader in aviation training materials, will be offering education at the Oshkosh Sponsor booth. Founded in 1980 by Dr. Irvin N. Gleim, the company aims to provide training for aviation enthusiasts.",
+      "source": "Aero-news.net",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:19:16Z",
+      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=9745A7F2-DDC3-40B3-8C28-D875978DE7CB"
+    },
+    {
+      "id": 54,
+      "title": "Airborne 07.21.25: Nighthawk!, Hartzell Expands, Deltahawk 350HP!",
+      "summary": "EAA is excited about the future of AI, especially with the potential of a MOSAIC announcement within days. Additionally, Hartzell Expands and Deltahawk introduces a 350HP engine.",
+      "source": "Aero-news.net",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:18:15Z",
+      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=E851E944-B57A-4173-957C-015F4E0117B2"
+    },
+    {
+      "id": 55,
+      "title": "Colbert Unchained: Trump's Epstein Coverup Fails As House Subpoenas Files | DOJ Meets Ghislaine Maxwell | Can't Stop AI",
+      "summary": "President Trump denies involvement in Epstein files, House subpoenas files, Justice Department meets with Ghislaine Maxwell, and government continues investigation.",
+      "source": "Littlegreenfootballs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T18:18:05Z",
+      "url": "https://littlegreenfootballs.com/article/54785_Colbert_Unchained-_Trumps_Epst"
+    },
+    {
+      "id": 56,
+      "title": "Spear AI raises first round of funding to apply AI to submarine data",
+      "summary": "Spear AI raises first round of funding to apply AI to submarine data.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-25T18:17:28Z",
+      "url": "https://finance.yahoo.com/news/spear-ai-raises-first-round-181728507.html"
+    },
+    {
+      "id": 57,
+      "title": "AWS and Idaho National Lab to collaborate on AI for nuclear energy",
+      "summary": "AWS and Idaho National Lab are teaming up to utilize AI for nuclear energy, with the goal of researching and scaling modular nuclear reactors to power data centers.",
+      "source": "Nextgov",
+      "category": "research",
+      "timestamp": "2025-07-25T18:17:00Z",
+      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/aws-and-idaho-national-lab-collaborate-ai-nuclear-energy/406996/"
+    },
+    {
+      "id": 58,
+      "title": "OpenAI chairman says training your own AI model is a good way to 'destroy your capital'",
+      "summary": "OpenAI chairman warns that training your own AI model can be costly and may not be worth the investment due to high capital costs.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:15:16Z",
+      "url": "https://www.businessinsider.com/openai-chairman-bret-taylor-ai-model-costs-destroy-capital-2025-7"
+    },
+    {
+      "id": 59,
+      "title": "LLM Inference Benchmarking: How Much Does Your LLM Inference Cost?",
+      "summary": "LLM Inference Benchmarking: How Much Does Your LLM Inference Cost? - This is the fourth post in the large language model latency-throughput benchmarking series, which aims to instruct developers on how to determine the cost of...",
+      "source": "Nvidia.com",
+      "category": "research",
+      "timestamp": "2025-07-25T18:15:10Z",
+      "url": "https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/"
+    },
+    {
+      "id": 60,
+      "title": "This Week in AI: President Trump Releases AI Action Plan; Delta Tests Personalized Pricing",
+      "summary": "The White House released a policy roadmap outlining President Trump's strategy to maintain U.S. leadership in AI, emphasizing deregulation, infrastructure development, export controls, and freedom.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:14:59Z",
+      "url": "https://biztoc.com/x/4dc4c38c6bc747a7"
+    },
+    {
+      "id": 61,
+      "title": "Rewriting The Narrative Of Hurricane Katrina",
+      "summary": "A new Nat Geo docuseries uses tech and survivor testimony to reframe Hurricane Katrina as a preventable digital-age failure, not just a natural disaster.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:14:54Z",
+      "url": "https://www.forbes.com/sites/tonybradley/2025/07/25/rewriting-the-narrative-of-hurricane-katrina/"
+    },
+    {
+      "id": 62,
+      "title": "US Denies Visas To Venezuelan Little League Baseball Team",
+      "summary": "Venezuelan little league baseball team denied visas for the Senior Baseball World Series in the US.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T18:14:48Z",
+      "url": "https://biztoc.com/x/4b51fb63c610aa78"
+    },
+    {
+      "id": 63,
+      "title": "gamma-facet 2.2.0",
+      "summary": "gamma-facet 2.2.0 is a human-explainable AI that aims to provide transparency and understanding in AI decision-making processes.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:14:42Z",
+      "url": "https://pypi.org/project/gamma-facet/2.2.0/"
+    },
+    {
+      "id": 64,
+      "title": "Google Reorganizes Search Results Into ‘Web Guide’",
+      "summary": "Google is reorganizing search results into a 'Web Guide' using artificial intelligence as an experimental feature.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T18:14:41Z",
+      "url": "https://biztoc.com/x/ef53be8a0631b3ee"
+    },
+    {
+      "id": 65,
+      "title": "Nans Rivat drives access to mental health care through strategic investments at PACE Healthcare Capital",
+      "summary": "Nans Rivat drives access to mental health care through strategic investments at PACE Healthcare Capital, making mental health care more accessible. PACE Healthcare Capital invests in transformative, capital-efficient digital health and tech-enabled companies.",
+      "source": "Digital Journal",
+      "category": "startups",
+      "timestamp": "2025-07-25T18:12:58Z",
+      "url": "https://www.digitaljournal.com/business/nans-rivat-drives-access-to-mental-health-care-through-strategic-investments-at-pace-healthcare-capital/article"
+    },
+    {
+      "id": 66,
+      "title": "Cyberpunk 2077 Apple Mac review: an impressive, thoughtful port from CD Projekt RED",
+      "summary": "Cyberpunk 2077 has been successfully ported to Apple Mac computers, offering ray tracing support and advanced MetalFX features. CD Projekt Red's release of the game for Apple Silicon Mac shows the potential for AI technology to enhance gaming experiences on different platforms.",
+      "source": "Eurogamer.net",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:12:54Z",
+      "url": "https://www.eurogamer.net/digitalfoundry-2025-cyberpunk-2077-apple-mac-review-an-impressive-thoughtful-port-from-cd-projekt-red"
+    },
+    {
+      "id": 67,
+      "title": "Mistral’s new “environmental audit” shows how much AI is hurting the planet",
+      "summary": "Mistral's new 'environmental audit' highlights the environmental impact of AI, with billions of prompts contributing to the overall harm. This raises ethical concerns about the sustainability of AI technology.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-25T18:12:25Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178467696"
+    },
+    {
+      "id": 68,
+      "title": "nemo-toolkit 2.4.0",
+      "summary": "The nemo-toolkit 2.4.0 has been released, providing NeMo, a toolkit for Conversational AI. This innovation in AI technology aims to advance research and development in the field of Conversational AI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:12:22Z",
+      "url": "https://pypi.org/project/nemo-toolkit/2.4.0/"
+    },
+    {
+      "id": 69,
+      "title": "Shake off that boardom",
+      "summary": "Sebi's mandate for annual board performance reviews aims to elevate governance in listed companies through digital transformation, bringing rigor and relevance to the evaluation process.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:12:00Z",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/shake-off-that-boardom/articleshow/122911248.cms"
+    },
+    {
+      "id": 70,
+      "title": "notte 1.6.0",
+      "summary": "notte 1.6.0 is a full-stack web AI agent framework",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T18:11:55Z",
+      "url": "https://pypi.org/project/notte/1.6.0/"
+    },
     {
       "id": 51,
       "title": "Microsoft gives Copilot a face - here's how to try your new Appearance chat buddy",
@@ -270,186 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T17:30:00Z",
       "url": "https://www.talkandroid.com/512738-infinix-hot-60-pro-plus-launched/"
-    },
-    {
-      "id": 64,
-      "title": "prometheous 0.1.0",
-      "summary": "Prometheous 0.1.0 is an AI-powered tool that generates documentation and indexes vectors. It is designed to enhance the efficiency of documentation creation and organization.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:29:37Z",
-      "url": "https://pypi.org/project/prometheous/"
-    },
-    {
-      "id": 65,
-      "title": "As AI becomes more popular, concerns grow over its effect on mental health",
-      "summary": "As AI becomes more popular, concerns grow over its effect on mental health - Too much of anything is bad for you, including faux-magical statistical models. There are numerous recent reports of people becoming too engaged with AI, sometimes to the detriment of their mental health.",
-      "source": "Theregister.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:28:12Z",
-      "url": "https://www.theregister.com/2025/07/25/is_ai_contributing_to_mental/"
-    },
-    {
-      "id": 66,
-      "title": "This Week in AI: President Trump Releases AI Action Plan; Delta Tests Personalized Pricing",
-      "summary": "The White House released a policy roadmap detailing President Donald Trump’s strategy to maintain U.S. leadership in the global artificial intelligence (AI) race.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:24:06Z",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/this-week-in-ai-president-trump-releases-ai-action-plan-delta-tests-personalized-pricing/"
-    },
-    {
-      "id": 67,
-      "title": "Who Will Be The Winners And Losers Of The Next Debt Crisis?",
-      "summary": "My prediction is that France, the UK and the US will spend the next fifteen years in the ‘Debtor’s Prison’, while low debt countries will enjoy a strategic opportunity.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:22:52Z",
-      "url": "https://www.forbes.com/sites/mikeosullivan/2025/07/25/who-will-be-the-winners-and-losers-of-the-next-debt-crisis/"
-    },
-    {
-      "id": 68,
-      "title": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents",
-      "summary": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents for real-time document analysis.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:22:37Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-ediscovery-solution-using-amazon-bedrock-agents/"
-    },
-    {
-      "id": 69,
-      "title": "AMD Strix Halo Makes Handheld Debut in GPD Win Max 5 Teaser, Boasts Impressive FPS",
-      "summary": "AMD's Strix Halo APU debuts in GPD Win Max 5 gaming handheld, boasting impressive FPS and representing a new innovation in handheld gaming technology.",
-      "source": "Techpowerup.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:22:33Z",
-      "url": "https://www.techpowerup.com/339283/amd-strix-halo-makes-handheld-debut-in-gpd-win-max-5-teaser-boasts-impressive-fps"
-    },
-    {
-      "id": 51,
-      "title": "I spent a week with the Samsung Galaxy Z Flip 7, and it's an even bigger leap than expected",
-      "summary": "The Samsung Galaxy Z Flip 7 features a larger yet slimmer design, showcasing significant advancements in foldable phone technology.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:12:58Z",
-      "url": "https://www.zdnet.com/article/i-spent-a-week-with-the-samsung-galaxy-z-flip-7-and-its-an-even-bigger-leap-than-expected/"
-    },
-    {
-      "id": 52,
-      "title": "What The GENIUS Act Means For Crypto-Native Stablecoin Issuers",
-      "summary": "The GENIUS Act will grow the stablecoin space, but with increased competition for existing leaders",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:12:35Z",
-      "url": "https://www.forbes.com/sites/digital-assets/2025/07/25/what-the-genius-act-means-for-crypto-native-stablecoin-issuers/"
-    },
-    {
-      "id": 53,
-      "title": "How to build secure and scalable remote MCP servers",
-      "summary": "How to build secure and scalable remote MCP servers - More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide.",
-      "source": "Github.blog",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:12:04Z",
-      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/"
-    },
-    {
-      "id": 54,
-      "title": "Here are the laptops I’d tell any parent to consider for their back-to-school student",
-      "summary": "Here are some recommended laptops for back-to-school students, as choosing the right one can be overwhelming due to the variety of options available.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:10:41Z",
-      "url": "https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students"
-    },
-    {
-      "id": 55,
-      "title": "Save up to $450 on these amazing Asus ROG gaming laptops — go back to school in style, with an RTX 5060 and a 3K OLED display",
-      "summary": "Save up to $450 on Asus ROG gaming laptops with RTX 5060 and 3K OLED display, on sale at Best Buy just in time for back to school.",
-      "source": "Tom's Hardware UK",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:08:51Z",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd450-on-these-amazing-asus-rog-gaming-laptops-go-back-to-school-in-style-with-an-rtx-5060-and-a-3k-oled-display"
-    },
-    {
-      "id": 56,
-      "title": "T-Mobile will give you the iPhone 16e for free with no trade-in - here's how to get yours",
-      "summary": "T-Mobile is offering the iPhone 16e for free with no trade-in if you activate a new qualifying line.",
-      "source": "ZDNet",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:07:54Z",
-      "url": "https://www.zdnet.com/article/t-mobile-will-give-you-the-iphone-16e-for-free-with-no-trade-in-heres-how-to-get-yours/"
-    },
-    {
-      "id": 57,
-      "title": "US DoE taps federal sites for fast-track AI datacenter and energy builds",
-      "summary": "US DoE invites private sector firms to colocate datacenters and energy projects at federal sites for fast-track AI builds.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:07:39Z",
-      "url": "https://biztoc.com/x/26a85e92114e9abf"
-    },
-    {
-      "id": 58,
-      "title": "Google Cloud, YouTube, And Search Drive Big Upside: Goldman Sachs",
-      "summary": "Goldman Sachs analyst maintains Buy rating on Alphabet citing strong Q2 2025 results, driven by Google Cloud, YouTube, and Search businesses.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:07:32Z",
-      "url": "https://biztoc.com/x/2e33a48ddd818bd8"
-    },
-    {
-      "id": 59,
-      "title": "Lawyers Say AI Is Reshaping How—and Why—They Work Beyond Just Automation",
-      "summary": "Lawyers are finding new ways beyond automation to incorporate AI into their work, as revealed by a study commissioned by Ironclad.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:07:26Z",
-      "url": "https://biztoc.com/x/0861c098fe29d211"
-    },
-    {
-      "id": 60,
-      "title": "Save $200 Off a Motorola Ultra Foldable Phone and Get a Free Moto Watch Fit Worth $200 Included",
-      "summary": "Motorola is offering a $200 discount on the Ultra Foldable Phone and throwing in a free Moto Watch Fit worth $200, effectively saving customers $400 in celebration of 21 years of Razr.",
-      "source": "CNET",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:05:00Z",
-      "url": "https://www.cnet.com/deals/save-200-off-a-motorola-ultra-foldable-phone-and-get-a-free-moto-watch-fit-worth-200-included/"
-    },
-    {
-      "id": 61,
-      "title": "A timeline of the US semiconductor market in 2025 | TechCrunch",
-      "summary": "A timeline of the US semiconductor market in 2025, including leadership changes at legacy semiconductor companies and wishy washy policy around chip exports.",
-      "source": "TechCrunch",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:04:39Z",
-      "url": "https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/"
-    },
-    {
-      "id": 62,
-      "title": "American Businesses Absorb Tariff Costs to Maintain Market Share",
-      "summary": "American businesses are absorbing the cost of new U.S. tariffs to maintain market share, as shown in recent earnings reports from General Motors, Stellantis, and Hasbro.",
-      "source": "pymnts.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:04:10Z",
-      "url": "http://www.pymnts.com/economy/2025/american-businesses-absorb-tariff-costs-to-maintain-market-share/"
-    },
-    {
-      "id": 63,
-      "title": "How PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations",
-      "summary": "PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations within the marketing compliance industry.",
-      "source": "Amazon.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:03:23Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-performline-uses-prompt-engineering-on-amazon-bedrock-to-detect-compliance-violations/"
-    },
-    {
-      "id": 64,
-      "title": "browse-to-test 0.2.7",
-      "summary": "browse-to-test 0.2.7 is an AI-powered browser automation tool that can convert test scripts, making testing more efficient and accurate.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:02:57Z",
-      "url": "https://pypi.org/project/browse-to-test/0.2.7/"
     }
   ]
 }
