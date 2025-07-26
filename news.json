@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-26T20:16:24.526Z",
+  "lastUpdate": "2025-07-26T20:41:22.919Z",
   "items": [
+    {
+      "id": 51,
+      "title": "mlx-metal 0.27.0",
+      "summary": "mlx-metal 0.27.0 is a framework designed for machine learning on Apple silicon chips.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:40:18Z",
+      "url": "https://pypi.org/project/mlx-metal/0.27.0/"
+    },
+    {
+      "id": 52,
+      "title": "Record Highs Close Out Week",
+      "summary": "Record highs were reached in U.S. stocks as the S&P 500 and Nasdaq composite closed out the week with more records. The Dow also rose 208.01 points, signaling a strong week for the stock market.",
+      "source": "Newser",
+      "category": "economy",
+      "timestamp": "2025-07-25T20:40:00Z",
+      "url": "https://www.newser.com/story/372504/record-highs-close-out-week.html"
+    },
+    {
+      "id": 53,
+      "title": "White House pushes anti-woke and deregulatory 'action plan' for AI: Week in AI",
+      "summary": "White House advocates for anti-woke and deregulatory 'action plan' for AI, aiming to address ethical concerns around artificial intelligence technology.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:39:39Z",
+      "url": "https://biztoc.com/x/c41140f70aefa60b"
+    },
+    {
+      "id": 54,
+      "title": "metis-agent 0.2.4",
+      "summary": "metis-agent 0.2.4 is a framework for building powerful AI agents with minimal boilerplate code.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:39:25Z",
+      "url": "https://pypi.org/project/metis-agent/0.2.4/"
+    },
+    {
+      "id": 55,
+      "title": "Think your ChatGPT therapy sessions are private? Think again",
+      "summary": "Think your ChatGPT therapy sessions are private? Think again - ChatGPT and similar AI tools are gathering large amounts of personal data from users, raising concerns about privacy and confidentiality.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:39:20Z",
+      "url": "https://biztoc.com/x/b510cc2e7d3abc65"
+    },
+    {
+      "id": 56,
+      "title": "Leap Local Launches Map Pack SEO Service to Help Small Businesses Rank Higher on Google Maps",
+      "summary": "Leap Local launches Map Pack SEO service to help small businesses rank higher on Google Maps, aimed at improving visibility in Google's Local 3-Pack.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-25T20:39:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3122025/0/en/Leap-Local-Launches-Map-Pack-SEO-Service-to-Help-Small-Businesses-Rank-Higher-on-Google-Maps.html"
+    },
+    {
+      "id": 57,
+      "title": "Back to School AI Updates: Google Introduces Virtual Try‑On and Smarter Price Alerts",
+      "summary": "Back to school AI updates bring virtual try‑on and smarter price alerts to Google Shopping, solving outfit matching and deal tracking effortlessly.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:38:40Z",
+      "url": "https://www.smashingapps.com/back-to-school-ai-updates-google-virtual/"
+    },
+    {
+      "id": 58,
+      "title": "mlx 0.27.0",
+      "summary": "mlx 0.27.0 is a framework specifically designed for machine learning on Apple silicon, providing a streamlined and efficient platform for AI development. This innovation opens up new possibilities for AI applications on Apple devices.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:37:47Z",
+      "url": "https://pypi.org/project/mlx/0.27.0/"
+    },
+    {
+      "id": 59,
+      "title": "5 best CRMs for call center businesses in 2025",
+      "summary": "5 best CRMs for call center businesses in 2025, addressing challenges that standard business software cannot handle, providing instant access to customer history.",
+      "source": "Hubspot.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:36:42Z",
+      "url": "https://blog.hubspot.com/marketing/best-crm-for-call-centers#article"
+    },
+    {
+      "id": 60,
+      "title": "Reddit, Inc. Sued for Securities Law Violations - Contact Levi & Korsinsky Before August 18, 2025 to Discuss Your Rights – RDDT",
+      "summary": "Reddit, Inc. is facing a class action securities lawsuit for securities law violations. Investors are encouraged to contact Levi & Korsinsky before August 18, 2025 to discuss their rights.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T20:36:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3122016/3080/en/Reddit-Inc-Sued-for-Securities-Law-Violations-Contact-Levi-Korsinsky-Before-August-18-2025-to-Discuss-Your-Rights-RDDT.html"
+    },
+    {
+      "id": 61,
+      "title": "King Gizzard & the Lizard Wizard Pulls Music From Spotify Over CEO’s Investment in ‘AI Military Drone Technology’: ‘Can We Put Pressure on These Dr. Evil Tech Bros?’",
+      "summary": "King Gizzard & the Lizard Wizard pulls music from Spotify due to CEO's investment in AI military drone technology",
+      "source": "Variety",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:34:28Z",
+      "url": "https://variety.com/2025/music/news/king-gizzard-and-the-lizard-wizard-pulls-music-off-spotify-1236470802/"
+    },
+    {
+      "id": 62,
+      "title": "Even OpenAI's CEO Says Be Careful What You Share With ChatGPT",
+      "summary": "OpenAI's CEO warns against sharing personal information with ChatGPT as the AI model is not meant to be a therapist and the company may not be able to keep it confidential.",
+      "source": "Slashdot.org",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:32:46Z",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178468748"
+    },
+    {
+      "id": 63,
+      "title": "Non-malicious AI business ideas open thread (Just for fun)",
+      "summary": "Non-malicious AI business ideas open thread for AI businesses looking for less shady ways to make money.",
+      "source": "Lesswrong.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T20:31:49Z",
+      "url": "https://www.lesswrong.com/posts/GcznAvzZoEEPxsgzS/non-malicious-ai-business-ideas-open-thread-just-for-fun"
+    },
+    {
+      "id": 64,
+      "title": "Non-malicious AI business ideas open thread /compilation",
+      "summary": "Readers on LW are sharing non-malicious AI business ideas to help entrepreneurs during tough times and discourage them from resorting to shady practices for more profit.",
+      "source": "Lesswrong.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T20:31:49Z",
+      "url": "https://www.lesswrong.com/posts/GcznAvzZoEEPxsgzS/non-malicious-ai-business-ideas-open-thread-compilation"
+    },
     {
       "id": 51,
       "title": "Intel cuts back spending, workforce as struggling chip maker mounts comeback",
@@ -324,132 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T19:23:35Z",
       "url": "https://www.livemint.com/companies/news/intel-to-separate-networking-unit-as-new-ceo-tan-overhauls-business-11753471415524.html"
-    },
-    {
-      "id": 52,
-      "title": "ESOPs fables hide risky ends",
-      "summary": "ESOPs are becoming more popular as a means of wealth redistribution, but their effectiveness varies and they come with risks such as shielding underperformance and exposing workers.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:23:17Z",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/esops-fables-hide-risky-ends/articleshow/122912482.cms"
-    },
-    {
-      "id": 53,
-      "title": "Smart Marketing Decision-Making with UB-I",
-      "summary": "UB-I uses artificial intelligence to support better marketing decisions, particularly in location marketing, to help with task overwhelm.",
-      "source": "Uberall.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:22:08Z",
-      "url": "https://uberall.com/en-us/resources/blog/ai-intuitive-decision-making-ub-i"
-    },
-    {
-      "id": 54,
-      "title": "Ghislaine Maxwell's Lawyer Reacts To Trump's Pardon Comments",
-      "summary": "Ghislaine Maxwell's lawyer reacts to President Trump's pardon comments, sparking concerns about ethics surrounding potential pardon for convicted sex trafficker.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:21:19Z",
-      "url": "https://biztoc.com/x/bdfffd26c0be40d6"
-    },
-    {
-      "id": 55,
-      "title": "Alphabet's cloud margins expand despite higher AI investments",
-      "summary": "Alphabet's cloud margins are expanding despite increased investments in AI, showing that their aggressive AI strategy is benefiting their cloud business. Google Cloud's profitability is growing even as capital expenditures rise for AI growth.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:21:18Z",
-      "url": "https://biztoc.com/x/d2c94c77489398b8"
-    },
-    {
-      "id": 56,
-      "title": "Real-life ‘RoboCop’ makes debut in Shanghai — directing traffic at bustling intersection",
-      "summary": "Real-life robot ",
-      "source": "New York Post",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:21:13Z",
-      "url": "https://nypost.com/2025/07/25/business/real-life-robocop-makes-debut-in-shanghai-directing-traffic/"
-    },
-    {
-      "id": 57,
-      "title": "Linux kernel could soon expose every line AI helps write",
-      "summary": "Linux kernel could soon expose every line AI helps write, as proposed by Nvidia engineer Sasha Levin.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:20:02Z",
-      "url": "https://slashdot.org/submission/17338232/linux-kernel-could-soon-expose-every-line-ai-helps-write"
-    },
-    {
-      "id": 58,
-      "title": "AI-Powered Business Platforms - Pietra Launched AI Assistants for Autonomous E-Commerce Operations (TrendHunter.com)",
-      "summary": "Pietra has launched AI Assistants for autonomous e-commerce operations, aiming to help entrepreneurs run their businesses with minimal human intervention.",
-      "source": "Trendhunter.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T19:17:05Z",
-      "url": "https://www.trendhunter.com/trends/pietra"
-    },
-    {
-      "id": 59,
-      "title": "Layoffs surge in tech: More than 100,000 jobs cut in 2025 so far",
-      "summary": "Layoffs in the tech industry have exceeded 100,000 jobs in 2025 so far, with a notable increase in mass layoff announcements from various tech companies.",
-      "source": "TechSpot",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:16:00Z",
-      "url": "https://www.techspot.com/news/108818-layoffs-surge-tech-more-than-100000-jobs-cut.html"
-    },
-    {
-      "id": 60,
-      "title": "POP BIO and CEPI announce collaboration for faster responses to Disease X",
-      "summary": "POP BIO and CEPI collaborate to accelerate responses to Disease X",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:16:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121975/0/en/POP-BIO-and-CEPI-announce-collaboration-for-faster-responses-to-Disease-X.html"
-    },
-    {
-      "id": 61,
-      "title": "Musk’s Grok AI is now on the Kalshi, Polymarket betting apps. What could go wrong?",
-      "summary": "Musk's Grok AI is now available on the Kalshi and Polymarket betting apps, raising concerns about the potential risks involved.Also, Polymarket gained popularity during the 2024 election between President Trump and President Biden.",
-      "source": "CNBC",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:15:52Z",
-      "url": "https://www.cnbc.com/2025/07/25/musk-grok-kalshi-polymarket.html"
-    },
-    {
-      "id": 62,
-      "title": "Can the Galaxy Z Fold 7 cameras hang with the iPhone and S25 Ultra? I put it to the test",
-      "summary": "When you spend more than $1,000 on a phone, you expect the best. The cameras on the Galaxy Z Fold line are now competitive with the iPhone and S25 Ultra, marking a significant improvement in camera quality.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:15:12Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-camera-comparison"
-    },
-    {
-      "id": 63,
-      "title": "Everything to know about Tea, the viral and controversial app that lets women mark men as red flags",
-      "summary": "The Tea Dating Advice app allows women to anonymously leave feedback on men, enabling them to mark potential red flags. This app has quickly gained popularity for its unique approach to dating.",
-      "source": "Fast Company",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:15:00Z",
-      "url": "https://www.fastcompany.com/91374409/everything-to-know-about-tea-the-viral-and-controversial-app-that-lets-women-mark-men-as-red-flags"
-    },
-    {
-      "id": 64,
-      "title": "Australian Psychedelic Rock Gods King Gizzard Appear To Be Nuking Their Catalog From Spotify",
-      "summary": "Australian Psychedelic Rock band King Gizzard appears to be removing their catalog from Spotify, sparking discussion about the impact of technological progress on music consumption and artist compensation.",
-      "source": "BroBible",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:14:56Z",
-      "url": "https://brobible.com/culture/article/australian-psychedelic-rock-gods-king-gizzard-appear-to-be-nuking-their-catalog-from-spotify/"
-    },
-    {
-      "id": 65,
-      "title": "Key questions for Apple ahead of earnings",
-      "summary": "CNBC's Steve Kovach discusses Apple's AI strategy before the company's earnings report, highlighting key questions related to AI technology and its potential impact on the company's performance.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T19:14:35Z",
-      "url": "https://biztoc.com/x/54165880c0e676a6"
     }
   ]
 }
