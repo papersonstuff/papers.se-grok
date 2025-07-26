@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-26T13:43:22.145Z",
+  "lastUpdate": "2025-07-26T13:54:44.103Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Request for Information: Inviting Feedback on the Proposed NIH Research Plan on Rehabilitation Scientific Themes FY26-FY30",
+      "summary": "Request for Information has been issued by the NIH for feedback on the proposed Research Plan on Rehabilitation Scientific Themes for fiscal years 2026-2030.",
+      "source": "National Institutes of Health",
+      "category": "research",
+      "timestamp": "2025-07-25T13:53:56Z",
+      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HD-25-003.html"
+    },
+    {
+      "id": 52,
+      "title": "Commvault to acquire Satori Cyber for GenAI data security",
+      "summary": "Commvault is set to acquire Satori Cyber to enhance their platform with security technologies for Generative AI, marking their third acquisition in less than two years.",
+      "source": "Techtarget.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:53:00Z",
+      "url": "https://www.techtarget.com/searchdatabackup/news/366628050/Commvault-to-acquire-Satori-Cyber-for-GenAI-data-security"
+    },
+    {
+      "id": 53,
+      "title": "Palantir a high-risk investment with ’a one-of-a-kind growth and margin model’",
+      "summary": "Palantir Technologies is considered a high-risk but potentially transformative investment by Piper Sandler, with a unique growth and margin model.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-25T13:51:09Z",
+      "url": "https://finance.yahoo.com/news/palantir-high-risk-investment-one-135109514.html"
+    },
+    {
+      "id": 54,
+      "title": "Centex Technologies Welcomes Former Texas A&M University System Chancellor John Sharp as Strategic Advisor",
+      "summary": "Centex Technologies welcomes former Texas A&M University System Chancellor John Sharp as a strategic advisor, bringing his expertise to help guide the company in its growth and development.",
+      "source": "GlobeNewswire",
+      "category": "startup",
+      "timestamp": "2025-07-25T13:51:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121843/0/en/Centex-Technologies-Welcomes-Former-Texas-A-M-University-System-Chancellor-John-Sharp-as-Strategic-Advisor.html"
+    },
+    {
+      "id": 55,
+      "title": "Europe's Spate of Hostilities Toward Jews and Israelis Prompts Antisemitism Calls",
+      "summary": "Europe's recent hostilities towards Jews and Israelis have raised concerns of anti-Israeli bias and antisemitism, highlighting ongoing international tensions.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:47:25Z",
+      "url": "https://biztoc.com/x/b6f46809eb3b1a17"
+    },
+    {
+      "id": 56,
+      "title": "Tiny 'Flowers' Offer New Hope Against Alzheimer's and Parkinson's",
+      "summary": "Tiny metallic flower-shaped nanoparticles may offer new hope for patients with neurodegenerative diseases like Alzheimer's and Parkinson's, according to researchers from Texas A&M University.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T13:47:22Z",
+      "url": "https://biztoc.com/x/a67f58be9b72c027"
+    },
+    {
+      "id": 57,
+      "title": "Could South Park's Trump Attack Cost Paramount? Legal Experts Weigh In",
+      "summary": "The animated sitcom South Park may face legal consequences for their satirical portrayal of President Donald Trump, raising questions about potential backlash on the creators.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:47:02Z",
+      "url": "https://biztoc.com/x/ad453dc651502118"
+    },
+    {
+      "id": 58,
+      "title": "Husband Comes Home and Sees Wife—What He Announces Next Changes Everything",
+      "summary": "An AI-generated voice helped a mom of four walk away from an overwhelming situation, showcasing the positive impact of AI in mental health support.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:46:59Z",
+      "url": "https://biztoc.com/x/138c69fd3957086f"
+    },
+    {
+      "id": 59,
+      "title": "Amazon Scraps New Irish AI Facility Amid Power Grid Shortfall",
+      "summary": "Amazon cancels plans for new AI facility in Ireland due to power grid shortfall.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:46:58Z",
+      "url": "https://biztoc.com/x/879ed659e9556afd"
+    },
+    {
+      "id": 60,
+      "title": "Waze's cofounder said AI will increase the demand for software engineers",
+      "summary": "Waze's cofounder predicts that AI will increase demand for software engineers due to productivity gains.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:46:44Z",
+      "url": "https://biztoc.com/x/c240929cf1488fa1"
+    },
     {
       "id": 51,
       "title": "Waze's cofounder said AI will increase the demand for software engineers",
@@ -360,96 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T12:18:23Z",
       "url": "https://pypi.org/project/orq-ai-sdk/3.10.0rc20/"
-    },
-    {
-      "id": 64,
-      "title": "Pam Bondi Is Handed Another Headache",
-      "summary": "Former Department of Justice officials filed a lawsuit against the department and Attorney General Pam Bondi for using AI-generated voice technology, which can lead to inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T12:17:56Z",
-      "url": "https://biztoc.com/x/d7def592cc5aec53"
-    },
-    {
-      "id": 51,
-      "title": "torram 1.0.2",
-      "summary": "torram 1.0.2 is a set of essential machine learning tools for PyTorch, aimed at helping users with their ML projects and workflows.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:46:02Z",
-      "url": "https://pypi.org/project/torram/1.0.2/"
-    },
-    {
-      "id": 52,
-      "title": "ServiceNow eyes $100M in AI-powered headcount savings",
-      "summary": "ServiceNow plans to save $100M in AI-powered headcount savings, with the money being reinvested in sales and engineering staff.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:44:28Z",
-      "url": "https://biztoc.com/x/340438780f8a89d4"
-    },
-    {
-      "id": 53,
-      "title": "Airbus satellite launches with Irish navigation tech",
-      "summary": "Airbus satellite equipped with Irish navigation tech featuring AI payload enhances data collection for orbiting spacecraft.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:44:16Z",
-      "url": "https://biztoc.com/x/4cb6ecfe13865f37"
-    },
-    {
-      "id": 54,
-      "title": "The Truth about ChatGPT Agent : Game-Changer or a Glitchy Gimmick?",
-      "summary": "The Truth about ChatGPT Agent : Game-Changer or a Glitchy Gimmick? Users are discovering that ChatGPT's AI Agent, marketed as an innovative step in task automation, may complicate rather than simplify their lives.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:42:43Z",
-      "url": "https://www.geeky-gadgets.com/openai-chatgpt-agent-review/"
-    },
-    {
-      "id": 55,
-      "title": "Lakshmi Kalyani Chinthala: A rising force in AI-Driven healthcare analytics and innovation",
-      "summary": "Lakshmi Kalyani Chinthala is making significant contributions in the field of AI-driven healthcare analytics with innovative solutions such as HIVSense-Econ, which integrates diagnostics with economic forecasting to improve public health and policy decisions.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:42:12Z",
-      "url": "https://timesofindia.indiatimes.com/entertainment/events/lakshmi-kalyani-chinthala-innovating-ai-driven-healthcare-analytics-for-global-impact/articleshow/122905078.cms"
-    },
-    {
-      "id": 51,
-      "title": "Intel to lay off 22% of workforce as CEO Tan signals ‘no more blank checks’",
-      "summary": "Intel to lay off 22% of its workforce to 75,000 employees by 2025 under new CEO, signaling a more disciplined and cost-conscious approach.",
-      "source": "Computerworld",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:39:24Z",
-      "url": "https://www.computerworld.com/article/4028896/intel-to-lay-off-22-of-workforce-as-ceo-tan-signals-no-more-blank-checks.html"
-    },
-    {
-      "id": 52,
-      "title": "What Makes Palo Alto Networks (PANW) an Investment Choice?",
-      "summary": "Sands Capital highlighted Palo Alto Networks (PANW) as an investment choice in its Q2 2025 investor letter, emphasizing its technology innovation and future growth potential.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:37:12Z",
-      "url": "https://finance.yahoo.com/news/makes-palo-alto-networks-panw-113712422.html"
-    },
-    {
-      "id": 53,
-      "title": "What Europe's response to a no-deal with Trump could look like",
-      "summary": "Europe's response to a no-deal with Trump is uncertain, casting doubt on the timing of a potential trade agreement between the EU and U.S.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:36:22Z",
-      "url": "https://www.cnbc.com/2025/07/25/what-europes-response-to-a-no-deal-with-trump-could-look-like.html"
-    },
-    {
-      "id": 54,
-      "title": " Relegation battle drama: Neymar celebrates a goal that never was",
-      "summary": "Neymar celebrates a goal that never was, showing poor sportsmanship and questionable behavior in the relegation battle with FC Santos.",
-      "source": "Onefootball.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:36:00Z",
-      "url": "https://onefootball.com/en/news/relegation-battle-drama-neymar-celebrates-a-goal-that-never-was-41423168"
     }
   ]
 }
