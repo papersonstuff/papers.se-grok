@@ -1,6 +1,132 @@
 {
-  "lastUpdate": "2025-07-26T19:49:20.785Z",
+  "lastUpdate": "2025-07-26T20:16:24.526Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel cuts back spending, workforce as struggling chip maker mounts comeback",
+      "summary": "Intel is cutting spending and workforce as they attempt a comeback, with plans to end the year with 75,000 core workers.",
+      "source": "Boston Herald",
+      "category": "economy",
+      "timestamp": "2025-07-25T20:15:30Z",
+      "url": "https://www.bostonherald.com/2025/07/25/intel-layoffs/"
+    },
+    {
+      "id": 52,
+      "title": "S&P 500 sets 5 all-time highs in one trading week",
+      "summary": "S&P 500 reaches 5 all-time highs in one trading week, with the Dow Jones Industrial Average and Nasdaq composite also setting new records at the end of the week.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-25T20:15:26Z",
+      "url": "https://fortune.com/2025/07/25/stocks-markets-sp-500-record-high-dow-nasdaq/"
+    },
+    {
+      "id": 53,
+      "title": "maxai-mcp 0.2.5",
+      "summary": "The release of maxai-mcp 0.2.5 allows for the connection of Max AI agents to MCP servers, enabling improved communication and collaboration between multiple AI agents.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:14:35Z",
+      "url": "https://pypi.org/project/maxai-mcp/0.2.5/"
+    },
+    {
+      "id": 54,
+      "title": "What the right’s war on college is really about",
+      "summary": "Project 2025 aims to dismantle diversity and inclusion programs in colleges, while also challenging the accreditation system and federal funding for education.",
+      "source": "Vox",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:13:56Z",
+      "url": "https://www.vox.com/the-gray-area/421054/college-ai-attack-roth-wesleyan-trump"
+    },
+    {
+      "id": 55,
+      "title": "camel-ai 0.2.73a8",
+      "summary": "camel-ai 0.2.73a8 has been released, focusing on Communicative Agents for AI Society Study.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T20:13:34Z",
+      "url": "https://pypi.org/project/camel-ai/0.2.73a8/"
+    },
+    {
+      "id": 56,
+      "title": "AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B | TechCrunch",
+      "summary": "AI referrals to top websites increased by 357% year-over-year in June, reaching 1.13 billion.",
+      "source": "TechCrunch",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:12:16Z",
+      "url": "https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/"
+    },
+    {
+      "id": 57,
+      "title": "xml-analysis-framework 1.2.0",
+      "summary": "A new version of the xml-analysis-framework has been released, which is a framework designed for AI/ML data pipelines specifically for XML document analysis and preprocessing.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:11:42Z",
+      "url": "https://pypi.org/project/xml-analysis-framework/1.2.0/"
+    },
+    {
+      "id": 58,
+      "title": "A Psychologist's Open-Minded First Take on AI Therapy",
+      "summary": "A psychologist shares their experience testing AI therapy tool Ash, acknowledging its potential but noting it lacks the human connection found in traditional therapy.",
+      "source": "Psychology Today",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:11:21Z",
+      "url": "https://www.psychologytoday.com/us/blog/connecting-the-mind-with-the-body/202507/a-psychologists-open-minded-first-take-on-ai-therapy"
+    },
+    {
+      "id": 59,
+      "title": "Apple Adds 13, 16 and 18 Plus Age Ratings to Apps and Games: What to Know",
+      "summary": "Apple adds age ratings to apps and games to enhance child safety measures.",
+      "source": "CNET",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:07:14Z",
+      "url": "https://www.cnet.com/tech/services-and-software/apple-adds-13-16-and-18-plus-age-ratings-to-apps-and-games-what-to-know/"
+    },
+    {
+      "id": 60,
+      "title": "arize-phoenix 11.12.0",
+      "summary": "Arize-Phoenix 11.12.0 introduces AI Observability and Evaluation features, enhancing the platform's capabilities. This update brings new tools for monitoring, analyzing, and improving AI models in production.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:07:10Z",
+      "url": "https://pypi.org/project/arize-phoenix/11.12.0/"
+    },
+    {
+      "id": 61,
+      "title": "Anthropic seeks $150B valuation in new raise, revaluing FTX’s former stake at over $12B",
+      "summary": "Anthropic is seeking a $150B valuation in a new raise, potentially raising up to $5B. This would revalue FTX's former stake at over $12B.",
+      "source": "Crypto Briefing",
+      "category": "startups",
+      "timestamp": "2025-07-25T20:07:03Z",
+      "url": "https://cryptobriefing.com/anthropic-claude-subagents-integration/"
+    },
+    {
+      "id": 62,
+      "title": "nemo-run 0.5.0",
+      "summary": "nemo-run 0.5.0 is a powerful tool that facilitates the setup and management of Machine Learning experiments in different computing environments.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:06:23Z",
+      "url": "https://pypi.org/project/nemo-run/0.5.0/"
+    },
+    {
+      "id": 63,
+      "title": "Google in 1999: Search Engines Escape the Portal Matrix",
+      "summary": "Google's introduction in 1999 of a new search engine provided users with a choice between improved search quality or sticking with portal search, similar to the red pill/blue pill choice in The Matrix.",
+      "source": "Cybercultural.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:06:06Z",
+      "url": "https://cybercultural.com/p/google-1999/"
+    },
+    {
+      "id": 64,
+      "title": "The Briefing: The Wrong Argument – Why Authors Lost Against Meta and What Comes Next",
+      "summary": "In a major win for Meta, a federal court recently dismissed a lawsuit brought by prominent authors who claimed their books were illegally used to train the company’s LLaMA models. But the ruling doesn’t give AI companies a free pass—it reveals the roadmap for...",
+      "source": "Theiplawblog.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:05:11Z",
+      "url": "https://www.theiplawblog.com/2025/07/articles/entertainment-law/the-briefing-the-wrong-argument-why-authors-lost-against-meta-and-what-comes-next/"
+    },
     {
       "id": 51,
       "title": "Microsoft employees react to CEO's 'enigma of success' memo with a mixture of suspicion, anger, and speculation",
@@ -324,132 +450,6 @@
       "category": "research",
       "timestamp": "2025-07-25T19:14:35Z",
       "url": "https://biztoc.com/x/54165880c0e676a6"
-    },
-    {
-      "id": 51,
-      "title": "Samsung Galaxy Z Fold 7 review: This one's for everyone",
-      "summary": "Samsung Galaxy Z Fold 7 is a top-tier device that showcases Samsung's capabilities. It is recommended for those looking to upgrade, as long as they have the budget.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:11:20Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-review"
-    },
-    {
-      "id": 52,
-      "title": "Anthropic could be valued at $150B after new funding round",
-      "summary": "AI startup Anthropic seeks to double its valuation to over $150 billion after new funding round.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T19:10:27Z",
-      "url": "https://biztoc.com/x/659670171ba811ce"
-    },
-    {
-      "id": 53,
-      "title": "Warning Issued as 600,000 in Major City Told to 'Take Immediate' Action",
-      "summary": "600,000 people in a major city were warned about potential flash floods through an AI-generated voice message, highlighting the use of AI in emergency notifications.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:10:25Z",
-      "url": "https://biztoc.com/x/ed3a52829012e478"
-    },
-    {
-      "id": 54,
-      "title": "Hearts Break As Dog Starts 'Crying' on Way Back To Shelter After Day Out",
-      "summary": "A woman who took a shelter dog out for a night was heartbroken when the dog started 'crying' on the way back to the shelter after a day out. The use of AI-generated voices may lead to inconsistencies in emotions portrayed by animals.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:10:21Z",
-      "url": "https://biztoc.com/x/bc197378729b37dc"
-    },
-    {
-      "id": 55,
-      "title": "Lori Vallow Daybell's Murder Conspiracy Trial Sentence Announced",
-      "summary": "Lori Vallow Daybell has been sentenced to two life sentences for conspiring to kill her fourth husband and her niece's ex-husband. This raises ethical questions about the use of AI-generated voice in court proceedings, as inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:10:15Z",
-      "url": "https://biztoc.com/x/99bf01de279e7dda"
-    },
-    {
-      "id": 56,
-      "title": "Musk’s Grok AI is now on the Kalshi, Polymarket betting apps. What could go wrong?",
-      "summary": "Elon Musk's Grok AI is now integrated into prediction markets on Kalshi and Polymarket betting apps, potentially raising concerns about the impact of AI on gambling and predictions.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:10:10Z",
-      "url": "https://biztoc.com/x/8f850c5f151f65d4"
-    },
-    {
-      "id": 57,
-      "title": "How Bad Traits Can Spread Unseen In AI",
-      "summary": "LLMs can inherit hidden traits from one model to another, undetectable in the output patterns.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-25T19:09:59Z",
-      "url": "https://www.forbes.com/sites/craigsmith/2025/07/25/how-bad-traits-can-spread-unseen-in-ai/"
-    },
-    {
-      "id": 58,
-      "title": "browser-agent 1.0.0",
-      "summary": "browser-agent 1.0.0 is an AI-powered web browser automation tool that supports multiple LLM models and features a modern GUI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:09:55Z",
-      "url": "https://pypi.org/project/browser-agent/1.0.0/"
-    },
-    {
-      "id": 59,
-      "title": "browser-agent added to PyPI",
-      "summary": "PyPI now offers a browser-agent for AI-powered web browser automation with multi-LLM support and modern GUI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:09:55Z",
-      "url": "https://pypi.org/project/browser-agent/"
-    },
-    {
-      "id": 60,
-      "title": "Inside the AI Megatrends Driving Today’s Stock Market Gains",
-      "summary": "Inside the AI Megatrends Driving Today’s Stock Market Gains - The robots aren’t arriving because they’re already here. Most demonstrations we’ve seen of humanoid bots so far have been from a controlled setting, like Optimus taking a few steps, doing a little dance, or folding clothes.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:09:53Z",
-      "url": "https://biztoc.com/x/f951e1e272459f0b"
-    },
-    {
-      "id": 61,
-      "title": "Fugs and Pieces, July 25 2025",
-      "summary": "Fugs and Pieces post covering a variety of topics such as Pucci, salads, cold cases, Louisa May Alcott, and travel guides on July 25, 2025.",
-      "source": "Gofugyourself.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:09:43Z",
-      "url": "https://www.gofugyourself.com/fugs-and-pieces-july-25-2025-07-2025"
-    },
-    {
-      "id": 62,
-      "title": "China Sets Sights on Global Diffusion in AI Race",
-      "summary": "China aims to expand its influence in the global AI race, with its AI industry quickly catching up to the U.S. thanks in part to American export controls. Chinese AI chatbot models like DeepSeek are now on par with or surpass American counterparts in various performance metrics.",
-      "source": "Chinadigitaltimes.net",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:09:18Z",
-      "url": "https://chinadigitaltimes.net/2025/07/china-sets-sights-on-global-diffusion-in-ai-race/"
-    },
-    {
-      "id": 63,
-      "title": "netron 8.4.6",
-      "summary": "Netron 8.4.6 is a viewer for neural network, deep learning, and machine learning models.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:09:14Z",
-      "url": "https://pypi.org/project/netron/8.4.6/"
-    },
-    {
-      "id": 64,
-      "title": "Reimagining retail from the ground up: Uttam Kumar’s mission to modernize POS systems worldwide",
-      "summary": "Uttam Kumar is on a mission to modernize POS systems worldwide, reimagining retail from the ground up to meet the demands of modern commerce. With over 17 years of experience, he has consistently delivered innovative solutions for seamless customer experiences.",
-      "source": "Digital Journal",
-      "category": "startups",
-      "timestamp": "2025-07-25T19:09:04Z",
-      "url": "https://www.digitaljournal.com/business/reimagining-retail-from-the-ground-up-uttam-kumars-mission-to-modernize-pos-systems-worldwide/article"
     }
   ]
 }
