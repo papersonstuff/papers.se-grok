@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2025-07-26T04:49:46.546Z",
+  "lastUpdate": "2025-07-26T05:19:07.889Z",
   "items": [
+    {
+      "id": 51,
+      "title": "AIUC Emerges From Stealth With $15M Seed to Help Enterprises Deploy AI Safely",
+      "summary": "AIUC Emerges From Stealth With $15M Seed to Help Enterprises Deploy AI Safely - Artificial Intelligence Underwriting Company (AIUC) is coming out of stealth mode with a $15 million seed round.",
+      "source": "Insurance Journal",
+      "category": "startups",
+      "timestamp": "2025-07-25T05:11:11Z",
+      "url": "https://www.insurancejournal.com/news/national/2025/07/25/833169.htm"
+    },
+    {
+      "id": 52,
+      "title": "☕️ FC Breakfast: Hakimi cosplay, sore losers, Reds’ XIs",
+      "summary": "Achraf Hakimi cosplayed as Tommy Vercetti at a Bad Bunny concert while on vacation with Kylian Mbappé in Puerto Rico.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T05:11:00Z",
+      "url": "https://onefootball.com/en/news/fc-breakfast-hakimi-cosplay-sore-losers-reds-xis-41421778"
+    },
+    {
+      "id": 53,
+      "title": "Quiet but Consistent: How Norwood Financial (NWFL) Earned Its Spot Among Dividend Champions",
+      "summary": "Norwood Financial Corp. (NASDAQ:NWFL) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-25T05:09:14Z",
+      "url": "https://finance.yahoo.com/news/quiet-consistent-norwood-financial-nwfl-050914280.html"
+    },
+    {
+      "id": 54,
+      "title": "Fluence Energy (NASDAQ:FLNC) Cut to Hold at Seaport Res Ptn",
+      "summary": "Fluence Energy (NASDAQ:FLNC) was downgraded to a hold rating by Seaport Res Ptn in a research report sent to investors on Tuesday morning.",
+      "source": "ETF Daily News",
+      "category": "research",
+      "timestamp": "2025-07-25T05:09:02Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/fluence-energy-nasdaqflnc-cut-to-hold-at-seaport-res-ptn/"
+    },
+    {
+      "id": 55,
+      "title": "California Water (CWT): A Steady Utility Stock You Might Be Missing",
+      "summary": "California Water Service Group (NYSE:CWT) is considered a steady utility stock that investors may be overlooking, as it was recently included in a list of under the radar stocks to buy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:08:01Z",
+      "url": "https://finance.yahoo.com/news/california-water-cwt-steady-utility-050801130.html"
+    },
+    {
+      "id": 56,
+      "title": "8 AI tools from OpenAI You Need to Know in 2025",
+      "summary": "Discover the 8 AI tools from OpenAI transforming text, image, code, and speech workflows with real-world use cases and benefits.",
+      "source": "Smashingapps.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T05:06:03Z",
+      "url": "https://www.smashingapps.com/8-ai-tools-from-openai/"
+    },
+    {
+      "id": 57,
+      "title": "Intel posts higher revenue after trimming workforce",
+      "summary": "Intel reported increased revenue after reducing its workforce, including canceling projects in Germany and Poland in an effort to save money.",
+      "source": "The Japan Times",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:05:00Z",
+      "url": "https://www.japantimes.co.jp/business/2025/07/25/companies/us-chip-intel-revenue/"
+    },
+    {
+      "id": 58,
+      "title": "$1b of Nvidia chips got into China, despite the ban",
+      "summary": "$1b of Nvidia chips got into China, despite the ban - As Jeff Goldblum once said in Jurassic Park: “Life finds a way,” and so do China’s AI demands. At least $1 billion worth of cutting-edge semiconductors have been smuggled into China since President Trump blocked Nvidia chip sales to the country in April.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T05:04:09Z",
+      "url": "https://biztoc.com/x/639d2f68acac5497"
+    },
     {
       "id": 51,
       "title": "Galaxy S25 users, you’ll have to wait a bit longer for the stable One UI 8 update",
@@ -378,78 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T02:59:29Z",
       "url": "https://economictimes.indiatimes.com/tech/technology/chinese-ecommerce-leaders-brush-off-regulatory-risk-to-continue-instant-retail-price-war/articleshow/122893310.cms"
-    },
-    {
-      "id": 61,
-      "title": "Viomi Technology (VIOT) Issues Special Dividend: What Investors Need to Know",
-      "summary": "Viomi Technology Co., Ltd (NASDAQ:VIOT) issues special dividend, included among the 14 stocks that paid special dividends in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T02:59:12Z",
-      "url": "https://finance.yahoo.com/news/viomi-technology-viot-issues-special-025912981.html"
-    },
-    {
-      "id": 62,
-      "title": "pypearl 0.4.13",
-      "summary": "pypearl 0.4.13 is released, an efficient Machine Learning Library.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T02:59:06Z",
-      "url": "https://pypi.org/project/pypearl/0.4.13/"
-    },
-    {
-      "id": 63,
-      "title": "Chinese e-commerce leaders brush off regulatory risk to continue instant retail price war",
-      "summary": "Chinese e-commerce leaders are ignoring regulatory risks to engage in a fierce price war in the instant delivery market.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-25T02:56:48Z",
-      "url": "https://www.livemint.com/companies/news/chinese-e-commerce-leaders-brush-off-regulatory-risk-to-continue-instant-retail-price-war-11753412209001.html"
-    },
-    {
-      "id": 64,
-      "title": "A Closer Look at SunLink’s (SSY) Special Dividend",
-      "summary": "SunLink Health Systems, Inc. (NYSEAMERICAN:SSY) is included among the 14 Stocks that Paid Special Dividends in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T02:56:22Z",
-      "url": "https://finance.yahoo.com/news/closer-look-sunlink-ssy-special-025622925.html"
-    },
-    {
-      "id": 65,
-      "title": "Regular exercise may help prevent fatty liver disease through bile acid metabolism",
-      "summary": "Regular exercise may help prevent fatty liver disease by increasing bile acid metabolism, according to a new study.",
-      "source": "Freerepublic.com",
-      "category": "research",
-      "timestamp": "2025-07-25T02:55:43Z",
-      "url": "https://freerepublic.com/focus/f-chat/4330630/posts"
-    },
-    {
-      "id": 66,
-      "title": "Zephyr RTOS 4.2 Released with Renesas RX Support, USB Video Class, MQTT 5.0, and Nearly 100 New Boards",
-      "summary": "Zephyr RTOS 4.2 is released with Renesas RX support, USB Video Class, MQTT 5.0, and nearly 100 new boards, bringing major updates in hardware support, networking, tooling, and power monitoring. This release aims to enhance performance, flexibility, and overall developer experience with contributions from 810 developers.",
-      "source": "Linuxgizmos.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T02:55:30Z",
-      "url": "https://linuxgizmos.com/zephyr-rtos-4-2-released-with-renesas-rx-support-usb-video-class-mqtt-5-0-and-nearly-100-new-boards/"
-    },
-    {
-      "id": 51,
-      "title": "Adapting content to the new age of Web search",
-      "summary": "With GenAI providing meaningful answers, publishers should focus on clarity and structure of content rather on keywords to get noticed in the new age of Web search.",
-      "source": "BusinessLine",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:15:00Z",
-      "url": "https://www.thehindubusinessline.com/opinion/adapting-content-to-the-new-age-of-web-search/article69851957.ece"
-    },
-    {
-      "id": 52,
-      "title": "browse-to-test 0.2.6",
-      "summary": "browse-to-test 0.2.6 is an AI-powered browser automation tool that converts test scripts",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:11:41Z",
-      "url": "https://pypi.org/project/browse-to-test/0.2.6/"
     }
   ]
 }
