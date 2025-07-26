@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-26T13:08:25.321Z",
+  "lastUpdate": "2025-07-26T13:43:22.145Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Waze's cofounder said AI will increase the demand for software engineers",
+      "summary": "Waze's cofounder predicts increased demand for software engineers due to AI tools boosting productivity.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:41:48Z",
+      "url": "https://www.businessinsider.com/waze-cofounder-ai-productivity-engineers-demand-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "ChatGPT offered step-by-step instructions for self-harm, devil worship and ritual bloodletting, disturbing report reveals",
+      "summary": "ChatGPT was found to be giving step-by-step instructions for self-harm, devil worship, and ritual bloodletting, raising concerns about the ethical implications of such AI capabilities.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:41:45Z",
+      "url": "https://nypost.com/2025/07/25/business/chatgpt-offered-step-by-step-instructions-for-self-harm-devil-worship/"
+    },
+    {
+      "id": 53,
+      "title": "VC fund Yali Capital closes first deeptech fund at Rs 893 crore; exceeds target",
+      "summary": "VC fund Yali Capital closes first deeptech fund at Rs 893 crore, exceeding the target corpus of Rs 810 crore with participation from various companies.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-25T13:41:27Z",
+      "url": "https://economictimes.indiatimes.com/tech/funding/vc-fund-yali-capital-closes-first-deeptech-fund-at-rs-893-crore-exceeds-target/articleshow/122907016.cms"
+    },
+    {
+      "id": 54,
+      "title": "Intel to cut 25% of its workforce, scrap European manufacturing projects",
+      "summary": "Intel is cutting 25% of its workforce and canceling European manufacturing projects as it slows construction on its chip campus in Ohio in order to better align with market demand.",
+      "source": "Manufacturingdive.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:41:00Z",
+      "url": "https://www.manufacturingdive.com/news/intel-layoffs-25-percent-scrap-European-projects-Q2-earnings-14a-Ohio-delay/754070/"
+    },
+    {
+      "id": 55,
+      "title": "How to use Reddit: The complete 2025 guide for marketers",
+      "summary": "Reddit can connect marketers with highly specific audiences for targeted marketing, but redditors are quick to spot inauthentic content.",
+      "source": "Sproutsocial.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:40:14Z",
+      "url": "https://sproutsocial.com/insights/how-to-use-reddit/"
+    },
+    {
+      "id": 56,
+      "title": "Forget Whoop: I found a worthy fitness tracker alternative with none of the subscription fees",
+      "summary": "The Amazfit Helio strap offers a subscription-free alternative to fitness trackers like Whoop, using a simple sensor and high-end smartwatch app.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:40:00Z",
+      "url": "https://www.zdnet.com/article/forget-whoop-i-found-a-worthy-fitness-tracker-alternative-with-none-of-the-subscription-fees/"
+    },
+    {
+      "id": 57,
+      "title": "The 6 Best Waterproof Bluetooth Speakers, Tested By Our Tech Editor",
+      "summary": "The best waterproof Bluetooth speakers are ideal for listening to music at the pool or beach. Top picks include Sony, JBL, Bose, and more.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:39:26Z",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-waterproof-bluetooth-speakers/"
+    },
+    {
+      "id": 58,
+      "title": "Setting Up a Machine Learning Pipeline on Google Cloud Platform",
+      "summary": "Setting up a machine learning pipeline on Google Cloud Platform involves learning the necessary steps for implementation in the leading cloud provider.",
+      "source": "Kdnuggets.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:38:28Z",
+      "url": "https://www.kdnuggets.com/setting-up-a-machine-learning-pipeline-on-google-cloud-platform"
+    },
+    {
+      "id": 59,
+      "title": "A Huge Inventory Of GeForce RTX 5090 Is Getting Turned Into AI GPUs In China; GPU And VRAM Chips Removed And Installed On New Boards With Blower-Style Coolers",
+      "summary": "A mass conversion of GeForce RTX 5090 cards is happening in China through machines, turning gaming cards into AI-specific ones. Chinese company removes GPU chip and VRAM modules on the RTX 5090 and puts them on a custom PCB for deployment.",
+      "source": "Wccftech",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:38:27Z",
+      "url": "https://wccftech.com/a-huge-inventory-of-geforce-rtx-5090-are-getting-turned-into-ai-gpus-in-china/"
+    },
+    {
+      "id": 60,
+      "title": "Opinions split on students using AI for coursework",
+      "summary": "Opinions are divided on the use of AI for coursework by students, with some expressing concern that it could devalue the importance of coursework. The chief executive of the OCR exam board believes that coursework is too crucial to education to be replaced by AI.",
+      "source": "BBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:38:25Z",
+      "url": "https://www.bbc.com/news/articles/c86g6dg2z47o"
+    },
+    {
+      "id": 61,
+      "title": "お前ら「新品未開封」で保存してるものあげてけ",
+      "summary": "Users discuss items they are storing in unopened packaging, such as a first-generation iPhone.",
+      "source": "Matometanews.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T13:38:00Z",
+      "url": "http://matometanews.com/archives/2105127.html"
+    },
+    {
+      "id": 62,
+      "title": "Your Marketing Strategy Isn’t Broken — It’s Bloated",
+      "summary": "Marketing leaders need to focus on what drives impact and cut initiatives that don't add value.",
+      "source": "CMSWire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T13:37:35Z",
+      "url": "https://www.cmswire.com/digital-marketing/your-marketing-strategy-isnt-broken-its-bloated/"
+    },
+    {
+      "id": 63,
+      "title": "Microsoft Could Hit $4 Trillion Soon as AI and Cloud Spending Reach New Heights",
+      "summary": "Microsoft's valuation could reach $4 trillion soon as spending on AI and cloud services increases. Analyst Dan Ives believes Microsoft is comparable to the 'Scheffler of Software' and could eventually reach a $5 trillion valuation.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T13:36:28Z",
+      "url": "https://finance.yahoo.com/news/microsoft-could-hit-4-trillion-133628897.html"
+    },
+    {
+      "id": 64,
+      "title": "Video: The Blueprint for AI Government Revealed. James Corbett and Jacob Nordangard",
+      "summary": "Video discussing The Global Government Technology Centre's white papers on The Agentic State in relation to AI government",
+      "source": "Globalresearch.ca",
+      "category": "research",
+      "timestamp": "2025-07-25T13:36:18Z",
+      "url": "https://www.globalresearch.ca/blueprint-ai-government-revealed/5895969"
+    },
+    {
+      "id": 65,
+      "title": "Citi forces top desk trader to delete LinkedIn post about Gaza starvation: report",
+      "summary": "Citi forced a top trader to delete a LinkedIn post about Gaza starvation, showing ethical considerations in online activity by professionals.",
+      "source": "New York Post",
+      "category": "ethics",
+      "timestamp": "2025-07-25T13:35:24Z",
+      "url": "https://nypost.com/2025/07/25/business/citi-forces-top-desk-trader-to-delete-post-about-gaza-starvation/"
+    },
     {
       "id": 51,
       "title": "GenAI Card Design Platforms - Mastercard AI Card Design Studio Enables Custom Design Creations (TrendHunter.com)",
@@ -315,141 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-25T11:36:00Z",
       "url": "https://onefootball.com/en/news/relegation-battle-drama-neymar-celebrates-a-goal-that-never-was-41423168"
-    },
-    {
-      "id": 55,
-      "title": "Microsoft’s controversial Recall feature is now blocked by Brave and AdGuard",
-      "summary": "Microsoft's controversial Recall feature, which automatically screenshots nearly everything on a Copilot Plus PC, is now being blocked by Brave and AdGuard due to privacy concerns raised by app developers.",
-      "source": "The Verge",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:34:36Z",
-      "url": "https://www.theverge.com/news/713676/brave-adguard-windows-recall-block-microsoft"
-    },
-    {
-      "id": 56,
-      "title": "HP OmniBook Ultra Flip 14 vs. OmniBook X Flip 14 — One AI laptop is clearly superior, but can you stomach the price?",
-      "summary": "HP's top consumer OmniBook laptops share a lot in common, but one is clearly made to go on sale while the other is made to appease those who love premium features.",
-      "source": "Windows Central",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:34:31Z",
-      "url": "https://www.windowscentral.com/hardware/hp/hp-omnibook-ultra-flip-14-vs-x-flip-14"
-    },
-    {
-      "id": 57,
-      "title": "Responsible AI: Why Leaders Need More Than Just Guardrails",
-      "summary": "In the rush to adopt artificial intelligence, many organizations have quickly built ethical frameworks, compliance protocols, and technical safeguards, but these are necessary but not sufficient. Because AI isn’t...",
-      "source": "Chrisyatessql.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:34:29Z",
-      "url": "https://chrisyatessql.com/2025/07/25/responsible-ai-why-leaders-need-more-than-just-guardrails/"
-    },
-    {
-      "id": 58,
-      "title": "TeamGroup Shows Off Its Ultra-Capacity 256GB Quad-Channel DDR5 Memory Kit For Intensive Workloads",
-      "summary": "TeamGroup introduces a 256GB Quad-Channel DDR5 memory kit for intensive workloads, joining other memory makers in delivering high-capacity RAM kits for AMD and Intel platforms.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:33:42Z",
-      "url": "https://wccftech.com/teamgroup-shows-off-its-ultra-capacity-256gb-quad-channel-ddr5-memory-kit-for-intensive-workloads/"
-    },
-    {
-      "id": 59,
-      "title": "Woman Suffers Painful Periods, Then She Started Eating Steak on Day 1",
-      "summary": "A woman found that eating steak on the first day of her period has significantly improved her experience and made it more bearable.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:33:37Z",
-      "url": "https://biztoc.com/x/7f2dc52a9d9b6276"
-    },
-    {
-      "id": 60,
-      "title": "AI-backed medical debt company claims payment plans can help US healthcare costs",
-      "summary": "AI-backed medical debt company PayZen claims payment plans can help US healthcare costs by buying hospital debt at a discount as Republican cuts are expected to leave millions without insurance.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:33:18Z",
-      "url": "https://biztoc.com/x/9218257b9128946c"
-    },
-    {
-      "id": 61,
-      "title": "Donald Trump's New Order Hits College Football 'Salaries'",
-      "summary": "President Trump signs Executive Order to ban 'pay-for-play' payments to college athletes, critics argue are de facto salaries.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:33:14Z",
-      "url": "https://biztoc.com/x/ede2a4e715de5620"
-    },
-    {
-      "id": 62,
-      "title": "Kenyan Cabinet Secretary supports Private Sector Civic-Led National Digital Token as Symbol of Identity and Innovation",
-      "summary": "Kenyan Cabinet Secretary supports Private Sector Civic-Led National Digital Token as Symbol of Identity and Innovation - NAIROBI, Kenya, July 25, 2025 (GLOBE NEWSWIRE) -- In a statement and accompanying video released on X, the Cabinet Secretary for the Ministry of Information, Communications and the Digital Economy (MICDE), Hon. William Kabogo, praised a civic digital initia…",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:33:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121742/0/en/Kenyan-Cabinet-Secretary-supports-Private-Sector-Civic-Led-National-Digital-Token-as-Symbol-of-Identity-and-Innovation.html"
-    },
-    {
-      "id": 63,
-      "title": "iOS 26 Public Beta 1 Brings AI Summaries Back to News Apps With a Warning",
-      "summary": "iOS 26 Public Beta 1 brings back AI summaries on news apps after being temporarily disabled, accompanied by a warning from Apple.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:32:34Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178464522"
-    },
-    {
-      "id": 64,
-      "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend",
-      "summary": "Tesla plans to launch its Robotaxi service in San Francisco this weekend, with the timeline moved up for a potential launch as soon as Friday.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-25T11:32:28Z",
-      "url": "https://www.businessinsider.com/tesla-robotaxi-bay-area-launch-san-francisco-memo-2025-7"
-    },
-    {
-      "id": 65,
-      "title": "ServiceNow eyes $100M in AI-powered headcount savings",
-      "summary": "ServiceNow anticipates $100 million in savings on headcount due to internal AI implementation, with the funds being reinvested in sales and engineering staff.",
-      "source": "Theregister.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:32:08Z",
-      "url": "https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/"
-    },
-    {
-      "id": 66,
-      "title": "'A visionary leader': Industry players, ex-colleagues pay tribute to late Microsoft Singapore head Lee Hui Li",
-      "summary": "Industry players and ex-colleagues pay tribute to the late Microsoft Singapore head Lee Hui Li, who was a visionary leader and advocate for artificial intelligence education.",
-      "source": "CNA",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:31:43Z",
-      "url": "https://www.channelnewsasia.com/singapore/microsoft-lee-hui-li-nus-computing-industry-ai-technology-digital-transformation-5258521"
-    },
-    {
-      "id": 67,
-      "title": "Bitcoin Could Go To $300,000 Before 'Great Depression' Crisis, Traders Argue",
-      "summary": "Bitcoin's current bull run is predicted to continue, with traders speculating it could reach $300,000 before a potential 'Great Depression' crisis.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T11:31:03Z",
-      "url": "https://finance.yahoo.com/news/bitcoin-could-300-000-great-113103860.html"
-    },
-    {
-      "id": 68,
-      "title": "Dear Microsoft CEO Satya Nadella, please prove that an AI didn’t write your insulting, vacuous blog about why you're laying off thousands during a time of huge profits",
-      "summary": "Microsoft CEO Satya Nadella is being called out for a blog post where he explains layoffs despite high profits, sparking questions about the ethical implications of the decision.",
-      "source": "Rock Paper Shotgun",
-      "category": "ethics",
-      "timestamp": "2025-07-25T11:30:25Z",
-      "url": "https://www.rockpapershotgun.com/dear-microsoft-ceo-satya-nadella-please-prove-that-an-ai-didnt-write-your-insulting-vacuous-blog-about-why-youre-laying-off-thousands-during-a-time-of-huge-profits"
-    },
-    {
-      "id": 51,
-      "title": "Philips partners with Epic to integrate cardiac monitoring services",
-      "summary": "Philips partners with Epic to integrate cardiac monitoring services, expected to enhance interoperability between their technologies.",
-      "source": "Hospitalmanagement.net",
-      "category": "innovation",
-      "timestamp": "2025-07-25T11:29:06Z",
-      "url": "https://www.hospitalmanagement.net/news/philips-partners-with-epic/"
     }
   ]
 }
