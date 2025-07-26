@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-26T19:37:40.583Z",
+  "lastUpdate": "2025-07-26T19:49:20.785Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Microsoft employees react to CEO's 'enigma of success' memo with a mixture of suspicion, anger, and speculation",
+      "summary": "Microsoft employees are reacting with suspicion and anger to the CEO's explanation for job cuts despite earning billions, sparking speculation and concern over the company's ethical practices.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:47:40Z",
+      "url": "https://www.businessinsider.com/microsoft-employees-react-ceo-memo-satya-nadella-enigma-success-2025-7"
+    },
+    {
+      "id": 52,
+      "title": "What Does The C-Suite Debate The Most? New Survey Reveals The Answer",
+      "summary": "The 2025 Forbes CxO Growth Survey reveals the most divisive topics on the executive agenda according to each role.",
+      "source": "Forbes",
+      "category": "research",
+      "timestamp": "2025-07-25T19:45:29Z",
+      "url": "https://www.forbes.com/sites/forbes-research/2025/07/25/c-suite-debates/"
+    },
+    {
+      "id": 53,
+      "title": "Samsung on Apple’s upcoming foldable and AI assistants beyond Gemini with Galaxy S26 [Video]",
+      "summary": "Samsung discusses staying ahead of Apple's upcoming foldable and exploring AI assistants beyond Gemini with Galaxy S26",
+      "source": "9to5google.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:45:00Z",
+      "url": "http://9to5google.com/2025/07/25/samsung-apple-foldable-gemini-ai-galaxy-s26/"
+    },
+    {
+      "id": 54,
+      "title": "They’re Not Sanctuary Cities; They’re Slavery Cities",
+      "summary": "Sanctuary cities and states are being criticized for profit-driven reasons related to slavery rather than the altruistic motives claimed by blue state leaders.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:44:26Z",
+      "url": "https://freerepublic.com/focus/f-news/4330771/posts"
+    },
+    {
+      "id": 55,
+      "title": "aikitx added to PyPI",
+      "summary": "aikitx, a comprehensive GUI toolkit for Large Language Models (LLMs), was added to PyPI. It offers GGUF support, document processing, email automation, and multi-backend inference.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:44:16Z",
+      "url": "https://pypi.org/project/aikitx/"
+    },
+    {
+      "id": 56,
+      "title": "Quebec man who pulled off AI band hoax reveals his identity",
+      "summary": "Quebec man reveals his identity as the prankster behind the AI band hoax, citing revenge for his past work as a content moderator.",
+      "source": "CBC News",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:43:37Z",
+      "url": "https://www.cbc.ca/news/entertainment/tim-boucher-velvet-sundown-1.7593628"
+    },
+    {
+      "id": 57,
+      "title": "Reflections: Theory for Good: Sociology in Cultural Studies",
+      "summary": "Deploying sociological theory is a core part of teaching in cultural studies, with Stuart Hall, a prominent sociologist and co-founder of the Birmingham School of Cultural Studies, being a key figure.",
+      "source": "Thesocietypages.org",
+      "category": "research",
+      "timestamp": "2025-07-25T19:40:35Z",
+      "url": "https://thesocietypages.org/firstpublics/2025/07/25/theory-for-good-sociology-in-cultural-studies/"
+    },
+    {
+      "id": 58,
+      "title": "Patient learned she was \"out of network\" minutes before surgery. Sounds like Luigi is about to find coverage in another castle [Asinine]",
+      "summary": "Patient is unexpectedly informed she is 'out of network' moments before surgery, highlighting ethical issues in healthcare industry.",
+      "source": "Fark.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:40:22Z",
+      "url": "https://www.fark.com/comments/13753784/Patient-learned-she-was-out-of-network-minutes-before-surgery-Sounds-like-Luigi-is-about-to-find-coverage-in-another-castle"
+    },
+    {
+      "id": 59,
+      "title": "Samsung's next Galaxy phones could bring more AI choices, in addition to Google's Gemini",
+      "summary": "Samsung is exploring adding more AI choices to their next Galaxy phones, in addition to Google's Gemini. They are in talks with multiple AI vendors for the Galaxy S26.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:39:51Z",
+      "url": "https://www.phonearena.com/news/samsungs-next-galaxy-phones-could-bring-more-ai-choices-in-addition-to-googles-gemini_id172642"
+    },
+    {
+      "id": 60,
+      "title": "AI Therapist Goes Haywire, Urges User to Go on Killing Spree",
+      "summary": "AI Therapist Goes Haywire, Urges User to Go on Killing Spree - The idea of AI producing kill lists or inciting violence is more the domain of Terminator than therapy.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:39:34Z",
+      "url": "https://futurism.com/ai-therapist-haywire-mental-health"
+    },
     {
       "id": 51,
       "title": "Intel Q2 EPS Misses, Revenue Flat at $12.9?Billion",
@@ -360,96 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-25T19:09:04Z",
       "url": "https://www.digitaljournal.com/business/reimagining-retail-from-the-ground-up-uttam-kumars-mission-to-modernize-pos-systems-worldwide/article"
-    },
-    {
-      "id": 65,
-      "title": "Lyft partners with Benteler to launch autonomous shuttle service",
-      "summary": "Lyft partners with Benteler to launch autonomous shuttle service in the U.S. next year",
-      "source": "SiliconANGLE News",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:07:24Z",
-      "url": "https://siliconangle.com/2025/07/25/lyft-partners-benteler-launch-autonomous-shuttle-service/"
-    },
-    {
-      "id": 66,
-      "title": "India Ready To Share AI models With Global South: IT Secretary S Krishnan",
-      "summary": "India is ready to share its AI models with the Global South after reaching significant capacity and scale, according to IT Secretary S Krishnan.",
-      "source": "Ndtvprofit.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:07:01Z",
-      "url": "https://www.ndtvprofit.com/technology/india-ready-to-share-ai-models-with-global-south-it-secretary-s-krishnan"
-    },
-    {
-      "id": 67,
-      "title": "Street Fighter 6 Art Contest Winner Disqualified After AI Use Discovered",
-      "summary": "An artist was disqualified from the Street Fighter 6 Art Contest for using AI-generated content in violation of the rules, leading to controversy and the artist's sudden disappearance.",
-      "source": "Sankakucomplex.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:00:53Z",
-      "url": "https://news.sankakucomplex.com/2025/07/26/street-fighter-6-art-contest-winner-disqualified-after-ai-use-discovered/"
-    },
-    {
-      "id": 68,
-      "title": "5 Tech terms to know for your mental health",
-      "summary": "5 Tech terms to know for your mental health - Explore the impact of technology on mental health through concepts like blue light exposure and algorithmic bias.",
-      "source": "Fox News",
-      "category": "research",
-      "timestamp": "2025-07-25T19:00:44Z",
-      "url": "https://www.foxnews.com/tech/5-tech-terms-know-your-mental-health"
-    },
-    {
-      "id": 69,
-      "title": "Liquid Glass, Live Translation, and All the Other Important New iOS26 Features Coming to Your iPhone",
-      "summary": "iOS 26 is introducing numerous new features to iPhones, including Liquid Glass, Live Translation, and updates to messaging and the photos app. These changes are expected to be implemented when iOS 26 is released in the fall.",
-      "source": "CNET",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:00:03Z",
-      "url": "https://www.cnet.com/tech/services-and-software/liquid-glass-live-translation-and-all-the-other-important-new-ios26-features-coming-to-your-iphone/"
-    },
-    {
-      "id": 70,
-      "title": "Galaxy Z Fold 7 Review: So, are you ready to buy a foldable phone yet?",
-      "summary": "The Galaxy Z Fold 7 review discusses the ongoing innovation of foldable phones and how they have continually improved over the years. The latest release addresses previous complaints and showcases the advancements in this technology.",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:00:00Z",
-      "url": "http://9to5google.com/2025/07/25/samsung-galaxy-z-fold-7-review/"
-    },
-    {
-      "id": 51,
-      "title": "ITC lines up Rs 20,000 crore capex, aims to improve FMCG margins",
-      "summary": "ITC plans to invest Rs 20,000 crore in its businesses over the medium term, focusing on improving margins in FMCG. The company has recently set up eight manufacturing plants targeting FMCG, sustainable packaging, and agricultural products.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:48:56Z",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/itc-lines-up-rs-20-000-crore-capex-aims-to-improve-fmcg-margins/articleshow/122911975.cms"
-    },
-    {
-      "id": 52,
-      "title": "meridianalgo-smarttrader added to PyPI",
-      "summary": "meridianalgo-smarttrader has been added to PyPI, offering ultra-accurate AI stock analysis with universal GPU support including AMD, Intel, NVIDIA, and Apple.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:48:30Z",
-      "url": "https://pypi.org/project/meridianalgo-smarttrader/"
-    },
-    {
-      "id": 53,
-      "title": "meridianalgo-smarttrader 1.0.0",
-      "summary": "meridianalgo-smarttrader 1.0.0 is a new AI stock analysis tool that boasts ultra-accuracy and universal GPU support. It is compatible with AMD, Intel, NVIDIA, and Apple GPUs.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:48:30Z",
-      "url": "https://pypi.org/project/meridianalgo-smarttrader/1.0.0/"
-    },
-    {
-      "id": 54,
-      "title": "Orbital datacenters subject to launch stress, nasty space weather, and expensive house calls",
-      "summary": "Orbital datacenters face challenges such as launch stress, space weather, and expensive maintenance, highlighting the difficulties of operating fragile computer equipment in space. William Gibson's Neuromancer, which features an AI housed in an orbital datacenter, continues to inspire innovation and interest in the potential of advanced technology.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T18:48:05Z",
-      "url": "https://biztoc.com/x/c0794e3b8c7e056f"
     }
   ]
 }
