@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T07:49:13.115Z",
+  "lastUpdate": "2025-07-26T08:19:43.344Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Airfare AI Debates, Hotel EV Demand and Southwest’s Baggage Bonanzas",
+      "summary": "American Air vows to use AI for pricing, Hilton sees EV charging as competitive advantage, Southwest celebrates billion dollar baggage revenue",
+      "source": "Skift",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:19:23Z",
+      "url": "http://skift.com/2025/07/25/airfare-ai-debates-hotel-ev-demand-and-southwests-baggage-bonanzas/"
+    },
+    {
+      "id": 52,
+      "title": "Victory Capital Management Inc. Sells 28,044 Shares of Nice (NASDAQ:NICE)",
+      "summary": "Victory Capital Management Inc. sells 28,044 shares of Nice (NASDAQ:NICE) during the first quarter.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:19:11Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/victory-capital-management-inc-sells-28044-shares-of-nice-nasdaqnice/"
+    },
+    {
+      "id": 53,
+      "title": "Ezconn hits 12-year revenue high despite FX losses",
+      "summary": "EZconn achieved a 12-year revenue high due to global AI momentum and US infrastructure development, resulting in strong order demand from US clients in 2025.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:18:40Z",
+      "url": "https://www.digitimes.com/news/a20250725PD208/revenue-ezconn-profit-infrastructure-demand.html"
+    },
+    {
+      "id": 54,
+      "title": "India Communication Platform as a Service (CPaaS) Market Review 2021-2024 and Industry Forecast to 2031 - Twilio, Infobip, and Bandwidth Lead",
+      "summary": "India's CPaaS Market is thriving due to digital transformation, smartphone penetration, and omnichannel communication needs in sectors like BFSI, healthcare, and e-commerce. Opportunities lie in AI integration for enhanced interactions.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:17:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121643/28124/en/India-Communication-Platform-as-a-Service-CPaaS-Market-Review-2021-2024-and-Industry-Forecast-to-2031-Twilio-Infobip-and-Bandwidth-Lead.html"
+    },
+    {
+      "id": 55,
+      "title": "Do’s and Don’ts of Converting Travel Browsers Into Bookers",
+      "summary": "Do's and Don'ts of Converting Travel Browsers Into Bookers",
+      "source": "Hospitality Net",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:17:00Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128295.html"
+    },
+    {
+      "id": 56,
+      "title": "New ChatGPT 5 Details Just Changed Everything",
+      "summary": "OpenAI's upcoming ChatGPT 5 promises to revolutionize the way we interact with technology by enabling advanced capabilities like analyzing text, interpreting images, and processing audio or video all within a single system.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:14:17Z",
+      "url": "https://www.geeky-gadgets.com/openai-chatgpt-5-multimodal-ai/"
+    },
+    {
+      "id": 57,
+      "title": "AI DevOps Market 2025-2029: Key Trends and Innovations Set to Propel Market Growth",
+      "summary": "Key trends and innovations in AI DevOps market are set to propel market growth, driven by modern IT complexity, demand for faster software delivery, and increased AI accessibility.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:13:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121639/28124/en/AI-DevOps-Market-2025-2029-Key-Trends-and-Innovations-Set-to-Propel-Market-Growth.html"
+    },
+    {
+      "id": 58,
+      "title": "MicroStrategy Incorporated (NASDAQ:MSTR) Given Average Recommendation of “Moderate Buy” by Brokerages",
+      "summary": "MicroStrategy Incorporated has been given an average recommendation of 'Moderate Buy' by brokerages.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:12:50Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/microstrategy-incorporated-nasdaqmstr-given-average-recommendation-of-moderate-buy-by-brokerages/"
+    },
+    {
+      "id": 59,
+      "title": "Ship Recycling Market Report 2025 | Key Market Trends Include Growing Demand for Scrap Steel, Automation Via Robotics, and Stricter End-of-life Regulations",
+      "summary": "The ship recycling market is projected to grow from $9.1 billion in 2025 to $13 billion by 2030, with a 7.4% CAGR. Key trends include growing demand for scrap steel, automation via robotics, and stricter end-of-life regulations.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:12:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121638/28124/en/Ship-Recycling-Market-Report-2025-Key-Market-Trends-Include-Growing-Demand-for-Scrap-Steel-Automation-Via-Robotics-and-Stricter-End-of-life-Regulations.html"
+    },
+    {
+      "id": 60,
+      "title": "Northland Securities Downgrades Astera Labs (NASDAQ:ALAB) to Market Perform",
+      "summary": "Northland Securities downgrades Astera Labs from an outperform rating to a market perform rating, citing a $120.00 price objective on the stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:10:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/northland-securities-downgrades-astera-labs-nasdaqalab-to-market-perform/"
+    },
+    {
+      "id": 61,
+      "title": "ServiceNow (NYSE:NOW) Shares Gap Up on Strong Earnings",
+      "summary": "ServiceNow (NYSE:NOW) Shares Gap Up on Strong Earnings - ServiceNow, Inc. (NYSE:NOW – Get Free Report) shares gapped up prior to trading on Thursday after the company announced better than expected quarterly earnings.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:10:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/servicenow-nysenow-shares-gap-up-on-strong-earnings/"
+    },
+    {
+      "id": 62,
+      "title": "AI Should Help Fund Creative Labor",
+      "summary": "Generative AI models should assist in funding creative labor by implementing levies on AI firms' revenues, ensuring proper compensation for artists, journalists, and other content creators.",
+      "source": "Project Syndicate",
+      "category": "ethics",
+      "timestamp": "2025-07-25T08:10:45Z",
+      "url": "https://www.project-syndicate.org/onpoint/how-ai-profits-can-help-fund-cultural-production-by-mariana-mazzucato-and-fausto-gernone-2025-07"
+    },
+    {
+      "id": 63,
+      "title": "Malaysian Hospitals Market Report 2025-2034: Revenues to Hit USD 19.13 Billion",
+      "summary": "Malaysian hospitals are projected to generate revenues of USD 19.13 billion by 2034, with key segments focusing on private, multispecialty hospitals that offer outpatient services.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:09:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121634/28124/en/Malaysian-Hospitals-Market-Report-2025-2034-Revenues-to-Hit-USD-19-13-Billion.html"
+    },
+    {
+      "id": 64,
+      "title": "Beavis & Butt-head Creator HTeases Potential for Live-Action Version of Series",
+      "summary": "Mike Judge, creator of Beavis and Butt-Head, is considering a live-action version of the series, marking a potential evolution for the iconic characters.",
+      "source": "ComicBook.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:09:00Z",
+      "url": "http://comicbook.com/tv-shows/news/beavis-and-butt-head-live-action-mike-judge-comments-sdcc-2025/"
+    },
+    {
+      "id": 65,
+      "title": "Trends & Strategies Shaping the Construction Industry 2025-2029",
+      "summary": "AI and Green Building Certifications are expected to drive growth in the construction market from 2025-2029.",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:08:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121633/28124/en/Trends-Strategies-Shaping-the-Construction-Industry-2025-2029.html"
+    },
+    {
+      "id": 66,
+      "title": "opsmith-cli 0.2.2b0",
+      "summary": "Opsmith-cli 0.2.2b0 introduces an AI devops engineer that operates in the terminal, providing innovative automation capabilities for developers.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:07:24Z",
+      "url": "https://pypi.org/project/opsmith-cli/0.2.2b0/"
+    },
+    {
+      "id": 67,
+      "title": "UAV Propulsion Market Forecast to Reach $11.3 Billion by 2030: Projections by Technology, Component, Platform, MTOW and Region Featuring Profiles of Industry Leaders",
+      "summary": "UAV Propulsion Market Forecast to Reach $11.3 Billion by 2030, with the power source segment leading growth driven by demand for electric drones and clean propulsion technologies.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121632/28124/en/UAV-Propulsion-Market-Forecast-to-Reach-11-3-Billion-by-2030-Projections-by-Technology-Component-Platform-MTOW-and-Region-Featuring-Profiles-of-Industry-Leaders.html"
+    },
     {
       "id": 51,
       "title": "ChatGPT Booked My Hotel While I Made My Coffee",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T07:06:19Z",
       "url": "https://economictimes.indiatimes.com/magazines/panache/music-meets-ai-ar-rahmans-meeting-with-openai-ceo-fuels-buzz-around-mysterious-secret-mountain-project/articleshow/122898552.cms"
-    },
-    {
-      "id": 57,
-      "title": "FDA: Ai tools cites nonexistent studies [ABC Columbia]",
-      "summary": "FDA facing challenges with AI tools referencing non-existent studies",
-      "source": "Abccolumbia.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T07:06:13Z",
-      "url": "https://www.abccolumbia.com/2025/07/24/fda-ai-tools-cites-nonexistent-studies/"
-    },
-    {
-      "id": 58,
-      "title": "Galaxy S25 FE leak reveals new colors, bad news for RAM and storage",
-      "summary": "The latest Galaxy S25 FE leak reveals that Samsung may not be offering future-proof RAM and storage options, potentially limiting the device's longevity.",
-      "source": "Android Authority",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:04:58Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s25-fe-ram-storage-colors-leak-3580956/"
-    },
-    {
-      "id": 59,
-      "title": "huggingface-hub-gomall added to PyPI",
-      "summary": "huggingface-hub-gomall added to PyPI - Client library to download and publish models, datasets and other repos on the huggingface.co hub",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:04:01Z",
-      "url": "https://pypi.org/project/huggingface-hub-gomall/"
-    },
-    {
-      "id": 60,
-      "title": "Reach PLC (FRA:MRR) (Q2 2025) Earnings Call Highlights: Navigating Challenges with Digital ...",
-      "summary": "Reach PLC (FRA:MRR) leverages digital expansion and AI to drive profitability and audience growth despite a decline in print revenues.",
-      "source": "Yahoo Entertainment",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:02:31Z",
-      "url": "https://finance.yahoo.com/news/reach-plc-fra-mrr-q2-070231547.html"
-    },
-    {
-      "id": 61,
-      "title": "Prophets of Technology: The Biotech Visionaries",
-      "summary": "Prophets of Technology: The Biotech Visionaries explores the people behind the AI inflection point, reporting on the latest in tech future predictions and shaping.",
-      "source": "NPR",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:00:59Z",
-      "url": "https://www.npr.org/2025/07/25/1256217302/ted-radio-hour-prophets-of-technology-part-3"
-    },
-    {
-      "id": 62,
-      "title": "ClassDojo For Districts Unveils New Features For 2025–26 School Year",
-      "summary": "ClassDojo for Districts introduces new AI features for the upcoming school year to improve communication and streamline oversight, all while helping teachers save time and districts manage budget uncertainty for free.",
-      "source": "Elearningindustry.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:00:17Z",
-      "url": "https://elearningindustry.com/press-releases/classdojo-for-districts-unveils-new-features-for-2025-26-school-year"
-    },
-    {
-      "id": 63,
-      "title": "Finally, an Android smartwatch with extensive health tracking (and doesn't break the bank)",
-      "summary": "The Amazfit BIP 5 smartwatch offers extensive health tracking capabilities at an affordable price, using the Zepp app for data analysis.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:00:16Z",
-      "url": "https://www.zdnet.com/article/finally-an-android-smartwatch-with-extensive-health-tracking-and-doesnt-break-the-bank/"
-    },
-    {
-      "id": 64,
-      "title": "Is AI an Academic Freedom Issue?",
-      "summary": "The article questions whether AI poses a threat to academic freedom.",
-      "source": "Inside Higher Ed",
-      "category": "ethics",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.insidehighered.com/opinion/columns/just-visiting/2025/07/25/faculty-better-get-active-ai-and-academic-freedom"
-    },
-    {
-      "id": 65,
-      "title": "Data, digital receipts and demanding customers",
-      "summary": "More UK retailers are transitioning from paper to digital receipts, citing benefits such as improved data collection and customer convenience. However, this shift presents challenges and tech implications in terms of data security and compliance.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.computerweekly.com/feature/Data-digital-receipts-and-demanding-customers"
-    },
-    {
-      "id": 66,
-      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
-      "summary": "Amsflow is offering a Pro Plan for AI financial analysis at a discounted price, providing investors with AI-driven market intelligence to power their portfolios.",
-      "source": "Stacksocial.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription"
-    },
-    {
-      "id": 67,
-      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
-      "summary": "Amsflow offers a Pro Plan for $49 with AI-powered financial analysis, providing market intelligence for investors and teams.",
-      "source": "Stacksocial.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription?aid="
-    },
-    {
-      "id": 68,
-      "title": "Amsflow AI Financial Analysis: Pro Plan for $49",
-      "summary": "Amsflow AI Financial Analysis offers a Pro Plan for $49 with AI-powered market intelligence, providing investors and teams with AI-driven insights. The offer expires on January 22, 2026, 07:59 PST.",
-      "source": "Stacksocial.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.stacksocial.com/sales/amsflow-pro-plan-1-year-subscription?utm_source=&amp;utm_campaign=amsflow-pro-plan-1-year-subscription&amp;utm_medium=dealfeed&amp;utm_content="
-    },
-    {
-      "id": 69,
-      "title": "After testing Dynabook's new business laptop, I think every laptop should have a replaceable battery",
-      "summary": "After testing Dynabook's new business laptop, it is suggested that all laptops should have a replaceable battery. The Dynabook Portégé Z40L-N is a lightweight business workhorse with impressive battery life.",
-      "source": "Creative Bloq",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:00:00Z",
-      "url": "https://www.creativebloq.com/tech/laptops/after-testing-dynabooks-new-business-laptop-i-think-every-laptop-should-have-a-replaceable-battery"
-    },
-    {
-      "id": 51,
-      "title": "Taiwan's industry giants unite to tackle humanoid robot power crisis",
-      "summary": "Taiwan's industry giants form an AI and robotics alliance to address humanoid robot power crisis and accelerate development in the country.",
-      "source": "Digitimes",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:50:37Z",
-      "url": "https://www.digitimes.com/news/a20250725PD214/taiwan-alliance-robotics-robot-development.html"
-    },
-    {
-      "id": 52,
-      "title": "Intel Confirms Nova Lake To Close The High-End Desktop CPU Gap With AMD In Late 2026, Bringing SMT Back To P-Cores With “Coral Rapids” On Servers By 2028-2029, Highlights Need To Consolidate On Xe GPUs, & 55% Server Share",
-      "summary": "Intel's upcoming Nova Lake and Coral Rapids CPUs aim to close the high-end desktop CPU gap with AMD, bring SMT back to P-Cores on servers, and consolidate on Xe GPUs. Intel's CEO highlighted the need for these advancements during the recent earnings call.",
-      "source": "Wccftech",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:50:02Z",
-      "url": "https://wccftech.com/intel-nova-lake-cpus-high-end-gap-amd-late-2026-smt-back-p-cores-coral-rapids-servers-by-2028-2029-consolidate-xe-gpus/"
-    },
-    {
-      "id": 53,
-      "title": "OptimizeRx Corp. (NASDAQ:OPRX) Receives $10.81 Average PT from Analysts",
-      "summary": "OptimizeRx Corp. (NASDAQ:OPRX) has received a $10.81 average price target from analysts, with a consensus rating of 'Moderate Buy'. Three investment analysts have rated the stock with a hold rating.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:49:02Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/optimizerx-corp-nasdaqoprx-receives-10-81-average-pt-from-analysts-2/"
-    },
-    {
-      "id": 54,
-      "title": "iOS 26 beta preview: Liquid Glass is better than you think",
-      "summary": "iOS 26 beta preview: Liquid Glass is better than you think - At WWDC 2025, Apple revealed a major visual shake-up for iOS (not to mention the rest of the company’s operating systems). This is the biggest change, aesthetically, since the shift away from the stitching, textures and skeuomorphic design of the iOS 4.",
-      "source": "Madshrimps.be",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:48:48Z",
-      "url": "https://www.madshrimps.be/news/ios-26-beta-preview-liquid-glass-is-better-than-you-think/"
     }
   ]
 }
