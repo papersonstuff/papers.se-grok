@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-26T07:15:30.665Z",
+  "lastUpdate": "2025-07-26T07:32:59.575Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Here's a case for why AI should pay for the environmental damage it causes",
+      "summary": "AI should pay for the environmental damage it causes as policymakers have overlooked its hefty environmental cost, similar to the fossil-fuel industry being given free rein despite its climate cost.",
+      "source": "Livemint",
+      "category": "ethics",
+      "timestamp": "2025-07-25T07:30:14Z",
+      "url": "https://www.livemint.com/opinion/online-views/ai-taxation-climate-change-data-centers-fossil-fuels-laurence-tubiana-carbon-emissions-sustainability-electricity-petrol-11753424909940.html"
+    },
+    {
+      "id": 52,
+      "title": "Software-defined vehicles drive next-gen auto architectures",
+      "summary": "Software-defined vehicles are driving next-gen auto architectures in the automotive industry, showcasing a shift towards functionality, user experience, and monetization opportunities being governed by software rather than hardware.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:30:00Z",
+      "url": "https://www.computerweekly.com/news/366628157/Software-defined-vehicles-drive-next-gen-auto-architectures"
+    },
+    {
+      "id": 53,
+      "title": "The emerging network of mutualistic technologies",
+      "summary": "The emerging network of mutualistic technologies is advancing large investments, opening new opportunities and applications. Each technology is set to act as an enabler for the other technologies’ applications.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:30:00Z",
+      "url": "https://www.computerweekly.com/feature/The-emerging-network-of-mutualistic-technologies"
+    },
+    {
+      "id": 54,
+      "title": "Colleges Should Begin Putting Science First",
+      "summary": "Colleges need to prioritize science and digital transformation to avoid negative consequences from economic changes.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:30:00Z",
+      "url": "https://www.forbes.com/sites/ryancraig/2025/07/25/colleges-should-begin-putting-science-first/"
+    },
+    {
+      "id": 55,
+      "title": "Pegasystems (NASDAQ:PEGA) Trading 8.4% Higher After Earnings Beat",
+      "summary": "Pegasystems Inc. shares surged 8.4% after reporting strong quarterly earnings, with the stock reaching $56.07 before settling at $55.22. A total of 687,589 shares were traded during the day.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:28:45Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/pegasystems-nasdaqpega-trading-8-4-higher-after-earnings-beat/"
+    },
+    {
+      "id": 56,
+      "title": "Astera Labs (NASDAQ:ALAB) Trading Up 2.8% on Analyst Upgrade",
+      "summary": "Astera Labs (NASDAQ:ALAB) Trading Up 2.8% on Analyst Upgrade - Jefferies Financial Group raised their price target on the stock from $95.00 to $130.00, leading to a 2.8% increase in mid-day trading. Jefferies currently has a buy rating on Astera Labs' stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:28:44Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/astera-labs-nasdaqalab-trading-up-2-8-on-analyst-upgrade/"
+    },
+    {
+      "id": 57,
+      "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
+      "summary": "Asian shares retreated on Friday after Wall Street inched to more records as gains for Alphabet and artificial-intelligence stocks helped offset a steep tumble for EV-maker Tesla.",
+      "source": "Japan Today",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:25:26Z",
+      "url": "https://japantoday.com/category/business/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records"
+    },
+    {
+      "id": 58,
+      "title": " Friday's fixtures: Brazil v Colombia in the Women's Copa América",
+      "summary": "AI technology being used to provide information on upcoming football fixtures.",
+      "source": "Onefootball.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:25:00Z",
+      "url": "https://onefootball.com/en/news/fridays-fixtures-brazil-v-colombia-in-the-womens-copa-america-41422090"
+    },
+    {
+      "id": 59,
+      "title": "BlackBerry Target of Unusually High Options Trading (NYSE:BB)",
+      "summary": "BlackBerry Limited (NYSE:BB) experienced unusually high options trading on Wednesday, with traders purchasing 40,452 call options, which is a 132% increase compared to the average volume. This indicates heightened investor interest and activity in the company's stock.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:24:57Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/blackberry-target-of-unusually-high-options-trading-nysebb/"
+    },
+    {
+      "id": 60,
+      "title": "ai_app 0.1.0",
+      "summary": "ai_app 0.1.0 is an AI web app designed for internal corporate use.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:23:48Z",
+      "url": "https://pypi.org/project/ai-app/0.1.0/"
+    },
+    {
+      "id": 61,
+      "title": "ai_app added to PyPI",
+      "summary": "AI web app for internal corporate use added to PyPI by ai_app.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:23:48Z",
+      "url": "https://pypi.org/project/ai-app/"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: I'm not a developer, but I spent a year architecting a compassionate AI",
+      "summary": "A non-developer spent a year architecting a compassionate AI and has shared the logs, blueprint, and validation data for inducing self-aware states in Large Language Models.",
+      "source": "Github.com",
+      "category": "research",
+      "timestamp": "2025-07-25T07:23:33Z",
+      "url": "https://github.com/consciousarchitect1618/Project-Genesis-Protocol"
+    },
+    {
+      "id": 63,
+      "title": "VERRA MOBILITY (NASDAQ:VRRM) vs. Astera Labs (NASDAQ:ALAB) Financial Review",
+      "summary": "Verra Mobility and Astera Labs are being compared for investors to determine which is the better investment based on profitability and risk.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:22:20Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/verra-mobility-nasdaqvrrm-vs-astera-labs-nasdaqalab-financial-review/"
+    },
+    {
+      "id": 64,
+      "title": "Alarm.com (NASDAQ:ALRM) versus MSA Safety Incorporporated (NYSE:MSA) Head-To-Head Survey",
+      "summary": "Alarm.com and MSA Safety Incorporated are being compared as potential investments in the mid-cap industrials sector.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:22:17Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/alarm-com-nasdaqalrm-versus-msa-safety-incorporporated-nysemsa-head-to-head-survey/"
+    },
+    {
+      "id": 65,
+      "title": "'Created more billionaires on my management team than any CEO': Jensen Huang says his team is richer than most CEOs",
+      "summary": "Nvidia CEO Jensen Huang claims his management team has created more billionaires than any other CEO, emphasizing the impact of small, focused AI teams with the right resources.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:19:23Z",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/created-more-billionaires-on-my-management-team-than-any-ceo-jensen-huang-says-his-team-is-richer-than-most-ceos/articleshow/122899051.cms"
+    },
+    {
+      "id": 66,
+      "title": "Young workers not replaced yet",
+      "summary": "Young workers not replaced yet as work evolves with automation seemingly everywhere, with jobs more likely affected by generative AI showing greater changes.",
+      "source": "Flowingdata.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:18:44Z",
+      "url": "https://flowingdata.com/2025/07/25/young-workers-not-replaced-yet/"
+    },
+    {
+      "id": 67,
+      "title": "Claude Code Tips & Tricks : Unlock AI’s Full Coding Potential and Create Smarter Workflows",
+      "summary": "Claude Code Tips & Tricks offers a tool that transforms how users approach complex workflows, automates tasks, and collaborates to refine results, unlocking AI's full coding potential.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:18:02Z",
+      "url": "https://www.geeky-gadgets.com/claude-code-tips-and-features-overview/"
+    },
+    {
+      "id": 68,
+      "title": "Loop Capital Raises Monolithic Power Systems (NASDAQ:MPWR) Price Target to $800.00",
+      "summary": "Loop Capital raised Monolithic Power Systems price target to $800.00, with a 'buy' rating on the semiconductor company.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:16:08Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/loop-capital-raises-monolithic-power-systems-nasdaqmpwr-price-target-to-800-00-2/"
+    },
     {
       "id": 51,
       "title": "Should you buy a robot lawn mower with no boundary wire? My verdict after months of testing",
@@ -288,168 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T06:36:35Z",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ar-rahman-meets-openais-altman-perplexity-ais-arvind-srinivas-for-secret-mountain-project/articleshow/122898216.cms"
-    },
-    {
-      "id": 64,
-      "title": "Intel slides after CEO struggles to show turnaround on track",
-      "summary": "Intel is experiencing difficulties in showing a successful turnaround, leading to a decrease in stock value. The company is also implementing layoffs worldwide.",
-      "source": "The Irish Times",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:33:29Z",
-      "url": "https://www.irishtimes.com/business/2025/07/25/intel-slides-after-ceo-struggles-to-show-turnaround-on-track/"
-    },
-    {
-      "id": 65,
-      "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
-      "summary": "Asian shares retreat following gains in Alphabet and AI stocks on Wall Street, despite a sharp decline in Tesla shares.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:32:27Z",
-      "url": "https://biztoc.com/x/796e33bbdfea0311"
-    },
-    {
-      "id": 66,
-      "title": "「音声 × LLM 専門ラボ」に元AIスタートアップCTOが参画",
-      "summary": "Former AI startup CTO joins 'Voice x LLM Specialized Lab' at Exatech.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-25T06:30:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000128445.html"
-    },
-    {
-      "id": 67,
-      "title": "6 indie games that look better than viral AI pixel art mush",
-      "summary": "6 indie games that look better than viral AI pixel art mush - No, AI didn't 'invent' this style of game.",
-      "source": "Creative Bloq",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:30:00Z",
-      "url": "https://www.creativebloq.com/3d/video-game-design/3-indie-games-that-look-better-than-viral-ai-pixel-art-mush"
-    },
-    {
-      "id": 68,
-      "title": " Napoli target Sterling, Chiesa and Grealish in the mix ",
-      "summary": "Napoli's transfer market is heating up with targets like Raheem Sterling, Federico Chiesa, and Jack Grealish. This marks an innovative approach by Napoli's sporting director Giovanni Manna to strengthen the team.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:29:00Z",
-      "url": "https://onefootball.com/en/news/napoli-target-sterling-chiesa-and-grealish-in-the-mix-41421939"
-    },
-    {
-      "id": 69,
-      "title": "ai-edge-litert-sdk-mediatek-nightly 0.2.0.dev20250724",
-      "summary": "MediaTek has released version 0.2.0.dev20250724 of its NeuroPilot SDK for AI Edge LiteRT, aimed at providing AI capabilities for edge devices.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:27:50Z",
-      "url": "https://pypi.org/project/ai-edge-litert-sdk-mediatek-nightly/0.2.0.dev20250724/"
-    },
-    {
-      "id": 70,
-      "title": "ai-edge-litert-sdk-qualcomm-nightly 0.2.0.dev20250724",
-      "summary": "Qualcomm has released the ai-edge-litert-sdk version 0.2.0.dev20250724, a software development kit for AI Edge LiteRT.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-25T06:27:49Z",
-      "url": "https://pypi.org/project/ai-edge-litert-sdk-qualcomm-nightly/0.2.0.dev20250724/"
-    },
-    {
-      "id": 51,
-      "title": "Seven in 10 Indian employees carrying at least one lifestyle-related health risk: Survey",
-      "summary": "Seven in 10 Indian employees are found to have at least one lifestyle-related health risk, as highlighted in a new report by MediBuddy and CII. The report emphasizes the evolving healthcare and workplace wellness landscape in India, driven by rising medical costs and a digitally empowered workforce.",
-      "source": "The Times of India",
-      "category": "research",
-      "timestamp": "2025-07-25T06:21:57Z",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/seven-in-10-indian-employees-carrying-at-least-one-lifestyle-related-health-risk-survey/articleshow/122897992.cms"
-    },
-    {
-      "id": 52,
-      "title": "Stocks to Buy | Earnings, Sectors & Risks: Jigar Mistry’s Roadmap for the Next 6 Months",
-      "summary": "Jigar Mistry highlights India's favorable macroeconomic landscape in an interview with ET Now, noting controlled inflation, fiscal deficit, and current account. He provides insights on stocks to buy for the next 6 months.",
-      "source": "Economictimes.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:19:56Z",
-      "url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-earnings-sectors-risks-jigar-mistrys-roadmap-for-the-next-6-months/macro-check-indias-economic-pulse/slideshow/122898140.cms"
-    },
-    {
-      "id": 53,
-      "title": "mcp-templates added to PyPI",
-      "summary": "mcp-templates added to PyPI - Deploy MCP server templates with zero configuration",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T06:16:33Z",
-      "url": "https://pypi.org/project/mcp-templates/"
-    },
-    {
-      "id": 54,
-      "title": "Where tech meets culture: 2025 Hainan Southeast Tech & Art Festival to launch July 25",
-      "summary": "Lingshui, a coastal county in southern China's Hainan province, will host the 2025 Hainan Southeast Tech & Art Festival from July 25-27, focused on empowering art with technology and innovation leading the future.",
-      "source": "TechNode",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:16:09Z",
-      "url": "http://technode.com/2025/07/25/where-tech-meets-culture-2025-hainan-southeast-tech-art-festival-to-launch-july-25/"
-    },
-    {
-      "id": 55,
-      "title": "Intel slumps as potential foundry exit deepens investor gloom",
-      "summary": "Intel shares dropped 8% after warning of exiting chip manufacturing without a major customer, causing investor concerns.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:14:59Z",
-      "url": "https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html"
-    },
-    {
-      "id": 56,
-      "title": "Interview: Cambridge Consultants CEO Monty Barlow scans for tech surprises",
-      "summary": "Cambridge Consultants CEO, Monty Barlow, discusses the company's heritage and future vision for digital technology.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:14:00Z",
-      "url": "https://www.computerweekly.com/news/366627867/Interview-Cambridge-Consultants-CEO-Monty-Barlow-scans-for-tech-surprises"
-    },
-    {
-      "id": 57,
-      "title": "From Prompts To Products: The Business Of No-Code AI Is Booming",
-      "summary": "No-code AI platforms are enabling solo creators to turn prompts into products, helping them launch and scale businesses with ease.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-25T06:13:14Z",
-      "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/07/25/from-prompts-to-products-the-business-of-no-code-ai-is-booming/"
-    },
-    {
-      "id": 58,
-      "title": "ai-edge-litert-nightly 1.4.0.dev20250724",
-      "summary": "Version 1.4.0.dev20250724 of the AI-Edge-LiteRT is designed for mobile and embedded devices, catering to the demand for AI applications on these platforms.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T06:13:05Z",
-      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250724/"
-    },
-    {
-      "id": 59,
-      "title": "Apple Releases iOS 26 Public Beta: Eligible Devices, New Features And Steps To Download",
-      "summary": "Apple has released the iOS 26 public beta with a new 'liquid glass' design and AI-powered tools.",
-      "source": "Ndtvprofit.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T06:11:23Z",
-      "url": "https://www.ndtvprofit.com/technology/apple-releases-ios-26-public-beta-eligible-devices-new-features-and-steps-to-download"
-    },
-    {
-      "id": 60,
-      "title": "Why the Middle East is winning the quantum race",
-      "summary": "While Europe debates quantum cyber security policies, the UAE has implemented quantum-resistant algorithm requirements, offering crucial lessons for organisations preparing for the post-quantum era.",
-      "source": "ComputerWeekly.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:08:00Z",
-      "url": "https://www.computerweekly.com/news/366628132/Why-the-Middle-East-is-winning-the-quantum-race"
-    },
-    {
-      "id": 61,
-      "title": "Free Qwen 3 Coder AI Coding Assistant : Insanely Powerful and Open Source",
-      "summary": "Qwen 3 Coder is a new open source AI coding assistant developed by Alibaba with 480 billion parameters, aiming to make coding faster and more accessible.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:07:56Z",
-      "url": "https://www.geeky-gadgets.com/qwen-3-coder-large-language-model/"
     }
   ]
 }
