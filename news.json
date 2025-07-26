@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T17:36:25.796Z",
+  "lastUpdate": "2025-07-26T17:51:31.461Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Microsoft gives Copilot a face - here's how to try your new Appearance chat buddy",
+      "summary": "Microsoft introduces Appearance feature for Copilot, allowing testers to have a more human-like chat experience with capabilities like smiling and nodding.",
+      "source": "ZDNet",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:49:59Z",
+      "url": "https://www.zdnet.com/article/microsoft-gives-copilot-a-face-heres-how-to-try-your-new-appearance-chat-buddy/"
+    },
+    {
+      "id": 52,
+      "title": "Invenergy says Grain Belt Express will go forward despite DOE decision",
+      "summary": "Invenergy's Grain Belt Express project will continue despite the U.S. Department of Energy's decision stating that federal involvement is not critical in the first phase.",
+      "source": "Associated Press",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:49:32Z",
+      "url": "https://apnews.com/article/green-energy-transmission-line-grain-belt-express-6d674ba10fc2d5700133989695e838ec?utm_campaign=Newsletter&utm_medium=email&_hsenc=p2ANqtz-9YNFGtM2FaDYQ9wt_x7vQ044lOoR6VziotCiZMcqYAbtXTZ2TXoHnLBPFVDcodEls9qCFD2edisbfpCzwFYjxKz0c1OIZof_YJrIzpQAn1wld-DsI&_hsmi=372973335&utm_content=372973335&utm_source=hs_email"
+    },
+    {
+      "id": 53,
+      "title": "ai-bootstrap added to PyPI",
+      "summary": "ai-bootstrap, a CLI tool for scaffolding AI projects with GitHub Codespace integration and AI-powered project planning, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:49:06Z",
+      "url": "https://pypi.org/project/ai-bootstrap/"
+    },
+    {
+      "id": 54,
+      "title": "Paris Fashion Week Schedule Unveiled & LVMH Sales Dip in This Week's Top Fashion News",
+      "summary": "Paris Fashion Week SS26 RTW schedule unveiled with new creative director debuts, while LVMH sales dip in recent news.",
+      "source": "HYPEBEAST",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:48:42Z",
+      "url": "https://hypebeast.com/2025/7/paris-fashion-week-debuts-matthieu-blazy-chanel-dior-balenciaga-lvmh-sofia-coppola-willy-chavarria-jonathan-anderson-thom-browne-info"
+    },
+    {
+      "id": 55,
+      "title": "interro added to PyPI",
+      "summary": "Interro, an AI-powered code understanding and querying tool, has been added to PyPI for developers to use in their projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:47:49Z",
+      "url": "https://pypi.org/project/interro/"
+    },
+    {
+      "id": 56,
+      "title": "A Windsurf AI engineer says Google gave him a job offer that would 'explode same day.' He didn't take it.",
+      "summary": "A Windsurf AI engineer turned down a job offer from Google that was said to 'explode same day', sparking speculation on the increasing competition for AI talent in the startup world.",
+      "source": "Business Insider",
+      "category": "startups",
+      "timestamp": "2025-07-25T17:46:38Z",
+      "url": "https://www.businessinsider.com/google-exploding-job-offer-windsurf-engineer-ai-talent-wars-2025-7"
+    },
+    {
+      "id": 57,
+      "title": "Palantir Stock Climb to Record High on Robust Sales and Major Army Contract",
+      "summary": "Palantir stock reaches record high due to strong sales and securing a major army contract, fueled by key AI alliances.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:46:32Z",
+      "url": "https://finance.yahoo.com/news/palantir-stock-climb-record-high-174632437.html"
+    },
+    {
+      "id": 58,
+      "title": "Elon Musk is about to ruin Vine just like he’s ruined everything else",
+      "summary": "Elon Musk mentioned the idea of bringing back Vine in 'AI form,' which has been met with skepticism and criticism.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:46:25Z",
+      "url": "https://www.androidauthority.com/elon-musk-ai-vine-3580873/"
+    },
+    {
+      "id": 59,
+      "title": "Microsoft’s Copilot AI Assistant Gets Aging Digital Avatars",
+      "summary": "Microsoft is giving its Copilot AI assistant a more human touch by introducing aging digital avatars through a feature called Copilot Appearance. The new feature was first rolled out on iPhone in Canada.",
+      "source": "iPhone in Canada",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:44:19Z",
+      "url": "https://www.iphoneincanada.ca/2025/07/25/microsoft-copilot-ai-assistant-aging-avatars/"
+    },
+    {
+      "id": 60,
+      "title": "Nothing Phone 3 Review: A Quirky and Fun Phone for Photographers",
+      "summary": "Nothing, a British brand founded in 2020, releases its first flagship phone, the Phone 3, targeted at photographers and aiming to compete with top industry players.",
+      "source": "PetaPixel",
+      "category": "startups",
+      "timestamp": "2025-07-25T17:43:35Z",
+      "url": "https://petapixel.com/2025/07/25/nothing-phone-3-review-a-quirky-and-fun-phone-for-photographers/"
+    },
+    {
+      "id": 61,
+      "title": "Apple Adds 13, 16 and 18 Plus Age Ratings to Its Apps and Games: What to Know",
+      "summary": "Apple has added 13, 16, and 18 plus age ratings to its apps and games to improve child safety measures. This move demonstrates a focus on ethics in ensuring appropriate content is easily identifiable for users of different age groups.",
+      "source": "CNET",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:43:15Z",
+      "url": "https://www.cnet.com/tech/services-and-software/apple-adds-13-16-and-18-plus-age-ratings-to-its-apps-and-games-what-to-know/"
+    },
+    {
+      "id": 62,
+      "title": "Driverless-truck tech: Owner-ops worry over cyberattacks, crashes, competition",
+      "summary": "Nearly a fourth of owner-operator respondents to a recent poll expressed concerns about cyberattacks, crashes, and competition related to driverless-truck technology.",
+      "source": "Overdriveonline.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:43:04Z",
+      "url": "https://www.overdriveonline.com/voices/article/15751409/driverless-trucks-one-big-accident-away-from-being-banned-on-public-roads"
+    },
+    {
+      "id": 63,
+      "title": "As AI becomes more popular, concerns grow over its effect on mental health",
+      "summary": "As AI becomes more popular, concerns grow over its effect on mental health - Too much of anything is bad for you, including faux-magical statistical models. There are numerous recent reports of people becoming too engaged with AI, sometimes to the detriment of their mental health.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:41:11Z",
+      "url": "https://biztoc.com/x/c30405eb586c177a"
+    },
+    {
+      "id": 64,
+      "title": "Call It What It Is—Pogroms and Attempts at Ethno-Religious Cleansing of the Druze in Syria | Opinion",
+      "summary": "The article discusses the ongoing violence and persecution faced by the Druze community in Syria, as reported by an AI-generated voice. It highlights the atrocities committed against the Druze, including killings and attempts at ethnic and religious cleansing.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:41:09Z",
+      "url": "https://biztoc.com/x/80f1d65844fd96ab"
+    },
+    {
+      "id": 65,
+      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
+      "summary": "Sam Altman warns about lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal framework for AI.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:40:58Z",
+      "url": "https://biztoc.com/x/cea2a2c7692d4fc7"
+    },
+    {
+      "id": 66,
+      "title": "OYO's Ritesh Agarwal says India-UK FTA deal game-changer for startups, jobs, AI growth",
+      "summary": "OYO's Ritesh Agarwal highlights India-UK FTA deal as a game-changer for startups, jobs, and AI growth, with other business tycoons attending the signing of the historic agreement.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:39:26Z",
+      "url": "https://www.livemint.com/companies/news/oyos-ritesh-agarwal-says-india-uk-fta-deal-game-changer-for-startups-jobs-ai-growth-11753463005416.html"
+    },
+    {
+      "id": 67,
+      "title": "The 10 most ‘impossibly unaffordable' housing markets in the world—5 are in the U.S.",
+      "summary": "Five of the ten most unaffordable housing markets in the world are in the United States, with a high median home price to median income ratio according to a recent study.",
+      "source": "CNBC",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:38:58Z",
+      "url": "https://www.cnbc.com/2025/07/25/the-10-most-impossibly-unaffordable-housing-markets-in-the-world.html"
+    },
     {
       "id": 51,
       "title": "The S&P 500 is ‘extremely concentrated,’ Apollo economist says, warning the best AI investment may not be in the Magnificent 7",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T17:02:57Z",
       "url": "https://pypi.org/project/browse-to-test/0.2.7/"
-    },
-    {
-      "id": 65,
-      "title": "Bargain! AMD leaves new Threadripper 9000 prices unchanged at $5,000",
-      "summary": "AMD leaves Threadripper 9000 prices unchanged at $5,000, while increasing prices for Threadripper Pro chips.",
-      "source": "PCWorld",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:02:50Z",
-      "url": "https://www.pcworld.com/article/2859465/bargain-amd-leaves-new-threadripper-9000-prices-unchanged-at-5000.html"
-    },
-    {
-      "id": 66,
-      "title": "Anthropic Faces Potentially “Business-Ending” Copyright Lawsuit",
-      "summary": "Anthropic faces potential business-ending copyright lawsuit due to AI-related concerns.",
-      "source": "Lesswrong.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:01:13Z",
-      "url": "https://www.lesswrong.com/posts/ybHtafxQeaNFQJM22/anthropic-faces-potentially-business-ending-copyright"
-    },
-    {
-      "id": 67,
-      "title": "Tesla Getting to 30-50 Robotaxi in July",
-      "summary": "Tesla plans to increase its fleet of Robotaxi vehicles to 30-50 in July, expanding its service area in Austin. This move will bring Tesla's fleet closer in size to Waymo's, with 100 vehicles operating in Austin.",
-      "source": "Next Big Future",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:01:09Z",
-      "url": "https://www.nextbigfuture.com/2025/07/tesla-getting-to-30-50-robotaxi-in-july.html"
-    },
-    {
-      "id": 68,
-      "title": "European shares close lower as investors eye EU-US trade talks",
-      "summary": "European shares closed lower as investors monitored EU-US trade talks, with the Iseq All-Share index ending slightly up.",
-      "source": "The Irish Times",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:01:00Z",
-      "url": "https://www.irishtimes.com/business/2025/07/25/european-shares-close-lower-as-investors-eye-eu-us-trade-talks/"
-    },
-    {
-      "id": 69,
-      "title": "Happy Gilmore 2 Cast Guide: Every New & Returning Character In Adam Sandler's Comedy",
-      "summary": "Happy Gilmore 2 is a welcome return to form for Adam Sandler, featuring an excellent ensemble of comedy acting talents and celebrity cameos.",
-      "source": "Screen Rant",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:00:59Z",
-      "url": "https://screenrant.com/happy-gilmore-2-cast-character-guide/"
-    },
-    {
-      "id": 70,
-      "title": "Top Digital Marketing Agencies in Ludhiana [2025 List]",
-      "summary": "Top digital marketing agencies in Ludhiana for 2025 ranked with searchar as #1 for SEO, PPC, and AR marketing, helping businesses find the best fit.",
-      "source": "Searchar.in",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:00:48Z",
-      "url": "https://searchar.in/top-digital-marketing-agencies-in-ludhiana-why-searchar-leads-the-way-in-2025/"
-    },
-    {
-      "id": 51,
-      "title": "Alienware’s new Aurora 16X RTX 5060 gaming laptop with 32GB RAM/1TB SSD is a whopping $400 off today",
-      "summary": "Alienware’s new Aurora 16X RTX 5060 gaming laptop with 32GB RAM/1TB SSD is $400 off at Best Buy, currently priced at $1,399.99 shipped.",
-      "source": "9to5Toys",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:46:41Z",
-      "url": "http://9to5toys.com/2025/07/25/alienware-aurora-16x-rtx-5060-gaming-laptop-400-off-today/"
-    },
-    {
-      "id": 52,
-      "title": "trello-tools 0.1.0",
-      "summary": "trello-tools 0.1.0 is a CLI for interacting with Trello.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:46:26Z",
-      "url": "https://pypi.org/project/trello-tools/"
-    },
-    {
-      "id": 53,
-      "title": "At GFT 2025, Thai Apparel Industry Charts Future Amid Regional Conflict and Tariff Fears",
-      "summary": "ASEAN’s largest textile and garment machinery exhibition in Bangkok called GFT 2025 showcased international exhibitors from Japan, India, Vietnam and other countries, highlighting the industry's efforts to navigate through regional conflict and tariff concerns.",
-      "source": "Sourcing Journal",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:46:16Z",
-      "url": "https://sourcingjournal.com/topics/sourcing/gft-2025-thailand-apparel-industry-asean-sourcing-trade-tariffs-1234756867/"
-    },
-    {
-      "id": 54,
-      "title": "I found a $300 Motorola phone that offers flagship features at a fraction of the price",
-      "summary": "The $300 Motorola Moto G Power (2025) offers flagship features including a spacious 6.8-inch display and impressive battery life, providing high value at a fraction of the price.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:46:00Z",
-      "url": "https://www.zdnet.com/article/i-found-a-300-motorola-phone-that-offers-flagship-features-at-a-fraction-of-the-price/"
-    },
-    {
-      "id": 55,
-      "title": "China's 'Project of the Century'—World's Biggest Hydropower Dam—Is Underway",
-      "summary": "Construction has officially commenced on what is set to become the world's largest hydropower dam in China, announced by Li Qiang. Located on the eastern rim of the Tibetan Plateau, the project is expected to be a significant innovation in the field of hydropower technology.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:45:36Z",
-      "url": "https://biztoc.com/x/90c8c542f508fa01"
-    },
-    {
-      "id": 56,
-      "title": "Trump wants to ban 'woke AI.' Here's why it's hard to make a truly neutral chatbot",
-      "summary": "President Donald Trump wants to ban 'woke AI' and issued an executive order mandating that AI used by the government be ideologically neutral.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:45:11Z",
-      "url": "https://biztoc.com/x/549f251903c85a78"
-    },
-    {
-      "id": 57,
-      "title": "Pune Sparks AI Automation with Forge and Rovo",
-      "summary": "Pune Community Group brought 80 developers together to build real-world applications using Forge and Rovo for AI automation.",
-      "source": "Atlassian.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:45:00Z",
-      "url": "https://www.atlassian.com/blog/developer/pune-ai-automation-forge-rovo"
-    },
-    {
-      "id": 58,
-      "title": "Daron Acemoglu, Chris Bangle and Michele De Lucchi awarded the Ethic Award at the Oscar Pomilio Blumm Forum “Happy Chaos? Rethinking Ethics in an Age of Global Change”",
-      "summary": "Daron Acemoglu, Chris Bangle and Michele De Lucchi were awarded the Ethic Award at the Oscar Pomilio Blumm Forum for their reflections on the profound transformations reshaping our time.",
-      "source": "GlobeNewswire",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:45:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121944/0/en/Daron-Acemoglu-Chris-Bangle-and-Michele-De-Lucchi-awarded-the-Ethic-Award-at-the-Oscar-Pomilio-Blumm-Forum-Happy-Chaos-Rethinking-Ethics-in-an-Age-of-Global-Change.html"
-    },
-    {
-      "id": 59,
-      "title": "This built-in Windows 11 app can pull the text in any image with one click",
-      "summary": "This built-in Windows 11 app now includes an OCR function, allowing users to extract text from images with one click.",
-      "source": "PCWorld",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:44:08Z",
-      "url": "https://www.pcworld.com/article/2859167/how-to-copy-the-text-in-any-image-using-the-windows-photos-app.html"
-    },
-    {
-      "id": 60,
-      "title": "Microsoft gives Copilot visual appearance with real-time expressions and emotions",
-      "summary": "Microsoft introduces the Appearance feature for Copilot, providing real-time expressions, emotions, and conversational memory for users.",
-      "source": "Neowin",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:44:01Z",
-      "url": "https://www.neowin.net/news/microsoft-gives-copilot-visual-appearance-with-real-time-expressions-and-emotions/"
-    },
-    {
-      "id": 61,
-      "title": "A company says it could turn mercury into gold using nuclear fusion. Can we take this claim seriously?",
-      "summary": "A Californian startup claims it could turn mercury into gold using nuclear fusion, potentially producing several tonnes of gold per year.",
-      "source": "The Conversation Africa",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:43:48Z",
-      "url": "https://theconversation.com/a-company-says-it-could-turn-mercury-into-gold-using-nuclear-fusion-can-we-take-this-claim-seriously-261891"
     }
   ]
 }
