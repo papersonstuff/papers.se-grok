@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T10:54:08.491Z",
+  "lastUpdate": "2025-07-26T11:13:26.713Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Google’s Sundar Pichai just became a billionaire—but could have been up an extra billion if he hadn’t sold stock",
+      "summary": "Google's CEO Sundar Pichai recently became a billionaire, but could have had an extra billion if he had not sold stock. Many of his recent sales were made under a regulatory filing to avoid accusations of insider trading.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:12:32Z",
+      "url": "https://fortune.com/2025/07/25/google-sundar-pichai-billionaire-stock-sales-ai-rally/"
+    },
+    {
+      "id": 52,
+      "title": "Not A Number – The liminal state of an urban icon",
+      "summary": "NaN is a moving image project that explores the afterlife functionality of the iconic red phone booths in London.",
+      "source": "Creativeapplications.net",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:12:22Z",
+      "url": "https://www.creativeapplications.net/member/not-a-number-the-liminal-state-of-an-urban-icon/"
+    },
+    {
+      "id": 53,
+      "title": "Metros are crawling through traffic: Bengaluru records 16% increase in commute time",
+      "summary": "Bengaluru's average commute time has increased by 16% in the past year, with the average one-way commute now taking 63 minutes for a distance of 19km.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:12:04Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/metros-are-crawling-through-traffic-bengaluru-records-16-increase-in-commute-time/articleshow/122904263.cms"
+    },
+    {
+      "id": 54,
+      "title": "Nexity shares rally as H1 earnings reassure the market",
+      "summary": "Nexity's shares rose after the company reported positive operating profit in the first half of 2025, reassuring the market.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:11:02Z",
+      "url": "https://finance.yahoo.com/news/nexity-shares-rally-h1-earnings-111102001.html"
+    },
+    {
+      "id": 55,
+      "title": "Company proves Star Wars speeder bikes are real — and they can reach mind-boggling speeds",
+      "summary": "Company proves Star Wars speeder bikes are real — and they can reach mind-boggling speeds - A controversial, Star Wars-style flying speeder bike has gone on sale.",
+      "source": "Freerepublic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:10:50Z",
+      "url": "https://freerepublic.com/focus/f-chat/4330663/posts"
+    },
+    {
+      "id": 56,
+      "title": "From Lagos to Microsoft HQ : Scaling your marketing career into global companies · Zoom · Luma",
+      "summary": "Break into the global tech marketing scene with insider strategies from a Microsoft Senior Product Marketing Manager who's navigating Azure's career path from Lagos to Microsoft HQ.",
+      "source": "Lu.ma",
+      "category": "startups",
+      "timestamp": "2025-07-25T11:10:34Z",
+      "url": "https://lu.ma/lf7l8b8f"
+    },
+    {
+      "id": 57,
+      "title": "Abnormal AI seeks to widen channel base",
+      "summary": "Abnormal AI is looking to expand its channel base by forging new partnerships to increase its presence in the UK and beyond.",
+      "source": "ComputerWeekly.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T11:10:00Z",
+      "url": "https://www.computerweekly.com/microscope/news/366628055/Abnormal-AI-seeks-to-widen-channel-base"
+    },
+    {
+      "id": 58,
+      "title": "Intel overplayed its hand and now it wants to rebuild",
+      "summary": "Intel plans to recover from delays and cuts by focusing on more efficient laptops in the future.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:09:35Z",
+      "url": "https://www.phonearena.com/news/intel-overplayed-its-hand-now-it-wants-to-rebuild_id172628"
+    },
+    {
+      "id": 59,
+      "title": "Wildly low price hits Lenovo’s touchscreen IdeaPad Slim 5 Copilot+ PC down at $450 (48% off)",
+      "summary": "Wildly low price hits Lenovo’s touchscreen IdeaPad Slim 5 Copilot+ PC down at $450 (48% off) - We just spotted a deal at Lenovo that gets you an IdeaPad Slim 5 touchscreen Copilot+ PC for $449.99 shipped.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:09:25Z",
+      "url": "http://9to5toys.com/2025/07/25/lenovo-touchscreen-ideapad-slim-5-copilot-pc-48-off/"
+    },
+    {
+      "id": 60,
+      "title": "PraisonAI 2.2.77",
+      "summary": "PraisonAI 2.2.77 is an AI Agents Framework with Self Reflection, combining PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:06:54Z",
+      "url": "https://pypi.org/project/praisonai/2.2.77/"
+    },
+    {
+      "id": 61,
+      "title": "AdGuard is yet another app to block Windows Recall",
+      "summary": "AdGuard, an app to block Windows Recall, is now being used by more users as Recall becomes available on Windows 11. This points to a growing trend of privacy-focused apps being developed to counter controversial features in operating systems.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:06:01Z",
+      "url": "https://www.neowin.net/news/adguard-is-yet-another-app-to-block-windows-recall/"
+    },
+    {
+      "id": 62,
+      "title": "Singtel spearheads data centre hiring drive for over 500 positions",
+      "summary": "Singtel is leading a hiring drive for over 500 positions at its data centre, looking for both fresh talent and mid-career hires.",
+      "source": "The Straits Times",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:05:43Z",
+      "url": "https://www.straitstimes.com/business/singtel-spearheads-data-centre-hiring-drive-for-over-500-positions"
+    },
+    {
+      "id": 63,
+      "title": "A monstrous AMD Strix Halo handheld could debut next week, and I almost feel like pouring one out for the ROG Xbox Ally",
+      "summary": "A monstrous AMD Strix Halo handheld and GPD WIN 5 gaming handheld with AMD Ryzen APU are set to debut, potentially surpassing the ROG Xbox Ally in performance.",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:04:00Z",
+      "url": "https://www.gamesradar.com/hardware/handhelds/a-monstrous-amd-strix-halo-handheld-could-debut-next-week-and-i-almost-feel-like-pouring-one-out-for-the-rog-xbox-ally/"
+    },
+    {
+      "id": 64,
+      "title": "Tesla beats Chinese rivals in some driving assisted tests, say China state media, Bytedance",
+      "summary": "Tesla outperformed Chinese rivals in a test of assisted driving technologies in China, according to state media. BYD, Xiaomi, and Huawei were among the companies compared to Tesla.",
+      "source": "Yahoo Entertainment",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:03:20Z",
+      "url": "https://finance.yahoo.com/news/tesla-beats-chinese-rivals-driving-110320783.html"
+    },
+    {
+      "id": 65,
+      "title": "SCO Media and Think Tank Summit underway in Zhengzhou, China",
+      "summary": "SCO Media and Think Tank Summit in Zhengzhou, China started on July 23.",
+      "source": "Mypeoplesreview.com",
+      "category": "research",
+      "timestamp": "2025-07-25T11:01:16Z",
+      "url": "https://mypeoplesreview.com/2025/07/25/sco-media-and-think-tank-summit-underway-in-zhengzhou-china/"
+    },
+    {
+      "id": 66,
+      "title": "iOS 26 Public Beta 1 Brings AI Summaries Back to News Apps With a Warning",
+      "summary": "iOS 26 Public Beta 1 has reintroduced AI summaries in news apps after being temporarily disabled in January, with a warning attached.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:00:48Z",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-26-public-beta-1-brings-ai-summaries-back-to-news-apps-with-a-warning/"
+    },
+    {
+      "id": 67,
+      "title": "Econocom Group SE (XBRU:ECONB) (H1 2025) Earnings Call Highlights: Strong Revenue Growth Amid ...",
+      "summary": "Econocom Group SE reports a 6.6% revenue increase in the first half of 2025, driven by TMF activity, while facing challenges in the PNS segment and Sino Trade.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:00:33Z",
+      "url": "https://finance.yahoo.com/news/econocom-group-se-xbru-econb-110033438.html"
+    },
     {
       "id": 51,
       "title": "DAIVID Brings Creative Intelligence To Retail Media Networks With AI-Powered Tool",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T10:08:31Z",
       "url": "https://pypi.org/project/aider-code/0.1.1.post4/"
-    },
-    {
-      "id": 60,
-      "title": "Microsoft layoffs: CEO Satya Nadella says move to cut 9,000 jobs \"weighing heavily\" on him but necessary for...",
-      "summary": "Satya Nadella addresses Microsoft employees about recent layoffs, stating the decision was difficult but necessary for the company's AI transformation. Despite the layoffs, Microsoft's stock continues to perform well.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:05:45Z",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/microsoft-layoffs-ceo-satya-nadella-says-move-to-cut-9000-jobs-weighing-heavily-but-necessary-for-/articleshow/122902608.cms"
-    },
-    {
-      "id": 61,
-      "title": "How Long Will Americans Tolerate Ukrainian Corruption? | Opinion",
-      "summary": "AI-generated opinion piece raises concerns about American tolerance of Ukrainian corruption and highlights potential inconsistencies in politicians' support for President Zelensky.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:04:49Z",
-      "url": "https://biztoc.com/x/6888352b121247e8"
-    },
-    {
-      "id": 62,
-      "title": "The Blueprint for ICE's Future Is Being Drawn in the West Bank | Opinion",
-      "summary": "The Blueprint for ICE's Future Is Being Drawn in the West Bank | Opinion - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:04:39Z",
-      "url": "https://biztoc.com/x/fd6e9a5cee01aa93"
-    },
-    {
-      "id": 63,
-      "title": "Grading the Second Trump Presidency, Six Months In | Opinion",
-      "summary": "An AI-generated opinion piece discusses the grading of the Second Trump Presidency, highlighting the challenges faced by the former president during his time in office.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:04:36Z",
-      "url": "https://biztoc.com/x/eabac81df2941a0f"
-    },
-    {
-      "id": 64,
-      "title": "orq-ai-sdk 3.9.22",
-      "summary": "orq-ai-sdk 3.9.22 is a Python Client SDK for the Orq API, enabling developers to easily interface with the platform for AI-related projects.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:04:25Z",
-      "url": "https://pypi.org/project/orq-ai-sdk/3.9.22/"
-    },
-    {
-      "id": 65,
-      "title": "Shanghai expo sets stage for US-China face-off in heated AI race",
-      "summary": "Shanghai expo sets stage for US-China face-off in heated AI race. China ramps up competition against the US for supremacy in AI technology at the World Artificial Intelligence Conference.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:04:22Z",
-      "url": "https://biztoc.com/x/6721274bdb6059b6"
-    },
-    {
-      "id": 66,
-      "title": "Tuxedo Kitten Meets Traumatized Rescue Cat—He Knows What To Do",
-      "summary": "A heartwarming story of two stray kitties forming a bond has gone viral on Reddit, showcasing the power of connections between animals. The post under the username u/LegitimateAdeptness has melted hearts across the internet.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:04:18Z",
-      "url": "https://biztoc.com/x/8be727459f45ebe7"
-    },
-    {
-      "id": 67,
-      "title": "Is AI really plotting against us?",
-      "summary": "Researchers are questioning whether claims of AI plotting against humans are exaggerated, drawing parallels to past instances where behaviors were cherrypicked to fit a narrative.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:04:10Z",
-      "url": "https://biztoc.com/x/7d04e1049a5c5a32"
-    },
-    {
-      "id": 68,
-      "title": "golpo 0.4.0",
-      "summary": "golpo 0.4.0 is a Python SDK for Golpo AI-generated explainer videos and podcasts.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:04:07Z",
-      "url": "https://pypi.org/project/golpo/0.4.0/"
-    },
-    {
-      "id": 69,
-      "title": "FC Barcelona Gets An AI-Powered Assist To Help With Everything From Marketing To Player Fitness",
-      "summary": "FC Barcelona is using AI to improve various aspects of the club, including marketing, player fitness, and fan engagement.",
-      "source": "AdExchanger",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:04:03Z",
-      "url": "http://www.adexchanger.com/platforms/fc-barcelona-gets-an-ai-powered-assist-to-help-with-everything-from-marketing-to-player-fitness/"
-    },
-    {
-      "id": 51,
-      "title": "As Trump rails against Fed Chair Powell, here’s why Federal Reserve independence is essential",
-      "summary": "The article discusses the importance of Federal Reserve independence in making decisions without political consideration, particularly in the current environment with Trump criticizing Fed Chair Powell.",
-      "source": "The Philadelphia Inquirer",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:48:04Z",
-      "url": "https://www.inquirer.com/business/federal-reserve-jerome-powell-donald-trump-interest-inflation-20250725.html"
-    },
-    {
-      "id": 52,
-      "title": "ITC bets on new growth engines, expands food-tech and wellness play",
-      "summary": "ITC is expanding into food-tech and wellness sectors to drive new growth engines according to chairman Sanjiv Puri, who emphasizes the importance of future readiness through anticipating and shaping the future.",
-      "source": "Livemint",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:47:59Z",
-      "url": "https://www.livemint.com/companies/news/itc-business-expansion-2025-sanjiv-puri-itc-agm-2025-itc-growth-roadmap-itc-new-business-segments-11753432558329.html"
-    },
-    {
-      "id": 53,
-      "title": "orq-ai-sdk 3.10.0rc19",
-      "summary": "orq-ai-sdk 3.10.0rc19 is a Python Client SDK for the Orq API, designed to help developers integrate AI capabilities into their applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:46:29Z",
-      "url": "https://pypi.org/project/orq-ai-sdk/3.10.0rc19/"
-    },
-    {
-      "id": 54,
-      "title": "Japan’s Legal AI Startup Scores $50 Million Round Led By Goldman Sachs, Partners With OpenAI",
-      "summary": "LegalOn Technologies, a Japan-based legal AI startup, secured a $50 million funding round led by Goldman Sachs and partnered with OpenAI to develop AI agents for legal work. The company is backed by SoftBank and HongShan.",
-      "source": "Forbes",
-      "category": "startups",
-      "timestamp": "2025-07-25T09:45:08Z",
-      "url": "https://www.forbes.com/sites/zinnialee/2025/07/25/japans-legal-ai-startup-scores-50-million-round-led-by-goldman-sachs-partners-with-openai/"
-    },
-    {
-      "id": 55,
-      "title": "datamaster-mcp 1.0.1",
-      "summary": "DataMaster MCP 1.0.1 is an AI-powered data analysis tool that supports the MCP protocol.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:44:00Z",
-      "url": "https://pypi.org/project/datamaster-mcp/1.0.1/"
-    },
-    {
-      "id": 56,
-      "title": "datamaster-mcp added to PyPI",
-      "summary": "datamaster-mcp, an AI-powered data analysis tool with MCP protocol support, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:44:00Z",
-      "url": "https://pypi.org/project/datamaster-mcp/"
-    },
-    {
-      "id": 57,
-      "title": "Master the Secret to Viral AI Videos with Veo 3 and Kling 2.1",
-      "summary": "Mastering the right tools and strategies with Veo 3 and Kling 2.1 can help create viral AI videos with over a million views, in a world where attention spans are fleeting and competition for views is fierce.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:43:42Z",
-      "url": "https://www.geeky-gadgets.com/guide-to-creating-viral-videos-using-ai/"
     }
   ]
 }
