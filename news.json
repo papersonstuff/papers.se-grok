@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-26T19:11:59.689Z",
+  "lastUpdate": "2025-07-26T19:26:54.317Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Intel to separate networking unit as new CEO Tan overhauls business",
+      "summary": "Intel will separate its networking unit as part of a business overhaul led by new CEO Tan",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:23:35Z",
+      "url": "https://www.livemint.com/companies/news/intel-to-separate-networking-unit-as-new-ceo-tan-overhauls-business-11753471415524.html"
+    },
+    {
+      "id": 52,
+      "title": "ESOPs fables hide risky ends",
+      "summary": "ESOPs are becoming more popular as a means of wealth redistribution, but their effectiveness varies and they come with risks such as shielding underperformance and exposing workers.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:23:17Z",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/esops-fables-hide-risky-ends/articleshow/122912482.cms"
+    },
+    {
+      "id": 53,
+      "title": "Smart Marketing Decision-Making with UB-I",
+      "summary": "UB-I uses artificial intelligence to support better marketing decisions, particularly in location marketing, to help with task overwhelm.",
+      "source": "Uberall.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:22:08Z",
+      "url": "https://uberall.com/en-us/resources/blog/ai-intuitive-decision-making-ub-i"
+    },
+    {
+      "id": 54,
+      "title": "Ghislaine Maxwell's Lawyer Reacts To Trump's Pardon Comments",
+      "summary": "Ghislaine Maxwell's lawyer reacts to President Trump's pardon comments, sparking concerns about ethics surrounding potential pardon for convicted sex trafficker.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:21:19Z",
+      "url": "https://biztoc.com/x/bdfffd26c0be40d6"
+    },
+    {
+      "id": 55,
+      "title": "Alphabet's cloud margins expand despite higher AI investments",
+      "summary": "Alphabet's cloud margins are expanding despite increased investments in AI, showing that their aggressive AI strategy is benefiting their cloud business. Google Cloud's profitability is growing even as capital expenditures rise for AI growth.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:21:18Z",
+      "url": "https://biztoc.com/x/d2c94c77489398b8"
+    },
+    {
+      "id": 56,
+      "title": "Real-life ‘RoboCop’ makes debut in Shanghai — directing traffic at bustling intersection",
+      "summary": "Real-life robot ",
+      "source": "New York Post",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:21:13Z",
+      "url": "https://nypost.com/2025/07/25/business/real-life-robocop-makes-debut-in-shanghai-directing-traffic/"
+    },
+    {
+      "id": 57,
+      "title": "Linux kernel could soon expose every line AI helps write",
+      "summary": "Linux kernel could soon expose every line AI helps write, as proposed by Nvidia engineer Sasha Levin.",
+      "source": "Slashdot.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:20:02Z",
+      "url": "https://slashdot.org/submission/17338232/linux-kernel-could-soon-expose-every-line-ai-helps-write"
+    },
+    {
+      "id": 58,
+      "title": "AI-Powered Business Platforms - Pietra Launched AI Assistants for Autonomous E-Commerce Operations (TrendHunter.com)",
+      "summary": "Pietra has launched AI Assistants for autonomous e-commerce operations, aiming to help entrepreneurs run their businesses with minimal human intervention.",
+      "source": "Trendhunter.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T19:17:05Z",
+      "url": "https://www.trendhunter.com/trends/pietra"
+    },
+    {
+      "id": 59,
+      "title": "Layoffs surge in tech: More than 100,000 jobs cut in 2025 so far",
+      "summary": "Layoffs in the tech industry have exceeded 100,000 jobs in 2025 so far, with a notable increase in mass layoff announcements from various tech companies.",
+      "source": "TechSpot",
+      "category": "economy",
+      "timestamp": "2025-07-25T19:16:00Z",
+      "url": "https://www.techspot.com/news/108818-layoffs-surge-tech-more-than-100000-jobs-cut.html"
+    },
+    {
+      "id": 60,
+      "title": "POP BIO and CEPI announce collaboration for faster responses to Disease X",
+      "summary": "POP BIO and CEPI collaborate to accelerate responses to Disease X",
+      "source": "GlobeNewswire",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:16:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121975/0/en/POP-BIO-and-CEPI-announce-collaboration-for-faster-responses-to-Disease-X.html"
+    },
+    {
+      "id": 61,
+      "title": "Musk’s Grok AI is now on the Kalshi, Polymarket betting apps. What could go wrong?",
+      "summary": "Musk's Grok AI is now available on the Kalshi and Polymarket betting apps, raising concerns about the potential risks involved.Also, Polymarket gained popularity during the 2024 election between President Trump and President Biden.",
+      "source": "CNBC",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:15:52Z",
+      "url": "https://www.cnbc.com/2025/07/25/musk-grok-kalshi-polymarket.html"
+    },
+    {
+      "id": 62,
+      "title": "Can the Galaxy Z Fold 7 cameras hang with the iPhone and S25 Ultra? I put it to the test",
+      "summary": "When you spend more than $1,000 on a phone, you expect the best. The cameras on the Galaxy Z Fold line are now competitive with the iPhone and S25 Ultra, marking a significant improvement in camera quality.",
+      "source": "Android Central",
+      "category": "innovation",
+      "timestamp": "2025-07-25T19:15:12Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-camera-comparison"
+    },
+    {
+      "id": 63,
+      "title": "Everything to know about Tea, the viral and controversial app that lets women mark men as red flags",
+      "summary": "The Tea Dating Advice app allows women to anonymously leave feedback on men, enabling them to mark potential red flags. This app has quickly gained popularity for its unique approach to dating.",
+      "source": "Fast Company",
+      "category": "applications",
+      "timestamp": "2025-07-25T19:15:00Z",
+      "url": "https://www.fastcompany.com/91374409/everything-to-know-about-tea-the-viral-and-controversial-app-that-lets-women-mark-men-as-red-flags"
+    },
+    {
+      "id": 64,
+      "title": "Australian Psychedelic Rock Gods King Gizzard Appear To Be Nuking Their Catalog From Spotify",
+      "summary": "Australian Psychedelic Rock band King Gizzard appears to be removing their catalog from Spotify, sparking discussion about the impact of technological progress on music consumption and artist compensation.",
+      "source": "BroBible",
+      "category": "ethics",
+      "timestamp": "2025-07-25T19:14:56Z",
+      "url": "https://brobible.com/culture/article/australian-psychedelic-rock-gods-king-gizzard-appear-to-be-nuking-their-catalog-from-spotify/"
+    },
+    {
+      "id": 65,
+      "title": "Key questions for Apple ahead of earnings",
+      "summary": "CNBC's Steve Kovach discusses Apple's AI strategy before the company's earnings report, highlighting key questions related to AI technology and its potential impact on the company's performance.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T19:14:35Z",
+      "url": "https://biztoc.com/x/54165880c0e676a6"
+    },
     {
       "id": 51,
       "title": "Samsung Galaxy Z Fold 7 review: This one's for everyone",
@@ -315,141 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T18:40:39Z",
       "url": "https://blogs.cisco.com/insidervoices/cisco-thousandeyes-helps-drive-performance-with-the-mclaren-formula-1-team"
-    },
-    {
-      "id": 66,
-      "title": "ChatGPT can find and book an Airbnb for you now",
-      "summary": "ChatGPT is now able to find and book an Airbnb for users, as demonstrated by the cofounder of Unlimited Industries using the AI tool for an event.",
-      "source": "Business Insider",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:40:29Z",
-      "url": "https://www.businessinsider.com/tech-memo-chatgpt-find-book-airbnb-2025-7"
-    },
-    {
-      "id": 67,
-      "title": "Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson",
-      "summary": "Join WIRED's livestream on July 31 to hear about the world of wellness and more in an interview with Bryan Johnson",
-      "source": "Wired",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:40:23Z",
-      "url": "https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/"
-    },
-    {
-      "id": 68,
-      "title": "Opinion: Wall Street Is Challenging The Low-Cost-Investing Revolution",
-      "summary": "Wall Street is challenging the low-cost-investing revolution that has benefited ordinary investors by offering free brokerage accounts and commission-free index funds.",
-      "source": "Ndtvprofit.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:40:06Z",
-      "url": "https://www.ndtvprofit.com/opinion/wall-street-is-challenging-the-low-cost-investing-revolution"
-    },
-    {
-      "id": 69,
-      "title": "Microsoft Reportedly Boosting AI Investment by Laying off Thousands",
-      "summary": "Microsoft is reportedly boosting AI investment by laying off thousands of employees in order to increase funding for AI projects.",
-      "source": "Android Headlines",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:38:47Z",
-      "url": "https://www.androidheadlines.com/2025/07/microsoft-boosting-ai-investment-laying-off-thousands.html"
-    },
-    {
-      "id": 51,
-      "title": "20 Years Ago, One of the Biggest Box Office Flops Ever Was Released. You've Probably Never Heard of It",
-      "summary": "20 Years Ago, One of the Biggest Box Office Flops Ever Was Released. You've Probably Never Heard of It - There's something oddly satisfying about a good old-fashioned Hollywood flop",
-      "source": "Pajiba.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T18:20:42Z",
-      "url": "https://www.pajiba.com/film_reviews/stealth-one-of-the-biggest-box-office-flops-youve-never-heard-of.php"
-    },
-    {
-      "id": 52,
-      "title": "Improvado: Unify 500+ Data Sources and Maximize Your ROAS with Automated Marketing Reporting",
-      "summary": "Improvado aims to help marketing teams unify over 500 data sources and automate marketing reporting to maximize Return on Ad Spend (ROAS). This solution addresses the challenge of fragmented data, inconsistent reports, and delayed decision-making in marketing.",
-      "source": "Martech.zone",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:19:41Z",
-      "url": "https://martech.zone/improvado-unify-and-harmonize-data/"
-    },
-    {
-      "id": 53,
-      "title": "ANN/Oshkosh Sponsor, Gleim Aviation, Is Ready To Teach You A Thing Or Two...",
-      "summary": "Gleim Aviation, industry leader in aviation training materials, will be offering education at the Oshkosh Sponsor booth. Founded in 1980 by Dr. Irvin N. Gleim, the company aims to provide training for aviation enthusiasts.",
-      "source": "Aero-news.net",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:19:16Z",
-      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=9745A7F2-DDC3-40B3-8C28-D875978DE7CB"
-    },
-    {
-      "id": 54,
-      "title": "Airborne 07.21.25: Nighthawk!, Hartzell Expands, Deltahawk 350HP!",
-      "summary": "EAA is excited about the future of AI, especially with the potential of a MOSAIC announcement within days. Additionally, Hartzell Expands and Deltahawk introduces a 350HP engine.",
-      "source": "Aero-news.net",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:18:15Z",
-      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=E851E944-B57A-4173-957C-015F4E0117B2"
-    },
-    {
-      "id": 55,
-      "title": "Colbert Unchained: Trump's Epstein Coverup Fails As House Subpoenas Files | DOJ Meets Ghislaine Maxwell | Can't Stop AI",
-      "summary": "President Trump denies involvement in Epstein files, House subpoenas files, Justice Department meets with Ghislaine Maxwell, and government continues investigation.",
-      "source": "Littlegreenfootballs.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T18:18:05Z",
-      "url": "https://littlegreenfootballs.com/article/54785_Colbert_Unchained-_Trumps_Epst"
-    },
-    {
-      "id": 56,
-      "title": "Spear AI raises first round of funding to apply AI to submarine data",
-      "summary": "Spear AI raises first round of funding to apply AI to submarine data.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-25T18:17:28Z",
-      "url": "https://finance.yahoo.com/news/spear-ai-raises-first-round-181728507.html"
-    },
-    {
-      "id": 57,
-      "title": "AWS and Idaho National Lab to collaborate on AI for nuclear energy",
-      "summary": "AWS and Idaho National Lab are teaming up to utilize AI for nuclear energy, with the goal of researching and scaling modular nuclear reactors to power data centers.",
-      "source": "Nextgov",
-      "category": "research",
-      "timestamp": "2025-07-25T18:17:00Z",
-      "url": "https://www.nextgov.com/artificial-intelligence/2025/07/aws-and-idaho-national-lab-collaborate-ai-nuclear-energy/406996/"
-    },
-    {
-      "id": 58,
-      "title": "OpenAI chairman says training your own AI model is a good way to 'destroy your capital'",
-      "summary": "OpenAI chairman warns that training your own AI model can be costly and may not be worth the investment due to high capital costs.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:15:16Z",
-      "url": "https://www.businessinsider.com/openai-chairman-bret-taylor-ai-model-costs-destroy-capital-2025-7"
-    },
-    {
-      "id": 59,
-      "title": "LLM Inference Benchmarking: How Much Does Your LLM Inference Cost?",
-      "summary": "LLM Inference Benchmarking: How Much Does Your LLM Inference Cost? - This is the fourth post in the large language model latency-throughput benchmarking series, which aims to instruct developers on how to determine the cost of...",
-      "source": "Nvidia.com",
-      "category": "research",
-      "timestamp": "2025-07-25T18:15:10Z",
-      "url": "https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/"
-    },
-    {
-      "id": 60,
-      "title": "This Week in AI: President Trump Releases AI Action Plan; Delta Tests Personalized Pricing",
-      "summary": "The White House released a policy roadmap outlining President Trump's strategy to maintain U.S. leadership in AI, emphasizing deregulation, infrastructure development, export controls, and freedom.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T18:14:59Z",
-      "url": "https://biztoc.com/x/4dc4c38c6bc747a7"
-    },
-    {
-      "id": 61,
-      "title": "Rewriting The Narrative Of Hurricane Katrina",
-      "summary": "A new Nat Geo docuseries uses tech and survivor testimony to reframe Hurricane Katrina as a preventable digital-age failure, not just a natural disaster.",
-      "source": "Forbes",
-      "category": "applications",
-      "timestamp": "2025-07-25T18:14:54Z",
-      "url": "https://www.forbes.com/sites/tonybradley/2025/07/25/rewriting-the-narrative-of-hurricane-katrina/"
     }
   ]
 }
