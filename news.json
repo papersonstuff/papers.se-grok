@@ -1,6 +1,96 @@
 {
-  "lastUpdate": "2025-07-26T15:36:34.345Z",
+  "lastUpdate": "2025-07-26T15:53:22.780Z",
   "items": [
+    {
+      "id": 51,
+      "title": "King Gizzard & The Lizard Wizard Become Latest Act to Pull Music from Spotify",
+      "summary": "King Gizzard & The Lizard Wizard have pulled their music from Spotify due to the streaming platform's CEO's military investments, following Deerhoof and Xiu Xiu in taking a stand against this issue.",
+      "source": "The Quietus",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:52:00Z",
+      "url": "https://thequietus.com/news/king-gizzard-the-lizard-wizard-become-latest-act-to-pull-music-from-spotify/"
+    },
+    {
+      "id": 52,
+      "title": "What Is The 'Ok Garmin, Video Speichern' Meme? The Meaning Of TikTok's Viral 'Jarvis Commands' Dashcam Memes Explained",
+      "summary": "A German dashcam video of a driver's near-accident has become a massive meme on TikTok after being combined with the 'Jarvis Commands' meme, showcasing the entertainment and creative potential of AI-related content on social media.",
+      "source": "Knowyourmeme.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:51:56Z",
+      "url": "https://knowyourmeme.com/editorials/guides/what-is-the-ok-garmin-video-speichern-meme-the-meaning-of-tiktoks-viral-jarvis-commands-dashcam-memes-explained"
+    },
+    {
+      "id": 53,
+      "title": "Deals: Galaxy Buds 3 Pro up to $150 off, Samsung 3-in-1 Magnetic Charger station $50 off, BOOX Android e-reader, more",
+      "summary": "Deep discounts on Galaxy Buds 3 Pro and Samsung 3-in-1 Magnetic Charger station, among other deals, are being offered, including certified refurbished options from Best Buy.",
+      "source": "9to5google.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:51:25Z",
+      "url": "http://9to5google.com/2025/07/25/deals-galaxy-buds-3-pro-samsung-3-in-1-magnetic-charger/"
+    },
+    {
+      "id": 54,
+      "title": "The Secret AI Powerhouse Winning Big In Defense And Beyond",
+      "summary": "Palantir Technologies Inc., a rising AI powerhouse, is making waves in the defense industry and beyond after overcoming doubt and skepticism.",
+      "source": "Yahoo Entertainment",
+      "category": "startups",
+      "timestamp": "2025-07-25T15:50:13Z",
+      "url": "https://finance.yahoo.com/news/secret-ai-powerhouse-winning-big-155013309.html"
+    },
+    {
+      "id": 55,
+      "title": "Intel’s Steady Decline Continues With 15% Cut to Staff and Scrapped Factory Plans",
+      "summary": "Intel is facing a decline with a 15% staff cut and cancelled factory plans, reflecting challenges in staying competitive in the AI era.",
+      "source": "Gizmodo.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:50:10Z",
+      "url": "https://gizmodo.com/intels-steady-decline-continues-with-15-cut-to-staff-and-scrapped-factory-plans-2000634458"
+    },
+    {
+      "id": 56,
+      "title": "'Disabling' Chronic Illness in Children Not Taken Seriously: Experts",
+      "summary": "A new study by Rutgers University has highlighted that a significant number of young children are experiencing ongoing symptoms after COVID-19 infection, signifying that greater research needs to be poured into understanding and addressing chronic illness in children.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T15:49:58Z",
+      "url": "https://biztoc.com/x/6286cecacb95cf9a"
+    },
+    {
+      "id": 57,
+      "title": "Kristin Cabot Pictured for First Time Since Kiss Cam, Without Wedding Ring",
+      "summary": "Kristin Cabot, who was caught on the Coldplay kiss cam with CEO Andy Byron, has been pictured without her wedding ring, sparking speculation about her relationship status. The voice in the photo is AI-generated, which raises concerns about the potential for misinformation and inconsistencies in media.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:49:52Z",
+      "url": "https://biztoc.com/x/1d946ee4abf60412"
+    },
+    {
+      "id": 58,
+      "title": "'The Fantastic Four' Smashes 'Superman' Box Office Record",
+      "summary": "'The Fantastic Four' has smashed the box office record previously held by 'Superman', indicating a strong performance for Marvel's First Family. This demonstrates the economic impact and success of AI-generated content in the entertainment industry.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:49:44Z",
+      "url": "https://biztoc.com/x/29ad7a87813b08e2"
+    },
+    {
+      "id": 59,
+      "title": "Apple's Lack Of Clear AI Strategy A Warning Flag, Analyst Says",
+      "summary": "Apple's lack of clear AI strategy is seen as a warning flag by a Wall Street analyst, urging caution on Apple stock.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:49:39Z",
+      "url": "https://biztoc.com/x/06103c91d520b890"
+    },
+    {
+      "id": 60,
+      "title": "The Lasting Impact Of Daniel Dennett In Philosophy And Leadership",
+      "summary": "The Lasting Impact Of Daniel Dennett showcases how Dennett’s philosophical strategies can be directly translated to successful leadership tactics.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:47:52Z",
+      "url": "https://www.forbes.com/sites/teddymcdarrah/2025/07/25/the-lasting-impact-of-daniel-dennett-in-philosophy-and-leadership/"
+    },
     {
       "id": 51,
       "title": "Your Mac just got smarter: OpenAI has added ChatGPT Agent to its Mac app",
@@ -360,96 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-25T14:49:42Z",
       "url": "https://www.zdnet.com/article/trumps-ai-plan-says-a-lot-about-open-source-but-heres-what-it-leaves-out/"
-    },
-    {
-      "id": 58,
-      "title": "Selected Articles: A Warning from History: Goethe and the Folly of German Militarism",
-      "summary": "The article discusses the warning against militarism in Germany based on historical events, with a focus on a statement made by the German Chancellor. ",
-      "source": "Globalresearch.ca",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:49:39Z",
-      "url": "https://www.globalresearch.ca/selected-articles-history-goethe-folly-german-militarism/5896025"
-    },
-    {
-      "id": 59,
-      "title": "Underground China repair shops thrive servicing illicit Nvidia GPUs banned by export restrictions — companies resurrecting banned AI accelerators at a rate of up to '500 per month'",
-      "summary": "Underground repair shops in China are servicing banned Nvidia GPUs used for AI accelerators, with up to 500 units being resurrected per month due to limited supply and profitability factors.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:49:33Z",
-      "url": "https://www.tomshardware.com/pc-components/gpus/underground-china-repair-shops-thrive-servicing-illicit-nvidia-gpus-banned-by-export-restrictions-companies-resurrecting-banned-ai-accelerators-at-a-rate-of-up-to-500-per-month"
-    },
-    {
-      "id": 60,
-      "title": "YouTube XRP Scams On The Rise After Record-Breaking Price Rally, Ripple CEO Warns",
-      "summary": "Ripple's CEO warns against the increase in XRP scams on YouTube following a surge in the cryptocurrency's price.",
-      "source": "ZyCrypto",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:49:07Z",
-      "url": "https://zycrypto.com/youtube-xrp-scams-on-the-rise-after-record-breaking-price-rally-ripple-ceo-warns/"
-    },
-    {
-      "id": 61,
-      "title": "Badger Meter (BMI): An Under-the-Radar Dividend Stock Worth Watching",
-      "summary": "Badger Meter, Inc. (NYSE:BMI) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
-      "source": "Yahoo Entertainment",
-      "category": "startups",
-      "timestamp": "2025-07-25T14:48:50Z",
-      "url": "https://finance.yahoo.com/news/badger-meter-bmi-under-radar-144850804.html"
-    },
-    {
-      "id": 62,
-      "title": "Flashback: 7 Media Mouthpieces Who Repeated The Lie That Russia ‘Hacked’ The 2016 Election",
-      "summary": "Legacy media outlets continue to push the false narrative that Russia 'hacked' the 2016 election despite evidence to the contrary, raising ethical concerns about the dissemination of misinformation to the public.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:47:13Z",
-      "url": "https://freerepublic.com/focus/f-news/4330705/posts"
-    },
-    {
-      "id": 63,
-      "title": "How Rich Are You? This Is The Net Worth It Takes To Join The Top 2% Of Households",
-      "summary": "A discussion on the net worth required to join the top 2% of households and ways individuals can work towards achieving financial success.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:46:05Z",
-      "url": "https://finance.yahoo.com/news/rich-net-worth-takes-join-144605754.html"
-    },
-    {
-      "id": 64,
-      "title": "Steady Dividends from RPM International (RPM): What You Should Know",
-      "summary": "RPM International Inc. (NYSE:RPM) was recently included on our list of Dividend Champion vs Aristocrats: 12 Under the Radar Stocks to Buy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:46:02Z",
-      "url": "https://finance.yahoo.com/news/steady-dividends-rpm-international-rpm-144602880.html"
-    },
-    {
-      "id": 65,
-      "title": "Step Into the Dark World of Film Noir with 60 Free Movies",
-      "summary": "Step Into the Dark World of Film Noir with 60 Free Movies - Film noir classics from the 1940s and '50s are now available for free, allowing viewers to explore the vintage genre's moody Hollywood films.",
-      "source": "My Modern Met",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:45:32Z",
-      "url": "https://mymodernmet.com/free-movies-film-noir/"
-    },
-    {
-      "id": 66,
-      "title": "Show HN: I missed a $2M deal due to bad notes, so I built this",
-      "summary": "Last year, a missed $2M deal due to bad notes led to the creation of a tool to improve client meetings. The founder missed key technical requirements in a crucial client meeting, leading the client to choose a competitor.",
-      "source": "Apple Newsroom",
-      "category": "startups",
-      "timestamp": "2025-07-25T14:45:25Z",
-      "url": "https://apps.apple.com/hu/app/saynote-ai-note-taker/id6748271929"
-    },
-    {
-      "id": 51,
-      "title": "Breaking down Trump’s big gift to the AI industry",
-      "summary": "President Trump's plan to promote America's AI dominance includes discouraging 'woke AI,' cutting regulations, and accelerating AI development and adoption.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:35:40Z",
-      "url": "https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer"
     }
   ]
 }
