@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T15:15:17.473Z",
+  "lastUpdate": "2025-07-26T15:36:34.345Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Your Mac just got smarter: OpenAI has added ChatGPT Agent to its Mac app",
+      "summary": "OpenAI has added ChatGPT Agent to its Mac app, bringing agentic AI to Apple laptop and desktop users.",
+      "source": "TechRadar",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:34:13Z",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/your-mac-just-got-smarter-openai-has-added-chatgpt-agent-to-its-mac-app"
+    },
+    {
+      "id": 52,
+      "title": "Beyond the Hype: The Real State of AI in Business",
+      "summary": "AI innovation is advancing rapidly, but many organizations are struggling to keep pace with the changes. The real challenge lies in companies adapting to the technology rather than the technology itself.",
+      "source": "Briansolis.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:34:08Z",
+      "url": "https://briansolis.com/2025/07/beyond-the-hype-the-real-state-of-ai-in-business/"
+    },
+    {
+      "id": 53,
+      "title": "Vibe Coding Turned This Swedish AI Unicorn Into The Fastest Growing Software Startup Ever",
+      "summary": "Stockholm-based Lovable has hit over $100 million in annualized revenue in just eight months by using AI to enable millions of",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T15:34:07Z",
+      "url": "https://biztoc.com/x/768f1992ae1bbde2"
+    },
+    {
+      "id": 54,
+      "title": "Walmart bets big on AI with ‘super agent’ strategy",
+      "summary": "Walmart is focusing on AI with a 'super agent' strategy to centralize capabilities and avoid fragmentation, with 900,000 associates already using the technology.",
+      "source": "Retail Dive",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:33:00Z",
+      "url": "https://www.retaildive.com/news/walmart-artificial-intelligence-ai-super-agents-retail-associates/753996/"
+    },
+    {
+      "id": 55,
+      "title": "Commvault Announces Intent to Acquire Data and AI Security Company Satori Cyber",
+      "summary": "Commvault intends to acquire data and AI security company Satori Cyber, in response to the growing need for AI security in enterprises.",
+      "source": "Vmblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:33:00Z",
+      "url": "https://vmblog.com:443/archive/2025/07/25/commvault-announces-intent-to-acquire-data-and-ai-security-company-satori-cyber.aspx"
+    },
+    {
+      "id": 56,
+      "title": "Score the Roborock Qrevo Edge for less than ever and say goodbye to dirty floors",
+      "summary": "Score the Roborock Qrevo Edge for less than ever and say goodbye to dirty floors - The Roborock Qrevo Edge just dropped to its record-low price point once more",
+      "source": "Android Police",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:32:45Z",
+      "url": "https://www.androidpolice.com/roborock-qrevo-edge-at-1100-on-amazon/"
+    },
+    {
+      "id": 57,
+      "title": "This free VS Code extension uses your locally hosted LLM to help you code",
+      "summary": "This free VS Code extension uses your locally hosted LLM to help you code.",
+      "source": "XDA Developers",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:32:33Z",
+      "url": "https://www.xda-developers.com/this-free-vs-code-extension-uses-locally-hosted-llm-to-help-code/"
+    },
+    {
+      "id": 58,
+      "title": "Stephen Meyer is the guy in the red sweater",
+      "summary": "Stephen Meyer is criticized for coming off as smug and uninformed in his discussion of AI, with the comparison made to creationists.",
+      "source": "Freethoughtblogs.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:32:23Z",
+      "url": "https://freethoughtblogs.com/pharyngula/2025/07/25/stephen-meyer-is-the-guy-in-the-red-sweater/"
+    },
+    {
+      "id": 59,
+      "title": "Smart Speakers Like Alexa and Google Assistant Could Tell if You Have Parkinson's",
+      "summary": "Smart speakers like Alexa and Google Assistant could potentially diagnose people with Parkinson's disease with users' consent.",
+      "source": "Newsweek",
+      "category": "research",
+      "timestamp": "2025-07-25T15:31:00Z",
+      "url": "https://www.newsweek.com/ai-parkinsons-disease-screening-amazon-alexa-google-assistant-2104077"
+    },
+    {
+      "id": 60,
+      "title": "This Week in Open Source #5",
+      "summary": "This Week in Open Source #5 featured articles on dead code, open source licenses, a new federated key service, and more.",
+      "source": "Googleblog.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T15:30:00Z",
+      "url": "https://opensource.googleblog.com/2025/07/this-week-in-open-source-5.html"
+    },
+    {
+      "id": 61,
+      "title": "Turn your weirdest ideas into actual art with Imagiyo",
+      "summary": "Imagiyo is an AI-powered image generator that allows users to turn their ideas into commercial-use images without watermarks.",
+      "source": "New York Post",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:30:00Z",
+      "url": "https://nypost.com/2025/07/25/shopping/imagiyo-ai-image-generator-lifetime-subscription-standard-plan-is-90-off/"
+    },
+    {
+      "id": 62,
+      "title": "7 Wuthering Waves Lore Details You Probably Missed",
+      "summary": "Wuthering Waves has a lot of overlooked lore details due to the numerous characters and factions in the plot. It is easy to miss or misunderstand many of these intricate elements.",
+      "source": "ComicBook.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:29:44Z",
+      "url": "http://comicbook.com/gaming/news/wuthering-waves-lore-story-details-you-missed/"
+    },
+    {
+      "id": 63,
+      "title": "As Private Equity Comes for the Utility Sector, Minnesota Is a Test Case",
+      "summary": "An administrative law judge has issued a report siding with opponents of BlackRock’s acquisition of an electric utility in Minnesota, highlighting ethical concerns regarding private equity involvement in the utility sector.",
+      "source": "Truthout",
+      "category": "ethics",
+      "timestamp": "2025-07-25T15:28:40Z",
+      "url": "https://truthout.org/articles/as-private-equity-comes-for-the-utility-sector-minnesota-is-a-test-case/"
+    },
+    {
+      "id": 64,
+      "title": "Show HN: Narev – Open-Source FinOps for AI and Cloud Spend",
+      "summary": "Narev is an open-source FinOps tool that unifies SaaS billing data from cloud providers like AWS, Azure, GCP, and OpenAI, using FOCUS 1.2 from the FinOps Foundation. It ingests billing data, normalizes it, and provides a single dashboard for users to manage their AI and cloud spend.",
+      "source": "Github.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:28:24Z",
+      "url": "https://github.com/narevai/narev"
+    },
+    {
+      "id": 65,
+      "title": "Cat Caught Comforting Senior Dog Scared of Thunder Melts Hearts",
+      "summary": "A heartwarming video on TikTok shows a black cat comforting a scared senior dog during a thunderstorm, generating emotional reactions among viewers. The AI-generated voice used in the video may have inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:27:50Z",
+      "url": "https://biztoc.com/x/a790b8cdf12c8a08"
+    },
+    {
+      "id": 66,
+      "title": "Americans Advised To Avoid the Sun in 16 States",
+      "summary": "Americans advised to avoid the sun in 16 states due to heightened UV radiation levels, with voice AI-generated forecasts.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T15:27:49Z",
+      "url": "https://biztoc.com/x/8b5a8a618379ec79"
+    },
+    {
+      "id": 67,
+      "title": "Map Shows Cities With the Best Job Markets",
+      "summary": "Today's job market is rife with economic uncertainty, AI disruption and widespread layoffs from government agencies to tech giants. However, where you live can play a major role in the job market you are navigating.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T15:27:29Z",
+      "url": "https://biztoc.com/x/4c9091892bca655c"
+    },
     {
       "id": 51,
       "title": "aait 2.0.2.2",
@@ -297,159 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T14:35:40Z",
       "url": "https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer"
-    },
-    {
-      "id": 52,
-      "title": "Your MacBook is getting a major upgrade for free - 5 MacOS 26 features I'm trying right now",
-      "summary": "Your MacBook is getting a major upgrade with the MacOS Tahoe beta, which is now available to the public. The update includes 5 new features to test out for free.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:34:00Z",
-      "url": "https://www.zdnet.com/article/your-macbook-is-getting-a-major-upgrade-for-free-5-macos-26-features-im-trying-right-now/"
-    },
-    {
-      "id": 53,
-      "title": "Trump Lost the Trump Tapes Ruling, But Could He Still Prevail? (Guest Blog Post)",
-      "summary": "The Trump Tapes suit has been dismissed but may still potentially be amended for a third time. This raises questions about the ethical considerations of pursuing legal action in this case.",
-      "source": "Ericgoldman.org",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:33:56Z",
-      "url": "https://blog.ericgoldman.org/archives/2025/07/trump-lost-the-trump-tapes-ruling-but-could-he-still-prevail-guest-blog-post.htm"
-    },
-    {
-      "id": 54,
-      "title": "Meta to pull political ads in EU in response to new disinformation rules",
-      "summary": "Meta (Facebook and Instagram owner) to pull political ads in EU due to new disinformation rules, labeling them as 'unworkable' and attacking Brussels' transparency regulations.",
-      "source": "The Irish Times",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:33:15Z",
-      "url": "https://www.irishtimes.com/business/2025/07/25/meta-to-pull-political-ads-in-eu-in-response-to-new-disinformation-rules/"
-    },
-    {
-      "id": 55,
-      "title": "How To Scale Your Business Without Breaking It",
-      "summary": "Scaling fast can bankrupt companies and harm communities, slower growth is often a better path for most companies looking to scale their business without negative consequences.",
-      "source": "Forbes",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:33:04Z",
-      "url": "https://www.forbes.com/sites/timabansal/2025/07/25/how-to-scale-your-business-without-breaking-it/"
-    },
-    {
-      "id": 56,
-      "title": "ArcLight plans $5bn investment in North American power infrastructure",
-      "summary": "ArcLight plans $5bn investment in North American power infrastructure to support the development of over 20GW of new power capacity.",
-      "source": "Power Technology",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:33:03Z",
-      "url": "https://www.power-technology.com/news/arclight-5bn-investment-power-infrastructure/"
-    },
-    {
-      "id": 57,
-      "title": "Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’",
-      "summary": "Microsoft’s AI CEO envisions Copilot as being so highly personalized that it will 'age' and 'have a room that it lives in'.",
-      "source": "The Verge",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:31:37Z",
-      "url": "https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview"
-    },
-    {
-      "id": 58,
-      "title": "Puppies Adopted From Shelter—One Returned. 424 Days Later He's Still There",
-      "summary": "Puppies Adopted From Shelter—One Returned. 424 Days Later He's Still There - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:31:33Z",
-      "url": "https://biztoc.com/x/09a6959b3fa149ef"
-    },
-    {
-      "id": 59,
-      "title": "Podcast links: the state of fertility science",
-      "summary": "A potential ethical concern arises as Spotify may be publishing AI-generated songs from deceased artists without permission.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:31:30Z",
-      "url": "https://biztoc.com/x/2ae3e80134a7cd8a"
-    },
-    {
-      "id": 60,
-      "title": "AI: Over-Promise + Under-Perform = Disillusionment And Blowback",
-      "summary": "AI's over-promising and under-performing leading to disillusionment and blowback.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T14:31:30Z",
-      "url": "https://biztoc.com/x/b6867ff9083c4316"
-    },
-    {
-      "id": 61,
-      "title": "Reolink Home Hub Pro: All-in-One Control & 2TB Storage Capacity for All Reolink Cams",
-      "summary": "Reolink Home Hub Pro offers all-in-one control and 2TB storage capacity for all Reolink cameras, providing a hub for managing home security systems with privacy and peace of mind.",
-      "source": "Gadget Flow",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:30:59Z",
-      "url": "https://thegadgetflow.com/product/reolink-home-hub-pro/"
-    },
-    {
-      "id": 62,
-      "title": "Fresher hiring targets set, but overall IT recruitment stays restrained",
-      "summary": "India's IT firms cautiously prioritize cost efficiency, upskilling, and selective fresher hiring to navigate the restrained hiring landscape in FY26.",
-      "source": "BusinessLine",
-      "category": "economy",
-      "timestamp": "2025-07-25T14:30:38Z",
-      "url": "https://www.thehindubusinessline.com/companies/fresher-hiring-targets-set-but-overall-it-recruitment-stays-restrained/article69855272.ece"
-    },
-    {
-      "id": 63,
-      "title": "10 Things I Wish I Knew Before Vibe Coding",
-      "summary": "A developer shares their experience with vibe coding while trying to build basic B2B apps using platforms like Loveable, Replit, and Bolt.new.",
-      "source": "Saastr.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:30:19Z",
-      "url": "https://www.saastr.com/10-things-i-wish-i-knew-before-vibe-coding-the-real-talk/"
-    },
-    {
-      "id": 51,
-      "title": "ai-trackdown-pytools 1.3.1",
-      "summary": "ai-trackdown-pytools 1.3.1 provides modern Python CLI tools for AI project tracking and task management.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:13:10Z",
-      "url": "https://pypi.org/project/ai-trackdown-pytools/1.3.1/"
-    },
-    {
-      "id": 52,
-      "title": "Just When You Thought Air Travel Couldn’t Get Worse …",
-      "summary": "Delta is implementing individualized pricing using AI to increase profitability in air travel, with a pilot program currently using AI for 3% of fares showing positive results.",
-      "source": "Macsparky.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:11:00Z",
-      "url": "https://www.macsparky.com/blog/2025/07/just-when-you-thought-air-travel-couldnt-get-worse/"
-    },
-    {
-      "id": 53,
-      "title": "Anticipation Is the Real Power of Agentic AI in Customer Experience",
-      "summary": "Anticipation Is the Real Power of Agentic AI in Customer Experience - It’s not about replacing humans — it’s about empowering them to deliver empathy and solve complex problems.",
-      "source": "CMSWire",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:10:40Z",
-      "url": "https://www.cmswire.com/customer-experience/anticipation-is-the-real-power-of-agentic-ai-in-customer-experience/"
-    },
-    {
-      "id": 54,
-      "title": "ze-prompter 0.1.0",
-      "summary": "ze-prompter 0.1.0 is a library for managing prompt templates with versioning and AI models.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T14:10:17Z",
-      "url": "https://pypi.org/project/ze-prompter/0.1.0/"
-    },
-    {
-      "id": 55,
-      "title": "Highland Calf Kissing Golden Retriever Melts Hearts As Pair Make Friends",
-      "summary": "A viral Instagram video of an unlikely friendship between a puppy and a Highland calf has captured the internet's heart. The clip, shared to @rosiesgoldenscotland, has now racked up more than 6.5 million views.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T14:10:00Z",
-      "url": "https://biztoc.com/x/b56d814840abf7b2"
     }
   ]
 }
