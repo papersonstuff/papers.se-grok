@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-07-26T07:32:59.575Z",
+  "lastUpdate": "2025-07-26T07:49:13.115Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ChatGPT Booked My Hotel While I Made My Coffee",
+      "summary": "ChatGPT, an autonomous AI system, made a hotel reservation on behalf of a user by parsing ambiguous input and retaining contextual preferences.",
+      "source": "Hospitality Net",
+      "category": "applications",
+      "timestamp": "2025-07-25T07:45:17Z",
+      "url": "https://www.hospitalitynet.org/opinion/4128296.html"
+    },
+    {
+      "id": 52,
+      "title": "SK Hynix accelerates investment for 2025 HBM boom as Samsung targets Nvidia certification in third quarter",
+      "summary": "SK Hynix accelerates investment for 2025 HBM boom as Samsung targets Nvidia certification in third quarter, driving demand for high-bandwidth memory (HBM) in AI servers. HBM market leader SK Hynix and Micron show strong operational results, while Samsung Electronics' HBM3E continues to strive for certification.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:41:31Z",
+      "url": "https://www.digitimes.com/news/a20250725PD212/sk-hynix-samsung-hbm-asic-2025.html"
+    },
+    {
+      "id": 53,
+      "title": "Metaverse Stocks To Follow Now – July 23rd",
+      "summary": "NVIDIA, Accenture, and Globant are the three Metaverse stocks to watch today, according to MarketBeat’s stock screener tool.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:40:51Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/metaverse-stocks-to-follow-now-july-23rd/"
+    },
+    {
+      "id": 54,
+      "title": "Best Telecom Stocks To Research – July 23rd",
+      "summary": "Broadcom, AT&T, ServiceNow, Arista Networks, Huntington Bancshares, Palo Alto Networks, and Corning are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that build, maintain and operate telecommunications networks.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:40:48Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/best-telecom-stocks-to-research-july-23rd/"
+    },
+    {
+      "id": 55,
+      "title": "Nifty 50 underperforms global peers in 2025 as high valuations weigh",
+      "summary": "Nifty 50 underperforms global peers in 2025 as high valuations weigh - The high valuation of Indian stocks appears to be weighing on them. With price-earnings multiple of 24.6 and price-to-book ratio at 5.3, Nifty 50 is the most expensive after the S&P 500",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:39:31Z",
+      "url": "https://www.thehindubusinessline.com/data-stories/nifty-50-underperforms-global-peers-in-2025-as-high-valuations-weigh/article69853888.ece"
+    },
+    {
+      "id": 56,
+      "title": "(PR) QNAP Officially Launches Dual-NAS High Availability Solution for Continuous Business Operations",
+      "summary": "QNAP Systems, Inc. officially launches a Dual-NAS High Availability Solution to provide businesses with uninterrupted access to critical data and services.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:38:15Z",
+      "url": "https://www.techpowerup.com/339273/qnap-officially-launches-dual-nas-high-availability-solution-for-continuous-business-operations"
+    },
+    {
+      "id": 57,
+      "title": "Head to Head Comparison: Linkers Industries (NASDAQ:LNKS) and Aeluma (NASDAQ:ALMU)",
+      "summary": "Linkers Industries and Aeluma, both small-cap manufacturing companies, are compared based on dividends and analyst recommendations.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T07:35:10Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/head-to-head-comparison-linkers-industries-nasdaqlnks-and-aeluma-nasdaqalmu/"
+    },
+    {
+      "id": 58,
+      "title": "Samsung launches Z Flip 7, Flip 7 FE, Fold 7, and Watch 8 in 49 countries globally",
+      "summary": "Samsung launches Z Flip 7, Flip 7 FE, Fold 7, and Watch 8 in 49 countries globally, expanding its range of foldable phones and smartwatches.",
+      "source": "SamMobile",
+      "category": "innovation",
+      "timestamp": "2025-07-25T07:33:35Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-watch-owners-read-this-before-trusting-the-spo2-panel/"
+    },
+    {
+      "id": 59,
+      "title": "Bitcoin Swift Presale Enters Final 24 Hours of Stage 1 with Token Fixed at $1",
+      "summary": "Bitcoin Swift presale is in its final 24 hours of Stage 1, with the token fixed at $1. Stage 2 will introduce a price increase and APY adjustment as the project prepares for Solana deployment and AI-driven governance rollout.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-25T07:33:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121622/0/en/Bitcoin-Swift-Presale-Enters-Final-24-Hours-of-Stage-1-with-Token-Fixed-at-1.html"
+    },
     {
       "id": 51,
       "title": "Here's a case for why AI should pay for the environmental damage it causes",
@@ -369,87 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T06:48:48Z",
       "url": "https://www.madshrimps.be/news/ios-26-beta-preview-liquid-glass-is-better-than-you-think/"
-    },
-    {
-      "id": 55,
-      "title": "Recommendations for future AI growth: from exponential to linear, with economic anchors",
-      "summary": "Recommendations for future AI growth suggest a shift from exponential to linear progress with economic anchors.",
-      "source": "Lesswrong.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:47:07Z",
-      "url": "https://www.lesswrong.com/posts/hBakE2u89qmdhyWPi/recommendations-for-future-ai-growth-from-exponential-to"
-    },
-    {
-      "id": 56,
-      "title": "【悲報】AI動画がもう本物と見分けがつかない模様ｗｗｗｗｗｗｗｗｗｗｗ",
-      "summary": "AI-generated videos are becoming so realistic that it is difficult to distinguish them from real videos. This advancement in AI technology raises concerns about the potential misuse or manipulation of such videos in various applications.",
-      "source": "Himasoku.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T06:45:22Z",
-      "url": "http://himasoku.com/archives/52290126.html"
-    },
-    {
-      "id": 57,
-      "title": "OptimizeRx Corp. (NASDAQ:OPRX) Receives $10.81 Average PT from Analysts",
-      "summary": "OptimizeRx Corp. (NASDAQ:OPRX) has received an average price target of $10.81 from analysts, with a consensus rating of 'Moderate Buy'. Three investment analysts have rated the stock as a hold.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-25T06:44:43Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/optimizerx-corp-nasdaqoprx-receives-10-81-average-pt-from-analysts/"
-    },
-    {
-      "id": 58,
-      "title": "CoWorker、東京電機大学 CySec（国際化サイバーセキュリティ学特別コース）にて特別講演を実施",
-      "summary": "CoWorker conducted a special lecture at Tokyo Denki University CySec on international cyber security education program.",
-      "source": "Prtimes.jp",
-      "category": "research",
-      "timestamp": "2025-07-25T06:43:53Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000002.000156001.html"
-    },
-    {
-      "id": 59,
-      "title": "Who is Phoebe Gates' boyfriend, Arthur Donald? Grandson of legend Paul McCartney; his net worth revealed",
-      "summary": "Phoebe Gates, daughter of Bill Gates, is in a relationship with Arthur Donald, grandson of Paul McCartney. Arthur works at Iconiq Capital and Phoebe co-founded Phia. The couple's relationship was made public in late 2023.",
-      "source": "The Times of India",
-      "category": "startups",
-      "timestamp": "2025-07-25T06:43:42Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-phoebe-gates-boyfriend-arthur-donald-grandson-of-legend-paul-mccartney-his-net-worth-revealed/articleshow/122897927.cms"
-    },
-    {
-      "id": 60,
-      "title": "Trump once eyed Nvidia breakup; chip industry says Intel is the one that needs intervention",
-      "summary": "Trump considered breaking up Nvidia to spur competition in AI chip sector, but later abandoned the idea after realizing Intel was the one that needed intervention according to chip industry experts.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-25T06:43:10Z",
-      "url": "https://www.digitimes.com/news/a20250725PD213/nvidia-donald-trump-intel-government-competition.html"
-    },
-    {
-      "id": 61,
-      "title": "Comcast’s cable spin-off Versant sets up inaugural board of directors",
-      "summary": "Comcast's cable spin-off Versant has set up its inaugural board of directors, including prospective CEO Mark Lazarus and former Disney exec Rebecca Campbell.",
-      "source": "C21media.net",
-      "category": "startups",
-      "timestamp": "2025-07-25T06:41:41Z",
-      "url": "https://www.c21media.net/news/comcasts-cable-spin-off-versant-sets-up-inaugural-board-of-directors/"
-    },
-    {
-      "id": 62,
-      "title": "PartCrafter : Transform 2D Images into Stunning 3D Models (Local Install Guide)",
-      "summary": "PartCrafter allows users to transform 2D images into 3D models for 3D printing or digital design, eliminating the need for specialized skills and expensive software. The tool streamlines the process and opens up new possibilities for creating 3D models from simple images.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:38:18Z",
-      "url": "https://www.geeky-gadgets.com/convert-images-to-3d-models-partcrafter/"
-    },
-    {
-      "id": 63,
-      "title": "AR Rahman meets OpenAI’s Altman, Perplexity AI’s Arvind Srinivas for ‘Secret Mountain’ project",
-      "summary": "A.R. Rahman met with OpenAI's Altman and Perplexity AI's Srinivas to discuss empowering Indian creators with AI for his 'Secret Mountain' project, a virtual band project with diverse musical characters.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T06:36:35Z",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ar-rahman-meets-openais-altman-perplexity-ais-arvind-srinivas-for-secret-mountain-project/articleshow/122898216.cms"
     }
   ]
 }
