@@ -1,6 +1,168 @@
 {
-  "lastUpdate": "2025-07-26T11:13:26.713Z",
+  "lastUpdate": "2025-07-26T11:29:30.172Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Philips partners with Epic to integrate cardiac monitoring services",
+      "summary": "Philips partners with Epic to integrate cardiac monitoring services, expected to enhance interoperability between their technologies.",
+      "source": "Hospitalmanagement.net",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:29:06Z",
+      "url": "https://www.hospitalmanagement.net/news/philips-partners-with-epic/"
+    },
+    {
+      "id": 52,
+      "title": "Chungin Lee: Do you know why this 21-year-old Silicon Valley CEO was suspended by Columbia University?",
+      "summary": "Chungin “Roy” Lee, a 21-year-old suspended Columbia University student, is now the CEO of Cluely, a Silicon Valley AI startup redefining productivity norms by attracting $20.3 million in funding.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-25T11:27:29Z",
+      "url": "https://timesofindia.indiatimes.com/education/news/chungin-lee-do-you-know-why-this-21-year-old-silicon-valley-ceo-was-suspended-by-columbia-university/articleshow/122904601.cms"
+    },
+    {
+      "id": 53,
+      "title": "Should You Hold Atlassian Corporation (TEAM)?",
+      "summary": "Sands Capital released its Q2 2025 investor letter which discussed the outlook for Atlassian Corporation (TEAM) and other technology companies.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:26:07Z",
+      "url": "https://finance.yahoo.com/news/hold-atlassian-corporation-team-112607734.html"
+    },
+    {
+      "id": 54,
+      "title": "Trump's AI Action Plan boosts Asia data centers: New export rules under Trump's AI Action Plan support data center growth in Asia",
+      "summary": "Trump's AI Action Plan is expected to boost data center growth in Asia, with new export rules supporting the expansion. CEO of DayOne Data Centers Singapore believes this could serve as a catalyst for the industry across the region.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:24:37Z",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/trumps-ai-action-plan-boosts-asia-data-centers-new-export-rules-under-trumps-ai-action-plan-support-data-center-growth-in-asia/articleshow/122904560.cms"
+    },
+    {
+      "id": 55,
+      "title": "The Insurrectionists",
+      "summary": "A special edition of a weekend music show is planned to pay tribute to a great lyricist, following the conclusion of Tale for Our Time. Join tonight for the final chapter of Joseph Conrad's Heart of Darkness.",
+      "source": "Steynonline.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:24:16Z",
+      "url": "https://www.steynonline.com/15486/insurrectionists"
+    },
+    {
+      "id": 56,
+      "title": "Google is testing a vibe-coding app called Opal",
+      "summary": "Google is testing a new vibe-coding tool called Opal, available in the U.S. through Google Labs, that lets users quickly spin up web apps with just a few prompts.",
+      "source": "TechCrunch",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:22:51Z",
+      "url": "https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/"
+    },
+    {
+      "id": 57,
+      "title": "Here's What to Expect From Hormel Foods' Next Earnings Report",
+      "summary": "Hormel Foods is using AI-related tools in their next earnings report to analyze volatility, volume, open interest, and different strategies. Market Pulse resources include European futures, investing ideas, AI stocks, battery stocks, and biotechnology stocks.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:22:15Z",
+      "url": "https://biztoc.com/x/914b36d4f89f3505"
+    },
+    {
+      "id": 58,
+      "title": "HP 15.6-inch laptop is 20 percent off for students and everyday users",
+      "summary": "HP 15.6-inch laptop is on sale for students and everyday users, offering a $100 discount on a solid entry-level PC.",
+      "source": "Neowin",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:22:01Z",
+      "url": "https://www.neowin.net/deals/hp-156-inch-laptop-is-20-percent-off-for-students-and-everyday-users/"
+    },
+    {
+      "id": 59,
+      "title": "Google’s Sundar Pichai just became a billionaire—but could have been up an extra billion if he hadn’t sold stock",
+      "summary": "Google's Sundar Pichai becomes a billionaire with a net worth of $1.1 billion but could have had an extra billion if he hadn't sold stock.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:21:57Z",
+      "url": "https://biztoc.com/x/fcd40f12231e956a"
+    },
+    {
+      "id": 60,
+      "title": "Asia’s OSL Group raises $300M for stablecoin and global expansion",
+      "summary": "Asia's OSL Group raises $300M for stablecoin and global expansion with plans to expand stablecoin, payment services, and global digital asset operations.",
+      "source": "Cointelegraph",
+      "category": "startups",
+      "timestamp": "2025-07-25T11:20:56Z",
+      "url": "https://cointelegraph.com/news/osl-raises-300m-crypto-expansion-stablecoin-plans"
+    },
+    {
+      "id": 61,
+      "title": "Medici a Londra protestano per paghe e condizioni di lavoro",
+      "summary": "Resident doctors in London are striking over pay and work conditions, highlighting ethical concerns about healthcare worker treatment and compensation.",
+      "source": "ANSA.it",
+      "category": "ethics",
+      "timestamp": "2025-07-25T11:20:41Z",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2025/07/25/medici-a-londra-protestano-per-paghe-e-condizioni-di-lavoro_9a63644e-c3ce-4ab7-9287-fb2dfc87f75e.html"
+    },
+    {
+      "id": 62,
+      "title": "skypilot-nightly 1.0.0.dev20250725",
+      "summary": "skypilot-nightly 1.0.0.dev20250725 allows users to run AI on any infrastructure in a unified, faster, and cheaper way.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:16:36Z",
+      "url": "https://pypi.org/project/skypilot-nightly/1.0.0.dev20250725/"
+    },
+    {
+      "id": 63,
+      "title": "A R Rahman, OpenAI CEO Sam Altman join forces for AI project 'Secret Mountain'",
+      "summary": "A R Rahman and OpenAI CEO Sam Altman are collaborating on an AI project called 'Secret Mountain', described as a 'virtual global band' aiming to empower and uplift Indian minds using AI tools",
+      "source": "BusinessLine",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:15:54Z",
+      "url": "https://www.thehindubusinessline.com/info-tech/a-r-rahman-openai-ceo-sam-altman-join-forces-for-ai-project-secret-mountain/article69854527.ece"
+    },
+    {
+      "id": 64,
+      "title": "Amazon drops €300m investment on energy supply concerns",
+      "summary": "Amazon cancels €300m investment in Dublin due to concerns about power supply, impacting potential job creation.",
+      "source": "RTE",
+      "category": "economy",
+      "timestamp": "2025-07-25T11:15:46Z",
+      "url": "https://www.rte.ie/news/business/2025/0725/1525346-amazon-drops-500m-irish-investment/"
+    },
+    {
+      "id": 65,
+      "title": "How to implement security control rationalization",
+      "summary": "Security control rationalization helps CISOs reduce cybersecurity tool sprawl, cut spending and improve efficiency -- all without compromising protection.",
+      "source": "Techtarget.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:15:00Z",
+      "url": "https://www.techtarget.com/searchsecurity/tip/How-to-implement-security-control-rationalization"
+    },
+    {
+      "id": 66,
+      "title": "SuperDesign Open Source AI Design & Creativity Tool : Cursor for Design",
+      "summary": "SuperDesign is an open source AI design tool that allows users to create sleek user interfaces by simply typing a sentence. The tool can bring design concepts to life, including responsive layouts and polished aesthetics.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-25T11:14:03Z",
+      "url": "https://www.geeky-gadgets.com/superdesign-open-source-ai-design-agent/"
+    },
+    {
+      "id": 67,
+      "title": "kimi4free added to PyPI",
+      "summary": "kimi4free, a new addition to PyPI, allows users to access Kimi for free, including login features.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:13:54Z",
+      "url": "https://pypi.org/project/kimi4free/"
+    },
+    {
+      "id": 68,
+      "title": "torram 1.0.0",
+      "summary": "torram 1.0.0 offers essential Machine Learning tools for PyTorch.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T11:13:47Z",
+      "url": "https://pypi.org/project/torram/1.0.0/"
+    },
     {
       "id": 51,
       "title": "Google’s Sundar Pichai just became a billionaire—but could have been up an extra billion if he hadn’t sold stock",
@@ -288,168 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T10:38:03Z",
       "url": "https://biztoc.com/x/98009675186ccc4e"
-    },
-    {
-      "id": 59,
-      "title": "Some of Trump’s fiercest backers absolutely hate his Musk-friendly AI ‘action plan’",
-      "summary": "Some of Trump's supporters are unhappy with his AI 'action plan', which is causing divisions in MAGA world as they express concerns about an increasingly technocratic agenda.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:37:48Z",
-      "url": "https://biztoc.com/x/d1a2316b99a0026c"
-    },
-    {
-      "id": 60,
-      "title": "American, Delta Take Opposite Sides of AI Pricing Debate",
-      "summary": "American Airlines' CEO opposes using artificial intelligence for pricing tickets, citing concerns about a 'robot takeover'.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T10:37:45Z",
-      "url": "https://biztoc.com/x/9dba4b8e4443b45e"
-    },
-    {
-      "id": 61,
-      "title": "Bank Julius Baer & Co. Ltd Zurich Cuts Position in Samsara Inc. (NYSE:IOT)",
-      "summary": "Bank Julius Baer & Co. Ltd Zurich reduced its holdings in Samsara Inc. by 8.2% in the first quarter, according to a recent filing with the SEC.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:37:07Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/bank-julius-baer-co-ltd-zurich-cuts-position-in-samsara-inc-nyseiot/"
-    },
-    {
-      "id": 62,
-      "title": "Raja Koduri's mission to deliver high bandwidth memory for GPUs has taken a turn that could enable 4TB of VRAM on AI cards — joins Sandisk to advise on SSD tech that could feed AI accelerators",
-      "summary": "Raja Koduri joins Sandisk as an advisor to work on high bandwidth memory for GPUs, potentially enabling 4TB of VRAM on AI cards and advising on SSD tech for AI accelerators.",
-      "source": "Tom's Hardware UK",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:37:06Z",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/raja-koduris-mission-to-deliver-high-bandwidth-memory-for-gpus-has-taken-a-turn-that-could-enable-4tb-of-vram-on-ai-cards-joins-sandisk-to-advise-on-ssd-tech-that-could-feed-ai-accelerators"
-    },
-    {
-      "id": 63,
-      "title": "voicechatengine 0.0.3",
-      "summary": "voicechatengine 0.0.3 is a production-ready Python framework for building real-time AI voice chat applications with OpenAI's Realtime API.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:36:25Z",
-      "url": "https://pypi.org/project/voicechatengine/0.0.3/"
-    },
-    {
-      "id": 64,
-      "title": "Do Its Financials Have Any Role To Play In Driving Whitbread plc's (LON:WTB) Stock Up Recently?",
-      "summary": "Whitbread plc's stock has seen a 28% increase in the last three months, with speculation about the role of financials driving this growth.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:36:18Z",
-      "url": "https://finance.yahoo.com/news/financials-role-play-driving-whitbread-103618036.html"
-    },
-    {
-      "id": 65,
-      "title": "aider-code 0.1.1.post7",
-      "summary": "Aider-code 0.1.1.post7 by Devflux offers AI pair programming in the terminal.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:35:00Z",
-      "url": "https://pypi.org/project/aider-code/0.1.1.post7/"
-    },
-    {
-      "id": 66,
-      "title": "‘Halo’ Filmmaker Roel Reiné Wraps Production On Indie Flick ‘Love Hate Hunt Kill’",
-      "summary": "'Love Hate Hunt Kill' is a new indie feature film from filmmaker Roel Reiné that has completed principal photography. The film follows Luna on a romantic getaway with her fiancé, Dre.",
-      "source": "Deadline",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:34:45Z",
-      "url": "http://deadline.com/2025/07/roel-reine-love-hate-hunt-kill-1236468493/"
-    },
-    {
-      "id": 67,
-      "title": "genstack 0.1.9",
-      "summary": "Genstack 0.1.9 introduces a Universal AI SDK for developers, offering a comprehensive set of tools and resources for creating and deploying AI applications across different platforms.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:33:36Z",
-      "url": "https://pypi.org/project/genstack/0.1.9/"
-    },
-    {
-      "id": 51,
-      "title": "aider-code 0.1.1.post5",
-      "summary": "Aider-code 0.1.1.post5 is an AI tool for pair programming in the terminal, called Devflux Aider.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:15:18Z",
-      "url": "https://pypi.org/project/aider-code/0.1.1.post5/"
-    },
-    {
-      "id": 52,
-      "title": "Pony.ai Kicks Off 24/7 Robotaxi Service In Guangzhou And Shenzhen",
-      "summary": "Pony.ai has launched 24/7 Robotaxi operations in Guangzhou and Shenzhen, marking a significant expansion in service hours and a key milestone in the company's Chinese expansion.",
-      "source": "Biztoc.com",
-      "category": "startups",
-      "timestamp": "2025-07-25T10:15:11Z",
-      "url": "https://biztoc.com/x/246f868bf1822af4"
-    },
-    {
-      "id": 53,
-      "title": "Show HN: UniversalBit – A new binary protocol to connect voice, video and DNA",
-      "summary": "UniversalBit is a new binary protocol created by Diego Fernando Cruz from Brazil, aiming to connect voice, video, DNA, and more to machines.",
-      "source": "Github.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T10:14:33Z",
-      "url": "https://github.com/Diegocmx/voicebit"
-    },
-    {
-      "id": 54,
-      "title": "Best Presales & Coins to Watch in July – Grok AI Points to 3 High-Upside Tokens That Could Explode",
-      "summary": "Best Presales & Coins to Watch in July – Grok AI Points to 3 High-Upside Tokens That Could Explode - Grok, the AI bot on X, has been meme’d to death. But being integrated straight into X, arguably one of the biggest crypto hubs online, has also helped it develop a weird knack for spotting trends before they go mainstream.",
-      "source": "Bitcoinist",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:13:54Z",
-      "url": "https://bitcoinist.com/grok-top-crypto-picks-july-what-coins-about-to-explode/"
-    },
-    {
-      "id": 55,
-      "title": "Koske, a new AI-Generated Linux malware appears in the threat landscape",
-      "summary": "Koske, a new AI-Generated Linux malware designed for cryptomining, has been discovered in the threat landscape by Aquasec researchers.",
-      "source": "Securityaffairs.com",
-      "category": "research",
-      "timestamp": "2025-07-25T10:10:55Z",
-      "url": "https://securityaffairs.com/180355/malware/koske-a-new-ai-generated-linux-malware-appears-in-the-threat-landscape.html"
-    },
-    {
-      "id": 56,
-      "title": "Amazon Scraps €300 Million New Irish Plant in Blow to State",
-      "summary": "Amazon cancels plans for new plant in Ireland, potentially affected by Trump's tariffs, causing concern in the country.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:09:48Z",
-      "url": "https://financialpost.com/pmn/business-pmn/amazon-scraps-e300-million-new-irish-plant-in-blow-to-state"
-    },
-    {
-      "id": 57,
-      "title": "Intel Announces Mass Job Cuts, Sounds Alarm for Ohio",
-      "summary": "Intel announces mass job cuts in Ohio, citing the need to streamline the organization.",
-      "source": "Newsweek",
-      "category": "economy",
-      "timestamp": "2025-07-25T10:09:32Z",
-      "url": "https://www.newsweek.com/intel-mass-job-cuts-ohio-factory-alarm-2103923"
-    },
-    {
-      "id": 58,
-      "title": "datamaster-mcp 1.0.2",
-      "summary": "DataMaster MCP 1.0.2 is an AI-powered data analysis tool that supports MCP protocol, making it easier for users to analyze data efficiently.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:09:25Z",
-      "url": "https://pypi.org/project/datamaster-mcp/1.0.2/"
-    },
-    {
-      "id": 59,
-      "title": "aider-code 0.1.1.post4",
-      "summary": "The release of aider-code 0.1.1.post4 by Devflux Aider brings AI pair programming capabilities to the terminal, allowing for collaborative coding. This application can potentially improve productivity and efficiency in software development.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T10:08:31Z",
-      "url": "https://pypi.org/project/aider-code/0.1.1.post4/"
     }
   ]
 }
