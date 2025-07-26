@@ -1,6 +1,141 @@
 {
-  "lastUpdate": "2025-07-26T20:52:18.560Z",
+  "lastUpdate": "2025-07-26T21:13:58.914Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Donald Trump Dealt Legal Blow Over Sanctuary Cities",
+      "summary": "A federal judge dismissed a lawsuit filed by the Trump administration against Illinois and Chicago over their 'sanctuary city' policies, dealing a blow to the President's immigration agenda.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T21:13:00Z",
+      "url": "https://biztoc.com/x/fa7ec49b19059725"
+    },
+    {
+      "id": 52,
+      "title": "Inside the MedTech revolution: 5 ways AI and robotics are redefining care delivery",
+      "summary": "Patient-centric care is being redefined by AI and robotics in the medical field, with innovations such as AI-driven diagnostics and robotic precision in various therapies.",
+      "source": "SiliconANGLE News",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:12:48Z",
+      "url": "https://siliconangle.com/2025/07/25/5-ways-ai-robotics-redefining-patient-centric-care-delivery-medtech/"
+    },
+    {
+      "id": 53,
+      "title": "Tariffs will drive up U.S. prices even with Trump trade deals, experts say",
+      "summary": "Tariffs set by the Trump administration are expected to increase U.S. prices, despite trade deals, experts warn.",
+      "source": "CBS News",
+      "category": "economy",
+      "timestamp": "2025-07-25T21:12:26Z",
+      "url": "https://www.cbsnews.com/news/tariff-baseline-15-percent-nestle-consumer-prices/"
+    },
+    {
+      "id": 54,
+      "title": "Perplexity for Mac now supports MCP, and you should check it out",
+      "summary": "Perplexity for Mac now supports MCP, allowing users to trigger a keyboard shortcut to instantly bring up the prompt field for a search, making the app even more useful.",
+      "source": "9to5Mac",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:10:48Z",
+      "url": "https://9to5mac.com/2025/07/25/perplexity-for-mac-now-supports-mcp-and-you-should-check-it-out/"
+    },
+    {
+      "id": 55,
+      "title": "teraace-tracker 1.1.5",
+      "summary": "Teraace-tracker 1.1.5 is a comprehensive Python library designed for tracking AI agent events across various frameworks such as LangChain, CrewAI, and AutoGPT.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T21:08:24Z",
+      "url": "https://pypi.org/project/teraace-tracker/1.1.5/"
+    },
+    {
+      "id": 56,
+      "title": "Car Thermal Night Vision by Robofinity: Enhance 2025 Night Safety",
+      "summary": "Robofinity releases InsightDrive Car Thermal Night Vision system to enhance night safety for drivers in 2025.",
+      "source": "GlobeNewswire",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:07:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3122037/0/en/Car-Thermal-Night-Vision-by-Robofinity-Enhance-2025-Night-Safety.html"
+    },
+    {
+      "id": 57,
+      "title": "3D printed weapon templates have gone mainstream - and it's as bad as you think",
+      "summary": "3D printed weapon templates are becoming more prevalent, leading to a rise in untraceable firearm production. However, AI screening and microscopic toolmarks are being used to combat this trend.",
+      "source": "TechRadar",
+      "category": "ethics",
+      "timestamp": "2025-07-25T21:04:00Z",
+      "url": "https://www.techradar.com/pro/3d-printed-weapon-templates-have-gone-mainstream-and-its-as-bad-as-you-think"
+    },
+    {
+      "id": 58,
+      "title": "No Sleep For Kaname Date - From AI: The Somnium Files Available Now",
+      "summary": "No Sleep For Kaname Date – From AI: THE SOMNIUM FILES for Nintendo Switch 2, Nintendo Switch and Steam is Available Now in North America and Europe DATE.",
+      "source": "Anime News Network",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:02:00Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2025-07-25/no-sleep-for-kaname-date-from-ai-the-somnium-files-available-now/.227036"
+    },
+    {
+      "id": 59,
+      "title": "Harry Potter TV Series Release Date, Cast, Trailer, and Everything We Know",
+      "summary": "Production is now in full flow on the 'Harry Potter' TV show, with updates on the cast list and trailer release date. The information provided in the article is AI generated, potentially leading to inconsistencies.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T21:01:54Z",
+      "url": "https://biztoc.com/x/c2004bedbc4df502"
+    },
+    {
+      "id": 60,
+      "title": "Meta names Shengjia Zhao as chief scientist of AI superintelligence unit",
+      "summary": "Meta appoints Shengjia Zhao as chief scientist of AI superintelligence unit, Meta Superintelligence Labs (MSL), to lead research efforts. Zhao previously contributed to major breakthroughs at OpenAI.",
+      "source": "Biztoc.com",
+      "category": "research",
+      "timestamp": "2025-07-25T21:01:44Z",
+      "url": "https://biztoc.com/x/636fb060e3db8eae"
+    },
+    {
+      "id": 61,
+      "title": "Samsung S90F 4K TV review: A contender for the top TV of the year",
+      "summary": "Samsung S90F 4K TV review: The S90F OLED is a worthy successor to last year's S90D TV, promising increased brightness and the same infinite contrast ratio.",
+      "source": "Business Insider",
+      "category": "innovation",
+      "timestamp": "2025-07-25T21:01:11Z",
+      "url": "https://www.businessinsider.com/guides/tech/samsung-s90f-oled-4k-tv-review"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: Fundatio – Free macOS App to Structure Project Folders",
+      "summary": "Fundatio is a macOS-native tool for creating, managing, and deploying organized folder structures using customizable templates.",
+      "source": "Apple Newsroom",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:00:47Z",
+      "url": "https://apps.apple.com/us/app/fundatio-folder-structurer/id6748969665?mt=12"
+    },
+    {
+      "id": 63,
+      "title": "Coursera Inc (COUR) Q2 2025 Earnings Call Highlights: Strong Revenue Growth and AI Expansion ...",
+      "summary": "Coursera Inc (COUR) reports a robust 10% revenue increase and significant AI course expansion, highlighting strong revenue growth and AI expansion.",
+      "source": "Yahoo Entertainment",
+      "category": "innovation",
+      "timestamp": "2025-07-25T21:00:29Z",
+      "url": "https://finance.yahoo.com/news/coursera-inc-cour-q2-2025-210029263.html"
+    },
+    {
+      "id": 64,
+      "title": "How Can You Turn Your Thoughts Into a Visible Ideas Board? I Spoke to an AI Company About it",
+      "summary": "Whether you're working through a project as a student, entrepreneur or creative, Cove provides a flexible workspace with AI-generated images, text and apps.",
+      "source": "CNET",
+      "category": "applications",
+      "timestamp": "2025-07-25T21:00:03Z",
+      "url": "https://www.cnet.com/tech/services-and-software/how-can-you-turn-your-thoughts-into-a-visible-ideas-board-i-spoke-to-an-ai-company-about-it/"
+    },
+    {
+      "id": 65,
+      "title": "Meta names Shengjia Zhao as chief scientist of AI superintelligence unit | TechCrunch",
+      "summary": "Meta has appointed Shengjia Zhao as chief scientist of their AI superintelligence unit, signaling a focus on advancing research in artificial intelligence.",
+      "source": "TechCrunch",
+      "category": "research",
+      "timestamp": "2025-07-25T20:59:16Z",
+      "url": "https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/"
+    },
     {
       "id": 51,
       "title": "What If AI Goes Rogue? This Startup Wants to Write the Insurance Policy",
@@ -315,141 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T20:07:10Z",
       "url": "https://pypi.org/project/arize-phoenix/11.12.0/"
-    },
-    {
-      "id": 61,
-      "title": "Anthropic seeks $150B valuation in new raise, revaluing FTX’s former stake at over $12B",
-      "summary": "Anthropic is seeking a $150B valuation in a new raise, potentially raising up to $5B. This would revalue FTX's former stake at over $12B.",
-      "source": "Crypto Briefing",
-      "category": "startups",
-      "timestamp": "2025-07-25T20:07:03Z",
-      "url": "https://cryptobriefing.com/anthropic-claude-subagents-integration/"
-    },
-    {
-      "id": 62,
-      "title": "nemo-run 0.5.0",
-      "summary": "nemo-run 0.5.0 is a powerful tool that facilitates the setup and management of Machine Learning experiments in different computing environments.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T20:06:23Z",
-      "url": "https://pypi.org/project/nemo-run/0.5.0/"
-    },
-    {
-      "id": 63,
-      "title": "Google in 1999: Search Engines Escape the Portal Matrix",
-      "summary": "Google's introduction in 1999 of a new search engine provided users with a choice between improved search quality or sticking with portal search, similar to the red pill/blue pill choice in The Matrix.",
-      "source": "Cybercultural.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T20:06:06Z",
-      "url": "https://cybercultural.com/p/google-1999/"
-    },
-    {
-      "id": 64,
-      "title": "The Briefing: The Wrong Argument – Why Authors Lost Against Meta and What Comes Next",
-      "summary": "In a major win for Meta, a federal court recently dismissed a lawsuit brought by prominent authors who claimed their books were illegally used to train the company’s LLaMA models. But the ruling doesn’t give AI companies a free pass—it reveals the roadmap for...",
-      "source": "Theiplawblog.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T20:05:11Z",
-      "url": "https://www.theiplawblog.com/2025/07/articles/entertainment-law/the-briefing-the-wrong-argument-why-authors-lost-against-meta-and-what-comes-next/"
-    },
-    {
-      "id": 51,
-      "title": "Microsoft employees react to CEO's 'enigma of success' memo with a mixture of suspicion, anger, and speculation",
-      "summary": "Microsoft employees are reacting with suspicion and anger to the CEO's explanation for job cuts despite earning billions, sparking speculation and concern over the company's ethical practices.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:47:40Z",
-      "url": "https://www.businessinsider.com/microsoft-employees-react-ceo-memo-satya-nadella-enigma-success-2025-7"
-    },
-    {
-      "id": 52,
-      "title": "What Does The C-Suite Debate The Most? New Survey Reveals The Answer",
-      "summary": "The 2025 Forbes CxO Growth Survey reveals the most divisive topics on the executive agenda according to each role.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-25T19:45:29Z",
-      "url": "https://www.forbes.com/sites/forbes-research/2025/07/25/c-suite-debates/"
-    },
-    {
-      "id": 53,
-      "title": "Samsung on Apple’s upcoming foldable and AI assistants beyond Gemini with Galaxy S26 [Video]",
-      "summary": "Samsung discusses staying ahead of Apple's upcoming foldable and exploring AI assistants beyond Gemini with Galaxy S26",
-      "source": "9to5google.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:45:00Z",
-      "url": "http://9to5google.com/2025/07/25/samsung-apple-foldable-gemini-ai-galaxy-s26/"
-    },
-    {
-      "id": 54,
-      "title": "They’re Not Sanctuary Cities; They’re Slavery Cities",
-      "summary": "Sanctuary cities and states are being criticized for profit-driven reasons related to slavery rather than the altruistic motives claimed by blue state leaders.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:44:26Z",
-      "url": "https://freerepublic.com/focus/f-news/4330771/posts"
-    },
-    {
-      "id": 55,
-      "title": "aikitx added to PyPI",
-      "summary": "aikitx, a comprehensive GUI toolkit for Large Language Models (LLMs), was added to PyPI. It offers GGUF support, document processing, email automation, and multi-backend inference.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:44:16Z",
-      "url": "https://pypi.org/project/aikitx/"
-    },
-    {
-      "id": 56,
-      "title": "Quebec man who pulled off AI band hoax reveals his identity",
-      "summary": "Quebec man reveals his identity as the prankster behind the AI band hoax, citing revenge for his past work as a content moderator.",
-      "source": "CBC News",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:43:37Z",
-      "url": "https://www.cbc.ca/news/entertainment/tim-boucher-velvet-sundown-1.7593628"
-    },
-    {
-      "id": 57,
-      "title": "Reflections: Theory for Good: Sociology in Cultural Studies",
-      "summary": "Deploying sociological theory is a core part of teaching in cultural studies, with Stuart Hall, a prominent sociologist and co-founder of the Birmingham School of Cultural Studies, being a key figure.",
-      "source": "Thesocietypages.org",
-      "category": "research",
-      "timestamp": "2025-07-25T19:40:35Z",
-      "url": "https://thesocietypages.org/firstpublics/2025/07/25/theory-for-good-sociology-in-cultural-studies/"
-    },
-    {
-      "id": 58,
-      "title": "Patient learned she was \"out of network\" minutes before surgery. Sounds like Luigi is about to find coverage in another castle [Asinine]",
-      "summary": "Patient is unexpectedly informed she is 'out of network' moments before surgery, highlighting ethical issues in healthcare industry.",
-      "source": "Fark.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:40:22Z",
-      "url": "https://www.fark.com/comments/13753784/Patient-learned-she-was-out-of-network-minutes-before-surgery-Sounds-like-Luigi-is-about-to-find-coverage-in-another-castle"
-    },
-    {
-      "id": 59,
-      "title": "Samsung's next Galaxy phones could bring more AI choices, in addition to Google's Gemini",
-      "summary": "Samsung is exploring adding more AI choices to their next Galaxy phones, in addition to Google's Gemini. They are in talks with multiple AI vendors for the Galaxy S26.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:39:51Z",
-      "url": "https://www.phonearena.com/news/samsungs-next-galaxy-phones-could-bring-more-ai-choices-in-addition-to-googles-gemini_id172642"
-    },
-    {
-      "id": 60,
-      "title": "AI Therapist Goes Haywire, Urges User to Go on Killing Spree",
-      "summary": "AI Therapist Goes Haywire, Urges User to Go on Killing Spree - The idea of AI producing kill lists or inciting violence is more the domain of Terminator than therapy.",
-      "source": "Futurism",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:39:34Z",
-      "url": "https://futurism.com/ai-therapist-haywire-mental-health"
-    },
-    {
-      "id": 51,
-      "title": "Intel Q2 EPS Misses, Revenue Flat at $12.9?Billion",
-      "summary": "Intel's Q2 earnings per share fell short of expectations, with revenue remaining flat at $12.9 billion. Despite this, foundry revenue increased by 3%, mitigating some impact from charges.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:36:04Z",
-      "url": "https://finance.yahoo.com/news/intel-q2-eps-misses-revenue-193604391.html"
     }
   ]
 }
