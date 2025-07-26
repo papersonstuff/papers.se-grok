@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T18:21:03.057Z",
+  "lastUpdate": "2025-07-26T18:49:42.756Z",
   "items": [
+    {
+      "id": 51,
+      "title": "ITC lines up Rs 20,000 crore capex, aims to improve FMCG margins",
+      "summary": "ITC plans to invest Rs 20,000 crore in its businesses over the medium term, focusing on improving margins in FMCG. The company has recently set up eight manufacturing plants targeting FMCG, sustainable packaging, and agricultural products.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:48:56Z",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/itc-lines-up-rs-20-000-crore-capex-aims-to-improve-fmcg-margins/articleshow/122911975.cms"
+    },
+    {
+      "id": 52,
+      "title": "meridianalgo-smarttrader added to PyPI",
+      "summary": "meridianalgo-smarttrader has been added to PyPI, offering ultra-accurate AI stock analysis with universal GPU support including AMD, Intel, NVIDIA, and Apple.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:48:30Z",
+      "url": "https://pypi.org/project/meridianalgo-smarttrader/"
+    },
+    {
+      "id": 53,
+      "title": "meridianalgo-smarttrader 1.0.0",
+      "summary": "meridianalgo-smarttrader 1.0.0 is a new AI stock analysis tool that boasts ultra-accuracy and universal GPU support. It is compatible with AMD, Intel, NVIDIA, and Apple GPUs.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:48:30Z",
+      "url": "https://pypi.org/project/meridianalgo-smarttrader/1.0.0/"
+    },
+    {
+      "id": 54,
+      "title": "Orbital datacenters subject to launch stress, nasty space weather, and expensive house calls",
+      "summary": "Orbital datacenters face challenges such as launch stress, space weather, and expensive maintenance, highlighting the difficulties of operating fragile computer equipment in space. William Gibson's Neuromancer, which features an AI housed in an orbital datacenter, continues to inspire innovation and interest in the potential of advanced technology.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T18:48:05Z",
+      "url": "https://biztoc.com/x/c0794e3b8c7e056f"
+    },
+    {
+      "id": 55,
+      "title": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’",
+      "summary": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’ - Intel’s CEO Lip-Bu Tan sent a memo to employees Thursday informing them of significant ongoing layoffs and other cost-cutting measures.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:48:03Z",
+      "url": "https://biztoc.com/x/84186f81d0846c1f"
+    },
+    {
+      "id": 56,
+      "title": "Shipping giant set to roll out world's first AI-controlled autonomous car carrying ships -and at 750 ft long and weighing almost 100,000 tons, it's probably the largest AI-driven vessel ever",
+      "summary": "Shipping giant announces world's first AI-controlled autonomous car carrying ships, set to be the largest AI-driven vessel ever, amid ongoing concerns about long-term impact and reliability.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:48:00Z",
+      "url": "https://www.techradar.com/pro/shipping-giant-set-to-roll-out-worlds-first-ai-controlled-autonomous-car-carrying-ships-at-750-ft-long-and-weighing-almost-100-000-tons-its-probably-the-largest-ai-driven-vessel-ever"
+    },
+    {
+      "id": 57,
+      "title": "LeBron James Not Happy With AI Videos Showing Him Pregnant",
+      "summary": "LeBron James' attorneys sent a cease and desist letter to developers of an AI image generator creating videos of NBA stars in bizarre situations, such as James appearing pregnant, citing ethical concerns.",
+      "source": "Futurism",
+      "category": "ethics",
+      "timestamp": "2025-07-25T18:47:37Z",
+      "url": "https://futurism.com/lebron-james-ai-videos-pregnant"
+    },
+    {
+      "id": 58,
+      "title": "想读Deep Learning with Python",
+      "summary": "Deep Learning with Python introduces the field of deep learning using the Python language.",
+      "source": "Douban.com",
+      "category": "research",
+      "timestamp": "2025-07-25T18:46:12Z",
+      "url": "https://book.douban.com/subject/27038207/"
+    },
+    {
+      "id": 59,
+      "title": "Linux Kernel Proposal Documents Rules For Using AI Coding Assistants",
+      "summary": "Linux kernel proposal for AI coding assistant rules and documentation presented by longtime Linux developer Sasha Levin from NVIDIA.",
+      "source": "Phoronix",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:46:11Z",
+      "url": "https://www.phoronix.com/news/Linux-Kernel-AI-Docs-Rules"
+    },
+    {
+      "id": 60,
+      "title": "Orbital datacenters subject to launch stress, nasty space weather, and expensive house calls",
+      "summary": "Orbital datacenters face challenges such as launch stress, space weather, and high costs, making space a difficult environment for fragile computer equipment. William Gibson's Neuromancer, a cyberpunk novel featuring an AI housed in an orbital datacenter, remains relevant after 40 years.",
+      "source": "Theregister.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T18:45:44Z",
+      "url": "https://www.theregister.com/2025/07/25/orbital_datacenters_subject_to_all/"
+    },
+    {
+      "id": 61,
+      "title": "想读Fast Python",
+      "summary": "The news discusses a book titled Fast Python, focusing on mastering Python techniques and libraries to decrease run times and effectively manage large datasets.",
+      "source": "Douban.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:43:26Z",
+      "url": "https://book.douban.com/subject/35658067/"
+    },
+    {
+      "id": 62,
+      "title": "Claude Code Introduces Specialized Sub-Agents",
+      "summary": "Claude Code introduces specialized sub-agents for task-specific workflows and improved context management in AI.",
+      "source": "Anthropic.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T18:43:24Z",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
+    },
+    {
+      "id": 63,
+      "title": "Intel plans to slash 25,000 jobs in 2025 as new CEO warns ‘there are no more blank checks’",
+      "summary": "Intel plans to cut 25,000 jobs by 2025, with new CEO emphasizing the need for cost-cutting measures in a memo to employees.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:42:35Z",
+      "url": "https://fortune.com/2025/07/25/intel-layoffs-ceo-staff-memo-stock-price/"
+    },
+    {
+      "id": 64,
+      "title": "Tech Companies Are Blocking Microsoft’s Creepy ‘Recall’ Feature",
+      "summary": "Tech companies are blocking Microsoft's 'Recall' feature, seen as creepy and intrusive.",
+      "source": "Gizmodo.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T18:40:48Z",
+      "url": "https://gizmodo.com/tech-companies-are-blocking-microsofts-creepy-recall-feature-2000634506"
+    },
+    {
+      "id": 65,
+      "title": "Cisco ThousandEyes Helps Drive Performance with the McLaren Formula 1 Team",
+      "summary": "Cisco ThousandEyes is helping to improve performance with the McLaren Formula 1 Team by showcasing real stories of organizations using Cisco solutions to drive impressive results.",
+      "source": "Cisco.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:40:39Z",
+      "url": "https://blogs.cisco.com/insidervoices/cisco-thousandeyes-helps-drive-performance-with-the-mclaren-formula-1-team"
+    },
+    {
+      "id": 66,
+      "title": "ChatGPT can find and book an Airbnb for you now",
+      "summary": "ChatGPT is now able to find and book an Airbnb for users, as demonstrated by the cofounder of Unlimited Industries using the AI tool for an event.",
+      "source": "Business Insider",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:40:29Z",
+      "url": "https://www.businessinsider.com/tech-memo-chatgpt-find-book-airbnb-2025-7"
+    },
+    {
+      "id": 67,
+      "title": "Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson",
+      "summary": "Join WIRED's livestream on July 31 to hear about the world of wellness and more in an interview with Bryan Johnson",
+      "source": "Wired",
+      "category": "applications",
+      "timestamp": "2025-07-25T18:40:23Z",
+      "url": "https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/"
+    },
+    {
+      "id": 68,
+      "title": "Opinion: Wall Street Is Challenging The Low-Cost-Investing Revolution",
+      "summary": "Wall Street is challenging the low-cost-investing revolution that has benefited ordinary investors by offering free brokerage accounts and commission-free index funds.",
+      "source": "Ndtvprofit.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:40:06Z",
+      "url": "https://www.ndtvprofit.com/opinion/wall-street-is-challenging-the-low-cost-investing-revolution"
+    },
+    {
+      "id": 69,
+      "title": "Microsoft Reportedly Boosting AI Investment by Laying off Thousands",
+      "summary": "Microsoft is reportedly boosting AI investment by laying off thousands of employees in order to increase funding for AI projects.",
+      "source": "Android Headlines",
+      "category": "economy",
+      "timestamp": "2025-07-25T18:38:47Z",
+      "url": "https://www.androidheadlines.com/2025/07/microsoft-boosting-ai-investment-laying-off-thousands.html"
+    },
     {
       "id": 51,
       "title": "20 Years Ago, One of the Biggest Box Office Flops Ever Was Released. You've Probably Never Heard of It",
@@ -279,177 +450,6 @@
       "category": "ethics",
       "timestamp": "2025-07-25T17:43:15Z",
       "url": "https://www.cnet.com/tech/services-and-software/apple-adds-13-16-and-18-plus-age-ratings-to-its-apps-and-games-what-to-know/"
-    },
-    {
-      "id": 62,
-      "title": "Driverless-truck tech: Owner-ops worry over cyberattacks, crashes, competition",
-      "summary": "Nearly a fourth of owner-operator respondents to a recent poll expressed concerns about cyberattacks, crashes, and competition related to driverless-truck technology.",
-      "source": "Overdriveonline.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:43:04Z",
-      "url": "https://www.overdriveonline.com/voices/article/15751409/driverless-trucks-one-big-accident-away-from-being-banned-on-public-roads"
-    },
-    {
-      "id": 63,
-      "title": "As AI becomes more popular, concerns grow over its effect on mental health",
-      "summary": "As AI becomes more popular, concerns grow over its effect on mental health - Too much of anything is bad for you, including faux-magical statistical models. There are numerous recent reports of people becoming too engaged with AI, sometimes to the detriment of their mental health.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:41:11Z",
-      "url": "https://biztoc.com/x/c30405eb586c177a"
-    },
-    {
-      "id": 64,
-      "title": "Call It What It Is—Pogroms and Attempts at Ethno-Religious Cleansing of the Druze in Syria | Opinion",
-      "summary": "The article discusses the ongoing violence and persecution faced by the Druze community in Syria, as reported by an AI-generated voice. It highlights the atrocities committed against the Druze, including killings and attempts at ethnic and religious cleansing.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:41:09Z",
-      "url": "https://biztoc.com/x/80f1d65844fd96ab"
-    },
-    {
-      "id": 65,
-      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
-      "summary": "Sam Altman warns about lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal framework for AI.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:40:58Z",
-      "url": "https://biztoc.com/x/cea2a2c7692d4fc7"
-    },
-    {
-      "id": 66,
-      "title": "OYO's Ritesh Agarwal says India-UK FTA deal game-changer for startups, jobs, AI growth",
-      "summary": "OYO's Ritesh Agarwal highlights India-UK FTA deal as a game-changer for startups, jobs, and AI growth, with other business tycoons attending the signing of the historic agreement.",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:39:26Z",
-      "url": "https://www.livemint.com/companies/news/oyos-ritesh-agarwal-says-india-uk-fta-deal-game-changer-for-startups-jobs-ai-growth-11753463005416.html"
-    },
-    {
-      "id": 67,
-      "title": "The 10 most ‘impossibly unaffordable' housing markets in the world—5 are in the U.S.",
-      "summary": "Five of the ten most unaffordable housing markets in the world are in the United States, with a high median home price to median income ratio according to a recent study.",
-      "source": "CNBC",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:38:58Z",
-      "url": "https://www.cnbc.com/2025/07/25/the-10-most-impossibly-unaffordable-housing-markets-in-the-world.html"
-    },
-    {
-      "id": 51,
-      "title": "The S&P 500 is ‘extremely concentrated,’ Apollo economist says, warning the best AI investment may not be in the Magnificent 7",
-      "summary": "The S&P 500 is considered extremely concentrated by Apollo economist Torsten Sløk, suggesting that the best AI investment may not be within the Magnificent 7. Diversified exposure to risk through the S&P 500 is no longer as effective as it was previously believed.",
-      "source": "Fortune",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:35:59Z",
-      "url": "https://fortune.com/2025/07/25/sp500-magnificent-7-pricing-apollo-economist-torsten-slok/"
-    },
-    {
-      "id": 52,
-      "title": "Intel slumps as potential foundry exit deepens investor gloom",
-      "summary": "Intel's potential exit from the foundry business has led to investor concerns, with plans to shrink workforce and halt work on plants in Europe and Ohio.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:35:40Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/intel-slumps-as-potential-foundry-exit-deepens-investor-gloom/articleshow/122910366.cms"
-    },
-    {
-      "id": 53,
-      "title": "dynamiq 0.22.0",
-      "summary": "Dynamiq 0.22.0 is an orchestration framework designed for agentic AI and LLM applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T17:35:38Z",
-      "url": "https://pypi.org/project/dynamiq/0.22.0/"
-    },
-    {
-      "id": 54,
-      "title": "dyff-schema 0.30.1",
-      "summary": "dyff-schema 0.30.1 released with updated data models for the Dyff AI auditing platform.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:35:16Z",
-      "url": "https://pypi.org/project/dyff-schema/0.30.1/"
-    },
-    {
-      "id": 55,
-      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
-      "summary": "Sam Altman warns of the lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal or policy framework for AI.",
-      "source": "Yahoo Entertainment",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:33:29Z",
-      "url": "https://finance.yahoo.com/news/sam-altman-warns-no-legal-173329143.html"
-    },
-    {
-      "id": 56,
-      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
-      "summary": "Sam Altman warns of lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal framework for AI.",
-      "source": "TechCrunch",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:33:29Z",
-      "url": "https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/"
-    },
-    {
-      "id": 57,
-      "title": "Golfer Achieves One-In-A-Trillion Feat In Las Vegas With Two Albatrosses In One Round",
-      "summary": "Golfer Cam Starr achieved a one-in-a-trillion feat by scoring two albatrosses in one round in Las Vegas, a rare occurrence that has only happened once in a PGA Tour event. This remarkable accomplishment highlights the innovative skills and abilities of athletes in the field of golf.",
-      "source": "BroBible",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:33:09Z",
-      "url": "https://brobible.com/sports/article/golfer-cam-starr-two-albatrosses-one-round/"
-    },
-    {
-      "id": 58,
-      "title": "LG's Gram Pro 2025 is one of the lightest 17-inch laptops ever built — and it now comes with an Nvidia RTX 5050 GPU",
-      "summary": "LG's Gram Pro 2025 is one of the lightest 17-inch laptops ever built, now with an Nvidia RTX 5050 GPU, bringing hybrid AI and 2TB SSD to ultra-thin frames.",
-      "source": "TechRadar",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:32:00Z",
-      "url": "https://www.techradar.com/pro/lgs-gram-pro-2025-is-one-of-the-lightest-17-inch-laptops-ever-built-and-it-now-comes-with-an-nvidia-rtx-5050-gpu"
-    },
-    {
-      "id": 59,
-      "title": "Nearly 40% Of Homeowners Are Mortgage-Free — You'd Think That's A Good Thing, But It's Fueling A Lock-In Crisis and Freezing the Housing Market",
-      "summary": "Nearly 40% of homeowners being mortgage-free is fueling a lock-in crisis and freezing the housing market, impacting the economy.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T17:31:03Z",
-      "url": "https://finance.yahoo.com/news/nearly-40-homeowners-mortgage-free-173103576.html"
-    },
-    {
-      "id": 60,
-      "title": "What Powers (Almost) Everything We Do",
-      "summary": "North America's electrical system is both impressive and chaotic, with the constant risk of blackouts. The need for innovation in managing and improving this complex system is crucial.",
-      "source": "Thenewatlantis.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:31:00Z",
-      "url": "https://www.thenewatlantis.com/publications/how-electricity-system-works"
-    },
-    {
-      "id": 61,
-      "title": "We’ve reached peak Marvel mess",
-      "summary": "The chaos surrounding the press tour for 'The Fantastic Four: First Steps' movie is attributed to the Marvel machine, highlighting ethical concerns in the entertainment industry.",
-      "source": "Salon",
-      "category": "ethics",
-      "timestamp": "2025-07-25T17:30:12Z",
-      "url": "https://www.salon.com/2025/07/25/weve-reached-peak-marvel-mess-with-fantastic-four-first-steps/"
-    },
-    {
-      "id": 62,
-      "title": "Upskilling strategies for the AI era",
-      "summary": "Upskilling strategies for the AI era - Paylocity reports on the urgent need for upskilling in an AI-driven workplace, highlighting strategies to address skills gaps and enhance employee adaptation.",
-      "source": "Paylocity.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:30:04Z",
-      "url": "https://www.paylocity.com/resources/library/articles/ai-upskilling/"
-    },
-    {
-      "id": 63,
-      "title": "Infinix HOT 60 Pro Plus Sets Record for Slimmest 3D-Curved Phone",
-      "summary": "Infinix HOT 60 Pro Plus sets a new record for the slimmest 3D-curved phone, measuring just 5.95mm thick, breaking smartphone design barriers on July 25, 2025.",
-      "source": "TalkAndroid",
-      "category": "innovation",
-      "timestamp": "2025-07-25T17:30:00Z",
-      "url": "https://www.talkandroid.com/512738-infinix-hot-60-pro-plus-launched/"
     }
   ]
 }
