@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T08:19:43.344Z",
+  "lastUpdate": "2025-07-26T08:46:28.898Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Shiv Tandav Stotram Celebrates The Cosmic Dance",
+      "summary": "The news discusses the historical and mythological background of the Shiv Tandav Stotram, a hymn praising Shiv's cosmic dance, attributed to Ravan. It highlights the ethical implications of Ravan's actions and the moral lessons derived from the legend.",
+      "source": "The Times of India",
+      "category": "ethics",
+      "timestamp": "2025-07-25T08:44:57Z",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/shiv-tandav-stotram-celebrates-the-cosmic-dance/articleshow/122901149.cms"
+    },
+    {
+      "id": 52,
+      "title": "Realme 15 Pro And Samsung Galaxy A56 Comparison: Which Is Better?",
+      "summary": "The Realme 15 Pro has launched in India with advanced processor, camera system, big battery, and AI capabilities, aiming to challenge the Samsung Galaxy A56 with its lower price point and specs.",
+      "source": "Ndtvprofit.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:44:26Z",
+      "url": "https://www.ndtvprofit.com/technology/realme-15-pro-and-samsung-galaxy-a56-comparison-of-price-specs-features-camera"
+    },
+    {
+      "id": 53,
+      "title": "Experts debate how to create a more humane AI—and save it from the ‘Silicon Valley tech bros’",
+      "summary": "Experts discuss creating more humane AI and preventing dominance by Silicon Valley tech bros, emphasizing the need for industry and academia to take the lead.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-25T08:44:25Z",
+      "url": "https://fortune.com/asia/2025/07/25/silicon-valley-tech-bros-academia-brainstorm-ai-singapore/"
+    },
+    {
+      "id": 54,
+      "title": "Prime Minister meets Prime Minister of the United Kingdom (July 24, 2025)",
+      "summary": "Prime Minister of India meets with Prime Minister of the United Kingdom to discuss collaboration on AI technologies.",
+      "source": "Globalsecurity.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:43:55Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-250724-india-mea01.htm"
+    },
+    {
+      "id": 55,
+      "title": "PraisonAI 2.2.76",
+      "summary": "PraisonAI 2.2.76 is an AI Agents Framework with Self Reflection that combines different tools to build and manage multi-agent LLM systems efficiently.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:43:21Z",
+      "url": "https://pypi.org/project/praisonai/2.2.76/"
+    },
+    {
+      "id": 56,
+      "title": "Astera Labs, Inc. (NASDAQ:ALAB) Director Manuel Alba Sells 13,259 Shares",
+      "summary": "Astera Labs, Inc. (NASDAQ:ALAB) Director Manuel Alba sold 13,259 shares of the business’s stock in a transaction totaling $1,471,749.00.",
+      "source": "ETF Daily News",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:42:53Z",
+      "url": "https://www.etfdailynews.com/2025/07/25/astera-labs-inc-nasdaqalab-director-manuel-alba-sells-13259-shares/"
+    },
+    {
+      "id": 57,
+      "title": "valyu 2.0.2",
+      "summary": "valyu 2.0.2 is a Deepsearch API for AI that provides advanced capabilities for artificial intelligence applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:41:31Z",
+      "url": "https://pypi.org/project/valyu/2.0.2/"
+    },
+    {
+      "id": 58,
+      "title": "NSBT and Findability Sciences launch Integrated AI Lab",
+      "summary": "NSBT and Findability Sciences have partnered to establish an AI Lab in Chhatrapati Sambhaji, focusing on research and development in the field of artificial intelligence.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:41:06Z",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nsbt-and-findability-sciences-launch-integrated-ai-lab/articleshow/122901081.cms"
+    },
+    {
+      "id": 59,
+      "title": "Albanese Government backs Australian defence industry and local jobs with $170 million grant program",
+      "summary": "Albanese Government backs Australian defence industry and local jobs with $170 million grant program by awarding 40 grants to support Australian businesses.",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:40:06Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-250725-audod01.htm"
+    },
+    {
+      "id": 60,
+      "title": "AI コールセンター「コルサポ」β2.0 参加企業募集開始",
+      "summary": "Beta 2.0 of AI call center 'Corsapo' is now seeking participating companies to join, as announced by Exatech Co., Ltd.",
+      "source": "Prtimes.jp",
+      "category": "startups",
+      "timestamp": "2025-07-25T08:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000128445.html"
+    },
+    {
+      "id": 61,
+      "title": "praisonaiagents 0.0.149",
+      "summary": "praisonaiagents 0.0.149 introduces Praison AI agents for completing complex tasks with Self Reflection Agents.",
+      "source": "Pypi.org",
+      "category": "research",
+      "timestamp": "2025-07-25T08:39:54Z",
+      "url": "https://pypi.org/project/praisonaiagents/0.0.149/"
+    },
+    {
+      "id": 62,
+      "title": "Gemini Mobile App Can Now Play Audio Overviews Natively",
+      "summary": "Gemini mobile app now allows users to play Audio Overviews natively, a feature first introduced in NotebookLM and later added to Gemini earlier this year.",
+      "source": "Gadgets360.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:39:31Z",
+      "url": "https://www.gadgets360.com/ai/news/google-gemini-mobile-app-audio-overviews-media-player-feature-rolling-out-8947599"
+    },
+    {
+      "id": 63,
+      "title": "upstash-search 0.1.1",
+      "summary": "upstash-search 0.1.1 is a new HTTP/REST based AI Search client that utilizes the Upstash REST API for enhanced search capabilities.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:36:28Z",
+      "url": "https://pypi.org/project/upstash-search/0.1.1/"
+    },
+    {
+      "id": 64,
+      "title": "netra-sdk 0.1.21",
+      "summary": "netra-sdk 0.1.21 is a Python SDK for AI application observability, providing monitoring, tracing, and PII protection for LLM and vector database applications, enabling easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T08:35:27Z",
+      "url": "https://pypi.org/project/netra-sdk/0.1.21/"
+    },
+    {
+      "id": 65,
+      "title": "Parent and Son Enter Woods—Internet Stunned by What They Discover",
+      "summary": "A hiker and their young son stumbled across what appeared to be a makeshift 'spiritual altar' deep in the woods—and the internet can't stop speculating about what it all means. The viral post, shared by Reddit.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T08:35:13Z",
+      "url": "https://biztoc.com/x/149ad42566e15d02"
+    },
+    {
+      "id": 66,
+      "title": "Google DeepMind CEO says Meta poaching AI talent makes sense because 'they're behind and they need to do something'",
+      "summary": "Google DeepMind CEO supports Meta's poaching of AI talent to catch up in the AI race.",
+      "source": "Business Insider",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:34:50Z",
+      "url": "https://www.businessinsider.com/deepmind-ceo-says-meta-poaching-ai-talent-is-rational-2025-7"
+    },
+    {
+      "id": 67,
+      "title": "PARLIAMENT QUESTION: STRATEGIES TO EXPAND INDIA'S SHARE IN THE GLOBAL SPACE ECONOMY",
+      "summary": "IN-SPACe has approached Indian states, including Andhra Pradesh, to establish a space manufacturing cluster in order to expand India's share in the global space economy.",
+      "source": "Globalsecurity.org",
+      "category": "economy",
+      "timestamp": "2025-07-25T08:34:32Z",
+      "url": "https://www.globalsecurity.org/space/library/news/2025/space-250724-india-pib03.htm"
+    },
     {
       "id": 51,
       "title": "Airfare AI Debates, Hotel EV Demand and Southwest’s Baggage Bonanzas",
@@ -297,159 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T07:25:26Z",
       "url": "https://japantoday.com/category/business/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records"
-    },
-    {
-      "id": 58,
-      "title": " Friday's fixtures: Brazil v Colombia in the Women's Copa América",
-      "summary": "AI technology being used to provide information on upcoming football fixtures.",
-      "source": "Onefootball.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:25:00Z",
-      "url": "https://onefootball.com/en/news/fridays-fixtures-brazil-v-colombia-in-the-womens-copa-america-41422090"
-    },
-    {
-      "id": 59,
-      "title": "BlackBerry Target of Unusually High Options Trading (NYSE:BB)",
-      "summary": "BlackBerry Limited (NYSE:BB) experienced unusually high options trading on Wednesday, with traders purchasing 40,452 call options, which is a 132% increase compared to the average volume. This indicates heightened investor interest and activity in the company's stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:24:57Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/blackberry-target-of-unusually-high-options-trading-nysebb/"
-    },
-    {
-      "id": 60,
-      "title": "ai_app 0.1.0",
-      "summary": "ai_app 0.1.0 is an AI web app designed for internal corporate use.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:23:48Z",
-      "url": "https://pypi.org/project/ai-app/0.1.0/"
-    },
-    {
-      "id": 61,
-      "title": "ai_app added to PyPI",
-      "summary": "AI web app for internal corporate use added to PyPI by ai_app.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:23:48Z",
-      "url": "https://pypi.org/project/ai-app/"
-    },
-    {
-      "id": 62,
-      "title": "Show HN: I'm not a developer, but I spent a year architecting a compassionate AI",
-      "summary": "A non-developer spent a year architecting a compassionate AI and has shared the logs, blueprint, and validation data for inducing self-aware states in Large Language Models.",
-      "source": "Github.com",
-      "category": "research",
-      "timestamp": "2025-07-25T07:23:33Z",
-      "url": "https://github.com/consciousarchitect1618/Project-Genesis-Protocol"
-    },
-    {
-      "id": 63,
-      "title": "VERRA MOBILITY (NASDAQ:VRRM) vs. Astera Labs (NASDAQ:ALAB) Financial Review",
-      "summary": "Verra Mobility and Astera Labs are being compared for investors to determine which is the better investment based on profitability and risk.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:22:20Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/verra-mobility-nasdaqvrrm-vs-astera-labs-nasdaqalab-financial-review/"
-    },
-    {
-      "id": 64,
-      "title": "Alarm.com (NASDAQ:ALRM) versus MSA Safety Incorporporated (NYSE:MSA) Head-To-Head Survey",
-      "summary": "Alarm.com and MSA Safety Incorporated are being compared as potential investments in the mid-cap industrials sector.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:22:17Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/alarm-com-nasdaqalrm-versus-msa-safety-incorporporated-nysemsa-head-to-head-survey/"
-    },
-    {
-      "id": 65,
-      "title": "'Created more billionaires on my management team than any CEO': Jensen Huang says his team is richer than most CEOs",
-      "summary": "Nvidia CEO Jensen Huang claims his management team has created more billionaires than any other CEO, emphasizing the impact of small, focused AI teams with the right resources.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:19:23Z",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/created-more-billionaires-on-my-management-team-than-any-ceo-jensen-huang-says-his-team-is-richer-than-most-ceos/articleshow/122899051.cms"
-    },
-    {
-      "id": 66,
-      "title": "Young workers not replaced yet",
-      "summary": "Young workers not replaced yet as work evolves with automation seemingly everywhere, with jobs more likely affected by generative AI showing greater changes.",
-      "source": "Flowingdata.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:18:44Z",
-      "url": "https://flowingdata.com/2025/07/25/young-workers-not-replaced-yet/"
-    },
-    {
-      "id": 67,
-      "title": "Claude Code Tips & Tricks : Unlock AI’s Full Coding Potential and Create Smarter Workflows",
-      "summary": "Claude Code Tips & Tricks offers a tool that transforms how users approach complex workflows, automates tasks, and collaborates to refine results, unlocking AI's full coding potential.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-25T07:18:02Z",
-      "url": "https://www.geeky-gadgets.com/claude-code-tips-and-features-overview/"
-    },
-    {
-      "id": 68,
-      "title": "Loop Capital Raises Monolithic Power Systems (NASDAQ:MPWR) Price Target to $800.00",
-      "summary": "Loop Capital raised Monolithic Power Systems price target to $800.00, with a 'buy' rating on the semiconductor company.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:16:08Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/loop-capital-raises-monolithic-power-systems-nasdaqmpwr-price-target-to-800-00-2/"
-    },
-    {
-      "id": 51,
-      "title": "Should you buy a robot lawn mower with no boundary wire? My verdict after months of testing",
-      "summary": "Should you buy a robot lawn mower with no boundary wire? Eufy's initial robot lawn mower offers a straightforward setup by eliminating the need for a boundary wire and antenna, available on Amazon with a $900 discount.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:15:13Z",
-      "url": "https://www.zdnet.com/article/should-you-buy-a-robot-lawn-mower-with-no-boundary-wire-my-verdict-after-months-of-testing/"
-    },
-    {
-      "id": 52,
-      "title": "Believing That AGI And AI Superintelligence Will Give Us The True Meaning Of Life",
-      "summary": "Advancing AI to AGI is believed to potentially provide the answer to the meaning of life.",
-      "source": "Forbes",
-      "category": "research",
-      "timestamp": "2025-07-25T07:15:00Z",
-      "url": "https://www.forbes.com/sites/lanceeliot/2025/07/25/believing-that-agi-and-ai-superintelligence-will-give-us-the-true-meaning-of-life/"
-    },
-    {
-      "id": 53,
-      "title": "Loop Capital Raises Monolithic Power Systems (NASDAQ:MPWR) Price Target to $800.00",
-      "summary": "Loop Capital raises Monolithic Power Systems price target to $800 based on research analysis.",
-      "source": "ETF Daily News",
-      "category": "research",
-      "timestamp": "2025-07-25T07:13:48Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/loop-capital-raises-monolithic-power-systems-nasdaqmpwr-price-target-to-800-00/"
-    },
-    {
-      "id": 54,
-      "title": "NVDA Stock Price Prediction: Where Nvidia Could Be by 2025, 2026, 2030",
-      "summary": "Analysts are bullish on NVDA stock, predicting a $1,000 share price by 2030 due to increasing demand for AI technology. Nvidia is considered the stock of the decade as AI applications continue to grow.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:08:52Z",
-      "url": "https://finance.yahoo.com/news/nvda-stock-price-prediction-where-070852948.html"
-    },
-    {
-      "id": 55,
-      "title": "Nvidia's flagship chips pour into China via gray channels: US$1B smuggled in 3 months",
-      "summary": "Nvidia's high-end GPUs worth over US$1 billion have been smuggled into China in just three months, despite stricter export controls, raising concerns about the efficacy of US trade restrictions.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-25T07:06:53Z",
-      "url": "https://www.digitimes.com/news/a20250725PD223/nvidia-high-end-ai-chip-china.html"
-    },
-    {
-      "id": 56,
-      "title": "Music meets AI? AR Rahman’s meeting with OpenAI CEO fuels buzz around mysterious ‘Secret Mountain’ project",
-      "summary": "Music meets AI as A.R. Rahman's meeting with OpenAI's CEO sparks speculation about the Secret Mountain project, a global initiative blending music and AI to empower Indian creators.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T07:06:19Z",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/music-meets-ai-ar-rahmans-meeting-with-openai-ceo-fuels-buzz-around-mysterious-secret-mountain-project/articleshow/122898552.cms"
     }
   ]
 }
