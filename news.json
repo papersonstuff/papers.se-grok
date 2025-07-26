@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T09:50:16.741Z",
+  "lastUpdate": "2025-07-26T10:15:39.553Z",
   "items": [
+    {
+      "id": 51,
+      "title": "aider-code 0.1.1.post5",
+      "summary": "Aider-code 0.1.1.post5 is an AI tool for pair programming in the terminal, called Devflux Aider.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:15:18Z",
+      "url": "https://pypi.org/project/aider-code/0.1.1.post5/"
+    },
+    {
+      "id": 52,
+      "title": "Pony.ai Kicks Off 24/7 Robotaxi Service In Guangzhou And Shenzhen",
+      "summary": "Pony.ai has launched 24/7 Robotaxi operations in Guangzhou and Shenzhen, marking a significant expansion in service hours and a key milestone in the company's Chinese expansion.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T10:15:11Z",
+      "url": "https://biztoc.com/x/246f868bf1822af4"
+    },
+    {
+      "id": 53,
+      "title": "Show HN: UniversalBit – A new binary protocol to connect voice, video and DNA",
+      "summary": "UniversalBit is a new binary protocol created by Diego Fernando Cruz from Brazil, aiming to connect voice, video, DNA, and more to machines.",
+      "source": "Github.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:14:33Z",
+      "url": "https://github.com/Diegocmx/voicebit"
+    },
+    {
+      "id": 54,
+      "title": "Best Presales & Coins to Watch in July – Grok AI Points to 3 High-Upside Tokens That Could Explode",
+      "summary": "Best Presales & Coins to Watch in July – Grok AI Points to 3 High-Upside Tokens That Could Explode - Grok, the AI bot on X, has been meme’d to death. But being integrated straight into X, arguably one of the biggest crypto hubs online, has also helped it develop a weird knack for spotting trends before they go mainstream.",
+      "source": "Bitcoinist",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:13:54Z",
+      "url": "https://bitcoinist.com/grok-top-crypto-picks-july-what-coins-about-to-explode/"
+    },
+    {
+      "id": 55,
+      "title": "Koske, a new AI-Generated Linux malware appears in the threat landscape",
+      "summary": "Koske, a new AI-Generated Linux malware designed for cryptomining, has been discovered in the threat landscape by Aquasec researchers.",
+      "source": "Securityaffairs.com",
+      "category": "research",
+      "timestamp": "2025-07-25T10:10:55Z",
+      "url": "https://securityaffairs.com/180355/malware/koske-a-new-ai-generated-linux-malware-appears-in-the-threat-landscape.html"
+    },
+    {
+      "id": 56,
+      "title": "Amazon Scraps €300 Million New Irish Plant in Blow to State",
+      "summary": "Amazon cancels plans for new plant in Ireland, potentially affected by Trump's tariffs, causing concern in the country.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:09:48Z",
+      "url": "https://financialpost.com/pmn/business-pmn/amazon-scraps-e300-million-new-irish-plant-in-blow-to-state"
+    },
+    {
+      "id": 57,
+      "title": "Intel Announces Mass Job Cuts, Sounds Alarm for Ohio",
+      "summary": "Intel announces mass job cuts in Ohio, citing the need to streamline the organization.",
+      "source": "Newsweek",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:09:32Z",
+      "url": "https://www.newsweek.com/intel-mass-job-cuts-ohio-factory-alarm-2103923"
+    },
+    {
+      "id": 58,
+      "title": "datamaster-mcp 1.0.2",
+      "summary": "DataMaster MCP 1.0.2 is an AI-powered data analysis tool that supports MCP protocol, making it easier for users to analyze data efficiently.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:09:25Z",
+      "url": "https://pypi.org/project/datamaster-mcp/1.0.2/"
+    },
+    {
+      "id": 59,
+      "title": "aider-code 0.1.1.post4",
+      "summary": "The release of aider-code 0.1.1.post4 by Devflux Aider brings AI pair programming capabilities to the terminal, allowing for collaborative coding. This application can potentially improve productivity and efficiency in software development.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:08:31Z",
+      "url": "https://pypi.org/project/aider-code/0.1.1.post4/"
+    },
+    {
+      "id": 60,
+      "title": "Microsoft layoffs: CEO Satya Nadella says move to cut 9,000 jobs \"weighing heavily\" on him but necessary for...",
+      "summary": "Satya Nadella addresses Microsoft employees about recent layoffs, stating the decision was difficult but necessary for the company's AI transformation. Despite the layoffs, Microsoft's stock continues to perform well.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:05:45Z",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/microsoft-layoffs-ceo-satya-nadella-says-move-to-cut-9000-jobs-weighing-heavily-but-necessary-for-/articleshow/122902608.cms"
+    },
+    {
+      "id": 61,
+      "title": "How Long Will Americans Tolerate Ukrainian Corruption? | Opinion",
+      "summary": "AI-generated opinion piece raises concerns about American tolerance of Ukrainian corruption and highlights potential inconsistencies in politicians' support for President Zelensky.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:04:49Z",
+      "url": "https://biztoc.com/x/6888352b121247e8"
+    },
+    {
+      "id": 62,
+      "title": "The Blueprint for ICE's Future Is Being Drawn in the West Bank | Opinion",
+      "summary": "The Blueprint for ICE's Future Is Being Drawn in the West Bank | Opinion - Voice is AI-generated. Inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:04:39Z",
+      "url": "https://biztoc.com/x/fd6e9a5cee01aa93"
+    },
+    {
+      "id": 63,
+      "title": "Grading the Second Trump Presidency, Six Months In | Opinion",
+      "summary": "An AI-generated opinion piece discusses the grading of the Second Trump Presidency, highlighting the challenges faced by the former president during his time in office.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:04:36Z",
+      "url": "https://biztoc.com/x/eabac81df2941a0f"
+    },
+    {
+      "id": 64,
+      "title": "orq-ai-sdk 3.9.22",
+      "summary": "orq-ai-sdk 3.9.22 is a Python Client SDK for the Orq API, enabling developers to easily interface with the platform for AI-related projects.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:04:25Z",
+      "url": "https://pypi.org/project/orq-ai-sdk/3.9.22/"
+    },
+    {
+      "id": 65,
+      "title": "Shanghai expo sets stage for US-China face-off in heated AI race",
+      "summary": "Shanghai expo sets stage for US-China face-off in heated AI race. China ramps up competition against the US for supremacy in AI technology at the World Artificial Intelligence Conference.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T10:04:22Z",
+      "url": "https://biztoc.com/x/6721274bdb6059b6"
+    },
+    {
+      "id": 66,
+      "title": "Tuxedo Kitten Meets Traumatized Rescue Cat—He Knows What To Do",
+      "summary": "A heartwarming story of two stray kitties forming a bond has gone viral on Reddit, showcasing the power of connections between animals. The post under the username u/LegitimateAdeptness has melted hearts across the internet.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T10:04:18Z",
+      "url": "https://biztoc.com/x/8be727459f45ebe7"
+    },
+    {
+      "id": 67,
+      "title": "Is AI really plotting against us?",
+      "summary": "Researchers are questioning whether claims of AI plotting against humans are exaggerated, drawing parallels to past instances where behaviors were cherrypicked to fit a narrative.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T10:04:10Z",
+      "url": "https://biztoc.com/x/7d04e1049a5c5a32"
+    },
+    {
+      "id": 68,
+      "title": "golpo 0.4.0",
+      "summary": "golpo 0.4.0 is a Python SDK for Golpo AI-generated explainer videos and podcasts.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:04:07Z",
+      "url": "https://pypi.org/project/golpo/0.4.0/"
+    },
+    {
+      "id": 69,
+      "title": "FC Barcelona Gets An AI-Powered Assist To Help With Everything From Marketing To Player Fitness",
+      "summary": "FC Barcelona is using AI to improve various aspects of the club, including marketing, player fitness, and fan engagement.",
+      "source": "AdExchanger",
+      "category": "applications",
+      "timestamp": "2025-07-25T10:04:03Z",
+      "url": "http://www.adexchanger.com/platforms/fc-barcelona-gets-an-ai-powered-assist-to-help-with-everything-from-marketing-to-player-fitness/"
+    },
     {
       "id": 51,
       "title": "As Trump rails against Fed Chair Powell, here’s why Federal Reserve independence is essential",
@@ -279,177 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T09:19:05Z",
       "url": "https://uk.pcmag.com/processors/159293/intel-confirms-mass-layoffs-over-24000-jobs-to-be-cut-this-year"
-    },
-    {
-      "id": 69,
-      "title": "Multiply Group Completes Acquisition of Tendam, Doubling Operational EBITDA and Expanding Global Footprint",
-      "summary": "Multiply Group completes acquisition of Tendam, doubling operational EBITDA and expanding global footprint.",
-      "source": "Antaranews.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:18:18Z",
-      "url": "https://en.antaranews.com/news/368821/multiply-group-completes-acquisition-of-tendam-doubling-operational-ebitda-and-expanding-global-footprint"
-    },
-    {
-      "id": 51,
-      "title": "8 Apple Notes Tricks for Ultimate Productivity in 2025",
-      "summary": "Apple Notes is a productivity tool that offers simple yet effective features for organizing digital notes. This article provides eight tricks for maximizing productivity with Apple Notes in 2025.",
-      "source": "Geeky Gadgets",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:15:18Z",
-      "url": "https://www.geeky-gadgets.com/8-apple-notes-productivity-tips/"
-    },
-    {
-      "id": 52,
-      "title": "BOFH: If you can't beat the AI, let it live inside you",
-      "summary": "BOFH episode discusses the implementation of an AI silo team in a company for workplace transformation.",
-      "source": "Theregister.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:15:10Z",
-      "url": "https://www.theregister.com/2025/07/25/bofh_2025_episode_14/"
-    },
-    {
-      "id": 53,
-      "title": "Space Debris Monitoring and Removal Market Trends Analysis Report 2025-2033 | Surge in LEO Satellite Launches and Collision Risks Drives Demand for AI-Enabled Solutions",
-      "summary": "The global space debris monitoring and removal market is expected to grow at a 7.8% CAGR, reaching USD 2.05 billion by 2033, driven by the surge in LEO satellite launches and collision risks. The demand for AI-enabled solutions to monitor and remove space debris is increasing due to the growing number of satellite deployments.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:15:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121670/28124/en/Space-Debris-Monitoring-and-Removal-Market-Trends-Analysis-Report-2025-2033-Surge-in-LEO-Satellite-Launches-and-Collision-Risks-Drives-Demand-for-AI-Enabled-Solutions.html"
-    },
-    {
-      "id": 54,
-      "title": "US large banks achieving virtuous tech investment cycle-new Celent report alert",
-      "summary": "US large banks are investing in technology, according to a new Celent report on retail banking insights from Q225 earnings presentations.",
-      "source": "Retailbankerinternational.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:14:46Z",
-      "url": "https://www.retailbankerinternational.com/news/us-large-banks-achieving-virtuous-tech-investment-cycle-new-celent-report-alert/"
-    },
-    {
-      "id": 55,
-      "title": "iOS 26 Public Beta: Check Out What's New on Your iPhone Lock Screen",
-      "summary": "iOS 26 Public Beta introduces new features and changes to the iPhone Lock Screen, available for testing ahead of the official release in the fall.",
-      "source": "MacRumors",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:14:41Z",
-      "url": "https://www.macrumors.com/2025/07/25/ios-26-check-your-iphone-lock-screen/"
-    },
-    {
-      "id": 56,
-      "title": "Transforming Lucknow’s Business Landscape with Affordable Digital Marketing and AI-Powered Growth",
-      "summary": "Transforming Lucknow’s Business Landscape with Affordable Digital Marketing and AI-Powered Growth - Imagine turning your small kirana store in Gomti Nagar into a thriving online business that reaches customers across Uttar Pradesh and beyond. Sounds like a dream? With the right digital marketing…",
-      "source": "Medium",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:13:38Z",
-      "url": "https://sheevumgoel.medium.com/transforming-lucknows-business-landscape-with-affordable-digital-marketing-and-ai-powered-growth-6eaa167e896f"
-    },
-    {
-      "id": 57,
-      "title": "Google Search is learning how you think and results won't look the same anymore",
-      "summary": "Google Search is experimenting with a new Web Guide feature that personalizes results based on how users think, offering a glimpse of the platform's future direction.",
-      "source": "PhoneArena",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:12:53Z",
-      "url": "https://www.phonearena.com/news/google-search-learning-how-you-think-results-wont-look-same-anymore_id172626"
-    },
-    {
-      "id": 58,
-      "title": "Alternative Legal Service Providers Market Trends Analysis Report 2025-2033 | ALSPs Exploit Technology to Meet Rising Demand for Affordable, Efficient Legal Services",
-      "summary": "The global Alternative Legal Service Providers market is poised to grow from USD 24.49 billion in 2024 to USD 49.61 billion by 2033, at a CAGR of 8.3% as ALSPs leverage AI and automation to meet rising demand for affordable and efficient legal services.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:11:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121666/28124/en/Alternative-Legal-Service-Providers-Market-Trends-Analysis-Report-2025-2033-ALSPs-Exploit-Technology-to-Meet-Rising-Demand-for-Affordable-Efficient-Legal-Services.html"
-    },
-    {
-      "id": 59,
-      "title": "Donald Trump's Approval Rating With Women Reverses Course",
-      "summary": "President Donald Trump's approval rating with women has declined since June, according to Fox News polling.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:09:23Z",
-      "url": "https://biztoc.com/x/e63260e37c08aa8e"
-    },
-    {
-      "id": 60,
-      "title": "How Iran Missiles Prepared US Patriot Units for Pacific War",
-      "summary": "U.S. Patriot air defense units in Northeast Asia may have gained insights from recent combat experience in the Middle East, aiding their preparation for potential aggression from China and North Korea.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T09:09:19Z",
-      "url": "https://biztoc.com/x/67673f3647334484"
-    },
-    {
-      "id": 61,
-      "title": "Saving the World's Rainforests Isn't Rocket Science. Here's How to Do It | Opinion",
-      "summary": "Saving the World's Rainforests Isn't Rocket Science. Here's How to Do It.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:09:17Z",
-      "url": "https://biztoc.com/x/7f437c4625f75b2d"
-    },
-    {
-      "id": 62,
-      "title": "Donald Trump's Approval Rating Changes Direction With Working Class",
-      "summary": "Donald Trump's approval rating among working-class voters is stabilizing and slightly rebounding according to new polling data.",
-      "source": "Biztoc.com",
-      "category": "research",
-      "timestamp": "2025-07-25T09:09:09Z",
-      "url": "https://biztoc.com/x/d156c8938e45589c"
-    },
-    {
-      "id": 63,
-      "title": "Taiwan Holds High-Stakes Recall Elections As China Watches On",
-      "summary": "Voters in cities and counties across Taiwan will head to the polls in the 'Great Recall' to decide on the jobs of legislators and local leaders. This event showcases the innovative implementation of AI-generated voice technology in news reporting.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:09:04Z",
-      "url": "https://biztoc.com/x/333e46a5120bca10"
-    },
-    {
-      "id": 64,
-      "title": "Trump says he wanted to break Nvidia up—until he learned who Jensen Huang was",
-      "summary": "President Trump considered breaking up Nvidia before learning about CEO Jensen Huang and the company's market dominance, revealed during an AI summit in Washington.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:08:58Z",
-      "url": "https://biztoc.com/x/0a4fdd0e44203df2"
-    },
-    {
-      "id": 65,
-      "title": "Tech Companies: Stop Using AI In Hiring. Do This Instead",
-      "summary": "Tech companies are being advised to stop using AI in hiring to avoid potential issues in the future, such as an AI agent hiring another AI. The article suggests exploring alternative methods for hiring instead of relying on AI.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T09:08:54Z",
-      "url": "https://biztoc.com/x/5ac77bf95bed40f8"
-    },
-    {
-      "id": 66,
-      "title": "Street Fighter 6 art contest rocked by AI controversy, disqualification issued",
-      "summary": "Street Fighter 6 art contest rocked by AI controversy, disqualification issued after accusations of winning entry made using AI.",
-      "source": "Eurogamer.net",
-      "category": "ethics",
-      "timestamp": "2025-07-25T09:07:03Z",
-      "url": "https://www.eurogamer.net/street-fighter-6-art-contest-rocked-by-ai-controversy-disqualification-issued"
-    },
-    {
-      "id": 67,
-      "title": "Pegasystems (NASDAQ:PEGA) Rating Increased to Hold at DA Davidson",
-      "summary": "DA Davidson upgraded shares of Pegasystems to a hold rating and issued estimates for earnings in Q2 2025 and FY2025.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T09:06:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/pegasystems-nasdaqpega-rating-increased-to-hold-at-da-davidson/"
-    },
-    {
-      "id": 68,
-      "title": "Disrupting credit: Accumn’s Aniket Shah talks about how smart underwriting is reshaping retail lending",
-      "summary": "Accumn's Aniket Shah discusses the shift towards AI-powered systems in credit underwriting, leading to FinTech NBFCs disbursing more personal loans while banks tighten underwriting processes.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:05:06Z",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/disrupting-credit-accumns-aniket-shah-talks-about-how-smart-underwriting-is-reshaping-retail-lending/articleshow/122901220.cms"
     }
   ]
 }
