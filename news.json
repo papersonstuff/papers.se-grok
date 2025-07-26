@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-26T14:14:22.452Z",
+  "lastUpdate": "2025-07-26T14:36:07.264Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Breaking down Trump’s big gift to the AI industry",
+      "summary": "President Trump's plan to promote America's AI dominance includes discouraging 'woke AI,' cutting regulations, and accelerating AI development and adoption.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-25T14:35:40Z",
+      "url": "https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer"
+    },
+    {
+      "id": 52,
+      "title": "Your MacBook is getting a major upgrade for free - 5 MacOS 26 features I'm trying right now",
+      "summary": "Your MacBook is getting a major upgrade with the MacOS Tahoe beta, which is now available to the public. The update includes 5 new features to test out for free.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T14:34:00Z",
+      "url": "https://www.zdnet.com/article/your-macbook-is-getting-a-major-upgrade-for-free-5-macos-26-features-im-trying-right-now/"
+    },
+    {
+      "id": 53,
+      "title": "Trump Lost the Trump Tapes Ruling, But Could He Still Prevail? (Guest Blog Post)",
+      "summary": "The Trump Tapes suit has been dismissed but may still potentially be amended for a third time. This raises questions about the ethical considerations of pursuing legal action in this case.",
+      "source": "Ericgoldman.org",
+      "category": "ethics",
+      "timestamp": "2025-07-25T14:33:56Z",
+      "url": "https://blog.ericgoldman.org/archives/2025/07/trump-lost-the-trump-tapes-ruling-but-could-he-still-prevail-guest-blog-post.htm"
+    },
+    {
+      "id": 54,
+      "title": "Meta to pull political ads in EU in response to new disinformation rules",
+      "summary": "Meta (Facebook and Instagram owner) to pull political ads in EU due to new disinformation rules, labeling them as 'unworkable' and attacking Brussels' transparency regulations.",
+      "source": "The Irish Times",
+      "category": "ethics",
+      "timestamp": "2025-07-25T14:33:15Z",
+      "url": "https://www.irishtimes.com/business/2025/07/25/meta-to-pull-political-ads-in-eu-in-response-to-new-disinformation-rules/"
+    },
+    {
+      "id": 55,
+      "title": "How To Scale Your Business Without Breaking It",
+      "summary": "Scaling fast can bankrupt companies and harm communities, slower growth is often a better path for most companies looking to scale their business without negative consequences.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-25T14:33:04Z",
+      "url": "https://www.forbes.com/sites/timabansal/2025/07/25/how-to-scale-your-business-without-breaking-it/"
+    },
+    {
+      "id": 56,
+      "title": "ArcLight plans $5bn investment in North American power infrastructure",
+      "summary": "ArcLight plans $5bn investment in North American power infrastructure to support the development of over 20GW of new power capacity.",
+      "source": "Power Technology",
+      "category": "economy",
+      "timestamp": "2025-07-25T14:33:03Z",
+      "url": "https://www.power-technology.com/news/arclight-5bn-investment-power-infrastructure/"
+    },
+    {
+      "id": 57,
+      "title": "Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’",
+      "summary": "Microsoft’s AI CEO envisions Copilot as being so highly personalized that it will 'age' and 'have a room that it lives in'.",
+      "source": "The Verge",
+      "category": "innovation",
+      "timestamp": "2025-07-25T14:31:37Z",
+      "url": "https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview"
+    },
+    {
+      "id": 58,
+      "title": "Puppies Adopted From Shelter—One Returned. 424 Days Later He's Still There",
+      "summary": "Puppies Adopted From Shelter—One Returned. 424 Days Later He's Still There - Voice is AI-generated. Inconsistencies may occur.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T14:31:33Z",
+      "url": "https://biztoc.com/x/09a6959b3fa149ef"
+    },
+    {
+      "id": 59,
+      "title": "Podcast links: the state of fertility science",
+      "summary": "A potential ethical concern arises as Spotify may be publishing AI-generated songs from deceased artists without permission.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T14:31:30Z",
+      "url": "https://biztoc.com/x/2ae3e80134a7cd8a"
+    },
+    {
+      "id": 60,
+      "title": "AI: Over-Promise + Under-Perform = Disillusionment And Blowback",
+      "summary": "AI's over-promising and under-performing leading to disillusionment and blowback.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T14:31:30Z",
+      "url": "https://biztoc.com/x/b6867ff9083c4316"
+    },
+    {
+      "id": 61,
+      "title": "Reolink Home Hub Pro: All-in-One Control & 2TB Storage Capacity for All Reolink Cams",
+      "summary": "Reolink Home Hub Pro offers all-in-one control and 2TB storage capacity for all Reolink cameras, providing a hub for managing home security systems with privacy and peace of mind.",
+      "source": "Gadget Flow",
+      "category": "applications",
+      "timestamp": "2025-07-25T14:30:59Z",
+      "url": "https://thegadgetflow.com/product/reolink-home-hub-pro/"
+    },
+    {
+      "id": 62,
+      "title": "Fresher hiring targets set, but overall IT recruitment stays restrained",
+      "summary": "India's IT firms cautiously prioritize cost efficiency, upskilling, and selective fresher hiring to navigate the restrained hiring landscape in FY26.",
+      "source": "BusinessLine",
+      "category": "economy",
+      "timestamp": "2025-07-25T14:30:38Z",
+      "url": "https://www.thehindubusinessline.com/companies/fresher-hiring-targets-set-but-overall-it-recruitment-stays-restrained/article69855272.ece"
+    },
+    {
+      "id": 63,
+      "title": "10 Things I Wish I Knew Before Vibe Coding",
+      "summary": "A developer shares their experience with vibe coding while trying to build basic B2B apps using platforms like Loveable, Replit, and Bolt.new.",
+      "source": "Saastr.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T14:30:19Z",
+      "url": "https://www.saastr.com/10-things-i-wish-i-knew-before-vibe-coding-the-real-talk/"
+    },
     {
       "id": 51,
       "title": "ai-trackdown-pytools 1.3.1",
@@ -333,123 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T13:05:17Z",
       "url": "https://pypi.org/project/torram/1.0.3/"
-    },
-    {
-      "id": 53,
-      "title": "New ChatGPT Agent AI Is Now Available To Pro Users Worldwide",
-      "summary": "New ChatGPT Agent AI is now available to ChatGPT Pro, Plus, and Team users worldwide, allowing for advanced conversational experiences.",
-      "source": "BGR",
-      "category": "applications",
-      "timestamp": "2025-07-25T13:04:00Z",
-      "url": "https://www.bgr.com/1921652/chatgpt-agent-ai-launch-pro-plus-team/"
-    },
-    {
-      "id": 54,
-      "title": "camel-ai 0.2.73a6",
-      "summary": "camel-ai 0.2.73a6 is a new version focusing on Communicative Agents for AI Society Study.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-25T13:03:36Z",
-      "url": "https://pypi.org/project/camel-ai/0.2.73a6/"
-    },
-    {
-      "id": 55,
-      "title": "Owner Rescues a 'Golden Retriever'—Then She Receives DNA Result",
-      "summary": "A woman rescues what she thought was a golden retriever puppy, only to find out through DNA testing that it was not. This raises ethical questions about the accuracy of information provided by AI-generated tools.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T13:02:43Z",
-      "url": "https://biztoc.com/x/09de7dafbedd28d2"
-    },
-    {
-      "id": 56,
-      "title": "University of New Mexico Shooting: What to Know",
-      "summary": "University of New Mexico shooting leads to shelter in place warning after one person killed and another injured, with voice, AI-generated information provided with potential for inaccuracies.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T13:02:33Z",
-      "url": "https://biztoc.com/x/81213a6f67739720"
-    },
-    {
-      "id": 57,
-      "title": "Map Shows States With Highest—and Lowest—Credit Card Debt",
-      "summary": "WalletHub's new financial report highlights the significant disparities in credit card debt among different states in the US, reflecting the challenges faced by American consumers due to inflation and high interest rates.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T13:01:58Z",
-      "url": "https://biztoc.com/x/bec30e7a5119ab70"
-    },
-    {
-      "id": 58,
-      "title": "Ad giant Publicis is shopping for AI companies. Here are 6 targets industry insiders think could be on its wish list.",
-      "summary": "Ad giant Publicis is looking to acquire AI companies, with 6 potential targets identified. The company has earmarked 300 million euros for 'bolt-on acquisitions' this year.",
-      "source": "Business Insider",
-      "category": "startups",
-      "timestamp": "2025-07-25T13:01:56Z",
-      "url": "https://www.businessinsider.com/ad-focused-ai-startups-publicis-groupe-could-target-acquisition-spree-2025-7"
-    },
-    {
-      "id": 59,
-      "title": "Bitget’s GetAgent AI Trading Assistant Sees Explosive Adoption, Ignites Community Frenzy",
-      "summary": "Bitget's GetAgent AI Trading Assistant has seen explosive adoption in the cryptocurrency trading community, igniting frenzy since its launch.",
-      "source": "Financial Post",
-      "category": "applications",
-      "timestamp": "2025-07-25T13:01:25Z",
-      "url": "https://financialpost.com/globe-newswire/bitgets-getagent-ai-trading-assistant-sees-explosive-adoption-ignites-community-frenzy"
-    },
-    {
-      "id": 60,
-      "title": "Survey Sees Argo CD Starting to Gain Significant Traction",
-      "summary": "The adoption of Argo CD is gaining significant traction, revolutionizing GitOps practices in many organizations. A recent survey highlights its growing popularity due to its seamless integration with Kubernetes, improving deployment automation and efficiency.",
-      "source": "DevOps.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T13:01:01Z",
-      "url": "https://devops.com/survey-sees-argo-cd-starting-to-gain-significant-traction/"
-    },
-    {
-      "id": 61,
-      "title": "5 Ways To Prove The Real Value Of SEO In The AI Era via @sejournal, @wburton27",
-      "summary": "5 Ways To Prove The Real Value Of SEO In The AI Era offers strategies to demonstrate the impact of SEO in the AI era, focusing on metrics such as traffic, conversions, AI visibility, and cost-saving data.",
-      "source": "Search Engine Journal",
-      "category": "applications",
-      "timestamp": "2025-07-25T13:00:41Z",
-      "url": "https://www.searchenginejournal.com/ways-to-prove-seo-value/548389/"
-    },
-    {
-      "id": 62,
-      "title": "Are Artificial Intelligence Recruitment Solutions Really as Fair as We’re Led to Believe?",
-      "summary": "Are Artificial Intelligence Recruitment Solutions Really as Fair as We’re Led to Believe? - AI has become a norm in recruitment, but questions are raised about fairness and bias in AI recruitment solutions.",
-      "source": "Socialnomics.net",
-      "category": "ethics",
-      "timestamp": "2025-07-25T13:00:37Z",
-      "url": "https://socialnomics.net/2025/07/25/are-artificial-intelligence-recruitment-solutions-really-as-fair-as-were-led-to-believe/"
-    },
-    {
-      "id": 51,
-      "title": "UAE pledges to ‘fast-track’ US AI plans",
-      "summary": "UAE pledges to ‘fast-track’ US AI plans, seeking to accelerate its AI infrastructure investments and receiving a boost from Trump's 'AI Action Plan'. Abu Dhabi vows to invest $1.4 trillion in the",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T12:29:09Z",
-      "url": "https://biztoc.com/x/37c9805b0e3412f2"
-    },
-    {
-      "id": 52,
-      "title": "Map Shows 25 States That Will Feel Hotter Than Death Valley Today",
-      "summary": "Map Shows 25 States That Will Feel Hotter Than Death Valley Today - Voice is AI-generated. Inconsistencies may occur.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T12:29:02Z",
-      "url": "https://biztoc.com/x/d56e1328e42f3c35"
-    },
-    {
-      "id": 53,
-      "title": "Nvidia (NASDAQ: NVDA) Bull, Base, & Bear Price Prediction and Forecast (July 25)",
-      "summary": "Nvidia's stock has been affected by the trade war with China, with shares hitting a low in April. Economic uncertainties related to tariffs have contributed to the struggles faced by Nvidia and other tech companies.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T12:28:56Z",
-      "url": "https://biztoc.com/x/911b2d9d908f9fbe"
     }
   ]
 }
