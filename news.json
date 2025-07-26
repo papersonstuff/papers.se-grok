@@ -1,6 +1,186 @@
 {
-  "lastUpdate": "2025-07-26T16:18:10.817Z",
+  "lastUpdate": "2025-07-26T16:48:10.670Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Alienware’s new Aurora 16X RTX 5060 gaming laptop with 32GB RAM/1TB SSD is a whopping $400 off today",
+      "summary": "Alienware’s new Aurora 16X RTX 5060 gaming laptop with 32GB RAM/1TB SSD is $400 off at Best Buy, currently priced at $1,399.99 shipped.",
+      "source": "9to5Toys",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:46:41Z",
+      "url": "http://9to5toys.com/2025/07/25/alienware-aurora-16x-rtx-5060-gaming-laptop-400-off-today/"
+    },
+    {
+      "id": 52,
+      "title": "trello-tools 0.1.0",
+      "summary": "trello-tools 0.1.0 is a CLI for interacting with Trello.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:46:26Z",
+      "url": "https://pypi.org/project/trello-tools/"
+    },
+    {
+      "id": 53,
+      "title": "At GFT 2025, Thai Apparel Industry Charts Future Amid Regional Conflict and Tariff Fears",
+      "summary": "ASEAN’s largest textile and garment machinery exhibition in Bangkok called GFT 2025 showcased international exhibitors from Japan, India, Vietnam and other countries, highlighting the industry's efforts to navigate through regional conflict and tariff concerns.",
+      "source": "Sourcing Journal",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:46:16Z",
+      "url": "https://sourcingjournal.com/topics/sourcing/gft-2025-thailand-apparel-industry-asean-sourcing-trade-tariffs-1234756867/"
+    },
+    {
+      "id": 54,
+      "title": "I found a $300 Motorola phone that offers flagship features at a fraction of the price",
+      "summary": "The $300 Motorola Moto G Power (2025) offers flagship features including a spacious 6.8-inch display and impressive battery life, providing high value at a fraction of the price.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:46:00Z",
+      "url": "https://www.zdnet.com/article/i-found-a-300-motorola-phone-that-offers-flagship-features-at-a-fraction-of-the-price/"
+    },
+    {
+      "id": 55,
+      "title": "China's 'Project of the Century'—World's Biggest Hydropower Dam—Is Underway",
+      "summary": "Construction has officially commenced on what is set to become the world's largest hydropower dam in China, announced by Li Qiang. Located on the eastern rim of the Tibetan Plateau, the project is expected to be a significant innovation in the field of hydropower technology.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:45:36Z",
+      "url": "https://biztoc.com/x/90c8c542f508fa01"
+    },
+    {
+      "id": 56,
+      "title": "Trump wants to ban 'woke AI.' Here's why it's hard to make a truly neutral chatbot",
+      "summary": "President Donald Trump wants to ban 'woke AI' and issued an executive order mandating that AI used by the government be ideologically neutral.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:45:11Z",
+      "url": "https://biztoc.com/x/549f251903c85a78"
+    },
+    {
+      "id": 57,
+      "title": "Pune Sparks AI Automation with Forge and Rovo",
+      "summary": "Pune Community Group brought 80 developers together to build real-world applications using Forge and Rovo for AI automation.",
+      "source": "Atlassian.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:45:00Z",
+      "url": "https://www.atlassian.com/blog/developer/pune-ai-automation-forge-rovo"
+    },
+    {
+      "id": 58,
+      "title": "Daron Acemoglu, Chris Bangle and Michele De Lucchi awarded the Ethic Award at the Oscar Pomilio Blumm Forum “Happy Chaos? Rethinking Ethics in an Age of Global Change”",
+      "summary": "Daron Acemoglu, Chris Bangle and Michele De Lucchi were awarded the Ethic Award at the Oscar Pomilio Blumm Forum for their reflections on the profound transformations reshaping our time.",
+      "source": "GlobeNewswire",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:45:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121944/0/en/Daron-Acemoglu-Chris-Bangle-and-Michele-De-Lucchi-awarded-the-Ethic-Award-at-the-Oscar-Pomilio-Blumm-Forum-Happy-Chaos-Rethinking-Ethics-in-an-Age-of-Global-Change.html"
+    },
+    {
+      "id": 59,
+      "title": "This built-in Windows 11 app can pull the text in any image with one click",
+      "summary": "This built-in Windows 11 app now includes an OCR function, allowing users to extract text from images with one click.",
+      "source": "PCWorld",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:44:08Z",
+      "url": "https://www.pcworld.com/article/2859167/how-to-copy-the-text-in-any-image-using-the-windows-photos-app.html"
+    },
+    {
+      "id": 60,
+      "title": "Microsoft gives Copilot visual appearance with real-time expressions and emotions",
+      "summary": "Microsoft introduces the Appearance feature for Copilot, providing real-time expressions, emotions, and conversational memory for users.",
+      "source": "Neowin",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:44:01Z",
+      "url": "https://www.neowin.net/news/microsoft-gives-copilot-visual-appearance-with-real-time-expressions-and-emotions/"
+    },
+    {
+      "id": 61,
+      "title": "A company says it could turn mercury into gold using nuclear fusion. Can we take this claim seriously?",
+      "summary": "A Californian startup claims it could turn mercury into gold using nuclear fusion, potentially producing several tonnes of gold per year.",
+      "source": "The Conversation Africa",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:43:48Z",
+      "url": "https://theconversation.com/a-company-says-it-could-turn-mercury-into-gold-using-nuclear-fusion-can-we-take-this-claim-seriously-261891"
+    },
+    {
+      "id": 62,
+      "title": "EU’s Von der Leyen to Meet Trump in Bid to Clinch Trade Deal",
+      "summary": "European Commission President Ursula von der Leyen is meeting with US President Donald Trump in hopes of finalizing a trade deal before impending tariffs on the EU's exports.",
+      "source": "Financial Post",
+      "category": "economy",
+      "timestamp": "2025-07-25T16:43:46Z",
+      "url": "https://financialpost.com/pmn/business-pmn/eus-von-der-leyen-to-meet-trump-in-bid-to-clinch-trade-deal"
+    },
+    {
+      "id": 63,
+      "title": "China's 'Project of the Century'—World's Biggest Hydropower Dam—Is Underway",
+      "summary": "China's 'Project of the Century' involves building the world's biggest hydropower dam, which could potentially power the state of Texas with its incredible energy output.",
+      "source": "Newsweek",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:43:34Z",
+      "url": "https://www.newsweek.com/china-worlds-largest-hydropower-dam-construction-begins-2104185"
+    },
+    {
+      "id": 64,
+      "title": "These $60 wireless earbuds made me question my audio spending habits",
+      "summary": "Soundpeats new Air5 Pro earbuds are impressively priced at $60, causing users to reconsider their audio spending habits.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:43:00Z",
+      "url": "https://www.zdnet.com/article/these-60-wireless-earbuds-made-me-question-my-audio-spending-habits/"
+    },
+    {
+      "id": 65,
+      "title": "godml 0.3.1",
+      "summary": "godml 0.3.1 is a Governed, Observable & Declarative Machine Learning Framework that was released.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:42:59Z",
+      "url": "https://pypi.org/project/godml/0.3.1/"
+    },
+    {
+      "id": 66,
+      "title": "Google's new AI tool Opal turns prompts into apps, no coding required",
+      "summary": "Google's new AI tool Opal enables developers to create apps using natural language prompts and interactive visual aids, without the need for coding.",
+      "source": "ZDNet",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:41:07Z",
+      "url": "https://www.zdnet.com/article/googles-new-ai-tool-opal-turns-prompts-into-apps-no-coding-required/"
+    },
+    {
+      "id": 67,
+      "title": "Trump wants to ban 'woke AI.' Here's why it's hard to make a truly neutral chatbot.",
+      "summary": "Trump wants to ban 'woke AI' due to challenges in making truly neutral chatbots.",
+      "source": "Business Insider",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:40:53Z",
+      "url": "https://www.businessinsider.com/trump-ban-woke-ai-human-bias-neutral-chatbot-training-2025-7"
+    },
+    {
+      "id": 68,
+      "title": "PikoAi 0.1.30",
+      "summary": "PikoAi 0.1.30 is an AI-powered task automation tool that aims to streamline and optimize various processes.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T16:37:43Z",
+      "url": "https://pypi.org/project/pikoai/0.1.30/"
+    },
+    {
+      "id": 69,
+      "title": "Brand Engagement Network Partners on AI Mental Health Program for South African Students",
+      "summary": "Brand Engagement Network Inc. partners on AI mental health program for South African students aimed at improving mental health support through technology.",
+      "source": "Biztoc.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T16:36:07Z",
+      "url": "https://biztoc.com/x/f0e3afd0505c7031"
+    },
+    {
+      "id": 70,
+      "title": "How AI is Merging With Humans By Targeting Our Weaknesses",
+      "summary": "AI is being used by the elite to merge with humans on a personal, emotional, and even sexual level by targeting our vulnerabilities. This raises ethical concerns about the implications of fully embedding AI in human existence.",
+      "source": "Vigilantcitizen.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T16:35:42Z",
+      "url": "https://vigilantcitizen.com/vigilantreport/how-ai-is-merging-with-humans-by-targeting-our-weaknesses/"
+    },
     {
       "id": 51,
       "title": "Blue Origin to fly AI-powered space surveillance sensor on 1st flight of Blue Ring spacecraft",
@@ -270,186 +450,6 @@
       "category": "startups",
       "timestamp": "2025-07-25T15:34:07Z",
       "url": "https://biztoc.com/x/768f1992ae1bbde2"
-    },
-    {
-      "id": 54,
-      "title": "Walmart bets big on AI with ‘super agent’ strategy",
-      "summary": "Walmart is focusing on AI with a 'super agent' strategy to centralize capabilities and avoid fragmentation, with 900,000 associates already using the technology.",
-      "source": "Retail Dive",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:33:00Z",
-      "url": "https://www.retaildive.com/news/walmart-artificial-intelligence-ai-super-agents-retail-associates/753996/"
-    },
-    {
-      "id": 55,
-      "title": "Commvault Announces Intent to Acquire Data and AI Security Company Satori Cyber",
-      "summary": "Commvault intends to acquire data and AI security company Satori Cyber, in response to the growing need for AI security in enterprises.",
-      "source": "Vmblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:33:00Z",
-      "url": "https://vmblog.com:443/archive/2025/07/25/commvault-announces-intent-to-acquire-data-and-ai-security-company-satori-cyber.aspx"
-    },
-    {
-      "id": 56,
-      "title": "Score the Roborock Qrevo Edge for less than ever and say goodbye to dirty floors",
-      "summary": "Score the Roborock Qrevo Edge for less than ever and say goodbye to dirty floors - The Roborock Qrevo Edge just dropped to its record-low price point once more",
-      "source": "Android Police",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:32:45Z",
-      "url": "https://www.androidpolice.com/roborock-qrevo-edge-at-1100-on-amazon/"
-    },
-    {
-      "id": 57,
-      "title": "This free VS Code extension uses your locally hosted LLM to help you code",
-      "summary": "This free VS Code extension uses your locally hosted LLM to help you code.",
-      "source": "XDA Developers",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:32:33Z",
-      "url": "https://www.xda-developers.com/this-free-vs-code-extension-uses-locally-hosted-llm-to-help-code/"
-    },
-    {
-      "id": 58,
-      "title": "Stephen Meyer is the guy in the red sweater",
-      "summary": "Stephen Meyer is criticized for coming off as smug and uninformed in his discussion of AI, with the comparison made to creationists.",
-      "source": "Freethoughtblogs.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:32:23Z",
-      "url": "https://freethoughtblogs.com/pharyngula/2025/07/25/stephen-meyer-is-the-guy-in-the-red-sweater/"
-    },
-    {
-      "id": 59,
-      "title": "Smart Speakers Like Alexa and Google Assistant Could Tell if You Have Parkinson's",
-      "summary": "Smart speakers like Alexa and Google Assistant could potentially diagnose people with Parkinson's disease with users' consent.",
-      "source": "Newsweek",
-      "category": "research",
-      "timestamp": "2025-07-25T15:31:00Z",
-      "url": "https://www.newsweek.com/ai-parkinsons-disease-screening-amazon-alexa-google-assistant-2104077"
-    },
-    {
-      "id": 60,
-      "title": "This Week in Open Source #5",
-      "summary": "This Week in Open Source #5 featured articles on dead code, open source licenses, a new federated key service, and more.",
-      "source": "Googleblog.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:30:00Z",
-      "url": "https://opensource.googleblog.com/2025/07/this-week-in-open-source-5.html"
-    },
-    {
-      "id": 61,
-      "title": "Turn your weirdest ideas into actual art with Imagiyo",
-      "summary": "Imagiyo is an AI-powered image generator that allows users to turn their ideas into commercial-use images without watermarks.",
-      "source": "New York Post",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:30:00Z",
-      "url": "https://nypost.com/2025/07/25/shopping/imagiyo-ai-image-generator-lifetime-subscription-standard-plan-is-90-off/"
-    },
-    {
-      "id": 62,
-      "title": "7 Wuthering Waves Lore Details You Probably Missed",
-      "summary": "Wuthering Waves has a lot of overlooked lore details due to the numerous characters and factions in the plot. It is easy to miss or misunderstand many of these intricate elements.",
-      "source": "ComicBook.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:29:44Z",
-      "url": "http://comicbook.com/gaming/news/wuthering-waves-lore-story-details-you-missed/"
-    },
-    {
-      "id": 63,
-      "title": "As Private Equity Comes for the Utility Sector, Minnesota Is a Test Case",
-      "summary": "An administrative law judge has issued a report siding with opponents of BlackRock’s acquisition of an electric utility in Minnesota, highlighting ethical concerns regarding private equity involvement in the utility sector.",
-      "source": "Truthout",
-      "category": "ethics",
-      "timestamp": "2025-07-25T15:28:40Z",
-      "url": "https://truthout.org/articles/as-private-equity-comes-for-the-utility-sector-minnesota-is-a-test-case/"
-    },
-    {
-      "id": 64,
-      "title": "Show HN: Narev – Open-Source FinOps for AI and Cloud Spend",
-      "summary": "Narev is an open-source FinOps tool that unifies SaaS billing data from cloud providers like AWS, Azure, GCP, and OpenAI, using FOCUS 1.2 from the FinOps Foundation. It ingests billing data, normalizes it, and provides a single dashboard for users to manage their AI and cloud spend.",
-      "source": "Github.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:28:24Z",
-      "url": "https://github.com/narevai/narev"
-    },
-    {
-      "id": 65,
-      "title": "Cat Caught Comforting Senior Dog Scared of Thunder Melts Hearts",
-      "summary": "A heartwarming video on TikTok shows a black cat comforting a scared senior dog during a thunderstorm, generating emotional reactions among viewers. The AI-generated voice used in the video may have inconsistencies.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:27:50Z",
-      "url": "https://biztoc.com/x/a790b8cdf12c8a08"
-    },
-    {
-      "id": 66,
-      "title": "Americans Advised To Avoid the Sun in 16 States",
-      "summary": "Americans advised to avoid the sun in 16 states due to heightened UV radiation levels, with voice AI-generated forecasts.",
-      "source": "Biztoc.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:27:49Z",
-      "url": "https://biztoc.com/x/8b5a8a618379ec79"
-    },
-    {
-      "id": 67,
-      "title": "Map Shows Cities With the Best Job Markets",
-      "summary": "Today's job market is rife with economic uncertainty, AI disruption and widespread layoffs from government agencies to tech giants. However, where you live can play a major role in the job market you are navigating.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:27:29Z",
-      "url": "https://biztoc.com/x/4c9091892bca655c"
-    },
-    {
-      "id": 51,
-      "title": "aait 2.0.2.2",
-      "summary": "aait 2.0.2.2 - Advanced Artificial Intelligence Tools is a package meant to develop and enable advanced AI functionalities in Orange.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:14:57Z",
-      "url": "https://pypi.org/project/aait/2.0.2.2/"
-    },
-    {
-      "id": 52,
-      "title": "Bill Gates Declares the End of the Smartphone Era and Unveils Its Surprising Replacement",
-      "summary": "The age of smartphones is coming to an end with a revolutionary new tech set to replace them, as predicted by Bill Gates.",
-      "source": "Freerepublic.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:13:39Z",
-      "url": "https://freerepublic.com/focus/f-chat/4330712/posts"
-    },
-    {
-      "id": 53,
-      "title": "Sony RX1R III Pre-Orders Are Strong Despite High Asking Price",
-      "summary": "Sony RX1R III Pre-Orders Are Strong Despite High Asking Price",
-      "source": "PetaPixel",
-      "category": "economy",
-      "timestamp": "2025-07-25T15:09:57Z",
-      "url": "https://petapixel.com/2025/07/25/sony-rx1r-iii-pre-orders-are-strong-despite-high-asking-price/"
-    },
-    {
-      "id": 54,
-      "title": "Google Pixel 10 vs. Pixel 8: Is it almost time to upgrade?",
-      "summary": "Google Pixel 8 owners considering upgrading to the Pixel 10 due to rumors and leaks about exciting changes.",
-      "source": "Android Central",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:09:57Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-vs-pixel-8"
-    },
-    {
-      "id": 55,
-      "title": "ITC envisions food-tech biz as “new vector of growth”",
-      "summary": "ITC Ltd sees its food-tech business as a new growth vector focusing on health, wellness, and functional foods.",
-      "source": "BusinessLine",
-      "category": "innovation",
-      "timestamp": "2025-07-25T15:09:23Z",
-      "url": "https://www.thehindubusinessline.com/companies/itc-envisions-food-tech-biz-as-new-vector-of-growth/article69855681.ece"
-    },
-    {
-      "id": 56,
-      "title": "Why I’m Falling in Love With Digital Asset Management Again",
-      "summary": "AI is turning DAM teams into strategic drivers of smarter, scalable content delivery.",
-      "source": "CMSWire",
-      "category": "applications",
-      "timestamp": "2025-07-25T15:09:08Z",
-      "url": "https://www.cmswire.com/digital-asset-management/why-im-falling-in-love-with-digital-asset-management-again/"
     }
   ]
 }
