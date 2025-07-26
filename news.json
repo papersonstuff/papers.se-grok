@@ -1,6 +1,159 @@
 {
-  "lastUpdate": "2025-07-26T05:45:47.886Z",
+  "lastUpdate": "2025-07-26T06:22:19.299Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Seven in 10 Indian employees carrying at least one lifestyle-related health risk: Survey",
+      "summary": "Seven in 10 Indian employees are found to have at least one lifestyle-related health risk, as highlighted in a new report by MediBuddy and CII. The report emphasizes the evolving healthcare and workplace wellness landscape in India, driven by rising medical costs and a digitally empowered workforce.",
+      "source": "The Times of India",
+      "category": "research",
+      "timestamp": "2025-07-25T06:21:57Z",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/seven-in-10-indian-employees-carrying-at-least-one-lifestyle-related-health-risk-survey/articleshow/122897992.cms"
+    },
+    {
+      "id": 52,
+      "title": "Stocks to Buy | Earnings, Sectors & Risks: Jigar Mistry’s Roadmap for the Next 6 Months",
+      "summary": "Jigar Mistry highlights India's favorable macroeconomic landscape in an interview with ET Now, noting controlled inflation, fiscal deficit, and current account. He provides insights on stocks to buy for the next 6 months.",
+      "source": "Economictimes.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:19:56Z",
+      "url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-earnings-sectors-risks-jigar-mistrys-roadmap-for-the-next-6-months/macro-check-indias-economic-pulse/slideshow/122898140.cms"
+    },
+    {
+      "id": 53,
+      "title": "mcp-templates added to PyPI",
+      "summary": "mcp-templates added to PyPI - Deploy MCP server templates with zero configuration",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T06:16:33Z",
+      "url": "https://pypi.org/project/mcp-templates/"
+    },
+    {
+      "id": 54,
+      "title": "Where tech meets culture: 2025 Hainan Southeast Tech & Art Festival to launch July 25",
+      "summary": "Lingshui, a coastal county in southern China's Hainan province, will host the 2025 Hainan Southeast Tech & Art Festival from July 25-27, focused on empowering art with technology and innovation leading the future.",
+      "source": "TechNode",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:16:09Z",
+      "url": "http://technode.com/2025/07/25/where-tech-meets-culture-2025-hainan-southeast-tech-art-festival-to-launch-july-25/"
+    },
+    {
+      "id": 55,
+      "title": "Intel slumps as potential foundry exit deepens investor gloom",
+      "summary": "Intel shares dropped 8% after warning of exiting chip manufacturing without a major customer, causing investor concerns.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:14:59Z",
+      "url": "https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html"
+    },
+    {
+      "id": 56,
+      "title": "Interview: Cambridge Consultants CEO Monty Barlow scans for tech surprises",
+      "summary": "Cambridge Consultants CEO, Monty Barlow, discusses the company's heritage and future vision for digital technology.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:14:00Z",
+      "url": "https://www.computerweekly.com/news/366627867/Interview-Cambridge-Consultants-CEO-Monty-Barlow-scans-for-tech-surprises"
+    },
+    {
+      "id": 57,
+      "title": "From Prompts To Products: The Business Of No-Code AI Is Booming",
+      "summary": "No-code AI platforms are enabling solo creators to turn prompts into products, helping them launch and scale businesses with ease.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-25T06:13:14Z",
+      "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/07/25/from-prompts-to-products-the-business-of-no-code-ai-is-booming/"
+    },
+    {
+      "id": 58,
+      "title": "ai-edge-litert-nightly 1.4.0.dev20250724",
+      "summary": "Version 1.4.0.dev20250724 of the AI-Edge-LiteRT is designed for mobile and embedded devices, catering to the demand for AI applications on these platforms.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T06:13:05Z",
+      "url": "https://pypi.org/project/ai-edge-litert-nightly/1.4.0.dev20250724/"
+    },
+    {
+      "id": 59,
+      "title": "Apple Releases iOS 26 Public Beta: Eligible Devices, New Features And Steps To Download",
+      "summary": "Apple has released the iOS 26 public beta with a new 'liquid glass' design and AI-powered tools.",
+      "source": "Ndtvprofit.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T06:11:23Z",
+      "url": "https://www.ndtvprofit.com/technology/apple-releases-ios-26-public-beta-eligible-devices-new-features-and-steps-to-download"
+    },
+    {
+      "id": 60,
+      "title": "Why the Middle East is winning the quantum race",
+      "summary": "While Europe debates quantum cyber security policies, the UAE has implemented quantum-resistant algorithm requirements, offering crucial lessons for organisations preparing for the post-quantum era.",
+      "source": "ComputerWeekly.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:08:00Z",
+      "url": "https://www.computerweekly.com/news/366628132/Why-the-Middle-East-is-winning-the-quantum-race"
+    },
+    {
+      "id": 61,
+      "title": "Free Qwen 3 Coder AI Coding Assistant : Insanely Powerful and Open Source",
+      "summary": "Qwen 3 Coder is a new open source AI coding assistant developed by Alibaba with 480 billion parameters, aiming to make coding faster and more accessible.",
+      "source": "Geeky Gadgets",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:07:56Z",
+      "url": "https://www.geeky-gadgets.com/qwen-3-coder-large-language-model/"
+    },
+    {
+      "id": 62,
+      "title": "Samsung launches new foldables and smartwatches with a big focus on AI",
+      "summary": "Samsung launches new foldables and smartwatches with a big focus on AI, including Galaxy Z Fold7, Z Flip7, Z Flip7 FE, Galaxy Watch8, and Watch8 Classic.",
+      "source": "Neowin",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:06:01Z",
+      "url": "https://www.neowin.net/news/samsung-launches-new-foldables-and-smartwatches-with-a-big-focus-on-ai/"
+    },
+    {
+      "id": 63,
+      "title": "Sources: repair demand in China for Nvidia's banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country (Reuters)",
+      "summary": "Demand in China for repairing banned Nvidia AI chips surges as ~12 firms offer repair services for H100 and A100 chips that made their way into the country.",
+      "source": "Techmeme.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:05:01Z",
+      "url": "https://www.techmeme.com/250725/p2"
+    },
+    {
+      "id": 64,
+      "title": "iOS 26 Public Beta is Here: What Will Your iPhone Look Like Now?",
+      "summary": "iOS 26 is now available across compatible iPhones, offering the biggest redesign to an iPhone UI in years.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T06:02:43Z",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/ios-26-public-beta-is-here-what-will-your-iphone-look-like-now/articleshow/122897372.cms"
+    },
+    {
+      "id": 65,
+      "title": "Shiba Inu Price Set To Explode By 40% Above $0.000021, Here’s When",
+      "summary": "Shiba Inu price expected to increase by 40% above $0.000021 as the meme coin market remains profitable",
+      "source": "Bitcoinist",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:00:25Z",
+      "url": "https://bitcoinist.com/shiba-inu-price-set-to-explode/"
+    },
+    {
+      "id": 66,
+      "title": "U.S. to withdraw from UNESCO over Palestine membership, alleged anti-Israel bias",
+      "summary": "U.S. to withdraw from UNESCO over Palestine membership and alleged anti-Israel bias, citing ethical concerns",
+      "source": "Naturalnews.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T06:00:00Z",
+      "url": "https://www.naturalnews.com/2025-07-25-us-withdraw-unesco-palestine-anti-israel-bias.html"
+    },
+    {
+      "id": 67,
+      "title": "Vaisala Corporation Half Year Financial Report January–June 2025: Mixed second quarter – growth in Industrial Measurements and decline in renewable energy business",
+      "summary": "Vaisala Corporation reports mixed second quarter with growth in Industrial Measurements and decline in renewable energy business.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T06:00:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121597/0/en/Vaisala-Corporation-Half-Year-Financial-Report-January-June-2025-Mixed-second-quarter-growth-in-Industrial-Measurements-and-decline-in-renewable-energy-business.html"
+    },
     {
       "id": 51,
       "title": "We Built a Tool to Protect Your Dataset From Simple Scrapers",
@@ -297,159 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T04:29:13Z",
       "url": "https://play.google.com/store/apps/details?id=com.tool4file.neo_archive&amp;hl=en_US"
-    },
-    {
-      "id": 63,
-      "title": "Show HN: I'm Tired Now",
-      "summary": "A new AI tool called BaseBrain is being pitched as a solution for developers debugging code late at night. The tool is designed to understand and assist with bugs in different versions of prompts, providing support to developers in need.",
-      "source": "Hacker News",
-      "category": "startups",
-      "timestamp": "2025-07-25T04:27:41Z",
-      "url": "https://news.ycombinator.com/item?id=44679582"
-    },
-    {
-      "id": 64,
-      "title": "python-alfresco-mcp-server added to PyPI",
-      "summary": "python-alfresco-mcp-server, a FastMCP 2.0 server for Alfresco Content Services integration, has been added to PyPI.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:26:43Z",
-      "url": "https://pypi.org/project/python-alfresco-mcp-server/"
-    },
-    {
-      "id": 65,
-      "title": "LG Energy to ramp up energy storage arm as EV demand cools",
-      "summary": "LG Energy is increasing its energy storage arm production in response to decreased demand for electric vehicles. It plans to significantly expand production capacity by 2026.",
-      "source": "Bloomberg",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:26:43Z",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-25/lg-energy-to-ramp-up-energy-storage-business-as-ev-demand-cools"
-    },
-    {
-      "id": 66,
-      "title": "News Summary-Intelligence Report 7/24/2025*Newsdump Thursday*Deputy AG Meets Maxwell...Pardon?*MTG Warns Data Centers Use Water*Orthodox Jewish Leader Threatens Exodus From Israel*Israeli Media \"There Is Hunger In Gaza\"*Hershey Raising Chocolate Prices*",
-      "summary": "Former Kentucky county clerk seeking US Supreme Court review for damages and attorney fees to two gay men, raising ethical questions. Israeli media reporting hunger in Gaza raises ethical concerns about humanitarian crises.",
-      "source": "Freerepublic.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:24:30Z",
-      "url": "https://freerepublic.com/focus/f-bloggers/4330642/posts"
-    },
-    {
-      "id": 51,
-      "title": "kstflow 0.1.34",
-      "summary": "kstflow 0.1.34 is a new tool that provides KST AI Utilities specifically designed for analyzing medical datasets.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:04:50Z",
-      "url": "https://pypi.org/project/kstflow/0.1.34/"
-    },
-    {
-      "id": 52,
-      "title": "bioguider 0.2.19",
-      "summary": "bioguider 0.2.19 is an AI-Powered package designed to assist biomedical developers in creating clear documentation.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:03:47Z",
-      "url": "https://pypi.org/project/bioguider/0.2.19/"
-    },
-    {
-      "id": 53,
-      "title": "How Reddit Gets Credit; The Substackers Going It Alone",
-      "summary": "Reddit is experiencing a surge in advertiser demand, while not everyone is suitable for Substack; Trump has released an AI Action Plan.",
-      "source": "AdExchanger",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:03:01Z",
-      "url": "http://www.adexchanger.com/daily-news-roundup/friday-25072025/"
-    },
-    {
-      "id": 54,
-      "title": "teraace-tracker 1.1.0",
-      "summary": "teraace-tracker 1.1.0 is a Python library for tracking AI agent events across multiple frameworks including LangChain, CrewAI, and AutoGPT.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T04:01:30Z",
-      "url": "https://pypi.org/project/teraace-tracker/1.1.0/"
-    },
-    {
-      "id": 55,
-      "title": "The Governance Implications of an Important Case About AI and Fair Use",
-      "summary": "The recent federal court ruling in Bartz v. Anthropic PBC has significantly shifted the legal terrain for corporate governance and artificial intelligence, with implications for boards of directors and compliance.",
-      "source": "Columbia.edu",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:01:18Z",
-      "url": "https://clsbluesky.law.columbia.edu/2025/07/25/the-governance-implications-of-an-important-case-about-ai-and-fair-use/"
-    },
-    {
-      "id": 56,
-      "title": "With sports driving the marketplace, David Levy and Chris Weil hope to clean up with HS&E",
-      "summary": "In the competitive sports marketplace, David Levy and Chris Weil are creating new advertising opportunities with secondary and tertiary sports.",
-      "source": "Digiday",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:01:00Z",
-      "url": "http://digiday.com/media/with-sports-driving-the-marketplace-david-levy-and-chris-weil-hope-to-clean-up-with-hse/"
-    },
-    {
-      "id": 57,
-      "title": "New infosec products of the week: July 25, 2025",
-      "summary": "New infosec products of the week: July 25, 2025 featuring releases from Akeyless, Bitdefender, Malwarebytes, ManageEngine, PlexTrac, and Seemplicity. PlexTrac Workflow Automation Engine enhancements accelerate time to remediation.",
-      "source": "Help Net Security",
-      "category": "innovation",
-      "timestamp": "2025-07-25T04:00:50Z",
-      "url": "https://www.helpnetsecurity.com/2025/07/25/new-infosec-products-of-the-week-july-25-2025/"
-    },
-    {
-      "id": 58,
-      "title": "Draganfly Secures Order For Commander 3XL UAV Systems | US Approved FMS To Ukraine | Korean K3 MBT Development Announced",
-      "summary": "Canadian company Draganfly secured a contract to provide its UAV systems to a US Department of Defense branch, supporting Washington's adoption of next-generation platforms.",
-      "source": "Defenseindustrydaily.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:00:12Z",
-      "url": "https://www.defenseindustrydaily.com/draganfly-secures-order-for-commander-3xl-uav-systems-0243248/"
-    },
-    {
-      "id": 59,
-      "title": "This deal with $100 off the Samsung Galaxy Watch 7 is perfect timing for the back-to-school season",
-      "summary": "This deal with $100 off the Samsung Galaxy Watch 7 is perfect timing for the back-to-school season - Never be late to class with this Apple alternative keeping you on track.",
-      "source": "Creative Bloq",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://www.creativebloq.com/tech/smartwatches/this-deal-with-usd100-off-the-samsung-galaxy-watch-7-is-perfect-timing-for-the-back-to-school-season"
-    },
-    {
-      "id": 60,
-      "title": "北日本銀行が、「顧客最優先志向」のもと、お客さま一人ひとりに合った顧客体験の提供に向けて「AIMSTAR」を採用",
-      "summary": "Hokkoku Bank in Japan is adopting AIMSTAR to provide a customer experience tailored to each individual under the principle of 'customer-first approach'.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000160.000091540.html"
-    },
-    {
-      "id": 61,
-      "title": "Got it done: Trump secures a deal with Mexico to stop sending its raw sewage to California's beaches",
-      "summary": "Trump secures deal with Mexico to stop sending raw sewage to California beaches",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/got_it_done_trump_secures_a_deal_with_mexico_to_stop_sending_its_raw_sewage_to_california_s_beaches.html"
-    },
-    {
-      "id": 62,
-      "title": "They’re Not Sanctuary Cities; They’re Slavery Cities",
-      "summary": "Sanctuary cities are criticized for profit motives related to slavery rather than altruistic reasons, raising ethical concerns about the true intentions behind these policies.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://www.americanthinker.com/articles/2025/07/they_re_not_sanctuary_cities_they_re_slavery_cities.html"
-    },
-    {
-      "id": 63,
-      "title": "Will fanboys kill superhero movies?",
-      "summary": "What just happened to the latest Superman reboot – it’s shaping up to be a financial disaster – is looking like it might also be a harsh bellwether of the future of comic book movies.",
-      "source": "Americanthinker.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/will_fanboys_kill_superhero_movies.html"
     }
   ]
 }
