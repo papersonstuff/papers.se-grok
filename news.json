@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T09:15:47.180Z",
+  "lastUpdate": "2025-07-26T09:40:22.572Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Muck Rack analysis of 1M+ citations by Gen AI models; journalistic content was cited 27% of the time, rising to 49% for queries implying \"a level of recency\" (Andrew Deck/Nieman Lab)",
+      "summary": "Muck Rack analysis of 1M+ citations by Gen AI models found that journalistic content was cited 27% of the time, rising to 49% for queries implying 'a level of recency'.",
+      "source": "Mediagazer.com",
+      "category": "research",
+      "timestamp": "2025-07-25T09:40:01Z",
+      "url": "https://mediagazer.com/250725/p2"
+    },
+    {
+      "id": 52,
+      "title": "Samsung delays One UI 8 for Galaxy S25 as beta testing continues",
+      "summary": "Samsung delays One UI 8 for Galaxy S25 as beta testing continues, while the new foldables are already running the updated software. No official release date has been announced for the Galaxy S25 lineup.",
+      "source": "PhoneArena",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:39:28Z",
+      "url": "https://www.phonearena.com/news/samsung-delays-one-ui-8-for-galaxy-s25-as-beta-testing-continues_id172627"
+    },
+    {
+      "id": 53,
+      "title": "voicechatengine 0.0.1",
+      "summary": "voicechatengine 0.0.1 is a Python framework for creating real-time AI voice chat applications using OpenAI's Realtime API.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:39:20Z",
+      "url": "https://pypi.org/project/voicechatengine/0.0.1/"
+    },
+    {
+      "id": 54,
+      "title": "THE NEW ADAM (2)",
+      "summary": "AI-related news about 'The New Adam' reveals strange occurrences.",
+      "source": "Hilobrow.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:39:05Z",
+      "url": "https://www.hilobrow.com/2025/07/25/the-new-adam-2/"
+    },
+    {
+      "id": 55,
+      "title": "Donald Trump's Odds of Completing Presidency Fall Amid Epstein Uproar",
+      "summary": "President Trump's odds of completing presidency have fallen due to backlash from his handling of the Jeffrey Epstein case.",
+      "source": "Newsweek",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:33:17Z",
+      "url": "https://www.newsweek.com/donald-trumps-odds-completing-presidency-fall-amid-epstein-uproar-2103886"
+    },
+    {
+      "id": 56,
+      "title": "✈️Rashford included in squad for Asian tour",
+      "summary": "Rashford has been included in the squad for an Asian tour announced by Flick, with surprises like the absence of Ter Stegen and presence of new signings.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:31:00Z",
+      "url": "https://onefootball.com/en/news/rashford-included-in-squad-for-asian-tour-41422604"
+    },
+    {
+      "id": 57,
+      "title": "U.S. Augmented Reality And Virtual Reality In Healthcare Market Analysis Report 2025-2030 | IT Advancements, VC Funding, AI-5G Integration, and Rising Demand for Telemedicine and Surgical Training",
+      "summary": "The U.S. AR/VR healthcare market is expected to grow at a 15.4% CAGR until 2030, driven by advancements in healthcare IT, start-up ventures, and AI integration.",
+      "source": "GlobeNewswire",
+      "category": "startups",
+      "timestamp": "2025-07-25T09:31:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121680/28124/en/U-S-Augmented-Reality-And-Virtual-Reality-In-Healthcare-Market-Analysis-Report-2025-2030-IT-Advancements-VC-Funding-AI-5G-Integration-and-Rising-Demand-for-Telemedicine-and-Surgica.html"
+    },
+    {
+      "id": 58,
+      "title": "Real Madrid among top clubs using AI technology for injury prevention",
+      "summary": "Real Madrid is using AI technology for injury prevention, following a string of injury problems in recent seasons.",
+      "source": "Madriduniversal.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:30:00Z",
+      "url": "https://madriduniversal.com/real-madrid-among-top-clubs-using-ai-technology-for-injury-prevention/"
+    },
+    {
+      "id": 59,
+      "title": "Leaker explains Samsung’s plans to juggle Android updates and flagship launches",
+      "summary": "Leaker reveals Samsung's strategy to manage Android updates and flagship launches, with major changes expected for Galaxy S series.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:26:07Z",
+      "url": "https://www.androidauthority.com/samsung-one-ui-update-plan-leak-3580996/"
+    },
+    {
+      "id": 60,
+      "title": "As Ad Industry Sheds Jobs, These Agencies Are Growing—and Hiring",
+      "summary": "As the ad industry sheds jobs, certain agencies are growing and hiring new talent, reshaping the workforce.",
+      "source": "Adweek",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:25:39Z",
+      "url": "https://www.adweek.com/agencies/as-ad-industry-sheds-jobs-these-agencies-are-growing-and-hiring/"
+    },
+    {
+      "id": 61,
+      "title": "1xINTERNET blog: 1xINTERNET Drupal AI Initiative Monthly Report - June 2025",
+      "summary": "1xINTERNET blog provides a monthly report on the progress of the Drupal AI Initiative in June 2025, highlighting contributions in workflow, collaboration, and outreach to build a foundation for AI-powered content management.",
+      "source": "1xinternet.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:24:00Z",
+      "url": "https://www.1xinternet.com/en/highlights/1xinternet-drupal-ai-initiative-report-june-2025"
+    },
+    {
+      "id": 62,
+      "title": " Napoli target Sterling, Ndoye and Grealish back in the mix ",
+      "summary": "Napoli target Sterling, Ndoye and Grealish for transfers, showing an active transfer market. Sporting director Giovanni Manna is pursuing big names like Raheem Sterling.",
+      "source": "Onefootball.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:23:00Z",
+      "url": "https://onefootball.com/en/news/napoli-target-sterling-ndoye-and-grealish-back-in-the-mix-41421939"
+    },
+    {
+      "id": 63,
+      "title": "‘Epstein will forever be a loser in people’s minds and Donald Trump doesn’t hang out with losers,’ a Trump insider says, ‘it’s off-brand’",
+      "summary": "A Trump insider states that Epstein will forever be a loser in people's minds and Donald Trump does not associate with losers, as it is off-brand. This news was shared along with other updates in Fortune.",
+      "source": "Fortune",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:22:56Z",
+      "url": "https://fortune.com/2025/07/25/epstein-loser-donald-trump-off-brand/"
+    },
+    {
+      "id": 64,
+      "title": "Google finally figured out how to make search results less annoying",
+      "summary": "Google has introduced Web Guide, an experimental feature using Gemini AI to categorize and summarize search results, aiming to make them less annoying and more organized.",
+      "source": "The Times of India",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:21:16Z",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-finally-figured-out-how-to-make-search-results-less-annoying/articleshow/122901526.cms"
+    },
+    {
+      "id": 65,
+      "title": "Mom Drops Daughter at Grandparents', Hours Later Gets 'Disturbing' Surprise",
+      "summary": "A working mom was surprised to find that a voice message she received from her daughter's grandparents was AI-generated. The AI-generated voice caused inconsistencies and led to a disturbing surprise when collecting her daughter.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:20:06Z",
+      "url": "https://biztoc.com/x/2b8c6f84ad789e1f"
+    },
+    {
+      "id": 66,
+      "title": "Consulting lead at Forvis Mazars helped build parts of the AI Act",
+      "summary": "Dera McLoughlin, consulting lead at Forvis Mazars, played a role in building parts of the AI Act, focusing on cybersecurity, AI, IT auditing, and digital consulting.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:19:41Z",
+      "url": "https://biztoc.com/x/c33f9bbc7ca60503"
+    },
+    {
+      "id": 67,
+      "title": "Intel Confirms Mass Layoffs, Over 24,000 Jobs To Be Cut This Year",
+      "summary": "Intel confirms mass layoffs, over 24,000 jobs to be cut this year, reducing workforce by a third by end of 2024.",
+      "source": "PCMag.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:19:05Z",
+      "url": "https://me.pcmag.com/en/processors/31390/intel-confirms-mass-layoffs-over-24000-jobs-to-be-cut-this-year"
+    },
+    {
+      "id": 68,
+      "title": "Intel Confirms Mass Layoffs, Over 24,000 Jobs To Be Cut This Year",
+      "summary": "Intel confirms mass layoffs, cutting over 24,000 jobs this year in an effort to reduce workforce to 75,000 core employees.",
+      "source": "PCMag.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:19:05Z",
+      "url": "https://uk.pcmag.com/processors/159293/intel-confirms-mass-layoffs-over-24000-jobs-to-be-cut-this-year"
+    },
+    {
+      "id": 69,
+      "title": "Multiply Group Completes Acquisition of Tendam, Doubling Operational EBITDA and Expanding Global Footprint",
+      "summary": "Multiply Group completes acquisition of Tendam, doubling operational EBITDA and expanding global footprint.",
+      "source": "Antaranews.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:18:18Z",
+      "url": "https://en.antaranews.com/news/368821/multiply-group-completes-acquisition-of-tendam-doubling-operational-ebitda-and-expanding-global-footprint"
+    },
     {
       "id": 51,
       "title": "8 Apple Notes Tricks for Ultimate Productivity in 2025",
@@ -279,177 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T08:39:31Z",
       "url": "https://www.gadgets360.com/ai/news/google-gemini-mobile-app-audio-overviews-media-player-feature-rolling-out-8947599"
-    },
-    {
-      "id": 63,
-      "title": "upstash-search 0.1.1",
-      "summary": "upstash-search 0.1.1 is a new HTTP/REST based AI Search client that utilizes the Upstash REST API for enhanced search capabilities.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:36:28Z",
-      "url": "https://pypi.org/project/upstash-search/0.1.1/"
-    },
-    {
-      "id": 64,
-      "title": "netra-sdk 0.1.21",
-      "summary": "netra-sdk 0.1.21 is a Python SDK for AI application observability, providing monitoring, tracing, and PII protection for LLM and vector database applications, enabling easy instrumentation, session tracking, and privacy-focused data collection for AI systems.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:35:27Z",
-      "url": "https://pypi.org/project/netra-sdk/0.1.21/"
-    },
-    {
-      "id": 65,
-      "title": "Parent and Son Enter Woods—Internet Stunned by What They Discover",
-      "summary": "A hiker and their young son stumbled across what appeared to be a makeshift 'spiritual altar' deep in the woods—and the internet can't stop speculating about what it all means. The viral post, shared by Reddit.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:35:13Z",
-      "url": "https://biztoc.com/x/149ad42566e15d02"
-    },
-    {
-      "id": 66,
-      "title": "Google DeepMind CEO says Meta poaching AI talent makes sense because 'they're behind and they need to do something'",
-      "summary": "Google DeepMind CEO supports Meta's poaching of AI talent to catch up in the AI race.",
-      "source": "Business Insider",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:34:50Z",
-      "url": "https://www.businessinsider.com/deepmind-ceo-says-meta-poaching-ai-talent-is-rational-2025-7"
-    },
-    {
-      "id": 67,
-      "title": "PARLIAMENT QUESTION: STRATEGIES TO EXPAND INDIA'S SHARE IN THE GLOBAL SPACE ECONOMY",
-      "summary": "IN-SPACe has approached Indian states, including Andhra Pradesh, to establish a space manufacturing cluster in order to expand India's share in the global space economy.",
-      "source": "Globalsecurity.org",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:34:32Z",
-      "url": "https://www.globalsecurity.org/space/library/news/2025/space-250724-india-pib03.htm"
-    },
-    {
-      "id": 51,
-      "title": "Airfare AI Debates, Hotel EV Demand and Southwest’s Baggage Bonanzas",
-      "summary": "American Air vows to use AI for pricing, Hilton sees EV charging as competitive advantage, Southwest celebrates billion dollar baggage revenue",
-      "source": "Skift",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:19:23Z",
-      "url": "http://skift.com/2025/07/25/airfare-ai-debates-hotel-ev-demand-and-southwests-baggage-bonanzas/"
-    },
-    {
-      "id": 52,
-      "title": "Victory Capital Management Inc. Sells 28,044 Shares of Nice (NASDAQ:NICE)",
-      "summary": "Victory Capital Management Inc. sells 28,044 shares of Nice (NASDAQ:NICE) during the first quarter.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:19:11Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/victory-capital-management-inc-sells-28044-shares-of-nice-nasdaqnice/"
-    },
-    {
-      "id": 53,
-      "title": "Ezconn hits 12-year revenue high despite FX losses",
-      "summary": "EZconn achieved a 12-year revenue high due to global AI momentum and US infrastructure development, resulting in strong order demand from US clients in 2025.",
-      "source": "Digitimes",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:18:40Z",
-      "url": "https://www.digitimes.com/news/a20250725PD208/revenue-ezconn-profit-infrastructure-demand.html"
-    },
-    {
-      "id": 54,
-      "title": "India Communication Platform as a Service (CPaaS) Market Review 2021-2024 and Industry Forecast to 2031 - Twilio, Infobip, and Bandwidth Lead",
-      "summary": "India's CPaaS Market is thriving due to digital transformation, smartphone penetration, and omnichannel communication needs in sectors like BFSI, healthcare, and e-commerce. Opportunities lie in AI integration for enhanced interactions.",
-      "source": "GlobeNewswire",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:17:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121643/28124/en/India-Communication-Platform-as-a-Service-CPaaS-Market-Review-2021-2024-and-Industry-Forecast-to-2031-Twilio-Infobip-and-Bandwidth-Lead.html"
-    },
-    {
-      "id": 55,
-      "title": "Do’s and Don’ts of Converting Travel Browsers Into Bookers",
-      "summary": "Do's and Don'ts of Converting Travel Browsers Into Bookers",
-      "source": "Hospitality Net",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:17:00Z",
-      "url": "https://www.hospitalitynet.org/opinion/4128295.html"
-    },
-    {
-      "id": 56,
-      "title": "New ChatGPT 5 Details Just Changed Everything",
-      "summary": "OpenAI's upcoming ChatGPT 5 promises to revolutionize the way we interact with technology by enabling advanced capabilities like analyzing text, interpreting images, and processing audio or video all within a single system.",
-      "source": "Geeky Gadgets",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:14:17Z",
-      "url": "https://www.geeky-gadgets.com/openai-chatgpt-5-multimodal-ai/"
-    },
-    {
-      "id": 57,
-      "title": "AI DevOps Market 2025-2029: Key Trends and Innovations Set to Propel Market Growth",
-      "summary": "Key trends and innovations in AI DevOps market are set to propel market growth, driven by modern IT complexity, demand for faster software delivery, and increased AI accessibility.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:13:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121639/28124/en/AI-DevOps-Market-2025-2029-Key-Trends-and-Innovations-Set-to-Propel-Market-Growth.html"
-    },
-    {
-      "id": 58,
-      "title": "MicroStrategy Incorporated (NASDAQ:MSTR) Given Average Recommendation of “Moderate Buy” by Brokerages",
-      "summary": "MicroStrategy Incorporated has been given an average recommendation of 'Moderate Buy' by brokerages.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:12:50Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/microstrategy-incorporated-nasdaqmstr-given-average-recommendation-of-moderate-buy-by-brokerages/"
-    },
-    {
-      "id": 59,
-      "title": "Ship Recycling Market Report 2025 | Key Market Trends Include Growing Demand for Scrap Steel, Automation Via Robotics, and Stricter End-of-life Regulations",
-      "summary": "The ship recycling market is projected to grow from $9.1 billion in 2025 to $13 billion by 2030, with a 7.4% CAGR. Key trends include growing demand for scrap steel, automation via robotics, and stricter end-of-life regulations.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:12:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121638/28124/en/Ship-Recycling-Market-Report-2025-Key-Market-Trends-Include-Growing-Demand-for-Scrap-Steel-Automation-Via-Robotics-and-Stricter-End-of-life-Regulations.html"
-    },
-    {
-      "id": 60,
-      "title": "Northland Securities Downgrades Astera Labs (NASDAQ:ALAB) to Market Perform",
-      "summary": "Northland Securities downgrades Astera Labs from an outperform rating to a market perform rating, citing a $120.00 price objective on the stock.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:10:51Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/northland-securities-downgrades-astera-labs-nasdaqalab-to-market-perform/"
-    },
-    {
-      "id": 61,
-      "title": "ServiceNow (NYSE:NOW) Shares Gap Up on Strong Earnings",
-      "summary": "ServiceNow (NYSE:NOW) Shares Gap Up on Strong Earnings - ServiceNow, Inc. (NYSE:NOW – Get Free Report) shares gapped up prior to trading on Thursday after the company announced better than expected quarterly earnings.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:10:48Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/servicenow-nysenow-shares-gap-up-on-strong-earnings/"
-    },
-    {
-      "id": 62,
-      "title": "AI Should Help Fund Creative Labor",
-      "summary": "Generative AI models should assist in funding creative labor by implementing levies on AI firms' revenues, ensuring proper compensation for artists, journalists, and other content creators.",
-      "source": "Project Syndicate",
-      "category": "ethics",
-      "timestamp": "2025-07-25T08:10:45Z",
-      "url": "https://www.project-syndicate.org/onpoint/how-ai-profits-can-help-fund-cultural-production-by-mariana-mazzucato-and-fausto-gernone-2025-07"
-    },
-    {
-      "id": 63,
-      "title": "Malaysian Hospitals Market Report 2025-2034: Revenues to Hit USD 19.13 Billion",
-      "summary": "Malaysian hospitals are projected to generate revenues of USD 19.13 billion by 2034, with key segments focusing on private, multispecialty hospitals that offer outpatient services.",
-      "source": "GlobeNewswire",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:09:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121634/28124/en/Malaysian-Hospitals-Market-Report-2025-2034-Revenues-to-Hit-USD-19-13-Billion.html"
-    },
-    {
-      "id": 64,
-      "title": "Beavis & Butt-head Creator HTeases Potential for Live-Action Version of Series",
-      "summary": "Mike Judge, creator of Beavis and Butt-Head, is considering a live-action version of the series, marking a potential evolution for the iconic characters.",
-      "source": "ComicBook.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:09:00Z",
-      "url": "http://comicbook.com/tv-shows/news/beavis-and-butt-head-live-action-mike-judge-comments-sdcc-2025/"
     }
   ]
 }
