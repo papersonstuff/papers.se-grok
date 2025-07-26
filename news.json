@@ -1,6 +1,177 @@
 {
-  "lastUpdate": "2025-07-26T17:14:24.098Z",
+  "lastUpdate": "2025-07-26T17:36:25.796Z",
   "items": [
+    {
+      "id": 51,
+      "title": "The S&P 500 is ‘extremely concentrated,’ Apollo economist says, warning the best AI investment may not be in the Magnificent 7",
+      "summary": "The S&P 500 is considered extremely concentrated by Apollo economist Torsten Sløk, suggesting that the best AI investment may not be within the Magnificent 7. Diversified exposure to risk through the S&P 500 is no longer as effective as it was previously believed.",
+      "source": "Fortune",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:35:59Z",
+      "url": "https://fortune.com/2025/07/25/sp500-magnificent-7-pricing-apollo-economist-torsten-slok/"
+    },
+    {
+      "id": 52,
+      "title": "Intel slumps as potential foundry exit deepens investor gloom",
+      "summary": "Intel's potential exit from the foundry business has led to investor concerns, with plans to shrink workforce and halt work on plants in Europe and Ohio.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:35:40Z",
+      "url": "https://economictimes.indiatimes.com/tech/technology/intel-slumps-as-potential-foundry-exit-deepens-investor-gloom/articleshow/122910366.cms"
+    },
+    {
+      "id": 53,
+      "title": "dynamiq 0.22.0",
+      "summary": "Dynamiq 0.22.0 is an orchestration framework designed for agentic AI and LLM applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:35:38Z",
+      "url": "https://pypi.org/project/dynamiq/0.22.0/"
+    },
+    {
+      "id": 54,
+      "title": "dyff-schema 0.30.1",
+      "summary": "dyff-schema 0.30.1 released with updated data models for the Dyff AI auditing platform.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:35:16Z",
+      "url": "https://pypi.org/project/dyff-schema/0.30.1/"
+    },
+    {
+      "id": 55,
+      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
+      "summary": "Sam Altman warns of the lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal or policy framework for AI.",
+      "source": "Yahoo Entertainment",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:33:29Z",
+      "url": "https://finance.yahoo.com/news/sam-altman-warns-no-legal-173329143.html"
+    },
+    {
+      "id": 56,
+      "title": "Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist",
+      "summary": "Sam Altman warns of lack of legal confidentiality when using ChatGPT as a therapist, highlighting the need for a legal framework for AI.",
+      "source": "TechCrunch",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:33:29Z",
+      "url": "https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/"
+    },
+    {
+      "id": 57,
+      "title": "Golfer Achieves One-In-A-Trillion Feat In Las Vegas With Two Albatrosses In One Round",
+      "summary": "Golfer Cam Starr achieved a one-in-a-trillion feat by scoring two albatrosses in one round in Las Vegas, a rare occurrence that has only happened once in a PGA Tour event. This remarkable accomplishment highlights the innovative skills and abilities of athletes in the field of golf.",
+      "source": "BroBible",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:33:09Z",
+      "url": "https://brobible.com/sports/article/golfer-cam-starr-two-albatrosses-one-round/"
+    },
+    {
+      "id": 58,
+      "title": "LG's Gram Pro 2025 is one of the lightest 17-inch laptops ever built — and it now comes with an Nvidia RTX 5050 GPU",
+      "summary": "LG's Gram Pro 2025 is one of the lightest 17-inch laptops ever built, now with an Nvidia RTX 5050 GPU, bringing hybrid AI and 2TB SSD to ultra-thin frames.",
+      "source": "TechRadar",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:32:00Z",
+      "url": "https://www.techradar.com/pro/lgs-gram-pro-2025-is-one-of-the-lightest-17-inch-laptops-ever-built-and-it-now-comes-with-an-nvidia-rtx-5050-gpu"
+    },
+    {
+      "id": 59,
+      "title": "Nearly 40% Of Homeowners Are Mortgage-Free — You'd Think That's A Good Thing, But It's Fueling A Lock-In Crisis and Freezing the Housing Market",
+      "summary": "Nearly 40% of homeowners being mortgage-free is fueling a lock-in crisis and freezing the housing market, impacting the economy.",
+      "source": "Yahoo Entertainment",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:31:03Z",
+      "url": "https://finance.yahoo.com/news/nearly-40-homeowners-mortgage-free-173103576.html"
+    },
+    {
+      "id": 60,
+      "title": "What Powers (Almost) Everything We Do",
+      "summary": "North America's electrical system is both impressive and chaotic, with the constant risk of blackouts. The need for innovation in managing and improving this complex system is crucial.",
+      "source": "Thenewatlantis.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:31:00Z",
+      "url": "https://www.thenewatlantis.com/publications/how-electricity-system-works"
+    },
+    {
+      "id": 61,
+      "title": "We’ve reached peak Marvel mess",
+      "summary": "The chaos surrounding the press tour for 'The Fantastic Four: First Steps' movie is attributed to the Marvel machine, highlighting ethical concerns in the entertainment industry.",
+      "source": "Salon",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:30:12Z",
+      "url": "https://www.salon.com/2025/07/25/weve-reached-peak-marvel-mess-with-fantastic-four-first-steps/"
+    },
+    {
+      "id": 62,
+      "title": "Upskilling strategies for the AI era",
+      "summary": "Upskilling strategies for the AI era - Paylocity reports on the urgent need for upskilling in an AI-driven workplace, highlighting strategies to address skills gaps and enhance employee adaptation.",
+      "source": "Paylocity.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:30:04Z",
+      "url": "https://www.paylocity.com/resources/library/articles/ai-upskilling/"
+    },
+    {
+      "id": 63,
+      "title": "Infinix HOT 60 Pro Plus Sets Record for Slimmest 3D-Curved Phone",
+      "summary": "Infinix HOT 60 Pro Plus sets a new record for the slimmest 3D-curved phone, measuring just 5.95mm thick, breaking smartphone design barriers on July 25, 2025.",
+      "source": "TalkAndroid",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:30:00Z",
+      "url": "https://www.talkandroid.com/512738-infinix-hot-60-pro-plus-launched/"
+    },
+    {
+      "id": 64,
+      "title": "prometheous 0.1.0",
+      "summary": "Prometheous 0.1.0 is an AI-powered tool that generates documentation and indexes vectors. It is designed to enhance the efficiency of documentation creation and organization.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:29:37Z",
+      "url": "https://pypi.org/project/prometheous/"
+    },
+    {
+      "id": 65,
+      "title": "As AI becomes more popular, concerns grow over its effect on mental health",
+      "summary": "As AI becomes more popular, concerns grow over its effect on mental health - Too much of anything is bad for you, including faux-magical statistical models. There are numerous recent reports of people becoming too engaged with AI, sometimes to the detriment of their mental health.",
+      "source": "Theregister.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T17:28:12Z",
+      "url": "https://www.theregister.com/2025/07/25/is_ai_contributing_to_mental/"
+    },
+    {
+      "id": 66,
+      "title": "This Week in AI: President Trump Releases AI Action Plan; Delta Tests Personalized Pricing",
+      "summary": "The White House released a policy roadmap detailing President Donald Trump’s strategy to maintain U.S. leadership in the global artificial intelligence (AI) race.",
+      "source": "pymnts.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:24:06Z",
+      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/this-week-in-ai-president-trump-releases-ai-action-plan-delta-tests-personalized-pricing/"
+    },
+    {
+      "id": 67,
+      "title": "Who Will Be The Winners And Losers Of The Next Debt Crisis?",
+      "summary": "My prediction is that France, the UK and the US will spend the next fifteen years in the ‘Debtor’s Prison’, while low debt countries will enjoy a strategic opportunity.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-25T17:22:52Z",
+      "url": "https://www.forbes.com/sites/mikeosullivan/2025/07/25/who-will-be-the-winners-and-losers-of-the-next-debt-crisis/"
+    },
+    {
+      "id": 68,
+      "title": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents",
+      "summary": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents for real-time document analysis.",
+      "source": "Amazon.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T17:22:37Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-ediscovery-solution-using-amazon-bedrock-agents/"
+    },
+    {
+      "id": 69,
+      "title": "AMD Strix Halo Makes Handheld Debut in GPD Win Max 5 Teaser, Boasts Impressive FPS",
+      "summary": "AMD's Strix Halo APU debuts in GPD Win Max 5 gaming handheld, boasting impressive FPS and representing a new innovation in handheld gaming technology.",
+      "source": "Techpowerup.com",
+      "category": "innovation",
+      "timestamp": "2025-07-25T17:22:33Z",
+      "url": "https://www.techpowerup.com/339283/amd-strix-halo-makes-handheld-debut-in-gpd-win-max-5-teaser-boasts-impressive-fps"
+    },
     {
       "id": 51,
       "title": "I spent a week with the Samsung Galaxy Z Flip 7, and it's an even bigger leap than expected",
@@ -279,177 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T16:43:48Z",
       "url": "https://theconversation.com/a-company-says-it-could-turn-mercury-into-gold-using-nuclear-fusion-can-we-take-this-claim-seriously-261891"
-    },
-    {
-      "id": 62,
-      "title": "EU’s Von der Leyen to Meet Trump in Bid to Clinch Trade Deal",
-      "summary": "European Commission President Ursula von der Leyen is meeting with US President Donald Trump in hopes of finalizing a trade deal before impending tariffs on the EU's exports.",
-      "source": "Financial Post",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:43:46Z",
-      "url": "https://financialpost.com/pmn/business-pmn/eus-von-der-leyen-to-meet-trump-in-bid-to-clinch-trade-deal"
-    },
-    {
-      "id": 63,
-      "title": "China's 'Project of the Century'—World's Biggest Hydropower Dam—Is Underway",
-      "summary": "China's 'Project of the Century' involves building the world's biggest hydropower dam, which could potentially power the state of Texas with its incredible energy output.",
-      "source": "Newsweek",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:43:34Z",
-      "url": "https://www.newsweek.com/china-worlds-largest-hydropower-dam-construction-begins-2104185"
-    },
-    {
-      "id": 64,
-      "title": "These $60 wireless earbuds made me question my audio spending habits",
-      "summary": "Soundpeats new Air5 Pro earbuds are impressively priced at $60, causing users to reconsider their audio spending habits.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:43:00Z",
-      "url": "https://www.zdnet.com/article/these-60-wireless-earbuds-made-me-question-my-audio-spending-habits/"
-    },
-    {
-      "id": 65,
-      "title": "godml 0.3.1",
-      "summary": "godml 0.3.1 is a Governed, Observable & Declarative Machine Learning Framework that was released.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:42:59Z",
-      "url": "https://pypi.org/project/godml/0.3.1/"
-    },
-    {
-      "id": 66,
-      "title": "Google's new AI tool Opal turns prompts into apps, no coding required",
-      "summary": "Google's new AI tool Opal enables developers to create apps using natural language prompts and interactive visual aids, without the need for coding.",
-      "source": "ZDNet",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:41:07Z",
-      "url": "https://www.zdnet.com/article/googles-new-ai-tool-opal-turns-prompts-into-apps-no-coding-required/"
-    },
-    {
-      "id": 67,
-      "title": "Trump wants to ban 'woke AI.' Here's why it's hard to make a truly neutral chatbot.",
-      "summary": "Trump wants to ban 'woke AI' due to challenges in making truly neutral chatbots.",
-      "source": "Business Insider",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:40:53Z",
-      "url": "https://www.businessinsider.com/trump-ban-woke-ai-human-bias-neutral-chatbot-training-2025-7"
-    },
-    {
-      "id": 68,
-      "title": "PikoAi 0.1.30",
-      "summary": "PikoAi 0.1.30 is an AI-powered task automation tool that aims to streamline and optimize various processes.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T16:37:43Z",
-      "url": "https://pypi.org/project/pikoai/0.1.30/"
-    },
-    {
-      "id": 69,
-      "title": "Brand Engagement Network Partners on AI Mental Health Program for South African Students",
-      "summary": "Brand Engagement Network Inc. partners on AI mental health program for South African students aimed at improving mental health support through technology.",
-      "source": "Biztoc.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:36:07Z",
-      "url": "https://biztoc.com/x/f0e3afd0505c7031"
-    },
-    {
-      "id": 70,
-      "title": "How AI is Merging With Humans By Targeting Our Weaknesses",
-      "summary": "AI is being used by the elite to merge with humans on a personal, emotional, and even sexual level by targeting our vulnerabilities. This raises ethical concerns about the implications of fully embedding AI in human existence.",
-      "source": "Vigilantcitizen.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:35:42Z",
-      "url": "https://vigilantcitizen.com/vigilantreport/how-ai-is-merging-with-humans-by-targeting-our-weaknesses/"
-    },
-    {
-      "id": 51,
-      "title": "Blue Origin to fly AI-powered space surveillance sensor on 1st flight of Blue Ring spacecraft",
-      "summary": "Blue Origin will be flying an AI-powered space surveillance sensor on its Blue Ring spacecraft's first flight, using Scout Space's Owl sensor for space domain awareness.",
-      "source": "Space.com",
-      "category": "innovation",
-      "timestamp": "2025-07-25T16:17:29Z",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-fly-ai-powered-space-surveillance-sensor-on-1st-flight-of-blue-ring-spacecraft"
-    },
-    {
-      "id": 52,
-      "title": "South Park creators reveal 4-day legal fight over shock Trump episode",
-      "summary": "South Park creators revealed a 4-day legal fight over a shock Trump episode, sarcastically apologizing for causing outrage to Donald Trump.",
-      "source": "Raw Story",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:14:51Z",
-      "url": "https://www.rawstory.com/south-park-trump/"
-    },
-    {
-      "id": 53,
-      "title": "As Spotify moves to video, the environmental footprint of music streaming hits the high notes",
-      "summary": "Concerns about the environmental impact of music streaming are raised as Spotify transitions to video, which consumes significantly more energy. Aimless streaming should be avoided to reduce the carbon footprint of streaming services.",
-      "source": "The Conversation Africa",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:14:19Z",
-      "url": "https://theconversation.com/as-spotify-moves-to-video-the-environmental-footprint-of-music-streaming-hits-the-high-notes-259939"
-    },
-    {
-      "id": 54,
-      "title": "This Lenovo laptop with new Ryzen AI CPU and 16GB RAM is only $450 today",
-      "summary": "This Lenovo laptop with new Ryzen AI CPU and 16GB RAM is only $450 today - Dang, it’s hard to find a good, cheap laptop that’s actually worth using these days. But the Lenovo IdeaPad Slim 5 has slipped below the $500 mark, and it didn’t have to cut its specs to do so. Today, you can get one with a brand-new Ryzen AI processor and 16GB of RAM for a great price.",
-      "source": "PCWorld",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:12:48Z",
-      "url": "https://www.pcworld.com/article/2859281/this-lenovo-laptop-with-new-ryzen-ai-cpu-and-16gb-ram-is-only-450-today.html"
-    },
-    {
-      "id": 55,
-      "title": "McDonald's McHire AI Bot Just Exposed The Personal Data Of 64 McMillion People",
-      "summary": "A security lapse in McDonald’s job application system exposed the personal data of around 64 million people due to the use of a weak password.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T16:12:17Z",
-      "url": "https://biztoc.com/x/f0d6f79453035da6"
-    },
-    {
-      "id": 56,
-      "title": "Apple Faces Existential Threat If It Fails To Act On GenAI",
-      "summary": "Apple Inc. is facing mounting pressure from investors as concerns intensify over its lagging generative AI (GenAI) strategy, a key driver of growth across the tech sector.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:12:16Z",
-      "url": "https://biztoc.com/x/ffaa4eeed6020274"
-    },
-    {
-      "id": 57,
-      "title": "Ruvi AI (RUVI) Secures Spotlight Thanks To CoinMarketCap Listing, Its Audited Token Is Believed To Be a Millionaire Maker",
-      "summary": "Ruvi AI (RUVI) secures spotight with CoinMarketCap listing and its audited token is believed to be a millionaire maker. With blockchain and AI integration, Ruvi AI is seen as an exciting entrant into the cryptocurrency space.",
-      "source": "Cryptopolitan",
-      "category": "startups",
-      "timestamp": "2025-07-25T16:11:44Z",
-      "url": "https://partner.cryptopolitan.com/ruvi-ai-ruvi-secures-spotlight-thanks-to-coinmarketcap-listing-its-audited-token-is-believed-to-be-a-millionaire-maker/"
-    },
-    {
-      "id": 58,
-      "title": "Taiwan Semiconductor Manufacturing Co. (TSM) Hikes Q3 Revenue Guidance amid AI Boom",
-      "summary": "Taiwan Semiconductor Manufacturing Co. (TSM) raises Q3 revenue guidance due to the AI boom, making it a top stock to buy. The semiconductor manufacturer is thriving in the current economic climate.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:10:18Z",
-      "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-tsm-161018820.html"
-    },
-    {
-      "id": 59,
-      "title": "Piper Sandler Reaffirms Overweight Rating on SAP Amid Cloud Momentum",
-      "summary": "Piper Sandler reaffirmed its Overweight rating on SAP amid cloud momentum, making it one of the best 52-week high stocks to buy now.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:10:16Z",
-      "url": "https://finance.yahoo.com/news/piper-sandler-reaffirms-overweight-rating-161016534.html"
-    },
-    {
-      "id": 60,
-      "title": "As FCC Clears Paramount-Skydance Merger, Analyst Says the ‘Real Work Begins’",
-      "summary": "MoffettNathanson awaits clarity on the future of Paramount+ and the linear network portfolio, content strategy and investment, and sports rights renewals following FCC clearance of Paramount-Skydance merger.",
-      "source": "TheWrap",
-      "category": "economy",
-      "timestamp": "2025-07-25T16:10:15Z",
-      "url": "https://www.thewrap.com/paramount-skydance-merger-fcc-approval-wall-street-analyst-reaction/"
     }
   ]
 }
