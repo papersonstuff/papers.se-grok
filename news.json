@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-26T04:05:29.803Z",
+  "lastUpdate": "2025-07-26T04:49:46.546Z",
   "items": [
+    {
+      "id": 51,
+      "title": "Galaxy S25 users, you’ll have to wait a bit longer for the stable One UI 8 update",
+      "summary": "Galaxy S25 users will have to wait longer for One UI 8 update as Samsung continues testing with a fourth beta of Android 16-based One UI 8.",
+      "source": "Android Authority",
+      "category": "innovation",
+      "timestamp": "2025-07-25T04:47:12Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-4-update-3580926/"
+    },
+    {
+      "id": 52,
+      "title": "White House lashes out at ‘South Park’ Trump parody",
+      "summary": "White House criticizes 'South Park' for Trump parody involving Satan",
+      "source": "Digital Journal",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:42:11Z",
+      "url": "https://www.digitaljournal.com/entertainment/white-house-lashes-out-at-south-park-trump-parody/article"
+    },
+    {
+      "id": 53,
+      "title": "Sundar Pichai becomes billionaire despite sharp drop in salary over 2 years — here’s how much the Google CEO earns",
+      "summary": "Sundar Pichai becomes billionaire despite salary drop, with net worth at $1.1 billion according to Bloomberg Billionaires Index.",
+      "source": "Livemint",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:42:08Z",
+      "url": "https://www.livemint.com/companies/people/sundar-pichai-becomes-billionaire-despite-sharp-drop-in-salary-over-2-years-here-s-how-much-the-google-ceo-earns-11753415099499.html"
+    },
+    {
+      "id": 54,
+      "title": "Dixon receives govt approval for JV with Chinese firm Longcheer",
+      "summary": "Dixon receives govt approval for JV with Chinese firm Longcheer called Dixtel Infocomm, and also working on a JV with Vivo.",
+      "source": "BusinessLine",
+      "category": "startups",
+      "timestamp": "2025-07-25T04:40:36Z",
+      "url": "https://www.thehindubusinessline.com/companies/dixon-receives-govt-approval-for-jv-with-chinese-firm-longcheer/article69853503.ece"
+    },
+    {
+      "id": 55,
+      "title": "FBI Warning—Do Not Install This App On Your PC Or Smartphone",
+      "summary": "FBI warns against installing a dangerous app on PC or smartphone, advising caution against new attacks and how to protect against them.",
+      "source": "Forbes",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:39:53Z",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/25/fbi-warning-do-not-install-these-apps/"
+    },
+    {
+      "id": 56,
+      "title": "Dixon Technologies receives govt approval for JV with Chinese firm Longcheer",
+      "summary": "Dixon Technologies has received government approval to establish a joint venture with Chinese firm Longcheer, with plans to manufacture smartphones and tablets under the new entity.",
+      "source": "The Times of India",
+      "category": "startups",
+      "timestamp": "2025-07-25T04:38:37Z",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/dixon-technologies-receives-govt-approval-for-jv-with-chinese-firm-longcheer/articleshow/122895046.cms"
+    },
+    {
+      "id": 57,
+      "title": "Nvidia AI chips worth $1 billion entered China despite US curbs: FT",
+      "summary": "Nvidia AI chips worth $1 billion were smuggled into China despite US restrictions, including banned high-end processors, following tighter export controls. This influx of smuggled products had financial implications for the market.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:37:44Z",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ai-chips-worth-1-billion-entered-china-despite-us-curbs-ft/articleshow/122895024.cms"
+    },
+    {
+      "id": 58,
+      "title": "From WhatsApp tips to deepfakes: Nilesh Shah warns Gen Z on investment pitfalls",
+      "summary": "Nilesh Shah cautions Gen Z investors about the pitfalls of social media hype and unverified tips, emphasizing the importance of fundamental research and long-term investing.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:29:41Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-tips-to-deepfakes-nilesh-shah-warns-gen-z-on-investment-pitfalls/articleshow/122894753.cms"
+    },
+    {
+      "id": 59,
+      "title": "Tech giants ramp up AI spending in heated infrastructure race",
+      "summary": "Tech giants are increasing their AI infrastructure spending, with Alphabet raising its 2025 capex to $85 billion. This signals a heated race among technology companies to invest in AI despite uncertain returns.",
+      "source": "Digitimes",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:29:36Z",
+      "url": "https://www.digitimes.com/news/a20250725PD207/alphabet-2025-infrastructure-technology-google.html"
+    },
+    {
+      "id": 60,
+      "title": "anyspecs added to PyPI",
+      "summary": "anyspecs, a Specs Export Tool for AI Assistants, has been added to PyPI for use in creating AI applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:29:29Z",
+      "url": "https://pypi.org/project/anyspecs/"
+    },
+    {
+      "id": 61,
+      "title": "anyspecs 0.0.1",
+      "summary": "an AI tool called anyspecs 0.0.1 has been developed to export specifications for AI assistants, providing a valuable resource for developers working on AI projects.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:29:29Z",
+      "url": "https://pypi.org/project/anyspecs/0.0.1/"
+    },
+    {
+      "id": 62,
+      "title": "Show HN: NeoArchive – Offline Android File Manager with 25 Tools",
+      "summary": "I built an offline-first Android app called NeoArchive that acts as a file manager with 25 tools, including media conversion and PDF splitting. The app works without requiring a login and is optimized for low-end phones, built using Flutter with native plugins for audio/video processing.",
+      "source": "Google News",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:29:13Z",
+      "url": "https://play.google.com/store/apps/details?id=com.tool4file.neo_archive&amp;hl=en_US"
+    },
+    {
+      "id": 63,
+      "title": "Show HN: I'm Tired Now",
+      "summary": "A new AI tool called BaseBrain is being pitched as a solution for developers debugging code late at night. The tool is designed to understand and assist with bugs in different versions of prompts, providing support to developers in need.",
+      "source": "Hacker News",
+      "category": "startups",
+      "timestamp": "2025-07-25T04:27:41Z",
+      "url": "https://news.ycombinator.com/item?id=44679582"
+    },
+    {
+      "id": 64,
+      "title": "python-alfresco-mcp-server added to PyPI",
+      "summary": "python-alfresco-mcp-server, a FastMCP 2.0 server for Alfresco Content Services integration, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:26:43Z",
+      "url": "https://pypi.org/project/python-alfresco-mcp-server/"
+    },
+    {
+      "id": 65,
+      "title": "LG Energy to ramp up energy storage arm as EV demand cools",
+      "summary": "LG Energy is increasing its energy storage arm production in response to decreased demand for electric vehicles. It plans to significantly expand production capacity by 2026.",
+      "source": "Bloomberg",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:26:43Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-25/lg-energy-to-ramp-up-energy-storage-business-as-ev-demand-cools"
+    },
+    {
+      "id": 66,
+      "title": "News Summary-Intelligence Report 7/24/2025*Newsdump Thursday*Deputy AG Meets Maxwell...Pardon?*MTG Warns Data Centers Use Water*Orthodox Jewish Leader Threatens Exodus From Israel*Israeli Media \"There Is Hunger In Gaza\"*Hershey Raising Chocolate Prices*",
+      "summary": "Former Kentucky county clerk seeking US Supreme Court review for damages and attorney fees to two gay men, raising ethical questions. Israeli media reporting hunger in Gaza raises ethical concerns about humanitarian crises.",
+      "source": "Freerepublic.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:24:30Z",
+      "url": "https://freerepublic.com/focus/f-bloggers/4330642/posts"
+    },
     {
       "id": 51,
       "title": "kstflow 0.1.34",
@@ -306,150 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-25T01:11:41Z",
       "url": "https://pypi.org/project/browse-to-test/0.2.6/"
-    },
-    {
-      "id": 53,
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "summary": "Nifty closed lower on Thursday due to earnings volatility, with market expected to be range-bound influenced by Q1 earnings. FIIs net sold shares, while DIIs were net buyers.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T01:11:36Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/122892171.cms"
-    },
-    {
-      "id": 54,
-      "title": "Snipers, Secret Service sweeps and a personal chef on standby: Scotland awaits Trump's arrival",
-      "summary": "Scotland is preparing for Donald Trump's arrival with security measures including snipers, Secret Service sweeps, and a personal chef on standby. Trump's golf resort in Scotland has a 15ft-high metal barrier surrounding it, reflecting his preference for walls.",
-      "source": "Sky.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:05:00Z",
-      "url": "https://news.sky.com/story/snipers-secret-service-sweeps-and-a-personal-chef-on-standby-scotland-awaits-trumps-arrival-13401094"
-    },
-    {
-      "id": 55,
-      "title": "Fox News Politics Newsletter: A Big, Beautiful Clawback",
-      "summary": "Fox News Politics Newsletter providing updates on the Trump administration and Capitol Hill.",
-      "source": "Fox News",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:03:25Z",
-      "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-big-beautiful-clawback"
-    },
-    {
-      "id": 56,
-      "title": "Review: Sunseeker X5 robo-mower commutes out to mow the nature strip",
-      "summary": "Sunseeker's new X5 robo-mower is a promising advancement in home robotics, offering impressive performance for complex lawns with its RTK-GNSS positioning system.",
-      "source": "New Atlas",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:03:00Z",
-      "url": "https://newatlas.com/around-the-home/review-sunseeker-x5-robot-mower/"
-    },
-    {
-      "id": 57,
-      "title": "ai-trackdown-pytools 1.2.0",
-      "summary": "ai-trackdown-pytools 1.2.0 is a modern Python CLI tool designed for AI project tracking and task management.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T01:02:44Z",
-      "url": "https://pypi.org/project/ai-trackdown-pytools/1.2.0/"
-    },
-    {
-      "id": 58,
-      "title": "Asian stocks snap six days of gains, bonds steady",
-      "summary": "Asian stocks snapped a six-day winning streak due to uncertainty over potential Federal Reserve interest-rate cuts, despite the S&P 500 hitting a new record driven by tech gains.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T01:01:28Z",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-snap-six-days-of-gains-bonds-steady/articleshow/122892143.cms"
-    },
-    {
-      "id": 59,
-      "title": "Crypto Sector Lost $3.1 Billion to Hacks in Q1 2025, Says Hacken Report",
-      "summary": "Crypto sector experienced $3.1 billion in losses due to hacks in Q1 2025, surpassing total for 2024. Report by Hacken reveals systemic vulnerabilities.",
-      "source": "Bitcoinist",
-      "category": "economy",
-      "timestamp": "2025-07-25T01:00:24Z",
-      "url": "https://bitcoinist.com/crypto-sector-lost-billion-hacks-in-q1-2025-hacken/"
-    },
-    {
-      "id": 60,
-      "title": "「いい生活賃貸/売買クラウド 営業支援」AIメッセージ生成機能の概念実証を開始",
-      "summary": "A new AI message generation concept verification for support in sales has been initiated by 'Ii Seikatsu', a cloud-based rental/sales platform. The platform aims to utilize AI technology to assist in generating messages related to real estate transactions.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000172.000003214.html"
-    },
-    {
-      "id": 61,
-      "title": "意図せぬAI学習から保護し、イラストレーターの活動をサポートするSNS機能がWickアプリに追加",
-      "summary": "Wick app adds SNS feature to protect against unintended AI learning and support illustrator activities.",
-      "source": "Prtimes.jp",
-      "category": "applications",
-      "timestamp": "2025-07-25T01:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000019.000165367.html"
-    },
-    {
-      "id": 62,
-      "title": "Poll Finds New Jersey Residents Prioritize Energy Security Over Radical Climate Policies",
-      "summary": "New Jersey residents prioritize energy security over radical climate policies, with 85% of likely voters concerned about rising energy costs from current state climate policies.",
-      "source": "Wattsupwiththat.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T01:00:00Z",
-      "url": "https://wattsupwiththat.com/2025/07/24/poll-finds-new-jersey-residents-prioritize-energy-security-over-radical-climate-policies/"
-    },
-    {
-      "id": 63,
-      "title": "Futures: AI Titans Rally On This; Two Stocks Flash Buy Signals",
-      "summary": "Futures of AI titans rallying and two stocks flashing buy signals",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T00:59:20Z",
-      "url": "https://biztoc.com/x/7475222414da6165"
-    },
-    {
-      "id": 64,
-      "title": "Google’s CEO says ‘AI is positively impacting every part of the business’",
-      "summary": "Google's CEO stated that AI is positively impacting every part of the business, and this is reflected in the company's latest quarterly earnings.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T00:59:15Z",
-      "url": "https://biztoc.com/x/c21f67a2251a86f6"
-    },
-    {
-      "id": 51,
-      "title": "Trump's order to block 'woke' AI in government encourages tech giants to censor their chatbots",
-      "summary": "Trump's order to block 'woke' AI in government leads tech companies to censor chatbots sold to federal government, posing challenges in ensuring compliance.",
-      "source": "ABC News",
-      "category": "ethics",
-      "timestamp": "2025-07-24T23:50:30Z",
-      "url": "https://abcnews.go.com/Technology/wireStory/trumps-order-block-woke-ai-government-encourages-tech-124048461"
-    },
-    {
-      "id": 52,
-      "title": "Intel cuts back spending, workforce as struggling chip maker mounts comeback",
-      "summary": "Intel is cutting back spending and workforce in an effort to revive the struggling chip maker's fortunes under its new CEO.",
-      "source": "ABC News",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:49:05Z",
-      "url": "https://abcnews.go.com/Technology/wireStory/intel-cuts-back-spending-workforce-struggling-chip-maker-124054760"
-    },
-    {
-      "id": 53,
-      "title": "Trump’s AI Orders, Gixel’s AR Optics, Big Tech Spends On Nvidia",
-      "summary": "Trump's new AI plan aims to deregulate and speed up chip factory development, while companies like OpenAI, xAI, and Nvidia drive global infrastructure expansion.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-24T23:45:17Z",
-      "url": "https://www.forbes.com/sites/charliefink/2025/07/24/trumps-ai-orders-gixels-ar-optics-big-tech-spends-on-nvidia/"
-    },
-    {
-      "id": 54,
-      "title": "OpenTable Debuts AI-Powered Concierge for Diners",
-      "summary": "OpenTable has launched an AI-powered concierge to assist diners with common questions and help restaurants secure bookings.",
-      "source": "pymnts.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:43:54Z",
-      "url": "http://www.pymnts.com/restaurant-innovation/2025/opentable-debuts-ai-powered-concierge-for-diners/"
     }
   ]
 }
