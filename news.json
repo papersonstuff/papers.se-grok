@@ -1,6 +1,150 @@
 {
-  "lastUpdate": "2025-07-26T03:09:24.275Z",
+  "lastUpdate": "2025-07-26T04:05:29.803Z",
   "items": [
+    {
+      "id": 51,
+      "title": "kstflow 0.1.34",
+      "summary": "kstflow 0.1.34 is a new tool that provides KST AI Utilities specifically designed for analyzing medical datasets.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:04:50Z",
+      "url": "https://pypi.org/project/kstflow/0.1.34/"
+    },
+    {
+      "id": 52,
+      "title": "bioguider 0.2.19",
+      "summary": "bioguider 0.2.19 is an AI-Powered package designed to assist biomedical developers in creating clear documentation.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:03:47Z",
+      "url": "https://pypi.org/project/bioguider/0.2.19/"
+    },
+    {
+      "id": 53,
+      "title": "How Reddit Gets Credit; The Substackers Going It Alone",
+      "summary": "Reddit is experiencing a surge in advertiser demand, while not everyone is suitable for Substack; Trump has released an AI Action Plan.",
+      "source": "AdExchanger",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:03:01Z",
+      "url": "http://www.adexchanger.com/daily-news-roundup/friday-25072025/"
+    },
+    {
+      "id": 54,
+      "title": "teraace-tracker 1.1.0",
+      "summary": "teraace-tracker 1.1.0 is a Python library for tracking AI agent events across multiple frameworks including LangChain, CrewAI, and AutoGPT.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T04:01:30Z",
+      "url": "https://pypi.org/project/teraace-tracker/1.1.0/"
+    },
+    {
+      "id": 55,
+      "title": "The Governance Implications of an Important Case About AI and Fair Use",
+      "summary": "The recent federal court ruling in Bartz v. Anthropic PBC has significantly shifted the legal terrain for corporate governance and artificial intelligence, with implications for boards of directors and compliance.",
+      "source": "Columbia.edu",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:01:18Z",
+      "url": "https://clsbluesky.law.columbia.edu/2025/07/25/the-governance-implications-of-an-important-case-about-ai-and-fair-use/"
+    },
+    {
+      "id": 56,
+      "title": "With sports driving the marketplace, David Levy and Chris Weil hope to clean up with HS&E",
+      "summary": "In the competitive sports marketplace, David Levy and Chris Weil are creating new advertising opportunities with secondary and tertiary sports.",
+      "source": "Digiday",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:01:00Z",
+      "url": "http://digiday.com/media/with-sports-driving-the-marketplace-david-levy-and-chris-weil-hope-to-clean-up-with-hse/"
+    },
+    {
+      "id": 57,
+      "title": "New infosec products of the week: July 25, 2025",
+      "summary": "New infosec products of the week: July 25, 2025 featuring releases from Akeyless, Bitdefender, Malwarebytes, ManageEngine, PlexTrac, and Seemplicity. PlexTrac Workflow Automation Engine enhancements accelerate time to remediation.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-25T04:00:50Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/25/new-infosec-products-of-the-week-july-25-2025/"
+    },
+    {
+      "id": 58,
+      "title": "Draganfly Secures Order For Commander 3XL UAV Systems | US Approved FMS To Ukraine | Korean K3 MBT Development Announced",
+      "summary": "Canadian company Draganfly secured a contract to provide its UAV systems to a US Department of Defense branch, supporting Washington's adoption of next-generation platforms.",
+      "source": "Defenseindustrydaily.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:00:12Z",
+      "url": "https://www.defenseindustrydaily.com/draganfly-secures-order-for-commander-3xl-uav-systems-0243248/"
+    },
+    {
+      "id": 59,
+      "title": "This deal with $100 off the Samsung Galaxy Watch 7 is perfect timing for the back-to-school season",
+      "summary": "This deal with $100 off the Samsung Galaxy Watch 7 is perfect timing for the back-to-school season - Never be late to class with this Apple alternative keeping you on track.",
+      "source": "Creative Bloq",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://www.creativebloq.com/tech/smartwatches/this-deal-with-usd100-off-the-samsung-galaxy-watch-7-is-perfect-timing-for-the-back-to-school-season"
+    },
+    {
+      "id": 60,
+      "title": "北日本銀行が、「顧客最優先志向」のもと、お客さま一人ひとりに合った顧客体験の提供に向けて「AIMSTAR」を採用",
+      "summary": "Hokkoku Bank in Japan is adopting AIMSTAR to provide a customer experience tailored to each individual under the principle of 'customer-first approach'.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000160.000091540.html"
+    },
+    {
+      "id": 61,
+      "title": "Got it done: Trump secures a deal with Mexico to stop sending its raw sewage to California's beaches",
+      "summary": "Trump secures deal with Mexico to stop sending raw sewage to California beaches",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/got_it_done_trump_secures_a_deal_with_mexico_to_stop_sending_its_raw_sewage_to_california_s_beaches.html"
+    },
+    {
+      "id": 62,
+      "title": "They’re Not Sanctuary Cities; They’re Slavery Cities",
+      "summary": "Sanctuary cities are criticized for profit motives related to slavery rather than altruistic reasons, raising ethical concerns about the true intentions behind these policies.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://www.americanthinker.com/articles/2025/07/they_re_not_sanctuary_cities_they_re_slavery_cities.html"
+    },
+    {
+      "id": 63,
+      "title": "Will fanboys kill superhero movies?",
+      "summary": "What just happened to the latest Superman reboot – it’s shaping up to be a financial disaster – is looking like it might also be a harsh bellwether of the future of comic book movies.",
+      "source": "Americanthinker.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/will_fanboys_kill_superhero_movies.html"
+    },
+    {
+      "id": 64,
+      "title": "Democrats post a graphic about sky-rocketing inflation—quickly erase it when they realize it condemns them",
+      "summary": "Democrats post and quickly erase graphic about inflation that condemns them, highlighting the importance of ethical considerations in social media communication.",
+      "source": "Americanthinker.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T04:00:00Z",
+      "url": "https://www.americanthinker.com/blog/2025/07/democrats_post_a_graphic_about_sky_rocketing_inflation_quickly_erase_it_when_they_realize_it_condemns_them.html"
+    },
+    {
+      "id": 65,
+      "title": "'South Park' Creators Reveal How They Got Filthy Trump Joke On TV",
+      "summary": "'South Park' creators discuss how they were able to air a controversial Trump joke on TV.",
+      "source": "HuffPost",
+      "category": "ethics",
+      "timestamp": "2025-07-25T03:58:41Z",
+      "url": "https://www.huffpost.com/entry/south-park-trump-penis-joke_n_6882f59ae4b01be72b3eafa7"
+    },
+    {
+      "id": 66,
+      "title": "In a memo, Satya Nadella addresses the “enigma” of layoffs while “Microsoft is thriving”, saying the transition into the AI era “might feel messy at times”",
+      "summary": "Satya Nadella addresses the 'enigma' of layoffs at Microsoft while transitioning into the AI era, noting that the company is thriving. The memo suggests that the shift into the AI era may feel messy at times.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T03:57:32Z",
+      "url": "https://biztoc.com/x/b9ff14f6ed1a9bbb"
+    },
     {
       "id": 51,
       "title": " Atlético and Flu march on in the Sula, six Brazilians already knocked out",
@@ -306,150 +450,6 @@
       "category": "applications",
       "timestamp": "2025-07-24T23:43:54Z",
       "url": "http://www.pymnts.com/restaurant-innovation/2025/opentable-debuts-ai-powered-concierge-for-diners/"
-    },
-    {
-      "id": 55,
-      "title": "Intel to lay off 15% more staff by year-end and scale back foundry investments",
-      "summary": "Intel to lay off 15% more staff by year-end and scale back foundry investments, as part of efforts to create a faster-moving organization",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:43:03Z",
-      "url": "https://siliconangle.com/2025/07/24/intel-lay-off-15-more-staff-year-end-scale-back-foundry-investments/"
-    },
-    {
-      "id": 56,
-      "title": "Intel to lay off almost a third of its staff and scale back foundry investments",
-      "summary": "Intel to lay off almost a third of its staff and scale back foundry investments in order to create a more agile organization",
-      "source": "SiliconANGLE News",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:43:03Z",
-      "url": "https://siliconangle.com/2025/07/24/intel-lay-off-almost-third-staff-scale-back-foundry-investments/"
-    },
-    {
-      "id": 57,
-      "title": "Vulkan + Mesa Drivers For AI Inferencing? It's Already Showing Potential On Radeon RADV",
-      "summary": "Vulkan + Mesa Drivers are showing potential for AI inferencing on Radeon RADV, with NVIDIA finding success with Vulkan for AI and machine learning. Red Hat engineer David Airlie is exploring their potential for AI applications.",
-      "source": "Phoronix",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:42:00Z",
-      "url": "https://www.phoronix.com/news/Mesa-Vulkan-AI-RADV-Potential"
-    },
-    {
-      "id": 51,
-      "title": "Motorola Solutions introduces AI nutrition labels",
-      "summary": "Motorola Solutions introduces AI nutrition labels to help users understand how artificial intelligence is being used inside its products.",
-      "source": "Slashdot.org",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:37:39Z",
-      "url": "https://slashdot.org/submission/17338202/motorola-solutions-introduces-ai-nutrition-labels"
-    },
-    {
-      "id": 52,
-      "title": "AI is being used to design custom proteins that help immune cells find and kill cancer",
-      "summary": "AI is being used to design custom proteins that help immune cells find and kill cancer - Scientists have harnessed artificial intelligence to engineer custom proteins, acting as a GPS for the immune system. These proteins guide T cells with precision to cancer cells, enhancing their ability to destroy tumors effectively.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-24T23:35:21Z",
-      "url": "https://economictimes.indiatimes.com/news/international/us/ai-is-being-used-to-design-custom-proteins-that-help-immune-cells-find-and-kill-cancer/articleshow/122891804.cms"
-    },
-    {
-      "id": 53,
-      "title": "Engineers are backbone of Arunachal’s progress: Governor",
-      "summary": "Engineers are described as the backbone of Arunachal Pradesh's development by Governor Lt Gen (Retd) K T Parnaik, emphasizing their crucial role in translating government policy into infrastructure. He encouraged engineers to embrace their role and contribute to the state's progress.",
-      "source": "Thehillstimes.in",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:35:00Z",
-      "url": "https://thehillstimes.in/arunachal-pradesh/engineers-are-backbone-of-arunachals-progress-governor"
-    },
-    {
-      "id": 54,
-      "title": "Stop building in China, hiring in India, Trump warns tech majors",
-      "summary": "President Trump urges American tech companies to prioritize hiring in the US, rather than in countries like India and China, in order to curb overseas job creation. He criticizes 'radical globalism' and advocates for a shift towards national loyalty.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:34:45Z",
-      "url": "https://timesofindia.indiatimes.com/world/us/stop-building-in-china-hiring-in-india-trump-warns-tech-majors/articleshow/122891794.cms"
-    },
-    {
-      "id": 55,
-      "title": "Kelly Osbourne Breaks Silence After Dad Ozzy’s Death: ‘I Am So Sad’",
-      "summary": "Kelly Osbourne breaks silence after Ozzy Osbourne’s death, sharing a heartbreaking post about her father and rock icon.",
-      "source": "Rolling Stone",
-      "category": "ethics",
-      "timestamp": "2025-07-24T23:34:44Z",
-      "url": "http://www.rollingstone.com/music/music-news/kelly-osbourne-breaks-silence-dad-ozzy-death-1235393715/"
-    },
-    {
-      "id": 56,
-      "title": "Show HN: An embedding space neighbor finder (doppelgängers)",
-      "summary": "An individual built a lookalike finder using an embedding space neighbor finder for celebrities, with plans to expand to the full latent space of human faces in the future. They are seeking feedback on the user interface.",
-      "source": "Looka-like.com",
-      "category": "research",
-      "timestamp": "2025-07-24T23:32:36Z",
-      "url": "https://www.looka-like.com/landing"
-    },
-    {
-      "id": 57,
-      "title": "From Chaos to Control: A Cost Maturity Journey with Databricks",
-      "summary": "Control Databricks costs by learning strategies for cost maturity, architectural considerations, and technical solutions to optimize spending and performance.",
-      "source": "Databricks.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:30:57Z",
-      "url": "https://www.databricks.com/blog/chaos-control-cost-maturity-journey-databricks"
-    },
-    {
-      "id": 58,
-      "title": "“Worst combination of words I’ve ever seen”: Elon Musk announces he’s “bringing back Vine”—with an AI catch",
-      "summary": "Elon Musk announced plans to bring back Vine with an AI twist, sparking curiosity and skepticism within the tech community.",
-      "source": "The Daily Dot",
-      "category": "innovation",
-      "timestamp": "2025-07-24T23:30:08Z",
-      "url": "https://www.dailydot.com/news/elon-musk-reviving-vine-with-ai/"
-    },
-    {
-      "id": 59,
-      "title": "AI Chatbots Rely On Sources With Clear Biases",
-      "summary": "AI chatbots rely on sources with clear biases, raising ethical concerns about the information they provide.",
-      "source": "Biztoc.com",
-      "category": "ethics",
-      "timestamp": "2025-07-24T23:29:44Z",
-      "url": "https://biztoc.com/x/241dba485f9bd778"
-    },
-    {
-      "id": 60,
-      "title": "A billion dollars' worth of Nvidia chips fell off a truck and found their way to China, report says",
-      "summary": "An estimated $1 billion worth of smuggled high-end Nvidia AI processors have reportedly found their way onto the Chinese black market.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:29:40Z",
-      "url": "https://biztoc.com/x/e595dad620fcc41d"
-    },
-    {
-      "id": 61,
-      "title": " Atlético-MG line-up set to book last-16 spot in Copa Sul-Americana",
-      "summary": "Atlético-MG set to secure a spot in the last-16 of Copa Sul-Americana with a match against Atlético Bucaramanga in the Conmebol South American playoffs 2025.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-24T23:27:00Z",
-      "url": "https://onefootball.com/en/news/atletico-mg-line-up-set-to-book-last-16-spot-in-copa-sul-americana-41421400"
-    },
-    {
-      "id": 62,
-      "title": "US chip maker Intel says revenue rose as it cut ranks",
-      "summary": "US chip maker Intel reports increased revenue after cutting workforce by 15 percent to become more agile.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:26:38Z",
-      "url": "https://finance.yahoo.com/news/us-chip-maker-intel-says-232638110.html"
-    },
-    {
-      "id": 63,
-      "title": "Trump’s economic agenda leading to decades-high wage increases, capital expenditures and record tariffs revenue: Treasury",
-      "summary": "Trump's economic agenda has led to significant increases in tariffs revenue, blue-collar wages, and capital investments, according to a senior Treasury official.",
-      "source": "New York Post",
-      "category": "economy",
-      "timestamp": "2025-07-24T23:25:22Z",
-      "url": "https://nypost.com/2025/07/24/us-news/trumps-economic-agenda-leading-to-decades-high-wage-increases-capital-expenditures-and-record-tariffs-revenue-treasury/"
     }
   ]
 }
