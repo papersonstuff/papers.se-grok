@@ -1,6 +1,105 @@
 {
-  "lastUpdate": "2025-07-26T20:41:22.919Z",
+  "lastUpdate": "2025-07-26T20:52:18.560Z",
   "items": [
+    {
+      "id": 51,
+      "title": "What If AI Goes Rogue? This Startup Wants to Write the Insurance Policy",
+      "summary": "With the increase in AI-related risks such as hallucinating chatbots and deepfakes, startup AIUC aims to address these concerns by offering insurance policies to mitigate the potential dangers of rogue AI.",
+      "source": "Biztoc.com",
+      "category": "startups",
+      "timestamp": "2025-07-25T20:50:34Z",
+      "url": "https://biztoc.com/x/1c13b8f53d6eb24b"
+    },
+    {
+      "id": 52,
+      "title": "Gabe Newell says he ditched Microsoft and made Valve and Half-Life to prove \"a better approach to game design\" at a time where \"there were more people using Doom than using Windows\"",
+      "summary": "Gabe Newell created Valve and Half-Life to innovate game design and prove a different approach, aiming to compete with the popularity of Doom and potentially return to Microsoft if unsuccessful.",
+      "source": "GamesRadar+",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:50:23Z",
+      "url": "https://www.gamesradar.com/games/gabe-newell-says-he-ditched-microsoft-and-made-valve-and-half-life-to-prove-a-better-approach-to-game-design-at-a-time-where-there-were-more-people-using-doom-than-using-windows/"
+    },
+    {
+      "id": 53,
+      "title": "How Human-First InsurTech Can Disrupt The $1.5 Trillion Sector",
+      "summary": "Human-First InsurTech companies are disrupting the $1.5 trillion U.S. life insurance and annuities market by combining AI technology with human expertise.",
+      "source": "Forbes",
+      "category": "economy",
+      "timestamp": "2025-07-25T20:49:12Z",
+      "url": "https://www.forbes.com/sites/korihale/2025/07/25/how-human-first-insurtech-can-disrupt-the-15-trillion-sector/"
+    },
+    {
+      "id": 54,
+      "title": "Fake AI Photos Of Trump With Epstein Flood Internet",
+      "summary": "Fake AI-generated photos and videos showing Donald Trump with Jeffrey Epstein are circulating on social media, raising ethical concerns about misleading content.",
+      "source": "International Business Times",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:48:19Z",
+      "url": "https://www.ibtimes.com/fake-ai-photos-trump-epstein-flood-internet-3779482"
+    },
+    {
+      "id": 55,
+      "title": "Apple Loop: iPhone 17 Upgrades, iPhone Fold Specs Leak, MacBook Pro Release Dates",
+      "summary": "Apple Loop covers various Apple headlines including iPhone 17 design leaks, iPhone Fold specs, iOS 26 updates, iPad Pro's big change, MacBook Pro release dates, and MLS on Apple TV.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:47:35Z",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/25/apple-news-headlines-iphone-17-design-iphone-fold-display-ios-26-macbook-pro-mls/"
+    },
+    {
+      "id": 56,
+      "title": "Android Circuit: Galaxy S26 Ultra Leaks, Pixel Watch 4 Pricing, Honor Magic V5 Breaks Records",
+      "summary": "This week's Android headlines feature leaks of the Galaxy S26 Ultra, pricing details for the Pixel Watch 4, pre-order records for Samsung and Honor, Google confirming the Pixel 10, updates to the Now Bar with new AI, and Oppo's ongoing photo partnership.",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:47:13Z",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/25/android-news-headlines-samsung-galaxy-26-pixel-10-pixel-watch-magic-v5-oppo/"
+    },
+    {
+      "id": 57,
+      "title": "Mark Zuckerberg names ex-OpenAI employee chief scientist of new Meta AI lab",
+      "summary": "Mark Zuckerberg appoints Shengjia Zhao as chief scientist of Meta's new AI lab, where he will collaborate with Alexandr Wang.",
+      "source": "CNBC",
+      "category": "research",
+      "timestamp": "2025-07-25T20:44:54Z",
+      "url": "https://www.cnbc.com/2025/07/25/zuckerberg-shengjia-zhao-meta-ai-lab-chief-scientist-openai.html"
+    },
+    {
+      "id": 58,
+      "title": "King Gizzard & the Lizard Wizard Remove Music from Spotify Due to CEO Daniel Ek’s Investment in AI Drone Technology",
+      "summary": "King Gizzard & the Lizard Wizard removed their music from Spotify due to CEO Daniel Ek's investment in AI drone technology, raising ethical concerns about supporting companies involved in AI military software.",
+      "source": "Consequence.net",
+      "category": "ethics",
+      "timestamp": "2025-07-25T20:44:28Z",
+      "url": "https://consequence.net/2025/07/king-gizzard-remove-music-spotify-ai-drone-tech/"
+    },
+    {
+      "id": 59,
+      "title": "browse-to-test 0.2.8",
+      "summary": "browse-to-test 0.2.8 is an AI-powered browser automation tool that can convert test scripts, making it easier for developers to automate testing processes.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T20:43:51Z",
+      "url": "https://pypi.org/project/browse-to-test/0.2.8/"
+    },
+    {
+      "id": 60,
+      "title": "Amazon AI coding agent hacked to inject data wiping commands",
+      "summary": "A hacker injected data wiping commands into Amazon's AI coding agent, the Q Developer Extension for Visual Studio Code.",
+      "source": "BleepingComputer",
+      "category": "research",
+      "timestamp": "2025-07-25T20:43:44Z",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/"
+    },
+    {
+      "id": 61,
+      "title": "mlx-cpu 0.27.0",
+      "summary": "mlx-cpu 0.27.0 is a framework designed for machine learning on Apple silicon, showcasing innovation in AI technology.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T20:43:38Z",
+      "url": "https://pypi.org/project/mlx-cpu/0.27.0/"
+    },
     {
       "id": 51,
       "title": "mlx-metal 0.27.0",
@@ -351,105 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T19:36:04Z",
       "url": "https://finance.yahoo.com/news/intel-q2-eps-misses-revenue-193604391.html"
-    },
-    {
-      "id": 52,
-      "title": "Pregnant LeBron James AI Videos",
-      "summary": "Pregnant LeBron James AI Videos refers to AI-generated male pregnancy videos of NBA player LeBron James that began appearing on platforms like Instagram and TikTok in 2025.",
-      "source": "Knowyourmeme.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T19:34:46Z",
-      "url": "https://knowyourmeme.com/memes/events/pregnant-lebron-james-ai-videos"
-    },
-    {
-      "id": 53,
-      "title": "Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’ - The Verge",
-      "summary": "Microsoft's AI CEO believes that Copilot will age and 'have a room that it lives in', as the AI assistant now has a face and real-time expressions.",
-      "source": "Slashdot.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:34:24Z",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178468340"
-    },
-    {
-      "id": 54,
-      "title": "What is Tea - the women-only app with millions of users?",
-      "summary": "Millions of women in the US are using Tea, a women-only app that provides dating advice and safety measures to protect them from online scams and dishonest men.",
-      "source": "Sky.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:32:00Z",
-      "url": "https://news.sky.com/story/what-is-tea-the-women-only-app-with-millions-of-users-13401888"
-    },
-    {
-      "id": 55,
-      "title": "These Soundcore V20i by Anker Earbuds Just Dropped to a New Low Price",
-      "summary": "The price of Anker's Soundcore V20i Earbuds has dropped to less than $25, offering a budget-friendly option for consumers.",
-      "source": "CNET",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:32:00Z",
-      "url": "https://www.cnet.com/deals/these-soundcore-v20i-by-anker-earbuds-just-dropped-to-a-new-low-price/"
-    },
-    {
-      "id": 56,
-      "title": "3D printer transforms food waste into coffee mugs and coasters",
-      "summary": "3D printer transforms food waste into coffee mugs and coasters using bioplastic paste made from egg shells, coffee grounds, and flower stems.",
-      "source": "Popular Science",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:31:05Z",
-      "url": "https://www.popsci.com/environment/3d-printer-food-waste-into-trinkets/"
-    },
-    {
-      "id": 57,
-      "title": "California lawmakers urge Trump admin to halt cuts to national labs",
-      "summary": "California lawmakers are urging the Trump administration to halt cuts to national labs due to budget cuts leading to layoffs and potential future layoffs of thousands of scientists and technical staff.",
-      "source": "Nextgov",
-      "category": "research",
-      "timestamp": "2025-07-25T19:31:00Z",
-      "url": "https://www.nextgov.com/policy/2025/07/california-lawmakers-urge-trump-admin-halt-cuts-national-labs/407006/"
-    },
-    {
-      "id": 58,
-      "title": "Samsung Prioritizes Z Fold and Flip Series for Fastest Flagship Updates",
-      "summary": "Samsung prioritizes its Z Fold and Z Flip series for the fastest flagship updates, revolutionizing its flagship software strategy.",
-      "source": "TalkAndroid",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:30:00Z",
-      "url": "https://www.talkandroid.com/512745-samsung-one-iu-8-updates-z-flip-fold/"
-    },
-    {
-      "id": 59,
-      "title": "VCI Global Launches SecureGPU™ – First Encrypted AI Compute Server for Sovereign and Defense Applications",
-      "summary": "VCI Global launches SecureGPU™, the first encrypted AI compute server for sovereign and defense applications, marking a milestone in zero-trust AI infrastructure. The technology is now being piloted across Southeast Asia.",
-      "source": "GlobeNewswire",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:30:00Z",
-      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121981/0/en/VCI-Global-Launches-SecureGPU-First-Encrypted-AI-Compute-Server-for-Sovereign-and-Defense-Applications.html"
-    },
-    {
-      "id": 60,
-      "title": "The Prototype: Bringing Advanced Semiconductor Manufacturing Back To The U.S.",
-      "summary": "The Prototype discusses various advancements in AI technology, including a quantum computing milestone for biotech and a new method to remove forever chemicals from water supplies.",
-      "source": "Forbes",
-      "category": "innovation",
-      "timestamp": "2025-07-25T19:30:00Z",
-      "url": "https://www.forbes.com/sites/alexknapp/2025/07/25/the-prototype-bringing-advanced-semiconductor-manufacturing-back-to-the-us/"
-    },
-    {
-      "id": 61,
-      "title": "xml-analysis-framework added to PyPI",
-      "summary": "xml-analysis-framework added to PyPI - Comprehensive framework for analyzing XML documents with AI/ML processing support",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T19:28:08Z",
-      "url": "https://pypi.org/project/xml-analysis-framework/"
-    },
-    {
-      "id": 51,
-      "title": "Intel to separate networking unit as new CEO Tan overhauls business",
-      "summary": "Intel will separate its networking unit as part of a business overhaul led by new CEO Tan",
-      "source": "Livemint",
-      "category": "economy",
-      "timestamp": "2025-07-25T19:23:35Z",
-      "url": "https://www.livemint.com/companies/news/intel-to-separate-networking-unit-as-new-ceo-tan-overhauls-business-11753471415524.html"
     }
   ]
 }
