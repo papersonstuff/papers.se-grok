@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-26T05:19:07.889Z",
+  "lastUpdate": "2025-07-26T05:45:47.886Z",
   "items": [
+    {
+      "id": 51,
+      "title": "We Built a Tool to Protect Your Dataset From Simple Scrapers",
+      "summary": "We introduce a command-line tool for hardening datasets against less sophisticated scrapers.",
+      "source": "Lesswrong.com",
+      "category": "research",
+      "timestamp": "2025-07-25T05:44:55Z",
+      "url": "https://www.lesswrong.com/posts/DA3vbSEfABLdoCt59/we-built-a-tool-to-protect-your-dataset-from-simple-scrapers"
+    },
+    {
+      "id": 52,
+      "title": "opsmith-cli 0.2.0b0",
+      "summary": "opsmith-cli 0.2.0b0 is an AI devops engineer tool designed to run in the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T05:41:05Z",
+      "url": "https://pypi.org/project/opsmith-cli/0.2.0b0/"
+    },
+    {
+      "id": 53,
+      "title": "【8/6(水)限定15名／未経験からAIアプリをつくる側へ】2.5時間でAIアプリを自作する、多忙なビジネスパーソン向けハンズオン講座を開催",
+      "summary": "Protostar Co., Ltd. is holding a hands-on workshop for busy business individuals to create their own AI applications in just 2.5 hours, even if they have no prior experience.",
+      "source": "Prtimes.jp",
+      "category": "applications",
+      "timestamp": "2025-07-25T05:40:02Z",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000023145.html"
+    },
+    {
+      "id": 54,
+      "title": "Wi-Fi 8 detailed, even if it's years away: More stable connections, lower latency",
+      "summary": "Wi-Fi 8, a new standard aiming to provide more stable connections and lower latency, is detailed in a blog post by Qualcomm. The technologies it offers could benefit AI, industrial automation, and advanced wearables.",
+      "source": "TechSpot",
+      "category": "research",
+      "timestamp": "2025-07-25T05:39:00Z",
+      "url": "https://www.techspot.com/news/108807-wi-fi-8-detailed-even-if-years-away.html"
+    },
+    {
+      "id": 55,
+      "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
+      "summary": "Tech companies like Alphabet, Meta, and Microsoft stand to benefit from Trump's AI action plan as he vows to cut red tape, following millions invested in the industry.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:37:36Z",
+      "url": "https://biztoc.com/x/1c828f88da79b308"
+    },
+    {
+      "id": 56,
+      "title": "You DO see Windows 11 as an AI PC opportunity, say Dell and Intel",
+      "summary": "With three months to go until Microsoft ends support for Windows 10, Dell and Intel want to convince corporate buyers that upgrading their PC fleet is a virtue and not a necessity.",
+      "source": "Biztoc.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:37:27Z",
+      "url": "https://biztoc.com/x/8c8a037cfb10b897"
+    },
+    {
+      "id": 57,
+      "title": "Intel Earnings: Chipmaker to cut jobs as Q3 loss forecast deepens",
+      "summary": "Intel plans to cut jobs in an effort to reduce its workforce to 75,000 by year-end, with shares jumping despite a projected steeper third-quarter loss. Sales are expected to surpass estimates, and CEO Lip-Bu Tan is leading a turnaround.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:35:48Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/intel-earnings-chipmaker-to-cut-jobs-as-q3-loss-forecast-deepens/articleshow/122896728.cms"
+    },
+    {
+      "id": 58,
+      "title": "Intel beats shareholder lawsuit over $32 billion stock plunge",
+      "summary": "Intel beats shareholder lawsuit over $32 billion stock plunge, as a federal judge dismisses claims of shareholder fraud related to issues in its foundry business.",
+      "source": "The Times of India",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:33:57Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/intel-beats-shareholder-lawsuit-over-32-billion-stock-plunge/articleshow/122896685.cms"
+    },
+    {
+      "id": 59,
+      "title": "Digital sovereignty becomes a matter of resilience for Europe",
+      "summary": "Digital sovereignty in Europe is becoming a matter of resilience, with initiatives like Gaia-X and the EU AI Act driving the continent's technological future. The focus is shifting from regulation to building digital sovereignty.",
+      "source": "Help Net Security",
+      "category": "innovation",
+      "timestamp": "2025-07-25T05:30:33Z",
+      "url": "https://www.helpnetsecurity.com/2025/07/25/benjamin-schilz-wire-european-digital-sovereignty/"
+    },
+    {
+      "id": 60,
+      "title": "BUREAU VERITAS - Robust organic revenue growth and strong margin increase in H1 2025 as the LEAP | 28 strategy execution accelerates; Confirmed 2025 outlook",
+      "summary": "Bureau Veritas reported robust organic revenue growth and strong margin increase in the first half of 2025 as the LEAP | 28 strategy execution accelerates, confirming their outlook for 2025.",
+      "source": "GlobeNewswire",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:30:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121595/0/en/BUREAU-VERITAS-Robust-organic-revenue-growth-and-strong-margin-increase-in-H1-2025-as-the-LEAP-28-strategy-execution-accelerates-Confirmed-2025-outlook.html"
+    },
+    {
+      "id": 61,
+      "title": "iPadOS 26 is way more Mac-like. Where does that lead?",
+      "summary": "iPadOS 26 becoming more Mac-like with new software upgrade announced at WWDC conference.",
+      "source": "Fast Company",
+      "category": "innovation",
+      "timestamp": "2025-07-25T05:30:00Z",
+      "url": "https://www.fastcompany.com/91373393/ipados-26-public-beta"
+    },
+    {
+      "id": 62,
+      "title": "4 AI Prompts That Will Transform How You Create Presentations Forever",
+      "summary": "4 AI prompts that automate slide-building and create engaging presentations",
+      "source": "Forbes",
+      "category": "applications",
+      "timestamp": "2025-07-25T05:28:43Z",
+      "url": "https://www.forbes.com/sites/bernardmarr/2025/07/25/4-ai-prompts-that-will-transform-how-you-create-presentations-forever/"
+    },
+    {
+      "id": 63,
+      "title": "You DO see Windows 11 as an AI PC opportunity, say Dell and Intel",
+      "summary": "With three months to go until Microsoft ends support for Windows 10, Dell and Intel are promoting Windows 11 as an AI PC opportunity to encourage corporate buyers to upgrade their PC fleet.",
+      "source": "Theregister.com",
+      "category": "economy",
+      "timestamp": "2025-07-25T05:28:09Z",
+      "url": "https://www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/"
+    },
     {
       "id": 51,
       "title": "AIUC Emerges From Stealth With $15M Seed to Help Enterprises Deploy AI Safely",
@@ -333,123 +450,6 @@
       "category": "economy",
       "timestamp": "2025-07-25T04:00:00Z",
       "url": "https://www.americanthinker.com/blog/2025/07/will_fanboys_kill_superhero_movies.html"
-    },
-    {
-      "id": 64,
-      "title": "Democrats post a graphic about sky-rocketing inflation—quickly erase it when they realize it condemns them",
-      "summary": "Democrats post and quickly erase graphic about inflation that condemns them, highlighting the importance of ethical considerations in social media communication.",
-      "source": "Americanthinker.com",
-      "category": "ethics",
-      "timestamp": "2025-07-25T04:00:00Z",
-      "url": "https://www.americanthinker.com/blog/2025/07/democrats_post_a_graphic_about_sky_rocketing_inflation_quickly_erase_it_when_they_realize_it_condemns_them.html"
-    },
-    {
-      "id": 65,
-      "title": "'South Park' Creators Reveal How They Got Filthy Trump Joke On TV",
-      "summary": "'South Park' creators discuss how they were able to air a controversial Trump joke on TV.",
-      "source": "HuffPost",
-      "category": "ethics",
-      "timestamp": "2025-07-25T03:58:41Z",
-      "url": "https://www.huffpost.com/entry/south-park-trump-penis-joke_n_6882f59ae4b01be72b3eafa7"
-    },
-    {
-      "id": 66,
-      "title": "In a memo, Satya Nadella addresses the “enigma” of layoffs while “Microsoft is thriving”, saying the transition into the AI era “might feel messy at times”",
-      "summary": "Satya Nadella addresses the 'enigma' of layoffs at Microsoft while transitioning into the AI era, noting that the company is thriving. The memo suggests that the shift into the AI era may feel messy at times.",
-      "source": "Biztoc.com",
-      "category": "economy",
-      "timestamp": "2025-07-25T03:57:32Z",
-      "url": "https://biztoc.com/x/b9ff14f6ed1a9bbb"
-    },
-    {
-      "id": 51,
-      "title": " Atlético and Flu march on in the Sula, six Brazilians already knocked out",
-      "summary": "Atlético-MG and Fluminense have advanced to the round of 16 in the Copa Conmebol South American, with only two Brazilian teams remaining in the tournament. The teams faced tough competition but managed to secure their spots in the next stage.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T03:08:00Z",
-      "url": "https://onefootball.com/en/news/atletico-and-flu-march-on-in-the-sula-six-brazilians-already-knocked-out-41421674"
-    },
-    {
-      "id": 52,
-      "title": " Atlético-MG edge Bucaramanga on penalties, reach last 16",
-      "summary": "Atlético-MG defeated Atlético Bucaramanga on penalties and advanced to the round of 16 in the Conmebol South American Cup.",
-      "source": "Onefootball.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T03:08:00Z",
-      "url": "https://onefootball.com/en/news/atletico-mg-edge-bucaramanga-on-penalties-reach-last-16-41421627"
-    },
-    {
-      "id": 53,
-      "title": "Does IGIC Pay a Special Dividend?",
-      "summary": "International General Insurance Holdings Ltd. (NASDAQ:IGIC) is among the 14 Stocks that Paid Special Dividends in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T03:05:08Z",
-      "url": "https://finance.yahoo.com/news/does-igic-pay-special-dividend-030508790.html"
-    },
-    {
-      "id": 54,
-      "title": "Analysis-Chinese e-commerce leaders brush off regulatory risk to continue 'instant retail' price war",
-      "summary": "Chinese e-commerce leaders are continuing an 'instant retail' price war despite regulatory risks, showing resilience in the face of state intervention.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T03:03:59Z",
-      "url": "https://finance.yahoo.com/news/analysis-chinese-e-commerce-leaders-030359243.html"
-    },
-    {
-      "id": 55,
-      "title": "GDEV Sends Cash Back to Investors with Special Payout",
-      "summary": "GDEV Inc. (NASDAQ:GDEV) sends cash back to investors with special payout, included among the 14 stocks that paid special dividends in 2025.",
-      "source": "Yahoo Entertainment",
-      "category": "economy",
-      "timestamp": "2025-07-25T03:02:03Z",
-      "url": "https://finance.yahoo.com/news/gdev-sends-cash-back-investors-030203276.html"
-    },
-    {
-      "id": 56,
-      "title": "pypearl 0.4.14",
-      "summary": "pypearl 0.4.14 is a Machine Learning Library known for its efficiency. It offers various capabilities for data analysis and model building.",
-      "source": "Pypi.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T03:01:01Z",
-      "url": "https://pypi.org/project/pypearl/0.4.14/"
-    },
-    {
-      "id": 57,
-      "title": "Jigar Mistry on 3 sectors that offer better earnings upside in Q1",
-      "summary": "Jigar Mistry discusses 3 sectors with better earnings upside in Q1, noting a slowdown in corporate earnings growth despite a favorable macroeconomic environment in India. Shifts in government spending and negative impact from larger index components are contributing factors.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T03:01:00Z",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/jigar-mistry-on-3-sectors-that-offer-better-earnings-upside-in-q1/articleshow/122882086.cms"
-    },
-    {
-      "id": 58,
-      "title": "株式会社ガラパゴス主催の無料オンラインカンファレンス「Ad Growth Summit 2025 夏」にLeanGo CEO平井が登壇 ！| PRと獲得に強いマーケティングファームならLeanGo",
-      "summary": "LeanGo CEO Hirai will speak at the free online conference 'Ad Growth Summit 2025 Summer' organized by Galapagos Co., Ltd.! LeanGo is a marketing firm specializing in PR and acquisitions.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-25T03:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000253.000055676.html"
-    },
-    {
-      "id": 59,
-      "title": "Ace独自の空冷システム AeroBlade 3Dファン、GeForce RTX 5000番台搭載 Predator 2機種を発売！",
-      "summary": "Acer has released two models equipped with Ace's unique air cooling system AeroBlade 3D fan and GeForce RTX 5000 series. Acer continues to innovate and push the boundaries in the gaming laptop market.",
-      "source": "Prtimes.jp",
-      "category": "innovation",
-      "timestamp": "2025-07-25T03:00:00Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000001020.000000640.html"
-    },
-    {
-      "id": 60,
-      "title": "Chinese ecommerce leaders brush off regulatory risk to continue 'instant retail' price war",
-      "summary": "Chinese ecommerce leaders are engaging in a fierce instant retail price war, offering near-free deliveries within an hour despite regulatory concerns. They view it as vital for their business growth.",
-      "source": "The Times of India",
-      "category": "economy",
-      "timestamp": "2025-07-25T02:59:29Z",
-      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-ecommerce-leaders-brush-off-regulatory-risk-to-continue-instant-retail-price-war/articleshow/122893310.cms"
     }
   ]
 }
