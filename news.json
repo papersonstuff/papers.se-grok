@@ -1,6 +1,123 @@
 {
-  "lastUpdate": "2025-07-26T09:40:22.572Z",
+  "lastUpdate": "2025-07-26T09:50:16.741Z",
   "items": [
+    {
+      "id": 51,
+      "title": "As Trump rails against Fed Chair Powell, here’s why Federal Reserve independence is essential",
+      "summary": "The article discusses the importance of Federal Reserve independence in making decisions without political consideration, particularly in the current environment with Trump criticizing Fed Chair Powell.",
+      "source": "The Philadelphia Inquirer",
+      "category": "economy",
+      "timestamp": "2025-07-25T09:48:04Z",
+      "url": "https://www.inquirer.com/business/federal-reserve-jerome-powell-donald-trump-interest-inflation-20250725.html"
+    },
+    {
+      "id": 52,
+      "title": "ITC bets on new growth engines, expands food-tech and wellness play",
+      "summary": "ITC is expanding into food-tech and wellness sectors to drive new growth engines according to chairman Sanjiv Puri, who emphasizes the importance of future readiness through anticipating and shaping the future.",
+      "source": "Livemint",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:47:59Z",
+      "url": "https://www.livemint.com/companies/news/itc-business-expansion-2025-sanjiv-puri-itc-agm-2025-itc-growth-roadmap-itc-new-business-segments-11753432558329.html"
+    },
+    {
+      "id": 53,
+      "title": "orq-ai-sdk 3.10.0rc19",
+      "summary": "orq-ai-sdk 3.10.0rc19 is a Python Client SDK for the Orq API, designed to help developers integrate AI capabilities into their applications.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:46:29Z",
+      "url": "https://pypi.org/project/orq-ai-sdk/3.10.0rc19/"
+    },
+    {
+      "id": 54,
+      "title": "Japan’s Legal AI Startup Scores $50 Million Round Led By Goldman Sachs, Partners With OpenAI",
+      "summary": "LegalOn Technologies, a Japan-based legal AI startup, secured a $50 million funding round led by Goldman Sachs and partnered with OpenAI to develop AI agents for legal work. The company is backed by SoftBank and HongShan.",
+      "source": "Forbes",
+      "category": "startups",
+      "timestamp": "2025-07-25T09:45:08Z",
+      "url": "https://www.forbes.com/sites/zinnialee/2025/07/25/japans-legal-ai-startup-scores-50-million-round-led-by-goldman-sachs-partners-with-openai/"
+    },
+    {
+      "id": 55,
+      "title": "datamaster-mcp 1.0.1",
+      "summary": "DataMaster MCP 1.0.1 is an AI-powered data analysis tool that supports the MCP protocol.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:44:00Z",
+      "url": "https://pypi.org/project/datamaster-mcp/1.0.1/"
+    },
+    {
+      "id": 56,
+      "title": "datamaster-mcp added to PyPI",
+      "summary": "datamaster-mcp, an AI-powered data analysis tool with MCP protocol support, has been added to PyPI.",
+      "source": "Pypi.org",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:44:00Z",
+      "url": "https://pypi.org/project/datamaster-mcp/"
+    },
+    {
+      "id": 57,
+      "title": "Master the Secret to Viral AI Videos with Veo 3 and Kling 2.1",
+      "summary": "Mastering the right tools and strategies with Veo 3 and Kling 2.1 can help create viral AI videos with over a million views, in a world where attention spans are fleeting and competition for views is fierce.",
+      "source": "Geeky Gadgets",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:43:42Z",
+      "url": "https://www.geeky-gadgets.com/guide-to-creating-viral-videos-using-ai/"
+    },
+    {
+      "id": 58,
+      "title": "Tradition meets AI in Nishijinori weaving style from Japan's ancient capital",
+      "summary": "Nishijinori weaving style from Japan's ancient capital of Kyoto is incorporating artificial intelligence to modernize the traditional craft.",
+      "source": "ABC News",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:42:32Z",
+      "url": "https://abcnews.go.com/Technology/wireStory/tradition-meets-ai-nishijinori-weaving-style-japans-ancient-124061289"
+    },
+    {
+      "id": 59,
+      "title": "Grandfather Living in U.S. for 28 Years Says ICE Agents Broke His Ankle",
+      "summary": "An immigrant living in the U.S. for 28 years alleges that ICE agents broke his ankle during an arrest, raising concerns about mistreatment of individuals in federal custody.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:42:22Z",
+      "url": "https://biztoc.com/x/275c5b08c3587050"
+    },
+    {
+      "id": 60,
+      "title": "Sam Altman Rejects Peter Thiel's 'Dark Lord' Image Amid Palantir Surveillance Report, Warns Against AI Misuse By Government",
+      "summary": "OpenAI CEO Sam Altman defends Peter Thiel and warns against misuse of AI by government, highlighting the importance of ethical considerations in AI development.",
+      "source": "Biztoc.com",
+      "category": "ethics",
+      "timestamp": "2025-07-25T09:41:55Z",
+      "url": "https://biztoc.com/x/01657bf9b6ab94ef"
+    },
+    {
+      "id": 61,
+      "title": "Lately: The viral Coldplay kiss-cam, anti-sunscreen misinformation and an AI app for diabetics",
+      "summary": "The AI app for diabetics featured in Lately, a tech newsletter, is an example of AI application in the healthcare sector.",
+      "source": "Biztoc.com",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:41:53Z",
+      "url": "https://biztoc.com/x/aec6ce203724d646"
+    },
+    {
+      "id": 62,
+      "title": "BME690 8x shuttle board features eight identical 4-in-1 gas and air quality sensors",
+      "summary": "Bosch Sensortech's BME690 8x shuttle board features eight identical 4-in-1 gas and air quality sensors, offering a new innovative solution for sensor technology.",
+      "source": "CNX Software",
+      "category": "innovation",
+      "timestamp": "2025-07-25T09:41:31Z",
+      "url": "https://www.cnx-software.com/2025/07/25/bme690-8x-shuttle-board-features-eight-identical-4-in-1-gas-and-air-quality-sensors/"
+    },
+    {
+      "id": 63,
+      "title": "aider-code 0.1.1.post3",
+      "summary": "The AI tool aider-code 0.1.1.post3 by Devflux Aider offers AI pair programming capabilities in the terminal.",
+      "source": "Pypi.org",
+      "category": "applications",
+      "timestamp": "2025-07-25T09:41:14Z",
+      "url": "https://pypi.org/project/aider-code/0.1.1.post3/"
+    },
     {
       "id": 51,
       "title": "Muck Rack analysis of 1M+ citations by Gen AI models; journalistic content was cited 27% of the time, rising to 49% for queries implying \"a level of recency\" (Andrew Deck/Nieman Lab)",
@@ -333,123 +450,6 @@
       "category": "innovation",
       "timestamp": "2025-07-25T09:05:06Z",
       "url": "https://economictimes.indiatimes.com/industry/banking/finance/disrupting-credit-accumns-aniket-shah-talks-about-how-smart-underwriting-is-reshaping-retail-lending/articleshow/122901220.cms"
-    },
-    {
-      "id": 69,
-      "title": "Surprising insights",
-      "summary": "Surprising insights - People like that, like this. When we can build connections between demographics and psychographics, it’s easier to surprise, delight and serve our customers.",
-      "source": "Seths.blog",
-      "category": "innovation",
-      "timestamp": "2025-07-25T09:03:00Z",
-      "url": "https://seths.blog/2025/07/surprising-insights/"
-    },
-    {
-      "id": 51,
-      "title": "Shiv Tandav Stotram Celebrates The Cosmic Dance",
-      "summary": "The news discusses the historical and mythological background of the Shiv Tandav Stotram, a hymn praising Shiv's cosmic dance, attributed to Ravan. It highlights the ethical implications of Ravan's actions and the moral lessons derived from the legend.",
-      "source": "The Times of India",
-      "category": "ethics",
-      "timestamp": "2025-07-25T08:44:57Z",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/shiv-tandav-stotram-celebrates-the-cosmic-dance/articleshow/122901149.cms"
-    },
-    {
-      "id": 52,
-      "title": "Realme 15 Pro And Samsung Galaxy A56 Comparison: Which Is Better?",
-      "summary": "The Realme 15 Pro has launched in India with advanced processor, camera system, big battery, and AI capabilities, aiming to challenge the Samsung Galaxy A56 with its lower price point and specs.",
-      "source": "Ndtvprofit.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:44:26Z",
-      "url": "https://www.ndtvprofit.com/technology/realme-15-pro-and-samsung-galaxy-a56-comparison-of-price-specs-features-camera"
-    },
-    {
-      "id": 53,
-      "title": "Experts debate how to create a more humane AI—and save it from the ‘Silicon Valley tech bros’",
-      "summary": "Experts discuss creating more humane AI and preventing dominance by Silicon Valley tech bros, emphasizing the need for industry and academia to take the lead.",
-      "source": "Fortune",
-      "category": "ethics",
-      "timestamp": "2025-07-25T08:44:25Z",
-      "url": "https://fortune.com/asia/2025/07/25/silicon-valley-tech-bros-academia-brainstorm-ai-singapore/"
-    },
-    {
-      "id": 54,
-      "title": "Prime Minister meets Prime Minister of the United Kingdom (July 24, 2025)",
-      "summary": "Prime Minister of India meets with Prime Minister of the United Kingdom to discuss collaboration on AI technologies.",
-      "source": "Globalsecurity.org",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:43:55Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-250724-india-mea01.htm"
-    },
-    {
-      "id": 55,
-      "title": "PraisonAI 2.2.76",
-      "summary": "PraisonAI 2.2.76 is an AI Agents Framework with Self Reflection that combines different tools to build and manage multi-agent LLM systems efficiently.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:43:21Z",
-      "url": "https://pypi.org/project/praisonai/2.2.76/"
-    },
-    {
-      "id": 56,
-      "title": "Astera Labs, Inc. (NASDAQ:ALAB) Director Manuel Alba Sells 13,259 Shares",
-      "summary": "Astera Labs, Inc. (NASDAQ:ALAB) Director Manuel Alba sold 13,259 shares of the business’s stock in a transaction totaling $1,471,749.00.",
-      "source": "ETF Daily News",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:42:53Z",
-      "url": "https://www.etfdailynews.com/2025/07/25/astera-labs-inc-nasdaqalab-director-manuel-alba-sells-13259-shares/"
-    },
-    {
-      "id": 57,
-      "title": "valyu 2.0.2",
-      "summary": "valyu 2.0.2 is a Deepsearch API for AI that provides advanced capabilities for artificial intelligence applications.",
-      "source": "Pypi.org",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:41:31Z",
-      "url": "https://pypi.org/project/valyu/2.0.2/"
-    },
-    {
-      "id": 58,
-      "title": "NSBT and Findability Sciences launch Integrated AI Lab",
-      "summary": "NSBT and Findability Sciences have partnered to establish an AI Lab in Chhatrapati Sambhaji, focusing on research and development in the field of artificial intelligence.",
-      "source": "The Times of India",
-      "category": "innovation",
-      "timestamp": "2025-07-25T08:41:06Z",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nsbt-and-findability-sciences-launch-integrated-ai-lab/articleshow/122901081.cms"
-    },
-    {
-      "id": 59,
-      "title": "Albanese Government backs Australian defence industry and local jobs with $170 million grant program",
-      "summary": "Albanese Government backs Australian defence industry and local jobs with $170 million grant program by awarding 40 grants to support Australian businesses.",
-      "source": "Globalsecurity.org",
-      "category": "economy",
-      "timestamp": "2025-07-25T08:40:06Z",
-      "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-250725-audod01.htm"
-    },
-    {
-      "id": 60,
-      "title": "AI コールセンター「コルサポ」β2.0 参加企業募集開始",
-      "summary": "Beta 2.0 of AI call center 'Corsapo' is now seeking participating companies to join, as announced by Exatech Co., Ltd.",
-      "source": "Prtimes.jp",
-      "category": "startups",
-      "timestamp": "2025-07-25T08:40:02Z",
-      "url": "https://prtimes.jp/main/html/rd/p/000000020.000128445.html"
-    },
-    {
-      "id": 61,
-      "title": "praisonaiagents 0.0.149",
-      "summary": "praisonaiagents 0.0.149 introduces Praison AI agents for completing complex tasks with Self Reflection Agents.",
-      "source": "Pypi.org",
-      "category": "research",
-      "timestamp": "2025-07-25T08:39:54Z",
-      "url": "https://pypi.org/project/praisonaiagents/0.0.149/"
-    },
-    {
-      "id": 62,
-      "title": "Gemini Mobile App Can Now Play Audio Overviews Natively",
-      "summary": "Gemini mobile app now allows users to play Audio Overviews natively, a feature first introduced in NotebookLM and later added to Gemini earlier this year.",
-      "source": "Gadgets360.com",
-      "category": "applications",
-      "timestamp": "2025-07-25T08:39:31Z",
-      "url": "https://www.gadgets360.com/ai/news/google-gemini-mobile-app-audio-overviews-media-player-feature-rolling-out-8947599"
     }
   ]
 }
